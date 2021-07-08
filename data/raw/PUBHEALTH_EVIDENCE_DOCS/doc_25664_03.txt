@@ -1,0 +1,80 @@
+¥ The terminal event  (e.g., cardiac arrest or respiratory arrest) should not be used.  If a mechanism of death seems most appropriate to you for Line a, then you 
+must always list its cause(s) on the line(s) below it (e.g., cardiac arrest 
+due to coronary artery atherosclerosis 
+orcardiac arrest due to blunt impact to chest). 
+¥ If an organ system failure such as congestive heart failure, hepatic failure, renal failure, or respiratory failure is listed as a cause of death, always report its 
+etiology on the line(s) beneath it (e.g., renal failure 
+due to Type I diabetes mellitus). 
+¥ When indicating neoplasms as a cause of death, include the following: 1) primary site 
+or that the primary site is unknown, 2) benign or malignant, 3) cell type 
+or that the cell type is unknown, 4) grade of neoplasm, and 5) part or lobe of organ affected. Example: a primary well-differentiated squamous cell carcinoma, lung, 
+left upper lobe. 
+Part II (Other significant conditions) 
+¥ Enter all diseases or conditions contributing to death that were not reported in the chain of events in Part I and that did not result in the 
+underlying cause of 
+death.  See examples. 
+¥ If two or more possible sequences resulted in death, or if two conditions seem to have added together, report in Part I the one that, in your opinion, most directly 
+caused death.  Report in Part II the other conditions or diseases. 
+CHANGES TO CAUSE OF DEATH 
+If additional medical information or autopsy findings become available that would change the cause of death originally reported, the original death certificate should 
+be amended by the certifying physician by 
+immediately
+ reporting the revised cause of death to the State Vital Records Office. 
+ITEMS 33 and 34 - AUTOPSY 
+¥ 33 - Enter ÒYes
+Ó if either a partial or full autopsy was performed. Otherwise enter 
+ÒNo.
+Ó ¥ 34 - Enter ÒYes
+Ó if autopsy findings were available to complete the cause of death; otherwise enter 
+ÒNo.
+Ó  Leave item blank if no autopsy was performed. 
+ITEM 35 - DID TOBACCO USE CONTRIBUTE TO DEATH? 
+Check 
+ÒYes
+Ó if, in your opinion, the use of tobacco contributed to death. Tobacco use may contribute to deaths due to a wide variety of diseases; for example, 
+tobacco use contributes to many deaths due to emphysema or lung cancer and some heart disease and cancers of the head and neck.  Check 
+ÒNoÓ if, in your 
+clinical judgment, tobacco use did not contribute to this particular death. 
+ITEM 36 - IF FEMALE, WAS DECEDENT PREGNANT AT TIME OF DEATH OR WITHIN PAST YEAR? 
+If the decedent is a female, check the appropriate box.  If the female is either too old or too young to be fecund, check the 
+ÒNot pregnant within past year
+Ó box. If the decedent is 
+a male, leave the item blank. This information is important in determining pregnancy-related mortality. 
+ITEM 37 - MANNER OF DEATH 
+¥ Always check Manner of Death, which is important: 1) in determining accurate causes of death, 2) in processing insurance claims, and 3) in statistical studies of injuries and death. 
+¥ Indicate ÒCould not be determined
+Ó ONLY
+ when it is impossible to determine the manner of death. 
+
+˘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(
+(
+(
+
+
+
+
+
+
+REFERENCES For more information on how to complete the medical certification section of the death certificate, refer to tutorial at 
+http://www.TheNAME.org
+ and resources including instructions and handbooks available by request from NCHS, Room 7318, 3311 Toledo Road, Hyattsville, Maryland 20782 or at 
+www.cdc.gov/nchs/about/major/dvs/handbk.htm. 
+

@@ -1,0 +1,349 @@
+Crime Prevention Research Center   Research Data About/Board of Academic Advisors Op-eds Contact/Press Donate                                Featured UPDATED: Mass Public Shootings keep occurring in Gun-Free Zones: 94% of attacks since 1950   15 Jun , 2018   						 									    		 		    				    		 						     UPDATED on July 6th, 2019: Original title: “More misleading information from Bloomberg’s Everytown for Gun Safety on guns: ‘Analysis of Recent Mass Shootings,’ Showing how mass public shootings keep occurring in gun-free zones”  Originally posted on September 9, 2014.
+ While the first part of the discussion here goes through each mass public shooting from 2009 to 2014 discussed in the Bloomberg report.
+ At the end of the post, we have a response to Everytown’s response to our post.
+ We have since updated our information up through May 30, 2018.
+ Data on cases   An Excel spreadsheet that lists all the mass public shootings from 1998 through April 30, 2018 is available here: Case by case discussion of which cases have been in gun-free zones.
+ UPDATED: Broader and updated information on these shootings from 1998 to June 2019 is available here.
+ The report by Bill Landes at the University of Chicago and John Lott on gun-free zones that covers earlier years from 1977 to 1999 is available here (the raw data used in this study is available in a STATA file, though the sums by state and year are available here).
+ We used the cases identified by the New York Times that are discussed in Lott and Landes for years prior to 1977 (series is discussed here, though the web version doesn’t have the chart that lists out each case).
+ A case by case discussion on the New York Times cases can be found at the bottom of this page.
+ Definition of mass public shooting.
+ We used the traditional FBI definition of mass public shootings in all our posts on this (e.g., here, here, and here).
+ There are several parts to this definition.
+ The official FBI definition of public shootings (both mass public shootings and active public shootings) excludes “shootings that resulted from gang or drug violence” or that occurred in the commission of another crime such as robbery.
+ The reason for this is pretty obvious: the causes and solutions for gang shootings over drug turf are dramatically different than the types of mass public shootings that we see at schools and malls where the point of the attack is to kill as many people as possible.
+ The FBI also includes only shootings in “public places” such as: commercial areas (malls, stores, and other businesses); schools and colleges; open spaces; government properties (including military bases and civilian offices); houses of worship; and healthcare facilities.
+ The reason for this is clear: for example, if the attack is in a home, the attacker is much more likely to know if a gun is owned in the home and who might have access to it.
+ By contrast, when an attack occurs in a public place, the attackers don’t know who they have to be concerned might have a gun to stop them.
+ [Residences were included in the FBI’s total deaths only “where casualties occurred inside a private residence before a shooter moved to a public area, those incidents were categorized at the location where the public was more at risk.” For example, their cases would involve a residence and then a school.]
+ This also has been the breakdown of data in academic studies (see point 3).
+ From 1980 to 2013, the original FBI definition of “mass killings” had been “four or more victims slain, in one event, in one location,” “within one event, in at least one or more public locations, such as, a workplace, school,” and the offender is not included in the victim count (CRS, July 30, 2015).
+ In 2013, the definition was changed to “three or more killings.”  The vast majority of academics have continued to use the four or more definition.
+ This includes researchers such as James Alan Fox.
+ See also studies years ago such as Grant Duwe, Tom Kovandzic, and Carl Moody, “The Impact of Right-to-Carry Concealed Firearm Laws on Mass Public Shootings,” Homicide Studies, Nov. 1, 2002.
+ Adam Lankford, “Public Mass Shooters and Firearms: A Cross-National Study of 171 Countries,” Violence and Victims, January 2016.
+ Lott and Landes, 2001 and John Lott, “More Guns, Less Crime,” University of Chicago Press, 3rd edition, 2010.
+ Even groups such as Bloomberg’s Everytown, which Snopes cites approvingly, have recently used the four or more definition.
+ The other organization that Snopes cites approvingly, Mother Jones, also has used the four or more definition for most of the period and has only recently well after we did this report started using the three or more definition.
+ These points were also originally used in the 1999 and 2001 versions of research on mass public shootings by William Landes and John Lott.
+ Of course, it is hard to ignore the statements from some of these killers about why they pick the targets that they do (more details on this in Lott’s book available here).
+ Gun-free zones are defined as places where general citizens couldn’t carry guns.
+ — Places where only police or military police are classified as gun-free zones.
+ Stationing a uniformed police officer or security guard in a public area often only gives a false sense of security.
+ Knowing that the uniformed officer is the only person with a gun makes things quite simple for attackers.
+ They need only kill him first.
+ It is the equivalent of having them with a neon sign saying “shoot me first.” The media fact checkers seem unwilling to accept is that concealed handgun permit holders take away that strategic advantage from the killers.
+ — Places, where it is illegal to carry a permitted concealed handgun, are classified as gun-free zones.
+ Depending on the state bans on carrying in certain areas.
+ — Places that are posted as not allowing permitted concealed handgun.
+ A few examples:   Waffle House shooting 2018   Cascade Mall 2016 Lafayette, Louisiana Movie Theater Shooting 2015    Aurora Movie Theater shooting 2012      —  Places where by law permit holders were banned.
+ A few  examples:    Chattanooga Marine Recruiting Office July 2015 Fort Hood Shootings 2009 and 2014 Pulse Nightclub June 2016 Borderline Bar &amp; Grill in Thousand Oaks, California November 2018 The many school shootings keep on occurring in those schools where permitted concealed handguns are banned (e.g., Parkland 2018, Sante Fe 2018)    — Places where general citizens are not allowed to obtain permits.
+ Permits are either not issued at all to citizens or to only a very tiny selective segment (so-called may issue laws), usually judges, prosecutors, deputy sheriffs or very wealthy individuals.
+ Compare to the 8.5% of adults outside of California and New York who have a concealed handgun permit.
+ In Alameda County, a may issue county, there were only 85 people with concealed handgun permits at the end of 2011 out of an adult population of 1.2 million, a rate of 0.007 percent.
+ Those with permits were mainly judges, prosecutors, and wealthy businessmen.
+ In September 2011, there were 240 permits in all of Los Angeles County when the population was about 7.6 million adults.
+ That equals a permit rate of 0.0032%.
+ Of the 240 permits, most go to judges and reserve deputies (who are big campaign donors).
+ Ten percent of permit holders are on Sheriff Lee Baca’s “gift list”  In addition, the attack was at a residential dwelling, not a public place.
+ In Orange County, a may issue county, there were only 551 people with concealed handgun permits out of an adult population of 2.26 million, a rate of 0.02 percent.
+ Those with permits were mainly judges, prosecutors, and wealthy businessmen.
+ ORIGINAL POST: Why does anyone pay attention to Bloomberg’s claims on guns?
+ Take their previous discussions on mass public shootings.
+ As we have previously pointed out, Bloomberg’s groups have made serious errors on the number (see also here) and trends of school shootings.
+ Well, that hasn’t stopped the media from sympathetically covering Everytown for Gun Safety’s recent report on mass shootings (see also here).
+ Everytown for Gun Safety’s recent report on mass shootings contains many errors.
+ In addition, it muddies the discussion on mass public shootings by including shootings in private homes along with ones in public places, and the vast majority of the cases they include are in private homes.
+ But there is a distinction between what motivates mass public shooters who are committing their crimes to get media attention and those who engage in attacks in private residences.
+ There are seven mass public shootings since at least 1950 that have not been part of some other crime where at least four people have been killed in an area where general civilians are allowed to have guns.
+ These are the International House of Pancakes (IHOP) restaurant in Carson City, Nevada on September 6, 2011, the Gabrielle Giffords shooting in Tucson, Arizona on January 8, 2011, [UPDATE] the Dallas shooting of police on July 7, 2016 that left five dead, [UPDATE] the Kalamazoo shooting on February 20, 2016 where four people died in one attack at a Cracker Barrel restaurant and two others in another one (while the Cracker Barrel restaurant didn’t ban guns, Uber does ban its drivers from carrying guns and the killer was on the job when he did the shootings and the shooting was done while he was in his car); Las Vegas shooting on October 1, 2017 that left 58 dead [UPDATE]; Melcroft, Pennsylvania attack that left four dead on January 28, 2018 [UPDATE]; and the First Baptist Church in tiny Sutherland Springs, Texas, on November 5th, 2017 claimed 26 lives [UPDATE].
+ With the new data through June 2019, there are now eight shootings in gun-free zones [UPDATE].
+ We had previously missed the Radisson Hotel killer on December 30, 1999.
+ Thus, while CPRC’s research and that by Landes and Lott looks at Mass public shootings focuses on the killings where the point of the attack is simply to kill as many people as possible, Bloomberg’s numbers overwhelmingly involve killings that have occurred within residences.
+ The FBI definition of mass public shootings excludes “shootings that resulted from gang or drug violence” or that were part of some other crime.
+ The FBI also defines “public” places as “includ[ing] commercial areas (divided into malls, businesses open to pedestrian traffic, and businesses closed to pedestrian traffic), educational environments (divided into schools [pre-kindergarten through 12th grade] and IHEs), open spaces, government properties (divided into military and other government properties), houses of worship, and health care facilities.” For almost thirty years, the FBI defined mass shootings as involving four or more people killed.
+ A complete discussion of the definition and the history of it is available here.
+ Here are some general points about how to classify mass public shootings that have occurred in gun-free zones.
+ 1) A lot of work is involved in obtaining information on whether the attacks occurred in gun-free zones.
+ This includes calling the businesses or other facilities involved.
+ But many times those organizations are uncooperative and in those cases much time is spent contacting individuals in the area of the attack and asking them if they can provide pictures or other information on the facilities.
+ Indeed, the media virtually always refuses to mention whether the attack occurred in a gun-free zone.
+ Unfortunately, Everytown for Gun Safety/Mayors Against Illegal Guns did not do this work, and they have also inaccurately stated, ignored, or simply missed facts that are readily available in news stories.
+ 2) What motivates mass public shootings where the killer is trying to kill or injure as many people as possible to get publicity is quite different from what motivates robbers or gang fights (see Lott and Landes).
+ The solutions to these two types of attacks are also vastly different.
+ The issue of gun-free zones is particularly important for mass public shootings.
+ 3) The word “public” is also key to these cases.
+ Shootings that occur in people’s homes will often involve killers who know if guns are owned in the home.
+ And if there is a gun in the home, the killer will know who has access to it.
+ The FBI also defines “public” places as “includ[ing] commercial areas (divided into malls, businesses open to pedestrian traffic, and businesses closed to pedestrian traffic), educational environments (divided into schools [pre-kindergarten through twelfth grade] and IHEs), open spaces, government properties (divided into military and other government properties), houses of worship, and healthcare facilities” (p. 12).
+ 4) There is also the distinction between right-to-carry and may-issue laws.
+ If virtually no one, especially general civilians, is allowed to get a concealed handgun permit as occurs in most may-issue jurisdictions, the area is essentially a gun-free zone.
+ Our past work has also collected information on which schools are gun-free zones and which ones are not.
+ Cases Bloomberg’s Everytown organization incorrectly reports as mass public shootings in gun-free zones The Bloomberg discussions are indented and put in block quotes.
+ After the quotes there is an explanation for why they shouldn’t be counted as mass public shootings.
+ The Bloomberg report doesn’t number these events, but we will assign numbers just to make them easier to reference.
+ 1) Terrell, TX, 10/28/13: The shooter shot and killed his mother, his aunt, two acquaintances, and a store clerk in a spree of attacks before he was captured by police.
+ He killed the first four victims in their respective homes and the final one — the clerk — at Ali’s Market on W. Moore Avenue, apparently in an attempt to rob the store.Shooter Name: Charles Everett Brownlow Jr.Gun details: UnknownAmmo details: UnknownGun acquired: UnknownProhibiting criteria: The shooter had a criminal record that prohibited him from possessing firearms.
+ He was convicted of burglarizing a vehicle in 1996, a Class A misdemeanor, and convicted of felony burglary in 1997.
+ In 2008 he was served a three-year sentence for unlawful possession of a firearm and in 2011 he was convicted of misdemeanor assault against a family member.Not a gun-free zone: The manager of the Ali’s Market reported that customer’s are allowed to carry firearms in the store.
+ FACTS: There was not a mass public shooting at Ali’s Market.
+ Only one person was killed at that store.
+ Permitted concealed handguns can deter many attacks from occurring and can limit the harm that does occur.
+ But permit holders aren’t expected to limit the harm for those attacks that do occur to zero.
+ Permitted concealed handguns deter mass shootings because they can limit the harm and take away the incentive that these killers obtain from their warped desire to get media attention.
+ 2) Washington, DC, 9/16/13: The alleged shooter, who was a civilian contractor and former non- combat military, killed twelve and wounded three more in an attack on Building 197 at the Navy Yard.Shooter Name: Aaron Alexis, 34Gun details: The shooter arrived with a shotgun and also obtained a handgun from one a security guardthat he killed.Ammo details: UnknownGun acquired: Two days before the incident the shooter passed a National Instant Criminal Background Check System (NICS) at the licensed gun dealer Sharpshooters in Lorton, VA, and purchased the shotgun.Prohibiting criteria: The shooter had been arrested at least three times including: in September 2010 in Fort Worth, Texas for shooting a firearm into a neighbor’s apartment; in August 2008 in Dekalb County, Georgia for disorderly conduct; and in 2004 in Seattle, Washington for shooting out the tires of another man’s vehicle.
+ But court records do not indicate he was convicted in any of these cases, and this record did not prohibit him from buying guns.
+ He had also received treatment for mental health conditions at two VA hospitals beginning in August, 2013 following an incident where he called Newport Rhode Island Policeto report hearing voices.
+ But these incidents did not rise to the level of prohibiting from buying guns.
+ And during his military service he was reportedly cited on at least eight occasions for misconduct ranging from traffic tickets and showing up late for work to insubordination, extended absences from work, and disor- derly conduct.
+ On account of this the Navy sought to offer him a “general discharge” but he was ultimately honorably discharged through the early-enlisted transition program in January 2011.Not a gun-free zone: There were armed guards at the Washington Navy Yard, and the shooter was familiar with the premises, so he did not select it as a target on the presumption he would not faced armed resistance.
+ In fact, the shooter reportedly used a gun that he took from a guard after killing him.
+ FACTS: Whether one is looking at the attacks at the Washington Navy Yard or Fort Hood, letting military police carry guns is much different than letting other soldiers protect themselves.
+ While military police tend to be at the entrances to military bases, they largely patrol the rest of the base in the same way that police patrol a city.
+ One no more expects military police to instantly arrive at the scene of a mass public shooting than one expects police to arrive at one.
+ In Alexis’ attack, since he worked at the Navy Yard, he knew what entrance to go to that would have only one guard and that is where he went.
+ For related discussions see here and here.
+ 3) Crab Orchard, TN, 9/11/13: The shooters killed a woman and three teenagers, apparently during an attempted robbery during a marijuana exchange.
+ The victims’ bodies were discovered in a car parked along the side of the road in the Renegade Mountain resort community near Crossville.Shooter Name: Jacob Allen Bennett, 26 and Brittany Lina Yvonn Moser, 25Gun details: HandgunAmmo details: UnknownGun acquired: UnknownProhibiting criteria: Bennett was prohibited from possessing firearms.
+ In 2010 he received a 6-year prison sentence for charges of theft, forgery, and possession of a handgun during a felony, but was paroled on March 4, 2013.
+ The Cumberland County sheriff’s office estimated they had previously arrested Bennett five times.Not a gun-free zone: We could find no evidence that permit holders were prohibited from carrying guns in this area.
+ In Tennessee, concealed weapons would be prohibited only if the county or municipality declared itself a gun-free zone.
+ FACTS: This shooting was part of another crime, a robbery of illegal marijuana (see point 2 in the introduction).
+ It was not a mass public shooting where the point of the crime was to kill as many people as possible so as to obtain media coverage.
+ 4) Herkimer, NY, 4/13/13: The shooter killed two people and critically wounded one at John’s Barber Shop and then killed two more people at Gaffey’s Fast Lube, a car care facility.
+ He was killed by responding officers.Shooter Name: Kurt Myers, 64Gun details: According to the police superintendent, Myers used a shotgun.
+ Additional guns and ammunition were found by emergency crews after Myers set fire to the apartment.Ammo details: UnknownGun acquired: UnknownProhibiting criteria: There is no reason to believe Myers was prohibited him from possessing a gun.
+ He was arrested in 1973 for drunk driving.Not a gun-free zone: Gaffey’s Fast Lube does not have a specific policy prohibiting guns and allows per- mit holders to carry concealed weapons on the premises.
+ John’s Barbershop did not reopen following the shooting but the owner of a neighboring business did not recall the barbershop having any explicit firearm policy or ban, which would have been required to prohibit customers from carrying guns on the premises.
+ FACTS: New York is a may issue state, not a right-to-carry state.
+ We don’t yet have the number of civilian concealed carry permits, but they seem to be extremely rare.
+ The possession of a handgun in New York State requires a NYS Pistol Permit.
+ In 2012 there were only 154 permits issued to own a pistol in Herkimer county.
+ Over the previous five years, there were 667 permits issued, though not all over those permits own a handgun would have been active at the beginning of 2013 (that implies that there were less than 1.39% of the adult population that even legally owns a handgun).
+ When talking to the pistol permit office, Lott was told that there were zero restricted licenses that allowed people to carry for business purposes (concealed carry licenses that allow a business owner to carry in the course of doing business) and zero restricted for self-defense purposes (e.g., a woman who is being actively stalked).
+ Report from February 2013: At this point, the Everytown for Gun Safety report mainly repeats cases previously discussed by Bloomberg’s Mayors Against Illegal Guns on MASS SHOOTING INCIDENTS, JANUARY 2009-JANUARY 2013.
+ An earlier report on the problems with their claims about the attacks not being in gun-free zones was never corrected.
+ Here is the analysis of these previous cases.
+ 5) Geneva County, AL, 3/10/09: The shooter killed ten, including four members of his family, before killing himself.
+ Shooter Name: Michael Kenneth McLendon, 28 Gun details: Bushmaster AR-15, SKS Rifle, Shotgun, and .38 Pistol Ammo details: Police recovered additional ammunition from his vehicle after the shooting.
+ Gun acquired: Unknown Prohibiting criteria: The shooter had no criminal record and there is no indication he was prohibited from owning a gun.
+ Not a gun-free zone: It was lawful to carry a firearm in the public intersection and gas station where two of the individuals were shot.
+ FACTS: Nine people were killed by McLendon.
+ In the first shooting in a house on Pullum Street, five people were killed.
+ There was also a second shooting in another home that left two people dead.
+ Neither were public places.
+ It is true that two individuals were killed in separate public places as McLendon was driving along, but that is not a multiple victim public shooting in which at least four are killed in a public place.
+ However, MAIG’s report implies that all these shootings occurred in a public places.
+ 6) Lakewood, WA, 11/29/09: The shooter killed four police officers in a Tacoma Coffee shop, eluding police for two days before being killed as he fled.
+ Shooter Name: Maurice Clemmons, 37 Gun details: When he was killed, he was in possession of the handgun of one of the officers he had killed.
+ Ammo details: Unknown Gun acquired: Unknown Prohibiting criteria: The shooter was prohibited from purchasing a firearm, having been charged with at least 13 felonies across two states.
+ He had posted bail for raping a child just six days before the attack.
+ Not a gun-free zone: The police officers were armed at the time of the shooting.
+ FACTS: Lott and Landes didn’t define gun-free zones in terms of whether police were allowed to carry guns, but whether private citizens are able to readily obtain concealed handguns for their protection.
+ What is important is that the coffee shop was posted to prevent concealed carry permit holders from carrying.
+ Presumably MAIG understood this point and that is the reason why they focused on police officers being able to carry in this venue.
+ Obviously, however, on-duty police can carry any place.
+ The problem for uniformed police is that they provide an easily identifiable target and it is easy to take them out.
+ Possibly if the attacker had to worry about permit holders who he could not identify, it would have dissuaded him from attacking.
+ While Lott had checked when this event originally occurred, he reconfirmed this information with Dave Workman who lived nearby via email on January 8, 2013.
+ 7) Carthage, NC, 3/29/09: The shooter opened fire at a nursing home where his estranged wife worked, killing eight and injuring three before he was shot and arrested by a police officer.
+ Shooter Name: Robert Stewart, 45 Gun details: .357 Magnum handgun and Winchester 1300 shotgun Ammo details: Unknown Gun acquired: The guns were acquired legally from a local sporting good store.
+ Prohibiting criteria: There is no indication the Stewart was prohibited from owning a gun.
+ Not a gun-free zone: We could find no indication that the property-owner forbid carrying of firearms on their property.
+ FACTS: This facility informed Lott in April 2009 that they did not allow guns in the facility for either the people living there or the staff.
+ He called up to ask what their policies had been before the attack.
+ Here are places listed by Bloomberg’s group that may have allowed people with permits to carry in places but that made it extremely difficult or impossible for civilians to get a concealed handgun permit.
+ 8) Boston, MA, 09/28/10: The shooter killed four and wounded one during a drug-related robbery.
+ Shooter Name: Edward Washington, 33, and Dwayne Moore, 35, were both charged in the killings.
+ Washington was acquitted.
+ In Moore’s first trial, the jury deadlocked 11-1 in favor of his guilt, but he was later convicted in a retrial.
+ Gun details: 40-caliber Iberia handgun and 9mm Cobray semiautomatic.
+ The Cobray has not been recovered, but the weapon was identified based on recovered bullets and shell casings.
+ Ammo details: 14 rounds fired Gun acquired: Unknown Prohibiting criteria: Unknown Not a gun free zone: A person with a Massachusetts Class A license could lawfully carry a firearm in this area.
+ 9) Buffalo, NY, 8/14/10: The shooter opened fire on a group of people outside a bar, killing four and wounding four others.
+ Shooter Name: Riccardo McCray, 24 Gun details: Unknown Ammo details: Unknown Gun acquired: Unknown Prohibiting criteria: McCray had been arrested earlier that year on felony drug charges and the previous year for having a loaded rifle in his car.
+ If he was found guilty of either crime, he would have been prohibited from possessing firearms.
+ Not a gun-free zone: We could find no indication that it was unlawful to carry a firearm in the area.
+ 10) Northridge, CA, 12/2/12: The shooter arrived at an unlicensed boarding house on Devonshire street, reportedly in search of his girlfriend, and after a dispute shot and killed four people out- side.
+ Shooter Name: Ka Pasasouk, 31 Gun details: semiautomatic handgun Ammo details: Unknown Gun acquired: Unknown Prohibiting criteria: The shooter was prohibited from possessing guns, having been convicted for car theft and felony robbery.
+ While on probation in September 2012, he was arrested again for possession of methamphetamine.
+ According to the district attorney, a prosecutor then released him on probation over the objection of probation officials, who believed he posed a threat to the safety of the community.
+ Not a gun-free zone: Permit holders were not prohibited from carrying guns in this area.
+ 11) East Oakland, CA, 3/21/09: The shooter used a semiautomatic handgun to kill two police of- ficers after they stopped his car and then fled on foot to an apartment where he killed two SWAT officers with an assault weapon and injured a third before being killed by police.
+ Shooter Name: Lovelle Mixon Gun details: 9mm semiautomatic handgun and SKS assault-style rifle Ammo details: Police said the assault weapon had a high-capacity magazine.
+ Gun acquired: The shooter took part in a home invasion robbery in Modesto, CA, on February 21 2009 in which a rifle was reported stolen.
+ Police did not comment on whether the stolen rifle was the one used in the shooting.
+ Prohibiting criteria: The shooter had a lengthy criminal history, including a conviction for armed battery, which would have prohibited him from possessing a gun, and he was on parole for assault with a deadly weapon at the time of the shootings.
+ All of the police officers killed in the incident were armed.
+ 12) Medford, NY, 6/9/11: The shooter killed four people at a pharmacy, Haven Drugs, and stole thousands of hydrocodone pills before fleeing in a vehicle.
+ During the trial he acknowledged that he and his wife were addicted to prescription medication.
+ Shooter Name: David Laffer Gun details: A .45 caliber handgun was used in the shooting.
+ Several other legally registered guns werealso recovered from the shooter’s home.
+ Ammo details: Unknown Gun acquired: Unknown Prohibiting criteria: The gun was legally registered to the shooter, and there is no evidence he was prohibited from possessing a gun.
+ But five months before the shooting, Suffolk County Detective Kenneth Ripp investigated an identity theft claim made by the shooter’s mother, who said the shooter had stolen her debit card.
+ After questioning the shooter and his mother, Ripp advised the Suffolk County Pistol License Bureau that the shooter was dangerous and that his guns should be confiscated.
+ Despite Ripp’s report, the guns were not removed.
+ Not a gun-free zone: We could find no evidence that Haven Drugs posted a sign or had a policy prohibit- ing the carrying of firearms.
+ Current employees declined to comment.
+ 13) Brockport, NY, 2/14/09: The shooter killed a nurse in the Lakeside Memorial Hospital parking lot and a motorist who intervened, and wounded the motorist’s girlfriend.
+ The shooter had been fired from the hospital after the nurse filed a sexual harassment complaint against him.
+ He then drove 50 miles and killed another nurse — who had filed a similar complaint against the shooter — and her husband in their home.
+ Shooter Name: Frank Garcia, 34 Gun details: .40 caliber Glock handgun Ammo details: Unknown Gun acquired: Unknown Prohibiting criteria: There is no evidence that the shooter was prohibited from owning a gun.
+ However, he had applied for concealed carry permits and been denied three times.
+ In his 1995 application, he omit- ted information about his criminal record — including arrests for criminal possession of a weapon, assault, and harassment.
+ In 2001 and 2006 he made further omissions, and was evaluated as lacking moral character.
+ But in 2007 a judge reversed the denial and granted Garcia a concealed weapon permit.
+ Not a gun-free zone: We found no indication that permit holders were prohibited from carrying guns in this area at the time of the incident.
+ FACTS: All these cities either forbid or make it incredibly difficult for law-abiding citizens to carry concealed handguns for protection.
+ In Boston, it is so bad that even off-duty and retired police are regularly denied unrestricted license to carry permits.
+ Northridge, CA is part of Los Angeles County, which refuses to issue permits to regular citizens.
+ In September 2011, there were 240 permits in all of Los Angeles County when the population was about 7.6 million adults.
+ That equals a permit rate of 0.0032%.
+ Of the 240 permits, most go to judges and reserve deputies (who are big campaign donors).
+ Ten percent of permit holders are on Sheriff Lee Baca’s “gift list”  In addition, the attack was at a residential dwelling, not a public place.
+ Similarly, East Oakland, California is part of Alameda County.
+ In 2010, Alameda County had granted concealed handgun permits to 75 people out of an 1,182,534 — a permit rate of 0.006%.
+ Just as with Herkimer, NY; Medford in Suffolk County, New York, and Brockport in Monroe County, New York were similarly very restrictive in issuing may issue permits.
+ In Suffolk County, the police and sheriff’s departments each handle permits in half of the permits for the county.
+ For the sheriff’s office, Robert E. Draffin (the Suffolk County Sheriff’s Freedom of information officer) informed us that were 569 sportsman permits (limited to carrying to or from a shooting range or to go hunting) and 79 business permits (where a business owner is allowed to carry only in the course of doing business).
+ For the police department, Inspector Derrocco (613-852-6000, ask for pistol permit department) noted the department “virtually never gives out permits for anything other than sportsman to carry to and from the range and for premises and dwellings.”  Given that there are about 1.2 million adults in Suffolk County, even assuming that the police department issued permits at the same rate as the sheriff’s office, this implies a permit rate of about 0.1 percent and virtually none of these permits would have allowed a concealed handgun to be carried in the pharmacy where the attack occurred.
+ In addition, it should be mentioned that Riccardo McCray was a gang member.
+ 14) Oak Creek, WI, 8/5/12: The shooter killed six people at a Sikh temple and injured three others, including a responding police officer, before killing himself.
+ Shooter Name: Wade Michael Page, 40 Gun details: 9mm semiautomatic handgun Ammo details: Page reportedly bought three 19-round magazines when he purchased the gun.
+ Gun acquired: Page acquired the gun at a local gun shop a week before the shooting.
+ Prohibiting criteria: Page was involved with the white supremacist movement but he does not appear to have been prohibited from purchasing a gun.
+ Federal officials investigated Page’s ties to supremacist groups more than once prior to the shooting, but did not collect enough evidence to open an investigation.
+ FACTS: From FoxNews.com: “No guns [were] allowed in the temple,” Kulbir Singh, an attendee of the Sikh Temple of Wisconsin, told FoxNews.com.
+ “Everyone knows that it’s not allowed, anywhere in the temple.”    15) Norcross, GA, 2/22/12: The shooter returned to a Korean spa from which he’d been kicked out after an altercation, where he shot and killed two of his sisters and their husbands before committing suicide.
+ Shooter Name: Jeong Soo Paek, 59 Gun details: .45 caliber handgun Ammo details: Unknown Gun acquired: Police reported that he acquired the gun legally.
+ Prohibiting criteria: Paek does not appear to have been prohibited, although he had allegedly served two months in jail for assaulting his sister six years earlier.
+ Not a gun-free zone: We could find no indication that the property owner forbade possession of a firearm on their property.
+ FACTS: Lott spoke the spa after the attack and was told that the killer knew “nobody there had a gun.”  It was a family establishment, and the killer knew the family’s policy on guns in the workplace.
+ The person at the spa indicated that they were sure that neither the sisters nor their husbands had guns at the spa and that the killer who was the brother of the women knew that was the case.
+ While the official policy at the spa isn’t clear because the conversation was very short, the important thing was that the killer knew that there were no guns for people to defend themselves there.
+ This was a small family owned establishment so it is most likely that this was the official policy of the family.
+ Note that they have the wrong date on this event.
+ (UPDATE: Mayors Against Illegal Guns originally claimed that this event occurred on February 22nd, but the event actually occurred on February 20, 2012.
+ After Lott wrote his analysis, they corrected the data but did not update their discussion of gun-free zones.)
+ Note also that the business has since closed.
+ 16) Hialeah, FL, 6/6/10: The shooter killed four women, including his wife — who had just separat- ed from him.
+ He injured three others before shooting and killing himself.
+ The shooting occurred in Yoyito-Cafe Restaurant, where the shooter’s wife was employed as a waitress, and in the park- ing lot immediately outside.
+ Shooter Name: Gerardo Regalado, 38 Gun details: .45 caliber handgun Ammo details: Unknown Gun acquired: The shooter had a concealed weapons permit.
+ Prohibiting criteria: There is no evidence that the shooter was prohibited from owning a gun.
+ However, relatives said the shooter had abused and terrorized women in the past, and had been imprisoned in Cuba for a particularly violent incident, but he did not have a criminal record in the United States.
+ Not a gun-free zone: We could find no indication that guns were prohibited in this area.
+ Guns are prohibited in Florida restaurants only in areas primarily devoted to the serving of alcohol.
+ FACTS: Strangely, while Bloomberg’s group mentions that the restaurants that get 50 percent of their revenue from alcohol, they didn’t actually go and check whether that was the case for this restaurant, which apparently was at the time a very popular venue for parties serving alcohol.
+ If Bloomberg’s group had checked, they would have found that it was a gun-free zone.
+ The organization of the bar in the center of the restaurant is also important for this determination.
+ 17) Washington, DC, 3/30/10: Three gunmen killed four and wounded five in retaliation for an-other murder.
+ Shooter Name: Nathaniel D. Simms, 26; Orlando Carter, 20, and unnamed 14-year-old juvenile Gun details: An AK-47 assault rifle and 9mm and .45-caliber handguns Ammo details: Unknown Gun acquired: Unknown Prohibiting criteria: The adults were reported to have lengthy criminal histories, which prohibited them from purchasing guns, and the 14-year-old was too young to purchase or own a gun.
+ FACTS: This is one case where Bloomberg’s Everytown doesn’t include this as a place that allows guns (obviously DC completely bans the carrying of concealed handguns), we include it here simply as an example of one of the many cases where they are including what are pretty obviously a drive-by gang shootings.
+ Even the DC police chief, Cathy Lanier, indicated that it was a “gang retaliation.”  The AK-47 was used to spray bullets into a group in another gang’s territory in retaliation for another murder.
+ We are focused on cases identified by Everytown as occurring in gun-free zones, but gang shootings, while  are obviously quite different from the types of mass public shootings that garner national attention.
+ 18) Mount Airy, NC, 11/1/09: The shooter killed four people outside a television store before eventually surrendering to the police.
+ Shooter Name: Marcos Chavez Gonzalez, 29 Gun details: Assault rifle Ammo details: Unknown Gun acquired: Unknown Not a gun-free zone: It was lawful to carry a firearm in the area of the shooting.
+ FACTS: Indications are that the attack was part of gang related crime.
+ As explained above, that would exclude it from the mass public shootings done specifically to harm people as distinct from other types of violent crime.
+ Other recent cases pointed to by gun control advocates  1) Waco Texas, May 18, 2015: biker brawl, nine killed.
+ FACTS: This was a fight between two gangs, the Bandidos and Cossacks motorcycle gangs, that were involved in an array of operations such as selling drugs.
+ 2) San Francisco, January 12, 2015: four were killed in a stolen parked car.
+ FACTS: In 2015 there were just four concealed handgun permits issued in all of San Francisco County.
+ One of them was issued to the personal lawyer of the then county Sheriff.
+ Three others were to judges.
+ In any case, that is a rate of 0.00053% of the adult population.
+ In addition, the four people who were shot were in a stolen car and members of a gang.
+ Media discussions noted that it might also have been a fight between rival drug gangs.
+ “It is not clear whether the gang is involved in these killings.“  3) Palestine Texas, November 16, 2015: 6 killed on a residential property   FACTS: “Four males initially thought missing were found dead Monday afternoon in a pond on Hudson’s property.”   4) Houston Texas, August 10, 2015: 8 killed in a residential property  FACTS: “A suspect in the killing of eight people in Texas broke into their house and handcuffed the victims in their bedrooms — then shot them, authorities said.“     5) Bulington, Washington, September 23, 2016: mall shooting  Facts: All the entrances to the mall had gun-free zone signs posted.
+ 6) Orlando, Florida, June 5, 2017: 5 killed at office  FACTS: “five people [were] killed by a former disgruntled employee (John Robert Neumann, Jr.) at Fiamma before he turned the gun on himself.”  We talked to Fiamma Inc on September 6, 2017 and we were informed that employees were banned from having guns at the facility, where RV awnings are manufactured.
+ More detailed information on other cases    There are a few other cases that we have collected that we will link to here.
+ 4  killed, 3 injured in Tennessee Waffle House shooting4 killed, 3 injured in Tennessee Waffle House shooting — April 22, 2018, Waffle Houses have a strict no gun policy.
+ Orlando business shooting, June 5, 2017, A gunman fatally shot five of his former coworkers then killed himself during a mass shooting at Fiamma, an Orange County business, Monday morning, according to sheriff’s officials.
+ Called business and was told that this business didn’t allow employees to have weapons there.
+ Yet another mall shooting where guns were banned: Monroeville Mall near Pittsburgh, February 8, 2015 The Melbourne Square Mall in Florida is yet another gun-free zone, January 17, 2015 Seattle Pacific University shooting took place in yet another gun-free zone, June 5, 2014 6 killed, seven wounded in Mass Public Shooting in Santa Barbara, a giant gun-free zone, May 24, 2014 Mass shooting yesterday at FedEx facility in Kennesaw Georgia took place in yet another “gun-free zone”, April 30, 2014 Maryland Mall Shooting at yet another gun free zone, January 25, 2014 At a tribal court hearing over an eviction of Cherie Lash Rhodes, Alturas, California (February 20, 2014).
+ The Azana Salon &amp; Spa shooting in Milwaukee, Wisconsin (November, 2012).
+ Accent Signage Systems in Minneapolis, Minnesota on September 27, 2012.
+ Talked to Joe Bailey who has worked at the comapny since 2007 and he informed us that the factory did not allow permitted concealed handguns there before or after the attack.
+ Aurora, Colorado movie theater shooting (July, 2012).
+ The Cinemark movie theater chain posted signs at their theaters (See here).
+ Cafe Racer, Seattle, Washington, four killed at restaurant (May 30, 2012).
+ Another shooting in a another gun free zone: Binghamton, NY(April, 2009).
+ Atlantis Plastics, Inc shooting on June 25, 2008 left 5 murdered at a factory in Henderson, Kentucky (see here).
+ Trolley Square Mall in Utah (February, 2007).
+ Omaha, Nebraska mall shooting (December 2007).
+ John Lott has about 327 postings on gun-free zones available here.
+ The relevant 1950 to 1976 time period for the NYT List:  YEAR NAME AGE KILLED HURT  2 ’66 Charles J. Whitman 25  16  31 — Concealed carry completely banned, guns kept off campus 3 ’66 Robert B. Smith 18  5  2 — Concealed carry completely banned 4 ’67 Leo Held 40  6 6 — No right to carry concealed handguns, very few permits issued, at plant that banned guns 5 ’72 Edwin J.
+ Grace 33 6 6 — No right to carry concealed handguns, very few permits issued in New Jersey 6 ’74 Anthony Barbaro 17 3  9 — fewer than 4 killed, New York with no right-to-carry law 7 ’76 Robert D. Patty 43  3  2  — fewer than 4 killed 8 ’76 Charles E. Allaway 37 7 2  — No right to carry concealed handguns, very few permits issued in Orange County, California, Cal-State University shooting    For those who object to the New York Times list of mass public shootings, the very beginning of this post also shows a graphic for the last twenty years and the rate of shootings in gun-free zones is also high.
+ Given that very few states had right-to-carry laws prior to 1977, to the extent that the New York Times missed attacks, our numbers will likely underestimate the rate of attacks in gun-free zones.
+ UPDATE: Everytown provides a response to our post here.
+ Regarding the count of whether mass public shootings occurred in gun-free zones, Everytown brings up a total of four cases.
+ — Two of the four cases that they raise were cases that we agree with and clearly listed as cases where a shooting had occurred where general citizens were able to have guns: The IHOP shooting in Carson City and the Tucson, AZ shooting with Giffords.
+ — On the Oak Creek case note what we pointed out above that Everytown didn’t respond to (from Fox News):“No guns [were] allowed in the temple,” Kulbir Singh, an attendee of the Sikh Temple of Wisconsin, told FoxNews.com.
+ “Everyone knows that it’s not allowed, anywhere in the temple.”  — On the Herkimer county case, note what we pointed out above that Everytown didn’t respond to: there were zero restricted licenses that allowed people to carry for business purposes (concealed carry licenses that allow a business owner to carry in the course of doing business) and zero restricted for self defense purposes (e.g., a woman who is being actively stalked).
+ Even less than 1.4% of the adult population even owns a handgun in the country.
+ A license to own a handgun is not the same being able to carry it.
+ Why ignore our points in writing up their responses?
+ If Everytown had responses, you would think that they would provide them.
+ William Hudson’s rampage that claimed six lives at the Tennessee Colony campsite — This attack occurred while people were on their own private property (see here for a discussion).
+ Christopher Harper-Mercer’s shooting spree that claimed nine lives at Umpqua Community College in Roseburg, Oregon — See here for a discussion.
+ Syed Rizwan Farook and Tashfeen Malik’s attack that claimed fourteen lives at a holiday party being held at the Inland Regional Center in San Bernardino, California — given that this occurred in a government workplace in California, there is little question that this was a gun-free zone.
+ Biker gang fight in Texas May 2015.
+ Gang fight doesn’t meet FBI criteria.
+ See also […] Reply      South Carolina already regulated guns in church.
+ So how will more gun control help, Mr. President?
+ | The Save Jersey Blog says:   			June 18, 2015 at 6:01 PM				  […] that working out?
+ Mass shooting almost always occur in gun control environments.
+ You don’t even need to visit South Carolina for proof of this ideology’s failure.
+ Ask […] Reply       Richard Stickles says:   			June 18, 2015 at 8:59 PM				  I’m sorry, but you must add Luby’s Cafeteria shooting in Kileen, TX in 1991 as another non gun-free zone shooting.
+ And I’m sure there are more.
+ I wish your article was verified as correct, but without including the deadliest non-school shooting in the USA, how can I trust what you have written here?
+ Make no mistake, I carry everywhere or I don’t go and am an avid and active 2A supporter.
+ But printing half-truths is no better than a complete lie.
+ Please correct your article.
+ Thank you.
+ Reply       Richard Stickles says:   			June 18, 2015 at 9:39 PM				  My apologies.
+ I just re-read the statement and did some further digging.
+ In 1991 TX did not allow concealed carry anywhere, thus technically speaking eliminating it from your data.
+ Feel free to delete my comments.
+ Reply       Garry says:   			October 25, 2015 at 3:28 PM				  As a matter of fact, that Luby’s incident was instrumental in getting the concealed carry permits legislation passed in Texas by testimony of one of the people whom had their mother and father killed at that restaurant while she was forced to keep her gun left outside in her glove compartment instead of in her purse.
+ Reply         KemW says:   			August 9, 2015 at 7:56 PM				  As Richard said :1991 TX did not allow concealed carry anywhere so Please correct your post.
+ Thank you.
+ Reply       johnrlott says:   			August 9, 2015 at 9:18 PM				  Thanks, KemW, but I see no reference to Texas in 1991 in the post.
+ There is a reference to Texas in 2010.
+ Am I missing something?
+ Reply         Eduardo T says:   			November 20, 2018 at 6:19 PM				  Luby’s is also famous because a Texas gun owner could not carry her weapon inside.
+ Suzanna Hupp famously lamented having to leave her gun in her car.
+ Therefore, if anything, Luby’s WAS a gun free zone because Texas had no CCW law thanks to Ann Richards.
+ Reply        A gun-free zone is an attractive nuisance - TeeJaw Blog says:   			June 19, 2015 at 11:59 AM				  […] after time, we see that these killers tell us they pick soft targets.
+ With just two exceptions, from at least 1950, all the mass public shootings have occurred in these gun-free zones.
+ From last […] Reply      No, Gun Free Zones Aren’t.
+ They Are Free-Fire Zones, Though | Daily Pundit says:   			June 19, 2015 at 1:26 PM				  […] after time, we see that these killers tell us they pick soft targets.
+ With just two exceptions, from at least 1950, all the mass public shootings have occurred in these gun-free zones.
+ From last […] Reply      Episode 45 | Gun Blog Variety Cast says:   			June 28, 2015 at 8:01 PM				  […] More misleading information from Bloomberg’s Everytown for Gun Safety on guns: “Analysis of Recent Mass Shootings,” Showing how mass public shootings keep occurring in gun-free zones – https://crimeresearch.org/2014/09/more-misleading-information-from-bloombergs-everyto&#8230; […] Reply       Nanjing03 says:   			July 2, 2015 at 1:33 AM				  According to the Department of Justice’s own National Institute of Justice /Bureau of Justice Statistics, and the FBI Uniform Crime Report, there are fewer and declining violent crimes and fewer and declining gun accidents when and where there are fewer firearm restrictions and more law abiding citizens who are armed at home and in public.
+ That as been the happy trend since 1993 when concealed carry provisions accelerated across the country on a state-by-state basis.
+ Why would we want to return to the days of higher violent crime and the worthless gun control laws that accompanied it?
+ Reply      Top 10 Misleading Obama Statements After Oregon Shooting That Was Praised by ISIS as an Act of Jihad | H2o Positivo says:   			October 3, 2015 at 3:10 PM				  […] only exception was the Tucson shooting — which, as referenced above, was one of only two public mass shootings (dating back to 1950) that did not occur in a gun free […] Reply      Top Ten Misstatements Made by Obama in His Response to Oregon Shooting - Bulletin's Live says:   			October 5, 2015 at 9:30 AM				  […] only exception was the Tucson shooting — which, as referenced above, was one of only two public mass shootings (dating back to 1950) that did not occur in a gun free […] Reply      Why Hillary Clinton’s gun control proposal is all wrong | News says:   			October 5, 2015 at 1:17 PM				  […] of potentially stopping these crimes.
+ The Umpqua Community College in Oregon shooting shows yet another case where guns were banned.
+ With these killers explicitly picking places where victims are […] Reply      Why Hillary Clinton’s gun control proposal is all wrong | Give Me Liberty says:   			October 6, 2015 at 4:00 PM				  […] of potentially stopping these crimes.
+ The Umpqua Community College in Oregon shooting shows yetanother case where guns were banned.
+ With these killers explicitlypicking places where victims are […] Reply      Gun Control is NOT Love Mr. Obama says:   			October 7, 2015 at 6:50 AM				  […] PROHIBITED from carrying firearms.
+ The only exception was the Tucson shooting — which was one of only two public mass shootings (dating back to 1950) that did not occur in a gun-free […] Reply      Gun Control Is NOT Love, Mr. Obama | Stand For Faith says:   			October 7, 2015 at 12:30 PM				  […] PROHIBITED from carrying firearms.
+ The only exception was the Tucson shooting — which was one of only two public mass shootings (dating back to 1950) that did not occur in a gun-free […] Reply      A Look at the Facts on Gun-Free Zones… | Freedom Is Just Another Word… says:   			October 21, 2015 at 4:00 PM				  […] at least 1950, all but two public mass shootings in America have taken place where general citizens are banned from carrying guns.
+ In Europe, there have been no exceptions.
+ Every mass public shooting — and there have been […] Reply      Lott: A Look at the Facts on Gun-Free Zones | Jack's Newswatch says:   			October 22, 2015 at 5:28 AM				  […] at least 1950, all but two public mass shootings in America have taken place where general citizens are banned from carrying guns.
+ In Europe, there have been no exceptions.
+ Every mass public shooting — and […] Reply      Gun Grabbers Ignore Facts on Gun Free Zones » Sons of Liberty Media says:   			October 24, 2015 at 3:48 PM				  […] at least 1950, all but two public mass shootings in America have taken place where general citizens are banned from carrying guns.
+ In Europe, there have been no exceptions.
+ Every mass public shooting — and there have been plenty […] Reply      Gun Grabbers Ignore Facts on Gun Free Zones - Guns in the News says:   			October 24, 2015 at 3:50 PM				  […] at least 1950, all but two public mass shootings in America have taken place where general citizens are banned from carrying guns.
+ In Europe, there have been no exceptions.
+ Every mass public shooting — and there have been plenty […] Reply      Gun Grabbers Ignore Facts on Gun Free Zones - Bulletin's Live says:   			October 24, 2015 at 3:52 PM				  […] at least 1950, all but two public mass shootings in America have taken place where general citizens are banned from carrying guns.
+ In Europe, there have been no exceptions.
+ Every mass public shooting — and there have been […] Reply      Gun Grabbers Ignore Facts on Gun Free Zones | NewZSentinel says:   			October 24, 2015 at 4:30 PM				  […] at least 1950, all but two public mass shootings in America have taken place where general citizens are banned from carrying guns.
+ In Europe, there have been no exceptions.
+ Every mass public shooting — and there have been […] Reply      Bloomberg’s Everytown gun control group lies and deceives says:   			October 27, 2015 at 12:36 PM				  […] by Dr. John R. Lott, Jr.
+ The Crime Prevention Research Center (CPRC) Source: CPRC […] Reply      A Look at the Facts on Gun-Free Zones | Jews Can Shoot says:   			October 30, 2015 at 7:31 AM				  […] at least 1950, all but two public mass shootings in America have taken place where general citizens are banned from carrying guns.
+ In Europe, there have been no exceptions.
+ Every mass public shooting — and there have been […] Reply      Disney and the NBA team up with billionaire backed anti-gun group to target your 2nd Amendment rights says:   			December 24, 2015 at 7:21 AM				  […] Apparently Mr. Bass and the NBA are hoping that the American people are going to somehow stomach the claim that teaming up with an organization that has openly pushed for mass gun confiscation is not a political position when in reality the commercial sends viewers to the groups website which openly pushes extreme anti 2nd Amendment measures and misleading statistics.
+ […] Reply      Dan Patrick says only two mass shootings since 1950 occurred outside of gun … | News4Security says:   			January 13, 2016 at 4:01 PM				  […] more than three people have been killed have taken place where guns are banned.” In a 2014 web post[6], the center said: “There are only two mass public shootings since at least 1950 that have […] Reply      Lawmaker introduces national campus carry legislation - Patriot Rising says:   			February 19, 2016 at 5:59 PM				  […] And based on a different data set, the Crime Prevention Research Center determined in 2014: […] Reply      A Look at the Facts on Gun-Free Zones – Jews Can Shoot says:   			April 14, 2016 at 6:46 PM				  […] at least 1950, all but two public mass shootings in America have taken place where general citizens are banned from carrying guns.
+ In Europe, there have been no exceptions.

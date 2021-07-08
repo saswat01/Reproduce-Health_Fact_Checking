@@ -1,0 +1,15 @@
+"/about/careers/index.html" 						return URL.substring(0, i);  					return URL;							// has no filename, e.g.
+ Surgeon General is the Nation’s Doctor, providing Americans with the best scientific information available on how to improve their health and reduce the risk of illness and injury.
+ The Surgeon General oversees the U.S. Public Health Service (USPHS) Commissioned Corps, an elite group of over 6,000 uniformed officers who are public health professionals.
+ The USPHS mission is to protect, promote, and advance the health of our nation.
+ I would like info on...  Who is the Surgeon General Coronavirus (COVID-19) Updates Hypertension Control E-Cigarette Prevention Tobacco Reports &amp; Publications                          Surgeon General’s Call to Action to Control Hypertension   Highlighting the national public health priority of blood pressure control.
+ Call to Action on Hypertension Control   Read the Surgeon General's strategies for frontline health workers to address high blood pressure.
+ The Nation’s Doctor to America: #COVIDStopsWithMe   To slow the spread of coronavirus, each of us must continue to take personal responsibility to protect ourselves and our loved ones.
+ About OSG    About OSG Learn about the mission, history and leadership team of the Office of the Surgeon General.
+ OSG Priorities Tile    Priorities Read about the urgent public health issues that are being tackled by the Surgeon General.
+ OSG Reports &amp; Publications tile    Reports &amp; Publications Explore landmark scientific publications from the OSG that are stimulating conversation and action nationwide on important public health topics.
+ OSG - USPHS Commissioned Corps    USPHS Commissioned Corps Learn about the elite team of highly qualified public health professionals who are on call 24 hours a day in essential leadership and clinical service roles throughout the federal government.
+ Email        OSG Headquarters Office of the Surgeon General 			U.S. Department of Health &amp; Human Services 			200 Independence Avenue, S.W.
+ It defaults to 1 (100%) 		 *				y - float values to test against, as a decimal 		 *     value of how much of the element's height 		 *     must be visible for the method to return 		 *     true.
+ It defaults to 1 (100%) 		 * 		 * Description: This function determines if an element is within 		 *    the viewport based on the parameters and returns 		 *    a boolean value.
+ Value dependent on ThemeKey module.

@@ -1,0 +1,2 @@
+428  446  450  479  467    Personal weapons (hands, fists, feet, etc.
+ )1  687  682  659  669  696    Poison  11  10  8  13  13    Explosives  2  7  1  1  0    Fire  94  71  84  114  103    Narcotics  53  70  75  122  97    Drowning  4  14  14  9  8    Strangulation  85  89  99  99  88    Asphyxiation  95  102  120  93  105    Other weapons or weapons not stated  850  872  873  927  979      1 Pushed is included in personal weapons.

@@ -1,0 +1,6 @@
+The “Sum of total TANF Requested” is the amount of TANF dollars obligated for the contracts.
+ The “Sum of EMP CASH” and “Sum of EMP IN_KIND” are the amount of employer contributions (i.e.
+ cost for existing staff to train and supervise employees and the remaining percentage — approximately 5% — not covered by the program).
+ The “count” column is the number of separate employer projects that have been approved for that region.
+ For a list of counties included in each Regional Workforce Board, visit http://www.workforceflorida.com/boards/index.htm.
+ As of September 10, 2010 the following performance has been reported for the Florida Back to Work program: 1,027 employer agreements signed and active; 5,324 Back to Work employees currently in the workplace; 4,053 jobs posted on Employ Florida Marketplace are currently open and available.

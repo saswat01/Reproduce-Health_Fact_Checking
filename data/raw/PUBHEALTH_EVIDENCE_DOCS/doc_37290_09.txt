@@ -1,0 +1,588 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListClin Biochem Revv.32(1); 2011 FebPMC3052392        Clin Biochem Rev.
+ 2011 Feb; 32(1): 33–43.
+ PMCID: PMC3052392PMID: 21451776Trimethylaminuria: Causes and Diagnosis of a Socially Distressing ConditionRichard J Mackay,1,* Christopher J McEntyre,1 Caroline Henderson,2 Michael Lever,1 and Peter M George1,2Richard J Mackay1Biochemistry Unit andFind articles by Richard J MackayChristopher J McEntyre1Biochemistry Unit andFind articles by Christopher J McEntyreCaroline Henderson2Molecular Pathology Laboratory Canterbury Health Laboratories, PO Box 151, Christchurch 8140, New ZealandFind articles by Caroline HendersonMichael Lever1Biochemistry Unit andFind articles by Michael LeverPeter M George1Biochemistry Unit and2Molecular Pathology Laboratory Canterbury Health Laboratories, PO Box 151, Christchurch 8140, New ZealandFind articles by Peter M GeorgeAuthor information Copyright and License information Disclaimer1Biochemistry Unit and2Molecular Pathology Laboratory Canterbury Health Laboratories, PO Box 151, Christchurch 8140, New Zealand*For correspondence: Dr Richard Mackay, zn.tvog.bhdc@yakcam.drahcirThe contents of articles or advertisements in The Clinical Biochemist – Reviews are not to be construed as official statements, evaluations or endorsements by the AACB, its official bodies or its agents.
+ Statements of opinion in AACB publications are those of the contributors.
+ Print Post Approved - PP255003/01665.
+ Copyright © 2005 The Australasian Association of Clinical Biochemists Inc. No literary matter in The Clinical Biochemist – Reviews is to be reproduced, stored in a retrieval system or transmitted in any form by electronic or mechanical means, photocopying or recording, without permission.
+ Requests to do so should be addressed to the Editor.
+ ISSN 0159 – 8090This article has been cited by other articles in PMC.AbstractTrimethylaminuria is a disorder in which the volatile, fish-smelling compound, trimethylamine (TMA) accumulates and is excreted in the urine, but is also found in the sweat and breath of these patients.
+ Because many patients have associated body odours or halitosis, trimethylaminuria sufferers can meet serious difficulties in a social context, leading to other problems such as isolation and depression.
+ TMA is formed by bacteria in the mammalian gut from reduction of compounds such as trimethylamine-N-oxide (TMAO) and choline.
+ Primary trimethylaminuria sufferers have an inherited enzyme deficiency where TMA is not efficiently converted to the non-odorous TMAO in the liver.
+ Diagnosis of trimethylaminuria requires the measurement of TMA and TMAO in urine, which should be collected after a high substrate meal in milder or intermittent cases, most simply, a marine-fish meal.
+ The symptoms of trimethylaminuria can be improved by changes in the diet to avoid precursors, in particular TMAO which is found in high concentrations in marine fish.
+ Treatment with antibiotics to control bacteria in the gut, or activated charcoal to sequester TMA, may also be beneficial.“What have we here?
+ A man or a fish?
+ Dead or alive?
+ A fish; he smells like a fish; a very ancient and fish-like smell; a kind of not of the newest Poor John”William Shakespeare, The Tempest II.
+ ii.26–29.
+ (A ‘Poor John’ was a dried hake)HistoryIndividuals with a pungent body odour resembling the smell of dead fish have been remarked on since ancient times: perhaps that acute observer of the human personality, William Shakespeare, had met somebody with this condition, which in The Tempest he ascribed to the deformed and savage slave Caliban.There are said to be two allusions to this condition recorded during the 19th century in The Lancet, which it has not proved possible to trace, but the first clear clinical case report is attributed to Humbert et al.
+ in 1970.1 Their patient, a six-year-old child, was under investigation for a presumably unrelated immunodeficiency disorder, but her mother also complained that she periodically had a marked fish-like smell.
+ Humbert et al.
+ documented that unmetabolised TMA in body secretions and urine was the offending agent.1 They showed that the patient increased her urinary TMA by 67% after a 15 mg/kg oral dose of TMA, in contrast to excretion by three control patients.
+ A subsequent liver biopsy on this patient confirmed abnormal enzyme kinetics as predicted.2 There have been numerous contributions since, on clinical presentations, knowledge of the relevant biochemical system, and the mutation and population genetics of the disorder.
+ Both primary genetic and acquired causes of the symptom have been described.
+ Although the incidence of the disorder is not known, more than 200 cases have been described, and from previously being considered rare, the condition may now be said to be uncommon.Clinical PresentationPatients present, usually in childhood or early adulthood, complaining of the body odour and/or halitosis, and samples are referred to the laboratory by general practitioners, general and metabolic paediatricians, endocrinologists, dermatologists and others.
+ The occurrence of this complaint comes up readily on internet search engines by entering such words as ‘body odour’, and there are patient advocacy groups in some developed countries.
+ Intriguingly, many individuals have learned by trial and error how best to manage the disorder, including avoiding marine fish in their diet, and frequent washing and changing of clothes, so that patients often have little body odour when they present.
+ In other cases, the subject may not be aware themselves of the malodour, and many cases have been identified with no overt malodour at all.3 Although it may appear to be of small medical concern, in fact sufferers regard it as having a major social impact, with consequences for self esteem, employment, social isolation impairing formation of relationships and mood disorders, and rare cases of attempted suicide have been recorded.4–6Defect in TrimethylaminuriaIn subjects with trimethylaminuria, there is a disparity between the quantity of TMA acquired from the diet requiring oxygenation, and the ability of the hepatic microsomal enzyme system to oxidise this load, such that excess TMA accumulates and is excreted in the urine, but also appears in the sweat and other bodily secretions, and can be detected in the exhaled breath.
+ Although the complaint originally came to attention because of the occurrence of rare individuals with a primary genetic deficiency of the enzyme, as is commonly the case, subjects with less severe secondary and mixed forms of the complaint have since been described.Primary TrimethylaminuriaThe primary genetic form of the disease comprise the majority of the reported cases, and clinical symptoms confirmed genetically as due to inactivating mutations and less severe polymorphisms in the FMO3 gene reported from populations in the USA (including Caucasians, African Americans, Hispanics and Asians), Canada, UK, Spain, Italy, Korea, Japan, Australia (including a patient of Greek ethnicity), Norway and Thailand.9–24 The disease is most likely therefore pan-ethnic.
+ While fully inactivating mutations cause severe and persistent malodour, less severe mutations and apparently benign polymorphisms may reduce the substrate threshold for developing symptoms.25,26Secondary (Acquired) TrimethylaminuriaCases of trimethylaminuria have been described where there was no genetic predisposition, or at least less than fully inactivating mutations of the FMO3 gene as described above, but where a combination of dietary, gut metabolism, hormonal and enzyme expression may have been factors.Transient ChildhoodA premature neonate and several older children have been described,27,28 in the first case after being fed choline-containing formula.
+ It is a tertiary amine, very volatile at ambient temperatures and extremely readily detected by the human olfactory system, at levels of 0.12 ppb, with men more sensitive than women.43 Marine fish contain large amounts of the N-oxide TMAO which plays a major role in osmoregulation, allowing marine fish to colonise a profoundly saline environment.
+ Bacterial activity in rotting fish reduces the TMAO to TMA, imparting the characteristic odour, and the human ability to detect this odour so readily has led some to suppose that this may have a role in preventing humans from ingesting rotten fish.Open in a separate windowFigure 1.Structure of (A) trimethylamine (TMA) and (B) trimethylamine-N-oxide (TMAO).
+ TMA is protonated at physiological pH.In the human, dietary TMAO ingested in marine fish is reduced to TMA by the colonic microflora and absorbed by passive diffusion across the cell membranes.44–46 It enters the enterohepatic circulation and is removed by the liver.
+ In normal liver cells, TMA is oxygenated back to the odourless TMAO by the microsomal flavin-containing monooxygenase FMO3.47,48 These steps are shown diagrammatically in Figure 2.
+ TMAO so formed is very water soluble and in the normal subject is excreted mainly in the urine.Open in a separate windowFigure 2.Interrelation of diet sources of precursor substances and normal TMAO metabolism.
+ The total daily free choline intake is about 9 mg, and the 2.1 g of choline which provoked an increased methylamine excretion were well in excess of this.42 It is absorbed throughout the small intestine,49 and excess choline transiting to the large bowel is metabolised to methylamines by colonic bacteria.42 The absorbed fraction is either used directly, for example as a component in cell membranes, or is metabolised to glycine betaine in the mammalian liver.50 Choline is not converted directly to methylamines in human tissues; intraperitoneal injection of choline into rats does not provoke an increase in methylamine excretion.51Lecithin or phosphotidylcholine is 13% choline by weight.
+ However, even the large doses of 11.65 g lecithin used in the above study did not provoke an increase in urinary total methylamine excretion, so although it is still not clear if lecithin is hydrolysed in the jejunum, it would not appear to be a factor anyway.
+ Colonic bacteria could generate methylamines from lecithin, but it must require very large oral intake.52Carnitine is produced both naturally as the L isomer in human tissues and absorbed actively and passively from the diet.53 It is excreted unchanged in the urine.
+ Dietary L-carnitine in meat does not cause excretion of total methylamines.42 It is used medically as a supplement in some fatty acid oxidation and organic acid disorders and can also be converted to TMA by colonic bacteria,52 such that large doses are anecdotally known to provoke a fishy odour in some susceptible individuals.54Glycine BetaineThere is no evidence that this is converted to TMA and the oxide in human tissues, and intraperitoneal injections of glycine betaine in rats does not provoke an increase in methylamine excretion.50 However, colonic bacteria may convert glycine betaine to methylamines, and large doses given medically, as in homocystinuria, have anecdotally been known to provoke a fishy odour.54The Biochemistry of the Flavin-Containing MonooxygenasesThe flavin-containing monooxygenases are a family of enzymes which detoxify a broad spectrum of dietary xenobiotics, including natural plant alkaloids, and in modern humans, synthetic environmental toxicants.
+ These enzymes have a role in metabolism of some drugs and possibly some endogenous amines.55–57 The flavin-containing monooxygenases catalyse NADPH-dependant oxygenation of substrates which have nucleophilic N, S, Se, or P centres.58 The members of this family have both individual and overlapping specificities, and expression of the enzymes is tissue, species, development and even in some cases gender specific.59 Five translated members of this family with separate genes have been described in humans.60FMO1 is expressed both at the mRNA and protein level in the human liver during the first trimester, but wanes gradually in the second and third trimesters, disappearing completely by about the third post natal day irrespective of gestation.61,62 The cause of this disappearance is not known, nor is the precise role of this enzyme in the foetus known, though TMAO is not a substrate.63 Small amounts of FMO1 mRNA are also found in the adult small intestine, but by far the most is in adult kidney.62FMO2 is expressed in the lung of 26% of African Americans and 4.5% Hispanic people, and not at all in Caucasian or Asian persons.3 Interestingly, FMO2 mRNA is found in all people but does not translate to mature protein, because most people have an inactivating truncating mutation and the mRNA is subject to nonsense-mediated mRNA decay.62 FMO2 probably also has a detoxification function.FMO3, both mRNA and protein, mutations of which cause trimethylaminuria, is first identified in 30% of foetal livers in the first trimester of pregnancy, disappears in the second and third trimesters, but identified again by 21 post-natal days irrespective of gestation.
+ This gradually increases to 8% of adult levels at about nine months age, 20% by 11 years, and even by 18 years the level of FMO3 is still significantly below adult levels.
+ There is therefore a remarkable switch of enzyme form from FMO1 in foetal liver, to FMO3 as well as FMO5 in adult liver.
+ The FMO3 gene, located at 1q24.3, encodes the major metabolising isozyme in the adult human liver.
+ ).67 Nonsense mutations, small deletions (1 or 2 bp) resulting in frameshift mutations and one large deletion (12.2 kb) have also been reported.
+ For example, in a homozygous state or when c.472C&gt;T (p.Glu158Lys) and c.23A&gt;G (p.Glu308Gly) are on the same chromosome (in cis) there is a moderate decrease in enzyme activity causing mild or transient trimethylaminuria, particularly in infants and young children who have low expression of FMO3.22,26 The only SNP reported to result in an increase in enzyme activity is c.1079T&gt;C (p.Leu360Pro).71Mechanisms regulating FMO3 transcription are of particular interest because of the temporal and tissue-specific nature of expression.
+ In one study,72 important transcriptional regulatory domains were identified within the promoter, containing NFY, USF1 and YY1 (among other) constitutive expression elements, plus Pbx2/Hox and NF-E2 elements which may contribute to developmental and tissue-specific expression.
+ In a later study of sequences further upstream, a C/EBPβ element was located.73InvestigationIn subjects with a history of malodour, urine can be readily analysed for TMA and TMAO.
+ The results, expressed as μmol/mmol creatinine, can also be given as an ‘oxidising ratio’ TMAO/(TMAO + TMA) x 100%.
+ Affected individuals with two inactivating mutations have a ratio of 92%.
+ However, it is essential that the oxidising capacity of the enzyme is sufficiently tested with substrate loading, otherwise a deficiency of the oxidising capacity may not be uncovered.
+ Since many subjects have already discovered empirically what provokes the odour there is a significant chance that adequate substrate has already been excluded from their diet.
+ This may cause difficulty particularly for the confirmation of the less severe forms of trimethylaminuria.
+ There are no guidelines as to what constitutes adequate excretion of the total products, but we believe that a combined excretion of less than several hundred μmol/mmol creatinine could allow the diagnosis to be missed.
+ It has been suggested that the threshold for the detection of symptoms is at a urine TMA concentration of 18–20 μmol/mmol creatinine.75The most practical method of ensuring sufficient substrate is a 300 g marine fish meal followed by a random urine collection 2–12 hours after the meal or alternatively in the Nijmegen protocol, timed urine collection for 6–8 hours post meal.74 Because the condition may be mild and/or intermittent, it may be necessary to test more than once, during times when the odour is prominent, before the diagnosis can be established.Loading TestsBecause it is so important to ingest sufficient substrate to maximise flux through the oxidising system, several standardised methods of doing so have been used.
+ Initially, choline was used.76 Trimethylamine 600 mg orally was found to distinguish obligate carriers from normal and affected subjects,77 whereas a dose of 300 mg failed to do so, and 900 mg was found to saturate the pathway.
+ For reasons which are not known, some loading tests fail on occasion to provoke satisfactory excretion of metabolic products and this may be caused by factors such as the nature of gut colonisation, gut transit time, and delayed gastric emptying.Genetic ConfirmationIn subjects with severe and persistent symptoms and confirmed excretion of excess TMA even at low levels of substrate intake, it is arguable whether mutation analysis adds a great deal to diagnosis.
+ However, there remain a number of patients with a suggestive history of mild or intermittent symptoms, in whom the nature of the genetic contribution to phenotype may improve understanding and treatment.Other Metabolic Consequences of FMO3 DeficiencyTrimethylaminuria and HypertensionThere are theoretical reasons why decreased FMO3 function may affect blood pressure.
+ For example, the enzyme may play a role in the inactivation of catecholamines.78 In their review, Cashman et al.3 refer to an unpublished study of 104 African Americans, in which they observed significant increase in the number of cases of uncontrolled hypertension in both males and females, relative to the number of cases in controlled and normal subjects.
+ There was however no difference when the oxidation ratios themselves were compared.
+ For example, endogenous amines some of which are present in the brain such as tyramine are substrates for FMO3.78FMO3 and Drug/Xenobiotic MetabolismThe substrate specificity of FMO3 is, like other mixed function oxidases, quite wide.
+ As well as TMA and some plant alkaloids, FMO3 has activity against the medical drugs cimetidine, ranitidine, chlorpromazine, tamoxifen, sulindac, ketoconazole, propranolol and morphine,74,79 as well as tyramine.
+ The contribution made to net drug and xenobiotic metabolism is not known, but adverse reactions by trimethylaminuria subjects to tyramine and sulfur containing drugs have been mentioned, although most tyramine will be metabolised by monoamine oxidases.22Analysis of Trimethylamine and Trimethylamine-N-oxideBecause TMA and TMAO have no native chromophore, analysis requires the use of specialised instrumentation.
+ Methods used for measuring urine TMA and TMAO include: proton nuclear magnetic resonance (1H NMR) spectrometry,80–82 headspace gas chromatography (GC),83,84 electrospray ionisation tandem mass spectrometry (ESI-MS/MS),85 direct infusion electrospray quadrupole time-of-flight mass spectrometry,86 and matrix-assisted laser desorption/ionisation time of flight (MALDI-TOF) mass spectrometry.87Advantages of using 1H NMR to measure TMA and TMAO include the ability to measure both analytes from a single spectrum.
+ Methylamines with multiple identical methyl groups generally give a large singlet in the proton spectrum, making quantification straight forward.
+ TMA and TMAO have nine identical protons.
+ Sample preparation for urine analysis by 1H NMR is simple and involves diluting urine with 1 mol/L HCl containing an internal standard.81 Deuterium oxide D2O (lock standard) is also added either with the internal standard, or as a glass insert inside the NMR tube.
+ Internal standards which have been used to measure methylamines by NMR include acetonitrile,82 trimethylsilyl-2,2,3,3-tetradeuteropropionic acid (TSP),80,81 and hexadeutero-4,4-dimethyl-4-silapentane-1 ammonium trifluoroacetate (DSA).88 We have more recently found that trimethylacetonitrile (pivalonitrile) or trimethylacetamide (pivalamide) are convenient internal standards for the analysis of methylamines by 1H NMR.
+ These compounds contain three methyl groups like TMA and TMAO.
+ Their resonances have a smaller chemical shift than acetonitrile and are in a region where there are fewer interfering peaks in biological samples.
+ They are easier to handle and less volatile than acetonitrile, and in particular pivalamide is a water soluble non-volatile solid that can be conveniently weighed out.
+ We have experienced inconsistent results using TSP as the internal standard, which are probably due to the low solubility of TSP in acidic solutions, especially when the ionic strength is high.
+ DSA has been shown to be better than TSP as an internal standard, particularly for measuring metabolites in plasma and serum, because it does not bind to proteins.88 However, DSA is expensive and has no advantages over pivalamide as an internal standard for NMR analysis of TMA and TMAO in urine.
+ It is necessary to acidify urine samples for analysis by 1H NMR, otherwise TMAO co-resonates with the methyl groups on glycine betaine.50,81,89,90 Acidification of the samples separates the peaks so that TMAO is further downfield from the glycine betaine resonance.
+ Previous reports have ignored the fact that TMAO and glycine betaine co-resonate at neutral pH, and have mistakenly quantified both glycine betaine and TMAO while only intending to measure one of them.91 Acidifying the samples does however cause the TMA peak to split into a doublet, reducing the sensitivity.
+ We have found that this can be avoided by adding aluminium chloride to the sample; the aluminium forms a complex with TMA and does not split the methyl proton resonance.In order to quantify the data, external standards consisting of aqueous standards containing known concentrations of TMA and TMAO are measured on the same run.
+ The peak area (or peak height) ratios of the analytes to the internal standard in the spectrum of the external standards are used to construct calibration curves.
+ The peak area (or peak height) ratios to the internal standard are then used to quantify TMA and TMAO in the unknown samples.
+ A water suppression technique can be used to remove the high water signal which swamps the NMR spectrum in aqueous solutions.NMR spectrometers have a high capital cost, and are not currently available in most clinical laboratories, but are found in universities as a research tool.
+ These research instruments are often not set up with autosamplers for quantifying batches of samples, and manually placing samples in the NMR spectrometer is time consuming.
+ Other problems with NMR include relatively low sensitivity unless unacceptably long acquisition times are used, and often detection limits over 10 μmol/L81 are tolerated as a practical compromise.Measurement by GC requires TMAO to be reduced to TMA before analysis, and two separate injections are needed to measure the levels of both compounds in each sample.83,84 The most common method of measuring trimethylamine by GC uses head-space analysis.
+ The sample has to be made strongly alkaline to release unionised trimethylamine into the gas phase.
+ However, reduction of TMAO to TMA is usually carried out in acid solution, using strong reducing agents such as Ti(III),83,84 so there is a bulky precipitate when this is made alkaline.
+ TMAO is quantified as the difference in the results between samples that have been treated with reducing agent and parallel ones not reduced.
+ Nitrogen-phosphorus detection has been reported to be seven times more sensitive than flame ionisation detection for measuring TMA by GC.92 GC-MS methods have also been described that derivatise TMA with reagents such as 2,2,2-trichloroethyl chloroformate.84Liquid chromatography - mass spectrometry (LC-MS) is becoming increasingly popular in clinical settings.
+ However, due to the small nature of the molecule, TMA is difficult to fragment using tandem mass spectrometry, and there are not many reports of LC-MS being used to measure TMA.
+ Our attempts to measure trimethylamine using selected ion monitoring mode (LC-MS) have resulted in high detection limits.
+ This was attributed to high background noise in the mobile phase due to the presence of compounds with a near-identical mass to TMA in common solvents such as acetonitrile.
+ However, tandem mass spectrometry with electrospray ionisation has been used to measure TMA and TMAO following derivatisation of trimethylamine with ethyl bromoacetate to form ethyl betaine bromide.85 MALDI-TOF mass spectrometry has also been used to measure TMA and TMAO after derivatisation of TMA with iodomethane to form tetramethylammonium iodide.86 Neither of these last two methods use a chromatographic component in the analysis.
+ At the very least, patients may benefit from being warned that the symptom may be exacerbated by febrile infections and during the perimenstrual period.HygieneFrequent ablutions with a low pH soap (to minimise volatilisation from skin) and antiperspirants along with regular laundering of clothing seem sensible.74DietExclusion of the major source of TMAO from the diet, namely marine fish, is the primary dietary modality, and should not present a major difficulty.
+ Choline is essential to the human and to some extent can be synthesised endogenously by methylation of phosphatidylethanolamine.
+ Requirements are higher in pregnant women, so restricting choline might be ill-advised.
+ Given that only excess choline, lecithin and glycine betaine passing to the colon are metabolised to TMA by gut bacteria, it is far from clear whether ordinary dietary intakes would provoke symptoms.
+ Since it appears that some vegetables, particularly Brussels sprouts, may inhibit hepatic FMO3 it is possible that further efficacy may be gained by limiting their intake.102AntimicrobialsBrief courses of neomycin and metronidazole have been used to suppress gut microflora and are said to be useful in some but not all cases.103 Although this may be useful in some milder and transient cases where gut colonisation is thought to be a factor, it would be unwise as anything more than a short term expedient.Vitamin SupplementationRestriction of choline intake may increase the requirement for folate.104 Theoretically, since FMO3 has a flavin cofactor, riboflavin supplementation might augment the activity of the enzyme.
+ There is no literature on the use of either vitamin in clinical practise.Precursor Sequestering AgentsIn one study, two self-reported patients with oxidising ratios below 90% were given oral activated charcoal, and a further three similar patients copper chlorophyllin, in order to bind precursor amines in the large bowel.
+ All showed a suggestive reduction in TMA excretion and elevation of oxidising ratio.105SummaryTrimethylaminuria is a disorder which may go for years undiagnosed, and is now known to be more common than was first thought.
+ A patient’s embarrassment about their body odour can often cause a reluctance to discuss the problem with their doctor.
+ The condition exists in both severe primary genetic forms, as well as in less severe forms which are a mixture of genetic, constitutional and acquired factors.
+ When testing a patient it is important to ensure that there has been sufficient intake of dietary precursors.
+ The more widespread availability of equipment such as LC-MS/MS is giving more laboratories the ability to confirm a diagnosis of trimethylaminuria.
+ While NMR methods are more efficient for measuring TMA and TMAO, this technology is not widely available in clinical laboratories in Australasia.
+ Once diagnosed, the symptoms of trimethylaminuria can be improved by simple treatments, leading to a better quality of life for the patients.FootnotesCompeting Interests: None declared.References1.
+ Humbert JA, Hammond KB, Hathaway WE, Marcoux JG, O’Brien D. Trimethylaminuria: the fish-odour syndrome.
+ Lancet.
+ 1970;2:770–1.
+ [PubMed] [Google Scholar]2.
+ Biochem Med.
+ 1972;6:392–6.
+ [PubMed] [Google Scholar]3.
+ Cashman JR, Camp K, Fakharzadeh SS, Fennessey PV, Hines RN, Mamer OA, et al.
+ Biochemical and clinical aspects of the human flavin-containing monooxygenase form 3 (FMO3) related to trimethylaminuria.
+ Curr Drug Metab.
+ 2003;4:151–70.
+ [PubMed] [Google Scholar]4.
+ Mountain H, Brisbane JM, Hooper AJ, Burnett JR, Goldblatt J. Trimethylaminuria (fish malodour syndrome): a “benign” genetic condition with major psychosocial sequelae.
+ Med J Aust.
+ 2008;189:468.
+ [PubMed] [Google Scholar]5.
+ Ayesh R, Mitchell SC, Zhang A, Smith RL.
+ The fish odour syndrome: biochemical, familial, and clinical aspects.
+ BMJ.
+ 1993;307:655–7.
+ [PMC free article] [PubMed] [Google Scholar]6.
+ Todd WA.
+ Psychosocial problems as the major complication of an adolescent with trimethylaminuria.
+ J Pediatr.
+ 1979;94:936–7.
+ [PubMed] [Google Scholar]7.
+ Motika MS, Zhang J, Zheng X, Riedler K, Cashman JR.
+ Mol Genet Metab.
+ 2009;97:128–35.
+ [PMC free article] [PubMed] [Google Scholar]8.
+ Yeung CK, Adman ET, Rettie AE.
+ Arch Biochem Biophys.
+ 2007;464:251–9.
+ [PMC free article] [PubMed] [Google Scholar]9.
+ Drug Metab Dispos.
+ 2003;31:187–93.
+ [PubMed] [Google Scholar]10.
+ Zhang J, Tran Q, Lattard V, Cashman JR. Deleterious mutations in the flavin-containing monooxygenase 3 (FMO3) gene causing trimethylaminuria.
+ Pharmacogenetics.
+ 2003;13:495–500.
+ [PubMed] [Google Scholar]11.
+ Koukouritaki SB, Poch MT, Cabacungan ET, McCarver DG, Hines RN.
+ Mol Pharmacol.
+ 2005;68:383–92.
+ [PubMed] [Google Scholar]12.
+ Cashman JR, Bi YA, Lin J, Youil R, Knight M, Forrest S, et al.
+ Human flavin-containing monooxygenase form 3: cDNA expression of the enzymes containing amino acid substitutions observed in individuals with trimethylaminuria.
+ Chem Res Toxicol.
+ 1997;10:837–41.
+ [PubMed] [Google Scholar]13.
+ Akerman BR, Lemass H, Chow LM, Lambert DM, Greenberg C, Bibeau C, et al.
+ Trimethylaminuria is caused by mutations of the FMO3 gene in a North American cohort.
+ Mol Genet Metab.
+ 1999;68:24–31.
+ [PubMed] [Google Scholar]14.
+ Akerman BR, Forrest S, Chow L, Youil R, Knight M, Treacy EP.
+ Two novel mutations of the FMO3 gene in a proband with trimethylaminuria.
+ Hum Mutat.
+ 1999;13:376–9.
+ [PubMed] [Google Scholar]15.
+ Dolphin CT, Janmohamed A, Smith RL, Shephard EA, Phillips IR.
+ Missense mutations in flavin-containing mono-oxygenase 3 gene, FMO3, underlies fish-odour syndrome.
+ Nat Genet.
+ 1997;17:491–4.
+ [PubMed] [Google Scholar]16.
+ Basarab T, Ashton GH, Menagé HP, McGrath JA.
+ Br J Dermatol.
+ 1999;140:164–7.
+ [PubMed] [Google Scholar]17.
+ Mazon RA, Gil-Setas A, Berrade ZS, Bandres ET, Wevers R, Engelke U, et al.
+ Primary trimethylaminuria or fish odour syndrome.
+ A novel mutation in the first documented case in Spain.
+ Med Clin (Barc) 2003;120:219–21.
+ [PubMed] [Google Scholar]18.
+ Teresa E, Lonardo F, Fiumara A, Lombardi C, Russo P, Zuppi C, et al.
+ Mol Genet Metab.
+ 2006;88:192–5.
+ [PubMed] [Google Scholar]19.
+ Park CS, Chung WG, Kang JH, Roh HK, Lee KH, Cha YN.
+ Phenotyping of flavin-containing monooxygenase using caffeine metabolism and genotyping of FMO3 gene in a Korean population.
+ Pharmacogenetics.
+ 1999;9:155–64.
+ [PubMed] [Google Scholar]20.
+ Fujieda M, Yamazaki H, Togashi M, Saito T, Kamataki T. Two novel single nucleotide polymorphisms (SNPs) of the FMO3 gene in Japanese.
+ Drug Metab Pharmacokinet.
+ 2003;18:333–5.
+ [PubMed] [Google Scholar]21.
+ Kubota M, Nakamoto Y, Nakayama K, Ujjin P, Satarug S, Mushiroda T, et al.
+ A mutation in the flavin-containing monooxygenase 3 gene and its effects on catalytic activity for N-oxidation of trimethylamine in vitro.
+ Drug Metab Pharmacokinet.
+ 2002;17:207–13.
+ [PubMed] [Google Scholar]22.
+ Treacy EP, Akerman BR, Chow LM, Youil R, Bibeau C, Lin J, et al.
+ Mutations of the flavin-containing monooxygenase gene (FMO3) cause trimethylaminuria, a defect in detoxication.
+ Hum Mol Genet.
+ 1998;7:839–45.
+ [PubMed] [Google Scholar]23.
+ Forrest SM, Knight M, Akerman BR, Cashman JR, Treacy EP.
+ A novel deletion in the flavin-containing monooxygenase gene (FMO3) in a Greek patient with trimethylaminuria.
+ Pharmacogenetics.
+ 2001;11:169–74.
+ [PubMed] [Google Scholar]24.
+ Allerston CK, Vetti HH, Houge G, Phillips IR, Shephard EA.
+ A novel mutation in the flavin-containing monooxygenase 3 gene (FMO3) of a Norwegian family causes trimethylaminuria.
+ Mol Genet Metab.
+ 2009;98:198–202.
+ [PubMed] [Google Scholar]25.
+ Akerman BR, Forrest S, Chow L, Youil R, Knight M, Treacy EP.
+ Two novel mutations of the FMO3 gene in a proband with trimethylaminuria.
+ Hum Mutat.
+ 1999;13:376–9.
+ [PubMed] [Google Scholar]26.
+ Lancet.
+ 1999;354:834–5.
+ [PubMed] [Google Scholar]27.
+ Blumenthal I, Lealman GT, Franklyn PP.
+ Fracture of the femur, fish odour, and copper deficiency in a preterm infant.
+ Arch Dis Child.
+ 1980;55:229–31.
+ [PMC free article] [PubMed] [Google Scholar]28.
+ Mayatepek E, Kohlmüller D. Transient trimethylaminuria in childhood.
+ Acta Paediatr.
+ 1998;87:1205–7.
+ [PubMed] [Google Scholar]29.
+ Zhang AQ, Mitchell SC, Smith RL.
+ Exacerbation of symptoms of fish-odour syndrome during menstruation.
+ Lancet.
+ 1996;348:1740–1.
+ [PubMed] [Google Scholar]30.
+ Mitchell SC, Smith RL.
+ A physiological role for flavin-containing monooxygenase (FMO3) in humans?
+ Xenobiotica.
+ 2010;40:301–5.
+ [PubMed] [Google Scholar]31.
+ Shimizu M, Cashman JR, Yamazaki H. Transient trimethylaminuria related to menstruation.
+ BMC Med Genet.
+ 2007;8:2.
+ [PMC free article] [PubMed] [Google Scholar]32.
+ Amoore JE, Forrester LJ.
+ Specific anosmia to trimethylamine: the fishy primary odour.
+ J Chem Ecol.
+ 1976;2:49–56.
+ [Google Scholar]33.
+ Mitchell SC, Smith RL.
+ Trimethylaminuria: the fish malodor syndrome.
+ Drug Metab Dispos.
+ 2001;29:517–21.
+ [PubMed] [Google Scholar]34.
+ Ruocco V, Florio M, Filioli FG, Guerrera V, Prota G. An unusual case of trimethylaminuria.
+ Br J Dermatol.
+ 1989;120:459–61.
+ [PubMed] [Google Scholar]35.
+ Yamazaki H, Fujieda M, Cashman JR, Kamataki T. Mild trimethylaminuria observed in a Japanese cohort with liver damage.
+ Am J Med.
+ 2005;118:803–5.
+ [PubMed] [Google Scholar]36.
+ Growdon JH, Cohen EL, Wurtman RJ.
+ Huntington’s disease: clinical and chemical effects of choline administration.
+ Ann Neurol.
+ 1977;1:418–22.
+ [PubMed] [Google Scholar]37.
+ Etienne P, Gauthier S, Johnson G, Collier B, Mendis T, Dastoor D, et al.
+ Clinical effects of choline in Alzheimer’s disease.
+ Lancet.
+ 1978;1:508–9.
+ [PubMed] [Google Scholar]38.
+ Marks R, Dudley F, Wan A. Trimethylamine metabolism in liver disease.
+ Lancet.
+ 1978;1:1106–7.
+ [PubMed] [Google Scholar]39.
+ Mitchell S, Ayesh R, Barrett T, Smith R. Trimethylamine and foetor hepaticus.
+ Scand J Gastroenterol.
+ 1999;34:524–8.
+ [PubMed] [Google Scholar]40.
+ Simenhoff ML, Ginn HE, Teschan PE.
+ Toxicity of aliphatic amines in uremia.
+ Trans Am Soc Artif Intern Organs.
+ 1977;23:560–5.
+ [PubMed] [Google Scholar]41.
+ Wills MR, Savory J. Biochemistry of renal failure.
+ Ann Clin Lab Sci.
+ 1981;11:292–9.
+ [PubMed] [Google Scholar]42.
+ Zhang AQ, Mitchell SC, Smith RL.
+ Dietary precursors of trimethylamine in man: a pilot study.
+ Food Chem Toxicol.
+ 1999;37:515–20.
+ [PubMed] [Google Scholar]43. van Thriel C, Schäper M, Kiesswetter E, Kleinbeck S, Juran S, Blaszkewicz M, et al.
+ From chemosensory thresholds to whole body exposures-experimental approaches evaluating chemosensory effects of chemicals.
+ Int Arch Occup Environ Health.
+ 2006;79:308–21.
+ [PubMed] [Google Scholar]44.
+ Asatoor AM, Simenhoff ML.
+ The origin of urinary dimethylamine.
+ Biochim Biophys Acta.
+ 1965;111:384–92.
+ [PubMed] [Google Scholar]45.
+ Zeisel SH, Wishnok JS, Blusztajn JK.
+ Formation of methylamines from ingested choline and lecithin.
+ J Pharmacol Exp Ther.
+ 1983;225:320–4.
+ [PubMed] [Google Scholar]46.
+ Zeisel SH, daCosta KA, Youssef M, Hensey S. Conversion of dietary choline to trimethylamine and dimethylamine in rats: dose-response relationship.
+ J Nutr.
+ 1989;119:800–4.
+ [PubMed] [Google Scholar]47.
+ Ziegler DM.
+ Flavin-containing monooxygenases: catalytic mechanism and substrate specificities.
+ Drug Metab Rev.
+ 1988;19:1–32.
+ [PubMed] [Google Scholar]48.
+ Jones KC, Ballou DP.
+ Reactions of the 4a-hydroperoxide of liver microsomal flavin-containing monooxygenase with nucleophilic and electrophilic substrates.
+ J Biol Chem.
+ 1986;261:2553–9.
+ [PubMed] [Google Scholar]49.
+ De La Huerga J, Popper H. Factors influencing choline absorption in the intestinal tract.
+ J Clin Invest.
+ 1952;31:598–603.
+ [PMC free article] [PubMed] [Google Scholar]50.
+ Lever M, Slow S. The clinical significance of betaine, an osmolyte with a key role in methyl group metabolism.
+ Clin Biochem.
+ 2010;43:732–44.
+ [PubMed] [Google Scholar]51.
+ Norris ER, Benoit GJ.
+ Studies on trimethylamine oxide.
+ III.
+ Trimethylamine oxide excretion by the rat.
+ J Biol Chem.
+ 1945;158:443–8.
+ [Google Scholar]52.
+ Zeisel SH, Gettner S, Youssef M. Formation of aliphatic amine precursors of N-nitrosodimethylamine after oral administration of choline and choline analogues in the rat.
+ Food Chem Toxicol.
+ 1989;27:31–4.
+ [PubMed] [Google Scholar]53.
+ Bremer J. Carnitine—metabolism and functions.
+ Physiol Rev.
+ 1983;63:1420–80.
+ [PubMed] [Google Scholar]54.
+ Chalmers RA, Bain MD, Michelakakis H, Zschocke J, Iles RA.
+ Diagnosis and management of trimethylaminuria (FMO3 deficiency) in children.
+ J Inherit Metab Dis.
+ 2006;29:162–72.
+ [PubMed] [Google Scholar]55.
+ Elfarra AA.
+ Potential role of the flavin-containing monooxygenases in the metabolism of endogenous compounds.
+ Chem Biol Interact.
+ 1995;96:47–55.
+ [PubMed] [Google Scholar]56.
+ Ziegler DM.
+ Flavin-containing monooxygenases: enzymes adapted for multisubstrate specificity.
+ Trends Pharmacol Sci.
+ 1990;11:321–4.
+ [PubMed] [Google Scholar]57.
+ Phillips IR, Shephard EA.
+ Flavin-containing monooxygenases: mutations, disease and drug response.
+ Trends Pharmacol Sci.
+ 2008;29:294–301.
+ [PubMed] [Google Scholar]58.
+ Cashman JR.
+ Structural and catalytic properties of the mammalian flavin-containing monooxygenases.
+ Chem Res Toxicol.
+ 1995;8:165–81.
+ [PubMed] [Google Scholar]59.
+ Overby LH, Buckpitt AR, Lawton MP, Atta-Asafo-Adjei E, Schulze J, Philpot RM.
+ Characterization of flavin-containing monooxygenase 5 (FMO5) cloned from human and guinea pig: evidence that the unique catalytic properties of FMO5 are not confined to the rabbit ortholog.
+ Arch Biochem Biophys.
+ 1995;317:275–84.
+ [PubMed] [Google Scholar]60.
+ Hernandez D, Janmohamed A, Chandan P, Phillips IR, Shephard EA.
+ Organization and evolution of the flavin-containing monooxygenase genes of human and mouse: identification of novel gene and pseudogene clusters.
+ Pharmacogenetics.
+ 2004;14:117–30.
+ [PubMed] [Google Scholar]61.
+ Koukouritaki SB, Simpson P, Yeung CK, Rettie AE, Hines RN.
+ Human hepatic flavin-containing monooxygenases 1 (FMO1) and 3 (FMO3) developmental expression.
+ Pediatr Res.
+ 2002;51:236–43.
+ [PubMed] [Google Scholar]62.
+ Zhang J, Cashman JR. Quantitative analysis of FMO gene mRNA levels in human tissues.
+ Drug Metab Dispos.
+ 2006;34:19–26.
+ [PubMed] [Google Scholar]63.
+ Hines RN.
+ Developmental and tissue-specific expression of human flavin-containing monooxygenases 1 and 3.
+ Expert Opin Drug Metab Toxicol.
+ 2006;2:41–9.
+ [PubMed] [Google Scholar]64.
+ Lattard V, Longin-Sauvageon C, Benoit E. Cloning, sequencing and tissue distribution of rat flavin-containing monooxygenase 4: two different forms are produced by tissue-specific alternative splicing.
+ Mol Pharmacol.
+ 2003;63:253–1.
+ [PubMed] [Google Scholar]65.
+ Dolphin CT, Riley JH, Smith RL, Shephard EA, Phillips IR.
+ Structural organization of the human flavin-containing monooxygenase 3 gene (FMO3), the favored candidate for fish-odor syndrome, determined directly from genomic DNA.
+ Genomics.
+ 1997;46:260–7.
+ [PubMed] [Google Scholar]66.
+ Hernandez D, Addou S, Lee D, Orengo C, Shephard EA, Phillips IR.
+ Trimethylaminuria and a human FMO3 mutation database.
+ Hum Mutat.
+ 2003;22:209–13.
+ [PubMed] [Google Scholar]68.
+ Murphy HC, Dolphin CT, Janmohamed A, Holmes HC, Michelkakis H, Shephard EA, et al.
+ A novel mutation in the flavin-containing monooxygenase 3 gene, FMO3, that causes fish-odour syndrome: activity of the mutant enzyme assessed by proton NMR spectroscopy.
+ Pharmacogenetics.
+ 2000;10:439–51.
+ [PubMed] [Google Scholar]69.
+ Mitchell SC, Zhang AQ, Barrett T, Ayesh R, Smith RL.
+ Studies on the discontinuous N-oxidation of trimethylamine among Jordanian, Ecuadorian and New Guinean populations.
+ Pharmacogenetics.
+ 1997;7:45–50.
+ [PubMed] [Google Scholar]70.
+ Koukouritaki SB, Hines RN.
+ Flavin-containing monooxygenase genetic polymorphism: impact on chemical metabolism and drug development.
+ Pharmacogenomics.
+ 2005;6:807–22.
+ [PubMed] [Google Scholar]71.
+ Lattard V, Zhang J, Tran Q, Furnes B, Schlenk D, Cashman JR. Two new polymorphisms of the FMO3 gene in Caucasian and African-American populations: comparative genetic and functional studies.
+ Drug Metab Dispos.
+ 2003;31:854–60.
+ [PubMed] [Google Scholar]72.
+ Klick DE, Hines RN.
+ Mechanisms regulating human FMO3 transcription.
+ Drug Metab Rev.
+ 2007;39:419–42.
+ [PubMed] [Google Scholar]73.
+ Klick DE, Shadley JD, Hines RN.
+ Differential regulation of human hepatic flavin containing monooxygenase 3 (FMO3) by CCAAT/enhancer-binding protein β (C/EBPβ) liver inhibitory and liver activating proteins.
+ Biochem Pharmacol.
+ 2008;76:268–78.
+ [PubMed] [Google Scholar]74.
+ Wevers RA, Engelke UF.
+ Trimethylaminuria.
+ In: Blau N, editor.
+ Laboratory Guide to the Methods in Biochemical Genetics.
+ Springer-Verlag; New York: 2008. pp.
+ 781–92.
+ [Google Scholar]75.
+ Mitchell SC, Smith RL.
+ Trimethylaminuria: the fish malodour syndrome.
+ Drug Metab Dispos.
+ 2001;29:517–21.
+ [PubMed] [Google Scholar]76.
+ Marks R, Greaves MW, Prottey C, Hartop PJ.
+ Trimethylaminuria: the use of choline as an aid to diagnosis.
+ Br J Dermatol.
+ 1977;96:399–402.
+ [PubMed] [Google Scholar]77. al-Waiz M, Ayesh R, Mitchell SC, Idle JR, Smith RL.
+ Trimethylaminuria: the detection of carriers using a trimethylamine load test.
+ J Inherit Metab Dis.
+ 1989;12:80–5.
+ [PubMed] [Google Scholar]78.
+ Lin J, Cashman JR. Detoxication of tyramine by the flavin-containing monooxygenase: stereoselective formation of the trans oxime.
+ Chem Res Toxicol.
+ 1997;10:842–52.
+ [PubMed] [Google Scholar]79.
+ Drug Metab Dispos.
+ 2002:301043–52.
+ [PubMed] [Google Scholar]80.
+ Maschke S, Wahl A, Azaroual N, Boulet O, Crunelle V, Imbenotte M, et al.
+ 1H-NMR analysis of trimethylamine in urine for the diagnosis of fish-odour syndrome.
+ Clin Chim Acta.
+ 1997;263:139–46.
+ [PubMed] [Google Scholar]81.
+ Lee MB, Storer MK, Blunt JW, Lever M. Validation of (1)H NMR spectroscopy as an analytical tool for methylamine metabolites in urine.
+ Clin Chim Acta.
+ 2006;365:264–9.
+ [PubMed] [Google Scholar]82.
+ Abeling NGGM, van Gennip AH, Bakker HD, Heerschap A, Engelke U, Wevers RA.
+ Diagnosis of a new case of trimethylaminuria using direct proton NMR spectroscopy of urine.
+ J Inherit Metab Dis.
+ 1995;18:182–4.
+ [PubMed] [Google Scholar]83.
+ Mills GA, Walker V, Mughal H. Quantitative determination of trimethylamine in urine by solid-phase microextraction and gas chromatography-mass spectrometry.
+ J Chromatogr B Biomed Sci Appl.
+ 1999;723:281–5.
+ [PubMed] [Google Scholar]84. daCosta K-A, Vrbanac JJ, Zeisel SH.
+ The measurement of dimethylamine, trimethylamine, and trimethylamine N-oxide using capillary gas chromatography-mass spectrometry.
+ Anal Biochem.
+ 1990;187:234–9.
+ [PubMed] [Google Scholar]85.
+ Johnson DW.
+ A flow injection electrospray ionization tandem mass spectrometric method for the simultaneous measurement of trimethylamine and trimethylamine N-oxide in urine.
+ J Mass Spectrom.
+ 2008;43:495–9.
+ [PubMed] [Google Scholar]86.
+ Mamer OA, Choinière L, Lesimple A.
+ Measurement of urinary trimethylamine and trimethylamine oxide by direct infusion electrospray quadrupole time-of-flight spectrometry.
+ Anal Biochem.
+ 2010;406:80–2.
+ [PubMed] [Google Scholar]87.
+ Hsu WY, Lo WY, Lai CC, Tsai FJ, Tsai CH, Tsai Y, et al.
+ Rapid screening assay of trimethylaminuria in urine with matrix-assisted laser desorption/ionization time-of-flight mass spectrometry.
+ Rapid Commun Mass Spectrom.
+ 2007;21:1915–9.
+ [PubMed] [Google Scholar]88.
+ Alum MF, Shaw PA, Sweatman BC, Ubhi BK, Halselden JN, Connor SC.
+ 4,4-Dimethyl-4-silapentane-1-ammonium trifluoroacetate (DSA), a promising universal internal standard for NMR-based metabolic profiling of biofluids, including blood plasma and serum.
+ Metabolomics.
+ 2008;4:122–7.
+ [Google Scholar]89.
+ Bell JD, Lee JA, Lee HA, Sadler PJ, Wilkie DR, Woodham RH.
+ Nuclear magnetic resonance studies of blood plasma and urine from subjects with chronic renal failure: identification of trimethylamine-N-oxide.
+ Biochim Biophys Acta.
+ 1991;1096:101–7.
+ [PubMed] [Google Scholar]90.
+ Bedford JJ, Harper JL, Leader JP, Smith RA.
+ Identification and measurement of methylamines in elasmo-branch tissues using proton nuclear magnetic resonance (1H-NMR) spectroscopy.
+ J Comp Physiol B.
+ 1998;168:123–31.
+ [Google Scholar]91.
+ Bain MA, Faull R, Fornasini G, Milne RW, Schumann R, Evans AM.
+ Quantifying trimethylamine and trimethylamine-N-oxide in human plasma: interference from endogenous quaternary ammonium compounds.
+ Anal Biochem.
+ 2004;334:403–5.
+ [PubMed] [Google Scholar]92.
+ Dorland L, de Vries T, van Vossen R, Duran M, Wadman SK, Mienie LJ.
+ Trimethylaminuria, diagnosed by gas chromatography with nitrogen detection.
+ J Inherit Metab Dis.
+ 1987;10:401–2.
+ [PubMed] [Google Scholar]93.
+ Lee SK, Kim D-H, Jin C, Yoo HH.
+ Determination of urinary trimethylamine and trimethylamine-N-oxide by liquid chromatography-tandem mass spectrometry using mixed-mode stationary phases.
+ Bull Korean Chem Soc.
+ 2010;31:483–6.
+ [Google Scholar]94.
+ Danks DM, Hammond J, Schlesinger P, Faull K, Burke D, Halpern B. Trimethylaminuria: diet does not always control the fishy odor.
+ N Engl J Med.
+ 1976;295:962.
+ [PubMed] [Google Scholar]95.
+ Zeisel SH, Albright CD, Shin OH, Mar MH, Salganik RI, da Costa KA.
+ Choline deficiency selects for resistance to p53-independent apoptosis and causes tumorigenic transformation of rat hepatocytes.
+ Carcinogenesis.
+ 1997;18:731–8.
+ [PubMed] [Google Scholar]96.
+ Zeisel SH.
+ Choline, an essential nutrient for humans.
+ Nutrition.
+ 2000;16:669–71.
+ [PubMed] [Google Scholar]97.
+ Buchman AL, Dublin MD, Moukarzel AA, Jenden DJ, Roch M, Rice KM, et al.
+ Choline deficiency: a cause of hepatic steatosis during parenteral nutrition that can be reversed with intravenous choline supplementation.
+ Hepatology.
+ 1995;22:1399–403.
+ [PubMed] [Google Scholar]98.
+ Grön G, Brandenburg I, Wunderlich AP, Riepe MW.
+ Inhibition of hippocampal function in mild cognitive impairment: targeting the cholinergic hypothesis.
+ Neurobiol Aging.
+ 2006;27:78–87.
+ [PubMed] [Google Scholar]99.
+ Holmes-McNary MQ, Loy R, Mar M-H, Albright CD, Zeisel SH.
+ Apoptosis is induced by choline deficiency in fetal brain and in PC12 cells.
+ Brain Res Dev Brain Res.
+ 1997;101:9–16.
+ [PubMed] [Google Scholar]100.
+ Yates AA, Schlicker SA, Suitor CW.
+ Dietary Reference Intakes: the new basis for recommendations for calcium and related nutrients, B vitamins, and choline.
+ J Am Diet Assoc.
+ 1998;98:699–706.
+ [PubMed] [Google Scholar]101.
+ Canty DJ, Zeisel SH.
+ Lecithin and choline in human health and disease.
+ Nutr Rev.
+ 1994;52:327–39.
+ [PubMed] [Google Scholar]102.
+ Cashman JR, Xiong Y, Lin J, Verhagen H, van Poppel G, van Bladeren PJ, et al.
+ In vitro and in vivo inhibition of human flavin-containing monooxygenase form 3 (FMO3) in the presence of dietary indoles.
+ Biochem Pharmacol.
+ 1999;58:1047–55.
+ [PubMed] [Google Scholar]103.
+ Treacy E, Johnson D, Pitt JJ, Danks DM.
+ Trimethylaminuria, fish odour syndrome: a new method of detection and response to treatment with metronidazole.
+ J Inherit Metab Dis.
+ 1995;18:306–12.
+ [PubMed] [Google Scholar]104.
+ Varela-Moreiras G, Selhub J.
+ Long-term folate deficiency alters folate content and distribution differentially in rat tissues.
+ J Nutr.
+ 1992;122:986–91.
+ [PubMed] [Google Scholar]105.
+ Yamazaki H, Fujieda M, Togashi M, Saito T, Preti G, Cashman JR, et al.
+ Effects of the dietary supplements, activated charcoal and copper chlorophyllin, on urinary excretion of trimethylamine in Japanese trimethylaminuria patients.
+ Life Sci.
+ 2004;74:2739–47.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

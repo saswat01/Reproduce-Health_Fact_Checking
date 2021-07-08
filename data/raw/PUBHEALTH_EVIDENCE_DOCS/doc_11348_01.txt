@@ -1,0 +1,90 @@
+NEJM Journal Watch  Concise summaries and expert physician commentary that busy clinicians need to enhance patient care.
+ NEJM Knowledge +  The most effective and engaging way for clinicians to learn, improve their practice, and prepare for board exams.
+ NEJM Catalyst  NEW!
+ Peer-reviewed journal featuring in-depth articles to accelerate the transformation of health care delivery.
+ NEJM Resident 360  Information, resources, and support needed to approach rotations - and life as a resident.
+ NEJM Career Center  Valuable tools for building a rewarding career in health care.
+ NEJM Library Hub  Information and tools for librarians about site license offerings.
+ NEJM 医学前沿  The authorized source of trusted medical research and education for the Chinese-language medical community.
+ The New England Journal of Medicine  The most trusted, influential source of new medical knowledge and clinical best practices in the world.
+ 383  No.
+ 19        Recent Issues          October 29, 2020  Vol.
+ 383  No.
+ 18                October 22, 2020  Vol.
+ 383  No.
+ 17                October 15, 2020  Vol.
+ 383  No.
+ 16         Browse full issue index   Browse recently published    Browse full issue index    Recently Published Articles          Racial Disproportionality in Covid Clinical Trials                   Transgender Women on College Athletic Teams — The Case of Lindsay Hecox        J. Dolgin           Early Spread of SARS-CoV-2 in the Icelandic Population                   Preterm Birth and 17OHP — Why the FDA Should Not Withdraw Approval        M.F.
+ Greene et al.
+ Withdrawing Approval of Makena — A Proposal from the FDA Center for Drug Evaluation and Research        C.Y.
+ Chang et al.
+ SARS-CoV-2 Neutralizing Antibody LY-CoV555 in Outpatients with Covid-19        P. Chen et al.
+ Browse recently published      Learning/CME            Learning/CME          CME            Remdesivir for the Treatment of Covid-19 — Final Report                    Colchicine in Patients with Chronic Coronary Disease                    Migraine             Clinical Cases Resource Center           Interactive Medical Cases          Image Challenge           Videos in Clinical Medicine        NEJM Resident 360   NEJM Knowledge+   View all learning/CME    View all learning/CME      Other NEJM Group Learning        Hand Hygiene      Essential information students and residents need to approach residency with confidence: practical training information, career guidance, insightful discussions.
+ Effective, adaptive learning that helps you prepare for certification, maintain competency, and sharpen clinical decision-making while earning CME and MOC.
+ Article               Figures/Media             Metrics        17 References356
+        Citing Articles
+        Letters
+       Related ArticlesAbstract BackgroundTwo phase 3 trials (UNCOVER-2 and UNCOVER-3) showed that at 12 weeks of treatment, ixekizumab, a monoclonal antibody against interleukin-17A, was superior to placebo and etanercept in the treatment of moderate-to-severe psoriasis.
+ We report the 60-week data from the UNCOVER-2 and UNCOVER-3 trials, as well as 12-week and 60-week data from a third phase 3 trial, UNCOVER-1.
+ MethodsWe randomly assigned 1296 patients in the UNCOVER-1 trial, 1224 patients in the UNCOVER-2 trial, and 1346 patients in the UNCOVER-3 trial to receive subcutaneous injections of placebo (placebo group), 80 mg of ixekizumab every 2 weeks after a starting dose of 160 mg (2-wk dosing group), or 80 mg of ixekizumab every 4 weeks after a starting dose of 160 mg (4-wk dosing group).
+ Additional cohorts in the UNCOVER-2 and UNCOVER-3 trials were randomly assigned to receive 50 mg of etanercept twice weekly.
+ At week 12 in the UNCOVER-3 trial, the patients entered a long-term extension period during which they received 80 mg of ixekizumab every 4 weeks through week 60; at week 12 in the UNCOVER-1 and UNCOVER-2 trials, the patients who had a response to ixekizumab (defined as a static Physicians Global Assessment [sPGA] score of 0 [clear] or 1 [minimal psoriasis]) were randomly reassigned to receive placebo, 80 mg of ixekizumab every 4 weeks, or 80 mg of ixekizumab every 12 weeks through week 60.
+ Coprimary end points were the percentage of patients who had a score on the sPGA of 0 or 1 and a 75% or greater reduction from baseline in Psoriasis Area and Severity Index (PASI 75) at week 12.
+ ResultsIn the UNCOVER-1 trial, at week 12, the patients had better responses to ixekizumab than to placebo; in the 2-wk dosing group, 81.8% had an sPGA score of 0 or 1 and 89.1% had a PASI 75 response; in the 4-wk dosing group, the respective rates were 76.4% and 82.6%; and in the placebo group, the rates were 3.2% and 3.9% (P 1).
+ Patients who had had a response entered a randomized withdrawal period (weeks 12 through 60) in which they were randomly reassigned (stratified according to ixekizumab-regimen group during the induction period), in a 1:1:1 ratio, to receive subcutaneous injections of placebo (402 patients), 80 mg of ixekizumab every 4 weeks (416 patients), or 80 mg of ixekizumab every 12 weeks (408 patients).
+ Patients who had an sPGA score of 3 or higher (indicating relapse in the trials) during weeks 12 through 60 were classified as not having a response at all later time points; among these patients, those who were already receiving the every-4-week regimen maintained that regimen and those who were receiving the every-12-week regimen or placebo were switched to the every-4-week regimen.
+ End Points and Assessments The primary objective in the UNCOVER-1 trial was to assess whether ixekizumab would be superior to placebo with respect to the coprimary efficacy end points of a 75% or greater reduction from baseline in PASI (PASI 75) and an sPGA score of 0 (clear) or 1 (minimal psoriasis) at week 12.14 Secondary objectives were to assess whether ixekizumab would be superior to placebo with respect to the major secondary efficacy end points of a 90% or greater reduction from baseline in PASI (PASI 90) and complete resolution of psoriasis plaques (sPGA score of 0 and a 100% reduction from baseline in PASI [PASI 100]).
+ The objectives in the UNCOVER-2 and UNCOVER-3 trials at week 12 have been published previously.9 Major secondary efficacy end points for the randomized withdrawal periods in the UNCOVER-1 and UNCOVER-2 trials included the percentage of patients who maintained an sPGA score of 0 or 1 at week 60.
+ The sPGA and PASI end points in the long-term extension period in the UNCOVER-3 trial were reported through week 60 (details of the end-point assessments are provided in the Supplementary Appendix.)
+ We evaluated safety by monitoring adverse events, including the severity of the event and the relationship of the event to the use of the study drug or placebo, and by obtaining clinical laboratory measurements through 60 weeks.
+ An independent, external cardiovascular and cerebrovascular safety adjudication committee was established to review and adjudicate major adverse cardiovascular or cerebrovascular events, which were reported in a blinded manner.
+ Adverse events that occurred during the treatment periods, which included the induction period (weeks 0 to 12), the maintenance period (weeks 12 through 60), and the combined period (weeks 0 through 60), were defined as those that appeared or worsened during the period from immediately after the first injection through the date of the last visit in that treatment period.
+ Adverse events of special interest included serious infections, candidal infections, neutropenia, inflammatory bowel disease, cardiovascular or cerebrovascular events and major adverse cardiovascular or cerebrovascular events, and cancer.
+ Statistical Analysis Unless otherwise specified, all analyses of efficacy during the induction period were performed according to the intention-to-treat principle.
+ Missing values for the PASI and the sPGA score were imputed conservatively as nonresponses, regardless of the reason for the missing data.
+ A gatekeeping testing strategy for primary and major secondary analyses was implemented to control the overall type I error rate at a two-sided alpha level of 0.05.
+ The gatekeeping procedure was based on the Bonferroni test and used an intuitive, stepwise testing algorithm.
+ The alpha levels for the P values associated with the results of the primary and secondary analyses were computed at each step, depending on the results of the preceding tests of significance.
+ (The order in which the primary and major secondary objectives were tested, along with additional details of the statistical analysis, is provided in the Supplementary Appendix.)
+ The analyses of efficacy during the randomized withdrawal periods were performed with the use of integrated data from the UNCOVER-1 and UNCOVER-2 trials.
+ In the long-term extension period in the UNCOVER-3 trial, efficacy was summarized by descriptive statistics.
+ Safety analyses included all patients who received at least one dose of the study drug or placebo.
+ The rates of adverse events were compared among the study groups and analyzed with the use of the Cochran–Mantel–Haenszel test, stratified according to trial.
+ Exposure-adjusted incidence rates were calculated for common adverse events and serious adverse events that occurred during each treatment period (the induction period, the maintenance period, and the combined period); exposure-adjusted incidence rates were calculated as the total number of patients who had an adverse event or serious adverse event during each treatment period, divided by the total of all patients’ exposure during the same treatment period (per 100 patient-years).
+ A Poisson regression model was used to analyze exposure-adjusted incidence rates.
+ Results Patient Characteristics Table 1.
+ Table 1.
+ Baseline Demographics and Clinical Characteristics in All UNCOVER Trials.In the UNCOVER-1 trial, the mean age of the patients was 46 years, the mean weight was 92 kg, and the mean duration of psoriasis was 20 years.
+ Two thirds of the patients were men.
+ The mean body-surface-area involvement was greater than 25%, and the mean PASI was approximately 20.
+ Approximately 40% of the patients in the UNCOVER-1 trial had received prior biologic therapy, as compared with 24% in the UNCOVER-2 trial and 16% in the UNCOVER-3 trial, probably because the UNCOVER-2 and UNCOVER-3 trials excluded patients who had prior use of etanercept (Table 1).9 Efficacy Induction Period (UNCOVER-1) Figure 1.
+ Figure 1.
+ Response to Ixekizumab During the Induction Period in the UNCOVER-1 Trial.The induction period lasted for 12 weeks.
+ The patients in the two active-treatment groups received a starting dose of 160 mg of ixekizumab followed by 80 mg of ixekizumab every 2 weeks (433 patients) or 80 mg of ixekizumab every 4 weeks (432 patients); a total of 431 patients received placebo.
+ Panel A shows the percentage of patients with a static Physician’s Global Assessment (sPGA) score of 0 or 1.
+ Scores on the sPGA range from 0 (clear) to 5 (very severe); a score of 3 indicates moderate disease.
+ Panel B shows the percentage of patients with a 75% or greater reduction from baseline in the Psoriasis Area and Severity Index (PASI) (PASI 75).
+ The overall score on the PASI ranges from 0 (clear skin) to 72 (worst possible psoriasis); a score of 12 indicates moderate disease.
+ Panel C shows the percentage of patients with 90% or greater reduction from baseline in PASI (PASI 90), and Panel D shows the percentage of patients with 100% reduction from baseline in PASI (PASI 100).
+ P values were calculated with the use of a logistic-regression model unless the placebo value was equal to zero, in which case a Fisher’s exact test was used.
+ Missing values were imputed as nonresponse.During the induction period in the UNCOVER-1 trial, all primary and major secondary end points were met, with significantly greater improvements with both ixekizumab regimens than with placebo (Figure 1).
+ For all efficacy end points, the rates of response were higher in the 2-wk dosing group than in the 4-wk dosing group.
+ Among the patients in the 2-wk dosing group, 89.1% had a PASI 75 response, 70.9% had a PASI 90 response, and 35.3% had a PASI 100 response at week 12 (Figure 1).
+ The results of the analyses of efficacy during the induction period were consistent in the three UNCOVER trials (Fig.
+ S4 and Table S2 in the Supplementary Appendix).9 Long-Term Extension Period (UNCOVER-3) Figure 2.
+ Figure 2.
+ Maintenance of Response to Ixekizumab during Weeks 0 through 60 (UNCOVER-3).Shown is the maintenance of response to ixekizumab, at a dose of 80 mg, during the long-term extension period (weeks 12 through 60) among the 385 patients who had received ixekizumab every 2 weeks during the induction period (Panel A) and the 386 patients who had received ixekizumab every 4 weeks during the induction period (Panel B).
+ The responses that were measured were an sPGA score of 0 or 1, PASI 75, PASI 90, and PASI 100.
+ Missing values were imputed as nonresponse.The high rates of response observed during the induction period were generally maintained during the long-term extension period in UNCOVER-3 (Figure 2).
+ Most patients had maintained or attained near-complete resolution (PASI 90) or complete resolution (PASI 100) of psoriasis plaques through week 60.
+ Randomized Withdrawal Period (UNCOVER-1 and UNCOVER-2) Figure 3.
+ Figure 3.
+ Consistency of Response during Maintenance Weeks 12 through 60 among Patients Who Had an sPGA 0 or 1 Response at Week 12 (UNCOVER-1 and UNCOVER-2).Patients who had an sPGA score of 0 or 1 at the end of the induction period (week 12) of the UNCOVER-1 and UNCOVER-2 trials were randomly reassigned to receive 80 mg of ixekizumab every 4 weeks, 80 mg of ixekizumab every 12 weeks, or placebo.
+ Shown are the percentages of patients who had an sPGA score of 0 or 1 at week 12 in the pooled UNCOVER-1 and UNCOVER-2 trials, who maintained or attained an sPGA score of 0 or 1 (Panel A) and who maintained or attained a PASI 75 response (Panel B) during the randomized withdrawal period (weeks 12 through 60).
+ Patients who had an sPGA score of 0 or 1 at the end of the induction period were randomly reassigned for the randomized withdrawal period to receive 80 mg of ixekizumab every 4 weeks, 80 mg of ixekizumab every 12 weeks, or placebo.
+ Missing values were imputed as nonresponse.
+ Sign In or Renew                    Back to top       Article Categories   Research   Reviews   Clinical Cases   Perspective   Commentary   Other   Browse all Articles   Current Issue   Issue Index     Resources   Authors &amp; Reviewers   Submit a Manuscript   Subscribers   Institutions   Media   Advertisers   Agents   Permissions          Reprints         NEJM CareerCenter     About Us   About NEJM   Products &amp; Services   Editors &amp; Publishers   Advertising Policies   Contact Us   Accessibility   FAQs   Help   Site Feedback     Subscriptions   Subscribe   Renew   Activate Subscription   Create Account   Manage Account   Pay Bill   Special Offers     Stay Connected   Email Alerts   Create Account   Apps   NEJM CareerCenter   Podcasts   RSS Feed   Remote Access     Follow Us             Facebook                   Twitter                   Instagram              YouTube                   LinkedIn             Copyright © 2020 Massachusetts Medical Society.
+ All rights reserved.
+ Electronic ISSN 1533-4406.
+ Print ISSN 0028-4793.
+ The content of this site is intended for health care professionals.

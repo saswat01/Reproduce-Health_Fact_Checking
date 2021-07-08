@@ -1,0 +1,153 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link        Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People                  Search         Submit      For a full list of topics: A-Z Index   
+ 					Advanced Search
+ 				    
+ 				Advanced Search
+ 			                 Radiation Emergencies            Section Navigation         CDC Home                    Facebook Twitter LinkedIn Syndicate                            Acute Radiation Syndrome: A Fact Sheet for Clinicians     Minus     Related Pages     Download The Brochure (PDF)pdf icon This fact sheet is for clinicians.
+ If you are a patient, we strongly advise that you consult with your physician to interpret the information provided as it may apply to you.
+ Information on Acute Radiation Syndrome (ARS) for members of the public can be found at http://emergency.cdc.gov/radiation/ars.htm Acute Radiation Syndrome (ARS) (sometimes known as radiation toxicity or radiation sickness) is an acute illness caused by irradiation of the entire body (or most of the body) by a high dose of penetrating radiation in a very short period of time (usually a matter of minutes).
+ The major cause of this syndrome is depletion of immature parenchymal stem cells in specific tissues.
+ Examples of people who suffered from ARS are the survivors of the Hiroshima and Nagasaki atomic bombs, the firefighters that first responded after the Chernobyl Nuclear Power Plant event in 1986, and some unintentional exposures to sterilization irradiators.
+ The required conditions for Acute Radiation Syndrome (ARS) are:  The radiation dose must be large (i.e., greater than 0.7 Gray (Gy)1, 2 or 70 rads).
+ Mild symptoms may be observed with doses as low as 0.3 Gy or 30 rads.
+ The dose usually must be external ( i.e., the source of radiation is outside of the patient’s body).
+ Radioactive materials deposited inside the body have produced some ARS effects only in extremely rare cases.
+ The radiation must be penetrating (i.e., able to reach the internal organs).
+ High energy X-rays, gamma rays, and neutrons are penetrating radiations.
+ The entire body (or a significant portion of it) must have received the dose3.
+ Most radiation injuries are local, frequently involving the hands, and these local injuries seldom cause classical signs of ARS.
+ The dose must have been delivered in a short time (usually a matter of minutes).
+ Fractionated doses are often used in radiation therapy.
+ These are large total doses delivered in small daily amounts over a period of time.
+ Fractionated doses are less effective at inducing ARS than a single dose of the same magnitude.
+ The three classic ARS Syndromes are:  Bone marrow syndrome (sometimes referred to as hematopoietic syndrome) the full syndrome will usually occur with a dose between 0.7 and 10 Gy (70 – 1000 rads) though mild symptoms may occur as low as 0.3 Gy or 30 rads4.
+ The survival rate of patients with this syndrome decreases with increasing dose.
+ The primary cause of death is the destruction of the bone marrow, resulting in infection and hemorrhage.
+ Gastrointestinal (GI) syndrome: the full syndrome will usually occur with a dose greater than approximately 10 Gy (1000 rads) although some symptoms may occur as low as 6 Gy or 600 rads.
+ Survival is extremely unlikely with this syndrome.
+ Destructive and irreparable changes in the GI tract and bone marrow usually cause infection, dehydration, and electrolyte imbalance.
+ Death usually occurs within 2 weeks.
+ Cardiovascular (CV)/ Central Nervous System (CNS) syndrome: the full syndrome will usually occur with a dose greater than approximately 50 Gy (5000 rads) although some symptoms may occur as low as 20 Gy or 2000 rads.
+ Death occurs within 3 days.
+ Death likely is due to collapse of the circulatory system as well as increased pressure in the confining cranial vault as the result of increased fluid content caused by edema, vasculitis, and meningitis.
+ The four stages of ARS are:  Prodromal stage (N-V-D stage): The classic symptoms for this stage are nausea, vomiting, as well as anorexia and possibly diarrhea (depending on dose), which occur from minutes to days following exposure.
+ The symptoms may last (episodically) for minutes up to several days.
+ Latent stage: In this stage, the patient looks and feels generally healthy for a few hours or even up to a few weeks.
+ Manifest illness stage: In this stage the symptoms depend on the specific syndrome (see Table 1) and last from hours up to several months.
+ Recovery or death: Most patients who do not recover will die within several months of exposure.
+ The recovery process lasts from several weeks up to two years.
+ These stages are described in further detail in Table 1   Table 1: Acute Radiation Syndromes   Syndrome Dose* Prodromal Stage Latent Stage Manifest Illness Stage Recovery   Hematopoietic (Bone Marrow) &gt; 0.7 Gy (&gt; 70 rads) (mild symptoms may occur as low as 0.3 Gy or 30 rads) • Symptoms are anorexia, nausea and vomiting.
+ • Onset occurs 1 hour to 2 days after exposure.
+ • Stage lasts for minutes to days.
+ • Stem cells in bone marrow are dying, although patient may appear and feel well.
+ • Stage lasts 1 to 6 weeks.
+ • Symptoms are anorexia, fever, and malaise.
+ • Drop in all blood cell counts occurs for several weeks.
+ • Primary cause of death is infection and hemorrhage.
+ • Survival decreases with increasing dose.
+ • Most deaths occur within a few months after exposure.
+ • in most cases, bone marrow cells will begin to repopulate the marrow.
+ • There should be full recovery for a large percentage of individuals from a few weeks up to two years after exposure.
+ • death may occur in some individuals at 1.2 Gy (120 rads).
+ • the LD50/60† is about 2.5 to 5 Gy (250 to 500 rads)   Gastrointestinal (GI) &gt; 10 Gy (&gt; 1000 rads) (some symptoms may occur as low as 6 Gy or 600 rads) • Symptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea.
+ • Onset occurs within a few hours after exposure.
+ • Stage lasts about 2 days.
+ • Stem cells in bone marrow and cells lining GI tract are dying, although patient may appear and feel well.
+ • Stage lasts less than 1 week.
+ • Symptoms are malaise, anorexia, severe diarrhea, fever, dehydration, and electrolyte imbalance.
+ • Death is due to infection, dehydration, and electrolyte imbalance.
+ • Death occurs within 2 weeks of exposure.
+ • the LD100‡ is about 10 Gy (1000 rads)   Cardiovascular (CV)/ Central Nervous System (CNS) &gt; 50 Gy (5000 rads) (some symptoms may occur as low as 20 Gy or 2000 rads) • Symptoms are extreme nervousness and confusion; severe nausea, vomiting, and watery diarrhea; loss of consciousness; and burning sensations of the skin.
+ • Onset occurs within minutes of exposure.
+ • Stage lasts for minutes to hours.
+ • Patient may return to partial functionality.
+ • Stage may last for hours but often is less.
+ • Symptoms are return of watery diarrhea, convulsions, and coma.
+ • Onset occurs 5 to 6 hours after exposure.
+ • Death occurs within 3 days of exposure.
+ • No recovery is expected.
+ * The absorbed doses quoted here are “gamma equivalent” values.
+ Neutrons or protons generally produce the same effects as gamma, beta, or X-rays but at lower doses.
+ If the patient has been exposed to neutrons or protons, consult radiation experts on how to interpret the dose.
+ † The LD50/60 is the dose necessary to kill 50% of the exposed population in 60 days.
+ ‡ The LD100 is the dose necessary to kill 100% of the exposed population  Cutaneous Radiation Syndrome (CRS) The concept of cutaneous radiation syndrome (CRS) was introduced in recent years to describe the complex pathological syndrome that results from acute radiation exposure to the skin.
+ ARS usually will be accompanied by some skin damage.
+ It is also possible to receive a damaging dose to the skin without symptoms of ARS, especially with acute exposures to beta radiation or X-rays.
+ Sometimes this occurs when radioactive materials contaminate a patient’s skin or clothes.
+ When the basal cell layer of the skin is damaged by radiation, inflammation, erythema, and dry or moist desquamation can occur.
+ Also, hair follicles may be damaged, causing epilation.
+ Within a few hours after irradiation, a transient and inconsistent erythema (associated with itching) can occur.
+ Then, a latent phase may occur and last from a few days up to several weeks, when intense reddening, blistering, and ulceration of the irradiated site are visible.
+ In most cases, healing occurs by regenerative means; however, very large skin doses can cause permanent hair loss, damaged sebaceous and sweat glands, atrophy, fibrosis, decreased or increased skin pigmentation, and ulceration or necrosis of the exposed tissue.
+ Patient Management Triage: If radiation exposure is suspected:  Secure ABCs (airway, breathing, circulation) and physiologic monitoring (blood pressure, blood gases, electrolyte and urine output) as appropriate.
+ Treat major trauma, burns and respiratory injury if evident.
+ In addition to the blood samples required to address the trauma, obtain blood samples for CBC (complete blood count), with attention to lymphocyte count, and HLA (human leukocyte antigen) typing prior to any initial transfusion and at periodic intervals following transfusion.
+ Treat contamination as needed.
+ If exposure occurred within 8 to 12 hours, repeat CBC, with attention to lymphocyte count, 2 or 3 more times (approximately every 2 to 3 hours) to assess lymphocyte depletion.
+ Diagnosis The diagnosis of ARS can be difficult to make because ARS causes no unique disease.
+ Also, depending on the dose, the prodromal stage may not occur for hours or days after exposure, or the patient may already be in the latent stage by the time they receive treatment, in which case the patient may appear and feel well when first assessed.
+ If a patient received more than 0.05 Gy (5 rads) and three or four CBCs are taken within 8 to 12 hours of the exposure, a quick estimate of the dose can be made (see Ricks, et.
+ al.
+ for details).
+ If these initial blood counts are not taken, the dose can still be estimated by using CBC results over the first few days.
+ It would be best to have radiation dosimetrists conduct the dose assessment, if possible.
+ If a patient is known to have been or suspected of having been exposed to a large radiation dose, draw blood for CBC analysis with special attention to the lymphocyte count, every 2 to 3 hours during the first 8 hours after exposure (and every 4 to 6 hours for the next 2 days).
+ Observe the patient during this time for symptoms and consult with radiation experts before ruling out ARS.
+ If no radiation exposure is initially suspected, you may consider ARS in the differential diagnosis if a history exists of nausea and vomiting that is unexplained by other causes.
+ Other indications are bleeding, epilation, or white blood count (WBC) and platelet counts abnormally low a few days or weeks after unexplained nausea and vomiting.
+ Again, consider CBC and chromosome analysis and consultation with radiation experts to confirm diagnosis.
+ Initial Treatment and Diagnostic Evaluation Treat vomiting5, and repeat CBC analysis, with special attention to the lymphocyte count, every 2 to 3 hours for the first 8 to 12 hours following exposure (and every 4 to 6 hours for the following 2 or 3 days).
+ Sequential changes in absolute lymphocyte counts over time are demonstrated below in the Andrews Lymphocyte Nomogram (see Figure 1).
+ Precisely record all clinical symptoms, particularly nausea, vomiting, diarrhea, and itching, reddening or blistering of the skin.
+ Be sure to include time of onset.
+ Figure 1: Andrews Lymphocyte Nomogram  From Andrews GA, Auxier JA, Lushbaugh CC.
+ The Importance of Dosimetry to the Medical Management of Persons Exposed to High Levels of Radiation.
+ In Personal Dosimetry for Radiation Accidents.
+ Vienna : International Atomic Energy Agency; 1965.
+ Note and record areas of erythema.
+ If possible, take color photographs of suspected radiation skin damage.
+ Consider tissue, blood typing, and initiating viral prophylaxis.
+ Promptly consult with radiation, hematology, and radiotherapy experts about dosimetry, prognosis, and treatment options.
+ Call the Radiation Emergency Assistance Center/Training Site (REAC/TS) at (865) 576-3131 (M-F, 8 am to 4:30 am EST) or (865) 576-1005 (after hours) to record the incident in the Radiation Accident Registry System.
+ After consultation, begin the following (as indicated):  supportive care in a clean environment (if available, the use of a burn unit may be quite effective) prevention and treatment of infections stimulation of hematopoiesis by use of growth factors stem cell transfusions or platelet transfusions (if platelet count is too low) psychological support careful observation for erythema (document locations), hair loss, skin injury, mucositis, parotitis, weight loss, or fever confirmation of initial dose estimate using chromosome aberration cytogenetic bioassay when possible.
+ Although resource intensive, this is the best method of dose assessment following acute exposures.
+ consultation with experts in radiation accident management  For More Help Technical assistance can be obtained from the Radiation Emergency Assistance Center/Training Site (REAC/TS) at (865) 576-3131 (M-F, 8 am to 4:30 pm EST) or (865) 576-1005 (after hours), or on their web site at http://www.orau.gov/reacts/external icon, and the Medical Radiobiology Advisory Team (MRAT) at (301) 295-0316.
+ Also, more information can be obtained from the CDC Health Alert Network at emergency.cdc.gov or by calling (800) 311-3435.
+ References  Berger ME, O’Hare FM Jr, Ricks RC, editors.
+ The Medical Basis for Radiation Accident Preparedness: The Clinical Care of Victims.
+ REAC/TS Conference on the Medical Basis for Radiation Accident Preparedness.
+ New York : Parthenon Publishing; 2002.
+ Gusev IA , Guskova AK , Mettler FA Jr, editors.
+ Medical Management of Radiation Accidents, 2 nd ed., New York : CRC Press, Inc.; 2001.
+ Jarrett DG.
+ Medical Management of Radiological Casualties Handbook, 1 st ed.
+ Bethesda , Maryland : Armed Forces Radiobiology Research Institute (AFRRI); 1999.
+ LaTorre TE.
+ Primer of Medical Radiobiology, 2 nd ed.
+ Chicago : Year Book Medical Publishers, Inc.; 1989.
+ National Council on Radiation Protection and Measurements (NCRP).
+ Management of Terrorist Events Involving Radioactive Material, NCRP Report No.
+ 138.
+ Bethesda , Maryland : NCRP; 2001.
+ Prasad KN.
+ Handbook of Radiobiology, 2 nd ed.
+ New York : CRC Press, Inc.; 1995.
+ In this document, the referenced absorbed dose is that dose inside the patient’s body (i.e., the dose that is normally measured with personal dosimeters).
+ The referenced absorbed dose levels in this document are assumed to be from beta, gamma, or x radiation.
+ Neutron or proton radiation produces many of the health effects described herein at lower absorbed dose levels.
+ The dose may not be uniform, but a large portion of the body must have received more than 0.7 Gy (70 rads).
+ Children and infants are especially sensitive.
+ Collect vomitus in the first few days for later analysis.
+ Page last reviewed: April 4, 2018 Content source: 	National Center for Environmental Health (NCEH), Emergency Management, Radiation, and Chemical Branch
+          homeRadiation Emergencies    What Should I Do?plus icon   Get Insideplus icon  Shelter-in-Place Tips before Entering a Shelter What about my pets?
+ What if I am outside?
+ Stay Insideplus icon  Preventing and Treating Radiation Injuries and Illness Self-Decontamination Decontamination – Helping Others Decontamination – Pets Indoor Air Safety Food and Drinking Water Safety in a Radiation Emergency Breastfeeding    Stay Tunedplus icon  Ways to Stay Tuned Screening Mental Health Evacuation Helping Others     Questions About Radiation (FAQ) Radiation Dictionary  Radiation Emergencies &amp; Your Healthplus icon   Possible Health Effectsplus icon  Contamination and Exposure Acute Radiation Syndrome (ARS) Cutaneous Radiation Injury (CRI) Cancer and Long-Term Health Effects    Treatmentsplus icon  Potassium Iodide (KI) Prussian Blue DTPA (Diethylenetriamine pentaacetate) Neupogen: General Information for the Public Neupogen: General Information for Clinicians   Health Information for Specific Groups    Types of Radiation Emergenciesplus icon  More Information    Information for Professionalsplus icon  Radiation Thermometer  Information for Cliniciansplus icon  Acute Radiation Syndrome: A Fact Sheet for Clinicians Cutaneous Radiation Injury (CRI): A Fact Sheet for Clinicians Radiation and Pregnancy: A Fact Sheet for Clinicians Radiological Terrorism: Emergency Management Pocket Guide for Clinicians   Public Health Preparedness Capabilities Toolkits  Resource Libraryplus icon  Population Monitoring Patient Management Countermeasures Communications Mass Fatalities Mass Care Laboratory Law Enforcement Radiation Basics Infographics Videos      Radiation Emergency Training, Education, and Tools plus icon  Training and Reference Tools and Resources Guidance and Recommendations Evaluation and Audience Assessment Patient Management Information and Educational Resources    Isotopesplus icon  Americium-241 (Am-241)  Cesium-137 (Cs-137)plus icon  Radioisotope Brief Toxicology FAQs    Cobalt-60 (Co-60)plus icon  Radioisotope Brief Toxicological Profile Toxicology FAQs    Iodine-131 (I-131)plus icon  Radioisotope Brief Toxicology FAQs   Iridium-192 (Ir-192)  Plutoniumplus icon  Radioisotope Brief Toxicological Profile Toxicology FAQs    Polonium-210plus icon  Q &amp; A: Information about Public Health Issues Related to Polonium-210 Contamination in the United Kingdom Guidance for Public Health Departments and Clinicians Caring for Individuals Who May Have Been Recently Exposed to Polonium-210    Strontium-90 (Sr-90)plus icon  Radioisotope Brief Toxicology FAQs    Uranium-235 (U-235) &amp; Uranium-238 (U-238)plus icon  Radioisotope Brief Toxicological Profile          Social_govd 
+   govD
+     Get Email Updates  To receive email updates about this page, enter your email address: Email Address  What's this Submit      Related Pages   Contact Us Calendar Employment                HAVE QUESTIONS?
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ Cancel Continue

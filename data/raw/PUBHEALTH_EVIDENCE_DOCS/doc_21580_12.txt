@@ -1,0 +1,1747 @@
+2                     Chart 3. 
+Fatal work injuries
+ by major event
+ or exposure
+, 2016
+-18   Occupation
+  Driver/sales workers and truck drivers had the most 
+fatalities
+ of any broad occupation group at 966. 
+Among all detailed occupations, h
+eavy and tractor
+-trailer truck drivers had the most fatalities 
+at 831.   In 2018, logging workers, fishers and related fishing workers, aircraft pilots and flight engineers, and 
+roofers
+ all had fatality rates more than 
+10 times the all
+-worker rate
+ of 3.5 fatalities per 100,000 
+FTE 
+workers
+. (See chart 4
+.) 
+ Police and sheriff™s patrol officers had 108 fatalities 
+in 2018, up 14 percent from 2017. 
+ Fatal injuries to 
+taxi drivers and 
+chauffeurs declined by 24 percent to 47, 
+the lowest total since 
+2003 when comparable data for the occupation were first available
+.  
+ Fatal injury
+ counts by occupation will be available shortly at 
+www.bls.gov/iif/oshwc/cfoi/all_worker.xlsx
+. Fatality r
+ates by occupation will be available shortly at 
+www.bls.gov/iif/oshwc/cfoi/cfoi_rates_2018hb.xlsx
+.  
+ Independent workers
+  In 2016, the CFOI began identifying fatal injuries to independent workers. Independent workers are involved in 
+a work relationship that is finite
+ and
+ involves a single task, short-
+term contract, or freelance work.
+  
+  In 2018, there were 621 fatal injuries to independent workers, up from 613 in 2017. 
+ Independent workers comprised 12 percent of all fatal injuries in 2018.  
+ Occupations with the most fatal 
+work injuries to independent workers in 2018 were heavy and tractor 
+trailer
+-truck drivers (96), followed by 
+first
+-line supervisors of construction trades and extraction workers 
+(61), and construction laborers (48).  
+ Fatal occupational injury 
+data 
+for
+ independent workers will be available shortly at 
+www.bls.gov/iif/oshwc/cfoi/independent-
+workers.xlsx
+. 
+  05001,000
+1,500
+
+2,000
+
+2,500
+Transportation
+incidents
+Falls, slips, trips
+Violence and
+other injuries by
+person or animal
+Contact with
+objects and
+equipment
+Exposure to
+harmful
+substances or
+environments
+Fires and
+explosions
+201620172018  3            
+                
+Chart 
+4. Fatal work injury 
+rates
+ per 100,0
+00 full
+-time equivalent workers
+ by selected occupations, 2018
+    Worker 
+demographics
+   Fatalities to non
+-Hispanic Black or African American workers increased 16 percent to 615 in 2018, the 
+highest total since 1999. Their fatal injury rate also increased from 3.2 per 100,000 FTE workers 
+in 2017 
+to 3.6 in 2018. 
+ Hispanic or 
+Latino
+ workers experienced 961 fatalities i
+n 2018, a 6 percent increase from 2017. Sixty-
+seven percent of fatally
+-injured Hispanic or Latino workers were born outside of the United States.  
+ Though the number of fatalities declined for workers 
+age 
+65 years
+ and over in 2018, their fatal work-
+injury rate is still more than double the 
+all
+-worker rate. 
+(S
+ee 
+table 1.) 
+ A total of 2
+0 states 
+and the District of Columbia had fewer fatal injuries in 2018 than 2017, while 28 
+states had more; Arkansas
+ and Oklahoma had the same number as 2017
+. (See table 5.)
+  
+ Fatal occupational injury data for 
+foreign
+-born Hispanic or Latino workers will be available shortly at 
+www.bls.gov/iif/oshwc/cfoi/foreign_b_h.xlsx
+.  
+  0102030405060708090100Structural iron and steel workers
+Driver/sales workers and truck drivers
+Refuse and recyclable material collectors
+Roofers
+Aircraft pilots and flight engineers
+Fishers and related fishing workers
+Logging workers
+First
+-line supervisors of landscaping, lawn 
+service, and groundskeeping workers
+ First
+-line supervisors of construction trades 
+and extraction workers
+ Farmers, ranchers, and other agricultural 
+managers
+  4  TECHNICAL NOTES
+  Background 
+ The Census of Fatal Occupational Injuries (CFOI), part of the Bureau of Labor Statistics (
+BLS
+) Occupational 
+Safety and Health Statistics (OSHS) program, 
+is 
+a count of all fatal 
+work injuries occurring in the U.S. during 
+the calendar year.
+ The CFOI uses a variety of
+ state, federal, and independent data sources to identify, verify, 
+and describe fatal work injuries. This 
+ensures counts are as complete and accurate as possible. For 
+the 2018 
+
+data, 
+over 24,800 unique source documents were reviewed as part of the data collection process. 
+For technical 
+
+information and definitions for 
+the 
+CFOI, 
+see
+ the BLS Handbook of Methods on the BLS website at 
+
+www.bls.gov/opub/hom/cfoi/home.htm
+. Fatal injury rates are subject to sampling errors as they are calculated 
+using employment data from the Current Population Survey, a sample of households, and the BLS Local Are
+a Unemployment Statistics
+. For more information on 
+measurement error
+, see 
+www.bls.gov/iif/osh_rse.htm
+.  The Survey of Occupational Injuries and Illnesses (SOII), another component of the OSHS program, presents 
+
+frequency counts and incidence rates by industry, 
+detailed case circumstances
+, and worker characteristics for 
+nonfatal workplace injuries and illnesses for cases that result in days away from work. Counts and i
+ncidence 
+rates by industry, 
+case type
+, case circumstances and worker characteristics 
+for 2018 w
+ere
+ published in 
+November 2019. 
+For 
+these data, access the BLS web
+site: 
+www.bls.gov/iif
+.  
+ Identification and verification of work-
+related fatalities
+ In 2018, work relationship could not be independently verified by multiple source documents for 12 fatal work 
+
+injuries
+. However, the information on the initiating source document for these cases was sufficient to determine 
+that the incident was likely to be job
+-related. Data for these fatalities are
+ included. 
+ Federal/State agency coverage
+ The C
+FOI
+ includes data for all fatal work inj
+uries, some of which may be outside the scope of other agencies or 
+regulatory coverage.
+ Comparisons 
+between 
+CFOI
+ counts and those released by other agencies should account 
+for 
+the different coverage 
+requirements and definitions used by each agency. 
+For m
+ore 
+information 
+on the scope 
+of CFOI
+, see 
+www.bls.gov/iif/cfoiscope.htm
+ and 
+www.bls.gov/opub/hom/cfoi/concepts.htm
+.  
+ Acknowledgements
+ BLS thanks the participating states, New York City, the District of Columbia, Puerto Rico, the U.S. Virgin 
+Islands, and Guam for their efforts in collecting accurate, comprehensive, and useful data on fatal work injuries. 
+Although data for Puerto Rico, the U.S. Virgin Islands, and Guam are not included in the national totals, results 
+for these jurisdictions are available. Participating agencies may be contacted to request more detailed state 
+results. Contact information is 
+available at 
+www.bls.gov/iif/oshstate.htm
+.   BLS also appreciates the efforts of all federal, state, local, and private sector entities that 
+provid
+ed source 
+documents used to identify fatal work injuries
+. Among these agencies are the Occupational Safety and Health 
+Administration; the National Transportation Safety Board; the U.S. Coast Guard; the Mine Safety and Health 
+Administration; the Office of Workers™ Compensation Programs (Federal Employees™ Compensation and 
+Longshore and Harbor Workers™ Compensation divisions); the Federal Railroad Administration; the National 
+Highway Traffic Safety Administration; state vital statistics registrars, coroners, and medical examiners; state 
+departments of health, labor, 
+and industrial relations
+ and workers™ compensation agencies; state and local police 
+departments; and state farm bureaus.
+  
+ Information in this release is available to sensory
+-impaired individuals. Voice phone: (202) 691-5200
+; Federal 
+Relay Service: 
+(800) 877-8339. 
+  5Table 1. Fatal occupational injuries counts and rates by selected demographic characteristics, 2017-18
+               Counts
+               Rates
+1   Rates Margin of Error
+2Characteristic
+2017
+2018
+2017
+2018
+2017
+2018
+Total
+35,147
+            5,250
+            3.5
+                 3.5
+0.0
+                 0.0
+                 Employee status
+Wage and salary workers
+44,069
+            4,178
+2.9
+2.9
+0.0
+                 0.0
+                 Self-employed
+51,078
+            1,072
+13.1
+12.7
+0.3
+                 0.3
+                 no data
+Gender
+no data
+Women
+386
+                413
+0.6
+0.6
+0.0
+                 0.0
+                 Men
+4,761
+            4,837
+5.7
+5.7
+0.0
+                 0.0
+                 Age
+Under 16 years
+15
+                  13
+N/A
+N/A
+N/A
+N/A
+16 to 17 years
+7                    90.8
+1.0
+0.0
+                 0.0
+                 18 to 19 years
+62
+                  56
+2.6
+2.3
+0.1
+                 0.1
+                 20 to 24 years
+293
+                282
+2.2
+2.1
+0.0
+                 0.0
+                 25 to 34 years
+872
+                946
+2.5
+2.7
+0.0
+                 0.0
+                 35 to 44 years
+907
+                966
+2.9
+2.9
+0.0
+                 0.0
+                 45 to 54 years
+1,059
+            1,114
+3.3
+3.4
+0.0
+                 0.0
+                 55 to 64 years
+1,155
+            1,104
+4.6
+4.3
+0.0
+                 0.0
+                 65 years and over
+775
+                759
+10.3
+9.6
+0.2
+                 0.2
+                 Race or ethnic origin
+6White (non-Hispanic)
+3,449
+            3,405
+3.6
+3.6
+0.0
+                 0.0
+                 Black or African-American (non-Hispanic)
+530
+                615
+3.2
+3.6
+0.0
+                 0.0
+                 Hispanic or Latino
+903
+                961
+3.7
+3.7
+0.0
+                 0.0
+                 American Indian or Alaskan Native (non-Hispanic)
+38
+                  42
+N/A
+N/A
+N/A
+N/A
+Asian (non-Hispanic)
+144
+                153
+1.6
+1.7
+0.0
+                 0.0
+                 Native Hawaiian or Pacific Islander (non-Hispanic)
+17
+                  10
+N/A
+N/A
+N/A
+N/A
+Multiple races (non-Hispanic)
+9                    14
+N/A
+N/A
+N/A
+N/A
+Other races or not reported (non-Hispanic)
+57
+                  50
+N/A
+N/A
+N/A
+N/A
+1 Fatal injury rates are per 100,000 full-time equivalent (FTE) workers. Fatal injury rates exclude workers under the age of 16 years, volunteers, and resident military. Complete 
+national rates can be found at www.bls.gov/iif/oshcfoi1.htm#rates. Complete state rates can be found at www.bls.gov/iif/oshstate.htm. National and state rates are calculated 
+using different methodology and cannot be directly compared. See www.bls.gov/opub/hom/cfoi/calculation.htm#comparisons-of-national-and-state-rates for more information on 
+
+how rates are calculated and caveats for comparison. N/A means a rate was not published for this group.
+2 Fatal injury rates rely on the census figures from the Census of Fatal Occupational Injuries (CFOI) and the employment from the Current Population Survey (CPS). CPS is a sample of households 
+that is designed to represent the civilian noninstitutional population of the United States. Sampling errors occur in the CPS because observations are made on a sample, not on the entire population. 
+
+The margin of error (MOE) is a measure of dispersion around the estimated fatal injury rate, expressed at the 95% confidence level. For more on confidence intervals, see www.bls.gov/iif/osh_rse.htm. 
+
+While the MOE measures the variance in the employment calculations, small fatal injury counts can vary substantially from year to year. See www.bls.gov/iif/dangerous-jobs.htm for more information.
+3 The CFOI has published data on fatal occupational injuries for the United States since 1992. During this time, the classification systems and definitions of many data elements have changed.
+ See the CFOI Definitions page (www.bls.gov/iif/oshcfdef.htm) for a more detailed description of each data element.
+4 May include volunteers and workers receiving other types of compensation.
+5 Includes self-employed workers, owners of unincorporated businesses and farms, paid and unpaid family workers, and may include some owners of incorporated businesses or members 
+of partnerships.
+6 Persons identified as Hispanic or Latino may be of any race. The race categories shown exclude data for Hispanics and Latinos.
+Note: Data for all years are final. Totals for major categories may include subcategories not shown separately. CFOI fatal injury counts exclude illness-related deaths unless 
+
+precipitated by an injury event.
+
+Source: U.S. Bureau of Labor Statistics, Current Population Survey, Census of Fatal Occupational Injuries
+ 6Table 2. Fatal occupational injuries for selected events or exposures, 2011-18
+               Counts
+Characteristic
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Total
+14,693
+        4,628
+        4,585
+        4,821
+        4,836
+        5,190
+        5,147
+5,250
+        Event or exposure
+Violence and other injuries by persons or animals
+791
+           803
+           773
+           765
+           703
+           866
+           807
+           828
+           Intentional injury by person
+718
+           725
+           686
+           689
+           646
+           792
+           733
+           757
+           Homicides
+468
+           475
+           404
+           409
+           417
+           500
+           458
+           453
+           Shooting by other personŠintentional
+365
+           381
+           322
+           307
+           354
+           394
+           351
+           351
+           Stabbing, cutting, slashing, piercing
+42
+             35
+             38
+             40
+             28
+             38
+             47
+             44
+             Suicides
+250
+           249
+           282
+           280
+           229
+           291
+           275
+           304
+           Transportation incidents
+1,937
+        1,923
+        1,865
+        1,984
+        2,054
+        2,083
+        2,077
+        2,080
+        Aircraft incidents
+145
+           127
+           136
+           135
+           139
+           130
+           126
+           133
+           Rail vehicle incidents
+50
+             38
+             41
+             57
+             50             50
+             48
+             48
+             Pedestrian vehicular incident
+316
+           293
+           294
+           318
+           289
+           342
+           313
+           325
+           Pedestrian struck by vehicle in work zone
+63
+             65
+             48
+             53
+             44
+             58
+             56
+             58
+             Water vehicle incident
+72
+             63
+             60
+             55
+             44
+             48
+             68
+             58
+             Roadway incident involving motorized land vehicle
+1,103
+        1,153
+        1,099
+        1,157
+        1,264
+        1,252
+        1,299
+        1,276
+        Roadway collision with other vehicle
+525
+           565
+           564
+           611
+           660
+           628
+           663
+           677
+           Roadway collision moving in same direction
+150
+           124
+           144
+           146
+           166
+           168
+           189
+           183
+           Roadway collision moving in opposite directions, oncoming
+172
+           204
+           192
+           230
+           224
+           199
+           214
+           243
+           Roadway collision moving perpendicularly
+111
+           134
+           136
+           131
+           154
+           150
+           149
+           141
+           Roadway collision with object other than vehicle
+313
+           338
+           332
+           317
+           360
+           342
+           377
+           373
+           Vehicle struck object or animal on side of roadway
+292
+           318
+           311
+           292
+           335
+           321
+           348
+           345
+           Roadway noncollision incident
+262
+           247
+           201
+           228
+           240
+           278
+           252
+           222
+           Jack-knifed or overturned, roadway
+208
+           202
+           171
+           193
+           201
+           238
+           197
+           170
+           Nonroadway incident involving motorized land vehicle
+222
+           233
+           227
+           248
+           253
+           245
+           209
+           225
+           Nonroadway noncollision incident
+169
+           175
+           181
+           191
+           182
+           182
+           166
+           164
+           Jack-knifed or overturned, nonroadway
+113
+           115
+           118
+           127
+           131
+           120
+           111
+           105
+           Fire or explosion
+144
+           122
+           149
+           137
+           121
+           88
+             123
+           115
+           Fall, slip, trip
+681
+           704
+           724
+           818
+           800
+           849
+           887
+           791
+           Fall on same level
+111
+           120
+           110
+           138
+           125
+           134
+           151
+           154
+           Fall to lower level
+553
+           570
+           595
+           660
+           648
+           697
+           713
+           615
+           Fall from collapsing structure or equipment
+38
+             35
+             45             44             55             65             48             50             Fall through surface or existing opening
+60
+             72
+             68
+             82
+             87
+             87
+             85
+             83
+             Exposure to harmful substances or environments
+419
+           340
+           335
+           390
+           424
+           518
+           531
+           621
+           Exposure to electricity
+174
+           156
+           141
+           154
+           134
+           154
+           136
+           160
+           Exposure to temperature extremes
+63
+             41
+             38
+             26
+             40
+             48
+             38
+             60
+             Exposure to other harmful substances
+144
+           110
+           124
+           182
+           215
+           268
+           317
+           355
+           Nonmedical use of drugs or alcohol unintentional overdose
+73
+             65
+             82
+             114
+           165
+           217
+           272
+           305
+           Inhalation of harmful substance
+57
+             40
+             39
+             59
+             45
+             39
+             43
+             42
+             Contact with objects and equipment
+710
+           723
+           721
+           715
+           722
+           761
+           695
+           786
+           Struck by object or equipment
+476
+           519
+           509
+           503
+           519
+           553
+           503
+           566
+                   Struck by powered vehicle nontransport
+196
+           201
+           197
+           202
+           216
+           232
+           197
+           215
+           Struck by falling object or equipment
+219
+           241
+           245
+           243
+           247
+           255
+           237
+           278
+           Caught in or compressed by equipment or objects
+145
+           124
+           131
+           132
+           99             117
+           108
+           137
+           Caught in running equipment or machinery
+118
+           93
+             105
+           105
+           74
+             103
+           76
+             106
+           Struck, caught, or crushed in collapsing structure, equipment, or 
+material
+84
+             73
+             78
+             74
+             90
+             82
+             70
+             73
+             1 The Census of Fatal Occupational Injuries (CFOI) has published data on fatal occupational injuries for the United States since 1992. During this time, the classification 
+systems and definitions of many data elements have changed. See the CFOI Definitions page (www.bls.gov/iif/oshcfdef.htm) for a more detailed description of 
+each data element. Event or exposure is based on the BLS Occupational Injury and Illness Classification System (OIICS) 2.01 implemented for 2011 data forward.
+
+Note: Data for all years are final. Totals for major categories may include subcategories not shown separately. CFOI fatal injury counts exclude illness-related deaths 
+
+unless precipitated by an injury event.
+
+Source: U.S. Bureau of Labor Statistics, Census of Fatal Occupational Injuries
+ 7Table 3. Fatal occupational injuries counts and rates for selected occupations, 2017-18
+               Counts
+               Rates
+1 Rates Margin of Error
+2Characteristic
+2017
+2018
+2017
+2018
+2017
+2018
+Total
+35,147
+          5,250
+3.5
+               3.5
+               0.0
+               0.0
+               Occupation (SOC)
+Management occupations
+396
+              387
+              2.1
+               2.0
+0.0
+0.0
+Business and financial operations occupations
+29
+                38
+                0.4
+               0.5
+0.0
+0.0
+Computer and mathematical occupations
+11
+                12
+                0.2
+               0.2
+0.0
+0.0
+Architecture and engineering occupations
+23
+                30
+                0.7
+               0.9
+0.0
+0.0
+Life, physical, and social science occupations
+13
+                18
+                0.9
+               1.1
+0.1
+0.1
+Community and social services occupations
+37
+                23
+                1.4
+               0.8
+0.1
+0.0
+Legal occupations
+11
+                15
+                0.6
+               0.8
+0.0
+0.0
+Education, training, and library occupations
+30
+                27
+                0.4
+               0.3
+0.0
+0.0
+Arts, design, entertainment, sports, and media occupations
+47
+                71
+                1.6
+               2.3
+0.1
+0.1
+Healthcare practitioners and technical occupations
+57
+                65
+                0.6
+               0.7
+0.0
+0.0
+Healthcare support occupations
+28
+                32
+                0.9
+               1.0
+0.0
+0.0
+Protective service occupations
+266
+              270
+              7.7
+               7.4
+0.3
+0.3
+Fire fighting and prevention workers
+35
+                33
+                N/A
+N/A
+N/A
+N/A
+Law enforcement workers
+117
+              127
+              N/A
+N/A
+N/A
+N/A
+Food preparation and serving related occupations
+89
+                100
+              1.4
+               1.5
+0.0
+0.0
+Building and grounds cleaning and maintenance occupations
+326
+              350
+              6.4
+               6.8
+0.2
+0.2
+Building cleaning and pest control workers
+68
+                66
+                N/A
+N/A
+N/A
+N/A
+Grounds maintenance workers
+191
+              225
+              15.5
+            18.6
+0.9
+1.0
+Personal care and service occupations
+69
+                63
+                1.2
+               1.2
+0.0
+0.0
+Sales and related occupations
+232
+              241
+              1.6
+               1.7
+0.0
+0.0
+Supervisors, sales workers
+98
+                102
+              N/A
+N/A
+N/A
+N/A
+Retail sales workers
+89
+                99
+                N/A
+N/A
+N/A
+N/A
+Office and administrative support occupations
+101
+              69
+                0.6
+               0.4
+0.0
+0.0
+Farming, fishing, and forestry occupations
+264
+              262
+              20.9
+            22.8
+1.9
+2.5
+Agricultural workers
+155
+              158
+              N/A
+N/A
+N/A
+N/A
+Fishing and hunting workers
+41
+                31
+                N/A
+N/A
+N/A
+N/A
+Forest, conservation, and logging workers
+57
+                57
+                N/A
+N/A
+N/A
+N/A
+Construction and extraction occupations
+965
+              1,003
+          12.2
+            12.2
+0.3
+0.3
+Supervisors of construction and extraction workers
+121
+              144
+              17.4
+            21.0
+1.2
+1.6
+Construction trades workers
+747
+              731
+              N/A
+N/A
+N/A
+N/A
+Extraction workers
+41
+                64
+                N/A
+N/A
+N/A
+N/A
+Installation, maintenance, and repair occupations
+414
+              420
+              8.1
+               8.2
+0.2
+0.2
+Vehicle and mobile equipment mechanics, installers, and repairers
+143
+              152
+              N/AN/A
+N/A
+N/A
+Production occupations
+221
+              225
+              2.6
+               2.6
+0.1
+0.1
+Transportation and material moving occupations
+1,443
+          1,443
+          15.9
+            15.0
+0.4
+0.3
+Air transportation workers
+59
+                71
+                N/A
+N/A
+N/A
+N/A
+Motor vehicle operators
+1,084
+          1,044
+          N/A
+N/A
+N/A
+N/A
+Material moving workers
+235
+              255
+              N/A
+N/A
+N/A
+N/A
+Military occupations
+472
+                82
+                N/A
+N/A
+N/A
+N/A
+1 Fatal injury rates are per 100,000 full-time equivalent (FTE) workers. Fatal injury rates exclude workers under the age of 16 years, volunteers, and resident military. Complete national rates 
+can be found at www.bls.gov/iif/oshcfoi1.htm#rates. Complete state rates can be found at www.bls.gov/iif/oshstate.htm. National and state rates are calculated using different methodology 
+and 
+cannot be directly compared. See www.bls.gov/opub/hom/cfoi/calculation.htm#comparisons-of-national-and-state-rates for more information on how rates are calculated 
+and caveats for comparison. N/A means a rate was not published for this group.
+2 Fatal injury rates rely on the census figures from the Census of Fatal Occupational Injuries (CFOI) and the employment from the Current Population Survey (CPS). CPS is a sample of households
+that is designed to represent the civilian noninstitutional population of the United States. Sampling errors occur in the CPS because observations are made on a sample, not on the entire 
+population. The margin of error (MOE) is a measure of dispersion around the estimated fatal injury rate, expressed at the 95% confidence level. For more on confidence intervals, see 
+
+www.bls.gov/iif/osh_rse.htm. While the MOE measures the variance in the employment calculations, small fatal injury counts can vary substantially from year to year. See 
+
+www.bls.gov/iif/dangerous-jobs.htm for more information.
+3 The CFOI has published data on fatal occupational injuries for the United States since 1992. During this time, the classification systems and definitions of many data elements
+have changed.
+  See the CFOI Definitions page (www.bls.gov/iif/oshcfdef.htm) for a more detailed description of each data element. Occupation is based
+on
+ the Standard Occupational Classification (SOC) 2010 system. 
+4 Includes fatal injuries to persons identified as resident armed forces regardless of individual occupation listed.
+Note: Data for all years are final. Totals for major categories may include subcategories not shown separately. CFOI fatal injury counts exclude illness-related deaths 
+
+unless precipitated by an injury event.
+
+Source: U.S. Bureau of Labor Statistics, Current Population Survey, Census of Fatal Occupational Injuries
+ 8Table 4. Fatal occupational injuries counts and rates by selected industries, 2017-18
+               Counts
+               Rates
+1 Rates Margin of Error
+2Characteristic
+2017
+2018
+2017
+2018
+2017
+2018
+Total
+35,147
+5,250
+3.5
+               3.5
+               0.0
+               0.0
+               Industry (NAICS)
+Private industry
+44,674
+          4,779
+          3.7
+               3.7
+0.0
+0.0
+  Goods producing
+1,967
+          2,055
+          6.7
+               6.8
+0.1
+0.1
+     Agriculture, forestry, fishing and hunting
+581
+              574
+              23.0
+            23.4
+1.7
+1.9
+  Crop production
+263
+              250
+              20.9
+            20.1
+2.1
+2.3
+  Animal production and aquaculture
+152
+              161
+              16.4
+            18.6
+1.7
+2.4
+  Forestry and logging
+76
+                84
+                N/A
+N/A
+N/A
+N/A
+     Mining, quarrying, and oil and gas extraction
+5112
+              130
+              12.9
+            14.1
+2.2
+2.2
+  Mining (except oil and gas)
+31
+                34
+                15.5
+            15.0
+3.6
+3.1
+  Support activities for mining
+73
+                83
+                12.8
+            13.7
+2.9
+2.8
+     Construction
+971
+              1,008
+          9.5
+               9.5
+0.2
+0.2
+  Construction of buildings
+196
+              200
+              N/A
+N/A
+N/A
+N/A
+  Heavy and civil engineering construction
+152
+              180
+              N/A
+N/A
+N/A
+N/A
+  Specialty trade contractors
+610
+              609
+              N/A
+N/A
+N/A
+N/A
+     Manufacturing
+303
+              343
+              1.9
+               2.2
+0.0
+0.0
+  Food manufacturing
+51
+                41
+                2.8
+               2.2
+0.2
+0.2
+  Fabricated metal product manufacturing
+50
+                56
+                4.3
+               4.4
+0.3
+0.3
+  Service providing
+2,707
+          2,724
+          2.8
+               2.8
+0.0
+0.0
+     Wholesale trade
+174
+              202
+              4.8
+               5.3
+0.2
+0.2
+     Retail trade
+287
+              274
+              2.0
+               1.9
+0.0
+0.0
+  Motor vehicle and parts dealers
+54
+                68
+                2.5
+               3.2
+0.1
+0.1
+  Food and beverage stores
+60
+                42
+                2.3
+               1.6
+0.1
+0.1
+     Transportation and warehousing
+882
+              874
+              15.1
+            14.0
+0.5
+0.4
+  Truck transportation
+599
+              607
+              28.0
+            28.3
+1.5
+1.4
+     Utilities
+28
+                29
+                2.6
+               2.6
+0.2
+0.2
+     Information
+43
+                31
+                1.6
+               1.2
+0.1
+0.0
+     Finance and insurance
+32
+                30
+                0.5
+               0.4
+0.0
+0.0
+     Real estate and rental and leasing
+69                78
+                2.4
+               2.6
+0.1
+0.1
+     Professional, scientific, and technical services
+69
+                87
+                0.6
+               0.7
+0.0
+0.0
+     Administrative and support and waste management and remediation services
+460
+              497
+              N/AN/A
+N/A
+N/A
+     Educational services
+43
+                30
+                1.0
+               0.7
+0.0
+0.0
+     Health care and social assistance
+146
+              138
+              0.8
+               0.8
+0.0
+0.0
+     Arts, entertainment, and recreation
+91
+                78
+                3.2
+               3.0
+0.1
+0.1
+     Accommodation and food services
+171
+              175
+              1.9
+               1.9
+0.0
+0.0
+     Other services, except public administration
+205
+              195
+              2.9
+               2.6
+0.1
+0.1
+Government
+6473
+              471
+              2.0
+               1.8
+0.0
+0.0
+     Federal government
+4116
+              124
+              1.3
+               1.2
+0.1
+0.0
+     State government
+491
+                69
+                1.4
+               1.1
+0.0
+0.0
+     Local government
+4265
+              276
+              2.6
+               2.7
+0.1
+0.1
+1 Fatal injury rates are per 100,000 full-time equivalent (FTE) workers. Fatal injury rates exclude workers under the age of 16 years, volunteers, and resident military. 
+Complete national rates can be found at www.bls.gov/iif/oshcfoi1.htm#rates. Complete state rates can be found at www.bls.gov/iif/oshstate.htm. National and state rates are calculated
+using different methodology and cannot be directly compared. See www.bls.gov/opub/hom/cfoi/calculation.htm#comparisons-of-national-and-state-rates for more information on how
+rates are calculated and caveats for comparison. N/A means a rate was not published for this group.
+2 Fatal injury rates rely on the census figures from the Census of Fatal Occupational Injuries (CFOI) and the employment from the Current Population Survey (CPS). CPS is a sample of households
+that is designed to represent the civilian noninstitutional population of the United States. Sampling errors occur in the CPS because observations are made on a sample, not on the entire population. 
+The margin of error (MOE) is a measure of dispersion around the estimated fatal injury rate, expressed at the 95% confidence level. For more on confidence intervals, see www.bls.gov/iif/osh_rse.htm.
+While the MOE measures the variance in the employment calculations, small fatal injury counts can vary substantially from year to year. See www.bls.gov/iif/dangerous-jobs.htm for more information.
+3 The CFOI has published data on fatal occupational injuries for the United States since 1992. During this time, the classification systems and definitions of many data elements have changed.
+  See
+the CFOI Definitions page (www.bls.gov/iif/oshcfdef.htm) for a more detailed description of each data element. Industry is based on the 2012 North American Industry Classification System (NAICS).
+4 Includes all fatal occupational injuries meeting this ownership criterion across all specified years, regardless of industry classification system.
+5 Includes fatal injuries at all establishments categorized as Mining, quarrying, and oil and gas extraction (Sector 21) in the North American Industry Classification System, including establishments
+not governed by the Mine Safety and Health Administration (MSHA) rules and reporting, such as those in Oil and Gas Extraction.
+6 Includes fatal injuries to workers employed by governmental organizations regardless of industry. Includes all fatal occupational injuries meeting this ownership criterion across all specified
+years, regardless of industry classification system. 
+Note: Data for all years are final. Totals for major categories may include subcategories not shown separately. CFOI fatal injury counts exclude illness-related deaths 
+unless precipitated by an injury event.
+Source: U.S. Bureau of Labor Statistics, Current Population Survey, Census of Fatal Occupational Injuries
+ 9Table 5. Fatal occupational injuries counts and rates by state of incident, 2017-18
+                              Counts
+                               Rates
+1Characteristic
+2017
+2018
+2017
+2018
+Total
+25,147
+                      5,250
+                      3.5
+                          3.5
+State of incident
+Alabama
+83
+                           89
+                           4.3
+4.5
+Alaska
+33
+                           32
+                           10.2
+9.9
+Arizona
+90
+                           82
+                           3.0
+2.5
+Arkansas
+76
+                           76
+                           6.1
+6.3
+California
+376
+                         422
+                         2.2
+2.3
+Colorado
+77
+                           72
+                           2.8
+2.6
+Connecticut
+35
+                           48
+                           1.9
+2.8
+Delaware
+10
+                           7                              2.4
+1.6
+District of Columbia
+13
+                           10
+                           3.4
+2.8
+Florida
+299
+                         332
+                         3.3
+3.5
+Georgia
+194
+                         186
+                         4.1
+3.8
+Hawaii
+20
+                           22
+                           2.2
+3.4
+Idaho
+37
+                           45
+                           4.8
+5.8
+Illinois
+163
+                         184
+                         2.8
+3.1
+Indiana
+138
+                         173
+                         4.5
+5.6
+Iowa
+72
+                           77
+                           4.7
+4.9
+Kansas
+72
+                           61
+                           5.2
+4.5
+Kentucky
+70
+                           83
+                           3.8
+4.2
+Louisiana
+117
+                         98
+                           6.3
+5.1
+Maine
+18
+                           17
+                           2.7
+2.5
+Maryland
+87
+                           97
+                           3.0
+3.4
+Massachusetts
+108
+                         97
+                           3.2
+2.7
+Michigan
+153
+                         155
+                         3.4
+3.4
+Minnesota
+101
+                         75
+                           3.5
+2.7
+Mississippi
+90
+                           78
+                           6.2
+6.7
+Missouri
+125
+                         145
+                         4.4
+5.1
+Montana
+32
+                           28
+                           6.9
+5.5
+Nebraska
+35
+                           44
+                           3.6
+4.7
+Nevada
+32
+                           39
+                           2.4
+2.8
+New Hampshire
+11
+                           20
+                           1.6
+2.9
+New Jersey
+69
+                           83
+                           1.6
+2.0
+New Mexico
+44
+                           43
+                           4.7
+4.7
+New York (including N.Y.C.)
+313
+                         271
+                         3.5
+3.1
+New York City
+87
+                           73
+                           2.3
+2.0
+North Carolina
+183
+                         178
+                         3.9
+3.8
+North Dakota
+38
+                           35
+                           10.1
+9.6
+Ohio
+174
+                         158
+                         3.3
+3.0
+Oklahoma
+91
+                           91
+                           5.5
+5.2
+Oregon
+60
+                           62
+                           3.2
+3.1
+Pennsylvania
+172
+                         177
+                         3.0
+3.0
+Rhode Island
+8                              9                              1.6
+1.8
+South Carolina
+88
+                           98
+                           4.2
+4.6
+South Dakota
+30
+                           32
+                           7.3
+6.9
+Tennessee
+128
+                         122
+                         4.4
+4.1
+Texas
+534
+                         488
+                         4.3
+3.8
+Utah
+43
+                           49
+                           2.9
+3.4
+Vermont
+22
+                           11
+                           7.0
+3.5
+Virginia
+118
+                         157
+                         2.9
+3.5
+Washington
+84
+                           86
+                           2.5
+2.4
+West Virginia
+51
+                           57
+                           7.4
+7.9
+Wisconsin
+106
+                         114
+                         3.5
+3.8
+Wyoming
+20
+                           31
+                           7.7
+11.5
+1 Fatal injury rates are per 100,000 full-time equivalent (FTE) workers. Fatal injury rates exclude workers under the age of 16 years, volunteers, and resident military. Complete national rates can
+be found at www.bls.gov/iif/oshcfoi1.htm#rates. Complete state rates can be found at www.bls.gov/iif/oshstate.htm. National and state rates use different methodology and cannot be directly
+compared. See www.bls.gov/opub/hom/cfoi/calculation.htm#comparisons-of-national-and-state-rates for more information on how rates are calculated and caveats for comparison. 
+2 The Census of Fatal Occupational Injuries (CFOI) has published data on fatal occupational injuries for the United States since 1992. During this time, the classification systems and definitions 
+of many data elements have changed.
+ See the CFOI Definitions page (www.bls.gov/iif/oshcfdef.htm) for a more detailed description of each data element.
+Note: Data for all years are final. CFOI fatal injury counts exclude illness-related deaths unless precipitated by an injury event. Margin of error is not available for state rate data.
+Source: U.S. Bureau of Labor Statistics, Current Population Survey, Local Area Unemployment Statistics, Census of Fatal Occupational Injuries

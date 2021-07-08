@@ -1,0 +1,1943 @@
+ 0       
+ Grant Award # 2006
+-IJ-CX-0018 National Institute of Justice
+  Principal Investigator:
+  Kristen Zgoba, Ph.D.
+ New Jersey Department of Corrections
+ Research & Evaluati
+on Unit
+ Trenton, NJ 08625
+ (609) 777
+-4256 kristen.zgoba@doc.state.nj.us
+  Co-Principal Investigator:
+ Philip Witt, Ph.D.
+ Associates in Psychological Services
+, P.A.
+ 25 N. Doughty Ave.
+ Somerville, NJ
+ 08876 (908) 526-1177 phwitt@optonline.net
+  Research Assistant/ Data Manager:
+ Melissa Dalessandro, M.S.W.
+ New Jersey Department of Corrections
+ Research & Evaluation Unit
+ Trenton, NJ 08625
+ (609)-292-5670 melissa.dalessandro@doc.state.nj.us
+  Consultant:
+ Bonita Veysey, Ph.D.
+ Rutgers University
+ School of Criminal Justice
+ Newark, NJ 07102
+ veysey@andromeda.rutgers.ed
+u     The Research & Evaluation Unit
+ Office of Policy and Planning
+ New Jersey Department of Corrections
+   
+   1  EXECUTIVE SUMMARY
+  The research that follows concerns the various impacts of community notification and 
+
+interesting findings
+ and many ideas that will be explo
+red upon post grant period
+, this research 
+
+of sexual offending over time; 2) its specific deterrence effect on re
+-offending, including the 
+level of general and s
+exual offense recidivism, the nature of sexual re
+-offenses, and time to first 
+re-arrest for sexual and non
+-sexual re
+-offenses (i.e.
+, community tenure); and 3) the costs of 
+
+e investigated using three different methodologies and samples.  
+ Phase One was a 21
+-year (10 years prior and 10 years after implementation, and the year 
+
+of 
+the state 
+as a 
+whole.  In Phase Two, d
+ata on 550 sexual offenders released during the years 1990 to 2000 
+were collected, and outcomes of interest were analyzed.  Finally, Phase Three collected 
+
+ The following 
+points highlight the major findings of the three phases of the study.
+  New Jersey, as a whole, has experienced a consistent downward trend of sexual offense 
+rates with a significant change in the trend in 1994.  
+   In all but two counties, sexual offense rat
+es were highest prior to 1994 and were lowest 
+after 1995.  
+   County trends exhibit substantial variation and do not reflect the statewide trend
+, suggesting that the statewide change point in 1994 is an artifact of aggregation. 
+   In the offender release sam
+ple, there is a consistent downward trend in re
+-arrests, 
+reconvictions and re
+-incarcerations over time similar to that observed in the trend study
+, except in 1995 when all measures spiked to a high for that period. This resulted in 
+ 
+   2 significant differences 
+
+Law was implemented).
+   Re-arrests for violent crime (whether sexual or not) also declined steadily over the same 
+period
+, resulting in a significant difference between cohorts (i.e., those rel
+eased prior to 
+
+   
+-arrest).
+   
+showed no demonstrable 
+effect in reducing sex
+ual
+ re-offenses.
+  
+l re
+-offense or first time sexual offense 
+(still largely child molestation/incest).
+   
+offenses.
+   
+ed 
+
+   Significantly fewer sexual offenders have been paroled after the implementation of 
+
+   Costs associated with 
+the initial implementation as well as ongoing expenditures continue 
+to grow over time.  Start up costs totaled $555,565 and cur
+rent costs (in 2007) totaled 
+approximately 
+3.9 million dollars
+ for the responding counties
+.    Given the lack of demonstrated effe
+ct of 
+
+costs may
+ not be 
+justifiable.
+           
+   3  INTRODUCTION
+  On July 29, 1994, Jesse Timmendequas, a sex offender who had been released after 
+serving a maximum sentence in a New Jersey correctional facility, rape
+d and murdered seven
+-year
+-old Megan Kanka in Hamilton, New Jersey.  The intense community reaction that followed 
+extended well beyond the state.  One expression of community outrage was the enactment of 
+laws to notify the public of the presence of sex offe
+nders living and working in their community. 
+The premise was, and still is, that with this knowledge, citizens will take protective measures 
+against these nearby sex offenders.  As Beck, Clingermayer, Ramsey and Travis (2004) note, 
+
+expected is not clear, but it is hoped that, armed with this critical 
+information, citizens will work on their own or in concert with government to make their 
+
+ During the following decade, all 50 states and the District of C
+olumbia enacted some 
+version of such community registration and notification laws, collectively referred to as 
+
+such as Washington, had enacted community notification l
+aws prior to 1994, the federalization 
+of community notification laws in 1996 created strong incentives for other states to follow suit 
+(Presser & Gunnison, 1999). 
+ 
+offe
+nders must register their addresses with local police jurisdictions within a specified time of 
+release from prison.  By way of the registration process, the public is then notified of the 
+
+ to inform both the public and 
+past victims so that they can protect themselves accordingly. 
+As with other states, registration 
+ 
+  4 and notification are separate steps in New Jersey, but are often referred to as one process.  
+In 
+New Jersey, offenders are place
+d into one of three tiers, representing a hierarchy of potential risk 
+
+-offense.  A ri
+sk assessment instrument is 
+used 
+likelihood of re
+-offense, which ultimately determines placement into the tier. Tier one repre
+sents 
+the lowest risk and requires only notification of law enforcement officials and the victims. 
+Offenders are considered low risk and eligible for a tier one placement if they received a low risk 
+assessment score and are on probation/ parole, receiving 
+therapy, employed and free of alcohol 
+and drugs. A tier two classification represents a moderate risk of a re
+-offense. It requires 
+notification of organizations, educational institutions, day care centers and summer camps. The 
+factors for placement into a 
+tier two category include a moderate to high risk assessment score, 
+failure to comply with supervision, lack of employment, abuse of drugs or alcohol, denial of 
+offenses, lack of remorse, history of loitering or stalking children and making threats (Brooks
+, 1996; Matson & Lieb, 1997
+; Witt & Barone, 2004
+). Tier three offenders are those who are 
+predicted to present the greatest risk to re
+-offend. This category has generated the most legal 
+resistance because it calls for the broadest level of notification. Th
+e entire community is notified 
+through posters and pamphlets. The factors necessary 
+for the placement
+ into a tier three category 
+are a high probability of re
+-offending evidenced by a particularly heinous instant offense or a 
+high
+-risk assessment score, rep
+etitive and compulsive behavior, sexual preference for children, 
+failure or refusal of treatment, denial of the offense and lack of remorse (Brooks, 1996; Rudin, 
+1996; Witt & Barone, 2004
+).   Despite their existence for over a decade, little work has been 
+done to examine the 
+effectiveness of these laws on sexual offense rates.  A few researchers, such as Beck and 
+colleagues (2004), have conducted surveys to determine what protection methods community 
+ 
+  5 members use when given information regarding the presence
+ of sex offenders. Beck and 
+colleagues (2004) approach their research from the viewpoint that community notification laws 
+were enacted more to change the behaviors of potential victims than those of potential sexual 
+recidivists. In this study, Beck and col
+leagues (2004) differentiated between two types of 
+
+-
+
+initiated by fami
+ly members to protect other household members (e.g., their children) 
+(Beck & 
+Travis, 2002).
+   These studies found that community notification did, in fact, increase altruistic 
+behaviors by community members to protect members of their households, although 
+the findings 
+are inconsistent with regard to whether self
+-protective behaviors increased after community 
+notification. Because of these results, Beck and colleagues (2004) posit that it is not the 
+enactment of community notification laws themselves that in
+fluences protective behaviors, but 
+
+mediates these behaviors. This mediating factor presents problems for identifying the true effect 
+of these laws on sexual recidi
+vism rates.
+  A few studies have also surveyed sex offenders to determine the impact that community 
+notification laws have had upon them. Tewksbury (2005) found that 
+social stigmatization, lo
+ss of 
+relationships, employment 
+and housing, and bot
+h verbal and p
+hysical assaults we
+re experienced 
+by a significant minority of registered sex offenders
+ (see also Tewksbury & Lees, 2006)
+. Zevitz 
+and Farkas (2000) also found that a majority of sex offenders reported negative consequences, 
+such as exclusion from residence
+s, threats and harassment, emotional harm to their family 
+members, social exclusion by neighbors, and loss of employment. Furthermore, according to 
+many tier three offenders interviewed, these laws would not deter them from committing future 
+ 
+  6 sex offenses (
+Zevitz and Farkas, 2000). In fact, Presser and Gunnison (1999) 
+suggest
+ that notification laws may be counterproductive in that public scrutiny causes additional stress to 
+offenders who are transitioning back into the community. The fear of exposure may cau
+se 
+offenders to avoid treatment, and in the case of pedophiles, may encourage offenders to seek out 
+children as a result of adult isolation. If these assumptions are true, the risk of recidivism may be 
+increased (Presser & Gunnison, 1999)
+, or at least such
+ factors would work against any protective 
+measures taken, thus lessening or eliminating any positive effect of the law
+. None of the aforementioned research, however, addresses the critical question of whether 
+community notification and registration laws a
+ctually reduce sex offense rates (primary offenses 
+or re
+-offenses) in the communities in which the laws are applied, or what patterns of sexual 
+
+found that exam
+ines pre
+- and post
+-
+ That study, conducted in the 
+state of Washington, compared sexual recidivism rates between two groups of sexual offenders: 
+one released three years prior to the implementation of community notification law
+s in that state, 
+and one released three years after the implementation. The pre
+- and post
+- target groups were 
+those most likely to be affected by the law (i.e., those who would qualify for tier three 
+classification). To account for population differences, 
+offenders in both groups were matched on 
+the number of sex convictions and the type of victim (i.e., adult or child) (Schramm & Milloy, 
+1995). Their analysis of potential grou
+p differences revealed that a
+t the end of 54 months (four
+-and one
+- 
+ 
+for sex offenses between the two groups (19 percent versus 22 percent). However, the study did 
+find that notification had an effect on the time of the next arrest for any type o
+f offense
+.   
+  7 Offenders subject to notification were arrested for new crimes much more quickly than were 
+offenders not subject to notification. (Schramm & Milloy, 1995)
+. 
+rate
+
+had no effect on the rate of sex offense recidivism, although it may result in more rapid detection 
+of new sex offenses (see discussion in Pawson, 2002).
+ This lack o
+
+ the domain of empirical research
+.  Despite widespread community support for these laws, there 
+is virtually no evidence to support their effectiveness in reducing either new first
+-time sex 
+offenses (through protective measures or general deterrence) or sex re
+-offenses (through 
+protective measures and specific deterrence).  
+ The study described below investigates various impacts of community notification and 
+
+ Law) in New Jersey. The primary areas of study are: 1) the effect of 
+
+on re-offending, including the level of general and sexual offense recidivism, the nature
+ of sexual 
+re-offenses, and time to first re
+-arrest for sexual and non
+-sexual re
+-offenses (i.e. community 
+tenure); and 3) the costs of 
+implementing and maintaining
+ 
+foci were investigated using three different methodologies
+ and samples.  
+ Phase One was a 21
+-year (10 years prior and 10 years after implementation, and the year 
+
+a whole.  In Phase Two, d
+ata on 550 sexual offenders re
+leased during the years 1990 to 2000 
+were collected, and outcomes of interest were analyzed.  Finally, Phase Three collected 
+
+  
+  8   PHASE ONE: THE TREND STUDY
+  This study attempts to remedy one asp
+ect of th
+e gap 
+between the lack of research and the 
+legislation, 
+by examining the trend of sexual offense rates between and within the 21 counties of 
+New Jersey from 1985 through 2005. The study was conducted in New Jersey, the state in which 
+Megan Kanka w
+as a victim
+ 
+. Phase One is a trend 
+study, which will provide information on whether statistical differences exist in sex offending
+ arrests
+ 
+ The trend analysis focus
+es on the pattern of sexual offense rates in New Jersey over a 21
+-year timeframe while comparing them to drug offense rates and non
+-sexually based offending 
+rates. The data represent crime rates for the state as a whole and for each of the 21 counties for 
+the ten years prior to the legislation and the ten years after the enactment of the legislation and 
+
+ Methods
+  
+ an effect on the rate 
+of sexual offending in New Jersey.  Several different analyses were conducted to answer this 
+primary question.  First, a trend analysis of New Jersey sex offense rates pre
+- and post
+-
+Law implementation provides both a visual a
+nd statistical test of effectiveness.  Second, 
+aggregation sometimes masks important differences at a lower level. Therefore, the same trend 
+analyses were conducted on each of the 21 counties in New Jersey.  Third, historical effects
+ broader than that sole
+ly for sex offenses
+ may be responsible for observed changes (i.e., an 
+
+ 
+  9 were conducted to contrast changes in rates of sex offenses to other offenses (i.e., drug an
+d other 
+non-sex/non
+-drug) over the same period of time.
+  These 
+additional 
+analyses were made in an 
+effort to place sex crimes in the context of overall crime and a 
+specific 
+crime 
+(drugs) 
+that has 
+been subjected to several types 
+of 
+legislation.
+ Sample and D
+ata Collection
+ This study is based upon a simple pre
+-post research design to determine whether any 
+significant changes in the rates of 
+sexually based offenses reported by law enforcement agencies
+ 
+w in late 1994.  Rates for sexually 
+based offenses, non
+-sexually based offenses, and drug offenses were collected for the years 1985 
+through 2005 in order to construct a comparative trend analysis.  Data for the three types of 
+crime were collected for all 
+21 counties of New Jersey, using Uniform Crime Report (UCR) 
+numbers for years 1985 through 2005. Prevalence rates for the three offense categories were 
+
+Statistics. The De
+
+-referenced 
+with the Sourcebook of Criminal Justice Statistics, a yearly federal government publication. 
+Because no significant differences in population estimates were found between these t
+wo 
+sources, UCR numbers were used for trend analyses conducted in this study. In order to compare 
+state and county trends in sexually based offenses, non
+-sexually based offenses, and drug abuse 
+violations, UCR aggregate numbers and prevalence rates for yea
+rs 1985
+-2005 were entered into 
+an Excel spreadsheet and SPSS. 
+ Definitions and Measures
+ Uniform Crime Report statistics are based upon number of arrests, and as such, use of the 
+
+e categories were 
+ 
+  10 used for trend analysis comparisons: 1) sexually
+-based offenses, 2) drug offenses, and 3) other 
+offenses (non
+-sex/non
+-drug). Analyzing the single set of sex offense rates for the 21
+-year time 
+span provides an initial test of rate change. 
+  Across the US, crime rates in general have been 
+
+-sex
+/non-drug
+ crime rate 
+trends presents a visual contrast: (1) to confirm/disconfirm the national trends, and (2) to 
+contextualize the sex
+ offense rate trend within the general trends. Other offenses allow a control 
+for New Jersey specific historical factors that might influence rates across crime categories, such 
+as increased or decreased enforcement or prosecutorial budgets, the number of 
+police or 
+
+ Drug offenses, like sex offenses, have been the target of law enforcement policies. 
+Although 
+drug offense rates may change over time based upon what d
+rugs are most common, 
+drug arrests rates are also particularly vulnerable to changes in federal and local policies and law 
+enforcement efforts.  
+Furthermore, although the contrast between drug and sex crimes may not 
+be immediately obvious, t
+he inclusion of
+ drug offense rate trends provides an opportunity: (1) to 
+demonstrate the variations in rates over time, and (2) to evaluate whether these variations have 
+similar patterns to those of sex offense rates.
+1 
+form Crime Report (UCR), a yearly 
+statistical report based upon crimes reported to law enforcement agencies throughout the State of 
+New Jersey. Definitions of certain sexually
+-based crimes, such as rape, were clarified via phone 
+interviews with the New Jer
+sey State Police in December 2006. In addition, legal definitions of 
+specific crimes (e.g. endangering the welfare of a child) were verified by reviewing Title 2C of 
+
+ed 
+                                                 1 No formal statistical tests were performed contrasting drug and non
+-sexual offense rates to sex offense rates.  The 
+visual displays are used to provide general contrasts, only.  
+   
+  11 
+
+-
+
+-
+UCR categories exce
+
+ 
+ 
+  
+drug crimes, such as the manufacturing and distribution of controlled substances, possession with 
+the intent to sell and distribution of a controlled sub
+stance within a school zone.   
+ Analytic Strategy
+ In studies of this type, typically a simple pre
+-post test of rates is conducted to determine 
+whether an intervention is successful.  Given that these data are points in time, namely crime 
+rates by year, tim
+e based strategies are commonly used, including time
+-series/ARIMA models 
+and regression discontinuity designs that allow for temporal autocorrelation. These analyses are 
+constructed based upon a known change point.  
+Although 
+
+s passed in late 1994, it is not known when the agencies charged with implementing the law were 
+
+may not have been 
+uniformly implemented 
+across the state
+ at a standardized point
+. The earliest change point that 
+might be attributed to the 
+legislation, therefore, is between 1994 and 1995.  Given delayed implementation, the true effect 
+of the legislation may occur during a subsequent year. For this study, a method is required that 
+will allow for the detection of suc
+h delayed effects.
+ Several authors have considered the problem of change
+-points (see Pettitt, 1979 for 
+a brief review).  Some make assumptions regarding the nature of the pre
+- and post
+-change sample 
+distributions.  Most assume that the change
+-point is know
+n.  Pettitt (1979) offers a solution to the 
+crime trend problem by suggesting a method of determining the most probable point of change 
+ 
+  12 and using a non
+-
+summarized below.  
+ A
+T  and a change
+-point at 
+, where 
+Xt for 
+t 
+ have a distribution function of F
+1(x) and X
+t for 
+t = 
+T have a 
+distribution function of F
+2(x) and F
+1(x) 
+ F2(x).  Since the change
+-point is unk
+nown, T-1  two sample comparisons are necessary
+.  In the complete sample of 
+T, Ut,T = 2Wt  t(T +1)
+  where 
+Wt  
+is the sum of the 
+ranks
+ of all observations from 1 to 
+t.  This produces a U statistic for 
+each point in the time series comparing the mean of the
+ series prior to 
+t with the mean of the 
+series after 
+t. A version of the Mann
+-Whitney U statistic, used to test that the two samples, X1, 
+t  and X
+t +1 T , come from the same population, is applied to the maximum U value:
+ KT = max
+Ut,T         
+        1< 
+t <
+ T The approximation of significance probabilities that is associated with 
+KT  is:      P  2 exp (
+-6k2/ (T 2 + T 3)) where the approximation holds accurate to two decimal places for p< .5 (Pettitt, 1979).  
+ This analysis employs this techniq
+ue used to determine significant differences when the 
+change point is unknown.  This technique was selected specifically because we did not want to 
+make any assumptions regarding the implementation phase.  In most cases, where a law requires 
+changes to pro
+cedure, the effect is likely to be delayed by some unknown period.
+  Data from the 21 New Jersey counties were entered separately, the New Jersey total was 
+
+-to-year 
+population changes at the state level.   For each county and for the state as a whole, the 
+ 
+  13 yearly rates were rank ordered and a Mann
+-Whitney U test was performed to test for a change in 
+trend
+.  Thus, for the state and for each county, every year is tested 
+as a potential change point. 
+  Results
+ The results are organized into two major sections. The first section presents the trend 
+analysis for both the state and for the individual counties. The second section contrasts the sex 
+offense trend rates to trends i
+n other offenses (i.e., drug and other non
+-sex/non
+-drug) over the 
+same period of time.
+ County and Statewide Sex Offense Rates
+  Figure 1 displays the rates of sex offenses for New Jersey as a whole from 1985 to 2005.  
+The rates varied from 51 offenses in 19
+86 to a low of 29 offenses per 100,000 population in 
+2005.  In general, there is a consistent downward trend. 
+ Individual counties varied substantially both between counties and within counties over 
+time.  Table 1 presents summary statistics of each county
+ and the state as a whole.  Counties 
+varied in population size from under 100,000 population in the smallest counties of Cape May, 
+Salem, and Warren, to over three quarters of a million residents in the largest counties of Bergen 
+and Essex.  The population
+ size of the county is not consistently related to the rate of sex 
+offenses.  For example, one of the largest counties, Essex County (Newark), has a relatively high 
+rate of offenses (68)
+, whereas 
+the largest county, Bergen, has a relatively low rate (32). 
+ In 
+contrast, the highest rate of offenses is in one of the smaller population counties, Cumberland.  In 
+the smallest counties, Cape May has a rate of 72 offenses per 100,000, 
+whereas 
+Warren has a rate 
+of 36.
+    
+  14       Figure 1. New Jersey Sex Offenses per 1
+00,000 Population from 1985 to 2005
+   In 19 of the 21 counties, the year with the highest rate of sex offenses occurred before 
+1994; Passaic and Sussex Counties were the exceptions.  In 19 of the 21 counties, the year with 
+the lowest rate of sex offenses occurred after 1995; Morris and Passaic Counties were the 
+exceptions in this case.  The rank trend tests (Mann
+-Whitney U tests) revealed that (1) six 
+counties had no statistically significant change point (Bergen, Hunterdon, M
+ercer, Morris, 
+
+Law (Burlington, Camden, Monmouth, Salem, Somerset, and Union). This means that only nine 
+
+sed with the years of change falling 
+between 1994 and 1998.  One final observation of county contrast should be noted. In several 
+
+ 
+  15 in the last several years these 
+counties have had substantial increases in sex offense rates 
+(analyses not shown). This is true, for example, of Ocean, Hudson, and Warren Counties. 
+  Table 1. County and State Summary Statistics for Sex Offenses
+ County
+ Population
+ in 1994 Average 
+ Rate
+ Highest 
+ (Year)
+ Lowest 
+(Year)
+ Change 
+ Year
+ Atlantic 236,589 71.0 128 (1991)
+ 31 (2005)
+ 1994 Bergen
+ 848,392 32.0 71 (1988)
+ 24 (2002)
+ n.s. Burlington
+ 407,060 30.4 51 (1985)
+ 16 (2002)
+ 1993 ** Camden
+ 508,479 42.9 97 (1986)
+ 29 (2005)
+ 1989 ** Cape May
+ 99,561 72.2 111 (1992)
+ 38 (2003)
+ 1995 Cumberland
+ 144,544 91.1 127 (1992)
+ 63 (2001)
+ 1998 Essex 784,460 67.6 95 (1990)
+ 35 (2004)
+ 1994 Gloucester
+ 242,161 35.6 53 (1993)
+ 22 (2005)
+ 1997 Hudson 572,720 44.0 56 (1993)
+ 33 (2001)
+ 1998 Hunterdon
+ 113,522 18.3 32 (1985)
+ 9 (2004)
+ n.s. Mercer
+ 335,229 46.4 67 (1986)
+ 35 (2005)
+ n.s. Middlesex
+ 701,090 27.1 38 (1985)
+ 19 (2004)
+ 1998 Monmouth
+ 577,069 37.6 56 (1988)
+ 25 (2002)
+ 1992 ** Morris 
+ 439,533 23.1 33 (1986)
+ 15 (1993)
+ n.s. Ocean
+ 461,152 24.7 38 (1993)
+ 15 (2001)
+ 1996 Pass
+aic 
+ 478,164 50.8 82 (1997)
+ 36 (1988)
+ n.s. Salem
+ 64,691 50.8 78 (1991)
+ 27 (2005)
+ 1992 ** Somerset
+ 262,243 18.9 27 (1988)
+ 10 (1998)
+ 1991 ** Sussex 
+ 137,021 21.8 32 (1999)
+ 12 (2005)
+ n.s. Union 504,864 30.0 53 (1986)
+ 13 (2004)
+ 1993 ** Warren
+ 95,762 36.4 63 (1987)
+ 14 (2001)
+ 1996 NEW JERSEY
+  39.8 51 (1986)
+ 29 (2005)
+ 1994 ** Change point precedes implementation point
+  
+jump
+
+implemented.  After a large initial drop in rates, there was a l
+arge rebound in sexual offenses (but 
+not as high as pre
+-
+phenomenon is Cumberland County.  As can be seen in Figure 2, the large dip at year 10 (1994) 
+is followed by a spike the foll
+owing year and then returns to a downward trend.  This spike in 
+sexual offenses most likely reflects increased surveillance and arrests, rather than increased 
+offending.
+  
+  16    Figure 2. Cumberland County Sex Offense Trend  
+   Although 
+individual counties vary, the aggregate state statistics indicate a significant 
+change in trend in the year 1994 (MW
+-U=110.0, p<.001).  Figure 3 displays the rates before and 
+
+fenses for the years 
+1985-1994, and the lower line represents sex offenses for the years 1995
+-2005.  Superimposed 
+on the yearly rates is a linear trend line. There are two important differences between these trend 
+lines. First, beginning in 1995 the rate o
+f sex offenses never again approaches the pre
+-1994 
+levels (i.e., the intercept and average are
+ different). Second, the slope is steeper in the
+ post-
+fact that
+ the decrease accelerates as the number of crimes decreases is unexpected.  In fact, one 
+ 
+  17 might expect that an effective intervention would exhibit diminishing returns over time.  This is 
+not the case in this instance. 
+   Figure 3. Comparison of Sex Offense
+ 
+  Statewide Sex Offense Rates Compared to Non
+-sex
+/non
+-drug
+ and Drug Offenses
+  The aggressiveness with which arrest, prosecution and surveillance of specific crimes is 
+pursued changes over time.  After Megan K
+
+public sentiment demanded an immediate and aggressive response by law enforcement, the 
+courts and corrections.  However, sex offenses are not the only crimes to receive this type of 
+attention. The fede
+ral War on Drugs was experienced at the state and local level as well.  Special 
+task forces and interdiction programs resulted in vast numbers of arrests.  At the same time, the 
+crack epidemic hooked thousands of individuals.  It is difficult to disentangl
+e the effects of law 
+enforcement and prosecution efforts from addiction trends.  In the case of sex offenses, the trend 
+
+ 
+  18 separate the effects of intervention from the 
+existing rate reduction momentum. The first set of 
+analyses addressed this point. The second concern is to control for historical effects.  Drug 
+offenses, like sex offenses, should reveal rate patterns consistent with intervention efforts.  Other 
+crimes sh
+ould be more resistant to these specialized influences, but sensitive to larger social and 
+political influences.  The following analyses contrast the statewide sex offense trends with drug 
+and other non
+-sex/non
+-drug offense trends.
+  Figure 4 displays the r
+ates of non
+-sex (non
+-drug) offenses. The average number of crimes 
+per 1,000 population is 50.0 with the highest rate of offending at 56 in 1989 and the lowest at 45 
+in 2003.  As illustrated, there is a consistent increase in crime rates in the late
+ 
+ followed 
+by a five
+- year decline. Over the next several years the rates increased again, only to drop to their 
+lowest levels in recent decades.  For the last five years the rate has remained stable at about 45 
+crimes per 1,000.  In these data, there is a 
+significant change point in 1998 (MW
+-U=98.00; 
+p=.005), indicating that the levels of crime prior to 1998 were significantly higher than those 
+after 1998.  
+ Figure 4. New Jersey Non
+-sex /Non
+-drug Offenses per 1,000 Population from 1985 to 2005
+  
+  19   Unlike general crime, drug
+-related crimes showed very different rates by year. On 
+average, there are 68 drug crimes per 10,000 population.  This varied from a high of 89 in 1989 
+to a low of 52 in 1985.  As can be seen in Figure 5, drug 
+crimes spiked in 1989, then dropped 
+precipitously. 
+Although 
+the rates increased again following 1993, this never again approached 
+the 1989 rate.  The most recent decline appears be to be stable at around 65 crimes per 10,000 
+and has not achieved the 1985
+-86 rates.  
+There is no significant change point.
+ Figure 5. New Jersey Drug Offenses per 1,000 Population from 1985 to 2005
+  
+  20   The general decline
+ in sex offenses in NJ
+ is similar to that of non
+-sex
+/non
+-drug
+ crimes.  
+However, th
+
+implementation year (i.e., 1994), 
+whereas
+ the change in trend for non
+-sex crimes occurred later, 
+in 1998.  The wide year
+-to-year fluctuations in drug crimes in fact may reflect speci
+fic policy 
+and practice efforts, although those efforts were not sustained.  In the case of sex offenses, the 
+statewide change occurred when it was predicted to change and has maintained its impact over 
+time.
+    PHASE TWO: SEX OFFENDER OUTCOME STUDY
+  Metho
+dology
+ Phase Two of the National Institute of Justice grant used a sample of sex offenders 
+released from New Jersey Department of Corrections facilities (either the Adult Diagnostic and 
+Treatment Center [ADTC] or one of the general population facilities) b
+efore and after the 
+ 
+  21 
+the general population) were randomly selected for the period covering 1990 through 2000, 11 
+years in total.  This yielded a sample of 550 cases. 
+ For each of these case
+s, extensive demographic, clinical, institutional and service use, 
+criminal history, and crime offense characteristics information was collected.  This provides an 
+opportunity to contrast outcomes (i.e., recidivism, time to failure, 
+and harm variables) of 
+
+released after the legislation passed. 
+ This component analyzed pre
+-post group differences on three outcomes:
+  Reduced recidivism
+- including re
+-arrests, re
+-convictions, and re
+-incarceration;
+  Increased community tenure
+- including days to first arrest and days to first arrest for a 
+sexual offense; and/or
+  Reduced harm
+- including fewer sex offenses, less violent offenses, and fewer child 
+victims
+.    The following sections present offender characteristics, bivariate differences in characteristics, 
+and pre
+-post group outcomes.
+    Results
+ Demographic Characteristics
+  Table 2 displays the demographic characteristics of the sample.   The sample is 
+com
+prised only of males.  Half of the sample is white 
+with black and Hispanic offenders 
+accounting for 35% and 15%, respectively. Only 0.2% of offenders classified themselves as 
+
+ were married 
+ 
+  22 at one time and 66 percent had at least one child (including stepchildren).  On average, each 
+individual had 1.9 children (sd=2.1).  
+ Table 2. Demographic Characteristics of Sex Offenders (n=550)
+ Variable
+ % Mean (sd)
+ Race
+     % white
+ 50.5    % black
+ 34.8    % hispanic
+ 14.6    % other
+ 0.2  Average Age
+  34.1 (12.2)
+ % Ever Married 
+ 49.0  % With Children
+ 65.9  Average Number of Children
+  1.9 (2.1)
+ Education Level
+     % less than high school
+ 50.3    % high school diploma/GED
+ 33.6    % some college or more
+ 16.1  % Ever Employed
+ 62.8  Employment Type
+     % white collar/professional
+ 7.8    % blue collar/skilled trade
+ 75.4    % service industry
+ 13.2    % other
+ 3.6   Half of the sample never completed high school. Specifically, 14 per
+cent only achieved 
+an eighth grade education, 
+whereas 
+36 percent attended high school, but did not graduate. 
+Twenty
+-five percent completed high school and 8 percent obtained a GED. Sixteen percent had 
+some college education with 4 percent completing an Ass
+ociate Degree or higher. Sixty
+-three 
+percent had an employment history of a year or greater prior to committing the offense. Although 
+most offenders reported some variety of employment history, the median years of employment 
+was considerably low, at less t
+han three years of past employment. Of those who had been 
+employed, most had held unskilled or trade jobs (75%) or jobs in the service industry (13%). A 
+notable 8 percent held white
+-
+was unable
+ to be determined for 29% of the sample. Of those offenders reporting employment 
+ 
+  23 income, 25% reported an income of $20,000 or less, 5% reported an income of $21,000 to 
+$30,000, 3% reported an income of $31,000 to $40,000, 1% reported an income of $41,000 t
+o $50,000, and 0.5% reported an annual income of $50,000 or higher. 
+ Clinical Characteristics
+  This section includes measures commonly associated with risk (e.g., history of abuse, 
+familial criminal justice involvement), behavioral health problems, and pas
+t treatment 
+experiences. Table 3 displays these measures
+ 
+ Table 3. Clinical Characteristics of Sex Offenders (n=550)
+ Variable
+ % % With History of Child Abuse
+ 39.0 % Raised in Two Parent Home Up to Age 13
+ 65.7 % With 
+Family Member Involvement in CJ System
+ 8.6 % With History of Mental Health Problems
+ 23.1 % With History of Drug Use/Abuse
+ 44.8 % With History of Alcohol Abuse
+ 47.1 % Received Mental Health Treatment
+ 34.7 % Received Mandated Sex Offender Treatment in P
+rison 94.0 % Received Other Treatment Services in Prison
+ 88.4  Most offenders were raised in either a traditional two
+-parent home (66%) or in a mother
+-only headed household (23%), and the majority of offenders did not report any history of child 
+abuse (6
+1%).  Twenty
+-six percent, however, reported having experienced sexual abuse as a child. 
+A large majority of offenders (91%) did not have any family members involved in the criminal 
+justice system.  
+ Only 23 percent of offenders reported some type of past m
+ental health problem. These 
+mental health issues included problems diagnosed in childhood (e.g., emotionally disturbed, 
+developmental disorder) as well as more common diagnoses problems such as depression. In 
+addition, a sizeable proportion of offenders ha
+d a drug or alcohol abuse history, with 45% 
+reporting a prior drug abuse problem and 47% reporting a prior alcohol abuse problem. 
+  
+  24  Thirty
+-five percent reported having received mental health treatment in the past. Most 
+offenders (94%) were reported as rece
+iving some type of sex offender treatment while 
+incarcerated. A majority of offenders (88%) also received treatment in addition to the standard, 
+mandated treatment groups. Types of adjunct treatment offered to inmates included adult basic 
+education classes
+, life/social skills groups (e.g. anger management), and drug and alcohol 
+counseling.
+ Offender Criminal History 
+  Offender criminal history includes information on prior arrests. These data are presented 
+in Table 4.  
+ In general, the men incarcerated for a
+ sex crime were more likely to have been 
+engaged in previous non
+-sex crimes than in sex crimes per se.  Sixty
+-five percent had a previous 
+arrest for a non
+-sex crime.  On average, they had been arrested 3.4 times (sd=5.77) and were 
+arrested for the first ti
+me when they were 21.5 years old (sd=8.21).  Only 27 percent had been 
+previously arrested for a violent crime with an average of .5 prior arrests (sd=1.07).  Even fewer 
+(24%) had been arrested for a sex crime in the past, with an average number of .4 prior
+ arrests 
+(sd=1.02). On average, these offenders were 24.8 years old (sd=9.01) at the time of their first 
+arrest for a sex crime.  Only 6 percent had been arrested as a juvenile for a sex crime.
+ Table 4. Offender Criminal History
+ Variable
+ % Mean (sd)
+ % wit
+h Any Prior Arrests
+ 64.9  Average Number of Arrests
+  3.64 (5.77)
+ Average Age at First Arrest
+  21.5 (8.21)
+ % with Prior Arrests for a Violent Crime
+ 27.3  Average Number of Arrests for Violent Crime
+  .50 (1.07)
+ % with Prior Arrests for a Sex Crime
+ 23.5  Average Number of Arrests for a Sex Crime
+  .43 (1.02)
+ Average Age at First Arrest for a Sex Crime
+  24.8 (9.01)
+ % with a Juvenile Arrest for a Sex Crime
+ 5.7   Target Offense Characteristics
+  
+  25  Table 5 displays information regarding the sex crime(s) for w
+hich the men in the sample 
+were serving sentences. Eighty percent of offenders were serving time for child molestation 
+(incest=21% vs. non
+-incest=59%). Cases of rape and general exhibitionism accounted for 20% 
+and 0.4% of all cases, respectively. 
+ Sixty
+-two percent of offenders denied committing certain acts of the instant crime, or 
+denied the sexual offense in its entirety. Most often, offenders in this latter group denied the 
+more egregious acts of the offense (i.e. penetration) or instances of multiple a
+cts. According to 
+police reports, however, a majority of offenders (55%) engaged in multiple acts over a period of 
+time, and in 26 percent of the cases the offender had multiple victims.
+ The 550 offenders in the sample victimized a total of 796 individuals
+.  That is an average 
+of 1.45 victims (sd=1.07) per offender for the current offense alone. However, this number is 
+skewed.  In 74 percent of the cases, there was only one victim identified. Of the cases involving 
+two or more victims, the average number of
+ victims was 2.7 (sd=1.49). Of the victims, 79 
+percent were female and 30 percent were male. These percentages include the cases where both
+ males and females were victims (8%). The mean age of victim in the index offense was 12.3 
+years old (sd = 9.74). Age
+s of victims spanned from 1 year to 87 years old; 65 percent of the 
+victims were 12 or younger, 24 percent were between 13 years old and 18, and the remaining 11 
+percent were 19 or older. 
+ Table 5. Characteristics of Target Crime
+ Offe
+nse Type 
+       % child molestation
+ 79.5
+      % rape
+ 20.2
+      % exhibitionism/voyeurism
+ 0.4
+  % Offender Denied Some or All Aspects of Crime
+ 62.2
+  % Cases Occuring Over Multiple Dates
+ 55.2
+  Variable
+ % Mean (sd)
+  
+  26                Most offenders had an established prior relationship with their victims, with only 16 
+percent of cases where the perpetra
+tor was a stranger. In fact, nearly half (48%) of the 
+perpetrators were family members, with the remaining crimes committed by either acquaintances 
+
+their vi
+
+
+ In 13 percent of the cases a weapon was used.  Of those cases, the most common weapon 
+used was a knife (52%), followed by 
+a gun (27%), other weapon (14%) or the use of some form 
+% Cases Involving Multiple Victims
+ 26.0
+   Victim Gender
+       % male
+ 21.1
+      % female
+ 70.5
+      % both
+ 8.4
+  Mean Age of Victim
+  12.3 (9.74)
+  Age Group of Victims
+ 1.4 (1.1)
+ (1.1)
+      % 12 and under
+ 65.4
+      % 13 through 18
+ 23.7
+      % 19 or older
+ 10.9
+  Relationship of Offender to Victim
+       % strang
+er 16.1
+      % family
+ 48.2
+      % acquaintance
+ 33.6
+      % significant other
+ 2.2
+  % Lived With Victim 
+ 42.6
+  % Crime Occurred in Victim or Offender Home
+ 77.2
+  % Cases Involving Weapon Use
+ 13.2
+  Type of Weapon
+       % gun
+ 27.3
+      % knife
+ 51.5
+      % rope/tape/bondage
+ 7.6
+      % other
+ 13.6
+  % Drugs Involved in Crime
+ 13.4
+  % Alcohol Involved in Crime 
+ T  26.0
+   
+  27 of restraint (8%).  In 13 percent of the cases drugs were involved and alcohol was involved in 26 
+percent of the offenses.
+ Criminal Justice Factors
+ On average, offenders were sentenced to nearly nine 
+years of incarceration (104 months, 
+sd= 63.8), with the most frequently imposed sentence being five years. The minimum and 
+maximum imposed sentences for the sample were one year and 36 years, respectively. In 
+actuality, offenders served approximately five 
+years on average (56 months, sd=40.4), with time 
+served ranging from three months to 21.5 years. Only 32 percent of offenders were paroled 
+whereas 
+68 percent maxed out; leaving the prison with no post
+-incarceration supervision 
+requirements other than those
+ 
+ Table 6. Criminal Justice Factors
+    Sample Equivalences
+  In studies that 
+use random sampling it
+ is assumed that the samples will be equivalent in 
+all relevant factors. This is, however, an assumption, and statistical theory suggests that although 
+rare, samples may be found to differ.  In this case, it is known that samples differ temporally.  
+The di
+fferences in cohorts may be reflected in institutional responses (e.g., changes in court 
+
+social or community behavior (e.g., increases or drops in specific dr
+ugs of choice or type of 
+crime), or other historical sociopolitical changes.  Bivariate analyses were conducted to confirm 
+offender similarity in: demographics, risk factors, and prior criminality; all known to associated 
+with the likelihood of recidivism.
+   Variable
+ % Mean (sd)
+ Mean Length of Sentence (in months)
+  104.4 (63.8)
+ Mean Time Served (in months) 
+  56.2 (40.4)
+ % Paroled
+ 32.4
+   
+  28  No statistically significant differences were found in demographic characteristics. Among 
+the risk factors, only receipt of other treatment services was significant (with the earlier cohort 
+more likely to have received services [95% vs. 83%;
+ 2 = 14.6, df=1, p<.001])
+. In terms of 
+criminal history, no variable was found to be significant except for the average number of prior 
+sex offenses (with the earlier cohort averaging a higher number [.56, sd=1.16 vs. .32, sd=.87; 
+F=7.21, df=1, 546, p=.00
+7]). Among the target offense variables, only alcohol use was 
+significant (with the earlier cohort more likely to have used alcohol during the commission of the 
+
+2 = 6.09, df=1, p=.014]).  Thus of the over fifty variables analyzed, only
+ three were significantly different between groups.  Again appealing to statistical theory, with 
+multiple tests there is an increased likelihood of detecting significant relationships. No correction 
+was made in these analyses to account for this threat.  H
+owever, given the vast number of 
+equivalencies, these groups are assumed equal for purposes of the outcome analyses. 
+ Offender Outcomes Pre
+- and Post
+-
+ Before presenting pre
+-post contrasts that are controlled by time at risk, ye
+ar-by-year 
+graphs demonstrate several important points that must be kept in mind when interpreting the 
+remainder of the analyses.  The outcome measure of recidivism was collected through June 15, 
+2007.  The remaining measures were adjusted to assure that a
+ll offenders had an equal time at 
+risk, specifically 2,358 days or approximately six and a half years. Figure 6 presents the percent 
+of offenders released in each year who generally recidivate within the follow
+-up period (i.e., 6 ½ 
+years).  In this case, t
+his figure presents the percent of persons who are re
+-arrested, the percent of 
+the sample re
+-convicted and the percent re
+-incarcerated.  Clearly, these are three closely linked 
+outcome measures (e.g., conviction cannot occur in the absence of a chargeable 
+offense).  
+  
+  29 Figure 6. General Recidivism by Year
+  Overall, 46 percent of offenders were re
+-arrested (9 percent were re
+-arrested for a sex 
+crime), 41 percent were convicted, and 35 percent were re
+-incarcerated.  
+Although 
+the figure 
+shows substantial moveme
+nt up and down over time, there are no significant differences by year 
+(this is largely a power problem).  Further, excluding the year 1995, all measures of recidivism 
+are declining over time from highs in the 50 to 60 percent range in the 1990 release coh
+ort to the 
+25 to 40 percent range in the 2000 release cohort. What is interesting about this figure, however, 
+is the rates relative to each other within year.  In most years, a stable percentage of persons who 
+are arrested are convicted. In this sample, ov
+er the 11 years, 88 percent who are arrested are 
+convicted. Of those convicted, 86 percent are incarcerated as a result.  However, these rates vary 
+from year to year.  For example, of the 1993 release cohort 46 percent were re
+-arrested; of those, 
+96 percen
+t were convicted; and of those convicted 96 percent went back to prison.  In 
+comparison, of the 1995 release cohort, 56 percent were re
+-arrested and nearly all were convicted 
+(96%), but only 70 percent of those convicted were re
+-incarcerated.  It is not cl
+ear from these 
+data whether the year
+-to-year differences are a result of procedural and administrative changes or 
+a reflection of a system response to public pressure.
+  
+  30 Recidivism
+ Table 7 presents the comparisons of the pre
+- and post
+-implementation groups o
+n all 
+outcome measures, including recidivism, community tenure and harm
+ (sexual re
+-offending)
+.  In 
+the 
+recidivism
+ section, all measures (i.e., arrest, conviction and incarceration) are 
+significant.  In all three variables, the post
+-implementation g
+roup has a lower percentage of cases 
+that have experienced the outcome. 
+  This is for general recidivism.  Forty
+-one percent of the 
+post-implementation group was re
+-arrested compared to 50 percent of the pre
+-implementation 
+
+2= 3.94, 1 df, p=.047).  
+Similarly, 34 percent of the post
+-implementation group was 
+convicted compared to 46 percent of the pre
+-
+2= 8.59, 1 df, p=.003). And 
+29 percent of the post
+-implementation group was re
+-incarcerated compared to 40 percent of the 
+pre
+-impl
+
+2= 7.53, 1 df, p=.006).
+ 
+ Variable
+ Pre
+ Post
+ Total
+ 2/F  (df)
+ sig.
+ Recidivism
+      % re
+-arrested any crime
+ 49.7
+ 41.2
+ 45.8
+ 3.94 (1)
+ .047
+ % re
+-convicted at least on
+ce 46.3
+ 34.0
+ 40.7
+ 8.59 (1)
+ .003
+ % re
+-incarcerated at least once
+ 40.0
+ 28.8
+ 34.9
+ 7.53 (1)
+ .006
+ Community Tenure
+      Days to arrest any crime (sd)
+ 772.2(636.9)
+ 726.0(616.5)
+ 753.3(627.8)
+ .329(1,250)
+ n.s.
+ Days to arrest sex crime (sd)
+ 813.7(690.5)
+ 765.3(70
+6.0)
+ 794.9(689.6)
+ .056(1,47)
+ n.s.
+ Harm
+ % re
+-arrested sex crime
+ 10.0
+ 7.6
+ 8.9
+ .97 (1)
+ n.s.
+ Sex crime type (n=48)
+   % child molestation
+   % rape
+   % other (voyeurism, exhibitionism)
+  54.5
+ 13.6
+ 31.8
+  66.7
+ 20.0
+ 13.3
+  59.5
+ 16.2
+ 24.3
+ 1.70 (2)
+  n.s.
+  % violent
+ 31.9
+ 20.5
+ 26.7
+ 9.01 (1)
+ .003
+       Community Tenure
+   Time to failure is an important outcome measure.  Situations may exist where equal 
+percentages of experimental and comparison groups demonstrate an outcome
+, in this case, re
+-arrest, but the average l
+ength of time to the arrest differs.  Even in the case where equal 
+percentages of pre
+- and post
+-implementation subjects are re
+-arrested, more days in the 
+ 
+  31 community without committing a crime
+2 reflects improved outcomes in community and personal 
+harm, as we
+ll as cost savings.   
+  The average time to an arrest for any type of crime was 753 days (sd=628) or about two 
+years, one month (see Table 6).  There was no significant difference by implementation cohort.  
+The average time to an arrest for a sex offense w
+as 795 days (sd=690) or about two years, two 
+months.  
+There was no significant difference by implementation cohort for this variable.
+  A survival analysis was also conducted on these data to determine whether the rate of 
+failure by time at risk varies sign
+ificantly by implementation cohort.  Figure 7 displays the 
+survival curves for the two groups.  Cases that experienced an arrest are designated by their 
+inclusion in the continuous curve (i.e., continuous line), cases that were not arrested are censored 
+and are represented as pluses.  The strength of this analysis is the inclusion of censored cases.  
+They are included with the time value computed as the time from release until the last day of 
+data collection (i.e., June 15, 2007).  
+  The curves reflect seve
+ral facts: (1) all cases are censored if their time at risk exceeds 
+2358 days regardless of whether they were arrested or not, (2) 60 percent of post
+-implementation 
+cases compared to 50 percent of pre
+-implementation cases survive (i.e., have not been arres
+ted)
+3, and therefore visually demonstrating the cohort difference in overall re
+-offending, and (3) the 
+curves, while diverging a small amount, are proportionally similar across time at risk, thus 
+reflecting no significant difference in the failure rate (co
+nfirmed by statistical tests, including the 
+log-rank test). 
+ Figure 7. Survival (days to re
+-arrest) of Pre and Post Implementation Groups
+                                                  2 Assuming that supervision and surveillance practices
+ are equivalent and that the individual does not indeed commit 
+any crimes.
+ 3 These are the same percentages in reverse (100%
+-%arrested) as those displayed in Table 1
+  
+  32   Reduced Har
+m by Deterring Sexual Re
+-offending
+  Re-arrests for sexual offenses do not significantly differ year to y
+ear (see Figure 8).  
+Holding time at risk constant, 9 percent of the sample has been re
+-arrested for a sex crime, 
+representing about 19 percent of the arrest charges.  This varies from a high of 14 percent in 
+1991 and 1992 to a low of 6 percent in 1994, 19
+95, and 2000.
+ Pre
+- and post
+-implementation groups do not differ in the percent of persons re
+-arrested 
+for a sex
+ crime (10% vs. 7.6
+%).  Of the 48
+4 cases represented in the sexual re
+-offense type 
+analysis, 60 percent were charged with child molestation or in
+cest, 16 percent with rape and 24 
+percent with another type of sex offense, including voyeurism and exhibitionism.  The pre
+- and 
+post-implementation groups also did not differ significantly on sex offense type.
+ Figure 8. Re
+-arrest for Sex Offense by Year
+                                                  4 Allowing time at risk to include the full period of time from release, only 62 individua
+ls were re
+-arrested on a sex 
+charge: 13.2% of the pre
+-implementation group with between 4,565 and 6,386 days at risk and 9.7% of the post
+-implementation group with between 2,374 and 4,561 days at risk.
+  
+  33    As a side note, t
+he percentage of violent crimes, excluding sex crimes, was also 
+investigated.  Overall, 28 percent of the sample was re
+-arrested for at least one violent crime.  
+
+lemented were re
+-arrested for a violent crime compared to 32 percent of the pre
+-implementation cohort.
+ PHASE THREE: COST STUDY
+ Methodology
+  The final stage of this research grant proved to be the most challenging, as delineating 
+costs associated with commu
+nity registration and notification were difficult to disentangle
+ from 
+other state and county level spending
+.  
+The research team mailed a cost assessment questionnaire 
+
+of the 21 county
+ 
+ Law 
+Units are responsible for the enforcement and administration of community notification and 
+registration statutes in New Jersey (i.e.
+, 
+
+, tier class
+ification), door to 
+door/community notifications, trainings (e.g.
+, law enforcement, day care center employees), 
+prosecution/litigation, internet registry maintenance, etc.
+  
+  34 Prior to mailing the cost assessment questionnaires, the research team met with Assi
+stant 
+Prosecutors in order to review questions contained in the survey and to address any questions 
+prosecutors may have had in completing the survey. Survey questions were subsumed under two 
+general categories: start up costs and ongoing yearly implementa
+tion costs. 
+ Specifically, startup costs include those initial costs associated with the establishment of 
+
+establishment of the internet sex offender registry, equipment cost
+s, and other/miscellaneous 
+costs (e.g. computer software). Ongoing costs consist of expenses such as staff salaries, internet 
+registry maintenance, equipment maintenance/supplies, and other/miscellaneous expenses (e.g. 
+mailings, printings, software updates
+, etc.). Survey questions concerning on
+-going expenses 
+pertained to costs accumulated during the calendar year ending 2006.  
+ In addition, a section concerning percentage of time allotted to job tasks (i.e. itemized 
+according to staff title) was included a
+nd was to be completed for all staff working within each 
+
+percentage breakdown of time allotted to specific job functions such as risk assessment, door to 
+door notifi
+cations, training, etc. was required.
+ Of the 21 coun
+ties that were surveyed, 15
+ surveys were completed and received by the 
+research unit, for a total response rate of 71.4 percent. Upon receipt, researchers scanned survey 
+responses for possible misreading/
+interpretation issues related to specific survey items. For 
+additional clarification, researchers called county prosecutor offices to confirm questionable 
+survey item responses and made any changes accordingly. After survey responses were finalized, 
+an Exc
+el database of cost assessment variables was created for analysis.
+  
+  35 Along with the cost assessment survey, prior 
+New Jersey state budgets
+ were reviewed for 
+costs associated with the incarceration, rehabilitation, and tracking of sex offenders.
+  Specifically
+
+ Moreover, original 
+grant documentation and archived folders were also reviewed for costs not included or found in 
+the other sources. 
+Sources were challenging to locate, as was the origin of muc
+h of the funding.  
+ Results
+ The results that follow include
+ statistics based on the 15
+ counties that responded to the 
+
+sessment Survey. For the 15
+ responding counties, the initial 
+aggregate 
+
+aw totaled $555,565. Of this total startup cost, 
+establishment of the internet sex offender registry
+ accounted for 
+$186,190, an average of $31,032 
+(sd=$24,140) per county, equipment accounted for $232,407 ($19,367
+ average per county
+, sd=$14,212), and other
+/miscellaneous costs accounted for $136,968 ($12,452
+ average per 
+county
+, sd=
+ $17,702). In addition, total 
+aggregate 
+expenses 
+for all 15 counties 
+attributable to the 
+
+, according to the fifteen participating counties). Of total per annum costs, staffing costs accounts 
+for $3,605,972 ($257,569
+ average per county
+, sd=
+ $160,180), internet sex offender registry 
+maintenance accounts for $146,300 ($20,900
+ average per county
+, sd=$20,178), 
+equipment/supplies accounts for $130,483 ($10,037
+ average per county
+, sd=
+ $8,196), and 
+other/miscellaneous expenses accounts for $91,177 ($6,513
+ average per county
+, sd= $6,002).
+ 
+counts of staff 
+
+to door notifications per year. According to completed surveys, the number of employees 
+
+ aver
+age per county
+, sd= 3.2), and an 
+ 
+  36 
+ average per county
+, sd= 303.4). Moreover, counties reported that law enforcement officers performed a total of 31 door
+to-door notification events (3.9
+ averag
+e per county
+, sd= 2.7) throughout the year (e.g. 1 event 
+equals 300 households) for tier three sex offenders. 
+ A question concerning ongoing 
+costs for the calendar year ending 2006 was also included 
+in the survey to measure yearly cost increases/decreases.
+ 
+implementation during calendar year 2006 was estimated to be 
+$1,557,978, whereas 
+implementation costs during calendar year 2007 totaled $3,973,932
+ for responding counties
+5. This change represents a 155% increase in 
+ongoing 
+expense
+s from calendar year 2006 to 
+calendar year 2007. 
+These 
+increases 
+
+Law Units and 
+did not reflect specific costs
+.  However, with the inception of the Global 
+Positioning Satellites used for Tier 3 sex offe
+nders, it can be surmised that a portion of the 
+increases can be attributed to increased surveillance.  
+Finally, re
+search of prior state budgets 
+
+for 
+fiscal year
+s since
+ 2000.  There are no other
+ disti
+nguishable appropriations.  Most 
+costs 
+are 
+combined 
+with salaries or
+ another type of operating expense
+s.     PROJECT SUMMARY
+                                                  5 As noted, fifteen out of a possible twenty one counties in New Jersey responded to the cost assessment survey, which translat
+es to an 
+approximate response rate of 71.4%. In order to provide a more accurate assessment of initial and on going costs statewide
+, said costs 
+were interpolated by adding 28.6% (i.e. 100% 
+- 71.4%) to the implementation and ongoing grand totals of the fifteen responding 
+counties. . In effect, using this general interpolation method, implementation costs were estimated to be $714,457 a
+nd ongoing costs were 
+estimated to be $5,110,477 statewide. Again, because these figures are interpolated, these costs do not take varying county d
+emographics 
+into account and should be interpreted with this caveat.
+  
+  37  The three phases of this study were designed to test the effectiveness 
+and cost 
+
+Law using multiple methods and stra
+tegies. In no
+ne of the analyse
+
+definitively found to be effective
+
+and pre and post samples do not indicate statistically lower rates of sexual offending, the high 
+costs associated
+ 
+.   Summary of Results
+ As a preliminary step in assessing the effect of community registration and notification 
+laws on sexual arrest rates in New Jersey, the goal of the trend study was to explore crime trends 
+and
+ to identify possible changes over a 21
+-year period. Specifically, the main research areas 
+concerned the patterns of sexual offense rates both prior and subsequent to the implementation of 
+
+n sexual, 
+drug, and non
+-sex/non
+-drug
+ based offenses during the same time period. 
+The results presented in this report support findings 
+by other researchers exploring relevant topics. Most notably, 
+Finkelhor and Jones (2004) found 
+that there has been a consistent dow
+nward trend in child sexual abuses cases since the early 
+1990s. This trend analysis did indeed find a significant change in the
+ statewide decreasing sex 
+
+ implemented, which may lead some readers to believe 
+that the l
+egislation
+ is solely responsible for the decl
+ine. Because sex offense rates 
+began to 
+decline well before the passage of
+ 
+drop in
+ general. It may, in fact, be the case that continuing reductions 
+in sex
+ offending in New 
+Jersey, as well as across the nation, are a reflection
+ of greater societal changes.  Having said this, 
+it is nevertheless hard
+ to explain the steeper decline in rates after the implementation of
+ 
+Law. Given that sex offenses 
+are low base rate events, the
+ finding that these rates continue to 
+ 
+  38 decline at an accelerated rate
+ after 1994 suggests that something other than a natural decline may 
+be responsible.  
+Although
+ the initial decline cannot be attributed to
+ 
+tinued 
+decline may, in fact, be related in some
+ way to registration and notification activities.
+  However, 
+there may well be additional factors causing this steeper rate of decline after 1994, perhaps some 
+attributable to other public policies.  For exampl
+e, in 1998, New Jersey began civilly committing 
+those sex offenders found to present the highest risk to the community, termed sexually violent 
+predators.  Assuming the accuracy of the risk assessment that underlies the civil commitment of 
+these sexually v
+iolent predators, 
+then those at highest risk to reoffend have been removed from 
+the community, thereby potentially lowering the sex offense rate.
+  Although, the number of 
+civilly committed sexual predators only includes approximately 350 sex offenders.
+ Moreover, t
+his statewide finding 
+of a declining sex offense rate 
+should be taken with 
+considerable caution.  The
+ variation in the pre
+-post-implementation rate trends at the county 
+level
+ suggests that the statewide effect may be an artifact of the aggregation
+ process. 
+Although
+ many counties (9 of 21) follow the state trend, many
+ others show no differences in rates over 
+time or have experienced
+ reductions followed by increases to near pre
+-
+ so, with only two exceptions, the rates of sex of
+fending were highest
+ prior to 1994 and lowest 
+after 1995, with the most recent years having
+ the lowest rates. Differences in population, socio
+-political status,
+ policing and prosecutorial resources may be related to differences in
+ the effectiveness in noti
+fication and surveillance activities in
+ specific counties.
+ Although
+ impossible to distinguish the nature of the effects, the
+ reductions of sex 
+offenses is related to some historical process: either
+ (1) registry/notification, surveillance and/or 
+aggressive 
+prosecution
+ 
+  
+  39 reductions or (2) general public awareness, publicity, and/or exclusion
+ and intolerance feed the 
+continued decline.  Most likely, it is a
+ combination of these factors.
+ In the offe
+nder release sample, there is a consistent downward trend in re
+-arrests, 
+reconvictions and re
+-incarcerations over time similar to that observe
+d in the trend study
+, except 
+in 1995
+, when all measures spiked to a high for that period. This resulted in signifi
+cant 
+
+implemented). Similarly, re
+-arrests for violent crime (whether sexual or not) also declined 
+steadily over the same period resulting in a significant difference betwee
+n cohorts (i.e., those 
+
+because 
+these trends 
+
+solely 
+
+activities.
+  In all other pre
+-post measures, includ
+ing other measures of recidivism, community tenure 
+and harm reduction
+ (decreased sexual offending)
+, no significant differences between cohorts 
+were found.  
+
+ o increasing community tenure
+ (the time spe
+nt in the community prior to re
+-arrest)
+; o reducing sex
+ual
+ re-offenses;
+ o changing the type of sexual re
+-offense or first time sexual offense
+ (for example, 
+from hands
+-on to hands-off offenses)
+; or o reducing the number of victims involved in sexual offenses.
+   Costs associated with the initial implementation
+ 
+ as well as ongoing 
+expenditures
+, continue to grow over time.  Start up costs totaled $555,565
+ in 1994
+ and now 
+curren
+t costs (in 2007) total 
+approximately 
+3.9 million dollars.  Given the lack o
+f demonstrated 
+
+ researchers are hard
+-pressed to determine that the escalating costs are 
+justifiable.
+ Limitations
+  
+  40 Conducting a study of this type with sensitive sexual arrest data introduces a number of 
+limitations.  The most noted
+ problem plaguing sexual offense research, the low base rate of 
+reported sexual offenses, is tied to the under
+-representation of official data.  Because sexual 
+offenses are under
+-reported, most measures of recidivism under
+-represent the true offending 
+rate
+s (American Psychiatric Association [APA], 1999; Belknap, 2000; Furby et al., 1989; Hall, 
+1995; Hanson & Bussiere, 1998).  It has been suggested that the present statistics on sexual 
+abuse represent approximately one
+-third of the number of actual victimiza
+tions, leaving 
+
+Belknap, 2000; Chesney
+- Lind, 1997).  Legal definitions, fear and shame, and a desire for 
+privacy are the main contributors to the unwillingness of m
+any victims to report their abuse.  
+Conversely, it has been noted that some types of sexual abuse may be over
+-represented to the 
+police, such as stranger rapes (Belknap, 2000).   For example, victims of stranger rape, as 
+opposed to incest victims, may be m
+ore inclined to report their sexual victimization because their 
+perpetrator is unknown. This disparity may lead many to believe that stranger victimizations 
+occur more frequently than other types of sexual victimizations because the reports may appear 
+disproportionately higher (Zgoba & Simon, 2004).  
+Although
+ most individuals know that 
+acquaintance or familial crimes are more frequent, these factors may make it difficult to achieve 
+a clear picture of sexual offense rates (Belknap, 2000; Chesney
+- Lind, 1997)
+. Given this low base 
+rate of reporting, it is notable that sex offenses decrease rapidly in the post
+-
+the fact that the decrease accelerates as the number of crimes decreases is unexpected.
+  Another issue that has been difficult to full
+y address in the format of this study is whether 
+the noted decreases in the post
+-
+
+ 
+  41 known sex offende
+
+idea of notification and increased surveillance may have a general deterrent effect.  Further, 
+increased attention and public contempt of sex offenses and offenders may also contr
+ibute to 
+general deterrence.  This study illustrated downward trends in sexual arrest rates, but cannot 
+differentiate whether the reduction is due to decreases in new first
+-time sex offenses (general 
+deterrence) or to decreases in sexual re
+-offenses (speci
+fic deterrence).  
+ One of the largest challenges
+, and a subsequent limitation
+, associated with this 
+grant 
+was 
+obtaining 
+the financial 
+
+County Prosecutor Offices, as well as the 
+offices dealing with Treasury and Budget, had the 
+same difficulties the researchers experienced 
+when 
+attempting to isolate and identify the costs listed in the State of New Jersey
+ Budgets.  
+Furthermore, initial start
+-up costs were 
+sometimes 
+funded through grants 
+that providing 
+few 
+specifics
+ regarding disb
+ursement patterns
+.  In an effort to provide close estimates, the researchers 
+developed proxy measures that
+ should be read with some 
+caution.  
+ Conclusion
+ Despite wide community support for these laws, there is 
+little 
+evidence to date, including 
+this study,
+ 
+-time sex 
+offenses or sexual re
+-offenses.  
+Continuing research should focus on matching samples of sex 
+
+ning levels of 
+
+Further research will be conducted utilizing the data 
+accumulated here, specifically exploring low base rate offending and potential predictors of 
+sexual recidivism.  
+Should future studies establish 
+
+on the rates of sexual offending, policy makers and legislative leaders should investigate other 
+ 
+  42 options for lowering sex offense rates, such as mandated treatment of 
+all 
+sex offenders
+, potential 
+use of polygraph
+ testing 
+and intensive probation and parole supervision. 
+   
+  43 References
+ American Psychiatric Association. (1999). 
+Dangerous sexual offenders: A task force report of 
+the American Psychiatric Association. 
+Washington, DC.
+  Barnoski, R. (2006). Sex Offender Sen
+tencing in Washington State: Sex Offender Risk Level 
+Classification Tool and Recidivism. Washington State Institute for Public Policy, 
+(WSIPP Publication No. 06
+-01-1204). Retrieved February 3, 2007 from 
+http://www.wsipp.wa.gov/pub.asp?docid=06
+-01-1207.  Beck, V. S. & Travis, L. F. III. (2002).  Sex offender notification and protective behavior.  Paper 
+presented at the 54
+th annual meeting of the American Society of Criminology, Boston, 
+MA.  Beck, V. S., Clingermayer, J., Ramsey, R. J., & Travis, L. F. III. (2004). Community responses 
+to sex offenders. 
+Journal of Psychiatry & Law
+, 32, 141-168.  Belknap, J. (2000). 
+Invisible women: Gender, crime and justice. 
+Stamford, CT: Wadsworth 
+Publishing.
+  B
+Criminal Justice Ethics
+, 15 (1),       
+56-66.  Chesney
+-Lind, M. (1997). 
+The Female offender: Girls, women and crime.
+ Thousand Oaks, CA: 
+Sage Publications.
+  Corrigan, R. (2006). Making Meaning of 
+
+Law & Social Inquiry, 
+31(2), 267
+-312.   Finkelhor, D., & Jones, L. M. (2004). 
+Explanations for the decline in child sexual abuse cases
+. Washington, D.C.: Office of Juvenile Justice and Delinquency Prevention.
+  Furby, L., Weinrott, M. & Blacksh
+aw, L. (1989). Sexual offender recidivism: A review. 
+Psychological Bulletin
+, 105, 3-30.  Hall, G. (1995). Sexual offender recidivism revisited: A meta
+-analysis of recent treatment studies. 
+Journal of Consulting and Clinical Psychology
+, 63 (5), 802
+-809.  Hanson, R. K. & Bussiere, M.T. (1998). Predicting Relapse: A Meta
+-Analysis of Sexual 
+Offender Recidivism Studies. 
+Journal of Consulting and Clinical Psychology, 
+66(2), 348
+-362.   Langan, P.A. & Levin, D.J. (2002). Recidivism of Prisoners Released in 1994. U.
+S. Department 
+of Justice, Bureau of Justice Statistics (NCJ 193427. Washington, DC.
+  
+ Washington State Institute for Public Policy (Document No. 97
+-10-1101).
+ Olym
+pia, WA.
+  
+  44  Pettitt, AN. (1979). 
+A non-parametric approach to the change
+-point problem. 
+Applied Statistics 
+  28:126-35.  
+-driven systematic review. Centre for 
+Evidence Based Policy and Practice, London, 
+UK: University of London.
+  Presser, L. & Gunnison, E. (1999). Strange Bedfellows: Is Sex Offender Notification a Form of 
+Community Justice? 
+Crime & Delinquency, 
+45(3), 299
+-315.   Pallone, N.J., Hennessy, J.J. & Voelbel, G.T. (1998). Identifying Pedophiles 
+
+
+Anchored Decisions. 
+Journal of Offender Rehabilitation, 
+28(1/2), 41
+-60.   
+utionality? 
+Criminal Justice, 
+11(3), 2
+-63.  Schram, D. D., and Milloy, C. D. (1995). Community Notification: A Study of Offender 
+Characteristics and Recidivism. Washington State Institute for Public Policy. Seattle, 
+Washington: Urban Policy Research.
+  Tewk
+sbury, R. (2005).  Collateral Consequences of Sex Offender Registration.  
+Journal of 
+Contemporary Criminal Justice, 
+21(1), 67
+-81.   Tewksbury, R. & Lees, M. (2006). Perceptions of Sex Offender Registration: Collateral 
+Consequences and Community Experiences
+.  Sociological Spectrum
+, 26(3), 309
+-334.  Witt, P.H. & Barone, N.M. (2004).  As
+sessing sex offender risk: New 
+
+Federal 
+Sentencing Reporter
+, 16, 170
+-175.  Zevitz, R. G. & Farkas, M. A. (2000). Sex offender community notification: Assessing
+ the impact in Wisconsin. U. S. Department of Justice, National Institute of Justice, Research 
+in Brief (NCJ 17992).
+  Zgoba, K. & Simon, L.M.J. (2005). Recidivism Rates of Sex Offenders Up to Seven Years Later: 
+Does Treatment Matter? 
+Criminal Justice Revie
+w, 30(2), 155
+-173.  

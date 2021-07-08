@@ -1,0 +1,45 @@
+SectionsSEARCHSkip to contentSkip to site indexComments Coronavirus: Which Mask Should You Wear?Skip to CommentsThe comments section is closed.
+ Figuring out what to wear is not so easy.
+ N95 and medical masks, which offer the most protection and are heavily in demand, should be reserved for health care workers who are regularly exposed to infected patients.
+ Here’s a look at some of the types of masks you might encounter, how they work, what to consider when making your own and the level of protection they could provide.
+ N95 The N95 is the most recognizable and effective mask.
+ Its name means it can block at least 95 percent of tiny particles — 0.3 microns — that are the hardest to capture.
+ An average human hair is about 70 to 100 microns wide.
+ These masks, which are designed for single use, are made with polyester and other synthetic fibers, including layers of tangled fibers that act as a filter to make it harder for particles to pass through.
+ Make sure there are no gaps between the edge of the mask and your skin.
+ This one includes a nose piece that is molded to your face.
+ Many health care and other workers do annual fit tests that check for air leakage and ensure that masks are sized and fit properly.
+ (If you have facial hair, you won’t get a proper fit.
+ They don’t fit well on children, either.)
+ Some N95s have exhalation valves on the front, which make it easier to breathe.
+ Those masks are often used in construction.
+ A mask with a valve should not be used in areas that are meant to be sterile, like hospital operating rooms, and would not protect others from what you breathe out.
+ When worn properly, they can help prevent the spread of the coronavirus by catching droplets when you cough or sneeze.
+ Medical masks are often made out of layers of breathable, paperlike synthetic fabric that is cut into a rectangular shape and has pleats to help it expand and fit more snugly around your face.
+ They are disposable and designed to be used just once.
+ While they can protect you from large droplets and splatter, their looser fit is partly what makes them less effective than N95s.
+ Homemade With medical masks in short supply, many have turned to making or buying homemade ones.
+ Depending on the fabric and how it’s made, a homemade mask can sometimes protect the way a simple medical version does.
+ And any face covering is better than nothing.
+ A good homemade mask uses a material that is dense enough to capture viral particles, but breathable enough that you can tolerate it.
+ This one is made of cotton fabric.
+ You can also use materials like a heavy cotton t-shirt, flannel or a tightly woven dish towel.
+ Material with a higher thread count — which allows very little light to filter through — will likely offer the best protection.
+ Various patterns for making a cotton mask have spread around the internet.
+ Look for one that has at least two layers of material, comes up over your nose and below your chin and has secure straps.
+ Homemade With Filters This is another homemade mask, made from 100-percent cotton t-shirts, with a pocket sewn in to hold an additional filter.
+ We used a coffee filter in this mask.
+ Paper towels have also been tested.
+ One experiment found that two layers of paper towels on their own blocked between 23 and 33 percent of 0.3-micron particles.
+ People have been experimenting with filtering materials, including air filters and vacuum bags.
+ They can be effective but can present risks.
+ Many are not breathable and may contain harmful fibers that you could inhale.
+ Also, the average person doesn’t need the level of filtration that these materials provide.
+ Whatever filter you use, make sure there is a layer of cotton or a similar material on either side of the filter, like the pocket in this mask.
+ A mask is effective only if worn properly, fitting snugly from the top of the nose to below the chin with no gaps.
+ Masks should be worn the entire time you are outside, and should not be moved up and down.
+ While no mask is 100 percent effective, it can help keep both you and others safe when combined with social distancing and regular hand washing.
+ We have more coverage: Here’s a complete guide to masks, tips on how not to wear one, what the best materials are for making a mask and even how to sew your own.
+ // NB could be extended to be "global" if we want!
+ Most of these  // loosely map to existing hybridConfig values.
+ /**   * Returns the read/unread status for a series of assets, by URI.

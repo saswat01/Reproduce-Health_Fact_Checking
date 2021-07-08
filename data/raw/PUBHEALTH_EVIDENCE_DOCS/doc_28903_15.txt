@@ -1,0 +1,87 @@
+water use is high; or it may be discovered that 
+too much water is applied to shallow hard pan 
+soils creating a water l
+ogged soil; or, that too 
+much water is applied to well drained soils 
+increasing energy and water costs.  A water meter is the most direct way of tracking 
+irrigation amounts. Howeve
+r, irrigation amounts 
+can also be determined by noting pumping time 
+per irrigation along with pump discharge rate as 
+shown in the above example. Table 1 shows a 
+simple format for keeping records of irrigations 
+and irrigation amounts. 
+ Another Example: You have 50 
+acres of drip 
+irrigated vineyard with
+ 454 vines per acre. The 
+average E.T. for this vineyard during the month 
+of July is 0.2 acre-inches per day. How many 
+
+gallons of water must be applied daily to the 
+vineyard to keep up 
+with E.T.? How many 
+gallons does an individual vine use each day? 
+The answers are 271,500 gallons per day for the 
+50 acre vineyard, and 12 gallons per day for an 
+individual vine.  Calculated as follows: 
+1) Vineyard E.T. (gals/acre/day)  = 0.2 inches/day x 27,154 gals/inch     
+= 5430 gallons per day acre 
+per day; 5430 gallons per acre x 50 acres  
+    
+= 271,500 gallons per day 
+for the entire 50 acres 
+2) Vine E.T. (gals/vine/day)
+  = 5430 gals per acre/454 vines per acre     = 
+12 gallons per vine per day With a water meter, drip irrigations are 
+scheduled so that the 271,500 gallons of water 
+required daily by the 50 acre vineyard are 
+metered out accurately. Without a water meter, 
+the irrigator must know the average flow of the 
+drippers. For example, if every grapevine has 
+two drippers and the average dripper flow is ½ 
+gallon per hour; then, the drip system needs to 
+run 12 hours each day to apply the required 12 
+gallons per vine - which is equal to 5430 gallons 
+per acre, which is equal to 271,500 gallons for 
+50 acres. 
+ Final Example: The evapotranspiration rate of 
+a deciduous orchard during July averages 0.22 
+acre-inches per day. What is the E.T. of this 
+orchard in gallons per minute per acre? You 
+irrigate with a low volume irrigation system 
+which has an application efficiency of 80%; 
+what would be the minimum size pump 
+discharge for one acre to meet the orchards E.T. 
+requirement, allowing for the system 
+inefficiency? The answers are 4.1 and 5.1 
+gallons per minute, respectively. 
+ Calculated as follows: 
+1)E.T.  =0.22 inches per day x 27,154 
+gallons per inch      =5974 gallons per acre per day 
+2)E.T.  =5974 gallons per day/24 hours 
+per day      =249 gallons per acre per hour  
+3)E.T.  =249 gallons per hour/60 
+minutes per hour  
+    
+=4.1 gallons per minute per 
+acre 4)Pump requirement =4.1 gallons per minute/0.8 
+    
+=5.2 gallons per minute per 
+acre   To keep up with the E.T. of 
+one acre during 
+July, a pump discharging 5.2 GPM would have 
+ to run 24 hours a day (assuming the irrigation 
+system has an application efficiency of 80%). 
+ Note: To allow for down time and more 
+flexibility, most irrigato
+rs would like to have a 
+minimum pump capacity of 10 GPM per 
+acre. Therefore, a 50 acre farm would require a 
+pumping capacity of 500 GPM, etc. 
+  More Units of Water Measurement FLOW: Gallons Per Minute (GPM)
+  452.5 GPM = one acre-foot in 12 hours  452.5 wGPM = one acre-inch per hour  448.8 GPM = one cubic foot (7.48 gal) per second  694.4 GPM = 1,000,000 gallons per day HEAD:  1 Pound Per Square Inch (psi) = 2.31 ft. head of water  1 Foot of Water = 0.43 psi  1 Atmosphere (at sea level) = 14.7 psi 
+WEIGHT:  1 U.S. Gallon Water = 8.34 pounds 
+ 1 Cubic Foot of Water = 62.4 pounds 
+ 1 Acre-Foot of Water = 2,719,226 pounds 
+  

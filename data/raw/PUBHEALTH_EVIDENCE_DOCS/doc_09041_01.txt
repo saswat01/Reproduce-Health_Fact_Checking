@@ -1,0 +1,334 @@
+NEJM Journal Watch  Concise summaries and expert physician commentary that busy clinicians need to enhance patient care.
+ NEJM Knowledge +  The most effective and engaging way for clinicians to learn, improve their practice, and prepare for board exams.
+ NEJM Catalyst  NEW!
+ Peer-reviewed journal featuring in-depth articles to accelerate the transformation of health care delivery.
+ NEJM Resident 360  Information, resources, and support needed to approach rotations - and life as a resident.
+ NEJM Career Center  Valuable tools for building a rewarding career in health care.
+ NEJM Library Hub  Information and tools for librarians about site license offerings.
+ NEJM 医学前沿  The authorized source of trusted medical research and education for the Chinese-language medical community.
+ The New England Journal of Medicine  The most trusted, influential source of new medical knowledge and clinical best practices in the world.
+ 383  No.
+ 19        Recent Issues          October 29, 2020  Vol.
+ 383  No.
+ 18                October 22, 2020  Vol.
+ 383  No.
+ 17                October 15, 2020  Vol.
+ 383  No.
+ 16         Browse full issue index   Browse recently published    Browse full issue index    Recently Published Articles          Racial Disproportionality in Covid Clinical Trials                   Transgender Women on College Athletic Teams — The Case of Lindsay Hecox        J. Dolgin           Early Spread of SARS-CoV-2 in the Icelandic Population                   Preterm Birth and 17OHP — Why the FDA Should Not Withdraw Approval        M.F.
+ Greene et al.
+ Withdrawing Approval of Makena — A Proposal from the FDA Center for Drug Evaluation and Research        C.Y.
+ Chang et al.
+ SARS-CoV-2 Neutralizing Antibody LY-CoV555 in Outpatients with Covid-19        P. Chen et al.
+ Browse recently published      Learning/CME            Learning/CME          CME            Remdesivir for the Treatment of Covid-19 — Final Report                    Colchicine in Patients with Chronic Coronary Disease                    Migraine             Clinical Cases Resource Center           Interactive Medical Cases          Image Challenge           Videos in Clinical Medicine        NEJM Resident 360   NEJM Knowledge+   View all learning/CME    View all learning/CME      Other NEJM Group Learning        Hand Hygiene      Essential information students and residents need to approach residency with confidence: practical training information, career guidance, insightful discussions.
+ Effective, adaptive learning that helps you prepare for certification, maintain competency, and sharpen clinical decision-making while earning CME and MOC.
+ Levy, M.D., Peter Mitchell, M.D., Michael Chen, M.D., Joey D. English, M.D., Qaisar A. Shah, M.D., Frank L. Silver, M.D., Vitor M. Pereira, M.D., Brijesh P. Mehta, M.D., Blaise W. Baxter, M.D., Michael G. Abraham, M.D., Pedro Cardona, M.D., Erol Veznedaroglu, M.D., Frank R. Hellinger, M.D., Lei Feng, M.D., Jawad F. Kirmani, M.D., Demetrius K. Lopes, M.D., Brian T. Jankowitz, M.D., Michael R. Frankel, M.D., Vincent Costalat, M.D., Nirav A. Vora, M.D., Albert J. Yoo, M.D., Ph.D., Amer M. Malik, M.D., Anthony J. Furlan, M.D., Marta Rubiera, M.D., Amin Aghaebrahim, M.D., Jean-Marc Olivot, M.D., Wondwossen G. Tekle, M.D., Ryan Shields, M.Sc., Todd Graves, Ph.D., Roger J. Lewis, M.D., Ph.D., Wade S. Smith, M.D., Ph.D., David S. Liebeskind, M.D., Jeffrey L. Saver, M.D., and Tudor G. Jovin, M.D.et al., for the DAWN Trial Investigators* A complete list of sites and investigators in the DAWN trial is provided in the Supplementary Appendix, available at NEJM.org.
+ Drs.
+ Nogueira and Jovin contributed equally to this article.
+ Article               Figures/Media             Metrics        26 References1492
+        Citing Articles
+        Letters
+       3 CommentsRelated ArticlesAbstract BackgroundThe effect of endovascular thrombectomy that is performed more than 6 hours after the onset of ischemic stroke is uncertain.
+ Patients with a clinical deficit that is disproportionately severe relative to the infarct volume may benefit from late thrombectomy.
+ MethodsWe enrolled patients with occlusion of the intracranial internal carotid artery or proximal middle cerebral artery who had last been known to be well 6 to 24 hours earlier and who had a mismatch between the severity of the clinical deficit and the infarct volume, with mismatch criteria defined according to age ( 0.999), and the rate of functional independence at 90 days was 49% in the thrombectomy group as compared with 13% in the control group (adjusted difference, 33 percentage points; 95% credible interval, 24 to 44; posterior probability of superiority, &gt;0.999).
+ ConclusionsAmong patients with acute stroke who had last been known to be well 6 to 24 hours earlier and who had a mismatch between clinical deficit and infarct, outcomes for disability at 90 days were better with thrombectomy plus standard care than with standard care alone.
+ (Funded by Stryker Neurovascular; DAWN ClinicalTrials.gov number, NCT02142283.)
+ IntroductionQUICK TAKEThrombectomy 6 to 24 Hours after Stroke 01:47Previous randomized trials that involved patients with acute stroke1-6 showed that endovascular thrombectomy had a clinical benefit when it was performed within 6 hours after the onset of stroke symptoms7 and that the benefit diminished as the interval between the time that the patient was last known to be well and thrombectomy increased.8 For the purposes of determining eligibility for thrombolysis or thrombectomy, the time that the patient was last known to be well has typically been considered to be the time of stroke onset, including among patients who wake up with stroke symptoms or have an uncertain time of stroke onset.
+ There is limited information on the effect of thrombectomy that is performed more than 6 hours after the time that the patient was last known to be well, particularly among patients with ischemic brain tissue that has not yet undergone infarction and may be salvaged with reperfusion.
+ Patients with brain tissue that may be salvaged with reperfusion can be identified by the presence of a clinical deficit that is disproportionately severe relative to the volume of infarcted tissue on imaging studies (see Section S3 in the Supplementary Appendix, available with the full text of this article at NEJM.org).9Results of previous nonrandomized studies have suggested that patients who have a mismatch between the volume of brain tissue that may be salvaged and the volume of infarcted tissue could benefit from reperfusion of occluded proximal anterior cerebral vessels, even when the reperfusion is performed more than 6 hours after the patient was last known to be well.10,11 In the DAWN (DWI or CTP Assessment with Clinical Mismatch in the Triage of Wake-Up and Late Presenting Strokes Undergoing Neurointervention with Trevo) trial, we compared endovascular thrombectomy plus standard medical care with standard medical care alone for the treatment of patients with acute stroke who had last been known to be well 6 to 24 hours earlier and who had a mismatch between clinical deficit and infarct.
+ Methods Trial Design The DAWN trial was a multicenter, prospective, randomized, open-label trial with a Bayesian adaptive–enrichment design and with blinded assessment of end points.12 The trial protocol was approved by the institutional review board at each participating site.
+ Enrolled patients or their surrogates provided written informed consent.
+ The trial was designed and conducted by a steering committee, which was composed of independent academic investigators and statisticians, in collaboration with the sponsor, Stryker Neurovascular, which provided funding and the thrombectomy devices for the trial and performed regulatory monitoring at each site and central database maintenance.
+ The first drafts of the manuscript were written by the first and last authors, with input from all the authors and with no writing assistance from the sponsor.
+ The authors had unrestricted access to the data.
+ The data analysis was performed by a data-management staff from Stryker Neurovascular, with oversight from independent statisticians.
+ All the authors vouch for the completeness and accuracy of the reported data and the fidelity of the trial to the protocol.
+ Decisions related to safety, adaptive–enrichment techniques, and trial discontinuation were made at the recommendation of an independent data and safety monitoring board.
+ Information on the inclusion and exclusion criteria, interventions, and assessments has been published previously.12 The trial protocol and statistical analysis plan are available at NEJM.org.
+ Patients Patients were eligible for inclusion in the trial if they had evidence of occlusion of the intracranial internal carotid artery, the first segment of the middle cerebral artery, or both on computed tomographic (CT) angiography or magnetic resonance angiography.
+ In addition, patients had to have a mismatch between the severity of the clinical deficit and the infarct volume, which was defined according to the following criteria: those in Group A were 80 years of age or older, had a score of 10 or higher on the National Institutes of Health Stroke Scale (NIHSS; scores range from 0 to 42, with higher scores indicating a more severe deficit), and had an infarct volume of less than 21 ml; those in Group B were younger than 80 years of age, had a score of 10 or higher on the NIHSS, and had an infarct volume of less than 31 ml; and those in Group C were younger than 80 years of age, had a score of 20 or higher on the NIHSS, and had an infarct volume of 31 to less than 51 ml.
+ Infarct volume was assessed with the use of diffusion-weighted magnetic resonance imaging (MRI) or perfusion CT and was measured with the use of automated software (RAPID, iSchemaView).
+ Other inclusion criteria were an age of 18 years or older, an interval between the time that the patient was last known to be well and randomization of 6 to 24 hours, a prestroke score of 0 or 1 on the modified Rankin scale (which ranges from 0 to 6, with a score of 0 indicating no disability and higher scores indicating more severe disability), no evidence of intracranial hemorrhage on CT or MRI, and no evidence of an infarct involving more than one third of the territory of the middle cerebral artery on CT or MRI at baseline.
+ Patients either did not meet the usual criteria for treatment with intravenous alteplase because of a late presentation or received treatment with intravenous alteplase and had persistent occlusion of the vessel at the time that they were eligible for enrollment in the trial.
+ Treatment Patients were randomly assigned, in a 1:1 ratio, to thrombectomy plus standard medical care (the thrombectomy group) or to standard medical care alone (the control group).
+ Randomization was performed with the use of a central, Web-based procedure, with block minimization processes to balance the two treatment groups, and was stratified according to mismatch criteria (Group A, Group B, or Group C), the interval between the time that the patient was last known to be well and randomization (6 to 12 hours or &gt;12 to 24 hours), and the occlusion site (intracranial internal carotid artery or the first segment of the middle cerebral artery).
+ The trial was conducted at 26 centers in the United States, Canada, Europe, and Australia; at least 40 mechanical thrombectomy procedures had been performed at each center annually.
+ Enrolled patients were admitted to stroke units or intensive care units.
+ Patients who had not received intravenous alteplase could receive therapy with antiplatelet agents, which could be started within 24 hours after randomization.
+ Standard medical care was provided in accordance with local guidelines (see Section S6 in the Supplementary Appendix).12 Thrombectomy was performed with the use of the Trevo device (Stryker Neurovascular), a retrievable self-expanding stent that is used to remove occlusive thrombi and restore blood flow.
+ Rescue reperfusion therapy with other devices or pharmacologic agents was not permitted.
+ Concomitant stenting of the cervical internal carotid artery at the time of thrombectomy was not permitted, but carotid angioplasty was permitted if necessary to allow for intracranial access for the catheter to deploy the retriever device.
+ End Points For the coprimary end points, scores on the modified Rankin scale were obtained through in-person, formal, structured interviews with patients and caregivers that were performed by local certified assessors13,14 who were unaware of the treatment assignments.15 For the 43 patients for whom in-person assessment was not possible, telephone interviews with patients, caregivers, or both were performed.
+ The first primary end point was the mean score for disability on the utility-weighted modified Rankin scale at 90 days.
+ To determine the utility-weighted score, the score on the modified Rankin scale is weighted according to average values calculated from patient-centered and clinician-centered studies.16-18 The following weights are assigned to scores 0 through 6 on the modified Rankin scale: 10.0, 9.1, 7.6, 6.5, 3.3, 0, and 0, respectively.
+ The utility-weighted modified Rankin scale ranges from 0 (death) to 10 (no symptoms or disability).
+ The second primary end point was the rate of functional independence (defined as a score of 0, 1, or 2 on the modified Rankin scale) at 90 days.
+ This end point was changed from a secondary end point to a coprimary end point at the request of the Food and Drug Administration at 30 months after the start of the trial, when the trial was still blinded.
+ Prespecified secondary end points were an early therapeutic response (defined as a decrease in the NIHSS score of ≥10 from baseline or an NIHSS score of 0 or 1 on day 5, 6, or 7 of hospitalization or at discharge if it occurred before day 5), death from any cause at 90 days, centrally adjudicated infarct volume and change from baseline in the infarct volume at 24 hours, and evidence of recanalization of the occluded vessel on CT angiography or magnetic resonance angiography at 24 hours (see Section S3 in the Supplementary Appendix).
+ In the thrombectomy group, a secondary end point was centrally adjudicated successful recanalization (on the basis of findings on postprocedural conventional angiography), which was defined as a grade of 2b or 3 on the modified Thrombolysis in Cerebral Infarction scale (which ranges from 0 to 3, with a grade of 2b or 3 indicating reperfusion of &gt;50% of the affected territory).
+ A prespecified subgroup analysis for heterogeneity of treatment effect was performed, with subgroups defined according to mismatch criteria (Group A, Group B, or Group C), the interval between the time that the patient was last known to be well and randomization (6 to 12 hours or &gt;12 to 24 hours), occlusion site (intracranial internal carotid artery or the first segment of the middle cerebral artery), sex, age ( 17), type of stroke onset (on awakening, unwitnessed stroke, or witnessed stroke), and time from the first observation of symptoms to randomization (0 to 6 hours or &gt;6 hours).
+ The main safety end point was stroke-related death at 90 days.
+ Other safety end points included neurologic deterioration (defined as an increase in the NIHSS score of ≥4 points within 5 days after stroke that was not attributed to intracranial hemorrhage or malignant cerebral edema) and symptomatic intracranial hemorrhage (defined according to European Cooperative Acute Stroke Study III criteria as the presence of extravascular blood in the cranium that was associated with an increase in the NIHSS score of ≥4 points or death and was judged to be the predominant cause of neurologic deterioration) within 24 hours after randomization.19 Safety end points, procedure-related complications, and serious adverse events were adjudicated by an independent clinical-events committee.
+ Statistical Analysis The adaptive trial design allowed for a sample size ranging from 150 to 500 patients.
+ During interim analyses, the decision to stop or continue enrollment was based on a prespecified calculation of the probability that thrombectomy plus standard care would be superior to standard care alone with respect to the first primary end point.
+ The enrichment trial design gave us the flexibility to identify whether the benefit of the trial intervention was restricted to a subgroup of patients with relatively small infarct volumes at baseline.
+ The interim analyses, which included patients with available follow-up data at the time of the analysis, were prespecified to test for the futility, enrichment, and success of the trial.
+ The first primary analysis, which evaluated the posterior probability that thrombectomy plus standard care would be superior to standard care alone with respect to the mean score for disability on the utility-weighted modified Rankin scale at 90 days, was conducted with the use of a Bayesian statistical model with adjustment for infarct volume at baseline.
+ The threshold for significance was a one-sided posterior probability of superiority of at least 0.986, which was increased from 0.975 to account for the potential for enrichment and different final sample sizes.
+ The second primary analysis, which evaluated the posterior probability that thrombectomy plus standard care would be superior to standard care alone with respect to the rate of functional independence (a score of 0, 1, or 2 on the modified Rankin scale) at 90 days, was conducted with the use of the same statistical model (with an assumption of normal distribution) and was carried out in a nested hierarchical fashion.
+ The trial had 86% power to detect an adjusted difference between the two treatment groups in the mean score on the utility-weighted modified Rankin scale of 1.0.
+ No additional adjustments for multiplicity were made for analyses of the secondary end points.
+ Bayesian multiple imputations were used for patients who had missing values for the primary analyses.
+ Descriptive statistics were calculated with the use of the last-observation-carried-forward method for patients who had missing values for the subgroup analyses.
+ Enrollment in the trial was stopped at 31 months, because the results of an interim analysis met the prespecified criterion for trial discontinuation, which was a predictive probability of superiority of thrombectomy of at least 95% for the first primary end point.
+ This was the first prespecified interim analysis that permitted stopping for this reason, and it was based on the enrollment of 200 patients.
+ Because enrichment thresholds had not been crossed, the analysis included the full population of patients enrolled in the trial, regardless of infarct volume.
+ (For details about the statistical analysis, see Section S4 in the Supplementary Appendix.)
+ Results Patient Characteristics Table 1.
+ Table 1.
+ Characteristics of the Patients at Baseline.
+ From September 2014 through February 2017, a total of 206 patients were enrolled in the trial; 107 were randomly assigned to the thrombectomy group and 99 to the control group (Fig.
+ S1 in the Supplementary Appendix).
+ Baseline characteristics are shown in Table 1, and in Table S1 in the Supplementary Appendix.
+ At baseline, the median NIHSS score, which indicates the severity of the stroke deficit, was 17 in both treatment groups; the median infarct volume was 7.6 ml in the thrombectomy group and 8.9 ml in the control group.
+ The median interval between the time that a patient was last known to be well and randomization was 12.2 hours in the thrombectomy group and 13.3 hours in the control group.
+ Baseline characteristics were generally balanced between the two groups, except for the percentage of patients with a history of atrial fibrillation and the percentage who had the onset of stroke symptoms on awakening, which were higher in the thrombectomy group than in the control group, and the percentage of patients who received intravenous alteplase, which was higher in the control group than in the thrombectomy group.
+ Thrombectomy was performed in 105 of the 107 patients in the thrombectomy group.
+ Ipsilateral carotid angioplasty was performed in 3 of the 107 patients.
+ In 11 patients in the thrombectomy group (10%), thrombectomy was performed while the patient was under general anesthesia.
+ In 102 of the 105 patients who underwent thrombectomy, the procedure was performed with the use of the Trevo device only; the other 3 patients underwent treatment with alternative endovascular reperfusion devices after the initial treatment with the Trevo device failed, although this approach was not permitted in the protocol.
+ Efficacy Outcomes Table 2.
+ Table 2.
+ Efficacy Outcomes.
+ Figure 1.
+ Figure 1.
+ Distribution of Scores on the Modified Rankin Scale at 90 Days.
+ Shown is the distribution of scores for disability on the modified Rankin scale (which ranges from 0 to 6, with higher scores indicating more severe disability) among patients in the thrombectomy group and the control group, both in the overall intention-to-treat population (Panel A) and in subgroups defined according to time of stroke onset (Panel B).
+ The numbers in the bars are percentages of patients who had each score; the percentages may not sum to 100 because of rounding.
+ For the first primary end point, scores on the modified Rankin scale were weighted according to average values calculated from patient-centered and clinician-centered studies.
+ For the second primary end point, functional independence was defined as a score of 0, 1, or 2 on the modified Rankin scale.
+ The first primary end point of the mean score for disability on the utility-weighted modified Rankin scale at 90 days was 5.5 in the thrombectomy group as compared with 3.4 in the control group (adjusted difference [Bayesian analysis], 2.0 points; 95% credible interval, 1.1 to 3.0; posterior probability of superiority, &gt;0.999).
+ The second primary end point of the rate of functional independence (a score of 0, 1, or 2 on the modified Rankin scale) at 90 days was 49% in the thrombectomy group as compared with 13% in the control group (adjusted difference, 33 percentage points; 95% credible interval, 21 to 44; posterior probability of superiority, &gt;0.999) (Table 2 and Figure 1).
+ In post hoc sensitivity analyses that adjusted for between-group differences in baseline characteristics that had a P value of less than 0.10, the posterior probability of superiority of thrombectomy remained significant for both coprimary end points (see Section S7 in the Supplementary Appendix).
+ Figure 2.
+ Figure 2.
+ Subgroup Analyses of the First Primary End Point.
+ The first primary end point was the mean score for disability on the utility-weighted modified Rankin scale at 90 days.
+ To determine the utility-weighted score, the score on the modified Rankin scale is weighted according to average values calculated from patient-centered and clinician-centered studies.
+ The following weights are assigned to scores 0 through 6 on the modified Rankin scale: 10.0, 9.1, 7.6, 6.5, 3.3, 0, and 0, respectively.
+ The utility-weighted modified Rankin scale ranges from 0 (death) to 10 (no symptoms or disability).
+ Adjusted differences were estimated with the use of a Bayesian general linear model with adjustment for infarct volume.
+ In the forest plots, the size of the box is proportional to the sample size.
+ The Bayesian posterior probability of heterogeneity is the probability of an interaction between the subgroup and the treatment benefit; a probability of greater than 0.975 or less than 0.025 was considered to be a significant interaction.
+ Subgroups for mismatch between the severity of the clinical deficit and the infarct volume were defined according to the following criteria: patients in Group A were 80 years of age or older, had a score of 10 or higher on the National Institutes of Health Stroke Scale (NIHSS; scores range from 0 to 42, with higher scores indicating a more severe deficit), and had an infarct volume of less than 21 ml; those in Group B were younger than 80 years of age, had a score of 10 or higher on the NIHSS, and had an infarct volume of less than 31 ml; and those in Group C were younger than 80 years of age, had a score of 20 or higher on the NIHSS, and had an infarct volume of 31 to less than 51 ml.
+ The analysis for occlusion site did not include a subgroup with occlusion of the second segment of the middle cerebral artery because of the small number of patients in that subgroup.
+ Among the patients who underwent thrombectomy, immediate reperfusion was achieved in 84% according to results of central laboratory assessments and in 82% according to results of evaluations by local interventionists; the median interval between the time the patient was last known to be well and reperfusion was 13.6 hours (interquartile range, 11.3 to 18.0).
+ Recanalization was achieved at 24 hours in 77% of the patients in the thrombectomy group and in 36% of the patients in the control group.
+ For all the secondary end points, the comparisons between the two treatment groups favored thrombectomy (Table 2).
+ In prespecified subgroup analyses, no evidence of heterogeneity of treatment effect was detected (Figure 2); the relatively small sample size limited the power of some of these analyses.
+ (For details about secondary and subgroup analyses, see Figs.
+ S2 through S8 in the Supplementary Appendix.)
+ Safety Outcomes Table 3.
+ Table 3.
+ Safety Outcomes.
+ The rates of safety end points and serious adverse events — including stroke-related death at 90 days, death from any cause at 90 days, and symptomatic intracerebral hemorrhage — did not differ significantly between the two treatment groups (Table 3, and Table S2 in the Supplementary Appendix).
+ Discussion The DAWN trial showed that, among patients with stroke due to occlusion of the intracranial internal carotid artery or proximal middle cerebral artery who had last been known to be well 6 to 24 hours earlier and who had a mismatch between the severity of the clinical deficit and the infarct volume, outcomes for disability and functional independence at 90 days were better with thrombectomy plus standard medical care than with standard medical care alone.
+ For every 2 patients who underwent thrombectomy, 1 additional patient had a better score for disability at 90 days (as compared with the results in the control group); for every 2.8 patients who underwent thrombectomy, 1 additional patient had functional independence at 90 days (see Section S1 in the Supplementary Appendix).
+ The benefit of thrombectomy was consistent across prespecified subgroups that were defined according to age, stroke severity, occlusion site, time to treatment, and type of stroke onset, but the power of the trial to assess differences between subgroups was limited.
+ Endovascular thrombectomy in patients with stroke is usually performed within 6 hours after the onset of stroke.
+ However, the rate of functional independence in the thrombectomy group in our trial, in which patients received treatment 6 to 24 hours after stroke onset, was similar to the rate reported in a pooled analysis of five trials of thrombectomy, in which patients predominantly received treatment within 6 hours after stroke onset (49% and 46%, respectively).7 In contrast, the rate of functional independence in the control group in our trial was lower than the rate in the control group in the pooled analysis (13% vs. 26%).
+ It is possible that the worse outcomes in our control group were related to the lower rate of treatment with intravenous alteplase (14% in our trial vs. 88% in the pooled analysis); patients were enrolled in our trial after the accepted window of time in which intravenous thrombolytic therapy is typically administered.
+ An additional possible determinant of the worse outcomes in our control group was a higher percentage of patients with adverse prognostic features, particularly an age of 80 years or older and an NIHSS score after stroke of 10 or higher.
+ The rates of functional independence that were observed in our control group are similar to those reported in prospective observational studies that included older patients with occlusion of a proximal large vessel who had a severe deficit and did not receive treatment with intravenous alteplase or thrombectomy.20-22 Other recent randomized trials of thrombectomy have used enrollment criteria that are similar to those used in our trial.23 This trial has limitations.
+ In post hoc sensitivity analyses that adjusted for these differences, the benefit of thrombectomy remained.
+ We found that, among patients with acute stroke who have a mismatch between the severity of the clinical deficit and the infarct volume, the safety profile for thrombectomy performed 6 to 24 hours after the onset of stroke was similar to a previously observed safety profile for thrombectomy performed within 6 hours after the onset of stroke7; the rates of death and symptomatic intracerebral hemorrhage did not differ significantly from the rates seen with standard medical care.
+ Because our trial restricted enrollment to patients with infarcts of a small or medium volume, our findings may be concordant with previous reports that the extent of tissue injury is a determinant of the risk of symptomatic intracerebral hemorrhage after reperfusion therapy.24 On the basis of retrospective studies, approximately one third of the patients with occlusion of a proximal anterior cerebral vessel who present within 6 to 24 hours after the onset of stroke may meet the imaging-based eligibility criteria that were used in this trial.25,26 Further studies are needed to establish the prevalence of patients who would be eligible for thrombectomy among the entire population of patients with ischemic stroke.
+ Further studies are also needed to determine whether late thrombectomy has a benefit when more widely available imaging techniques are used to estimate the infarct volume at presentation, such as assessment of the extent of hypodensity on non–contrast-enhanced CT.
+ In conclusion, we found that outcomes for disability were better with thrombectomy plus standard medical care than with standard medical care alone among patients with acute stroke who received treatment 6 to 24 hours after they had last been known to be well and who had a mismatch between the severity of the clinical deficit and the infarct volume, which was assessed with the use of diffusion-weighted MRI or perfusion CT and measured with the use of automated software.
+ Funding and Disclosures  Supported by Stryker Neurovascular.
+ Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+ Dr. Yavagal reports receiving consulting fees from and serving on a steering committee for Medtronic and receiving consulting fees from Neural Analytics; Dr. Cognard, receiving consulting fees from Medtronic, Stryker, and MicroVention; Dr. Hanel, receiving consulting fees from Stryker, MicroVention, and Codman and grant support and consulting fees from Medtronic and holding stock in Neurvana, Three Rivers Medical, and InNeuroCo; Dr. Sila, receiving honoraria and administrative analysis from Medtronic; Dr. Hassan, receiving consulting fees, lecture fees, and proctor fees from Medtronic and consulting fees and lecture fees from Penumbra, MicroVention, GE Healthcare, and Stryker; Dr. Levy, receiving lecture fees and honoraria for training from Covidien, consulting fees from Pulsar Vasulcar, and honoraria for training from Abbott Vascular, holding stock and ownership interest in Intratech Medical, NeXtGen Biologics, and Neuravi, serving on advisory boards for Stryker, NeXtGen Biologics, MedX, and Cognition Medical, and serving as an expert witness for Renders Medical; Dr. Mitchell, receiving grant support to his institution from Stryker and Medtronic and serving as an unpaid advisory-board member for Johnson &amp; Johnson; Dr. Chen, receiving consulting fees from Medtronic and lecture fees from Penumbra, receiving lecture fees from and serving on an advisory board for Stryker, and serving on an advisory board for Genentech; Dr. English, receiving consulting fees from Stryker; Dr. Baxter, receiving consulting fees and fees for serving on a speakers’ bureau from Penumbra and consulting fees from Stryker, Medtronic, Route 92 Medical, and Pulsar and holding U.S. Patent 9526863 on devices and methods for perfusion therapy, licensed to Neuronal Protection System; Dr. Abraham, receiving consulting fees and lecture fees from Stryker and fees for serving on a speakers’ bureau and lecture fees from Boehringer Ingelheim; Dr. Veznedaroglu, receiving consulting fees from Stryker, Trice, and Penumbra; Dr. Lopes, receiving grant support and honoraria for training and educational activities from and serving on an advisory board for Stryker; Dr. Yoo, receiving grant support from Penumbra, and Neuravi–Cerenovus and having an equity investment in Insera Therapeutics; Dr. Olivot, receiving lecture fees from Boston Scientific, Pfizer, Bristol-Myers Squibb, and Boehringer Ingelheim and consulting fees from AstraZeneca and Servier; Mr. Shields, being employed by Stryker; Dr. Graves, receiving consulting fees from Stryker; Dr. Lewis, receiving fees for serving as a senior statistical scientist from Berry Consultants; Dr. Smith, receiving fees for serving as chair of a data and safety monitoring board from Stryker; Dr. Liebeskind, receiving consulting fees from Stryker and Medtronic; Dr.
+ Saver, receiving grant support paid to the University of California Regents and fees for serving on steering committees from Medtronic–Abbott and Neuravi; and Dr. Jovin, receiving consulting fees from and owning stock in Silk Road Medical, owning stock in and serving on an advisory board for Anaconda BioMed, Route 92 Medical, Blockade Medical, and FreeOx Biotech, and receiving consulting fees and fees for serving on a data and safety monitoring board from Codman and consulting fees and fees for serving on a steering committee from Neuravi.
+ No other potential conflict of interest relevant to this article was reported.
+ Drs.
+ Nogueira and Jovin contributed equally to this article.This article was published on November 11, 2017, at NEJM.org.Author AffiliationsFrom the Marcus Stroke and Neuroscience Center, Grady Memorial Hospital, and the Department of Neurology, Emory University School of Medicine, Atlanta (R.G.N., D.C.H., M.R.F.
+ ); the Stroke Institute, Departments of Neurology (A.P.J., T.G.J.)
+ and Neurosurgery (B.T.J.
+ ), University of Pittsburgh Medical Center, Pittsburgh, and Abington Health, Abington (Q.A.S.)
+ — both in Pennsylvania; the Department of Neuroradiology, Hôpital Gui-de-Chauliac, Montpellier (A.B., V.C.
+ ), and the Department of Diagnostic and Therapeutic Neuroradiology (C.C.)
+ and the Neuroimaging Center and Center for Clinical Investigations (J.-M.O.
+ ), University Hospital of Toulouse, Toulouse — both in France; OhioHealth Riverside Methodist Hospital, Columbus (R.F.B., N.A.V.
+ ), and University Hospitals of Cleveland, Cleveland (C.A.S., A.J.F.)
+ — both in Ohio; Texas Stroke Institute, Dallas–Fort Worth (P.B., A.J.Y.
+ ), the Department of Neuroscience, Valley Baptist Medical Center, Harlingen (A.E.H., W.G.T.
+ ), and Berry Consultants, Austin (T.G., R.J.L.)
+ — all in Texas; the Department of Neurology and Neurosurgery, University of Miami Miller School of Medicine–Jackson Memorial Hospital, Miami (D.R.Y., A.M.M.
+ ), Baptist Health, Jacksonville (R.A.H., A.A.), Memorial Regional Hospital, Hollywood (B.P.M.
+ ), and Florida Hospital, Orlando (F.R.H.)
+ — all in Florida; the Stroke Unit, Hospital Vall d’Hebrón (M. Ribo, M. Rubiera), and Hospital Universitari de Bellvitge (P.C.
+ ), Barcelona, and the Department of Neuroscience, Hospital Germans Trias i Pujol, Universitat Autònoma de Barcelona, Badalona (M.M.)
+ — all in Spain; the Department of Neurosurgery, State University of New York at Buffalo, Buffalo (E.I.L.
+ ); the Department of Interventional Neuroradiology, Royal Melbourne Hospital, Victoria (P.M.); the Departments of Neurology (M.C.)
+ and Neurosurgery (D.K.L.
+ ), Rush University Medical Center, Chicago; California Pacific Medical Center (J.D.E.)
+ and the Department of Neurology, University of California, San Francisco (W.S.S.
+ ), San Francisco, the Department of Neuroradiology, Kaiser Permanente (L.F.), and the Neurovascular Imaging Research Core, Department of Neurology and Comprehensive Stroke Center (D.S.L.
+ ), David Geffen School of Medicine, University of California, Los Angeles (UCLA) (D.S.L., J.L.S.
+ ), Los Angeles, Stryker Neurovascular, Fremont (R.S.
+ ), and Los Angeles County Harbor–UCLA Medical Center, Torrance (R.J.L.)
+ — all in California; the Departments of Medical Imaging and Surgery (F.L.S., V.M.P.)
+ and Neurology (V.M.P.
+ ), Toronto Western Hospital, University Health Network, University of Toronto, Toronto; the Department of Radiology, Erlanger Hospital at the University of Tennessee, Chattanooga (B.W.B.
+ ); the Department of Neurology, University of Kansas Medical Center, Kansas City (M.G.A.
+ ); and the Neuroscience Center, Capital Health Hospital, Trenton (E.V.
+ ), and the JFK Medical Center, Edison (J.F.K.)
+ — both in New Jersey.Address reprint requests to Dr. Jovin at the University of Pittsburgh Medical Center Stroke Institute, Department of Neurology, Presbyterian University Hospital, 200 Lothrop St., C-400, Pittsburgh, PA 15217, or at [email protected].
+ A complete list of sites and investigators in the DAWN trial is provided in the Supplementary Appendix, available at NEJM.org.
+ Supplementary Material
+       References (26)1.
+ Berkhemer OA, Fransen PSS, Beumer D, et al.
+ A randomized trial of intraarterial treatment for acute ischemic stroke.
+ N Engl J Med 2015;372:11-20.Free Full Text Web of Science MedlineGoogle Scholar2.
+ Campbell BCV, Mitchell PJ, Kleinig TJ, et al.
+ Endovascular therapy for ischemic stroke with perfusion-imaging selection.
+ N Engl J Med 2015;372:1009-1018.Free Full Text Web of Science MedlineGoogle Scholar3.
+ Goyal M, Demchuk AM, Menon BK, et al.
+ Randomized assessment of rapid endovascular treatment of ischemic stroke.
+ N Engl J Med 2015;372:1019-1030.Free Full Text Web of Science MedlineGoogle Scholar4.
+ Jovin TG, Chamorro A, Cobo E, et al.
+ Thrombectomy within 8 hours after symptom onset in ischemic stroke.
+ N Engl J Med 2015;372:2296-2306.Free Full Text Web of Science MedlineGoogle Scholar5.
+ Saver JL, Goyal M, Bonafe A, et al.
+ Stent-retriever thrombectomy after intravenous t-PA vs. t-PA alone in stroke.
+ N Engl J Med 2015;372:2285-2295.Free Full Text Web of Science MedlineGoogle Scholar6.
+ Bracard S, Ducrocq X, Mas JL, et al.
+ Mechanical thrombectomy after intravenous alteplase versus alteplase alone after stroke (THRACE): a randomised controlled trial.
+ Lancet Neurol 2016;15:1138-1147.Crossref Web of Science MedlineGoogle Scholar7.
+ Goyal M, Menon BK, van Zwam WH, et al.
+ Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of individual patient data from five randomised trials.
+ Lancet 2016;387:1723-1731.Crossref Web of Science MedlineGoogle Scholar8.
+ Saver JL, Goyal M, van der Lugt A, et al.
+ Time to treatment with endovascular thrombectomy and outcomes from ischemic stroke: a meta-analysis.
+ JAMA 2016;316:1279-1288.Crossref Web of Science MedlineGoogle Scholar9.
+ Dávalos A, Blanco M, Pedraza S, et al.
+ The clinical-DWI mismatch: a new diagnostic approach to the brain tissue at risk of infarction.
+ Neurology 2004;62:2187-2192.Crossref Web of Science MedlineGoogle Scholar10.
+ Jovin TG, Liebeskind DS, Gupta R, et al.
+ Imaging-based endovascular therapy for acute ischemic stroke due to proximal intracranial anterior circulation occlusion treated beyond 8 hours from time last seen well: retrospective multicenter analysis of 237 consecutive patients.
+ Stroke 2011;42:2206-2211.Crossref Web of Science MedlineGoogle Scholar11.
+ Lansberg MG, Cereda CW, Mlynash M, et al.
+ Response to endovascular reperfusion is not time-dependent in patients with salvageable tissue.
+ Neurology 2015;85:708-714.Crossref Web of Science MedlineGoogle Scholar12.
+ Jovin TG, Saver JL, Ribo M, et al.
+ Diffusion-weighted imaging or computerized tomography perfusion assessment with clinical mismatch in the triage of wake up and late presenting strokes undergoing neurointervention with Trevo (DAWN) trial methods.
+ Int J Stroke 2017;12:641-652.Crossref Web of Science MedlineGoogle Scholar13.
+ Stryker.
+ Welcome to the DAWN trial campus (http://dawntrial.trainingcampus.net).Google Scholar14.
+ NETT mRS test.
+ Ann Arbor: University of Michigan (https://lessons.ummu.umich.edu/2k/nett_mrs/test).Google Scholar15.
+ Patel RD, Starkman S, Hamilton S, et al.
+ The Rankin Focused Assessment-Ambulation: a method to score the Modified Rankin Scale with emphasis on walking ability.
+ J Stroke Cerebrovasc Dis 2016;25:2172-2176.Crossref Web of Science MedlineGoogle Scholar16.
+ Rivero-Arias O, Ouellet M, Gray A, Wolstenholme J, Rothwell PM, Luengo-Fernandez R. Mapping the modified Rankin scale (mRS) measurement into the generic EuroQol (EQ-5D) health outcome.
+ Med Decis Making 2010;30:341-354.Crossref Web of Science MedlineGoogle Scholar17.
+ Hong KS, Saver JL.
+ Quantifying the value of stroke disability outcomes: WHO Global Burden of Disease Project disability weights for each level of the modified Rankin Scale.
+ Stroke 2009;40:3828-3833.Crossref Web of Science MedlineGoogle Scholar18.
+ Chaisinanunkul N, Adeoye O, Lewis RJ, et al.
+ Adopting a patient-centered approach to primary outcome analysis of acute stroke trials using a utility-weighted modified Rankin scale.
+ Stroke 2015;46:2238-2243.Crossref Web of Science MedlineGoogle Scholar19.
+ Hacke W, Kaste M, Bluhmki E, et al.
+ Thrombolysis with alteplase 3 to 4.5 hours after acute ischemic stroke.
+ N Engl J Med 2008;359:1317-1329.Free Full Text Web of Science MedlineGoogle Scholar20.
+ Hernández-Pérez M, Pérez de la Ossa N, Aleu A, et al.
+ Natural history of acute stroke due to occlusion of the middle cerebral artery and intracranial internal carotid artery.
+ J Neuroimaging 2014;24:354-358.Crossref Web of Science MedlineGoogle Scholar21.
+ Lima FO, Furie KL, Silva GS, et al.
+ Prognosis of untreated strokes due to anterior circulation proximal intracranial arterial occlusions detected by use of computed tomography angiography.
+ JAMA Neurol 2014;71:151-157.Crossref Web of Science MedlineGoogle Scholar22.
+ Janardhan V, Venizelos A, Gianatasio RM, et al.
+ Natural history of acute stroke from large vessel proximal occlusion: a comparison with the IMS III patients.
+ Stroke 2014;45:Suppl 1:AWMP8-AWMP8.Google Scholar23.
+ Albers GW, Lansberg MG, Kemp S, et al.
+ A multicenter randomized controlled trial of endovascular therapy following imaging evaluation for ischemic stroke (DEFUSE 3).
+ Int J Stroke 2017;12:896-905.Crossref Web of Science MedlineGoogle Scholar24.
+ Mishra NK, Christensen S, Wouters A, et al.
+ Reperfusion of very low cerebral blood volume lesion predicts parenchymal hematoma after endovascular therapy.
+ Stroke 2015;46:1245-1249.Crossref Web of Science MedlineGoogle Scholar25.
+ Copen WA, Rezai Gharai L, Barak ER, et al.
+ Existence of the diffusion-perfusion mismatch within 24 hours after onset of acute stroke: dependence on proximal arterial occlusion.
+ Radiology 2009;250:878-886.Crossref Web of Science MedlineGoogle Scholar26.
+ Rai AT, Seldon AE, Boo S, et al.
+ A population-based incidence of acute large vessel occlusions and thrombectomy eligible patients indicates significant potential for growth of endovascular stroke therapy in the USA.
+ J Neurointerv Surg 2017;9:722-726.Crossref Web of Science MedlineGoogle Scholar
+        Close References
+       Citing Articles (1492)Only the 1000 most recent citing articles are listed here.
+ Percentages may not sum to 100 because of rounding.
+ † Scores on the National Institutes of Health Stroke Scale (NIHSS) range from 0 to 42, with higher scores indicating a more severe deficit.
+ ‡ A patient with the onset of stroke on awakening had last been known to be well before going to bed and had the first observation of symptoms on awakening.
+ In a patient with an unwitnessed stroke, the time that the patient had last been known to be well and the first observation of symptoms were different and the first observation of symptoms did not occur on awakening.
+ In a patient with a witnessed stroke, the time that the patient had last been known to be well and the first observation of symptoms were the same; all patients with a witnessed stroke had a time from first observation of symptoms to randomization of more than 6 hours.
+ § Patients who had occlusion of the intracranial internal carotid artery may also have had occlusion of the first segment of the middle cerebral artery.
+ * Plus–minus values are means ±SD.
+ CI denotes confidence interval, and NA not applicable.
+ † Absolute differences are reported in percentage points, except for the absolute difference in the score on the utility-weighted modified Rankin scale, which is reported in points.
+ ‡ Adjusted differences were estimated with the use of a Bayesian general linear model with adjustment for infarct volume at baseline.
+ § The utility-weighted modified Rankin scale ranges from 0 (death) to 10 (no symptoms or disability).
+ ¶ Functional independence was defined as a score of 0, 1, or 2 on the modified Rankin scale, which ranges from 0 to 6, with higher scores indicating more severe disability.
+ ‖ Early response was defined as a decrease in the NIHSS score of 10 points or more from baseline or an NIHSS score of 0 or 1 on day 5, 6, or 7 of hospitalization or at discharge if it occurred before day 5.
+ ** The P value was calculated with the use of Fisher’s exact test.
+ †† For details on the assessment of this end point, see Section S2 in the Supplementary Appendix.
+ ‡‡ The P value was calculated with the use of the nonparametric Wilcoxon test.
+ §§ The modified Thrombolysis in Cerebral Infarction (mTICI) scale ranges from 0 to 3, with a grade of 2b or 3 indicating reperfusion of more than 50% of the affected territory.
+ All safety outcomes were adjudicated by an independent clinical-events committee.
+ † Symptomatic intracranial hemorrhage was defined according to European Cooperative Acute Stroke Study III criteria as the presence of extravascular blood in the cranium that was associated with an increase in the NIHSS score of 4 points or more or death and was judged to be the predominant cause of neurologic deterioration.
+ ‡ Neurologic deterioration was defined as an increase in the NIHSS score of 4 or more points within 5 days after stroke that was not attributed to intracranial hemorrhage or malignant cerebral edema.
+ Permissions
+      Slide Set
+     Figures/MediaQUICK TAKEThrombectomy 6 to 24 Hours after Stroke 01:47Table 1.
+ Characteristics of the Patients at Baseline.
+ *Table 1.
+ Characteristics of the Patients at Baseline.
+ Table 2.
+ Efficacy Outcomes.
+ *Table 2.
+ Efficacy Outcomes.
+ Figure 1.
+ Distribution of Scores on the Modified Rankin Scale at 90 Days.Figure 1.
+ Distribution of Scores on the Modified Rankin Scale at 90 Days.
+ Shown is the distribution of scores for disability on the modified Rankin scale (which ranges from 0 to 6, with higher scores indicating more severe disability) among patients in the thrombectomy group and the control group, both in the overall intention-to-treat population (Panel A) and in subgroups defined according to time of stroke onset (Panel B).
+ The numbers in the bars are percentages of patients who had each score; the percentages may not sum to 100 because of rounding.
+ For the first primary end point, scores on the modified Rankin scale were weighted according to average values calculated from patient-centered and clinician-centered studies.
+ For the second primary end point, functional independence was defined as a score of 0, 1, or 2 on the modified Rankin scale.
+ Figure 2.
+ Subgroup Analyses of the First Primary End Point.Figure 2.
+ Subgroup Analyses of the First Primary End Point.
+ The first primary end point was the mean score for disability on the utility-weighted modified Rankin scale at 90 days.
+ To determine the utility-weighted score, the score on the modified Rankin scale is weighted according to average values calculated from patient-centered and clinician-centered studies.
+ The following weights are assigned to scores 0 through 6 on the modified Rankin scale: 10.0, 9.1, 7.6, 6.5, 3.3, 0, and 0, respectively.
+ The utility-weighted modified Rankin scale ranges from 0 (death) to 10 (no symptoms or disability).
+ Adjusted differences were estimated with the use of a Bayesian general linear model with adjustment for infarct volume.
+ In the forest plots, the size of the box is proportional to the sample size.
+ The Bayesian posterior probability of heterogeneity is the probability of an interaction between the subgroup and the treatment benefit; a probability of greater than 0.975 or less than 0.025 was considered to be a significant interaction.
+ Subgroups for mismatch between the severity of the clinical deficit and the infarct volume were defined according to the following criteria: patients in Group A were 80 years of age or older, had a score of 10 or higher on the National Institutes of Health Stroke Scale (NIHSS; scores range from 0 to 42, with higher scores indicating a more severe deficit), and had an infarct volume of less than 21 ml; those in Group B were younger than 80 years of age, had a score of 10 or higher on the NIHSS, and had an infarct volume of less than 31 ml; and those in Group C were younger than 80 years of age, had a score of 20 or higher on the NIHSS, and had an infarct volume of 31 to less than 51 ml.
+ The analysis for occlusion site did not include a subgroup with occlusion of the second segment of the middle cerebral artery because of the small number of patients in that subgroup.
+ Table 3.
+ Safety Outcomes.
+ *Table 3.
+ Safety Outcomes.
+ HackeCorrespondenceMar 22, 2018Thrombectomy 6 to 24 Hours after Stroke                      Most Viewed               Original Article                       Nov 5, 2020                                Remdesivir for the Treatment of Covid-19 — Final Report                     J. H. Beigel and Others               Original Article                       Oct 28, 2020                                SARS-CoV-2 Neutralizing Antibody LY-CoV555 in Outpatients with Covid-19                     P. Chen and Others               Editorial                       Oct 8, 2020                                Dying in a Leadership Vacuum                     The Editors                        More from      the week of January 4, 2018          Clinical Practice  Acute Pyelonephritis in Adults  J.R. Johnson and T.A.
+ Russo     Perspective  Chasing Seasonal Influenza — The Need for a Universal Influenza Vaccine  C.I.
+ Paules and Others     Images in Clinical Medicine  Poland Syndrome  K.R.
+ Kennedy and A.L.
+ Wang     Original Article  Trial of Contralateral Seventh Cervical Nerve Transfer for Spastic Arm Paralysis  M.-X.
+ Zheng and Others     Review Article  Favism and Glucose-6-Phosphate Dehydrogenase Deficiency  L. Luzzatto and P. Arese     Clinical Implications of Basic Research  Making a Better Hematopoietic Stem Cell — Timing Is Everything  W.J.
+ Murphy     Perspective  Toward Competency-Based Medical Education  D.E.
+ Powell and C. Carraccio     Images in Clinical Medicine  Pneumomediastinum Associated with Influenza A Infection  C.T.
+ Mansbridge and M. Inada-Kim     Clinical Decisions  Management of Sentinel-Node Metastasis in Melanoma  L. Caulley and Others     Perspective  Toward a Culture of Scientific Inquiry — The Role of Medical Teaching Services  K. Armstrong, R. Ranganathan, and M. Fishman     Clinical Problem-Solving  Going from A to Z  D. Atri and Others     Original Article  Myeloablative Autologous Stem-Cell Transplantation for Severe Scleroderma  K.M.
+ Sullivan and Others     Editorial  A New DAWN for Imaging-Based Selection in the Treatment of Acute Stroke  W. Hacke     Editorial  Rewiring to Regain Function in Patients with Spastic Hemiplegia  R.J. Spinner, A.Y.
+ Shin, and A.T. Bishop     Perspective  Removing ERISA’s Impediment to State Health Reform  E.C.
+ Sign In or Renew                    Back to top       Article Categories   Research   Reviews   Clinical Cases   Perspective   Commentary   Other   Browse all Articles   Current Issue   Issue Index     Resources   Authors &amp; Reviewers   Submit a Manuscript   Subscribers   Institutions   Media   Advertisers   Agents   Permissions          Reprints         NEJM CareerCenter     About Us   About NEJM   Products &amp; Services   Editors &amp; Publishers   Advertising Policies   Contact Us   Accessibility   FAQs   Help   Site Feedback     Subscriptions   Subscribe   Renew   Activate Subscription   Create Account   Manage Account   Pay Bill   Special Offers     Stay Connected   Email Alerts   Create Account   Apps   NEJM CareerCenter   Podcasts   RSS Feed   Remote Access     Follow Us             Facebook                   Twitter                   Instagram              YouTube                   LinkedIn             Copyright © 2020 Massachusetts Medical Society.
+ All rights reserved.
+ Electronic ISSN 1533-4406.
+ Print ISSN 0028-4793.
+ The content of this site is intended for health care professionals.

@@ -1,0 +1,300 @@
+Finally, eight articles (19%) were determined to be of low quality [11,15,17,20,24,33,44,50].
+ In 21 of the 42 articles (50%), we were able to extract time between the onset of symptoms and tissue collection and lung histopathological evaluations for individual patients; these 21 articles were therefore included in the timeline synthesis [11-13, 15, 18, 22, 26, 29, 30, 34, 35, 38-40, 42, 43, 45, 47, 48, 51, 52].
+ ......
+ Gross examination of the heart was performed in 51 cases (Supplementary Table S5) [13,15,24,33,35,47,49].
+ ......
+ Gross examination of the heart was performed in 51 cases (Supplementary Table S5) [13,15,24,33,35,47,49].
+ Microscopic analyses of cardiac tissue were performed in 49 cases and revealed that aside from pre-existing pathology such as myocardial hypertrophy, atherosclerosis, and general interstitial fibrosis [13,15,24,35,37,39,40,43,44], five cases had mild myocardial edema [39,44] and one case [39] had atypical (specifically minimal, focal, perivascular) interstitial fibrosis (Supplementary Table S5).
+ ...A systematic review of pathological findings in COVID-19: a pathophysiological timeline and possible mechanisms of disease progressionArticleFull-text availableJun 2020Mod Pathol Samuel B. PolakInge C. Van GoolDanielle Cohen Judith van PaassenSince the outbreak of the COVID-19 pandemic, much has been learned regarding its clinical course, prognostic inflammatory markers, disease complications, and mechanical ventilation strategy.
+ Clinically, three stages have been identified based on viral infection, pulmonary involvement with inflammation, and fibrosis.
+ Moreover, low and high elastance phenotypes can be distinguished in mechanically ventilated patients, based on lung mechanics, ventilation-to-perfusion ratio, and CT scans; these two phenotypes have presumed differences in their underlying pathophysiology.
+ Although essential for therapeutic guidance, the pathophysiology of COVID-19 is poorly understood.
+ Here, we systematically reviewed published case reports and case series in order to increase our understanding of COVID-19 pathophysiology by constructing a timeline and correlating histopathological findings with clinical stages of COVID-19.
+ Using PRISMA-IPD guidelines, 42 articles reporting 198 individual cases were included in our analysis.
+ The epithelial and vascular patterns can present in all stages of symptomatic COVID-19, whereas the fibrotic pattern presents starting at ~3 weeks.
+ Moreover, patients can present with more than one pattern, either simultaneously or consecutively.
+ These findings are consistent with knowledge regarding clinical patterns of viral infection, development of hyperinflammation and hypercoagulability, and fibrosis.
+ Close collaboration among medical staff is necessary in order to translate this knowledge and classification of pathophysiological mechanisms into clinical stages of disease in individual patients.
+ Moreover, further research, including histopathological studies, is warranted in order to develop reliable, clinically relevant biomarkers by correlating these pathological findings with laboratory results and radiological findings, thus, increasing our understanding of COVID-19 and facilitating the move to precision medicine for treating patients.ViewShow abstract...
+ However, few correlations of anatomicalpathological-radiological analyses of COVID-19 have been conducted because COVID-19 autopsies are few.
+ However, autopsy findings and related pathological analyses of COVID- 19 cases have recently been reported in China [8][9][10][11].
+ The disease predominantly causes inflammatory responses characterized by deep airway and alveolar injury.
+ Therefore, this study had two aims.
+ ......
+ However, we have noted that few correlations of anatomical-pathological-radiological analyses have been conducted and that in-depth discussion on the formation of imaging features is lacking.
+ Recently, autopsy findings and pathological analyses of COVID-19 cases were reported in China [8][9][10][11].
+ The pathological changes in the lung were as a result of inflammatory responses with deep airway and alveolar epithelial injuries, and direct virus attack and immune damage coexisted.
+ Based on these autopsy results and studies, anatomical and pathophysiological considerations were used to analyze the current set of CT chest scans.
+ ......
+ In the severe disease stage, the following features were observed: diffuse alveolar damage with fiber myxoid exudate; hyaline membrane formation in the alveoli; destruction of alveolar walls with focal hemorrhage; hyaline thrombus formation in microvascular vessels; significantly denatured proliferated type II alveolar epithelia; and necrotic shedding and mucous composition in the bronchioles, resulting in airway obstruction, and air-blood barrier damage.
+ The clinical manifestation of these features is acute respiratory distress syndrome [8,19].
+ Chest CT images of a 68-year-old male who presented with cough and fever for 2 days.
+ ...Chest computed tomography (CT) findings and semiquantitative scoring of 60 patients with coronavirus disease 2019 (COVID-19): A retrospective imaging analysis combining anatomy and pathologyArticleFull-text availableSep 2020PLOS ONEHao ZhangXu-jing JiangXiao-hua LiuFa-jin LyuIn this study, we ascertained the chest CT data of 60 patients admitted to 3 hospitals in Chongqing with confirmed COVID-19.
+ We conducted anatomical and pathological analyses to elucidate the possible reasons for the distribution, morphology, and characteristics of COVID-19 in chest CT. We also shared a semiquantitative scoring of affected lung segments, which was recommended by our local medical association.
+ This scoring system was applied to quantify the severity of the disease.
+ The most frequent imaging findings of COVID-19 were subpleural ground glass opacities and consolidation; there was a significant difference in semiquantitative scores between the early, progressive, and severe stages of the disease.
+ We conclude that the chest CT findings of COVID-19 showed certain characteristics because of the anatomical features of the human body and pathological changes caused by the virus.
+ Therefore, chest CT is a valuable tool for facilitating the diagnosis of COVID-19 and semiquantitative scoring of affected lung segments may further elucidate diagnosis and assessment of disease severity.
+ This will assist healthcare workers in diagnosing COVID-19 and assessing disease severity, facilitate the selection of appropriate treatment options, which is important for reducing the spread of the virus, saving lives, and controlling the pandemic.ViewShow abstract... Additional biosafety measurements during this pandemic should be implemented in all histology laboratories that handle unfixed specimens to ensure safety for histology professionals to prevent subsequent infection and further transmission.
+ This mini-review will simply summarize the published histology laboratory work practices found in available literature with no intent to propose any additional biosafety guidelines [8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23].
+ ......
+ The first autopsy on a deceased COVID-19 patient was approved and performed on 18 February 2020 [11].
+ Unfortunately, the procedure was conducted in a hospital procedure room.
+ ......
+ Among the above-mentioned studies [9,10,11], the authors proposed biosafety recommendations (Table 1) for working with COVID-19 patient specimens.
+ Tian et al.
+ [9] suggested that during the remainder of the COVID-19 pandemic, 'universal precautions' should be practiced by all associated personnel meaning all fresh specimens should be treated as potentially infectious.
+ ...A review on histotechnology practices in COVID-19 pathology investigations A review on histotechnology practices in COVID-19 pathology investigationsArticleJul 2020J HISTOTECHNOLSeth Malloy Yongfu WangCOVID-19 disease in humans, caused by the novel SARS-CoV-2 virus, was first reported in the city of Wuhan, China in December 2019.
+ This disease has quickly developed into a global pandemic, resulting in over 350,000 deaths worldwide and over 5 million confirmed infections in a matter of 6 months.
+ Although the genome of this novel viral RNA was sequenced quickly and testing kits were manufactured to assist in combatting COVID-19, the diagnosis and treatment will remain relatively unsuccessful until the pathology of this disease is fully understood.
+ Histotechnology plays an important role in understanding the pathology of many diseases, including COVID-19.
+ The first postmortem biopsy of a COVID-19 patient was collected on 27 January 2020, and the pathology finding was published in mid-February 2020.
+ Since then, more studies have been published in scientific literatures as the global outbreak continues.
+ This mini-review summarizes the published articles in which histotechnology aspects were utilized with the intent to understand the pathology of COVID-19.
+ In addition, it is anticipated there will be more molecular and immunohisto-chemical studies to further understand the mechanism of the disease in the near future.ViewShow abstract... Of the reported autopsies in China, the US, and worldwide, there is very limited data on the CNS, brainstem, or peripheral nerves of the eye, nose, and mouth.
+ [123][124][125][126][127][128] New postmortem examinations of patients with COVID-19 in Germany revealed that of 21 brains tested, 13 were positive for SARS-CoV-2 by RT-PCR.
+ 128 The same authors initially reported on non-specific brain findings including 2 patients with cerebral sclerosis and another with suspected septic encephalomalacia, although brain dissections are still pending.
+ ...... 137 The majority of initial published and available reports from China involving autopsy, predominately focused on procedure safety with scarce actual autopsy and pathology reports.
+ 126,[131][132][133][134][137][138][139][140] Remarkably, only one full autopsy report was identified and able to be accessed in the full text during the early days of the COVID-19 outbreak in China.
+ 126 Even after the spread of COVID-19 in the US and Europe, with hundreds of deaths daily, autopsy examinations were not routinely performed and crucial data on organ involvement, and the CNS in particular, remained uninvestigated.
+ ...... 126,[131][132][133][134][137][138][139][140] Remarkably, only one full autopsy report was identified and able to be accessed in the full text during the early days of the COVID-19 outbreak in China.
+ 126 Even after the spread of COVID-19 in the US and Europe, with hundreds of deaths daily, autopsy examinations were not routinely performed and crucial data on organ involvement, and the CNS in particular, remained uninvestigated.
+ ...Potential Neuroinvasive Pathways of SARS‐CoV‐2: Deciphering the Spectrum of Neurological Deficit Seen in Coronavirus Disease 2019 (COVID‐19)ArticleJun 2020J MED VIROL Abdul Mannan Baig Erin C. SandersCOVID‐19 was declared a global pandemic on March 11, 2020.
+ Scientists and clinicians must acknowledge that Severe Acute Respiratory Syndrome Coronavirus 2 (SARS‐CoV‐2) has the potential to attack the human body in multiple ways simultaneously and exploit any weaknesses of its host.
+ Understanding the diverse tactics of this virus to infect the human body is both critical and incredibly complex.
+ Although patients diagnosed with COVID‐19 have primarily presented with pulmonary involvement, viral invasion, and injury to diverse end organs is also prevalent and well documented in these patients, but has been largely unheeded.
+ Human organs known for Angiotensin‐Converting Enzyme 2 (ACE2) expression including the gastrointestinal tract, kidneys, heart, adrenals, brain, and testicles are examples of extra‐pulmonary tissues with confirmed invasion by SARS‐CoV‐2.
+ Initial multiple organ involvement may present with vague signs and symptoms to alert healthcare professionals early in the course of COVID‐19.
+ Another example of an ongoing, yet neglected element of the syndromic features of COVID‐19, are the reported findings of loss of smell, altered taste, ataxia, headache, dizziness, and loss of consciousness, which suggest a potential for neural involvement.
+ In this review, we further deliberate on the neuroinvasive potential of SARS‐CoV‐2, the neurologic symptomology observed in COVID‐19, the host‐virus interaction, possible routes of SARS‐CoV‐2 to invade the central nervous system (CNS), other neurologic considerations for patients with COVID‐19, and a collective call to action.
+ This article is protected by copyright.
+ All rights reserved.ViewShow abstract... Heshui Shi et al.
+ recently described one of the dominant features of COVID-19 pneumonia in CT diagnostics to be peripheral ground-glass opacification involving both lungs [4].
+ The histopathological features of COVID-19 in patients with lung resection due to adenocarcinoma have revealed diffuse alveolar damage with pneumocyte activation and inflammatory infiltrates [5,6].
+ ......
+ Systematic reports on morphological findings are still missing.
+ Lui Xi and colleagues have published a case report using a minimally invasive autopsy technique, in which they describe macroscopic dark-red discoloration of both lungs interspersed by greyish-white lesions [4].
+ ...Germany’s first COVID-19 deceased: a 59-year-old man presenting with diffuse alveolar damage due to SARS-CoV-2 infectionArticleFull-text availableJul 2020Virchows ArchFabian HeinrichJan-Peter Sperhake Axel Heinemann Klaus PüschelClinical characterization of COVID-19 (Corona Virus Disease 2019) is being performed worldwide to gain insights into the pathogenesis and course of the disease.
+ Little is known regarding morphological findings, which are essential to understanding the unique features and pathomechanisms of the disease, from which one can identify possible new treatments.
+ It has been shown that diffuse alveolar damage, signifying acute respiratory distress syndrome, is present together with atypical multinucleated cells in reported cases of the disease by Tian et al.
+ (J Thorac Oncol 15:700–704, 2020).
+ Macroscopic morphological findings in COVID-19 remain elusive to this day.
+ Here, we report the case of the first German to die due to COVID-19.
+ A detailed examination consisting of full-body computed tomography, autopsy, histology assessment, and viral assessment has been performed.
+ The lungs of the deceased contained high concentrations of SARS-CoV-2 RNA and displayed the typical radiological signatures of COVID-19.
+ Furthermore, a morphological pattern was found displaying hyperaemic areas interspersed by normally perfused areas affecting the whole lung.
+ We also report a finding suggestive of micro-thrombotic events in the lung, which is compatible with the recently described coagulation changes and increased incidence of pulmonary artery embolisms seen in COVID-19 patients as reported by Wichmann et al.
+ (Ann Intern Med, 2020).
+ A broader study is needed to confirm these findings.ViewShow abstract... Large amount of thick secretions are present in the alveoli, which may be a reason of developing atelectasis in patients with COVID-19.
+ 13 14 Therefore, it is important to use invasive ventilation treatment early for critical COVID-19 patients with severe ARDS.
+ Using the protective ventilation strategy and timely suction could delay the progress of the disease.
+ ......
+ The autopsy results of the patient with COVID-19 showed that the small intestine of the patients had segmental dilatation and stenosis, degeneration of mucosal epithelium, necrosis and exfoliation.
+ 13 Therefore, enteral nutrition support should follow the principle gradual progression: concentration from low to high, dosage from less to more and speed from slow to fast.
+ The formula should be pumped at a constant speed and completed within 16-24 hours.
+ ...Donning and doffing of personal protective equipment protocol and key points of nursing care for patients with COVID-19 in ICUArticleFull-text availableAug 2020Li YuanShu ChenYafang XuCoronavirus pandemic is the most important public health event in the world currently.
+ Patients with coronavirus disease 2019 (COVID-19) in a critical state are at risk of progressing rapidly into many serve complications; they require a high level of care from ICU nurses.
+ How to avoid the virus to infect health care worker is also a critical issue.
+ Based on the summarized experience of Chinese health workers, literature review and clinical practice, this article introduced donning and doffing of personal protective equipment (PPE) protocol and some keypoints of nursing critical care in patients with coronavirus disease 2019 (COVID-19): caring of patients requiring intubation and ventilation, venous thromboembolism (VTE) prevention, caring of patients on ECMO, caring for patients requiring enteral nutrition, psychological support and nursing management of COVID-19 ICU.
+ This article introduced a useful protocol of donning and doffing personal protective equipment to protect health care workers, and provided key points for the ICU nurses how to take care of COVID-19 patients.ViewShow abstract...
+ Although generally causes mild disease, SRAS-CoV-2 infection can result in serious outcomes, including acute lung injury (ALI) and acute respiratory distress syndrome (ARDS), the leading cause of mortality in patients with comorbidities.
+ Recent autopsy studies of COVID-19 patients revealed mononuclear infiltration and excessive production of mucus in the infected lung, especially in the damaged small airways and alveoli (Bian and Team, 2020;Liu et al., 2020).
+ This finding is a critical warning for clinical treatment, as if the mucus accumulation not dissolved, oxygen alone may not be able to achieve the goal for necessary breathing.
+ ...Single-cell analysis reveals bronchoalveolar epithelial dysfunction in COVID-19 patientsArticleFull-text availableJul 2020Shuijiang CaiHuijian FengJiangping He Jiekai ChenView...
+ In cases with sudden or progressive oxygen level deterioration, ARDS-compatible symptoms, signs of right ventricle progressive overload or diffuse perfusion alterations of micro-thrombotic aetiology, the possibility of pulmonary thromboembolism should be considered [50].
+ Enforcing this theory, recent pathology studies of deceased COVID-19 patients showed the presence of pulmonary small vessel micro-thrombotic alterations [51,52].
+ Although a cost-benefit evaluation of the appropriateness of each medical action should always be performed to reduce infection transmission risk ( pulmonary ventilation/perfusion examinations are, for this reason, not recommended), in cases of D-dimer progressive elevation, decay of respiratory gas exchange, as well as progressive signs of right side congestive heart failure, the hypothesis of a diagnostic investigation with pulmonary angio-CT scan should be considered, in order to promptly detect possible pulmonary embolic states and to perform adequate pharmacological interventions [53][54][55].
+ ...D-dimer as an indicator of prognosis in SARS-CoV-2 infection: a systematic reviewArticleFull-text availableApr 2020 Sofia VidaliDaniele MorosettiElsa CossuGuglielmo ConsalesBackground Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) stimulates pro-thrombotic changes.
+ This, combined with its tropism for endothelium and lung structures, may explain its association with thrombotic events, reduction of pulmonary gas exchange, acute respiratory distress syndrome (ARDS) and a composite end-point (intensive care unit, invasive ventilation, death).
+ This study aims to highlight the correlation between elevated D-dimer (an indirect thrombosis marker) and the increased rate of poor prognosis-associated conditions, and to introduce D-dimer-labelled anticoagulant administration as a potentially useful tool to prevent complications and positively influence coronavirus disease 2019 (COVID-19) course.
+ Methods An online database search (PubMed, Google Scholar, Scopus, Web of Science and Cochrane) was performed between 13 March and 10 April 2020.
+ The most relevant keywords were “D-dimer”, “SARS-CoV-2”, “COVID-19”, “thrombosis” and “ARDS”.
+ Selection was independently conducted by three reviewers.
+ References and previews of accepted articles were evaluated.
+ Data inclusion/extraction inaccuracy was limited by the work of three reviewers.
+ Selection bias reduction was addressed by thoughtfully designing the search protocol.
+ Quality assessment was performed with the Newcastle–Ottawa Scale.
+ The systematic review protocol was not registered because we anticipated the very limited available evidence on the topic and due to the urgency of the study.
+ Results 16 studies were evaluated.
+ Good-quality criteria were reached in 13 out of 16 studies.
+ D-dimer was increased and significantly higher in COVID-19 patients compared with healthy controls, in COVID-19 patients with severe disease or a composite end-point compared with non-severe disease, in ARDS compared with non-ARDS patients and in deceased ARDS patients compared with ARDS patients who survived (all pViewShow abstract... Other features of pathological liver changes on autopsy include, hepatomegaly with dark red hepatocyte degeneration, lobular focal necrosis with neutrophils, monocytes, and lymphocyte infiltration in the portal area.
+ The congestion of the hepatic sinuses with micro-thrombosis have also been noted (49).
+ An increased level of monocyte chemoattractant protein 1 (MCP-1) observed in COVID-19 can also exacerbate steatohepatitis (13,50).
+ ...Serum Activity of Liver Enzymes Is Associated With Higher Mortality in COVID-19: A Systematic Review and Meta-AnalysisArticleFull-text availableJul 2020 Umesha Boregowda Mark Aloysius Abhilash Perisetti Hemant GoyalBackground: Abnormal liver chemistries are common findings in patients with COVID-19.
+ It is unclear whether abnormal liver chemistries can predict severity of COVID-19.
+ Therefore, we compared the abnormalities of the component of liver chemistries such as hepatic transaminases, total bilirubin, albumin, and prothrombin time in COVID-19 to evaluate if these are associated with severity and mortality.
+ Methods: An electronic search was performed on PubMed/Medline, EMBASE, and Google Scholar for studies comparing liver chemistries in severe and mild COVID-19.
+ The pooled weighted mean difference (WMD) and 95% confidence interval (CI) were calculated for each component of liver chemistries.
+ Results: Twenty-two studies were eligible, with 3256 patients (54.57% males).
+ Seventeen studies compared liver chemistries for severe vs. mild COVID-19, whereas five studies compared liver chemistries in survival vs. non-survival groups.
+ The pooled WMD of AST and ALT in severe vs. mild COVID-19 was 12.23 (95% CI; 8.07, 16.39; p 0.05).
+ Conclusion These results suggest that treatment with thymosin α1 can markedly decrease 28-day mortality and attenuate acute lung injury in critical type COVID-19 patients.ViewShow abstract...
+ The histopathological features of COVID-19 closely resemble those seen in SARS and MERS.
+ 12 SARS, which is a type of pneumonia caused by the SARS coronavirus (SARS-CoV), is highly contagious and can affect multiple organs.
+ The SARS outbreak in 2003 prompted extensive studies of its histopathological features, with the discovery that the disease predominantly attacks the lung and the immune system.
+ ...A review of the main histopathological findings in the Coronavirus Disease 2019 (COVID-19)ArticleFull-text availableAug 2020Hum Pathol Walter Oqueli Vasquez Roberto Orozco Victor Argueta Alfonso J. Rodriguez-MoralesCoronavirus disease 2019 (COVID-19), caused by the SARS-CoV-2 virus, has been declared by the WHO as an emerging public health problem of global importance and classified as a pandemic.
+ SARS-CoV-2 infection can result in diverse, multi-organ pathology, the most significant being in the lungs (diffuse alveolar damage in its different phases, microthrombi, bronchopneumonia, necrotizing bronchiolitis, viral pneumonia), heart (lymphocytic myocarditis), kidney (acute tubular injury), central nervous system (microthrombi, ischemic necrosis, acute hemorrhagic infarction, congestion, and vascular edema), lymph nodes (hemophagocytosis and histiocytosis), bone marrow (hemophagocytosis) and vasculature (deep vein thrombosis).
+ An understanding of the spectrum and frequency of histologic findings in COVID-19 disease is essential for gaining a better understanding of disease pathophysiology and its ongoing impact on public health.
+ To this end, we conducted a systematic meta-analysis of histopathologic observations to date and review the reported findings.ViewShow abstract... Летальность при COVID-19 в Южной Корее на 15.03.20 составила 3,7% (из 156 400 заболевших умерли 5833) [15].
+ По данным N. Petrosillo и соавт.
+ ...Lung Pathology of COVID-19 in MoscowArticleJan 2020Arkh PatolM.
+ V. SamsonovaL.M.
+ MikhalyovaO.
+ V. Zairatyants Tatyana N. KhovanskayaView... Pathologisch werden bei COVID-19-Pneumonien ein interstitielles Ödem, interstitielle entzündliche Infiltrate und gegebenenfalls auch ein intraalveoläres proteinreiches Exsudat beschrieben.
+ Je nach Schwere der Erkrankung finden sich segmentale pneumonische Infiltrate bis hin zum diffusen Alveolarschaden mit hyalinen Membranen bei vorliegendem ARDS [16][17][18][19][20][21][22][23][24].
+ Weiterhin fallen makroskopisch plaqueartige Veränderungen auf der Pleura visceralis auf und selten eine fettige Proliferation derselben [25].
+ ...Lungenultraschall bei Patienten mit SARS-CoV-2-InfektionArticleSep 2020NOTFALL RETTUNGSMED Georg KunzeKovacikova EHaller H Bernhard KumleLung ultrasound in patients with SARS-CoV-2 infection Abstract After taking a patient’s history and physical examination, lung ultrasound can immediately reveal numerous causes and complications in patients suffering from respiratory tract infection and/or dyspnea.
+ It can thus facilitate decisions on further diagnostic and first therapeutic procedures, even in patients with a SARS-CoV-2 infection who present to the emergency room.
+ This review article highlights the typical findings of lung ultrasound in patients with COVID- 19 and discusses its value compared to other imagingmethods.ViewShow abstract...
+ Injury to the pulmonary microvascular endothelial cells (ECs) of the blood-gas barrier (BGB) may play a critical role in the pathophysiology of the novel coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome corona virus-2 (SARS-CoV-2 virus) infection.
+ [1][2][3] EC activation and dysfunction in COVID-19 is inevitable following viral spread within the oral cavity, nasopharyngeal epithelium, bronchial epithelium and eventually the alveolar BGB lined by very thin pneumocytes (type 1 and type 2; Pn1s and Pn2, respectively) and microvascular capillaries.
+ Type 2 diabetes mellitus (T2DM) is associated with endothelial activation and dysfunction in the affected end-organs of T2DM, resulting in neuropathy, retinopathy, nephropathy, cardiomyopathy, cognopathy and pulmonopathy ( Figure 1).
+ ...Endothelial activation and dysfunction in metabolic syndrome, type 2 diabetes and coronavirus disease 2019ArticleFull-text availableJul 2020J INT MED RES Melvin HaydenThe novel coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus-2 infection is a serious global concern.
+ Increased morbidity and mortality is associated with older age, male gender, cardiovascular disease, diabetes, and smoking.
+ As COVID-19 spreads from coastal borders, both state to state and country to country, our understanding of its pathophysiology has evolved.
+ Age and type 2 diabetes mellitus (T2DM) play especially important roles in COVID-19 progression.
+ T2DM is an age-related disease associated with metabolic syndrome, obesity, insulin resistance (hyperinsulinemia), hyperlipidemia, hypertension, hyperglycemia, and endothelial activation and dysfunction.
+ This review evaluates the relationships and intersection between endothelial cell activation and dysfunction in T2DM and COVID-19.
+ COVID-19 induces multiple injuries of the terminal bronchioles and alveolar blood-gas barrier and associated ultrastructural tissue remodeling.
+ COVID-19 may unmask multiple vulnerabilities associated with T2DM including damage to the endothelial glycocalyx and multiple end-organ macro and microvascular diseases.
+ Unmasking existing vulnerabilities in diabetic patients with COVID-19 is important.
+ Globally, we must come together to better understand why T2DM is associated with increased COVID-19 morbidity and mortality.ViewShow abstractMultidisciplinary, three-dimensional and individualized comprehensive treatment for severe/critical COVID-19ArticleFull-text availableAug 2020Qing YangSevere/critical cases account for 18–20% of all novel coronavirus disease 2019 (COVID-19) patients, but their mortality rate can be up to 61.5%.
+ Furthermore, all deceased patients were severe/critical cases.
+ The main reasons for the high mortality of severe/critical patients are advanced age (&gt;60 years old) and combined underlying diseases.
+ Elderly patients with comorbidities show decreased organ function and low compensation for damage such as hypoxia and inflammation, which accelerates disease progression.
+ Liver volume is increased, and mild active inflammation and focal necrosis are observed in the portal area.
+ Virus particles have also been detected in liver cells.
+ Therefore, multidisciplinary teams (MDTs) and individualized treatment plans, accurate prediction of disease progression and timely interventions are vital to effectively reduce mortality.
+ Specifically, a “multidisciplinary three-dimensional management, individualized comprehensive plan” should be implemented.
+ The treatment plan complies with three principles, namely, multidisciplinary management of patients, individualized diagnosis and treatment plans, and timely monitoring and intervention of disease.
+ MDT members are mainly physicians from critical medicine, infection and respiratory disciplines, but also include cardiovascular, kidney, endocrine, digestion, nerve, nutrition, rehabilitation, psychology and specialty care.
+ According to a patient’s specific disease condition, an individualized diagnosis and treatment plan is formulated (one plan for one patient).
+ While selecting individualized antiviral, anti-inflammatory and immunomodulatory treatment, we also strengthen nutritional support, psychological intervention, comprehensive rehabilitation and timely and full-course intervention to develop overall and special nursing plans.
+ In response to the rapid progression of severe/critical patients, MDT members need to establish a three-dimensional management model with close observation and timely evaluation.
+ The MDT should make rounds of the quarantine wards both morning and night, and of critical patient wards nightly, to implement “round-the-clock rounds management”, to accurately predict disease progression, perform the quick intervention and prevent rapid deterioration of the patient.
+ Our MDT has cumulatively treated 77 severe/critical COVID-19 cases, including 62 (80.5%) severe cases and 15 (19.5%) critical cases, with an average age of 63.8 years.
+ Fifty-three (68.8%) cases presented with more than one underlying disease and 65 (84.4%) severe cases recovered from COVID-19.
+ The average hospital stay of severe/critical cases was 22 days, and the mortality rate was 2.6%, both of which were significantly lower than the 30–40 days and 49.0–61.5%, respectively, reported in the literature.
+ Therefore, a multidisciplinary, three-dimensional and individualized comprehensive treatment plan can effectively reduce the mortality rate of severe/critical COVID-19 and improve the cure rate.ViewShow abstractUnderstanding the neurotropic characteristics of SARS-CoV-2: from neurological manifestations of COVID-19 to potential neurotropic mechanismsArticleMay 2020J NEUROLZhiqiang Zhou Huicong KangShiyong LiXu ZhaoCoronavirus disease 2019 (COVID-19), a disease caused by the novel betacoronavirus (SARS-CoV-2), has become a global pandemic threat.
+ The potential involvement of COVID-19 in central nervous system (CNS) has attracted considerable attention due to neurological manifestations presented throughout the disease process.
+ In addition, SARS-CoV-2 is structurally similar to SARS-CoV, and both bind to the angiotensin-converting enzyme 2 (ACE2) receptor to enter human cells.
+ Thus, cells expressing ACE2, such as neurons and glial cells may act as targets and are thus vulnerable to SARS-CoV-2 infection.
+ Here, we have reviewed the neurological characteristics of COVID-19 and summarized possible mechanisms of SARS-CoV-2 invasion of the CNS.
+ COVID-19 patients have presented with a number of different neurological symptoms such as headache, dizziness, hyposmia, and hypogeusia during the course of illness.
+ It has also been reported recently that some cases of COVID-19 have presented with concurrent acute cerebrovascular disease (acute ischemic stroke, cerebral venous sinus thrombosis, cerebral hemorrhage, subarachnoid hemorrhage), meningitis/encephalitis, acute necrotizing hemorrhagic encephalopathy, and acute Guillain–Barré syndrome.
+ Furthermore, SARS-CoV-2 RNA detected in a cerebrospinal fluid specimen of a patient with COVID-19 have provided direct evidence to support the theory of neurotropic involvement of SARS-CoV-2.
+ However, the underlying neurotropic mechanisms of SARS-CoV-2 are yet to be established.
+ SARS-CoV-2 may affect CNS through two direct mechanisms (hematogenous dissemination or neuronal retrograde dissemination) or via indirect routes.
+ The underlying mechanisms require further elucidation in the future.ViewShow abstractSingle-Cell Analysis Reveals Macrophage-Driven T Cell Dysfunction in Severe COVID-19 PatientsPreprintFull-text availableMay 2020Xiaoqing LiuAiru ZhuJiangping He Jiekai ChenThe vastly spreading COVID-19 pneumonia is caused by SARS-CoV-2.
+ Lymphopenia and cytokine levels are tightly associated with disease severity.
+ However, virus-induced immune dysregulation at cellular and molecular levels remains largely undefined.
+ Here, the leukocytes in the pleural effusion, sputum, and peripheral blood biopsies from severe and mild patients were analyzed at single-cell resolution.
+ Drastic T cell hyperactivation accompanying elevated T cell exhaustion was observed, predominantly in pleural effusion.
+ The mechanistic investigation identified a group of CD14+ monocytes and macrophages highly expressing CD163 and MRC1 in the biopsies from severe patients, suggesting M2 macrophage polarization.
+ These M2-like cells exhibited up-regulated IL10, CCL18, APOE, CSF1 (M-CSF), and CCL2 signaling pathways.
+ Further, SARS-CoV-2-specific T cells were observed in pleural effusion earlier than in peripheral blood.
+ Together, our results suggest that severe SARS-CoV-2 infection causes immune dysregulation by inducing M2 polarization and subsequent T cell exhaustion.
+ This study improves our understanding of COVID-19 pathogenesis.ViewShow abstractPathological and molecular examination findings in postmortem testis biopsies reveal spermatogenesis damages in COVID-19 patientsPreprintFull-text availableAug 2020Xixiang MaChuhuai GuanRong Chen Shuiqiao YuanDespite widespread interest in the pathophysiology of COVID-19 in respiratory and cardiovascular systems, little is known about the morphologic and molecular changes in the testis of patients with COVID-19 and the effects of SARS-CoV-2 infection on male fertility.
+ We report here on the pathophysiology and molecular feature of testes obtained at autopsy from six men with COVID-19, as compared with those of testes from three men with age-matched, uninfected SARS-CoV-2.
+ Our histopathological results showed that all COVID-19 patients had severe spermatogenesis damages compared with controls.
+ Importantly, we detected the nuclear acid of the SARS-CoV-2 virus, viral particles, and SARS-CoV-2 spike S1 protein in COVID-19 patient testes, and we also found ACE2 and TMPRSS2 significantly elevated in the testes from COVID-19 patients.
+ Furthermore, we observed a prominent leukocyte infiltration, including CD3+ T lymphocytes, CD20+ B lymphocytes, CD68+ macrophages, HLA-DR+ myeloid cells, and CD38+ plasma cells in the testes of COVID-19 patients.
+ RNA-Seq analyses further revealed SARS-CoV-2 infection could lead to dysfunction of the genes that regulate the spermatogenesis and inflammation response-related pathways.
+ Collectively, our pathological and molecular examination findings indicate that SARS-CoV-2 could directly attack testicular cells, thereby inducing the damage of testicular immune privilege and spermatogenesis defects.ViewShow abstractEarly awake prone position combined with high-flow nasal oxygen therapy in severe COVID-19: A case seriesArticleFull-text availableDec 2020Crit CareQiancheng XuTao WangXueMei QinWeihua LuViewThe Application of Eight-Segment Pulmonary Rehabilitation Exercise in People With Coronavirus Disease 2019ArticleFull-text availableMay 2020Jian-Min ChenZhi-Yong WangYang-Jia ChenJun NiViewCoronaviridae ‐ old friends, new enemy!ArticleFull-text availableMay 2020ORAL DIS Jair Carneiro Leão Teresa Paula de Lima Gusmão Adriana MachadoALESSANDRA DE ALBUQUERQUE TAVARES CARVALHOCoronaviridae is a family of single‐stranded positive enveloped RNA viruses.
+ This article aimed to review the history of these viruses in the last 60 years since their discovery to understand what lessons can be learned from the past.
+ A review of the PubMed database was carried out, describing taxonomy, classification, virology, genetic recombination, host adaptation, and main symptoms related to each type of virus.
+ SARS‐CoV‐2 is responsible for the ongoing global pandemic, SARS‐CoV and MERS‐CoV were responsible for causing severe respiratory illness and regional epidemics in the past while the four other strains of CoVs (229‐E OC43, NL63, and HKU1) circulate worldwide and normally only cause mild upper respiratory tract infections.
+ Given the enormous diversity of coronavirus viruses in wildlife and their continuous evolution and adaptation to humans, future outbreaks would undoubtedly occur.
+ Restricting or banning all trade in wild animals in wet markets would be a necessary measure to reduce future zoonotic infections.ViewShow abstractCovid‐19 pandemic and pregnancyArticleAug 2020J OBSTET GYNAECOL RE Satoshi HayakawaShihoko Komine-Aizawa Gil MorAt the end of 2019, a new coronavirus disease, COVID-19, emerged and quickly spread around the world.
+ Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2), the causative virus of this disease, belongs to the β-coronavirus family, together with SARS and middle east respiratory syndrome, and has similar biological characteristics to these viruses.
+ For obstetricians, the susceptibility and prognoses of pregnant women and the effects of the infection on the fetus have been the focus of attention; however, at present, the seriousness of the disease in pregnant women is not apparent, and COVID-19 does not increase the rate of miscarriage, stillbirth, preterm labor or teratogenicity.
+ Even so, carriers might transmit SARS-CoV-2 to pregnant women.
+ Problema.
+ El COVID-19 es una enfermedad viral emergente, que primero fue identificada en China, en la provincia de Wuhan en diciembre del 2019, y los primeros casos fueron identificados como neumonía de causa desconocida; en febrero de 2020, la Organización Mundial de la Salud la describió como COVID-19 (del acrónimo inglés: coronavirus disease 2019) y la enfermedad fue declarada una emergencia internacional el día 30 de enero de 2020.
+ Inicialmente, el virus fue llamado 2019-nCoV y, posteriormente, renombrado como SARS-coV-2, ya que el virus es muy similar al causante del síndrome respiratorio agudo grave (SARS, por sus siglas en inglés); se trata de un virus de cadena simple de ARN que, visto en microscopia electrónica, tiene la apariencia de corona por presencia de glucoproteínas en su envoltura.
+ La subfamilia Orthocoronavirinae clasifica a los coronavirus en los siguientes cuatro géneros: alfacoronavirus (alphaCoV), betacoronavirus (betaCoV), deltacoronavirus (deltaCoV) y gammacoronavirus (gammaCoV).
+ Los coronavirus pueden causar enfermedades en animales como camellos, gatos y murciélagos.ViewShow abstractClinical Characteristics of confirmed and clinically diagnosed patients with 2019 novel coronavirus pneumonia: a single-center, retrospective, case-control studyArticleJul 2020MED CLIN-BARCELONAChunjin KeYu ChongDaoyuan Yue Chunguang YangBackground: Novel coronavirus disease 2019 (COVID-19) is an emerging infectious disease caused by SARS-CoV-2.
+ At the peak of the outbreak in Wuhan (January and February), there are two types of COVID-19 patients: laboratory confirmation and clinical diagnosis.
+ This study aims to compare and analyze the clinical outcomes and characteristics of confirmed and clinically diagnosed COVID-19 patients to determine whether they are of the same type and require equal treatment.
+ More importantly, the prognostic factors of COVID-19 patients are explored.
+ Methods: A total of 194 hospitalized patients with COVID-19 pneumonia were retrospectively studied.
+ Demographic data, clinical characteristcs, laboratory results and prognostic information were collected by electronic medical record system and analyzed.
+ Results: Among 194 subjects included, 173 were confirmed and 21 were clinically diagnosed.
+ Older age, lower albumin levels, higher serum Lactate dehydrogenase (LDH) levels, higher D-D levels, longer prothrombin time (PT), higher IL-6 levels, lower T cells indicated poor prognosis in patients with COVID-19 pneumonia.
+ Conclusion: Laboratory-confirmed and clinically diagnosed COVID-19 patients are similar in clinical outcomes and most clinical characteristics.
+ They are of the same type and require equal treatment.
+ Age, AST, LDH, BUN, PT, D-D, IL6, white blood cell and neutrophil counts, T cell and T cell subset counts can efficiently predict clinical outcomes.ViewShow abstractEpidemic and pandemic viral infections: impact on tuberculosis and the lung.
+ A consensus by the World Association for Infectious Diseases and Immunological Disorders (WAidid), Global Tuberculosis Network (GTN) and members # of ESCMID Study Group for Mycobacterial Infections (ESGMYC)ArticleFull-text availableJun 2020EUR RESPIR JCatherine Wei Min Ong Giovanni Battista Migliori Mario Raviglione Delia GolettiMajor epidemics including some that qualify as pandemics, such as Severe Acute Respiratory Syndrome (SARS), Middle-Eastern Respiratory Syndrome (MERS), Human Immunodeficiency Virus, pandemic H1N1/09 and most recently COVID-19 affect the lung.
+ Tuberculosis (TB) remains the top infectious disease killer but apart from the TB-HIV syndemic, little is known regarding the interaction of viral epidemics and pandemics with TB.
+ The aim of this consensus-based document is to describe the effects of the viral infections resulting in epidemics and pandemics that affect the lung (MERS, SARS, HIV, influenza A (H1N1)pdm/09 and COVID-19) and their interactions with TB.
+ A search of the scientific literature was performed.
+ A writing committee of international experts including the European Centre for Disease Prevention and Control Public Health Emergency (ECDC PHE) team, the World Association for Infectious Diseases and Immunological Disorders (WAidid), the Global Tuberculosis Network (GTN) and members of ESCMID Study Group for Mycobacterial Infections (ESGMYC) was established.
+ Consensus was achieved after multiple rounds of revisions between the writing committee and a larger expert group.
+ A Delphi process involving the core group of authors, excluding the ECDC PHE team identified the areas requiring review/consensus, followed by a second round to refine the definitive consensus elements.
+ The epidemiology, immunology of these viral infections and their interactions with TB are discussed with implications on diagnosis, treatment and prevention of airborne infections (infection control, viral containment and workplace safety).
+ This consensus document represents a rapid and comprehensive summary on what is known on the topic.ViewShow abstractChest Computed Tomography and Lung Ultrasound Findings in COVID-19 Pneumonia: A Pocket Review for Non-radiologistsArticleFull-text availableJun 2020 Davide Pata Piero ValentiniCristina De Rose Danilo BuonsensoCOVID-19 is an infectious disease that has quickly spread worldwide, causing a pandemic.
+ The main clinical manifestation is pneumonia.
+ The most important test for the diagnosis is represented by RT-PCR, but, given the limited sensitivity, further radiological examinations are necessary.
+ We reviewed the literature to highlight the typical manifestations and advantages of chest computed tomography and lung ultrasound in COVID-19 pneumonia in order to assist clinical researchers in the management of this disease.ViewShow abstractComorbidities, clinical signs and symptoms, laboratory findings, imaging features, treatment strategies, and outcomes in adult and pediatric patients with COVID-19: A systematic review and meta-analysisArticleFull-text availableAug 2020Trav Med Infect Dis Catherine JutzelerLucie BourguignonCaroline V. Weis Matthias WalterIntroduction Since December 2019, a novel coronavirus (SARS-CoV-2) has triggered a world-wide pandemic with an enormous medical and societal-economic toll.
+ Thus, our aim was to gather all available information regarding comorbidities, clinical signs and symptoms, outcomes, laboratory findings, imaging features, and treatments in patients with coronavirus disease 2019 (COVID-19).
+ Methods EMBASE, PubMed/Medline, Scopus, and Web of Science were searched for studies published in any language between December 1st, 2019 and March 28th.
+ Original studies were included if the exposure of interest was an infection with SARS-CoV-2 or confirmed COVID-19.
+ The primary outcome was the risk ratio of comorbidities, clinical signs and symptoms, imaging features, treatments, outcomes, and complications associated with COVID-19 morbidity and mortality.
+ We performed random-effects pairwise meta-analyses for proportions and relative risks, I², Tau², and Cochrane Q, sensitivity analyses, and assessed publication bias.
+ Results 148 studies met the inclusion criteria for the systematic review and meta-analysis with 12’149 patients (5’739 female) and a median age of 47.0 [35.0-64.6] years.
+ 617 patients died from COVID-19 and its complication.
+ 297 patients were reported as asymptomatic.
+ Publication bias was only found in eight studies (Egger’s test: p &lt; 0.05).
+ Conclusions Our meta-analyses revealed important risk factors that are associated with severity and mortality of COVID-19.ViewShow abstractPathological features of COVID-19 infection from biopsy and autopsy seriesArticleJul 2020Sidar Copur Asiye Kanbay Baris AfsarMehmet KanbayNovel coronavirus disease 2019 (COVID-19) which is caused by severe acute respiratory syndrome corona virus 2 (SARS-CoV-2) was first identified in December 2019 in Chinese town Wuhan and considered as a pandemic by World Health Organization.
+ While the majority of cases have mild symptoms, some progress to viral pneumonia, multi-organ failure, or cytokine storm and mortality is mostly caused by hypoxemic respiratory failure.
+ Until now, more than 3.5 million people worldwide were infected and more than 240.000 mortality has been occurred.
+ Such pathological studies have potential role on the understanding of clinical outcomes and in the development of novel targeted therapeutic approaches.
+ Given these aforementioned data, in the current manuscript we have summarized the pathological features of COVID-19 derived from biopsy and autopsy series.ViewShow abstractThe COVID-19 Epidemic and the Prison System in ItalyArticleFull-text availableJul 2020 Mariano CingolaniLina Caraceni Nunzia Cannovo Piergiorgio FedeliThe Italian Ministry of Justice and that of Health have established two strategies to limit the spread of COVID-19 in prisons: progressive isolation from the external world and adoption of practices to identify possible cases and to treat infected subjects.
+ After the announcement of regulations revolts erupted in numerous Italian prisons.
+ The motivations and effects of these strategy are discussed critically into the search for a balance between the right to health and other rights of prisoners in Italian prisons with the problem of an occupancy level of 121.75%.ViewShow abstractComputed Tomography Evaluation of Airway Changes in Adult Patients with COVID-19 PneumoniaArticleAug 2020Zhanguo SunXiaolong LiuJiehuan WangYueqin ChenObjective:  To investigate airway abnormalities on chest CT in adult patients with COVID-19 pneumonia.
+ Study design:  Observational study.
+ Place and duration of study:  Department of Radiology, Affiliated Hospital of Jining Medical University, Jining, Shandong, China, from January to April, 2020.
+ Methodology:  CT scan images were analysed retrospectively.
+ The main CT findings, including pulmonary opacities, airway wall visibility, wall thickening, luminal changes, and the formation of mucus plugs were evaluated.
+ Airway segments were classified into three types based on the spatial relationship between conducting airways and pulmonary opacities.
+ Results:  A total of 275 lesions were detected in 52 patients.
+ Of these, 170 (61.82%) lesions were associated with 243 airway segments, including segments enclosed within lesions (type I, 152, 62.55%), crossing the lesions (type II, 51, 20.99%), and abutting the lesions (type III, 40, 16.46%).
+ The bronchial walls of 154 (63.37%) segments were ill-defined; whereas, the walls of 89 (36.63%) segments were well-defined; in the latter group, 62 (69.66%) showed mild thickening.
+ The bronchial lumen of 183 (75.31%) segments presented mild bronchiectasis and 60 (24.69%) segments appeared normal.
+ Mucus plug was detected in one segment (0.41%).
+ There were no cases of bronchial stenosis, and all bronchial segments located in normal lung regions appeared normal.
+ The appearance of 196 (80.66%) affected bronchi was completely restored before hospital discharge.
+ Conclusion:  Typical airway changes in adult COVID-19 pneumonia include bronchial wall thickening without significant stenosis of the airway lumen and the absence of bronchial mucus plugs.
+ Moreover, bronchi located in unaffected lung regions have a normal appearance.
+ These characteristics have potential value in differential diagnosis.
+ Key Words: Coronavirus disease, Airway, Computed tomography, Chest.ViewShow abstractDiagnosis and Treatment of Cytokine Storming as a Management of COVID-19 InfectionArticleFull-text availableJul 2020 Mahvish Kabir Riffat Mehboob Syed Amir Gilani Fridoon AhmadBackground: COVID-19 is a global pandemic with 12% mortality rate.
+ This pandemic has shattered health care sector of many developed countries across the globe.
+ According to World Health Organization (WHO) India and Pakistan will be badly hit by the pandemic till end of June 2020.
+ Both countries are densely populated and the fragile health sector of these countries is incapable to facilitate of large number of critically ill patients.
+ Data analysis from different studies revealed that Cytokine Storming (CS) is main cause of COVID-19 related respiratory, renal, cardiac and neural complications in critically ill patients.
+ Objectives: The aim of this review is to highlight the significance of CS in management of COVID-19 infection.
+ Methods: Literature from previous studies was collected to suggest the possible diagnostic testing as well as strategies to manage these patients.
+ Mesh terms such as Corona, Covid-19, Cytokine storming, Wuhan, Pandemic were applied on PUBMED as well as google to search for the latest published articles.
+ Reports and newpapers were also considered as this is an ongoing pandemic and there is scarcity of knowledge and information in this regard.
+ Results: IL6 and TNFα blockers are helpful in regulating the uncontrolled immune response due to CS.
+ Levels of different substances like ferritin, Cytokine Reactive Proteins and D-dimer can be helpful in early detection of these complications.
+ Conclusions: The early detection of CS can be used for selection of appropriate treatment, reduction in burden on Intensive Care Units (ICU) and ultimately saving many lives.ViewShow abstractMorphogenesis and cytopathic effect of SARS-CoV-2 infection in human airway epithelial cellsArticleFull-text availableDec 2020Na ZhuWenling WangZhidong LiuSARS-CoV-2, a β-coronavirus, has rapidly spread across the world, highlighting its high transmissibility, but the underlying morphogenesis and pathogenesis remain poorly understood.
+ Here, we characterize the replication dynamics, cell tropism and morphogenesis of SARS-CoV-2 in organotypic human airway epithelial (HAE) cultures.
+ SARS-CoV-2 replicates efficiently and infects both ciliated and secretory cells in HAE cultures.
+ In comparison, HCoV-NL63 replicates to lower titers and is only detected in ciliated cells.
+ SARS-CoV-2 shows a similar morphogenetic process as other coronaviruses but causes plaque-like cytopathic effects in HAE cultures.
+ Cell fusion, apoptosis, destruction of epithelium integrity, cilium shrinking and beaded changes are observed in the plaque regions.
+ Taken together, our results provide important insights into SARS-CoV-2 cell tropism, replication and morphogenesis.ViewShow abstractShow moreHealth Emergency Office.
+ Novel coronavirus pneumonia epidemic situation up to 24： 00 on卫生应急办公室疫情最新情况卫生应急办公室.
+ 截至 2月 24日 24时新型冠状病毒肺炎  疫情最新情况[R/OL].
+ (2020-02-25) [2020-02-25].
+ http://  www.nhc.gov.cn/xcs/yqtb/202002/67e6c59a84bd4f07b6c  a4a4c5ffabb79.shtml.
+ Health Emergency Office.
+ Novel coronavirus pneumonia epidemic situation up to 24： 00 on February  24[R/OL].
+ (2020-02-25)[2020-02-25].
+ http://www.nhc.
+ RIS BibTeX Plain TextWhat do you want to download?
+ Citation only Citation and abstractDownloadInterested in research on COVID-19?Join ResearchGate to discover and stay up-to-date with the latest research from leading experts in COVID-19 and many other scientific topics.Join for free ResearchGate iOS AppGet it from the App Store now.InstallKeep up with your stats and moreAccess scientific knowledge from anywhere orDiscover by subject areaRecruit researchersJoin for freeLoginEmail Tip: Most researchers use their institutional email address as their ResearchGate loginPasswordForgot password?
+ Keep me logged inLog inorContinue with LinkedInContinue with GoogleWelcome back!
+ Please log in.Email · HintTip: Most researchers use their institutional email address as their ResearchGate loginPasswordForgot password?
+ Keep me logged inLog inorContinue with LinkedInContinue with GoogleNo account?

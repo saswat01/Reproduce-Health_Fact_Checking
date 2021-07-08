@@ -1,0 +1,4052 @@
+      On the Cover˜ Lake Michigan image is from the National Aero
+nautics and Space Administration™s (NASA) MODIS 
+Satellite. Source: http://visibleearth.nasa.gov. Image is accessible at 
+http://veimages.gsfc.nasa.gov//1120/S1999254181550_md.jpg
+.                                                              Table of Contents ˜Executive Summary–––––––––––––––––––––––––––.ESŒ1 Chapter 1 Œ Introduction––––––––––––––––––––––––..–.1
+Œ1 1.1 What are Combined Sewers and CSOs?–.–––––––––––––––––..1Œ1˜ 1.2 What Comprises the Lake Michigan Basin?––––––––––––––––.–1Œ4˜ 1.3 How is this Report Organized?––––––––––––––––––––––.1Œ5˜ Chapter 2 Œ Regulation of CSOs–––––––––––––––––––––––2
+Œ1 2.1 What is the History of Federal CSO Control Efforts?––––––––––––––2
+Œ1˜ 2.1.1 Initial Efforts to Control CSOs–––––––––––––––––––..–2Œ1˜ 2.1.2 CSO Case Law–––––––––––––––––––..––––––.....2Œ2˜ 2.1.3 National
+ Municipal Policy on POTWs––––––––––––––––......2
+Œ2˜ 2.1.4 National
+ CSO Control Strategy and the Ma
+nagement Advisory Group–––....2
+Œ2˜ 2.1.5 CS
+O Control Policy––––––––––––––.––––––––..–....2Œ3˜ 2.1.6 Wet Weather Water Quality Act.––––––––––––––––––.....2
+Œ3˜ 2.2 What is the CSO Control Policy?––...––––––––––––––––––....2
+Œ4˜ 2.2.1 ˚Objectives for CSO Communities–...––––––––––––––––...2Œ4˜ 2.2.2 ˚Expectations for Permitting Authorities...–..–––––––––––––...2
+Œ5˜ 2.2.3 ˚Coordination with Water Quality Standards: Development, Review, and ˜
+   Approval––..–––––––.––––––––––––..–––––.....2Œ5˜ 2.2.4 ˚Enforcement and Compliance–––––––––––––––––––..2
+Œ6˜ 2.3 What Targets Have Been Established for CSOs?–––––––––––––––.2
+Œ6˜ 2.3.1 EPA Targets for CSO Control––––––––––––––––––––.2Œ6˜ 2.3.2  Great Lakes Strategy Targets for CSO Control...––––.––––––––..2Œ7˜ Chapter 3ŠCSO Discharges to Lake Michigan––––––––––––––––.3Œ1 3.1 How were the data collected?––––––––––––––––––––...–...3
+Œ1˜ 3.2 What is the Occurrence of CSOs to Lake Michigan and its Tributaries?...–––––..3Œ3˜ 3.2.1 ˚Volume an
+d Frequency of CSO Discharges––––––––––––––..3Œ4˜ 3.3 What Problems are Caused by CSO Discharges?–––––––––––––.......3Œ13˜ 3.3.1 ˚Water Quality Impacts Attributed to CSO: 305(b) Assessments and 303(d)   ˜
+      Impairments––––––––––––––––––––––––––.3
+Œ13˜ i                      Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+3.3.2 BEACH Program––––––––––––––––––..–––––..3Œ15 ˜3.3.3      Impacts within Great Lakes AOCs––––––––––––––––....3Œ18 ˜3.3.4  Other Efforts Underway in the Lake Michigan Basin–.–..––––––....3Œ19 ˜Chapter 4ŠState Approaches to CSO Control in the Lake Michigan Basin––––4
+Œ1 4.1 What is the Indiana Approach to CSO Control?–––––––––––––––..4Œ1 ˜4.1.1   Strategy for CSO Control and NPDES Permitting......–.–––––––––4
+Œ1˜ 4.1.2     Status of CSO Control..––.–––...–––––––....––––––––4Œ3 ˜4.2 What is the Michigan Approach to CSO Control?–––––––––––.–––..4Œ6 ˜4.2.1   Strategy for CSO Control and NPDES Permitting––––––..––––....4
+Œ6 ˜4.2.2      Status of CSO Control–––––..––––––––––––––––...4
+Œ7 ˜4.3 What is the Wisconsin Approach to CSO Control?.–...––––.–––––..–...–4
+Œ9 ˜4.3.1  Strategy for CSO Control and NPDES Permitting.....–––...–––.–––.4
+Œ9 ˜4.3.2     Status of CSO Control–....–––––––––––––..–.–––––4Œ10 ˜4.4 What is the Illinois Approach to CSO Control?–––––––––––––––.4Œ11˜ 4.4.1    Strategy for CSO Control and NPDES Permitting––––––––––....4
+Œ11 ˜4.4.2  Status of CSO Control–––––––––––––––––––––...4
+Œ12˜ Chapter 5ŠConclusions and Future Actions––.–..–––––––––––––5Œ1 5.1 What are Current Conditions in the Lake Michigan Basin?––––––––––....5
+Œ1˜ 5.2 What are Future EPA Actions to Co
+ntrol CSOs in the Lake Michigan Basin?––––5Œ2 ˜5.2.1 State Permit Oversight–––––––––––––––––––––...5
+Œ3 ˜5.2.2     State Enforcement Program Oversight–––––––––––––––.5
+Œ3 ˜5.2.3 Enforcement Activity––––––––––––––––––––––.5Œ3 ˜5.2.4 Technical Assistance––––––––––––––––––––––..5Œ4 ˜5.2.5   Financial Assistance––––––––––––––––––––––...5
+Œ4 ˜5.2.6    Water Quality Standards Review and Approval–––––––––––....5
+Œ5 ˜5.3 Summary–––––––––––––––––––––––––––––.....5
+Œ5 ˜ii                                                      
+                                                            
+                                      Table of Contents List of Figures ˜Figure ES.1ŠLocation of CSO Communities in the Lake Michigan Basin–.––.–––ESŒ3 Figure 1.1ŠTypical Combined Sewer System–.––––––––––––––.––.1Œ2 Figure 1.2ŠNational Distribution of CSSs–––––.––––––––––––––1Œ4 Figure 1.3ŠMap of Lake Michigan Basin––––––––––––––––..–––.1Œ5 Figure 3.1ŠLocation of CSO Communities in the Lake            Michigan Basin––..––––––––..–––––––––.––––....3Œ4 Figure 3.2ŠAnnual CSO Frequency for Michigan CSO Communities in the Lake            Michigan Basin: 2003-2004–.–...–––––––..–––––––––...3Œ8 Figure 3.3ŠMap of Chicago Area with Three Waterway-Controlling Works...––––..3
+Œ11 Figure 3.4ŠSources of Pollution that Resulted in Lake Michigan Beach Advisories 
+          and Closings: 2000-2004–.–.––––––––––––––––...–..3Œ17 Figure 3.5ŠCSOs Reported to Cause Beach Advisories and Closings in Four Counties  
+          Bordering Lake Michigan: 2000-2004–––––––––––––––..3Œ17 Figure 4.1ŠLocation of Indiana CSO Communities in the Lake Michigan            Basin–.––.––––––––––––––––––––––...––....4Œ3 Figure 4.2ŠLocation of Michigan CSO Communiti
+es in the Lake Michigan Basin–..–....4Œ7 Figure 4.3ŠWisconsin™s CSO Community in the Lake Michigan Basin–––––..––4Œ10 Figure 4.4ŠComparison of Pre-ISS Annual Overflow
+ Volumes with Post-ISS Overflow  
+          Volumes in Milwaukee, WI..–––..––––––––––––......––..4
+Œ11 iii                                                                             
+                                                Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+List of Tables˜ Table 3.1
+ŠLake Michigan CSO Community Information–––––––––––––3Œ5 Table 3.2ŠIndiana CSO Discharge Information..–––––––––––––...––...3
+Œ7 Table 3.3ŠAnnual CSO Volumes for Michigan CSO Communities in the Lake             Michigan Basin: 2003-2004–––––––––––––...––––––...3Œ9 Table 3.4ŠMMSD Annual CSO Frequency and Volume: 1998-2004 ––––––...–.3
+Œ10 Table 3.5ŠChicago-Area River Reversals to Lake Michigan: 1985-2005––––––...3
+Œ12 Table 3.6ŠPollutants of Concern in CSOs that Are 
+Likely to Cause or Contribute to
+     Impairment.....––..––––––––––––––––––––––..3
+Œ14 Table 3.7ŠSources of Pollution that Resulted in
+ Advisories and Closings in Four Lake  
+Michigan Counties: 2000-2004.––––––––––––––––––3Œ18 Table 4.1ŠStatus of CSO Control Policy Requirements in Indiana, Lake Michigan  
+Basin Only ––––––––––––––––––––––.––––..4Œ4 Table 4.2ŠSummary of CSO Controls Implemented or Proposed in Indiana CSO         Communities in the Lake Michigan Basin––––––––––––––..4Œ5 Table 4.3ŠStatus of CSO Control Policy Requirements in Michigan, Lake Michigan Basin Only...––––––––.–.––.––––––––.––––––..4Œ8 Table 4.4ŠCSO Controls Implemented or Scheduled to Be Implemented in Michigan       CSO Communities in the Lake Michigan Basin...––––.––––...–––4Œ9 Table 4.5ŠVolume of Combined Sewage Ca
+ptured by TARP: 1982Œ2004...–––––4Œ12 iv                                                       
+       Table of Contents Appendix˜ Appendix A ––––––––––––––––––––––––Community Profiles v         List of Acronyms AOC Œ Areas of Concern BEACH Program Œ Beaches 
+Environmental Assessment and Coastal 
+Health Program 
+BG Œ Billion Gallons 
+CFU Œ Colony-Forming Units 
+CSO Œ Combined Sewer Overflow 
+CSS Œ Combined Sewer System DMR Œ Discharge Monitoring Report EPA Œ Environmental Protection Agency 
+
+IDEM Œ Indiana Department of Environmental Management Illinois EPA Œ Illinois Environmental Protection Agency ISS Œ Inline Storage System 
+LaMP Œ Lakewide Management Plan 
+LTCP Œ Long-Term Control Plan 
+
+MAG Œ Management Advisory Group MDEQ Œ Michigan Department of Environmental Quality 
+MG Œ Million Gallons 
+MGD Œ Million Gallons per Day 
+MMSD Œ Milwaukee Metropolitan Sewerage District MWRDGC Œ Metropolitan Water Reclamation District of Greater Chicago 
+NMC Œ Nine Minimum Controls NMP Œ National Municipal Policy 
+NPDES Œ National Pollutant Discharge Elimination System NWQI Œ National Water Quality Inventory PCBs Œ Polychlorinated Biphenyls 
+POTW Œ Publicly Owned Treatment Works RAP Œ Remedial Action Plan 
+SEA Œ Senate Enrolled Act 
+SRCER Œ Stream Reach and Characterization and Evaluation Report 
+SSO Œ Sanitary Sewer Overflow 
+SSS Œ Sanitary Sewer System 
+TARP Œ Tunnel and Reservoir Project 
+
+TMDL Œ Total Maximum Daily Load 
+WDNR Œ Wisconsin Department of Natural Resources WWTP Œ Wastewater Treatment Plant vi               
+   
+        
+   
+ 
+   
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Glossary This glossary includes a collection of the terms 
+used in this manual and an explanation of each 
+term. To the extent that 
+definitions and explanations provided in this glossary differ from those 
+in EPA regulations or other official documents, they are intended
+ for use in understanding this 
+manual only. B Best Available Technology 
+Economically Achievable 
+(BAT) Œ Technology-
+based standard 
+established by the Clean 
+Water Act as the most 
+
+appropriate means 
+available on a national 
+basis for controlling the 
+
+direct discharge of toxic 
+and nonconventional 
+pollutants to navigable 
+
+waters. Best Conventional Pollutant Control Technology 
+(BCT) Œ Technology-
+based standard for the 
+discharge from existing 
+
+industrial point sources 
+of conventional 
+
+pollutants including 
+biochemical oxygen 
+demand, total suspended 
+
+solids, fecal coliform, pH, 
+oil and grease. The BCT 
+is established in light of a 
+two-part ﬁcost 
+reasonablenessﬂ test. The 
+
+first test compares the 
+cost for an industry to 
+reduce its pollutant 
+discharge of conventional 
+pollutants with the cost 
+
+for a POTW for similar  
+levels of reduction in 
+their discharge of these 
+pollutants. The second 
+test examines the cost 
+
+effectiveness of additional 
+
+industrial treatment 
+beyond Best Practicable 
+Technology Currently 
+Available (BPT). EPA 
+must find limits that are 
+reasonable under both 
+tests before establishing 
+them as BCT. C Clean Water Act Œ The Clean Water Act is an act  
+
+passed by the U.S. 
+Congress to control water 
+pollution. It was formerly 
+referred to as the Federal 
+
+Water Pollution Control 
+Act of 1972 or the Federal 
+Water Pollution Control 
+Act Amendments of 1972 
+
+(P.L. 92-500), 33 U.S.C. 
+1251 et. seq., as amended 
+by: P.L. 96-483; P.L. 95˜
+
+217, 97-117, 97-440, and 
+100-04. Combined Sewer Overflow (CSO) Œ A discharge of 
+untreated wastewater 
+from a combined sewer 
+
+system at a point prior to 
+the headworks of a 
+
+publicly owned treatment 
+works. Combined Sewer System (CSS) Œ A municipal 
+wastewater collection 
+system that conveys 
+domestic, commercial, 
+and industrial 
+
+wastewaters and 
+stormwater through a 
+single pipe system to a 
+publicly owned treatment 
+work treatment plant. Construction Grants Program Œ Federal 
+
+assistance program 
+authorized under Section 
+
+201 of the Clean Water 
+Act to make grants to 
+states, municipalities, and 
+intermunicipal or 
+interstate agencies for the 
+construction of publicly 
+owned treatment works. Conventional Pollutants Œ As 
+defined by the Clean 
+Water Act, conventional 
+
+pollutants include BOD, 
+TSS, fecal coliform, pH, 
+
+and oil and grease. vii                             
+                    
+                         Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+CSO Control Policy Œ EPA 
+published the CSO 
+
+Control Policy on April 
+19, 1994 (59 FR 18688). 
+The policy includes 
+provisions for developing 
+
+appropriate, site-specific 
+
+NPDES permit 
+requirements for 
+combined sewer systems 
+
+that overflow as a result 
+
+of wet weather events. D Dissolved Oxygen (DO) Œ 
+The oxygen freely 
+available in water, which 
+is vital for sustaining fish 
+and other aquatic life as 
+well as for preventing 
+
+odors. DO levels are 
+considered one of the 
+most important 
+
+indicators of a 
+waterbody™s ability to 
+support desirable aquatic 
+
+life. Secondary treatment 
+and advanced waste 
+treatment are generally 
+designed to ensure 
+adequate DO in waste-
+
+receiving waters.  
+Dry Weather Flow 
+Conditions Œ Hydraulic 
+flow conditions within 
+the combined sewer 
+system resulting from 
+one or more of the 
+
+following: flows of 
+
+domestic sewage; ground 
+water infiltration; 
+commercial and 
+
+industrial wastewaters; or 
+any other non-
+precipitation event-
+related flows (e.g., tidal 
+
+infiltration under certain 
+circumstances).  
+E ˜Environmental Impact Œ Any 
+change to the 
+environment, whether 
+adverse or beneficial, that 
+wholly or partially results 
+from an organization™s 
+activities, products, or 
+
+services. F Floatables and Trash  Œ 
+Visible buoyant or semi-
+
+buoyant solids including 
+organic matter, personal 
+hygiene items, plastics, 
+styrofoam, paper, rubber, 
+
+glass and wood.  
+H Headworks of a Wastewater 
+Treatment Plant Œ The 
+initial structures, devices 
+
+and processes provided at 
+a wastewater treatment 
+plant including 
+screening, pumping, 
+measuring, and grit 
+
+removal facilities. I Infiltration Œ Storm water and groundwater that 
+enter a sewer system 
+
+through such means as 
+defective pipes, pipe 
+
+joints, connections, or 
+manholes. (Infiltration 
+does not include inflow). Infiltration/Inflow (I/I) Œ The 
+total quantity of water 
+
+from both infiltration 
+and inflow. Inflow Œ Water, other than
+
+       wastewater, that enters a         
+
+       sewer system from      
+
+       sources such as roof    
+
+       leaders, cellar drains,   
+
+       yard drains, area drains, 
+foundation drains, drains        from springs and swampy       
+
+       areas, manhole covers,     
+cross connections     
+
+between storm drains and   
+       sanitary sewers, catch 
+basins, cooling towers, 
+       storm waters, surface 
+
+       runoff, street waste    
+
+       waters, or other drainage.  
+
+       (Inflow does not include  
+infiltration). L Long-Term Control Plan 
+(LTCP) Œ Water quality-
+based CSO control plan 
+
+that is ultimately 
+
+intended to result in 
+
+compliance with the 
+Clean Water Act. Long-
+term control plans 
+
+consider the site-specific 
+nature of CSOs and 
+evaluate the cost 
+effectiveness of a range of 
+controls. M Million Gallons per Day (mgd) Œ A unit of flow 
+commonly used for 
+wastewater discharges. 
+One mgd is equivalent to 
+
+a flow rate of 1.547 cubic 
+
+feet per second over a 24˜
+hour period. viii                                                                                           
+             Glossary N ˜National Pollutant Discharge Elimination System (NPDES) Œ The national 
+program for issuing, 
+
+modifying, revoking and 
+reissuing, terminating, 
+monitoring and 
+enforcing permits, and 
+imposing and enforcing 
+pretreatment 
+requirements, under 
+Sections 307, 318, 402, 
+and 405 of the Clean 
+Water Act. Nine Minimum Controls (NMC) Œ Technology-
+based CSO controls that 
+
+do not require significant 
+engineering studies or 
+major construction, as 
+specified in the CSO 
+Control Policy. Nutrient Œ A compound that is necessary for 
+
+metabolism. Nitrogen 
+(N) and Phosphorus (P) 
+
+are required in relatively 
+large amounts by cells.  
+
+Nutrients, in appropriate 
+amounts, are essential to 
+the health and continued 
+
+functioning of natural 
+ecosystems. Excessive 
+nutrient loading, 
+however, will result in 
+
+excessive growth of 
+
+macrophytes or 
+phytoplankton and 
+
+potentially harmful algal 
+
+blooms (HAB), leading 
+to oxygen declines, 
+imbalance of prey and 
+
+predator species, public 
+health concerns, and 
+general decline of aquatic 
+resources. P ˜Point Source Œ Any 
+discernible, confined, and 
+discrete conveyance, 
+including but not limited 
+
+to any pipe, ditch, 
+
+channel, tunnel, conduit, 
+well, discrete fixture, 
+
+container, rolling stock, 
+concentrated animal 
+feeding operation, 
+landfill leachate 
+
+collection system, vessel, 
+
+or other floating craft 
+
+from which pollutants 
+are or may be discharged. 
+Primary Treatment Œ First steps in wastewater 
+treatment wherein 
+screens and 
+sedimentation tanks are 
+used to remove most 
+materials that float or will 
+
+settle. Section 301(h) of 
+the Clean Water Act, 
+which addresses waivers 
+from secondary 
+treatment for discharges 
+into marine waters, 
+defines primary or 
+equivalent treatment as 
+
+that adequate to remove 
+
+30 percent of BOD and 
+
+30 percent of suspended 
+
+solids. Publicly Owned Treatment 
+Works (POTW) Œ As defined by Section 212 of the Clean Water Act, a treatment works that is 
+owned by a state or municipality. This definition includes any 
+
+devices and systems used in the storage, treatment, recycling, and 
+
+reclamation of municipal 
+sewage or industrial 
+wastes of a liquid nature. It also includes sewers, 
+
+pipes, and other 
+conveyances only if they  
+convey wastewater to a 
+POTW treatment plant. 
+S Sanitary Sewer Overflow 
+(SSO) Œ An untreated or partially treated sewage 
+
+release from a sanitary 
+
+sewer system. Sanitary Sewer System (SSS) 
+Œ A municipal wastewater 
+collection system that 
+conveys domestic, 
+commercial and 
+
+industrial wastewater, 
+and limited amounts of 
+
+infiltrated ground water 
+and storm water, to a 
+POTW. Areas served by 
+sanitary sewer systems 
+often have a municipal 
+
+separate storm sewer 
+system to collect and 
+convey runoff from 
+rainfall and snowmelt.   
+Secondary Treatment Œ Technology-based 
+
+requirements for direct 
+discharging municipal 
+sewage treatment 
+
+facilities. 40 CFR 133.102 
+defines secondary 
+treatment as 30 day 
+averages of 30 mg/l BOD
+5 and 30 mg/l suspended 
+solids, along with 
+
+maintenance of pH 
+within 6.0 to 9.0 (except 
+
+as provided for special 
+
+considerations and 
+
+treatment equivalent to 
+
+secondary treatment). State Revolving Fund Program Œ A federal 
+
+program created by the 
+Clean Water Act 
+Amendments in 1987 
+that offers low-interest 
+loans for wastewater 
+treatment projects. 
+ix           Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+T ˜Total Suspended Solids (TSS) Œ A measure of the 
+filterable solids present in 
+a sample of water or 
+wastewater (as 
+determined by the 
+method specified in 40 
+
+CFR Part 136). 
+Toxics Œ Materials contaminating the 
+
+environment that cause 
+death, disease, and/or 
+
+birth defects in organisms 
+that ingest or absorb 
+them. The quantities and 
+
+length of exposure 
+necessary to cause these 
+effects can vary widely. 
+W ˜Water Quality Standard Œ A law or regulation that 
+consists of the beneficial 
+
+use or uses of a 
+waterbody, the numeric 
+and narrative water 
+quality criteria that are 
+necessary to protect the 
+use or uses of that 
+particular waterbody, and 
+an antidegradation 
+statement. Water Quality-Based Effluent 
+Limitations Œ Effluent 
+limitations applied to 
+dischargers when technology-based 
+limitations are 
+insufficient to result in  
+the attainment of water 
+
+quality standards. Waters of the United States Œ Waters of the United States is defined at 40 
+
+CFR §122.2. Wet Weather Event Œ A discharge from a 
+
+combined or sanitary 
+
+sewer system that occurs 
+
+in direct response to 
+rainfall or snowmelt.   
+Wet Weather Flow Œ Dry weather flow combined 
+
+with stormwater 
+introduced into a 
+combined sewer, and dry 
+weather flow combined 
+
+with inflow in a separate 
+sanitary sewer. x            Executive Summary Report to Congress on Combined Sewer ˜Overflows to the Lake Michigan Basin˜ The U.S. Environmental Protection Agency (EPA) is transmitting this Report 
+to Congress on combined sewer overflows (CSOs) in the Lake Michigan 
+basin. CSOs can occur in combined 
+sewer systems (CSSs), which are defined 
+
+as collection systems that carry both 
+
+wastewater and storm water in the same pipe. A CSO is defined as ﬁthe 
+discharge from a CSS at a point prior to 
+the publicly-owned treatment works 
+(POTW) treatment plant.ﬂ Points in the 
+
+collection system at which CSOs occur 
+are called CSO discharge points. Some CSOs discharge infrequently, while 
+others discharge every time it rains.  
+
+Overflow frequency and duration varies 
+
+from system to system and from outfall 
+to outfall within a single CSS. Because CSOs contain untreated wastewater and 
+
+storm water, they contribute microbial 
+
+pathogens and other pollutants to 
+surface waters. CSOs can impact the environment and human health. 
+Specifically, CSOs can cause or 
+contribute to water quality impairments, 
+beach closures, contamination of 
+drinking water supplies, and other environmental and human health 
+problems. This report presents EPA™s most recent 
+assessment of the occurrences of CSOs 
+
+in the Lake Michigan basin, the enforcement of existing regulations 
+concerning such discharges, and the 
+
+future steps EPA plans to take to 
+minimize such overflows. Overview and Background˜ 
+Why is EPA Preparing this Report to Congress? 
+This report has been prepared in response to a congressional direction in 
+
+H.R. Rep. No. 108Œ674 at 101 (September 9, 2004). The Committee is concerned about the 
+occurrences of combined sewage 
+
+overflow from wastewater treatment 
+facilities into Lake Michigan. The committee is also concerned that existing regulations concerning such 
+
+discharges are not sufficiently 
+
+enforced so as to prevent negative 
+impacts on the Lake Michigan ecosystem. The co
+mmittee directs the 
+EPA to report, by September 30, 2005, 
+outlining what future steps it plans to 
+take to minimize such overflows.  
+What Methodology did EPA Use 
+for this Report to Congress? 
+The basic study approach for this report was to collect data and report on CSO 
+implementation and enforcement 
+activities in the Lake Michigan basin, 
+which includes parts of Indiana, 
+Michigan, Wisconsin, and Illinois. This ESŒ1˜           Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+approach principally entailed the review of existing state, EPA headquarters, and 
+EPA Region 5 permit and enforcement 
+files, as well as other federal and state 
+
+databases. This report is centered on a 
+
+summarization, presentation, and 
+description of existing state and EPA information on CSOs in the Lake Michigan basin. Data presented in this report were 
+collected from previously published or 
+previously available state, regional, and local data sources (for example, data on overflows into Lake Michigan in Illinois 
+were taken from the Metropolitan Water 
+Reclamation District of Greater Chicago 
+
+(MWRDGC) website at http://www.mwrdgc.dst.il.us/mo/csoap p/default.htm, while data on CSOs in 
+Indiana were compiled from Discharge 
+Monitoring Reports (DMRs) submitted 
+to the Indiana Department of 
+Environmental Management (IDEM) by each CSO community as part of these 
+communities™ National Pollutant 
+
+Discharge Elimination System (NPDES) 
+
+requirements; a full discussion of the 
+data collection methodology used in this report is provided in Chapter 3). No 
+
+attempts were made to interpret data to 
+
+reconcile differences in reporting 
+
+methods or data collection timeframes, primarily due to the fact that there is no 
+specific guideline in the CSO Control 
+Policy for CSO data collection, and 
+therefore such comparisons or 
+
+reconciliation attempts might lead to misrepresentations of the original data. Therefore, readers are cautioned against 
+
+attempting to draw conclusions 
+between localities because of the 
+
+differences in data sets. Yet despite the differences between the data sets, EPA believes that the data present general 
+
+information that is characteristic of the 
+
+extent of CSOs in th
+e Great Lakes area. What Statutory and Regulatory 
+Framework Applies to CSOs? The Clean Water Act establishes national goals and requirements for maintaining and restoring the nation™s waters. CSOs 
+
+are point source discharges subject to 
+the technology-based and water 
+quality-based requirements of the Clean 
+Water Act, but not subject to the 
+secondary treatment standards that 
+apply to discharges from POTWs. EPA issued a CSO Control Policy on April 19, 1994 (59 FR 18688). The CSO Control Policy ﬁrepresents a comprehensive national strategy to 
+ensure that municipalities, permitting 
+authorities, water quality standards 
+
+authorities, and the public engage in a comprehensive and coordinated effort to achieve cost-effective CSO controls 
+
+that ultimately meet appropriate health 
+
+and environmental objectives.ﬂ 
+When the CSO Control Policy was released, many stakeholders, key 
+members of Congress, and EPA 
+advocated for it to be endorsed in the 
+Clean Water Act to ensure its full 
+implementation. In the Consolidated Appropriations Act for Fiscal Year 2001, P.L. 106-554, Congress amended the Clean Water Act to add Section 402(q), which provided that: ...each permit, order, or decree issued pursuant to this Act after the date of enactment of this subsection for a 
+
+discharge from a municipal combined 
+storm and sanitary sewer shall 
+conform to the CSO Control Policy signed by the Administrator on April 11, 1994. ESŒ2 ˜        
+  Executive Summary Figure ES.1 Location of CSO Communities in 
+the Lake Michigan Basin The shaded area defines the Lake 
+Michigan basin, which includes portions 
+
+of Indiana, Michigan, Wisconsin, and 
+Illinois. The white circles (
+•) indicate Lake Michigan CSO communities. The 
+
+black circle (•) indicates Chicago. What is the Occurrence of CSOs in the Lake Michigan Basin? The Lake Michigan basin includes portions of northern Indiana, 
+approximately half of Michigan, eastern Wisconsin, and a small section of northeast Illinois. There are currently 30 
+CSO communities with 347 CSO outfalls 
+
+that discharge within the Lake Michigan 
+basin. Eighteen of the Lake Michigan CSO communities are in Indiana, 11 are 
+in Michigan, and one is in Wisconsin. 
+There are no Lake Michigan CSO 
+
+communities in Illinois. 
+Chicago is not considered to be a Lake Michigan CSO community. Chicago- 
+area CSOs drain away from Lake  
+
+Michigan to the Mississippi River basin 
+under most wet weather conditions. 
+However, Chicago-area CSOs have the 
+potential to impact Lake Michigan under certain wet weather conditions. 
+
+This can occur when flow in Chicago- 
+area rivers is reversed and is directed to 
+
+Lake Michigan to prevent flooding-related property damage. In addition to flow reversals, there are two Chicago-
+
+area CSOs that have the potential to 
+
+discharge directly to the lake, although 
+
+they have not done so since 2003. 
+Because of Chicago™s proximity to the lake and the potential for CSO 
+
+discharges, EPA has included a 
+
+discussion of Chicago-area CSOs (e.g., 
+past CSO discharges and current CSO control efforts) in this report, where 
+appropriate. The locations of CSO communities in the 
+Lake Michigan basin, along with major 
+tributaries and state boundaries, are presented in Figure ES.1. The majority of 
+these CSO communities are located 
+
+inland along rivers that drain to Lake 
+
+Michigan. ESŒ3˜            
+  Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+What is the Extent of Impacts to the Lake Michigan Basin Caused 
+by CSOs? 
+CSO discharges include a mix of domestic, commercial, and industrial 
+
+wastewater, and storm water runoff. 
+
+CSOs contribute pollutant loadings to 
+waterways where discharges occur. The 
+principal pollutants found in CSOs are: • .Microbial pathogens • .Oxygen-depleting substances • .Total suspended solids • .Toxics • .Nutrients • .Floatables and trash Pollutant concentrations in CSOs vary substantially based on weather 
+conditions, the characteristics of the 
+sewer system, the service population,  
+
+the treatment provided to the CSO, and 
+other factors. WATER QUALITY
+ IMPAIRMENT 
+EPA documented that CSOs cause human health and environmental 
+impacts in two recent national 
+assessments of CSOs: 
+Report to CongressŠImplementation and Enforcement of the Combined Sewer 
+Overflow Control Policy (EPA 2001b) and Report to CongressŠImpacts and Control of CSOs and SSOs (EPA 2004b). EPA 
+found that pollutant concentrations in CSOs may be sufficient to cause 
+violations of water quality standards, precluding the attainment of one or 
+more of the designated uses (e.g., 
+
+recreation or drinking water supply) for 
+the waterbody. CSOs often discharge simultaneously with storm water, wet weather sanitary sewer overflows  
+(SSOs), and other nonpoint sources of 
+pollution. EPA recognizes this can make 
+it difficult to identify and assign specific cause-and-effect relationships between 
+CSOs and observed water quality 
+problems. In the Lake Michigan basin, EPA found:   
+• .In Indiana, all 18 CSO communities in the Lake Michigan basin 
+discharge in the vicinity of 303(d)˚
+impaired waters. Thirteen of these 
+communities discharge to waters 
+
+where pathogens (
+E. coli
+) and/or siltation were cited as reasons or 
+
+causes of impairment. • .In Michigan, 10 of the 11 CSO 
+communities in the Lake Michigan 
+
+basin discharge to 303(d)Œ 
+impaired waters. The waters in close proximity to the 11th CSO community, Norway, have not 
+been assessed. Three CSO 
+
+communities in Michigan 
+(Manistee, Niles, and St. Joseph) discharge to 303(d)-listed waters 
+that specifically cite ﬁCSO˚
+
+pathogen (Rule 100)ﬂ as a source 
+
+of impairment. In addition, three CSO communities (East Lansing, Lansing, and Crystal Falls) 
+
+discharge to waterbodies where 
+pathogens or pathogens and 
+dissolved oxygen are cited as reasons or causes of impairment. 
+• .In Wisconsin, the Milwaukee Metropolitan Sewerage District (MMSD) operates the only CSS in 
+the Lake Michigan basin. MMSD™s CSOs discharge to, or in close proximity to, 303(d)-impaired 
+waters where pathogens and/or  
+
+dissolved oxygen have been cited 
+as reasons or causes of 
+impairment. ESŒ4 ˜           
+   Executive Summary The proximity of a CSO outfall to an impaired water segment does not in and of itself demonstrate that the CSO is 
+the cause of the impairment. EPA 
+believes the association between CSO 
+
+location and impaired waters is due to a number of factors in addition to CSO discharges. For example, CSOs are 
+
+generally located in urban areas where 
+
+waterbodies also receive relatively high 
+volumes of storm water and other pollutant loads. Nevertheless, the strong correlation between CSO location and 
+
+impaired waters does suggest that CSOs 
+should be considered as a potential 
+source of pollution when developing a total maximum daily load (TMDL) for an impaired waterbody. DESIGNATED
+ USE IMPAIRMENT 
+EPA™s BEACH (Beaches Environmental 
+
+Assessment and Coastal Health) 
+
+Program compiles and reports on beach monitoring and notification activities for the nation™s coastal recreational waters 
+on an annual basis. A total of 165 Lake 
+Michigan beaches had at least one 
+beach advisory or closing during the 2000-2004 swimming seasons. Elevated bacteria levels accounted for 94 percent 
+of recreational use impairments, which 
+were manifested as beach advisories 
+
+and closings. Approximately 81 percent of the advisories and closings in Lake Michigan were caused by an unknown 
+source of pollution. CSOs were reported 
+
+to be responsible for two percent of 
+total reported advisories and closings, and eight percent of advisories and 
+closings where a known source was 
+
+identified. At the local level, CSOs were reported to be a source of pollution for eight percent and 18 percent of all beach advisories and closings in LaPorte 
+
+County and Porter County, Indiana, 
+
+respectively. CSOs were also cited as a 
+source of pollution for approximately three percent of the beach advisories 
+and closings in Cook Country, Illinois, 
+and Milwaukee County, Wisconsin. GREAT LAKES AREAS OF CONCERN Great Lakes Areas of Concern (AOCs) are 
+
+severely degraded areas within the Great Lakes basin. The Great Lakes 
+Water Quality Agreement, as amended 
+
+via the 1987 protocol, directs the U.S. 
+and Canadian governments to 
+
+cooperate with state and provincial governments to develop and implement Remedial Action Plans 
+(RAPs) for each AOC. Ten AOCs have 
+
+been identified within the Lake 
+Michigan basin. Three of the Lake Michigan AOCsŠGrand Calumet, Menominee River, and Manistique River 
+AOCsŠspecifically mention CSOs. What is the Status of CSO Control in the Lake Michigan Basin? All four of the Lake Michigan states are authorized to issue NPDES permits. The 
+NPDES authorities in each state have 
+
+developed specific strategies and 
+programs for addressing CSO discharges in their states. EPA oversees these 
+permitting programs and provides 
+funding support to the states. Both the 
+
+states and EPA have independent 
+
+authority to take enforcement actions 
+for violations of the Clean Water Act, including permit violations. • .In Indiana, there are 18 CSO communities in the Lake Michigan 
+basin; permits for 17 of the 18 
+communities require 
+implementation of the nine 
+minimum controls (NMC) and 
+development of a long-term 
+control plan (LTCP). One CSO community, Albion, does not have NMC or LTCP requirements  
+ESŒ5˜            Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+because it eliminated its CSOs through sewer separation prior to 
+the LTCP submission requirement. Fifteen of the 17 communities with 
+
+LTCP requirements have 
+submitted plans that are currently 
+under review by the IDEM and/or EPA. The LTCP for Michigan City 
+has been approved. The permit for 
+
+the Gary Sanitation District 
+requires the submission of an 
+LTCP, but does not specify a submittal date. IDEM is currently developing a new permit that will 
+clarify LTCP submittal 
+requirements. 
+• .In Michigan, all 11 CSO communities in the Lake Michigan 
+basin have NMC and LTCP requirements in their permits, and 
+
+all 11 have submitted LTCPs that 
+
+have been approved by the 
+
+Michigan Department of Environmental Quality (MDEQ). A variety of CSO controls are being 
+implemented in Michigan. • .In Wisconsin, Milwaukee is the only CSO community that discharges 
+within the Lake Michigan basin. The CSO permit issued to MMSD 
+contains NMC and LTCP 
+requirements. MMSD constructed 
+
+a large inline storage system (ISS) to store and convey wet weather 
+flows that has significantly 
+
+reduced CSOs. MMSD is also 
+subject to a 2001 stipulation 
+agreement requiring it to construct several SSO projects. For most wet weather events, 
+
+Milwaukee™s combined sewer 
+flows are captured by the ISS, 
+where they are stored until they 
+can be pumped to one of the  
+treatment plants for treatment. 
+CSOs occur during very large wet  
+weather events when there is not 
+
+enough storage capacity in the ISS. MMSD™s permit requires that CSOs be limited to no more than six 
+overflows per year, consistent with 
+
+the presumption approach in the 
+CSO Control Policy. Since the ISS began operation in 1994, MMSD has averaged approximately three 
+
+CSO events per year. A new LTCP is 
+scheduled for completion in 2007. 
+On October 27, 2005, the State of Wisconsin filed a complaint against MMSD for SSO and CSO 
+
+discharges to the Menomonee 
+
+River, Milwaukee River, and Lake 
+Michigan. • .In Illinois, CSOs in the Chicago metropolitan area have the 
+potential to impact Lake Michigan 
+under certain wet weather 
+
+conditions. The Tunnel and 
+Reservoir Project (TARP) was approved as the LTCP for the 
+MWRDGC, the City of Chicago, and 
+40 satellite communities. The TARP 
+
+project is designed to capture 
+combined sewer overflows from 
+369 sewer overflows, 303 of which 
+could backflow into Lake Michigan 
+during intense storm conditions. 
+The storage of combined sewage 
+
+in TARP tunnels and TARP 
+reservoirs, that are to be 
+constructed, will reduce the 
+possibility of backflows during 
+these storm events. Construction 
+
+of TARP began in 1976 and has been implemented in two phases. The first phase, which focused on 
+
+reducing CSO discharges, is 
+complete and greatly reduced CSO 
+discharges to Chicago-area waters. 
+The second phase provides flood control benefits as well as 
+increased capture of combined 
+
+sewage in the tunnel and reservoir 
+ESŒ6 ˜               Executive Summary system. The current estimate for 
+completion of TARP is 2015. 
+What Actions is EPA Taking to 
+Reduce the Impacts of CSOs? EPA believes that a sound regulatory 
+program is in place that will lead to full 
+implementation of the CSO Control Policy to protect Lake Michigan from water quality impacts related to CSO 
+
+discharges. Significant progress has 
+
+been made in reducing CSO discharges 
+to Lake Michigan, most notably in the Chicago and Milwaukee Metropolitan areas, but also in many smaller 
+
+communities. Many CSO controls are in 
+
+the process of being implemented to 
+further reduce the potential impacts on the lake. Planning for additional CSO 
+controls is underway as communities 
+
+comply with requirements under NPDES 
+permits and enforcement orders. EPA is 
+
+engaged in active discussions to establish enforceable schedules for the 
+implementation of LTCPs in the Lake 
+Michigan basin. The CSO Control Policy includes expectations that NPDES permitting authorities would issue permits consistent with the provisions of the 
+
+policy. In general, EPA envisioned a 
+phased permit approach, including 
+initial requirements to implement the NMC and develop an LTCP, followed by requirements to implement the controls 
+in the approved LTCP.  The Wet Weather 
+
+Water Quality Act of 2000 requires that 
+each permit issued pursuant to the 
+Clean Water Act for a discharge from a 
+municipal CSS shall conform to the CSO 
+Control Policy. EPA is working with state NPDES 
+authorities to ensure that CSO  
+communities are un
+der enforceable requirements to comply with the Clean Water Act and the CSO Control Policy. Specific EPA activities include oversight  
+of state NPDES permit actions and enforcement actions, review of state  
+
+water quality standards related to CSO 
+
+discharges, provision of financial and 
+technical assistance, and federal 
+enforcement actions.  
+EPA has developed work plans and Memoranda of Agreement with states 
+
+to ensure that state enforcement efforts 
+
+on CSOs are consistent with federal efforts and the CSO Control Policy. Some activities undertaken to ensure 
+consistency between EPA and state 
+efforts include periodic reporting, work-
+sharing arrangements, and discussions of case-specific issues. EPA will continue to work cooperatively with the state 
+NPDES authorities to assure that 
+
+consistent approaches to address CSO 
+
+control are sought at the state and 
+federal levels. EPA will continue to 
+explore work-sharing opportunities in 
+order to utilize federal and state 
+resources more efficiently. Bringing all CSOs, including those within the Lake Michigan basin, into compliance with the Clean Water Act 
+
+and the CSO Control Policy is a vital step 
+
+in ensuring that surface waters are safe 
+
+for fishing, swimming, and public water supply. However, other sources of 
+pollution (e.g., nonpoint sources, storm 
+water runoff, SSOs, and wastewater 
+
+treatment system bypasses) must also 
+
+be addressed before these goals can be fully realized. 
+ESŒ7˜             
+        
+      Chapter 1 Introduction ˜This Report to Congress presents the 
+
+U.S. Environmental Protection 
+Agency™s (EPA) most recent 
+assessment of the occurrences of 
+
+combined sewer overflows (CSOs) 
+
+from wastewater treatment facilities 
+in the Lake Michigan basin, the enforcement of existing requirements 
+concerning such discharges, and the 
+
+future steps EPA plans to take to 
+minimize such overflows. This report 
+has been prepared in response to a 
+congressional directive in H.R. Rep. 
+No. 108-674 at 101 (September 9, 
+2004): The Committee is concerned about 
+
+the occurrences of combined 
+sewage overflow from wastewater treatment facilities into Lake 
+
+Michigan. The committee is also 
+concerned that existing regulations 
+
+concerning such discharges are not sufficiently enforced so as to 
+prevent negative impacts on the 
+
+Lake Michigan ecosystem. The 
+committee directs the EPA to report, 
+
+by September 30, 2005, outlining what future steps it plans to take to 
+minimize such overflows. 
+EPA prepared this report between 
+March and December 2005. During 
+this time, EPA developed a methodology for data collection; collected data from federal and state 
+sources; performed analyses; and  
+wrote this report. EPA emphasized the collection, compilation, and analysis of existing data for this 
+
+report. This Report to Congress follows two CSO reports required as part of the 
+Consolidated Appropriations Act for fiscal year 2001, P.L. 106-554 (or ﬁ2000 
+
+amendments to the Clean Water 
+
+Actﬂ). The first report was transmitted 
+to Congress in December 2001 as Report to CongressŠImplementation 
+and Enforcement of the Combined 
+
+Sewer Overflow Control Policy 
+(EPA 2001b). The second report was 
+transmitted to Congress in August 
+2004 as Report to CongressŠImpacts 
+and Control of CSOs and SSOs (EPA 2004b). 1.1 What are Combined Sewers and CSOs? There are two types of public wastewater collection systems in the 
+
+United States: combined sewer 
+systems (CSSs) and separate sanitary 
+sewers (SSSs). CSSs were among the 
+earliest sewer systems constructed in 
+the United States and were built until 
+
+the first part of the 20th century. As defined in the 1994 CSO Control 
+Policy (EPA 1994), a CSS is: 1Œ1˜        
+         Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+A municipal wastewater collection 
+system that conveys domestic, commercial, and industrial 
+wastewaters and stormwater through a single pipe system to a 
+publicly owned treatment work 
+
+(POTW) treatment plant.  
+The combined volume of wastewater and storm water runoff entering CSSs 
+often exceeds conveyance capacity 
+during wet weather events. Most CSSs 
+
+are designed to discharge flows 
+directly to surface waters (e.g., rivers, 
+streams, estuaries, and coastal waters) 
+when their conveyance capacity is 
+exceeded, as shown in Figure 1.1. These discharges are called CSOs. A 
+CSO is defined as: The discharge from a CSS at a point 
+
+prior to the POTW treatment plant. Some CSO outfalls discharge 
+infrequently, while others discharge 
+
+every time it rains. Overflow 
+frequency and duration vary from system to system and from outfall to 
+
+outfall within a single CSS. When 
+
+constructed, CSSs were typically sized 
+to carry three to five times the 
+average dry weather flow. Thus, there 
+is usually considerable conveyance 
+
+capacity within a CSS during dry 
+weather. Discharges from a CSS 
+
+during dry weather, which are 
+referred to as dry weather overflows, 
+are infrequent and are prohibited 
+
+under the national pollutant 
+discharge elimination system (NPDES) 
+
+program. CSSs can back up into 
+buildings, including private residences and commercial establishments. These discharges 
+provide a direct pathway for human 
+contact with untreated sewage and 
+can pose risks to human health. Typical Combined Sewer System Figure 1.1 1Œ2˜           
+     Chapter 1ŒIntroduction CSO discharges include a mix of domestic, commercial, and industrial 
+
+wastewater, and storm water runoff. 
+As such, CSO discharges contain human, commercial, and industrial 
+
+wastes, as well as pollutants washed 
+from streets, parking lots, and other 
+
+surfaces. These CSO discharges are 
+highly variable, both in terms of the specific pollutants in an individual 
+CSO discharge, and also in the 
+
+concentrations of those pollutants in 
+that discharge (see Chapter 4 of the 
+2004 Report to CongressŠImpacts and Control of CSOs and SSOs). Pollutant concentrations in CSO discharges are determined by a number of factors, 
+including the service population, the 
+characteristics of the CSS, weather 
+conditions, and any treatment 
+provided to the CSO. CSOs can impact the environment and human health. Specifically, CSOs 
+can cause or contribute to water 
+quality impairments, beach closures, 
+shellfish bed closures, contamination 
+
+of drinking water supplies, and other 
+environmental and human health 
+problems (EPA 2004b). CSO permits are issued to the owners and operators of two types of CSSs:  
+• .CSSs owned and operated by the same entity that owns and operates the receiving POTW • .CSSs that convey flows to a POTW 
+owned and operated by a 
+separate entity under a different 
+
+NPDES permit As of September 2005, 824 active CSO 
+permits have been issued to 746 
+communities in 32 states (including 
+
+the District of Columbia). These 
+permits regulate 9,119 CSO discharge points. Most of the communities served by CSSs are located in the 
+
+Northeast and Great Lakes regions as 
+shown in Figure 1.2. Additional information on CSOs is provided in Report to CongressŠ Impacts and Control of CSOs and SSOs 
+(EPA 2004b). 1Œ3˜        
+         
+  Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+National Distribution of 
+CSSs CSSs are most heavily 
+concentrated in the Northeast and Great Lakes 
+regions. 
+Figure 1.2 1.2 What Comprises the  
+Lake Michigan Basin? Lake Michigan is the second largest 
+Great Lake by volume (approximately 1,180 cubic miles of water), and it is 
+
+the only Great Lake entirely within the 
+
+United States. As shown in Figure 1.3, 
+
+Lake Michigan is approximately 307 
+miles long and 118 miles wide, and it 
+has more than 1,600 miles of 
+shoreline. It averages 279 feet in 
+depth, with a maximum depth of 925 
+
+feet. The Lake Michigan drainage 
+basin covers 45,600 square miles, 
+which is approximately twice as large as the surface area of the lake, and 
+
+includes portions of Illinois, Indiana, Michigan, and Wisconsin. The lake™s 
+northern reach is relatively 
+
+undeveloped, while the southern 
+basin includes the Milwaukee, 
+Chicago, and northwest Indiana 
+metropolitan areas (Environment Canada and EPA 1995). Lake Michigan supports many beneficial uses: drinking water supply; 
+
+internationally significant habitat and natural features; food production and processing; fish for food, 
+sport and culture; and valuable commercial and recreational uses. Most shoreline 
+
+areas along Lake Michigan support swimming and secondary contact recreation (LMTC 2004). 1Œ4˜           
+              Chapter 1ŒIntroduction Map of Lake Michigan Basin The shaded area delineates 
+the Lake Michigan drainage 
+basin. Figure 1.3 1.3 How is this Report Organized? The purpose of this report is to respond to Congress with a current 
+assessment of the occurrences of 
+
+CSOs in the Lake Michigan basin, the 
+enforcement of existing regulations 
+
+concerning such discharges, and the 
+future steps EPA plans to take to minimize such overflows. The report 
+includes this introduction plus four 
+additional chapters. The content and 
+purpose of each subsequent chapter are summarized below. • .Chapter 2 summarizes the history of regulatory efforts to control 
+CSOs. • .Chapter 3 describes the location of CSO outfalls, by state, in the Lake Michigan basin. This chapter summarizes available information  
+
+on the occurrence of CSO discharges in the basin. The 
+
+chapter also documents reported 
+
+environmental impacts 
+attributable to CSO discharges in terms of water quality standards 
+violations and lost uses (i.e., beach 
+closures). • .Chapter 4 evaluates the status of CSO control, by state, in the Lake 
+Michigan basin. The chapter 
+presents state-specific approaches 
+to addressing CSOs in the Lake 
+
+Michigan basin and documents 
+the issuance of permits and other enforceable orders requiring control of CSOs. The chapter then 
+
+describes the technologies used 
+by CSO communities to control 
+CSO discharges, including operation and maintenance practices, sewer system controls, storage facilities, treatment 
+technologies, and low-impact 
+
+development techniques. 1Œ5˜        
+    Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+• Chapter 5 presents report 
+findings and key considerations for EPA in developing future 
+
+actions to minimize CSO 
+discharges in the Lake Michigan 
+basin. 1Œ6˜                                Chapter 2 Regulation of CSOs ˜This chapter summarizes the history of 
+federal CSO control efforts. It then 
+describes the principles and objectives of 
+the CSO Control Policy (EPA 1994) and 
+presents EPA targets related to CSO 
+control. Additional information on the 
+federal framework for CSO control is 
+provided in EPA™s Report to CongressŠ Implementation and Enforcement of the 
+CSO Control Policy (EPA 2001b) and 
+Report to CongressŠImpacts and Control of CSOs 
+and SSOs (EPA 2004b). Information on stateŒspecific programs to control CSO 
+
+discharges is described in Chapter 4. 2.1 What is the History of Federal CSO Control 
+Efforts? The Clean Water Act establishes national goals and requirements for maintaining and restoring the nation™s waters. As point source discharges, CSOs are subject 
+to the technology-based and water 
+quality-based requirements of the Clean 
+
+Water Act. CSOs are not subject to limits based on secondary treatment requirements otherwise applicable to 
+POTWs. NPDES permits for CSOs must 
+
+include technology-based effluent limits 
+based on the application of best available technology economically achievable (BAT) for toxic and non-conventional 
+
+pollutants and best conventional pollutant control technology (BCT) for conventional pollutants. Additionally, like all NPDES permits, permits authorizing 
+discharges from CSO outfalls must 
+include more stringent water quality-
+based requirements, when necessary, to 
+meet water quality standards.  
+The development of the federal 
+framework to address CSOs is described 
+
+in detail below. The discussion on CSO 
+control history summarizes findings from Report to CongressŠImplementation and 
+Enforcement of the Combined Sewer 
+
+Overflow Control Policy (EPA 2001b). 2.1.1 Initial Efforts to Control 
+CSOs In 1965, Congress authorized funding for 
+research, development, and 
+demonstration of techniques for 
+controlling CSOs and storm water. The absence of an explicit mandate for CSO 
+control, however, meant that the CSO 
+problem received little attention. Passage 
+of the Federal Water Pollution Control Act Amendment of 1972 (P.L. 92Œ500), commonly known as the Clean Water Act, 
+focused greater attention on CSOs.  
+The Clean Water Act established the regulatory framework for controlling point source dischargers through the NPDES program. This legislation also 
+established the Construction Grants 
+Program for wastewater infrastructure 
+(Clean Water Act Section 201). Most 2Œ1˜            Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+investment in municipal facilities during 
+the 1970s focused on POTW upgrades (to 
+secondary and advanced treatment) and expansion, not on wet weather issues. However, some communities used 
+
+Construction Grants Program funds for 
+
+CSO control projects. 2.1.2 CSO Case Law 
+In 1980, the U.S. Court of Appeals for the 
+D.C. Circuit accepted EPA™s interpretation 
+of the Clean Water Ac
+t that discharges at 
+CSO outfalls are not discharges from 
+POTWs, and thus are not subject to limits based on secondary treatment standards 
+
+otherwise applicable to discharges from POTW plants (
+Montgomery Environmental 
+Coalition vs. Costle, 646 F2d 568 [D.C. Cir. 
+1980]). Following this decision, EPA and states renewed their focus on permit 
+
+requirements for CSO discharges under 
+the NPDES program. 2.1.3 National Municipal Policy 
+on POTWs 
+EPA™s 1984 National Municipal Policy on Publicly Owned Treatment Works (NMP) 
+provided an impetus for control of all 
+
+discharges from municipal sewer 
+systems, including CSOs (EPA 1984). The 
+NMP encouraged collaboration between EPA and states to address compliance 
+with the Clean Water Act at POTWs. The 
+NMP focused EPA™s compliance efforts on three types of POTWs: those that had 
+received federal funding and were out of 
+
+compliance, all major POTWs, and minor 
+
+POTWs that discharged to impaired 
+waters. The NMP recommended that 
+each EPA region draft a strategy to bring POTWs into compliance with the Clean 
+Water Act. The NMP was intended to 
+facilitate compliance at all POTWs by July 
+1, 1988. While the main focus of the NMP was to ensure that POTWs complied with secondary treatment and water quality-
+
+based NPDES requirements, many 
+enforcement actions brought under the 
+
+NMP addressed CSO problems at POTWs. 2.1.4 ˚National CSO Control 
+Strategy and the Management Advisory 
+Group In 1989, EPA issued the National CSO Control Strategy (54 FR 37371). The 
+National CSO Control Strategy encouraged 
+states to develop statewide permitting strategies to ensure all CSOs were subject 
+to an NPDES permit. Six minimum 
+measures for CSO control were 
+
+recommended: • .Proper operation and regular maintenance • .Maximum use of the collection 
+system for storage • .Review and modification of 
+pretreatment programs 
+• .Maximum flow delivery to the 
+POTW for treatment  
+• .Prohibition of dry weather 
+overflows • .Control of solid and floatable 
+materials in CSO discharges Additional controls could be required as 
+necessary. As EPA, states, and 
+municipalities worked to implement the National CSO Control Strategy in the early 
+
+1990s, the impacts of CSOs continued to 
+
+receive national attention. Environmental 
+
+interest groups pushed
+ for further action, 
+and municipal organizations, concerned 
+that the National CSO Control Strategy 
+
+did not provide sufficient clarity, sought a 
+consistent national approach to CSO 
+
+control. In response to these concerns, EPA 
+formed a Management Advisory Group 
+(MAG) in 1992. The MAG included 2Œ2˜           Chapter 2ŒRegulation of CSOs representatives from states, 
+municipalities, industry associations, and 
+environmental interest groups. In addition to continuing with the six minimum controls identified in the 
+National CSO Control Strategy, the MAG 
+recommended three additional measures 
+(MAG 1992): • .Inspection, monitoring, and reporting of CSOs • .Pollution prevention, including 
+
+water conservation, to reduce CSO 
+impacts • .Public notification for any areas 
+affected by CSOs, especially beach 
+and recreational areas 
+The MAG recommended that EPA begin a 
+dialogue with key stakeholders to better 
+
+define the Clean Water Act expectations 
+
+for controlling CSOs. A workgroup of CSO stakeholders was assembled during the summer of 1992. The workgroup 
+achieved a negotiated dialogue that led 
+to agreement on many technical issues; 
+however, no consensus was reached on a 
+policy framework. Individuals from the workgroup representing stakeholder 
+groups met in October 1992 and 
+developed a framework document for 
+CSO control that served as the basis for 
+EPA™s draft CSO Control Policy issued for public comment in January 1993 (MAG 
+
+1993). 2.1.5 CSO Control Policy 
+EPA published the CSO Control Policy on 
+April 19, 1994 (59 FR 18688). The purpose 
+of the CSO Control Policy was two-fold: 1) to elaborate on EPA™s 1989 National CSO Control Strategy; and 2) to expedite 
+compliance with Clean Water Act 
+requirements. The CSO Control Policy 
+ﬁrepresents a comprehensive national strategy to ensure that municipalities, permitting authorities, water quality standards authorities, and the public 
+engage in a comprehensive and coordinative effort to achieve costŒ effective CSO controls that ultimately 
+meet appropriate health and 
+
+environmental objectives.ﬂ The policy 
+sought to minimize adverse impacts from CSOs on water quality, aquatic biota, and human health. More information on the 
+CSO Control Policy and its objectives is 
+
+presented in Section 2.2. 
+2.1.6 Wet Weather Water Quality Act When the CSO Control Policy was 
+released, many stakeholders, key 
+members of Congress, and EPA advocated that it be endorsed in the 
+
+Clean Water Act to ensure its full 
+implementation. In December 2000, as 
+
+part of the Consolidated Appropriations Act for Fiscal Year 2001 (P.L. 106Œ554), 
+Congress amended the Clean Water Act 
+by adding Section 402(q). This 
+
+amendment is commonly referred to as 
+the Wet Weather Water Quality Act of 2000. Section 402(q) requires that each 
+permit, order, or decree issued pursuant 
+
+to the Clean Water Act after the date of 
+
+enactment for a discharge from a 
+municipal CSS shall conform to the CSO Control Policy. P.L. 106Œ554 also: • .Required EPA to issue guidance to 
+facilitate the conduct of water quality and designated use reviews 
+for CSO receiving waters. EPA issued 
+this guidance on August 2, 2001 
+(EPA 2001a) • .Required EPA to submit two CSO Reports to Congress (EPA 2001b, EPA 2004b) 2Œ3˜          Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+• .Required EPA to develop and maintain a clearinghouse of 
+technologies for addressing the 
+
+impacts of CSO and sanitary sewer overflow (SSOs) discharges  
+2.2 What is the CSO Control Policy? The CSO Control Policy provides guidance to CSO communities, NPDES authorities, and water quality standards 
+authorities for planning, selecting, and 
+implementing CSO controls. The policy 
+
+established four key principles to ensure 
+
+that CSO controls are cost-effective and 
+meet the objectives of the Clean Water Act: 1. ˚Provide clear levels of control that 
+would be presumed to meet 
+appropriate health and environmental objectives 2. ˚Provide sufficient flexibility to municipalities, especially financially disadvantaged communities, to 
+
+consider the site-specific nature of CSOs and to determine the most 
+cost-effective means of reducing 
+pollutants and meeting [Clean 
+Water Act] objectives and 
+requirements 
+3. ˚Allow a phased approach to 
+implementation of CSO controls 
+considering a community™s financial 
+capability 4. ˚Provide for review and revision, as 
+appropriate, of water quality 
+
+standards and their implementation 
+procedures when developing CSO 
+
+control plans to reflect the site-
+specific wet weather impacts of 
+CSOs EPA™s CSO Control Policy established objectives for CSO communities and expectations for NPDES and water quality 
+
+standards authorities. The policy assigns 
+primary responsibility for its implementation and enforcement to NPDES authorities and water quality 
+
+standards authorities. It also presents 
+
+elements of an enforcement and 
+
+compliance program to address CSOs 
+that overflow during dry weather and for 
+enforcement of NPDES permits issued in 
+
+accordance with the CSO Control Policy.  
+2.2.1 Objectives for CSO 
+Communities Objectives for CSO communities with 
+
+NPDES permits are 1) to implement the 
+nine minimum controls (NMC) and submit documentation on NMC implementation; and 2) to develop and 
+implement a long-term control plan 
+(LTCP). There are certain circumstances, 
+
+which the 1994 CSO Control Policy 
+anticipated, where a permittee would not have to develop an LTCP (59 FR 18690). The NMC are: 
+1. ˚Proper operation and regular maintenance programs for the 
+sewer system and the CSOs 
+2. ˚Maximum use of the collection system for storage 3. ˚Review and modification of pretreatment requirements to 
+
+assure CSO impacts are minimized 
+4. ˚Maximize flow to the POTW for treatment 
+5. ˚Prohibition of CSOs during dry weather 6. ˚Control of solids and floatable 
+materials in CSOs 7. ˚Pollution prevention 
+8. ˚Public notification to ensure that the public receives adequate 2Œ4˜    Chapter 2ŒRegulation of CSOs notification of CSO occurrences and CSO impacts 
+9. ˚Monitoring to effectively characterize CSO impacts and the 
+efficacy of CSO controls Municipalities were expected to 
+
+implement the NMC and to submit 
+appropriate documentation regarding compliance with the NMC to NPDES 
+authorities as soon as reasonably 
+possible, but no later than January 1, 1997. In addition to implementing the NMC, CSO communities are expected to develop and implement an LTCP that 
+includes measures to provide for 
+
+attainment of water quality standards. 
+The policy identified nine elements that an LTCP should include. These are: 1. ˚Characterization, monitoring, and 
+modeling of the CSS 2. ˚Public participation 
+3. ˚Consideration of sensitive areas 
+4. ˚Evaluation of alternatives 
+
+5. ˚Cost/performance considerations 
+
+6. ˚Operational plan 
+
+7. ˚Maximization of treatment at the POTW treatment plant 8. ˚Implementation schedule 
+9. ˚PostŒconstruction compliance 
+monitoring LTCP implementation schedules were expected to include project milestones and a financing plan for design and 
+construction of necessary controls as 
+soon as practicable (EPA 1994). 2.2.2 Expectations for Permitting 
+Authorities 
+The CSO Control Policy expected 
+permitting authorities to undertake the 
+following: • .Review and revise, as appropriate, 
+state CSO permitting strategies developed in response to the National CSO Control Strategy • .Develop and issue permits requiring 
+CSO communities to 1) immediately 
+implement the NMC and document their implementation; and 2) develop and implement an LTCP • .Promote coordination among the CSO community, the water quality 
+
+standards authority, and the 
+
+general public through LTCP 
+development and implementation • .Evaluate water pollution control needs on a watershed basis and coordinate CSO control with the 
+control of other point and nonpoint 
+
+sources of pollution • .Recognize that it might be difficult for some small communities to 
+meet all of the formal elements of 
+
+LTCP development, and that 
+
+compliance with the NMC and a 
+reduced scope LTCP may be sufficient • .Consider sensitive areas, use impairment, and a CSO 
+community™s financial capability in 
+
+the review and approval of 
+implementation schedules 2Œ5˜           Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+2.2.3 Coordination with Water Quality Standards: Development, Review, and 
+
+Approval Communities develop and implement LTCPs to meet water quality standards, including the designated uses and criteria 
+
+to protect those uses for waterbodies 
+
+that receive CSO discharges. The CSO 
+Control Policy recognized that substantial coordination and agreement among the 
+permitting authority, the water quality 
+standards authority, the public, and the 
+CSO community would be required to 
+accomplish this objective. The CSO Control Policy also recognized that the 
+development of the LTCP should be 
+coordinated with the review and 
+appropriate revision of water quality standards and their implementation procedures. 2.2.4 Enforcement and Compliance The CSO enforcement effort described in 
+
+the CSO Control Policy was to commence 
+with an initiative to address CSOs that 
+
+occur during dry weather. This was to be 
+followed by an enforcement effort in conjunction with CSO permitting: 
+Under the CWA [Clean Water Act], 
+
+EPA can use several enforcement 
+options to address permittees with 
+CSOs. Those options directly applicable to this Policy are Section 
+308 Information Requests, Section 
+309(a) Administrative Orders, Section 
+
+309(g) Administrative Penalty Orders, Section 309(b) and (d) Civil Judicial 
+Actions, and Section 504 Emergency 
+Powers. NPDES states should use 
+
+comparable means. EPA recognized that the success of the 
+enforcement effort would depend on 
+expeditious action by NPDES authorities in issuing enforceable permits with NMC 
+requirements and other Clean Water Act 
+
+requirements. Enforcement priorities 
+were to be based upon human health 
+impacts, environmental impacts, and 
+impacts on sensitive areas. 2.3 What Targets Have Been ˜Established for CSOs? ˜EPA understands that achieving the goal 
+
+of complete control of CSOs will be a 
+long-term effort and will require large 
+capital investments on the part of CSO communities. In order to continue to 
+
+make progress in meeting that goal, 
+
+EPA™s Office of Water and Office of 
+
+Enforcement and Compliance established 
+interim targets for CSO control. In 
+addition, the U.S. Policy CommitteeŠa 
+forum of senior-level representatives from federal, state, 
+and tribal government agenciesŠestablished annual CSO targets for the Great Lakes as part of the 
+Great Lakes Strategy. 2.3.1 EPA Targets for CSO Control As part of its Nat
+ional Water Program Guidance for FY06, EPA™
+s Office of Water established the following target for CSO control: By 2008, 75 percent 
+of CSO permittees will have schedules in place in permits 
+
+or other enforceable mechanisms to 
+implement approved LTCPs (EPA 
+
+2006). 2Œ6˜                                                                         Chapter 2ŒRegulation of CSOs To date, 40 percent of the CSO communities in the Lake Michigan basin 
+
+have enforceable schedules to 
+implement approved LTCPs.1,2 
+In its Performance-based Strategy for 
+CSOs, EPA™s Office of Enforcement and 
+
+Compliance Assistance established six 
+
+goals, including one specific to LTCPs: By the end of FY07, 65% of all 
+
+permitted CSOs (2004 baseline) have 
+an approved Long Term Control Plan 
+with an enforceable schedule that will 
+ultimately result in compliance with 
+the technologyŒbased and water 
+qualityŒbased requirements of the 
+
+Clean Water Act, or action has been 
+initiated to achieve that result (EPA 
+
+2004a). Currently, 40 percent of the CSO 
+
+communities in the Lake Michigan basin 
+
+have approved LTCPs.
+1,2 
+2.3.2 Great Lakes Strategy 
+Targets for CSO Control The Great Lakes Strategy 2002 was 
+developed by the U.S. Policy Committee 
+to advance the restoration and protection of the Great Lakes Basin Ecosystem (USPC 2002). The Strategy is 
+
+focused on U.S. federal, state and tribal 
+government environmental protection 
+
+and natural resource management 
+activities as they relate to fulfilling the goals of the Great Lakes Water Quality 
+
+Agreement. The U.S. Policy Committee 
+1 Chicago-area CSOs are not included in these 
+   measures; Chicago-area CSOs drain away from 
+   Lake Michigan under most wet weather 
+
+   conditions. 
+2 Forty percent (12 of 30) of CSO communities in 
+   Indiana, Michigan, and Wisconsin are 
+
+   implementing approved LTCPs. An additional    community, Albion, Indiana, completed sewer 
+
+   separation and was not required to develop an 
+LTCP. will set overall priorities and coordinate the development of individual actions 
+and commitments by each agency to achieve the goals, objectives, and actions 
+in this Strategy. The Strategy established specific targets 
+for the Great Lakes with respect to CSO 
+control: By 2005, 100% of all combined sewer 
+overflow (CSO) permits in the Great 
+
+Lakes basin will be consistent with the 
+
+national CSO [Control] Policy. All 
+issued/reissued permits for CSO 
+discharges will contain conditions that conform to the national CSO 
+[Control] policy, and states will 
+prioritize the reissuance of CSO 
+permits under their permit backlog strategies (USPC 2002). Progress towards meeting this target for 
+CSO permittees in the Lake Michigan 
+
+basin is listed below by state:1 INDIANA: All 18 CSO permits in the Lake Michigan basin are 
+consistent with the CSO Control 
+
+Policy. • .MICHIGAN: All 11 CSO permits in the Lake Michigan basin are 
+consistent with CSO Control Policy. • .WISCONSIN: The only Wisconsin 
+CSO permit in the Lake Michigan 
+basin is consistent with the CSO 
+
+Control Policy. 2Œ7˜                       Chapter 3 CSO Discharges to Lake Michigan ˜This chapter describes the location of CSO outfalls and the occurrence of CSO 
+discharges in the Lake Michigan basin. 
+
+The chapter also describes the types of 
+impacts caused by or attributed to CSOs. The chapter then documents 
+
+CSO-related impacts identified through 
+national programs, including the 
+National Water Quality Inventory 
+(NWQI) of assessed waters under Section 305(b) of the Clean Water Act; 
+listings of impaired waters identified by 
+states under Section 303(d) of the Clean 
+Water Act; recreational use impairments tracked under the BEACH (Beaches 
+Environmental Assessment and Coastal 
+
+Health) Program; and impacts 
+
+associated with Great Lakes Areas of 
+Concern (AOC). Data collected for two recent CSO Reports to Congress (EPA 
+
+2001b, EPA 2004b), where relevant to 
+the Lake Michigan basin, were updated 
+
+for this report. 
+3.1 How were the Data 
+Collected? Data presented in this chapter were 
+collected from previously published or available state, regional, and local data 
+sources. Because ther
+e is no specific guidance in the CSO Control Policy for 
+CSO data collection, reporting, or CSO volume quantification, data collected by the responsible agencies vary greatly 
+among states, and even among 
+localities when localities are responsible for collecting and reporting CSO-related 
+data. The individual sources for the CSO data used in this Report are summarized 
+below. Each summary provides the 
+
+name of the agency submitting the 
+
+data and background information on how the data were collected. Indiana NPDES permits in Indiana contain language requiring communities to monitor CSO discharge volume using a 
+flow measurement device.  CSO 
+
+volumes for individual communities are 
+reported on DMRs. In order to compile 
+CSO volumes for Indiana communities, EPA requested hard copies of DMR 
+
+reports from each CSO community and 
+tabulated the CSO volumes from each 
+DMR received. Michigan In Michigan, CSO discharge volume is monitored and reported by each individual community. No standard 
+method for monitoring and recording is 
+required by the state. Each community proposes its own methodology for approval by the state. Some communities use flow meters. 
+Others use estimates based on models 
+or other methods. For example, the 
+
+East Lansing, Michigan permit states that East Lansing must report the 
+3Œ1˜                  Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+amount of discharge measured in accordance with the procedures 
+
+approved by the Michigan Department 
+
+of Environmental Quality (MDEQ). The 
+city must also report the reason for the 
+discharge and the time the discharge 
+began and ended. The permit also 
+
+states that the city shall estimate the 
+
+volume and quality of discharges. CSO discharge volumes in Michigan are reported on the web page: 
+www.deq.state.mi.us/csosso/. Wisconsin In Wisconsin, the only CSS in the Lake Michigan Basin is managed by the 
+Milwaukee Metropolitan Sewerage District (MMSD). MMSD estimates CSOs 
+using a computer model that takes into 
+account the impact of the river 
+elevation on overflow volumes. The 
+
+actual CSO flows are not measured.  
+MMSD reports these flows to Wisconsin 
+DNR on a quarterly basis. 
+Illinois In Illinois, Chicago is not considered to be a Lake Michigan CSO community. 
+However, under certain wet weather 
+
+conditions, Chicago-area CSOs have the 
+
+potential to impact Lake Michigan. Data on potential CSO impacts in Lake Michigan were provided by the 
+Metropolitan Water Reclamation 
+
+District of Greater Chicago (MWRDGC). 
+These data were taken from the 
+MWRDGC website at http://www.mwrdgc.dst.il.us/mo/csoap 
+p/default.htm. MWRDGC calculates 
+
+river reversals into the lake at three 
+
+waterway controlling works using the theoretical discharge formula for flow 
+through an opening under pressure 
+
+which is: Q (flow rate) = cA(2gh)^1/2, where c = discharge coefficient A = area of orifice 
+g = gravity 
+h = head or the depth of the water to 
+the center point of the orifice.   
+River reversal events are monitored by 
+MWRDGC personnel, and those data are 
+entered either every 5 or 15 minutes to 
+best reflect the actual event.  The MWRDGC formula has been reviewed by the U.S. Army Corps of Engineers 
+and by an independent panel of 
+specialists. Summary As discussed, there is no specific 
+guidance in the CSO Control Policy for 
+CSO data collection, reporting, or CSO volume quantification. The data 
+collection, reporting, and volume 
+quantification methods used range 
+from flow monitoring to computer 
+
+modeling to other forms of estimating. Therefore CSO data can vary greatly 
+among states, and even among 
+localities when localities are responsible 
+for collecting and reporting CSO-related 
+data. In addition to the variability in CSO data generated due to the different data 
+
+collection methodologies, modeled 
+data also contain inherent uncertainty 
+owing to the assumptions underlying the modeling. Both the MMSD and the 
+
+MWRDGC use modeling approaches to 
+generate their reported CSO data. 
+Michigan does not require a standard method for determining CSOs, and it is 
+likely that some Michigan communities 
+use modeling as well. Therefore, the 
+
+uncertainty inherent in the data 
+modeling must be considered when 
+reviewing CSO data generated using 
+modeling approaches. Because of the inherent differences 
+among the different states and 3Œ2˜            Chapter 3ŒCSO Discharges to Lake Michigan 
+municipalities in the way data were collected, EPA limited the scope of its 
+data interpretation to avoid drawing 
+potentially inaccurate conclusions from 
+
+the data. As described, the data 
+presented in this chapter were 
+collected and compiled from 
+previously-published or available 
+sources. No primary data were collected and no raw data were analyzed or 
+interpreted for this Report. In addition, 
+the limited availability of CSO data on 
+the state and local 
+level led to the inclusion of data sets from different 
+
+localities or states that cover different 
+time periods. No attempts were made 
+to adjust these data for a specific time 
+period. Readers should not attempt to 
+
+draw time-dependent comparisons for 
+
+these data. Despite the differences between the 
+data sets summarized in this Report, 
+EPA believes that the data present 
+
+general information that is 
+
+characteristic of the extent of CSOs in 
+the Lake Michigan basin. 3.2 What is the Occurrence  
+of CSOs to Lake Michigan and its Tributaries? For the purpose of this report, the term ﬁCSO communityﬂ refers to an entity or 
+
+entities (e.g., municipal government, 
+sanitary district) that hold an NPDES 
+permit for CSO discharges. There are 30 
+CSO communities with 347 CSO outfalls 
+that discharge to the Lake Michigan 
+basin. Eighteen of these communities are in Indiana, 11 are in Michigan, and one is in Wisconsin. There are no Lake 
+
+Michigan CSO communities in Illinois. 
+Chicago is not considered to be a Lake 
+Michigan CSO community. Chicago-
+
+area CSOs drain away from Lake 
+
+Michigan to the Mississippi River basin 
+under most wet weather conditions. However, under certain wet weather 
+conditions, Chicago-area CSOs have the 
+
+potential to impact Lake Michigan. This 
+can happen when flow in Chicago-area 
+rivers is reversed and directed to Lake Michigan to prevent flooding-related 
+property damage. In addition to flow 
+reversals, there are two Chicago-area 
+
+CSOs that have the potential to 
+
+discharge directly to Lake Michigan, 
+although they have not done so since 
+2003. Because of Chicago™s proximity to 
+the lake and the potential for CSO 
+
+discharges during certain wet weather 
+events, EPA has included a discussion of 
+Chicago-area CSOs (e.g., past CSO 
+discharges and current CSO control 
+
+efforts) in this report. 
+The location of CSO communities in the Lake Michigan basin, along with major rivers and state boundaries, is presented in Figure 3.1. Approximately one-third of 
+
+the CSO communities (9 of 30) are 
+located within 10 miles of the Lake 
+Michigan shoreline. The majority are located inland along rivers that drain to 
+Lake Michigan. The number of active CSO outfalls for 
+each CSO community in the Lake 
+Michigan basin and the 2005 average 
+daily flow at the wastewater treatment 
+plant (WWTP) are presented in Table 3.1. 
+Sixty percent (18 of 30) of the CSO 
+communities in the ba
+sin have five CSO outfalls or fewer. 3Œ3˜        Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Location of CSO Communities in 
+the Lake Michigan Basin The shaded area defines the Lake 
+Michigan basin. The white circles (
+•) indicate Lake Michigan CSO 
+communities. The black circle (
+•) indicates Chicago. 
+Figure 3.1 3.2.1 Volume and Frequency  
+of CSO Discharges CSO permittees in the Lake Michigan 
+basin are required to report CSO frequency and volume information to 
+their state NPDES authority. State 
+
+reporting requirements differ among 
+the Lake Michigan states. For example, 
+
+Indiana tracks the number of days 
+during which CSO discharges occur, while Michigan tracks CSO 
+events. Data on CSO frequency and volume reported by CSO communities in the Lake Michigan basin are presented in this section. For a given CSO 
+community, the frequency and 
+volume of observed/estimated CSO 
+
+discharges can vary substantially from year to year due to natural variations in 
+rainfall and snowmelt conditions. Due to the variability in rainfall-related discharges from community to 
+community, differences in time frames 
+represented, differences in the  
+definitions of CSO events, and 
+limitations in the accuracy and 
+availability of discharge volume 
+information, EPA has not attempted to 
+
+draw any comparisons or conclusions 
+regarding the data. However, this information does provide an indication 
+of the relative magnitude of discharges 
+within the Lake Michigan basin. 3Œ4˜               
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+           Lake Michigan CSO Community Information  
+Table 3.1 Chapter 3ŒCSO Discharges to Lake Michigan 
+CSO Community 
+State Number of CSO 
+Outfalls
+a 2005 Average Daily Flow 
+at the WWTP Million 
+Gallons per Day (MGD) 
+0bAlbion IN 0.18 Angola IN 1 1.19 Chesterton IN 1 2.66 Crown Point IN 4 2.76 East Chicago IN 3 10.08 Elkhart IN 39 14.29 Gary IN 11 40.02 Goshen IN 6 3.91 Hammond IN 20 32.48 Kendallville IN 1 1.63 Ligonier IN 
+1 0.83 Michigan City IN 1 6.34 0bMilford IN 
+0.18 Mishawaka 
+IN 18 11.93 Nappanee IN 13 1.15 South Bend IN 44 32.83 Valparaiso IN 
+1 4.27 Wakarusa IN 6 0.23 Crystal Falls MI 1 0.57c East Lansing MI 1 12.81 Grand Rapids 
+MI 11 56.28 Iron Mountain Œ Kingsford 
+MI 1 1.67 Lansing MI 27 16.13 3Œ5˜             
+                  c Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+CSO Community 
+State Number of CSO 
+Outfalls
+a 2005 Average Daily Flow 
+Million Gallons per Day 
+(MGD) 
+Manistee MI 4 0.96 Lake Michigan CSO Community Information continued 
+Table 3.1 Manistique MI 1 1.19 Menominee MI 0b 1.48 Niles MI 8 2.79 Norway 
+MI 1 0.28 St. Joseph MI 5 8.64d Milwaukee WI 117 172.8 Total CSO outfalls in Lake Michigan basin: 
+347 Chicago-area CSOs: (369)e Total CSO outfalls including Chicago-area CSOs: 
+(716)e a It should be noted that the presence of 
+an outfall does not necessarily imply CSO di
+scharge; it only indicates the potential for a discharge. 
+b Outfalls have been separated or eliminated. No NPDES permit effluent data because POTW discharges to groundwater. Discha
+rge to groundwater allowed May through 
+October, so daily maximum allowed flow 
+could be estimated at one-half of the 1.14 MGD design flow or 0.57 MGD. 
+d Benton Harbor Œ St. Joseph POTW 
+e 303 of the 369 Chicago-area CSO outfalls discharge to Chicago area rivers that originally flowed into Lake Michigan, but which 
+currently discharge into the Mississippi River basin due to a ca
+nal and lock system. CSO flows captured by the Chicago Tunnel a
+nd Reservoir Project (TARP) system are transported and stored for eventual treatment at wastewater treatment facilities.  These 30
+3 CSOs, if they do overflow, can backflow into Lake Michigan duri
+ng intense rain storms if the locks along Lake Michigan are open
+ed to prevent loss of life and widespread property damage.  The need fo
+r backflow events has been redu
+ced by the ability of TARP Phas
+e 1 storage tunnels to capture CSO flows and will be further reduced 
+by TARP Phase 2 storage basins which are anticipated to be 
+completed by 2015. 3Œ6˜                        
+      Chapter 3ŒCSO Discharges to Lake Michigan 
+Indiana CSO Community 
+Number of Days with CSO Discharges 2005 Average 
+Daily Flow at WWTP (MGD) 
+Indiana CSO Discharge 
+Information 
+This table shows the number of days Indiana CSO communities reported CSO 
+
+discharges and the CSO volume 
+discharged, to the Lake Michigan basin 
+(September 1, 2004ŒJune 30, 2005). 
+Table 3.2 CSO Volume 
+Million Gallons 
+(MG) 0aAlbion 0 0.18 Angola 2 2.6 1.19 Chesterton 2 --
+b 2.66 Crown Point 3 4.9 2.76 East Chicago 76 194.6 10.08 Elkhart 53 172.1 14.29 Gary 37 109.2 40.02 Goshen 3 1.0 3.91 Hammond 102 911.8 32.48 Kendallville 0 0 1.63 Ligonier 21 1.9 0.83 Michigan City 3 1.1 6.34 0cMilford 0 
+0.18 Mishawaka 
+43 55.9 11.93 Nappanee 62 85.4 1.15 South Bend 64 918.3 32.83 Valparaiso 3 
+31.2 4.27 
+Wakarusa 6 -˚d 0.23 Total: 2,490 
+a Completed sewer separation ˜
+b Incomplete volume estimate
+ (estimated for 1 of 2 days) ˜
+c CSO outfall eliminated April 20, 2005 ˜d No volume estimate; 176 hours of overflow reported during the 10-month period.˜ 
+INDIANA Indiana Department of Environmental 
+Management (IDEM) has required CSO communities to report CSO discharges 
+
+that occur as a result of wet weather 
+through a standardized CSO DMR since 
+October 2001. CSO DMRs must be submitted every month, even if no 
+CSOs occur (IDEM 2005). 
+The number of days with CSO discharges and the CSO volume  
+
+discharged for a recent 10-month 
+period (September 1, 2004ŒJune 30, 
+2005) reported by Indiana CSO communities in the Lake Michigan 
+basin are summarized in Table 3.2. As shown, Indiana communities in the 
+Lake Michigan basin discharged 
+approximately 2,490 MG of combined 
+sewage during this period. This can be 
+compared to the 50,255 MG of flow through the WWTPs in these 
+communities that received treatment 
+
+during this same period (166.96 MGD 
+total average daily flow for these 
+WWTPs multiplied by 301 days during the reporting period of September 1, 
+2004 Œ June 30, 2005). 3Œ7˜            
+  
+            Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Annual CSO Frequency for 
+Michigan CSO Communities in the 
+Lake Michigan Basin: 2003Œ2004 
+Ten CSO Communities reported CSO 
+events in 2003 and 2004. The 11
+th CSO Community, Menominee, separated its CSS and eliminated all CSO outfalls. Figure 3.2 0 5 
+1015 
+Crystal Falls˜ 
+East Lansing˜ 
+Grand Rapids˜ 
+Iron Mtn-Kingsford 
+Lansing 
+Manistee 
+Manistique 
+Niles 
+Norway 
+St. Joseph 
+MICHIGAN 
+CSO communities in Michigan are required to notify the Michigan 
+Department of Environmental Quality 
+(MDEQ) within 24 hours of the onset of 
+a CSO event. A ﬁCSO eventﬂ is defined 
+as a discharge from one or more CSO 
+outfalls in response to a single wet 
+weather event. After the discharge 
+ends, the CSO community must submit a report on the CSO event, including 
+the location and volume of the 
+discharge as well as the start/end date 
+
+and time. MDEQ compiles the event  
+CSO Event 
+20 2530354045 
+2003 
+2004 
+information into annual reports, and it 
+
+publishes CSO event information 
+along with SSO data on its CSO and SSO 
+Discharge Information web page 
+(http://www.deq.state.mi.us/csosso/). The frequency of CSO events for 
+Michigan CSO communities in the Lake 
+
+Michigan basin for the period 2003 
+
+through 2004 is shown in Figure 3.2. The annual CSO volumes reported by these Michigan CSO communities are 
+shown in Table 3.3 for the period 2003 
+through 2004. CSO communities also report the level of treatment provided 
+to the CSO discharge. That is, partially 3Œ8˜                                                                    Chapter 3ŒCSO Discharges to Lake Michigan 
+treated sewage, where treatment 
+usually consists of solids removal and some disinfection (partially treated 
+CSO), or diluted raw sewage (no CSO 
+
+treatment). Some communities did not 
+specify the level of treatment provided. 
+As shown in Figure 3.2 and Table 3.3, 
+the frequency and volume of 
+
+observed/estimated CSO discharges 
+
+vary substantially from year to year. This 
+is principally due to natural variations in rainfall and snowmelt that affect the 
+annual volume of CSOs. For the 
+
+Michigan CSO communities in the Lake 
+Michigan basin, total reported CSO volume was 41 percent higher in 2004 than in 2003. In May 2004, many parts 
+of Michigan experienced a storm event 
+
+approximating a once in 25-year, 24˚
+hour rainfall event that contributed to 
+greater CSO volumes in 2004 than in the previous year (MDEQ 2005). The increase in partially treated CSO 
+from 2003 to 2004 resulted from the 
+increase in CSO volume available for treatment, and not necessarily from an 
+increase in treatment capacity. 2003 2004 Community 
+Partially Treated CSO (MG) No CSO Treatment (MG) Treatment Not Specified (MG) Partially Treated CSO (MG) No CSO Treatment (MG) Treatment Not Specified (MG) Crystal Fallsa East Lansing 6.30 
+1.30 
+Grand Rapids 6.18 4.94 
+186.39 
+6.18 
+Iron Mountain-Kingsford 
+11.68 
+2.10 
+28.32 
+Lansing 353.16 
+420.44 
+Manistee 2.45 
+10.25 
+Manistique 0.01 
+2.17 
+Niles 4.40 
+2.80 
+1.18 
+Norway 0.41 
+0.61 
+1.20 
+St. Joseph 10.72 
+0.79 
+0.97 
+15.36 
+1.72 
+Totals 17.86 
+384.08 
+1.20 219.09 
+456.88 
+2.92 Annual CSO Volumes for Michigan 
+CSO Communities in the Lake 
+
+Michigan Basin: 2003-2004 
+Annual CSO volumes were 403.14 MG 
+and 678.89 MG for the years 2003 and 
+2004, respectively. 
+Table 3.3 a CSO volumes were not specified on MDEQ web page. 
+3Œ9˜          Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+WISCONSIN 
+In Wisconsin, MMSD manages the only Wisconsin CSS in the Lake Michigan 
+basin. The annual CSO frequency and 
+
+volume reported for Milwaukee for the period 1998 through 2004 is presented in Table 3.4. In its original estimate for 
+2004, MMSD reported CSO discharges 
+totaling 4,142 MG resulting from 
+
+particularly heavy rains in May of that 
+year. It was later discovered that the computer model used to estimate CSO 
+volume had not been applied properly,  and MMSD subsequently revised its 
+
+estimate to 1,088 MG in a press release. 
+
+This revision corresponds to a 70 
+percent decrease in the CSO volume estimated for the year 2004 (MMSD 2004). Reported CSO volumes were re˚
+
+calculated and MMSD developed 
+revised model results for the period 
+
+1998 through 2004. The revised CSO volumes are shown with the originally reported CSO volumes in Table 3.4. On 
+
+average, MMSD reported three CSO 
+
+events per year for the last seven years. 
+No CSOs occurred during 2003. MMSD Annual CSO Frequency and 
+Volume: 1998Œ2004 
+This table shows the CSO volumes originally reported and later revised by 
+MMSD. Table 3.4 Year Frequency (No. of Events) Originally Reported CSO Volume 
+(MG) Revised CSO Volume  
+(MG) 1998 2 629 892 1999 6 4,106 4,313 2000 5 3,490 1,944 2001 4 464 165 2002 2 440 580 2003 0 0 0 2004 3 4,142 1,088 3Œ10˜                  Chapter 3ŒCSO Discharges to Lake Michigan 
+Map of Chicago Area with Three Waterway-Controlling Works 
+ Œ Indicates a waterway controlling 
+works where river reversals can occur. 
+Figure 3.3 ILLINOIS 
+In the Chicago metropolitan area, there are 369 CSO outfalls owned by the City of Chicago, the Metropolitan Water Reclamation District of Greater 
+
+Chicago (MWRDGC), and 40 tributary 
+communities. Chicago-area CSOs 
+
+discharge to the Chicago River, the 
+Des Plaines River, the Chicago 
+Sanitary and Ship Canal, and the 
+Calumet River systems. These 
+waterways drain away from Lake 
+
+Michigan during most wet weather conditions. Consequently, the majority of CSO events in the Chicago 
+metropolitan area do not affect Lake 
+Michigan. However, the gates at the 
+
+waterway controlling works that separate the Chicago-area waters and 
+Lake Michigan are opened during 
+certain heavy rainfall events in order 
+
+to prevent local flooding. River water 
+
+affected by CSOs is discharged to the 
+lake during these river reversals. When this occurs, discharges from  
+303 of the 369 Chicago-area CSO 
+outfalls have the potential to impact Lake Michigan in this manner. River 
+reversals that discharge CSO-  
+
+impacted flow to Lake Michigan can 
+occur at three waterway-controlling works in the Chicago area: O'Brien Lock & Dam, Chicago River 
+Controlling Works (CRCW), and 
+Wilmette Pump Station (Figure 3.3). The frequency and volume of river 
+reversals to Lake Michigan are summarized for a 20-year period 
+(1985Œ2004) in Table 3.5 (MWRDGC 
+2005b). The volume of river reversals 
+
+does not directly correspond with the volume of CSO discharged to the lake. It does, however, provide an indication 
+
+of periods when CSO discharges could 
+cause or contribute to water quality 
+
+impacts in Lake Michigan. As shown in Table 3.5, no river reversals have 
+occurred since 2002, when 1.7 billion 
+
+gallons (BG) of river water impacted by 3Œ11˜                                                                                                                          Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+CSO discharges were diverted to Lake 
+Michigan. Two additional CSO points are located at MWRDGC pump stations on the 
+Lake Michigan side of the O™Brien Lock & Dam. These CSOs have the 
+
+potential to discharge to the Lake 
+Michigan basin independent of a river 
+reversal. MWRDGC reports that these 
+CSOs have not discharged to the Lake Michigan basin since 2003.  
+MWRDGC maintains an on-line map showing CSO events in the Chicago 
+area. The system displays the water segments that have received CSO discharges and indicates whether 
+
+discharges to Lake Michigan have occurred 
+(http://www.mwrd.org/mo/csoapp/d 
+
+efault.htm). 
+Chicago-Area River Reversals to 
+Lake Michigan: 1985Œ2005 
+River reversals that discharge CSO-
+impacted water can occur at three 
+waterway controlling works: O™Brien 
+Lock & Dam, CRCW, and Wilmette Pumping Station. This table shows the 
+volume of water (MG) discharged to 
+
+Lake Michigan during river reversals. 
+Table 3.5 Year Date O'Brien Lock 
+& Dam (MG) CRCW (MG) Wilmette Pump Station 
+(MG) Total Volume of 
+River Reversals 
+(MG) Aug-6 58 581985 
+Mar-4 153 
+153 
+1986 
+Oct-3 53 53 Aug-25 to Aug-26 
+18 181987 
+Aug-13 to Aug-14 
+986 
+971 
+1,957 
+1988 
+None 0 1989 
+Aug-3 to Aug-4 52 52 Nov-27 to Nov-28 224 
+86 154 
+464 
+Aug-17 to Aug-18 
+10 101990 
+May-9 to May-10 208 
+289 
+497 
+1991 
+None 0 1992 
+None 0 1993 
+None 0 1994 
+None 0 1995 
+None 0 1996 
+July-17 to July-18 1,032 519 
+1,551 
+Aug-16 to Aug-17 
+402 
+157 
+559 
+1997 
+Feb-20 to Feb-22 
+1,458 
+1,947 
+774 
+4,179 
+1998 
+None 0 1999 
+Jun-13 
+10 10 2000 
+None 0 Oct-13 91 91 Aug-31 75 752001 
+Aug-2 883 
+140 
+1023 
+2002 
+Aug-22 1,296 455 1,751 
+2003 
+None 0 2004 
+None 0 2005 
+None 0 3Œ12˜                    Chapter 3ŒCSO Discharges to Lake Michigan 
+3.3 What Problems are Caused by CSO Discharges? EPA documented that CSOs cause or contribute to environmental and human health impacts in two recent national assessments of CSOs: 
+Report to CongressŠImplementation and 
+
+Enforcement of the Combined Sewer 
+
+Overflow Control Policy (EPA 2001b) and Report to CongressŠImpacts and Control of CSOs and SSOs (EPA 2004b). Pollutant concentrations in CSOs 
+alone may be sufficient to cause a 
+
+violation of water quality standards in a particular waterbody, precluding 
+the attainment of one or more of the 
+
+designated uses (e.g., swimming and 
+fishing) for that waterbody. It is 
+important to note that impacts from CSOs are often compounded by impacts from other sources of 
+pollution. CSOs can discharge 
+simultaneously with SSOs, storm 
+
+water runoff, agricultural runoff, and 
+other nonpoint sources of pollution. This makes it difficult to identify and 
+assign cause-and-effect relationships 
+
+between CSO events and specific 
+
+impairments. The principal pollutants identified in CSOs are oxygen-depleting 
+
+substances, total suspended solids, 
+microbial pathogens, toxics, nutrients, 
+and floatables and trash. The designated uses that are likely to be 
+impaired by each of these pollutants 
+are summarized in Table 3.6. 3.3.1 Water Quality Impacts  
+Attributed to CSO: 
+305(b) Assessments and 
+303(d) Impairments 
+EPA™s National Water Quality Inventory (NWQI) 2000 Report (EPA 2002) is a national assessment that identified 
+the types of pollutants or stressors most often found to impair the 
+assessed waters and the leading 
+sources of these pollutants. The NWQI 2000 Report is based on a compilation of individual state assessments. Five thousand sixty-six (5,066) miles of the 
+total of 5,521 miles of the Great Lakes 
+
+shoreline (92 percent) were assessed 
+for the NWQI 2000 Report
+. For Lake 
+Michigan, 100 percent of the shoreline miles were assessed for at 
+least one use (Section 305(b) reports 
+for Indiana, Michigan, Wisconsin, and 
+Illinois, 2000). Overall, EPA found that the three 
+pollutants most often associated with impaired waters of the United States 
+were solids, pathogens, and nutrients. 
+All of these pollutants are typically 
+present in CSO discharges. 
+Specifically, the NWQI 2000 Report showed that the three pollutants most often associated with impaired 
+miles of Great Lakes shoreline are 
+priority toxic chemicals, nutrients, and pathogens (NWQI 2000, p. 34). Therefore, CSOs can be assumed to 
+
+contribute to the loading of these 
+
+pollutants to waterbodies where CSO 
+
+discharges occur. Reporting of the source of impairment varies widely from state 
+to state. CSOs are tracked as a specific 
+
+pollutant source in many, but not all, 
+states that have CSSs. The lack of 
+uniformity in state assessments and 
+reporting makes it difficult to fully 
+identify the magnitude of CSO 
+impacts. 3Œ13˜                    
+     
+     
+    
+   
+   
+  
+  
+   Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+The NWQI 2000 Report did not cite CSOs as a leading source of impairment in any of the five 
+waterbody types assessed: rivers and streams; lakes, rivers, and ponds; 
+
+estuaries and bays; ocean shoreline, 
+
+and Great Lakes shorelines. 
+Nationally, CSOs were identified as a 
+
+source of impairment for 1,466 square miles (5 percent) of assessed estuaries and 56 miles (1 percent) of Great 
+Lakes shoreline. 
+IMPAIRMENT 
+IN THE LAKE MICHIGAN 
+BASIN Waters designated as impaired are 
+
+included on a state™s 303(d) list. A 
+
+total maximum daily load (TMDL) is required for each pollutant causing impairment. For this report, EPA 
+compared CSO permittee locations 
+with water segments identified in the 
+Indiana, Michigan, and Wisconsin 303(d) lists of impaired waters. Of the 
+reported 303(d) impairments, CSOs 
+
+would be most likely to contribute to 
+pathogen, organic enrichment, and 
+sediment and siltation impairments Pollutants of Concern in 
+CSOs Likely to Cause or 
+Contribute to Impairment 
+Aquatic LifeSupport 
+Drinking WaterSupplyFishConsumption 
+ShellfishHarvestingRecreation Oxygen-demanding 
+substances • Sediment (TSS) • Microbial Pathogens • • • • 
+Toxics • • • Nutrients • • 
+Floatables and Trash 
+• Pollutants of Concern in CSOs that 
+Are Likely to Cause or Contribute 
+to Impairment 
+The pathogens present in CSO 
+discharges have the potential to impact 
+several designated uses, including 
+
+drinking water supply, fish 
+
+consumption, and recreation. 
+Table 3.6 3Œ14˜              Chapter 3ŒCSO Discharges to Lake Michigan 
+because of the pollutants found in CSOs. However, as discussed above, 
+different communities vary widely in 
+the frequency, length, and loading 
+from CSO discharges. However, it is important to note that the proximity of a permitted CSO 
+outfall to an impaired segment does 
+not in and of itself demonstrate that 
+
+the CSO is the cause of the impairment. It does suggest, however, that CSOs should be considered as a 
+source of pollution with respect to 
+
+TMDL development. The results of this analysis are summarized below by state. In Indiana, all 18 CSO communities in the Lake Michigan basin discharge in 
+the vicinity of 303(d)-impaired waters. 
+Thirteen of these communities discharge to waters where pathogens 
+(E. coli) and/or siltation were cited as reasons or causes of impairment. 
+In Michigan, 10 of the 11 CSO 
+communities discharge to 303(d)˚
+impaired waters. The waters in close proximity to Norway have not been 
+
+assessed. Three CSO communities in 
+Michigan (Manistee, Niles, and St. 
+
+Joseph) discharge to 303(d)-listed 
+waters that specifically cite ﬁCSO˚
+pathogen (Rule 100)ﬂ as a source of 
+
+impairment. In addition, three CSO 
+communities (East Lansing, Lansing, 
+
+and Crystal Falls) discharge to waterbodies that include pathogens or pathogens and dissolved oxygen 
+as reasons or causes of impairment. In Wisconsin, MMSD, the only CSO permittee in the basin, also 
+discharges to or in close proximity to 303(d)-impaired waters where 
+
+pathogens and/or dissolved oxygen 
+were cited as reasons or causes of 
+impairment. EPA believes the association between CSO location and impaired waters is 
+due to a number of factors in addition 
+to CSO discharges. CSOs are generally 
+located in urban areas where 
+waterbodies also receive relatively high volumes of storm water and other pollutant loads. Waters within 
+urban areas are also much more likely 
+to be assessed than non-urban waters 
+
+(EPA 2004b). 3.3.2 BEACH Program 
+Recreation is an important designated use for most waters of the United 
+States. The Beaches Environmental 
+
+Assessment and Coastal Health Act of 
+
+2000 (P.L. 106Œ284) resulted in EPA™s 
+BEACH Program, which compiles and 
+reports on beach monitoring and public notification activity for the 
+nation™s coastal recreational waters 
+
+on an annual basis. In the first years of 
+
+EPA™s BEACH Program, local and state 
+agencies representing beaches in coastal, Great Lakes, and some inland 
+waters collected and submitted beach 
+monitoring data through the National 
+Health Protection Survey of Beaches. 
+Participation in this annual survey was 
+voluntary from 1997 through 2002. 
+Beginning with the 2003 season, state 
+
+recipients of BEACH Act grants are 
+required to submit data collected as part of the state's program for beach 
+monitoring and notification for 
+coastal and Great Lakes recreation waters. With respect to designated use 
+impairment, 165 Lake Michigan beaches had at least one advisory or 
+
+closing during the 2000Œ2004 
+swimming seasons. Elevated bacteria 
+levels accounted for 94 percent of these recreational use impairments, 
+which were manifested as beach 
+advisories and closings. A summary of 
+the sources of pollution attributed to 
+
+advisories and closings at Lake Michigan beaches during the period 3Œ15˜           Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+2000Œ2004 is presented in Figure 3.4. 
+Multiple pollutant sources are 
+identified for a single event in some 
+instances, and a single pollution source could also be identified as 
+ﬂunknownﬂ. As shown in Figure 3.4, a 
+
+wide variety of pollutant sources were 
+reported as causing beach advisories 
+and closings. Approximately 81 percent of the advisories and closings in Lake Michigan were caused by an 
+
+unknown source of pollution. CSOs 
+were reported to be responsible for 
+two percent of total reported 
+advisories and closings, and eight percent of advisories and closings 
+where a known source was identified. 
+As shown in Figure 3.5, CSOs were reported as causing a total of 63 
+beach advisories and closings in four counties in three states adjacent to 
+Lake Michigan (2000Œ2004). No beach 
+advisories or closings attributed to 
+
+CSOs were reported in Michigan counties bordering the lake during this five-year period. A summary of all 
+pollutant sources reported as causing 
+all advisories and closings in these 
+four counties during the period 2000Œ 2004 is presented in Table 3.7. As shown, CSOs were reported to be a 
+source of pollution for 18 percent and 
+eight percent of all beach advisories 
+and closings in Porter County and LaPorte County, Indiana, respectively. 
+CSOs were cited as a source of 
+
+pollution less than three percent of 
+
+the time at beaches in Cook County, 
+Illinois, and Milwaukee County, Wisconsin. This does not in and of 
+itself indicate that CSOs cause a larger 
+
+percentage of advisories and closings 
+at Indiana beaches. Similarly to CSO data collection methods, public health reporting methods are not  
+
+standardized. This leads to differences 
+
+in the ways that states report the 
+causes of beach closures. For example, in Illinois and Wisconsin, a large number of advisories and 
+
+closures at beaches are attributed to 
+unknown sources. Overall, the Indiana 
+counties attributed fewer beach advisories and closings to an unknown source than did Illinois or 
+Wisconsin. 3Œ16˜                 
+  
+        Chapter 3ŒCSO Discharges to Lake Michigan 
+Sources of Pollution that Resulted 
+in Lake Michigan Beach Advisories 
+and Closings: 2000-2004 
+CSOs were responsible for two percent 
+of reported advisories and closings, 
+
+during the period 2000 through 2004. 
+Figure 3.4 BOAT 
+CSO POTW SSO SEPTIC 
+STORM 
+WILDLIFE OTHER UNKNOWN 
+0 10 20 30 
+40 50 60 70 
+80 90 2 2 1 <1 <1 5 81 7 1 Percent 
+Figure 3.5 CSOs Reported to Cause Beach Advisories and Closings in Four 
+
+Counties Bordering Lake 
+
+Michigan: 2000-2004 
+The number shown in each county 
+represents the total number of beach 
+advisories or closings attributed (wholly 
+
+or in part) to CSO during the period 
+2000-2004. 
+3Œ17˜                                           Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Sources of Pollution that Resulted 
+in Advisories and Closings in Four 
+
+Lake Michigan Counties: 2000˚
+
+2004 Four counties bordering Lake Michigan 
+reported CSOs as causing beach 
+advisories and closings. This table shows 
+
+all pollutant sources attributed to all 
+
+beach advisories or closings at these 
+
+four beaches. 
+Table 3.7 Pollutant 
+Source 
+Cook County, IL 
+La Porte County, IN 
+Porter County, IN 
+Milwaukee County, WI 
+Boat 
+0% 
+5% 
+11% 
+6% 
+CSO 
+<1% 
+8% 
+18% 
+3% 
+POTW 
+0% 
+0% 2% 
+6% SSO 
+0% 
+0% 2% 
+1% Septic 
+0% 
+5% 7% 
+0% Storm 
+0% 
+21% 
+11% 
+9% 
+Wildlife 
+0% 
+5% 
+10% 
+8% 
+Other 
+0% 
+12% 
+3% 
+1% 
+Unknown 
+>99% 
+41% 
+36% 
+65% 
+3.3.3 Impacts within Great Lakes AOCs In an effort to clean up the most 
+polluted areas in the Great Lakes, the United States and Canada, in Annex 2 
+
+of the Great Lakes Water Quality 
+Agreement, committed to cooperate with State and Provincial 
+Governments to ensure that RAPs are 
+
+developed and implemented for all 
+designated AOCs in the Great Lakes 
+basin. AOCs are defined by the USŒ 
+Canada Great Lakes Water Quality Agreement (International Joint 
+
+Commission 1989) as ﬁgeographic 
+
+areas that fail to meet the general or 
+
+specific objectives of the agreement 
+where such failure has caused or is likely to cause impairment of 
+beneficial use of the area's ability to support aquatic life.ﬂ Ten AOCs have been identified in the 
+Lake Michigan basin. Three of the Lake Michigan AOCs specifically mention CSOs as contributing to 
+
+impairment (EPA 2005). Each of these 
+three AOCs is described briefly below. The Grand Calumet AOC includes 
+nearshore areas along Lake Michigan in the vicinity of Gary, East Chicago, 
+and Hammond, Indiana; portions of 
+the Grand Calumet River; and the 
+
+Indiana Harbor Ship Canal. Problems within the Grand Calumet AOC 
+include contamination from 
+
+polychlorinated biphenyls (PCBs), 
+
+polycyclic aromatic hydrocarbons, 
+heavy metals, microbial pathogens, oxygen-depleting substances, and oil and grease. Point sources of pollutants include several 
+industrial discharges, three POTWs, 15 
+3Œ18˜                                                                                                                     
+              
+ 
+ 
+  
+  Chapter 3ŒCSO Discharge to Lake Michigan 
+CSO outfalls, and municipal and industrial storm water. Other sources include contaminated sediment, 
+
+leaking underground storage tanks, 
+Resource Conservation and Recovery 
+
+Act and Comprehensive 
+Environmental Response, 
+Compensation, and Liability Act 
+(Superfund) sites, and atmospheric 
+deposition. The Stage One RAP for the 
+
+Grand Calumet AOC (produced in 1991) identified CSOs as a major cause of contamination of sediments. The Menominee River AOC includes 
+the lower three miles of the 
+
+Menominee River; the cities of Marinette, Wisconsin, and Menominee, Michigan; and adjacent 
+nearshore areas at the mouth of the 
+
+Menominee River within Green Bay. 
+The principal pollutant of concern in the Lower Menominee River is arsenic, which has been linked to 
+industrial discharges. Other pollutants 
+
+of concern are paint sludge and coal 
+
+tar. CSOs are largely controlled within the AOC and are not considered to be 
+a major source of pollutants. The Manistique River AOC includes 
+the lower 1.7 miles of the Manistique 
+
+River and the Manistique River Harbor 
+on Lake Michigan. The principal 
+pollutants of concern are PCBs, oils, 
+and heavy metals. Historically, 
+impairments to beneficial use 
+included beach closings associated with CSO discharges, and CSO elimination was determined to be a 
+priority. Recent improvements to 
+
+Manistique™s CSS have minimized CSO 
+frequency at the one remaining CSO outfall. 3.3.4 Other Efforts Underway 
+in the Lake Michigan Basin LAKEWIDE MANAGEMENT
+ PLAN 
+Under the Great Lakes Water Quality 
+Agreement as amended in 1987, the United States and Canada agreed to 
+ﬁrestore and maintain the chemical, 
+
+physical and biological integrity of 
+the waters of the Great Lakes Basin 
+Ecosystem.ﬂ In consultation with 
+states and provincial governments, 
+the parties agreed to develop and 
+implement Lakewide Management 
+Plans (LaMPs) for open waters. In the 
+
+case of Lake Michigan, which lies wholly within the borders of the United States, EPA is responsible for the LaMP. EPA produced the Lake 
+Michigan LaMP 2000 (LMTC 2000) and 
+two updates in 2002 and 2004 (LMTC 
+2002, 2004). The Lake Michigan LaMP 2004 status report can be accessed at 
+
+http://www.epa.gov/glnpo/lakemich/ 
+2004update/index.html. 3Œ19˜                      Chapter 4 State Approaches to CSO Control ˜in the Lake Michigan Basin˜ This chapter presents the approaches 
+
+that Indiana, Michigan, Wisconsin, and 
+Illinois have taken for CSO control. The descriptions of each state™s approach are based upon information originally 
+collected for EPA™s Report to CongressŠ Implementation and Enforcement of the 
+
+Combined Sewer Overflow Control Policy 
+(EPA 2001b) and were updated to provide Lake Michigan-specific 
+information. This chapter also 
+
+summarizes the status of NMC and 
+
+LTCP requirements by state, and reports on the implementation of CSO control efforts by communities in the 
+Lake Michigan basin. All four of the Lake Michigan states are currently authorized to issue NPDES permits. The NPDES authorities in each 
+state have developed specific 
+strategies and programs for addressing 
+
+CSO discharges in their states. EPA 
+oversees these permitting programs 
+and provides funding support to the states. Both the states and EPA have 
+
+independent authority to take 
+
+enforcement actions for violations of 
+the Clean Water Act, including permit 
+violations. 4.1 What is the Indiana Approach to CSO 
+Control? 4.1.1 Strategy for CSO Control and NPDES Permitting IDEM is the NPDES authority in Indiana. IDEM issued its Final Combined Sewer 
+Overflow Strategy, consistent with 
+EPA™s CSO Control Policy, in May 1996. The IDEM final strategy enhanced the 
+
+six minimum control requirements in 
+IDEM™s 1991 State CSO Strategy by including three additional minimum 
+
+controls and a requirement to develop 
+an LTCP (EPA 2001b). PERMITTING PROGRAM Indiana has a statewide total of 107 
+CSO permits. Eighteen of these permits 
+authorize discharges in the Lake 
+
+Michigan basin. CSO communities are 
+required to implement the NMC and to 
+report compliance with the first eight minimum controls through submission and approval of CSO Operational Plans. 
+A Stream Reach and Characterization 
+
+and Evaluation Report (SRCER) is 
+required for most communities to address the monitoring requirement of 
+the NMC. Several small communities 
+and communities pursuing complete 
+4Œ1˜       
+        Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+sewer separation do not have requirements to develop SRCERs. IDEM, in some cases, has issued ﬁCSO˚
+onlyﬂ permits to communities that establish CSO control requirements 
+
+consistent with current regulation and 
+
+policy. This approach accelerates CSO 
+controls for communities whose NPDES 
+permits for POTW discharges have 
+expired, and where delays in reissuing 
+these permits would slow the 
+
+implementation of CSO control 
+requirements. IDEM issued CSO-only permits to five communities within the Lake Michigan basin. Inspections of POTWs operated by CSO 
+communities are performed 
+
+approximately every two years. IDEM conducts approximately 90 percent of these inspections, and EPA Region 5 
+conducts the remaining 10 percent. 
+
+CSO-specific inspections are performed 
+
+on an as-needed basis. WATER QUALITY
+ STANDARDS PROGRAM Use attainability analyses and water 
+
+quality standards reviews are 
+
+conducted by IDEM. The Indiana Water 
+
+Pollution Control Board, the rule-making arm of the IDEM water group, is responsible for reviewing and revising 
+water quality standards. In 1990, 
+Indiana required that
+ all waters at all 
+
+times must support full-body contact 
+recreation uses. The state™s E. coli bacteriological criteria for full-body contact recreation are a daily maximum of 235 colony-forming units (cfu) per 
+
+100ml in a single sample in a 30-day 
+period, and a geometric mean of 125 
+cfu per 100ml based on no fewer than 
+
+five samples over a 30-day period. This 
+standard has been judicially 
+interpreted as an end-of-pipe standard. 
+Partly as a result of this decision, the  
+legislature adopted Senate Enrolled Act (SEA) 431 in 2000 to allow targeted  
+
+relief from this requirement provided specific criteria are met. Under SEA 431, CSO communities may 
+request a suspension of designated use 
+for no more than four days after a CSO 
+
+discharge. Such suspensions of use are 
+considered to be changes to water 
+quality standards and must be 
+
+reviewed and approved by EPA. 
+
+Suspensions of use are not likely to 
+take place in areas that are genuine 
+swimming areas, e.g., Lake Michigan beaches. IDEM guidance on SEA 431 
+provisions was issued in May 2001. In 2005, state law was further amended by SEA 620. SEA 620 amended the permissible terms of certain water quality standards variances and 
+
+variance renewals. It also established a 
+CSO wet weather use designation for 
+waters affected by CS
+Os, as specified in an approved LTCP. SEA 620 provides 
+
+for compliance schedules for meeting 
+
+water quality-based requirements 
+
+during development, approval, and 
+implementation of an LTCP. IDEM plans to develop regulations to implement portions of SEA 620. ENFORCEMENT PROGRAM IDEM has issued warnings of 
+noncompliance over the past few years to several CSO communities, generally 
+for failure to develop a SRCER or a CSO 
+
+Operational Plan. Indiana™s recently 
+
+enacted legislation, SEA 620, allows 
+IDEM to enter into judicially enforceable orders with CSO 
+communities to develop and 
+
+implement CSO controls. IDEM also 
+developed a CSO plan that describes 
+how IDEM will implement the CSO Control Policy in Indiana. The plan recognizes that several large CSO 
+4Œ2˜                                            
+           Chapter 4ŒState Approaches to CS
+O Control in the Lake Michigan Basin communities will implement CSO 
+controls through a federal consent 
+decree. Other high priority CSO communities will implement CSO 
+control through a state order or permit. Two formal enforcement actions have 
+been concluded against Indiana CSO 
+
+communities discharging in the Lake 
+Michigan basin. • .HammondŠFederal CSO Judicial Order (Effective Date: 4/23/99) • .LigonierŠState CSO 
+Administrative Penalty Order, 
+$6,450 (Effective Date: 11/04/04) 
+4.1.2 Status of CSO Control 
+Indiana has 18 CSO communities in the Lake Michigan basin, and 16 of these communities have one or more active 
+
+CSO outfalls. The location of Indiana CSO communities in the Lake Michigan 
+basin is presented in Figure 4.1.  
+The status of NMC 
+and LTCPs for these communities is presented in Table 4.1. 
+As shown, permits for 17 of the 18 
+
+communities require implementation 
+
+of the NMC and development of an 
+
+LTCP. Albion eliminated all CSOs through sewer separation and is not 
+required to implement the NMC or 
+develop an LTCP. Fifteen of the17 
+communities required to develop 
+
+LTCPs have submitted plans currently under review by IDEM and/or EPA. The 
+permit for the Gary Sanitation District 
+
+requires the submission of an LTCP, but 
+
+does not include a fixed submittal date. 
+
+Gary Sanitation District has not yet submitted an LTCP. IDEM is currently 
+
+developing a new permit that will 
+clarify the LTCP submittal 
+
+requirements. Angola™s LTCP is due in 
+
+2006. Location of Indiana CSO Communities in 
+
+the Lake Michigan Basin Eighteen of the 107 Indiana 
+CSO permits are issued to 
+CSO communities in the Lake Michigan basin. 
+Figure 4.1 4Œ3˜       
+   
+  
+    
+ 
+ 
+ 
+   
+ 
+ 
+ 
+                      Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Status of CSO Control Policy 
+Requirements in Indiana, Lake 
+
+Michigan Basin Only 
+As of 2005, nearly all Indiana CSO 
+communities in the Lake Michigan basin have developed and submitted LTCPs. 
+Table 4.1 NMC Required YES NO N/A 1aNo. of Communities 
+17 0 ˜Percent of Communities 94.4% 
+0% 5.6% ˜LTCP Required YES NO N/A 1aNo. of Communities 
+17 0 ˜Percent of Communities 94.4% 
+0% 5.6% ˜LTCP Submitted 
+YES NO N/A 1aNo. of Communities 
+15 2 ˜Percent of Communities 83.3% 
+11.1% 5.6% ˜LTCP Approved 
+YES NO N/A No. of Communities 
+1 14b 1a Percent of Communities 6% 
+88% 6% aAlbion, Indiana, has no NMC or LTCP requirements because sewer separation was 
+completed before the LTCP submission 
+requirement. ˜bLTCPs are under review. ˜
+The CSO controls proposed by or implemented in Indiana communities are 
+summarized in Table 4.2. As shown, six types of control technologies are in place 
+or are being considered in the Lake 
+Michigan basin. Michigan City™s LTCP has 
+been approved and is being implemented; it includes outfall elimination and a retention basin retrofit that adds 
+
+disinfection and dechlorination processes. Many other Indiana communities are waiting for LTCP approval and have begun 
+to implement controls. For example, Milford increased treatment plant capacity and eliminated its CSOs. Goshen is 
+implementing multiple controls that include relief sewer construction, a 
+treatment plant capacity upgrade, and  
+screening and disinfection at the 
+treatment plant outfall.  
+Detailed profiles for Indiana CSO communities including the number of 
+
+active outfalls, NMC and LTCP 
+requirements, LTCP status, CSO control 
+requirements, and existing and planned controls are presented in Appendix A
+. For further information on the 
+technologies and operational practices 
+most commonly used to control CSOs, see Appendix L of Report to CongressŠImpacts and Control of CSOs and SSOs (EPA 2004b). 
+4Œ4˜                                                   
+   
+       
+         
+      
+    
+        
+      
+  
+    
+      
+  
+   
+       
+      
+      
+      
+   
+       
+  
+  
+    
+   
+  
+       
+      
+           Chapter 4ŒState Approach
+es to CSO Control in the Lake Michigan Bas
+in Summary of CSO Controls 
+Implemented or Proposed in 
+
+Indiana CSO Communities in the 
+Lake Michigan Basin Table 4.2 Community 
+Sewer Separation Retention Treatment Basin (RTB) 
+New Sewer Construction 
+Treatment Plant Capacity Upgrade Screening High-Rate Treatment Albion  Angola  Chesterton  Crown Point  East Chicago Elkhart   Gary Goshen    Hammond  Kendallville  Ligonier 
+ Michigan City  Milford 
+ Mishawaka 
+   Nappane 
+  South Bend     Valparaiso 
+ Wakarusa    Control is in place or is being implemented. 
+ Control has been proposed or is scheduled to be implemented. 
+4Œ5˜       
+         Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+4.2 What is the Michigan Approach to CSO Control? 
+4.2.1 Strategy for CSO Control and NPDES Permitting MDEQ is the NPDES authority in Michigan. Prior to the issuance of EPA™s CSO Control 
+Policy in 1994, Michigan had a CSO 
+
+strategy in place. MDEQ modified its CSO program to include elements of the CSO 
+Control Policy. MDEQ requires all CSO 
+
+communities to implement the NMC and 
+to develop an LTCP. During the 
+interim/initial phases of the CSO Control 
+Plan, Michigan did not emphasize solids and floatables control, one of the NMC. The 
+control of solids and floatables is required 
+as part of the LTCP construction phase 
+(EPA 2001b). Michigan requires that communities either eliminate (via sewer 
+
+separation) or provide ﬁadequate treatmentﬂ of CSOs. Adequate treatment is 
+defined as follows: • .Retention and full treatment of the 
+one-year, one-hour design storm 
+• .Primary treatment of the ten-year, 
+one-hour design storm (primary treatment is defined as 30-minute 
+detention time) 
+• .Limited treatment of flows above the 
+ten-year, one-hour design storm 
+Communities that meet the adequate 
+treatment requirements, which are more 
+
+protective than the presumption approach outlined in the CSO Control Policy, are presumed to meet Michigan™s water 
+quality standards. Some communities are 
+attempting to demonstrate that they can 
+
+achieve water quality standards with lesser treatment than that required under 
+
+Michigan™s adequate treatment definition. This approach is explicitly allowed in the 
+
+permit. Michigan Public Act 451 requires facilities in Michigan to notify MDEQ within 24 hours of when a CSO discharge begins. 
+
+After the discharge ends, the facility must 
+submit a complete report that includes the 
+
+location and volume of the discharge as well as the start/end date and time. PERMITTING PROGRAM Michigan has a statewide total of 42 CSO 
+permits with 11 CSO permits in the Lake 
+Michigan basin. Michigan™s CSO program is implemented in two phases. Phase I requires operational improvement to 
+
+minimize CSOs, CSO monitoring, and 
+
+construction of interim CSO control 
+projects where feasible. Phase I also requires development of a final program leading to elimination or adequate 
+treatment of CSOs. Phase II requires 
+
+implementation of the final program in 
+subsequent NPDES permits. WATER QUALITY
+ STANDARDS PROGRAM MDEQ has jurisdiction over the water 
+quality standards program. In general, 
+
+Michigan water quality standards staff are not involved in LTCP reviews, except when 
+
+a community is attempting to demonstrate that it can achieve water quality standards with lesser treatment than that required 
+under Michigan™s adequate treatment 
+approach. All communities meeting the 
+
+adequate treatment design standards specified for CSO control are presumed to meet water quality standards. Michigan 
+
+rules allow the use of alternate design 
+flowsŠi.e., alternate to the average low 
+
+flow over seven consecutive days in a 10˚
+year period (7Q10) or 95 percent exceedance flowsŠwhen determining 
+
+water quality-based requirements for 
+
+intermittent wet weather discharges such 
+
+as treated CSOs.   
+4Œ6˜                                                   
+   
+        
+ 
+ 
+ 
+               Chapter 4ŒState Approach
+es to CSO Control in the Lake Michigan Bas
+in Location of Michigan CSO Communities in the Lake 
+
+Michigan Basin 
+Figure 4.2 ENFORCEMENT PROGRAM 
+Enforcement actions have been taken 
+where municipalities have been unwilling 
+or unable to agree to CSO program 
+schedules acceptable to MDEQ. Several Director™s Final Orders have been issued to 
+
+communities to develop and implement 
+
+an LTCP. Two formal enforcement actions 
+
+have been concluded against Michigan CSO permittees discharging to the Lake Michigan basin. • .ManisteeŠFederal CSO Judicial Order 
+(Effective Date: 4/21/88) • .East LansingŠState CSO 
+
+Administrative Penalty Order (Effective 
+Date: 6/29/99) 4.2.2 Status of CSO Control  
+As shown in Figure 
+4.2, 11 Michigan CSO 
+communities are located in the Lake 
+Michigan basin. All 11 Michigan CSO 
+communities in the Lake Michigan basin 
+
+have NMC and LTCP requirements, have 
+submitted LTCPs to MDEQ, and have 
+approved LTCPs (Table 4.3). The CSO controls implemented or scheduled to be implemented in these 
+Michigan CSO communities are 
+summarized in Table 4.4. As shown, a variety of control technologies are being implemented. The communities of Norway 
+and Menominee have completed 
+implementation of their LTCPs. Norway has a retention treatment 
+basin at its single 
+CSO outfall, and Menominee has completed a sewer separation project to  
+
+eliminate its CSOs. Another community, 
+Iron Mountain-Kingsford, has a retention 4Œ7˜       
+             Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+treatment basin in place, and its sewer 
+separation project is under construction. 
+Sewer separation is scheduled or 
+underway for five other communities. Other controls in place or planned include 
+retention treatment basins, pipe 
+
+rehabilitation, and inflow and infiltration 
+(I/I) reduction or removal. Retention treatment basin controls include primary 
+sedimentation, skimming, and disinfection. Retention treatment basins are currently 
+used by six of the 11 communities. 
+Discharge characterization reports are 
+required for retention treatment basin 
+discharges. Several communities currently use more than one control method or plan 
+
+to introduce additional controls. Detailed profiles for Michigan CSO communities, including the number of 
+active outfalls, NMC and LTCP 
+
+requirements, LTCP status, control 
+
+requirements, and existing and planned 
+controls, are presented in Appendix A. 
+Status of CSO Control Policy 
+Requirements in Michigan, Lake Michigan Basin Only 
+All Michigan CSO communities in the 
+Lake Michigan basin have submitted 
+LTCPs that have been approved by the state. Table 4.3 NMC Required YES NO No. of Communities 
+11 0 ˜Percent of Communities 100% 0% ˜LTCP Required YES NO No. of Communities 
+11 0 ˜Percent of Communities 100% 0% ˜LTCP Submitted 
+YES NO No. of Communities 
+11 0 ˜Percent of Communities 100% 0% ˜LTCP Approved 
+YES NO No. of Communities 
+11 0 ˜Percent of Communities 100% 0% ˜4Œ8˜                                                   
+   
+                                            
+        
+                      Chapter 4ŒState Approach
+es to CSO Control in the Lake Michigan Bas
+in CSO Controls Implemented or 
+Scheduled to Be Implemented in 
+Michigan CSO Communities in the 
+
+Lake Michigan Basin Michigan CSO communities are using a 
+variety of technologies to control CSOs. 
+Table 4.4 Community 
+Crystal Falls East Lansing Grand Rapids 
+Iron Mountain-Kingsford 
+Lansing Manistee Manistique Menominee 
+Niles Norway 
+St. Joseph Sewer Separation   
+     RTB  
+  
+   Sewer Rehabilitation 
+  I/I Reduction    Control is in place or is being implemented. ˜
+ Control has been proposed or is scheduled to be implemented. ˜
+4.3 What is the Wisconsin Approach to CSO Control? 
+The Wisconsin Department of Natural 
+Resources (WDNR) is both the NPDES 
+
+authority and the water quality standards 
+authority in Wisconsin. There are only two 
+CSO communities in Wisconsin, and 
+Milwaukee is the only CSO community 
+
+located within the Lake Michigan basin 
+(Figure 4.3). MMSD serves the City of 
+Milwaukee and 28 neighboring communities. The CSS covers 
+
+approximately 24 square miles and has 117 active CSO outfalls. All of the CSOs are 
+under the jurisdiction of MMSD. 4.3.1 Strategy for CSO Control and NPDES Permitting PERMITTING PROGRAM WDNR required CSO communities to 
+submit CSO facility plans prior to the 
+issuance of the CSO Control Policy in 1994. MMSD currently has NMC and LTCP requirements in its permit, and its LTCP is 
+scheduled for completion in 2007. 4Œ9˜       
+       Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Wisconsin™s CSO Community in 
+the Lake Michigan Basin The Milwaukee Metropolitan Sewerage 
+District (MMSD) operates the only 
+Wisconsin CSS in the basin. 
+Figure 4.3 ENFORCEMENT PROGRAM The MMSD is subject to a 2001 stipulation agreement that requires it to build several SSO projects and to develop an LTCP for 
+CSOs. On October 27, 2005, the State of 
+Wisconsin filed a complaint against MMSD 
+for SSO and CSO discharges to the 
+Menomonee River, Milwaukee River, and Lake Michigan. 4.3.2 Status of CSO Control  
+MMSD has maintained an inline storage 
+system (ISS) based on tunnels to store and 
+convey wet weather flows, including 
+
+combined sewage, since 1994. The ISS 
+tunnels have a total capacity of 400 MG and a combined length of over 20 miles. 
+Since 1994, the ISS tunnels have prevented 
+
+more than 37 BG of CSOs and SSOs from 
+entering area waterways, including Lake Michigan. Between 1994 and 2000, CSOs decreased from 40-60 events per year to an 
+
+average of 2.5 events per year (WDNR 2001). Operation of the system has been 
+
+modified in the last few years to decrease  
+CSO capture rates in order to increase SSO 
+
+capture from the satellite communities. MMSD has also implemented a stream and lake monitoring program and a sewer 
+separation project that identifies areas 
+where storm flow can be rerouted out of 
+the CSS. A comparison of pre-ISS annual overflow volumes with post-ISS overflow 
+volumes is presented in Figure 4.4. This 
+
+comparison was made in 2002, prior to the 
+
+release of revised CS
+O statistics by MMSD in 2004. See section 3.1.1 of this report for 
+more information. 4Œ10˜                                                   
+   
+                      Chapter 4ŒState Approach
+es to CSO Control in the Lake Michigan Bas
+in Comparison of Pre-ISS 
+Annual Overflow 
+Volumes with Post-ISS 
+
+Overflow Volumes in 
+
+Milwaukee, WI (State of Wisconsin, Legislative 
+Audit Bureau 2002) Figure 4.4Millions of Gallons
+8,000 
+7,000 
+6,000 
+5,000 
+4,000 
+3,000 
+2,000 
+1,000 
+0 4.4 What is the Illinois Approach to CSO Control? 
+4.4.1 Strategy for CSO Control and NPDES Permitting PERMITTING PROGRAM The Illinois Environmental Protection Agency (Illinois EPA) is the NPDES authority 
+
+in Illinois. Illinois EPA implements CSO 
+control through the NPDES permit process. 
+Illinois™ program includes an approach that pre-dates the 1994 CSO Control Policy in establishing control criteria presumed to 
+
+protect water quality, and it allows a 
+demonstration that other criteria are 
+protective. Three additional Best Management Practices from the CSO CSO SSO Estimated Pre-ISS 
+Actual Post-ISS 
+Control Policy were incorporated into the 
+existing Illinois program
+, so that its CSO permits are consistent with NMC requirements (EPA 2001b). WATER QUALITY
+ STANDARDS PROGRAM Water quality standards are under the 
+
+jurisdiction of the Illinois Pollution Control Board. Illinois bacterial standards for ﬁgeneral useﬂ waters are based on a 
+geometric mean fecal coliform level of 200 
+
+cfu/100ml, with no more than 10 percent 
+of samples exceeding 400 cfu/100ml. This standard is applicable May through 
+October. In parts of the Chicago River 
+
+system where the State™s ﬁsecondary useﬂ 
+
+designation applies, there is currently no 
+bacterial criterion in place. 4Œ11˜       
+            Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Volume of Combined Sewage 
+Captured by TARP: 1982Œ2004 (MWRDGC 2005a) 
+Table 4.5 Date Stickney Flow
+a (BG) Calumet Flowa (BG) Kirie Flowb (BG) Total (BG) 1982-1993c 206.20 60.20 37.30 303.70 1994 18.74 7.83 1.44 28.01 1995 22.84 9.08 2.60 
+34.51˜ 1996 21.54 12.02 2.23 35.79 1997 29.10 8.44 1.50 
+39.04˜ 1998 34.31 13.23 2.69 50.23 1999 27.20 11.77 3.15 
+42.12˜ 2000 28.55 11.55 2.14 42.23 2001 48.43 16.34 3.24 
+68.01˜ 2002 41.17 11.15 1.50 53.82 2003 27.22 14.88 1.48 
+43.58˜ 2004 28.05 15.55 2.67 46.27 Total 533.35 192.04 61.94 
+787.31 aStickney and Calumet data were taken from TARP pumpback reports. 
+bKirie data were taken from LIMS KRRAW69 Report. CSO capture 
+was calculated by subtracting the average dry weather flow 
+  from the average daily flow. The flow data were provided by the MWRDGC Maintenance and Operations Department  
+(Technical Projects). cData were supplied by the  MW
+RDGC Engineering Department. ENFORCEMENT PROGRAM Illinois EPA does not have direct administrative order authority. Significant 
+noncompliance is referred to the State Attorney General. 
+4.4.2 Status of CSO Control 
+MWRDGC, the City of Chicago, and 40 satellite communities in the Chicago 
+
+metropolitan area are part of the TARP, 
+which captures and transports CSO flows 
+for storage and treatm
+ent at wastewater treatment facilities. Illinois EPA reviewed 
+and approved the TARP as the LTCP for all 
+
+of these communities. Construction of 
+Chicago™s TARP began in 1976 and has 
+been implemented in two phases. The first phase focused on reducing CSOs and is  
+nearing completion. River reversals to Lake Michigan have also been reduced in Phase I, and no river reversals have occurred 
+since 2002. The second phase provides flood control benefits and further increases CSO capture. Under Phase II, O™Hare 
+Reservoir was completed in 1998, 
+construction on McCook Reservoir began 
+in 2000, and Thornton Reservoir has a 
+planned completion date of 2015. CSO volumes (in billion gallons) captured by TARP since 1982 are presented in Table 
+
+4.5. Stickney, Calumet, and Kirie are the 
+treatment plants to which TARP flows are 
+conveyed. Natural variations in the rainfall 
+conditions affect the annual volume of 
+
+combined sewage generated and 
+
+captured. 4Œ12˜             Chapter 5 Conclusions and Future Actions ˜This chapter summarizes the progress 
+
+made in controlling CSOs that 
+discharge within the Lake Michigan basin, and it describes the future 
+actions that EPA and state regulatory 
+
+authorities plan to take to address the 
+remaining CSO discharges. Success in 
+
+CSO control efforts will be achieved 
+when all CSO discharges are either 
+eliminated or brought under a level of 
+control consistent with the water 
+
+quality-based and technology-based 
+requirements of the Clean Water Act. 
+EPA recognizes that this will be a long-term effort and has established a 
+process under the CSO Control Policy 
+
+for achieving this goal. 
+Progress towards controlling CSOs is based on the establishment of requirements, typically under NPDES 
+permit conditions, for CSO 
+communities to implement 
+
+immediate measures to reduce CSO discharges (i.e., NMC) and to develop 
+an LTCP to meet the requirements of 
+the Clean Water Act. Following 
+
+approval of LTCPs by the NPDES 
+
+authority, implementation schedules are incorporated into enforceable 
+documents such as NPDES permits, 
+administrative orders, or judicial 
+consent decrees. Review and 
+modification of water quality standards may be carried out as part  
+of LTCP development in some cases. Changes to water quality standards  
+
+must be adopted by state water quality standards authorities and 
+approved by EPA. Implementation 
+schedules for completing CSO 
+
+controls in some cases extend over 
+many years because of factors such as scope, complexity, and financial capability. Much progress has been made in controlling CSOs in the Lake Michigan 
+basin, both prior to and following the release of the CSO Control Policy. 5.1 What are Current 
+Conditions in the Lake Michigan Basin? All CSO communities discharging within the Lake Michigan basin have either brought their CSOs under 
+control, are under implementation 
+schedules to bring their CSOs under 
+control, or are under permits that 
+require the implementation of the NMC and development of an LTCP. (The CSO permit for the Gary Sanitary 
+District in Indiana will be reissued to 
+clarify the submittal date 
+requirements for the LTCP.) 
+5Œ1˜       
+         Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+In Indiana, 15 of 18 CSO communities 
+in the Lake Michigan basin have 
+developed and submitted LTCPs. The LTCP for Michigan City has been approved. The remaining LTCPs are 
+under review by IDEM and/or EPA.  
+
+One CSO community, Albion, does 
+not have NMC or LTCP requirements 
+because it eliminated its CSOs through sewer separation prior to the 
+
+LTCP submission requirement. As 
+noted above, the permit for the Gary 
+
+Sanitation District requires the 
+submission of an LTCP, but it does not specify a submittal date. IDEM is currently developing a new permit that will clarify LTCP submittal 
+requirements. 
+In Michigan, all 11 CSO communities within the Lake Michigan basin have 
+approved LTCPs and are under 
+enforceable schedules to implement 
+these LTCPs. Two communities 
+(Menominee and Norway) have 
+already completed their CSO control 
+projects. Two additional CSO 
+communities will complete their 
+
+control projects by 2007. All Michigan CSO communities are targeted to complete their CSO control projects 
+by 2020, and most are presently 
+under construction. Michigan CSO 
+communities have achieved CSO 
+control through a number of approaches including sewer 
+separation, retention/treatment, and 
+
+disinfection. In Wisconsin, CSO discharges in the 
+Milwaukee area have been reduced in frequency from 40-60 times per year 
+to an average of 2.5 times per year 
+
+since the MMSD sewage system 
+
+began operation of the ISS in 1994. Nevertheless, large volumes of 
+combined sewage can be discharged 
+
+in the Milwaukee area when CSOs 
+occur. In recent  
+years, the MMSD and tributary 
+
+communities have experienced SSOs, 
+
+and MMSD™s ability to address SSOs is interrelated with its CSO control 
+program via ISS. MMSD is required to 
+develop an LTCP by 2007 to address 
+concerns about the potential water 
+quality impacts of the remaining CSO discharges. CSOs in the Chicago, Illinois area have been greatly reduced due to the 
+
+construction of the tunnel system 
+
+under TARP. Completion of the reservoir portion of TARP, currently  
+scheduled for 2015, is expected to 
+further reduce CSOs and the 
+
+likelihood of river reversals affecting Lake Michigan. 5.2 What are Future EPA Actions to Control CSOs in the Lake Michigan Basin? EPA expects that future actions to 
+control CSOs in the Lake Michigan 
+basin will entail continued oversight 
+to implement existing programs. 
+While all states in the Lake Michigan 
+basin are authorized to implement NPDES permit programs, including 
+CSO control, EPA maintains a number 
+of functions that help facilitate the full 
+achievement of CSO control goals. These functions include state permit 
+program oversight, state enforcement 
+
+program oversight, federal 
+enforcement activity, technical 
+
+assistance, financial assistance, and 
+review and approval of changes to state water quality standards related 
+
+to CSOs. These activities are discussed 
+
+below. 5Œ2˜          Chapter 5ŒConclusions and Future Actions 
+5.2.1State Permit Oversight 
+The CSO Control Policy includes expectations for NPDES permitting 
+authorities. In general, EPA 
+envisioned a phased approach to 
+
+permitting, including initial 
+requirements to implement the NMC 
+and develop an LTCP, followed by 
+
+requirements to implement controls 
+outlined in the approved LTCP. The 
+Wet Weather Water Quality Act of 2000 requires that each permit issued 
+pursuant to the Clean Water Act for a 
+
+discharge from a municipal CSS shall 
+conform to the CSO Control Policy. State NPDES authorities in the Lake 
+Michigan basin have issued NPDES permits to CSO communities that are 
+
+consistent with the CSO Control 
+
+Policy. The particular permit 
+requirements depend on the state 
+and the status of CSO control within a 
+given community. Where the LTCP or 
+
+specific CSO control projects have 
+been constructed, permits include 
+
+requirements to properly operate 
+these systems, limitations on discharges (where appropriate), 
+and/or prohibitions on discharge 
+where the LTCP was based on 
+
+elimination of CSOs. Where an LTCP has been developed but controls have not been constructed, permits 
+
+include requirements to construct 
+specific controls. In other cases, 
+
+permits require the development and 
+submission of LTCPs. 
+In Indiana, 14 CSO communities in the 
+Lake Michigan basin have developed 
+and submitted LTCPs that are not yet 
+approved. One community has an LTCP approved by the state. The state 
+also has a backlog of unapproved 
+LTCPs from areas outside of the Lake 
+
+Michigan basin. IDEM and EPA have 
+been working together to develop an approach to complete the review and 
+
+approval of these plans. The state has 
+
+targeted 65 of its 107 LTCPs, including 
+13 for CSO communities in the Lake Michigan basin, for approval by 2007. 
+
+An additional 10 LTCPs, including one 
+for a CSO community in the Lake 
+Michigan basin, are targeted for approval by 2008. Approval of all LTCPs is expected by 2009. EPA will continue to work with state NPDES authorities to ensure that 
+
+reissued permits contain appropriate conditions for CSO control in order to minimize CSO discharges in 
+
+accordance with the CSO Control 
+
+Policy. 5.2.2 State Enforcement 
+Program Oversight  
+EPA developed work plans and 
+
+Memoranda of Agreement with states 
+to ensure that state enforcement 
+efforts on CSOs are consistent with 
+
+federal efforts and the CSO Control 
+
+Policy. Some activities undertaken to ensure consistency between EPA and state efforts include periodic reporting, work sharing 
+
+arrangements, and discussions of 
+case-specific issues. 
+These activities are designed to ensure that the entire 
+CSO universe is addressed; that there is minimal duplication of effort; and 
+that there is consistency in the levels 
+
+of control and timing sought for CSO 
+control. 5.2.3 Enforcement Activity EPA is engaged in active discussions with five of the larger Lake Michigan CSO communities in Indiana to 
+establish enforceable schedules for 
+
+the implementation of LTCPs. These 
+five communities represent 28 percent of the 18 Indiana Lake 5Œ3˜       
+    Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Michigan CSO communities and 17 
+percent of the 30 total Lake Michigan 
+CSO communities. The priority ranking system used by Region 5 established these communities as 
+high priority, high impact CSO areas 
+because of CSO discharges to 
+interstate waters and the nature and 
+extent of impacts on those receiving 
+waters. All 11 Michigan CSO communities in the Lake Michigan basin are subject 
+to state enforceable schedules to 
+implement LTCPs. In all cases, implementation is nearing 
+completion or is in compliance with 
+the state enforceable schedules. EPA 
+
+deemed that federal enforcement 
+was not necessary for these 
+communities because of the 
+
+advanced nature of LTCP 
+
+implementation and the State of 
+Michigan™s record in ensuring that 
+schedules are maintained. In Milwaukee, Wisconsin, MMSD has substantial CSO control in place, 
+including a very large storage tunnel. 
+
+Implementation of additional CSO control is being sought under a state court consent agreement. A revised 
+LTCP is due to the state in 2007. In Chicago, Illinois, EPA is engaged in discussions with the MWRDGC about 
+establishing an enforceable schedule to complete the reservoir stage of 
+
+TARP. When completed, TARP will 
+further minimize the potential for 
+
+discharges to Lake Michigan. 5.2.4 Technical Assistance  
+EPA has sponsored two Region 5 LTCP development and review seminars in Indiana. In addition, state inspectors 
+are invited to, and regularly attend,  
+
+wet weather inspections conducted by EPA. Concurrent review of 
+
+technical documents from EPA-led  
+
+enforcement cases is conducted with 
+the states. EPA ha
+s reviewed and commented on a number of LTCPs outside of the enforcement context to 
+help build state capacity. 5.2.5 Financial Assistance  
+Congress created EPA™s Clean Water State Revolving Fund in 1987 to serve 
+as a long-term funding source for 
+
+infrastructure projects related to 
+
+water quality. All 50 states and Puerto Rico maintain revolving loan programs through the Clean Water State Revolving Fund to provide low-
+cost financing for these projects 
+
+through low-interest loans. The Clean 
+
+Water State Revolving Fund provided over $5.3 billion in funds for assistance in 2004. The Clean Water State Revolving Fund 
+loans used for CSO-related projects in 
+the four Lake Michigan states totaled 
+more than $1.8 billion over the period 1987 through 2004. Eighteen of the 
+CSO communities in the Lake 
+Michigan basin received Clean Water 
+State Revolving Fund loans that 
+
+supported ongoing and completed CSO projects, particularly in Illinois 
+and Michigan. Several CSO 
+communities, including Chicago, 
+
+Milwaukee, and Lansing, are on the 
+list for substantial loans in the future. Clean Water State Revolving Fund 
+
+needs for Indiana CSO communities 
+will be better defined once LTCPs are 
+approved. There has also been considerable 
+investment in CSO projects by Great Lakes states. It is expected that CSO  control will continue to be a priority 
+in these states. 5Œ4˜           Chapter 5ŒConclusions and Future Actions 
+5.2.6 Water Quality Standards  
+            Review and Approval 
+The CSO Policy provides that ﬁ[d]evelopment of the LTCP should be 
+
+coordinated with the review and 
+appropriate revision of water quality 
+standards and implementation procedures on CSO-impacted waters to ensure that long-term controls will 
+be sufficient to meet water quality 
+standardsﬂ (59 FR 18694). In 2001, EPA 
+
+issued Guidance: Coordinating Combined Sewer Overflow (CSO) Long 
+
+Term Planning with Water Quality 
+
+Standards Reviews (EPA 2001a), which details the process for coordinating 
+LTCP development and 
+implementation with water quality standards review. While states regularly review the adequacy of proposed CSO control 
+measures based on their ability to meet water quality standards, no 
+states have yet submitted requests for 
+changes in water quality standards for 
+
+CSO-impacted waters within the Lake 
+
+Michigan basin. As discussed in 
+Section 4.1, Indiana has passed legislation (SEA 341) that would allow 
+for suspensions of designated use in 
+
+certain cases and establish wet 
+
+weather use designations for waters affected by CSOs (SEA 620). EPA is 
+currently working with IDEM as it 
+develops rules to implement portions 
+of SEA 620. EPA does not believe that 
+changes to recreational uses for Lake 
+
+Michigan beaches are likely. 5.3 Summary ˜EPA believes that a sound regulatory 
+program is in place that will lead to full implementation of the CSO 
+Control Policy to protect Lake 
+
+Michigan from water quality impacts 
+related to CSO discharges. CSO control efforts, to date, have greatly 
+reduced discharges of untreated 
+CSOs to the lake, most significantly 
+from the Chicago and Milwaukee 
+metropolitan areas. In Michigan, all 
+communities have adequate controls 
+in place or are implementing 
+programs to correct their CSO 
+
+problems. Significant additional 
+reductions are expected, particularly as communities in Indiana complete CSO planning and construct controls. 
+EPA will continue to work cooperatively with the state NPDES 
+authorities to ensure that consistent 
+approaches to addressing CSO 
+control are sought at the state and 
+
+federal levels. EPA will also continue 
+
+to explore work-sharing opportunities 
+in order to utilize federal and state resources more efficiently. Bringing all CSOs into compliance with the Clean Water Act and the CSO 
+
+Control Policy is necessary to ensure 
+that surface waters are safe for 
+fishing, swimming, and public water supply. However, other sources of 
+
+pollution (e.g., nonpoint sources, 
+storm water runoff, SSOs, and other 
+
+wastewater treatment system 
+bypasses) must be addressed before 
+these goals can be fully realized. In many cases, those communities required to remediate CSSs are also 
+
+being called upon to address other  
+wet weather pollution problems, 5Œ5˜       
+      Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+including storm water and SSOs. For example, CSSs are often part of larger collection systems that contain SSSs. 
+The sanitary sewer portions of these 
+collection systems may be prone to 
+
+SSOs, and communities will be 
+required to address SSOs in addition 
+to their CSOs.  
+EPA believes that a degree of flexibility is appropriate with respect 
+to the establishment of 
+
+implementation schedules to 
+complete CSO controls, due to the often substantial costs associated with technologies to control wet weather pollution problems (e.g., 
+CSOs and SSOs) and the complexity 
+
+associated with corrective actions. 
+EPA will continue to seek early actions to reduce CSO discharges to the 
+extent possible, while LTCPs are being 
+
+implemented. On a case-by-case 
+basis, EPA will evaluate the length of 
+LTCP implementation schedules for each community. In such evaluations, EPA will examine factors that include 
+financial, technical, environmental, 
+and public health considerations. 5Œ6˜                   
+            
+ 
+ References Environment Canada and EPA. 1995. ﬁGreat 
+Lakes Atlas.ﬂ Retrieved July 13, 2005. http://www.epa.gov/glnpo/atlas/index.html
+. Environmental Protection Agency (EPA). 1984. 
+Office of Water. 
+Regional and State Guidance on 
+the National Municipal Policy.
+ No document 
+number. EPA. 1989. Office of Water. National CSO 
+Control Strategy (54 FR 37371). 
+EPA. 1994. Office of Water. 
+Combined Sewer Overflow (CSO) Control Policy.
+ EPA 830-94-001. EPA. 2001a. Office of Water. 
+Guidance: Coordinating Combined Sewer Overflow (CSO) 
+Long-Term Planning with Water Quality 
+Standards Reviews. 
+EPA 833-R-01-002. 
+EPA. 2001b. Office of Water. 
+Report to CongressŠImplementation and Enforcement of 
+
+the Combined Sewer Overflow Control Policy. 
+EPA 833-R-01-003. 
+EPA. 2002. Office of Water. 
+National Water 
+Quality Inventory: 2000 Report to Congress.
+ EPA 841-R-02-001. 
+EPA. 2004a. Office of Enforcement and 
+Compliance. ﬁPerformance-Based Strategy for 
+
+the Combined Sewer Overflow National 
+Compliance and Enforcement Priority.ﬂ October 
+
+21, 2004. EPA. 2004b. Office of Water. 
+Report to CongressŠImpacts and Control of CSOs and 
+SSOs. 
+EPA 833-R-04-001. 
+EPA. 2005. Great Lakes Areas of Concern (AOCs) 
+On-line. Retrieved July 13, 2005. 
+http://www.epa.gov/glnpo/aoc/index.html
+. EPA. 2006. Office of Water. ﬁNational Water 
+Program Guidance: FY 2006.ﬂ Retrieved August 
+15, 2005. 
+http://www.epa.gov/water/waterplan/#nwp06
+. Indiana Department of Environmental 
+Management (IDEM). 2005. Combined Sewer 
+Overflow Group web page. Retrieved August 
+
+17, 2005. 
+http://www.in.gov/idem/permits/water/wastew 
+
+ater/wetwthr/cso/index.html
+. International Joint Commission. 1989. 
+
+Agreement, with Annexes and Terms of 
+
+Reference Between the United States and 
+Canada signed at Ottawa November 22, 1978, 
+
+and Phosphorus Load Reduction Supplement 
+signed October 16, 1983, as amended by 
+Protocol signed November 18, 1987 Office 
+
+Consolidation. Retrieved July 13, 2005. 
+http://www.epa.gov/glnpo/glwqa/1978/
+. Lake Michigan Technical Committee (LMTC). 
+2000. Lake Michigan Lakewide Management 
+
+Plan (LaMP) 2004. Retrieved September 13, 
+
+2005. 
+http://www.epa.gov/glnpo/lakemich/index. 
+
+html. LMTC. 2002. Lake Michigan Lakewide 
+
+Management Plan (LaMP) 2004. Retrieved 
+
+September 13, 2005. 
+http://www.epa.gov/glnpo/lakemich/lm02/ind 
+ex.html. LMTC. 2004. Lake Michigan Lakewide 
+Management Plan (LaMP) 2004. Retrieved 
+
+September 13, 2005. 
+http://www.epa.gov/glnpo/lakemich/2004upda 
+te/index.html
+. Management Advisory Group (MAG). 1992. 
+Recommendations from the Management 
+
+Advisory Group to the 
+Assistant Administrator for Water Concerning EPA™s Proposed 
+Expedited Combined Sewer Overflow Plan, 
+
+Washington, DC. MAG. 1993. Combined Sewer Overflow Work 
+Group Policy Dialogue Final Report. 
+Washington, D.C. REF-1˜               Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Metropolitan Water Reclamation District of 
+Greater Chicago (MWRDGC). 2005a. ﬁRiver 
+
+Reversals to Lake Michigan, 1985-Present.ﬂ 
+Retrieved August 17, 2005. 
+http://www.mwrdgc.dst.il.us/mo/csoapp/excelf 
+
+iles/Reversals.xls. MWRDGC. 2005b. Summary of CSO Reversals, 
+
+CSO main page. Retrieved July 21, 2005. http://www.mwrdgc.dst.il.us/mo/csoapp/defaul 
+t.htm. MDEQ. 2005. Combined Sewer Overflow (CSO) 
+and Sanitary Sewer Overflow (SSO) Annual Report 
+(January 1, 2004-December 31, 2004). 
+Retrieved December 20, 2005. 
+http://www.deq.state.mi.us/documents/deq˚
+
+wb-csossoreport04.pdf
+. Milwaukee Metropolitan Sewerage District 
+(MMSD). 2004. News Release: Extensive 
+
+investigation leads to 70% reduction in May 
+
+2004 overflow estimate. Retrieved August 19, 
+
+2005. 
+http://www.mmsd.com/n
+ews/news_detail.cfm? id=74. State of Wisconsin, Legislative Audit Bureau. 
+
+2002. An Evaluation: Milwaukee Metropolitan 
+
+Sewerage District.
+ Prepared by Paul Stuiber, 
+Director of Audit Bureau. 02-12. U.S. Policy Committee for the Great Lakes (USPC). 2002. ﬁGreat Lakes Strategy 2002: A Plan 
+
+for the New Millennium.ﬂ Retrieved August 15, 
+
+2005. http://www.epa.gov/glnpo/gls/gls2002.pdf
+. Wisconsin Department of Natural Resources 
+(WDNR). 2001. 
+Sewer Overflows in Wisconsin Œ A 
+Report to the Natural Resources Board.
+ Retrieved December 15, 2005. 
+http://www.dnr.state.wi.us/org/water/wm/WW/ 
+
+so/seweroverflows.pdf
+. REF-2 ˜             Appendix A˜ Community Profiles A.1 Indiana ˜A.2 Michigan ˜A.3 Wisconsin ˜                     Appendix A Appendix A A.1 INDIANA ˜Community: Albion Permit ID: IN0022144 Active Outfalls:
+ 0 NMC Required: NO LTCP Required: NO LTCP Status: n/a Summary of Controls: Sewer separation, completed 
+before the LTCP submission requirement. 
+LTCP Implementation: n/a Community: Angola Permit ID: IN0021296 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Not submitted. Summary of Controls: A sewer separation project is in place and is expected to be completed in 6 to 8 months. 
+LTCP Implementation: LTCP due in 2006. Community: Chesterton Permit ID: IN0022578, IN0M22578* 
+Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2004. Summary of Controls: Planning on or have installed screening at the WWTP. 
+LTCP Implementation: Evaluating additional controls (Note: the community discharges infrequently). AŒ1˜        
+      Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Community: Crown Point Permit ID: IN0025763 Active Outfalls:
+ 4 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2002. Summary of Controls: Has proposed sewer separation. Storage for transport and 
+treatment at the wastewater treatment plant. 
+Community: East Chicago Permit ID: IN0022829, IN0M22829* 
+Active Outfalls:
+ 3 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2004. Summary of Controls: The permittee is under a consen
+t decree covering a portion of CSO requirements - additional CSO control is likely. Retention equalization pond is in 
+place. Community: Elkhart Permit ID: IN0025674 Active Outfalls:
+ 39 NMC Required:
+ YES LTCP Required: YES LTCP Status: Submitted in March 2002. Summary of Controls: DOJ, EPA, and IDEM are currently discussing completion and approval of a Long Term Control Plan and an enforceable plan of implementation with the City. Community: Gary Sanitation District 
+Permit ID: IN0022977 Active Outfalls:
+ 11 NMC Required: YES LTCP Required: YES LTCP Status: Permit will be reissued to clarify submittal date requirements. AŒ2 ˜                 Appendix A Community: Goshen Permit ID: IN0025755, IN0M25755* 
+Active Outfalls:
+ 6 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2003. Summary of Controls: Construction of 3 relief sewers 
+and a siphon and gravity sewer, screening and disinfection at the treatment facility, plant capacity upgrade. 
+Elimination of all outfalls except for the outfall at the treatment plant, and fine screening and disinfection for the treatment plant outfall, are required. Community: Hammond Permit ID: IN0023060 Active Outfalls:
+ 20 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 1997. Summary of Controls: The permittee is under a consen
+t decree covering a portion of the CSO requirements Œ additional CSO co
+ntrol is likely. Has eliminated direct downspout connections, and has proposed storage basin construction. 
+LTCP Implementation: Required to eliminate 3 largest outfalls by May 1, 2010. Community: Kendallville Permit ID: IN0020656 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2002. Summary of Controls: Sewer separation is mostly complete. Six catch basins remain 
+connected to the CSS. Community: Ligonier Permit ID: IN0023582 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2003. Summary of Controls: LTCP proposes sewer separation. AŒ3˜        
+        Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Community: Michigan City Permit ID: IN0023752 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: Retrofit of a 5 MGD retention basin that adds disinfection and dechlorination processes. Effluent limitat
+ions and monitoring requirements, active outfall should not cause or contribute to exceedences of water quality criteria. 
+Community: Milford Permit ID: IN0020478 Active Outfalls:
+ 0 NMC Required: YES LTCP Required: YES LTCP Status: Submitted Summary of Controls: The treatment plant was upgraded to increase plant capacity. 
+Enough sewer separation has been c
+ompleted to eliminate all CSO outfalls. Community: Mishawaka Permit ID: IN0025640 Active Outfalls:
+ 18 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in January 2003. 
+Summary of Controls: DOJ, EPA and IDEM are curre
+ntly discussing completion and approval of a Long Term Control Plan and an enforceable schedule of implementation with the City. The City is currently mode
+ling its sewer network and receiving waters. 
+The City has proposed a WWTP expansion (to be completed in May 2007) and new 
+interceptor construction as part of its LTCP. 
+Community: Nappanee Permit ID: IN0021466 Active Outfalls:
+ 13 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2002. Summary of Controls: Planning on sewer separation, retention treatment basin 
+construction, and high-rate treatment installation. 
+AŒ4 ˜                     
+ 
+ Appendix A Community: South Bend Permit ID: IN0024520, M24520* Active Outfalls:
+ 44 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in December 2004. Summary of Controls: DOJ, EPA and IDEM are currently discussing completion and approval of a Long Term Control Plan and an enforceable schedule of implementation with the City. Community: Valparaiso Permit ID: IN0024660 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2003. Summary of Controls: A retention treatment basin is in place. Community: Wakarusa Permit ID: IN0024775, M24775* Active Outfalls:
+ 6 NMC Required: YES LTCP Required: YES LTCP Status: Submitted in 2004. Summary of Controls: One CSO has been eliminated. Wakarusa continues separation and has raised weirs. 
+*Indicates ‚CSO-only™ permit has been issued. AŒ5˜        
+        Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+A.2 MICHIGAN˜ Community: Crystal Falls Permit ID: MI0048879 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: Sewer separation project is nearing completion. Discharge 
+monitoring and reporting. LTCP Implementation: Administrative Consent Order was amended on February 25, 
+2004 which has extended the required date for the elimination of the remaining CSO outfalls due to the Michigan Department of Transportation post-separation road repairs. The new CSO outfall elimination date is November 15, 2007. Community: East Lansing Permit ID: MI0022853 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: Retention treatment basin in 
+use. Study of WWTP discharges to 
+ensure Water Quality Standards compliance when retention treatment basin is in use. 
+Discharge monitoring and reporting. LTCP Implementation: Permit requires elimination of outfalls by March 1, 2006. Community: Grand Rapids Permit ID: MI0026069 Active Outfalls:
+ 11 (1 with a retention treatment basin) 
+
+NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: A retention treatment basin is in place. A separation project eliminated several outfalls in 2001; additional separation will eliminate 10 outfalls by 
+2019. Primary sedimentation, skimming, and disinfecting for Outfall 003. Discharge monitoring and reporting. LTCP Implementation: Completion of Phase III of the control program is required by 
+2019. AŒ6 ˜                    
+ Appendix A Community: Iron Mountain-Kingsford Permit ID: MI0023205 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: An existing retention treatment basin and primary sedimentation, skimming, and disinfection 
+processes are in place. A sewer separation 
+project is under construction. Characterization reports of retention treatment basin 
+discharges and monitoring of basin performance. Discharge monitoring and reporting of all CSOs. LTCP Implementation: On or before April 4, 2008, the permittee is required to submit to MDEQ a CSO report that characterizes disch
+arges from the retention treatment basin 
+outfall. Community: Lansing Permit ID: MI0023400 Active Outfalls:
+ 27 (2 with retention treatment basins) 
+NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: Six-phase sewer separation is unde
+r construction, with first three 
+phases essentially complete. An existing retention treatment basin is in place. 
+Discharge monitoring and reporting. LTCP Implementation: Permit requires complete separation and elimination of 
+overflows by 2019. Community: Manistee Permit ID: MI0020362 Active Outfalls:
+ 4 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: Sewer separation project is
+ currently being implemented. 
+Discharge monitoring and reporting. LTCP Implementation: Permit requires elimination of overflows from outfall 014 by end-of-year 2011, and elimination of 3 remaining outfalls by December 31, 2016. AŒ7˜        
+   Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+Community: Manistique Permit ID: MI0023515 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: The remaining outfall is schedu
+led to be separated. Discharge 
+monitoring and reporting. LTCP Implementation: Permit requires elimination of discharges from the remaining outfall by 2020. Community: Menominee Permit ID: MI0025631 Active Outfalls:
+ 0 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: The LTCP was a sewer separation 
+project, and is complete. No 
+CSO discharges are authorized. 
+LTCP Implementation: LTCP complete, CSO discharges have been eliminated. 
+Community: Niles Permit ID: MI0023701 Active Outfalls:
+ 8 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: A sewer separation project will eliminate outfalls. An existing retention treatment basin is in place. E
+ffluent limitations and primary sedimentation 
+and disinfection requirements for the retention treatment basin outfall. Other outfalls 
+may not overflow during a 10-year/1 hour storm event. Discharge monitoring and 
+reporting. LTCP Implementation: Permit requires elimination of overflows by 2012, and elimination of retention treatment basin discharges by 2014. Community: Norway Permit ID: MI0020214 Active Outfalls:
+ 1 NMC Required: YES LTCP Required: YES LTCP Status: Approved AŒ8 ˜             Appendix A Summary of Controls: Retention treatment basin. Discharge monitoring and reporting. 
+LTCP Implementation: LTCP has been completed. Community: St. Joseph Permit ID: MI0026735 Active Outfalls:
+ 5 NMC Required: YES LTCP Required: YES LTCP Status: Approved Summary of Controls: The LTCP calls for flow redu
+ction through sewer rehabilitation and inflow/infiltration removal, which will eliminate CSOs. Discharge monitoring and reporting. LTCP Implementation: Permit requires completion of LTCP construction by 2013. AŒ9˜        
+      Report to Congress on Combined Sewer 
+Overflows to the Lake Michigan Basin 
+A.3 WISCONSIN ˜Community: Milwaukee Permit ID: WI0036820 
+Active Outfalls:
+ 117 NMC Required: YES LTCP Required?: YES LTCP Status: Complete LTCP due by June 2007. Summary of Controls: Diversion of CSOs to the Inline Storage System (ISS). Discharge 
+monitoring and reporting. AŒ10 ˜

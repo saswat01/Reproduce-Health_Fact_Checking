@@ -1,0 +1,168 @@
+Selection bias  From Wikipedia, the free encyclopedia    Jump to navigation Jump to search Bias in a statistical analysis due to non-random selection Selection bias is the bias introduced by the selection of individuals, groups or data for analysis in such a way that proper randomization is not achieved, thereby ensuring that the sample obtained is not representative of the population intended to be analyzed.
+ [1] It is sometimes referred to as the selection effect.
+ The phrase "selection bias" most often refers to the distortion of a statistical analysis, resulting from the method of collecting samples.
+ If the selection bias is not taken into account, then some conclusions of the study may be false.
+ Contents  1 Types  1.1 Sampling bias 1.2 Time interval 1.3 Exposure 1.4 Data 1.5 Studies 1.6 Attrition 1.7 Observer selection 1.8 Volunteer Bias   2 Mitigation 3 Related issues 4 See also 5 References   Types[edit] There are many types of possible selection bias, including:  Sampling bias[edit] Sampling bias is systematic error due to a non-random sample of a population,[2] causing some members of the population to be less likely to be included than others, resulting in a biased sample, defined as a statistical sample of a population (or non-human factors) in which all participants are not equally balanced or objectively represented.
+ [3] It is mostly classified as a subtype of selection bias,[4] sometimes specifically termed sample selection bias,[5][6][7] but some classify it as a separate type of bias.
+ [8] A distinction of sampling bias (albeit not a universally accepted one) is that it undermines the external validity of a test (the ability of its results to be generalized to the rest of the population), while selection bias mainly addresses internal validity for differences or similarities found in the sample at hand.
+ In this sense, errors occurring in the process of gathering the sample or cohort cause sampling bias, while errors in any process thereafter cause selection bias.
+ Examples of sampling bias include self-selection, pre-screening of trial participants, discounting trial subjects/tests that did not run to completion and migration bias by excluding subjects who have recently moved into or out of the study area.
+ Time interval[edit] Early termination of a trial at a time when its results support the desired conclusion.
+ Exposure[edit] Susceptibility bias Clinical susceptibility bias, when one disease predisposes for a second disease, and the treatment for the first disease erroneously appears to predispose to the second disease.
+ For example, postmenopausal syndrome gives a higher likelihood of also developing endometrial cancer, so estrogens given for the postmenopausal syndrome may receive a higher than actual blame for causing endometrial cancer.
+ [9] Protopathic bias, when a treatment for the first symptoms of a disease or other outcome appear to cause the outcome.
+ It is a potential bias when there is a lag time from the first symptoms and start of treatment before actual diagnosis.
+ [9] It can be mitigated by lagging, that is, exclusion of exposures that occurred in a certain time period before diagnosis.
+ [10] Indication bias, a potential mixup between cause and effect when exposure is dependent on indication, e.g.
+ a treatment is given to people in high risk of acquiring a disease, potentially causing a preponderance of treated people among those acquiring the disease.
+ This may cause an erroneous appearance of the treatment being a cause of the disease.
+ [11] Data[edit] Partitioning (dividing) data with knowledge of the contents of the partitions, and then analyzing them with tests designed for blindly chosen partitions.
+ Post hoc alteration of data inclusion based on arbitrary or subjective reasons, including: Cherry picking, which actually is not selection bias, but confirmation bias, when specific subsets of data are chosen to support a conclusion (e.g.
+ citing examples of plane crashes as evidence of airline flight being unsafe, while ignoring the far more common example of flights that complete safely.
+ See: Availability heuristic) Rejection of bad data on (1) arbitrary grounds, instead of according to previously stated or generally agreed criteria or (2) discarding "outliers" on statistical grounds that fail to take into account important information that could be derived from "wild" observations.
+ [12] Studies[edit] Selection of which studies to include in a meta-analysis (see also combinatorial meta-analysis).
+ Performing repeated experiments and reporting only the most favorable results, perhaps relabelling lab records of other experiments as "calibration tests", "instrumentation errors" or "preliminary surveys".
+ Presenting the most significant result of a data dredge as if it were a single experiment (which is logically the same as the previous item, but is seen as much less dishonest).
+ Attrition[edit] Attrition bias is a kind of selection bias caused by attrition (loss of participants),[13] discounting trial subjects/tests that did not run to completion.
+ It is closely related to the survivorship bias, where only the subjects that "survived" a process are included in the analysis or the failure bias, where only the subjects that "failed" a process are included.
+ It includes dropout, nonresponse (lower response rate), withdrawal and protocol deviators.
+ It gives biased results where it is unequal in regard to exposure and/or outcome.
+ For example, in a test of a dieting program, the researcher may simply reject everyone who drops out of the trial, but most of those who drop out are those for whom it was not working.
+ Different loss of subjects in intervention and comparison group may change the characteristics of these groups and outcomes irrespective of the studied intervention.
+ [13] Lost to follow-up, is another form of Attrition bias, mainly occurring in medicinal studies over a lengthy time period.
+ Non-Response or Retention bias can be influenced by a number of both tangible and intangible factors, such as; wealth, education, altruism, initial understanding of the study and it's requirements[14].
+ Researcher's may also be incapable of conducting follow-up contact resulting from inadequate identifying information and contact details collected during the initial recruitment and research phase[15].
+ Observer selection[edit] Philosopher Nick Bostrom has argued that data are filtered not only by study design and measurement, but by the necessary precondition that there has to be someone doing a study.
+ In situations where the existence of the observer or the study is correlated with the data, observation selection effects occur, and anthropic reasoning is required.
+ [16] An example is the past impact event record of Earth: if large impacts cause mass extinctions and ecological disruptions precluding the evolution of intelligent observers for long periods, no one will observe any evidence of large impacts in the recent past (since they would have prevented intelligent observers from evolving).
+ Hence there is a potential bias in the impact record of Earth.
+ [17] Astronomical existential risks might similarly be underestimated due to selection bias, and an anthropic correction has to be introduced.
+ [18]  Volunteer Bias[edit] Self-selection bias or a volunteer bias in studies offer further threat's the validity of a study as these participants may have intrinsically different characteristics from the target population of the study[19].
+ Studies have shown that volunteer's tend to come from a higher social standing than from a lower socio-economic background[20].
+ Further, to this another study shows that women are more probable to volunteer for studies than males.
+ Volunteer bias is evident throughout the study life-cycle, from recruitment to follow-ups.
+ More generally speaking volunteer response can be put down to individual altruism, a desire for approval, personal relation to the study topic and other reasons[20][21].
+ As with most instances mitigation in the case of volunteer bias is an increased sample size.
+ Mitigation[edit] In the general case, selection biases cannot be overcome with statistical analysis of existing data alone, though Heckman correction may be used in special cases.
+ However, in regression models, it is correlation between unobserved determinants of the outcome and unobserved determinants of selection into the sample which bias estimates, and this correlation between unobservables cannot be directly assessed by the observed determinants of treatment.
+ Related issues[edit] Selection bias is closely related to:  publication bias or reporting bias, the distortion produced in community perception or meta-analyses by not publishing uninteresting (usually negative) results, or results which go against the experimenter's prejudices, a sponsor's interests, or community expectations.
+ confirmation bias, the general tendency of humans to give more attention to whatever confirms our pre-existing perspective; or specifically in experimental science, the distortion produced by experiments that are designed to seek confirmatory evidence instead of trying to disprove the hypothesis.
+ See also[edit]  Berkson's paradox – The tendency to misinterpret statistical experiments involving conditional probabilities Black swan theory – Theory of response to surprise events Cherry picking – Logical fallacy Funding bias List of cognitive biases – Systematic patterns of deviation from norm or rationality in judgment Participation bias Publication bias – Higher probability of publishing results showing a significant finding Reporting bias Sampling bias Sampling probability Selective exposure theory – Theory in psychology referring to the tendency to favor information which reinforces pre-existing views Self-fulfilling prophecy – Prediction that causes itself to become true Survivorship bias – Logical error, form of selection bias Frequency illusion References[edit]   ^ Dictionary of Cancer Terms → selection bias.
+ Retrieved on September 23, 2009.
+ ^ Medical Dictionary - 'Sampling Bias' Retrieved on September 23, 2009  ^ TheFreeDictionary → biased sample.
+ Retrieved on 2009-09-23.
+ Site in turn cites: Mosby's Medical Dictionary, 8th edition.
+ ^ Dictionary of Cancer Terms → Selection Bias.
+ Retrieved on September 23, 2009.
+ ^ Ards, Sheila; Chung, Chanjin; Myers, Samuel L. (1998).
+ "The effects of sample selection bias on racial differences in child abuse reporting".
+ Child Abuse &amp; Neglect.
+ 22 (2): 103–115.
+ doi:10.1016/S0145-2134(97)00131-2.
+ Sample Selection Bias Correction Theory (PDF).
+ Algorithmic Learning Theory.
+ Lecture Notes in Computer Science.
+ 5254. pp.
+ 38–53.
+ arXiv:0805.2775.
+ CiteSeerX 10.1.1.144.4478. doi:10.1007/978-3-540-87987-9_8.
+ ISBN 978-3-540-87986-2.
+ ^ Cortes, Corinna; Mohri, Mehryar (2014).
+ "Domain adaptation and sample bias correction theory and algorithm for regression" (PDF).
+ Theoretical Computer Science.
+ 519: 103–126.
+ CiteSeerX 10.1.1.367.6899. doi:10.1016/j.tcs.2013.09.027.
+ ^ Fadem, Barbara (2009).
+ Behavioral Science.
+ Lippincott Williams &amp; Wilkins.
+ p. 262.
+ ISBN 978-0-7817-8257-9.
+ ^ a b Feinstein AR; Horwitz RI (November 1978).
+ "A critique of the statistical evidence associating estrogens with endometrial cancer".
+ Cancer Res.
+ 38 (11 Pt 2): 4001–5.
+ PMID 698947.
+ ^ Tamim H; Monfared AA; LeLorier J (March 2007).
+ "Application of lag-time into exposure definitions to control for protopathic bias".
+ Pharmacoepidemiol Drug Saf.
+ 16 (3): 250–8.
+ doi:10.1002/pds.1360.
+ PMID 17245804.
+ ^ Matthew R. Weir (2005).
+ Hypertension (Key Diseases) (Acp Key Diseases Series).
+ Philadelphia, Pa: American College of Physicians.
+ p. 159.
+ ISBN 978-1-930513-58-7.
+ ^ Kruskal, William H. (1960).
+ "Some Remarks on Wild Observations".
+ Technometrics.
+ 2 (1): 1–3.
+ doi:10.1080/00401706.1960.10489875.
+ ^ a b Jüni, P.; Egger, Matthias (2005).
+ "Empirical evidence of attrition bias in clinical trials".
+ International Journal of Epidemiology.
+ 34 (1): 87–88.
+ doi:10.1093/ije/dyh406.
+ PMID 15649954.
+ ^ Jordan, Sue; Watkins, Alan; Storey, Mel; Allen, Steven J.; Brooks, Caroline J.; Garaiova, Iveta; Heaven, Martin L.; Jones, Ruth; Plummer, Sue F.; Russell, Ian T.; Thornton, Catherine A.
+ (2013-07-09).
+ "Volunteer Bias in Recruitment, Retention, and Blood Sample Donation in a Randomised Controlled Trial Involving Mothers and Their Children at Six Months and Two Years: A Longitudinal Analysis".
+ PLoS ONE.
+ 8 (7).
+ doi:10.1371/journal.pone.0067912.
+ ISSN 1932-6203.
+ PMC 3706448.
+ PMID 23874465.
+ ^ Small, W. P. (1967-05-06).
+ "LOST TO FOLLOW-UP".
+ The Lancet.
+ Originally published as Volume 1, Issue 7497.
+ 289 (7497): 997–999.
+ doi:10.1016/S0140-6736(67)92377-X.
+ ISSN 0140-6736.
+ ^ Bostrom, Nick (2002).
+ Anthropic Bias: Observation Selection Effects in Science and Philosophy.
+ New York: Routledge.
+ ISBN 978-0-415-93858-7.
+ ^ Ćirković, M. M.; Sandberg, A.; Bostrom, N. (2010).
+ "Anthropic Shadow: Observation Selection Effects and Human Extinction Risks".
+ Risk Analysis.
+ 30 (10): 1495–506.
+ doi:10.1111/j.1539-6924.2010.01460.x.
+ PMID 20626690.
+ ^ Tegmark, M.; Bostrom, N. (2005).
+ "Astrophysics: Is a doomsday catastrophe likely?".
+ Nature.
+ 438 (7069): 754.
+ Bibcode:2005Natur.438..754T.
+ doi:10.1038/438754a.
+ PMID 16341005.
+ ^ Tripepi, Giovanni; Jager, Kitty J.; Dekker, Friedo W.; Zoccali, Carmine (2010).
+ "Selection Bias and Information Bias in Clinical Research".
+ Nephron Clinical Practice.
+ 115 (2): c94–c99.
+ doi:10.1159/000312871.
+ ISSN 1660-2110.
+ PMID 20407272.
+ ^ a b "Volunteer bias".
+ Catalog of Bias.
+ 2017-11-17.
+ Retrieved 2020-10-29.
+ ^ Jordan, Sue; Watkins, Alan; Storey, Mel; Allen, Steven J.; Brooks, Caroline J.; Garaiova, Iveta; Heaven, Martin L.; Jones, Ruth; Plummer, Sue F.; Russell, Ian T.; Thornton, Catherine A.
+ (2013-07-09).
+ "Volunteer Bias in Recruitment, Retention, and Blood Sample Donation in a Randomised Controlled Trial Involving Mothers and Their Children at Six Months and Two Years: A Longitudinal Analysis".
+ PLoS ONE.
+ 8 (7).
+ doi:10.1371/journal.pone.0067912.
+ ISSN 1932-6203.
+ PMC 3706448.
+ PMID 23874465.
+ ^ Heckman, J. J.
+ (1979).
+ "Sample Selection Bias as a Specification Error".
+ Econometrica.
+ 47 (1): 153–161.
+ doi:10.2307/1912352.
+ Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.
+ By using this site, you agree to the Terms of Use and Privacy Policy.
+ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.

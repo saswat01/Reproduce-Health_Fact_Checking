@@ -1,0 +1,86 @@
+Contribute    Subscribe   Log In    Try STAT+ Today My Account      My Account   Billing   Log Out           Try STAT+ Today My Account    Search Back     Topics   Coronavirus   Health   Pharma   Biotech   Politics &amp; Policy   Health Tech   In The Lab   Business   Artificial Intelligence   Health Disparities   Prescription Politics     Opinion   First Opinion   The Pharmalot View   Adam's Take   Matt's Take     Team   Biotech &amp; Pharma   Jonathan Chan   Adam Feuerstein   Damian Garde   Matthew Herper   Meghana Keshavan   Kate Sheridan   Ed Silverman     Health Tech   Erin Brodwin   Casey Ross     Politics   Lev Facher   Nicholas Florko     Health &amp; Science   Sharon Begley   Eric Boodman   Helen Branswell   Shraddha Chakradhar   Elizabeth Cooney   Andrew Joseph   Usha Lee McFarling   Jennifer Adaeze Okwerekwu   Nicholas St. Fleur     Team   View All       Events   STAT Events   Industry Events Calendar   2020 STAT Summit   STAT Health Tech Summit   Webinars   STAT Expert Advantage     Newsletters   Reports   Video   Podcast      Stat+      Exclusive analysis of biotech, pharma, and the life sciences Learn More   The Latest   My Account     Topics   Biotech   Pharma   Policy   Health Tech   Business     Columns   Adam's Take   Matt's Take   The Pharmalot View     Tools   CRISPR Tracker   Drug Pricing Policy Tracker     Events   STAT+ Conversations   All STAT Events          Account   My Account   Billing   Subscribe   Log In   Help     More   Contribute   Group Subscriptions     Follow Us                        Trending:   Coronavirus   Health   Biotech   Pharma                  HealthWith ventilators running out, doctors say the machines are overused for Covid-19   By Sharon Begley @sxbegle April 8, 2020  Reprints                                                   A fuel cell stack testing engineer tests ventilator oxygen at Bloom Energy in Sunnyvale, Calif.
+ The company has switched over to refurbishing ventilators as an increasing number of patients experience respiratory issues as a result of Covid-19.
+ Beth LaBerge/Pool Photo via AP                                               Even as hospitals and governors raise the alarm about a shortage of ventilators, some critical care physicians are questioning the widespread use of the breathing machines for Covid-19 patients, saying that large numbers of patients could instead be treated with less intensive respiratory support.
+ If the iconoclasts are right, putting coronavirus patients on ventilators could be of little benefit to many and even harmful to some.
+ What’s driving this reassessment is a baffling observation about Covid-19: Many patients have blood oxygen levels so low they should be dead.
+ But they’re not gasping for air, their hearts aren’t racing, and their brains show no signs of blinking off from lack of oxygen.
+ advertisement   That is making critical care physicians suspect that blood levels of oxygen, which for decades have driven decisions about breathing support for patients with pneumonia and acute respiratory distress, might be misleading them about how to care for those with Covid-19.
+ In particular, more and more are concerned about the use of intubation and mechanical ventilators.
+ They argue that more patients could receive simpler, noninvasive respiratory support, such as the breathing masks used in sleep apnea, at least to start with and maybe for the duration of the illness.
+ Support STAT: If you value our coronavirus coverage, please consider making a one-time contribution to support our journalism.
+ “I think we may indeed be able to support a subset of these patients” with less invasive breathing support, said Sohan Japa, an internal medicine physician at Boston’s Brigham and Women’s Hospital.
+ “I think we have to be more nuanced about who we intubate.” advertisement   That would help relieve a shortage of ventilators so critical that states are scrambling to procure them and some hospitals are taking the unprecedented (and largely untested) step of using a single ventilator for more than one patient.
+ And it would mean fewer Covid-19 patients, particularly elderly ones, would be at risk of suffering the long-term cognitive and physical effects of sedation and intubation while being on a ventilator.
+ None of this means that ventilators are not necessary in the Covid-19 crisis, or that hospitals are wrong to fear running out.
+ But as doctors learn more about treating Covid-19, and question old dogma about blood oxygen and the need for ventilators, they might be able to substitute simpler and more widely available devices.
+ An oxygen saturation rate below 93% (normal is 95% to 100%) has long been taken as a sign of potential hypoxia and impending organ damage.
+ Before Covid-19, when the oxygen level dropped below this threshold, physicians supported their patients’ breathing with noninvasive devices such as continuous positive airway pressure (CPAP, the sleep apnea device) and bilevel positive airway pressure ventilators (BiPAP).
+ Both work via a tube into a face mask.
+ In severe pneumonia or acute respiratory distress unrelated to Covid-19, or if the noninvasive devices don’t boost oxygen levels enough, critical care doctors turn to mechanical ventilators that push oxygen into the lungs at a preset rate and force: A physician threads a 10-inch plastic tube down a patient’s throat and into the lungs, attaches it to the ventilator, and administers heavy and long-lasting sedation so the patient can’t fight the sensation of being unable to breathe on his own.
+ How do they work?
+ But because in some patients with Covid-19, blood-oxygen levels fall to hardly-ever-seen levels, into the 70s and even lower, physicians are intubating them sooner.
+ “Data from China suggested that early intubation would keep Covid-19 patients’ heart, liver, and kidneys from failing due to hypoxia,” said a veteran emergency medicine physician.
+ “This has been the whole thing driving decisions about breathing support: Knock them out and put them on a ventilator.” To be sure, many physicians are starting simple.
+ “Most hospitals, including ours, are using simpler, noninvasive strategies first,” including the apnea devices and even nasal cannulas, said Greg Martin, a critical care physician at Emory University School of Medicine and president-elect of the Society of Critical Care Medicine.
+ (Nasal cannulas are tubes whose two prongs, held beneath the nostrils by elastic, deliver air to the nose.)
+ “It doesn’t require sedation and the patient [remains conscious and] can participate in his care.
+ But if the oxygen saturation gets too low you can achieve more oxygen delivery with a mechanical ventilator.” The question is whether ICU physicians are moving patients to mechanical ventilators too quickly.
+ “Almost the entire decision tree is driven by oxygen saturation levels,” said the emergency medicine physician, who asked not to be named so as not to appear to be criticizing colleagues.
+ That’s not unreasonable.
+ In patients who are on ventilators due to non-Covid-19 pneumonia or acute respiratory distress, a blood oxygen level in the 80s can mean impending death, with no room to give noninvasive breathing support more time to work.
+ Physicians are using their experience with ventilators in those situations to guide their care for Covid-19 patients.
+ The problem, critical care physician Cameron Kyle-Sidell told Medscape this week, is that because U.S. physicians had never seen Covid-19 before February, they are basing clinical decisions on conditions that may not be good guides.
+ “It’s hard to switch tracks when the train is going a million miles an hour,” said Kyle-Sidell, who works at a New York City hospital.
+ “This may be an entirely new disease,” making ventilator protocols developed for other conditions less than ideal.
+ Please enter a valid email address.
+ Privacy Policy      Leave this field empty if you're human:    As doctors learn more about the disease, however, both frontline experience and a few small studies are leading him and others to question how, and how often, mechanical ventilators are used for Covid-19.
+ The first batch of evidence relates to how often the machines fail to help.
+ Researchers in Wuhan, for instance, reported that, of 37 critically ill Covid-19 patients who were put on mechanical ventilators, 30 died within a month.
+ In a U.S. study of patients in Seattle, only one of the seven patients older than 70 who were put on a ventilator survived; just 36% of those younger than 70 did.
+ And in a study published by JAMA on Monday, physicians in Italy reported that nearly 90% of 1,300 critically ill patients with Covid-19 were intubated and put on a ventilator; only 11% received noninvasive ventilation.
+ One-quarter died in the ICU; 58% were still in the ICU, and 16% had been discharged.
+ Older patients who do survive risk permanent cognitive and respiratory damage from being on heavy sedation for many days if not weeks and from the intubation, Gillick said.
+ To be sure, the mere need for ventilators in Covid-19 patients suggests many in the studies were so critically ill their chances of survival were poor no matter what care they received.
+ But one of the most severe consequences of Covid-19 suggests another reason the ventilators aren’t more beneficial.
+ In acute respiratory distress syndrome, which results from immune cells ravaging the lungs and kills many Covid-19 patients, the air sacs of the lungs become filled with a gummy yellow fluid.
+ “That limits oxygen transfer from the lungs to the blood even when a machine pumps in oxygen,” Gillick said.
+ As patients go downhill, protocols developed for other respiratory conditions call for increasing the force with which a ventilator delivers oxygen, the amount of oxygen, or the rate of delivery, she explained.
+ But if oxygen can’t cross into the blood from the lungs in the first place, those measures, especially greater force, may prove harmful.
+ High levels of oxygen impair the lung’s air sacs, while high pressure to force in more oxygen damages the lungs.
+ Related: 					    						A system to allocate scarce ventilators and ICU beds gains traction for not counting any group out					   In a letter last week in the American Journal of Respiratory and Critical Care Medicine, researchers in Germany and Italy said their Covid-19 patients were unlike any others with acute respiratory distress.
+ Their lungs are relatively elastic (“compliant”), a sign of health “in sharp contrast to expectations for severe ARDS.” Their low blood oxygen might result from things that ventilators don’t fix.
+ Such patients need “the lowest possible [air pressure] and gentle ventilation,” they said, arguing against increasing the pressure even if blood oxygen levels remain low.
+ “We need to be patient.” “We need to ask, are we using ventilators in a way that makes sense for other diseases but not for this one?” Gillick said.
+ “Instead of asking how do we ration a scarce resource, we should be asking how do we best treat this disease?” Researchers and clinicians on the front lines are trying.
+ In a small study last week in Annals of Intensive Care, physicians who treated Covid-19 patients at two hospitals in China found that the majority of patients needed no more than a nasal cannula.
+ Among the 41% who needed more intense breathing support, none was put on a ventilator right away.
+ Instead, they were given noninvasive devices such as BiPAP; their blood oxygen levels “significantly improved” after an hour or two.
+ (Eventually two of seven needed to be intubated.)
+ The researchers concluded that the more comfortable nasal cannula is just as good as BiPAP and that a middle ground is as safe for Covid-19 patients as quicker use of a ventilator.
+ “Anecdotal experience from Italy [also suggests] that they were able to support a number of folks using these [non-invasive] methods,” Japa said.
+ To be “more nuanced about who we intubate,” as she suggests, starts with questioning the significance of oxygen saturation levels.
+ Those levels often “look beyond awful,” said Scott Weingart, a critical care physician in New York and host of the “EMCrit” podcast.
+ But many can speak in full sentences, don’t report shortness of breath, and have no signs of the heart or other organ abnormalities that hypoxia can cause.
+ “The patients in front of me are unlike any I’ve ever seen,” Kyle-Sidell told Medscape about those he cared for in a hard-hit Brooklyn hospital.
+ “They looked a lot more like they had altitude sickness than pneumonia.” Because U.S. data on treating Covid-19 patients are nearly nonexistent, health care workers are flying blind when it comes to caring for such confounding patients.
+ But anecdotally, Weingart said, “we’ve had a number of people who improved and got off CPAP or high flow [nasal cannulas] who would have been tubed 100 out of 100 times in the past.” What he calls “this knee-jerk response” of putting people on ventilators if their blood oxygen levels remain low with noninvasive devices “is really bad.
+ … I think these patients do much, much worse on the ventilator.” That could be because the ones who get intubated are the sickest, he said, “but that has not been my experience: It makes things worse as a direct result of the intubation.” High levels of force and oxygen levels, both in quest of restoring oxygen saturation levels to normal, can injure the lungs.
+ “I would do everything in my power to avoid intubating patients,” Weingart said.
+ One reason Covid-19 patients can have near-hypoxic levels of blood oxygen without the usual gasping and other signs of impairment is that their blood levels of carbon dioxide, which diffuses into air in the lungs and is then exhaled, remain low.
+ That suggests the lungs are still accomplishing the critical job of removing carbon dioxide even if they’re struggling to absorb oxygen.
+ That, too, is reminiscent of altitude sickness more than pneumonia.
+ The noninvasive devices “can provide some amount of support for breathing and oxygenation, without needing a ventilator,” said ICU physician and pulmonologist Lakshman Swamy of Boston Medical Center.
+ One problem, though, is that CPAP and other positive-pressure machines pose a risk to health care workers, he said.
+ The devices push aerosolized virus particles into the air, where anyone entering the patient’s room can inhale them.
+ The intubation required for mechanical ventilators can also aerosolize virus particles, but the machine is a contained system after that.
+ “If we had unlimited supply of protective equipment and if we had a better understanding of what this virus actually does in terms of aerosolizing, and if we had more negative pressure rooms, then we would be able to use more” of the noninvasive breathing support devices, Swamy said.
+ About the Author						 Reprints     Sharon Begley  Senior Writer, Science and Discovery Sharon covers science and discovery.
+ sharon.begley@statnews.com			     				@sxbegle			      Tags Coronavirus hospitals infectious disease respiratory                    Susan Thinkason says:     								April 10, 2020 at 11:21 pm							     Could drugs that are used to treat altitude sickness such as Acetazolamide hold any promise?
+ I’m not a doctor.
+ Just a curious person.
+ Barry says:     								April 10, 2020 at 9:58 pm							     “Many patients have blood oxygen levels so low they should be dead.
+ But they’re not gasping for air, their hearts aren’t racing, and their brains show no signs of blinking off from lack of oxygen.”  Maybe this disease somehow affects the accuracy of the oximeters.
+ Isn’t the response of the organism a more primary piece of information?
+ We trust our gadgets to the exclusion of our senses.
+ Mady says:     								April 10, 2020 at 7:18 pm							     Why not provide nasal oxygen assistance and suppress the immune response before it results in severe damage to the lungs while sucking out the gummy yellow fluid from the lungs/air sacs before applying long term sedation and too much force to push oxygen into the lungs via a ventilator.
+ Older Comments »    Comments are closed.

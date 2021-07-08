@@ -1,0 +1,619 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListHHS Author ManuscriptsPMC4752725        Cell Host Microbe.
+ Author manuscript; available in PMC 2017 Feb 10.Published in final edited form as:Cell Host Microbe.
+ 2016 Feb 10; 19(2): 159–168.
+ doi: 10.1016/j.chom.2016.01.001PMCID: PMC4752725NIHMSID: NIHMS752870PMID: 26867175The interaction between respiratory pathogens and mucusMark Zanin,1,* Pradyumna Baviskar,1 Robert Webster,1 and Richard Webby1Mark Zanin1Department of Infectious Diseases, St. Jude Children’s Research Hospital, Memphis, Tennessee, 38105, USA.Find articles by Mark ZaninPradyumna Baviskar1Department of Infectious Diseases, St. Jude Children’s Research Hospital, Memphis, Tennessee, 38105, USA.Find articles by Pradyumna BaviskarRobert Webster1Department of Infectious Diseases, St. Jude Children’s Research Hospital, Memphis, Tennessee, 38105, USA.Find articles by Robert WebsterRichard Webby1Department of Infectious Diseases, St. Jude Children’s Research Hospital, Memphis, Tennessee, 38105, USA.Find articles by Richard WebbyAuthor information Copyright and License information Disclaimer1Department of Infectious Diseases, St. Jude Children’s Research Hospital, Memphis, Tennessee, 38105, USA.
+ *Correspondence: gro.edujts@ninaZ.kraMCopyright notice Publisher's DisclaimerThe publisher's final edited version of this article is available at Cell Host MicrobeSee other articles in PMC that cite the published article.SummaryThe interaction between respiratory pathogens and their hosts is complex and incompletely understood.
+ This is particularly true when pathogens encounter the mucus layer covering the respiratory tract.
+ The mucus layer provides an essential first host barrier to inhaled pathogens that can prevent pathogen invasion and subsequent infection.
+ Respiratory mucus has numerous functions and interactions, both with the host and with pathogens.
+ This review summarizes the current understanding of respiratory mucus and its interactions with the respiratory pathogens Pseudomonas aeruginosa, respiratory syncytial virus and influenza viruses, with particular focus on influenza virus transmissibility and host-range specificity.
+ Based on current findings we propose that respiratory mucus represents an understudied host-restriction factor for influenza virus.IntroductionThe classical roles of respiratory mucus are to maintain the hydration of the respiratory tract and to act as a protective barrier against the external environment by trapping particulate matter, including pathogens.
+ Trapped matter can then be expelled from the airways by mucociliary clearance, the rhythmic beating of cilia bundles on the airway epithelium.
+ It is now clear that this classical model is not complete and that mucus is a complicated, multi-component secretion with numerous functions.
+ The functions of respiratory mucus now include immune response regulation, the presentation of molecules that are inhibitory to pathogens, the regulation of cell differentiation and proliferation and the maintenance of the barrier function of the epithelium.Respiratory tract mucus is the first interaction that inhaled agents have with a potential new host.
+ Accordingly, this mucus layer can determine the infectivity, and potentially the transmissibility, of respiratory pathogens including influenza viruses, respiratory syncytial virus (RSV) and rhinoviruses as well as pathogenic lung colonization by the opportunistic bacterial pathogen Pseudomonas aeruginosa (PA), particularly in patients with cystic fibrosis (CF).
+ Here, we review the current understanding of respiratory tract mucus and its interactions with respiratory pathogens.
+ We pay particular attention to studies investigating the interactions between influenza viruses and mucus and their importance in understanding influenza virus pathogenesis and host-range restriction.Respiratory tract mucusThe epithelium of the respiratory tract is coated with mucus, a multi-component secretion that has the properties of a viscous fluid or a soft, elastic solid depending on shear stress (reviewed in (Lai et al., 2009)).
+ This secretion exists in two layers; a more viscous mucus gel layer on top of a periciliary liquid layer (PCL), where the cilia lie.
+ The PCL is generally as deep as the cilia bundles are high and the reduced viscosity compared to the top layer facilitates the beating of cilia bundles.
+ Whilst the PCL layer is less viscous than the gel layer above, diffusion of molecules into the PCL layer is impeded by membrane-spanning mucins and mucopolysaccharides associated with the cilia and the epithelium.
+ These molecules form a type of molecular ‘brush’ that helps maintain the boundary between the mucus and PCL layers.
+ This is the ‘gel-on-brush’ model of the mucus barrier (Button et al., 2012) (figure 1a).Open in a separate windowFigure 1The ‘gel on brush’ model of respiratory mucus and the structure of mucins(A).
+ The gel on brush model of respiratory mucus describes mucus existing in two discreet layers, a more viscous gel layer on top and a periciliary layer (PCL) below.
+ The gel layer contains the secreted mucins MUC5AC and MUC5B whilst the PCL contains the membrane-tethered mucins MUC1, MUC4 and MUC16.
+ The reduced viscosity of the PCL in comparison to the gel layer facilitates the beating of cilia and mucociliary clearance.
+ (B).
+ Generic structure of a membrane-bound mucin.
+ (C).
+ Generic structure of a secreted mucin.Mucins comprise a significant portion of airway mucus and contribute to the barrier function of mucus.
+ Mucins are amongst the largest macromolecules encoded in the mammalian genome, being 200kDa to 200MDa in size.
+ The majority of this weight, approximately 80%, is comprised of carbohydrate chains.
+ Due to their size, the initial polymerization of mucins to form homodimers, which occurs after their translation, can expose mucin-producing cells to endoplasmic reticulum and Golgi stress (Martino et al., 2013).
+ The size of mucins after their secretion exceeds the average size of the secretory vesicles in which they are packaged.
+ This necessitates that mucins be packaged in a condensed and dehydrated state, which is thought to be mediated by calcium-dependent cross linking within the molecule and by charge-shielding the sialic acids and sulfate groups with calcium ions (Ridley et al., 2014; Verdugo et al., 1987a; Verdugo et al., 1987b).
+ The release of mucins from secretory granules follows a rise in pH and a fall in calcium ion concentration, which mediates mucin unfolding and rapid hydration and leads to expansion and the formation of higher-order oligomers (Ambort et al., 2012b; Ridley et al., 2014).
+ Mucins must adsorb in excess of 1,000 times their mass in water to achieve a viscoelasticity that facilitates mucociliary clearance (Button et al., 2012).Mucins share a general multi-domain structure (figure 1b and c).
+ The centers of these molecules are rich in serine and threonine residues interspersed with proline residues, termed PTS sequences.
+ Mucins contain greater than 100 PTS sequences, which are important as glycan chains are anchored onto the serine and threonine residues (Ambort et al., 2012a).
+ This region is flanked by domains with sequence homology to von Willebrand domains, similar to those found on von Willebrand factors in the blood, which facilitate clotting in the event of vascular injury.
+ These domains are involved in polymerization via disulfide linkages between mucin molecules (reviewed in (Thornton et al., 2008)).Mucins are heavily glycosylated, such that there are 25 to 30 carbohydrate chains per 100 amino acids comprising 80% of the dry weight of the molecule, and this is important for their function (Brockhausen et al., 2009; Stanley et al., 2009).
+ Mucins contain complex glycan chains consisting mainly of O-glycans to which N-acetylgalactosamine (GalNAc) is added, followed by the additional glycan moieties galactose, N-acetylglucosamine (GlcNAc), fucose and sialic acids (Brockhausen and Schachter, 1997).
+ Most mucins have a high sialic acid content which, along with the high sulfate content, results in a strongly negative surface charge, increasing the rigidity of the polymer via charge repulsion (Shogren et al., 1989).
+ As such, the sialic acid content of mucins is important as it is thought to be an important determinant of the viscosity and elasticity of mucus (Puchelle et al., 1973).There are at least 15 mucins in the human lung; MUC1, MUC2, MUC3, MUC4, MUC5AC, MUC5B, MUC7, MUC13, MUC15, MUC16, MUC18, MUC19, MUC20, MUC21 and MUC22 (reviewed in (Lillehoj et al., 2013)).
+ The major airway mucins are MUC1, MUC4, MUC5AC, MUC5B and MUC16.
+ MUC1, MUC4 and MUC16 are membrane-tethered mucins whilst MUC5AC and MUC5B are the major secreted mucins, secreted by goblet cells and the submucosal glands, respectively (Hovenberg et al., 1996; Wickstrom et al., 1998).
+ Secreted mucins are evolutionarily old, as they can be traced back to early metazoan evolution, whilst tethered mucins are much younger, appearing in vertebrates (Lang et al., 2007).
+ This history could reflect the functionality of tethered mucins being specific for vertebrates.Experiments with knockout mice have demonstrated that Muc5b is particularly important for normal airway function whilst Muc5ac is beneficial but not essential.
+ Overexpression of Muc5ac in mice was protective against influenza virus infection, as discussed later, and Muc5ac−/− mice were viable and were capable of mucociliary clearance (Ehre et al., 2012; Roy et al., 2014) (table 1).
+ In contrast, Muc5b−/− mice showed a number of severe deficiencies in airway function and succumbed to bacterial infections (Roy et al., 2014).Table 1Summary of mouse experiments studying the roles of mucins during infectionMousestrainPhenotypeReferencesMuc1−/− Increased number of macrophages and expression of tumor necrosis factor alpha (TNFα) and keratinocyte chemoattractant (KC), both markers of inflammation, post Pseudomonas aeruginosa challenge.Increased susceptibility to Pseudomonas aeruginosa-mediated lung injury.
+ (Lu et al., 2006;Umehara et al., 2012)Muc5ac+/+ Reduced influenza virus replication in lung.No evidence of airway obstruction or lung inflammation.
+ (Ehre et al., 2012)Muc5ac−/− Mucociliary clearance is not affected and mice are viable and healthy.
+ (Roy et al., 2014)Muc5b−/− Severe impairment of mucociliary clearance.Upper airway obstruction resulting in impairment of breathing.Inflammatory infiltrates and bacteria present in lower lung.Decreased IL-23, a mediator of anti-microbial inflammatory responses, in lung.Mortality due to bacterial lung infections.
+ (Roy et al., 2014)Open in a separate windowMucociliary clearance was severely reduced in Muc5b−/− mice, despite the presence of functional ciliated cells in the airway, such that breathing was impaired due to obstruction of the upper airways.
+ Inflammatory infiltrates and bacteria were also present in the lower airways of Muc5b−/− mice, particularly Stapylococcus aureus, which was an important cause of mortality in Muc5b−/− mice (Roy et al., 2014).
+ There were also aberrations in the immune response in the lungs of Muc5b−/− mice, which were particularly evident by the accumulation of macrophages with impaired phagocytic functions.
+ IL-23, a mediator of anti-microbial inflammatory responses, was also dramatically decreased in Muc5b−/− mice (Roy et al., 2014) (table 1).
+ Therefore, there appears to be a link between mucins and the innate immune response, two important aspects of the ‘first line of defense’ against pathogens.In addition to secreted mucins there are also membrane-tethered mucins that exist in the PCL, these being MUC1, 4, 16 and 20.
+ Tethered mucins play a number of roles, including the activation of intracellular signal transduction pathways, regulation of the immune response and cell differentiation and proliferation (reviewed in (Lillehoj et al., 2013)).
+ MUC1 appears to be more strongly associated with microvilli whilst MUC4 is more strongly associated with cilia (Sheehan et al., 2006).
+ A PA challenge model using Muc1−/− mice revealed a role for MUC1 in regulating the inflammatory response.
+ Post challenge, these mice showed greater numbers of macrophages and greater amounts of the cytokines tumor necrosis factor alpha (TNFα) and keratinocyte chemoattractant (KC) in bronchoalveolar lavage fluid (BALF), both of which are markers of inflammation, which again suggests a link between mucins and the innate immune response (Lu et al., 2006; Umehara et al., 2012).
+ Muc1−/− mice were also more susceptible to greater lung injury due to inflammation following PA challenge (Lu et al., 2006; Umehara et al., 2012).
+ The anti-inflammatory role of MUC1 was also observed in a RSV in vitro challenge model, where a negative feedback loop was observed (Li et al., 2010).Respiratory mucus also contains numerous other substances secreted by epithelial cells with inhibitory activity to inhaled pathogens.
+ These substances can closely associate with mucins, suggesting that mucins act as a ‘scaffold’ to present and organize these proteins.
+ These substances include lysozyme, lactoferrin, proteases, protease inhibitors like leukoprotease inhibitor and antichymotrypsin, nitric oxide and hydrogen peroxide (reviewed in (Ganesan et al., 2013)).
+ Lactoferrin, a bi-globular iron-binding glycoprotein that acts as an iron chelator, demonstrates antiviral and antibacterial activities and also displays other functions, including immunomodulation, modulation of cell growth and anti-oxidant activity (Wakabayashi et al., 2014).
+ Lactoferrin also has multifaceted inhibitory actions against a number of viruses, including influenza virus (Pietrantoni et al., 2012).
+ Oxidants, such as nitric oxide that is produced following the induction of nitric oxide synthase-2 (NOS-2), have also been shown to inhibit viral infections.
+ The role of nitric oxide is particularly evident in patients with CF, who are more susceptible to viral infections and show an impaired NOS-2 pathway, resulting in decreased nitric oxide in the airways (Zheng et al., 2004).Pseudomonas aeruginosaPA is an opportunistic Gram-negative flagellated bacterial pathogen that is the primary cause of pneumonia in immunocompromised and CF patients (Gibson et al., 2003).
+ PA expresses several adhesins that appear to be physiologically relevant to lung colonization, such as pili on the bacterial surface that mediate epithelial cell adhesion.
+ The bacterial flagellum is also important in this respect, as it binds the ectodomain of MUC1 (Lillehoj et al., 2002).
+ The sialylation of MUC1 affects PA adhesion by reducing the accessibility of β-D-galactose sites on MUC1, which are necessary for PA adhesion via flagellin (Lillehoj et al., 2012; Pastoriza Gallego and Hulen, 2006).
+ Sialyl-Lewisx moieties on mucins in particular appear to be preferential binding sites for PA via flagellin (Colomb et al., 2014; Scharfman et al., 1999).
+ Sialyl-LewisX moieties are tetra-saccharide-terminating glycan chains on N- and O-linked glycans that are important blood type antigens.
+ They are located on mucins and the surface of leukocytes, where they are involved in immune cell recruitment.
+ There is evidence that PA can increase the Sialyl-LewisX content on mucins via pyocyanin, a redox-active tricyclic toxin secreted by PA, thereby making the host environment more favorable for attachment and colonization (Jeffries et al., 2015).
+ Pyocyanin has also been shown to stimulate the release of pro-inflammatory cytokines and MUC5AC and MUC2, which was mediated by the epidermal growth factor receptor (EGFR) pathway (Rada et al., 2011).PA is the most important bacterial infection associated with CF, a genetic disorder caused by mutations in the cystic fibrosis transmembrane conductance regulator (CFTR), a chloride channel protein.
+ CF is characterized by mucus hypersecretion that leads to airway blockages and chronic bacterial lung infections predominated by PA that result in inflammation and progressive pulmonary damage (Hartl et al., 2012).
+ There are indications that the lung environment in CF is pro-inflammatory, a state further exacerbated by the chronic bacterial infections common in CF (Berger, 2002).
+ Inflammation exacerbates these infections as pro-inflammatory cytokines such as TNFα, IL-6 and IL-8 increase Sialyl-Lewisx expression on mucins, which facilitates PA attachment (Colomb et al., 2014; Groux-Degroote et al., 2008) (figure 2a and b).
+ Mucins obtained from CF airways are enriched with Sialyl-Lewisx and this has been shown to correlate to the severity of infection in CF (Davril et al., 1999).Open in a separate windowFigure 2Pseudomonas aeruginosa colonization of the cystic fibrosis lung(A) Pseudomonas aeruginosa (PA) binds preferentially to the sialyl-Lewisx carbohydrate moieties (blue dots) present on mucins via the flagellar cap.
+ The PA toxin pyocyanin (red dots) stimulates mucus hypersecretion by goblet cells (dashed arrow) and induces the production and release of the pro-inflammatory cytokines tumor necrosis factor alpha (TNFα) and interleukins 6 (IL-6) and 8 (IL-8) (solid arrow).
+ (B).
+ TNFα, IL-6 and IL-8 lead to inflammation and upregulate the sialyl-Lewisx biosynthesis glycosyltransferases core 2/core 4 beta-1,6-N-acetylglucosaminyltransferase (C2/4GnT) and α2,3-sialyltransferase IV (ST3Gal-IV) via the phosphoinositol-specific phospholipase C (PI-PLC) pathway (grey arrow), leading to an increase in sialyl-Lewisx content and increased PA binding.
+ (C).
+ PA is commonly found in a biofilm in the CF lung.
+ In this setting, PA aggregate, lose their motility and switch to anaerobic respiration, facilitaing resistance to cells of the immune system and to multiple front-tier antibiotics.
+ (D).
+ The structure of sialyl-Lewisx (C31H52N2O23).
+ Image was obtained from PubChem, CID number 643990.In the CF lung, PA is very difficult to eradicate, despite host immune responses and adequate concentrations of antibiotics in the airways during treatment.
+ This is thought to result from PA forming a biofilm within the thick mucus of the CF lung.
+ In this setting, PA adapts by losing motility, forming aggregates and relying on anaerobic respiration, which contributes to resistance against multiple front-tier antibiotics (Staudinger et al., 2014) (figure 2c).
+ PA strains isolated from CF patients with chronic infections are often non-motile, lacking flagellin and pilin, whilst environmental isolates and isolates obtained during early colonization are motile (Luzar et al., 1985).
+ These non-motile strains are also resistant to phagocytosis by macrophages (Lovewell et al., 2014; Luzar et al., 1985).
+ In contrast, non-CF mucus has been shown in vitro to inhibit adhesion and the subsequent loss of motility (Yeung et al., 2012).PA has also been shown to impact mucin secretion via lipopolysaccharide (LPS), a component of the bacterial cell wall.
+ LPS can upregulate MUC2 and MUC5AC gene expression, contributing to the excessive mucus production and airway blockage seen in CF.
+ PA LPS upregulates MUC2 expression via a c-Src-Ras-MEK1/MAPK signaling pathway, leading to the activation of nuclear factor (NF)-kB, which in turn triggers MUC2 gene transcription (Li et al., 1997).
+ PA LPS has also been shown to generate reactive oxygen species (ROS) via the PKC-NADPH oxidase signaling pathway in epithelial cells, which leads to up-regulation of MUC5AC transcription (Li et al., 2013; Yan et al., 2008).
+ The induction of CFTR-dependent airway surface liquid secretion following exposure to bacteria has also been observed in swine tracheal explants (Luan et al., 2014).
+ It is hypothesized that PA may be responsible, via these modes of actions described, for the excessive mucus production seen in CF patients, rather than the CF lung environment itself.Respiratory Syncytial VirusRSV is the most common cause of bronchiolitis and viral pneumonia such that, by the age of three, all children will have been infected by RSV at least once (reviewed in (Pickles and DeVincenzo, 2015)).
+ The epithelium of the upper respiratory tract is the major target for RSV during the early stages of infection.
+ Later stages of infection are characterized by inflammation and obstruction of the airways due to the formation of mucus plugs containing mucus, fibrin, cellular debris and lymphocytes (Aherne et al., 1970).
+ RSV is an enveloped virus of the family Paramyxoviridae that contains a single stranded, non-segmented, negative-sense RNA genome.
+ Among the 11 separate proteins encoded by RSV, three are transmembrane surface glycoproteins labeled glycoprotein (G), fusion (F) and small hydrophobic (SH).
+ The function of SH is largely unknown (reviewed in (Collins and Crowe, 2013)).
+ The major attachment protein of RSV is the G protein and most of the ectodomain of G has a mucin-like structure, with a high content of PTS sequences and abundant glycosylation.
+ The F protein facilitates viral fusion with host cell membranes to initiate infection, including cell to cell fusion leading to syncytia formation.
+ Being major neutralizing antigens, both the F and G proteins can influence the immune response and mucus production in the lung (Connors et al., 1991).The F protein has also been linked to RSV pathogenicity in the lower respiratory tract.
+ Increased F-mediated RSV fusogenicity has been correlated to increased viral load early during infection in mice, resulting in severe lung damage (Hotard et al., 2015).
+ This was linked to increased neutrophil infiltration of the lung, increased amounts of TNF-α, a neutrophil recruitment factor that stimulates the production of MUC5AC and MUC1, and increased numbers of IL-13-producing CD4+ T-cells in the lung (Stokes et al., 2013).
+ Neutrophil numbers correlated to mucus production in the lung and associated with the formation of mucus plugs, mediated by TNF-α, in more severe cases (Bataki et al., 2005; Lora et al., 2005).
+ The RSV G protein has also been associated with disease severity and mucus secretion in mouse models of RSV infection, independent of its role in viral replication (Boyoglu-Barnum et al., 2013).
+ This may be mediated by type 2 cytokine expression, particularly IL-13, IL-4 and IL-5 and the chemokine MCP-1, as type 2 cytokines can induce mucin secretion (Temann et al., 1997; Zuhdi Alimam et al., 2000).Signaling via the chemokine receptor CXCR2 has also been shown to contribute to increased mucus production via increased Muc5ac expression in a mouse model of RSV infection following allergic sensitization (Miller et al., 2003).
+ Increased mucus production was thought to be due to increased IL-17 in the lung, a pro-inflammatory cytokine secreted by activated T cells (Chen et al., 2003; Hashimoto et al., 2004).
+ The importance of IL-17 was shown in vivo using a knockout mouse model (Hashimoto et al., 2005).Recently it has been shown that RSV and human metapneumovirus (hMPV), two RNA viruses of the Paramyxoviridae family, induce significantly different mucin expressions in A549 cells, an epithelial cell line (Banos-Lara Mdel et al., 2015).
+ Although these two viruses are similar in structure and pathogenicity, it is interesting to see the differential expression of MUC2, MUC5AC and MUC5B as well as membrane bound mucins.
+ RSV infection can change the composition of infected airway epithelium by increasing MUC5AC-secreting cells, indicating the important role of mucus secretion in pathogenicity (Persson et al., 2014).Influenza VirusesInfluenza viruses are important respiratory pathogens that place a significant burden on society, such that influenza ranks in the top ten causes of death in the United States (Hoyert and Xu, 2012).
+ Seasonal influenza viruses are responsible for a significant amount of mortality and morbidity during the influenza season and influenza pandemics, which occur sporadically, can be associated with much greater disease severity and higher mortality rates.The influenza virus replication cycle and roles of hemagglutinin and neuraminidaseInfluenza viruses are enveloped and contain protein spikes protruding from the viral membrane consisting of the hemagglutinin (HA) and neuraminidase (NA) proteins, which play critical roles in the viral lifecycle.
+ HA exists as a trimer on the surface of influenza viruses and mediates cell attachment and viral entry.
+ HA binds to cells via N-acetylneuraminic acids (sialic acids) located on the distal ends of oligosaccharide chains on the cell surface (reviewed in (Palese and Shaw, 2013)).
+ The dense, diverse coating of glycoconjugates, glycoproteins, proteoglycans, glycolipids and polysaccharides, such as hyaluronic acid, on the surface of cells is termed the glycocalyx.
+ The glycocalyx has numerous functions, including structural roles in proteins, protein folding and mediation of self-recognition by the immune system (reviewed in (Springer and Gagneux, 2013)).
+ The structure of these chains and the linkages they form with the terminal sialic acid resides are important determinants of influenza virus host range, which is further described below.
+ Following sialic acid-HA binding, the virus is internalized into the cell by endocytosis or macropinocytosis and trafficked to the endosome, where a pH-dependent conformational change in HA results in the release of the viral ribonucleoproteins and subsequent viral replication (reviewed in (Palese and Shaw, 2013)).Following replication and assembly, progeny viruses are attached to the surface of the infected cell via the HA-sialic acid interaction.
+ At this point, NA cleaves the sialic acid residues bound to the HA, releasing the progeny viruses.
+ Therefore, the interaction of influenza viruses with the glycocalyx is very important in the viral lifecycle.
+ However, respiratory mucus also contains sialic acids and glycoproteins, and the influenza virus interaction with these is also important.The interactions between influenza virus and respiratory mucus and the importance of neuraminidaseInfluenza viruses are currently classified in the Orthomyxoviridae family but were initially classified as myxo viruses, from the Greek myxa (mucus), based on their reactivity for certain mucins (Andrewes, 1954).
+ The interaction between influenza viruses and mucins was first identified in studies conducted in the 1940s and 1950s (Anderson et al., 1948; Burnet, 1951).
+ The observation that receptor-destroying enzyme from Vibrio cholerae could reduce the inhibitory action of mucoproteins over time in a similar fashion to influenza viruses was suggestive of an influenza virus sialidase (Stone, 1949).
+ This sialidase was presented by Gottschalk, in which the authors “propose the name “neuraminidase” for the enzyme and define its action as the hydrolytic cleavage of the glycosidic bond joining the keto group of neuraminic acid to d-galactose or d-galactosamine and possibly to other sugars.” (Gottschalk, 1957).Since these studies, NA has been shown to also be important in determining whether viruses can penetrate the mucus barrier to infect underlying cells.
+ The NA inhibitor oseltamivir was shown to inhibit the infection of mucus-producing normal human bronchial epithelial (NHBE) cells (Matrosovich et al., 2004) and additional studies achieved similar results using A549 cells and Madin-Darby canine kidney (MDCK) cells (Ohuchi et al., 2006) (figure 3a).
+ However, when oseltamivir was added to erythrocytes, which express sialic acids on their surface, influenza virions became embedded in the erythrocyte membrane, whilst viruses remained attached to the cell surface in the absence of oseltamivir, indicating that NA plays a role in virus entry (Ohuchi et al., 2006).Open in a separate windowFigure 3Influenza viruses, neuraminidase, respiratory mucus, viral transmissibility and host rangeNeuraminidase (NA), one of the surface glycoproteins on influenza virus, cleaves sialic acids to prevent the virus becoming trapped in the heavily sialydated mucins in respiratory mucus, thus facilitating infection of the underlying cells (represented here by shading on the cell monolayer).
+ (A).
+ The antiviral drug oseltamivir inhibits the enzymatic activity of NA, which inhibits the viral penetration of mucus, decreasing the infectivity of the virus for the cells underlying the mucus layer.
+ Viruses with low NA enzymatic activity are also inhibited by mucus.
+ Conversely, addition of exogenous NA facilitates viral penetration of mucus and thus increases viral infectivity.
+ (B).
+ Compared to human mucus, swine mucus appears to be less inhibitory to influenza viruses with low neuraminidase activity for reasons not fully understood.
+ (C).
+ Influenza viruses that express NA proteins with low enzymatic activity do not transmit by aerosol droplets efficiently in the ferret model of transmission, despite being shed from infected animals and transmitted to direct contact animals.
+ The mechanism behind this is not fully understood.It was hypothesized that NA may facilitate infection by cleaving sialic acids on mucins to prevent viruses from becoming trapped before they infect the epithelium.
+ This was investigated in vitro by adding influenza viruses to a layer of porcine respiratory mucus.
+ Over time, viruses penetrated the mucus layer and the extent of penetration could be facilitated or impaired by the addition of exogenous NA or oseltamivir, respectively, indicating the importance of NA in mucus penetration (Yang et al., 2014).
+ This is likely achieved via cleavage of sialic acids, thus preventing or reversing viral attachment to mucus.
+ Consistent with this hypothesis, sialidase pretreatment of human trachea and bronchial tissues containing a mucus layer reduced viral binding to mucus (Burnet, 1947; Cohen et al., 2013).
+ Influenza virus has also been shown to be inhibited by exosomes, which are secreted cellular microvesicles present in mucus (Kesimer et al., 2009).
+ Exosomes are rich in α2,6 sialic acids and interact with MUC1, 4 and 16.
+ Cultures of human tracheobronchial epithelial cells secrete exosomes and these are inhibitory to influenza virus infection of MDCK cells in vitro, via virus binding to sialic acids on the exosome (Kesimer et al., 2009).
+ Mucins have been shown to be protective against influenza virus as mice over-expressing Muc5ac (Muc5ac-Tg) exhibited 9.3-fold less viral replication in the lung compared to wild type (Ehre et al., 2012).
+ Whilst Muc5ac expression was approximately twenty fold greater in the large and small airways in Muc5ac-tg mice compared to wild type, there was no evidence of airway obstruction or lung inflammation.
+ Further, BALF from Muc5ac-Tg mice showed greater inhibition of viral infection of MDCK cells compared to wild type BALF (Ehre et al., 2012) (table 1).Respiratory mucus may be a species barrier for influenza viruses.
+ Experiments in vitro demonstrated that an overlay of human mucus can inhibit the infection of underlying MDCK cells by both swine- and human-origin viruses in vitro, whilst swine mucus does not appear to inhibit infection (Cohen et al., 2013; Zanin et al., 2015) (figure 3a and b).
+ The interaction between influenza viruses and mucus may also be a factor in viral transmissibility, particularly in the context of NA enzymatic activity.
+ Pandemic H1N1 viruses isolated in swine with almost undetectable NA enzymatic activity were significantly inhibited by mucus in NHBE cell cultures in vitro (Zanin et al., 2015).
+ These viruses did not transmit via aerosols in ferrets and direct contact transmission was severely attenuated (Zanin et al., 2015).
+ Similarly, viruses expressing NA proteins with short stalks that have decreased enzymatic activity against multivalent substrates such as those found on cells are inhibited by mucus in vitro (Castrucci and Kawaoka, 1993; Matsuoka et al., 2009).
+ Replacing the NA of an efficiently-transmitted H5N1 virus with an avian short-stalk NA protein abrogated aerosol transmission of the virus and reduced the efficiency of direct contact transmission in ferrets (Blumenkrantz et al., 2013).
+ These studies strongly suggest a link between mammalian transmission and the interaction between mucus and NA (figure 3c).Sialic acids and host restriction of influenza virusesWhilst host restriction of influenza viruses is a multifactorial phenomenon that is not fully understood, the HA binding preference for different sialic acids is involved.
+ The types of sialic acids expressed are species-dependent, but N-acetylneuraminic acid (Neu5Ac) and N-glycolylneuraminic acid (Neu5Gc) are common.
+ Neu5Gc is converted from cytidine monophosphate-N-acetylneuraminic acid by the enzyme cytidine monophosphate-N-acetylneuraminic acid hydroxylase (Irie et al., 1998).
+ Neu5Gc is absent in humans and sauropsids (birds and reptiles) as this enzyme is mutated and nonfunctional, although pigs and mice produce this enzyme and thus express Neu5Gc (Chou et al., 1998; Scharfman et al., 1999; Schauer et al., 2009).
+ Old world monkeys also express Neu5Gc, whilst new world monkeys and humans do not.
+ This gene was respectively lost approximately 3 million and 30 million years ago in ancestral hominids and new world monkeys (Springer et al., 2014).Ferrets, like humans, also lack a functioning cytidine monophosphate-N-acetylneuraminic acid hydroxylase and therefore also do not express Neu5Gc (Ng et al., 2014).
+ This is significant as ferrets are widely used to study influenza virus infection and transmission as the expression and distribution of sialic acids in the ferret respiratory tract is similar to humans, although not identical (Jia et al., 2014; van Riel et al., 2006).
+ Neu5Gc may act as a decoy receptor for influenza viruses rather than a functional receptor, as shown using a Neu5Gc-expressing human lung cell line.
+ The infectivity of a virus that binds to Neu5Gc was decreased in cells expressing Neu5Gc compared to cells only expressing Neu5Ac, and Neu5Gc-binding viruses accumulated on the surface of cells expressing Neu5Gc (Takahashi et al., 2014).
+ In contrast, the infectivity of a virus that cannot bind to Neu5Gc was similar in cells either expressing or not expressing Neu5Gc (Takahashi et al., 2014).There are also species differences in the types of linkages that exist between sialic acid, at the extremity of the glycan chain, and the underlying galactose molecule.
+ The upper respiratory tract of humans primarily contains sialic acids bound to galactose by an α2,6 linkage, although α2,3 linkages are also present, whilst in the bronchus and alveoli, α2,3 linkages predominate (Gagneux et al., 2003; Nicholls et al., 2007; Shinya et al., 2006).
+ The significance of these linkages with respect to influenza virus host restriction has been extensively studied.
+ These studies showed that influenza viruses of avian and equine origin tend to bind better to sialic acids with α2,3 linkages whilst human influenza viruses bind better to sialic acids with α2,6 linkages (Suzuki et al., 2000).
+ The sialic acid binding preferences of avian and mammalian viruses correlates somewhat to the sialic acid distribution in human and avian hosts.
+ In avian hosts, α2,3-linked sialic acids predominate in the gastrointestinal tract whilst α2,6-linked sialic acids are more abundant in the upper respiratory tract of humans (Gambaryan et al., 2002; Nicholls et al., 2007; Shinya et al., 2006).
+ The porcine respiratory tract has been shown to express both α2,3 and α2,6-linked sialic acids and for this reason swine have been referred to as ‘mixing vessels’ that foster reassortment of influenza viruses (Ito et al., 1998).
+ The relative lack of α2,3-linked sialic acids in the upper respiratory tract of humans is thought to be a host barrier to avian influenza viruses.
+ This is evident in the strains of influenza viruses that have caused pandemics.
+ These viruses contain HA proteins originating from non-human species yet exhibit specificity for human-type receptors (Childs et al., 2009; Matrosovich et al., 2000; Stevens et al., 2006).
+ Further, viruses that preferentially bind to α2,3-linked sialic acids are not transmitted via the airborne route in mammals, whilst viruses with mixed binding preferences have an intermediate transmission phenotype (Matrosovich et al., 2000; Tumpey et al., 2007).
+ The relatively low expression of α2,3-linked sialic acids in the mammalian upper respiratory tract is likely a major contributor to this restriction.Whilst the sialic acid linkages are important for host range specificity of influenza viruses, this is an oversimplification.
+ The location of these sialic acids in the glycocalyx may also come to bear.
+ For example, sialic acids located on glycoproteins such as mucins may show differential importance compared to those on gangliosides, which are glycolipids with sialic acid content.
+ This is owing to their locations in the glycocalyx, as gangliosides generally lie close to epithelium and underneath larger glycoproteins that can display many glycan chains farther away from the epithelial layer.
+ To attest to this complexity, the topology of sialic acids has been shown to impact virus host range.
+ Human-adapted HA proteins have been shown to bind preferentially to α2,6-linked sialic acids on long glycan branches, which can assume an ‘umbrella-like’ topology, whilst avian-adapted HAs do not bind to these structures.
+ In the case of H5N1 viruses, those viruses that were efficiently transmitted in the ferret model showed binding preferences to long α2,6-linked sialic acids, whilst those that did not transmit efficiently bound preferentially to α2,3-linked or short α2,6-linked sialic acids, both of which assume a ‘cone-like’ topology (Chandrasekaran et al., 2008; Stevens et al., 2006).There is some experimental evidence that glycan structures play a role in influenza virus infection, although more work is needed to fully elucidate their importance.
+ Experiments in cells lacking complex N-linked glycosylation showed influenza virus attachment but not endocytosis.
+ This indicates that sialic acids alone are not sufficient for infection and that N-linked glycoproteins are required for viral entry (Chu and Whittaker, 2004).
+ However, other cell lines lacking complex N-linked glycosylation were highly susceptible to influenza virus infection, although serum interfered with infectivity, indicating that sialylated N-glycans are required for viral entry in the presence of serum (de Vries et al., 2012).
+ This apparent importance of N-linked glycans may indicate that influenza viruses can evolve away from inhibition by mucus, which is mostly O-glycosylated.NA displays preferences for both sialic acid types and linkages, which was studied in human N2 viruses isolated from 1957 to 1987.
+ These N2s originally showed enzymatic activity only against α2,3-linked sialic acids, however, activity against α2,6-linked sialic acids became apparent over time, suggesting a selective advantage was obtained (Kobasa et al., 1999).
+ N2 NAs of avian, swine and human viruses all showed high specificity for NeuAc, however, there were differences in NeuGc specificity, as avian viruses showed low to moderate specificity for NeuGc whilst swine viruses showed high specificity for NeuGc linkages (Kobasa et al., 1999).
+ The specificity of N2s from the human viruses tested for NeuGc linkages appeared to change from low to moderate specificity between 1957 and 1962 to high in 1968 then returning to low to moderate by 1972, for reasons which are not fully understood (Kobasa et al., 1999).
+ Some NA proteins, such as those from H3N2 viruses, can also bind to sialic acids and NAs from avian viruses also contain a hemadsorbing site away from the enzymatic active site (Laver et al., 1984; Lin et al., 2010; Zhu et al., 2012).
+ The biological significance of these binding attributes of NA is not clear.PerspectiveThe current understanding of respiratory mucus has revealed a complexity and functionality far beyond the classical role ascribed to it.
+ Much of this knowledge has come from studying mucins, the large, heavily glycosylated, multi-domain proteins that give mucus many of its physical properties.
+ The interaction between mucins and respiratory pathogens is also more complicated than mere entrapment.
+ Mucins have been revealed to play an integrated role in the host response to pathogens, both before and during the immune response, and the absence or disturbance of this role can be highly detrimental to the host.
+ Despite the importance of mucins, current understanding of their functions is limited, which is partly due to the complexity of mucus and its interactions.Mucus appears to be an important host barrier to influenza viruses.
+ The NA protein of influenza has been shown to be important in evading this barrier, such that viruses with low NA activity, or viruses treated with NA inhibitors, are severely impeded by mucus in vitro.
+ Interestingly, these viruses can still infect animals and be transmitted, however, this transmission is severely attenuated, pointing to a role of respiratory mucus in viral transmission, which is not understood.
+ Also not understood is the potential role of mucus as a host-restriction factor for influenza viruses.
+ In vitro data suggests that respiratory mucus could be a host restriction factor between swine and human hosts, but is this also true in vivo, and is it also true between other hosts of influenza viruses?
+ If so, is this restriction merely due to the sialic acid content of mucus or are there other components involved?
+ Could mucus be an important selective pressure for transmissible viruses?
+ Answering these questions is made more difficult by the complexity of mucus and the incomplete characterization of it.
+ Therefore, further understanding of both mucus and the mucus-influenza virus interaction is likely to continue to provide insights into influenza virus transmission, host restriction and viral adaptation to new hosts that could be invaluable in understating the genesis of new strains of influenza virus.​      Respiratory mucus provides an essential first host barrier to inhaled pathogens.
+ Mucus is a complex, incompletely understood, multicomponent secretion that has numerous interactions with the host and with pathogens.
+ Zanin et al.
+ review the current understanding of respiratory mucus and its interactions with important respiratory pathogens, particularly influenza viruses.AcknowledgmentsWe thank Dr Sook-San Wong and Dr Jason Rosch for critical review of this manuscript.
+ This work was funded by the National Institute of Allergy and Infectious Diseases, the National Institutes of Health, under contract number HHSN272201400006C.FootnotesPublisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication.
+ As a service to our customers we are providing this early version of the manuscript.
+ The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form.
+ Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.ReferencesAherne W, Bird T, Court SD, Gardner PS, McQuillin J. Pathological changes in virus infections of the lower respiratory tract in children.
+ J Clin Pathol.
+ 1970;23:7–18.
+ [PMC free article] [PubMed] [Google Scholar]Ambort D, Johansson ME, Gustafsson JK, Ermund A, Hansson GC.
+ Perspectives on mucus properties and formation--lessons from the biochemical world.
+ Cold Spring Harbor perspectives in medicine.
+ 2012a;2:a014159.
+ [PMC free article] [PubMed] [Google Scholar]Ambort D, Johansson ME, Gustafsson JK, Nilsson HE, Ermund A, Johansson BR, Koeck PJ, Hebert H, Hansson GC.
+ Calcium and pH-dependent packing and release of the gel-forming MUC2 mucin.
+ Proceedings of the National Academy of Sciences of the United States of America.
+ 2012b;109:5645–5650.
+ [PMC free article] [PubMed] [Google Scholar]Anderson SG, Burnet FM, et al.
+ Mucins and mucoids in relation to influenza virus action; general discussion.
+ The Australian journal of experimental biology and medical science.
+ 1948;26:403–411.
+ [PubMed] [Google Scholar]Andrewes CH.
+ NOMENCLATURE of viruses.
+ Nature.
+ 1954;173:620–621.
+ [PubMed] [Google Scholar]Banos-Lara Mdel R, Piao B, Guerrero-Plata A.
+ Differential mucin expression by respiratory syncytial virus and human metapneumovirus infection in human epithelial cells.
+ Mediators Inflamm.
+ 2015;2015:347292.
+ [PMC free article] [PubMed] [Google Scholar]Bataki EL, Evans GS, Everard ML.
+ Respiratory syncytial virus and neutrophil activation.
+ Clin Exp Immunol.
+ 2005;140:470–477.
+ [PMC free article] [PubMed] [Google Scholar]Berger M. Lung inflammation early in cystic fibrosis: bugs are indicted, but the defense is guilty.
+ American journal of respiratory and critical care medicine.
+ 2002;165:857–858.
+ [PubMed] [Google Scholar]Blumenkrantz D, Roberts KL, Shelton H, Lycett S, Barclay WS.
+ The short stalk length of highly pathogenic avian influenza H5N1 virus neuraminidase limits transmission of pandemic H1N1 virus in ferrets.
+ Journal of virology.
+ 2013;87:10539–10551.
+ [PMC free article] [PubMed] [Google Scholar]Boyoglu-Barnum S, Gaston KA, Todd SO, Boyoglu C, Chirkova T, Barnum TR, Jorquera P, Haynes LM, Tripp RA, Moore ML, et al.
+ A respiratory syncytial virus (RSV) anti-G protein F(ab’)2 monoclonal antibody suppresses mucous production and breathing effort in RSV rA2-line19F–infected BALB/c mice.
+ Journal of virology.
+ 2013;87:10955–10967.
+ [PMC free article] [PubMed] [Google Scholar]Brockhausen I, Schachter H. In: Glycosyltransferases Involved in N- and O-Glycan Biosynthesis In Glycosciences: Status and Perspective.
+ Gabius H, Gabius S, editors.
+ Weinheim, Germany: Wiley-VCH; 1997. pp.
+ 79–100.
+ [Google Scholar]Brockhausen I, Schachter H, Stanley P. O-GalNAc Glycans.
+ In: Varki A, Cummings RD, Esko JD, Freeze HH, Stanley P, Bertozzi CR, Hart GW, Etzler ME, editors.
+ Essentials of Glycobiology.
+ 2nd.
+ NY, USA: Cold Spring Harbor Laboratory Press; 2009.
+ [Google Scholar]Burnet FM.
+ Enzymic action of influenza viruses on glandular mucin and on purified blood group substances.
+ Aust J Sci.
+ 1947;10:21.
+ [PubMed] [Google Scholar]Burnet FM.
+ Mucoproteins in relation to virus action.
+ Physiological reviews.
+ 1951;31:131–150.
+ [PubMed] [Google Scholar]Button B, Cai LH, Ehre C, Kesimer M, Hill DB, Sheehan JK, Boucher RC, Rubinstein M. A periciliary brush promotes the lung health by separating the mucus layer from airway epithelia.
+ Science.
+ 2012;337:937–941.
+ [PMC free article] [PubMed] [Google Scholar]Castrucci MR, Kawaoka Y. Biologic importance of neuraminidase stalk length in influenza A virus.
+ Journal of virology.
+ 1993;67:759–764.
+ [PMC free article] [PubMed] [Google Scholar]Chandrasekaran A, Srinivasan A, Raman R, Viswanathan K, Raguram S, Tumpey TM, Sasisekharan V, Sasisekharan R. Glycan topology determines human adaptation of avian H5N1 virus hemagglutinin.
+ Nature biotechnology.
+ 2008;26:107–113.
+ [PubMed] [Google Scholar]Chen Y, Thai P, Zhao YH, Ho YS, DeSouza MM, Wu R. Stimulation of airway mucin gene expression by interleukin (IL)-17 through IL-6 paracrine/autocrine loop.
+ The Journal of biological chemistry.
+ 2003;278:17036–17043.
+ [PubMed] [Google Scholar]Childs RA, Palma AS, Wharton S, Matrosovich T, Liu Y, Chai W, Campanero-Rhodes MA, Zhang Y, Eickmann M, Kiso M, et al.
+ Receptor-binding specificity of pandemic influenza A (H1N1) 2009 virus determined by carbohydrate microarray.
+ Nature biotechnology.
+ 2009;27:797–799.
+ [PMC free article] [PubMed] [Google Scholar]Chou HH, Takematsu H, Diaz S, Iber J, Nickerson E, Wright KL, Muchmore EA, Nelson DL, Warren ST, Varki A.
+ A mutation in human CMP-sialic acid hydroxylase occurred after the Homo-Pan divergence.
+ Proceedings of the National Academy of Sciences of the United States of America.
+ 1998;95:11751–11756.
+ [PMC free article] [PubMed] [Google Scholar]Chu VC, Whittaker GR.
+ Influenza virus entry and infection require host cell N-linked glycoprotein.
+ Proceedings of the National Academy of Sciences of the United States of America.
+ 2004;101:18153–18158.
+ [PMC free article] [PubMed] [Google Scholar]Cohen M, Zhang XQ, Senaati HP, Chen HW, Varki NM, Schooley RT, Gagneux P. Influenza A penetrates host mucus by cleaving sialic acids with neuraminidase.
+ Virology journal.
+ 2013;10:321.
+ [PMC free article] [PubMed] [Google Scholar]Collins PL, Crowe JE., Jr .
+ Respiratory Syncytial Virus and Metapneumovirus.
+ In: Knipe DM, Howley PM, editors.
+ Fields Virology.
+ Philadelphia, USA: Lippincott Williams &amp; Wilkins; 2013. pp.
+ 1601–1646.
+ [Google Scholar]Colomb F, Vidal O, Bobowski M, Krzewinski-Recchi MA, Harduin-Lepers A, Mensier E, Jaillard S, Lafitte JJ, Delannoy P, Groux-Degroote S. TNF induces the expression of the sialyltransferase ST3Gal IV in human bronchial mucosa via MSK1/2 protein kinases and increases FliD/sialyl-Lewis(x)-mediated adhesion of Pseudomonas aeruginosa.
+ The Biochemical journal.
+ 2014;457:79–87.
+ [PubMed] [Google Scholar]Connors M, Collins PL, Firestone CY, Murphy BR.
+ Respiratory syncytial virus (RSV) F, G, M2 (22K), and N proteins each induce resistance to RSV challenge, but resistance induced by M2 and N proteins is relatively short-lived.
+ Journal of virology.
+ 1991;65:1634–1637.
+ [PMC free article] [PubMed] [Google Scholar]Corfield AP, Wagner SA, Clamp JR, Kriaris MS, Hoskins LC.
+ Mucin degradation in the human colon: production of sialidase, sialate O-acetylesterase, N-acetylneuraminate lyase, arylesterase, and glycosulfatase activities by strains of fecal bacteria.
+ Infect Immun.
+ 1992;60:3971–3978.
+ [PMC free article] [PubMed] [Google Scholar]Davril M, Degroote S, Humbert P, Galabert C, Dumur V, Lafitte JJ, Lamblin G, Roussel P. The sialylation of bronchial mucins secreted by patients suffering from cystic fibrosis or from chronic bronchitis is related to the severity of airway infection.
+ Glycobiology.
+ 1999;9:311–321.
+ [PubMed] [Google Scholar]de Vries E, de Vries RP, Wienholts MJ, Floris CE, Jacobs MS, van den Heuvel A, Rottier PJ, de Haan CA.
+ Influenza A virus entry into cells lacking sialylated N-glycans.
+ Proceedings of the National Academy of Sciences of the United States of America.
+ 2012;109:7457–7462.
+ [PMC free article] [PubMed] [Google Scholar]Ehre C, Worthington EN, Liesman RM, Grubb BR, Barbier D, O’Neal WK, Sallenave JM, Pickles RJ, Boucher RC.
+ Overexpressing mouse model demonstrates the protective role of Muc5ac in the lungs.
+ Proceedings of the National Academy of Sciences of the United States of America.
+ 2012;109:16528–16533.
+ [PMC free article] [PubMed] [Google Scholar]Gagneux P, Cheriyan M, Hurtado-Ziola N, van der Linden EC, Anderson D, McClure H, Varki A, Varki NM.
+ Human-specific regulation of alpha 2-6-linked sialic acids.
+ The Journal of biological chemistry.
+ 2003;278:48245–48250.
+ [PubMed] [Google Scholar]Gambaryan A, Webster R, Matrosovich M. Differences between influenza virus receptors on target cells of duck and chicken.
+ Archives of virology.
+ 2002;147:1197–1208.
+ [PubMed] [Google Scholar]Ganesan S, Comstock AT, Sajjan US.
+ Barrier function of airway tract epithelium.
+ Tissue barriers.
+ 2013;1:e24997.
+ [PMC free article] [PubMed] [Google Scholar]Gibson RL, Burns JL, Ramsey BW.
+ Pathophysiology and management of pulmonary infections in cystic fibrosis.
+ American journal of respiratory and critical care medicine.
+ 2003;168:918–951.
+ [PubMed] [Google Scholar]Gottschalk A. Neuraminidase: the specific enzyme of influenza virus and Vibrio cholerae.
+ Biochimica et biophysica acta.
+ 1957;23:645–646.
+ [PubMed] [Google Scholar]Groux-Degroote S, Krzewinski-Recchi MA, Cazet A, Vincent A, Lehoux S, Lafitte JJ, Van Seuningen I, Delannoy P. IL-6 and IL-8 increase the expression of glycosyltransferases and sulfotransferases involved in the biosynthesis of sialylated and/or sulfated Lewisx epitopes in the human bronchial mucosa.
+ The Biochemical journal.
+ 2008;410:213–223.
+ [PubMed] [Google Scholar]Hartl D, Gaggar A, Bruscia E, Hector A, Marcos V, Jung A, Greene C, McElvaney G, Mall M, Doring G. Innate immunity in cystic fibrosis lung disease.
+ J Cyst Fibros.
+ 2012;11:363–382.
+ [PubMed] [Google Scholar]Hashimoto K, Durbin JE, Zhou W, Collins RD, Ho SB, Kolls JK, Dubin PJ, Sheller JR, Goleniewska K, O’Neal JF, et al.
+ Respiratory syncytial virus infection in the absence of STAT 1 results in airway dysfunction, airway mucus, and augmented IL-17 levels.
+ J Allergy Clin Immunol.
+ 2005;116:550–557.
+ [PubMed] [Google Scholar]Hashimoto K, Graham BS, Ho SB, Adler KB, Collins RD, Olson SJ, Zhou W, Suzutani T, Jones PW, Goleniewska K, et al.
+ Respiratory syncytial virus in allergic lung inflammation increases Muc5ac and gob-5.
+ American journal of respiratory and critical care medicine.
+ 2004;170:306–312.
+ [PubMed] [Google Scholar]Hoskins LC, Boulding ET.
+ Mucin degradation in human colon ecosystems.
+ Evidence for the existence and role of bacterial subpopulations producing glycosidases as extracellular enzymes.
+ The Journal of clinical investigation.
+ 1981;67:163–172.
+ [PMC free article] [PubMed] [Google Scholar]Hotard AL, Lee S, Currier MG, Crowe JE, Jr, Sakamoto K, Newcomb DC, Peebles RS, Jr, Plemper RK, Moore ML.
+ Identification of residues in the human respiratory syncytial virus fusion protein that modulate fusion activity and pathogenesis.
+ Journal of virology.
+ 2015;89:512–522.
+ [PMC free article] [PubMed] [Google Scholar]Hovenberg HW, Davies JR, Carlstedt I.
+ Different mucins are produced by the surface epithelium and the submucosa in human trachea: identification of MUC5AC as a major mucin from the goblet cells.
+ The Biochemical journal.
+ 1996;318(Pt 1):319–324.
+ [PMC free article] [PubMed] [Google Scholar]Hoyert DL, Xu J.
+ Deaths: Preliminary Data for 2011.
+ National Vital Statistics Reports.
+ 2012;61:1–52.
+ [PubMed] [Google Scholar]Irie A, Koyama S, Kozutsumi Y, Kawasaki T, Suzuki A.
+ The molecular basis for the absence of N-glycolylneuraminic acid in humans.
+ The Journal of biological chemistry.
+ 1998;273:15866–15871.
+ [PubMed] [Google Scholar]Ito T, Couceiro JN, Kelm S, Baum LG, Krauss S, Castrucci MR, Donatelli I, Kida H, Paulson JC, Webster RG, et al.
+ Molecular basis for the generation in pigs of influenza A viruses with pandemic potential.
+ Journal of virology.
+ 1998;72:7367–7373.
+ [PMC free article] [PubMed] [Google Scholar]Jeffries JL, Jia J, Choi W, Choe S, Miao J, Xu Y, Powell R, Lin J, Kuang Z, Gaskins HR, et al.
+ Pseudomonas aeruginosa pyocyanin modulates mucin glycosylation with sialyl-Lewisx to increase binding to airway epithelial cells.
+ Mucosal immunology.
+ 2015 Nov;11 [PMC free article] [PubMed] [Google Scholar]Jia N, Barclay WS, Roberts K, Yen HL, Chan RW, Lam AK, Air G, Peiris JS, Dell A, Nicholls JM, et al.
+ Glycomic characterization of respiratory tract tissues of ferrets: implications for its use in influenza virus infection studies.
+ The Journal of biological chemistry.
+ 2014;289:28489–28504.
+ [PMC free article] [PubMed] [Google Scholar]Kesimer M, Scull M, Brighton B, DeMaria G, Burns K, O’Neal W, Pickles RJ, Sheehan JK.
+ Characterization of exosome-like vesicles released from human tracheobronchial ciliated epithelium: a possible role in innate defense.
+ FASEB journal : official publication of the Federation of American Societies for Experimental Biology.
+ 2009;23:1858–1868.
+ [PMC free article] [PubMed] [Google Scholar]Kobasa D, Kodihalli S, Luo M, Castrucci MR, Donatelli I, Suzuki Y, Suzuki T, Kawaoka Y. Amino acid residues contributing to the substrate specificity of the influenza A virus neuraminidase.
+ Journal of virology.
+ 1999;73:6743–6751.
+ [PMC free article] [PubMed] [Google Scholar]Lai SK, Wang YY, Wirtz D, Hanes J. Micro- and macrorheology of mucus.
+ Advanced drug delivery reviews.
+ 2009;61:86–100.
+ [PMC free article] [PubMed] [Google Scholar]Lang T, Hansson GC, Samuelsson T. Gel-forming mucins appeared early in metazoan evolution.
+ Proceedings of the National Academy of Sciences of the United States of America.
+ 2007;104:16209–16214.
+ [PMC free article] [PubMed] [Google Scholar]Laver WG, Colman PM, Webster RG, Hinshaw VS, Air GM.
+ Influenza virus neuraminidase with hemagglutinin activity.
+ Virology.
+ 1984;137:314–323.
+ [PubMed] [Google Scholar]Li JD, Dohrman AF, Gallup M, Miyata S, Gum JR, Kim YS, Nadel JA, Prince A, Basbaum CB.
+ Transcriptional activation of mucin by Pseudomonas aeruginosa lipopolysaccharide in the pathogenesis of cystic fibrosis lung disease.
+ Proceedings of the National Academy of Sciences of the United States of America.
+ 1997;94:967–972.
+ [PMC free article] [PubMed] [Google Scholar]Li W, Yan F, Zhou H, Lin X, Wu Y, Chen C, Zhou N, Chen Z, Li JD, Shen H. P. aeruginosa lipopolysaccharide-induced MUC5AC and CLCA3 expression is partly through Duox1 in vitro and in vivo.
+ PloS one.
+ 2013;8:e63945.
+ [PMC free article] [PubMed] [Google Scholar]Li Y, Dinwiddie DL, Harrod KS, Jiang Y, Kim KC.
+ Anti-inflammatory effect of MUC1 during respiratory syncytial virus infection of lung epithelial cells in vitro.
+ American journal of physiology Lung cellular and molecular physiology.
+ 2010;298:L558–L563.
+ [PMC free article] [PubMed] [Google Scholar]Lillehoj EP, Hyun SW, Feng C, Zhang L, Liu A, Guang W, Nguyen C, Luzina IG, Atamas SP, Passaniti A, et al.
+ NEU1 sialidase expressed in human airway epithelia regulates epidermal growth factor receptor (EGFR) and MUC1 protein signaling.
+ The Journal of biological chemistry.
+ 2012;287:8214–8231.
+ [PMC free article] [PubMed] [Google Scholar]Lillehoj EP, Kato K, Lu W, Kim KC.
+ Cellular and molecular biology of airway mucins.
+ International review of cell and molecular biology.
+ 2013;303:139–202.
+ [PMC free article] [PubMed] [Google Scholar]Lillehoj EP, Kim BT, Kim KC.
+ Identification of Pseudomonas aeruginosa flagellin as an adhesin for Muc1 mucin.
+ American journal of physiology Lung cellular and molecular physiology.
+ 2002;282:L751–L756.
+ Journal of virology.
+ 2010;84:6769–6781.
+ [PMC free article] [PubMed] [Google Scholar]Lora JM, Zhang DM, Liao SM, Burwell T, King AM, Barker PA, Singh L, Keaveney M, Morgenstern J, Gutierrez-Ramos JC, et al.
+ Tumor necrosis factor-alpha triggers mucus production in airway epithelium through an IkappaB kinase beta-dependent mechanism.
+ The Journal of biological chemistry.
+ 2005;280:36510–36517.
+ [PubMed] [Google Scholar]Lovewell RR, Hayes SM, O’Toole GA, Berwin B. Pseudomonas aeruginosa flagellar motility activates the phagocyte PI3K/Akt pathway to induce phagocytic engulfment.
+ American journal of physiology Lung cellular and molecular physiology.
+ 2014;306:L698–L707.
+ [PMC free article] [PubMed] [Google Scholar]Lu W, Hisatsune A, Koga T, Kato K, Kuwahara I, Lillehoj EP, Chen W, Cross AS, Gendler SJ, Gewirtz AT, et al.
+ Cutting edge: enhanced pulmonary clearance of Pseudomonas aeruginosa by Muc1 knockout mice.
+ Journal of immunology.
+ 2006;176:3890–3894.
+ [PubMed] [Google Scholar]Luan X, Campanucci VA, Nair M, Yilmaz O, Belev G, Machen TE, Chapman D, Ianowski JP.
+ Pseudomonas aeruginosa triggers CFTR-mediated airway surface liquid secretion in swine trachea.
+ Proceedings of the National Academy of Sciences of the United States of America.
+ 2014;111:12930–12935.
+ [PMC free article] [PubMed] [Google Scholar]Luzar MA, Thomassen MJ, Montie TC.
+ Flagella and motility alterations in Pseudomonas aeruginosa strains from patients with cystic fibrosis: relationship to patient clinical condition.
+ Infect Immun.
+ 1985;50:577–582.
+ [PMC free article] [PubMed] [Google Scholar]Martino MB, Jones L, Brighton B, Ehre C, Abdulah L, Davis CW, Ron D, O’Neal WK, Ribeiro CM.
+ The ER stress transducer IRE1beta is required for airway epithelial mucin production.
+ Mucosal immunology.
+ 2013;6:639–654.
+ [PMC free article] [PubMed] [Google Scholar]Matrosovich M, Tuzikov A, Bovin N, Gambaryan A, Klimov A, Castrucci MR, Donatelli I, Kawaoka Y.
+ Early alterations of the receptor-binding properties of H1, H2, and H3 avian influenza virus hemagglutinins after their introduction into mammals.
+ Journal of virology.
+ 2000;74:8502–8512.
+ [PMC free article] [PubMed] [Google Scholar]Matrosovich MN, Matrosovich TY, Gray T, Roberts NA, Klenk HD.
+ Neuraminidase is important for the initiation of influenza virus infection in human airway epithelium.
+ Journal of virology.
+ 2004;78:12665–12667.
+ [PMC free article] [PubMed] [Google Scholar]Matsuoka Y, Swayne DE, Thomas C, Rameix-Welti MA, Naffakh N, Warnes C, Altholtz M, Donis R, Subbarao K. Neuraminidase stalk length and additional glycosylation of the hemagglutinin influence the virulence of influenza H5N1 viruses for mice.
+ Journal of virology.
+ 2009;83:4704–4708.
+ [PMC free article] [PubMed] [Google Scholar]Miller AL, Strieter RM, Gruber AD, Ho SB, Lukacs NW.
+ CXCR2 regulates respiratory syncytial virus-induced airway hyperreactivity and mucus overproduction.
+ Journal of immunology.
+ 2003;170:3348–3356.
+ [PubMed] [Google Scholar]Ng PS, Bohm R, Hartley-Tassell LE, Steen JA, Wang H, Lukowski SW, Hawthorne PL, Trezise AE, Coloe PJ, Grimmond SM, et al.
+ Ferrets exclusively synthesize Neu5Ac and express naturally humanized influenza A virus receptors.
+ Nature communications.
+ 2014;5:5750.
+ [PMC free article] [PubMed] [Google Scholar]Nicholls JM, Bourne AJ, Chen H, Guan Y, Peiris JS.
+ Sialic acid receptor detection in the human respiratory tract: evidence for widespread distribution of potential binding sites for human and avian influenza viruses.
+ Respiratory research.
+ 2007;8:73.
+ [PMC free article] [PubMed] [Google Scholar]Ohuchi M, Asaoka N, Sakai T, Ohuchi R. Roles of neuraminidase in the initial stage of influenza virus infection.
+ Microbes and infection / Institut Pasteur.
+ 2006;8:1287–1293.
+ [PubMed] [Google Scholar]Palese P, Shaw ML.
+ Orthomyxoviridae: The Viruses and Their Replication.
+ In: Knipe DM, Howley PM, editors.
+ Fields Virology.
+ Philadelphia, USA: Lippincott Williams &amp; Wilkins; 2013. pp.
+ 1647–1689.
+ [Google Scholar]Pastoriza Gallego W, Hulen C. Influence of sialic acid and bacterial sialidase on differential adhesion of Pseudomonas aeruginosa to epithelial cells.
+ Colloids Surf B Biointerfaces.
+ 2006;52:154–156.
+ [PubMed] [Google Scholar]Persson BD, Jaffe AB, Fearns R, Danahay H. Respiratory syncytial virus can infect basal cells and alter human airway epithelial differentiation.
+ PloS one.
+ 2014;9:e102368.
+ [PMC free article] [PubMed] [Google Scholar]Pickles RJ, DeVincenzo JP.
+ Respiratory syncytial virus (RSV) and its propensity for causing bronchiolitis.
+ J Pathol.
+ 2015;235:266–276.
+ [PMC free article] [PubMed] [Google Scholar]Pietrantoni A, Ammendolia MG, Superti F. Bovine lactoferrin: involvement of metal saturation and carbohydrates in the inhibition of influenza virus infection.
+ 2012;90:442–448.
+ [PubMed] [Google Scholar]Puchelle E, Zahm JM, Havez R. [Biochemical and rheological data in sputum.
+ 3.
+ Relationship between the biochemical constituents and the rheological properties of sputum (author’s transl)] Bulletin de physio-pathologie respiratoire.
+ 1973;9:237–257.
+ [PubMed] [Google Scholar]Rada B, Gardina P, Myers TG, Leto TL.
+ Reactive oxygen species mediate inflammatory cytokine release and EGFR-dependent mucin secretion in airway epithelial cells exposed to Pseudomonas pyocyanin.
+ Mucosal immunology.
+ 2011;4:158–171.
+ [PMC free article] [PubMed] [Google Scholar]Ridley C, Kouvatsos N, Raynal BD, Howard M, Collins RF, Desseyn JL, Jowitt TA, Baldock C, Davis CW, Hardingham TE, et al.
+ Assembly of the respiratory mucin MUC5B: a new model for a gel-forming mucin.
+ The Journal of biological chemistry.
+ 2014;289:16409–16420.
+ [PMC free article] [PubMed] [Google Scholar]Roy MG, Livraghi-Butrico A, Fletcher AA, McElwee MM, Evans SE, Boerner RM, Alexander SN, Bellinghausen LK, Song AS, Petrova YM, et al.
+ Muc5b is required for airway defence.
+ Nature.
+ 2014;505:412–416.
+ [PMC free article] [PubMed] [Google Scholar]Scharfman A, Degroote S, Beau J, Lamblin G, Roussel P, Mazurier J. Pseudomonas aeruginosa binds to neoglycoconjugates bearing mucin carbohydrate determinants and predominantly to sialyl-Lewis x conjugates.
+ Glycobiology.
+ 1999;9:757–764.
+ [PubMed] [Google Scholar]Schauer R, Srinivasan GV, Coddeville B, Zanetta JP, Guerardel Y.
+ Low incidence of N-glycolylneuraminic acid in birds and reptiles and its absence in the platypus.
+ Carbohydrate research.
+ 2009;344:1494–1500.
+ [PubMed] [Google Scholar]Sheehan JK, Kesimer M, Pickles R. Innate immunity and mucus structure and function.
+ 2006;279:155–166.
+ discussion 167–159, 216-159.
+ [PubMed] [Google Scholar]Shinya K, Ebina M, Yamada S, Ono M, Kasai N, Kawaoka Y. Avian flu: influenza virus receptors in the human airway.
+ Nature.
+ 2006;440:435–436.
+ [PubMed] [Google Scholar]Shogren R, Gerken TA, Jentoft N. Role of glycosylation on the conformation and chain dimensions of O-linked glycoproteins: light-scattering studies of ovine submaxillary mucin.
+ Biochemistry.
+ 1989;28:5525–5536.
+ [PubMed] [Google Scholar]Springer SA, Diaz SL, Gagneux P. Parallel evolution of a self-signal: humans and new world monkeys independently lost the cell surface sugar Neu5Gc.
+ Immunogenetics.
+ 2014;66:671–674.
+ [PMC free article] [PubMed] [Google Scholar]Springer SA, Gagneux P. Glycan evolution in response to collaboration, conflict, and constraint.
+ The Journal of biological chemistry.
+ 2013;288:6904–6911.
+ [PMC free article] [PubMed] [Google Scholar]Stanley P, Schachter H, Taniguchi N. N-Glycans.
+ In: Varki A, Cummings RD, Esko JD, Freeze HH, Stanley P, Bertozzi CR, Hart GW, Etzler ME, editors.
+ Essentials of Glycobiology.
+ 2nd.
+ NY, USA: Cold Spring Harbor Laboratory Press; 2009.
+ [Google Scholar]Staudinger BJ, Muller JF, Halldorsson S, Boles B, Angermeyer A, Nguyen D, Rosen H, Baldursson O, Gottfreethsson M, Guethmundsson GH, et al.
+ Conditions associated with the cystic fibrosis defect promote chronic Pseudomonas aeruginosa infection.
+ American journal of respiratory and critical care medicine.
+ 2014;189:812–824.
+ [PMC free article] [PubMed] [Google Scholar]Stevens J, Blixt O, Glaser L, Taubenberger JK, Palese P, Paulson JC, Wilson IA.
+ Glycan microarray analysis of the hemagglutinins from modern and pandemic influenza viruses reveals different receptor specificities.
+ Journal of molecular biology.
+ 2006;355:1143–1155.
+ [PubMed] [Google Scholar]Stokes KL, Currier MG, Sakamoto K, Lee S, Collins PL, Plemper RK, Moore ML.
+ The respiratory syncytial virus fusion protein and neutrophils mediate the airway mucin response to pathogenic respiratory syncytial virus infection.
+ Journal of virology.
+ 2013;87:10070–10082.
+ [PMC free article] [PubMed] [Google Scholar]Stone JD.
+ Tryptic inactivation of the receptor-destroying enzyme of V. cholerae and of the enzymic activity of influenza virus.
+ The Australian journal of experimental biology and medical science.
+ 1949;27:229–244.
+ [PubMed] [Google Scholar]Suzuki Y, Ito T, Suzuki T, Holland RE, Jr, Chambers TM, Kiso M, Ishida H, Kawaoka Y. Sialic acid species as a determinant of the host range of influenza A viruses.
+ Journal of virology.
+ 2000;74:11825–11831.
+ [PMC free article] [PubMed] [Google Scholar]Takahashi T, Takano M, Kurebayashi Y, Masuda M, Kawagishi S, Takaguchi M, Yamanaka T, Minami A, Otsubo T, Ikeda K, et al.
+ N-glycolylneuraminic acid on human epithelial cells prevents entry of influenza A viruses that possess N-glycolylneuraminic acid binding ability.
+ Journal of virology.
+ 2014;88:8445–8456.
+ [PMC free article] [PubMed] [Google Scholar]Temann UA, Prasad B, Gallup MW, Basbaum C, Ho SB, Flavell RA, Rankin JA.
+ A novel role for murine IL-4 in vivo: induction of MUC5AC gene expression and mucin hypersecretion.
+ Am J Respir Cell Mol Biol.
+ 1997;16:471–478.
+ [PubMed] [Google Scholar]Thornton DJ, Rousseau K, McGuckin MA.
+ Structure and function of the polymeric mucins in airways mucus.
+ Annu Rev Physiol.
+ 2008;70:459–486.
+ [PubMed] [Google Scholar]Tumpey TM, Maines TR, Van Hoeven N, Glaser L, Solorzano A, Pappas C, Cox NJ, Swayne DE, Palese P, Katz JM, et al.
+ A two-amino acid change in the hemagglutinin of the 1918 influenza virus abolishes transmission.
+ Science.
+ 2007;315:655–659.
+ [PubMed] [Google Scholar]Umehara T, Kato K, Park YS, Lillehoj EP, Kawauchi H, Kim KC.
+ Prevention of lung injury by Muc1 mucin in a mouse model of repetitive Pseudomonas aeruginosa infection.
+ Inflammation research : official journal of the European Histamine Research Society [et al] 2012;61:1013–1020.
+ [PMC free article] [PubMed] [Google Scholar]van Riel D, Munster VJ, de Wit E, Rimmelzwaan GF, Fouchier RA, Osterhaus AD, Kuiken T. H5N1 Virus Attachment to Lower Respiratory Tract.
+ Science.
+ 2006;312:399.
+ [PubMed] [Google Scholar]Verdugo P, Aitken M, Langley L, Villalon MJ.
+ Molecular mechanism of product storage and release in mucin secretion.
+ II.
+ The role of extracellular Ca++ Biorheology.
+ 1987a;24:625–633.
+ [PubMed] [Google Scholar]Verdugo P, Deyrup-Olsen I, Aitken M, Villalon M, Johnson D. Molecular mechanism of mucin secretion: I.
+ The role of intragranular charge shielding.
+ Journal of dental research.
+ 1987b;66:506–508.
+ [PubMed] [Google Scholar]Wakabayashi H, Oda H, Yamauchi K, Abe F. Lactoferrin for prevention of common viral infections.
+ Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy.
+ 2014;20:666–671.
+ The Biochemical journal.
+ 1998;334(Pt 3):685–693.
+ [PMC free article] [PubMed] [Google Scholar]Yan F, Li W, Jono H, Li Q, Zhang S, Li JD, Shen H. Reactive oxygen species regulate Pseudomonas aeruginosa lipopolysaccharide-induced MUC5AC mucin expression via PKC-NADPH oxidase-ROS-TGF-alpha signaling pathways in human airway epithelial cells.
+ Biochem Biophys Res Commun.
+ 2008;366:513–519.
+ [PubMed] [Google Scholar]Yang X, Steukers L, Forier K, Xiong R, Braeckmans K, Van Reeth K, Nauwynck H. A beneficiary role for neuraminidase in influenza virus penetration through the respiratory mucus.
+ PloS one.
+ 2014;9:e110026.
+ [PMC free article] [PubMed] [Google Scholar]Yeung AT, Parayno A, Hancock RE.
+ Mucin promotes rapid surface motility in Pseudomonas aeruginosa.
+ MBio.
+ 2012;3:e00073–e00012.
+ [PMC free article] [PubMed] [Google Scholar]Zanin M, Marathe B, Wong S, Yoon S, Collin E, Oshansky C, Jones J, Hause B, Webby R. Pandemic swine H1N1 influenza viruses with almost undetectable neuraminidase activity do not transmit via aerosols in ferrets and are inhibited by human mucus, but not swine mucus.
+ Journal of virology.
+ 2015;89:5935–5948.
+ [PMC free article] [PubMed] [Google Scholar]Zheng S, Xu W, Bose S, Banerjee AK, Haque SJ, Erzurum SC.
+ Impaired nitric oxide synthase-2 signaling pathway in cystic fibrosis airway epithelium.
+ American journal of physiology Lung cellular and molecular physiology.
+ 2004;287:L374–L381.
+ [PubMed] [Google Scholar]Zhu X, McBride R, Nycholat CM, Yu W, Paulson JC, Wilson IA.
+ Influenza virus neuraminidases with reduced enzymatic activity that avidly bind sialic Acid receptors.
+ Journal of virology.
+ 2012;86:13371–13383.
+ [PMC free article] [PubMed] [Google Scholar]Zuhdi Alimam M, Piazza FM, Selby DM, Letwin N, Huang L, Rose MC.
+ Muc-5/5ac mucin messenger RNA and protein expression is a marker of goblet cell metaplasia in murine airways.
+ Am J Respir Cell Mol Biol.
+ 2000;22:253–260.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

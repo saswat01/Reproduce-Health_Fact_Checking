@@ -1,0 +1,587 @@
+106Journal of American Physicians and Surgeons
+ Volume 23
+ Number 4 Winter 2018
+A similar analysis was completed on the entire sample, 
+considering autism without mental retardation (MR), and 
+autism with MR separately. MR was de˚ned as having an IQ 
+
+score of less than 70. Odds ratios were obtained for the same 
+
+three age groups for receiving the ˚rst MMR vaccine.
+Results
+MMR Timing in African-American Males
+As noted above, DeStefano et al.
+1 reported a statistically 
+signi˚cant relationship between the age of receipt of the ˚rst 
+MMR vaccine and autism incidence in school-aged children 
+
+in their case-control study, which used a 1:3 case-control 
+
+matching. They used a dichotomized conditional logistic 
+
+regression with matching based on gender, age, and school 
+
+attended. 
+To test the hypothesis that the relationship was an artifact 
+of early ﬁhealth-seeking behaviorﬂ to qualify for a special early-
+
+intervention program, rather than a possible e˝ect of early 
+
+MMR vaccination, the current study performed conditional 
+
+logistic regression with matching based on birth year and 
+
+school of attendance, with individual analyses of separate 
+
+categories of white and other males, black males, white and 
+
+other females, and black females. 
+Table 1 shows the descriptive statistics for the sample to be 
+considered. Because DeStefano et al. did not match cases and 
+
+controls by race, there is a slight deviation from 1:3 matching 
+
+in each separate sample to be considered.
+The only race/gender category showing a statistically 
+signi˚cant relationship is black males, who appear to be 38% 
+
+more likely to receive an autism diagnosis if they received 
+
+the ˚rst MMR vaccine one year earlier than the controls. This 
+
+relationship is still statistically signi˚cant (
+p = 0.048) when 
+
+applying the Bonferroni correction to multiple comparisons 
+
+within the same data set, although this type of correction is 
+
+arguably not necessarily appropriate in multiple analyses of 
+
+related outcomes.
+4 Following the method of DeStefano et al.,
+1 conditional 
+logistic regression was performed for black males only, except 
+
+that the age category was dichotomized for ˚rst vaccine receipt 
+
+before or after 18 months, 24 months, or 36 months, instead of 
+
+just for before or after 36 months. Separate conditional logistic 
+
+regressions were performed for each age categorization; cases 
+
+were matched to controls based on birth year and school 
+
+attended. Results are shown in Table 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+In this instance, an increase in the odds ratio is seen with 
+increasing age of ˚rst MMR vaccine, with statistical signi˚cance 
+
+achieved at the 24-month and 36-month cuto˝s. 
+Table 1.
+ Descriptive Statistics for the Sample
+Unlike in the analysis by DeStefano et al., the ˚rst analysis in 
+this study treated age of ˚rst MMR vaccination as a continuous 
+
+independent variable reported in years of age. Also, unlike the 
+
+original DeStefano et al. analysis,
+1 in this study the presence 
+of autism diagnoses was evaluated without using covariates. 
+
+Cases were matched to controls based on birth year and 
+
+school attended. The results for these four analyses are shown 
+
+in Table 2.
+Table 2.
+ E˝ect of race/gender category on relative risk 
+of autism based on the age of ˚rst MMR administration 
+
+(conditional logistic regression with cases matched to controls 
+
+based on birth year and school attended)
+Table 3.
+ Odds ratio for receiving an autism diagnosis for 
+African-American males receiving the ˚rst MMR vaccine before 
+
+or after di˝erent age cuto˝s
+ 107Journal of American Physicians and Surgeons
+ Volume 23
+ Number 4 Winter 2018
+The odds ratios for receiving a diagnosis of autism without 
+mental retardation (Table 4) or with mental retardation (Table 
+5) were also determined for the entire data set for receipt of 
+
+the ˚rst MMR vaccine before or after the three di˝erent age 
+
+cut-o˝s. Cases were matched to controls based on birth year, 
+
+gender, and school attended. The only statistically signi˚cant 
+
+˚nding was for autism without MR for the 36-month cut-o˝.
+Discussion
+The analysis of the MADDSP data by DeStefano et al.
+1 did 
+not consider gender separately and considered race only in 
+the 41% smaller ﬁbirth-certi˚cateﬂ sample. This obscured the 
+
+statistically signi˚cant observation of the apparent e˝ect of 
+
+vaccine timing on the incidence of autism in black males. 
+
+Their methodology departed substantially from the original 
+
+analysis protocol, laid out by the study co-authors and 
+
+˚nalized on Sep 5, 2001, which indicated that race information 
+
+was to be abstracted from school records for all individuals in 
+
+the sample. It further stated, ﬁThe only variable available to be 
+
+assessed as a potential confounder using the entire sample is 
+
+child™s race.ﬂ
+5 The earliest analyses completed subsequent to 
+˚nalizing the analysis plan included the entire sample for the 
+
+race analysis, and showed a statistically signi˚cant e˝ect for 
+
+blacks, yet no such e˝ect for whites and others.
+A data table generated as a part of an analysis dated Nov 
+7, 2001, was obtained from a coauthor and lead statistician 
+
+of the paper, Dr. William Thompson (see Figure 1).
+6 The data 
+show statistically signi˚cant odds ratios for all subjects in 
+
+the sample for the matched analysis (conditional logistic 
+
+regression, dichotomized at 36 months of age, OR 1.61, 95% 
+
+CI 1.10 Œ 2.34) and for blacks only, including both boys and 
+
+girls, in the unmatched analysis (also conditional logistic 
+
+regression, dichotomized at 36 months of age, OR 2.25, 95% 
+
+CI 1.25 Œ 4.03). The former results were presented in the ˚nal 
+
+paper by DeStefano et al.,
+1 but the latter results for African-
+Americans were omitted in favor of results for the ﬁbirth-
+
+certi˚cate sampleﬂ only. Further, when using those blacks 
+
+vaccinated after 36 months as a reference group, subgroups 
+
+vaccinated between ages 12Œ15 months and 16Œ18 months 
+
+also had statistically signi˚cant e˝ects. 
+In the CDC™s table, ﬁmatchedﬂ means that cases and controls 
+were matched together if they were the same gender, age, 
+
+and went to the same school. ﬁUnmatchedﬂ means that cases 
+
+were clustered with controls without any of those stipulations. 
+
+Thus, males could be considered against females, etc. ﬁIsolated 
+
+autismﬂ is a term that DeStefano et al. used for autism with no 
+
+other diagnoses within the ˚rst year of life. ﬁNonisolated autismﬂ 
+
+means that the children had comorbidities within the ˚rst year 
+
+of life. The unusual intervals were determined by the CDC for 
+
+unexplained reasons.
+The e˝ect of birth year (before or after 1990) was also 
+explored by conditional logistic regression based on age of 
+˚rst MMR vaccine in years (see Table 6). There was a statistically 
+
+signi˚cant e˝ect for the entire group and for the sub-group 
+
+born in 1990 or later. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 4.
+ Odds ratio for receiving an autism diagnosis without 
+
+mental retardation for all subjects receiving the ˚rst MMR at 
+
+speci˚c age cut-o˝s
+Table 5.
+ Odds ratio for receiving an autism diagnosis with 
+mental retardation for all subjects receiving the ˚rst MMR at 
+
+speci˚c age cut-o˝s
+Table 6.
+ Odds ratio for receiving the MMR vaccine one year 
+
+earlier for African-American (AA) males born prior to 1990 or 
+
+in 1990 and thereafter
+ 108Journal of American Physicians and Surgeons
+ Volume 23
+ Number 4 Winter 2018
+Autism is a very signi˚cant problem in African-Americans, 
+and there are con˛icting data on autism incidence in this 
+population, relative to whites and other races. However, one 
+
+study showed that prevalence of autism in African-Americans 
+
+was approximately 25% higher than that of whites when the 
+
+data were adjusted for socioeconomic factors.
+7 All potential 
+causes of or contributors to autism incidence should be 
+
+investigated, regardless of their bearing on U.S. vaccination 
+
+rates. The e˝ect originally observed by the CDC and a˜rmed 
+
+in this paper, showing a greater risk speci˚cally for African-
+
+Americans, deserves additional, immediate investigation.
+MMR Timing Related to Mental Retardation
+Another feature reported by DeStefano et al.
+1 is a statistically signi˚cant association between MMR timing and 
+autism incidence when considering autism cases with or 
+
+without a diagnosis of mental retardation (MR). MR was de˚ned 
+
+in the original paper as an IQ less than 70, measured between 
+
+1996 and 1998. Speci˚cally, Table 4 in DeStefano et al. shows 
+
+an odds ratio of 2.45 (95% CI 1.20 Œ 5.00) when looking at the 
+
+risk of autism without MR, using at the 36-month ﬁcut-o˝ﬂ age. 
+
+This means that those individuals receiving MMR vaccine prior 
+to age 36 months were at a statistically signi˚cant greater risk 
+
+of autism without MR as compared to those who received the 
+
+vaccine at 36 months or thereafter. This analysis was completed 
+
+on the total sample (with 248 cases and age, gender, and 
+
+school-matched controls). Curiously, this analysis was repeated 
+
+on the birth-certi˚cate sample, consisting of 132 cases and age, 
+
+gender, and school-matched controls, with adjustments for 
+
+birth weight, multiple gestation, maternal age, and maternal 
+
+education. DeStefano et al. had 1,824 control subjects with 
+
+1:3 case control matching, but they do not report the number 
+
+of controls used in each of these particular analyses. With the 
+
+limited power associated with the smaller sample, statistical 
+
+signi˚cance was avoided in the second analysis, with an odds 
+
+ratio of 3.55 (95% CI 0.74 Œ 17.07). 
+In the current analysis, this association was revisited for 
+the entire sample for cases of autism with and without mental 
+
+retardation. In each case, conditional logistic regression was used 
+
+on cases matched to controls by birth year, gender, and school 
+
+attended. Results for cases without MR are shown in Table 4, 
+
+where no statistically signi˚cant e˝ect is seen at 18 months, a 
+
+marginal e˝ect is seen at 24 months (OR = 1.47, 
+p = 0.094), and a 
+signi˚cant e˝ect is seen at 36 months (OR = 2.52, 
+p = 0.012). This 
+Figure 1.
+ Results of analysis of Dr. William Thompson on all children, African-Americans, whites, and others, from Nov 7, 2001.
+ contrasts with cases of autism with MR (results shown in Table 5), 
+in which no e˝ect is observed.
+DeStefano et al.
+1 mentioned the e˝ect regarding autism 
+without MR only in passing, stating: ﬁThe only exception was that 
+
+case children without MR were more likely to have been vaccinated 
+
+before 36 months of age than their matched control children.ﬂ 
+
+No discussion of any potential reason for this e˝ect is o˝ered. 
+
+Neither is this result contrasted to any of the other statistically 
+
+signi˚cant results, in which the coauthors suggest that the e˝ect 
+
+may result from the requirement that children with an autism 
+
+diagnosis are required to receive their ˚rst MMR early in order to 
+
+qualify for special education services. The obvious problem with 
+
+this argument, in light of the results, is that no consistent e˝ect is 
+
+observed across all the demographics studied (boys versus girls, 
+
+di˝erent races, etc.), all of whom face the same requirement.
+It is notable that a signi˚cant portion of the U.S. autism 
+population has no intellectual disability. The Autism and 
+
+Developmental Disability Monitoring (ADDM) network in 
+
+2014 reported a prevalence of autism without concurrent 
+
+intellectual disability of 10.2/1000, whereas the prevalence of 
+
+autism with concurrent disability was 4.7/1000. Authors of the 
+
+report concluded that ﬁa large proportion of the observed ASD 
+
+prevalence increase can be attributed to children with average or 
+
+above average intellectual ability (IQ >85).ﬂ
+8 Several other recent 
+studies a˜rm this.
+9MMR Timing When Considering Underlying
+
+Thimerosal Exposure
+One aspect of the vaccine schedule that was not studied 
+by DeStefano et al. was the e˝ect of thimerosal exposure 
+
+on developmental outcomes in light of timing of the MMR 
+
+vaccine. Many previous studies have shown a relationship 
+
+between autism incidence and thimerosal exposure from infant 
+
+vaccines.
+10 Gallagher et al.
+3 have reported that ﬁnon-whiteﬂ 
+males bear a greater risk from exposure to thimerosal from the 
+
+hepatitis B vaccination series. 
+The birth dates of the MADDSP sampling, between 1986 
+and 1994, yielded a unique opportunity for comparison, given 
+
+the rise in thimerosal exposure starting in the early 1990s with 
+
+the addition of the hepatitis B and 
+Haemophilus in˚uenza type 
+
+b (Hib) vaccine series to the CDC™s infant vaccination schedule. 
+Since insu˜cient information was available in the data set 
+to directly calculate infant thimerosal exposure, the sample 
+
+was split into two exposure groups: those born before 1990, 
+
+as a surrogate for lower thimerosal exposure, and those born 
+
+in 1990 and thereafter, as a surrogate for higher thimerosal 
+
+exposure. Then, rather than dichotomizing each sub-sample by 
+
+age of ˚rst MMR vaccine (e.g., before and after 36 months of 
+
+age), a conditional logistic model was run based on the odds 
+
+associated with receiving the MMR vaccine ﬁone year earlier,ﬂ 
+
+i.e. where the timing of the ˚rst MMR vaccine was treated as 
+
+a continuous variable. Results for African-American males 
+
+are shown in Table 6 and clearly demonstrate that statistical 
+
+signi˚cance is achieved only for the sample taken after the 1990 
+
+birth year cut-o˝ (OR = 1.720, 
+p-value = 0.0325). These would 
+include infants subjected to the three-shot hepatitis B vaccine 
+
+series, with a total mercury exposure of 37.5 micrograms from 
+
+thimerosal, and the four-shot Hib series, with a mercury exposure 
+
+of 100 micrograms from thimerosal, in addition to the four-shot 
+diphtheria-tetanus-acellular pertussis (DTaP) series (which was 
+
+recommended prior to 1990), with a mercury exposure of 100 
+
+micrograms from thimerosal. Thus, infants compliant with the 
+
+CDC recommended schedule, born in 1990 and thereafter, were 
+
+exposed to an additional 137.5 micrograms mercury by age 
+
+18 months. The results, which are preliminary, suggest some 
+
+type of synergism between thimerosal exposure and MMR 
+
+timing leading to a greater risk of autism. However, this more 
+
+complex ﬁe˝ectﬂ requires additional study for con˚rmation, and 
+
+to understand the role of thimerosal and the MMR in the onset 
+
+and etiology of autism, especially given the limited nature of 
+
+the MADDSP data set. 
+Conclusion 
+The data set used by DeStefano et al.
+1 represents a huge lost 
+opportunity to understand any role between the timing of the ˚rst 
+MMR vaccine and autism. The re-analysis presented here elucidates 
+
+e˝ects that should at least merit further investigation. Speci˚cally, 
+
+increased risks of earlier vaccination are observed for African-
+
+American males and among cases of autism without MR. Both 
+
+phenomena deserve additional study that could yield important 
+
+clues regarding the current enormous increase in autism. 
+Brian Hooker, Ph.D., P.E., 
+is assistant professor of biology at Simpson 
+University in Redding, Calif., and principal consultant for Brian Hooker 
+Consulting. Contact: drbrianhooker@gmail.com. 
+Disclosures: 
+Dr. Hooker has received funding from the Focus for Health 
+Foundation and serves on Focus for Health™s board of directors. Dr. Hooker is 
+also on the board of directors for the Children™s Health Defense (formerly the 
+
+World Mercury Project).
+REFERENCES1. DeStefano F, Bhasin TK, Thompson WW, Yeargin-Allsop M, Boyle C. Age 
+at ˚rst measles-mumps-rubella vaccination in children with autism 
+
+and school-matched control subjects: a population-based study in 
+
+metropolitan Atlanta. 
+Pediatrics
+ 2004;113:259-266.2. Geier DA, Hooker BS, Kern JK, et al. A two-phase study evaluating the 
+
+relationship between thimerosal-containing vaccine administration and 
+
+the risk for an autism spectrum disorder diagnosis in the United States. 
+
+Transl Neurodegener
+ 2013;2:25-36.3. Gallagher CM, Goodman MS. Hepatitis B vaccination of male neonates 
+
+and autism diagnosis, NHIS 1997-2002. 
+J Toxicol Environ Health
+ Part A 
+
+2010;73:1665-1677.4. Bland JM, Altman DG. Multiple signi˚cance tests: the Bonferroni method. 
+
+BMJ 1995;310(6973):170.5. Thompson WW. Autism and Childhood MMR VaccineŠDraft of Analysis 
+
+Plan; Sep 5, 2001. Available at: http://media.wix.com/ugd/b3aa2b_680d4
+
+22b34cf4940bedce4aa475de8b4.pdf. Accessed Nov 14, 2018.
+6. Thompson WW. CDC whistleblower, Dr. William Thompson™s, public 
+
+statement. 
+The Greater Good
+ movie; Sep 1, 2014. Available at: http://
+www.greatergoodmovie.org/news-views/cdc-whistleblower-dr-william-
+
+thompsons-public-statement/. Accessed Nov 14, 2018.
+7. Durkin MS, Maenner MJ, Meaney FJ, et al. Socioeconomic inequality in 
+
+the prevalence of autism spectrum disorder: evidence from a U.S. cross-
+
+sectional study. 
+PloS One
+ 2010;5:e11551.8. CDC Autism and Developmental Disabilities Monitoring Network 
+
+Surveillance Year 2010 Principal Investigators. Prevalence of autism 
+
+spectrum disorder among children aged 8 yearsŠAutism and 
+
+Developmental Disabilities Monitoring Network, 11 sites, United States, 
+
+2010. MMWR Surveillance Summaries
+ 2014;63(2):1-21. Available at: https://
+www.cdc.gov/mmwr/pdf/ss/ss6302.pdf. Accessed Nov 14, 2018.
+9. Elsabbagh M, Divan G, Koh YJ, et al. Global prevalence of autism and other 
+
+pervasive developmental disorders. 
+Autism Res
+ 2012; 5:160-179.10. Hooker BS. Scienti˚c Papers Showing a Link Between Thimerosal Exposure 
+
+and Autism; Sep 10, 2015. Available at: https://www.focusforhealth.org/
+
+wp-content/uploads/2015/03/2015_9_10-Scientific-Papers-Showing-
+
+Linking-Thimerosal-Exposure-to-Autism.pdf. Accessed Nov 14, 2018.
+109Journal of American Physicians and Surgeons
+ Volume 23
+ Number 4 Winter 2018

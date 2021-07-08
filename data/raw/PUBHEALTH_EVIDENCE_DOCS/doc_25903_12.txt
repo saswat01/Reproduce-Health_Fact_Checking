@@ -1,0 +1,7 @@
+Try the html renderer.
+ ","no_comment_email":"Please provide an email address to comment.
+ ","no_comment_author":"Please provide your name to comment.
+ ","comment_post_error":"Sorry, but there was an error posting your comment.
+ Please try again later.
+ ","comment_approved":"Your comment was approved.
+ ","comment_unapproved":"Your comment is in moderation.

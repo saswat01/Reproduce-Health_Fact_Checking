@@ -1,0 +1,393 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListElsevier Public Health Emergency CollectionPMC7191274        Int J Nurs Stud.
+ 2020 Aug; 108: 103629.
+ Published online 2020 Apr 30. doi: 10.1016/j.ijnurstu.2020.103629PMCID: PMC7191274PMID: 32512240A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patientsC.
+ Raina MacIntyrea and Abrar Ahmad Chughtaib,⁎C.
+ Raina MacIntyreaThe Kirby Institute, UNSW Medicine, University of New South Wales, Sydney, AustraliaFind articles by C. Raina MacIntyreAbrar Ahmad ChughtaibSchool of Public Health and Community Medicine, UNSW Medicine, University of New South Wales, Room 228, Level 2 Samuels Building, Sydney, AustraliaFind articles by Abrar Ahmad ChughtaiAuthor information Article notes Copyright and License information DisclaimeraThe Kirby Institute, UNSW Medicine, University of New South Wales, Sydney, AustraliabSchool of Public Health and Community Medicine, UNSW Medicine, University of New South Wales, Room 228, Level 2 Samuels Building, Sydney, AustraliaC.
+ Raina MacIntyre: ua.ude.wsnu@erytnicam.r; Abrar Ahmad Chughtai: ua.ude.wsnu@iathguhc.rarba ⁎Corresponding author.
+ ua.ude.wsnu@iathguhc.rarbaReceived 2020 Mar 24; Revised 2020 Apr 18; Accepted 2020 Apr 21.Copyright © 2020 The Author(s).
+ Published by Elsevier Ltd.Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID-19.
+ The COVID-19 resource centre is hosted on Elsevier Connect, the company's public news and information website.
+ Elsevier hereby grants permission to make all its COVID-19-related research that is available on the COVID-19 resource centre - including this research content - immediately available in PubMed Central and other publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source.
+ These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active.This article has been cited by other articles in PMC.AbstractBackgroundThe pandemic of COVID-19 is growing, and a shortage of masks and respirators has been reported globally.
+ Policies of health organizations for healthcare workers are inconsistent, with a change in policy in the US for universal face mask use.
+ The aim of this study was to review the evidence around the efficacy of masks and respirators for healthcare workers, sick patients and the general public.MethodsA systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted.
+ Articles were searched on Medline and Embase using key search terms.ResultsA total of 19 randomised controlled trials were included in this study – 8 in community settings, 6 in healthcare settings and 5 as source control.
+ Most of these randomised controlled trials used different interventions and outcome measures.
+ In the community, masks appeared to be effective with and without hand hygiene, and both together are more protective.
+ Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently.
+ Medical masks were not effective, and cloth masks even less effective.
+ When used by sick patients randomised controlled trials suggested protection of well contacts.ConclusionThe study suggests that community mask use by well people could be beneficial, particularly for COVID-19, where transmission may be pre-symptomatic.
+ The studies of masks as source control also suggest a benefit, and may be important during the COVID-19 pandemic in universal community face mask use as well as in health care settings.
+ Trials in healthcare workers support the use of respirators continuously during a shift.
+ This may prevent health worker infections and deaths from COVID-19, as aerosolisation in the hospital setting has been documented.Keywords: Coronavirus, Coronavirus disease, COVID19, Mask, Respirators, Personal protective equipment What is already known about the topic?
+ • Masks and respirators are commonly used to protect from respiratory infections in three different indications – for healthcare workers, sick patients and well community members.• Currently there is debate and conflicting guidelines around the use of masks and respirators in healthcare and community settings.
+ What this paper adds • In the community, masks may be more protective for well people.• In healthcare settings continuous use of respirators, is more protective compared to the medical masks, and medical masks are more protective than cloth masks.
+ Depending on the fabric and design, some cloth masks may not be safe for healthcare workers.• The use of masks by sick patients is likely protective, and coronaviruses can be emitted in normal breathing, in fine airborne particles.
+ 1.
+ IntroductionThe use of personal protective equipment for coronavirus disease (COVID-19) has been controversial, with differing guidelines issued by different agencies (Chen et al., 2020).
+ COVID-19 is caused by severe acute respiratory syndrome coronavirus2 (SARS-CoV-2), a beta-coronavirus, similar to severe acute respiratory syndrome coronavirus (SARS CoV) (Chen et al., 2020).
+ Seasonal alpha and beta coronaviruses cause common colds, croup and broncholitis.
+ The transmission mode of coronaviruses in humans is similar, thought to be by droplet, contact and sometimes airborne routes (Ong et al., 2020; Zhang et al., 2020; Zou et al., 2020).
+ The World Health Organization recommends surgical mask for health workers providing routine care to a coronavirus disease patient (World Health Organisation (WHO) 2020), whilst the US Centers for Disease Control and Prevention recommended a respirator (Center for Disease Control and Prevention CDC, 2020).
+ Most authorities, except the US CDC, are recommending that community members not wear a mask, and that a mask should only be worn by a sick patient (also referred to as source control) (Chughtai et al., 2020).
+ There are more randomised controlled trials of community use of masks in well people than studies of the use by sick people (source control).
+ The aim of this study was to review the randomised controlled trials evidence for use of masks and respirators by the community, health care workers and sick patients for prevention of infection.2.
+ MethodsWe searched Medline and EmBase for clinical trials on masks and respirators using the key words “mask”, “respirator”, and “personal protective equipment”.
+ The search was conducted between 1 March to April 17 2020, and all randomised controlled trials published before the search date were included.
+ Two authors (CRM and AAC) reviewed the title and abstracts to identify randomised controlled trials on masks and respirators.
+ We also searched relevant papers from the reference lists of previous clinical trials and systematic reviews.
+ Studies that were not randomised controlled trials, were about anesthesia, or not about prevention of infection were excluded.
+ Animal studies, experimental and observational epidemiologic studies were also excluded.
+ Studies published in English language were included.We found 602 papers on Medline and 250 on Embase.
+ 820 papers were excluded by title and abstract review.
+ Full texts were reviewed for 32 papers and 19 were selected in this review.
+ Results were reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) criteria (Moher et al., 2015).3.
+ ResultsIn general, the results show protection for healthcare workers and community members, and likely benefit of masks used as source control.
+ We found eight clinical trials (Aiello et al., 2012; Simmerman et al., 2011; Larson et al., 2010; Aiello et al., 2010; MacIntyre et al., 2009; Cowling et al., 2008, Suess et al., 2012; Cowling et al., 2009) on the use of masks in the community (Table 1 ).
+ In the community, masks appear to be effective with and without hand hygiene, and both together are more protective (Aiello et al., 2012; Aiello et al., 2010; MacIntyre et al., 2009).
+ However, some randomised controlled trials which measured both hand hygiene and masks measured the effect of hand hygiene alone, but not of masks alone (Simmerman et al., 2011, Cowling et al., 2009).
+ In more than one trial, interventions had to be used within 36 hours of exposure to be effective (Cowling et al., 2009; Suess et al., 2012).Table 1Community mask trials.Author, yearN, countryInterventionsResultsCowling et al.
+ (2008)198 HouseholdsHong KongMedical masksHand washingControlNS – this was a preliminary report of the 2009 trial.MacIntyre et al.
+ (2009)143 HouseholdsAustraliaMedical masksP2 masksControlIntention to treat non-significant.
+ Adherence with mask wearing low (25-30% by day 5).
+ In sub-analysis, masks/P2 protective if adherent.Cowling et al., 2009)407 householdsHong KongHand hygieneMasks + hand hygieneControlIntention to treat not significant.
+ Masks plus hand hygiene protective against lab confirmed influenza if used within 36 hours.
+ Hand hygiene alone not significant.Aiello et al.
+ (2010)1437 college students, United States of AmericaMasks Masks + hand washingControlIntention to treat non-significant.
+ Masks + handwashing protective in week 4 -6 of observation and beyond.Aiello et al.
+ (2012)1178 college students, United States of AmericaMasksMasks + hand hygieneControlIntention to treat non-significant.
+ Masks + hand hygiene protective in week 3 of observation and beyond.
+ Masks alone not protective.Larson et al.
+ (2010)617 households, United States of AmericaHealth education (HE)Hand hygiene + HEMasks + hand hygiene +HEMasks + hand hygiene + HE protective against secondary transmission measured by confirmed influenza and ILI.
+ Mean secondary attack rates for HE, HE + HH, HE+HH+M groups were 0.023, 0.020, and 0.018, respectivelySimmerman et al.
+ (2011)465 index patients and their families, ThailandHand hygieneMasks + hand hygieneControlNo significant difference in confirmed influenza infectionSuess et al.
+ (2012)84 index cases and 218 household contacts, GermanyMasksMasks + hand hygieneControlIntention to treat analysis was non-significant.
+ Where used within 36 h, secondary infection in the pooled M and MH groups was significantly lower compared to the control group.
+ The healthcare worker trials (Table 2) used different interventions and different outcome measures, and one was in the outpatient setting.
+ A Japanese study had only 32 subjects, and likely was underpowered to find any difference between masks and control (Jacobs et al., 2009).
+ Two North American trials of masks and respirators against influenza infection found no difference between the arms, but neither had a control arm to differentiate equal efficacy from equal inefficacy (Radonovich et al., 2019, Loeb et al., 2009).
+ Neither trial can prove equivalence, as this requires one intervention to be already proven efficaceous against placebo.
+ Without a control group to determine rates of influenza in unprotected healthcare workers, neither study is able to determine efficacy if no difference was observed between the two interventions.
+ A serologic study showed that up to 23% of unprotected healthcare workers (a rate identical to that observed in Loeb the trial, which also used serology) contract influenza during outbreaks (Elder et al., 1996), which suggests lack of efficacy.
+ Studies of nosocomial influenza generally find lower influenza attack rates in unprotected healthcare workers than observed in the Loeb trial (Salgado et al., 2002).Table 2Trials of mask and respirator use by health care workers.Author, yearN healthcare workers, CountryInterventionsResultsJacobs et al.
+ (2009)32JapanMedical masksControlNSLoeb et al.
+ (2009)446CanadaMedical masks, targeted N95No significant difference between Masks and targeted N95MacIntyre et al.
+ (2011)1441ChinaMasksN95 respirators, fit testedN95 respirators, non-fit testedControlContinuous N95 protective against clinical, viral and bacterial endpointsMacIntyre et al.
+ (2013)1669ChinaMedical MaskN95 (continuous)N95 (targeted)Continuous N95 protectiveNo difference between targeted N95 and medical masksMacIntyre et al.
+ (2015)1607VietnamMedical masks, cloth masks, controlMedical masks protective or Cloth masks increase risk of infectionRadonovich et al.
+ (2019)2862United States of AmericaMedical masks, targetedN95 (when 2 m from confirmed respiratory infection) in Outpatient setting.No significant difference betweenMasks and targeted N95Open in a separate windowFurther problems with this study are that the majority of subjects were defined as having influenza on the basis of serological positivity (Loeb et al., 2009).
+ The 10% seroconversion to pandemic H1N109 (with no pandemic virus isolation or positive PCR) observed in the trial, suggests that pandemic H1N109 was circulating in Ontario before April 2009, which is unlikely.A serological definition of influenza can be affected by vaccination.
+ The authors claim they excluded influenza vaccinated subjects in the outcome, but according to figure 1 in the Loeb trial, (Loeb et al., 2009) these subjects (130 in total) are included in the analysis.
+ If they had been excluded and even if no other subjects were excluded, the total analysed would be 348, which is lower than the 422 subjects analysed (Loeb et al., 2009).
+ These 130 vaccinated subjects should have been excluded entirely from the analysis.
+ The vaccination status of subjects with seropositivity is not provided in the paper, but it appears people with positive serology due to vaccination may have been misclassified as influenza cases (Loeb et al., 2009).Open in a separate windowFig.
+ 1Search strategy and selection of papers.In both the North American trials, the intervention comprised wearing the mask or respirator when in contact with recognized ILI or when doing a high risk procedure, which is a targeted strategy (Radonovich et al., 2019, Loeb et al., 2009).
+ One was in an outpatient setting.
+ (Radonovich et al., 2019) We conducted a randomised controlled trial comparing the targeted strategy tested in the two North American studies, with the wearing of respiratory protection during an entire shift, and showed efficacy for continual (but not targeted) use of a respirator (MacIntyre et al., 2013).
+ The study also did not show efficacy for a surgical mask worn continually, and therefore no difference between a surgical mask and targeted use of a respirator (MacIntyre et al., 2013), which is consistent with the findings of the North American trials (Radonovich et al., 2019, Loeb et al., 2009).
+ In summary, the evidence is consistent that a respirator must be worn throughout the shift to be protective.
+ Targeted use of respirators only when doing high risk procedures and medical mask use is not protective.
+ Another randomised controlled trial we conducted in China showed efficacy for continual use of a respirator, but not for a mask, and also found fit-testing of the respirator did not affect efficacy (MacIntyre et al., 2011).
+ However, this may be specific to the quality of the tested product, and is not generalisable to other respirators – fit testing is a necessary part of respirator use (Chughtai et al., 2015).For healthcare workers, there is evidence of efficacy of respirators if worn continually during a shift, but no evidence of efficacy of a mask (MacIntyre et al., 2011, MacIntyre et al., 2013).
+ For hospitals where COVID-19 patients are being treated, there is growing evidence of widespread contamination of the ward environment, well beyond 2 m from the patient, as well as aerosol transmission (Ong et al., 2020; Santarpia et al., n.d.; Guo et al., 2020).
+ Several studies have found SARS-CoV-2 on air vents and in air samples in intensive care units and COVID-19 wards (Santarpia et al., n.d.; Chia et al., 2020; Liu et al., 2020), and an experimental study showed the virus in air samples three hours after aerosolization (van Doremalen et al., 2020).
+ The weight of this evidence and the precautionary principle (MacIntyre et al., 2014a; 2014b), favors respirators for healthcare workers.
+ We showed lower rates of infection outcomes in the medical mask arm compared to control, but the difference was not significant (MacIntyre et al., 2011).
+ It could be that larger trials are needed to demonstrate efficacy of a mask, but any protection is far less than from a respirator.
+ A trial we conducted in Vietnam of 2-layered cotton cloth masks compared to medical masks showed a lower rate of infection in the medical mask group, and a 13 times higher risk of infection in the cloth mask arm (MacIntyre et al., 2015).
+ The study suggests cloth masks may increase the risk of infection (MacIntyre et al., 2015), but may not be generalizable to all homemade masks.
+ The material, design and adequacy of washing of cloth masks may have been a factor (Macintyre et al., 2020).
+ There are no other randomised controlled trial of cloth masks published at this time, but if any protection is offered by these it would be less than even a medical mask.
+ Table 3 shows the trials of source control.
+ There were five randomised controlled trials identified of masks used by sick patients (Johnson et al., 2009, Barasheed et al., 2014, Leung et al., 2020, MacIntyre et al., 2016, Canini et al., 2010).
+ One was an experimental study of 9 influenza patients, which did not measure clinical endpoints (Johnson et al., 2009).
+ Participants with confirmed influenza coughed onto culture medium wearing a N95 respirator or a mask.
+ No influenza grew on the medium.
+ A trial of 105 sick patients wearing a mask (or no mask) in the household found no significant difference between arms (Canini et al., 2010).
+ However, the trial was terminated prematurely and did not meet recruitment targets, so was probably underpowered.
+ One randomised controlled trial was conducted among Hajj pilgrims, with both well and sick pilgrims wearing masks, and low rates of ILI were reported among contact of mask pilgrims (Barasheed et al., 2014).
+ Our randomised controlled trial is the largest available with clinical endpoints, and studied 245 patients randomised to mask or control (MacIntyre et al., 2016).
+ Compliance was suboptimal in the mask group and some controls wore masks.
+ The intention to treat analysis showed no difference, but when analysed by actual mask use, the rate of infection in household contacts was lower in those who wore masks (MacIntyre et al., 2016).
+ A trial with an experimental design was published in April 2020, examining a range of viruses including seasonal human coronaviruses (Leung et al., 2020).
+ This showed that coronaviruses are preferentially found in aerosolized particles compared to large droplets, and could be expelled by normal tidal breathing.
+ Wearing a surgical mask prevented virus from being exhaled.Table 3Trials of Masks used by a sick patient as source control.Author, yearN, countryInterventionsResultsJohnson et al.
+ (2009)9 subjects with confirmed influenza, AustraliaMedical maskN95 (participants coughed 5 times onto a Petri dish wearing each device)NS - Surgical and N95 masks were equally effective in preventing the spread of PCR-detectable influenzaCanini et al.
+ (2010)105 index cases and 306 household contacts, FranceMedical maskControlNo significant difference, but trial terminated earlyMacIntyre et al.
+ (2016)245 index cases and 597 household contacts,Medical mask worn by sick caseControl (no mask) Household contactsFollowed for infection.Intention to treat analysis not significant.
+ Mask protective if wornBarasheed et al.
+ (2014)Hajj Setting.
+ (2020)Experimental study of 246 subjects randomised to surgical mask and no maskMask and control111 were infected by human (seasonal) coronavirus.
+ Coronavirus found in exhaled breath of no-mask subjects but not in mask wearers.
+ More virus was found in fine aerosols than large dropletsOpen in a separate window4.
+ DiscussionThere are more randomised controlled trials of community use of masks in well people (Aiello et al., 2012; Simmerman et al., 2011; Larson et al., 2010; Aiello et al., 2010; MacIntyre et al., 2009; Cowling et al., 2008, Suess et al., 2012, Cowling et al., 2009) than studies of the use by sick people (also referred to as “source control”), and these trials are larger than the few on source control (Johnson et al., 2009, Leung et al., 2020, MacIntyre et al., 2016).
+ The evidence suggests protection by masks in high transmission settings such as household and college settings, especially if used early, in some trials if combined with hand hygiene and if wearers are compliant (Aiello et al., 2012; Aiello et al., 2010; MacIntyre et al., 2009; Cowling et al., 2008, Cowling et al., 2009, Suess et al., 2012).
+ If masks protect in high transmission settings, they should also protect in crowded public spaces, including workplaces, buses, trains, planes and other closed settings.
+ The trial which did not show efficacy used influenza as the outcome measure (Simmerman et al., 2011), which is a rare outcome, so requires a larger sample size for adequate power and may have been underpowered.For healthcare workers, the only trials to show a difference between respirators and masks demonstrated efficacy for continuous use of a respirator through a clinical shift, but not masks (MacIntyre et al., 2011, MacIntyre et al., 2013).
+ The two trials which showed no difference are widely cited as evidence that masks provide equal protection as respirators (Radonovich et al., 2019, Loeb et al., 2009).
+ However, without a control arm, the absence of difference between arms could reflect equal efficacy or inefficacy, and it is not possible to draw any conclusions about efficacy.
+ The outpatient setting in the US trial may have had lower exposure risk than the inpatient setting of other trials.
+ (Radonovich et al., 2019) In both the North American trials, the intervention comprised wearing the mask or respirator intermittently when in contact with recognized ILI or when doing a high risk procedure (Radonovich et al., 2019, Loeb et al., 2009).
+ The underlying assumption that the majority of infections in healthcare workers occur during self-identified high-risk exposures is not supported by any evidence.
+ It assumes healthcare workers can accurately identify when they are risk in a busy, clinical setting, when the majority of infections may occur when healthcare workers are unaware of the risk (such as when walking through a busy emergency room or ward where aerosolized virus may be present).
+ Conversely, infections could occur outside the workplace.
+ This could explain the lack of difference if there was no actual efficacy of either arm and if much of the infection occurs in unrecognized situations of risk either within or outside the workplace.In practice, hospital infection control divides infections into droplet or airborne spread, and recommends droplet (mask) or airborne (respirator) precautions accordingly (MacIntyre et al., 2017).
+ In a pooled analysis of both healthcare worker trials, we showed that continual use of a respirator is more efficacious in protecting healthcare workers even against infections assumed to be spread by the droplet route (MacIntyre et al., 2017).
+ Medical masks did not significantly protect against viral, bacterial, droplet or other infection outcomes.
+ However, the summary odds ratio for masks was less than one, which suggests a low level of protection.
+ Targeted use of respirator protected against bacterial and droplet infections, but not against viral infections, suggesting viral infections may be more likely to be airborne in the hospital setting (MacIntyre et al., 2017).The five available studies of mask use by sick patients suggest a benefit, but are much smaller trials than the community trials, two without clinical endpoints, and with less certainty around the findings (Johnson et al., 2009, Barasheed et al., 2014, Leung et al., 2020, MacIntyre et al., 2016, Canini et al., 2010).
+ Only 3/5 trials examined clinical outcomes in close contacts (Barasheed et al., 2014, MacIntyre et al., 2016, Canini et al., 2010) and suggest a benefitMany systematic reviews have been conducted on masks, respirators and other PPE in past (Cowling et al., 2010; Bin-Reza et al., 2012; Gralton and McLaws, 2010; Gamage et al., 2005; Jefferson et al., 2009; Jefferson et al., 2011; Jefferson et al., 2008; Aledort et al., 2007; Lee et al., 2011; Verbeek et al., 2020).
+ These reviews generally examined multiple interventions (e.g.
+ masks and hand hygiene etc.
+ ), often combined different outcome measures that were not directly comparable and were inconclusive.
+ Moreover, most of these reviews did not include more recent randomised controlled trials (Radonovich et al., 2019, MacIntyre et al., 2015).
+ This systematic review only focuses on masks and respirators and contains all new studies.In summary, there is a growing body of evidence supporting all three indications for respiratory protection – community, healthcare workers and sick patients (source control).
+ The largest number of randomised controlled trials have been done for community use of masks by well people in high-transmission settings such as household or college settings.
+ There is benefit in the community if used early, with hand hygiene and if compliant.Respirators protect healthcare workers if worn continually, but not if worn intermittently in self-identified situations of risk.
+ This supports the suggestion that the health care environment is a risk to healthcare workers even when not doing aerosol generating procedures or caring for a known infectious patient.
+ For COVID-19 specifically, the growing body of evidence showing aerosolisation of the virus in the hospital ward highlights the risk of inadvertent exposure for healthcare workers and supports the use of airborne precautions at all times on the ward (Santarpia et al., n.d.; Chia et al., 2020; Liu et al., 2020).
+ Further, the rule of 1–2 m of spatial separation is not based on good evidence, with most research showing that droplets can travel further than 2 m, and that infections cannot be neatly separated into droplet and airborne (MacIntyre et al., 2017; Bahl et al., 2020).
+ In the UK, one healthcare trust found almost one in five healthcare workers to be infected with COVID-19 (Keeley et al., 2020).
+ The deaths of healthcare workers from COVID-19 reflect this risk (Zhan et al., 2020).
+ The use of masks by sick people, despite being the WHO's only recommendation for mask use by community members during COVID-19 pandemic, is supported by the smallest body of evidence.
+ Source control is probably a sensible recommendation given the suggestion of protection and given specific data on coronaviruses showing protection (Leung et al., 2020).
+ It may help if visitors and febrile patients wear a mask in the healthcare setting, whether in primary care or hospitals.
+ Universal face mask use is likely to have the most impact on epidemic growth in the community, given the high risk of asymptomatic and pre-symptomatic transmission (He et al., 2020).Conflict of InterestC Raina MacIntyre receives funding from NHMRC (centre for Research Excellence and Principal Research Fellowship) and Sanofi currently.
+ She has received funding from 3M more than 10 years ago for face mask research.Abrar Ahmad Chughtai had testing of filtration of masks by 3M for his Ph.D. more than 10 years ago.
+ 3M products were not used in his research.
+ He also has worked with CleanSpace Technology on research on fit testing of respirators (no funding was involved).FundingC Raina MacIntyre is supported by a NHMRC Principal Research Fellowship, grant number 1137582.ReferencesAiello A.E., Perez V., Coulborn R.M., Davis B.M., Uddin M., Monto A.S. Facemasks, hand hygiene, and influenza among young adults: a randomized intervention trial.
+ PLoS ONE.
+ 2012;7(1) [PMC free article] [PubMed] [Google Scholar]Aiello A.E., Murray G.F., Perez V., Coulborn R.M., Davis B.M., Uddin M. Mask use, hand hygiene, and seasonal influenza-like illness among young adults: a randomized intervention trial.
+ J. Infect.
+ Dis.
+ 2010;201(4):491–498.
+ [PubMed] [Google Scholar]Aledort J.E., Lurie N., Wasserman J., Bozzette S.A. Non-pharmaceutical public health interventions for pandemic influenza: an evaluation of the evidence base.
+ BMC Public Health.
+ 2007;7:208.
+ [PMC free article] [PubMed] [Google Scholar]Bahl P., Doolan C., de Silva C., Chughtai A.A., Bourouiba L., MacIntyre C.R.
+ Airborne or droplet precautions for health workers treating COVID-19?
+ J. Infect.
+ Dis.
+ 2020 [PMC free article] [PubMed] [Google Scholar]Barasheed O., Almasri N., Badahdah A.M., Heron L., Taylor J., McPhee K. Pilot randomised controlled trial to test effectiveness of facemasks in preventing influenza-like illness transmission among Australian Hajj Pilgrims in 2011.
+ Infect.
+ Disord.
+ Drug Targets.
+ 2014;14(2):110–116.
+ The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence.
+ Influenza Other Respir.
+ Viruses.
+ 2012;6(4):257–267.
+ [PMC free article] [PubMed] [Google Scholar]Canini L., Andreoletti L., Ferrari P., D'Angelo R., Blanchon T., Lemaitre M., et al.
+ Surgical mask to prevent influenza transmission in households: a cluster randomized trial.
+ PLoS ONE [Electronic Resource].
+ 2010.
+ 5(11):e13998.
+ [PMC free article] [PubMed]Chen N., Zhou M., Dong X., Qu J., Gong F., Han Y. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study.
+ The Lancet.
+ 2020;395(10223):507–513.
+ [PMC free article] [PubMed] [Google Scholar]Center for Disease Control and Prevention (CDC).
+ Interim healthcare infection prevention and control recommendations for patients under investigation for 2019 novel coronavirus.
+ 2020.
+ January 2020 [Available from: https://www.cdc.gov/coronavirus/2019-nCoV/infection-control.html.Chughtai A.A., Seale H., Islam M.S., Owais M., Macintyre C.R.
+ Policies on the use of respiratory protection for hospital health workers to protect from coronavirus disease (COVID-19) Int.
+ J. Nurs.
+ Stud.
+ 2020;105 [PMC free article] [PubMed] [Google Scholar]Chia P.Y., Coleman K.K., Tan Y.K., Ong S.W.X., Gum M., Lau S.K.
+ Detection of Air and Surface Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Hospital Rooms of Infected Patients.
+ medRxiv.
+ 2020 doi: 10.1101/2020.03.29.20046557.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Chughtai A.A., MacIntyre C.R., Zheng Y., Wang Q., Toor Z.I., Dung T.C.
+ Examining the policies and guidelines around the use of masks and respirators by healthcare workers in China, Pakistan and Vietnam.
+ J. Infect.
+ Prev.
+ 2015;16(2):68–74.
+ [PMC free article] [PubMed] [Google Scholar]Cowling B.J., Chan K.H., Fang V.J., Cheng C.K., Fung R.O., Wai W. Facemasks and hand hygiene to prevent influenza transmission in households: a cluster randomized trial.
+ Ann.
+ Intern.
+ Med.
+ 2009;151(7):437–446.
+ [PubMed] [Google Scholar]Cowling B.J., Fung R.O., Cheng C.K., Fang V.J., Chan K.H., Seto W.H.
+ Preliminary findings of a randomized trial of non-pharmaceutical interventions to prevent influenza transmission in households.
+ PLoS ONE.
+ 2008;3(5):e2101.
+ [PMC free article] [PubMed] [Google Scholar]Cowling B.J., Zhou Y., Ip D.K., Leung G.M., Aiello A.E.
+ Face masks to prevent transmission of influenza virus: a systematic review.
+ Epidemiol.
+ Infect.
+ 2010;138(4):449–456.
+ [PubMed] [Google Scholar]Elder A.G., O'Donnell B., McCruden E.A., Symington I.S., Carman W.F.
+ Incidence and recall of influenza in a cohort of Glasgow healthcare workers during the 1993-4 epidemic: results of serum testing and questionnaire.
+ BMJ (Clin.
+ Res.
+ Ed.)
+ 1996;313(7067):1241–1242.
+ [PMC free article] [PubMed] [Google Scholar]Gamage B., Moore D., Copes R., Yassi A., Bryce E. Protecting health care workers from SARS and other respiratory pathogens: a review of the infection control literature.
+ Am.
+ J. Infect.
+ Control.
+ 2005;33(2):114–121.
+ [PMC free article] [PubMed] [Google Scholar]Gralton J., McLaws M.L.
+ Protecting healthcare workers from pandemic influenza: N95 or surgical masks?
+ Crit.
+ Care Med.
+ 2010;38(2):657–667.
+ [PubMed] [Google Scholar]Guo Z., Wang Z., Zhang S., Li X., Li L., Li C. Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020.
+ Emerg.
+ Infect.
+ Dis.
+ 2020;26(7) [PMC free article] [PubMed] [Google Scholar]He X., Lau E.H., Wu P., Deng X., Wang J., Hao X. Temporal dynamics in viral shedding and transmissibility of COVID-19.
+ medRxiv.
+ 2020 doi: 10.1038/s41591-020-0869-5.
+ [PubMed] [CrossRef] [Google Scholar]Jacobs J.L., Ohde S., Takahashi O., Tokuda Y., Omata F., Fukui T. Use of surgical face masks to reduce the incidence of the common cold among health care workers in Japan: a randomized controlled trial.
+ Am.
+ J. Infect.
+ Control.
+ 2009;37(5):417–419.
+ [PubMed] [Google Scholar]Jefferson T., Del Mar C., Dooley L., Ferroni E., Al-Ansary L.A., Bawazeer G.A.
+ Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review.
+ BMJ (Clin.
+ Res.
+ Ed.)
+ 2009;339:b3675.
+ [PMC free article] [PubMed] [Google Scholar]Jefferson T., Del Mar C.B., Dooley L., Ferroni E., Al-Ansary L.A., Bawazeer G.A.
+ Physical interventions to interrupt or reduce the spread of respiratory viruses.
+ Cochr.
+ Database Syst.
+ Rev.
+ 2011;(7) [PMC free article] [PubMed] [Google Scholar]Jefferson T., Foxlee R., Del Mar C., Dooley L., Ferroni E., Hewak B.
+ Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review.
+ BMJ (Clin.
+ Res.
+ Ed.)
+ 2008;336(7635):77–80.
+ [PMC free article] [PubMed] [Google Scholar]Johnson D., Druce J.D., Birch C., Grayson M.L.
+ A quantitative assessment of the efficacy of surgical and N95 masks to filter influenza virus in patients with acute influenza infection.
+ Clin.
+ Infect.
+ Dis.
+ 2009;49(2):275–277.
+ [PubMed] [Google Scholar]Keeley A.J., Evans C., Colton H., Ankcorn M., Cope A., Bennett T. Roll-out of SARS-CoV-2 testing for healthcare workers at a large NHS Foundation Trust in the United Kingdom, March 2020.
+ Eurosurveillance.
+ 2020;25(14) [PMC free article] [PubMed] [Google Scholar]Larson E.L., Ferng Y.-.H., Wong-McLoughlin J., Wang S., Haber M., Morse S.S. Impact of non-pharmaceutical interventions on URIs and influenza in crowded, urban households.
+ Public Health Rep. 2010;125(2):178–191.
+ [PMC free article] [PubMed] [Google Scholar]Lee K.M., Shukla V.K., Clark M., Mierzwinski-Urban M., Pessoa-Silva C.L., Conly J.
+ Physical Interventions to Interrupt or Reduce the Spread of Respiratory Viruses - Resource Use Implications: a Systematic Review.
+ Ottawa ON: 2011 Cadth.
+ ; 2011 Dec. [PMC free article] [PubMed]Leung N.H., Chu D.K., Shiu E.Y., Chan K.-.H., McDevitt J.J., Hau B.J.
+ Respiratory virus shedding in exhaled breath and efficacy of face masks.
+ Nat.
+ Med.
+ 2020:1–5.
+ [PubMed] [Google Scholar]Liu Y., Ning Z., Chen Y., Guo M., Liu Y., Gali N.K.
+ Aerodynamic characteristics and RNA concentration of SARS-CoV-2 aerosol in Wuhan hospitals during COVID-19 outbreak.
+ bioRxiv.
+ 2020 doi: 10.1101/2020.03.08.982637.
+ [CrossRef] [Google Scholar]Loeb M., Dafoe N., Mahony J., John M., Sarabia A., Glavin V. Surgical mask vs N95 respirator for preventing influenza among health care workers: a randomized trial.
+ JAMA.
+ 2009;302(17):1865–1871.
+ [PubMed] [Google Scholar]MacIntyre C.R., Cauchemez S., Dwyer D.E., Seale H., Cheung P., Browne G. Face mask use and control of respiratory virus transmission in households.
+ Emerg.
+ Infect.
+ Dis.
+ 2009;15(2):233.
+ [PMC free article] [PubMed] [Google Scholar]MacIntyre C.R., Chughtai A.A., Seale H., Richards G.A., Davidson P.M. Respiratory protection for healthcare workers treating Ebola virus disease (EVD): are facemasks sufficient to meet occupational health and safety obligations?
+ Int.
+ J. Nurs.
+ Stud.
+ 2014;51(11):1421–1426.
+ [PMC free article] [PubMed] [Google Scholar]MacIntyre C.R., Chughtai A.A., Seale H., Richards G.A., Davidson P.M.
+ Uncertainty, risk analysis and change for Ebola personal protective equipment guidelines.
+ Int.
+ J. Nurs.
+ Stud.
+ 2014;52(5):899–903.
+ [PMC free article] [PubMed] [Google Scholar]MacIntyre C.R., Chughtai A.A., Rahman B., Peng Y., Zhang Y., Seale H. The efficacy of medical masks and respirators against respiratory infection in healthcare workers.
+ Influenza Other Respir.
+ Viruses.
+ 2017;11(6):511–517.
+ [PMC free article] [PubMed] [Google Scholar]Macintyre R., Chughtai A., Tham C.D., Seale H. Covid-19: Should cloth masks be used by healthcare workers as a last resort?
+ BMJ (Clin.
+ Res.
+ Ed.)
+ 2020 [Internet][cited 2020].
+ https://blogs.bmj.com/bmj/2020/04/09/covid-19-should-cloth-masks-be-used-by-healthcare-workers-as-a-last-resort/ [Google Scholar]MacIntyre C.R., Seale H., Dung T.C., Hien N.T., Nga P.T., Chughtai A.A. A cluster randomised trial of cloth masks compared with medical masks in healthcare workers.
+ BMJ Open.
+ 2015;5(4) [PMC free article] [PubMed] [Google Scholar]MacIntyre C.R., Wang Q., Cauchemez S., Seale H., Dwyer D.E., Yang P. A cluster randomized clinical trial comparing fit-tested and non-fit-tested N95 respirators to medical masks to prevent respiratory virus infection in health care workers.
+ Influenza Other Respir.
+ Viruses.
+ 2011;5(3):170–179.
+ [PMC free article] [PubMed] [Google Scholar]MacIntyre C.R., Wang Q., Seale H., Yang P., Shi W., Gao Z.
+ A randomized clinical trial of three options for N95 respirators and medical masks in health workers.
+ Am.
+ J. Respir.
+ Crit.
+ Care Med.
+ 2013;187(9):960–966.
+ [PubMed] [Google Scholar]MacIntyre C.R., Zhang Y., Chughtai A.A., Seale H., Zhang D., Chu Y.
+ Cluster randomised controlled trial to examine medical mask use as source control for people with respiratory illness.
+ BMJ Open.
+ 2016;6(12) [PMC free article] [PubMed] [Google Scholar]Moher D., Shamseer L., Clarke M., Ghersi D., Liberati A., Petticrew M. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement.
+ Syst.
+ Rev.
+ 2015;4(1):1.
+ [PMC free article] [PubMed] [Google Scholar]Ong S.W.X., Tan Y.K., Chia P.Y., Lee T.H., Ng O.T., Wong M.S.Y.
+ Air, surface environmental, and personal protective equipment contamination by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from a symptomatic patient.
+ JAMA: J.
+ Am.
+ Med.
+ Assoc.
+ 2020 doi: 10.1001/jama.2020.3227.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Radonovich L.J., Simberkoff M.S., Bessesen M.T., Brown A.C., Cummings D.A.T., Gaydos C.A.
+ N95 respirators vs medical masks for preventing influenza among health care personnel: a randomized clinical trial.
+ JAMA J.
+ Am.
+ Med.
+ Assoc.
+ 2019;322(9):824–833.
+ [PMC free article] [PubMed] [Google Scholar]Salgado C.D., Farr B.M., Hall K.K., Hayden F.G.
+ Influenza in the acute hospital setting.
+ Lancet Infect.
+ Dis.
+ 2002;2(3):145–155.
+ [PubMed] [Google Scholar]Santarpia J.L., Rivera D.N., Herrera V., Morwitzer M.J., Creager H., Santarpia G.W.
+ Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the.
+ University of Nebraska Medical Center; medRxiv.
+ 2020.
+ [CrossRef] [Google Scholar]Simmerman J.M., Suntarattiwong P., Levy J., Jarman R.G., Kaewchana S., Gibbons R.V.
+ Findings from a household randomized controlled trial of hand washing and face masks to reduce influenza transmission in Bangkok, Thailand.
+ Influenza Other Respir.
+ Viruses.
+ 2011;5(4):256–267.
+ [PMC free article] [PubMed] [Google Scholar]Suess T., Remschmidt C., Schink S.B., Schweiger B., Nitsche A., Schroeder K. The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany, 2009-2011.
+ BMC Infect.
+ Dis.
+ 2012;12:26.
+ [PMC free article] [PubMed] [Google Scholar]van Doremalen N., Bushmaker T., Morris D.H., Holbrook M.G., Gamble A., Williamson B.N.
+ Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1.
+ New Engl.
+ J. Med.
+ 2020;382(16):1564–1567.
+ doi: 10.1056/NEJMc2004973.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Verbeek J.H., Rajamaki B., Ijaz S., Sauni R., Toomey E., Blackwood B.
+ Personal protective equipment for preventing highly infectious diseases due to exposure to contaminated body fluids in healthcare staff.
+ Cochr.
+ Database Syst.
+ Rev.
+ 2020;(4) [PMC free article] [PubMed] [Google Scholar]World Health Organisation (WHO).
+ Infection prevention and control during health care when novel coronavirus (nCoV) infection is suspected.
+ Interim guidance 2020 [Available from: https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected.Zhan M., Qin Y., Xue X., Zhu S. Death from Covid-19 of 23 Health Care Workers in China.
+ New Engl.
+ J. Med.
+ 2020 doi: 10.1056/NEJMc2005696.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Zhang W., Du R.-.H., Li B., Zheng X.-.S., Yang X.-.L., Hu B. Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes.
+ Emerg.
+ Microbes Infect.
+ 2020;9(1):386–389.
+ [PMC free article] [PubMed] [Google Scholar]Zou L., Ruan F., Huang M., Liang L., Huang H., Hong Z. SARS-CoV-2 viral load in upper respiratory specimens of infected patients.
+ New Engl.
+ J. Med.
+ 2020;382(12):1177–1179.
+ doi: 10.1056/NEJMc2001737.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

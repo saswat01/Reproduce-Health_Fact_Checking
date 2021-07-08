@@ -1,0 +1,742 @@
+Here we go again.
+ If there's anything that ignites the fevered brains (such as they are) of antivaccine activists, it's a good seeming conspiracy.
+ Indeed, as we've seen before, if they can't find a legitimate one, they'll either exaggerate one or make one up out of whole cloth.
+ This week, an "alleged" conspiracy has been brewing.
+ It's really the damnedest thing in that it's hard to figure out exactly what's going on.
+ Whatever is going on, though, I would recommend extreme skepticism because two people are involved whose word you would be very foolish to trust on any scientific matter relating to vaccines: Andrew Wakefield and Brian Hooker.
+ It began with a paper published in yet another journal I've never heard of, Translational Neurodegeneration, and accelerated last night with the release of a video that claims to name a former high ranking CDC official as a "whistleblower" for the finding that the CDC has been "covering up" (of course!)
+ the "truth" that the MMR vaccine causes autism.
+ This is one that might require multiple posts as information dribbles out and people figure out exactly what is really going on.
+ In the meantime, let's start with the video, released by Andrew Wakefield's Autism Media Channel, the same "channel" that tried to make antivaccine hay over the murder of an autistic boy.
+ Here's the video, which is now also on YouTube:   (Note that I've downloaded a copy in case it changes, as apparently it has before.)
+ A partial transcript can be found at—where else?—that wretched hive of antivaccine scum and quackery, Age of Autism.
+ The first thing one notices about the video is how intentionally inflammatory it is.
+ The "malfeasance" (if such it is) being discovered is compared unfavorably—yes, unfavorably—to the Tuskegee syphilis experiment, complete with lurid pictures patients suffering from advanced syphilis and the introduction of Peter Buxton, the Public Health Service investigator who blew the whistle on the experiment, because, apparently, to Wakefield and Hooker autism is just like end stage syphilis.
+ (Yes, there is another "whistleblower" in this video.)
+ The "malfeasance" being claimed is that the CDC supposedly covered up the link between MMR and autism in African American boys, hence the puffed up rhetoric about the Tuskegee syphilis experiment.
+ Before I go into that more, there is one thing that bears mentioning here.
+ The video even concludes with the sheer Godwin-y goodness (from an entertainment standpoint) of references to the crimes of Hitler, Stalin, and Pol Pot, because, I guess, autism is just like the mass murder of millions, at least in the minds of Wakefield supporters.
+ Of course, the key finding in Brian Hooker’s paper is that Wakefield was wrong.
+ Indeed, in this video, Wakefield even admits that he was mostly wrong about MMR and autism.
+ Let that sink in again.
+ He admits that he was mostly wrong about MMR and autism.
+ OK, he says we were “partially right,” but the flip side of that is that he must have been mostly wrong.
+ What do I mean?
+ I'll explain.
+ The claims being put forward in the video is that earlier MMR vaccination is associated with an increased risk of autism in African-American boys and that the CDC has spent the last 13 years covering this linkage up.
+ These charges are based the result of a "reanalysis" by Brian Hooker in Translational Neurodegeneration entitled Measles-mumps-rubella vaccination timing and autism among young african american boys: a reanalysis of CDC data.
+ The study which has been "reanalyzed" is from a study by DeStefano et al in 2004 published in Pediatrics entitled Age at first measles-mumps-rubella vaccination in children with autism and school-matched control subjects: a population-based study in metropolitan Atlanta.
+ That study was a case-control study in which age at first MMR vaccination was compared between autistic "cases" and neurotypical controls.
+ Vaccination data were abstracted from immunization forms required for school entry, and records of children who were born in Georgia were linked to Georgia birth certificates for information on maternal and birth factors.
+ Basically, no significant associations were found between the age cutoffs examined and the risk of autism.
+ I note that, even in this "reanalysis" by Brian Hooker, there still isn't any such correlation for children who are not African American boys.
+ I'll get into the issues with this study a bit more later, but I'll admit up front that it's hard to go too deeply into this study without a statistician and access to the actual restricted data set from the CDC used.
+ Not having access to the data set, I have no way of knowing if the analyses Hooker used were appropriate.
+ However, for purposes of this post, let's just, for a thought experiment, assume Hooker's study comes to a valid conclusion (which is, given that it's Hooker, highly unlikely, but stay with me for a moment).
+ If that were the case, these results are no reassurance whatsoever to the vast majority of antivaccinationists supporting Wakefield.
+ This study says nothing whatsoever about, for instance, Jenny McCarthy and her son’s autism, other than that there is no link between MMR and autism for children like him.
+ Remember, the most vocal antivaccinationists jumping all over this are not African-American but instead tend to be UMC or even highly affluent Caucasians.
+ There's absolutely nothing in even Hooker's ham-fisted "reanalysis" of this data to tell them that the MMR vaccine caused their children's autism.
+ All there is left is a chance to hype up the conspiracy mongering machine against the hated CDC, because even Hooker's reanalysis doesn't support an increased risk of autism with earlier MMR vaccination in white babies.
+ Zero.
+ Nada.
+ Zip.
+ This leads to a bunch of "Tuskegee" handwaving to hide that finding, that even taking his best shot at it the most Hooker could come up with after he tortured the data was a correlation between age of MMR vaccination and autism in African Americans babies—and not just African-American babies, but African-American male babies.
+ Even taken at face value, Hooker et al is a disaster for the vast majority of antivaccine activists.
+ This can’t be repeated often enough.
+ But does the study support an increased risk for African American males, as claimed?
+ There are a couple of things you have to remember whenever looking at a study that is billed as a “reanalysis” of an existing data set that’s already been published.
+ The first is that no one—I mean no one—”reanalyzes” such a dataset unless he has an ax to grind and disagrees with the results of the original analysis so strongly that he is willing to go through the trouble of getting institutional review board (IRB) approval, as Hooker did from Simpson University, going to the CDC to get this dataset, and then analyzing it.
+ Think, for instance, the infamous “reanalysis” by homeopaths of the meta-analysis of Shang et al that concluded that the effects of homeopathy are placebo effects.
+ The reanalysis did not refute the original meta-analysis.
+ The second thing you have to remember is that it’s pretty uncommon for such a “reanalysis” to refute the original analysis.
+ Certainly, antivaccine “researchers” like Hooker try to do this all the time.
+ Occasionally they get their results published in a bottom-feeding peer-reviewed journal (Translational Neurodegeneration doesn’t even appear to have an impact factor yet), as Hooker has.
+ It means little.
+ So what about the paper itself?
+ First, one has to go back to Destefano et al 2004.
+ Basically, this was a case-control study in which 624 case children were identified from multiple sources and matched to 1,824 control children on age, gender, and school.
+ In case control studies, researchers look at (usually) two groups of people, cases (those with the condition under study) and controls (those without) and tries to match them as closely as possible to every other confounding factor except for the risk factor being studied, in this case, the age of receiving first MMR vaccination.
+ The potential relationship of a suspected risk factor or an attribute to the disease is examined by comparing the diseased and nondiseased subjects with regard to how frequently the factor or attribute is present (or, if quantitative, the levels of the attribute) in each of the groups (diseased and nondiseased).” They then see if that risk factor is higher in the case population than it is in the control population.
+ A cohort study can be retrospective (looking at existing data) or prospective (the cohorts determined in advance and then followed over time), while case control studies are retrospective.
+ It’s also not uncommon for epidemiologists to choose more controls than cases in case-control studies.
+ In any case, one thing Destefano et al did was to perform a case control study of children in metropolitan Atlanta looking at age at first MMR vaccination (0-11 months; 12-17 months; 18-23 months; 24-29 months; 30-35 months; and 36+ months).
+ They found no statistically significant correlations.
+ They also looked at a subgroup of the groups, children for whom a Georgia birth certificate could be located, in order to test correlations for other traits:  We matched 355 (56%) case and 1020 (56%) control children to Georgia state birth certificate records, which allowed us to obtain additional information, such as each child’s birth weight and gestational age and the mother’s parity, age, race, and education.
+ It’s all pretty straightforward, at least a straightforward as a epidemiological study can be.
+ The only hint of a whiff of anything in it helpful to antivaccinationists was this:  Vaccination before 36 months was more common among case children than control children, especially among children 3 to 5 years of age, likely reflecting immunization requirements for enrollment in early intervention programs.
+ In other words, it’s a result that is likely not due to an actual effect.
+ Fast forward to Brian Hooker’s study.
+ The first thing I noticed reading it was that it contains a lot of the usual red flags of antivaccine papers.
+ Hooker cites several Mark Geier papers as evidence of a correlation between vaccines and autism, to try to make it seem as though there is an actual scientific controversy.
+ He even cites a Wakefield paper.
+ Then there is the methods section.
+ It’s really not very clear exactly what Hooker did with this dataset, other than muck around with it using SAS® software.
+ He keeps referring to “cohorts,” which made me wonder right away whether he was not doing the same sort of analysis as Destefano.
+ Instead of doing a case control study, it looks as though he did a cohort study:  The Pearson’s chi -squared test contained in the SAS® software was utilized for current statistical analyses, and a two-sided p-value  Yep, he did a cohort study.
+ Basically, he looked at the risk of an autism diagnosis in the groups first exposed to MMR at different age ranges.
+ There’s an old saying in epidemiology (and in science in general) that says that if you torture data enough, eventually they will confess.
+ With this in mind, it’s hard not to think of Brian Hooker as the Spanish Inquisition.
+ I find it very telling that Hooker couldn’t find (or didn’t bother to look for) coauthor who is an actual epidemiologist or statistician.
+ Heck, Jake Crosby wasn’t available?
+ He might not be an epidemiologist, but he does have a degree in epidemiology and is in graduate school.
+ What training in epidemiology or statistics does Brian Hooker have that qualifies him to do a retrospective cohort study like this?
+ None that I can see.
+ My first rule of thumb doing anything involving anything more complicated than the rudimentary statistics that I use to analyze laboratory experiments (such as even a “simple” clinical trial) is to find a statistician.
+ While it’s true that Hooker used to lead a high throughput biology team, which likely required some statistical expertise, that’s a different sort of statistics and experimental design than epidemiology.
+ Basically, if you’re going to do epidemiology, you should find an epidemiologist to collaborate with, and if you're going to do something that requires some heavy statistical lifting you really need to get a statistician on board as well before you start the study.
+ So is Hooker’s result valid?
+ Was there really a 3.36-fold increased risk for autism in African-American males who received MMR vaccination before the age of 36 months in this dataset?
+ Who knows?
+ Hooker analyzed a dataset collected to be analyzed by a case-control method using a cohort design.
+ Then he did multiple subset analyses, which, of course, are prone to false positives.
+ As we also say, if you slice and dice the evidence more and more finely, eventually you will find apparent correlations that might or might not be real.
+ In this case, I doubt Hooker’s correlation is real.
+ More importantly, even if his statistics were correctly done, his changing the design is highly suspect, particularly when coupled with claims being promulgated by our good buddy Jake Crosby that the CDC intentionally left out subjects in order to hide this correlation:  According to Dr. Hooker, the CDC whistleblower informant — who wishes to remain anonymous — guided him to evidence that a statistically significant relationship between the age the MMR vaccine was first given and autism incidence in African-American boys was hidden by CDC researchers.
+ After data were gathered on 2,583 children living in Atlanta, Georgia who were born between 1986 and 1993, CDC researchers excluded children that did not have a valid State of Georgia birth certificate — reducing the sample size being studied by 41%.
+ Hooker explains that by introducing this arbitrary criteria into the analysis, the cohort size was sharply reduced, eliminating the statistical power of the findings and negating the strong MMR-autism link in African American boys.
+ This is an accusation neither Hooker’s study nor anything any antivaccinationist has published thus far provides any tangible evidence for.
+ Requiring the birth certificate was not an “arbitrary” criterion, either.
+ It allowed investigators to account for known confounders related to autism risk, such as birth weight, at least in this subset of the case and control groups.
+ I also can't help but think there is likely to be a confounder that is unaccounted for in this study, particularly given how there increase in risk is found in only one group.
+ In fact, as Reuben at The Poxes Blog explains, there almost certainly was just such a confounder: Next come the statistics.
+ Hooker uses Pearson’s chi squared test to see if there is a significant association between MMR and autism in children at different ages.
+ DeStefano et al used conditional logistic regression.
+ For the non-biostatisticians out there, the technique that DeStefano et al used accounts for confounders and effect modifiers, different traits in their population that could skew the results.
+ Hooker’s technique doesn’t really do that, unless you stratify results and use very, very large datasets.
+ Hooker’s approach is more “conservative,” meaning that it will detect small effects and amplify them, and those effects can come from anything.
+ In other words, Hooker used a method prone to false positives.
+ Then: The nail in the coffin for the Hooker paper is that autism is usually diagnosed by the time a child is three years old.
+ There was no increased risk at 18 months, higher but not by a whole lot at 24, and then the three-fold increase at 36 months.
+ Gee, was it the MMR vaccine, mister?
+ No, the effect is being modified by age.
+ It’s as if I asked you if your shoe size was bigger at 36 months because you drank milk vs because you were 36 months.
+ It’s age.
+ It’s the way that autism is diagnosed.
+ You’re going to have more children diagnosed as autistic at 36 months than you will at 18 months or at 24 months.
+ Using the chi square test doesn’t tease this out, Dr. Hooker!
+ That’s more than likely why DeStefano et al used conditional logistic regression, to take age into account in the analysis.
+ So why did we not see this in the other ethnic groups or in girls?
+ The answer here is simple, again.
+ Hooker had a limited dataset to work with when he boiled it down to African-American baby boys.
+ In this table, for example, he tells us that he had to modify the analysis to 31 months instead of 36 because he had less than 5 children in that group.
+ It’s the same goddamned mistake that Andrew Jeremy Wakefield wanted to pass off as legitimate science.
+ You cannot, and must not use small numbers to make big assertions… Quite right.
+ I should have seen that right off the bat.
+ And, of course, there's no biologically plausible reason why there would be an effect observed in African-Americans but no other race and, more specifically than that, in African-American males.
+ In the discussion, Hooker does a bunch of handwaving about lower vitamin D levels and the like in African American boys, but there really isn't a biologically plausible mechanism to account for his observation, suggesting that it's probably spurious.
+ Finally, even if Destefano et al is thrown out, it’s just one study.
+ There are multiple other studies, many much larger than this one, that failed to find a correlation between MMR and autism.
+ Even if Hooker succeeded in “knocking out” Destefano et al, it doesn’t invalidate all that other evidence.
+ Hooker’s “reanalysis” aside, somehow, some way, a senior CDC scientist has made the massive mistake of speaking with Brian Hooker.
+ That CDC scientist is William Thompson, well-respected (until, possibly, now) scientist and co-author of Destefano et al, as well as first author on a widely cited NEJM study showing no correlation between thimerosal in vaccines and neurodevelopmental disorders, among other studies.
+ The first thing I noticed listening to Thompson in Wakefield’s video is just how little he is quoted.
+ Instead he’s paraphrased by Hooker, who portrays himself as Thompson’s “confessor” to whom Thompson is “confessing.” The parts with Thompson’s voice appear highly edited, brief sound bites.
+ They sound, at least the way they are presented, highly damning on first listen.
+ It seems very odd on first listen.
+ Heck, it sounds very odd on second listen.
+ So what really happened?
+ Again, who knows?
+ You’ll excuse me if I reserve judgment until more information comes in from sources other than Andrew Wakefield and Brian Hooker because I suspect that what we’re seeing is a highly one-sided presentation of cherry picked information.
+ It is, after all, Wakefield and Hooker we’re talking about.
+ In the meantime, remember this.
+ Even if Hooker is “right,” he has just undermined the MMR-autism hypothesis and proven Wakefield wrong, with the possible (and unlikely) exception of a single group, African American males.
+ Given the dubiousness of his analysis and background, he hasn’t even demonstrated it for them, either, particularly given the copious other studies that have failed to find a correlation between MMR and autism.
+ What he has done, apparently, is found grist for a perfect conspiracy theory to demonize the CDC, play the race card in a truly despicable fashion, and cast fear, uncertainty, and doubt about the CDC vaccination program, knowing that most of the white antivaccine activists who support hate the CDC so much that they won’t notice that even Hooker’s reanalysis doesn’t support their belief that vaccines caused the autism in their children.
+ ADDENDUM: Whoa.
+ The beat goes on and on and on.
+ Our “buddy” Jake Crosby is now claiming that Andrew Wakefield betrayed William Thompson by identifying him in the video without Thompson’s permission:  Andrew Wakefield has betrayed the CDC whistleblower by releasing his name without his consent.
+ On the Autism Media Channel website, a video hosted by Wakefield is up announcing the whistleblower’s name and playing recordings of his voice.
+ In the video is scientist and parent Dr. Brian Hooker, who had been in discussions with the whistleblower and made the catastrophic mistake of sharing his identity with Wakefield.
+ Complicit in the betrayal is Age of Autism, which is promoting Wakefield’s video while repeating the whistleblower’s name.
+ In commentary to a small group of people later relayed to Autism Investigated, attorney Robert Krakow commented: “I am very familiar with the information [whistleblower] offered.
+ Disclosure of [whistleblower]’s existence and identity at this point in time is a colossal blunder and an inexplicable error in judgment that damages irreparably the opportunity to use [whistleblower]’s very valuable information and testimony effectively.
+ I know that Brian Hooker did not make the disclosure.” It remains truly ironic that Andrew Wakefield – a man betrayed by the Lancet editor a decade ago – would turn around and betray the trust of someone who has come forward with valuable information about the fraud committed in a federal agency.
+ Also ironic is that Wakefield similarly betrayed the trust of Dr. Brian Hooker, whose congressional activities have been repeatedly undermined by groups associated with Age of Autism.
+ Given Jake’s past reliability, take this with a grain of salt.
+ It does have plausibility in that, given Wakefield’s history I could totally see him betraying a “whistleblower” like that.
+ However, I don’t for a moment believe that, if it’s true that Wakefield “outed” Thompson without his permission, Hooker didn’t know about it and at least acquiesce, if not actually approve.
+ I mean, seriously.
+ Hooker spent a lot of time in front of the camera bragging about how he had become William Thompson's "confessor" and relating what Thompson had said to him, and he didn't think Wakefield would use that footage?
+ He's either complicit or a irredeemably stupid and gullible.
+ Take your pick.
+ Of course, Jake is Brian Hooker’s best bud these days and admires him far out of proportion to any reason there might be to admire Hooker; my guess is that he wants to protect Hooker from this allegation, and that's why he made the claim that Hooker knew nothing.
+ ADDENDUM #2: Well, well, well.
+ Andy Wakefield jumps in: Jake, in light of your serious allegation that I “betrayed” the whistleblower by disclosing his name without permission, I asked you how you knew this.
+ You replied “my sources”.
+ There are no sources other than the whistleblower himself that would know whether or not this was the case since this matter was discussed between the two of us, in several of our conversations.
+ I did, as a matter of fact, have his full knowledge and his permission to do what “I felt best” with the uncensored video.
+ Although it is a moot point, I remain perplexed as to quite why a man who participated in a prolonged scientific fraud – one that likely resulted in harm to many children – should merit anonymity on his terms.
+ The misinformation you have put out has spread through an already divided community.
+ Your reporting on this matter does you no credit.
+ So that's Wakefield's story, is it?
+ That Thompson gave him permission to "do what he felt best," but that Thompson doesn't deserve anonymity on his terms.
+ Why is it that I don't believe Wakefield's first claim in light of his attitude expressed in the second part of his comment?
+ Tags  Antivaccine nonsense autism Clinical trials complementary and alternative medicine medicine andrew wakefield antivaccine Brian Hooker case control study CDC coverup CDC whistleblower CDCPantsOnFire cohort study MMR Translational Neurodegeneration vaccines Clinical trials complementary and alternative medicine medicine    Categories  Education   Log in to post comments    More like this     The CDC whistleblower William W. Thompson: Final (for now) roundup and epilogue        It is as I had feared.
+ I must do one more post on a story that I’ve been blogging about for one solid week now.
+ Hopefully after this, I will be able to move on to other topics last week, but after spending this whole week writing just about this, I figured, “What the heck?
+ It’s Friday.
+ Might as…   Brian Hooker and Andrew Wakefield complain to the CDC about its vaccine research.
+ Everyone yawns.
+ The antivaccine movement and conspiracy theories go together like beer and Buffalo wings, except that neither are as good as, yes, beer and Buffalo wings.
+ Maybe it’s more like manure and compost.
+ In any case, the antivaccine movement is rife with conspiracy theories.
+ I’ve heard and written about…   A bad day for antivaccinationists: A possible retraction, and the "CDC whistleblower" William W. Thompson issues a statement        They say that truth is stranger than fiction.
+ I never really necessarily believed it, but yesterday was a day that might well serve as anecdotal evidence to support that adage.
+ Indeed, yesterday was perfectly bookended by two major developments in the case of the so-called “CDC whistleblower,”…   The conspiracy circle is complete: Brian Hooker claims "The Man" has gotten to the "CDC whistleblower"     There is a disturbance in the antivaccine Force.
+ I can sense it.
+ Actually, it doesn’t take any special talent to detect this.
+ You don't have to be some sort of pro-science Jedi.
+ The evidence is everywhere.
+ The most prominent examples of posts in the antivaccine crankosphere that tipped me off are…              Hooker has appeared on both Alex Jones' and Gary Null's show ( the latter @ PRN yesterday, tape) and Mike Adams has jumped on the bandwagon even venturing a hypothesis concerning the selective vaccine damage ( black children are vitamin D deficient).
+ For some reason this reminds me of Jake's assertaion to Orac's friend about thimerisol's effect on a select population which didn't pan out that well.
+ I DO like Hooker's description of the dedcision to not use children without a birth certificate as "arbitrary".
+ There would be no reason to do something like that I'm sure except to cover-up malfeasance.
+ Log in to post comments   By Denice Walter (not verified) on 22 Aug 2014 #permalink             That should be the REMOVAL OF THIMERISOL or suchlike.
+ You know what I mean.
+ Log in to post comments   By Denice Walter (not verified) on 22 Aug 2014 #permalink             Lets do some more bad statistics.
+ If there is a correlation at 36 months but none at 24 and 18, one could deduct that it is vaccinations after 24 months that trigger autism.
+ As autism is typically diagnosed by age 24 months, Brian Hooker has just demonstrated retroactive causality.
+ Nobel price for Brian Hooker!
+ Distractors could naturally argue that those were unvaccinated kids that got vaccinated after diagnosis, but they didn't look at what came first, the chicken or the egg.
+ Log in to post comments   By Mu (not verified) on 22 Aug 2014 #permalink             I suppose Hooker's readers might wonder about the healthcare-seeking behavior of the parents who did not have their boys vaccinated with MMR until years after the vaccine is recommended in comparison to the parents of boys who received the vaccine earlier.
+ It's clear that socioeconomic status and ethnicity can influence both vaccine uptake and access to healthcare--and to diagnosis of ASD.
+ Nice that Hooker once again showed that Wakefield is wrong, though.
+ Log in to post comments   By brian (not verified) on 22 Aug 2014 #permalink             Yeah, I couldn't resist using that as the title to this post because (1) it's true and (2) it'll annoy the heck out of Hooker and Wakefield.
+ :-)  Log in to post comments   By Orac (not verified) on 22 Aug 2014 #permalink             it’s hard not to think of Brian Hooker as the Spanish Inquisition "Our greatest weapon is fear.
+ Fear and surprise.
+ Our two greatest weapons are fear, surprise, and ruthless efficiency.
+ Our three greatest weapons are …."
+ No doubt Hooker employed that fiendish device, the comfy chair.
+ Log in to post comments   By Eric Lund (not verified) on 22 Aug 2014 #permalink             It appears that AoA's commenters are truly impressed with Hooker's monumental achievement as they pray for Thompson's safety and our old friend Gergles muses that the 'shills' are 'relatively quiet' upon hearing this disastrous news.
+ Yes, they are!
+ Utterly gobsmacked, their breath literally taken away by Hooker's incredible investigatory and statistical expertise; theirpowers of analysis rendered uselkess.
+ We shan't sleep at night for many months to come.
+ Oh Lord, can I get a script ?
+ My goodness, Orac only wrote 2000 words this time!
+ He must be absolutely paralysed with fear as he realises..... the jig is up!
+ Horrors!
+ What shall we do?
+ Log in to post comments   By Denice Walter (not verified) on 22 Aug 2014 #permalink             In a subset analysis of fear, surprise, and ruthless efficiency, Hooker found that there was statistically significant association between ruthless efficiency and autism.
+ Hooker is claiming a conspiracy by efficiency experts to suppress the data.
+ What most people do not understand is that if you have enough subgroups, you should find some subgroup that has results that are statistically significant.
+ The results of subgroup analysis that suggest a statistically significant association may be something to look at, but he did not lower the p value to account for the number of subgroup reanalyses.
+ If you flip a coin enough times, you will get a series of heads (or tails) that appears to be statistically significant, but only if taken out of context.
+ Or if you are Rosencrantz or Guildenstern and only exist as a plot device.
+ .
+ Log in to post comments   By Rogue Medic (not verified) on 22 Aug 2014 #permalink             Both Mu and brian make excellent points which were completely ignored by Hooker.
+ Also, given the nature of the study, case-control (originally) no information is collected regarding temporal events.
+ In other words, it is not known when the age of an ASD diagnosis or report of behaviours and receipt of MMR were.
+ Log in to post comments   By Science Mom (not verified) on 22 Aug 2014 #permalink             Nice post Orac.
+ "Requiring the birth certificate was not an “arbitrary” criterion, either.
+ It allowed investigators to account for known confounders related to autism risk, such as birth weight, at least in this subset of the case and control groups.
+ I also can’t help but think there is likely to be a confounder that is unaccounted for in this study, particularly given how there increase in risk is found in only one group."
+ I actually used Google to check the State of Georgia Birth Certificate Worksheet which appears to be the most currently used (Revised 2009), Worksheet and found this.
+ I'm unable to locate the State of Georgia Birth Certificate Worksheet which was used for the children in the DeStefano, et al study covering birth years 1986-1993. http://www.dawninglife.com/resources/Birth-Certificate-Worksheet-1212.p… That video with Wakefield as the Director and Narrator is dreadful.
+ I happen to think that comparing autistic children to having syphilis is an abomination.
+ Log in to post comments   By lilady (not verified) on 22 Aug 2014 #permalink             The results of subgroup analysis that suggest a statistically significant association may be something to look at, but he did not lower the p value to account for the number of subgroup reanalyses.
+ D'oh!
+ I forgot to mention that I didn't think that Hooker corrected for multiple comparisons!
+ Log in to post comments   By Orac (not verified) on 22 Aug 2014 #permalink             Orac only wrote 2000 words this time!
+ More like 2,900, actually.
+ :-)  Log in to post comments   By Orac (not verified) on 22 Aug 2014 #permalink             I should clarify, age of MMR is known but it is unknown when an ASD diagnosis or first reports of concern were made.
+ There is no way to know which came first yet on AoA they are using the word "causes".
+ Log in to post comments   By Science Mom (not verified) on 22 Aug 2014 #permalink             I am actually suspicious about Hooker's use of SAS.
+ As a SAS user myself, I know (to my sorrow), that it's very easy to get results that don't actually show what they should.
+ The results look "right" (you got no error messages when running the program), but the results aren't accurate.
+ SAS users - at least the good ones - learn very early to think about what results they expect to see (i.e.
+ - I expect to see 1000 result lines totaling about X amount but I only see 800 lines totaling Y amount...is something wrong or are my expectations off?)
+ I'd really love to vet his program and data.
+ Log in to post comments   By MI Dawn (not verified) on 22 Aug 2014 #permalink             I stand corrected.
+ Interestingly enough, the AoA contingent seems pleased that this 'tampering' was revealed BUT while they support Hooker's fine-tooth comb approach to data, it actually shows NO effect on white children ( which I surmise that most of their own are) so what are they so frigging thrilled about?
+ The CDC is a source of bad data therefore all of its data is illegitimate and not to be trusted, is it?
+ But Hooker, their boy, says absolutely NOTHING about the white children- and believe me, if there were an iota of a shade of hit of a correlation, he'd shriek it to high heaven.
+ But he doesn't And seriously, isn't that their entire *raison d'etre*: 'vaccines caused MY child's autism'?.
+ Log in to post comments   By Denice Walter (not verified) on 22 Aug 2014 #permalink             Oh the comments on AoA are a sight to see.
+ First DOlmsted compares Thompson to Snowden, Gergles tries to pin Orac as a racist and one of the other braintrust explains how we can only take our talking points from our pay masters hence the relative silence.
+ Log in to post comments   By Science Mom (not verified) on 22 Aug 2014 #permalink             Looks like the "whistleblower" is William Thompson, original second author on the DeStefano paper, and is claiming that the original research excluded the statistics on African American boys.
+ The anti-vaxxers are going nuts over it.
+ Log in to post comments   By JKanta (not verified) on 22 Aug 2014 #permalink             Looks like the "whistleblower" is William Thompson, original second author on the DeStefano paper, and is claiming that the original research excluded the statistics on African American boys.
+ The anti-vaxxers are going nuts over it.
+ Log in to post comments   By JKanta (not verified) on 22 Aug 2014 #permalink             @ Science Mom: Oh bovine crapola!
+ Oh wait!
+ Does that make me a 'paymaster'?
+ Log in to post comments   By Denice Walter (not verified) on 22 Aug 2014 #permalink             I see an AoA commentator has decided that Orac is racist: 'Incredibly, Orac said something that was utterly racist that I really didn't expect of him...' '...Orac explains that even if the allegations are correct, and the CDC study did initially find greater cases of autism for kids whose MMR vaccines were not delayed, white anti-vaxxers should not seize on this because the study was done on black kids.'
+ Words fail me (they don't rly but my boss says I'm only allowed one rant a day on his time...)  Log in to post comments   By JCL (not verified) on 22 Aug 2014 #permalink             Why didn't Hooker release the data somewhere so it could be evaluated by others?
+ Big red flag.
+ Log in to post comments   By JKanta (not verified) on 22 Aug 2014 #permalink             @Denice Walter Where's my check?
+ I gots bills to pay!
+ Log in to post comments   By Todd W. (not verified) on 22 Aug 2014 #permalink             Orac notes that Brian Hooker's paper cites several Mark Geier publications (Geier being the doc who's tried to commercialize Lupron treatment of young autistic boys and wound up with a long trail of suspended and revoked medical licenses).
+ I don't recall if it's been covered here, but Hooker recently _co-authored_ a paper with Mark Geier, which attempts to dismiss a half-dozen studies showing a lack of harm by thimerosal, by claiming they have "methodological issues" and/or "evidence of malfeasance".
+ Hooker isn't too fastidious about who he takes on as collaborators, because the paper's co-authors also include David Geier and Boyd Haley.
+ http://www.hindawi.com/journals/bmri/2014/247218/  So Hooker's strategy seems to be dismissal of as much research as possible that refutes a vaccine-autism link, preferably via allegations of wrongdoing.
+ In an ironic twist, Mr. Slipshod Ethics himself, Andrew Wakefield has turned out to be a casualty of this campaign.
+ :)  Log in to post comments   By Dangerous Bacon (not verified) on 22 Aug 2014 #permalink             ‘…Orac explains that even if the allegations are correct, and the CDC study did initially find greater cases of autism for kids whose MMR vaccines were not delayed, white anti-vaxxers should not seize on this because the study was done on black kids.’ Talk about a straw man argument and a total and complete misunderstanding of the study and what I wrote.
+ What I said is that Hooker's own study failed to find a link between MMR and autism in any kids other than African-American males, and even then the link is questionable at best.
+ I did figure, however, that the antivaccine kooks would throw the "racist" canard at me over my pointing out to them (at least their most prominent faces) that they can't have it both ways.
+ If they believe this study, then they are accepting that both Destefano et al and Hooker's study show no evidence of increased risk of autism in any child who isn't an African-American male, which means Hooker's study doesn't provide evidence supporting the belief in MMR causation of autism in the vast majority of children portrayed by the movement as "vaccine-injured."
+ Log in to post comments   By Orac (not verified) on 22 Aug 2014 #permalink             Oh wait!
+ Does that make me a ‘paymaster’?
+ Depends, did you give Orac his orders?
+ And if you got promoted and I didn't, Our Lord Draconis is going to be minus his head cheese soufflé next minion pot luck.
+ And when I say head cheese, this is Lord Draconis we're talking about.
+ Log in to post comments   By Science Mom (not verified) on 22 Aug 2014 #permalink             Mr. Crosby claims on his own blog that Andrew Wakefield betrayed Thompson by releasing his identity.
+ Log in to post comments   By Dorit Reiss (not verified) on 22 Aug 2014 #permalink             So just to reiterate, if Hooker is correct and properly conducted his analysis, then MMR poses no risk of autism in anyone other than African American males.
+ Then the question becomes, what is so biologically different about African American males that makes them susceptible to autism due to MMR, but not anyone else?
+ It's biologically implausible.
+ And why only males, but not females?
+ If it is a racial thing, then we'd expect to see at least a little increase risk among African American females, too.
+ So what Hooker has shown is that all of those parents whose children are not African American males who claim MMR caused their child's autism are wrong.
+ If those parents remain convinced that they are right, they should be very upset with Hooker.
+ Heck, I imagine they should be upset, anyway, since now they must find some new cause.
+ Their world is all a-flutter once more.
+ Log in to post comments   By Todd W. (not verified) on 22 Aug 2014 #permalink             @Dorit Reiss Wait.
+ Jake Crosby, who also violated journalistic ethics to reveal what was told to him off the record, is saying that Wakefield is in the wrong?
+ Log in to post comments   By Todd W. (not verified) on 22 Aug 2014 #permalink             I know.
+ It's hilarious.
+ However, it's too good not to add as an addendum to this post, which I did.
+ Log in to post comments   By Orac (not verified) on 22 Aug 2014 #permalink             Jake has a different level of ethics when it comes to whistleblowers as opposed to people who just told him stuff they thought he'd keep private.
+ Log in to post comments   By Mephistopheles… (not verified) on 22 Aug 2014 #permalink             @Mephistopheles O'Brien What's kind of amusing is that Jake used to be a Wakefield fanboi.
+ I guess since Wakefield hitched his wagon to AoA a bit too much, Wakefield is now on Jake's s*** list.
+ Log in to post comments   By Todd W. (not verified) on 22 Aug 2014 #permalink             It's racist to point out that research results that only apply to male African American children only apply to male African American children?
+ Who knew?
+ Log in to post comments   By Krebiozen (not verified) on 22 Aug 2014 #permalink             @Krebiozen Maybe he's arguing that it's racist to point out that all those white folk blaming the MMR for their kids' autism is racist.
+ Or something.
+ Greg's not known for reading comprehension.
+ Log in to post comments   By Todd W. (not verified) on 22 Aug 2014 #permalink             Love it.
+ This paper was published in GreenMed Info on Tue.
+ Aug 19.
+ (http://www.greenmedinfo.com/blog/breaking-whistleblower-names-cdc-scien…) And so far has 162 comments.
+ Most by anti-vaccine folk.
+ I initially responded to say that the paper had a couple of holes in it (like no raw data) and would probably not be peer reviewed very well.
+ Of course, I got jumped on.
+ What surprised me was the outcry about peer reviewed data and how horrible it was.
+ I kept asking them to give an alternative idea - you can imagine how that went over.
+ Then somehow the discussion turned to how Vit.
+ C will cure Ebola - thats when it really got interesting.
+ Anyway, if anybody gets bored and wants to see what some real whack jobs think - check out the site.
+ Log in to post comments   By Sandman2 (not verified) on 22 Aug 2014 #permalink             Oh, I just published Orcs link over there.
+ Will be curious to see if any try to push their same nonsense on this site.
+ Man your battle stations!
+ Log in to post comments   By Sandman2 (not verified) on 22 Aug 2014 #permalink             Wakefraudytrousers has cracking previous form with exposing the names of whistleblowers who want to remain anonymous.
+ He did it with his MMR study too.
+ Log in to post comments   By dingo199 (not verified) on 22 Aug 2014 #permalink             More popcorn!
+ Log in to post comments   By Shay (not verified) on 22 Aug 2014 #permalink             It gets even better, Wakefraudytrousers asks Jake Crosby: Andy Wakefield on August 22, 2014 at 5:25 pm said: Jake, May I simply ask how you know that I revealed his name without his consent?
+ Andy Make mine a tub o' corn please.
+ Log in to post comments   By Science Mom (not verified) on 22 Aug 2014 #permalink             @Sandman2: Oh, I just published Orcs link over there.
+ Will be curious to see if any try to push their same nonsense on this site.
+ Man your battle stations!
+ Thank you so much.
+ I haven't had a good chew tow ever since the Gregger was banned.
+ I sincerely hope some antivaxxers show up.
+ Log in to post comments   By Julian Frost (not verified) on 22 Aug 2014 #permalink             BTW, Reuben at The Poxes Blog has an excellent analysis posted.
+ It's so good that I modified my post above to include a couple of relevant quotes from Reuben's post: http://thepoxesblog.wordpress.com/2014/08/22/andrew-jeremy-wakefield-pl…  Log in to post comments   By Orac (not verified) on 22 Aug 2014 #permalink             It began with a paper published in yet another journal I’ve never heard of, Translational Neurodegeneration He must have been tickled pink to find an OA journal that's waiving APCs, even if it has amateurish production values®.
+ According to Dr. Hooker, the CDC whistleblower informant — who wishes to remain anonymous — guided him to evidence that a statistically significant relationship between the age the MMR vaccine was first given and autism incidence in African-American boys was hidden by CDC researchers.
+ Wait, Jake, are you saying that the result of the paper was preordained?
+ Isn't this sort of thing supposed to be mentioned somewhere?
+ Log in to post comments   By Narad (not verified) on 22 Aug 2014 #permalink             From American Loon #1050 comes this shocking update: William W Thompson, PhD…the CDC whistleblower…was escorted off the premises of the CDC campus yesterday afternoon.
+ This is what a source has just told me.
+ Therefore, the CDC knows Thompson is the whistleblower.
+ He’s in danger.
+ This bit appears to be correct, though: I’ve also been told that the Autism Media Channel, which had posted the video revealing Thompson’s name and outing him, is gone.
+ The site is suddenly gone.
+ Log in to post comments   By Narad (not verified) on 22 Aug 2014 #permalink             Many anti-vaccine activists seem to mistake Ireports for actual CNN reporting.
+ http://ireport.cnn.com/docs/DOC-1164046  Log in to post comments   By Dorit Reiss (not verified) on 22 Aug 2014 #permalink             @Narad A couple options for Autism Media Channel's coming down: 1) Overloaded with real traffic and so is inaccessible.
+ 2) Overloaded with a DDoS attack and so is inaccessible.
+ 3) Incompetence.
+ Someone clicked the wrong button and made it inaccessible.
+ 4) Shadowy figures in the pocket of Big Pharma™ took it down.
+ 5) Wakefield &amp; co. intentionally brought it down in order to further fuel the conspiracy story.
+ Log in to post comments   By Todd W. (not verified) on 22 Aug 2014 #permalink             And why only males, but not females?
+ If my understanding is correct that autism is much more prevalent in males than females, then I can understand how this might happen.
+ There may not be enough African-American females in the sample for the difference to be statistically significant, especially if the alleged effect in African-American males is barely statistically significant.
+ Recall that a p value is the probability of obtaining your result by chance.
+ Since in biomedical research the significance threshold is 0.05 (for good reasons, namely that it is often difficult to get a large enough sample size to enforce a stricter standard), that means that many spurious correlations are reported in the literature.
+ As you note, no plausible causal mechanism for an increased risk of autism in African-Americans has been advanced.
+ So we should be skeptical of the claim, even if it is being reported accurately.
+ Log in to post comments   By Eric Lund (not verified) on 22 Aug 2014 #permalink             1) Overloaded with real traffic and so is inaccessible.
+ 2) Overloaded with a DDoS attack and so is inaccessible.
+ Negatory on these two.
+ Domain Name: AUTISMMEDIACHANNEL.COM Registrar: TUCOWS DOMAINS INC. Whois Server: whois.tucows.com Referral URL: http://domainhelp.opensrs.net Name Server: NS1.AUTISMMEDIACHANNEL.COM Name Server: NS2.AUTISMMEDIACHANNEL.COM Status: clientHold Updated Date: 21-aug-2014 Creation Date: 03-sep-2010 Expiration Date: 03-sep-2014 The DNS has gone bye-bye: ; DiG 9.8.4-rpz2+rl005.12-P1 @localhost autismmediachannel.com ANY  ; (1 server found)  ;; global options: +cmd  ;; Got answer:  ;; -&gt;&gt;HEADER after "anything," and then some separate ones.
+ I trust that it's clear enough.
+ Log in to post comments   By Narad (not verified) on 24 Aug 2014 #permalink             ^^ Dammit.
+ Log in to post comments   By Narad (not verified) on 24 Aug 2014 #permalink             Where are the results from this conditional regression analysis.
+ And if it "confirmed" the actual approach, why wasn't it presented instead?
+ It would totally stink if "confirmed" actually meant "had a lower CI bound less than unity but otherwise smelled of trendishness," because in this case, one could have simply referred back to the original paper and called it a day.
+ Log in to post comments   By Narad (not verified) on 24 Aug 2014 #permalink             The last sentence in the DeStefano abstract suggests that maybe the autistic children were vaccinated because they had already been diagnosed with autism and were required to be immunized as a requirement of entry into a treatment program.
+ In other words, for at least some of the autistic children, the autism came first, and the vaccinations came later.
+ As a non-epidemiologist, I wonder if it's fair to ask whether the investigators should have tried to determine whether this was true on a case by case basis.
+ To the extent that it was true, wouldn't those patients be the non-immunized but autistic group that the anti-vax people are always challenging us to demonstrate?
+ I know that there are lots of other data on this precise point, but it seems germane to this study.
+ Since recent data suggests (pretty strongly, if I understand correctly) that autism reveals itself much earlier in life if you look for it, doesn't that make this study fairly inconsequential, if not downright moot?
+ I mean, if autism is already there at birth, or certainly at 6 months of age, then looking at vaccination ages many months later is kind of irrelevant, no?
+ OT: Hope the northern Cal people are OK after the Napa quake.
+ We just had a 3.3 down here, but the epicenter was only 4 miles from here and relatively shallow, so we had a bit of a ride from it.
+ Log in to post comments   By Bob G (not verified) on 24 Aug 2014 #permalink             Chickens have come home to roost.
+ Indictments likely.
+ My sources tell me Thompson is singing like a canary.
+ Log in to post comments   By Sid Offit (not verified) on 24 Aug 2014 #permalink             Chickens have come home to roost.
+ Indictments likely.
+ My sources tell me Thompson is singing like a canary.
+ Bob, you're a clown with a pretend company who has been caught repeatedly lying about having published two volumes on child-rearing.
+ Your "sources" are presumptively a hemorrhoidal flare-up.
+ Log in to post comments   By Narad (not verified) on 24 Aug 2014 #permalink             "My sources tell me Thompson is singing like a canary."
+ Officially the only information anyone has are from Hooker and Wakefield.
+ Considering the only sources you have contact with are similar anti-vax loons, you probably just have rumor.
+ We are not holding our breath.
+ It is most likely another non-story.
+ Log in to post comments   By Chris (not verified) on 24 Aug 2014 #permalink             In other words, for at least some of the autistic children, the autism came first, and the vaccinations came later.
+ As a non-epidemiologist, I wonder if it’s fair to ask whether the investigators should have tried to determine whether this was true on a case by case basis.
+ There weren't data on age of diagnosis to start with.
+ Unless you have lied about your child's gender.
+ Is she now a an African American male?
+ Log in to post comments   By Chris (not verified) on 24 Aug 2014 #permalink             @Narad -- OK.
+ I was thinking of the investigators asking the parents of autistic children a little more about their histories, or going into the case files to look for this kind of information.
+ This might include the referral to a treatment program, and then a later record of immunizations.
+ I'm not suggesting that this is easy to do, or that the investigators should have thought of it in advance, but if it's the explanation for an observed effect, then shouldn't you try to look for the relevant information before going to press?
+ Maybe this is considered out of bounds in epidemiological studies because you are supposed to define your end points in advance, or something?
+ In molecular biology, it would be normal.
+ Log in to post comments   By Bob G (not verified) on 24 Aug 2014 #permalink             We are one person shy to have a full boat of anti-vaccine conspiracists.
+ Has Donald Trump weighed in yet?
+ Has the singing canary told Wakefield and Hooker where Judge Crater's and Jimmy Hoffa's bodies are buried, Offal?
+ Log in to post comments   By lilady (not verified) on 24 Aug 2014 #permalink             @Narad, I counted 4 posters harshly blasting Dr. Lewis and simply countered with his CV, including that he is "Senior Science Advisor to the National Whistleblowers Center and a member of its Board of Directors."
+ I found it notable that a number of the whistleblowers among the 35 listed were extremely high profile and that, "As a young attorney President Obama worked on Dr. Chandler’s case.
+ The Supreme Court upheld Dr. Chandler’s lawsuit," although I've never heard of her.
+ Attacks on Dr. Lewis and efforts to discredit him appear unwarranted, IMO.
+ Please don't misconstrue the post.
+ You're indulging in industrialized European conceptions of linear time.
+ Log in to post comments   By Andreas Johansson (not verified) on 24 Aug 2014 #permalink             OVERLOOKED FACTS (with embedded links at the original): http://www.autisminvestigated.com/lancet-wakefield-retracted/ Lancet Keeps Wakefield et al.
+ Retracted in Contempt of Court By Jake Crosby MAY 11, 2014 9:58 PM  Findings of the UK General Medical Council against the Wakefield et al.
+ paper were overturned by the High Court, yet the Lancet still keeps that paper retracted - citing those overturned findings.
+ Previous attempts have been made to persuade Lancet editor Richard Horton and the previous Lancet ombudsman Charles Warlow to restore “Ileal-Lymphoid-Nodular-Hyperplasia, Non-specific Colitis and Pervasive Developmental Disorder in Children” by Wakefield et al.
+ Horton flatly refused, while Warlow denied having any responsibility for reconsidering the status of the paper...  Log in to post comments   By Reader (not verified) on 24 Aug 2014 #permalink             @Reader: Findings of the UK General Medical Council against the Wakefield et al.
+ paper were overturned by the High Court.
+ That is at best a distortion and at worst an outright lie.
+ The only things the High Court overturned were the findings and sanction against John Walker-Smith.
+ Walker-Smith's appeal was based on his claim that he had been misled by Wakefield (which the court accepted), and his own lawyer declared that the Lancet Paper and the MMR-Vaccine causation hypothesis was dead as a dodo.
+ Log in to post comments   By Julian Frost (not verified) on 24 Aug 2014 #permalink             Julian Frost: IMO, it would be best if we just ignore that poster.
+ He's got several agendas including the derailing of Orac's topic and the promotion of Wakefield.
+ Anyone who uses Jake Crosby's statements to prove a point is a fool.
+ Log in to post comments   By lilady (not verified) on 24 Aug 2014 #permalink             I’m not suggesting that this is easy to do, or that the investigators should have thought of it in advance, but if it’s the explanation for an observed effect, then shouldn’t you try to look for the relevant information before going to press?
+ The point was to evaluate whether there was a relationship between when the MMR was received and an ASD diagnosis.
+ (There isn't, unless one throws reason to the wind and accepts that administering MMR between 24 and 36 months of age increased risk for children born from 1991 to 1993.)
+ It was a response to the 2001 IOM MMR Immunization Safety Review.
+ The question then is what you have to work with in the first place: DeStefano and colleagues (2004) conducted a case-control study in the metropolitan Atlanta area comparing ages at first MMR vaccination of a population-based sample of children with autism and school-matched controls who did not have autism.
+ The authors stated that implicit in the exposure comparison was the assumption that if MMR vaccination increases the risk of autism (typical onset is 24 months), children who receive the vaccine at earlier ages would have a higher risk of developing autism.
+ The researchers chose this study design because they did not have full information on onset of initial parental concern, date of first diagnosis of autism, or onset of regression.
+ Log in to post comments   By Narad (not verified) on 24 Aug 2014 #permalink             @Narad, I counted 4 posters harshly blasting Dr. Lewis and simply countered with his CV Answer the question about the False Claims Act or put a sock in it, Cutsy-Pasty.
+ Log in to post comments   By Narad (not verified) on 24 Aug 2014 #permalink             ^ The following bit needs correction: It was a response to the 2001 IOM MMR Immunization Safety Review.
+ This describes the clinical subgroup part (PDF).
+ Like, big time: Destefano et al.
+ [14] found a statistically significant relative risk of 1.49 (95% confidence interval [CI]: 1.04 – 2.14) at the 36 month cutoff (i.e., in a comparison of children receiving the MMR before versus after 36 months).
+ DeStefano were reporting ORs.
+ I get the RR as 1.35 for this one.
+ That's just sad.
+ Log in to post comments   By Narad (not verified) on 25 Aug 2014 #permalink             Bob G, To the extent that it was true, wouldn’t those patients be the non-immunized but autistic group that the anti-vax people are always challenging us to demonstrate?
+ I know that there are lots of other data on this precise point, but it seems germane to this study.
+ You might think so, but they aren't fully unvaccinated, they may have had other vaccines such hepatitis B and DTaP.
+ If you do try to follow the antivax train of logic, the goalposts slide about in a most bewildering way (forgive my mixed metaphor), with MMR, or thimerosal, or hepatitis B, or just "too many too soon" being blamed, depending on what the evidence can be tortured into appearing to support.
+ The original case control study was looking at prevalence, not incidence, so age at diagnosis was not relevant i.e.
+ cases are either diagnosed autistic or not.
+ I can't imagine Hooker has the resources to go back to the original patient records and extract date of diagnosis, especially since De Stefano et al apparently did not.
+ This is extremely time-consuming and takes a lot of researchers a long time to do - I have spent enough time hunting for and attempting to decipher patient hospital notes to know what fun it can be.
+ Log in to post comments   By Krebiozen (not verified) on 25 Aug 2014 #permalink             This has probably been mentioned already, but I just noticed that Hooker fails to keep straight what an odds ratio is: Since the temporal sequence is unknown we can only calculate an odds ratio, not a relative risk, as I understand it (groping through dust and cobwebs to recall my training in statistics, admittedly).
+ I did notice that in the video (at around 6:24) Wakefield claims a 'relative risk' of 3.45 is "a 340% increased risk of autism".
+ I suppose he thinks a RR of 1.00 means a 100% increased risk.
+ Statistics and epidemiology aren't these clowns' strong suits, are they?
+ Log in to post comments   By Krebiozen (not verified) on 25 Aug 2014 #permalink             I suppose he thinks a RR of 1.00 means a 100% increased risk.
+ Wakefraud was also an early repeater of Seneff's brain-dead "1 in 2 by 2025" routine (courtesy of Billy DeMoss), which subsequently morphed from this into this.
+ Log in to post comments   By Narad (not verified) on 25 Aug 2014 #permalink             Attacks on Dr. Lewis and efforts to discredit him appear unwarranted, IMO.
+ Please don’t misconstrue the post.
+ @ Reader, Lewis isn't being "attacked" nor "discredited" as you have failed to provide anything that remotely establishes his cred as an "international expert in whistleblowing and science fraud detection".
+ We are pointing this fact out to you along with his actual credentials which are neither in the realm of scientific fraud detection nor vaccines and autism.
+ OVERLOOKED FACTS (with embedded links at the original): http://www.autisminvestigated.com/lancet-wakefield-retracted/ Lancet Keeps Wakefield et al.
+ Retracted in Contempt of Court By Jake Crosby MAY 11, 2014 9:58 PM  I fail to see what Walker-Smith's successful appeal has to do with Wakefield and with retracting the Lancet retracted study.
+ The study was rife with fraud and reporting established by both the GMC and Brian Deer's investigation as reported in the BMJ series.
+ Your reliance upon Jake Crosby to accurately report much of anything is probably not particularly wise.
+ Log in to post comments   By Science Mom (not verified) on 25 Aug 2014 #permalink             I did notice that in the video (at around 6:24) Wakefield claims a ‘relative risk’ of 3.45 is “a 340% increased risk of autism”.
+ I suppose he thinks a RR of 1.00 means a 100% increased risk.
+ Wait What?
+ I wondered where they came up with 340% but as they make up so much of everything they say, didn't hurt myself there.
+ But you think they derived it from their RR?
+ Log in to post comments   By Science Mom (not verified) on 25 Aug 2014 #permalink             LOL.
+ I love how deep in the hungry lie you are.
+ It's going to be just incredible to see the truth come out.
+ I should make sure I get this very entertaining newsletter.
+ Saying "partially right" only means they were not entirely right.
+ 99% is partially right.
+ You are like a child who clumsily tries to wordsmith his way into getting "some" ice cream for having cleaned "some" of his room.
+ All these posts are just so pathetic.
+ Where is DiStefano to say he did no wrong?
+ We are in the real world now and you cannot weasel out of this one.
+ Social media is unstoppable.
+ Congress is home and Boyle lied to them.
+ I assure you they will have had many parents take their autistic kids to visit their office.
+ I am enjoying this immensely because so many have hung their reputation on the CDC studies and now it's all crumbling.
+ Get ready guys.
+ Partially?
+ LOL!!
+ Log in to post comments   By David's Daddy (not verified) on 25 Aug 2014 #permalink             OK, I'm no statistician.
+ Far from it.
+ But let's just assume for a moment that there is actually a threefold increase in autism risk for African American boys who have the vaccine early.
+ If the study as a whole finds no link, does that mean that in other groups, there would actually have a lowered risk in order to show no risk for everyone?
+ Log in to post comments   By Curious (not verified) on 25 Aug 2014 #permalink             @David's Daddy,Social media is unstoppable.
+ That's true enough - there are things that fly around social media for years, and they don't need to rely on the mainstream media, government authority, or facts.
+ If you have any data to share besides innuendo, please do.
+ Log in to post comments   By Mephistopheles… (not verified) on 25 Aug 2014 #permalink             I am enjoying this immensely because so many have hung their reputation on the CDC studies and now it’s all crumbling.
+ Get ready guys.
+ Partially?
+ LOL!!
+ Right because social media should be the arbiter of science.
+ I'm afraid David's Daddy that you appear to be just another bitter conspiracy nutter with twisted revenge fantasies.
+ No wonder this rubbish just keeps gurgling back up to the top.
+ Log in to post comments   By Science Mom (not verified) on 25 Aug 2014 #permalink             @Curious - that's what the anti-vax folks don't seem to get.
+ If they accept the data as "legitimate" then there is no increased risk for any other group besides African American males.
+ If the data is "illegitimate" then none of the results can be viewed as valid (whether Hooker made them or not).
+ Either way, they don't really understand the methodology or even the terminology used in the original study...and just assume that Hooker did something different.
+ None of this is actually confirmed - other than at first glance, seeing Hooker applying brute force to massage the results in the way he wants.
+ Log in to post comments   By Lawrence (not verified) on 25 Aug 2014 #permalink             "Social media is unstoppable" Yes.
+ See: https://sv-se.facebook.com/HastarFinnsInte A very popular Swedish facebook page that claim that Horses do not exist and are fruit to boot... :)  Log in to post comments   By Anders Gustafsson (not verified) on 25 Aug 2014 #permalink             @all you clowns.
+ You like to play that childish circular logic game and avoid the epic events that are unfolding.
+ You embrace the "partially right" comment as representing 100% wrong.
+ Clearly in this instance "partially right" means 0%&gt;lancet paper&gt;100% right.
+ But given the "partially right" refers to the MMR/Autism outcome is determined by the age of vaccination, I would say that's all one needs to show that the MMR DOES affect an autism outcome.
+ You conceded the slipperiest slope to being wrong.
+ Let me help you... What you should say is that the Whistleblower had faked the claim because he had a disagreement with the CDC regarding his payroll taxes.
+ And so he decided to completely ruin his career to get back at the CDC.
+ Yeah!
+ that's the ticket!
+ The best part is knowing that you are all going to continue to vaccinate.
+ That's what makes this debate so fun.
+ So please make sure you get the flu shot this year.
+ I hear 30,000 people die of the flu each year....  Log in to post comments   By David's Daddy (not verified) on 25 Aug 2014 #permalink             Reader: David Lewis is a kind of Walter Mitty character, with a long history of granting himself titles and opining on matters in which he lacks professional credentials, as if he were an expert.
+ He, and a church he owns, are now on the anti-vax payroll.
+ Although, like Wakefield, he threatens critics with vexatious lawsuits, he believes he is entitled to smear and besmirch whosoever he likes with crank abuse.
+ For example, he has repeatedly maintained that my journalism is of such a high professional standard that I must be corrupt.
+ Yes, you read that right.
+ My work is so good, it's bad.
+ Believe me not?
+ See it with your own eyes, and then wake up: http://briandeer.com/solved/david-lewis-true.htm  Log in to post comments   By Brian Deer (not verified) on 25 Aug 2014 #permalink             But given the “partially right” refers to the MMR/Autism outcome is determined by the age of vaccination, I would say that’s all one needs to show that the MMR DOES affect an autism outcome.
+ Really?
+ Because I would say you're barely coherent and clearly don't understand the grave statistical errors made by Hooker, errors which invalidate his claims of an MMR/autism link in a single subpopulation.
+ Can you explain, in your own words, the difference between a cohort study and a case-control study?
+ Log in to post comments   By AdamG (not verified) on 25 Aug 2014 #permalink             "Since the temporal sequence is unknown we can only calculate an odds ratio, not a relative risk, as I understand it."
+ I would call what Hooker has reported unadjusted risk ratios (simply ratios of outcome probabilities).
+ The goal in epidemiological studies is to obtain an accurate estimate of an extremely vague concept known as the relative risk.
+ It is generally thought that he best estimate of relative risk can be obtained from a true cohort study (which Hooker did not perform) in which confounding and bias have been appropriately addressed.
+ The accuracy of approximation to the relative risk is more tenuous in a case-control study (which Hooker performed).
+ The reasons you can't (or shouldn't) calculate a risk ratio in this framework are that temporality is questionable (as you mentioned) and because a couple of the marginal totals (number of cases and controls) are fixed by design.
+ Now, in a well-conducted case-control study we can be fairly confident that the estimate we obtain will provide an approximation to the relative risk, in the situation where the outcome is not too common.
+ This is an epidemiological construct, though, as from a statistician's point of view, there is no problem reporting odds ratios in any situation, as long as this is appropriately interpreted as a ratio of odds, not a risk ratio.
+ This is important, because the techniques one would use to model risk ratios either don't converge or are pretty intense theoretically.
+ I assume this is why the good Dr. Hooker didn't bother to model his erroneously-calculated risk ratios.
+ TLDR - you can report an odds ratio in a cohort study with no problem, but you can't report a risk ratio from a case-control study (as Hooker has).
+ And to interpret these as relative risks is yet another gaping flaw.
+ And I love seeing that 340% increase reported (just a testament to the incompetence and ignorance which abounds this story), you need to subtract one from the RR or OR before multiplying by 100 for a direct (&gt;1) association.
+ Log in to post comments   By JD (not verified) on 25 Aug 2014 #permalink             You embrace the “partially right” comment as representing 100% wrong.
+ Clearly in this instance “partially right” means 0%&gt;lancet paper&gt;100% right.
+ But given the “partially right” refers to the MMR/Autism outcome is determined by the age of vaccination, I would say that’s all one needs to show that the MMR DOES affect an autism outcome.
+ You conceded the slipperiest slope to being wrong.
+ Uh no.
+ Apparently, the irony of those statements are completely lost on you.
+ I'm not shocked.
+ Even with Hooker's execrable ham-fisted statistical analysis, he only managed to find a single subset with statistical significance that doesn't remotely resemble Wakefield's claims at all.
+ That is with taking Hooker's results at face value when in reality, he didn't find any statistical significance because he did the wrong tests.
+ What you should say is that the Whistleblower had faked the claim because he had a disagreement with the CDC regarding his payroll taxes.
+ And so he decided to completely ruin his career to get back at the CDC.
+ Yeah!
+ that’s the ticket!
+ The best part is knowing that you are all going to continue to vaccinate.
+ That’s what makes this debate so fun.
+ I have no idea where you came up with that gem but accuracy isn't the anti-vaxxers' strong suit.
+ Thompson made no claim; the only statement uttered was about his shame for something.
+ Hooker and Wakefield certainly make a bunch of claims but with no evidence whatsoever.
+ So you see, there is no reason to say that Thompson's claim was faked because there isn't any claim of malfeasance on his part to refute.
+ I have no doubt that people like you really believe that this is some sort of "gotcha" but falls miserably short of that.
+ The Hooker study is easily refuted and Wakefield's wank video is so over-the-top it is more likely to backfire when viewed by rational people.
+ And yes, sensible people will continue to vaccinate and in fact, the reprehensible behaviour of anti-vaxx groups will only serve to demonstrate how dishonest and unhinged they are.
+ Log in to post comments   By Science Mom (not verified) on 25 Aug 2014 #permalink             The best part is knowing that you are all going to continue to vaccinate.
+ That’s what makes this debate so fun.
+ So please make sure you get the flu shot this year.
+ I hear 30,000 people die of the flu each year….
+ Why, yes, in the absence of evidence that vaccinating causes more of a hazard than not vaccinating, the wise thing would be to vaccinate.
+ Thanks for noticing!
+ i hope you get your influenza shots as well, since I'd hate to think you'd catch the flu and spread it to others who might get seriously ill.  Log in to post comments   By Mephistopheles… (not verified) on 25 Aug 2014 #permalink             ScienceMom,  I wondered where they came up with 340% but as they make up so much of everything they say, didn’t hurt myself there.
+ But you think they derived it from their RR?
+ I'm pretty sure of it, as the table of supposed RRs is being displayed during Wakefield's voiceover.
+ Log in to post comments   By Krebiozen (not verified) on 25 Aug 2014 #permalink             It's funny "David's Daddy," but as the actual parent of a real autistic child, I've met a bunch of other parents of autistic children, at hospitals, schools, and in the neighborhood - yet I've never met one that believes that vaccines cause autism.
+ Maybe I don't go to the cocktail parties or beachside "conferences" that the antivax set talk about - I'm way too busy with a real child's needs.
+ But I'll make time to write to my Congressfolks again, and let them know what I think.
+ Thanks for the reminder.
+ Log in to post comments   By Curious (not verified) on 25 Aug 2014 #permalink             @David's DaddyThat’s what makes this debate so fun.
+ Please do let us know when you want to start a debate.
+ I'm sure several people here would be thrilled to participate.
+ Log in to post comments   By Mephistopheles… (not verified) on 25 Aug 2014 #permalink             David's Daddy, You like to play that childish circular logic game  I must have missed the circular logic, please explain.
+ and avoid the epic events that are unfolding.
+ As far as I can see the only epic thing unfolding is a widespread exposure of Brian Hooker's embarrassing ignorance about epidemiology and statistics.
+ You embrace the “partially right” comment as representing 100% wrong.
+ Wakefield claimed that MMR causes autism in all children, not just African American children in Georgia.
+ His study was of British children (apart from one American, as I recall), and included no African American children at all.
+ How can his study have been correct when it didn't include any of the only group in which Hooker's joke of a reanalysis found any difference?
+ Given that Hooker made a complete mess of his reanalysis, your point would be wrong even if it made any sense, which it doesn't.
+ Clearly in this instance “partially right” means 0%&gt;lancet paper&gt;100% right.
+ How could the Lancet paper be more than 100% right?
+ Or did you intend less than signs?
+ Since Wakefield's malfeasance in accruing subjects, massaging the patient records and inventing an imaginary gut disease is quite clear, it isn't right at all, which is why his study remains, and will always remain, retracted.
+ But given the “partially right” refers to the MMR/Autism outcome is determined by the age of vaccination, I would say that’s all one needs to show that the MMR DOES affect an autism outcome.
+ You conceded the slipperiest slope to being wrong.
+ Let me help you… Have you somehow missed the extensive discussion above of precisely why neither Wakefield nor Hooker are anything remotely resembling "right"?
+ The best part is knowing that you are all going to continue to vaccinate.
+ That’s what makes this debate so fun.
+ Too right I'm going to continue vaccinating.
+ I watched my son fighting for breath in the hospital from whooping cough contracted thanks to a vaccine scare that turned out to be unfounded.
+ He was lucky, but dozens of other children died.
+ You think infectious diseases are fun?
+ So please make sure you get the flu shot this year.
+ I hear 30,000 people die of the flu each year….
+ Pneumonia is a common complication of influenza, and in the vulnerable pneumonia causes a lot of deaths.
+ I'm in Europe, where the CDC has no powers, yet a recent study found: Out of approximately 180 million Europeans for whom influenza vaccination is recommended, only about 80 million persons are vaccinated.
+ Seasonal influenza vaccination currently prevents an annual average of between 1.6 million and 2.1 million cases of influenza, 45,300 to 65,600 hospitalizations, and 25,200 to 37,200 deaths.
+ I would like to see vaccination prevent a lot more cases, hospitalizations and deaths, wouldn't you?
+ Or did you believe the nonsense about vaccines peddled by AoA and other scientifically challenged internet "experts"?
+ I'll get my flu and other shots, if only to to keep up the herd immunity that has been eroded by idiots.
+ Log in to post comments   By Krebiozen (not verified) on 25 Aug 2014 #permalink             "The best part is knowing that you are all going to continue to vaccinate."
+ Yes.
+ In fact, I just got my shingles vaccination a couple of weeks ago.
+ It makes sense to me to markedly lower my odds of contracting that painful and highly unpleasant ailment.
+ And I'll get my flu shot again this year, to protect myself and those around me.
+ I could say that the best part of getting those immunizations is knowing that smug, uninformed antivaxers are taking unnecessary risks by avoiding them.
+ But I wouldn't wish those diseases on antivaxers, or on their vulnerable relatives and contacts.
+ Log in to post comments   By Dangerous Bacon (not verified) on 25 Aug 2014 #permalink             I’m pretty sure of it, as the table of supposed RRs is being displayed during Wakefield’s voiceover.
+ Oh my.
+ All of these problems with the Hooker study and how much of the anti-vaxxers identity and need for vindication are tied up in it leads me to believe that they are going to become more shrill and unhinged as media outlets et al.
+ just slam the door on them.
+ Log in to post comments   By Science Mom (not verified) on 25 Aug 2014 #permalink             You guys can shoot yourselves up with germs.
+ Leave my arms and butt alone.
+ Log in to post comments   By Suvine (not verified) on 25 Aug 2014 #permalink             You guys can shoot yourselves up with germs.
+ Leave my arms and butt alone.
+ Log in to post comments   By Suvine (not verified) on 25 Aug 2014 #permalink             @NaradWhat in G-d’s name could the False Claims Act have to do with anything here...
+ I applaud your insight and prescience.
+ Maybe everything?
+ I don't know personally, but an unverified online rumor I just read claims a high-powered law firm with expertise in the field has Dr. Thompson as a client.
+ Time will tell.
+ Log in to post comments   By Reader (not verified) on 25 Aug 2014 #permalink             What in G-d’s name could the False Claims Act have to do with anything here… I applaud your insight and prescience.
+ Maybe everything?
+ I don’t know personally, but an unverified online rumor I just read claims a high-powered law firm with expertise in the field has Dr. Thompson as a client.
+ Time will tell what the False Claims Act is.
+ FTFY.
+ Log in to post comments   By Narad (not verified) on 25 Aug 2014 #permalink             ^ Well, except for the part about not closing the after "tell."
+ Log in to post comments   By Narad (not verified) on 25 Aug 2014 #permalink             @Reader - given Wakefield's &amp; Hooker's records, I wouldn't put a whole lot of stock in "unverified online rumors."
+ Operative word being "unverified."
+ Log in to post comments   By Lawrence (not verified) on 25 Aug 2014 #permalink             I think I will start an unverified online rumor that Ebola is being deliberately imported to the US at the bidding of Pres.
+ Obama's Muslim overlords to kill off the white population.
+ Wait...that one already exists.
+ See how easy it is, "Reader?"
+ Log in to post comments   By Shay (not verified) on 25 Aug 2014 #permalink             but ... but.. there are documented cases of people with Ebola being taken to US hospitals...  Log in to post comments   By Mephistopheles… (not verified) on 25 Aug 2014 #permalink             Just FWIW, I finally decided to watch or at least skim the video.
+ As far as I can tell, all it has is audio clips of a recording, presumably of Dr Thompson.
+ Has anyone confirmed that is in fact his voice?
+ Although it is probably him, without confirmation, it is at least technically possible that someone else was talking on the phone.
+ And, of course without the full recording we don't know what he said and in what context.
+ But it only takes a glimpse at the still photos used in the countdown intro to guess this isn't going to be a dispassionate explanation of the underlying data and their analysis.
+ The fact that Hooker couldn't even keep straight* what he was claiming to report might make one wonder what he actually did, given that he skipped the whole "here are the numbers" bit.
+ * I kind of suspect that he decided somewhere along the way – in proofs, for all anyone knows – that it was magically going to turn into a "cohort study" and forgot to completely clean up afterward.
+ Log in to post comments   By Narad (not verified) on 25 Aug 2014 #permalink             "Has anyone confirmed that is in fact his voice?"
+ Nope.
+ Log in to post comments   By BooRadley (not verified) on 25 Aug 2014 #permalink             Leave my arms and butt alone.
+ I should think that goes without saying.
+ There's no telling where they've been.
+ Log in to post comments   By Narad (not verified) on 25 Aug 2014 #permalink             So let me get this straight, I'm a whistleblower and instead of going to reputable sources I go to 2 men have been discredited for their junk science?
+ Yep makes sense to me, I mean the entire scientific community is going to eat their words when these guys have a whistleblower  Log in to post comments   By pmk1981 (not verified) on 25 Aug 2014 #permalink             I mean the entire scientific community is going to eat their words say France when these guys have a whistleblower That reminds me of something'd.
+ Log in to post comments   By Narad (not verified) on 25 Aug 2014 #permalink             So let me get this straight, I’m a whistleblower and instead of going to reputable sources I go to 2 men have been discredited for their junk science?
+ A couple weeks ago I got a spam e-mail titled (capitalization and punctuation reproduced exactly) "Jailed doctor Reveals cure to Most Diseases, &amp; conditions".
+ Now when I hear "jailed doctor" the differential starts with stuff like "illegally prescribing narcotics", "sexually assaulting patients", and "fraudulent insurance billing" but to a certain personality type the automatic first conclusion is "political prisoner".
+ Log in to post comments   By ebohlman (not verified) on 26 Aug 2014 #permalink             @ JD &gt; because this is a frequency-matched case-control study, one needs to take both age and school into account, at minimum However, age and school are not known to be significant predictors of autism risk.
+ Adjusting for these can lead to OVER-matching, which can actually disguise an association.
+ The situation seems to be one where dose is partially ‘explained’ by date of entry, both being related to time... this seems to have had the effect that workers in the same matched set have broadly similar recorded doses.
+ The apparent over-matching on date of entry has distorted the parameter estimate of the risk of leukemia on cumulative dose by introducing matching (at least partially) on dose.” http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1123834/ Catherine DeSoto explains how another DeStefano study (Prenatal and infant exposure to thimerosal from vac‐ cines and immunoglobulins and risk of autism, 2010) contains over-matching based on age.
+ The matching on birth year is matching on the exposure.
+ This has the effect of ensuring that the control group is nearly identical with the case group on the risk factor, which prevents its effect from being accurately measured.
+ Considering cumulative exposure for the first 7 months of life, the overall mean for the full data set is 102.88 micrograms/Hg and a standard deviation of 42.2.
+ Birth year dictates which vaccine sched‐ ule a child is born under as well as which batch brands and formulations are available on the market at a given time.
+ Doctors within a practice will be using the same manufacturer across children (vaccines are ordered in large batches room a given manufacturer; the Vac‐ cine Data Set used by Price et al.
+ documents that the same providers use the same manufac‐ ture.
+ Source: (Recent Advances in Autism Spectrum Disorders, 2013) See also: critique of another DeStefano study with over-matching: http://www.jpeds.com/article/S0022-3476(13)00662-8/fulltext  Log in to post comments   By Bitterbonker (not verified) on 26 Aug 2014 #permalink             Lol.
+ Grasp them straws children.
+ Cat's out of the bag &amp; not going back in.
+ Log in to post comments   By Marsha (not verified) on 26 Aug 2014 #permalink             @Marsha - exactly....not like you've been able to produce any actual evidence of wrong-doing, have you?
+ Log in to post comments   By Lawrence (not verified) on 26 Aug 2014 #permalink             @marsha Considering your histronic postings on FB, I wouldn't take your threat seriously, child.
+ Log in to post comments   By novalox (not verified) on 26 Aug 2014 #permalink             I don't think anyone else already mentioned this, but, even if the reanalysis is right, wouldn't that mean, at most, that boys of African descent ought to start their MMR series after the vulnerable period, like age 4 or so, but since it's safe for everyone else, they should roll up their sleeves to keep herd immunity going so that we don't end up with a bunch of dead little black boys?
+ Log in to post comments   By ebrillblaiddes (not verified) on 26 Aug 2014 #permalink             When your child convulses in the doctors office or on the way home, there is little doubt.
+ The only thing that will convince any of you is if your own child was vaccine damaged.
+ Hope that never happens to you.
+ Ironically, I was one of you pro-vaxer, the system is just fine for all children, dolts.. 10 years ago..
+ Boy, I wish I had someone (like me) that could have talked some sense into me.
+ My God the heartache I would have spared myself if I had just listened.
+ Now my child is handicapped at the hands of an incompetent clueless pediatrician that gave him the flu show with thimerosal at 18 months old.
+ Shame on all of you.
+ Log in to post comments   By Phillip (not verified) on 26 Aug 2014 #permalink             When your child convulses in the doctors office or on the way home, there is little doubt.
+ The only thing that will convince any of you is if your own child was vaccine damaged.
+ Hope that never happens to you.
+ Ironically, I was one of you pro-vaxer, the system is just fine for all children, dolts.. 10 years ago..
+ Boy, I wish I had someone (like me) that could have talked some sense into me.
+ My God the heartache I would have spared myself if I had just listened.
+ Now my child is handicapped at the hands of an incompetent clueless pediatrician that gave him the flu show with thimerosal at 18 months old.
+ Shame on all of you.
+ Log in to post comments   By Phillip (not verified) on 26 Aug 2014 #permalink             "When your child convulses in the doctors office or on the way home, there is little doubt."
+ That should make it easy to get compensation from the National Vaccine Injury Compensation Program if it was a table injury.
+ I hope that your experience with the Vaccine Court went well.
+ "The only thing that will convince any of you is if your own child was vaccine damaged.
+ Hope that never happens to you. "
+ My son had seizures from a disease before the vaccine was available, and is still disabled.
+ Unfortunately there is no "National Disease Injury Compensation Program."
+ Please provide the PubMed indexed studies by reputable qualified researchers that any vaccine on the American pediatric schedule causes more seizures than the disease.
+ Log in to post comments   By Chris (not verified) on 26 Aug 2014 #permalink             "However, age and school are not known to be significant predictors of autism risk.
+ Adjusting for these can lead to OVER-matching, which can actually disguise an association."
+ You have missed my point entirely.
+ We can debate all day long about whether or not age should be matched on in the Destefano studies (which it should be), but it doesn't make one lick of difference to the argument at hand, because age, gender, and school WERE matched on.
+ You can't just ignore features of the study design because you want to, this doesn't fix the problem that you are referencing.
+ Instead of possibly attenuating an association, you are introducing ass loads of bias because the study design has created artificial relationships that have not been addressed.
+ I actually feel sorry for the guy if Hooker really thought that his half-baked attempts to fix this "over-matching" were legitimate.
+ If this is one of the problems, why not perform your own study on different data?
+ You would need to do a whole lot of legwork to convince me that any study on this topic not accounting for age is valid though.
+ You must have graduated with honors from the B Hooker school of misunderstanding study design.
+ For the Destefano study, age and school are likely to be strong confounders (warranting being matched on) between time of vaccine receipt and DIAGNOSIS+IDENTIFICATION of autism.
+ This terrible argument hinges on proving that these factors are not associated with the outcome.
+ Because of how the data is collected, by gathering cases among a pretty wide age group across a large number of schools in metro Atlanta, it is very likely that age and school would greatly impact ascertainment of autism cases.
+ Think what ages we would be looking more closely for autism or about a school which has a lot of specialist support available.
+ So, matching on these factors is valid as long as (conceptually) they can be considered confounders, which they pretty easily can.
+ I think we can also be pretty confident that Hooker would be jumping all over this study if they had not accounted for these factors and pointing this out just as vehemently as his baseless "overmatching" critiques.
+ This is just another instance of anti-vaxxers trying to find a place to grind their axes.
+ media and have lost all empathy for what could be.
+ Maybe if your child and or grandchild would be affected, or probably maybe not from all your comments, you would be willing to have some compassion on humanity, but you are all the guilty ones for trusting the govt.
+ with your children and allowing them to be guinea pigs, as if nothing like this has never happened before.
+ All you smart scientists forgive us all for being human and putting our own brains and taking control of our children than giving them over to the state and the infamous CDC with anthrax.
+ Hah !!
+ You do with your kids what you choose and we will do what we choose NOT what you robots believe we should do.
+ We care about our children and our communities and no science pseudo quack is going to mess with us anymore.
+ Take all your children and vaccinate them, medicate them and do all of this live in the public eye is we could watch you apes and heartless robots just look without any emotion.
+ Sorry to express myself as such but you need God, He loves you all unless of course you are scientifically made up humans.
+ Peace and Grace  Log in to post comments   By Shameonyou (not verified) on 26 Aug 2014 #permalink             Phillip: Actually, I have a child with autism; that's why I'm annoyed at people who try to tell me they know what the caused it.
+ "Hope that never happens to you. "
+ Careful - Remember what J.B. Handley said that caring about the well-being of other people's children is a sure sign that you're not really the parent of a child with autism (tells you something about him, doesn't it?)
+ Log in to post comments   By Allyn (not verified) on 26 Aug 2014 #permalink             It was also posted in pubmed.
+ http://www.ncbi.nlm.nih.gov/pubmed/25114790  Log in to post comments   By Nat (not verified) on 26 Aug 2014 #permalink             Allyn, Sure does.
+ I can't wait until the debate is over on this issue.
+ MLK said that the truth will set you free.
+ I sincerely believe that eventually, this will all come out.
+ Thimerosal will be banned in ALL vaccines including the flu shot and tetanus, the MMR will be split into 3 visits, and the schedule slowed to a conservative pace.
+ I know in my heart that if I had just done the above ^, I wouldn't have an autistic child today.
+ Log in to post comments   By Allyn (not verified) on 26 Aug 2014 #permalink             And Chris.. No it didn't go well (the vaccine injury court).
+ The only cases that win are when the child suffers mitochondrial DNA damage induced by the vaccine.
+ This is due to previous rulings that vaccines aren't the cause of autism.
+ Ironic isn't it?
+ The only court that has already handed out 3 billion dollars in settlements is basically trapped by it's own b.s.
+ legal rulings.
+ We ran a DNA check.
+ My son's was perfect.
+ We were screwed and told to have a nice life.
+ Log in to post comments   By Phillip (not verified) on 26 Aug 2014 #permalink             All you smart scientists forgive us all for being human and putting our own brains.... Where?
+ Log in to post comments   By Narad (not verified) on 26 Aug 2014 #permalink             However, age and school are not known to be significant predictors of autism risk.
+ This fail-bomb pretty much lays waste to everything that follows, but could you perhaps try to keep it together enough to stick to a single pseudonym?
+ The Phillip/Shameonyou noise is more than enough, although I realize in this case that such endeavors are considered to be signs of witty creativeness at AoA.
+ Log in to post comments   By Narad (not verified) on 26 Aug 2014 #permalink             Philip / Allyn / Shameonyou:MLK said that the truth will set you free Did he now.

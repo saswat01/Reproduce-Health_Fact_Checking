@@ -1,0 +1,24 @@
+Skip to main content      Internet explorer is no longer supported          We have detected that you are using Internet Explorer to visit this website.
+ Internet Explorer is now being phased out by Microsoft.
+ As a result, NHS Digital no longer supports any version of Internet Explorer for our web-based products, as it involves considerable extra effort and expense, which cannot be justified from public funds.
+ Some features on this site will not work.
+ You should use a modern browser such as Edge, Chrome, Firefox, or Safari.
+ If you have difficulty installing or accessing a different browser, contact your IT support team.
+ &apos;NHS Workforce Statistics, August 2017 Organisation tables&apos; - Table 4 had the word &apos;headcount&apos; above the final column, this was an error and has been changed to &apos;full time equivalents&apos;.
+ This data is an accurate summary of the validated data extracted from the NHS&apos;s HR and Payroll system.
+ It has a provisional status as the data may change slightly over time where trusts make updates to their live operational systems.
+ In addition to the regular monthly reports there are a series of quarterly reports (first published on 26 July 2016 looking at the data for March 2016) which include statistics on staff in Trusts and CCGs and information for NHS Support Organisations and Central Bodies.
+ The quarterly analysis will be published each; September (showing June statistics) December (showing September statistics) March (showing December statistics) June (showing March statistics).
+ Note: From March 2017 these quarterly reports will also include statistics on; i) Bank staff employed directly by trusts and paid through the Electronic Staff Record (ESR) pay and human resources system (as covered by our consultation on NHS workforce statistics).
+ They are exploratory and experimental statistics.
+ ii) The nationality of staff (previously published every six months) showing quarterly figures from September 2015 onwards.
+ CSV data is available for every month back to September 2009 within the March 2016 report.
+ Due to their size they are broken down into several files.
+ A link to the March 2016 data is given in the &apos;Related Links&apos; section below.
+ Additional healthcare workforce data relating to GPs and Independent Sector workforce are also available; links to this data are available below.
+ We welcome feedback on the methodology and tables within this publication.
+ Please email us with your comments and suggestions, clearly stating Monthly HCHS Workforce as the subject heading, via enquiries@nhsdigital.nhs.uk or 0300 303 5678     Key Facts  In August 2017: •The headcount was 1,186,521 in August 2017.
+ This is 777 (0.1 per cent) less than the previous month (1,187,298) and 17,105 (1.5 per cent) more than in August 2016 (1,169,416).
+ •The full time equivalent (FTE) total was 1,046,979 in August 2017.
+ This is 151 (0.0 per cent) more than the previous month (1,046,828) and 15,888 (1.5 per cent) more than in August 2016 (1,031,091).
+ •Professionally qualified staff make up over half (54.0 per cent) of the HCHS workforce (based on FTE).

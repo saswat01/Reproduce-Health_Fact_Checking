@@ -1,0 +1,162 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop     addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape     addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical)     addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical)     addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape     addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ Children underwent gastroenterological, neurological, and developmental assessment and review of developmental records.
+ Ileocolonoscopy and biopsy sampling, magnetic-resonance imaging (MRI), electroencephalography (EEG), and lumbar puncture were done under sedation.
+ Barium follow-through radiography was done where possible.
+ Biochemical, haematological, and immunological profiles were examined.FindingsOnset of behavioural symptoms was associated, by the parents, with measles, mumps, and rubella vaccination in eight of the 12 children, with measles infection in one child, and otitis media in another.
+ All 12 children had intestinal abnormalities, ranging from lymphoid nodular hyperplasia to aphthoid ulceration.
+ Histology showed patchy chronic inflammation in the colon in 11 children and reactive ileal lymphoid hyperplasia in seven, but no granulomas.
+ Behavioural disorders included autism (nine), disintegrative psychosis (one), and possible postviral or vaccinal encephalitis (two).
+ There were no focal neurological abnormalities and MRI and EEG tests were normal.
+ They all had gastrointestinal symptoms, including abdominal pain, diarrhoea, and bloating and, in some cases, food intolerance.
+ We describe the clinical findings, and gastrointestinal features of these children.Patients and methods12 children, consecutively referred to the department of paediatric gastroenterology with a history of a pervasive developmental disorder with loss of acquired skills and intestinal symptoms (diarrhoea, abdominal pain, bloating and food intolerance), were investigated.
+ All children were admitted to the ward for 1 week, accompanied by their parents.
+ Clinical investigationsWe took histories, including details of immunisations and exposure to infectious diseases, and assessed the children.
+ In 11 cases the history was obtained by the senior clinician (JW-S).
+ Neurological and psychiatric assessments were done by consultant staff (PH, MB) with HMS-4 criteria.1Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).4th edn.
+ American Psychiatric Association,   Washington DC, USA1994Google Scholar Developmental histories included a review of prospective developmental records from parents, health visitors, and general practitioners.
+ Four children did not undergo psychiatric assessment in hospital; all had been assessed professionally elsewhere, so these assessments were used as the basis for their behavioural diagnosis.After bowel preparation, ileocolonoscopy was performed by SHM or MAT under sedation with midazolam and pethidine.
+ Paired frozen and formalin-fixed mucosal biopsy samples were taken from the terminal ileum; ascending, transverse, descending, and sigmoid colons, and from the rectum.
+ The procedure was recorded by video or still images, and were compared with images of the previous seven consecutive paediatric colonoscopies (four normal colonoscopies and three on children with ulcerative colitis), in which the physician reported normal appearances in the terminal ileum.
+ Barium follow-through radiography was possible in some cases.Also under sedation, cerebral magnetic-resonance imaging (MRI), electroencephalography (EEG) including visual, brain stem auditory, and sensory evoked potentials (where compliance made these possible), and lumbar puncture were done.
+ Laboratory investigationsThyroid function, serum long-chain fatty acids, and cerebrospinal-fluid lactate were measured to exclude known causes of childhood neurodegenerative disease.
+ Urinary methylmalonic acid was measured in random urine samples from eight of the 12 children and 14 age-matched and sex-matched normal controls, by a modification of a technique described previously.2Bhatt HR Green A Linnell JC A sensitive micromethod for the routine estimations of methylmalonic acid in body fluids and tissues using thin-layer chromatography..Clin Chem Acta.
+ 1982; 118: 311-321Crossref PubMed Scopus (14) Google Scholar Chromatograms were scanned digitally on computer, to analyse the methylmalonic-acid zones from cases and controls.
+ Urinary methylmalonic-acid concentrations in patients and controls were compared by a two-sample t test.
+ Urinary creatinine was estimated by routine spectrophotometric assay.Children were screened for antiendomyseal antibodies and boys were screened for fragile-X if this had not been done before.
+ Stool samples were cultured for Campylobacter spp, Salmonella spp, and Shigella spp and assessed by microscopy for ova and parasites.
+ Sera were screened for antibodies to Yersinia enterocolitica.
+ HistologyFormalin-fixed biopsy samples of ileum and colon were assessed and reported by a pathologist (SED).
+ Five ileocolonic biopsy series from age-matched and site-matched controls whose reports showed histologically normal mucosa were obtained for comparison.
+ All tissues were assessed by three other clinical and experimental pathologists (APD, AA, AJW).
+ Ethical approval and consentInvestigations were approved by the Ethical Practices Committee of the Royal Free Hospital NHS Trust, and parents gave informed consent.ResultsClinical details of the children are shown in Table 1, Table 2.
+ None had neurological abnormalities on clinical examination; MRI scans, EEGs, and cerebrospinal-fluid profiles were normal; and fragile × was negative.
+ Prospective developmental records showed satisfactory achievement of early milestones in all children.
+ The only girl (child number eight) was noted to be a slow developer compared with her older sister.
+ She was subsequently found to have coarctation of the aorta.
+ After surgical repair of the aorta at the age of 14 months, she progressed rapidly, and learnt to talk.
+ Speech was lost later.
+ Child four was kept under review for the first year of life because of wide bridging of the nose.
+ Open table in a new tab       Table 2Neuropsychiatric diagnosisChildBehavioural diagnosisExposure identified by parents or doctorInterval from exposure to first behavioural symptomFeatures associated with exposureAge at onset of first symptomBehaviourBowel1AutismMMR1 weekFever/delirium12 monthsNot known2AutismMMR2 weeksSelf injury13 months20 months3AutismMMR48 hRash and fever14 monthsNot known4Autism?
+ Disintegrative disorder?MMRMeasles vaccine at 15 months followed by slowing in development.
+ Open table in a new tab       In eight children, the onset of behavioural problems had been linked, either by the parents or by the child's physician, with measles, mumps, and rubella vaccination.
+ Five had had an early adverse reaction to immunisation (rash, fever, delirium; and, in three cases, convulsions).
+ In these eight children the average interval from exposure to first behavioural symptoms was 6·3 days (range 1–14).
+ Parents were less clear about the timing of onset of abdominal symptoms because children were not toilet trained at the time or because behavioural features made children unable to communicate symptoms.One child (child four) had received monovalent measles vaccine at 15 months, after which his development slowed (confirmed by professional assessors).
+ No association was made with the vaccine at this time.
+ He received a dose of measles, mumps, and rubella vaccine at age 4·5 years, the day after which his mother described a striking deterioration in his behaviour that she did link with the immunisation.
+ Child nine received measles, mumps, and rubella vaccine at 16 months.
+ At 18 months he developed recurrent antibioticresistant otitis media and the first behavioural symptoms, including disinterest in his sibling and lack of play.table 2 summarises the neuropsychiatric diagnoses; the apparent precipitating events; onset of behavioural features; and age of onset of both behaviour and bowel symptoms.
+ Laboratory testsAll children were antiendomyseal-antibody negative and common enteric pathogens were not identified by culture, microscopy, or serology.
+ Endoscopic findings are shown in table 1.
+ Macroscopic colonic appearances were reported as normal in four children.
+ The remaining eight had colonic and rectal mucosal abnormalities including granularity, loss of vascular pattern, patchy erythema, lymphoid nodular hyperplasia, and in two cases, aphthoid ulceration.
+ Four cases showed the “red halo” sign around swollen caecal lymphoid follicles, an early endoscopic feature of Crohn's disease.3Fujimura Y Kamoni R Iida M Pathogenesis of aphthoid ulcers in Crohn's disease: correlative findings by magnifying colonoscopy, electromicroscopy, and immunohistochemistry..Gut.
+ 1996; 38: 724-732Crossref PubMed Scopus (110) Google Scholar The most striking and consistent feature was lymphoid nodular hyperplasia of the terminal ileum which was seen in nine children (figure 2), and identified by barium follow-through in one other child in whom the ileum was not reached at endoscopy.
+ The normal endoscopic appearance of the terminal ileum (figure 2) was seen in the seven children whose images were available for comparison.Figure 2Endoscopic view of terminal ilium in child three and in a child with endoscopically and histologically normal ileum and colonShow full captionGreatly enlarged lymphoid nodule in right-hand field of view.
+ Remainder of mucosal surface of terminal ileum is a carpet of enlarged lymphoid nodules.View Large            Image           Figure ViewerDownload (PPT) Histological findingsHistological findings are summarised in table 1.
+ Terminal ileumA reactive lymphoid follicular hyperplasia was present in the ileal biopsies of seven children.
+ In each case, more than three expanded and confluent lymphoid follicles with reactive germinal centres were identified within the tissue section (figure 3).
+ Stained with haematoxylin and eosin.View Large            Image           Figure ViewerDownload (PPT) ColonThe lamina propria was infiltrated by mononuclear cells (mainly lymphocytes and macrophages) in the colonic-biopsy samples.
+ The extent ranged in severity from scattered focal collections of cells beneath the surface epithelium (five cases) to diffuse infiltration of the mucosa (six cases).
+ There was no increase in intraepithelial lymphocytes, except in one case, in which numerous lymphocytes had infiltrated the surface epithelium in the proximal colonic biopsies.
+ Lymphoid follicles in the vicinity of mononuclear-cell infiltrates showed enlarged germinal centres with reactive changes that included an excess of tingible body macrophages.There was no clear correlation between the endoscopic appearances and the histological findings; chronic inflammatory changes were apparent histologically in endoscopically normal areas of the colon.
+ In five cases there was focal acute inflammation with infiltration of the lamina propria by neutrophils; in three of these, neutrophils infiltrated the caecal (figure 3) and rectal-crypt epithelium.
+ There were no crypt abscesses.
+ Occasional bifid crypts were noted but overall crypt architecture was normal.
+ There was no goblet-cell depletion but occasional collections of eosinophils were seen in the mucosa.
+ There were no granulomata.
+ Parasites and organisms were not seen.
+ None of the changes described above were seen in any of the normal biopsy specimens.DiscussionWe describe a pattern of colitis and ileal-lymphoidnodular hyperplasia in children with developmental disorders.
+ Intestinal and behavioural pathologies may have occurred together by chance, reflecting a selection bias in a self-referred group; however, the uniformity of the intestinal pathological changes and the fact that previous studies have found intestinal dysfunction in children with autistic-spectrum disorders, suggests that the connection is real and reflects a unique disease process.Asperger first recorded the link between coeliac disease and behavioural psychoses.4Asperger H Die Psychopathologie des coeliakakranken kindes..Ann Paediatr.
+ 1961; 197: 146-151Google Scholar Walker-Smith and colleagues5Walker-Smith JA Andrews J Alpha-1 antitrypsin, autism and coeliac disease..Lancet.
+ 1972; ii: 883-884Abstract Scopus (32) Google Scholar detected low concentrations of alpha-1 antitrypsin in children with typical autism, and D'Eufemia and colleagues6D'Eufemia P Celli M Finocchiaro R et al.Abnormal intestinal permeability in children with autism..Acta Paediatrica.
+ 1996; 85: 1076-1079Crossref PubMed Scopus (256) Google Scholar identified abnormal intestinal permeability, a feature of small intestinal enteropathy, in 43% of a group of autistic children with no gastrointestinal symptoms, but not in matched controls.
+ These studies, together with our own, including evidence of anaemia and IgA deficiency in some children, would support the hypothesis that the consequences of an inflamed or dysfunctional intestine may play a part in behavioural changes in some children.The “opioid excess” theory of autism, put forward first by Panksepp and colleagues7Panksepp J A neurochemical theory of autism..Trends Neurosci.
+ 1979; 2: 174-177Summary Full Text PDF Scopus (215) Google Scholar and later by Reichelt and colleagues8Reichelt KL Hole K Hamberger A et al.Biologically active peptide-containing fractions in schizophrenia and childhood autism..Adv Biochem Psychopharmacol.
+ 1993; 28: 627-643Google Scholar and Shattock and colleagues9Shattock P Kennedy A Rowell F Berney TP Role of neuropeptides in autism and their relationships with classical neurotransmitters..Brain Dysfunction.
+ 1991; 3: 328-345Google Scholar proposes that autistic disorders result from the incomplete breakdown and excessive absorption of gut-derived peptides from foods, including barley, rye, oats, and caesin from milk and dairy produce.
+ These peptides may exert central-opioid effects, directly or through the formation of ligands with peptidase enzymes required for breakdown of endogenous central-nervous-system opioids,9Shattock P Kennedy A Rowell F Berney TP Role of neuropeptides in autism and their relationships with classical neurotransmitters..Brain Dysfunction.
+ 1991; 3: 328-345Google Scholar leading to disruption of normal neuroregulation and brain development by endogenous encephalins and endorphins.One aspect of impaired intestinal function that could permit increased permeability to exogenous peptides is deficiency of the phenyl-sulphur-transferase systems, as described by Waring.10Waring RH, Ngong JM.
+ Sulphate metabolism in allergy induced autism: relevance to disease aetiology, conference proceedings, biological perspectives in autism, University of Durham, NAS 35–44.Google Scholar The normally sulphated glycoprotein matrix of the gut wall acts to regulate cell and molecular trafficking.11Murch SH MacDonald TT Walker-Smith JA Levin M Lionetti P Klein NJ Disruption of sulphated glycosaminoglycans in intestinal inflammation..Lancet.
+ 1993; 341: 711-741Summary PubMed Scopus (141) Google Scholar Disruption of this matrix and increased intestinal permeability, both features of inflammatory bowel disease,17Gupta S Immunology and immunologic treatment of autism.Proc Natl Autism Assn Chicago.
+ 1996; : 455-460Google Scholar may cause both intestinal and neuropsychiatric dysfunction.
+ Impaired enterohepatic sulphation and consequent detoxification of compounds such as the phenolic amines (dopamine, tyramine, and serotonin)12Warren RP Singh VK Elevated serotonin levels in autism: association with the major histocompatibility complex..Neuropsychobiology.
+ 1996; 34: 72-75Crossref PubMed Scopus (41) Google Scholar may also contribute.
+ Both the presence of intestinal inflammation and absence of detectable neurological abnormality in our children are consistent with an exogenous influence upon cerebral function.
+ Lucarelli's observation that after removal of a provocative enteric antigen children achieved symptomatic behavioural improvement, suggests a reversible element in this condition.13Lucarelli S Frediani T Zingoni AM et al.Food allergy and infantile autism..Panminerva Med.
+ 1995; 37: 137-141PubMed Google ScholarDespite consistent gastrointestinal findings, behavioural changes in these children were more heterogeneous.
+ In some cases the onset and course of behavioural regression was precipitous, with children losing all communication skills over a few weeks to months.
+ This regression is consistent with a disintegrative psychosis (Heller's disease), which typically occurs when normally developing children show striking behaviour changes and developmental regression, commonly in association with some loss of coordination and bowel or bladder function.14Rutter M, Taylor E, Hersor L. In: Child and adolescent psychiatry.
+ 3rd edn.
+ London: Blackwells Scientific Publications: 581–82.Google Scholar Disintegrative psychosis is typically described as occurring in children after at least 2–3 years of apparently normal development.Disintegrative psychosis is recognised as a sequel to measles encephalitis, although in most cases no cause is ever identified.14Rutter M, Taylor E, Hersor L. In: Child and adolescent psychiatry.
+ 3rd edn.
+ London: Blackwells Scientific Publications: 581–82.Google Scholar Viral encephalitis can give rise to autistic disorders, particularly when it occurs early in life.15Wing L The Autistic Spectrum.
+ Constable,   London1996: 68-71Google Scholar Rubella virus is associated with autism and the combined measles, mumps, and rubella vaccine (rather than monovalent measles vaccine) has also been implicated.
+ Fudenberg16Fudenberg HH Dialysable lymphocyte extract (DLyE) in infantile onset autism: a pilot study..Biotherapy.
+ 1996; 9: 13-17Crossref PubMed Scopus (26) Google Scholar noted that for 15 of 20 autistic children, the first symptoms developed within a week of vaccination.
+ Gupta17Gupta S Immunology and immunologic treatment of autism.Proc Natl Autism Assn Chicago.
+ 1996; : 455-460Google Scholar commented on the striking association between measles, mumps, and rubella vaccination and the onset of behavioural symptoms in all the children that he had investigated for regressive autism.
+ Measles virus18Miyamoto H Tanaka T Kitamoto N Fukada Y Takashi S Detection of immunoreactive antigen with monoclonal antibody tomeasles virus in tissue from patients with Crohn's disease..J Gastroenterol.
+ 1995; 30: 28-33Crossref PubMed Scopus (27) Google Scholar,  19Ekbom A Wakefield AJ Zack M Adami H-O Crohn's disease following early measles exposure..Lancet.
+ 1994; 344: 508-510Summary PubMed Scopus (137) Google Scholar and measles vaccination20Thompson N Montgomery S Pounder RE Wakefield AJ Is measles vaccination a risk factor for inflammatory bowel diseases?.Lancet.
+ 1995; 345: 1071-1074Summary PubMed Google Scholar have both been implicated as risk factors for Crohn's disease and persistent measles vaccine-strain virus infection has been found in children with autoimmune hepatitis.21Kawashima H Mori T Takekuma K Hoshika A Hata A Nakayama T Polymerase chain reaction detection of the haemagglutinin gene from an attenuated measles vaccines strain in the peripheral mononuclear cells of children with autoimmune hepatitis..Arch Virol.
+ 1996; 141: 877-884Crossref PubMed Scopus (20) Google ScholarWe did not prove an association between measles, mumps, and rubella vaccine and the syndrome described.
+ Virological studies are underway that may help to resolve this issue.If there is a causal link between measles, mumps, and rubella vaccine and this syndrome, a rising incidence might be anticipated after the introduction of this vaccine in the UK in 1988.
+ Published evidence is inadequate to show whether there is a change in incidence22Wing L Autism spectrum disorders: no evidence for or against an increase in prevalence..BMJ.
+ 1996; 312: 327-328Crossref PubMed Scopus (144) Google Scholar or a link with measles, mumps, and rubella vaccine.23Miller D Wadsworth J Diamond J Ross E Measles vaccination and neurological events..Lancet.
+ 1997; 349: 730-731Summary Full Text Full Text PDF PubMed Scopus (16) Google Scholar A genetic predisposition to autistic-spectrum disorders is suggested by over-representation in boys and a greater concordance rate in monozygotic than in dizygotic twins.15Wing L The Autistic Spectrum.
+ Constable,   London1996: 68-71Google Scholar In the context of susceptibility to infection, a genetic association with autism, linked to a null allele of the complement (C) 4B gene located in the class III region of the major-histocompatibility complex, has been recorded by Warren and colleagues.24Warren RP Singh VK Cole P et al.Increased frequency of the null allele at the complement C4B locus in autism..Clin Exp Immunol.
+ 1991; 83: 438-440Crossref PubMed Scopus (97) Google Scholar C4B-gene products are crucial for the activation of the complement pathway and protection against infection: individuals inheriting one or two C4B null alleles may not handle certain viruses appropriately, possibly including attenuated strains.Urinary methylmalonic-acid concentrations were raised in most of the children, a finding indicative of a functional vitamin B12 deficiency.
+ Although vitamin B12 concentrations were normal, serum B12 is not a good measure of functional B12 status.25England JM Linnell JC Problems with the serum vitamin B12 assay..Lancet.
+ 1980; ii: 1072-1074Summary Scopus (18) Google Scholar Urinary methylmalonic-acid excretion is increased in disorders such as Crohn's disease, in which cobalamin excreted in bile is not reabsorbed.
+ A similar problem may have occurred in the children in our study.
+ Vitamin B12 is essential for myelinogenesis in the developing central nervous system, a process that is not complete until around the age of 10 years.
+ B12 deficiency may, therefore, be a contributory factor in the developmental regression.26Dillon MJ England JM Gompertz D et al.Mental retardation, megaloblastic anaemic, homocysteine metabolism due to an error in B12 metabolism..Clin Sci Mol Med.
+ 1974; 47: 43-61PubMed Google ScholarWe have identified a chronic enterocolitis in children that may be related to neuropsychiatric dysfunction.
+ In most cases, onset of symptoms was after measles, mumps, and rubella immunisation.
+ Further investigations are needed to examine this syndrome and its possible relation to this vaccine.Addendum:Up to Jan 28, a further 40 patients have been assessed; 39 with the syndrome.ContributorsA J Wakefield was the senior scientific investigator.
+ S H Murch and M A Thomson did the colonoscopies.
+ A Anthony, A P Dhillon, and S E Davies carried out the histopathology.
+ J Linnell did the B12 studies.
+ D M Casson and M Malik did the clinical assessment.
+ M Berelowitz did the psychiatric assessment.
+ P Harvey did the neurological assessment.
+ A Valentine did the radiological assessment.
+ JW-S was the senior clinical investigator.AcknowledgementsThis study was supported by the Special Trustees of Royal Free Hampstead NHS Trust and the Children's Medical Charity.
+ We thank Francis Moll and the nursing staff of Malcolm Ward for their patience and expertise; the parents for providing the impetus for these studies; and Paula Domizo, Royal London NHS Trust, for providing control tissue samples.References1.Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).4th edn.
+ American Psychiatric Association,   Washington DC, USA1994View       in Article       Google Scholar2.Bhatt HR Green A Linnell JC A sensitive micromethod for the routine estimations of methylmalonic acid in body fluids and tissues using thin-layer chromatography..Clin Chem Acta.
+ 1982; 118: 311-321View       in Article       Scopus (14) PubMed Crossref Google Scholar3.Fujimura Y Kamoni R Iida M Pathogenesis of aphthoid ulcers in Crohn's disease: correlative findings by magnifying colonoscopy, electromicroscopy, and immunohistochemistry..Gut.
+ 1996; 38: 724-732View       in Article       Scopus (110) PubMed Crossref Google Scholar4.Asperger H Die Psychopathologie des coeliakakranken kindes..Ann Paediatr.
+ 1961; 197: 146-151View       in Article       Google Scholar5.Walker-Smith JA Andrews J Alpha-1 antitrypsin, autism and coeliac disease..Lancet.
+ 1972; ii: 883-884View       in Article       Scopus (32) Abstract Google Scholar6.D'Eufemia P Celli M Finocchiaro R et al.Abnormal intestinal permeability in children with autism..Acta Paediatrica.
+ 1996; 85: 1076-1079View       in Article       Scopus (256) PubMed Crossref Google Scholar7.Panksepp J A neurochemical theory of autism..Trends Neurosci.
+ 1979; 2: 174-177View       in Article       Scopus (215) Summary Full Text PDF Google Scholar8.Reichelt KL Hole K Hamberger A et al.Biologically active peptide-containing fractions in schizophrenia and childhood autism..Adv Biochem Psychopharmacol.
+ 1993; 28: 627-643View       in Article       Google Scholar9.Shattock P Kennedy A Rowell F Berney TP Role of neuropeptides in autism and their relationships with classical neurotransmitters..Brain Dysfunction.
+ 1991; 3: 328-345View       in Article       Google Scholar10.Waring RH, Ngong JM.
+ Sulphate metabolism in allergy induced autism: relevance to disease aetiology, conference proceedings, biological perspectives in autism, University of Durham, NAS 35–44.View       in Article       Google Scholar11.Murch SH MacDonald TT Walker-Smith JA Levin M Lionetti P Klein NJ Disruption of sulphated glycosaminoglycans in intestinal inflammation..Lancet.
+ 1993; 341: 711-741View       in Article       Scopus (141) PubMed Summary Google Scholar12.Warren RP Singh VK Elevated serotonin levels in autism: association with the major histocompatibility complex..Neuropsychobiology.
+ 1996; 34: 72-75View       in Article       Scopus (41) PubMed Crossref Google Scholar13.Lucarelli S Frediani T Zingoni AM et al.Food allergy and infantile autism..Panminerva Med.
+ 1995; 37: 137-141View       in Article       PubMed Google Scholar14.Rutter M, Taylor E, Hersor L. In: Child and adolescent psychiatry.
+ 3rd edn.
+ London: Blackwells Scientific Publications: 581–82.View       in Article       Google Scholar15.Wing L The Autistic Spectrum.
+ Constable,   London1996: 68-71View       in Article       Google Scholar16.Fudenberg HH Dialysable lymphocyte extract (DLyE) in infantile onset autism: a pilot study..Biotherapy.
+ 1996; 9: 13-17View       in Article       Scopus (26) PubMed Crossref Google Scholar17.Gupta S Immunology and immunologic treatment of autism.Proc Natl Autism Assn Chicago.
+ 1996; : 455-460View       in Article       Google Scholar18.Miyamoto H Tanaka T Kitamoto N Fukada Y Takashi S Detection of immunoreactive antigen with monoclonal antibody tomeasles virus in tissue from patients with Crohn's disease..J Gastroenterol.
+ 1995; 30: 28-33View       in Article       Scopus (27) PubMed Crossref Google Scholar19.Ekbom A Wakefield AJ Zack M Adami H-O Crohn's disease following early measles exposure..Lancet.
+ 1994; 344: 508-510View       in Article       Scopus (137) PubMed Summary Google Scholar20.Thompson N Montgomery S Pounder RE Wakefield AJ Is measles vaccination a risk factor for inflammatory bowel diseases?.Lancet.
+ 1995; 345: 1071-1074View       in Article       PubMed Summary Google Scholar21.Kawashima H Mori T Takekuma K Hoshika A Hata A Nakayama T Polymerase chain reaction detection of the haemagglutinin gene from an attenuated measles vaccines strain in the peripheral mononuclear cells of children with autoimmune hepatitis..Arch Virol.
+ 1996; 141: 877-884View       in Article       Scopus (20) PubMed Crossref Google Scholar22.Wing L Autism spectrum disorders: no evidence for or against an increase in prevalence..BMJ.
+ 1996; 312: 327-328View       in Article       Scopus (144) PubMed Crossref Google Scholar23.Miller D Wadsworth J Diamond J Ross E Measles vaccination and neurological events..Lancet.
+ 1997; 349: 730-731View       in Article       Scopus (16) PubMed Summary Full Text Full Text PDF Google Scholar24.Warren RP Singh VK Cole P et al.Increased frequency of the null allele at the complement C4B locus in autism..Clin Exp Immunol.
+ 1991; 83: 438-440View       in Article       Scopus (97) PubMed Crossref Google Scholar25.England JM Linnell JC Problems with the serum vitamin B12 assay..Lancet.
+ 1980; ii: 1072-1074View       in Article       Scopus (18) Summary Google Scholar26.Dillon MJ England JM Gompertz D et al.Mental retardation, megaloblastic anaemic, homocysteine metabolism due to an error in B12 metabolism..Clin Sci Mol Med.
+ By continuing you agree to the use of cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

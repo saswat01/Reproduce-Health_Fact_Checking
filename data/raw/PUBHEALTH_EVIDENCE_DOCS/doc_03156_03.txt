@@ -1,0 +1,9722 @@
+ 
+ 
+ 
+ 
+ 
+Report Contributors:
+ 
+James Hatfield 
+ 
+ 
+Gabrielle Fekete
+ 
+ 
+Seth Gerhart
+ 
+ 
+ 
+Julie Narim
+atsu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abbreviations
+ 
+ 
+AEGL
+ 
+ 
+Acute Exposure Guideline Level
+ 
+AMCV
+ 
+Air Monitoring Comparison Value
+ 
+ASPECT
+ 
+Airborne Spectral Photometric Environmental Collection Technology
+ 
+CCP
+ 
+ 
+Crisis Communication Plan
+ 
+EPA 
+ 
+ 
+U.S. Environmental Protection Agency
+ 
+ESF
+ 
+ 
+Emergency Support Function
+ 
+NAAQS
+ 
+National Ambient Air Quality Standards
+ 
+OIG 
+ 
+ 
+Office of Inspector General
+ 
+ppm
+ 
+ 
+Parts Per Million
+ 
+ 
+SLAMS
+ 
+State and Local Air Monitoring System
+ 
+SSM
+ 
+ 
+Startup, Shutdown, Malfunction
+ 
+TAGA
+ 
+ 
+Trace Atmospheric Gas Analyzer
+ 
+TCEQ
+ 
+ 
+Te
+xas Commission on Environmental Quality
+ 
+ 
+ 
+Cover 
+P
+hoto:
+ 
+Residential neighborhood 
+in Houston, Texas, 
+with industrial facilities in the 
+background
+.
+ 
+(OIG photo)
+ 
+ 
+ 
+Are you aware of fraud, waste or abuse in an
+ 
+EPA program?
+ 
+ 
+ 
+EPA Inspector General Hotline 
+ 
+1200 P
+ennsylvania Avenue, NW
+ 
+(2431T)
+ 
+Washington, D
+.
+C
+.
+ 
+20460
+ 
+(888) 546
+-
+8740
+ 
+(202) 
+566
+-
+2599 (fax)
+ 
+OIG_Hotline@epa.gov
+ 
+ 
+Learn more about our 
+OIG H
+otline
+.
+ 
+ 
+EPA
+ 
+Office of Inspector General
+ 
+1200 Pennsylvania Avenue, 
+NW
+ 
+(2410T)
+ 
+Washington, D
+.
+C
+.
+ 
+20460
+ 
+(202) 566
+-
+2391
+ 
+www.epa.gov/oig
+ 
+ 
+ 
+ 
+Subscribe to our 
+Email Updates
+ 
+Follow us 
+on Twitter 
+@EPAoig
+ 
+Send us your 
+Project Suggestions
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+20
+-
+P
+-
+0
+062
+ 
+December
+ 
+16
+, 2019
+ 
+ 
+ 
+Why We Did This 
+Project
+ 
+ 
+We conducted this audit to 
+deter
+mine whether 
+the 
+air 
+quality monitoring and related 
+activities 
+conducted 
+in the 
+greater Houston area 
+by 
+the
+ 
+U.S
+.
+ 
+Environmental Protection 
+Agency 
+(
+EPA
+)
+ 
+and the state of 
+Texas
+:
+ 
+ 
+ 
+
+ 
+A
+ddressed potential 
+high
+-
+risk areas
+.
+ 
+ 
+
+ 
+I
+ndicated any potential 
+health concerns
+.
+ 
+
+ 
+A
+ccurately communicated 
+air 
+monitoring results and 
+potential health concerns
+ 
+to 
+the public
+.
+ 
+ 
+O
+n August 25, 2017
+, 
+Hurricane 
+Harvey made landfall on the 
+U.S. 
+Gulf Coast
+ 
+as a 
+C
+ategory
+ 
+4 storm.
+ 
+Many of t
+he
+ 
+Houston area
+
+air monitor
+s 
+were
+ 
+shut down 
+and secured
+ 
+prior to 
+
+landfall 
+to 
+prevent damage
+.
+ 
+T
+he EPA and 
+state and 
+local agencies 
+subsequently 
+conducted 
+mobile 
+monitoring
+ 
+to assess air quality 
+conditions
+, 
+including 
+the levels 
+of 
+hazardous air pollutants
+, 
+which are 
+also called 
+air toxics
+.
+ 
+ 
+ 
+This rep
+ort addresses the 
+following
+:
+ 
+ 
+
+ 
+Improving air quality. 
+ 
+ 
+ 
+ 
+Address inquiries to our public
+ 
+affairs office 
+at (202)
+ 
+566
+-
+2391
+ 
+or 
+OIG_WEBCOMMENTS@epa.
+g
+ov
+.
+ 
+ 
+ 
+List of 
+OIG reports
+.
+ 
+ 
+ 
+EPA Needs to Improve Its 
+Emergency Planning 
+to Better Address Air Quality Concerns 
+During
+ 
+Future 
+Disasters
+ 
+ 
+ 
+ 
+What We Found
+ 
+ 
+Most 
+air toxic 
+emission
+ 
+incidents
+ 
+during 
+Hurricane Harvey 
+occu
+r
+red 
+within 
+a 5
+-
+day 
+period 
+of 
+th
+e storm
+
+ 
+landfall. 
+The major
+i
+ty 
+of t
+hese 
+emissions 
+were 
+due to industrial 
+facilities shutting down and restarting 
+operations in response to the storm
+ 
+and 
+storage tank failures
+.
+ 
+However, 
+state
+, 
+local
+ 
+and 
+EPA 
+mobile 
+air monitoring 
+activities 
+were 
+not 
+initia
+ted 
+in time 
+to 
+assess the impact 
+of the
+se
+ 
+emissions
+. 
+Additionally, o
+nce started
+, 
+monitoring effort
+s
+ 
+did not always 
+generate data 
+considered 
+suitable
+ 
+for making health
+-
+based
+ 
+assessments
+, 
+in part 
+because there 
+was 
+no 
+guidance 
+outlining how 
+to 
+monitor 
+air qua
+lity 
+following
+ 
+an emergency. 
+ 
+ 
+The 
+air 
+monitoring data 
+collected 
+did not indicate 
+that 
+the levels of 
+individual
+ 
+air 
+toxic
+s
+ 
+after Hurricane Harvey 
+exceed
+ed
+ 
+the 
+health
+-
+bas
+ed 
+threshold
+s
+ 
+established 
+by the state of Texas 
+and 
+the EPA
+. However, 
+the
+se
+ 
+thresholds 
+do not 
+consider 
+the cumulative impact of 
+expos
+ure 
+to multiple 
+air 
+pollutants
+ 
+at one time.
+ 
+Further
+,
+ 
+the 
+
+thresholds 
+are based on short
+-
+term exposure 
+to a single
+ 
+air
+ 
+pollutant 
+and do not consider lifetime exposures. 
+Consequently, 
+t
+he 
+thresholds 
+may
+ 
+not 
+be 
+sufficiently protective 
+of residents in 
+communities 
+that 
+neighbor industrial facilities
+ 
+and experience repeated or ongoing exposures
+ 
+to 
+air 
+toxics
+. 
+ 
+ 
+We did not 
+identify instances of inaccurate communicat
+ion
+ 
+from the EPA 
+to the 
+public
+ 
+regarding air qual
+ity after Hurricane Harvey. However, 
+public 
+communication 
+of 
+air monitoring results 
+was limited
+.
+ 
+A
+s a result, communities 
+were unaware 
+of
+ 
+the 
+a
+
+.
+ 
+T
+his lack of 
+awareness
+ 
+can 
+diminish public trust
+ 
+and confidence
+ 
+i
+n the EPA
+.
+ 
+ 
+ 
+ 
+Recommend
+ations
+ 
+and Planned 
+Agency 
+Corrective Actions
+ 
+ 
+We recommend that 
+the 
+Assistant
+ 
+Administrator for 
+Land and
+ 
+Emergency 
+Management 
+develop 
+guidance 
+for 
+emergency
+ 
+air monitoring 
+in heavily 
+industrialized areas
+,
+ 
+develop a plan 
+to 
+provide pub
+lic access to 
+air monitoring 
+data
+,
+ 
+and 
+assess the 
+availability and use of remote and portable monitoring 
+methods.
+ 
+We also recommend that 
+the 
+Region
+ 
+6 Regional 
+Administrator 
+develop 
+a plan to 
+inform communities near 
+industrial areas
+ 
+of adverse health risks
+ 
+and to
+ 
+limit exposure to air toxics in these communities
+,
+ 
+and conduct environmental 
+justice 
+training
+. We 
+further 
+recommend that 
+the Associate Administrator for Public 
+Affairs 
+establish a 
+process 
+to 
+communicate
+ 
+the resolution of public concerns
+.
+ 
+Two
+ 
+of 
+our
+ 
+six 
+recommendations
+ 
+are 
+resolved with corrective actions pending
+. 
+The remaining 
+four 
+recommendations
+, which we revised after we issued our draft 
+report,
+ 
+are unresolved
+ 
+pending receipt of corrective action plan
+s
+ 
+from the EPA
+.
+ 
+ 
+U.S. Environmental Protection Agency
+ 
+Office of Inspecto
+r General
+ 
+At a Glance
+ 
+Developing 
+EPA guidance for 
+collecting 
+and communic
+ating
+ 
+air 
+quality data c
+ould 
+improve public 
+confidence in 
+the agency during 
+future disaster responses.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December
+ 
+16
+, 2019
+ 
+ 
+MEMORANDUM
+ 
+ 
+SUBJECT:
+ 
+EPA Needs to Improve Its 
+Emergency Planning to Better Address 
+ 
+Air Quality Concerns During Future 
+Disasters
+ 
+ 
+ 
+Report
+ 
+No.
+ 
+20
+-
+P
+-
+0
+062
+ 
+ 
+FROM: 
+ 
+Charles J. Sheehan, 
+Acting 
+Inspector General
+ 
+ 
+TO: 
+ 
+ 
+See 
+Attached List
+ 
+ 
+This is our report on th
+e subject audit conducted by the Office of Inspector General (OIG) of 
+the
+ 
+U.S
+.
+ 
+Environmental Protection Agency (EPA). The project number for this audit was 
+OA&E
+-
+FY18
+-
+0266
+. 
+This report contains findings that describe the problems the OIG has identified 
+and
+ 
+corrective actions the 
+OIG recommends. This report represents the opinion of t
+he OIG and does 
+not
+ 
+necessarily represent the 
+final EPA position. Final determinations on matters in this report will be made by EPA managers in 
+accordance with established audi
+t resolution procedures.
+ 
+ 
+The EPA provided a
+cceptable corrective actions and mi
+lestone dates 
+f
+or 
+two recommendations: 
+Recommendation 
+5
+, which is addressed to the 
+Associate Administrator 
+of Public Affairs
+,
+ 
+and 
+Recommendation 
+6
+, which is address
+ed
+ 
+to the Reg
+ional Administrator for 
+Region 6. In accordance with 
+EPA Manual 2750, both reco
+mmendations are resolved, and no further response 
+to these 
+recommendations 
+is required. 
+ 
+ 
+Action Required
+ 
+ 
+We consider 
+four 
+recommendations to be unresolved: 
+Recommendations 1 t
+hrough 
+3,
+ 
+which are 
+addressed 
+to the Assistant Administrator for Land and Emergency Management, 
+and 
+Recommendation 
+4
+, 
+which is 
+addressed to 
+the 
+Regional Administrator for 
+Region 6. 
+In accordance with EPA Manual 2750, you are 
+required to provide a written r
+esponse to this repo
+rt within 60 calendar days. You should include planned 
+corrective actions and completion dates for 
+the four
+ 
+recommendations that need additional information for 
+
+ur memorandum commen
+ting 
+on your response. Your response should be provided as an Adobe PDF file that complies with the 
+accessibility requirements of Section 508 of the Rehabilitation Act of 1973, as amended. The final response 
+should not contain data that
+ 
+you do not want to 
+be released to the public; if your response contains such 
+data, you should identify the data for redaction or removal along with corresponding justification.
+ 
+ 
+We will post this report to our website at 
+www.epa.gov/oig
+. 
+ 
+ 
+ 
+Addressees
+ 
+Peter Wright
+, Assistant Administrator for Land and Emergency Management 
+ 
+Ken McQueen, Regional Administrator for Region 6
+ 
+Corry Schiermeyer, Associate Administrator for Public Affairs
+ 
+UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+ 
+WASHINGTON, D
+.
+C
+.
+ 
+20460
+ 
+OFFICE O
+F
+ 
+INSPECTOR GENERAL
+ 
+ EPA Needs to Improve Its 
+Emergency 
+ 
+ 
+20
+-
+P
+-
+0
+062
+ 
+Planning to Better
+ 
+Address Air Quality
+ 
+Concerns 
+During 
+Future Disasters 
+ 
+ 
+ 
+Table of Contents
+ 
+ 
+ 
+Chapters
+ 
+ 
+1 
+ 
+Introduction
+ 
+................................
+................................
+................................
+......
+ 
+ 
+1
+ 
+ 
+ 
+ 
+Purpose
+ 
+................................
+................................
+................................
+.....
+ 
+ 
+1
+ 
+ 
+ 
+Background
+ 
+................................
+................................
+................................
+ 
+ 
+1
+ 
+ 
+ 
+Responsible Office
+s
+ 
+................................
+................................
+...................
+ 
+ 
+12
+ 
+ 
+ 
+Scope and Methodology
+ 
+................................
+................................
+............
+ 
+ 
+12
+ 
+ 
+ 
+Prior OIG Report
+s
+ 
+................................
+................................
+......................
+ 
+ 
+14
+ 
+ 
+2
+ 
+ 
+Better Planning 
+W
+as Needed to Coordinate Air Quality 
+ 
+ 
+Monitoring Efforts
+ 
+................................
+................................
+............................
+ 
+ 
+1
+6
+ 
+ 
+Monitoring Not Conducted During Most 
+Air Toxic 
+Emission 
+Incidents
+ 
+........
+ 
+ 
+1
+6
+ 
+Some Data Considered 
+Unusable for 
+Health 
+Assessments
+ 
+ 
+Due to Monitoring Duration
+ 
+................................
+................................
+..
+ 
+ 
+1
+8
+ 
+ 
+ 
+EPA Lacked 
+Guidance 
+for Emergency 
+Air Quality Monitoring Efforts
+ 
+.........
+ 
+ 
+20
+ 
+ 
+ 
+Conclusion
+ 
+................................
+................................
+................................
+.
+ 
+ 
+2
+1
+ 
+ 
+ 
+Recommendat
+ions
+ 
+................................
+................................
+.....................
+ 
+ 
+2
+1
+ 
+ 
+ 
+Agency Response and OIG Evaluation
+ 
+................................
+......................
+ 
+ 
+2
+2
+ 
+ 
+3
+ 
+ 
+Data Did No
+t Indicate 
+That Air Toxic Levels Were 
+Exceed
+ed, 
+ 
+ 
+but 
+Health Risk
+s to 
+Fenceline
+ 
+Communities
+ 
+from 
+ 
+ 
+Emission
+ 
+Spike
+s 
+Are 
+Unknown
+ 
+................................
+................................
+.......
+ 
+ 
+2
+3
+ 
+ 
+EPA Used State Thresholds to 
+Assess 
+
+Air 
+Quality
+ 
+....................
+ 
+ 
+2
+3
+ 
+ 
+Monitoring Thresholds 
+Do Not 
+Consider 
+Exposure 
+ 
+to 
+Multiple P
+ollutant
+s
+ 
+................................
+................................
+............
+ 
+ 
+2
+4
+ 
+ 
+ 
+Conclusion
+ 
+................................
+................................
+................................
+.
+ 
+ 
+2
+6
+ 
+ 
+ 
+Recommendation
+ 
+................................
+................................
+.......................
+ 
+ 
+2
+7
+ 
+ 
+ 
+Agency Response and OIG Evaluation
+ 
+................................
+......................
+ 
+ 
+2
+7
+ 
+ 
+4
+ 
+ 
+Lack of Communication Left Communities Unaware of Risks
+ 
+......................
+ 
+ 
+2
+8
+ 
+ 
+Guidance 
+Outlines 
+Community Engagement During an Incident
+ 
+................
+ 
+ 
+2
+8
+ 
+ 
+ 
+EPA Deployed Community Liaisons
+ 
+................................
+...........................
+ 
+ 
+2
+9
+ 
+Residents Were Not Informed How EPA Resolved Their Concerns
+ 
+...........
+ 
+ 
+30
+ 
+Environmental Justice Not Adequately Addressed in Emergency 
+ 
+Response Implementation
+ 
+................................
+................................
+....
+ 
+ 
+3
+2
+ 
+ 
+ 
+Conclusion
+ 
+................................
+................................
+................................
+.
+ 
+ 
+3
+3
+ 
+ 
+ 
+Recommendations
+ 
+................................
+................................
+.....................
+ 
+ 
+3
+3
+ 
+ 
+ 
+Agency Response and OIG Evaluation
+ 
+................................
+......................
+ 
+ 
+3
+4
+ 
+ 
+Status of Recommenda
+tions and Potential Monetary Benefits
+ 
+.............................
+ 
+ 
+3
+5
+ 
+ 
+
+ 
+continued 
+
+ 
+ EPA Needs to Improve Its 
+Emergency 
+ 
+ 
+20
+-
+P
+-
+0
+062
+ 
+Planning to Better
+ 
+Address Air Quality
+ 
+Concerns 
+During 
+Future Disasters 
+ 
+ 
+ 
+ 
+Appendices
+ 
+ 
+A 
+ 
+Agency Response to Draft Report
+ 
+................................
+................................
+...
+ 
+ 
+3
+6
+ 
+ 
+B 
+ 
+Distribution
+ 
+................................
+................................
+................................
+.......
+ 
+ 
+4
+3
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+1
+ 
+Chapter 
+1
+ 
+Introduction 
+ 
+ 
+Purpose 
+ 
+ 
+The Office of Inspector General (OIG) for 
+the 
+U.S. 
+Environmental Protection 
+Agency (EPA
+) 
+conducted this audit to determine 
+
+
+(1
+)
+ 
+addressed potential high
+-
+risk areas, (2) indicated any potential heal
+th 
+concerns, and (3) were accurately
+ 
+communicated to the public with respect to 
+monitoring results and potential health concerns.
+ 
+ 
+Background 
+ 
+ 
+O
+n August 25, 2017
+, 
+Hurricane Harvey made landfall on the 
+U.S. 
+Gulf Coast as a 
+C
+ategory 4 storm, dropping over 
+19 trillion gallons of 
+rain across th
+e region
+ 
+(Figure 1)
+. 
+During this unprecedented weather event, t
+he highest total rainfall in 
+
+
+60.58 inches
+
+was recorded near 
+Nederland
+, Texas, about 
+90 miles east of Hou
+ston. According to state officials, more than 270,000 homes 
+were imp
+acted, with 
+approximately
+ 
+80,000 homes 
+inundated 
+with at least 
+18
+ 
+inches of water. 
+Hurricane 
+Harvey 
+was 
+the most expensive natural disaster in 
+more than a decade
+ 
+and the second costliest in U.S.
+ 
+history
+, causing an estimated 
+$125 billion in damage. 
+ 
+ 
+Figur
+e 
+1
+: 
+Region impacted by Hurricane Harvey
+ 
+ 
+
+ 
+ArcMap, a mapping and location analytics platform
+. 
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+2
+ 
+According to the 
+United States 
+Global Research Program
+
+en
+t climate 
+assessment
+,
+1
+ 
+
+heavy precipitation events in most 
+parts of the United States have 
+increased in both intensity and 
+frequency since 1901 and are projected to continue 
+to increase over this century
+.
+
+storms, including hurricanes, have increased by 6% to 7%
+, on average, compared 
+to what they would have been a century ag
+
+ 
+Similarly, 
+a
+ 
+study 
+published in the 
+Proceedings of the National Academy of Sciences
+ 
+of the United States of America
+ 
+indicates that the annual probability of rainfall in excess of 
+19 inches
+ 
+has 
+increased sixfold since the late 20th century.
+2
+ 
+Thus, t
+he 
+likelihood that 
+the 
+EPA, 
+states and local governments 
+will 
+have to 
+continue to 
+respond to 
+disasters 
+similar 
+to 
+Hurri
+c
+ane 
+Harvey 
+has also increased
+.
+ 
+ 
+Air Quality Impacts of Hurricane 
+Harvey
+ 
+ 
+Bef
+ore 
+Hurricane Harvey ma
+de
+ 
+landfall, many industrial sources 
+of air pollution
+
+such as oil and gas production facilities
+
+shut down their operations in anticipation 
+of heavy rainfall and flooding. 
+When industrial facilities shut
+ 
+down or restart the
+ir 
+plant op
+erations
+,
+ 
+significant spikes in 
+air 
+pollutants
+
+including hazardous air 
+pollutants
+,
+ 
+which are 
+also referred to as 
+air toxics
+
+can result
+. These 
+spikes 
+are 
+often referred to as startup, shutdown, malfunction (SSM) emissions. 
+ 
+ 
+M
+any 
+industrial 
+facilities 
+affec
+ted by 
+Hurricane Harvey
+ 
+were forced to 
+ma
+ke
+ 
+last
+-
+minute decision
+s regarding whether to shut down
+ 
+because of 
+the 
+uncertain 
+course 
+of the storm
+. 
+Facili
+ties i
+n 
+Corpus Christi
+, 
+Texas, 
+which is located 
+south
+west
+ 
+of 
+Houston, 
+
+path and were able to 
+coordinate 
+shutdown activities early, thus 
+reducing
+ 
+SSM 
+emissions. However, the 
+hurricane
+
+course 
+toward
+ 
+Houston 
+was not as 
+clear
+.
+ 
+W
+hen 
+the storm 
+did make landfall
+,
+ 
+it 
+sta
+ll
+ed over 
+southeastern Texas
+, leading to massive flooding. 
+Man
+y facilities
+ 
+in 
+Houston
+, therefore, 
+were shutting down within 24 hours of when the 
+heavy 
+rainfall began
+. 
+After the storm passed and flooding subsid
+ed, 
+all the 
+facilities 
+that 
+shut down 
+resumed 
+normal operations. 
+ 
+ 
+According to excess emission
+s
+ 
+reports volu
+ntarily
+ 
+submitted to 
+the 
+Texas 
+Commission on Environmental Quality
+ 
+(
+TCEQ
+)
+ 
+by impacted facilities
+ 
+in Harris 
+and Jefferson 
+c
+ounties
+, Hurricane Harvey resulted in industrial facilities releasing 
+an extra 
+340
+ 
+tons of 
+air toxics
+.
+3
+ 
+These emissions were from acci
+dents, facility 
+                                        
+        
+ 
+1
+ 
+USGCRP
+, 2017: 
+Climate Science Special Report: Fourth National Climate Assessment, Volume I
+ 
+[Wuebbles, D.J., 
+D.W. Fahey, K.A. Hibbard, D.J. Dokken, B.C. Stewart, and T.K. Maycock (eds.)]. U.S. Global Ch
+ange Research 
+Program, Washington, DC, USA, 470 pp, doi:
+ 
+10.7930/J0J964J6
+.
+ 
+2
+ 
+
+
+Proceedings of the 
+National Academy of Sciences
+ 
+of the United States of America
+ 
+114, 
+n
+o. 48
+ 
+(November 28, 2017): 
+12681
+
+84.
+ 
+3
+ 
+Excess emissions 
+are self
+-
+reported by facilities 
+to 
+the 
+TCEQ
+.
+ 
+T
+he reporting rule requiring these submissions was 
+suspended during 
+and for 7 months after 
+Hurricane Harvey.
+ 
+Thus, the total emissions reported likely und
+errepresent 
+the total excess emissions due to Hurricane Harvey. For example, only 13 of 
+nearly 4
+00 majo
+r industrial facilities 
+operating in Harris and Jefferson counties reported excess emissions due to facility shutdowns or startups during 
+the 
+hurricane
+. 
+Of these 13 facilities, six reported only emissions related to a shutdown event.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+3
+ 
+shutdowns 
+during
+ 
+the hurricane and facility startups after the hurricane. For 
+example
+:
+ 
+ 
+
+ 
+A
+ 
+gasoline spill at 
+Magel
+lan in the Galena Park Terminal released an 
+estimated 282
+ 
+tons of 
+combined 
+air toxics
+, including over 
+6 
+tons of benzene
+. 
+ 
+
+ 
+A
+ 
+flo
+ating roof tank failure at Valero 
+released 
+an estimated 12.5
+ 
+tons of 
+combined 
+air toxics
+.
+ 
+
+ 
+During a startup
+ 
+event
+, the Flint Hills Resources Port Arthur Facility 
+released 0.89 tons of air toxics. 
+ 
+
+ 
+During a shutdown
+ 
+event
+, the ExxonMobil Beaumont Refinery re
+leased 
+0.07
+ 
+tons of air toxics.
+ 
+ 
+T
+he impact 
+o
+n air quality concern
+ed
+ 
+community members and health officials. 
+Short
+-
+term exposure to air toxics 
+such as 
+benzene can cause drowsiness
+;
+ 
+dizziness
+;
+ 
+headaches
+;
+ 
+irritation to eyes
+;
+ 
+skin and respiratory tract 
+proble
+ms
+;
+ 
+and, 
+at very high levels, unconsciousness and death. 
+In addition
+, r
+esidents 
+who 
+liv
+e
+ 
+near 
+Houston
+-
+area industrial 
+facilities already experience chronic exposure to 
+high levels of air pollution
+. 
+ 
+ 
+Health 
+Impacts
+ 
+in Fenceline Communities
+ 
+ 
+A
+ccording to a 
+study published in 
+Environmental Science 
+and
+ 
+Technology
+, the 
+health impacts of direct and indirect particulate matter emissions from SSM 
+events in Texas 
+were 
+estimated to cost $148 million in 2015.
+4
+ 
+An analysis of air 
+pollution risks in the greater Houston
+ 
+area conducted for the 
+Houston 
+
+Task Force on 
+t
+he 
+Health Effects of Air Pollution 
+reached the following 
+conclusion
+:
+ 
+ 
+East Houston neighborhoods that face a number of vulnerabilities 
+based on their marginal social and economic standing also carry a 
+heavier burden of health risks from breathing pollutant
+s in their air. 
+They tend to be located closer to major point sources than most 
+other neighborhoods in the 
+G
+reater Houston area and to be nearer 
+to major transportation corridors. 
+ 
+ 
+A
+ir pollution can l
+ead to health effects that often go unaddressed in communities 
+where residents have limited financial and health care resources. Further, 
+residents of 
+fenceline
+ 
+communities
+
+neighborhoods that are directly next to a 
+facility and 
+are 
+directly impacted by the
+ 
+
+emissions
+
+are often unable to relocate because of low home values.
+ 
+The
+ 
+lack 
+of 
+resources and the disproportionate layering of intersec
+ting social 
+factor
+s create 
+additional challenges in these communities when faced wit
+h a weather event like 
+Hurricane Harvey. 
+ 
+ 
+                                        
+        
+ 
+4
+ 
+Zirogiannis
+,
+ 
+Nikolao
+s, Alex J. Hollingsworth and David M. Konisky
+,
+ 
+
+Understanding Excess Emissions from 
+Industrial Facilities: Evidence from Texas
+
+ 
+Environmental Science an
+d Technology
+ 
+52
+, no. 
+5
+ 
+(
+2018)
+: 
+2482
+
+90.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+4
+ 
+Industrial M
+akeup and Demographics of 
+Greater 
+Houston Area 
+ 
+ 
+The 
+g
+reater Houston area encompasses nine counties along the Gulf Co
+ast in 
+southeastern Texas and is the fifth
+-
+most populous metropolitan statistical ar
+ea in 
+the United States
+,
+ 
+with a population of over 
+6 
+million people
+ 
+as of 2014
+ 
+(
+Figure
+ 
+2)
+. 
+The Houston area is also a major industrial center and is home to hundreds of 
+petrochemical facilities
+, including 
+two of the four largest 
+petroleum 
+refineries
+ 
+in 
+the
+ 
+U
+nited States
+. 
+
+ 
+on Health Effects of Air 
+Pollution
+, t
+he massive petrochemical complex along the Houston Ship Channel 
+is 
+the largest in the country
+,
+ 
+and the Port of Houston is the sixth largest 
+port 
+in the 
+world and 
+is th
+e 
+second
+ 
+largest
+ 
+in 
+the country in terms of 
+total tonnage. These 
+facilities 
+release 
+sever
+al 
+types of 
+air pollutants
+,
+ 
+including air toxics that can cause 
+cancer or other serious health problems.
+ 
+ 
+Figure 
+2
+: 
+Houston
+ 
+p
+opulation 
+e
+stimates
+ 
+and
+ 
+industrial a
+ir 
+p
+ol
+luter
+ 
+locations
+ 
+ 
+(as of 2017 and 2019, respectively)
+ 
+ 
+Source: OIG analysis 
+using 
+Esri
+
+ 
+ArcMap
+.
+ 
+ 
+ 20-P-0062
+5 The National Air Toxics Assessment is the 
+
+public
+
+ health risk
+s from 
+long
+-term 
+exposure to air toxics 
+in the 
+United States
+. The most recent estimate of national average cancer risk
+the 
+2014 National 
+Air Toxics Assessment
+5was estimated
+ as 
+30 in 1 million.
+ This estimate 
+has not historically accounted for SSM emissions
+, however
+. As 
+noted on the 
+
+Nationa
+l Air Toxics Assessment
+ website, the 
+assessment 
+
+not accurately capture sources that emit only at certain times (e.g., 
+ startups, 
+shutdowns, malfunctions and 
+
+for 
+2014, this 
+screening tool 
+estimate
+d elevated 
+risk levels for 
+all census 
+tracts
+ in the Houston area,
+6 with a countywide a
+verage 
+cancer risk 
+of 45.89 in 1 million 
+but with 
+some cancer risks estimated as high as 
+348 in 1 million. 
+Most of the 
+
+highest risk census 
+tracts 
+were 
+in East and Southeast 
+Houston. The Housto
+n area is un
+usual
+ in thatdue to a lack of 
+zoning 
+requirements
+many residential 
+communities are located next 
+to or near
+ industrial sources of air 
+pollution
+. The 
+number and density of industrial sources and 
+their 
+proximity to residents
+ contribute to the ele
+vated health risks in the Houston area
+. The 
+ fenceline
+ 5 The EPA released the 2014 National Toxics Assessment on August 22, 2018. The assessment is based on air toxics 
+emissions for calendar year 2014.
+ 6 Per the U.S. Census Bureau, a 
+census tract
+ is a
+ small, relatively p
+ermanent statistical subdivision of a cou
+nty for 
+the purpose of presenting data. Census tracts nest within counties, and their boundaries normally follow visible 
+features but may follow legal geography boundaries and other nonvisible features in some insta
+nces. Census tracts 
+ideally contain about
+ 4,000 people and 1,600 housing units.
+ Houston Ship Channel. (OIG video)
+ Houston community center playground neighboring an industrial 
+facility, with smokestacks in the background. (OIG video)
+   
+20
+-
+P
+-
+0
+062
+ 
+ 
+6
+ 
+communities 
+are also often 
+environmental justice communities
+,
+7
+ 
+which are 
+communities 
+predominantly compris
+ing
+ 
+minority and low
+-
+income residents
+.
+ 
+ 
+ 
+For example, 
+as shown in F
+igure 3
+ 
+below
+, 
+the Har
+risburg/Manchester 
+neighborhood 
+in Harris County 
+in 
+E
+ast Houston sit
+s
+ 
+along
+ 
+the Houston Ship 
+Channel, home to 
+several 
+industrial emitters of wastewater, air contaminants and 
+
+ 
+on 
+Health Effects of Air 
+Poll
+ution, this neighborhood routinely exceeded safe levels for
+ 
+seven of 
+the 
+12 
+air 
+pollutants 
+that 
+the
+ 
+task force
+ 
+
+Furthermore, t
+he 
+Harrisburg/Manchester 
+neighborhood is 
+surrounded by major transportation 
+corr
+idors. 
+Both the Sidney She
+rman Bridge, which services Interstate 610 over the 
+Houston Ship Channel, and multiple rail tracks run through the community
+.
+ 
+ 
+
+n
+eighborhood
+ 
+ 
+Source: OIG analysis 
+using
+ 
+Esri
+
+ 
+ArcMap
+.
+ 
+ 
+ 
+ 
+                                        
+        
+ 
+7
+ 
+Environmental justice
+ 
+
+regardless of race, color, national origin, or income, with respec
+t to the development, implementation, and
+ 
+
+ 
+Union Pacific rail tracks
+, Houston. (OIG photo)
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+7
+ 
+ 
+ 
+ 
+In addition to the inh
+
+Harrisburg/Manchester
+ 
+residents face 
+several
+ 
+socioeconomic challenges
+.
+ 
+A
+ccording to the U.S.
+ 
+Census Bureau American Community Survey, 2013
+
+2017
+, 
+m
+ore than 
+25
+ 
+percent
+ 
+of 
+
+residents
+ 
+live 
+at o
+r below the
+ 
+poverty
+ 
+line
+. 
+Approximately 
+37
+ 
+percent of Harrisburg/Manchester residents, ages 1
+6 
+to 64
+, 
+we
+re either unemployed or 
+worked less than 
+6 
+months
+ 
+in 2017
+. More than 
+one
+-
+third (
+36
+ 
+percent) of Harrisburg/Manchester residents ages 25
+ 
+to 64
+ 
+reported 
+th
+at they had not graduated from high school. Finally, 
+in 2017, 
+about 22
+.5
+ 
+percent 
+of the population age 
+5 
+and 
+above 
+speak 
+English 
+
+.
+
+ 
+ 
+ 
+EPA Assist
+ed Texas
+
+ 
+Response to Hurricane Harvey
+ 
+u
+nder 
+the 
+Stafford Act
+ 
+ 
+On 
+August 25
+, 2017,
+ 
+the 
+President declared a 
+major
+ 
+disaster in Texas at the 
+request of the Texas Governor. 
+This 
+declaration allow
+ed
+ 
+the 
+f
+ederal government 
+to 
+assist local emergency responders under the authority of the 
+Robert T. 
+Stafford 
+Disaster Relief and E
+mergency Assistance 
+A
+ct
+ 
+and
+ 
+under the direction of the 
+U.S
+.
+ 
+Federal Emergency Management Agency
+. 
+T
+he federal government 
+support
+s
+ 
+state and 
+local entities during 
+a
+n emergency 
+response
+, 
+consequently, 
+the 
+TCEQ 
+served as 
+the lead agency for the Hurricane Harvey 
+environmental 
+respo
+nse. 
+ 
+ 
+To coordinate 
+Hurricane Harvey response 
+activities, a 
+u
+nified 
+c
+ommand was 
+established 
+among
+ 
+the EPA, the TCEQ, the General Land Office of Texas and the 
+U.S. Coast Guard to oversee 
+the evaluation and cleanup of spills, releases and 
+orphan containers
+.
+ 
+This 
+command was 
+supported by three operational branches in 
+Corpus Christi, Houston and Port Arthu
+r. 
+In addition, the EPA
+
+Emergency 
+Operations Center
+ 
+serves
+ 
+as the 
+
+emergency response operational focal 
+point
+ 
+for all its emergency response effort
+s
+, as well 
+as a 
+communication hub to 
+increase data management and coordination 
+capabilities. The EPA
+ 
+also staffed
+ 
+o
+n
+-
+s
+cene 
+c
+oordinators
+ 
+to 
+monitor or direct responses to all oil spills and hazardous 
+substance releases reported to the federal government. Th
+e 
+o
+n
+-
+s
+cene 
+c
+oordinators 
+Ship Channel Bridge, Houston. 
+(OIG video)
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+8
+ 
+worked with, provided support to and disseminated infor
+mation to 
+local, state and 
+regional response communities 
+regarding
+ 
+all federal efforts.
+ 
+ 
+National Incident Management System and Response Framework
+ 
+ 
+The 
+f
+
+ponse to a 
+national 
+disaster is guided by the National 
+Incident Management System 
+and the 
+National Response Framework
+, which 
+work 
+together to provide a comprehensive approach to domestic incidents
+ 
+(Figure 
+4
+)
+. 
+The 
+National Incident Management System 
+provide
+s 
+management
+ 
+and 
+org
+anizational structures
+
+such as the 
+I
+ncident 
+C
+ommand 
+S
+ystem
+
+to assist 
+operations across jurisdictions and disciplines. The 
+I
+ncident 
+C
+ommand 
+S
+ystem
+ 
+is 
+a management structure 
+that assists in 
+managing 
+resource
+s
+,
+ 
+making
+ 
+decision
+s
+ 
+and 
+assigni
+ng responsibilities.
+ 
+It also establishes a chain of command detailing how 
+authority and information flow during an incident. 
+Under the 
+I
+ncident 
+C
+ommand 
+S
+ystem
+, the 
+I
+ncident 
+C
+ommander has overall responsibility for the incident
+;
+ 
+for 
+determining incident obj
+ectives
+;
+ 
+and 
+for 
+establishing priorities based on the nature 
+of the incident, the resources available and 
+a
+gency policy.
+ 
+ 
+ 
+Figure 4: 
+National Incident Management System 
+and 
+National Response Framework
+ 
+ 
+ 
+Source: EPA analysis of Federal Emergency
+ 
+Management Agency information. 
+ 
+ 
+The 
+National Response Framework
+ 
+is composed of 
+15 
+Emergency Support 
+Functions (ESF
+s
+) that detail 
+how agencies 
+implement
+ 
+their 
+capabilities and 
+coordinat
+e
+ 
+the 
+resources 
+required in a national response
+. 
+For Hurricane Harvey,
+ 
+t
+he 
+Federal Emergency Management Agency
+ 
+activated EPA Region 6 under 
+ESF
+ 
+#10, Oil and Hazardous Materials Response, 
+on
+ 
+August 28, 2017. ESF #10
+ 
+
+ond to a threat to public 
+health, welfare, or the envi
+ronment caused by actual or potential oil and 
+
+ 
+ 
+National Incident 
+Management System 
+ 
+ 
+ 
+
+ 
+Incident Command 
+System 
+ 
+o
+ 
+Command
+ 
+o
+ 
+Planning
+ 
+o
+ 
+Operat
+ions
+ 
+o
+ 
+Logistics
+ 
+o
+ 
+Finance
+ 
+ 
+National Response Framework
+ 
+ 
+Emergency Support Functions
+ 
+ 
+Mechanisms to provide 
+federal 
+resources and capabilities to 
+support state and local
+ 
+responders
+ 
+ 
+Support Annexes
+ 
+ 
+Essential supporting aspects of 
+the federal response common to 
+all incidents
+ 
+ 
+ 
+Incident Annexes
+ 
+ 
+In
+cident
+-
+specific applications of 
+the framework
+ 
+Partner Guides
+ 
+ 
+Next level of detail in response 
+actions tailored to the actionable 
+entity
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+9
+ 
+Each ESF contains a range of possible mission assignments for federal agencies 
+activated 
+to respond to a national disaster
+. 
+ESF #10 actions can include those to 
+
+
+;
+ 
+
+
+;
+ 
+and 
+
+Under
+ 
+EPA 
+Order
+ 
+2071, 
+National Approach to Response
+,
+ 
+which 
+documents agency policy for 
+the 
+National Incident Management System
+, the EPA
+
+ 
+under ESF #10
+ 
+may 
+include air quality sampling and monitoring
+.
+ 
+ 
+ 
+In addition
+ 
+to EPA Order 2071
+, 
+the 
+EPA
+
+governed by 
+EPA Order 2010
+,
+ 
+Cr
+isis Communication Plan
+ 
+(CCP)
+. 
+The CCP 
+outlines the process for 
+the EPA to 
+coordinat
+e
+ 
+and communicat
+e
+ 
+environmental 
+information to the public. 
+The EPA initiated its CCP under ESF #15
+
+Exte
+rnal 
+Affairs
+
+
+ng coordinated, 
+accurate, up
+-
+to
+-
+
+
+ 
+ 
+Figure 
+5
+
+r
+ole
+s
+ 
+u
+nder 
+the 
+National Response Framework
+ 
+ 
+ 
+Source: National Response Framework
+ 
+and 
+EPA Order 2071
+.
+ 
+Note: 
+
+ 
+ 
+Through ESF #15, the 
+National Response Framework
+ 
+deliver
+s
+ 
+
+
+entire 
+affected 
+
+edite the delivery of emergency services and aid the 
+
+Per EPA Order 2071, the
+ 
+
+ESF #15 
+
+integrates Public Affairs and the Joint Information Center, 
+Congressional Affairs, Intergovernmental Affairs (state
+, local, tribal and 
+territorial), Planning and Products and the Private Sector under the coordinating 
+auspices of external affairs.
+
+ 
+The order also says that the Joint Information Center 
+
+ensures the coordinated release of information
+
+Planning
+ 
+and 
+Products component of external affairs develops all external and internal 
+communications strategies and products.
+
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+10
+ 
+ 
+Air Monitoring Conducted 
+a
+fter 
+Hurricane
+ 
+Harvey
+ 
+ 
+Managed by the TCEQ, t
+he 
+state and local air monitoring system 
+(SLAMS) 
+network 
+in Texa
+s 
+collects data about 
+six 
+criteria
+ 
+air 
+pollutants to determine whether air quality meets the 
+National 
+Ambient Air Quality Standards
+ 
+(
+NAAQS
+)
+ 
+ 
+established by the EPA.
+8
+ 
+ 
+ 
+There are adverse health
+ 
+effects associated with each of the six 
+criteria 
+air 
+pollutant
+s. For example, short term exposure to ozone
+ 
+is 
+associated with deaths from respiratory causes, 
+while 
+long
+-
+term 
+exposure 
+to 
+ozone 
+is linked to asthma aggravation and 
+development
+, as well as 
+per
+manent lung damage.
+ 
+ 
+In addition to measuring 
+criteria 
+air 
+pol
+lutants, 
+
+SLAMS 
+routinely 
+collect
+s
+ 
+data 
+for over 
+100
+ 
+different air toxics
+ 
+to 
+determine 
+whether 
+their 
+levels exceed 
+Air Monitoring Comparison 
+Value (AMCV) 
+thresholds 
+established by 
+the 
+TCEQ.
+ 
+If a 
+TCEQ SLAMS 
+monitor 
+detects a chemical concentration
+ 
+that exceeds its associated AMCV
+ 
+threshold
+, 
+adverse health effects in the public
+ 
+are not necessarily anticipat
+ed
+. However,
+ 
+the 
+TCEQ
+ 
+considers 
+th
+ese
+ 
+data during 
+any future 
+permitting process. 
+ 
+ 
+Starting on August 23, 
+2017, 
+before 
+Hurricane Harvey made land
+fall
+, 
+the 
+TCEQ 
+began preparations to shut
+ 
+down 
+its 
+SLAMS 
+sites and monitors
+ 
+in the 
+Houston area to 
+protect the 
+network 
+from 
+storm damage
+. 
+Once the storm was over, 
+the TCEQ began taking steps to restore its 
+air monitoring operations. 
+By 
+September
+ 
+13, 
+2017, 
+most of 
+the
+ 
+air 
+monitoring network 
+in the Houston area 
+was once again opera
+tional
+.
+ 
+B
+y 
+September
+ 
+29, 
+2017, 
+
+network 
+was 
+100
+ 
+percent
+ 
+operational.
+ 
+                                        
+        
+ 
+8
+ 
+T
+he Clean Air Act
+, as amended,
+ 
+requires the EPA to set NAAQS for pollutants considered harmful to public health 
+and the environment. The EPA establis
+hed NAAQS for six principal pollutants, w
+hich are called 
+criteria
+ 
+air 
+pollutants
+: carbon monoxide, lead, ground
+-
+level ozone, nitrogen dioxide, particulate matter and sulfur dioxide. 
+Per 
+the act, s
+tates are responsible for maintaining an air quality monitor
+
+quality data 
+
+ 
+The Clean Air Act
+ 
+also 
+requires each state to have a 
+state implementation plan to attain and maintain the NAAQS. Many 
+of these 
+state implementati
+on plan
+s
+ 
+(such as 
+
+provisions that govern SSM events
+ 
+and provided 
+automatic exemptions from enforcement for 
+facilities whose SSM emissions violate the Clean Air Act standards. In 2015, the EPA found that the SSM provisions 
+included in 
+the s
+tate 
+implementation plan
+s
+ 
+for Texas
+ 
+and 35 other states 
+
+
+ 
+to meet 
+Clean Air Act requirements 
+(
+State Implementation Plans: Response to Petition for Rulemaking
+, 80 Fed. Reg.
+ 
+33840, 
+33845 (June 12, 2015)). However, in April 2019,
+ 
+EPA Region 6 proposed to deviate f
+
+allow Texas to 
+maintain its existing SSM provisions. 
+As of October 2019, t
+he EPA 
+was revising its 
+SSM policy.
+ 
+ 
+ 
+ 
+ 
+Top to bottom:
+ 
+TAGA bus
+.
+ 
+ASPECT aircraft. 
+ 
+(EPA photo
+s
+)
+ 
+TCEQ air monitor in Houston. 
+(OIG photo)
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+11
+ 
+ 
+Although 
+the 
+SLAMS 
+can provide useful air quality information during or after an 
+emergency, these 
+fixe
+d, stationary 
+networks were not specifically designed for 
+that 
+purpose
+ 
+and may not be able to withstand emergency conditions
+. An 
+emergency response may 
+therefore 
+require portable, remote sensing or other 
+monitoring techniques to obtain air quality data
+, es
+pecially
+ 
+for 
+those 
+locations and 
+pollutants not regularly monit
+ored by existing networks. Existing 
+technologies
+
+such as 
+the 
+
+Airborne Spectral Photometric Environmental Collection 
+Technology (ASPECT
+) 
+and 
+the 
+
+Trace Atmospheric Gas Analyzer 
+(TAGA)
+
+provide 
+alternative 
+solutions to this issue by either analyzing remote 
+infrared and photographic imagery or by directly collecting pollutant 
+concentrations using gas chromatography. 
+ 
+ 
+After 
+Hurricane Harvey
+, the EPA and the 
+c
+ity 
+of Houston used a variety
+ 
+of 
+temporary monitoring methods to capture conditions around industrial sites. 
+These efforts included monitoring conditions next to industrial 
+fenceline
+s with 
+handheld instruments
+,
+ 
+such as toxic vapor analyzers
+,
+ 
+summa canisters
+,
+ 
+o
+ptical gas 
+imaging camera
+s and portable multi
+-
+gas monitors. 
+In
+ 
+addition, 
+from
+ 
+August
+ 
+31
+ 
+through 
+September 11, 2017, 
+t
+he EPA conducted 
+flyovers of facilities with 
+the 
+ASPECT plane
+, 
+screening 
+pollutant plumes for potential hazardous 
+emissions 
+near 
+high priority industrial targets. 
+T
+he 
+a
+gency 
+also drove a 
+TAGA 
+bus throughout the impacted region 
+from 
+September 6
+ 
+through 
+20, 2017. 
+Additional air 
+monitoring was conducted 
+using 
+portable
+ 
+instruments 
+by a 
+firm under contract to the Environment
+al
+ 
+Defen
+se 
+Fund
+, which is
+ 
+a nongovernmental orga
+nization
+. 
+Although t
+his private
+ 
+monitoring was not conducted at 
+the request of the EPA or state and local agencies
+, 
+the 
+results 
+were 
+made available to the EPA and 
+the 
+TCEQ.
+ 
+ 
+In a
+ 
+September 
+8
+, 
+2017
+,
+ 
+press release
+,
+ 
+the EPA and 
+the 
+TCEQ 
+informed
+ 
+Houston commu
+nities that available 
+data 
+collected around the Valero facility 
+indicated that 
+local residents should not be concerned about air 
+quality issues related to the effects of the storm. The 
+EPA issued s
+ix press releases related to fuel waivers, 
+four related to 
+water or 
+S
+uperfund 
+issues
+,
+ 
+and six that 
+specifically addressed 
+air toxic exposure 
+concerns 
+related to 
+an 
+explosion and fire
+s at the Arkema plant in 
+Top: 
+Valero facility fencing displaying 
+community banner.
+ 
+Bottom
+:
+ 
+C
+ommunity park 
+and hous
+ing
+ 
+adjacent to 
+Valero facility
+ 
+in th
+e 
+background. 
+(OIG
+ 
+photo
+s
+)
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+12
+ 
+Crosby, Texas
+.
+9
+ 
+T
+he 
+six press releases related to Arkema, 
+some of 
+which were 
+issued 
+joint
+ly
+ 
+with the 
+TCEQ
+,
+ 
+i
+nformed members of
+ 
+the public 
+about 
+the fire and 
+chemical release
+;
+ 
+assured them that 
+the 
+TCEQ
+ 
+and 
+the 
+EPA
+ 
+were monitoring the 
+smoke and air quality
+;
+ 
+and advised 
+them 
+to limit their exposure by staying 
+indoors
+, keeping their 
+doors and windows closed
+, and co
+ntinually running their 
+air conditioner
+s
+. On 
+September
+ 
+1, 2017, an EPA press release stated that neither 
+aerial surveillance nor ground
+-
+
+
+ 
+ 
+Responsible 
+Office
+s
+ 
+ 
+
+Emergency Management, de
+velops and implements regulations related to 
+
+response effort
+s
+. The Office o
+f Emergency Management also maintains valuable 
+air quality assets that can be used during emergencies.
+ 
+ 
+EPA 
+Region 6
+ 
+worked directly with the 
+TCEQ 
+and other 
+government and 
+nongovernmental 
+stakeholders in the overall emergency response effort and, 
+specifica
+lly, the air monitoring response effort.
+ 
+ 
+ 
+The EPA
+
+ 
+Office of Public Affairs within the Office of the A
+dministrator
+ 
+is 
+responsible for 
+
+response activities.
+ 
+ 
+Scope and Methodology 
+ 
+ 
+We conducted our 
+audit from August 2018 through 
+July 
+2019. We conducted this 
+audit in accordance with generally accepted 
+government auditing standards. 
+Those standards require that we plan and perform the audit to obtain sufficient, 
+appropriate evidence to provide a reason
+able basis for our findings and 
+conclusions based on our objective
+s
+. We believe that the evidence obtain
+ed 
+provides a reasonable basis for our findings and conclusions based on our 
+objective
+s
+. 
+ 
+ 
+We encountered an impediment to obtaining all the desired inf
+ormation to 
+complete our audit, as described below. We were still able to obtain enough 
+information to a
+nswer our objective
+s
+, although this impediment impacted our 
+                                        
+        
+ 
+9
+ 
+The Arkema plant manufactures organic peroxides. Due to extensive flooding from 
+Hurricane Harvey, the plant 
+lost po
+wer, backup power and critical organic peroxide refrigeration systems. On August 31, 2017, organic peroxide 
+products stored inside a refrigerated trailer decomposed, causing the peroxides and the trailer to burn. After th
+e 
+vapor from the decomposing produc
+ts traveled across a public highway adjacent to the plant, 21 people sought 
+medical attention from exposure to the fumes. Over the next several days, a second fire and a controlled burn 
+consumed eight more trailers holdin
+
+de products. During these three fires, over 
+350,000 pounds of organic peroxide combusted, and more than 200 residents living within 1.5 miles of the facility 
+evacuated the area and could not return home for a week. A 
+U.S.
+ 
+Chemical Safety 
+and Hazard Investi
+gation 
+Board 
+report (No. 
+2017
+-
+08
+-
+I
+-
+TX
+), issued May 2018, provides more details on the Arkema explosion and fires.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+13
+ 
+ability to analyze all air quality data and to definitively determine the rationale for 
+cert
+ain decisions. We believe that the evidence obtained provides a reasonable 
+basis for our findings and co
+nclusions based on our audit objective
+s
+.
+ 
+ 
+
+reviewed the following statutes, poli
+cies
+,
+ 
+guidance
+ 
+and documents
+:
+ 
+ 
+
+ 
+The 
+Clean Air Act
+, as amended.
+ 
+
+ 
+The Stafford Act
+.
+ 
+
+ 
+The Emergency 
+Planning and Community Right
+-
+to
+-
+Know Act
+.
+ 
+
+ 
+The National Response Framework
+.
+ 
+
+ 
+The National Incident Management System
+.
+ 
+
+ 
+EPA Order 2071
+, 
+National Approach to Response
+.
+ 
+
+ 
+EPA Order 2010
+, 
+Crisis Communication Plan
+.
+ 
+
+ 
+EPA press releases
+.
+ 
+
+ 
+EPA internal 
+documents related to emergency response
+.
+ 
+ 
+We also conducted interviews with staff from EPA Region 6, 
+the 
+Office of Land 
+and Emergency Management, 
+the 
+Office of Air and Radiation, 
+and 
+the 
+Office of 
+Research and Development. We discussed emergency response a
+ctivities at the 
+county and city levels with 
+officials
+ 
+representing 
+Harris County and the 
+c
+ity of 
+Houston. Finally, we discussed 
+the 
+EPA, state and local emergency response
+s
+ 
+with 
+nongovernmental organizations and community members.
+ 
+ 
+To understand how and w
+hen air monitoring occurred, we collected and analyzed 
+air toxic
+ 
+data from several sources, including 
+the 
+
+,
+ 
+TAGA bus
+ 
+and 
+ASPECT aircraft
+;
+ 
+the 
+
+ission Event Report 
+database
+;
+ 
+the 
+c
+ity of Houston
+;
+ 
+and Entanglement
+ 
+Technolog
+ies
+, a private company 
+under contract with the Environmental Defense Fund
+. We compared th
+ese
+ 
+data to 
+the
+ 
+
+ 
+short
+-
+term 
+AMCVs and 
+the 
+
+ 
+Levels
+ 
+(AEG
+Ls) 
+to identify any potential health impacts of Harvey
+-
+related air 
+emissions.
+10
+ 
+We also compared the location, timing and duration of the 
+monitoring with reported excess emissions 
+incidents 
+to identify any potential data 
+gaps in areas of elevated air emissi
+on
+s
+.
+ 
+ 
+After the hurricane, the EPA
+
+ 
+Office of Emergency Management
+ 
+and
+ 
+Region 6 
+developed after
+-
+action reports based on online surveys, written questionnaires and 
+interviews with EPA response personnel. These reports identif
+ied
+ 
+areas of 
+strength
+,
+ 
+lessons 
+learned and recommendations to be used in future 
+EPA 
+responses. 
+We 
+reviewed these documents and developed a
+n OIG
+ 
+survey
+ 
+to assess 
+                                        
+        
+ 
+10
+ 
+The 
+TCEQ maintains two sets of AMCVs
+: short
+-
+term comparison values and long
+-
+term comparison values. Short
+-
+term AMCVs are based on acute 
+(short
+-
+term) 
+health effects data and are used to evaluate air quality averaged over 
+short time frames (e.g., 30 minutes to 1
+ 
+hour), while long
+-
+term AMCVs ar
+e based on chronic health effects data and 
+
+from once
+-
+in
+-
+a
+-
+lifetime, or rare, exposure to airborne chemicals. Th
+e AEGLs are generally used by em
+ergency 
+responders when dealing with chemical spills or other catastrophic exposures.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+14
+ 
+
+to Hurricane Harvey. 
+This 
+survey
+ 
+was designed 
+to determine 
+whether 
+the 
+
+on
+-
+the
+-
+ground response and Harvey
+-
+re
+lated EPA communications were effective
+. 
+We distributed 
+the survey 
+to 
+59 EPA staff who served as community liaisons 
+during the response. We received 44 responses and analyzed the data.
+ 
+ 
+Imp
+ediment to Obtaining Information 
+ 
+ 
+TCEQ staff, managers and officials 
+declined to meet with us to 
+discuss
+ 
+their 
+response to the hurricane and their reasoning for various decisions or actions 
+described in this report. We provided 
+the 
+TCEQ with an initial
+ 
+li
+st of questions 
+before 
+scheduling a meeting at TCEQ offices in September 2018. 
+The 
+TCEQ 
+cancelled th
+e
+ 
+meeting 
+the day
+ 
+before
+ 
+we were scheduled to meet
+ 
+due to an 
+impending tropical storm
+. 
+Also, the 
+TCEQ declined to meet with us during a 
+subsequent week w
+hen
+ 
+we 
+visited the Houston area to meet with 
+c
+ity officials and 
+community representatives from impacted areas. Further, despite several 
+conversations to arrange for written answers to our initial list of questions, we 
+never received a response from 
+the 
+TCE
+Q. 
+Subsequent to our unsuccessful 
+attempts to arrange meetings 
+and obtain information from 
+the 
+TCEQ
+,
+ 
+we learned 
+that 
+the 
+TCEQ collected 
+air monitoring data 
+from 
+helicopter 
+flyovers 
+following 
+Hurricane Harvey
+. 
+We were unable to
+ 
+review 
+those 
+data as 
+a 
+part of t
+his audit.
+ 
+However, we believe that the evidence we obtained provides a reasonable basis 
+for our findings and conclusions based on our audit objective
+s
+.
+ 
+ 
+Prior 
+OIG 
+Report
+s
+ 
+ 
+EPA OIG Report No. 
+2006
+-
+P
+-
+00033
+, 
+
+Hurricane Katrina
+, issued Sept
+ember
+ 
+14, 2006
+,
+ 
+identif
+ied
+ 
+deficiencies 
+in 
+
+coordination with 
+s
+tate and local officials
+, as well as
+ 
+in 
+the 
+
+use
+ 
+of 
+its 
+floodwater database. The OIG recommended, among other 
+things
+, interagency 
+meetings and training for EPA Region 6 and 
+s
+tate staff on the Incident Command 
+System and the ESF
+s
+. The 
+a
+
+implemen
+ted appropria
+te corrective actions.
+ 
+ 
+EPA OIG Report No. 
+19
+-
+P
+-
+0236
+,
+ 
+Region 6 Quickly Assessed Water Infrastructure 
+after H
+urricane Harv
+ey but Can Improve Emergency Outreach to Disadvantaged 
+Communities
+, issued July 16, 2019, found that EPA Region 6
+ 
+conducted
+ 
+extensive 
+preparation activities and 
+forged 
+close working relationships with state emergency 
+response partners
+ 
+well 
+bef
+ore Hurricane
+ 
+Harvey made landfall
+. This
+ 
+preparation
+ 
+enabled Region 6 to protect human health and water sector resources as part of its 
+Hurricane Harvey mission assignment. The OIG identified one area for 
+improvement
+
+staff outreach to residents of vulnerab
+le communitie
+s
+
+that would 
+
+recommended, among other things, that the E
+PA Region 6 Regional Administrator 
+include environmental justice outreach in planning and pre
+-
+landfall preparation 
+ex
+ercises by ga
+thering data to determine the population, unique needs and 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+15
+ 
+challenges of vulnerable communities.
+ 
+
+recommendations and
+, as of October 2019,
+ 
+was 
+in the process of implementing 
+appropriate corrective actions.
+ 
+ 
+EPA 
+OIG Report No
+. 
+20
+-
+P
+-
+0010
+, 
+EPA Adequately Managed Hurricane Harvey 
+Funding Received from FEMA
+, issued on October 23, 2019, found that the EPA 
+effecti
+vely managed 
+its Hurricane Harvey Disaster Relief Funding. The OIG did 
+
+acquisition processes. The OIG noted that the agency had already identified 
+strengths and areas for i
+mprovement an
+d had implemented corrective actions in 
+
+regarding its emergency responses. 
+T
+he OIG made no recommendations to the 
+agency
+ 
+in this audit
+.
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+16
+ 
+Chapter 2
+ 
+Better Planning 
+W
+as Needed to Coordi
+nate 
+Air
+ 
+Quality Monitoring Efforts
+ 
+ 
+T
+he EPA
+, the state of Texas and the city of Houston 
+lacked guidance and 
+procedures for conducting air quality monitoring in response to an emergency
+. As 
+a result, their 
+ability to 
+as
+sess 
+and communicate air quality
+-
+rel
+ated health risks 
+to 
+the public 
+during and after the 
+Hurricane Harvey 
+emergency response
+ 
+was 
+limited
+. 
+T
+he nature of an emergency response requires flexibility and cannot be 
+predetermined
+.
+ 
+H
+owever
+, EPA guidance 
+would help
+ 
+future efforts address 
+when
+,
+ 
+where 
+and how long 
+to monitor
+ 
+air quality; 
+the minimum quality assurance 
+needed to obtain data 
+that can be 
+use
+d
+ 
+to 
+assess 
+health risk
+s; and other issues 
+related 
+to 
+air monitoring
+. Although the 
+data from Hurricane Harvey 
+monito
+ring 
+efforts did not exceed the heal
+th
+-
+based
+ 
+thresholds 
+used during the response
+ 
+(
+e
+.
+g.
+, 
+
+AMCV
+s)
+, pre
+-
+emergency planning and coordination by 
+the 
+EPA and 
+the 
+TCEQ could lead to more effective monitoring and communication during 
+future 
+emergency responses.
+ 
+ 
+Monitoring Not Conducted Du
+ring Most 
+Air Toxic 
+Emission 
+Incidents
+ 
+ 
+In response to the Hurricane Harvey disaster, 
+a 
+nongovernmental organization
+, 
+local governmental entities and the EPA 
+collected 
+air monitoring data with 
+four
+ 
+distinct 
+mobile
+ 
+monitoring efforts 
+over a 
+span
+ 
+of
+ 
+21
+ 
+days 
+(August 31
+
+September
+ 
+20,
+ 
+2017)
+.
+ 
+Despite the broad range of monitoring efforts, this 
+monitoring:
+ 
+ 
+
+ 
+Did not coincide with 
+most
+ 
+industry
+-
+reported 
+air toxic 
+emission 
+incidents 
+occurring 
+during 
+the
+ 
+disaster
+.
+ 
+ 
+
+ 
+S
+ometimes us
+ed
+ 
+ineffective 
+techniques
+ 
+to collect dat
+a
+. For example, a
+ 
+nongovernmental organization
+ 
+collected samples over a 
+duration
+ 
+too short to 
+analyze whether the concentrations were harmful to 
+human health. 
+ 
+ 
+Over half of all known 
+air toxic
+ 
+emission 
+incidents 
+began 
+when 
+no monitors
+ 
+were operating. 
+Comp
+anies in the Houston area reported o
+ver 
+319
+ 
+tons
+ 
+of 
+air toxic
+ 
+emissions 
+due to Harvey
+-
+related SSM activities. However, 
+when these 
+facilities were shutting down and when the first 
+malfunctions
+ 
+and air toxic 
+emissions 
+occurred,
+ 
+most 
+
+monitors
+ 
+in
+ 
+
+monitoring network 
+had been turned off and 
+secu
+red 
+to protect them from 
+storm
+ 
+damage
+. 
+ 
+Video 
+showing 
+air toxic releases and monitor
+ing
+ 
+methods used over time.
+ 
+(OIG
+ 
+video)
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+17
+ 
+ 
+Figure 
+6
+ 
+illustrate
+s
+ 
+the different air monitoring efforts 
+during 
+the 
+Hurricane 
+Harvey 
+emergency response,
+11
+ 
+as well as the asset owner
+/operator
+.
+ 
+Our 
+compa
+
+f self
+-
+reported SSM emission data revealed that most air toxic 
+emission
+ 
+incidents 
+occurred from 
+August
+ 
+26 
+t
+hrough
+ 
+31, 2017
+
+after the TCEQ disabled its SLAMS
+ 
+in the Houston area
+ 
+and before the EP
+A 
+began collecting data with its
+ 
+ASPECT 
+flight response. Many 
+of the air toxic 
+emission
+s during the peak incident period 
+were from storage tank leaks due to excessive rainfall. However, since these 
+reported emissions occurred before temporary monitoring ha
+d begun or the 
+SLAMS 
+was 
+redeployed, we were unable to assess their impact on air quali
+ty. 
+ 
+ 
+Figure 
+6
+: Monitoring 
+e
+fforts 
+and air toxic 
+emission
+ 
+incidents during the Hurricane Harvey response
+ 
+ 
+Source: OIG 
+a
+nalysis
+.
+ 
+ 
+Note
+s
+:
+ 
+This chart 
+includes only
+ 
+SLAMS m
+onitors capable of detecting air toxics
+, not NAAQS monitors
+. 
+ 
+ASPECT
+ 
+operation 
+dates are based on actual data submitted to the OIG.
+ 
+ 
+An e
+xample
+ 
+of an air toxic 
+emission
+ 
+incident during the peak incident period 
+wa
+s
+ 
+
+. This i
+ncident
+
+which 
+released an estimated 
+12.5 tons of
+ 
+air toxics
+, 
+including benzene, hexane and toluene
+
+began on 
+August
+ 
+27, 2017
+,
+ 
+when all 
+SLAMS 
+monitors were offline
+ 
+and before emergency 
+monitoring had begun
+. The Arkema Crosby Plant explosion, another widely
+ 
+p
+ublicized event, occurred 
+on 
+August 3
+1, 2017
+,
+ 
+before 
+the 
+
+s TAGA bus or 
+the 
+city 
+
+Mobile Ambient Air Monitoring Laboratory 
+had been 
+deployed. At the time of the explosion
+,
+ 
+only 
+the 
+ASPECT 
+was
+ 
+operational
+. 
+ 
+ 
+                                        
+        
+ 
+11
+ 
+Although NAAQS monitors were also offline during this time, given our audit focus on air toxics, we did not 
+extensively assess criteria 
+air 
+pollutants. However,
+ 
+accordi
+ng to an Environmental Integrity Project report,
+ 
+based on 
+self
+-
+reported data in the State of Texas Environmental Electronic Reporting System, ozone precursor emissions were 
+high along the Gulf Coast following Hurricane Harve
+y. 
+Per the report, f
+rom August 2
+3 t
+hrough
+ 
+September
+ 
+1, 2017, 
+approximately 3.9
+ 
+million pounds of volatile organic compounds were released into the Houston region by surrounding 
+industries
+
+itrogen oxides totaled about 154,000 pounds during the same
+ 
+period in the Houston region.
+
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+18
+ 
+As demonstrated in 
+Table 
+1
+, c
+ommun
+ities located close to industries faced an 
+increased 
+likelihood of exposure to SSM emissions during the emergency
+ 
+response 
+period
+. For example, 38 percent of all known 
+air toxic
+ 
+emission
+ 
+incidents 
+due to
+ 
+Hurricane Harvey that were 
+reported 
+by 
+Houston
+-
+area 
+industr
+ies
+ 
+occurred fewer 
+than 
+4 
+miles from the 
+Harrisburg/Manchester neighborhood
+ 
+in East Houston
+. 
+These incidents accounted for 
+over 93
+ 
+percent (a total of nearly 
+300
+ 
+tons) of all 
+known 
+air toxic
+ 
+emission
+s 
+occurring in Harris County during the disaster, 
+despite 
+this 
+geographical 
+region accounting for 
+only 
+4.5
+ 
+percent of the 
+c
+ounty. 
+ 
+ 
+Table 
+1
+: Proximity of 
+air toxic 
+emission
+s 
+to Harrisburg/Manchester
+, August 20
+
+September 
+2
+0
+, 2017
+ 
+Category
+ 
+Value
+ 
+Tons
+ 
+released 
+in 
+a 
+4
+-
+m
+ile 
+r
+adius
+ 
+of 
+Harrisburg/Manchester
+ 
+298
+.71
+ 
+Total 
+t
+ons 
+released 
+in Harris County
+ 
+319.
+97
+ 
+Percent of 
+Harris County 
+e
+missions 
+released 
+in
+ 
+a
+ 
+4
+-
+m
+ile 
+r
+adius
+ 
+of 
+Harrisburg/Manchester
+ 
+9
+3
+%
+ 
+Source: OIG 
+a
+nalysis
+ 
+of industry data reported to TCEQ
+.
+ 
+ 
+
+he 
+National Emission 
+Standard
+ 
+for Hazardous Air Pollutants 
+for 
+petroleum
+ 
+refineries to require 
+that, 
+starting in January 201
+9
+, 
+these facilities 
+report their monitoring data
+ 
+for benzene 
+concentrations 
+at the perimeters of their facilities.
+12
+ 
+Th
+e
+ 
+monitoring
+ 
+a
+nd reporting
+ 
+requirement
+s
+ 
+w
+ere
+ 
+not yet in place when Hurricane Harvey hit Houston. 
+However, the monitors 
+used to collect 
+the 
+benzene data 
+could provide useful 
+information for assessing air quality imp
+acts related to future emergency 
+responses in the Housto
+n area and other industrialized locations. These monitors 
+are 
+also 
+relatively cost
+-
+effective and replaceable if damaged, unlike the 
+
+SLAMS monitors. 
+These low
+-
+cost sensors could therefore be use
+d in 
+fenceline
+ 
+communities during emergency situations
+.
+ 
+ 
+S
+ome Data 
+Considered 
+Unusable
+ 
+for 
+Health
+ 
+Assessments
+ 
+Due to
+ 
+Monitoring 
+Duration
+ 
+ 
+Governmental and nongovernmental o
+rganizations 
+collected data 
+to 
+evaluate
+ 
+the 
+
+ 
+air quality after the 
+hurricane
+ 
+by comparing 
+these data 
+to 
+existing 
+health
+-
+based
+ 
+air qu
+ality thresholds
+. The results of these comparisons were used
+ 
+to
+ 
+assess 
+whether the air quality was likely to result in adverse human health effects. 
+However, due to 
+quality control
+-
+related re
+asons
+, 
+the 
+TCEQ did not use 
+much of 
+th
+e
+ 
+data 
+collected 
+to make he
+alth
+-
+based 
+assessments
+. 
+Table 
+2 
+shows which d
+ata 
+collected 
+could 
+not 
+be used to 
+mak
+e
+ 
+health assessments related to 
+local 
+air quality.
+ 
+ 
+                                        
+        
+ 
+12
+ 
+83 Fed. Reg. 60696, November 26, 2018
+.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+19
+ 
+Table 
+2
+: 
+Usability of data collected d
+uring 
+Hurricane Harvey
+ 
+for 
+h
+ealth
+-
+based assessments
+ 
+ 
+Monitoring 
+asset
+ 
+Asset 
+o
+wner
+ 
+M
+onitoring 
+type
+ 
+Data u
+s
+able
+?
+ 
+ 
+TAGA
+ 
+EPA
+ 
+Temporary 
+m
+obile 
+m
+onitor
+ 
+No
+ 
+ 
+ASPECT
+ 
+EPA
+ 
+ 
+Temporary 
+m
+obile 
+m
+onitor
+ 
+No
+ 
+ 
+SLAMS 
+ 
+TCEQ
+ 
+Permanent 
+s
+tationary 
+m
+onitors
+ 
+Yes
+ 
+ 
+Mobile Ambient Air 
+Monitoring Laboratory 
+ 
+City of Houston
+ 
+Temporary 
+m
+obile 
+m
+onitor
+ 
+No
+ 
+a
+ 
+ 
+Portabl
+e
+ 
+m
+onitoring
+ 
+ 
+Entanglement 
+Technologies
+ 
+Temporary 
+m
+obile 
+m
+onitor
+ 
+No
+ 
+b
+ 
+Source: OIG 
+a
+nalysis
+.
+ 
+Note: The colors differentiating the assets in this table 
+correlate with 
+the colors used in Figure 6, which illustrates 
+when the monitoring efforts 
+using these ass
+ets 
+were conducted.
+ 
+a
+ 
+
+ 
+frames were sufficiently long enough to 
+produce data useable for health
+-
+based
+ 
+assessments
+; however, 
+the 
+TCEQ 
+disqualified the data because the 
+onboard 
+g
+lobal 
+p
+ositioning 
+s
+ystem 
+failed. 
+ 
+b
+ 
+ 
+Some monitor
+ing time
+ 
+frames were sufficiently long enough to 
+produc
+e data useable for health
+-
+based
+ 
+assessments
+; however, 
+the 
+TCEQ determined 
+that 
+most time
+ 
+frames
+ 
+were too short
+. 
+T
+he monitor 
+must be 
+active for at least 30
+ 
+minutes to 1
+ 
+hour
+ 
+to be usable for health
+-
+base
+d assessments
+.
+ 
+ 
+Although
+ 
+
+elevated air toxic concentrations, 
+the 
+data 
+collected by this method were 
+also 
+compared against
+ 
+
+short
+-
+term
+ 
+AMCV thresholds
+ 
+(described in 
+Chapter
+ 
+1)
+ 
+to 
+mak
+e
+ 
+he
+alth
+-
+based 
+assessments
+.
+ 
+Although 
+the 
+EPA
+,
+ 
+the 
+TCEQ
+ 
+and 
+the 
+city of Houston
+ 
+assessed 
+that the data indicated there was no concern
+
+and 
+subsequently issued a 
+press release 
+communicating this 
+assessment 
+to 
+the 
+public
+
+we found that 
+
+ 
+fram
+e 
+was
+ 
+too s
+hort to generate 
+data that c
+ould
+ 
+accurately assess airborne 
+toxin concentrations 
+for
+ 
+making health
+-
+based 
+assessments
+.
+13
+ 
+In addition
+, we found that the data collected by the TAGA 
+operation 
+w
+ere
+ 
+not timely.
+ 
+Before t
+he TAGA buses 
+were 
+activated by t
+he 
+
+E
+mergency 
+O
+perations 
+C
+enter
+ 
+for Hurricane Harvey, they were parked 
+in 
+Las
+ 
+Vegas, Nevada
+,
+ 
+and Research Triangle Park, North Carolina. The
+ir
+ 
+transit to 
+the 
+Houston area after they were 
+activat
+ed
+ 
+impaired the timeliness of the data 
+coll
+ection. 
+ 
+ 
+Enta
+nglement Technologies
+ 
+supported the assessment of air quality following 
+
+portable
+ 
+monitor
+ 
+from 
+September 4
+ 
+through 
+9, 2017. Th
+ese
+ 
+data 
+were 
+submitted to 
+the 
+TCEQ and the 
+c
+ity of Houston 
+for review
+. H
+oweve
+r, 
+the 
+TCEQ 
+co
+ncluded that 
+the data were 
+unsuitable for 
+making health
+-
+based 
+assessments 
+because 
+most 
+air samples were collected over a 
+period lasting fewer than 
+5 
+minutes
+. 
+The EPA also conducted handheld 
+monitoring in Manchester from September 3
+ 
+through 
+8, 2017. 
+However
+, t
+h
+is
+ 
+handheld 
+monitoring 
+collected data
+ 
+on only 
+one 
+air toxic 
+(benzene), and no 
+readings exceeded the 
+method detection limit 
+(effectively 
+0
+ 
+parts per million 
+[
+ppm
+]
+). 
+ 
+ 
+ASPECT data 
+are
+ 
+intended
+ 
+only
+ 
+for screening purposes
+, as
+ 
+this 
+monitoring 
+method (i.e.,
+ 
+remote sensing) does not provide sufficient
+ly
+ 
+reliabl
+e 
+data 
+for 
+health
+-
+                                        
+        
+ 
+13
+ 
+Short
+-
+term 
+AMCVs require monitoring data to be averaged for a 30
+-
+minute to 1
+-
+hour period prior to comparing 
+the data to the air quality thresholds. The TAGA monitoring method averag
+es data for only 
+1
+
+2 seconds.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+20
+ 
+based
+ 
+assessments
+. As a part of this screening process, 
+the 
+EPA dispatched 
+follow
+-
+up ground monitoring units and established evacuation zones as 
+necessary
+ 
+to protect human health when 
+elevated pollutant concentrations were 
+detected. This 
+follow
+-
+up 
+occurred, for example, on September 2, 2017
+,
+ 
+when 
+the 
+ASPECT detected benzoyl peroxide concentrations above 
+the 
+
+method 
+detection limit
+.
+ 
+ 
+EPA Lac
+ked G
+uidance 
+for Emergency 
+Air Quality 
+Monitoring 
+Efforts 
+ 
+ 
+Emergency air monitoring efforts were initiated without a plan to help guide and 
+coordinate 
+governmental and nongovernmental 
+efforts, including
+ 
+the minimum 
+level of quality assurance needed to 
+obtain data suitable for health
+-
+based
+ 
+asse
+ssments 
+and how to 
+effectively 
+share data among all interested parties. 
+ 
+ 
+While many entities collected air monitoring data in the weeks following 
+H
+urricane
+ 
+Harvey
+
+rformed in a 
+manner that would provide a h
+olistic picture of air quality in the Houston region
+:
+ 
+ 
+1.
+ 
+D
+espite 
+efforts by 
+Entanglement Technologies and the 
+c
+ity of Houston to 
+share information with 
+the 
+TCEQ, the 
+TCEQ 
+did not forward these raw 
+datasets to 
+the 
+EPA
+. 
+We also found 
+no evidence that
+ 
+the 
+EPA 
+r
+equested
+ 
+access to th
+ese
+ 
+data
+ 
+or that 
+the
+se
+ 
+data 
+were 
+shared with the public. 
+ 
+ 
+2.
+ 
+The 
+raw data collected by the EPA via 
+the 
+TAGA 
+w
+ere 
+stored in the 
+
+Environmental Response Team Information Manag
+e
+ment 
+System, 
+a data repository that can only be accesse
+d by 
+the 
+EPA 
+team 
+members
+. 
+ 
+ 
+3.
+ 
+T
+
+ere
+ 
+retained in the Environmental Unit 
+of 
+the 
+
+the 
+air toxic
+ 
+concentration values stripped from the dataset. 
+ 
+ 
+4.
+ 
+Although 
+the 
+EPA presented 
+via press release
+s
+ 
+that
+ 
+some preliminary 
+analyses of data 
+were 
+received, 
+the 
+raw data w
+ere
+ 
+never 
+publicly 
+distributed. 
+ 
+ 
+Ultimately, this 
+isolation
+ 
+
+
+perform monitoring data comparisons and mak
+e
+ 
+informed and comprehen
+sive 
+
+ 
+ 
+Even if these monitoring datasets were housed in a central database 
+that was 
+accessible to all inter
+ested parties, the unique formatting of each dataset would 
+have presented substantial challeng
+es in 
+terms of 
+data 
+interpret
+ation
+. For example, 
+the 
+
+separate 
+Excel 
+s
+preadsheets. Furthermore, we found 
+that 
+concentration values
+ 
+were 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+21
+ 
+inconsistently expressed using a range of units, such as
+ 
+parts per milli
+on
+, parts per 
+billion, milligrams per cubic meter and micrograms per cubic meter.
+ 
+ 
+ 
+Although EPA Region 6 and the TCEQ collaborate annually to plan and train for 
+hurricanes, 
+t
+he EPA lack
+ed
+ 
+both internal and external guidance on 
+how to 
+appropriate
+ly
+ 
+collabo
+rat
+e
+ 
+with others 
+to 
+collect, assess and stor
+e
+ 
+air quality data 
+during extreme weathe
+r events or other emergency situations. A focus on air 
+quality monitoring 
+when planning for 
+disaster
+s
+ 
+in 
+industrial cities like Houston 
+would 
+facilitate 
+the 
+timely, proper 
+and collaborative 
+use of alternative monitoring 
+devices.
+ 
+ 
+Conclusion
+ 
+ 
+
+monitoring
+ 
+guidance and
+ 
+various 
+technological
+ 
+limitations prevented 
+nongovernmental organizations
+, local governmental entities 
+and the 
+EPA 
+itself 
+from monitori
+ng air 
+quality during the peak period 
+of 
+excess 
+emissions
+ 
+due to Hurri
+cane Harvey
+. 
+Further, 
+the 
+monitoring 
+data 
+that were 
+collected 
+were 
+not 
+always 
+useful for 
+assessing 
+potential impacts on human health
+. 
+Additionally,
+ 
+inconsistent 
+formatting and 
+isolated 
+s
+torage 
+of 
+air monitoring 
+data 
+prevented 
+the EPA
+,
+ 
+the public 
+and other stakeholders from gaining 
+a holistic 
+understanding of air quality.
+ 
+ 
+ 
+The EPA could better plan and coordinate f
+uture emergency response efforts 
+with 
+governmental and nongovernmental orga
+nizations 
+to 
+help 
+ensure that 
+the air 
+quality in 
+potentially high
+-
+risk areas 
+is 
+monitored during periods of elevated air 
+toxic 
+emission
+s
+. During the Hurricane Harvey response, 
+high
+-
+risk 
+areas were 
+predominantly located 
+adjacent to or near large industrial 
+facilities. Increased 
+planning and coordination could provide these communities with 
+timely 
+information about their 
+air quality
+ 
+during 
+an
+ 
+emergency
+,
+ 
+enabl
+ing
+ 
+them to take 
+precautions to reduce their exposure to air toxi
+cs.
+ 
+ 
+Recommendations
+ 
+ 
+We recommend 
+th
+at 
+the 
+Assistant
+ 
+Administrator for 
+Land and 
+Emergency 
+Management: 
+ 
+ 
+1.
+ 
+D
+evelop general 
+guidance 
+to 
+help 
+state and local agencies and external 
+stakeholders develop air monitoring plans 
+for 
+emergenc
+y situations
+ 
+in 
+heavily industrialized areas
+ 
+so 
+that 
+usable dat
+a 
+are 
+collected in 
+target
+ed
+ 
+areas of concern
+.
+ 
+ 
+2.
+ 
+D
+evelop
+, 
+in coordination with the Associate 
+Administrator for Public 
+Affairs,
+ 
+a plan for providing public access to air monitoring data collected 
+during an emergency response.
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+22
+ 
+3.
+ 
+C
+oordinate with 
+the Office of Re
+search and Development 
+and 
+the Office 
+of Air Quality Planning and Standards within the Offi
+ce of Air 
+to assess 
+the availability and use of remote and portable monitoring methods to 
+monitor air toxics 
+when 
+stationary
+ 
+monitoring 
+methods
+ 
+are not 
+available.
+ 
+ 
+ 
+Agency Response and OIG Evaluation
+ 
+ 
+The agency disagreed with our draft report 
+recommendations for this chapter
+. The 
+agency
+ 
+noted that
+ 
+each emergency is unique and that 
+developing 
+guidance that 
+would cover all scenarios would be challenging. Further, 
+per t
+
+state and local governments are primarily 
+responsible for emergency response 
+efforts
+,
+ 
+with 
+the 
+EPA
+ 
+regions assisting when requested. 
+The 
+agency said 
+that 
+the 
+EPA has developed 
+a variety of tools and procedures
+ 
+for emergency assistance
+. 
+ 
+ 
+Based on discussions
+ 
+with the 
+a
+gency
+ 
+and 
+its 
+response to our
+ 
+draft report, we 
+revised 
+our
+ 
+recommendations for the final report
+ 
+to better clarify 
+the 
+recommendations
+. 
+Recommendations 
+1 through 3 
+are unresolved
+ 
+pending 
+the 
+
+receipt of acceptable 
+cor
+rective action
+ 
+plan
+s
+ 
+and 
+proposed 
+completion dates
+ 
+from the EPA 
+in response t
+o the final report
+.
+ 
+ 
+
+to our draft report 
+and our additional
+ 
+comments are in 
+Appendix A. The agency provided specific suggestions for our consideration, and 
+w
+e revis
+ed
+ 
+the report as appropriate.
+ 
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+23
+ 
+Chapter 3
+ 
+Data Did Not Indicate 
+That Air Toxic Levels Were 
+Exceeded
+, but Health Risk
+s
+ 
+to 
+Fenceline
+ 
+Communities
+ 
+from 
+Emission 
+Spikes 
+Are 
+Unknown
+ 
+ 
+Although
+ 
+available monitoring data did not indicate 
+that 
+the levels of 
+air toxic
+s
+ 
+in 
+the Houston area during the Hurricane Harvey disaster 
+exceed
+ed
+ 
+Texas
+
+ 
+short
+-
+term 
+AMCVs 
+or 
+the 
+EPA
+
+ 
+AEGLs
+,
+14
+ 
+these 
+thresholds 
+do not consider the 
+cumulative impact of 
+being 
+expos
+ed
+ 
+to multiple pollutants. Instead, the 
+thresholds 
+are based on a
+n individua
+l exposed to 
+one 
+specific pollutant
+ 
+(e.g., 
+benzene
+)
+. 
+Further, 
+the 
+EPA
+
+thresholds 
+do not 
+consider 
+chronic exposure that some 
+populations, such as those residing near industrial facilities, may have already 
+experience
+d
+. Consequently, 
+emergency e
+xposure 
+thresholds 
+may not be 
+sufficiently protective 
+of 
+populations already experiencing chronic exposure
+ 
+to 
+multiple 
+air toxics
+.
+ 
+ 
+EPA Used 
+State 
+Thresholds 
+to Assess 
+
+Air Quality
+ 
+ 
+According to EPA 
+staff
+, the 
+a
+gency coordinates with th
+e relevant 
+state 
+when an 
+incident
+ 
+occurs 
+to determine which health
+-
+based thresholds to 
+use when analyzing 
+air monitoring results. 
+A review of i
+nternal 
+agency 
+documents from
+ 
+September 5
+ 
+and 6
+, 2017
+,
+ 
+showed that 
+there was 
+confusion 
+among EPA staff regarding whether 
+to 
+use 
+the 
+
+short
+-
+term 
+AMCVs 
+or other TCEQ 
+thresholds
+. Ultimately, 
+the 
+TCEQ decided 
+that 
+the EPA should use the AMCVs after discussing the issue 
+with the 
+federal 
+a
+gency
+. 
+The 
+TCEQ and 
+the 
+EPA subsequently compared 
+air
+ 
+monitoring 
+data 
+collected 
+from vario
+us handheld monitors, summa canisters
+, 
+ASPECT
+ 
+and the TAGA bus to the AMCVs.
+ 
+The 
+TCEQ also 
+compared
+ 
+data 
+collected by the 
+c
+ity of Houston to the AMCVs
+. None of the data were found to 
+exceed
+ 
+the AMCVs
+. 
+ 
+ 
+Relative to the 
+
+15
+ 
+t
+he
+ 
+
+Level 1 
+AEGL
+ 
+thresholds
+ 
+most closely match the 
+short
+-
+term
+ 
+AMCV
+ 
+thresholds
+, 
+al
+though the 
+differences
+ 
+between these threshold categories 
+are
+ 
+substantial and their underlying 
+purposes are di
+fferent. 
+Short
+-
+term 
+AMCVs 
+were develo
+ped by
+ 
+the 
+TCEQ 
+to 
+                                        
+        
+ 
+14
+ 
+
+he 
+
+-
+term AMCVs are used to 
+
+human healt
+h effects from rare exposure to 
+airborne chemicals and are generally used by emergency responders 
+when dealing with chemical spills or other catastrophic exposures
+.
+ 
+15
+ 
+AEGLs
+, 
+which address the acute (or short
+-
+term) effects of air toxics,
+ 
+are established at three levels, with each level 
+re
+presenting the severity of health impacts. Level 1 is the lowest impact level and represents the airborne
+ 
+concentration above which notable discomfort or irritation could be experienced, but the effects a
+re not disabling and 
+are 
+reversible once exposure st
+ops. Level 2 is the middle impact level and represents the exposure level at which 
+irreversible harm
+;
+ 
+other serious, long
+-
+lasting adverse health effects
+;
+ 
+or an impaired ability to escape are caused. 
+Final
+ly, a Level 3 exposure causes life
+-
+threatening healt
+h effects or death.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+24
+ 
+screen
+ 
+air quality in
+ 
+more general, day
+-
+to
+-
+day situations
+,
+ 
+while AEGLs 
+were 
+developed by the EPA to 
+screen 
+situations involving a once
+-
+in
+-
+a
+-
+lifetime, 
+accidental exposure. As an example of the 
+difference 
+betwee
+n these thresholds, 
+the AEGL Level 1 short
+-
+term (
+30
+ 
+m
+inutes and 60 minutes) thresholds for 
+1,3
+-
+butadiene is 670 ppm versus the
+ 
+short
+-
+term
+ 
+AMCV threshold of 1.7 ppm. 
+Thus, the use of 
+short
+-
+term 
+AMCVs as health
+-
+based thresholds
+ 
+for assessing air 
+quality data
+ 
+after Harvey was more conservative
+
+in other words,
+ 
+p
+rotective of 
+health
+
+than if AEGLs were used. 
+ 
+ 
+However, t
+he
+ 
+use of 
+state
+ 
+thresholds 
+to 
+assess 
+adequate
+ 
+margins of safety
+ 
+could 
+lead the EPA to endorse different conclusions regarding public safety when air 
+quality conditions are similar
+. 
+For example, 
+Figur
+e 
+7 
+shows the differences in 
+common air quality thresholds 
+issued by 
+Texas
+ 
+and
+ 
+California
+.
+ 
+ 
+ 
+Figure 
+7
+: Comparison of Texas 
+and California
+ 
+air quality threshold l
+evels
+ 
+ 
+ 
+Source: OIG 
+a
+nalysis.
+ 
+ 
+This 
+lack of standardization in 
+state 
+air toxic threshold
+s 
+could
+ 
+cause the 
+EPA 
+to 
+provide inconsistent advice as it supports local entities in disasters. For example, 
+
+the 
+EPA 
+could
+ 
+advise local governments 
+in that state 
+to issue a shelter
+-
+in
+-
+place order 
+if monitoring re
+sults show
+ed
+ 
+a 
+benzene
+ 
+concentration of 0.1 ppm. Th
+at same 
+concentration
+, however, would not 
+have triggered 
+any 
+health advisories 
+during
+ 
+the Hurricane Harvey response
+,
+ 
+since 
+the 
+
+short
+-
+term 
+AMCVs
+ 
+have a higher threshold for benzene
+.
+ 
+ 
+Monitoring Thres
+holds 
+Do Not 
+Consider
+ 
+Exposure to 
+Multiple Pollutant
+s
+ 
+ 
+ 
+S
+tudies have 
+shown 
+that 
+fenceline
+ 
+communities 
+are exposed to
+ 
+a heavy daily load 
+of multiple pollutants
+ 
+beyond 
+
+Task Force 
+on Health Effects of Air Pollut
+ion 
+found that the communities in East 
+Houston
+, 
+which includes the Harrisburg/Manchester neighborhood
+,
+ 
+are exposed to 
+more high
+-
+risk pollutants than other Houston com
+munities. 
+In East Houston, 
+Formaldehyde
+ 
+Benzene
+ 
+Acetaldehyde
+ 
+Tetrachloroethylene
+ 
+1,1,1
+-
+Trichlorethane
+ 
+1,3
+-
+Butadiene
+ 
+Methylene chloride
+ 
+Toluene
+ 
+Styrene
+ 
+Formaldehyde
+ 
+Benzene
+ 
+Acetaldehyde
+ 
+Tetrachloroethylene
+ 
+1,1,1
+-
+Trichlorethane
+ 
+1,3
+-
+Butadiene
+ 
+Methylene chloride
+ 
+Toluene
+ 
+Styrene
+ 
+Texas AMCV
+ 
+California Reference Exposure Level
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+25
+ 
+90
+ 
+
+-
+ris
+
+,
+16
+ 
+while 
+one tract in the Harrisburg/Manchester neighborhood 
+faces 
+seven definite
+-
+risk 
+pollutants. Of 
+the 
+g
+reater Houston 
+census tracts 
+exposed to 
+six or
+ 
+more definite
+-
+risk pollutants, half of them are in East Houston. These figures suggest th
+at these 
+communities
+
+given their cumulative exposure to multiple definite
+-
+risk 
+pollutants
+
+face a higher lifetime risk of cancer and chronic disease 
+than other 
+Houston
+ 
+communities 
+exposed to 
+only one or two definite
+-
+risk pollutants. 
+ 
+ 
+During Hurricane Harv
+ey, these 
+East Houston 
+communities faced exposures to
+ 
+many 
+pollutants at one time. Within a 
+3
+-
+hour period, the 
+c
+ity of 
+
+Mobile 
+Ambient Air Monitoring Laboratory
+ 
+identified 
+46 pollutant concentrations greater than 0 ppm 
+occuring in Manchester Park 
+on September 4, 
+2017, including benzene (0.
+008
+ 
+ppm)
+,
+ 
+n
+-
+hexa
+ne 
+(0.
+096 
+ppm) and n
+-
+heptane (0.072 ppm). While 
+none of these concentrations exceeded their 
+respective 
+short
+-
+term 
+AMCVs, this example 
+illustrates the large number of 
+distinct
+ 
+pollutants 
+in the air 
+at that time. 
+ 
+ 
+One 
+limitation to using 
+the AMCVs 
+or 
+AEGLs 
+to assess health risk
+s
+ 
+during an 
+emergency response 
+is th
+at 
+neither one 
+account
+s
+ 
+for
+ 
+the following situations that 
+could
+ 
+potential
+ly
+ 
+impact
+ 
+health
+:
+ 
+ 
+
+ 
+C
+oncurrent exposure to multiple air pollutants (
+i.e.
+,
+ 
+cumulative
+ 
+exp
+osure)
+.
+ 
+ 
+ 
+
+ 
+A
+ccumulation of consecutive distinct exposures to a pollutant over time 
+(i.e.
+,
+ 
+aggregated
+ 
+exposure). 
+ 
+ 
+As 
+Figure 
+8 
+shows
+, when compared to the rest of Harris County,
+ 
+a 
+disproportionate amount of air toxic emissions
+ 
+reported fo
+r Hurricane Harvey 
+were 
+within 
+4 
+miles of the Harrisburg/Manchester neighborhood
+. These 
+residents 
+were 
+potentially 
+exposed 
+to a variety of 
+air 
+toxic
+s
+,
+ 
+such as xylene, toluene, hexane
+ 
+and ethylbenzene
+. 
+However, 
+the TCEQ 
+only 
+tracks 
+t
+hese incidents 
+and 
+asses
+s
+es
+ 
+the 
+
+health effects at certain exposure levels 
+on a 
+pollutant
+-
+by
+-
+pollutant 
+basis
+;
+ 
+there is no way of quantifying potential effects across the AMCV or AEGL 
+standards.
+ 
+ 
+                                        
+        
+ 
+16
+ 
+The task force defined 
+definite
+-
+risk pollutants
+ 
+
+hose substances for which there was compelling and 
+convincing evidence of significant risk to the general population or vulnerabl
+e subgroups at current ambient 
+concentrations.
+
+ 
+The 
+following 12 
+air pollutants were classified as 
+d
+efinite 
+risks: ozone; fine particulate matter 
+(PM
+ 
+2.5); diesel particular matter; 1,3
+-
+butadiene; chromium VI; benzene; ethylene dibromide; 
+acrylonitrile;
+ 
+fo
+rmaldehyde
+;
+ 
+acrolein
+;
+ 
+chlorine
+;
+ 
+and hexamethylene di
+isocyanate.
+ 
+ 
+Houston
+
+ 
+Mobile Ambient Air Monitoring 
+Laboratory
+. (
+C
+ity of Houston photo)
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+26
+ 
+ 
+Figure 
+8
+: Known 
+emission
+s 
+n
+ear Harrisburg/Manchester 
+during Hurricane Har
+vey
+ 
+ 
+Source: 
+
+.
+ 
+ 
+The 
+EPA
+
+ 
+guidance on the development of AEGLs only relies on multiple 
+exposure studies when 
+single exposure data 
+are 
+lacking
+.
+ 
+AEGLs may 
+therefore 
+not be protect
+ive enough 
+of 
+disproportionately burdened comm
+unities like 
+Harrisburg/Manchester, given 
+their
+ 
+proximity to large industrial facilities and the 
+number of air toxics they could be exposed to during large
+-
+scale SSM 
+incidents 
+before, during and after an emergency or disaster situation. 
+Although 
+AEGLs 
+were
+ 
+not used to make public health assessments after Hurricane Harvey
+, 
+with the 
+exception of California, no other states have developed acute air toxic 
+thresholds 
+like Texas.
+ 
+The
+ 
+other 
+states may therefore opt to use AEGLs
+ 
+to assess air quality
+.
+ 
+ 
+Based on a r
+eview of 
+TCEQ guidance
+,
+ 
+we determined that 
+cumulative risk
+s
+ 
+from 
+multiple pollutant exposures are not addressed in AMCVs
+. 
+While 
+short
+-
+term 
+AMCVs 
+are more protective of 
+health t
+han AEGLS 
+when 
+assessing exposure to a 
+single air toxic, whether these values we
+re sufficiently protective of health 
+is 
+unknown, 
+considering the multiple pollutant exposures experienced after 
+Hurricane 
+Harvey.
+ 
+ 
+Conclusion
+ 
+ 
+The available monitoring data did
+ 
+not indicate 
+that air toxic levels during the 
+Hurricane Harvey disaster 
+exceed
+e
+d
+ 
+Texas or EPA 
+thresholds
+. It is unclear, 
+however, whether or how SSM emissions compound the health risks of 
+residents in 
+fenceline
+ 
+communities. 
+Short
+-
+term 
+AMCVs
+ 
+and 
+other risk
+-
+based thresholds used 
+by the EPA and 
+the 
+TCEQ to assess the risk of 
+emissions 
+d
+uring Hurricane Harvey 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+27
+ 
+do not account for communities 
+that 
+are exposed
+
+daily and/or over the long
+-
+term
+
+to multiple pollutants
+ 
+and
+ 
+chronic daily exposures in addition to
+ 
+spikes 
+from 
+large
+-
+scale SSM events. 
+ 
+ 
+Recommendation
+ 
+ 
+We recommend 
+that 
+the Region 6 Re
+gional Administrator:
+ 
+ 
+4.
+ 
+Develop
+ 
+and implement
+,
+ 
+in coordination with the
+ 
+states
+, a plan
+ 
+to
+ 
+inform
+ 
+residents 
+in fenceline
+ 
+and nearby communities 
+about adverse health risks 
+resulting from 
+multiple facility startups and shutdowns
+ 
+during 
+emergencies
+ 
+and to 
+l
+imit
+ 
+
+air toxic
+s. 
+ 
+ 
+Agency Response and OIG Evaluation
+ 
+ 
+In 
+this chapter in 
+our d
+raft report
+, w
+e
+ 
+included 
+one 
+recommendation addressing 
+the 
+use of acute exposure thresholds to assess air quality during an
+ 
+emergency
+.
+ 
+The 
+agency disagr
+eed with 
+this
+ 
+recommendation 
+and noted that there are existing air 
+quality standards 
+that 
+the 
+EPA 
+uses to estimate 
+the 
+risk
+s
+ 
+to communities
+ 
+for criteria 
+air 
+pollutants
+. 
+The agency 
+further explained
+ 
+that 
+the 
+EPA uses its 
+AEGLs
+ 
+to assess 
+public risk
+ 
+f
+r
+om air
+ 
+toxics exposure
+. 
+ 
+ 
+Our draft
+ 
+report 
+also 
+included two 
+additional 
+recommendation
+s
+ 
+in this chapter 
+addressing 
+how to limit the 
+potential health impact of multiple shutdown
+s
+ 
+and 
+startups on nearby residents during an emergency. The 
+a
+gency 
+noted
+ 
+that
+ 
+neither
+ 
+the 
+EPA
+ 
+nor the state
+s
+ 
+have a
+
+T
+he 
+a
+gency 
+state
+d
+ 
+that
+ 
+the 
+EPA coordinates with local officials, states and tribes regarding 
+shelter in place, evacuations or other protective measures
+ 
+f
+or fenceline and nearby 
+communiti
+es
+. 
+ 
+ 
+Based on discussions 
+with the 
+a
+gency
+,
+ 
+its 
+response to our draft report
+, and internal 
+management
+ 
+discussions
+, we
+ 
+developed 
+one recommendation for 
+this chapter in 
+our 
+final report (
+Recommendation 
+4
+)
+. 
+ 
+ 
+Recommendation 
+4
+ 
+is 
+un
+resolved
+ 
+pending 
+
+r
+eceipt
+ 
+of 
+an 
+acceptable 
+corrective action
+ 
+plan
+ 
+and proposed 
+completion 
+date
+ 
+from the agency 
+in response to 
+our 
+final report
+.
+ 
+
+to our draft report 
+and our additional 
+comments are in Appendix A. The agency provided specific 
+suggestions f
+or our 
+consideration, and we revis
+ed
+ 
+the report as appropriate.
+ 
+ 
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+28
+ 
+Chapter 4
+ 
+Lack of Communication Left Communities 
+ 
+Unaware of Risks
+ 
+ 
+We did not identify any instances of inaccurate communication regarding air 
+quality 
+during 
+the Hurricane Harvey
+ 
+response
+ 
+effort
+. However, 
+we found that 
+official 
+communication 
+from the EPA 
+regarding air quality 
+was limited
+. For 
+example, a lack of guidance 
+r
+egarding 
+how 
+the EPA should 
+disseminate air 
+quality data 
+meant 
+air monitoring results 
+and air quality risks 
+did 
+not 
+alwa
+ys 
+reach 
+residents of impacted communities. In addition, the lack of a feedback mechanism 
+meant field staff did not communicate how the 
+
+. 
+As a result, 
+some 
+communities were left unaware 
+of 
+important issues, which can 
+lead to
+ 
+a lack of 
+trust and 
+confidence
+ 
+
+ 
+ 
+Guidance 
+Outlines
+ 
+Community Engagement During an Incident
+ 
+ 
+Pursuant to EPA Order 2010
+, 
+Crisis Communication Plan
+ 
+(CCP)
+,
+ 
+the 
+a
+gency
+
+ 
+P
+ublic 
+I
+nformation 
+O
+fficers must consider
+ 
+five 
+factors 
+when 
+communicating with 
+the public during an emergency:
+ 
+ 
+1.
+ 
+C
+ommunity engagement
+.
+ 
+ 
+2
+.
+ 
+ 
+L
+anguage access
+.
+ 
+ 
+3
+.
+ 
+E
+nvironmental justice
+.
+ 
+ 
+4
+.
+ 
+E
+nvironmental 
+data
+.
+ 
+5
+.
+ 
+EPA authority.
+ 
+ 
+In addition, t
+
+ 
+stat
+es
+ 
+that information provided 
+to the public 
+during 
+an i
+ncident must be understandable, timely, accurate and consistent. Further, the 
+CCP stresses 
+the following points:
+ 
+ 
+
+ 
+The agency will widely disseminate information concerning EPA 
+activities to
+ 
+the public
+. 
+ 
+ 
+
+ 
+Information
+ 
+should 
+be developed 
+in langua
+ges 
+other t
+han English 
+under 
+the Commitment to Language Access Obligations
+ 
+in 
+Executive 
+Order
+ 
+13166.
+ 
+ 
+
+ 
+T
+he agency will develop information 
+t
+o address
+ 
+environmental justice 
+as 
+prescribed by 
+EPA M
+emorandum, 
+Incorporating Environmental Justice 
+Considerations i
+nto EPA Dis
+aster Preparedness and Response 
+Procedures
+, 
+issued 
+November 2, 2006. 
+ 
+ 
+Some 
+EPA offices have 
+incorporated environmental justice into their office
+-
+specific 
+guidance 
+about 
+risk communication, which t
+he EPA defines 
+as 
+the 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+29
+ 
+
+tential hazards to their person, property, or 
+
+For example, 
+t
+
+produced the 
+Risk Communication Workbook
+,
+ 
+which explains 
+that r
+isk 
+
+rs of literacy, language, and ethnici
+ty to 
+ensure acceptance or understanding
+.
+
+An 
+Office of Research and Development
+ 
+document regarding risk communication during water security emergencies warns 
+
+ 
+
+ 
+undermine public trust a
+
+that the goal shou
+
+d
+ 
+trust 
+
+The EPA Superfund program
+
+ 
+risk communication guidance 
+emphasizes that individuals perceive risk differently depending on different 
+fact
+ors of the risk,
+17
+ 
+including voluntari
+ness, controllability, familiarity, fairness, 
+catastrophic potential, reversibility, equity and effects on children. 
+ 
+ 
+EPA Deployed Community Liaisons
+ 
+ 
+EPA Region 6 deployed more than 
+8
+0 community liaisons to the region impacted 
+by Hurricane Harvey
+
+the fi
+rst instance in which so many liaisons were u
+sed 
+by 
+the agency
+ 
+to respond to a disaster
+, according t
+o an EPA staff person
+. These 
+liaisons, who were
+ 
+coordinated by three leaders
+, 
+provide
+d
+ 
+information to the 
+public 
+regarding 
+how to best protect themselves fr
+om environmental risks
+,
+ 
+collect
+ed
+ 
+citizen concerns
+,
+ 
+and forward
+ed
+ 
+these concerns 
+to EPA management. 
+The liaisons were not tasked with resolving environmental issues. 
+ 
+ 
+During the Hurricane Harvey 
+response effort, t
+he 
+
+community liaisons communicated 
+w
+ith the public 
+by distributing 
+preapproved flyers, 
+which were 
+available 
+in 
+English, 
+Spanish and 
+Viet
+namese. 
+The community 
+liaisons 
+held 
+daily meetings with 
+the community liaison lead
+18
+ 
+and 
+maintained 
+a dedicated 
+environmental justice
+ 
+email address that the 
+community could use. 
+D
+uring our 
+audit, we received feedback from the community that the 
+liaisons in the
+ 
+Port 
+Arthur/Beaumont area
+ 
+were present and
+ 
+played an active role.
+ 
+                                        
+        
+ 
+17
+ 
+The 
+
+emergencies and natural disasters.
+ 
+18
+ 
+This individual was located in the Region 6 office in Dallas and provided updates to senior manageme
+nt regarding 
+the work of the liaisons on the ground. 
+ 
+EPA 
+c
+ommunity 
+l
+iaison providing information 
+in 
+Houston
+.
+ 
+(EPA photo)
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+30
+ 
+ 
+Residents 
+Were Not Informed How 
+EPA Resolved Their Concerns 
+ 
+ 
+Despite concerns about
+ 
+air quality and other issues
+ 
+in the Houston area after 
+Hurricane Harvey
+, the EPA did not adequately
+ 
+communicate important 
+information 
+so
+ 
+that 
+all 
+impacted 
+communities 
+received 
+it. 
+A lack of information 
+hindered
+ 
+residents
+
+make
+ 
+informed and inde
+pendent decisions to protect 
+their health.
+ 
+ 
+Residents Expressed Concerns about 
+Health 
+Impacts 
+of 
+Hurricane
+ 
+Harvey
+ 
+ 
+The public expressed concern 
+about 
+the
+ 
+health
+ 
+effects related to the 
+
+including drinking water
+ 
+quality a
+nd 
+air quality issues.
+ 
+As shown in 
+Figure
+ 
+9
+, 
+over half of the 
+59 EPA 
+staff who served as 
+community 
+liaisons 
+and
+ 
+respond
+ed
+ 
+to 
+an OIG 
+survey 
+stated that outdoor air quality 
+was a concern to the community
+. 
+These staff
+ 
+cit
+ed
+ 
+odors, safety, fires or 
+hazardous a
+ir 
+emission
+s from 
+facilities
+ 
+as community concerns
+.
+ 
+ 
+From 
+left: 
+English,
+ 
+Spanish and Vietnamese versions of EPA flyers regarding debris management. (EPA photo)
+ 
+An aerial view of the flooding caused by Hurricane 
+Harvey in Houston 
+on 
+Aug
+ust
+ 
+31, 
+2017. 
+(U.S.
+ 
+Department of Defense photo)
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+31
+ 
+Figure 
+9
+: 
+Community liaison survey results
+
+o
+utdoor 
+a
+ir 
+q
+uality 
+c
+oncerns
+*
+ 
+ 
+Source: OIG survey analysis.
+ 
+
+community liaisons.
+ 
+ 
+The 
+city 
+of Houston also re
+ceived 
+public expressions of 
+outdoor air quality 
+concerns after Hurricane Harvey
+ 
+
+. 
+For example, t
+he 
+city 
+received 
+3
+3 
+odor complaints 
+from 
+August 27 
+through 
+September 17, 2017. Many 
+o
+f these 
+complaints 
+pertained specifically to odo
+rs emanating from refineries in 
+the Ship Channel area. 
+ 
+ 
+In addition
+,
+ 
+a few
+ 
+nongovernmental organizations 
+requested air quality data from 
+the 
+EPA. 
+One of t
+hese 
+nongovernmental organizations 
+had 
+contacts
+ 
+living in 
+affected communities 
+who could 
+reach the im
+pacted constituency.
+ 
+However, the 
+EPA was not responsive to requests from 
+nongovernmental organizations 
+for air 
+quality data.
+ 
+ 
+Resolution of Concerns 
+Not Commun
+icated to 
+Affected Residents 
+ 
+ 
+The EPA lacked a process for providing 
+feed
+back to the community 
+after 
+
+concerns were considered resolved or addressed. 
+While response 
+activities were 
+communicated 
+daily 
+to EPA 
+h
+eadquarters 
+via 
+written reports
+,
+ 
+comm
+unity liaisons and field staff reported in the 
+
+post
+-
+hurricane surveys 
+that 
+this 
+informatio
+n was not being relayed to field teams and that they were not 
+informed 
+whether 
+problems were resolved. 
+For example, o
+ne community liaison
+ 
+who 
+communicated an incident at a local refinery up the 
+established 
+chain of 
+command
+ 
+subsequently 
+asked about the heal
+th risks 
+from that incident 
+and 
+about 
+the 
+resolution 
+status. That 
+community liaison 
+told the OIG that the only response 
+received from the chai
+n of command 
+was that 
+the 
+TCEQ was taking care of 
+the 
+situation
+. The community liaison expressed concern about the
+ 
+community and 
+whether it was exposed to health risks from the incident. 
+ 
+ 
+Over half of the community liaisons 
+who 
+respond
+ed
+ 
+to our survey rep
+orted 
+hearing about air quality concerns in communities, 
+but 
+about half 
+also said 
+that 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+32
+ 
+the EPA did not address or 
+only sometimes addressed 
+the 
+concerns 
+they 
+submitted 
+in 
+their 
+daily reports
+ 
+(
+Figure 
+10
+)
+. 
+ 
+ 
+Figure 
+10
+: 
+Community liaison survey 
+results
+
+EPA 
+m
+anagement 
+r
+esponsiveness
+*
+ 
+ 
+Source: OIG survey analysis.
+ 
+
+y liaisons
+. Numbers 
+do 
+not add to 
+100
+ 
+percent
+ 
+due to rounding.
+ 
+ 
+According to 
+the 
+survey respondents and EPA staff we 
+interviewed, community 
+concerns were passed up the EPA
+
+ 
+chain of command and were then forwarded 
+to the governmental party responsible for
+ 
+resolving the issue (e.g., 
+air quality 
+concerns were forwarded to the 
+TCEQ). Once the relevant party was notified, t
+he 
+
+ 
+Region 6 staff from the Office of 
+Environmental Justice and Tribal Affairs did conduct outreach with
+ 
+local 
+government officials and community organizations;
+19
+ 
+however, some community 
+liaisons reported that information 
+about how issues were resolved was lacking. 
+In 
+addition, after the 
+
+following
+ 
+up to
+ 
+confirm resolution of the issue and communicat
+ing
+ 
+that resolution 
+to the concerned party.
+ 
+ 
+Environmental Justice Not
+ 
+Adequately 
+Addressed in Emergency 
+Response 
+Implementation
+ 
+ 
+ 
+According to the 
+Office of Emergency Management
+
+ 
+2017 Hurricane and 
+Wildfire 
+Response 
+A
+fter
+-
+Action 
+R
+eport
+, 
+environmental justice
+ 
+considerations were 
+not adequately integrated into the 
+Incident Command System 
+structure. The report 
+recommended integrating 
+environmental justice
+ 
+
+coordination with nongov
+ernmental organizations to maintain awareness of th
+eir 
+concerns
+,
+
+into the CCP
+.
+ 
+                                        
+        
+ 
+19
+ 
+In the March 2019 Region 6 realignment, this 
+office 
+became the Office of Communities, Tribes and 
+En
+vironmental Assessment.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+33
+ 
+ 
+EPA
+-
+conducted questionnaires, our survey and 
+our 
+interviews with community 
+members indicated a lack of 
+knowledge 
+on behalf of the EPA 
+about 
+the needs of 
+
+v
+arious communities and how best to reach them. 
+This
+ 
+knowledge is especially critical for community liaisons to effectively 
+communicate with 
+environmental justice 
+communities. For example, community 
+liaisons should h
+av
+e
+ 
+experience with 
+these
+ 
+communities 
+so 
+that 
+the liaisons 
+can 
+address 
+the 
+cultural 
+differences
+, communication barriers and geographical 
+challenges that make some of these communities hard to reach. Knowing when 
+and where communities gather is 
+also 
+important 
+to effectively 
+communicat
+e
+ 
+and 
+distrib
+ut
+e
+ 
+essential information. 
+ 
+ 
+We 
+also 
+identi
+fied some concern among regional staff and managers that 
+information did not reach all 
+environmental justice
+ 
+communities
+. S
+ome residents 
+
+A
+lthough 
+communit
+y liaisons
+ 
+were 
+deployed 
+into affected comm
+unities
+, 
+w
+e confirmed with 
+some community members that
+ 
+they 
+never saw 
+a community liaison in the
+ir
+ 
+neighborhood
+s
+ 
+after Hurricane Harvey. In addition, m
+any community liaisons 
+and 
+organizations 
+expressed concern abo
+ut the lack of printed materials in 
+languages
+ 
+other than English that are spoken prevalently in the Houston area
+. 
+ 
+ 
+Conclusion
+ 
+ 
+Based on the results of our review, some r
+esidents impacted by Hurricane Harvey 
+were
+ 
+unaware of air monitoring results and air q
+uality risks during and immediately 
+after the 
+hurricane
+. The
+ 
+EPA has l
+imited guidance on how to disseminate air 
+quality data 
+and
+ 
+l
+ack
+s
+ 
+a feedback mechanism allowing 
+EPA 
+field staff to 
+communicate 
+the status of concerns to 
+affected 
+communities.
+ 
+ 
+These chall
+enges 
+led to limited 
+public awarenes
+s of potential air quality issues
+,
+ 
+which in turn could
+ 
+reduce public 
+trust and 
+confidence
+ 
+
+in response to an emergency.
+ 
+Given the number of impacts of the hurricane
+
+including flooding, loss of 
+power and the fear 
+naturally instigated by 
+a natural 
+disaster
+
+unaddressed 
+concerns regarding 
+air quality
+ 
+likely 
+compounded the 
+public 
+perception of 
+risk
+s
+. 
+ 
+ 
+Recommendations
+ 
+ 
+We recommend 
+that 
+the 
+Associate
+ 
+Administrator for 
+Public Affairs:
+ 
+ 
+5.
+ 
+
+s 
+Crisis Communication Plan
+ 
+to include a communication 
+process to inform affected communities about the resolution of community 
+concerns raised during an emergency.
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+34
+ 
+We recommend 
+that 
+the Region 6 Regional 
+Administrator
+:
+ 
+ 
+6.
+ 
+Conduct environmental justice trai
+ning for community liaisons and 
+Incident Command System staff, thereby fulfilling that element of the 
+
+Crisis Communication Plan
+.
+ 
+ 
+Agency Response and OIG Evaluation
+ 
+ 
+The 
+a
+gency 
+concurred with 
+Recommendations 5 and 6
+ 
+and provided acceptable 
+planned co
+rrective actions and completion dates. To address Recommendation 
+5
+ 
+(Recommendation 7 in our draft report)
+,
+ 
+the 
+
+Office of Public Affairs 
+plans 
+to
+ 
+update the 
+a
+
+CCP
+.
+ 
+In a
+n
+ 
+e
+mail to the OIG
+ 
+dated December 3, 2019
+, the 
+agency clarified that 
+its 
+upd
+ate 
+to the CCP 
+will 
+include a communication process 
+to inform affected communities about the resolution of community concerns 
+raised during an emergency
+. To address Recommendation 
+6
+ 
+(
+R
+ecommendation 9
+ 
+in our draft report
+)
+, 
+Region 6 
+will
+ 
+provide annual 
+envir
+onmental justice
+ 
+training to 
+all EPA Region 6 employees, including emergency response personnel. 
+The 
+EPA 
+will 
+also 
+provide training to community involvement core team, Incident 
+Command staff and other appropriate community liaisons consistent with 
+the 
+
+s CCP. 
+Recommendations 
+5 
+and 
+6 
+are considered resolved with corrective 
+actions pending.
+ 
+ 
+
+to our draft report 
+and our additional comments are in 
+Appendix A. The agency provided specific suggestions for our consideration, and 
+we revis
+ed
+ 
+the report as appropriate.
+ 
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+35
+ 
+Status of Recommendations and 
+ 
+Potential Monetary Benefits
+ 
+ 
+ 
+RECOMMENDATIONS
+ 
+ 
+Rec. 
+No.
+ 
+Page 
+No.
+ 
+Subject
+ 
+Status
+1
+ 
+Action Official
+ 
+Planned 
+Completion 
+Date
+ 
+ 
+Potential 
+Monetary 
+Benefits 
+(in
+ 
+$000s)
+ 
+1
+ 
+2
+1
+ 
+Develop general guidance t
+o help state and local 
+agencies and 
+external stakeholders develop air monitoring plans for 
+emergency situations in heavily industrialized areas so that 
+usable data are collected in targeted areas of concern
+.
+ 
+U
+ 
+Assistant
+ 
+Administrator
+ 
+for 
+Land and 
+Emergency
+ 
+Management 
+ 
+ 
+ 
+ 
+2
+ 
+2
+1
+ 
+D
+evelop
+, in coordination with the 
+Associate Administrator for 
+Public Affairs
+, 
+a plan for providing public access to air monitoring 
+data collected during an emergency response
+.
+ 
+U
+ 
+Assistant
+ 
+Administrator for 
+Land and 
+Emergency 
+Managemen
+t
+ 
+ 
+ 
+ 
+ 
+3
+ 
+2
+2
+ 
+C
+oordinate with 
+the 
+Office of Research and Development 
+and 
+the Office of Air Quality Planning and Standards within the Office 
+of Air
+ 
+to assess the availability and use of remote and portable 
+monitoring methods to monitor air toxics when station
+ary 
+monitoring methods are not available.
+ 
+ 
+U
+ 
+Assistant
+ 
+Administrator for 
+Land and 
+Emergency 
+Management
+ 
+ 
+ 
+ 
+4
+ 
+2
+7
+ 
+Develop
+ 
+and implement
+, in coordination with the states, a plan to 
+inform residents in fenceline and nearby communities about 
+adverse health risk
+s resulting from multiple facility startups and 
+
+exposure to 
+air toxics
+.
+ 
+U
+ 
+Region 6 Regional 
+Administrator
+ 
+ 
+ 
+ 
+5
+ 
+3
+3
+ 
+Revise the 
+
+Crisis Communication Plan
+ 
+to 
+include a 
+communication 
+process to 
+in
+form affected communities about 
+the resolution 
+of community concerns raised during an 
+emergency.
+ 
+R
+ 
+Associate 
+Administrator for 
+Public Affairs
+ 
+12/
+30
+/20
+ 
+ 
+ 
+6
+ 
+3
+4
+ 
+Conduct
+ 
+environmental justice training for community liaisons 
+and 
+Incident Command System
+ 
+staff, 
+thereby fulfilling that 
+
+Crisis Communication Plan
+.
+ 
+R
+ 
+Region 6 Regional 
+Administrator
+ 
+9/20/
+20
+ 
+and annually 
+thereafter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+ 
+C = Corrective action completed. 
+ 
+R = R
+ecommendation 
+resolved with corrective action pending.
+ 
+ 
+U = R
+ecommendation
+ 
+unresolved
+ 
+with resolution efforts in progress
+.
+ 
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+36
+ 
+Appendix A
+ 
+ 
+Agency Response to Draft Report
+ 
+ 
+ 
+ 
+Thank you for the opportunity to respond to the issues and recommendations in the subject audit 
+report. Following is a summary of the age
+
+ith its position on each 
+of the report recommendations. For those report recommendations with which the agency agrees, 
+we have provided high
+-
+level intended corrective actions and estimated completion dates to the 
+extent we ca
+n. For those report recommendat
+ions with which the agency does not agree, we have 
+explained our position, 
+provided the legal basis
+, and proposed alternatives to recommendations. 
+For your consideration, we have included a Technical Comments 
+a
+ttachment to su
+pplement this 
+response.
+ 
+ 
+AGENCY
+
+ 
+The report seems to make broad conclusions applicable to the Agency and several national 
+programs based on the limited review of one event
+ 
+in which flooding was the primary focus of 
+the response
+. 
+Instead, 
+a review of t
+he Region 9 response to the Kilauea volcanic activity in 
+Hawaii
+,
+ 
+as
+ 
+an extended response intensively focused on air monitoring
+, would provide a better 
+
+existing processes, capabilities, and thorough coordination with st
+ate 
+and local agencies.
+ 
+ 
+In general, the Agency does not agree with nor advise developing overarching monitoring 
+guidance for emergency responses 
+-
+ 
+beyond what already exists. First, states
+ 
+and local 
+governments are responsible for their emergency response
+ 
+efforts. If 
+f
+ederal assistance is 
+requested, or EPA receives a mission assignment from FEMA, the response is handled by th
+e
+ 
+particular EPA Region. Each emergency is unique, as are the asso
+ciated responses. 
+O
+verarching 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+37
+ 
+guidance for monitoring that would en
+compass the myriad emergency scenarios that could 
+possibl
+y 
+occur
+ 
+would be challenging
+. Decisions regarding monitoring are made based on an 
+evaluation of the specific incident. 
+Further, i
+n R
+egion 6, all 
+s
+tates have S
+tate 
+I
+mplementation 
+P
+lans (SIP)
+-
+approved 
+authority to permit planned startup, shutdown 
+and
+ 
+maintenance (SSM) 
+emissions for most facilities. EPA only approves state permitting regulations.
+ 
+EPA can
+, and 
+does, 
+also enforce these perm
+its, SIP
+ 
+required conditions, and 
+National Emission Standards for 
+H
+azardous Air Pollutants
+.
+ 
+Current regulations do not allow the state or EPA to dictate SSM 
+schedules.
+ 
+ 
+We understand from our discussions that we can propose alternatives for the draft 
+recom
+
+ 
+table below. In 
+general, we propose to:
+ 
+ 
+1.
+ 
+remove the Office of Air and Radiation 
+as an action official 
+from the 
+recommendations, 
+ 
+2.
+ 
+combine recommendations 2 and 8
+,
+ 
+ 
+3.
+ 
+combine recommendations 5
+ 
+and 6
+,
+ 
+4.
+ 
+
+, 
+ 
+5.
+ 
+
+provisions into existing guidance
+ 
+or other appropriate document(s), and
+ 
+6.
+ 
+focus the revisions on monitoring 
+related to permitted and non
+-
+permitted air toxic 
+releases during an
+ 
+emergency event rather than hazardous air pollutants covered 
+by SIPs.
+ 
+ 
+Th
+is
+ 
+response 
+and these revisions 
+have been coordinated with the Office of Air and Radiation, 
+the Office of Public Af
+fairs, and 
+EPA 
+Region 6.
+ 
+ 
+ 
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+38
+ 
+
+TIONS
+ 
+ 
+Agreements
+ 
+No.
+ 
+Recommendation 
+ 
+High
+-
+Level Intended Corrective 
+Action(s)
+ 
+Estimated Completion by 
+Quarter and FY
+ 
+7
+ 
+
+Crisis Communication Plan 
+to include a communication 
+process to inform affected 
+communities about the 
+resolution
+ 
+of community 
+concerns raised during an 
+emergency. 
+ 
+7.1 Update Crisis 
+Communications Plan
+ 
+1
+st
+ 
+Quarter
+ 
+FY 
+2020
+, 
+December 3
+0
+ 
+OIG Response #
+1
+: 
+The 
+a
+gency concurred with the recommendation and provided 
+a 
+planned 
+corrective action and completion date. 
+In a
+n
+ 
+em
+ail to the OIG
+ 
+dated December 3, 2019
+, the agency 
+clarified that 
+its 
+update 
+to the CCP 
+will 
+include a communication proce
+ss to inform affected 
+communities about the resolution of community concerns raised during an emergency. 
+W
+e consider
+ 
+t
+his recommendatio
+n
+
+which 
+is Recommendation
+ 
+5
+ 
+in the final report
+
+resolved
+ 
+with corrective 
+actions pending
+.
+ 
+9
+ 
+(Region 6) Conduct 
+environmental justice 
+training for community 
+liaisons and Incident 
+Command System staff, 
+thereby fulfilling that 
+
+Com
+munication Plan. 
+ 
+9.1 Continue to provide annual 
+EJ training to all EPA Region 6 
+employees in
+cluding emergency 
+response personnel. EPA will 
+consider adding a module to 
+emphasize environmental justice 
+communications during 
+emergency response. 
+ 
+4
+th
+ 
+Quarter F
+Y 2020 
+September 30
+, and annually 
+thereafter
+ 
+ 
+9.2 Provide training to 
+community involvemen
+t core 
+team, Incident Command staff, 
+and other appropriate 
+community liaisons consistent 
+
+Communication Plan.
+ 
+3
+rd
+ 
+Quarter FY
+ 
+2020, June 30
+ 
+OIG Re
+sponse #
+2
+: 
+The 
+a
+gency concurred with the recommendation and provided
+ 
+planned 
+corrective 
+action
+s
+ 
+and completion date
+s
+. 
+
+recommendation. 
+This r
+ecommendation
+, which
+ 
+is Recommendation
+ 
+6
+ 
+in th
+e final report,
+ 
+is resolved
+ 
+with corrective actions pending
+.
+ 
+ 
+Disagreements
+ 
+ 
+No.
+ 
+Recommendation 
+ 
+Agency Explanation/Response
+ 
+Proposed Alternative 
+ 
+1
+ 
+(OLEM) Develop and 
+implement ambient 
+air quality monitoring 
+guidance for 
+emergency responses 
+Air monitoring during a response is 
+individualized and highly dependent upon 
+the u
+nique characteristics of the incident. 
+Overarching guidance for monitoring 
+encompassing the myriad emergency 
+(OLEM) In order to 
+collect useable data and 
+target concerns during an 
+emergency response 
+devel
+op guidance (e.g, job 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+39
+ 
+in heavily 
+i
+ndustrialized areas. 
+This guidance should 
+address, at a 
+minimum, how to 
+select monitoring 
+locations, duration, 
+timing and methods 
+depending on the 
+inte
+nded use of the 
+data. 
+ 
+scenarios that could possible occur is not
+ 
+feasible. Decisions regarding monitoring 
+are made based on an evaluation of the 
+specific incident. For e
+xample, 
+circumstances such as flooded streets, 
+power outages, accessibility to 
+facilitate/sites, or personnel safety, would 
+dictate what could/could no
+t be done.
+ 
+aid) to assist state, local 
+and tribal agencies; 
+industry; and the affected 
+public in developing air 
+monitoring plans in 
+heavily 
+industrialized 
+areas during an 
+emergency.
+ 
+OIG Response #
+3
+: 
+Our report recognizes the individual nature o
+f each emergency response. Our 
+intent was not to recommend 
+that 
+the EPA develop prescriptive guidance
+ 
+to cover all potential 
+situations
+; rather, our in
+tent
+ 
+was to recommend that the EPA 
+develop general guidance to help state 
+and local agencies, as well as 
+nongovernmental organizations, develop their emergency monitoring 
+plans. 
+In 
+discussions with the agency, we agree
+d
+ 
+on alternative language for Recommen
+dation 1 and 
+revised it for the final report. This recommendation is unresolved pending receipt of a corr
+ection 
+action plan and 
+proposed 
+completion date
+ 
+from the EPA
+.
+ 
+ 
+2
+ 
+(OLEM) Develop and 
+implement a method 
+for storing and 
+providing public 
+access to 
+ambient air 
+monitoring data 
+collected during an 
+emergency response.
+ 
+ 
+EPA has several existing tools and 
+proce
+dures such as SCRIBE, Viper, 
+Common operation Picture, and story 
+maps. Emergency Response Team 
+Sampling guidelines can be found at:
+ 
+https://nepis.epa.gov/Exe/ZyPDF.cgi/2000
+FZYG.PDF?Dockey=2000FZYG.PDF
+ 
+ 
+(OLEM/OPA) Develop a 
+method for storing and 
+providing public access to 
+air monitoring data during 
+an emergency respo
+nse.
+ 
+OIG Response #
+4
+:
+ 
+V
+iper
+, a wireless network
+-
+based communications system,
+ 
+was not used to 
+distribute raw 
+
+still has not been used to retroactively provide this inform
+ation. This tool also lacks user
+-
+friendly 
+features that would allow 
+members of the 
+public to easily identify 
+and extract information relevant to 
+their exposures or interest
+ 
+level. The remaining tools 
+that 
+the EPA mentions in its response 
+also do not 
+adequately address our concerns or resolve our recommendation, because the
+ 
+tools
+ 
+only provide 
+summary
+-
+level informa
+tion or require 
+the 
+
+Based on discussions with the agency
+, 
+we developed alternative
+ 
+language for Recommendation 2 and 
+revised 
+the recommendation 
+for the final report. This recommendation is unresolv
+ed pending receipt 
+of a 
+correction action plan and 
+proposed 
+completion date
+ 
+from the EPA
+.
+ 
+3
+ 
+(OLEM) Test and 
+evaluate the use of 
+low
+-
+cost air
+ 
+monitors 
+throughout fenceline 
+communities to 
+monitor air toxics and 
+other air pollutants 
+during emergency 
+situatio
+ns when state 
+and local air 
+If pre
+-
+event monitoring systems are 
+rendered non
+-
+operationa
+l by an 
+emergency conditions, EPA uses 
+screening level tools (TAGA, ASPECT) 
+to pinpoint areas of concern for furthe
+r, 
+targeted air monitoring. 
+ 
+(OLEM) To improve the 
+availability of air 
+monitoring immediately 
+post
+-
+event, incorporate 
+into existing procedure
+s 
+coordination with ORD 
+and OAQPS to assess the 
+availability and use of 
+remote and portable 
+monitoring methods to 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+40
+ 
+monitoring systems 
+and networks are not 
+operational.
+ 
+ 
+m
+onitor air toxic when 
+stationary methods are not 
+available.
+ 
+OIG Response #
+5
+:
+ 
+The screening
+-
+level tools cited by the 
+a
+gency are all described
+ 
+in our report. 
+In
+ 
+discussions with the 
+a
+gency, we came to an agreement on alternative language 
+for 
+Recommendation 
+3
+ 
+and 
+revised 
+the recommendation
+ 
+for the final report. This recommendation is unresolved pending 
+receipt of a 
+corrective action plan and 
+proposed 
+completion date
+ 
+from the EPA
+.
+ 
+ 
+4
+ 
+(OLEM/OAR) 
+Identify and 
+standardize the use of 
+appropriate health
+-
+based ambi
+ent air 
+quality 
+thresholds in 
+communities during 
+emergency responses.
+ 
+ 
+There are already existing air quality 
+standards [National Ambient Air Quality 
+Standards (NAAQS)]. They do not change 
+during emergency responses. During a 
+response, if we detect a speci
+fic 
+contaminant 
+of concern, we go to the 
+existing acute values for that chemical in 
+order to estimate risk to communities. 
+These values already exist (e.g., AEGLs) 
+and indicate the concentrations at which 
+public health impacts may occur for a 
+particular ch
+emical hazard. I
+n the rare 
+instance that there is no established value 
+for a particular substance, one is 
+developed based on existing data or by 
+using existing tools to estimate toxicity. 
+This is done in coordination with entities 
+such as EPA's ORD, ATSDR,
+ 
+and other 
+exper
+ts in toxicology and risk assessment. 
+AEGLS are expressed as specific 
+concentrations of airborne chemicals at 
+which health effects may occur. They are 
+designed to protect the elderly and 
+children, and other susceptible 
+populations.
+ 
+Remove O
+AR and revise 
+re
+commendation to read: 
+(OLEM) In the absence of 
+federal acute exposure 
+thresholds (AEGL 
+standards) for air toxics 
+and to avoid delays in 
+assessing the potential 
+health impacts of 
+concentrations detected 
+during an emergency, 
+incorporate into 
+existing 
+prepare
+dness guidance the 
+requirement for Regions 
+to coordinate with states 
+to identify the air 
+pollutant standards for 
+making decisions about 
+public health impacts 
+from potential toxic air 
+emissions.
+ 
+OIG Response #
+6
+:
+ 
+We 
+recognize 
+that 
+there are 
+existing air qua
+lity standards for criteria air pollutants, 
+but 
+there are 
+no federal air quality standards for air toxics. We also acknowledge that the EPA 
+developed the AEGLs for assessing public health risk from exposure to air toxics during an 
+emergency
+. However, t
+he 
+A
+EGL
+s
+ 
+do not account for cumulative or aggregated exposures to 
+airborne
+ 
+chemicals
+, meaning the
+ 
+AEGLs
+ 
+may not be 
+sufficiently protective 
+of 
+sensitive communities.
+ 
+Additionally, Texas developed its own acute exposure 
+thresholds
+,
+ 
+and a key deci
+sion during the 
+Hurricane 
+Harvey response was 
+whether to use the state or EPA thresholds 
+as action levels
+. Our report 
+does not question the selection of the thresholds used for
+ 
+the response. 
+After further discussions with 
+the agency and among OIG managemen
+t, we have withdrawn this recommendation.
+ 
+ 
+5
+ 
+(Region 6) Assess the 
+potential for adverse 
+health risks to 
+residents living near 
+industrial areas from 
+Current regulations do not
+ 
+allow the state 
+or EPA to dictate SSM schedules. Public 
+health evaluations are the responsibility of 
+department of Health and Human 
+Services, not EPA. EPA can provide air 
+(Region 6) SS
+Ms are 
+governed by state and 
+federal regulations which 
+are already designed to 
+limit emissions including 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+41
+ 
+increased [startup, 
+shutdo
+wn and 
+maintenance] SSM 
+emissions during 
+emergencies 
+ 
+moni
+toring data to support HHS analysis, 
+
+are un
+dertaken to protect human health 
+and the environment from immediate 
+threats posed by discharges and hazardous 
+substance releases resulting from a natural 
+disaster. These respon
+ses follow statutes, 
+regulations, policy, guidance, which 
+provide for coordinati
+on with other 
+federal agencies and state, tribal and local 
+response agencies. For fenceline and 
+nearby communities, EPA coordinates 
+with local officials, states and tribes 
+rega
+rding shelter in place, evacuations, or 
+other protective measures.
+ 
+during emergencies.
+ 
+During an emergency, air 
+quality concerns are 
+addre
+ssed through 
+monitoring using 
+established acute values 
+(e.g. AEGLs) for the 
+chem
+icals of concern, in 
+order to estimate risk to 
+
+enforcement program also 
+evaluates facility 
+operations and takes 
+enforcement actions as 
+needed when violations
+ 
+occur.
+ 
+OIG Response #
+7
+: 
+W
+e
+ 
+understand that 
+the 
+EPA 
+cannot dictate when a facil
+ity should shut
+ 
+down or 
+start up in response to an emergency and that characterizing the risk from these exposures is difficult. 
+However, a public health concern during the Hurricane Harvey 
+response
+ 
+was the potential health 
+impact 
+
+exposure to
+ 
+air toxics from multiple facility 
+SSMs
+ 
+during a condensed time 
+period. We therefore believe that Region 6 should develop a strat
+egy
+,
+ 
+in coordination with its states
+,
+ 
+
+mergencies. 
+Based on discussions with the 
+a
+gency, we revised and combined two draft report recommendations 
+(Recommendations 5 and
+ 
+6) into one 
+final recommendation 
+(Recommendation 
+4
+). The final report 
+r
+ecommendation is unresolved pending receipt of a correc
+tive action plan and 
+proposed 
+completion 
+date
+ 
+from the EPA
+. 
+ 
+6
+ 
+(Region 6) Develop 
+and implement a plan 
+for limiting air toxic 
+exposures in 
+fenceline and other 
+nearby communities 
+from startup, 
+shutdown and 
+malfunction 
+emissions during a 
+large
+-
+scale 
+emergen
+cy. 
+ 
+ 
+Delete this 
+recommendation and 
+combine with #5.
+ 
+OIG Respo
+nse #
+8
+:
+ 
+See OIG Response #
+7
+.
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+42
+ 
+8
+ 
+Develop and 
+implement a strategy 
+for public 
+dissemination of air 
+quality data. 
+ 
+See OLEM response to recommendation 
+#2. 
+ 
+Delete this 
+recommendation and 
+incorpor
+ate into #2
+ 
+OIG Response #
+9
+:
+ 
+Based on our 
+discussions with t
+he 
+agency
+,
+ 
+we agreed that 
+R
+ecommendations
+ 
+2 
+and 8 
+in the draft report 
+were similar and could be combined into one recommendation. 
+We 
+therefore 
+deleted draft 
+R
+ecommendation 8 
+and made minor revisi
+on
+s
+ 
+to 
+R
+ecommendation 2 for the final repor
+t
+. 
+See OIG Response #4.
+ 
+ 
+CONTACT INFORMATION
+ 
+ 
+If you have any questions regarding this response, please contact
+ 
+Reggie Cheatham, Director, of 
+the Office of Emergency Management at
+ 
+Cheatham.Reggie@epa.gov
+ 
+or (202
+) 564
+-
+8003
+ 
+or 
+Becki Clark, Deputy Director, of the Office of Emergency Management at 
+Clark.Becki@epa.gov
+ 
+or (202) 564
+-
+3818.
+ 
+ 
+ 
+Attachment
+ 
+-
+ 
+Technical Comments
+ 
+ 
+cc:
+ 
+Anne
+ 
+Idsal, OAR
+ 
+   
+ 
+Nancy Grantham, OPA
+ 
+   
+ 
+Ken McQueen, Region 6
+ 
+   
+ 
+Reggie Cheatham, OEM
+ 
+   
+ 
+Kevin Christensen, OIG
+ 
+   
+ 
+James Hatfield, OIG
+ 
+   
+ 
+Gabrielle Fekete, OIG
+ 
+ 
+ 
+  
+20
+-
+P
+-
+0
+062
+ 
+ 
+43
+ 
+Appendix B
+ 
+ 
+Distribution
+ 
+ 
+The 
+Administrator
+ 
+Assistant Deputy Administrator
+ 
+Associate Deput
+y Administrator
+ 
+Chief of Staff
+ 
+Deputy Chief of Staff
+ 
+Agency Follow
+-
+Up Official (the CFO)
+ 
+Agency Follow
+-
+Up Coordinator
+ 
+General Counsel
+ 
+Associate Administrator for Congressional and Intergovernmenta
+l Relations
+ 
+Associate Administrator for Public Affairs
+ 
+Direc
+tor, Office of Continuous Improvement, Office of the Administrator
+ 
+Assistant Administrator for Air and Radiation
+ 
+Deputy 
+Assistant Administrator for Air and Radiation
+ 
+Assistant Administrator for
+ 
+Land and Emergency Management
+ 
+Principal Deputy Assistant Administrator for Land and Emergency Management
+ 
+Deputy Assistant Administrator for Land and Emergency Management 
+ 
+Regional Ad
+ministrator, Region 6
+ 
+Deputy Regional Administrator, Region 6
+ 
+Assistant A
+dministrator and EPA Science Advisor, Office of Research and Development
+ 
+Principal Deputy Assistant Administrator
+ 
+for Science and EPA Science Advisor, Office of 
+Research and Developme
+nt
+ 
+Director, Office of Emergency Management, Office of Land and Emergency
+ 
+Management
+ 
+Director, Office of Air Quality Planning and Standards, Office of Air and Radiation
+ 
+Director, Office of Regional Operations
+ 
+Division Director, Superfund, Region 6
+ 
+Audit Fo
+llow
+-
+Up Coordinator, Office of the Administrator
+ 
+Audit Follow
+-
+Up Coordina
+tor, Office of Air and Radiation
+ 
+Audit Follow
+-
+Up Coordinator, Office of Land and Emergency Management
+ 
+Audit Follow
+-
+Up Coordinator, Office of Research and Development
+ 
+Audit 
+Follow
+-
+Up C
+o
+ordinator, Office of Air Quality Planning and Standards, Office of Air 
+a
+nd
+ 
+Radiation
+ 
+Audit Follow
+-
+Up Coordinator, Region 6
+ 
+ 
+ 

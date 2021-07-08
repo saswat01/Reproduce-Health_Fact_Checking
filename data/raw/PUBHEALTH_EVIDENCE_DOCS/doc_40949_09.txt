@@ -1,0 +1,217 @@
+From basic information about cancer and its causes to in-depth information on specific cancer types – including risk factors, early detection, diagnosis, and treatment options – you’ll find it here.
+ It’s also important to follow recommended screening guidelines, which can help detect certain cancers early.
+ We can even find you a free ride to treatment or a free place to stay when treatment is far from home.
+ Research.
+ We’ve invested more than $4.9 billion in cancer research since 1946, all to find more – and better – treatments, uncover factors that may cause cancer, and improve cancer patients’ quality of life.
+ Explore Our Research         									Research News 								    									Facts &amp; Figures Publications 								    									Cancer Statistics Center 								     Life Saving Research    									 Research We Conduct 								    									Research We Fund 								    									Current Research Investments 								    									Our Research Team 								    									Apply For a Grant 								     Explore Our Research    									Tobacco Atlas 								    									Cancer Atlas 								    									Cancer Infographics 								    									What Will It Take to End Cancer?
+ Together, we’re making a difference – and you can, too.
+ Become a volunteer, make a tax-deductible donation, or participate in a fundraising event to help us save lives.
+ Learn more about these partnerships and how you too can join us in our mission to save lives, celebrate lives, and lead the fight for a world without cancer.
+ Until we do, we’ll be funding and conducting research, sharing expert information, supporting patients, and spreading the word about prevention.
+ All so you can live longer — and better.
+ Sun and Other Types of Radiation             Cell Phone Towers      The widespread use of cell phones in recent decades has led to a large increase in the number of cell phone towers (also known as base stations) being placed in communities.
+ These towers have electronic equipment and antennas that receive and transmit cell phone signals using radiofrequency (RF) waves.
+ Cell phone towers are still relatively new, and many people are understandably concerned about whether the RF waves they give off might possibly have health effects.
+ At this time, there’s no strong evidence that exposure to RF waves from cell phone towers causes any noticeable health effects.
+ However, this does not mean that the RF waves from cell phone towers have been proven to be absolutely safe.
+ Most expert organizations agree that more research is needed to help clarify this, especially for any possible long-term effects.
+ How do cell phone towers expose people to RF waves?
+ Cell phone base stations can be free-standing towers or mounted on existing structures, such as trees, water tanks, or tall buildings.
+ The antennas need to be high enough to adequately cover a certain area.
+ Base stations are usually from 50 to 200 feet high.
+ Cell phones communicate with nearby cell towers mainly through RF waves, a form of energy in the electromagnetic spectrum between FM radio waves and microwaves.
+ Like FM radio waves, microwaves, visible light, and heat, they are forms of non-ionizing radiation.
+ This means they do not directly damage the DNA inside cells, which is how stronger (ionizing) types of radiation such as x-rays, gamma rays, and ultraviolet (UV) rays are thought to be able to cause cancer.
+ Image credit: National Cancer Institute        The electromagnetic spectrum illustration above shows the possible frequencies of electromagnetic energy, ranging from extremely low frequencies (such as those from power lines) to extremely high frequencies (such as x-rays and gamma rays), and includes both non-ionizing and ionizing radiation.
+ At very high levels, RF waves can heat up body tissues.
+ But the levels of energy used by cell phones and towers are much lower.
+ When a person makes a cell phone call, a signal is sent from the phone’s antenna to the nearest base station antenna.
+ The base station responds to this signal by assigning it an available RF channel.
+ RF waves transfer the voice information to the base station.
+ The voice signals are then sent to a switching center, which transfers the call to its destination.
+ Voice signals are then relayed back and forth during the call.
+ When RF signals are transmitted back and forth to the base station during calls, the RF waves produced at the base station are given off into the environment, where people can be exposed to them.
+ On the ground near a cell phone tower RF waves from a cell phone tower antenna, like those from other telecommunication antennas, are directed toward the horizon (parallel to the ground), with some downward scatter.
+ Base station antennas use higher power levels than other types of land-mobile antennas, but much lower levels than those from radio and television broadcast stations.
+ The amount of energy from RF waves decreases rapidly as the distance from the antenna increases.
+ As a result, the level of exposure to RF waves at ground level is much lower than the level close to the antenna.
+ At ground level near typical cellular base stations, the amount of energy from RF waves is hundreds to thousands of times less than the limits for safe exposure set by the US Federal Communication Commission (FCC) and other regulatory authorities.
+ It is very unlikely that a person could be exposed to RF levels in excess of these limits just by being near a cell phone tower.
+ On a roof with a cellular antenna When a cellular antenna is mounted on a roof, it is possible that a person on the roof could be exposed to RF levels greater than those typically encountered on the ground.
+ But even then, exposure levels approaching or exceeding the FCC safety guidelines are only likely to be found very close to and directly in front of the antennas.
+ If this is the case, access to these areas should be limited.
+ Indoors with a base station mounted on the outside of the building   The level of energy from RF waves inside buildings where a base station is mounted is typically much lower than the level outside, depending on the construction materials of the building.
+ Antennas are pointed away from the side of the building, and the energy level behind the antenna is hundreds to thousands of times lower than in front.
+ On top of this, wood or cement block reduces the exposure to energy from RF waves by a factor of about 10.
+ Therefore, if an antenna is mounted on the side of a building, the exposure level in the room directly behind the wall is typically well below the recommended exposure limits.
+ Near a 5G base station Newer, smaller versions of base stations (often referred to as small cells), which are part of fifth generation (5G) cellular networks, are discussed below.
+ Do cell phone towers cause cancer?
+ Some people have expressed concern that living, working, or going to school near a cell phone tower might increase the risk of cancer or other health problems.
+ At this time, there isn't a lot of evidence to support this idea.
+ Still, more research is needed to be sure.
+ What expert agencies say The American Cancer Society (ACS) does not have any official position or statement on whether or not radiofrequency (RF) radiation from cell phones, cell phone towers, or other sources is a cause of cancer.
+ ACS generally looks to other expert organizations to determine if something causes cancer (that is, if it is a carcinogen), including:  The International Agency for Research on Cancer (IARC), which is part of the World Health Organization (WHO) The US National Toxicology Program (NTP), which is formed from parts of several different government agencies, including the National Institutes of Health (NIH), the Centers for Disease Control and Prevention (CDC), and the Food and Drug Administration (FDA)  Other major organizations might also comment on the ability of certain exposures to cause cancer.
+ What they say about cell phone towers So far, neither IARC nor the NTP have classified the cancer-causing potential of RF waves from cell phone towers specifically.
+ However, some other agencies have commented on cell tower safety.
+ The US Federal Communications Commission (FCC) has said this about cell phone towers near homes or schools:   “[R]adiofrequency emissions from antennas used for cellular and PCS [personal communications service] transmissions result in exposure levels on the ground that are typically thousands of times below safety limits.
+ These safety limits were adopted by the FCC based on the recommendations of expert organizations and endorsed by agencies of the Federal Government responsible for health and safety.
+ Therefore, there is no reason to believe that such towers could constitute a potential health hazard to nearby residents or students.” What they say about RF radiation in general Based on a review of studies published up until 2011, the International Agency for Research on Cancer (IARC) has classified RF radiation as “possibly carcinogenic to humans,” based on limited evidence of a possible increase in risk for brain tumors among cell phone users, and inadequate evidence for other types of cancer.
+ (For more information on the IARC classification system, see Known and Probable Human Carcinogens.)
+ More recently, the US Food and Drug Administration (FDA) issued a technical report based on results of studies published between 2008 and 2018, as well as national trends in cancer rates.
+ The report concluded: “Based on the studies that are described in detail in this report, there is insufficient evidence to support a causal association between radiofrequency radiation (RFR) exposure and [tumor formation].” So far, the National Toxicology Program (NTP) has not included RF radiation in its Report on Carcinogens, which lists exposures that are known to be or reasonably anticipated to be human carcinogens.
+ What studies have shown Researchers generally use two types of studies when trying to determine if something might cause cancer:  Studies looking at groups of people Studies done in the lab (using lab animals or cell cultures)  The following is a brief summary of the major studies that have looked at this issue to date.
+ However, this is not a comprehensive review of all studies that have been done.
+ Studies in people living near cell phone towers So far, not many studies in people have focused specifically on cellular phone towers and cancer risk, and the results of these studies have not provided clear answers.
+ A large British study comparing families of young children with cancer with families of children without cancer found no link between a mother’s exposure to the towers during pregnancy (based on the distance from the home to the nearest tower and on the amount of energy from RF waves given off by nearby towers) and the risk of early childhood cancer.
+ Researchers in Taiwan compared children with cancer to a group of similar children without cancer.
+ They found slightly higher overall risk of cancer in those who lived in towns that had an estimated RF exposure from cell phone towers that was above the midpoint level in the study.
+ However, this finding was less apparent when RF exposure was categorized in other ways.
+ Both of these studies relied on estimates of RF exposure.
+ Neither of them measured the actual exposure of people to RF waves from nearby cell phone towers.
+ This limitation makes it harder to know what the results of these studies might mean.
+ Studies looking at cell phone use The amount of exposure from living near a cell phone tower typically is many times lower than the exposure from using a cell phone.
+ Several dozen studies have looked at possible links between cell phone use and tumors in people.
+ Most studies to date have not found a link between cell phone use and cancer, although these studies have had some important limitations.
+ This is an area of active research.
+ For more information, see Cellular (Cell) Phones.
+ Lab studies on RF waves RF waves given off by cell phone towers don’t have enough energy to damage DNA directly or to heat body tissues.
+ Because of this, it’s not clear how cell phone towers might be able to cause cancer.
+ Some studies have found possible increased rates of certain types of tumors in lab animals exposed to RF radiation, but overall, the results of these types of studies have not provided clear answers so far.
+ Large studies published in 2018 by the US National Toxicology Program (NTP)   and by the Ramazzini Institute in Italy   exposed groups of lab rats (as well as mice, in the case of the NTP study) to RF waves over their entire bodies for many hours a day, starting before birth and continuing for most or all of their natural lives.
+ Both studies found an increased risk of uncommon heart tumors called malignant schwannomas in male rats, but not in female rats (nor in male or female mice, in the NTP study).
+ The NTP study also reported possible increased risks of certain types of tumors in the brain and in the adrenal glands.
+ While both of these studies had strengths, they also had limitations that make it hard to know how they might apply to humans being exposed to RF waves from cell phone towers.
+ A 2019 review of these two studies by the International Commission on Non-Ionizing Radiation Protection (ICNIRP) determined that the limitations of the studies didn’t allow conclusions to be drawn regarding the ability of RF energy to cause cancer.
+ Still, the results of these studies do not rule out the possibility that the RF waves used in cell phone communication might somehow impact human health.
+ What about 5G networks?
+ Fifth generation (5G) cellular networks are now being rolled out in many parts of the United States and in other countries.
+ 5G networks are capable of transmitting much larger amounts of data over shorter periods of time than previous generations (4G, 3G, etc.).
+ Earlier generation networks have used RF wavelengths below 6 gigahertz (GHz).
+ 5G networks will use some wavelengths in this range, but will also use some higher frequency wavelengths, at the lower end of the millimeter wave spectrum (which ranges from 30 GHz to 300 GHz).
+ While these RF waves are higher frequency (higher energy) than those used by older generations, they are still forms of non-ionizing radiation, so they still lack the ability to directly damage DNA.
+ The higher frequency waves used by 5G travel shorter distances and don’t go through objects (such as buildings, or even tree leaves) as well as lower frequency waves.
+ Because of this, 5G networks require many more, smaller versions of base stations (often referred to as small cells) in some places, especially in densely populated areas.
+ These small cells can be mounted on streetlights, utility poles, buildings, and other structures.
+ This could result in the antennas being closer to people, although small cells typically operate at much lower power levels than the larger (macro) base stations.
+ The addition of the higher wavelengths from 5G networks could also expose people to more RF waves overall.
+ At the same time, these higher frequency RF waves are less able to penetrate the body than lower frequency waves, so in theory they might be less likely to have any potential health effects.
+ But so far this issue has not been well studied.
+ At this time, there has been very little research showing that the RF waves used in 5G networks are any more (or less) of a concern than the other RF wavelengths used in cellular communication.
+ Written by   Additional resources   Resources               The American Cancer Society medical and editorial content team  Our team is made up of doctors and oncology certified nurses with deep knowledge of cancer care as well as journalists, editors, and translators with extensive experience in medical writing.
+ Along with the American Cancer Society, other sources of information include: Federal Communications Commission  RF Safety FAQ: www.fcc.gov/engineering-technology/electromagnetic-compatibility-division/radio-frequency-safety/faq/rf-safety   Food and Drug Administration Cell Phones: www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/cell-phones National Cancer Institute Cell Phones and Cancer Risk: www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet Electromagnetic Fields and Cancer: www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet National Institute of Environmental Health Sciences Electric and Magnetic fields: www.niehs.nih.gov/health/topics/agents/emf/index.cfm Cell Phone Radio Frequency Radiation: www.niehs.nih.gov/health/topics/agents/cellphones/index.cfm * Inclusion on this list does not imply endorsement by the American Cancer Society            ANSI-C95.1, 1982, American National Standards Institute.
+ American national standard safety levels with respect to human exposure to radiofrequency electromagnetic fields, 300 kHz to 100 Ghz.
+ New York: IEEE.
+ Elliott P, Toledano MB, Bennett J, et al.
+ Mobile phone base stations and early childhood cancers: Case-control study.
+ BMJ.
+ 2010;340:c3077.
+ [Epub] Falcioni L, Bua L, Tibaldi E, et al.
+ Report of final results regarding brain and heart tumors in Sprague-Dawley rats exposed from prenatal life until natural death to mobile phone radiofrequency field representative of a 1.8 GHz GSM base station environmental emission.
+ Environ Res.
+ 2018;165:496-503.
+ Federal Communications Commission, Office of Engineering and Technology.
+ RF Safety FAQ.
+ 2015.
+ Accessed at https://www.fcc.gov/engineering-technology/electromagnetic-compatibility-division/radio-frequency-safety/faq/rf-safety on December 30, 2019.
+ Food &amp; Drug Administration.
+ Review of Published Literature between 2008 and 2018 of Relevance to Radiofrequency Radiation and Cancer.
+ 2020.
+ Accessed at https://www.fda.gov/media/135043/download on March 19, 2020.
+ IEEE-C95.1, 1991, Institute of Electrical and Electronics Engineers, Inc. Safety levels with respect to human exposure to radio frequency electromagnetic fields, 3 kHz to 300 Ghz.
+ Piscataway, NJ: IEEE.
+ IEEE: Institute of Electrical and Electronics Engineers, Inc. Human exposure to RF emissions from cellular radio base station antennas; Washington, DC: 1992. International Agency for Research on Cancer.
+ IARC Monographs on the Evaluation of Carcinogenic Risks to Humans.
+ Volume 102: Non-ionizing Radiation, Part 2: Radiofrequency Electromagnetic Fields.
+ 2013.
+ Accessed at https://publications.iarc.fr/126 on December 4, 2019. International Commission on Non-Ionizing Radiation Protection (ICNIRP).
+ Health Issues related to the use of hand-held radiotelephones and base transmitters.
+ Health Phys.
+ 1996;70:587-593. International Commission on Non-Ionizing Radiation Protection (ICNIRP).
+ ICNIRP Note: Critical Evaluation of Two Radiofrequency Electromagnetic Field Animal Carcinogenicity Studies Published in 2018.
+ Health Phys.
+ 2019 Aug 27.
+ [Epub ahead of print] IRPA, 1988, International Radiation Protection Association.
+ Guidelines on limits of exposure to radio frequency electromagnetic fields.
+ IEEE United States Activities, COMAR, Washington, DC.
+ Li CY, Liu CC, Chang YH, Chou LP, Ko MC.
+ A population-based case-control study of radiofrequency exposure in relation to childhood neoplasm.
+ Sci Total Environ.
+ 2012 Oct 1;435-436:472-478.
+ National Council on Radiation Protection (NCRP).
+ 1986.
+ Biological effects and exposure criteria for radiofrequency electromagnetic fields.
+ Report 86, (Bethesda, MD: National Council on Radiation Protection and Measurements) pp.
+ 1-382.
+ National Institute of Environmental Health Sciences.
+ Cell Phone Radio Frequency Radiation Studies.
+ 2019.
+ Accessed at https://www.niehs.nih.gov/health/materials/cell_phone_radiofrequency_radiation_studies_508.pdf on December 27, 2019.
+ Repacholi M, van Deventer E, Ravazzani P, eds.
+ Base stations and wireless networks: Exposures and health consequences.
+ World Health Organization.
+ Röösli M, Frei P, Mohler E, Hug K. Systematic review on the health effects of exposure to radiofrequency electromagnetic fields from mobile phone base stations.
+ Bull World Health Organ.
+ 2010 Dec 1;88(12):887-896F.
+ Additional resources     Along with the American Cancer Society, other sources of information include: Federal Communications Commission  RF Safety FAQ: www.fcc.gov/engineering-technology/electromagnetic-compatibility-division/radio-frequency-safety/faq/rf-safety   Food and Drug Administration Cell Phones: www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/cell-phones National Cancer Institute Cell Phones and Cancer Risk: www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet Electromagnetic Fields and Cancer: www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet National Institute of Environmental Health Sciences Electric and Magnetic fields: www.niehs.nih.gov/health/topics/agents/emf/index.cfm Cell Phone Radio Frequency Radiation: www.niehs.nih.gov/health/topics/agents/cellphones/index.cfm * Inclusion on this list does not imply endorsement by the American Cancer Society        Resources     ANSI-C95.1, 1982, American National Standards Institute.
+ American national standard safety levels with respect to human exposure to radiofrequency electromagnetic fields, 300 kHz to 100 Ghz.
+ New York: IEEE.
+ Elliott P, Toledano MB, Bennett J, et al.
+ Mobile phone base stations and early childhood cancers: Case-control study.
+ BMJ.
+ 2010;340:c3077.
+ [Epub] Falcioni L, Bua L, Tibaldi E, et al.
+ Report of final results regarding brain and heart tumors in Sprague-Dawley rats exposed from prenatal life until natural death to mobile phone radiofrequency field representative of a 1.8 GHz GSM base station environmental emission.
+ Environ Res.
+ 2018;165:496-503.
+ Federal Communications Commission, Office of Engineering and Technology.
+ RF Safety FAQ.
+ 2015.
+ Accessed at https://www.fcc.gov/engineering-technology/electromagnetic-compatibility-division/radio-frequency-safety/faq/rf-safety on December 30, 2019.
+ Food &amp; Drug Administration.
+ Review of Published Literature between 2008 and 2018 of Relevance to Radiofrequency Radiation and Cancer.
+ 2020.
+ Accessed at https://www.fda.gov/media/135043/download on March 19, 2020.
+ IEEE-C95.1, 1991, Institute of Electrical and Electronics Engineers, Inc. Safety levels with respect to human exposure to radio frequency electromagnetic fields, 3 kHz to 300 Ghz.
+ Piscataway, NJ: IEEE.
+ IEEE: Institute of Electrical and Electronics Engineers, Inc. Human exposure to RF emissions from cellular radio base station antennas; Washington, DC: 1992. International Agency for Research on Cancer.
+ IARC Monographs on the Evaluation of Carcinogenic Risks to Humans.
+ Volume 102: Non-ionizing Radiation, Part 2: Radiofrequency Electromagnetic Fields.
+ 2013.
+ Accessed at https://publications.iarc.fr/126 on December 4, 2019. International Commission on Non-Ionizing Radiation Protection (ICNIRP).
+ Health Issues related to the use of hand-held radiotelephones and base transmitters.
+ Health Phys.
+ 1996;70:587-593. International Commission on Non-Ionizing Radiation Protection (ICNIRP).
+ ICNIRP Note: Critical Evaluation of Two Radiofrequency Electromagnetic Field Animal Carcinogenicity Studies Published in 2018.
+ Health Phys.
+ 2019 Aug 27.
+ [Epub ahead of print] IRPA, 1988, International Radiation Protection Association.
+ Guidelines on limits of exposure to radio frequency electromagnetic fields.
+ IEEE United States Activities, COMAR, Washington, DC.
+ Li CY, Liu CC, Chang YH, Chou LP, Ko MC.
+ A population-based case-control study of radiofrequency exposure in relation to childhood neoplasm.
+ Sci Total Environ.
+ 2012 Oct 1;435-436:472-478.
+ National Council on Radiation Protection (NCRP).
+ 1986.
+ Biological effects and exposure criteria for radiofrequency electromagnetic fields.
+ Report 86, (Bethesda, MD: National Council on Radiation Protection and Measurements) pp.
+ 1-382.
+ National Institute of Environmental Health Sciences.
+ Cell Phone Radio Frequency Radiation Studies.
+ 2019.
+ Accessed at https://www.niehs.nih.gov/health/materials/cell_phone_radiofrequency_radiation_studies_508.pdf on December 27, 2019.
+ Repacholi M, van Deventer E, Ravazzani P, eds.
+ Base stations and wireless networks: Exposures and health consequences.
+ World Health Organization.
+ Röösli M, Frei P, Mohler E, Hug K. Systematic review on the health effects of exposure to radiofrequency electromagnetic fields from mobile phone base stations.
+ Bull World Health Organ.
+ 2010 Dec 1;88(12):887-896F.
+ Last Revised: June 1, 2020     American Cancer Society medical information is copyrighted material.
+ For reprint requests, please see our Content Usage Policy.
+ Help make it a reality.
+ DONATE               Cancer Information    Cancer Prevention &amp; Detection     Cancer Basics     Signs &amp; Symptoms of Cancer     Treatments &amp; Side Effects     Cancer Facts &amp; Statistics     News and Stories     Glossary     For Health Care Professionals               Programs &amp; Services    Breast Cancer Support     TLC Hair Loss &amp; Mastectomy Products     Hope Lodge® Lodging     Rides To Treatment     Online Support Communities               ACS FUNDRAISERS    Making Strides Against Breast Cancer Walks     Relay For Life Events     College Relay For Life     Coaches vs. Cancer     Galas, Balls &amp; Parties     Ways to Give     Memorial Giving     Planned Giving     Leadership Giving     Donate a Car               About ACS    Contact Us     Local Offices     Employment     Information for Suppliers     Report Fraud or Abuse     Global Health     Cancer Action Network     Sign Up for Email     Policies     Our Volunteers               More ACS Sites    Bookstore     Cancer Atlas     Cancer Statistics Center     Press Room     The NFL Defender Health Quiz     Volunteer Community                    Follow Us Twitter Facebook Instagram   Cancer Information, Answers, and Hope.
+ Available Every Minute of Every Day.
+ 800.227.2345         		Live Chat           Follow Us Twitter Facebook Instagram                  help                  site map                  privacy policy                  accessibility                  terms of use                  state fundraising notices                  Site Comments            © 2020 American Cancer Society, Inc. All rights reserved.
+ The American Cancer Society is a qualified 501(c)(3) tax-exempt organization.
+ Tax ID Number: 13-1788491.
+ Cancer.org is provided courtesy of the Leo and Gloria Rosen family.

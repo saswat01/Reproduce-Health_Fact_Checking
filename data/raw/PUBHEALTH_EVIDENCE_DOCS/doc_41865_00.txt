@@ -1,0 +1,2188 @@
+  AV 1098/08 Page 2 of 78 DELTA Acoustics & Electronics Title EFP-06 project 
+Low Frequency Noise from Large Wind Turbines  
+  A procedure for evaluation of the audibility for low frequency sound and a literature study 
+Journal no. Project no. Our ref. 
+AV 1098/08 A401929-
+12 THP/BSg/ilk 
+Client Danish Energy Authority  
+Amaliegade 44 
+1256 Copenhagen K 
+Client ref. Contract no.: 033001/33032-0081      
+ Preface The work presented in this report is part of the EFP-06 project called ﬁLow Frequency Noise 
+from Large Wind Turbines Œ Quantification of th
+e Noise and Assessment of the Annoyanceﬂ. 
+The project is funded by the Danish Energy Authority under contract number 033001/33032-
+0081. Supplementary funding to the project is given by Vestas Wind Systems A/S, Siemens 
+Wind Power A/S, Vattenfall AB Vindkraft, DONG Energy, E.ON Vind Sverige AB. 
+The project has been carried out in cooperation between DELTA, Risø DTU, DONG Energy 
+and Aalborg University. 
+  The main topics in the present report are:
+ - A general method for the assessment of the audibility of low frequency sounds both in 
+relation to the hearing threshold and in relation to masking from background noise 
+- Criteria for qualified reporting of wind turbine studies 
+- A literature study where the data found are compared according to the principles men-
+tioned aboveDELTA, 30 April 2008 
+  Torben Holm Pedersen 
+Acoustics      AV 1098/08 Page 3 of 78 DELTA Acoustics & Electronics Contents 0. Summary.......................................................................................................................5
+ 1. Introduction..................................................................................................................7
+ 2. Purpose........................................................................................................................
+..7
+ 3. Definitions....................................................................................................................
+.9 3.1 Total noise, wind turbine noise, and background noise..........................................9
+ 3.2 Infrasound and low frequency sound....................................................................11
+ 3.3 Hearing threshold for tones and narrow band noise.............................................11
+ 3.4 Loudness...............................................................................................................13
+ 3.5 Critical bands........................................................................................................15
+ 3.6 Low frequency A-weighted sound pressure level, L
+pA, LF
+.....................................16
+ 3.7 Masking thresholds and audibility of tones and narrowband noise......................17
+ 3.8 Annoyance............................................................................................................18
+ 4. Audibility of broad band noise near the hearing threshold...................................20
+ 4.1 A ﬁreasonableﬂ procedure for predicting the audibility of broad band 
+sounds near the hearing threshold for frequencies below 500 Hz........................22
+ 4.1.1 HT-weighting..............................................................................................22
+ 4.1.2 Energy addition of combined analysis bands..............................................24
+ 5. The audibility of broad band sounds partly masked by other sounds..................27
+ 6. Conclusions on audibility of low frequencies from wind turbines.........................31
+ 6.1 For stable wind conditions....................................................................................32
+ 6.1.1 Is the low frequency wind turbine noise below the hearing threshold?......32
+ 6.1.2 Is the low frequency wind turbine noise below the masking 
+threshold?....................................................................................................32
+ 6.2 For unstable wind conditions................................................................................33
+ 7. Outdoor or Indoor conditions...................................................................................33
+ 8. Natural background noise.........................................................................................35
+ 9. Annoyance...................................................................................................................39
+ 9.1 Annoyance of noise from wind turbines...............................................................39
+ 9.2 Annoyance of low frequency sounds....................................................................40
+ 10. Remarks to the literature study................................................................................42 
+   AV 1098/08 Page 4 of 78 DELTA Acoustics & Electronics  11. Low-Frequency Sound from Wind Turbines..........................................................43
+ 11.1 Low Frequency Noise and Wind 
+Turbines, British Wind Energy 
+Association [7]......................................................................................................43
+ 11.2 The measurements of low frequency noise at three UK wind farms Hayes 
+
+McKenzie partnership, [11]..................................................................................43
+ 11.3 Acoustic and Geophysical Measurement of Infrasound from Wind farm 
+Turbines Hepburn, Howard G. [13]......................................................................46
+ 11.4 Infrasound from Wind Turbines Œ Facts, Fiction or Deception Dr. Geoff 
+
+Leventhall [31]......................................................................................................50
+ 11.5 Human response to wind turbine noise Œ perception, annoyance and 
+moderating factors. Eja Pedersen [41]..................................................................53
+ 11.6 An investigation into wind farms and noise The Noise Association. John 
+
+Stewart, July 2006, reference [49]........................................................................53
+ 11.7 Do wind turbines produce significant low frequency sound levels  G. P. 
+
+van den Berg, reference [6]...................................................................................55
+ 11.8 Auralisation and assessment of annoyance from wind turbines Søren Vase 
+Legarth, Reference [26]........................................................................................58
+ 11.9 Vurdering af lavfrekvent støj og infralyd fra decentrale el-producerende 
+
+anlæg Christian Sejer Pedersen og Henrik Møller, reference [38].......................59
+ 11.10 Overview and conclusions..........................................................................63
+ 12. Low frequency content compared to other sources................................................65
+ 13. Conclusions.................................................................................................................66
+ 13.1 Characteristics of Wind Turbine Noise................................................................66
+ 13.2 Annoyance of Noise from Wind Turbines............................................................67
+ 13.3 Further Information Needed.................................................................................67
+ 14. References...................................................................................................................69
+ 15. Appendix Œ Assessment of the audi
+bility of low frequency sounds.......................75
+ 15.1 Audibility of sounds near the hearing threshold...................................................75
+ 15.1.1 HT-weighting...............................................................................75
+ 15.1.2 Energy addition of combined analysis bands...............................76
+ 15.1.3 Audibility criterion.......................................................................77
+ 15.2 Audibility of sounds partly 
+masked by other sounds............................................77
+ 15.2.1 Simple situations..........................................................................77
+ 15.2.2 Not simple situations....................................................................78
+     AV 1098/08 Page 5 of 78 DELTA Acoustics & Electronics 0. Summary This literature study concentrates on the low 
+frequency noise from wind turbines. In the 
+start of this report some background and a number of definitions are given. 
+Conclusions on the audibility of the low frequency noise in the literature are often made 
+from psycho-acoustic inadequate procedures and methods. In order to qualify the conclu-
+sions of the audibility of low frequency sounds a method for calculating the audibility of 
+low frequency sound (and infrasound) has been 
+defined prior to the literature study. 
+The method defines the audibility of low 
+frequency broad band sounds (from wind tur-
+bines) both in relation to the absolute hearing threshold and in relation to masking thresh-
+olds (wind noise in vegetation). For narrow band noise or tonal sounds the procedure will 
+give the same results as other known methods. The method is psycho-acoustic reasonable 
+but so far untested by listening tests. A verification of the method (with listening test with 
+general noise types) may minimize the need for tests with many specific wind turbine and 
+background noise samples and combinations. The method is described in short form in the 
+Appendix. Investigations of the low frequency sound insulation and background noise (wind noise) 
+from other parts of the project has been taken into account. There are large differences of 
+these matters from location to location and therefore it has been chosen to give general 
+statements based on averages. 
+It has been a problem to find well documented data and bring them on a common form for 
+direct comparison, because important information is missing. Especially data on large tur-
+bines are missing and data for both indoor and outdoor conditions are missing. Often the 
+articles and reports have an insufficient documentation of the sound sources (the turbines) 
+
+their operating conditions (wind speed etc.) and the measurement locations and instrumen-
+tations. Therefore a set of criteria for qualified reporting of wind turbine studies has been 
+formulated mainly for sorting the references but hopefully also for a better future docu-
+mentation for such studies.  
+The following conclusions can be drawn: 
+- The noise from modern large wind turbines is dominated by the aerodynamic noise 
+from the blades rotating in the air. The mid and high frequency aerodynamic noise 
+is modulated by the low blade passage frequency (~1 Hz). 
+- It is found that the ﬁswishing soundﬂ is
+ the highest ranking and that ﬁLow fre-
+quencyﬂ is one of the two lowest ranking sound characteristic descriptors in rela-
+tion to annoyance. It is recommended that ﬁattention should be focused on the au-
+dio frequency fluctuating swishﬂ. A metric for this effect has been found. 
+   AV 1098/08 Page 6 of 78 DELTA Acoustics & Electronics - There is general agreement that wind turbines do not emit audible infrasound. The 
+levels are far below the hearing threshold. 
+- Audible low frequency sound occurs both indoor and outdoor, but the levels are in 
+general close to the hearing and/or masking threshold. There seem to be agreement 
+that it is not considered to be a problem, or it have not been shown that this is a 
+major factor contributing to annoyance. 
+- Other noise sources e.g. road traffic emit low frequency noise of higher levels in 
+their vicinity. It has been found that the low frequency sound is audible for normal 
+hearing persons if no other sound than the natural background noise is masking the 
+
+wind turbine noise. 
+- At a distance of 6 hub heights it seems that in average the noise levels from the 
+turbines are close to the Danish outdoor noise limits, but in all cases the indoor A-
+weighted low frequency limit for L
+pA, LF
+ seem to be observed. 
+- Data seem to show that turbines larger than 2 MW electrical power in average give 
+slightly higher sound power levels than the smaller turbines. Apart from low fre-
+quency tones from some prototype turbines the low frequency part of the spectrum 
+is not more dominant for the larger turbines. 
+- Tones may occur and large turbines may have tones of lower frequencies due to 
+the lower rotational speed. Audible tones increase the annoyance but they can be 
+avoided by good design. 
+- It has been found that the annoyance of low frequency sound increases more rap-
+idly with the level than for sounds of higher frequencies when the sound is audible.  
+   AV 1098/08 Page 7 of 78 DELTA Acoustics & Electronics 1. Introduction Wind turbines generate noise that may annoy neighbours to the turbines. Although the 
+emitted noise per kW has decreased during the years there is still a need for noise limits set 
+up by the authorities for regulation of the environmental noise emissions from the turbines. 
+These restrictions should limit the noise anno
+yance to an acceptable level. The limits for 
+the noise are laid down under the presumption that the A-weighted noise levels and the 
+audibility of tones from the turbine are sufficient descriptors of the noise for quantification 
+
+of the environmental noise impact. In the public debate infrasound and low frequency 
+sound have been mentioned as possible reasons for increased annoyance, especially for the 
+large turbines. Although a large number of measurements indicate that these effects are not 
+prominent, systematic studies of these effects have not been performed until now. 
+As a first step a literature survey has been
+ made on the issue of low frequency noise and 
+infrasound from wind turbines [42]. The conclusion from this survey was that infrasound 
+levels from wind turbines are so low, that they do not constitute a problem. This result is 
+confirmed by some of the references for the present project and therefore infrasound issue 
+will only be dealt with as side remarks if it incidentally is mentioned in the references for 
+
+this project. The present study will concentrate on the low fre
+quency noise. From the start it was clear, 
+that the conclusions on the audibility of th
+e low frequency noise in the literature often 
+were made from psycho-acoustic inadequate procedures and methods. In order to qualify 
+the conclusions of the audibility of low frequency sounds a procedure for calculating the 
+audibility of low frequency sound (and infrasound) has been defined as part of this litera-
+ture study. 
+2. Purpose The purpose of the project is to enlighten the following issues: 
+1. Do wind turbines generate low-frequency sound to an extent that it needs special 
+attention? 
+2. Is low-frequency sound a special source of annoyance (indoor and/or outdoor) for 
+people living in the vicinity of wind turbines? 
+3. Is the relative content of low-frequency sound a special problem for the large (1-4 
+MW) modern wind turbines 
+   AV 1098/08 Page 8 of 78 DELTA Acoustics & Electronics 4. Is the relative content of low-frequency sound larger for the large turbines than for 
+other noise sources (industrial noise, tr
+affic noise, or wind-induced background 
+noise)? These issues will also be pursued in the literature study. 
+Usually the limits for wind turbine noise are stated as A-weighted sound pressure levels at 
+one or more wind speeds. In Denmark these limits are defined in reference [7]. According 
+to this regulation the following noise limits in apply 
+Wind speed at 10 m height6 m/s 8 m/s 
+Near the nearest residence in the open country 42 dB(A) 44 dB(A) 
+In noise sensitive areas, such as residential or recreational areas 37 dB(A) 39 dB(A) 
+Figure 1 Danish outdoor noise limits for wind turbines at 6 and 8 m/s wind speeds referred to a 
+height of 10 m. The low frequency part of the noise needs special attention if the noise limits are complied 
+with and: - the low frequency content is audible i.e. above the hearing threshold and the mask-
+ing thresholds in background noise 
+- the low frequency content constitutes a speci
+ally annoying characteristic of the 
+wind turbine noise.  
+The last question may be very difficult to answer specifically because the low frequency 
+noise may not appear independent of other annoying characteristics such as swishing 
+sounds from the turbine blades and tones from the gear and other parts 
+Both sound propagation and sound insulation will increase the relative content of low fre-quency noise. This may cause this characteristic to be prominent, especially indoor. Fur-
+thermore the masking background noise indoor may be very low. 
+It is of course relevant to investigate if the low frequency content of the noise is larger or 
+relatively larger for the big modern turbines compared to the older and minor types. 
+Furthermore it is relevant to compare the low frequency content of the noise from wind 
+turbines with the low frequency content in noise from other sources. By this comparison it 
+
+should be taken into consideration that the annoyance of noise from wind turbines is larger 
+than for the same A-weighted levels of noise from other sources. 
+   AV 1098/08 Page 9 of 78 DELTA Acoustics & Electronics If we look at the problems from source to receiver, then we want to answer the following 
+questions: - does large modern wind turbines emit more or relatively more low frequency noise 
+than the older and minor types? 
+- is the low frequency content more dominating than for other types of sources, e.g. 
+traffic noise? 
+- is the low frequency content above the hearing threshold and the masking thresh-
+olds in background noise outdoors and indoors at distances where the noise limits 
+for the A-weighted levels are met? 
+- is the low frequency content a special annoying characteristic of wind turbine 
+noise if the noise limits for the A-weighted levels are met? 
+3. Definitions 3.1 Total noise, wind turbine noise, and background noise The total noise is all the noise present in the position for the observation. The total noise is 
+the sum of wind turbine noise and the background noise. 
+The wind turbine noise is the noise from the wind turbine ideally with no background 
+noise or at least corrected for the background noise in the measuring position. The wind 
+
+turbine noise is often characterized by the A-weighted sound pressure level. Usually the 
+most important frequency range for the A-weighted level is the 200-2000 Hz range. If a 
+sufficient Signal to Noise ratio for wind turbine noise and background noise can be ob-
+tained in this range reliable data for the A-weighted wind turbine noise can be obtained. 
+This means, that when spectra of wind turbine noise is shown it is either spectra of the to-
+tal noise or spectra corrected for background noise at these frequencies, but maybe not at 
+the low frequencies due to an insufficient signal to noise ratio in this range. When spectra 
+for wind turbine noise are found in reports and 
+literature, effort should be made to find out 
+whether it is total noise or wind turbine noise in the full frequency range. The wind turbine 
+
+noise may be measured on a plate on the ground near the wind turbine, the normal proce-
+dure, or it may be measured at the nearest residence. Some of the characteristics of the 
+wind turbine noise may change with distance e.g. the prominence of tones and the swish-
+ing character of the aerodynamic noise from the rotor blades. 
+   AV 1098/08 Page 10 of 78 DELTA Acoustics & Electronics The background noise is in this connection the noise from any other source than the wind 
+turbine. Noise from traffic, industry and farmi
+ng usually decrease in the evenings at night 
+and in the weekends. Background noise from leisure activities may have other patterns. 
+Wind generated noise in vegetation surrounding residents is independent of the day in the 
+week and to some extent the time of day and is always present to a degree only depending 
+on the wind speed and direction and maybe the time of the year. Furthermore the vegeta-
+tion noise increases with wind speed. For off-shore installations noise from waves at the 
+shore may contribute to the natural background noise, but at the residents the vegetation 
+noise is normally the main natural background noise source. So when discussing natural 
+
+background noise in relation to wind turbines in this technical note there is normally meant 
+natural wind generated background noise in vegetation. This may be measured at two dif-
+ferent locations: - On the plate at the ground in connection with the wind turbine measurements for 
+the purpose of correcting the total noise to get the wind turbine noise 
+- At the nearest residence, measuring height 1-1,5 m, usually to for the purpose of 
+measuring the prominence of tones from the wind turbine, but for this project also 
+for investigating masking effects in general 
+Usually the wind generated background noise has the highest levels in the last mentioned 
+situation unless the wind speed here is considerably lower than at the location of the wind 
+turbine. The wind generated background noise level increases more with wind speed than the wind 
+turbine noise, so masking is more pronounced a high wind speeds. 
+In both the above mentioned locations also wind generated noise in the microphone will 
+occur as part of the background noise. The type of wind screen will have influence on this 
+type of noise. Ideally the wind screen should prevent this type of background noise to be 
+
+dominating, but it is not always the case. 
+Both the wind turbine noise and the background noise can be characterised in a number of 
+ways as e.g. the equivalent A-weighted levels, L
+Aeq, the maximal levels (e.g. with time 
+weighting F) Lp.A max F
+, the level exceeded a certain percentage of the time e.g. 95%, L
+95. Spectra showing the frequency content is usually also measured either in 1/3 octave bands 
+or as narrow band analysis. The spectre is usually the average over some specified period 
+of time. 
+   AV 1098/08 Page 11 of 78 DELTA Acoustics & Electronics      
+Figure 2 It is necessary to take both variations in time and spectral differences into account when 
+comparing noise from two different sources. The figure is only a sketch for illustration of 
+principles and is not based on real data. 
+As illustrated in Figure 2 it is not sufficient simply to compare the averaged A-weighted 
+sound pressure levels, L
+Aeq
+ when comparing the wind turbine noise with the background 
+noise. Both spectral differences and level variations shall be taken into account. 
+3.2 Infrasound and low frequency sound 
+In this note the term infrasound will be used for sound below 20 Hz. Sound in the frequen-
+cy range 20-200 Hz
+1 will be called low-frequency sound. There are no physical, physio-
+logical, or psychological reasons for this subdivision which is mainly conventional. In 
+spite of the name infrasound (below the audible range) there is nothing mysterious about 
+infrasound. It can be heard if the sound pressure level is high enough. See the definition of 
+hearing threshold below. 3.3 Hearing threshold for ton
+es and narrow band noise The hearing threshold is defined as the level of sound (measured with the test person ab-
+sent) at which an otologically normal person of age 18-25 years with binaural listening 
+
+gives 50 % correct detection response.  
+ 1 When the low frequency range is measured in 1/3 octave bands according to te Danish legislation the 
+centre frequencies of the 1/3 bands in the ra
+nge 10-160 Hz are included, se section 3.6. 
+   AV 1098/08 Page 12 of 78 DELTA Acoustics & Electronics -10
+0102030
+40
+506070
+80
+90100
+110
+120
+
+130
+1,010,0100,01000,0
+Frequency, Hz
+Sound Pressure level, dB
+  Figure 3 The average hearing threshold for pure tones in a free field (full line). The curve is con-
+structed on basis of data from Møller & Pedersen, threshold proposal [33] (2-14 Hz), Wa-
+tanabe & Møller [52](16 Hz) and  ISO 389-7 [17](20-1000 Hz).The inverse A-curve is 
+shown with a broken line. 
+According to reference [35] the standard deviation for the individual threshold is around 5 
+dB both for the ﬁnormalﬂ range and for the low and infrasonic range. Individuals with a 
+threshold several standard deviation lower th
+an normal are seen, but as a normal distribu-
+tion of the thresholds are assumed these are rare. According to reference [33] there is no 
+reason to suspect any effect of the sound field (free field (outdoor) or pressure (indoor) for 
+frequencies below 125 Hz, and according to reference [17] there is no difference between 
+the threshold in a free field (pure sinusoidal tones) and diffuse field (1/3 octave bands of 
+noise, indoor) below 250 Hz. Above 250 the differences between the threshold for tones 
+
+and 1/3 octave band noise is generally below 3 dB with a few exceptions in the 6-10 kHz 
+region. From the figure it is seen that the difference between the inverse A-weighting and the 
+hearing threshold in the frequency range 20-200 
+Hz is up to 28 dB, so the A-weighting is 
+not a good approximation to the sensitivity of the hearing at threshold levels. 
+   AV 1098/08 Page 13 of 78 DELTA Acoustics & Electronics Among researchers there seem to be general agreement that sounds below the (individual) 
+hearing threshold cannot cause direct negative effects such as annoyance
+2). This also holds 
+for the low-frequency and infrasound ranges. 
+3.4 Loudness For pure tones curves for equal loudness, i.e. curves where tones with different frequencies 
+are perceived as equally loud, are given in Figure 4. 
+ Figure 4 Equal loudness contours from ISO 226 , [15], presented together with the inverse A-
+weighting curve (red line) 
+ 2) Indirect effects such as rattling wi
+ndows may occur, but these effects 
+are not considered as direct low 
+frequency or infrasound problems. 
+   AV 1098/08 Page 14 of 78 DELTA Acoustics & Electronics For comparison the inverse A-weighting curve is shown in the same figure. It is seen that 
+the A-weighting is a good approximation to the sensitivity of the hearing for frequencies 
+
+below 1000 Hz at a loudness level of 50 phon. 
+ Figure 5 Loudness at low and infrasonic frequencies. Figure from reference [36]
+ ________
+Møller & 
+Andresen ----- Whittle [53].
+______ 
+A-weighting (curve added for this technical note) 
+Figure 5 shows the loudness curves at low and infrasonic frequencies together with the A-
+weighting curve. It is often said the A-weighting underestimates the level in this frequency 
+range, but this is a very general statement. By looking at this figure, it can be seen that at 
+40 phon an underestimation only takes place at frequencies below 10 Hz compared to the 1 
+kHz reference frequency. From Figure 3 and Fi
+gure 4 it will be seen that in the frequency 
+range down to 20 Hz the A-weighting actually overestimates the low frequency region for 
+levels at 50 phones and below. It may be concluded, that for frequencies and levels rele-
+vant for wind turbine noise the A-weighting 
+does not underestimate the levels at low and 
+infrasonic frequencies. From the figures it will also be seen that at the low and infrasonic frequencies the interval 
+between the equal loudness contours are smaller than at higher frequencies, and this so-
+called ﬁnarrowing of the dynamic rangeﬂ is very marked in the infrasound range. As there 
+   AV 1098/08 Page 15 of 78 DELTA Acoustics & Electronics are some variations between the individual hearing thresholds (of the magnitude +/- 5dB), 
+this means that low-frequency sound or infrasound that is inaudible to one person may be 
+
+clearly audible or even rather loud to another, (especially in the infrasound range). 
+3.5 Critical bands 
+The critical bands are an important property of the hearing. The basis for the detection and 
+loudness perception of a sound and for the masking of one sound with another is the criti-
+cal bands. It is the total sound pressure level in a critical band of a sound, that determines if it is au-
+dible and how loud it is perceived. A tone comp
+lex, with a number of tones (each with lev-
+els below the hearing threshold) will for instance be audible if they are in the same critical 
+band and if the total level of the tones are above the threshold. Tones outside the critical 
+band do not contribute to the audibility. The same applies for noise; if a narrow band fre-
+
+quency analysis is made then it is the energy sum of all lines in a critical band that deter-
+mines whether it is audible and how loud it is perceived. 
+The detection of sound in different critical 
+bands are as a first approximation independent 
+of each other, so if the level of a broad band noise in a number of critical bands are just 
+below the threshold the probability of detection may in principle be calculated by statisti-
+cal means from the ﬁdose-responseﬂ curves 
+for each critical band. Only if a number of 
+bands are close to the threshold (and the rest below) this procedure is relevant. 
+In general we can therefore anticipate that if 
+the level per critical band is above the hearing 
+threshold the sound may be heard by normal hearing persons (if it is not masked by other 
+sounds) 
+Above 500 Hz the bandwidths of the critical bands may be approximated to a relative 
+bandwidth of 20%3. The relative bandwidth of 1/3 octave bands are 23 %. Therefore it 
+may with approximation be concluded that if the level of a noise in any critical band ex-
+ceeds the thresholds for 1/3 octave band noise (see Figure 3 and succeeding remarks) it 
+will be audible. Below 500 Hz the critical bands are approximately 100 Hz wide. There are 
+some discussions among researchers whether the lowest critical band is 20-100 Hz or 0-
+
+100 Hz. This may be seen as a consequence of a limited knowledge of the critical band 
+concept at the lowest frequencies. In this note it is anticipated that the lowest critical band 
+ 3 The level in a critical band with this approxim
+ation will deviate less than 1,2 dB from the Zwicker 
+critical bands (which may be found in
+ reference  [56]) for a flat spect
+rum. This is found to be accept-
+able compared to uncertainties of
+ measured spectra and the spread 
+in the individual hearing thres-
+holds. 
+   AV 1098/08 Page 16 of 78 DELTA Acoustics & Electronics is 0-100 Hz and that the knowledge and observa
+tions known for the critical bands in gen-
+eral also apply to the lowest band. The criti
+cal bands are not centred at any specific fre-
+quencies but can occur at any frequency (corresponding to any position on the basilar 
+membrane in the ear). 
+To find the total level in a critical band from a frequency analysis for frequencies below 
+500 Hz it is in general necessary to combine a number of analysis bandwidths. Within the 
+critical bands below 500 Hz, the minimum audible sound pressure level of a tone or a nar-
+row band noise also varies considerably, see Figure 6. 
+ Frequency band, Hz 20-100 100-200 200-300 300-400 400-500 
+Threshold change, dB 52 12,1 5 2,5 1,8 
+Figure 6 The variation of the minimum audible sound pressure level within a critical band. 
+This means, that especially for the low fre
+quency region the change in the sensitivity of 
+the hearing is so large that it does not seem reasonable to combine the levels in different 
+analysis bands without some sort of frequency weighting. (From Figure 3 it is seen that the 
+A-weighting is a poor approximation to the hearing threshold). 
+3.6 Low frequency A-weighted
+ sound pressure level, LpA, LF LpA ,LF
+ the low frequency A-weighted sound pressure level is used in the Danish legislation 
+to characterize low frequency noise [32]. L
+pA,LF
+ is the A-weighted energy sum of the 1/3 
+octaves 10-160 Hz
+. The indoor limit for evening and night is proposed to L
+pA, LF = 20 dB (as a Leq value over 10 minutes when the noise is maximal). 
+In reference [46] this Danish assessment method, published in reference [32], was com-
+pared to six other assessment methods: The Swedish SOSFS 1996:7, the German DIN 
+45680, a proposal for a Polish method, two Dutch methods and the C-weighted level. A 
+laboratory investigation of the annoyance of low frequency noises was performed. Eight-
+een normal hearing test subjects listened to eight different noises and evaluated the loud-
+ness and the annoyance. The noises had considerable low frequency content. The Danish 
+method gave the best relation to the subjective assessments made by the test persons. 
+For wind turbine noise the energy sum of two lowest critical bands of the A-weighted 
+wind turbine noise as defined in section 6.1 equals in practice L
+pA, LF
+,     AV 1098/08 Page 17 of 78 DELTA Acoustics & Electronics 3.7 Masking thresholds and audibility of tones and narrowband noise 
+In the preceding sections the hearing thres
+hold was defined for tones and narrow band 
+noise in quiet surroundings. If other sounds are present the threshold levels will be in-
+
+creased due to masking from these sounds. The increased threshold levels are called the 
+masking threshold. The masking threshold depends on the nature and the spectrum of the 
+masking sounds. For wind turbines the masking sounds are typically noise from wind in 
+the vegetation and noise from traffic. Both these types of noise are of broadband nature. 
+The masking threshold and the audibility of
+ tones and narrowband noise can be found  
+from the method described in ISO 1996-2 Annex C [18] and reference [44], and will not 
+be described in detail here.  
+-6-4-20
+2
+4681031,563125250500100020004000800016000
+Centre frequency of the critical band [Hz]
+Lpt 
+- Lpn [dB]
+Masking threshold
+KT = 0 dB
+KT = 2 dB
+KT = 1 dB
+KT = 3 dB
+KT = 4 dB
+KT = 5 dB
+KT = 6 dB
+ Figure 7 Masking threshold and curves for determining the adjustment, K
+T to be added to the meas-
+ured LAeq. Lpt is the total sound pressure level of the tones in the critical band, and L
+pn is the total sound pressure level of the masking noise in the critical band. From refer-
+ence[18] 
+From Figure 7 from this document it can be seen that the masking threshold for tones be-
+low 200 Hz is 2 dB below the noise level of the surrounding critical band. A penalty of 0-6 
+dB is added to the measured L
+Aeq of the noise when the tone level is from 2-8 dB above the 
+noise level in the critical band. 
+The ISO 1996-2 Annex C method takes the problems at low frequencies into account by 
+calculating the tone to noise ratio in the critical bands (see the more detailed discussion in 
+   AV 1098/08 Page 18 of 78 DELTA Acoustics & Electronics section 4) from an A-weighted spectrum. From practical examples with a number of tones 
+in the lowest critical band, this has been shown to be more reasonable than using an un-
+
+weighted (linear) spectrum. Nevertheless it should be noted that this procedure have not 
+been tested systematically at low and infrasonic frequencies. 
+3.8 Annoyance 
+Noise annoyance is an emotional and attitudinal reaction from a person exposed to noise in 
+a given context. Annoyance includes the modifying effect of personal and context vari-
+ables. In (laboratory) experiments the context is missing and the test persons are often not the 
+same as the ones exposed to the noise in their homes. The missing context is often sought 
+compensated by letting the test persons imagine a scenario (ﬁimagine that you are sitting in 
+your garden...ﬂ). The relations between experimental annoyance (ﬁannoyance potentialﬂ) 
+
+and the annoyance experienced ﬁat homeﬂ are often unknown. 
+Annoyance should be measured by socio-acous
+tic investigations according to ISO 15 666 
+in the persons homes after a period (a year or so) with stable noise conditions. Respon-
+dents should be asked the question: ﬁThinking about the last (– 12 months or so–), when 
+you are here at home, how much does noise 
+from (– noise source–) bother, disturb, or 
+annoy you?ﬂ Œ The respondents give their answers on semantic and numerical categorical 
+scales. The words of the verbal scale are (Danish translations in parentheses): 
+ Not at all (Slet ikke)  Slightly (Lettere) 
+ Moderately (Moderat) 
+ Very (Kraftigt) 
+ Extremely (Ekstremt) 
+... annoyed. 
+The process of translating these words into Danish is described in reference [24] 
+   AV 1098/08 Page 19 of 78 DELTA Acoustics & Electronics The categorical scale is shown in Figure 8 
+ Not at all                  Extremely 
+           
+     0               1               2                3              4               5                6               7        
+       8               9              10 
+Figure 8 The 11-point categorical scale from 0-10 according to ISO 15 666. 
+Often the answers are expressed as  The percentage of highly annoyed (%HA): The percentage of people giving an answer 
+in the verbal categories Very (kraftigt) and Extremely (Ekstremt) and the numerical 
+categories 8, 9 and 10 
+ The percentage of (at least) annoyed (%A): The percentage of people giving an answer 
+in the verbal categories Moderately (Moderat), Very (kraftigt) and Extremely (Ek-
+stremt) and the numerical categories 5 to 10 
+ The percentage of (at least) little annoyed (%LA): The percentage of people giving an 
+answer in the verbal categories Slightly (lettere) and above and in the numerical catego-
+ries 3 to 10. From socio-acoustic surveys it is known that besides the noise level, a number of modera-
+tors, among these the type of noise, are an important. The influence of the type of noise 
+source is shown in Figure 9. 
+   AV 1098/08 Page 20 of 78 DELTA Acoustics & Electronics 01020
+30354045505560
+Lden
+, dB
+% Highly Annoyed 
+Wind turb.
+Shunting
+Aircraft
+Industry
+Road
+Railway
+ Figure 9 The relation between the day-evening-night level L
+den
+ in dB (A-weighted and time weighted 
+sound pressure level) and the percentage of 
+highly annoyed for different noise sources 
+(shunting is the moving and coupling train wagons together). The L
+Aeq of the wind turbine noise at 8 m/s is converted to L
+den 
+ by adding 6,4 dB. The data for wind turbines are ex-
+trapolated above 50 dB and the data for the other sources are extrapolated under 45 dB. 
+The figure is based on data from reference [42]. 
+Perception of a sound is something else than annoyance, but the sound shall be perceived, 
+i.e. above the hearing threshold to be able to give rise to a noise annoyance. 
+A first step toward a conclusion whether low frequency noise from wind turbines can 
+cause annoyance will be to find out if the sound is audible. 
+4. Audibility of broad band noise near the hearing threshold It is often seen that spectra of wind turbines are shown together with the hearing threshold 
+and that conclusions are drawn on basis of a direct comparison of the spectra and the hear-
+ing threshold. In Figure 10 a number of spectra of the same wind turbine sound is shown 
+with different resolution. (This turbine will be referred to as the 1.3 MW reference turbine) 
+   AV 1098/08 Page 21 of 78 DELTA Acoustics & Electronics -10
+01020304050607010100100010000
+Frequency, Hz
+Sound Pressure Level, dB/banwidth
+octave
+1/3 octave
+1/6 octave
+1/24 octave
+FFT, Res. 1.3 Hz
+Hearing threshold
+ Figure 10 Spectra with different resolution of the noise from a 1,3 MW  wind turbine, referred to a 
+distance of 280 m (measured at 70 m). The abs
+cissa is the level per effective analysis 
+bandwidth. The hearing threshold is also shown at the graph. The A-weighted sound pres-
+sure level of the noise is 33 dB. As the curve with resolution 1.3 Hz is less than 10 dB above the hearing threshold the 
+(wrong) conclusion may be drawn that the turbine hardly was audible at all, and that the 
+low frequencies are inaudible. 
+If we look at the 1/1 octave analysis other conclusions may be drawn. 
+From this example it can be seen that a direct comparison of the hearing threshold and the 
+spectrum of the wind turbine is not meaningful, so another approach is necessary. 
+The above mentioned issue have been discussed with a number of researchers (Henrik 
+Møller, Aaborg University, Torsten Dau, Danish Technical University, Hugo Fastl  and 
+Geoff Leventhall) and solutions have been sought for without result. 
+Therefore a psychoacoustic ﬁreasonableﬂ procedure is proposed below. It may be charac-
+terised as hypothetical in the sense that it has not been verified by listening tests. 
+   AV 1098/08 Page 22 of 78 DELTA Acoustics & Electronics 4.1 A ﬁreasonableﬂ procedure for predicting 
+the audibility of broad band sounds 
+near the hearing threshold 
+for frequencies below 500 Hz 
+4.1.1
+ HT-weighting 
+1. The lines/bands in the frequency spectrum are weighted (attenuated) according to the 
+inverse hearing threshold; this is called HT-weighting. The attenuation in dB is given by 
+
+equations 1-3 that approximates the hearing threshold. 
+2-20 Hz   
+133,48 + f6,3935 - f103,8537 + f101,0183- =Att2-13-220Hz-2  Equation 1 
+The attenuation in dB in the range dB, 20-200 Hz is given by 
+20-200 Hz    
+137,99 + f4,2624 - f107,7761 +f108,0269 -                        f104,5945 + f101,3537 -f101,5948 = Att22-34-4-65-86-11Hz 200-20      Equation 2 
+The attenuation in dB in the range dB, 200-500 Hz is given by 
+200-500 Hz  
+34,306 + f101,399 - f102,2850 + f101,3635- =Att-12-43-7500Hz-200Equation 3 The deviation of these approximations from the hearing threshold shown in Figure 3 is less 
+than 0.4 dB. The attenuation for a number of frequencies is shown in Figure 11. 
+   AV 1098/08 Page 23 of 78 DELTA Acoustics & Electronics  Freq. Hz Att. dB  Freq. 
+Hz Att. dB Freq. Hz Att. dB 1.6 124.3  20.0 78.2  200 14.4 
+1.8 123.3  22.4 73.6  224 12.9 
+2.0 122.2  25.1 69.0  251 11.4 
+2.2 121.0  28.2 64.3  282 10.0 
+2.5 119.7  31.6 59.8  316 8.6 
+2.8 118.3  35.5 55.3  355 7.3 
+3.2 116.8  39.8 51.1  398 6.2 
+3.5 115.2  44.7 47.2  447 5.2 
+4.0 113.5  50.1 43.6  501 4.4 
+4.5 111.7  56.2 40.3    
+5.0 109.8  63.1 37.3    
+5.6 107.9  70.8 34.5    
+6.3 105.9  79.4 31.9    
+7.1 103.9  89.1 29.3    
+7.9 101.9  100.0 26.7    
+8.9 99.9  112.2 24.1    
+10.0 97.9  125.9 21.7    
+11.2 95.9  141.3 19.7    
+12.6 93.7  158.5 18.1    
+14.1 91.4  177.8 16.7    
+15.8 88.4       
+17.8 84.4       
+Figure 11 
+Attenuations for the hearing threshold weighting (HT-weighting) according to 
+formulas 1-3. 
+   AV 1098/08 Page 24 of 78 DELTA Acoustics & Electronics 0,0
+10,0
+20,0
+30,0
+40,0
+50,0
+60,0
+70,0
+050100150200250300350400450500
+Frequency, Hz
+Sound Pressure Level, dB/banwidth
+   -60,0
+-50,0
+
+-40,0
+
+-30,0
+-20,0
+-10,0
+0,0
+10,0
+20,0
+30,0
+050100150200250300350400450500
+Frequency, Hz
+  octave
+1/3 octave
+1/6 octave
+1/24 octave
+FFT, Res. 1.3 Hz
+Hearing threshold
+ Figure 12 Same wind turbine noise spectra as shown in Figure 10 with linear abscissa axis. The 
+right figure shows the HT-weighted spectra. 
+From the Figure 12 it is still not possible to compare the hearing thresholds with the spec-
+tra, bur from the right part it is possible to get an impression of which parts of the spectra 
+
+that contributes most to the audibility of the noise. 
+4.1.2
+ Energy addition of combined analysis bands 
+Critical band 0-100 Hz 100-200 Hz 200-300 Hz 300-400 Hz 400-500 Hz 
+Octaves 0-63 125 250 250 500 
+1/3 octaves 0-80 100-160 200-250 315-400 500 
+1/6 octaves 0-90 100-180 200-285 320-400 450-506 
+1/24 octaves 0-98 101-196 201-293 301-390 402-492 
+FFT analysis 0-99 100-199 200-299 300-399 400-499 
+Figure 13 Centre frequencies in Hz for bands to be energy added from the HT weighted spectra to 
+get the total HT-weighted level per critical band. Only analyses with a resolution of 1/3 
+octaves or better should be used. This ﬁdefiniteﬂ definition of the placement of the critical 
+
+bands are for ﬁpragmaticﬂ reasons only. The critical bands of the hearing are not centred 
+at any specific frequencies but can be placed at any frequency    AV 1098/08 Page 25 of 78 DELTA Acoustics & Electronics From the spectra in the right part of Figure 12 it is possible to calculate the total HT 
+weighted level per critical band. For this purpose the energy in a number of bands as 
+
+shown in Figure 13 have to be added. 
+The energy addition is made according to the following formula: 
+)10log(10Ln1i10i,HTLband.crit    Equation 4 
+ Where LHT, i is the HT-weighted level of the i™th frequency band. 
+It will be seen that the lowest critical band includes both a low frequency and an infrasonic 
+region. As mentioned in section 3.1 this subdivision is only conventional and there are no 
+physical, physiological, or psychological reasons to maintain it in the above mentioned 
+calculations. A procedure that calculates the critical band level as a continuous function of frequency 
+would be more in line with the fact that the critical band may be centred at any frequency, 
+but the above mentioned procedure may be seen as a first attempt to get an overview of the 
+matter. 
+    AV 1098/08 Page 26 of 78 DELTA Acoustics & Electronics 0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+0-100100-200200-300300-400400-500
+Critical band, Hz
+Sound pressure level per critical band, dB
+Octave
+1/3 octave
+1/6 octave
+1/24 octave
+FFT, Res. 1.3 Hz
+ Figure 14 The critical band levels computed from HT weighted frequency analyses of the noise from 
+the 1.3 MW reference wind turbine shown in Figure 10 and Figure 12. The different 
+curves are the result of calculations based on analyses with different analysis bandwidths. From figure 5 it is seen that the 1/24 octave band analysis and the FFT analysis gives the 
+most consistent results. Due to the fact that the limiting frequencies of the bands from the 
+other types of analyses does not coincide w
+ith the critical bands inaccuracies occur. These 
+depend on the spectrum shape. For the shown spectrum the inaccuracies for 1/3 band 
+analysis are less than 2 dB while the errors for the 1/1 octave analysis are up to 5 dB. 
+Apart from the mentioned inaccuracies the described method makes it possible to compare 
+spectra measured with different bandwidth in a way that is meaningful in relation to per-
+
+ception, unlike the way the results are displayed in Figure 10. 
+If the level per critical band is above the hearing threshold, the 0 dB line, it is anticipated 
+that the sound will be audible if it is not ma
+sked by other sounds. This anticipation defi-
+nitely holds for sounds with dominating tone
+s or narrow noise bands, because the results 
+just give a direct comparison with the verified threshold shown in Figure 3. For broad 
+   AV 1098/08 Page 27 of 78 DELTA Acoustics & Electronics band sounds without any dominant frequency regions (after the HT-weighting) a check of 
+this anticipation by listening tests would be desirable. 
+5. The audibility of broad band sounds partly masked by other sounds In the preceding section a method for compari
+ng the wind turbine noise in quiet surround-
+ings with the hearing threshold was defined. If the low frequency noise from a wind tur-
+bine is below the hearing threshold (in the relevant context: distance, in or outdoor condi-
+tions) this characteristic of the noise will not cause annoyance and the investigation can be 
+concluded at this point. In practice there is always some background noise, at least from wind in vegetation and 
+buildings so the wind turbine noise may not be audible due to masking even if the HT-
+weighted critical band levels are above the hearing threshold. 
+In general both the wind turbine noise and the background noise is broadband noise types 
+and the method mentioned in section 3.3 will only give information about the audibility of  
+tones or narrowband noise from the turbine. 
+We therefore need to look closer into the subject of the audibility of one broadband noise, 
+the swishing noise from the turbine, masked by another, the background noise. 
+In appendix B to reference [50], listening tests for the audibility of wind turbine noise in 
+the presence of natural urban/suburb background noise was investigated. It was fond that if 
+white noise shaped to simulate a wind turbine spectrum was used as the primary noise no 
+definite detection thresholds could be obtained. For recordings of wind turbine noise it was 
+concluded that a signal to noise ratio of 0 dB in any 1/3 octave was sufficient for detection 
+of the wind turbine. 
+    AV 1098/08 Page 28 of 78 DELTA Acoustics & Electronics  Figure 15 Wind turbine noise spectra (Mod-2) just audible in background noise. From reference 
+[50]. 
+From Figure 15 it is seen that the audibility of
+ the wind turbine noise is determined of the 
+signal to noise ratio around 1 kHz, where the bandwidth of 1/3 octave bands are a good 
+approximation to bandwidth the critical bands. 
+Furthermore it is seen that the signal to 
+noise ratio is significantly less in the low frequency region for this type of wind turbine. 
+From a psychoacoustic viewpoint it is obvious that it is difficult to determine a definite 
+threshold for one stationary noise type masked by another. That requires that the test per-
+sons can distinguish between two different noise spectres, which is a difficult task. 
+Often when detection threshold are determined the test signal is turned on and off at inter-
+vals of 250 ms as this is the modulation frequency with the lowest detection threshold, see 
+Figure 16.     AV 1098/08 Page 29 of 78 DELTA Acoustics & Electronics  Figure 16 Just-noticeable degree of amplitude modulation as a function of modulation frequency. 
+Solid curves: 1 kHz tones. Broken line: White noise [56]. Dotted line: Band limited noise 
+with a bandwidth of 200 Hz around 1 kHz [57]. For degrees og modulation, m, less than 
+0,3 the variations in sound pressure levels can be approximated by 17.5m dB. 
+Figure 16 indicates furthermore that the sensitivity of the modulation of noise increases 
+with the bandwidth. This effect is shown in more detail in Figure 17 
+ Figure 17 Just noticeable degree of amplitude modulation (modulation frequency 4 Hz) of band pass 
+noise as function of bandwidth. Thin line: Square wave modulation. Bold line: Sine modu-
+lation. Dotted line: To be expected due to masking thresholds. Figure from reference[56]. 
+   AV 1098/08 Page 30 of 78 DELTA Acoustics & Electronics From this figure it is clearly seen that th
+e sensitivity for modulation increases with the 
+bandwidth. The reason is that the statistical 
+amplitude variations for narrowband noise is 
+perceived more clearly than for broad band noise, and this ﬁeigenmodulationﬂ disturbs the 
+perception of the amplitude modulation to be tested. This modulation is dependant of the 
+bandwidth and not of the centre frequency of the frequency band, so even if the underlying 
+data are not from the low frequency range, the sa
+me effect will be expected in this range. 
+The figure also shows that a square wave modulation is easier detectable than sine wave 
+modulation. 
+In reference [22] it was found that the swishing sound from wind turbines is best approxi-
+mated by sine modulation. For a 75 kW wind turbine, that the swishing sound from the 
+rotor was most prominent (6-8 dB) in the frequency range 500-2000 Hz with a modulation 
+frequency of 2.3 Hz. It was also found that the modulations at different 1/3 octave bands 
+were slightly ﬁmis-alinedﬂ in time, corresponding to a frequency modulation. 
+In reference [25] dealing with wind turbines of 600 kW to 1,3 MW, it was found that the 
+level variations were most prominent in the frequency range 350-700 Hz (up to 10 dB 
+variations) with a modulation frequencies in the rance0,8-1,4 Hz. The measuring distances 
+were 1.5-3 hub heights. (This effect is decreasing somewhat with the distance) 
+From Figure 17 it is seen that the modulation threshold for this kind of noise is approxi-
+mately 17% corresponding to a level variation of approximately 3 dB. If a similar level 
+variation occurs in the low frequency region (0-200 Hz) the detection threshold according 
+to this figure would be 3.5 dB (20%). 
+With basis in Figure 17 and the above mentioned data it can be calculated that an ampli-
+tude variation of 10 dB of the wind turbine noise will be masked by stationary background 
+noise in the same frequency range when L
+eq of the background noise is 2,3-2,7 dB below 
+Leq of the total noise or when Leq of the wind turbine noise is approximately 0,6-1,6 dB 
+below Leq of the background noise. These figures calculated from a psychoacoustic back-
+ground, corresponds well with the listening test results of masking of the wind turbine 
+noise with background noise referred in Figure 15. 
+The above mentioned findings can for stable wind conditions be concluded as follows. If 
+both the wind turbine noise and the background noise are stationary it is difficult to define 
+a detection threshold. The most sensitive det
+ection of wind turbine noise in stationary 
+background noise occurs when the noise is modulated (swishing noise). In this case the 
+limit for detection is when L
+eq of the background noise is approximately 2,5 dB below L
+eq of the total noise or when L
+eq of the wind turbine noise is approximately 1 dB below L
+eq of the background noise. 
+The conclusion above is in general terms and is not specific for the low frequency range. 
+As illustrated in Figure 2 the spectra of the wind turbine noise and the background noise 
+may be different. Therefore we have to take the change of the sensitivity of the hearing in 
+   AV 1098/08 Page 31 of 78 DELTA Acoustics & Electronics the low frequency range into account when we compare the levels of the wind turbine 
+noise with the levels of the background noise. The phenomenon™s we are discussing in this 
+
+section are well above the hearing threshold so the HT-weighting as discussed in section 4 
+is not relevant in this case.  The A-weighting is used when determining the audibility of tones and narrowband noise 
+(section 3.3).In section 3.4 it was concluded, that for frequencies and levels relevant for 
+wind turbine noise the A-weighting does not underestimate the levels at low and infrasonic 
+frequencies. A reasonable and on ﬁthe safe sideﬂ way to compare a wind turbine spectrum with a back-
+ground spectrum is to compare the critical band levels of the A-weighted spectra. The 
+critical band levels of the A-weighted spectra are calculated after the same principles as 
+the HT weighted spectra in section 4.1.2. 
+The wind turbine is most easily detected if amplitude modulation occurs. If we Œagain to 
+be on the safe side - assume that amplitude variations occur also at low frequencies, then 
+the following rule can be formulated for the L
+eq values of the critical band levels calculated 
+from the A-weighted spectra: 
+ The low frequencies of the wind turbine noise are not audible if the critical band levels 
+of the A-weighted background noise is less than 2.5 dB below the total noise (wind tur-
+bine plus background noise) or  
+ The low frequencies of the wind turbine noise are not audible if the A-weighted critical 
+band levels of the wind turbine noise is at least 1 dB below the critical band levels of 
+
+the background noise. 
+To follow the psychoacoustic background optimally this frequency weighting should be 
+related to the equal loudness curves shown in Figure 4, i.e. a level dependant frequency 
+weighting. As the main purpose here is to compare the total critical band levels of signals 
+with somewhat similar spectral shapes, it is found that such a procedure would be to elabo-
+
+rate for this purpose. 
+6. Conclusions on audibility of low frequencies from wind turbines For the purpose of this Technical note the following conclusions in this section will be used to evaluate the wind turbine noise. A short form of the method is given in the Appen-
+dix    AV 1098/08 Page 32 of 78 DELTA Acoustics & Electronics 6.1 For stable wind conditions 
+6.1.1
+ Is the low frequency wind turbine 
+noise below the hearing threshold? 
+For any situation, including situations with very low or no background noise (e.g. indoor): 
+The low frequencies of the wind turbine noise will be regarded to be below 
+the hearing threshold if the critical band levels found from the HT-weighted 
+wind turbine spectra is less than 0 dB.  
+The critical band levels are found as described in section 4.1. 
+6.1.2
+ Is the low frequency wind turbine noise below the masking threshold? 
+In section 3.3 it was found that the tones were below the masking threshold if the A-
+weighted level of the tone were more than 2 dB below the critical band level the A-
+
+weighted spectrum for the critical band around the tone. 
+If no prominent tones were present then it was concluded for the L
+eq values of the critical band levels calculated from the A-weighted spectra that the low frequencies of the wind 
+turbine noise is not audible if the critical band levels of the background noise is less than 
+2.5 dB below the total noise or when the critical band levels of the wind turbine noise is at 
+least 1 dB below the critical band levels of the background noise. 
+These findings can be merged as follows: 
+1. In simple cases the spectre of the wind turbine noise and the background noise can 
+be compared directly and independent of any frequency weighting (the spectra 
+
+shall be measured or referred to the same frequency weighting and analysis band-
+width (1/3 octave bands or less): 
+a. The wind turbine noise will be masked if the levels in all analysis bands of 
+the wind turbine noise is more than 2 dB below the levels of the back-
+ground noise 
+b. If the levels of all analysis bands of the 
+total noise is less than 2 dB above 
+the background noise then the wind turbine will be masked. 
+2. If this is not the case, the wind turbine noise may be masked even if the levels of 
+some analysis bands of the wind turbine exceed the levels of the background noise. 
+
+In this case the following rule apply: 
+ The wind turbine noise is masked if the levels of the critical bands of the A-
+weighted wind turbine noise are more than 2 dB below the levels of the critical 
+bands of the A-weighted background noise.
+    AV 1098/08 Page 33 of 78 DELTA Acoustics & Electronics  The critical band levels of the A-weighted spectra are calculated after the same 
+
+principles as in section 4.1.2 
+The energy sum of the levels the two lowest critical bands of the A-weighted wind turbine 
+noise equals in practice L
+pA, LF
+, defined in section 3.6.   6.2 For unstable wind conditions 
+For unstable wind conditions another problem exist: For a specified average wind speed (1 
+minute averaging time) short term variations (gust of wind of duration less than 10-15 sec-
+onds) of the wind speed exist that causes variations of the levels of both the wind turbine 
+noise and of the background noise. The variations of the A-weighted or the octave band 
+levels measured with time weighting F are in the magnitude of 5-10 dB. Due to horizontal 
+
+and vertical difference in location of the wind turbine rotor and the vegetation generating 
+the natural background noise, these level variations are not synchronous in time. This 
+means that the maximum values of the wind turbine noise may occur at times where the 
+background noise is at minimum and visa versa. 
+If we want to find out if the low frequencies from the wind turbine is below the hearing 
+and masking threshold at all times for a specified average wind speed, then the maximum 
+levels (with time weighting F) of the wind turbine noise should be compared to the mini-
+
+mum levels (expressed e.g. as the L
+95) of the background noise after the same criteria as 
+mentioned in section 6.1. 
+Normally such information is not available in the details (spectral variation with time) so 
+as a first approximation we will rely on the procedures for stable conditions 
+7. Outdoor or Indoor conditions Wind turbine noise is mainly perceived outdoors, but taken into consideration that the 
+sound insulation of buildings is low at low frequencies and that the indoor background 
+
+noise in some periods are lower than outdoors, then it is relevant to find out if the low fre-
+quency noise from the turbines may cause a problem indoor. 
+In another part of this project the outdoor/indoor sound level differences at low frequen-
+cies are measured in five detached houses [14]. 
+To get a first estimate if low frequency noise from wind turbines heard indoor could be a 
+problem the mean sound level differences shown in  Figure 18 will be used 
+   AV 1098/08 Page 34 of 78 DELTA Acoustics & Electronics -50510
+152025812,52031,55080125200
+Frequency [Hz]
+Level Difference [dB]
+Small-sized rooms
+Living rooms
+Mean
+Max
+Min Figure 18 Average outdoor/indoor sound level differences meas
+ured in 3D corners of five 1-2 storey 
+detached houses. The curves marked ﬁlivi
+ng roomsﬂ and ﬁsmall-sized rooms are the mean 
+values of the measurements in these types of rooms. 
+ Frequency, Hz 8 10 13 16 20 25 32 40 50 63 80 100 125 160 200 
+Out-in diff. dB 7 8 8 7 10 9 10 9 10 15 16 17 15 14 15 
+Figure 19 Data for the mean curve in Figure 18. 
+The results in the figure represent the sound level difference between the outdoor free field 
+and indoor measurements in the 3D corners between to walls and the ceiling. These indoor 
+
+positions have been found to give a god estimate of the indoor high-level areas for low 
+frequency sound. 
+The mean curve in the figure represents the mean of all measurements in both living rooms 
+and small-sized rooms (except one atypical room, ﬁHelsinge small-sized). It is seen that 
+deviations up to 10 dB from the mean curve may occur. 
+The critical band levels indoor of the two lowest critical bands of the HT-weighted spectra 
+of the reference turbine (see Figure 10 and Figure 14) are: 0-100 Hz: -7.5 dB, 100-200 Hz: 
+
+4 dB.    AV 1098/08 Page 35 of 78 DELTA Acoustics & Electronics 8. Natural background noise To get an impression whether the natural background noise will mask the wind turbine 
+noise according to the procedures described in section 6 we will look into the levels of 
+wind generated background noise in vegetation. We are basically interested in levels rep-
+resentative for the situation as perceived at the nearest residence, i.e. measurement results 
+from 1-1.5 m height, and as far as possible
+ without contribution from wind-generated 
+noise in the microphone. 
+In reference [21] many detailed results about wind noise are given. The measurements are 
+made in 1.5 m height with an 1ﬂ microphone fitted with a 95 mm Ø foam wind screen and 
+the measured sound pressure levels are related to the wind speed in 10 m height. 1/1 oc-
+tave spectra in the range 63-8000 Hz and A-weighted levels are available. 
+Measurements are made in four types of areas: 
+1. an open golf course (80 m to the nearest trees and bushes) 
+2. a 5 year old suburban area (8 m to nearest small trees) 
+3. a 15 year old suburban area (6-8 m distance to 4-6 m high threes)  
+4. a beech wood (nearest vegetation in 4-5 m distance) 
+In area 1 and 2 the influence of wind noise in the microphone is seen, - most at the lowest 
+frequencies. In the areas 3 and 4 the microphone is partly shielded from the wind by the 
+vegetation so the wind noise in the microphone (at least in the 125 Hz octave) is not 
+prominent. The increase in the noise level with the wind speed depends on the frequency, 
+largest up to 6-8 dB pr m/s in the 1 kHz region. In the 125 Hz octave the increase is ap-
+proximately 3 dB pr m/s. 
+Unfortunately the windscreen in these measurements is not suitable for lower frequencies 
+and data below 63 Hz are not published. 
+Measurements of the natural wind noise in 1 m height are made in relation to the present 
+project at an average wind speed of 7 m/s at 10 m height. The microphone was fitted with 
+a double windscreen, the 95 mm foam screen and a 300 mm sphere covered with Rycote 
+fur cloth. The distance was 5-6 m to a group 4-8 m high bushes and deciduous trees, see 
+Figure 20. The measurements were made in December (without leaves on the trees) so this 
+represents a worst case situation in relation to the masking effect for this measuring posi-
+tion.    AV 1098/08 Page 36 of 78 DELTA Acoustics & Electronics   Figure 20 The measurement position for the data in Figure 21. In the background of the upper photo 
+the mast with the wind measuring equipment is seen. Indoor measurements were made in 
+the most distant part of the building. 
+The obtained average spectrum is shown in Figure 21 
+   AV 1098/08 Page 37 of 78 DELTA Acoustics & Electronics -30-20-10010
+20304046,31016254063100160250400
+6301000160
+02500
+40006300
+1000016000Frequency, Hz
+Band sound pressure level, dB
+ Figure 21 A-weighted 1/3 octave band spectrum of wind noise in 1m height outdoor at a wind speed 
+of 7 m/s in 10 m height. The spectrum is the average of 67 1 minute L
+eq 
+measurements. The bars at each measuring point is indicating  +/- 1 standard deviation. The total A-weighted 
+level is 45 dB. The result above are in accordance with reference [21] were A-weighted levels in the 
+range 47-50 dB at 8 m/s were measured in area 3 at winter time. The A-weighted level is 
+10 dB higher at summertime in this position, dominated by the frequency range 1-2 kHz 
+(rattling leaves?). In the 125 Hz octave band th
+e levels are the same for summer and winter 
+in areas 3 and 4. 
+The critical band levels for the wind noise in the vegetation are shown in Figure 22. 
+A-weighted 
+ HT-weighted 
+Critical Band 
+Outdoor Indoor Outdoor Indoor 
+0-100 Hz 28 9 18 -3 
+100-200 Hz 34 13 28 7 
+Figure 22 Critical band sound pressure levels in dB of 
+the A-weighted and HT-weighted spectra of 
+the wind noise at a wind speed of 7 m/s, calculated according to the procedures described 
+in sections 6 and 7. The indoor values are the mean of measurements in four 3D corners. 
+
+The LpA, LF
+ of the indoor level is 14 dB and the mean total A-weighted indoor level is 24 
+dB.    AV 1098/08 Page 38 of 78 DELTA Acoustics & Electronics The indoor HT-weighted levels calculated from the outdoor levels according to sections 6 
+and 7 are 3 and 13 dB in the two low critical bands. These figures are under the assump-
+
+tion that only contributions from the outdoor wind noise from the vegetation attenuated by 
+the sound insulation are present. In practice 5-6 dB higher levels are measured. This may 
+be explained by the difference between the sound insulation used in the calculations and 
+the actual sound insulation. Another explanation may be that the trees near the house are 
+sheltered from the wind by the building so that the wind noise near the house is less than 
+in the open.  01020
+304050601101001000
+Frequency, Hz
+Sound Pressure level, dB
+Calc indoor, DELTA
+Meas. Indoor, DELTA
+Meas. Indoor, AU
+ Figure 23 1/3 octave band spectra of indoor background noise in 3D corners. The upper curve is 
+found by subtracting the sound insulation found in section 7 from the outdoor measured 
+levels. The indoor DELTA measurement is from the actual building and the indoor AU 
+measurement is from another building, see section 11.9. 
+   AV 1098/08 Page 39 of 78 DELTA Acoustics & Electronics 9. Annoyance 9.1 Annoyance of noise from wind turbines 
+The methods described in the preceding secti
+ons had the purpose of defining whether the 
+low frequency broad band noise was audible, either in relation to absolute hearing thresh-
+olds or in relation to masking thresholds. In order to cause an annoyance reaction the lev-
+els have to be somewhat above the thresholds. This section will look into that issue. 
+The relations between annoyance and the A-weighted sound pressure levels from wind 
+turbines in general can be found in reference [42], which is a merge of the data from refer-
+
+ences [39], [45]. 
+Wind Turbines
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+35,0
+40,0
+45,0
+50,0
+3035404550
+DENL, dB
+Percentage
+% LA
+% A% HA
+EA Figure 24 The percentage of annoyed for wind turbine noise. L
+den
+-values for a wind speed of 8 m/s, 
+noise. Valid in the range 35-50 dB L
+den
+.  % HA: The percentage of highly annoyed 
+% A: The percentage of annoyed 
+% LA: The percentage of slightly annoyed 
+
+EA: Estimated annoyance (Ten times the estimated average response on the ISO 15 666 
+eleven point scale), see section 3.8. 
+   AV 1098/08 Page 40 of 78 DELTA Acoustics & Electronics It should be noted that the abscissa is in DENL (= L
+den
+). For a constant level noise source 
+Lden
+ = LAeq + 6,4 dB In reference [41] the annoyance is illustrated as in Figure 25. 
+ Figure 25 Figure from reference [41] Estimated probability of annoyance with wind turbine noise 
+outdoors, related to the A-weighted sound pressu
+re levels in landscapes of type A (rural, 
+with low background noise and type B (suburban). 
+Figure 25 shows that the annoyance is less if the wind turbine noise is partly masked by 
+background noise. This effect is also found in
+ laboratory experiments (reference [25]). 
+If the mean of the two curves in Figure 25 is taken and if the two different abscissas are 
+taken into account the curves in Figure 24 and Figure 25 are not far apart. 
+The figures above show the general pattern based on the A-weighted levels. If the noise 
+from a turbine has special annoying characteristics deviating from the average characteris-
+tics of wind turbine sound, it must be expected that the curves is displaced to the left. 
+9.2 Annoyance of low frequency sounds 
+In laboratory experiments it has been found that the annoyance increases steeper with the 
+level at low frequencies, see Figure 26. 
+   AV 1098/08 Page 41 of 78 DELTA Acoustics & Electronics   Figure 26 The average annoyance ratings (measured in a laboratory) from 18 subjects with normal 
+
+hearing on a 15 cm long scale. The stimuli were pure tones at different frequencies. At 1 
+kHz the stimulus was a 1/1 octave band of noise. From reference [36]. 
+As seen from Figure 4, the lowest frequencies have to have a higher level in order to be 
+audible. Once they are audible, it is seen from Figure 26 that their annoyance increases 
+rapidly. 
+01020304050607080020406080100120140
+Sound Pressure Level, dB
+Loudness, Phon
+1000 Hz
+100 Hz
+31,5 Hz
+8 Hz
+ Figure 27 The relations between sound pressure level
+ and loudness for pure tones. The data in the 
+figure are found from Figure 4 and Figure 5. 
+   AV 1098/08 Page 42 of 78 DELTA Acoustics & Electronics In Figure 27 the relations between loudness and the sound pressure level are shown. It is 
+seen that the general tendency is the same as for the relations between annoyance and 
+
+sound pressure level. This indicates that also in the low frequency region there are close 
+relations between loudness and annoyance. 
+Therefore loudness based methods may give reasonable indications for the annoyance, at 
+least for noise with similar characteristics in comparable contexts. 
+10. Remarks to the literature study 
+Ideally the comparisons and conclusions of a literature study should be based on reliable 
+and well documented information suitable for comparison with other studies eventually by 
+conversions to other situations. With regard to spectra or other results from measurements of wind turbine noise the fol-
+lowing information should be ideally available (The key information is marked with an 
+asterisk): 1. Measured sound pressure level/spectrum or sound power level/spectrum* 
+2. Frequency weighting* 
+3. Background noise level/spectrum* 
+4. Indoor or outdoor measurements* 
+5. Analysis bandwidth of spectrum* 
+6. Measurement distance* 
+7. Wind speed 8. Measurement direction (upwind, downwind...) 
+9. Microphone position (on a plate or free field at a specified height) 
+10. Type of windscreen 
+11. Height of turbine  12. Number of turbines 
+13. Wind type (turbulent...) 
+14. Make and effect of wind turbine(s) 
+The six key parameters are sufficient if we are satisfied with information of the type: 
+There were some wind turbines; did they generate low frequency sound of any signifi-
+
+cance in the surroundings? 
+If we want more specific information for comparison across references more than the key 
+information™s may be needed.  
+   AV 1098/08 Page 43 of 78 DELTA Acoustics & Electronics Many references do not provide the key information so comparisons or reference to a 
+common basis is difficult and time consuming and may only be made by combining in-
+
+formation from other sources or by use of general knowledge applied to the specific situa-
+tion. 11. Low-Frequency Sound from Wind Turbines 
+A number of reports and articles on the topic of low frequency sound with relation to wind 
+turbines are found. A complete list is given in the reference list, section 14. Some of the 
+
+most relevant for this project are summed up in the present section. 
+11.1 Low Frequency Noise and Wind Turbines, 
+British Wind Energy Association [7] 
+National criteria and research on low frequency noise and wind turbines in a number of 
+countries is referred (22 relevant references). There is no measurement data. The conclu-
+sion is that ﬁresearch conducted in low frequency noise on modern wind turbines has 
+shown that the levels of low frequency noise have been below accepted thresholds, and is 
+therefore not considered to be a problemﬂ. 
+11.2 The measurements of low frequenc
+y noise at three UK wind farms 
+Hayes McKenzie partnership, [11] Measurements of noise levels have been undertaken at three different sites where low fre-
+quency noise from wind farms/turbines has been mentioned by the press as a source of an-
+noyance. Some of the results from this report are also given in reference [10]. 
+The conclusion of the report is that the low frequency noise is measurable, but below the 
+DEFRA Night time Low Frequency Noise Criterion Shown in Figure 28. 
+When assessed in accordance with the Danish criterion of L
+pA, LF
+ = 20 dB, indoor levels do 
+not exceed 20 dB when measurements are undertaken within rooms with windows closed. 
+When comparing the measured third octave band levels to the threshold of audibility de-
+fined within ISO 226 [15] it is found that the measured levels are just above the threshold. 
+According to the authors this means that fo
+r a low frequency sensitive person, the levels 
+measured may be audible, but the low frequency noise associated with traffic along local 
+roads has been found to be greater that that from the neighbouring wind farm. 
+Not much information is given in the report about wind turbine makes and types, measur-
+ing conditions (wind speed, wind direction and distance to the turbines). The measurement 
+
+data are total noise (wind turbine noise including background noise). Only for measuring 
+site 3 the wind turbines are described by its power: The wind farm was commissioned in 
+   AV 1098/08 Page 44 of 78 DELTA Acoustics & Electronics July 2003. Three stall regulated wind turbines each of 1.3 MW capacity are installed. The 
+closest wind turbine is 1030 metres to the south west. 
+ Figure 28 Infrasound and low frequency criterion curves, among these the DEFRA night time crite-
+rion. From reference [11]. 
+The measurements were unattended in the period October to December 2005, but the re-
+cordings were listened to, before analysis. The background noise sources for this location 
+
+were wind noise in the vegetation, a stream in the valley, a washing machine, snoring and 
+movements of the inhabitants and noise from a near by class B road. 
+The location of the dwelling is within a valley, at 180m AOD (height above sea level) 
+which affords a high degree of shelter during easterly and westerly wind conditions. The 
+wind farm is located 300-320 m AOD. Within the valley is a stream which depending 
+upon the flow of water may become the dominant noise source within the vicinity of the 
+dwelling. In general the levels of external noise for site 3, location 1 when the wind farm was con-
+sidered to give rise to audible noise within the dwellings and specifically identified by the 
+
+occupants was LAeq, 10 minute
+: 40-45 dB, L
+A90, 10 minute
+: 39-40 dB, irrespective the existing 
+background level. 
+   AV 1098/08 Page 45 of 78 DELTA Acoustics & Electronics The data presented below represents the noise 
+levels measured when wind speed at the site 
+were 9.1 m/s, average generating capacity of the site was 632 kW and the wind from the 
+
+SW, i.e. a downwind situation. However, when the authors listened to the internal re-
+cordings, even with high gain, they found it difficult to discern any noise associated with 
+the operation of the wind turbines. 
+Listening to the indoor recording indicates that the modulation of the wind turbine noise 
+was just audible above the sound of water in the stream. The outdoor recording indicated 
+that the wind turbine noise was just audible through the masking by the wind in the trees 
+and the sound from the stream. There was a washing machine operating, but the analysis 
+
+was made in a period where it was not audible. 
+  Figure 29 Sample of internal sound pressure levels of the total noise (wind turbine wind in the trees 
+and sounds from a stream) in a down wind situation from the turbines. 
+The sample in Figure 29 is characterized by the authors as below the DEFRA night time 
+criteria and above the ISO threshold in the 100-500 Hz range. 
+The critical band levels for the total noise according to section 6.1.1 is given in Figure 30. 
+   AV 1098/08 Page 46 of 78 DELTA Acoustics & Electronics  Critical band 0-100 Hz 100-200 Hz 200-300 Hz 300-400 Hz 400-500 Hz 
+HT-weighted 
+level, dB 
+-4 8 4 8 8 
+Figure 30 HT weighted critical band levels of the total noise shown in Figure 29. L
+pA, LF
+ = 15 dB The conclusions made by the authors are confirmed by the data in Figure 30.  
+This conclusion is that low frequency noise is audible in this case, but it is not quite clear 
+if the contribution from the wind turbines is the main contributor to the measured levels. 
+The sound insulation of the residence and the vegetation noise may deviate from the con-
+ditions for the data for wind generated vegetation noise shown in Figure 22 (HT weighted 
+
+indoor levels of -3 dB and 7 dB in the two lowest critical bands) but the results shown in 
+Figure 30 are thought-provoking close to these numbers.  
+The conclusion of this study may be relevant for the actual installation and residence, but 
+the sound level data behind is not suitable for a general conclusion and calculation of the 
+low frequency emission from the turbines. 
+It should be noted that it is mentioned in the report, that another characteristic, the low fre-
+quency amplitude modulation of the wind turbine 
+noise (blade swishing) is a characteristic 
+that may give rise to complaints. (Maybe this
+ characteristic is called low frequency sound 
+by some neighbours to wind turbines?) A separate 
+report on this effect is issued [33], but it 
+is not the topic of the present study. 
+11.3 Acoustic and Geophysical Measurement of 
+Infrasound from Wind farm Turbines 
+Hepburn, Howard G. [13] 
+Measurements were made in two distances and three wind conditions from Castle River 
+wind farm, Alberta with 1 Vestas V44, 600 kW unit with a 40 metre tower and 59 Vestas 
+V47, 660 kW units with 50 metre towers, with the entire wind farm in operation and with 
+the entire wind farm stopped. Data were collected by thirty microphones and thirty geo-
+phones and a Brüel & Kjær 2260 Sound Level analyzer in the frequency range 6.3-200 Hz. 
+The B&K 2260 analyzer was placed 50 m from the nearest line of turbines and 1,25 m 
+above the ground. The microphone was fitted with a 90 mm acoustic grade windshield. 
+The measurement and the documentation is comprehensive and some of the results are 
+shown in Figure 32. Only the wind speed and wind direction is not documented directly in 
+the article.    AV 1098/08 Page 47 of 78 DELTA Acoustics & Electronics   Figure 31 Castle River wind farm. It is seen that the landscape is open and slightly hilly, with low 
+vegetation without threes and bushes. 
+The wind speed is characterized as three ranges: - Low or no wind: The wind turbines will either be stationary or will be idling with-
+out generating power. It can be presumed that the wind turbine will have little or 
+
+no effect on the existing background noise level 
+- Medium wind: The turbine just starts to generate power and slightly above. Me-
+dium wind speed (6-10 m/s) are the most critical, as far as audibility is concerned. 
+- High wind: The increase in sound generated by the turbines is less than the in-
+crease in background noise level. The rate of increased sound generation decreases 
+at higher wind speed.
+   AV 1098/08 Page 48 of 78 DELTA Acoustics & Electronics     Figure 32 Measuring results from reference [13] . In each
+ figure there are curves for the turbines on 
+and off. Left side figures are 50 m from the line of turbines right side figures are 1000 m 
+from the line of turbines. Top figures are low wind speed, middle figures are medium wind 
+
+speed and the bottom figures are high wind speed.  
+   AV 1098/08 Page 49 of 78 DELTA Acoustics & Electronics Apparently the data are relevant, but there seems to some unusual findings in the data. For 
+the upper right figure (low wind, 1000 m) and the lower left (high wind, 50 m) the noise 
+
+with the turbine on is less than with the turbines off. Furthermore the level for high wind 
+conditions (lower figures) at the lowest frequencies at 50m are around 70-75 dB while the 
+same levels at 1000 m are in the range 70-79 dB. The author concludes that some attenua-
+tion of the wind noise occurs when the wind farm was operating in low and high winds. 
+Other data for nominally the same conditions but deviating up to 10 dB from the data 
+shown in Figure 32 are shown in the article. One may have a suspicion that data files for 
+different wind speeds are compared and that wind generated noise in the microphone may 
+
+have played a role. In reference [20] microphone noise with the same kind of wind screen 
+(95 mm Ø foam screen) measured at night 1,5 m above the ground at an open golf course 
+was found to 31 and  48 dB in the 125 Hz octave band at wind speeds of 6 and 8 m/s in 10 
+m height. As the spectrum is relatively flat in that range this corresponds to 26 and 43 dB 
+in the 125 Hz 1/3 octave band. In the medium wind situation of Figure 32 this corresponds 
+well to the measured background noise (32 dB at 125 Hz), but in the high wind condition 
+(lower right) the ﬁturbine noiseﬂ is of the same magnitude (45 dB), so some of the noise 
+measured here may be wind generated noise in the microphone.  
+It is seen, that in general, the relative low frequency content is larger in the background 
+noise that in the noise from the turbines. 
+If data from the middle figure in Figure 32 (medium wind, 50 m) is corrected to 1 turbine 
+(i.e. Œ 4,3 dB dB) in 6 hub heights distance (-12,5 dB)  from the turbine we get the figures 
+in Figure 33. 
+ A-weighted 
+ HT-weighted 
+Critical Band 
+Outdoor Indoor Outdoor Indoor 
+0-100 Hz 22 (27) 8 (13) 11 (16) -4 (1) 
+100-200 Hz 27 (32) 12 (17) 21 (26) 6 (11) 
+Figure 33 Critical band sound pressure levels in dB of 
+the A-weighted and HT-weighted outdoor and indoor spectra of the wind turbine noise in Figure 32, corrected to one wind turbine in 6 
+hub heights distance according to the results of reference [13].The numbers in the brack-
+
+ets are explained in the text. From the numbers in Figure 33 the outdoor low frequency A-weighted sound pressure 
+level, LpA, LF
+ , is 28 (33) dB and the indoor L
+pA, LF
+ is 13 (18) dB. 
+DELTA have made accredited measurements on the same type of wind turbines, docu-
+mented in reference [51]. According to these measurements the L
+pA, LF
+  in 6 hub heights    AV 1098/08 Page 50 of 78 DELTA Acoustics & Electronics distance can be calculated to 33 dB for a wind speed of 8 m/s in 10 m height. As this fig-
+ure stems from accredited measurements with traceable instrumentation measured with the 
+
+microphone on the ground (i.e. less wind noise in the microphone) these measurements are 
+believed to be highly reliable. If the results in Figure 33 are 5 dB higher, then the results 
+will be as the figures in the brackets. From the figures in the brackets the following conclusions can be drawn by comparison 
+with the background noise (Figure 22): 
+- The outdoor and indoor critical band low frequency levels of the HT-weighted 
+spectrum are above the hearing threshold (0 dB). 
+- Outdoor the low frequency noise is masked by the standard background noise 
+(Figure 22) - Indoor the wind generated standard background noise will not mask the wind tur-
+bine noise, but the level is below L
+pA, LF
+ = 20 dB 11.4 Infrasound from Wind Turbines 
+Œ Facts, Fiction or Deception Dr. Geoff Leventhall [31] 
+This paper gives some basic information™s about infrasound and low frequency sound the 
+hearing threshold from reference [52](Watanabe & Møller) is also shown. A spectrum 
+measured 65 m from a 1,5 MW wind turbine is also shown. There are no information™s 
+about the height and make of the turbine, the microphone position (plate on the ground or 
+free field), direction of measurement (upwind or downwind) or the type of microphone 
+windscreen.     AV 1098/08 Page 51 of 78 DELTA Acoustics & Electronics  Figure 34 Spectra of wind turbine noise (upper curve) and background noise (lower curve) measure 
+65 m from a 1,5 MW turbine on a windy day . Stars indicate the hearing threshold. The 
+
+figure is from reference [31] 
+From the figure it is seen that the spectral shape of the background noise and the wind tur-
+bine noise are very similar, with a relative slightly more low frequency content in the 
+background noise. In the article it is concluded that: - Frequencies below 40 Hz cannot be distinguished from the background noise due 
+to wind - It has been shown above that there is insignificant infrasound from wind turbines 
+and that there is normally little low frequency noise. 
+- Turbulent air inflow conditions cause enhanced levels of low frequency noise, 
+which may be disturbing, but the overriding 
+noise from wind turbines is the fluctu-
+ating audible swish, mistakenly referred to as ﬁinfrasoundﬂ or ﬁlow frequency 
+noiseﬂ. Objectors uninformed and mistaken use of these terms, which have ac-
+quired a number of anxiety-producing connot
+ations, has led to unnecessary fears 
+and to unnecessary costs, such as for re-measuring what was already known, in or-
+der to assuage complaints. 
+   AV 1098/08 Page 52 of 78 DELTA Acoustics & Electronics - Attention should be focused on the audio frequency fluctuating swish, which some 
+people may well find to be very disturbing and stressful, depending on its level.ﬂ 
+In order to compare the measured data to a common reference the critical band levels in 
+Figure 35 have been computed under the following assumptions: 
+- The fine structure of the spectra in Figure 34 suggest an analysis bandwidth of ap-
+proximately 2 Hz 
+- The hub height of the turbine is set to 65 m (normal heights for 1,5 MW turbines 
+are in the range 46-85 m) 
+- The background noise in the area is independent of the distance to the turbine 
+- The sound insulation is as specified in Figure 19. 
+  A-weighted outdoor levels HT-weighted outdoor levels HT weight indoor 
+Crit. Band Back ground Wind turbine Back ground Wind turbine Wind turb. 
+0-100 Hz 33 (28) 21 21 10 -5 
+100-200 Hz (34) 26  21 6 
+ Figure 35 Critical band sound pressure levels in dB of
+ the A-weighted and HT-weighted outdoor spectra of the noise in Figure 34, corrected to 6 hub heights distance .The figures in the 
+
+brackets are the background noise measurements from section 8 . The indoor L
+pA, LF 
+= 13 dB for the wind turbine noise. From the figures in Figure 30 it can be concluded, that at a distance of 6 hub heights, the 
+indoor levels are just above the average threshold. It can also be seen that outdoor the low 
+frequency noise from the wind turbine will be masked by the outdoor background noise. 
+
+When the masking outdoor is related to the same low frequency critical bands and not 
+masking from bands of higher frequencies, the wind turbine noise will also be masked in-
+door. With reservations for the correctness of the presumptions made, the conclusion is that the 
+low frequency noise from the wind turbine is not audible at a distance of 6 hub heights 
+(390 m). 
+   AV 1098/08 Page 53 of 78 DELTA Acoustics & Electronics 11.5 Human response to wind turbine noise Œ perception
+, annoyance and moderating 
+factors. Eja Pedersen [41] This doctoral thesis focuses on the community response on the noise from wind turbines. It 
+gives data for the dose-response in terms of A-weighted levels and has investigated mod-
+
+erating factors for the response. No measurements of noise characteristics such as tones 
+and low frequency content have been performed, so the conclusion on these effects are 
+based on the response in interviews and questioners. 
+The wind turbines in this study was in the range 225-1500 kW. 
+Figure 36 shows a list of descriptors of sound characteristics and their correlation with the 
+annoyance response. 
+ Figure 36 Table from reference [41] showing the corre
+lations (Spearmans™s rank correlation test) 
+between noise annoyance and the response on sound characteristics questions based on 
+respondents who noticed wind turbine sound. n is the number of respondents in the two 
+surveys. It is seen that ﬁSwishing soundﬂ is the highe
+st ranking and that ﬁLow frequencyﬂ is one of 
+the two lowest ranking sound characteristic descriptors in relation to annoyance. It should 
+be remembered that these data is the response on questionnaires. The actual occurrence of 
+these characteristics has not been investigated by measurements. 
+11.6 An investigation into 
+wind farms and noise 
+The Noise Association. John Stewart, July 2006, reference [49] This report deals with noise annoyance from wi
+nd turbines in general. It is based on a lit-erature study and a number of measurements. 
+   AV 1098/08 Page 54 of 78 DELTA Acoustics & Electronics There are references to some socio acoustic studies on annoyance of wind turbine noise in 
+general [39], [40] and [55]but they cont
+ain no specific information on low frequency 
+sound. It is stated in the report that ﬁWind turbines also produce low-frequency noise. When the wind and turbulence are high, the movement of the turbine™s blades through the air can 
+produce low-frequency noise. Wind farms sited on 
+the very top of hills are particularly 
+prone to such turbulence.ﬂ 
+With reference to Geoff Leventhall,™s paper at the Berlin conference 2005 [22] it is stated: 
+ﬁ...there are circumstances in which turbines
+ produce increased levels of low frequency 
+noise. This is mainly when inflow air to the turbine is very turbulent and there are interac-
+tions between the blade and the turbulence.ﬂ 
+With regard to measurement data, reference is given to [47]. The following levels are 
+stated for a wind farm with about 10 turbines, 100m from the nearest turbine: 
+1/3 oct. band Hz. 4 5 6.3 8 12.516 20 
+Measured Level, dB 62 60 63 66 60 60 60 
+Hearing threshold, dB 118 11510810198 88 79 
+Figure 37 Sound pressure levels pr 1/3 octave band measur
+ed 100m from the nearest turbine. Fre-
+quency weighting, wind speed, wind direction, background noise and turbine type is not 
+reported. The hearing threshold is according to Figure 3. 
+100 m from the nearest turbines the low frequency levels were low. The level in this range 
+was in line with the level with the turbines stopped, so the low frequency noise from the 
+turbines might have been even lover than stated. 
+The Noise Association have also made measurements around three wind farms in Corn-
+wall and Wales. The results are referred in the report. 
+   AV 1098/08 Page 55 of 78 DELTA Acoustics & Electronics  1/3 oct. band Hz. 10 20 40 60 100 125 
+Upwind level, dB - 10 25 15  20 
+Downwind level, dB 75 82 77 80  74 
+Indoor levels, dB 48 48  63 52  
+Figure 38 C-weighted sound pressure levels pr 1/3 octa
+ve band. The figures represent the lowest and 
+the highest values. The distances were within about one and a half miles of the turbines. 
+The distance to the turbines for the indoor
+ measurement was two(?) miles. The back-
+ground noise levels and wind turbine type is unreported. 
+11.7 Do wind turbines produce signif
+icant low frequency sound levels  G. P. van den Berg, reference [6] Outdoor measurements were made of the noise from a wind turbine park with ten turbines 
+in the first row and 7 turbines in a second row. The power of each turbine was 2 MW, the 
+hub height was 100 m and the rotor diameter was 70 m. Measurements shown in were 
+made in front of a dwelling and the results are corrected to free field. The distance was 
+750 m to the nearest row of turbines. Ther
+e are no indications of the average wind speed for the measurements. 
+In the article 1/3 octave band spectra of the turbine noise are shown. Similar spectra for the 
+background noise are not shown in the article. 
+   AV 1098/08 Page 56 of 78 DELTA Acoustics & Electronics  Figure 39 Line curves: 1/3 octave band spectra of the noise measured outdoor 750 m from the near-
+est wind turbines in a wind park with seventeen 2 MW turbines. Left axis (in dB): 200 con-
+secutive, un-weighted and 1 second spaced 1/3 octave band levels (thin lines), and average 
+
+spectral level (thick line) near dwelling. Right axis: Coefficient of correlation (line with 
+markers) at each 1/3 octave band frequen
+cy between all 200 1/3 octave band levels and overall A-weighted levels.  The author concludes: 
+ﬁIt is clear from the spectra that most energy is found at lower frequencies. This does not 
+imply it is relevant for hearing as human hearing however is relatively insensitive at low 
+frequencies. Indeed, the correlations show that most audible energy near the turbines is 
+contained in the 1/3 octave band levels with frequencies from 400 through 3150 Hz (where 
+
+> 0.4). For the sound at the façade this is one octave lower (200 - 1600 Hz) because 
+higher frequencies were better absorbed and now contributes less to the sound energy as 
+
+they do near the turbines.... It is clear that the sound below appr. 20 Hz must be considered 
+inaudible for even well hearing people, even when one stands close to the turbine. Sound 
+levels above the low frequency range but below appr. 1000 Hz are dominant with respect 
+
+to audibility.ﬂ 
+  ﬁTurbines produce low-frequency sounds, but it has not been shown that this is a major 
+factor contributing to annoyance. Sound from wind turbines involves several sound pro-
+   AV 1098/08 Page 57 of 78 DELTA Acoustics & Electronics duction mechanisms related to different interactions between the turbine blades and the air. 
+Low-frequency sound is predominantly the result of the displacement of air by a blade and 
+
+of turbulence at the blade surface. 
+... the low blade-passing frequency modulates well audible, higher frequency sounds and 
+thus creates periodic sound. This effect is str
+onger at night because in a stable atmosphere 
+there is a greater difference between rotor averaged and near tower wind speed. Measure-
+ments have shown that more turbines can interact to further amplify this effect. 
+... The increased annoyance has not been investigated as such, although there are indica-
+tions from literature that this effect is relevant. 
+It is of increasing relevance as the effect is stronger for modern (that is: tall) wind turbines.ﬂ 
+The mean data from Figure 39 has been digitized and is presented together with the natural 
+background noise from DELTA™s measurements, see section 8. 
+2030
+40
+50
+607080
+90100
+110100100010000
+Frequency, Hz
+Sound Pressure level, dB
+Wind turbines
+Background noise 7 m/s
+ Figure 40 1/3 octave band spectra of the noise measured outdoor 750 m from the nearest wind tur-
+bines in a wind park with seventeen 2 MW turbines. The data are the same as in Figure 39 
+and in Figure 21 (background noise measured by DELTA in another site). 
+    AV 1098/08 Page 58 of 78 DELTA Acoustics & Electronics If the background noise measured by DELTA (Fig
+ure 22) is representative, then the tur-bine noise is above the background noise. It is also seen that the spectral shape of the 
+
+background noise is similar to the shape of the wind turbine noise. 
+The data for evaluation of the audibility is shown in Figure 41 
+ A-weighted 
+ HT-weighted 
+Critical Band 
+Outdoor Indoor Outdoor Indoor 
+0-100 Hz 25 12 15 0 
+100-200 Hz 34 19 28 13 
+Figure 41 Critical band sound pressure levels in dB of 
+the A-weighted and HT-weighted outdoor and indoor spectra of the wind turbine noise in Figure 32, corrected to one wind turbine in 6 
+hub heights distance. Total outdoor 
+sound pressure level = 43 dB(A). 
+Indoor L
+pA,LF  
+= 20 dB, calculated according to section 7. 
+The following conclusions can be drawn by comparison with the background noise (Figure 
+22): - The outdoor and indoor critical band low frequency levels of the HT-weighted 
+spectrum are above the hearing threshold (0 dB). 
+- Outdoor the low frequency noise is masked by the standard background noise 
+(Figure 22) - The wind generated standard background noise will not mask the wind turbine 
+noise, but the level is not above a limit of L
+pA, LF
+ = 20 dB. 11.8 Auralisation and assessment of annoyance from wind turbines 
+Søren Vase Legarth, Reference [26] 
+This reference deals with a laboratory study of annoyance. Among other things a metric 
+for the swishing sound is developed. The paper is based on the report [25]. 
+It was found that for large modern turbines the most modulated range was the frequency 
+band 350-700 Hz. In an earlier study from 1996, reference [45], it was found that the 
+smaller turbines, which were common at that time, had maximum modulation in the range 
+around 1 kHz. This means that the swishing sound from modern turbines has a one octave 
+lower pitch than the older turbines.    AV 1098/08 Page 59 of 78 DELTA Acoustics & Electronics Although this characteristic has a lower pitch it is not a characteristic in the low frequency 
+range. Anyway this effect may erroneously be called low frequency by some people in 
+
+connection with the sound from the large turbines. 
+Together with the slower rotation speed this 
+is a noticeable change of the sound character-
+istic from the larger wind turbines. 
+11.9 Vurdering af lavfrekvent st
+øj og infralyd fra decentra
+le el-producerende anlæg Christian Sejer Pedersen og Henrik Møller, reference [38] 
+Measurements have been made on a number of electricity producing units; some of these 
+were wind turbines. Here we will focus on one site with 8 turbines around a building with 
+an office. During the measurements there was a positive wind direction composant from 
+the turbines 3, 4, 7, and 8 to the building. The types of turbines and the distances can be 
+seen in Figure 42.  No. Make & Power Distance , m 
+1 Bonus, 1 MW ca. 675 
+2 NEG Micon, 2.5 MW 430 
+3 V80 offshore, 2 MW 90 
+4 V80 offshore, 2 MW 420 
+5 NEG Micon, 2.75 MW ca. 700 
+6 NEG Micon, 2.75 MW 470 
+7 NEG Micon, 2.75 MW 200 
+8 NEG Micon, 2.75 MW 450 
+Figure 42 Wind turbines and distances to the building at the selected site from the report. 
+Measurements were made for three situations in three positions in the building. 
+LpA,LF
+, dB Situation Pos.1Pos. 2Pos.3Energy mean 
+1. All turbines running 20 20 19 20 
+2. Turbines 3 and 7 stopped. 12 14 11 13 
+3. Background noise, all turbines stopped9 9 4 8 
+Figure 43 The measuring situations and the levels measured in the three positions. The wind speed 
+varied from 5,4 to 7,8 m/s with a mean of 6,6 m/s during the measurements. 
+   AV 1098/08 Page 60 of 78 DELTA Acoustics & Electronics In the following we will look closer on position 1 because the levels here are closest to the mean. 
+ Figure 44 Figure from the report: 1/3 octave band spectra of the noise from the wind turbine park 
+
+(see Figure 42) with 8 turbines running (situation 1, position 1) measured inside the build-
+ing. The distance to the nearest 2 MW turbine is 90 m. The broken line is the hearing 
+threshold for pure tones.    AV 1098/08 Page 61 of 78 DELTA Acoustics & Electronics 01020
+30405060701101001000
+Frequency, Hz
+Sound Pressure level, dB
+1. All turbines
+2. Turb. 3 & 7 stopped
+3. Background noise
+ Figure 45 1/3 octave band spectra of the noise from the wind turbine park (see Figure 42) in measur-
+
+ing position 1) measured inside the building. The ﬁall turbinesﬂ data are the same as in 
+Figure 44 From Figure 45 it is seen in the frequency range 10-300 Hz the spectra for the three situa-
+tions have a very similar shape. It is also seen that in almost all 1/3 octave bands the noise 
+from the turbines 3 and 7 are dominating. In the ﬁall turbinesﬂ situation we may regard the 
+
+noise from the other turbines (except 3 and 7) as background noise and we may correct for 
+it, when we get the data in.  
+   AV 1098/08 Page 62 of 78 DELTA Acoustics & Electronics 010
+20304050
+601101001000
+Frequency, Hz
+Sound Pressure level, dB
+Turbines 3 & 7 
+Background noise
+-50
+-40
+
+-30
+
+-20
+
+-10
+010
+20101001000
+Frequency, Hz
+Sound Pressure level, dB (HT)
+HT-weigted turbine 3 & 7
+ Figure 46 Measured indoor 1/3 octave band spectra (position 1) for turbines 3 and 7 referred to 6 
+
+hub heights (540 m). The dotted curve in the left figure is the measured background noise. 
+To the right the HT-weighted spectrum. 
+The hub heights of the turbines are not reported, but for this size of turbines it is usually 
+80-100 m. A hub height of 90 m is used for the calculations (both turbines are ﬁmovedﬂ 6 
+times further away in the calculations). 
+From Figure 46 it is seen that at 6 hub heights distance the turbines will hardly be audible 
+indoor. If we anticipate they emit the same sound power, then the contribution from the 
+
+furthest turbine to the total noise is approximately 1 dB. On the other hand the wind speed 
+is only 6.6 m/s so the noise may be slightly less that at 8 m/s. Therefore it is assumed that 
+the noise from turbine 3 at 8 m/s is the same as shown in Figure 46. 
+The data for evaluation of the audibility is shown in Figure 47 
+A-weighted 
+ HT-weighted 
+Critical Band 
+Backgrnd noise Wind turbine Backgrnd noise Wind turbine 
+0-100 Hz 4 -2 -9 -15 
+100-200 Hz 3 5 -2 0 
+Figure 47 Critical band sound pressure levels in dB of 
+the A-weighted and HT-weighted indoor spec-
+tra of the background noise and wind turbine noise in 
+Figure 46,(~ turbine 3 in 6 hub 
+heights distance, see text). The indoor L
+pA,LF  
+is 6 dB for the wind turbine and 7 dB for the 
+background noise. 
+
+    AV 1098/08 Page 63 of 78 DELTA Acoustics & Electronics From Figure 47 it is seen that the low frequency components in the range 100-200 Hz of 
+the wind turbine noise is just at the average hearing threshold. 
+010
+20304050601101001000
+Frequency, Hz
+Sound Pressure level, dB
+Turbines 3 & 7 
+v. d. Berg indoor
+ Figure 48 Comparison of the 1/3 octave band levels for turbine 3 (2 MW) with the data for one tur-
+bine (2 MW) from section 11.7 converted to indoor levels according to section 7. Both in 6 
+hub heights distance. 
+From Figure 48 it is seen that the general shape of the spectra are similar, but the average 
+difference between the curves is 15 dB. This relatively large difference may be explained 
+by differences in wind speed and wind direction and different sound insulation in the site 
+
+used for the actual measurements and the average sound insulation stated in section 7. 
+11.10 Overview and conclusions The most relevant data from the previous sections ar shown in Figure 49. 
+   AV 1098/08 Page 64 of 78 DELTA Acoustics & Electronics  Outdoor, A-weigthed, dB Indoor, HT-weigthed, dB 
+ 0-100 Hz 100-200 Hz 0-100 Hz 100-200 Hz 
+Wind noise (DELTA) 28 34 -3 7 
+Low frequency noise at 
+three UK wind farms 
+(Total noise)   -4 8 
+Acoustic and geophysical 
+measurements, 660 kW 
+(att. of bckg. noise occur) 
+1 Turb, 6 hh (DELTA) 
+22 (27) 27 (32) -4 (1) 6 (11) 
+Facts, fiction or deception Back ground noise 
+33    
+Facts, fiction or deception Wind turbine noise 1,5 MW 
+(Total noise?) 6 hh 
+21 26 -5 6 
+van den Berg, 2 MW 
+1 Turb, 6 hh 
+25 34 0 13 
+Decentrale el-anlæg Back ground noise 
+  -9 -2 
+Decentrale el-anlæg 2 MW turbine, 6 hh 
+  -15 0 
+Figure 49 Overview over data from the previous secti
+ons. Background noise levels are shown in red. 
+The wind turbine levels refer to a distance of 6 hub heights. 
+According to the method described in Appendix the sound in a critical band is below the 
+hearing threshold if the HT-weighted level in the band is below 0 dB. It is seen, that nei-
+ther the background noise nor the wind turbine noise will be audible indoor in the lowest 
+critical band (0-100 Hz). In the 100-200 Hz band the indoor levels are slightly above the 
+hearing threshold in silence. The indoor HT-weighted levels of the backround noise may 
+be of the same magnitude as the wind turbine noise in this band. 
+Outdoor, the A-weighted level from the turbines in the lowest band (0-100 Hz) is masked, 
+as the levels are more than 2 dB below the background noise (see Appendix). In the 100-
+200 Hz band the loudest wind turbine is only 2 dB above the masking limit. 
+It is assumed that indoor the same relations between wind turbine noise and masking from 
+natural background noise will apply. Hereto comes masking from indoor sources. 
+   AV 1098/08 Page 65 of 78 DELTA Acoustics & Electronics 12. Low frequency content compared to other sources 
+Like many other noise sources wind turbines emit low frequency noise to some extent as 
+we have seen. Figure 50 shows the magnitude of the L
+pA, LF 
+levels from a number of 
+sources compared to a typical 3.6 MW wind turbine. 
+LpA,LF
+ [dB re 20µPa]
+0102030405060708090
+Refrigerator, 0.5 m. Indoor
+3.6 MW wind turbine, 600m, indoor
+Busy city street indoor
+Dishwasher, 0.6m
+Truck, idle. Measured in office next to.
+Oil-fired burner, 1m indoor
+Inside passenger car, idle
+Inside running IC3-train
+Inside stopped IC3-train, idle
+Inside passenger car, 80 km/h
+Inside car. Rock on the radio
+3.6 MW wind turbine, 2600m, outdoor
+3.6 MW wind turbine, 1800m, outdoor
+3.6 MW wind turbine, 600m, outdoor
+Suburb area, outdoor
+3.6 MW wind turbine, 250m, outdoor
+Motorway, 225m, outdoor
+Light industrial area
+Light industrial area with truck 50m
+On bridge over motorway
+Truck passing, 2m
+Busy city street, outdoor
+ Figure 50 Examples on A-weighted low frequency levels L
+pA, LF
+ from a number of indoor and outdoor 
+sources. From reference [1]. 
+ It is seen that at distances at 6 hub heights (600m) or more the wind turbine is among the 
+sound sources with the least contribution to the LF-noise indoor and outdoor. 
+   AV 1098/08 Page 66 of 78 DELTA Acoustics & Electronics 13. Conclusions There is no approved or standardized method to evaluate the audibility of low frequency 
+broad band (wind turbine) noise and the masking effects from the (natural) background 
+noise (mainly wind generated noise in the vegetation). Therefore a psychoacoustic reason-
+able method has been proposed and is used in the assessment. 
+In another part of this project the low frequency sound insulation has been investigated. 
+There are large differences in different houses and rooms, and the large difference makes it 
+
+difficult to give very conclusive statements 
+about indoor audibility and annoyance. It has 
+been chosen to give general statements based on the average. The actual situation on spe-
+cific sites has to be investigated individually. 
+Also the background noise (wind noise) varies considerably with the location, type of 
+vegetation and the time of year. A winter situation without leaves on the trees has been 
+chosen as a worst case. 
+13.1 Characteristics of Wi
+nd Turbine Noise 
+The noise from modern large wind turbines is dominated by the aerodynamic noise from 
+the blades rotating in the air. As the blades pass through different wind speeds (and maybe 
+also because of (distance differences and Doppler effects) the mid and high frequency 
+
+aerodynamic noise is modulated by the low blade passage frequency. This low frequency 
+modulation (1 Hz) may have caused some confusion about infrasound. 
+There seem to be solid evidence and general agreement among researchers and technicians 
+that wind turbines do not emit audible infrasound. The levels are far below the hearing 
+threshold. Audible low frequency sound occurs both indoor and outdoor, but the levels are in general 
+close to the hearing and/or masking threshold. Many other noise sources e.g. road traffic 
+emit low frequency noise. For road traffic noise (in the vicinity of the roads) the low fre-
+quency noise levels are higher both indoor and outdoor. In general the noise in the critical 
+
+band up to 100 Hz is below both thresholds, but the level in the 100-200 Hz critical band is 
+audible for normal hearing persons if no other sound than the natural background noise is 
+masking the wind turbine noise. At a distance of 6 hub heights it seems that in average the 
+noise levels from the turbines are close to 
+the Danish outdoor noise limits, but in all cases the indoor limit for L
+pA, LF 
+seem to be observed. 
+Data collected from DELTA earlier test reports 
+(not made for this specific purpose) seem 
+to show that turbines larger than 2 MW el
+ectrical power in average give slightly higher 
+sound power levels than the smaller turbines. Apart from low frequency tones from some 
+prototype turbines the low frequency part of the spectrum is not more dominant for the 
+larger turbines.    AV 1098/08 Page 67 of 78 DELTA Acoustics & Electronics The swishing sound from the blades is noted by a number of authors. It is found that for 
+large modern turbines the most modulated range is the frequency band 350-700 Hz. In an 
+
+earlier study from 1996, it was found that the smaller turbines, which were common at that 
+time had maximum modulation in the range around 1 kHz. The swishing sound is actually 
+more low frequent, but it is not in the low frequency range. Anyway this effect may be 
+called low frequency by some people in connection with the sound from the large turbines. 
+Together with the slower rotation this is 
+a noticeable change of the sound characteristic 
+from wind turbines. 
+Tones may occur from the turbines but for well designed turbines they are usually not 
+prominent. The large turbines may have tones of lower frequencies due to the lover rota-
+tional speed.   13.2 Annoyance of Noise from Wind Turbines 
+Curves for the general annoyance of the noise from wind turbines are given in the report. It 
+has been found (in laboratory experiments) that the annoyance of low frequency sound 
+increases more rapidly with the level when the sound is audible. This is in good agreement 
+with the loudness perception for such sounds. 
+There seem to be agreement that low frequency noise occur, but it is not considered to be a 
+problem, or it have not been shown that this is a major factor contributing to annoyance. 
+Audible tones increase the annoyance and they should be avoided. 
+From a survey it is found that the ﬁswishing soundﬂ is the highest ranking and that ﬁLow 
+frequencyﬂ is one of the two lowest ranking sound characteristic descriptors in relation to 
+annoyance, and a number of authors mention this effect. 
+Actually it is recommended that ﬁattention should be focused on the audio frequency fluc-
+tuating swish, which some people may well find to be very disturbing and stressful, de-
+pending on its level.ﬂ 
+A metric for this effect has been found. 
+13.3 Further Information Needed Great effort has been used to find reliable and well documented data and bring them on a 
+common form for direct comparison. 
+   AV 1098/08 Page 68 of 78 DELTA Acoustics & Electronics Often important information or data is missing in the literature which weakens the conclu-
+sions. Especially data on large turbines are missing and data for both indoor and outdoor 
+
+conditions are missing. Other parts of this
+ project will remedy this deficiency. 
+   AV 1098/08 Page 69 of 78 DELTA Acoustics & Electronics  14. References This list of references include all references 
+relevant for this project found by the literature 
+search. Only the results from most relevant are referred in the text. 
+[1]
+ Claus Backalarz Målt og beregnet lavfrekvent støj ved Avedøre Holme (In Danish. ﬂMeasurements 
+of low frequency noiseﬂ). Technical note AV 1099/08 from DELTA Acoustics 
+
+2008. [2]
+ Geoge Bellhouse 
+Low Frequency Noise and Infrasound from 
+Wind Turbine Generators, A literature 
+review Bel Acoustic Consulting, June 2004 
+http://www.windenergy.org.nz/news/news-articles/2004/040810-Sound-
+LitReview.htm  [3]
+ Birgitta Berglund, Thomas Lindvall, Dietrich H Schwela 
+Guidelines for Community Noise World Health Organisation 1999 
+http://www.who.int/docstore/peh/noise/guidelines2.html
+ [4]
+ Bolin, K. Masking of wind Turbine Sound by Vegetation noise
+ Wind Turbine Noise conference, WTN 2005, Berlin 
+[5]
+ Bolin, K., Khan, S. 
+Determining the potentiality of masking of wind turbine noise using natural ambient 
+noise. Submitted to Acta Acustica  
+[6]
+ G.P. van den Berg 
+Do wind turbines produce significant low frequency sound levels 
+11th International Meeting on Low Frequency Noise and Vibration and its Control. 
+Maastricht, The Netherlands, 2004 
+http://www.viewsofscotland.org/library/turbines_and_health.php
+ [7]
+ G.P. van den Berg 
+The Beat is Getting Stronger: The effect of Atmospheric Stability on Low Frequency 
+Modulated Sound of Wind turbines 
+Journal of Low Frequency Noise, Vibration and Active Control. Vol 24. No.1, 2005 
+   AV 1098/08 Page 70 of 78 DELTA Acoustics & Electronics [8]
+ Danish Ministry of the Environment 
+Bekendtgørelse om støj fra vindmøller
+ (Regulation on noise from wind turbines in 
+Danish). BEK nr 1518 af 14-12-2006 
+[9]
+ Danish Ministry of the Environment 
+Vurdering af lavfrekvent støj fra færger, (
+Assessemnt of low frequency noise from 
+ferries). Arbejdsrapport fra Miljøstyrelsen nr 10, 1997 
+[10]
+ Hayes, Malcolm 
+Low Frequency and Infrasound Noise Immissions from Wind Farms and the Poten-
+tial for Vibroacoustic Disease. 12th International Meeting on Low Frequency Noise 
+and Vibration and Its Control Bristol, UK 18 Œ 20 September 2006 
+[11]
+ Hayes McKenzie partnership 
+The measurements of low frequency noise at three UK wind farms
+ Department of Trade & Industry (DTI), URN number 06/1412 , 2006 
+[12]
+ Nevil Hegley 
+Is wind farm noise different? 
+Abstract for New Zeeland Wind Energy Conference 2005 
+http://www.windenergy.org.nz/temporary/050830-HegleyAcoustics-Abstract.pdf
+ [13]
+ Hepburn, Howard G. 
+Acoustic and Geophysical Measurement of Infrasound from Wind farm Turbines
+ Canadian Acoustics, special issue. Vol. 34 No. 2  p.51, 2006 
+[14]
+ Hoffmeyer, Dan 
+Low Frequency Noise from Large Wind Turbines Œ Measurement of Sound Insula-
+tion of Facades. AV 1126/07. DELTA 2007 
+[15]
+ ISO 226 
+Normal equal-loudness level contours 
+International Organisation for standardization, Geneve, 2003 
+[16]
+ ISO 532 
+Method for calculating loudness level 
+International Organisation for standardization, Geneve, 1975 
+[17]
+ ISO 389-7:2005(E) 
+Acoustics Œ Reference zero for the calibration of audiometric equipment
+ Part 7: Reference threshold of hearing under free-field and diffuse-field listening 
+conditions. Second edition 2005-11-01 [18]
+ ISO 1996-2 
+Acoustics - Description, assessment and measurement of environmental noise - Part 
+
+2: Determination of environmental noise levels. Annex C: 
+Objective method for as-
+sessing the audibility of tones in noise
+. Second edition 15-03-2007. 
+   AV 1098/08 Page 71 of 78 DELTA Acoustics & Electronics [19]
+ ISO/TS 15666 
+Technical Specification: Acoustics Œ 
+Assessment of noise annoy-ance by means of 
+social and socio-acoustic surveys. 2003-02-01. 
+[20]
+ Jørgen Jakosen 
+Infrasound Emission from Wind Turbines 
+Journal of Low Frequency Noise, Vibration and Active Control, Volume 24, Num-
+ber 3, September 2005 , pp. 145-155(11) 
+[21]
+ Jakobsen, j. and Andersen, B. 
+Wind noise. Measurements of Wind-Generated Noise from Vegetation and Micro-
+phone system 
+[22]
+ Jakobsen, J., Pedersen, T.H. 
+Støj fra vindmøller og vindstøjens maskerende virkning (
+Noise from wind turbines 
+and the masking effect of natural wind noise
+, in Danish) 
+Lydteknisk Institut (Danish Acoustical institute) Report no. 141. 1989 
+[23]
+ Helmut Klug 
+Infrashall von Windenergieanlagen: Realitet oder Mythos DEWI Magazin Nr. 20, February 2002 
+http://www.wind-energie.de/fileadmin/dokumente/Themen_A-
+Z/Infraschall/dewi_infraschall_2002.pdf [24]
+ Kvist. P. and Pedersen, T. H. 
+Translation into Danish of the questions and moderators for socio-acoustic surveys.
+ Euronoise 2006 proceedings. [25]
+ Legarth, S.V. Genlyd Œ Laboratory study on annoyance of sound from wind turbines
+ DELTA Acoustics 2006 (not published) 
+[26]
+ Legarth, S. V. 
+Auralisation and assessment of annoyance from wind turbines 
+Second international meeting on wind turbine noise, Sept 2007. 
+[27]
+ Leventhall, Geoff A Review of Published Research on Low Frequency Noise and its Effects 
+Department for Environment, Food and Rural Affairs, May 2003 
+http://www.defra.gov.uk/news/2003/030604b.htm
+ [28]
+ Leventhall, Geoff  Notes on Low Frequency Noise from Wind Turbines with special reference to the 
+Genesis Power Ltd Proposal, near Waiuku NZ
+. 2004 
+[29]
+ Leventhall, Geoff, Benton, s., Robertson, d. 
+Coping Strategies for Low frequency Noise
+. NANR 125, June 2005 
+   AV 1098/08 Page 72 of 78 DELTA Acoustics & Electronics [30]
+ Leventhall, Geoff How the Mythology of Infrasound and Low Frequency Noise Related to Wind Tur-
+bines Might Have Developed
+. Wind Turbine Noise Conference, Berlin 17-18 Octo-
+ber 2005 [31]
+ Leventhall, Geoff Infrasound from Wind Turbines Œ Facts, Fiction or Deception 
+Canadian Acoustics Vol. 34 no. 2, 2006 special edition. 
+[32]
+ Miljøstyrelsen (Danish environmental protection agency) 
+Orientering fra Miljøstyrelsens nr. 9 1997. Lavfrekvent støj, infralyd og vibrationer i 
+eksternt miljø
+. (Low frequency noise, infrsound and vibrations in the environment
+, in Danish) [33]
+ Moorhouse, A., Waddinton, D., Adams, M. 
+Proposed criteria for the assessment of low frequency noise disturbance
+ University of Salford, February 2005 
+[34]
+ Moorhouse, A., Hayes, M., Hünerbein, S., Piper, Adams, M. 
+Research into Aerodynamic Modulation of Wind Turbine Noise
+ University of Salford, July 2007 
+[35]
+ Møller, H.  and Pedersen, C.S. 
+Hearing at Low and Infrasonic Frequencies 
+Noise & Health, Volume 6, issue 23, Apr-Jun 2004 
+[36]
+ Møller, H. Annoyance of audible infrasound Jounal of Low Frequency Noise and Vibration 6, 
+p. 1-17, 1987. 
+[37]
+ Møller, H., and Andresen, J. 
+Loudness of pure tones at low and infrasonic frequencies.
+ Journal of Low Frequency 
+Noise and Vibration 3, 1984 Pages 78-87. 
+[38]
+ Christian Sejer Pedersen og Henrik Møller 
+Vurdering af lavfrekvent støj og infralyd fra decentrale el-producerende anlæg
+ Aalborg Universitet, 2005 
+http://acoustics.aau.dk/research/lf/infralydindex.html
+ [39]
+ Pedersen, Eja and Waye, Kerstin Persson 
+Perception and annoyance due to wind turbine noise Œ a dose-response relationship 
+JASA 116 (6) Pages 3460-3470, December 2004 
+[40]
+ Pedersen, Eja 
+Noise annoyance from wind turbines - a review 
+Högskolan i Halmstad, Report 5308, August 2003 
+http://www.naturvardsverket.se/bokhandeln/pdf/620-5308-6.pdf
+    AV 1098/08 Page 73 of 78 DELTA Acoustics & Electronics [41]
+ Pedersen, Eja 
+Human response to wind turbine noise Œ perception, annoyance and moderating fac-
+tors. Göteborg University, Sweden. 2007 
+[42]
+ Pedersen, Torben Holm 
+The ﬁGenlydﬂ Noise Annoyance model, Dose-Response Relationships Modelled by 
+Logistic Functions
+. DELTA march 2007. 
+www.delta.dk
+ (Know-
+how/publications/acoustics) [43]
+ Pedersen, Torben Holm 
+Is Low-Frequency Sound or Infrasound a 
+Specific Cause for Annoyance from Wind Turbines? Œ A Literature Survey. AV 1296/05. DELTA September 2005. 
+[44]
+ Pedersen, T. Holm, Søndergaard, Morten : 
+Objective Method for Assessing the Au-
+dibility of Tones in Noise. Internoise 2000 proceedings. 
+[45]
+ Pedersen, Torben Holm 
+Genevirkning af støj fra vindmøller (
+Annoyance of noise from wind turbines Œ in 
+Danish). Report no. 150. DELTA 1994. 
+[46]
+ Poulsen, T. and Mortensen, F. R. 
+Laboratory Evaluation of Annoyance of Low Frequency Noise
+ Technical University of Denmark, Acoustic Technology, 2002 
+[47]
+ Snow, J.W. and Styles, D.J. 
+Low frequency noise & vibration levels at a modern wind farm. 
+Proceedings of In-
+ter-Noise 96 p. 459-462. Liverpool 1996. 
+[48]
+ Casella Stanger, environmental consultants 
+Low frequency noise 
+Department of the environment, Northern Ireland, Scottish Executive, National As-
+sembly for Wales, 2001. 
+
+http://www.scotland.gov.uk/library3/environment/lfn-00.asp
+ [49]
+ Stewart, John Location, Location, Location
+. An investigation into wind farms and noise by The 
+Noise Association. Published by The Noise Association July 2006 
+[50]
+ Stephens, D. G., Shepherd, K.P., Hubbard, H.H, Grosveld, W.G. 
+Guide to the evaluation of human exposure to noise from large wind turbines 
+NASA Technical Memorandum 83288, 1982. 
+[51]
+ Søndergaard, Bo 
+Dokumentation af ekstern støj fra tre vindmøller ved Sdr. Jernløse.(
+Dokumentation 
+of environmental noise from three windturbines at Sdr. Jernløse
+) AV 145/2002, 
+DANAK 2180 (In Danish and not public available) 
+   AV 1098/08 Page 74 of 78 DELTA Acoustics & Electronics [52]
+ Watanabe T. and Møller H. 
+Low frequency hearing thresholds in pressure field and in free field.
+ J. Low Freq. Noise Vib., Vol 9 (3), p. 106-115 
+[53]
+ Whittle, L. S., Collins, S. J., and Robinson, D. W. 
+The audibility of low frequency sounds. Journal of Sound and Vibration 21, 1972 
+pages 431-448. 
+ [54]
+ Widing, A., Britse.G. and Wizelius, T. 
+Windkraftens Miljöpåvirkan (envirinmental impact of wind power,- in Swedish) 
+Centrum for Vindkraftsinformation, may 2005 
+http://www.vindenergi.org/Vindforskrapporter/VimpFallstudie.pdf
+ [55]
+ Wolsinki et al xx mere specifikt se rapport 150 bilag 
+Annoyance from wind turbine noise on sixteen sites in three countries
+, 1993. [56]
+ Zwicker, E. & Fastl, H. 
+Psycho-acoustics, Facts and models
+. Springer Verlag 1999. 
+[57]
+ Zwicker, E. und Feldtkeller, R. 
+Das Ohr als Nachrichten empfänger
+. Hirzel Verlag. 1967. 
+   AV 1098/08 Page 75 of 78 DELTA Acoustics & Electronics 15. Appendix Œ Assessment of the audi
+bility of low frequency sounds 
+This Appendix describes psychoacoustic reasonable procedures for predicting the audibil-
+ity of sounds (tones, narrowband or broadband noise) below 500 Hz, may it be absolute 
+thresholds or masking thresholds. 
+Furthermore the procedures make it possible to compare frequency analysis made with 
+different bandwidths in a psychoacoustic meaningful way, by comparing the levels per 
+critical band. 15.1 Audibility of sounds near
+ the hearing threshold 15.1.1
+ HT-weighting 
+1. The lines/bands in the frequency spectrum are weighted (attenuated) according to the 
+inverse hearing threshold; this is called HT-weighting. The attenuation in dB is given by 
+equations 1-3 that approximates the hearing threshold. 
+2-20 Hz   
+133,48 + f6,3935 - f103,8537 + f101,0183- =Att2-13-220Hz-2  Equation 5 
+The attenuation in dB in the range dB, 20-200 Hz is given by 
+20-200 Hz    
+137,99 + f4,2624 - f107,7761 +f108,0269 -                        f104,5945 + f101,3537 -f101,5948 = Att22-34-4-65-86-11Hz 200-20      Equation 6 
+The attenuation in dB in the range dB, 200-500 Hz is given by 
+200-500 Hz  
+34,306 + f101,399 - f102,2850 + f101,3635- =Att-12-43-7500Hz-200Equation 7 The deviation of these approximations from the hearing threshold is less than 0.4 dB. The 
+attenuation for a number of frequencies is shown in Figure 51. 
+     AV 1098/08 Page 76 of 78 DELTA Acoustics & Electronics  Freq. 
+Hz Att. dB  Freq. 
+Hz Att. dB  Freq. 
+Hz Att. dB 1.6 124.3  20.0 78.2  200 14.4 
+1.8 123.3  22.4 73.6  224 12.9 
+2.0 122.2  25.1 69.0  251 11.4 
+2.2 121.0  28.2 64.3  282 10.0 
+2.5 119.7  31.6 59.8  316 8.6 
+2.8 118.3  35.5 55.3  355 7.3 
+3.2 116.8  39.8 51.1  398 6.2 
+3.5 115.2  44.7 47.2  447 5.2 
+4.0 113.5  50.1 43.6  501 4.4 
+4.5 111.7  56.2 40.3    
+5.0 109.8  63.1 37.3    
+5.6 107.9  70.8 34.5    
+6.3 105.9  79.4 31.9    
+7.1 103.9  89.1 29.3    
+7.9 101.9  100.0 26.7    
+8.9 99.9  112.2 24.1    
+10.0 97.9  125.9 21.7    
+11.2 95.9  141.3 19.7    
+12.6 93.7  158.5 18.1    
+14.1 91.4  177.8 16.7    
+15.8 88.4       
+17.8 84.4       
+Figure 51 Attenuations for the hearing threshold weighting (HT-weighting) according to 
+
+formulas 1-3. 
+15.1.2
+ Energy addition of combined analysis bands 
+ Critical band 0-100 Hz 100-200 Hz 200-300 Hz 300-400 Hz 400-500 Hz 
+Octaves 0-63 125 250 250 500 
+1/3 octaves 0-80 100-160 200-250 315-400 500 
+1/6 octaves 0-90 100-180 200-285 320-400 450-506 
+1/24 octaves 0-98 101-196 201-293 301-390 402-492 
+FFT analysis 0-99 100-199 200-299 300-399 400-499 
+Figure 52 Centre frequencies in Hz for bands to be energy added from the HT weighted spectra to 
+get the total HT-weighted level per critical band. Only analyses with a resolution of 1/3 
+octaves or better should be used. 
+   AV 1098/08 Page 77 of 78 DELTA Acoustics & Electronics The ﬁdefiniteﬂ definition of the placement of the critical bands, specified in Figure 52,  are 
+for ﬁpragmaticﬂ reasons only. The critical bands of the hearing are not centred at any spe-
+
+cific frequencies but can be placed at any frequency 
+The total HT weighted level per critical band shall be calculated. For this purpose the en-
+ergy in a number of bands as shown in Figure 52 have to be added. 
+The energy addition is made according to the following formula: 
+)10log(10Ln1i10i,HTLband.crit    Equation 8 
+ Where LHT, i is the HT-weighted level of the i™th frequency band. 
+It will be seen that the lowest critical band includes both a low frequency and an infrasonic 
+region. This subdivision is only conventional and there are no physical, physiological, or 
+psychological reasons to maintain it in the above mentioned calculations. 
+15.1.3
+ Audibility criterion 
+The low frequencies of the wind turbine noise will be regarded to be below the hearing 
+threshold if the critical band levels found from the HT-weighted wind turbine spectra is 
+less than 0 dB. 
+ This anticipation definitely holds for sounds 
+with dominating tones or narrow noise bands, 
+because the results just give a direct comparison with the hearing threshold. 
+15.2 Audibility of sounds part
+ly masked by other sounds 
+In the preceding section a method for compari
+ng the wind turbine noise in quiet surround-
+ings with the hearing threshold was defined. In practice there is always some background 
+noise, at least from wind in vegetation and buildings so the wind turbine noise may not be 
+
+audible due to masking even if the HT-weighted critical band levels are above the hearing 
+threshold. In this section a method for finding 
+the audibility of broad band sounds partly 
+masked by other sounds is defined. 
+15.2.1
+ Simple situations 
+In simple cases where one spectrum is completely above the other the spectre of the wind 
+turbine noise and the background noise can be compared directly independent of any fre-
+quency weighting (the spectra shall be measured or referred to the same frequency weight-
+ing and analysis bandwidth (1/3 octave bands or less): 
+   AV 1098/08 Page 78 of 78 DELTA Acoustics & Electronics 1. The wind turbine noise will be masked if the levels in all analysis bands of the 
+wind turbine noise is more than 2 dB below the levels of the 
+background noise
+ 2. If the levels of all analysis bands of the 
+total noise is less than 2 dB above the 
+background noise then the wind turbine will be masked. 
+15.2.2
+ Not simple situations If it is not the case that one spectrum is completely above the other the spectre, the wind 
+turbine noise may be masked even if the levels of some analysis bands of the wind turbine 
+exceed the levels of the background noise. In this case the spectra shall be A-weighted and the critical band levels of the A-weighted 
+spectra shall be calculated after the same principles as for the HT weighting described in 
+
+section 15.1.1. 
+The following rule applies for the audibility: 
+- The wind turbine noise is masked if the levels of the critical bands of the A-
+weighted wind turbine noise are more than 2 dB below the levels of the critical 
+bands of the A-weighted background noise.
+ This rule will also work for the simple situations.
+      

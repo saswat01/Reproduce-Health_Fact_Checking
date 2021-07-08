@@ -1,0 +1,93 @@
+Video Series  Defining Cancer Statistics  Glossary of Statistical Terms   SEER Publications   Monographs     Reports on Cancer  Annual Report to the Nation on the Status of Cancer Cancer Stat Facts Cancer Statistics Review Preliminary Incidence Rates SEER Publications  Interactive Tools, Maps, &amp; Graphs  SEER*Explorer CanStat Animator Cancer Query Systems  Understanding Statistics  Did You Know?
+ Video Series Defining Cancer Statistics Glossary of Statistical Terms     SEER Data &amp; Software    SEER Incidence Database   Accessing the Data  Request the Data  Sample Data Use Agreement   Documentation for Data   SEER*Stat Database Details   Variable and Recode Definitions   U.S. Datasets   U.S. Mortality  U.S.
+ Populations  Standard Populations  SEER Linked Databases   Statistical Software   SEER*Stat  SEER*Prep  Methods &amp; Tools for Population-based Cancer Statistics     SEER Incidence Database  Accessing the Data Request the Data Sample Data Use Agreement  Documentation for Data  SEER*Stat Database Details Variables and Recode Definitions  U.S. Datasets  U.S. Mortality U.S.
+ Populations Standard Populations SEER Linked Databases  Statistical Software  SEER*Stat SEER*Prep Methods &amp; Tools for Population-based Cancer Statistics     Registry Operations    Reporting Guidelines   SEER Program Coding Manual  Hematopoietic Project  2018 Solid Tumor Rules   Tools &amp; Software    Glossary for Registrars  SEER*Rx - Drug Database  SEER Abstracting Tool  SEER Data Management System (SEER*DMS)    Questions &amp; Answers   SEER Inquiry System   Ask a SEER Registrar   Data Collection Answers   Staging   Registrar Staging Assistant (SEER*RSA)   Summary Stage 2018  Staging Resources   Extent of Disease 2018   Training      Reporting Guidelines  SEER Program Coding Manual Hematopoietic Project 2018 Solid Tumor Rules  Tools &amp; Software  Glossary for Registrars SEER*Rx - Drug Database SEER Abstracting Tool SEER Data Management System (SEER*DMS)  Questions &amp; Answers  SEER Inquiry System Ask a SEER Registrar Data Collection Answers  Staging  Registrar Staging Assistant (SEER*RSA) Summary Stage 2018 Staging Resources Extent of Disease 2018  Training     News    About                   Section Menu  Home Cancer Statistics Reports on Cancer Cancer Stat Facts Colorectal Cancer — Cancer Stat Facts Cancer Stat Facts: Colorectal Cancer         Reports on Cancer  Annual Report to the Nation Cancer Stat Facts  Cancer Among AYAs Common Cancer Sites Cancer Disparities Bladder Breast (Female) Colon and Rectum Kidney and Renal Pelvis Leukemia Lung and Bronchus Melanoma of the Skin Non-Hodgkin Lymphoma  Pancreas Prostate Thyroid Uterus More Cancer Types   Cancer Statistics Review, 1975-2017  Browse the Tables and Figures Access CSR Contents in PDF Generate Custom Reports  Archive   Preliminary Incidence Rates for 2017  Preliminary Estimates for 2017 February Delay-adjustment Validation Datasets and Archive   SEER Publications  Monographs Cancer Patterns among Asian and Pacific Islanders in the U.S.
+ Expand All Collapse All  Statistics at a Glance  At a Glance     Estimated New Cases in 2020 147,950 % of All New Cancer Cases 8.2%   Estimated Deaths in 2020 53,200 % of All Cancer Deaths 8.8%     5-YearRelative Survival 64.6% 2010–2016          Year Rate of New Cases — SEER 9  Rate of New Cases — SEER 13 Death Rate — U.S. 5-Year Relative Survival — SEER 9   Observed Modeled Trend Observed Modeled Trend Observed Modeled Trend Observed Modeled Trend     1975 59.54 60.54 - - 28.09 28.23 48.89% 48.03%   1976 61.34 61.03 - - 28.58 28.29 50.80% 48.99%   1977 62.39 61.52 - - 28.19 28.34 50.49% 49.95%   1978 62.04 62.02 - - 28.54 28.40 50.90% 50.91%   1979 62.37 62.52 - - 28.15 28.16 52.00% 51.85%   1980 63.75 63.02 - - 28.05 27.93 51.38% 52.79%   1981 64.24 63.53 - - 27.52 27.70 54.03% 53.71%   1982 62.78 64.04 - - 27.24 27.48 54.03% 54.63%   1983 63.66 64.56 - - 27.12 27.25 54.56% 55.54%   1984 64.80 65.08 - - 27.35 27.03 55.22% 56.43%   1985 66.30 65.60 - - 26.93 26.80 58.27% 57.32%   1986 64.18 64.41 - - 26.16 26.33 60.03% 58.19%   1987 62.74 63.25 - - 25.89 25.86 59.62% 59.06%   1988 61.38 62.10 - - 25.28 25.41 59.58% 59.91%   1989 61.70 60.98 - - 25.01 24.96 60.08% 60.75%   1990 60.70 59.88 - - 24.65 24.52 61.00% 61.58%   1991 59.48 58.79 - - 24.01 24.08 61.87% 61.31%   1992 58.00 57.73 56.73 56.75 23.62 23.66 61.19% 61.04%   1993 56.79 56.68 55.55 55.55 23.31 23.24 59.95% 60.76%   1994 55.64 55.66 54.46 54.38 22.92 22.83 60.31% 60.48%   1995 54.06 54.65 53.21 53.23 22.59 22.43 59.95% 60.21%   1996 54.79 55.44 53.90 54.10 21.86 22.03 62.72% 61.21%   1997 56.41 56.25 55.30 54.99 21.47 21.64 61.58% 62.20%   1998 56.81 57.06 56.00 55.89 21.19 21.26 63.49% 63.17%   1999 55.48 55.75 54.32 54.67 20.93 20.88 64.81% 64.13%   2000 54.15 54.47 53.27 53.47 20.67 20.51 65.04% 65.07%   2001 53.62 53.22 52.57 52.30 20.16 20.15 66.28% 65.99%   2002 53.18 52.00 51.70 51.15 19.76 19.80 66.50% 66.11%   2003 50.83 50.81 50.10 50.03 19.15 19.05 65.67% 66.23%   2004 49.91 49.64 48.55 48.93 18.10 18.33 66.07% 66.35%   2005 47.83 48.50 47.30 47.86 17.56 17.64 66.54% 66.47%   2006 46.89 47.39 46.69 46.81 17.28 17.20 66.44% 66.59%   2007 46.42 46.30 46.01 45.79 16.91 16.76 67.04% 66.71%   2008 45.29 45.24 45.20 44.79 16.46 16.33 67.75% 66.83%   2009 43.33 43.17 43.09 43.02 15.81 15.92 66.87% 66.95%   2010 40.98 41.20 40.94 41.33 15.51 15.52 66.62% 67.07%   2011 39.68 39.32 39.63 39.70 15.12 15.12 66.09% 67.18%   2012 38.84 38.88 38.38 38.13 14.70 14.74 65.73% 67.30%   2013 37.58 38.44 37.19 37.75 14.48 14.47 - 67.42%   2014 38.63 38.01 37.89 37.36 14.12 14.20 - 67.54%   2015 37.28 37.59 36.88 36.98 14.02 13.94 - 67.65%   2016 37.90 37.17 37.18 36.61 13.69 13.69 - 67.77%   2017 36.32 36.75 35.73 36.23 13.48 13.43 - 67.89%   2018 - - - - 13.13 13.19 - 68.00%                 New cases come from SEER 13.
+ Deaths come from U.S. Mortality.
+ All Races, Both Sexes.
+ Rates are Age-Adjusted.
+ Modeled trend lines were calculated from the underlying rates using the Joinpoint Trend Analysis Software.
+ New cases are also referred to as incident cases in other publications.
+ Rates of new cases are also referred to as incidence rates.
+ View Data Table     Rate of New Cases and Deaths per 100,000: The rate of new cases of colorectal cancer was 38.2 per 100,000 men and women per year.
+ The death rate was 13.7 per 100,000 men and women per year.
+ These rates are age-adjusted and based on 2013–2017 cases and 2014–2018 deaths.
+ Lifetime Risk of Developing Cancer: Approximately 4.2 percent of men and women will be diagnosed with colorectal cancer at some point during their lifetime, based on 2015–2017 data.
+ Prevalence of This Cancer: In 2017, there were an estimated 1,348,087 people living with colorectal cancer in the United States.
+ Did you know?
+ Colorectal cancer is the fourth most common cancer diagnosed in the United States.
+ Did You Know?
+ Relative survival is an estimate of the percentage of patients who would be expected to survive the effects of their cancer.
+ It excludes the risk of dying from other causes.
+ Because survival statistics are based on large groups of people, they cannot be used to predict exactly what will happen to an individual patient.
+ 5-YearRelative Survival 64.6%     Based on data from SEER 18 2010–2016.
+ Gray figures represent those who have died from colorectal cancer.
+ Green figures represent those who have survived 5 years or more.
+ Additional Information 			  More about survival statistics Additional colorectal cancer survival statistics in SEER*Explorer   Survival by Stage Cancer stage at diagnosis, which refers to extent of a cancer in the body, determines treatment options and has a strong influence on the length of survival.
+ In general, if the cancer is found only in the part of the body where it started it is localized (sometimes referred to as stage 1).
+ If it has spread to a different part of the body, the stage is regional or distant.
+ The earlier colorectal cancer is caught, the better chance a person has of surviving five years after being diagnosed.
+ For colorectal cancer, 38.2% are diagnosed at the local stage.
+ The 5-year relative survival for localized colorectal cancer is 90.2%.
+ Percent of Cases &amp; 5-Year Relative Survival by Stage at Diagnosis: Colorectal Cancer         Stage Percent of Cases 5-Year Relative Survival     Localized Confined to Primary Site 38% 90.2%   Regional Spread to Regional Lymph Nodes 35% 71.8%   Distant Cancer Has Metastasized 22% 14.3%   Unknown Unstaged 4% 37.5%           Percent of Cases by Stage           Localized (38%)Confined to Primary Site Regional (35%)Spread to Regional Lymph Nodes Distant (22%)Cancer Has Metastasized Unknown (4%)Unstaged           5-Year Relative Survival              SEER 18 2010–2016, All Races, Both Sexes by SEER Summary Stage 2000       				Additional Information 			  More about colorectal cancer staging Additional statistics on colorectal cancer by stage in SEER*Explorer    New Cases and Deaths  How Common Is This Cancer?
+ Compared to other cancers, colorectal cancer is fairly common.
+ Rank Common Types of Cancer Estimated NewCases 2020 EstimatedDeaths 2020     1.
+ Breast Cancer (Female) 276,480 42,170   2.
+ Lung and Bronchus Cancer 228,820 135,720   3.
+ Prostate Cancer 191,930 33,330   4.
+ Colorectal Cancer 147,950 53,200   5.
+ Melanoma of the Skin 100,350 6,850   6.
+ Bladder Cancer 81,400 17,980   7.
+ Non-Hodgkin Lymphoma 77,240 19,940   8.
+ Kidney and Renal Pelvis Cancer 73,750 14,830   9.
+ Uterine Cancer 65,620 12,590   10.
+ Leukemia 60,530 23,100       Colorectal cancer represents 8.2% of all new cancer cases in the U.S.  8.2%     In 2020, it is estimated that there will be 147,950 new cases of colorectal cancer and an estimated 53,200 people will die of this disease.
+ Who Gets This Cancer?
+ Colorectal cancer is more common in men than women and among those of African American descent.
+ The rate of new cases of colorectal cancer was 38.2 per 100,000 men and women per year based on 2013–2017 cases, age-adjusted.
+ Rate of New Cases per 100,000 Persons by Race/Ethnicity &amp; Sex: Colorectal Cancer      Males   All Races 43.7   White 43.0   Black 51.3   Asian/Pacific Islander 37.9   American Indian/Alaska Native 40.4   Hispanic 39.6   Non-Hispanic 44.5     Females   All Races 33.6   White 33.3   Black 38.2   Asian/Pacific Islander 26.8   American Indian/Alaska Native 37.9   Hispanic 29.2   Non-Hispanic 34.3           All Races White Black Asian /Pacific Islander American Indian /Alaska Native Hispanic Non-Hispanic      SEER 21 2013–2017, Age-Adjusted   Percent of New Cases by Age Group: Colorectal Cancer          Age Range Percent of New Cases      84 11.5%                    Colorectal cancer is most frequently diagnosed among people aged 65–74.
+ Median AgeAt Diagnosis 67     SEER 21 2013–2017, All Races, Both Sexes  Who Dies From This Cancer?
+ For colorectal cancer, death rates increase with age.
+ Colorectal cancer is the second leading cause of cancer death in the United States.
+ The death rate was 13.7 per 100,000 men and women per year based on 2014–2018 deaths, age-adjusted.
+ Death Rate per 100,000 Persons by Race/Ethnicity &amp; Sex: Colorectal Cancer      Males   All Races 16.3   White 15.9   Black 22.5   Asian/Pacific Islander 11.2   American Indian/Alaska Native 18.5   Hispanic 14.0   Non-Hispanic 16.6     Females   All Races 11.5   White 11.3   Black 14.8   Asian/Pacific Islander 7.9   American Indian/Alaska Native 12.4   Hispanic 8.6   Non-Hispanic 11.8           All Races White Black Asian /Pacific Islander American Indian /Alaska Native Hispanic Non-Hispanic      U.S. 2014–2018, Age-Adjusted   Percent of Deaths by Age Group: Colorectal Cancer          Age Range Percent of Deaths      84 20.6%                    The percent of colorectal cancer deaths is highest among people aged 65–74.
+ Median AgeAt Death 72     U.S. 2014–2018, All Races, Both Sexes   Trends in Rates  Changes Over Time Keeping track of new cases, deaths, and survival over time (trends) can help scientists understand whether progress is being made and where additional research is needed to address challenges, such as improving screening or finding better treatments.
+ Using statistical models for analysis, age-adjusted rates for new colorectal cancer cases have been falling on average 2.3% each year over 2008–2017.
+ Age-adjusted death rates have been falling on average 2.1% each year over 2009–2018.
+ 5-year relative survival trends are shown below.
+ New Cases, Deaths and 5-Year Relative Survival           New cases come from SEER 9.
+ Deaths come from U.S. Mortality.
+ All Races, Both Sexes.
+ Rates are Age-Adjusted.
+ Modeled trend lines were calculated from the underlying rates using the Joinpoint Trend Analysis Software.
+ SEER 9 5-Year Relative Survival Percent from 1975–2012, All Races, Both Sexes.
+ Modeled trend lines were calculated from the underlying rates using the Joinpoint Survival Model Software.
+ View Data Table    Interactive Statistics with SEER*Explorer     With SEER*Explorer, you can...
+ Create custom graphs and tables Download data and images Share links to results     SEER*Explorer is an interactive website that provides easy access to a wide range of SEER cancer statistics.
+ It provides detailed statistics for a cancer site by gender, race, calendar year, age, and for a selected number of cancer sites, by stage and histology.
+ Explore Additional Colorectal Cancer Statistics    More About This Cancer   Cancer and the Colon and Rectum          Figure: Anatomy of the Lower Digestive System Click to enlarge.
+ Figure: Anatomy of the Lower Digestive System     Figure: Gastrointestinal (digestive) system anatomy; shows esophagus, liver, stomach, colon, small intestine, rectum, and anus.
+ Cancer that begins in the colon is called colon cancer, and cancer that begins in the rectum is called rectal cancer.
+ Cancer that starts in either of these organs may also be called colorectal cancer.
+ The digestive system is made up of the esophagus, stomach, and the small and large intestines.
+ The first 6 feet of the large intestine are called the large bowel or colon.
+ The last 6 inches are the rectum and the anal canal.
+ Additional Information  Learn more about colorectal cancer  More Information Here are some resources for learning more about colorectal cancer.
+ More about risk factors for colorectal cancer More about symptoms and diagnosis of colorectal cancer More about treatment options for colorectal cancer More about clinical trials More about cancer prevention  References All statistics in this report are based on statistics from SEER and the Centers for Disease Control and Prevention's National Center for Health Statistics.
+ Most can be found within SEER*Explorer.
+ Suggested Citation All material in this report is in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated.
+ SEER Cancer Stat Facts: Colorectal Cancer.
+ National Cancer Institute.
+ Bethesda, MD, https://seer.cancer.gov/statfacts/html/colorect.html    These stat facts focus on population statistics that are based on the U.S. population.
+ Because these statistics are based on large groups of people, they cannot be used to predict exactly what will happen to an individual patient.
+ To see tailored statistics, browse SEER*Explorer.
+ To see statistics for a specific state, go to the State Cancer Profiles.
+ The statistics presented in these stat facts are based on the most recent data available, most of which can be found in SEER*Explorer.
+ In some cases, different year spans may be used.
+ Estimates of new cases and deaths for 2020 are projections made by the American Cancer Society (ACS), based on earlier reported data.
+ Cancer is a complex topic.
+ There is a wide range of information available.
+ These stat facts do not address causes, symptoms, diagnosis, treatment, follow-up care, or decision making, although links are provided to information in many of these areas.
+ Return to Top    SEER is supported by the Surveillance Research Program (SRP) in NCI's Division of Cancer Control and Population Sciences (DCCPS).
+ SRP provides national leadership in the science of cancer surveillance as well as analytical tools and methodological expertise in collecting, analyzing, interpreting, and disseminating reliable population-based statistics.
+ Follow SEER       Contact Information  Contact SEER NCI LiveHelp Online Chat    More Information  Careers Sitemap Using This Website    Policies  Accessibility Disclaimer FOIA Privacy &amp; Security Reuse of Graphics and Text Website Linking     U.S. Department of Health and Human Services National Institutes of Health National Cancer Institute USA.gov  NIH...

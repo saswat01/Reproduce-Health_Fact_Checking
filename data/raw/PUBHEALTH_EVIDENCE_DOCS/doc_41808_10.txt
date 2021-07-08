@@ -1,0 +1,325 @@
+View the collection | Find AAP resources here.
+ Racism and Its Effects on Pediatric Health The American Academy of Pediatrics recognizes the harm racism causes to infants, children, adolescents, and their families.
+ View the collection.
+ Article  Pervasive Developmental Disorders in Montreal, Quebec, Canada: Prevalence and Links With Immunizations Eric Fombonne, Rita Zakarian, Andrew Bennett, Linyan Meng and Diane McLean-Heywood Pediatrics July 2006, 118 (1) e139-e150; DOI: https://doi.org/10.1542/peds.2005-2993   Eric Fombonne Find this author on Google ScholarFind this author on PubMedSearch for this author on this siteRita Zakarian Find this author on Google ScholarFind this author on PubMedSearch for this author on this siteAndrew Bennett Find this author on Google ScholarFind this author on PubMedSearch for this author on this siteLinyan Meng Find this author on Google ScholarFind this author on PubMedSearch for this author on this siteDiane McLean-Heywood Find this author on Google ScholarFind this author on PubMedSearch for this author on this site             ArticleFigures &amp; DataInfo &amp; MetricsComments          Download PDF     AbstractBACKGROUND.
+ The prevalence of pervasive developmental disorders has increased in recent years.
+ Links with the measles component of the measles-mumps-rubella vaccine and the cumulative exposure to thimerosal through other vaccines have been postulated.OBJECTIVES.
+ The purpose of this work was to estimate the pervasive developmental disorder prevalence in Montreal, Canada, in cohorts born from 1987 to 1998 and evaluate the relationship of trends in pervasive developmental disorder rates with: (1) changes in cumulative exposure to ethylmercury (thimerosal) occurring through modifications in the immunization schedule of young children and (2) trends in measles-mumps-rubella vaccination use rates and the introduction of a 2–measles-mumps-rubella dosing schedule during the study period.METHODS.
+ We surveyed 27749 children born from 1987 to 1998 attending 55 schools from the largest Anglophone school board.
+ Children with pervasive developmental disorders were identified by a special needs team.
+ The cumulative exposure by age 2 years to thimerosal was calculated for 1987–1998 birth cohorts.
+ Ethylmercury exposure ranged from medium (100–125 μg) from 1987 to 1991 to high (200–225 μg) from 1992 to 1995 to nil from 1996 onwards when thimerosal was entirely discontinued.
+ Measles-mumps-rubella coverage for each birth cohort was estimated through surveys of vaccination rates.
+ The immunization schedule included a measles-mumps-rubella single dose at 12 months of age up to 1995, and a second measles-mumps-rubella dose at 18 months of age was added on after 1996.RESULTS.
+ We found 180 children (82.8% males) with a pervasive developmental disorder diagnosis who attended the surveyed schools, yielding a prevalence for pervasive developmental disorder of 64.9 per 10000.
+ The prevalence for specific pervasive developmental disorder subtypes were, for autistic disorder: 21.6 of 10000; for pervasive developmental disorder not otherwise specified: 32.8 of 10000; and for Asperger syndrome: 10.1 of 10000.
+ A statistically significant linear increase in pervasive developmental disorder prevalence was noted during the study period.
+ The prevalence of pervasive developmental disorder in thimerosal-free birth cohorts was significantly higher than that in thimerosal-exposed cohorts (82.7 of 10000 vs 59.5 of 10000).
+ Thus, thimerosal exposure was unrelated to the increasing trend in pervasive developmental disorder prevalence.
+ These results were robust when additional analyses were performed to address possible limitations because of the ecological nature of the data and to evaluate potential effects of misclassification on exposure or diagnosis.
+ Measles-mumps-rubella vaccination coverage averaged 93% during the study interval with a statistically significant decreasing trend from 96.1% in the older birth cohorts (1988–89) to ∼92.4% in younger birth cohorts (1996–1998).
+ Thus, pervasive developmental disorder rates significantly increased when measles-mumps-rubella vaccination uptake rates significantly decreased.
+ In addition, pervasive developmental disorder prevalence increased at the same rate before and after the introduction in 1996 of the second measles-mumps-rubella dose, suggesting no increased risk of pervasive developmental disorder associated with a 2–measles-mumps-rubella dosing schedule before age 2 years.
+ Results held true when additional analyses were performed to test for the potential effects of misclassification on exposure or diagnostic status.
+ Thus, no relationship was found between pervasive developmental disorder rates and 1- or 2-dose measles-mumps-rubella immunization schedule.CONCLUSIONS.
+ The prevalence of pervasive developmental disorder in Montreal was high, increasing in recent birth cohorts as found in most countries.
+ Factors accounting for the increase include a broadening of diagnostic concepts and criteria, increased awareness and, therefore, better identification of children with pervasive developmental disorders in communities and epidemiologic surveys, and improved access to services.
+ The findings ruled out an association between pervasive developmental disorder and either high levels of ethylmercury exposure comparable with those experienced in the United States in the 1990s or 1- or 2-dose measles-mumps-rubella vaccinations.school-aged childautismAsperger syndromechildhood disintegrative disorderpervasive developmental disorderprevalenceepidemiologyimmunizationthimerosalethylmercurymeasles vaccineMMRPervasive developmental disorders (PDDs) are characterized by marked impairments in reciprocal social interaction, language, and communication and by the presence of repetitive/stereotypic patterns of behavior and interests.1 PDDs refer to a class of disorders that is composed of several diagnoses, including autistic disorder, PDD not otherwise specified (PDDNOS), Asperger syndrome, and childhood disintegrative disorder (CDD).
+ Rett disorder has been historically listed in the PDDs to enhance differential diagnosis, but it is usually not included in studies of children with PDD.
+ Investigations of the causes of PDDs are progressing, especially with respect to molecular genetic studies.2 Early intensive behavioral interventions can significantly alter developmental trajectories of preschoolers and may lead to substantial cognitive and language gains in some children.3, 4 Yet, some children make little gains,4 and the long-term outcome of PDDs, and particularly that of autistic disorder, is still guarded.5 Services for children with PDDs are in great need of development in many countries, including Canada.Epidemiologic surveys of PDDs have multiplied in recent years.
+ Reviews6, 7 and surveys8, 9 conducted in the last 5 years have consistently reported prevalence rates of ∼0.6% for the whole PDD spectrum.
+ This roughly threefold increase in PDD prevalence over time10 has generated concerns about a possible epidemic, although a true secular increase in the incidence of the disorder has not yet been demonstrated.7, 11, 12 Rather, factors such as broadening of the diagnostic concepts, increased awareness of the disorder, and improved detection in surveys likely account for a substantial part of the increased prevalence.7, 12–15 If changes in the incidence of PDDs were demonstrated, they might point toward environmental risk factors contributing to the etiology of the disorder, with or without gene interactions.
+ Few environmental exposures that occur during the prenatal period have been related to increased risk of PDDs, and such factors account for only a tiny fraction of the population risk.16 However, hypotheses linking vaccinations to autism have been raised since 1998.
+ The first hypothesis implicated the measles component of the measles-mumps-rubella (MMR) vaccine that is usually given to children between 12 and 15 months of age in most countries.17 Subsequent epidemiologic investigations of this hypothesis have consistently failed to establish an association between MMR and autism in cohort,18 case-control,19, 20 and ecological studies.21–23 Furthermore, clinical studies have also failed to identify a clinical phenotype characterizing a smaller group of autistic children presumably at risk of MMR-induced autism.24 Recent reviews of the MMR hypothesis by an ad hoc committee of the Institute of Medicine and the Cochrane collaboration concluded that the evidence favored the rejection of this hypothesis.25, 26 Yet, concerns about MMR safety have persisted among parents of autistic children and the lay public, leading to decreased uptake of the vaccine and subsequent measles epidemic outbreaks.27 In addition, no study has ever tested the effects of a 2-MMR dosing schedule in toddlers.A second hypothesis implicated the cumulative exposure of young children until age 2 years to thimerosal, a vaccine stabilizer that contains ∼50% ethylmercury.
+ This hypothesis is entirely distinct from the previous one, because MMR vaccines never contained any thimerosal because it would inactivate a live vaccine.
+ A review of the US immunization schedule concluded that the cumulative exposure of children at age 2 years exceeded US Food and Drug Administration and US Environmental Protection Agency recommended safety limits and led to the suggestion in the United States to remove thimerosal from vaccine preparations altogether.28, 29 Subsequent epidemiological research on the thimerosal-autism presumed association has been consistently negative, with cohort30–33 and ecological34, 35 studies failing to show any association.
+ The only published “positive” studies have all been performed by 1 author36, 37 and have been considered to be noncontributing because of their poor methodology.25, 38 By and large, biological studies of ethylmercury exposure have also failed to support the thimerosal hypothesis.25, 39, 40 Despite the accumulation of negative studies, concerns from the public have not been entirely alleviated, and fears continue to be fueled by well-publicized media accounts of a spectacular nature.41, 42 Unfortunately, these unsubstantiated claims have led to the uncontrolled development of chelation therapies of autistic children in North America.
+ These therapies are not only of unproven efficacy, but they also can be dangerous, as unfortunately shown in the recent death of a 5-year-old boy with autism.43Only 1 survey of autism spectrum disorders has thus far been performed in Canada.44 The authors screened 20800 children aged 4 to 6 years residing in a specific region of Nova Scotia in 1985 and, using new research diagnostic criteria, obtained a prevalence of 10.1 per 10000 children for autism.
+ This survey did not generate a figure for the whole PDD spectrum, and dates back ∼20 years.
+ No epidemiological survey has ever been conducted in Quebec or in other parts of Canada.
+ As other provinces in Canada, Quebec has a universal health insurance system that ensures free access to medical care.
+ As a result, immunization policies are effectively implemented at the population level.
+ Compared with previous research on immunization and autism, this study uniquely examines exposure to high levels of thimerosal and also tests for the effects of a 2-dose MMR schedule before age 2 years.METHODSSubjectsIn the province of Quebec, children are educated either in English or French schools.
+ Schools belong to school boards that are also organized according to language.
+ The largest school board for Anglophone children in Quebec is the Lester B. Pearson School Board (LBPSB), which provides education to individuals in the south and western parts of the greater Montreal area.
+ The LBPSB has 55 schools (45 elementary and 10 secondary) and provides education from kindergarten through grade 11.
+ October 1, 2003, was chosen as the survey date.
+ As of October 1, 2003, a total of 27749 children were registered within the LBPSB.Case IdentificationIn Quebec, children with special education needs are either integrated, segregated within a regular school, or placed within a special school.
+ Funding, in addition to the base grant received for all students, is provided to school boards when the special needs of a student are classifiable according to criteria established by the Ministry of Education of Quebec (MEQ).
+ Of the 10 medical or psychiatric categories allowing the school to receive extra funding from the MEQ, PDD is one of the conditions that lead to the highest incremental funding.
+ Each year, a list of children with identified PDDs attending any one of the schools within each of the province school boards is sent to the MEQ by September 30.
+ Using this list, the MEQ determines the amount of extra funding each school board receives to meet the needs of children with PDDs.
+ Until 2000, children with PDDs were administratively identified only if their diagnosis was specifically stated as autism (code 51).
+ In 2000, the category was broadened to autism spectrum disorder (code 50).
+ In addition, the LBPSB has a special support team to monitor the progress of children with PDD in its schools.
+ This team keeps a list of children with a PDD diagnosis, which is updated on a weekly basis.
+ The children with PDD who are the focus of this study were identified via this list.
+ Because the count of these older subjects could not be related to a meaningful denominator, they were excluded from the survey.DataChildren with a diagnosis of PDD were identified by school personnel and given a study code to preserve the anonymity of the data.
+ School personnel further identified the diagnostic subtype using Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) diagnostic criteria, age, grade, and school the child was attending.
+ When available, place of birth was recorded as well.
+ Individual immunization data were not available for study subjects.
+ Denominators used for further prevalence calculations were obtained through the LBPSB and included the total number of children (male/female) in each grade registered in any of the schools at the LBPSB.
+ Thus, prevalence rates could be computed for each grade by dividing the number of children with a PDD diagnosis in a given grade by the corresponding denominator.
+ Age-specific prevalence rates could not be precisely derived, because the dates of birth were only available for the PDD children but not for the whole school population.
+ However, we estimated the birth year of the entire school population based on their grade attendance.
+ Thus, children in kindergarten were assumed to all be born in 1998, children in grade 1 in 1997, and so forth.
+ We performed a check that this imputation method was correct by examining the correspondence between grade and year of birth using dates of birth from the PDD sample.
+ In 9 of 11 comparisons, the mode of year of birth of the sample coincided with the estimated year of birth, providing confidence in our method.
+ Although this method is not entirely accurate, the trend analysis was not influenced by potential birth cohort misclassification, as shown below.Immunization Exposure DataIn Quebec, the schedule of immunization is defined by the Ministry of Health and Social Services.45–49 Immunizations are administered by general practitioners, family doctors, and pediatricians in both community clinics and private offices and at no cost for the family.Vaccine CoverageVaccine coverage has traditionally been very good in Quebec.50 Several surveys have been performed in Quebec to evaluate the extent of adequate vaccine coverage among young children in Quebec.
+ Adequate vaccination was usually defined as the appropriate number of diphtheria-tetanus toxoids-pertussis, polio, Haemophilus influenzae type b (Hib), and MMR vaccine doses received by 24 to 30 months of age.
+ Each dose contained 50 μg of thimerosal (ie, 25 μg of ethylmercury), leading to a cumulative exposure of 100 μg of ethylmercury by age 2.
+ In 1988, a Hib vaccine was added to the schedule at 18 months of age.
+ Because each dose contained 50 μg of thimerosal, the cumulative exposure to ethylmercury from 1988 went up to 125 μg by age 2 years.
+ In 1992, the immunization schedule recommended that the Hib be administered at 2, 4, 6, and 18 months, with each dose containing 50 μg of thimerosal.
+ Thus, from 1992, the cumulative exposure to ethylmercury by age 2 years reached 200 μg.From 1987 to 1995, the polio vaccine was administered separately at 2, 4, and 18 months and 4 to 6 years.
+ The polio vaccine did not contain any thimerosal.
+ In 1996, the polio vaccine and the Hib vaccine were combined with diphtheria, pertussis (cellular), tetanus vaccine in a thimerosal-free pentavaccine administered at 2, 4, 6 and 18 months of age, with a polio, pertussis (cellular), tetanus booster (thimerosal-free) at 4 to 6 years.
+ From 1998 onward, the acellular pertussis vaccine replaced the cellular vaccine in the combined vaccine.
+ Thus, from 1996 onward, all immunizations were thimerosal-free, leading to a nil cumulative ethylmercury exposure through vaccinations by age 2 years.In addition, from January to March 1993, a mass immunization campaign against meningococcal disease was performed among subjects aged 6 months to 20 years.55 In ∼10% of the cases, the vaccine used contained 50 μg of thimerosal.
+ Therefore, in a small proportion of children, the cumulative exposure to ethylmercury by age 3 may have reached 150 (instead of 125) μg of ethylmercury in children born from March 1990 to December 1991 and 225 μg of ethylmercury in children born from January 1992 to September 1992.MMR ImmunizationMMR was incorporated in the official schedule of immunizations of Quebec in 1976.
+ The recommended age for administration of MMR was 1 year of age up to 1996.
+ Since 1996, the recommendation was to administer 2 MMR doses, at 12 and 18 months of age.
+ Data on MMR uptake for the study period were available through the Direction de Santé Publique de la Capitale Nationale (N. Boulianne, BN, MSc, written communication, 2005).
+ These data were routinely collected in the region of Quebec among 5-year-old children attending kindergarten during the years 1993-2004 (ie, for birth cohorts from 1988–1998).
+ Vaccination records from children were used as the main source of information to document MMR vaccination and its date.
+ When this information was not available, vaccination status of the children was obtained through consultation of the regional vaccination registry or else through direct contact with doctor's practices, both from community clinics or private offices.
+ Data were unavailable for 2 birth cohorts (1987 and 1997) during the study interval.
+ Surveys were performed annually on a total population of 35643 children, with each annual sample fluctuating in size between 2234 in 1990 to 5914 in 1993.
+ For the 10 birth cohorts with available data, the average MMR uptake in Quebec was 93.2% during the whole period, ranging from 91.3% in the 1992 birth cohort to 96.4% in the 1989 birth cohort.Statistical AnalysisData were analyzed by using SAS 8.2 (SAS Institute, Cary, NC) statistical software.56 A conventional P value of .05 was chosen as a criterion for statistical significance.
+ 95% confidence intervals (CIs) for prevalence estimates were calculated using the hypergeometric distribution (Fisher's exact interval).
+ Birth cohort was treated as a continuous predictor.
+ Level of ethylmercury exposure was used either as a continuous or a categorical predictor.
+ When used continuously, the ethylmercury level for each birth cohort was that obtained from the official immunization schedule (range: 0–225 μg).
+ This translates into a prevalence of all PDD combined of 64.9 per 10000 children (95% CI: 55.8–75.0).
+ Of the remaining 89 children (49.4%), 60 children (33.3%) had a diagnosis of autistic disorder, 28 children (15.6%) had a diagnosis of Asperger syndrome, and 1 child (0.6%) had CDD.
+ The corresponding prevalence figures are: for autistic disorder: 21.6 of 10000 (95% CI: 16.5–27.8 of 10000); for PDDNOS: 32.8 of 10000 (95% CI: 26.4–40.2 of 10000); for Asperger syndrome: 10.1 of 10000 (95% CI: 6.7–14.6 of 10000); and for CDD: 0.4 of 10000 (95% CI: 0.0–2.0 of 10000).
+ Table 1 illustrates the gender and age distribution by PDD diagnostic subtypes.
+ Consistent with other studies, the data show a preponderance of males in the PDD sample (82.8%), translating into a 4.8:1 male/female ratio.
+ Surprisingly, the male/female ratio was lower in the Asperger group than in the other 2 groups.
+ The statistically significant age effect reflects the marked change in PDD prevalence and distribution of PDD subtypes over time (1987–1998).View this table:View inlineView popupTABLE 1 Gender and Age Distribution by PDD Diagnostic SubtypesFigure 1 provides prevalence estimates calculated separately for each grade that are used here as a proxy indicator for birth cohort.
+ Prevalence was relatively steady for grades 8 through 11.
+ Using logistic regression, a statistically significant effect on prevalence was found for birth cohort (odds ratio [OR]: 1.10; 95% CI: 1.05–1.15), suggesting an average annual increase of 10% in prevalence rate.
+ Inclusion of quadratic terms for birth cohort did not improve the fit of the model, suggesting that the increase of prevalence was linear during the study period.Download figureOpen in new tabDownload powerpointFIGURE 1 MMR vaccine coverage and PDD rates over time.Autism and ThimerosalFigure 2 charts prevalence estimates and thimerosal exposure levels for each birth cohort from 1987 through 1998.
+ A visual inspection of the data indicates that PDD rates started to increase before the change from medium (1987–1991) to high (1992–1995) exposure levels, and, even more convincingly, it shows that rates continued to rise after total discontinuation of thimerosal (1996–1998).
+ The highest prevalence rate was found in the 1998 thimerosal-free birth cohort.
+ To assess this trend statistically, we first compared the average prevalence in thimerosal-free birth cohorts (1996–1998) to that of previous thimerosal-exposed birth cohorts (1987–1995).
+ The results indicate a significantly (OR: 1.39; 95% CI: 1.01–1.92; P .50).
+ Thus, thimerosal exposure was unrelated to the increasing trend in PDD prevalence.We took several additional steps to assess the robustness of these results.
+ First, to account for the slight increase of levels of thimerosal exposure for children included in the mass immunization campaign against meningococcal disease, we allocated new values of thimerosal exposure measured continuously for the 1990 and 1991 birth cohorts (150 μg instead of 125 μg) and for the 1992 birth cohort (225 μg instead of 200 μg; see Fig 2).
+ The results remained unchanged with no statistically significant effect of thimerosal on prevalence rates of PDDs (data not shown).Second, because of the ecological nature of the data set, individual thimerosal exposure data were not known.
+ However, places of birth were available on all 180 of the PDD subjects.
+ Of the 180 subjects, 158 (87.8%) were born in Quebec and were, therefore, extremely likely to have followed the immunization schedule.
+ Analyses were repeated on the subsample of Quebec-born subjects.
+ Prevalence rate of PDDs increased from 40.6 of 10000 in 1987 to 102.5 of 10000 in 1998, the linear increase being statistically significant (OR: 1.10; 95% CI: 1.05–1.16; P .05), suggesting no difference in the upward trend before or after 1996.
+ Then, we used the 1987–1995 prevalence rate series to predict what would be the prevalence estimates for the subsequent 3 years assuming that the linear increase in PDD rate observed from 1987 to 1995 remained constant.
+ The predicted values and their associated 95% CIs for PDD rate were 108.1 of 10000 (83.41–139.86 of 10000), 123.8 of 10000 (91.01–168.14 of 10000), and 141.8 of 10000 (99.10–202.4 of 10000) for the years 1996, 1997, and 1998, respectively.
+ Jackknife cross-validation showed very good robustness of the prediction model (data not shown).
+ All of the actual observed prevalence estimates for these years fell below the predicted values, and in 2 instances (years 1996 and 1997), the observed prevalence estimates fell outside the predicted confidence limits.
+ Thus, these combined results showed no indication that PDD prevalence in the 2-MMR dosing period had surpassed the values expected from the trend estimated from the single-MMR dosing period.
+ Finally, we restricted our trend analysis to the 61 subjects with an autistic disorder diagnosis to evaluate the effects of potential diagnostic misclassification.
+ In this subsample as well, a significant prevalence increase occurred from 1987 to 1998 (OR: 1.23; 95% CI: 1.13–1.34) at a time where the MMR uptake was decreasing significantly (see above).
+ Thus, taken altogether, no association between MMR vaccinations (both 1 or 2 doses) and autism or PDD rates was suggested by these data.DISCUSSIONPrevalenceThe PDD prevalence estimate in this study was highly consistent with most recent surveys performed in several countries.6, 7, 10 This high figure was unexpected, because surveys that rely solely on administrative sources for case identification (eg, medical or educational records) usually yield lower prevalence estimates.7 Moreover, the rate in the 1998 birth cohort was &gt;1% although the lower-bound limit of the CI was in the 0.6% to 0.7% range.
+ Several factors could have influenced the prevalence in our study.
+ First, diagnosis could not be directly confirmed, and it is therefore possible that PDD diagnoses were overused leading to diagnostic misclassification and overestimation of the prevalence.
+ However, a large proportion of subjects included in this survey had been assessed and diagnosed in our pediatric hospital by different qualified professionals, limiting the extent of that possibility.
+ In addition, the pattern of PDD diagnostic subtypes and gender correlates was fairly typical of other published samples.
+ Second, special schools in Montreal that provide services to children with mental retardation, sometimes associated with PDD, were not included in the study, leading to a potential underestimation of the true population rate.
+ However, because the school board has a policy of integration of children with even severe handicaps, especially at a young age, the magnitude of this downward bias likely remained small.
+ Third, because the school board is known for its inclusive and supportive approach for children with PDDs, it is possible that parents of children with PDDs may have migrated to the geographical catchment area of the school board to provide their children with better educational opportunities.
+ Unfortunately, data about places of residence before registration to school were not available, precluding us from assessing whether selective migration into the local area by parents of children with PDDs might have occurred.
+ The extent to which the previous possible biases cancel each other out cannot be gauged.
+ Nevertheless, the estimate of 65 of 10000 is highly consistent with other recent studies and shows that PDDs are relatively frequent disorders among children.
+ Also, when PDDs were broken down by subtypes, a fairly typical pattern emerged with the prevalence of PDDNOS being 1.5 times higher than that for autistic disorder, and the prevalence of CDD being extremely low, consistent with available estimates.7 Our PDD rate cannot be directly compared with the only previous Canadian study,44 because the 2 surveys differed in their case definition and methods of case ascertainment.There was a statistically significant trend for increasing prevalence rates in younger birth cohorts (as indexed by grade attendance).
+ On average, the prevalence rate increased by 10% annually over the 12 years of the study.
+ This finding is consistent with trends in other studies that have repeatedly shown increasing prevalence rates in younger birth cohorts in the last 15 years.14, 15 It cannot be concluded from this data whether a genuine increase in the incidence of the disorder in the population occurred during the study period, or increased ascertainment and broadened diagnostic criteria, or a combination of both factors applied.
+ Nevertheless, 4 factors can be identified that may have given rise to this trend.
+ First, new nosographies and diagnostic criteria were introduced in 1992 with International Classification of Diseases, 10th Revision,58 and in 1994 with DSM-IV,1 that broadened the category of PDD.
+ The most obvious example is the introduction of the entirely new category of Asperger syndrome in both diagnostic schemes, a diagnosis that did not exist previously.
+ The direct impact of using different diagnostic criteria on prevalence estimates has been well illustrated in a Finish study59 where a twofold to threefold increase in prevalence resulted from applying old or new diagnostic criteria to the same survey data and subjects.
+ Second, more expertise in diagnosing autism developed in the area with the establishment in recent years of a strong autism spectrum disorder clinical program at the Montreal Children's Hospital, the tertiary pediatric care institution that delivers services to Anglophone children.
+ Third, a policy change at the MEQ level occurred in the summer of 2000 wherein the special education code 50 (PDD, as per DSM-IV) replaced the code 51 (autism, as per Diagnostic and Statistical Manual of Mental Disorders, Revised Third Edition) that had been in place for about a decade to identify PDD children with special needs and to provide additional funding for the schools.60 This change made the new special education code pertaining to children with autism broader and applicable to a greater number of children, especially those diagnosed with either Asperger syndrome or PDDNOS who subsequently became eligible for extra support.
+ Fourth, in 2000, because of initiatives related to autism already underway in the board, the LBPSB received the Center of Excellence for Autism recognition from the MEQ.
+ This afforded the board the opportunity to further develop their expertise in diagnosis, treatment, and inclusion of students with PDDs, as well as required it to be a resource to the other Anglophone boards in the province.
+ Combined altogether, these factors account most certainly for the upward trend in diagnoses in successive birth cohorts, although it is not possible to definitely rule out other explanations.7 It is of interest that similar factors (broadening of diagnostic criteria and changes in policy with the 1990 revision of the Individuals with Disabilities Educational Act) have been hypothesized by several authors to explain upward trends in rates of PDDs in recent US studies.13–15, 61, 62 With rates of 0.6% to 0.7%, PDDs are among the most prevalent conditions impairing young children's lives, translating to &gt;50000 Canadian children below age 20 years in need of services.Thimerosal and Ethylmercury ExposureDuring the 12 years encompassed by our study, thimerosal exposure before age 2 of each birth cohort changed several times and ranged from nil to a high value of 225 μg.
+ In fact, it was remarkable that the PDD rates were at their highest value in birth cohorts that were thimerosal free, providing a clear and convincing message on the lack of an association.
+ Our results are entirely consistent with cohort,30–33 case-control,64 and other ecological studies performed in Denmark and Sweden.34, 35 It is worth emphasizing 3 particular features of our results.
+ First, because we were aware of limitations of ecological data, we performed complementary analyses on the subsample of Quebec-born subjects, a group with a very high probability of having been individually exposed to the official vaccination schedule of their birth cohort.
+ The results remained unchanged.
+ Second, the PDD rate in our study was high and consistent with recent epidemiological estimates coming from the United States65 and the United Kingdom.9 Thus, the convergence of our findings with those of the 2 ecological studies from Scandinavian countries34, 35 suggests that the lack of association reported by these authors was not because of the lower prevalence of PDDs reported in their respective investigations.
+ Third, exposure to ethylmercury in some birth cohorts of our study reached levels as high as those that were attained in the US immunization schedule in the 1990s and were higher than those ever reached in the United Kingdom and Scandinavian populations.
+ Thus, the lack of association between PDD rate and high thimerosal exposure found in our study provides new evidence on the absence of an association between autism/PDD and high exposure levels to ethylmercury that is relevant to the North American public.MMR and AutismDuring the 11-year interval encompassed in our study, rates of PDD significantly increased, whereas MMR vaccine uptake showed a slight opposite trend.
+ This finding is consistent with several other ecological studies that have tested an association between MMR vaccine uptake and rates of autism or PDD in the United Kingdom,21, 23 in Japan,66 in Sweden,67 and in the United States.22 In this study, we were able to restrict the analysis to Quebec-born subjects who were most certainly individually exposed to MMR in light of the very high MMR uptake in Quebec throughout the period (93%).
+ Thus, the usual limitations of ecological studies because of lack of information on individual exposure might not have applied to our study.
+ It is also noteworthy that the MMR vaccine uptake actually declined in the study period, whereas the rates of PDD went up, both trends being significant.
+ The opposite directions of both trends make it even less likely that a true association was not detected in our data.
+ This, too, makes it less plausible that a positive association applying only to a small subset of PDD children would have gone unnoticed.
+ Moreover, the change in the MMR schedule of immunization with the introduction of a second dose by the age of 18 months occurring in 1996 gave us opportunities to examine the effects of a 2-dose MMR schedule in infants.
+ First, we established that the lack of association between MMR uptake and PPD rates applied to the period (1987–1995) where a single MMR dose was administered at 12 months of age.
+ Thus, rates of PDD were rapidly increasing well before the introduction of the 2-dose schedule and, during that first phase, the increase of PDD rate bore no relationship with MMR vaccine uptake.
+ Second, we tested whether the introduction of a second MMR dose after 1995 accelerated the increase in PDD rates in the following 3 years.
+ No statistically significant difference could be found between the rate of increase in PDD prevalence between the 1-dosing and the 2-dosing periods.
+ In fact, the end point prevalence estimate for 1998 was consistent with the value predicted on the basis of the 1987–1995 rate of increase.
+ Therefore, 1 conclusion of this study is that 2-dosing schedule with MMR before age 2 is not associated with an increased risk of PDD.LimitationsSeveral limitations of our study must be acknowledged.
+ First, we relied on administrative codes for the diagnosis of PDDs, and children could not be individually assessed for diagnostic confirmation.
+ Nevertheless, the majority of children attending this school board with a PDD diagnosis were diagnosed in the tertiary medical center where one of us (E.F.) leads a specialized assessment team, and, therefore, the diagnostic assessment of this sample should be viewed with confidence in many cases.
+ Also, results remained unchanged when we restricted the analyses to subjects with a stricter diagnosis of autistic disorder, a subsample where diagnostic misclassification is unlikely to be occurring.
+ Second, the study cannot control for whether or not the high number of children with PDDs identified in this survey reflects migrations into the schools from this particular school board that are known to have a proactive policy of integration and support of children with PDDs.
+ If families of preschoolers were to change residence to access the schools within the LBPSB for their child's education, this might inflate the number of children with PDD in this school board.
+ To test this hypothesis, data from other school boards should be obtained, and knowledge of the residence of the family at birth and before school entry could also help to address this issue.
+ Unfortunately, this information was not available in the survey data that we could obtain.
+ However, it is worth noting that if such migrations occurred, it might bias our prevalence estimates but would have no impact on the thimerosal and MMR analyses, because migration into the area must be independent of vaccination history.
+ Third, data about regression in the course of the development of children with PDD were not available in this study, precluding us from assessing risk associations with immunizations specifically for this subgroup.
+ If thimerosal exposure was associated with an increase in the risk of the regressive subtype of autism (thought to apply to ∼20% of PDD cases24, 68), then, at the very least, a slowing down in the upward trend in PDD rates should have been observed after 1996 when thimerosal was entirely removed from vaccine preparations.
+ This was not observed, and the upward trend continued in a linear fashion.
+ Rates of PDDs were, in fact, higher in the thimerosal-free birth cohorts than in any preceding period where exposure to thimerosal was at either medium or high levels.
+ With respect to MMR, the claim of a putative “autistic enterocolitis” regressive phenotype has already failed to be supported in other studies,24, 69 and epidemiological studies have shown that the regressive phenotype of autism has not increased over time.24, 69, 70 Given this, our findings of a regular increase in PDD and autistic disorder prevalence while MMR vaccine uptake was decreasing during the study period are not consistent with any increase in the risk of PDD, regressive or not, that could be attributed to MMR.ImplicationsThere are several important implications of this study.
+ First, our study adds additional evidence deriving from a large, population-based survey that PDDs are one of the most common developmental disorders in young children.
+ With a prevalence of 0.6% to 0.7%, the service implications are straightforward.
+ Second, as in other recent studies, factors such as broadening of diagnostic criteria, improved awareness about the disorder, changes in official social and educational policies, and improved access to services are certainly the primary driving force underlying the increasing prevalence figures.7 Yet, the possibility that a real change in the incidence could have occurred as well cannot be definitely ruled out from existing data.
+ Third, our findings clearly failed to detect any relationship between thimerosal exposure and rates of PDDs.
+ These findings concur with those from other similar ecological investigations34, 35 and of more controlled epidemiological studies.25, 38 Previous negative studies, especially those conducted in European countries, have sometimes been criticized on the account that either the rates of PDDs were not as high as those in North America, that the cumulative exposure to thimerosal was much lower than that attained in the United States in the 1990s, or both.
+ This study avoids both pitfalls and is, therefore, very informative for the North American public.
+ All of the results were negative.
+ Fourth, as in previous studies,25 no effect of MMR vaccine could be detected on the risk of PDD.
+ The trends went in opposite directions, making it unlikely that even small effects applying to a small subset of children would exist.
+ Furthermore, this study added new evidence suggesting that the 2-MMR dose schedule before age 2 years also had no impact on rates of PDD.
+ Fifth, parents of children with PDD and the general public should be made aware of the consistency of negative studies on the 2 hypotheses linking risk of autism and immunizations.
+ Children with autism and their younger unaffected siblings should be vaccinated.
+ Unvaccinated children are at much higher risk of contracting measles and suffering from its sometimes severe or lethal complications.71 There is no evidence for an epidemiological association between ethylmercury and autism and no scientific basis for using chelation therapies, which can be dangerous.
+ Decreasing MMR uptake in the British isles has led to more frequent measles outbreaks of greater magnitude27 and to children's deaths.72 Findings of negative studies are, indeed, more difficult to convey, but, here, the evidence lies in the striking convergence of studies accumulated by different groups, with different designs and in different places.AcknowledgmentsDr Fombonne's salary support is partially funded through the Canada Research Chair Canadian Institutes for Health Research (to Dr Fombonne and McGill University).We are indebted to Dr Monique Landry from the Direction Générale de la Santé Publique of Montreal, Ministère de la Santé et des Services Sociaux, for her assistance in obtaining precise data on the immunization schedules in Quebec and to Nicole Boulianne de la Direction de Santé Publique de la Capitale Nationale for providing data on MMR uptake surveys.FootnotesAccepted February 15, 2006.Address correspondence to Eric Fombonne, MD, Montréal Children's Hospital, 4018 Ste-Catherine West, Montreal, Quebec, Canada H3Z 1P2.
+ Since June 2004, Dr Fombonne has been an expert witness for vaccine manufacturers in US thimerosal litigation.
+ None of his research has ever been funded by the industry.PDD—pervasive developmental disorder • PDDNOS—pervasive developmental disorder not otherwise specified • CDD—childhood disintegrative disorder • MMR—measles-mumps-rubella • LBPSB—Lester B. Pearson School Board • MEQ—Ministry of Education of Quebec • DSM-IV—Diagnostic and Statistical Manual of Mental Disorders—Fourth Edition • Hib—Haemophilus influenzae type b • CI—confidence interval • OR—odds ratio • df—degrees of freedomREFERENCES↵American Psychiatric Association.
+ Diagnostic and Statistical Manual of Mental Disorders.
+ 4th ed.
+ Washington, DC: American Psychiatric Association; 1994↵Muhle R, Trentacoste SV, Rapin I.
+ The genetics of autism.
+ Pediatrics.2004;(113).
+ Available at: www.pediatrics.org/cgi/content/full/113/5/e472↵National Research Council.
+ Educating Children With Autism.
+ Washington, DC: National Academy Press; 2001↵Smith T, Groen AD, Wynn JW.
+ Randomized trial of intensive early intervention for children with pervasive developmental disorder.
+ Am J Ment Retard.2000;105 :269– 285OpenUrlCrossRefPubMed↵Howlin P, Goode S, Hutton J, Rutter M. Adult outcome for children with autism.
+ J Child Psychol Psychiatry.2004;45 :212– 229OpenUrlCrossRefPubMed↵Fombonne E. Epidemiological surveys of autism and other pervasive developmental disorders: an update.
+ J Autism Dev Disorder.2003a;33 :365– 382OpenUrlCrossRefPubMed↵Fombonne E. Epidemiological studies of autism and pervasive developmental disorders.
+ In: Volkmar F, ed.
+ Handbook of Autism and Pervasive Developmental Disorders.
+ 3rd ed.
+ New York, NY: Wiley &amp; Sons; 2005:42–69↵Chakrabarti S, Fombonne E. Pervasive developmental disorders in preschool children.
+ JAMA.2001;285 :3093– 3099OpenUrlCrossRefPubMed↵Chakrabarti S, Fombonne E. Pervasive developmental disorders in preschool children: confirmation of high prevalence.
+ Am J Psychiatry.2005;162 :1133– 1141OpenUrlCrossRefPubMed↵Fombonne E. The prevalence of autism.
+ JAMA.2003;289 :1– 3OpenUrlCrossRef↵Fombonne E. Is there an epidemic of autism?
+ Pediatrics.2001;107 :411– 413OpenUrlFREE Full Text↵Gernsbacher MA, Dawson M, Goldsmith HH.
+ Three reasons not to believe in an autism epidemic.
+ Curr Dir Psychol Sci.2005;14 :55– 58OpenUrlCrossRef↵Barbaresi WJ, Katusic SK, Colligan RC, Weaver AL, Jacobsen SJ.
+ The incidence of autism in Olmsted County, Minnesota, 1976–1997: results from a population-based study.
+ Arch Pediatr Adolesc Med.2005;159 :37– 44OpenUrlCrossRefPubMed↵Gurney JG, Fritz MS, Ness KK, Sievers P, Newschaffer CJ, Shapiro EG.
+ Analysis of prevalence trends of autism spectrum disorder in Minnesota.
+ Arch Pediatr Adolesc Med.2003;157 :622– 627OpenUrlCrossRefPubMed↵Newschaffer CJ, Falb MD, Gurney JG.
+ National autism prevalence trends from United States special education data.
+ Pediatrics.2005;115 (3).
+ Available at: www.pediatrics.org/cgi/content/full/115/3/e277↵Arndt TL, Stodgell CJ, Rodier PM.
+ The teratology of autism.
+ Int J Dev Neurosci.2005;23 :189– 199OpenUrlCrossRefPubMed↵Wakefield A, Murch S, Anthony A, et al.
+ Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children.
+ Lancet.1998;351 :637– 641OpenUrlCrossRefPubMed↵Madsen KM, Hviid A, Vestergaard M, et al.
+ A population-based study of measles, mumps, and rubella vaccination and autism.
+ N Engl J Med.2002;347 :1477– 1482OpenUrlCrossRefPubMed↵Smeeth L, Cook C, Fombonne E, et al.
+ MMR vaccination and pervasive developmental disorders: a case-control study.
+ Lancet.2004;364 :963– 969OpenUrlCrossRefPubMed↵DeStefano F, Bhasin TK, Thompson WW, Yeargin-Allsopp M, Boyle C. Age at first measles-mumps-rubella vaccination in children with autism and school-matched control subjects: a population-based study in metropolitan Atlanta.
+ Pediatrics.2004;113 :259– 266OpenUrlAbstract/FREE Full Text↵Chen W, Landau S, Sham P, Fombonne E. No evidence for links between autism, MMR and measles virus.
+ Psychol Med.2004;34 :543– 553OpenUrlCrossRefPubMed↵Dales L, Hammer S, Smith N. Time trends in autism and MMR immunization coverage in California.
+ JAMA.2001;285 :1183– 1185OpenUrlCrossRefPubMed↵Taylor B, Miller E, Farrington C, et al.
+ Autism and measles, mumps, and rubella vaccine: no epidemiological evidence for a causal association.
+ Pediatrics.
+ 2001;108(4).
+ Available at: www.pediatrics.org/cgi/content/full/108/4/e58↵Institute of Medicine.
+ Immunization Safety Review: Vaccines and Autism.
+ Washington, DC: National Academies Press; 2004↵Demicheli V, Jefferson T, Rivetti A, Price D. Vaccines for measles, mumps and rubella in children.
+ Cochrane Database Syst Rev.2005;(4):CD004407↵Jansen VA, Stollenwerk N, Jensen HJ, Ramsay ME, Edmunds WJ, Rhodes CJ.
+ Measles outbreaks in a population with declining vaccine uptake.
+ Science.2003;301 :804OpenUrlFREE Full Text↵Ball L, Ball R, Pratt D. An assessment of thimerosal use in childhood vaccines.
+ Pediatrics.2001;107 :1147– 1154OpenUrlAbstract/FREE Full Text↵Halsey NA, Hyman SL, Conference Writing P. Measles-mumps-rubella vaccine and autistic spectrum disorder: report from the New Challenges in Childhood Immunizations Conference convened in Oak Brook, Illinois, June 12–13, 2000.
+ Pediatrics.2001;107 (5).
+ Available at: www.pediatrics.org/cgi/content/full/107/5/e84↵Andrews N, Miller E, Grant A, Stowe J, Osborne V, Taylor B. Thimerosal exposure in infants and developmental disorders: a retrospective cohort study in the United kingdom does not support a causal association.
+ Pediatrics.2004;114 :584– 591OpenUrlAbstract/FREE Full TextHeron J, Golding J. Thimerosal exposure in infants and developmental disorders: a prospective cohort study in the United kingdom does not support a causal association.
+ Pediatrics.2004;114 :577– 583OpenUrlAbstract/FREE Full TextHviid A, Stellfeld M, Wohlfahrt J, Melbye M. Association between thimerosal-containing vaccine and autism.
+ JAMA.2003;290 :1763– 1766OpenUrlCrossRefPubMed↵Verstraeten T, Davis RL, DeStefano F, et al.
+ Safety of thimerosal-containing vaccines: a two-phased study of computerized health maintenance organization databases.
+ Pediatrics.2003;112 :1039– 1048OpenUrlAbstract/FREE Full Text↵Madsen KM, Lauritsen MB, Pedersen CB, et al.
+ Thimerosal and the occurrence of autism: negative ecological evidence from Danish population-based data.
+ Pediatrics.2003;112 :604– 606OpenUrlAbstract/FREE Full Text↵Stehr-Green P, Tull P, Stellfeld M, Mortenson PB, Simpson D. Autism and thimerosal-containing vaccines: lack of consistent evidence for an association.
+ Am J Prev Med.2003;25 :101– 106OpenUrlCrossRefPubMed↵Geier DA, Geier MR. Thimerosal in childhood vaccines, neurodevelopmental disorders, and heart disease in the United States.
+ J Am Phys Surg.2003;8 :6– 11OpenUrl↵Geier DA, Geier MR. An assessment of the impact of thimerosal on childhood neurodevelopmental disorders.
+ Pediatr Rehabil.2003;6 :97– 102OpenUrlCrossRefPubMed↵Parker SK, Schwartz B, Todd J, Pickering LK.
+ Thimerosal-containing vaccines and autistic spectrum disorder: a critical review of published original data.
+ Pediatrics.2004;114 :793– 804OpenUrlAbstract/FREE Full Text↵Ip P, Wong V, Ho M, Lee J, Wong W. Mercury exposure in children with autistic spectrum disorder: case-control study.
+ J Child Neurol.2004;19 :431– 434OpenUrlAbstract/FREE Full Text↵Pichichero ME, Cernichiari E, Lopreiato J, Treanor J. Mercury concentrations and metabolism in infants receiving vaccines containing thiomersal: a descriptive study.
+ Lancet.2002;360 :1737– 1741OpenUrlCrossRefPubMed↵Kennedy RF Jr.
+ Deadly immunity.
+ Available at: www.rollingstone.com/politics/story.
+ Accessed June 20, 2005↵Kirby D. Evidence of Harm: Mercury in Vaccines and the Autism Epidemic—A Medical Controversy.
+ New York, NY: St. Martin’s Press; 2005↵Associated Press.
+ Boy with autism dies after chelation therapy.
+ Available at: www.msnbc.msn.com/id/9074208.
+ Accessed May 12, 2006↵Bryson SE, Clark BS, Smith IM.
+ First report of a Canadian epidemiological study of autistic syndromes.
+ J Child Psychol Psychiatry.1998;4 :433– 445OpenUrl↵Ministère de la Santé et des Services Sociaux du Québec.
+ Protocole d'immunisation du Québec.
+ 1st ed.
+ 2nd revision.
+ Ministère de la Santé et des Services Sociaux du Québec; 1992Ministère de la Santé et des Services Sociaux du Québec.
+ Protocole d'immunisation du Québec.
+ Québec, Canada: Ministère de la Santé et des Services Sociaux du Québec; 1995Ministère de la Santé et des Services Sociaux du Québec.
+ Protocole d'immunisation du Québec.
+ 2nd ed, avril 1995, ainsi que ses mises à jour décembre 1995 et octobre.
+ Québec, Canada: Ministère de la Santé et des Services Sociaux du Québec; 1997Ministère de la Santé et des Services Sociaux du Québec.
+ Protocole d'immunisation du Québec.
+ 4th ed, avril 1999, ainsi que ses mises à jour avril; Québec, Canada: Ministère de la Santé et des Services Sociaux du Québec; 2002↵Ministère de la Santé et des Services Sociaux du Québec.
+ Protocole d'immunisation du Québec.
+ 5th ed, avril 2004, ainsi que ses mises à jour septembre et novembre 2004.
+ Available at: www.msss.gouv.qc.ca/sujets/santepub/preventioncontrole/immunisation/fs_immunisation.html.
+ Accessed January 30, 2006↵Hudson P, Allard R, Joseph L, Valiquette L. Vaccine coverage of 2-year-old children in Montreal, 2003.
+ Communication at the 6th Canadian Immunization Conference; December 5–8, 2004; Montreal, Quebec, Canada↵Charbonneau S, Riou D, Grignon R. Enquête vaccinale auprès des enfants de 2–2 ans du territoire du DSC Cité de la Santé de Laval.
+ Laval, Québec, Canada: Département de Santé Communautaire; 1987:51↵Landry M, Valiquette L, Allard R, Cionti M, Chrétien S. Enquête sur la couverture vaccinale des enfants de 24–30 mois.
+ DSC Cité de la Santé de Laval et DSC Maisonneuve-Rosemont; Presented at: the 3rd Quebec Colloquium of Infectious Disease; Quebec, Canada; November 1992↵Lafontaine G, Sauvageau Y. Couverture vaccinale des enfants agés de 2 ans du territoire du DSC de l'Hopital Charles Lemoyne.
+ Quebec, Canada: Département de Santé Communautaire de l'Hopital Charles Lemoyne;1990:36↵Marin-Lira A, Soto JC.
+ Un regard aux études sur la couverture vaccinale au Québec.
+ Document de travail.
+ Québec, Canada: Direction de la Santé Publique de Laval; 1996:24↵De Wals P, De Serres G et Niyonsenga T. Effectiveness of a Mass immunization campaign against serogroup C meningococcal disease in Quebec.
+ JAMA.2001;285 :177– 181OpenUrlCrossRefPubMed↵SAS Institute.
+ SAS/STST User's Guide, Version 6.
+ 4th ed.
+ Vol 2.
+ Cary, NC: SAS Institute; 1990↵Allison P. Logistic regression using the SAS system: theory and application.
+ Cary, NC: SAS Institute Inc and John Wiley; 2001↵World Health Organization.
+ The ICD-10 Classification of Mental and Behavioural Disorders: Clinical Descriptions and Diagnostic Guidelines.
+ Geneva, Switzerland: World Health Organization; 1992↵Kielinen M, Linna S-L, Moilanen I. Autism in Northern Finland.
+ Eur Child Adolesc Psychiatr.2000;9 :162– 167OpenUrlCrossRefPubMed↵Direction de l'adaptation scolaire et des services complementaires.
+ Students With Handicaps, Social Maladjustments, or Learning Difficulties: Definitions.
+ Gouvernement duq Uébec.
+ Ministere de l'Education, 2000-00-0078.
+ Quebec, Canada: Bibliotheque Nationale duq Uébec; 2000↵Croen LA, Grether JK, Hoogstrate J, Selvin S. The changing prevalence of autism in California.
+ J Autism Dev Disord.2002;32 :207– 215OpenUrlCrossRefPubMed↵Laidler JR.
+ US Department of Education data on “autism” are not reliable for tracking autism prevalence.
+ Pediatrics.2005;116 :120– 124OpenUrlCrossRef↵Smeeth L, Rodrigues LC, Hall AJ, Fombonne E, Smith PG.
+ Evaluation of adverse effects of vaccines: the case-control approach.
+ Vaccine.2002;20 :2611– 2617OpenUrlCrossRefPubMed↵Jick H, Kaye JA.
+ Autism and DPT vaccination in the United Kingdom.
+ N Engl J Med.2004;350 :2722– 2723OpenUrlCrossRefPubMed↵Bertrand J, Mars A, Boyle C, Bove F, Yeargin-Allsopp M, Decoufle P. Prevalence of autism in a United States population: the Brick Township, New Jersey, investigation.
+ Pediatrics.2001;108 :1155– 1161OpenUrlAbstract/FREE Full Text↵Honda H, Shimizu Y, Rutter M. No effect of MMR withdrawal on the incidence of autism: a total population study.
+ J Child Psychol Psychiatry.2005;46 :572– 579OpenUrlCrossRefPubMed↵Gillberg C, Heijbel H. MMR and autism.
+ Autism.1998;2 :423– 424OpenUrlCrossRef↵Lord C, Shulman C, DiLavore P. Regression and word loss in autistic spectrum disorders.
+ J Child Psychol Psychiatry.2004;45 :936– 955OpenUrlCrossRefPubMed↵Taylor B, Miller E, Lingam R, Andrews N, Simmons A, Stowe J.
+ Measles, mumps, and rubella vaccination and bowel problems or developmental regression in children with autism: population study.
+ BMJ.2002;324 :393– 396OpenUrlAbstract/FREE Full Text↵Fombonne E, Heavey L, Smeeth L, et al.
+ Validation of the diagnosis of autism in general practitioner records.
+ BMC Public Health.2004;4 :5OpenUrlCrossRefPubMed↵Salmon DA, Haber M, Gangarosa EJ, Phillips L, Smith NJ, Chen RT.
+ Health consequences of religious and philosophical exemptions from immunization laws: individual and societal risk of measles.
+ JAMA.1999;282 :47– 53OpenUrlCrossRefPubMed↵McBrien J, Murphy J, Gill D, Cronin M, O'Donovan C, Cafferkey MT.
+ Measles outbreak in Dublin, 2000.
+ 118, Issue 1 July 2006  Table of ContentsIndex by author            View this article with LENS      PreviousNext            Email Article     Thank you for your interest in spreading the word on American Academy of Pediatrics.NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail.
+ We do not capture any email address.
+ Your Email *    Your Name *    Send To *  Enter multiple addresses on separate lines or separate them with commas.
+ You are going to email the following  Pervasive Developmental Disorders in Montreal, Quebec, Canada: Prevalence and Links With Immunizations   Message Subject   (Your Name) has sent you a message from American Academy of Pediatrics   Message Body   (Your Name) thought you would like to see the American Academy of Pediatrics web site.
+ Your Personal Message         CAPTCHAThis question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
+ Request Permissions      Article Alerts        Log in You will be redirected to aap.org to login or to create your account.

@@ -1,0 +1,96 @@
+Jump to main content   An official website of the United States government.
+ US EPA   United States Environmental Protection Agency     Search  Search            Main menuEnvironmental TopicsAir Bed Bugs Chemicals and Toxics Environmental Information by Location Greener Living Health Land, Waste, and Cleanup Lead Mold Pesticides Radon Science Water A-Z Topic Index  Laws &amp; RegulationsBy Business Sector By Topic Compliance Enforcement Laws and Executive Orders Guidance Regulations  About EPAEPA Administrator Current Leadership Organization Chart Staff Directory Planning, Budget and Results Jobs and Internships Headquarters Offices Regional Offices Labs and Research Centers         Related Topics:    Safe Drinking Water Act      Contact Us   Share                            Secondary Drinking Water Standards: Guidance for Nuisance Chemicals         On this page: What are Secondary Standards?
+ Why Set Secondary Standards?
+ What Problems are Caused by these Contaminants?
+ Table of Secondary Drinking Water Standards How Can these Problems be Corrected?
+ What Can You Do?
+ What are Secondary Standards?
+ EPA has established National Primary Drinking Water RegulationsNational Primary Drinking Water RegulationsLegally enforceable standards that apply to public water systems.
+ These standards protect drinking water quality by limiting the levels of specific contaminants that can adversely affect public health and which are known or anticipated to occur in public water supplies.
+ (NPDWRs) that set mandatory water quality standards for drinking water contaminants.
+ These are enforceable standards called "maximum contaminant levelmaximum contaminant levelThe highest level of a contaminant that is allowed in drinking water as delineated by the National Primary Drinking Water Regulations.
+ These levels are based on consideration of health risks, technical feasibility of treatment, and cost-benefit analysis.s" (MCLs) which are established to protect the public against consumption of drinking water contaminants that present a risk to human health.
+ An MCL is the maximum allowable amount of a contaminant in drinking water which is delivered to the consumer.
+ In addition, EPA has established National Secondary Drinking Water Regulations (NSDWRs) that set non-mandatory water quality standards for 15 contaminants.
+ EPA does not enforce these "secondary maximum contaminant levels" (SMCLs).
+ They are established as guidelines to assist public water systems in managing their drinking water for aesthetic considerations, such as taste, color, and odor.
+ These contaminants are not considered to present a risk to human health at the SMCL.
+ While SMCLs are not federally enforceable, EPA requires a special notice for exceedance of the fluoride SMCL of 2.0 mg/L.
+ Community water systems that exceed the fluoride SMCL of 2 mg/L, but do not exceed the MCL of 4.0 mg/L for fluoride, must provide public notice to persons served no later than 12 months from the day the water system learns of the exceedance (40 CFR 141.208).
+ Why Set Secondary Standards?
+ These contaminants are not health threatening at the SMCL.
+ Public water systems only need to test for them on a voluntary basis.
+ Then why it is necessary to set secondary standards?
+ EPA believes that if these contaminants are present in your water at levels above these standards, the contaminants may cause the water to appear cloudy or colored, or to taste or smell bad.
+ This may cause a great number of people to stop using water from their public water system even though the water is actually safe to drink.
+ Secondary standards are set to give public water systems some guidance on removing these chemicals to levels that are below what most people will find to be noticeable.
+ What Problems are Caused by these Contaminants?
+ These problems can be grouped into three categories: Aesthetic effects — undesirable tastes or odors; Cosmetic effects — effects which do not damage the body but are still undesirable Technical effects — damage to water equipment or reduced effectiveness of treatment for other contaminants The SMCLs related to each of these effects are shown in the table below.
+ Aesthetic effects Odor and taste are useful indicators of water quality even though odor-free water is not necessarily safe to drink.
+ Odor is also an indicator of the effectiveness of different kinds of treatment.
+ However, present methods of measuring taste and odor are still fairly subjective and the task of identifying an unacceptable level for each chemical in different waters requires more study.
+ Also, some contaminant odors are noticeable even when present in extremely small amounts.
+ It is usually very expensive and often impossible to identify, much less remove, the odor-producing substance.
+ Standards related to odor and taste: Chloride, Copper, Foaming Agents, Iron, Manganese pH, Sulfate, Threshold Odor Number (TON), Total Dissolved Solids, Zinc Color may be indicative of dissolved organic material, inadequate treatment, high disinfectant demand, and the potential for the production of excess amounts of disinfectant by-products.
+ Inorganic contaminants such as metals are also common causes of color.
+ Most people find color objectionable over 15 color units.
+ Rapid changes in color levels may provoke more citizen complaints than a relatively high, constant color level.
+ Standards related to color: Aluminum, Color, Copper, Iron, Manganese, Total Dissolved Solids.
+ Foaming is usually caused by detergents and similar substances when water has been agitated or aerated as in many faucets.
+ An off-taste described as oily, fishy, or perfume-like is commonly associated with foaming.
+ However, these tastes and odors may be due to the breakdown of waste products rather than the detergents themselves.
+ Standards related to foaming: Foaming Agents Cosmetic effects Skin discoloration is a cosmetic effect related to silver ingestion.
+ This effect, called argyria, does not impair body function.
+ It has never been found to be caused by drinking water in the United States.
+ A standard has been set, however, because silver is used as an antibacterial agent in many home water treatment devices and so presents a potential problem which deserves attention.
+ Standard related to this effect: Silver Tooth discoloration and/or pitting is caused by excess fluoride exposures during the formative period prior to eruption of the teeth in children.
+ The secondary standard of 2.0 mg/L is intended as a guideline for an upper boundary level in areas which have high levels of naturally occurring fluoride.
+ The level of the SMCL was set based upon a balancing of the beneficial effects of protection from tooth decay and the undesirable effects of excessive exposures leading to discoloration.
+ Information about the Centers for Disease Control's (CDC) recommendations regarding optimal fluoridation levels and the beneficial effects for protection from tooth decay can be found on CDC's Community Water Fluoridation page.
+ Standard related to this effect: Fluoride Technical effects Corrosivity, and staining related to corrosion, not only affect the aesthetic quality of water, but may also have significant economic implications.
+ Other effects of corrosive water, such as the corrosion of iron and copper, may stain household fixtures and impart objectionable metallic taste and red or blue-green color to the water supply.
+ Corrosion of distribution system pipes can reduce water flow.
+ Standards related to corrosion and staining: Chloride, Copper, Corrosivity, Iron, Manganese, pH, Total Dissolved Solids, Zinc Scaling and sedimentation are other processes which have economic impacts.
+ Scale is a mineral deposit which builds up on the insides of hot water pipes, boilers, and heat exchangers, restricting or even blocking water flow.
+ Sediments are loose deposits in the distribution system or home plumbing.
+ Standards related to scale and sediments: Iron, pH, Total Dissolved Solids, Aluminum Top of Page  Table of Secondary Standards   Contaminant   Secondary MCL   Noticeable Effects above the Secondary MCL  Aluminum 0.05 to 0.2 mg/L* colored water Chloride 250 mg/L salty taste Color 15 color units visible tint Copper 1.0 mg/L metallic taste; blue-green staining Corrosivity Non-corrosive metallic taste; corroded pipes/ fixtures staining Fluoride 2.0 mg/L tooth discoloration Foaming agents 0.5 mg/L frothy, cloudy; bitter taste; odor Iron 0.3 mg/L rusty color; sediment; metallic taste; reddish or orange staining Manganese 0.05 mg/L black to brown color; black staining; bitter metallic taste Odor 3 TON (threshold odor number) "rotten-egg", musty or chemical smell pH 6.5 - 8.5 low pH: bitter metallic taste; corrosion 							high pH: slippery feel; soda taste; deposits Silver 0.1 mg/L skin discoloration; graying of the white part of the eye Sulfate 250 mg/L salty taste Total Dissolved Solids (TDS) 500 mg/L hardness; deposits; colored water; staining; salty taste Zinc 5 mg/L metallic taste *mg/L is milligrams of substance per liter of water.
+ How Can these Problems be Corrected?
+ Although state health agencies and public water systems often decide to monitor and treat their supplies for secondary contaminants, federal regulations do not require them to do this.
+ Where secondary contaminants are a problem, the types of removal technologies discussed below are corrective actions which the water supplier can take.
+ They are usually effective depending upon the overall nature of the water supply.
+ Corrosion control is perhaps the single most cost-effective method a system can use to treat for iron, copper, and zinc due to the significant benefits in:  Reduction of contaminants at the consumer's tap   Cost savings due to extending the useful life of water mains and service lines    Energy savings from transporting water more easily through smoother, uncorroded pipes   Reduced water losses through leaking or broken mains or other plumbing  This treatment is used to control the acidity, alkalinity, or other water qualities which affect pipes and equipment used to transport water.
+ By controlling these factors, the public water system can reduce the leaching of metals such as copper, iron, and zinc from pipes or fixtures, as well as the color and taste associated with these contaminants.
+ It should be noted that corrosion control is not used to remove metals from contaminated source waters.
+ Coagulation (or flocculation) and filtration removes metals like iron, manganese and zinc.
+ Aeration removes odors, iron, and manganese.
+ Granular activated carbon will remove most of the contaminants which cause odors, color, and foaming.
+ Non-conventional treatments like distillation, reverse osmosis, and electrodialysis are effective for removal of chloride, total dissolved solids, and other inorganic substances.
+ However, these are fairly expensive technologies and may be impractical for smaller systems.
+ Non-treatment options include blending water from the principal source with uncontaminated water from an alternative source.
+ Top of Page  What Can You Do?
+ If you are concerned about the presence of secondary contaminants in your drinking water supply, here are a few suggestions: First, identify your local public water system.
+ If you pay a water bill, the name, address, and telephone number of your supplier should be on the bill.
+ If you do not pay a water bill, then contact your landlord, building manager, or the local health department — they should know.
+ Second, contact your local public water system.
+ Inquire about your supplier's monitoring for secondary contaminants.
+ Ask for the list of secondary contaminants which are being monitored in your water supply.
+ Does the water being delivered to the public meet these SMCLs?
+ If you have not yet received notice from your supplier, ask how you can get a copy of the monitoring results.
+ Third, if you receive a public notice from your local public water system regarding other drinking water standards — read it carefully — and follow any instructions closely.
+ If you have questions or concerns, contact the person from the water system who is indicated in the notice.
+ If that person is unavailable, contact either the state drinking water program or your local health department.
+ Fourth, contact your state drinking water program if your water supplier is unable to provide the information you need.
+ Ask if your water supplier is consistently in compliance with both primary and secondary drinking water regulations.
+ Request a copy of monitoring results that were submitted to the state by your supplier.
+ Your state drinking water program is usually located in the state capital (or another major city) and is often part of the department of health or environmental regulation.
+ Consult the blue "government pages" of your local phone book for the proper address and phone number.
+ Fifth, support rate increases for your local water supplier, where necessary, to upgrade your supplier's treatment facilities to meet drinking water standards.
+ Finally, if you have a private well and you think that the well may be near a source of contamination or may have been contaminated—have your water tested by a certified laboratory.
+ A list of certified labs is available from your state's laboratory certification officer.
+ A list of the certification officers can be obtained from the calling the Safe Drinking Water Hotline.
+ Top of Page       Contact Us to ask a question, provide feedback, or report a problem.
+ Discover.
+ Accessibility EPA Administrator Budget &amp; Performance Contracting Grants January 19, 2017 Web Snapshot No FEAR Act Data Privacy Privacy and Security Notice    Connect.
+ Data.gov Inspector General Jobs Newsroom Open Government Regulations.gov Subscribe USA.gov White House    Ask.
+ Contact EPA Hotlines FOIA Requests Frequent Questions  Follow.
+ EPA's Facebook EPA's Twitter EPA's YouTube EPA's Flickr EPA's Instagram  Last updated on January 27, 2020

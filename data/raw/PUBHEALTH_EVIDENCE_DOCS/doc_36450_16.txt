@@ -1,0 +1,23 @@
+?
+ ("fetch"in window))polyfills.push(loadScript(rootUrl+"/polyfills/fetch.8c78815e37189a88a5ccc668ab31698f.js",false));if("noModule"in HTMLScriptElement.prototype&amp;&amp;!
+ ("importShim"in window))polyfills.push(loadScript(rootUrl+"/polyfills/dynamic-import.7e92f44abf1bc4578c73f96cf729f100.js",false));if(!
+ ("attachShadow"in Element.prototype)||!
+ Several soldiers at Fort Benning, Ga., came down with a strep infection in February.
+ (Wikimedia Commons)  A strain of group A streptococcus bacteria has caused an outbreak affecting six soldiers at Fort Benning, Georgia’s one-station unit training, a garrison spokesman confirmed to Army Times on Monday.
+ As a precaution, all trainees and cadre are taking a preventative round of antibiotics, Benjamin Garrett said in a statement.
+ An initial group of four soldiers prompted Benning’s Martin Army Community Hospital to screen other soldiers they might have come in contact with beginning Feb. 13, the statement said.
+ That screen found two cases of strep throat on Feb. 15.
+ “These two peritonsillar abscess cases have been treated and returned to duty and their entire company have been screened,” the statement said.
+ “Trainees testing positive for strep in their company have been treated."
+ Though there have been no new cases since the screening, the statement said, all trainees and cadre will be put on a dose of preventative antibiotics, to stem the spread of any early infections that haven’t been identified.
+ Meghann Myers December 4, 2018  Health care professionals regularly monitor trainees for illnesses like strep, which can spread quickly in close quarters.
+ Sign up for the Army Times Daily News Roundup to receive the top Army stories every afternoon.
+ Thanks for signing up.
+ By giving us your email, you are opting in to the Army Times Daily News Roundup.
+ So far, no soldiers have been put into medical isolation and the outbreak has not affected anyone outside of the training organization, the statement said.
+ About Meghann Myers Meghann Myers is the Pentagon bureau chief at Military Times.
+ She covers operations, policy, personnel, leadership and other issues affecting service members.
+ - The Briefing 10.22.20 The Army investigates a Green Beret's fatal parachute accident.
+ New squad weapons are on their way to replace the SAW and M4.
+ A Marine commander is fired in the aftermath of the sinking of an AAV, and the British Royal Navy shows how it might use jetpacks to quickly board ships at sea.
+ All that and more on The Briefing for 10.22.20.

@@ -1,0 +1,186 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop     addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape     addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical)     addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical)     addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape     addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ Autopsy can considerably contribute to our understanding of many disease processes and could provide crucial information to guide management of patients with coronavirus disease 2019 (COVID-19).
+ We report on the relevant cardiopulmonary findings in, to our knowledge, the first autopsy series of ten African American decedents, with the cause of death attributed to COVID-19.MethodsAutopsies were performed on ten African American decedents aged 44–78 years with cause of death attributed to COVID-19, reflective of the dominant demographic of deaths following COVID-19 diagnosis in New Orleans.
+ Autopsies were done with consent of the decedents' next of kin.
+ Pulmonary and cardiac features were examined, with relevant immunostains to characterise the inflammatory response, and RNA labelling and electron microscopy on representative sections.FindingsImportant findings include the presence of thrombosis and microangiopathy in the small vessels and capillaries of the lungs, with associated haemorrhage, that significantly contributed to death.
+ Features of diffuse alveolar damage, including hyaline membranes, were present, even in patients who had not been ventilated.
+ Cardiac findings included individual cell necrosis without lymphocytic myocarditis.
+ There was no evidence of secondary pulmonary infection by microorganisms.InterpretationWe identify key pathological states, including thrombotic and microangiopathic pathology in the lungs, that contributed to death in patients with severe COVID-19 and decompensation in this demographic.
+ Management of these patients should include treatment to target these pathological mechanisms.FundingNone.IntroductionThe first confirmed case of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in the USA was reported on Jan 20, 2020.
+ Since then, the virus has spread across the USA, and several cities have become epicentres of the pandemic.
+ As of March 31, 2020, the Louisiana Department of Health reported a total of 5237 coronavirus disease 2019 (COVID-19) cases, with 1355 hospital admissions and 239 COVID-19-related deaths statewide, and 1834 cases and 101 deaths in the city of New Orleans—among the highest rates of death by population in the USA.
+ African Americans represent more than 70% of deaths related to COVID-19 in Louisiana, a trend that could have both socioeconomic and biological causes.
+ The University Medical Center in New Orleans, built after Hurricane Katrina, is equipped with an autopsy suite that meets US Centers for Disease Control standards for autopsy of patients positive for COVID-19.
+ We report here on the cardiopulmonary findings of the first autopsy series, to our knowledge, of ten African Americans with recorded cause of death of COVID-19.
+ The distinctive pathological findings are likely to have important implications for treatment of severe disease in this patient population.Brief clinical summaryPatients were men and women aged 44–78 years.
+ All were identified as African American by family or self-identification in the hospital demographic record.
+ All patients had at least one comorbidity, the most common of which were hypertension, controlled by medication, type 2 diabetes, and obesity (for full patient characteristics, see appendix pp 2–4).
+ Only one patient was known to be immunosuppressed.In all patients, the clinical course consisted of approximately 3–7 days of mild cough and fever of 38·3–38·8°C, with sudden respiratory decompensation just before arrival to the emergency department, or sudden collapse at home (appendix pp 2–4).
+ Chest x-rays, where available, revealed bilateral ground-glass opacities, consistent with acute respiratory distress syndrome (ARDS), that worsened over the hospital course.
+ Patients reporting to the emergency department were intubated and admitted to the intensive care unit (ICU).
+ One patient (appendix, patient 6) on presentation to the emergency department had hypoxic respiratory failure and developed ventricular tachycardia, leading to death before receiving ventilator support.
+ All the patients tested positive for SARS-CoV-2 (by SARS-CoV-2 RT-PCR).
+ Treatment in the ICU initially included vancomycin, azithromycin, and cefepime for all patients, with one patient receiving dexamethasone, and two patients later receiving hydroxychloroquine (appendix pp 2–4).
+ Notable laboratory findings were the frequent development of elevated ferritin and fibrinogen, but with minimal prolongation of prothrombin time, and no elevation of partial thromboplastin time (appendix p 5).
+ Within 24 h of death, an increased neutrophil count with relative lymphopenia was observed in some patients (appendix p 5).
+ Glucose and creatinine concentrations increased above baseline in all but two patients, and aspartate aminotransferase concentrations became slightly elevated in four patients.
+ Detailed laboratory findings from all patients are included in the appendix (p 5).
+ When the patients continued to deteriorate despite support, the families chose to withdraw care.
+ Consent for autopsy without restriction was given by the next of kin, and the studies within this report were determined to be exempt from oversight by the Institutional Review Board at Louisiana State University Health Sciences Center and Tulane University.Research in contextEvidence before this studyWe reviewed the single study of autopsy in a COVID-19 positive patient by Z Xu and colleagues, published in this journal, and reports of pathology from severe acute respiratory syndrome (SARS) coronavirus and similar viral infections by J Nicholls.
+ We reviewed the publicly available literature on coronavirus disease 2019 (COVID-19) pathology, including reports from China and Europe.
+ We searched PubMed and Google Scholar for literature published between March 24, and April 8, 2020.
+ Search terms used included COVID-19, SARS-CoV-2, coronavirus, and pathology or autopsy.Added value of this studyThis study presents a large series of autopsies of whole organs, within a specific demographic with a high rate of adverse outcomes within the USA.Implications of all the available evidenceThe key implications include a mechanism for severe pathology within the African American population, probably extendable to all patients with severe disease, and possibly a target for immediate therapeutic management.
+ The results might also be applicable to a broader demographic with severe COVID-19.
+ Role of the funding sourceThere was no funding source for this study.
+ The corresponding author had full access to all data and the final responsibility to submit for publication.Results Gross findingsGross examination of the lungs at the time of autopsy revealed the tracheae to be of normal calibre and mildly erythematous.
+ In all but one patient, the lungs were more than 1 SD heavier than normal weight (appendix p 6).
+ The pulmonary arteries at the hilum of each lung were free of thromboemboli.
+ The bronchi revealed thick, white mucus in the lungs of one patient, and pink froth in the airways of the others.
+ Mild to moderate serosanguinous pericardial and pleural effusions were also present.
+ The parenchyma of each lung was diffusely oedematous and firm, consistent with the clinical diagnosis of ARDS.
+ Regions of dark-coloured haemorrhage with focal demarcation were identified throughout the peripheral parenchyma in the lungs of all but one of the decedents (figure 1A).
+ On cut sections, the areas identified as haemorrhagic on the external surface showed frank haemorrhage.
+ After fixation, the cut surfaces of the lung tissue showed alternating areas of tan-grey consolidation with patchy areas of haemorrhage 3–6 cm in maximal diameter.
+ In all patients, small, firm thrombi were present in sections of the peripheral parenchyma (figure 1B).
+ Only in a patient on immunosuppression was there focal consolidation—the remainder of the lungs showed no evidence of lobar infiltrate, abscess, or definitive gross inflammatory process.Figure 1Gross findings of the lungs and heartShow full caption(A) Lungs with bilateral pulmonary oedema and patches of dark haemorrhage.
+ (B) Cut sections of lung showing thrombi present within peripheral small vessels (green arrows) (C) A heart showing extreme right ventricular dilatation, with straightening of the interventricular septum.View Large            Image           Figure ViewerDownload Hi-res            image           Download (PPT)Examination of the heart was done in nine autopsies (appendix p 6).
+ The decedents' hearts weighed 370–600 g. The cut surfaces of the myocardium were firm, red-brown, and free of significant lesions in all patients, and the coronary arteries showed no significant stenosis or acute thrombus formation.
+ The most significant gross findings were cardiomegaly and right ventricular dilatation.
+ In several patients, massive dilatation could be seen; for example, in one decedent, the right ventricular cavity was 3·6 cm in diameter and the left ventricle was 3·4 cm at its greatest diameter (figure 1C).
+ Dilatation of the right ventricle was often associated with elevated brain natriuretic peptide (BNP), although in the example in figure 1B, troponin concentration increased 3 days before death with a relative decline over the next 9 days, and BNP was not repeated (appendix p 5, patient 2).
+ Microscopic findingsThe lungs were extensively sampled across central and peripheral regions of each lobe bilaterally.
+ Samples from each patient were immunostained.
+ Histological examination of the lungs showed bilateral diffuse alveolar damage in all patients (figure 2).
+ Alveolar damage was in the early exudative phase with oedema and early hyaline membrane formation in two patients (figure 2A), in the transition to proliferative phases in seven patients (figure 2B), and in clear proliferative to fibrotic phase in one patient (figure 2C).
+ One patient died before receiving ventilator support, and one patient received only 1 day of ventilator support (appendix p 3, patients 6 and 7).
+ These two patients had markedly elevated D-dimers (appendix p 5), with evidence of pulmonary microthrombi and early hyaline membrane formation (figure 2A).
+ The bronchial respiratory mucosa was largely intact, with microvilli present and no evidence of squamous metaplasia (figure 2D), which differs from the pathology seen in the first SARS epidemic.1Nicholls JM Poon LLM Lee KC et al.Lung pathology of fatal severe acute respiratory syndrome.Lancet.
+ 2003; 361: 1773-1778Summary Full Text Full Text PDF PubMed Scopus (616) Google Scholar The inflammatory cell infiltrate was composed of a mixture of CD4+ and CD8+ lymphocytes (figure 3D and appendix, p 7), located predominantly in the interstitial spaces and around larger bronchioles and blood vessels.
+ CD4+ lymphocytes could be seen in aggregates around small vessels, some of which appeared to contain platelets and small thrombi (figure 3).
+ All but one patient had foci of haemorrhage.
+ Desquamated type 2-pneumocytes with apparent viral cytopathic effect consisting of cytomegaly and enlarged nuclei, with bright, eosinophilic nucleoli, were present within alveolar spaces (figure 4).
+ The largest of these cells in most patients contained a granular cytoplasm, probably representing viral effect similar to that reported in the first SARS epidemic.1Nicholls JM Poon LLM Lee KC et al.Lung pathology of fatal severe acute respiratory syndrome.Lancet.
+ 2003; 361: 1773-1778Summary Full Text Full Text PDF PubMed Scopus (616) Google Scholar Scattered hyaline membranes could be seen, as well as fibrin deposition, consistent with fibrinous diffuse alveolar damage.
+ The alveolar capillaries were notably thickened, with surrounding oedema, and fibrin thrombi were present within the capillaries and small vessels (figure 3).
+ A notable finding was the presence of CD61+ megakaryocytes (figure 3B &amp; 3C], possibly representing resident pulmonary megakaryocytes, with significant nuclear hyperchromasia and atypia.
+ These cells were located within alveolar capillaries, and could be seen actively producing platelets.
+ The fibrin and platelets present within small vessels also appeared to aggregate inflammatory cells, with entrapment of many neutrophils.
+ A patient on immunosuppression, had evidence of a focal acute inflammatory infiltrate suggestive of a secondary infection.
+ The neutrophils in this patient's sample, however, were partly degenerated and entrapped in fibres, possibly representing neutrophil extracellular traps (figure 4C),2Mikacenic C Moore R Dmyterko V et al.Neutrophil extracellular traps (NETs) are increased in the alveolar spaces of patients with ventilator-associated pneumonia.Crit Care.
+ 2018; 22: 358Crossref PubMed Scopus (24) Google Scholar,  3Lefrançais E Mallavia B Zhuo H Calfee CS Looney MR Maladaptive role of neutrophil extracellular traps in pathogen-induced lung injury.JCI Insight.
+ 2018; 3e98178Crossref PubMed Scopus (82) Google Scholar and were seen together with clusters of CD4+ mononuclear cells.
+ No significant neutrophilic infiltrate was identified within airways or the interstitium to suggest secondary infection in the other patients.Figure 2Pulmonary diffuse alveolar damageShow full captionAll patients had extensive diffuse alveolar damage.
+ (A) Green arrows indicate early hyaline membranes in a patient with 1 week of symptomatic illness and no mechanical ventilation (H&amp;E stain).
+ (B) Green arrows indicate extensive hyaline membranes and fibrinous exudate in a patient with 9 days of symptomatic illness, including 6 days of ventilation (H&amp;E stain).
+ (C) Green arrow indicates dense hyaline membranes, with organising fibrosis (green arrowhead), and fibrin thrombi present in small vessels (blue arrows), with a pauci-immune and oedematous background in a patient after 32 days of illness, including 25 days on ventilatory support.
+ Extensive haemorrhage was also present (H&amp;E stain).
+ (D) Bronchial respiratory epithelium shown with cilia present, and absence of squamous metaplasia in a patient receiving ventilatory support for 6 days.
+ (B) Many megakaryocytes were present within the small vessels and alveolar capillaries (green arrow).
+ (C) CD61 immunostain highlighting additional fibrin and platelet thrombus shown in a small vessel, with megakaryocyte stained below (green arrowhead).
+ Von Willebrand Factor immunostain additionally highlighted these vessels (appendix p 8).
+ (D) Small, perivascular aggregates of lymphocytes.
+ Also present were small lymphocytic aggregates surrounding airways, which were positive for CD4 immunostain, with only scattered CD8 positive cells present (appendix p 7).View Large            Image           Figure ViewerDownload Hi-res            image           Download (PPT)Figure 4SARS-CoV-2 cytopathic effectsShow full caption(A) Several enlarged pneumocytes within a damaged alveolus, having enlarged nuclei, prominent nucleoli, and cytologic atypia (H&amp;E stain).
+ (B) Relative distribution of DNA (red) versus RNA (green) in tissue sections via DRAQ5 and SYTO RNASelect fluorescent staining (appendix p 1 for staining details).
+ Pneumocytes with increased RNA in alveolar spaces show aggregation; enlarged, atypical morphology shown by DNA stain; and abundant RNA present within the cytoplasm (green arrows).
+ (C) Entrapment of immune cells, including degenerated neutrophils, within fibrin, and strands of extracellular material with weak DNA staining.
+ (D) Control lung tissue obtained at autopsy for non-pulmonary cause of death before the coronavirus disease 2019 pandemic.
+ (E) Electron microscopy of the lung, showing particles suggestive of viral infection (examples highlighted by blue arrows.
+ Cardiac histopathology was remarkable, however, for scattered individual cell myocyte necrosis in each heart examined.
+ In rare areas, lymphocytes were adjacent to, but not surrounding, degenerating myocytes.
+ Whether this observation represents an early manifestation of viral myocarditis is not certain, but there was no significant brisk lymphocytic inflammatory infiltrate suggestive of viral myocarditis.
+ These observations could be consistent with a paper by Chen and colleagues,4Chen L Li X Chen M Feng Y Xiong C The ACE2 expression in human heart indicates new potential mechanism of heart injury among patients infected with SARS-CoV-2.Cardiovasc Res.
+ 2020; (published online March 30.
+ )DOI:10.1093/cvr/cvaa078Crossref Scopus (170) Google Scholar in which the authors hypothesise that pericytes might be infected by SARS-CoV-2 and cause capillary endothelial cell or microvascular dysfunction that could cause individual cell necrosis.
+ There was no obvious viral cytopathic effect by light microscopy, but direct viral infection of myocytes cannot be ruled out in this limited examination.Figure 5Cardiac microscopic findingsShow full captionA) patient 2, i: Cardiac myocytes, ii: CD4 immunostain, iii: CD8 immunostain.
+ B) patient 3, i: Cardiac myocytes, ii: CD31 immunostain, iii: CD4 immunostain.
+ Cardiac myocytes showing focal, atypical myocyte degeneration (green arrows), H&amp;E stain (sample images from patients aged 44 and 63 years receiving azithromycin but not hydroxychloroquine).
+ Scant lymphocytes were present within the interstitial and endothelial spaces, with slightly more CD4+ than CD8+ cells on visual inspection of immunostains.
+ A CD31 immunostain highlighted endothelial cells, with focal prominence (green arrow) that appeared non-specific.
+ CD4+ lymphocytes were occasionally seen in a non-specific pattern within the coronary artery intima.
+ An important additional mechanism that contributed to death in this initial series of autopsies was a thrombotic microangiopathy involving the lungs.
+ Thrombi were not grossly apparent in any other organs examined, including kidney, spleen, pancreas, and liver.
+ This thrombotic process might involve activation of megakaryocytes, possibly those native to the lung, with platelet aggregation and platelet-rich clot formation, in addition to fibrin deposition.
+ Small vessel thrombus formation in the lung periphery was often associated with foci of alveolar haemorrhage.
+ This finding is likely to be associated with the fact that when measured, D-dimer was elevated in all but one patient, although there was minimal prolongation of prothrombin time and no prolongation of partial thromboplastin time, with only one patient showing thrombocytopenia, suggesting a coagulative pathology other than disseminated intravascular coagulation.
+ Several patients who had a more protracted hospital course had extensive fibrin and early organisation, with degenerated neutrophils within the alveoli possibly representing neutrophil extracellular traps.2Mikacenic C Moore R Dmyterko V et al.Neutrophil extracellular traps (NETs) are increased in the alveolar spaces of patients with ventilator-associated pneumonia.Crit Care.
+ 2018; 22: 358Crossref PubMed Scopus (24) Google Scholar,  3Lefrançais E Mallavia B Zhuo H Calfee CS Looney MR Maladaptive role of neutrophil extracellular traps in pathogen-induced lung injury.JCI Insight.
+ 2018; 3e98178Crossref PubMed Scopus (82) Google Scholar Increased macrophage presence within alveoli could also be seen with advancement of disease (appendix p 7).
+ The findings of diffuse alveolar damage and enlarged, atypical pneumocytes are consistent with autopsy reports from the first SARS epidemic,1Nicholls JM Poon LLM Lee KC et al.Lung pathology of fatal severe acute respiratory syndrome.Lancet.
+ 2003; 361: 1773-1778Summary Full Text Full Text PDF PubMed Scopus (616) Google Scholar but the burden of small vessel pulmonary thrombi and platelet aggregation is a novel and important finding specific to SARS-CoV-2, and extends beyond what is typically seen in diffuse alveolar damage.
+ These findings could suggest endothelial damage or platelet dysfunction within the pulmonary vasculature, as seen in reports of endotheliitis caused by SARS-CoV-2.5Varga Z Flammer AJ Steiger P et al.Endothelial cell infection and endotheliitis in COVID-19.Lancet.
+ 2020; 395: 1417-1418Summary Full Text Full Text PDF PubMed Scopus (761) Google Scholar On RNA imaging, we were able to visualise fused pneumocytes within alveolar spaces, which contained abundant RNA and probably represented virally infected cells.Electron microscopy of lung tissue revealed changes likely due to viral infection (figure 4).
+ These may represent the cells previously described from a report of post mortem biopsy from a decedent in China.6Xu Z Shi L Wang Y et al.Pathological findings of COVID-19 associated with acute respiratory distress syndrome.Lancet Respir Med.
+ 2020; 8: 420-422Summary Full Text Full Text PDF PubMed Scopus (1799) Google ScholarCardiac findings were notable for absence of lymphocytic myocarditis.
+ Many early reports have indicated that fulminant myocarditis occurs in SARS-CoV-2 infection7Kim I-C Kim JY Kim HA Han S COVID-19-related myocarditis in a 21-year-old female patient.Eur Heart J.
+ 2020; (published online April 13.
+ )DOI:10.1093/eurheartj/ehaa288Crossref Scopus (57) Google Scholar,  8Hu H Ma F Wei X Fang Y Coronavirus fulminant myocarditis saved with glucocorticoid and human immunoglobulin.Eur Heart J.
+ 2020; (published online March 16.
+ )DOI:10.1093/eurheartj/ehaa190Crossref PubMed Google Scholar,  9Wei X Fang Y Hu H Immune-mediated mechanism in coronavirus fulminant myocarditis.Eur Heart J.
+ 2020; (published online April 22.
+ )DOI:10.1093/eurheartj/ehaa333Crossref Scopus (3) Google Scholar and contributes significantly to the morbidity of COVID-19.
+ Based on these reports and the troponin data from our decedents that suggest little myocardial damage (appendix p 5), we were interested in find out whether hearts would show significant lymphocytic infiltrates.
+ We saw neither lymphocytic infiltrates, nor large areas of myocyte necrosis.
+ Although SARS-CoV-2 infection did not cause myocarditis in this cohort, further studies are needed.
+ The rise in BNP observed in several of our patients was probably due to acute right ventricular dilatation.
+ The underlying cause of scattered atypical myocyte degeneration remains uncertain.Previous evidence10Campbell RA Schwertz H Hottz ED et al.Human megakaryocytes possess intrinsic antiviral immunity through regulated induction of IFITM3.Blood.
+ 2019; 133: 2013-2026Crossref PubMed Scopus (25) Google Scholar,  11Youssefian T Drouin A Massé J-M Guichard J Cramer EM Host defense role of platelets: engulfment of HIV and Staphylococcus aureus occurs in a specific subcellular compartment and is enhanced by platelet activation.Blood.
+ 2002; 99: 4021-4029Crossref PubMed Scopus (203) Google Scholar,  12Boukour S Massé J-M Bénit L Dubart-Kupperschmitt A Cramer EM Lentivirus degradation and DC-SIGN expression by human platelets and megakaryocytes.J Thromb Haemost.
+ 2006; 4: 426-435Crossref PubMed Scopus (45) Google Scholar,  13Loria GD Romagnoli PA Moseley NB Rucavado A Altman JD Platelets support a protective immune response to LCMV by preventing splenic necrosis.Blood.
+ 2013; 121: 940-950Crossref PubMed Scopus (24) Google Scholar,  14Middleton EA Weyrich AS Zimmerman GA Platelets in pulmonary immune responses and inflammatory lung diseases.Physiol Rev.
+ 2016; 96: 1211-1259Crossref PubMed Scopus (45) Google Scholar reports viral infection causing activation of both maladaptive cytokine pathways and a platelet response, and our findings suggest that these immune functions might be related to severe forms of COVID-19.
+ In response to systemic and pulmonary viral infections of H1N1 influenza and dengue, megakaryocytes have been known to respond by overexpressing IFITM3 and producing platelets with the same overexpression.10Campbell RA Schwertz H Hottz ED et al.Human megakaryocytes possess intrinsic antiviral immunity through regulated induction of IFITM3.Blood.
+ 2019; 133: 2013-2026Crossref PubMed Scopus (25) Google Scholar In addition, platelets and megakaryocytes might have receptors for viruses,11Youssefian T Drouin A Massé J-M Guichard J Cramer EM Host defense role of platelets: engulfment of HIV and Staphylococcus aureus occurs in a specific subcellular compartment and is enhanced by platelet activation.Blood.
+ 2002; 99: 4021-4029Crossref PubMed Scopus (203) Google Scholar,  12Boukour S Massé J-M Bénit L Dubart-Kupperschmitt A Cramer EM Lentivirus degradation and DC-SIGN expression by human platelets and megakaryocytes.J Thromb Haemost.
+ 2006; 4: 426-435Crossref PubMed Scopus (45) Google Scholar,  13Loria GD Romagnoli PA Moseley NB Rucavado A Altman JD Platelets support a protective immune response to LCMV by preventing splenic necrosis.Blood.
+ 2013; 121: 940-950Crossref PubMed Scopus (24) Google Scholar,  14Middleton EA Weyrich AS Zimmerman GA Platelets in pulmonary immune responses and inflammatory lung diseases.Physiol Rev.
+ 2016; 96: 1211-1259Crossref PubMed Scopus (45) Google Scholar some of which can be specifically activated in H1N1 influenza, often in association with lymphopenia.15Rondina MT Brewster B Grissom CK et al.In vivo platelet activation in critically ill patients with primary 2009 influenza A(H1N1).Chest.
+ 2012; 141: 1490-1495Summary Full Text Full Text PDF PubMed Scopus (51) Google Scholar,  16Khandaker G Dierig A Rashid H King C Heron L Booy R Systematic review of clinical and epidemiological features of the pandemic influenza A (H1N1) 2009.Influenza Other Respi Viruses.
+ 2011; 5: 148-156Crossref PubMed Scopus (55) Google Scholar,  17Gomez-Casado C Villaseñor A Rodriguez-Nogales A Bueno JL Barber D Escribese MM Understanding platelets in infectious and allergic lung diseases.Int J Mol Sci.
+ 2019; (published online April 8.
+ )DOI:10.3390/ijms20071730Crossref PubMed Scopus (4) Google Scholar Some evidence18Yang M Ng MHL Li CK Thrombocytopenia in patients with severe acute respiratory syndrome (review).Hematology.
+ 2005; 10: 101-105Crossref PubMed Scopus (46) Google Scholar suggests that the previous SARS-CoV directly infected megakaryocytes, and that platelet function was affected in damaged lungs of those with SARS.
+ We do not have evidence of direct infection of megakaryocytes by SARS-CoV-2, but the abundance of these cells in the lungs at autopsy is probably related to the abundance of small, sometimes platelet-rich thrombi, and foci of haemorrhage.A notable finding was the absence of observed secondary infection in our patients.
+ Although most of the patients received antibiotic therapy throughout their hospital courses, the absence of bacterial or fungal infection suggests that this was not the main cause of death.
+ In addition, despite the presence of lymphopenia in most patients, we observed a mild lymphocytic infiltrate in the lungs, composed primarily of CD4+ cells, so lymphocyte sequestration in the lungs was probably not a major cause of lymphopenia in our cohort.
+ We also note that two of our patients were aged 40–50 years, younger than those generally thought to be at risk of death due to COVID-19.
+ These two patients had no history of immunosuppressive therapy, although they did have obesity, hypertension, and diabetes—comorbidities often present in our patient population in New Orleans and in the population of other cities with large and rising burdens of COVID-19.
+ We believe that effective therapy for this patient demographic—and probably patients with severe infection across demographics—should target not only the viral pathogen, but also the thrombotic and microangiopathic effects of the virus, and possibly a maladaptive immune response to viral infection.For more on LA state records see https://ldh.la.gov/ContributorsSEF contributed to performance of autopsies, including tissue selection, interpretation of histology slides, literature search, histology figures, data analysis, data interpretation, and first draft of the manuscript.
+ GL contributed to data collection, analysis and interpretation of fluorescent stains, creation of fluorescent image figure, and methods in the manuscript.
+ AA and JLH contributed to the performance of autopsies, selected tissue for histology and staining, and contributed to tables, figures, data collection, and editing the manuscript.
+ JQB contributed to data collection, data analysis, data interpretation, and editing the manuscript.
+ RSVH contributed to the performance of autopsies, sampling and analysis of tissue, interpretation and analysis of heart and lung sections, electron microscopic data analysis and figures, and contributed to writing and editing of the manuscript.Declaration of interestsWe declare no competing interests.AcknowledgmentsWe thank our patients and their families, who in a time of loss have sought to help others understand this disease.
+ We are also grateful for the support of the Department of Pathology at Louisiana State University Health Sciences Center, and for the hard work of the University Medical Center staff; in particular, Nicole Bichsel, for her invaluable role as autopsy assistant.
+ Finally, we would like to acknowledge Dr Paula L Bockenstedt, Associate Professor of Hematology at the University of Michigan, for her expertise and guidance in this work.Supplementary Material            Download .pdf (.63            MB)                     Help with          pdf files         Supplementary appendixReferences1.Nicholls JM Poon LLM Lee KC et al.Lung pathology of fatal severe acute respiratory syndrome.Lancet.
+ 2003; 361: 1773-1778View       in Article       Scopus (616) PubMed Summary Full Text Full Text PDF Google Scholar2.Mikacenic C Moore R Dmyterko V et al.Neutrophil extracellular traps (NETs) are increased in the alveolar spaces of patients with ventilator-associated pneumonia.Crit Care.
+ 2018; 22: 358View       in Article       Scopus (24) PubMed Crossref Google Scholar3.Lefrançais E Mallavia B Zhuo H Calfee CS Looney MR Maladaptive role of neutrophil extracellular traps in pathogen-induced lung injury.JCI Insight.
+ 2018; 3e98178View       in Article       Scopus (82) PubMed Crossref Google Scholar4.Chen L Li X Chen M Feng Y Xiong C The ACE2 expression in human heart indicates new potential mechanism of heart injury among patients infected with SARS-CoV-2.Cardiovasc Res.
+ 2020; (published online March 30.
+ )DOI:10.1093/cvr/cvaa078View       in Article       Scopus (170) Crossref Google Scholar5.Varga Z Flammer AJ Steiger P et al.Endothelial cell infection and endotheliitis in COVID-19.Lancet.
+ 2020; 395: 1417-1418View       in Article       Scopus (761) PubMed Summary Full Text Full Text PDF Google Scholar6.Xu Z Shi L Wang Y et al.Pathological findings of COVID-19 associated with acute respiratory distress syndrome.Lancet Respir Med.
+ 2020; 8: 420-422View       in Article       Scopus (1799) PubMed Summary Full Text Full Text PDF Google Scholar7.Kim I-C Kim JY Kim HA Han S COVID-19-related myocarditis in a 21-year-old female patient.Eur Heart J.
+ 2020; (published online April 13.
+ )DOI:10.1093/eurheartj/ehaa288View       in Article       Scopus (57) Crossref Google Scholar8.Hu H Ma F Wei X Fang Y Coronavirus fulminant myocarditis saved with glucocorticoid and human immunoglobulin.Eur Heart J.
+ 2020; (published online March 16.
+ )DOI:10.1093/eurheartj/ehaa190View       in Article       PubMed Crossref Google Scholar9.Wei X Fang Y Hu H Immune-mediated mechanism in coronavirus fulminant myocarditis.Eur Heart J.
+ 2020; (published online April 22.
+ )DOI:10.1093/eurheartj/ehaa333View       in Article       Scopus (3) Crossref Google Scholar10.Campbell RA Schwertz H Hottz ED et al.Human megakaryocytes possess intrinsic antiviral immunity through regulated induction of IFITM3.Blood.
+ 2019; 133: 2013-2026View       in Article       Scopus (25) PubMed Crossref Google Scholar11.Youssefian T Drouin A Massé J-M Guichard J Cramer EM Host defense role of platelets: engulfment of HIV and Staphylococcus aureus occurs in a specific subcellular compartment and is enhanced by platelet activation.Blood.
+ 2002; 99: 4021-4029View       in Article       Scopus (203) PubMed Crossref Google Scholar12.Boukour S Massé J-M Bénit L Dubart-Kupperschmitt A Cramer EM Lentivirus degradation and DC-SIGN expression by human platelets and megakaryocytes.J Thromb Haemost.
+ 2006; 4: 426-435View       in Article       Scopus (45) PubMed Crossref Google Scholar13.Loria GD Romagnoli PA Moseley NB Rucavado A Altman JD Platelets support a protective immune response to LCMV by preventing splenic necrosis.Blood.
+ 2013; 121: 940-950View       in Article       Scopus (24) PubMed Crossref Google Scholar14.Middleton EA Weyrich AS Zimmerman GA Platelets in pulmonary immune responses and inflammatory lung diseases.Physiol Rev.
+ 2016; 96: 1211-1259View       in Article       Scopus (45) PubMed Crossref Google Scholar15.Rondina MT Brewster B Grissom CK et al.In vivo platelet activation in critically ill patients with primary 2009 influenza A(H1N1).Chest.
+ 2012; 141: 1490-1495View       in Article       Scopus (51) PubMed Summary Full Text Full Text PDF Google Scholar16.Khandaker G Dierig A Rashid H King C Heron L Booy R Systematic review of clinical and epidemiological features of the pandemic influenza A (H1N1) 2009.Influenza Other Respi Viruses.
+ 2011; 5: 148-156View       in Article       Scopus (55) PubMed Crossref Google Scholar17.Gomez-Casado C Villaseñor A Rodriguez-Nogales A Bueno JL Barber D Escribese MM Understanding platelets in infectious and allergic lung diseases.Int J Mol Sci.
+ 2019; (published online April 8.
+ )DOI:10.3390/ijms20071730View       in Article       Scopus (4) PubMed Crossref Google Scholar18.Yang M Ng MHL Li CK Thrombocytopenia in patients with severe acute respiratory syndrome (review).Hematology.
+ 2005; 10: 101-105View       in Article       Scopus (46) PubMed Crossref Google ScholarArticle InfoPublication HistoryPublished: May 27, 2020IdentificationDOI: https://doi.org/10.1016/S2213-2600(20)30243-5Copyright© 2020 Elsevier Ltd. All rights reserved.ScienceDirectAccess this article on ScienceDirectHide CaptionDownloadSee figure in articleToggle ThumbstripView Large ImageDownload Hi-res image Download .PPT Linked ArticlesIncreased cardiovascular mortality in African Americans with COVID-19Full-TextPDF           Related Hub       COVID-19 Resource Centre  Access the latest 2019 novel coronavirus disease (COVID-19) content from across The Lancet journals as it is published.
+ By continuing you agree to the use of cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

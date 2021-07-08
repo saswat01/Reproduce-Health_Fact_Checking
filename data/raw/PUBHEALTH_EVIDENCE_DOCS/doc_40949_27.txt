@@ -1,0 +1,102 @@
+Search for terms    x       Skip to Main Content            COVID-19 is an emerging, rapidly evolving situation.
+ Get the latest public health information from CDC: https://www.coronavirus.gov.
+ Get the latest research information from NIH:  https://www.nih.gov/coronavirus.
+ ×  Find Studies  New Search Advanced Search See Studies by Topic See Studies on Map How to Search How to Use Search Results How to Find Results of Studies How to Read a Study Record   About Studies  Learn About Studies Other Sites About Studies Glossary of Common Site Terms   Submit Studies  Submit Studies to ClinicalTrials.gov PRS Why Should I Register and Submit Results?
+ FDAAA 801 and the Final Rule How to Apply for a PRS Account How to Register Your Study How to Edit Your Study Record How to Submit Your Results Frequently Asked Questions Support Materials Training Materials   Resources  Selected Publications Clinical Alerts and Advisories RSS Feeds Trends, Charts, and Maps Downloading Content for Analysis   About Site  What's New ClinicalTrials.gov Background About the Results Database History, Policies, and Laws ClinicalTrials.gov Modernization Media/Press Resources Linking to This Site Terms and Conditions Disclaimer   PRS Login        Find Studies  New Search Advanced Search See Studies by Topic See Studies on Map How to Search How to Use Search Results How to Find Results of Studies How to Read a Study Record   About Studies  Learn About Studies Other Sites About Studies Glossary of Common Site Terms   Submit Studies  Submit Studies to ClinicalTrials.gov PRS Why Should I Register and Submit Results?
+ Please remove one or more studies before adding more.
+ Protective Effect of Aspirin on COVID-19 Patients (PEAC)              The safety and scientific validity of this study is the responsibility of the study sponsor and investigators.
+ Listing a study does not mean it has been evaluated by the U.S. Federal Government.
+ Read our disclaimer for details.
+ ClinicalTrials.gov Identifier: NCT04365309    Recruitment Status :       Enrolling by invitation              First Posted : April 28, 2020  Last Update Posted : April 28, 2020       Sponsor:  Xijing Hospital  Information provided by (Responsible Party): Xijing Hospital     Study Details   Tabular View No Results Posted Disclaimer How to Read a Study Record         Study Description   Go to      Top of Page Study Description Study Design  Arms and Interventions Outcome Measures Eligibility Criteria Contacts and Locations More Information     Brief Summary: COVID-19 has a high infection rate and mortality, and serious complications such as heart injury cannot be ignored.
+ Cardiac dysfunction occurred in COVID-19 patients, but the law and mechanism of cardiac dysfunction remains unclear.
+ The occurrence of progressive inflammatory factor storm and coagulation dysfunction in severe and fatal cases of NCP points out a new direction for reducing the incidence of severe and critically ill patients, shortening the length of duration in severe and critically ill patients and reducing the incidence of complications of cardiovascular diseases.
+ Aspirin has the triple effects of inhibiting virus replication, anticoagulant and anti-inflammatory, but it has not received attention in the treatment and prevention of NCP.
+ Subsequently, aspirin has been confirmed to have antiviral effect on multiple levels.
+ Moreover, one study has confirmed that aspirin can inhibit virus replication by inhibiting prostaglandin E2 (PGE2) in macrophages and upregulation of type I interferon production.
+ Subsequently, pharmacological studies have found that aspirin as an anti-inflammatory and analgesic drug by inhibiting cox-oxidase (COX).
+ Under certain conditions, the platelet is the main contributor of innate immune response, studies have found that in the lung injury model in dynamic neutrophil and platelet aggregation.
+ In summary, the early use of aspirin in covid-19 patients, which has the effects of inhibiting virus replication, anti-platelet aggregation, anti-inflammatory and anti-lung injury, is expected to reduce the incidence of severe and critical patients, shorten the length of hospital duration and reduce the incidence of cardiovascular complications.
+ Condition or disease   Intervention/treatment   Phase     Novel Coronavirus Pneumonia Aspirin Treatment   Drug: Aspirin 100mg   Phase 2 Phase 3          Show detailed description     Hide detailed description    Detailed Description:   COVID-19 has a high infection rate and mortality, and serious complications such as heart injury cannot be ignored.
+ At present, the scale and harm of COVID 19 (Novel coronavirus pneumonia (NCP) has far surpassed that of SARS in 2003, with more than 80,000 cases confirmed in China and 3,119 deaths due to the disease.
+ The total mortality rate is 2.1%, among which the mortality rate in wuhan is still as high as 4.8%.
+ The main causes of death of covid-19 are currently thought to be acute respiratory failure, "immune factor storm" and coagulation dysfunction caused by lung dysfunction, but heart injury cannot be ignored.
+ A recent article published in the Lancet by professor Bin Cao's team from china-japan friendship hospital analyzed a total of 41 patients diagnosed with covid-19, including 6 (15%) patients with hypertension, 6 (15%) patients with cardiovascular disease, and 5 (12%) patients with acute myocardial injury after infection [1].
+ A study published in the journal of the American medical association (JAMA) included 138 COVID-19 patients, 43 (31.2%) with hypertension and 20 (14.5%) with cardiovascular disease.
+ At the same time, data analysis found that a total of 77 (55.8%) patients had complications, among which 10 (7.2%) had acute myocardial injury, 23 (16.7%) had arrhythmia, and the incidence of cardiac complications in ICU patients was significantly higher than that in general ward patients [2].
+ Therefore, the incidence of cardiac complications is high in NCP patients, but the characteristics and mechanism of cardiac injury are still unclear.
+ To further explore the characteristics and mechanisms of cardiac injury in patients with COVID-19 is of great scientific significance for us to propose new prevention and treatment strategies for cardiac injury.
+ Therefore, it is of great clinical significance and social value to solve some problems in current clinical treatment through systematic clinical research, to discuss the characteristics of heart injury in NCP patients, and to explore standardized, safe and effective prevention and treatment programs for NCP heart injury.
+ Cardiac dysfunction occurred in COVID-19 patients, but the law and mechanism of cardiac dysfunction remains unclear.
+ Viral myocarditis refers to the myocardial localized or diffused acute or chronic inflammatory lesions caused by viral infection, which is an infectious myocardial disease.
+ Multiple viruses (such as coxsackievirus group B virus, etc.)
+ can cause myocarditis after infection.
+ Previous studies have found that SARS-CoV with high homology of NCP can cause obvious myocardial injury.
+ The autopsy reports found SARS-CoV RNA in the myocardium of the SARS infected patient, as well as significant macrophage infiltration and myocardial injury.
+ Oudit et al.
+ found that in patients with SARS-CoV myocardial involvement, the expression of ACE-2 was also significantly decreased [3].
+ McLellan's team from the university of Texas at Austin has uploaded a novel coronavirus to BioRxiv in a preprint of BioRxiv a cryo-electron microscope structure of S protein, a key component of the virus.
+ It turned out that the binding strength of the novel coronavirus S protein to ACE-2 was about 15nM, 10 to 20 times that of the SARS virus binding to ACE2.
+ Therefore, NCP is likely to cause myocarditis directly.
+ Recently, in view of COVID - 19 deaths in patients with clinical analysis found that, compared to surviving COVID - 19 patients, death cases appeared in the course of illness progressive severe hypoxia (oxygen saturation significantly reduced), progressive lymphocytes reduce, progressive increase in the number of white blood cells and neutrophils, blood coagulation dysfunction (D - dimer significantly higher), and so on, these phenomena are likely to cause or aggravate myocardial injury [2].
+ Cardiac and pulmonary failure caused by severe myocardial injury is an important factor leading to death in severe and critical COVID-19 patients.
+ Therefore, it is urgent to strengthen the early monitoring of cardiac function and myocardial enzyme spectrum of covid-19 patients, to identify the changes and characteristics of cardiac function in covid-19 patients, and to achieve early detection and early intervention, which is of great significance to reduce the incidence of severe and critical patients and shorten the hospitalization time of severe and critical patients.
+ The occurrence of progressive inflammatory factor storm and coagulation dysfunction in severe and fatal cases of NCP points out a new direction for reducing the incidence of severe and critically ill patients, shortening the length of duration in severe and critically ill patients and reducing the incidence of complications of cardiovascular diseases Recently, studies from JAMA and Lancet reported that progressive d-dimer elevation occurred in NCP deaths.
+ Progressive lymphocytopenia and the number of leukocytes and neutrophils increased progressively.
+ The creatinine level increased rapidly from day 11, but in the early course of the disease, the creatinine fluctuation was more obvious than in the surviving patients, and the level was more likely to exceed the normal upper limit.
+ In addition, the levels of inflammatory factors (such as L2, IL7, IL10, GCSF, P10, MCP1, MIP1A and TNF TNF) in critically ill ICU patients were significantly higher than those in non-icu patients [1, 2].
+ The above evidence suggests that the increase of neutrophils may be related to the cytokine storm caused by virus invasion.
+ Clotting activation may be associated with a persistent inflammatory response; Acute kidney injury may be related to the direct effects of virus, hypoxia, and shock.
+ All three of these pathways may be cofactors in triggering death.
+ Once the cytokine storm occurs in infected patients, the disease will rapidly deteriorate, leading to multiple organ failure.
+ The heart is a common organ involved in cytokine storms, including myocardial injury, stress cardiomyopathy, heart failure, and malignant arrhythmia, each of which may lead to sudden death.
+ Therefore, according to these evidences, early coagulation intervention and anti-inflammatory therapy are expected to reduce the incidence of severe and critically ill patients, shorten the hospitalization time of severe and critically ill patients and reduce the incidence of complications of cardiovascular diseases.
+ Aspirin has the triple effects of inhibiting virus replication, anticoagulant and anti-inflammatory, but it has not received attention in the treatment and prevention of NCP.
+ First, aspirin was first synthesized in 1898 and has been widely used in the treatment and prevention of many human diseases.
+ Subsequently, aspirin has been confirmed to have antiviral effect on multiple levels [4].
+ However, one study published in Immunity in 2014, has confirmed that aspirin can inhibit virus replication by inhibiting prostaglandin E2 (PGE2) in macrophages and upregulation of type I interferon production [5].
+ Subsequently, pharmacological studies have found that aspirin as an anti-inflammatory and analgesic drug by inhibiting cox-oxidase (COX).
+ Because it was first discovered by inhibiting the activity of cox-oxidase (COX), inhibiting the synthesis of prostaglandin, inhibiting the aggregation of white blood cells, reducing the formation of bradykinin, inhibiting the aggregation of platelets and so on.
+ Under certain conditions, the platelet is the main contributor of innate immune response, studies have found that in the lung injury model in dynamic neutrophil and platelet aggregation, and aspirin by promoting lipid oxygen element (Lipoxin, 15 - epi - LXA4), and reduce the number of neutrophils and inhibition of neutrophil and platelet aggregation, in inhibiting the inflammatory response and lung injury has a key role in the model [6].
+ Compared with other NSAIDS, low-dose aspirin (less than 100 mg/ day) is highly safe for long-term use and has fewer adverse events such as gastrointestinal bleeding.
+ The dosages of aspirin used in the reviewed literature ranged from 81 mg/d to 325 mg/d, but the majority of the literature used 100 mg/d was consistent with our current clinical dosages.
+ A number of studies have found that aspirin also has other extensive effects, such as anti-tumor [8], regulation of gestational hypertension [9], prevention of preterm birth [10].
+ In summary, there is still a lack of effective drugs for the treatment of covid-19, and the regularity and characteristics of myocardial injury in patients are unclear.
+ In addition, prevention and treatment strategies for myocardial injury in COVID-19 patients have not been put on the agenda.
+ The early use of aspirin in covid-19 patients, which also has the effects of inhibiting virus replication, anti-platelet aggregation, anti-inflammatory and anti-lung injury, is expected to reduce the incidence of severe and critical patients, shorten the length of hospital duration and reduce the incidence of cardiovascular complications.
+ This project is based on important clinical issues, combined with the latest international research progress, to explore the early use of aspirin enteric-coated tablets in covid-19 patients on the treatment of covid-19 and the prevention of cardiovascular complications, to contribute to the prevention and control of the epidemic, undoubtedly has important theoretical and application value.
+ Study Design   Go to      Top of Page Study Description Study Design  Arms and Interventions Outcome Measures Eligibility Criteria Contacts and Locations More Information      Layout table for study information          Study Type : 
+   Interventional
+      (Clinical Trial)
+     
+   
+      Estimated
+ Enrollment : 128 participants   Allocation: Randomized   Intervention Model: Parallel Assignment   Masking:  None (Open Label)   Primary Purpose:  Treatment    Official Title: Protective Effect of Aspirin on COVID-19 Patients    Actual Study Start Date : February 10, 2020    Estimated Primary Completion Date : April 2020    Estimated Study Completion Date : June 2020        Resource links provided by the National Library of Medicine      Drug Information available for:
+  	 	 	Aspirin    Genetic and Rare Diseases Information Center resources:
+  	 	 	Severe Acute Respiratory Syndrome     U.S. FDA Resources        Arms and Interventions   Go to      Top of Page Study Description Study Design  Arms and Interventions Outcome Measures Eligibility Criteria Contacts and Locations More Information          Arm   Intervention/treatment      
+    No Intervention: the NCP standard treatment group According to the diagnosis and treatment guidelines, the patients were divided into four types: mild, common, severe and critically ill. Then patients with common and severe ill were randomly divided into two groups, respectively, namely the NCP standard treatment group and the NCP aspirin group (aspirin 100 mg/d, oral + combined standard treatment).
+ Experimental: the NCP aspirin treatment group According to the diagnosis and treatment guidelines, the patients were divided into four types: mild, common, severe and critically ill. Then patients with common and severe ill were randomly divided into two groups, respectively, namely the NCP standard treatment group and the NCP aspirin group (aspirin 100 mg/d, oral + combined standard treatment).
+ Patients in the NCP aspirin group were given aspirin 100 mg/d orally after admission and aspirin for 14 days after discharge.
+ Drug: Aspirin 100mg on the bases of standard treatment for the COVID-19, low-dose aspirin (100 mg/ day), orally，is added to.
+ Other Name: Oxygen therapy, antiviral treatment and other support treatments          Outcome Measures   Go to      Top of Page Study Description Study Design  Arms and Interventions Outcome Measures Eligibility Criteria Contacts and Locations More Information        Primary Outcome Measures :
+    clinical recovery time (TTCR) [ Time Frame: not more than 14 days ]TTCR is defined as the study treatment (oral aspirin enteric-coated tablet) began to fever, breathing rate, blood oxygen saturation recovery, and cough relieving for at least 72 hours.
+ the time of SARS-CoV2 overcasting [ Time Frame: not more than 37 days ]Time of SARS-CoV2 in upper respiratory tract specimens overcasting detected by RT-PCR.
+ Eligibility Criteria   Go to      Top of Page Study Description Study Design  Arms and Interventions Outcome Measures Eligibility Criteria Contacts and Locations More Information       Information from the National Library of Medicine    Choosing to participate in a study is an important personal decision.
+ Talk with your doctor and family members or friends about deciding to join a study.
+ To learn more about this study, you or your doctor may contact the study research staff using the contacts provided below.
+ For general information, Learn About Clinical Studies.
+ Layout table for eligibility information         Ages Eligible for Study:    18 Years to 85 Years   (Adult, Older Adult)   Sexes Eligible for Study:    All   Accepts Healthy Volunteers:    No    Criteria Inclusion Criteria:  The patient volunteered to participate in the study, approved the aspirin treatment, and was willing to randomly accept one of the aspirin treatment regimens, and provided written informed consent, Subject is required to meet one of the following criteria for confirmation of a novel coronavirus infection with pneumonia: 1.The detection of novel coronavirus nucleic acid is positive in respiratory or blood specimens by Real-time -PCR, 2.
+ Virus gene sequencing of respiratory or blood specimen is highly homologous with known novel coronavirus, Chest image confirmed pulmonary involvement; fever: ≥36.7℃ under the armpit, ≥38.0℃ in the oral cavity or ≥38.6℃ in the rectum and eardrum; • respiratory frequency ≥24 times/min or at least one cough; Onset time ≤14 days; Agree not to participate in another study until completion of the 14-day study; If you need to withdraw from this study; The subjects had not taken aspirin for nearly one month prior to the screening period.
+ Can follow the study or follow up procedure.
+ -  Exclusion Criteria:  Women who have recently been pregnant or breast-feeding.
+ Having a history of active gastrointestinal bleeding in the past 3 months.
+ Blood routine examination showed that the platelet count was &lt; 30×109/L.
+ Patients with coagulation disorders.
+ Unable to understand the potential risks and benefits of the study, and unable to follow up the evaluation as required.
+ Having no capacity for civil conduct.
+ A history of drug or alcohol abuse.
+ Allergic to aspirin.
+ Influenza virus, parainfluenza virus, adenovirus, respiratory syncytial virus, rhinovirus, human partial lung virus, mycoplasma pneumoniae, chlamydia pneumonia, bacterial pneumonia, organized pneumonia, etc.
+ Patients with cardiac stent placement (&lt; 1 year).
+ Any more complex medical problems that may interfere with research behavior or lead to increased risk, such as malignant tumors, blood diseases, liver diseases, AIDS, viral hepatitis, etc.
+ Contacts and Locations   Go to      Top of Page Study Description Study Design  Arms and Interventions Outcome Measures Eligibility Criteria Contacts and Locations More Information        Information from the National Library of Medicine    
+  To learn more about this study, you or your doctor may contact the study research staff using the contact information provided by the sponsor.

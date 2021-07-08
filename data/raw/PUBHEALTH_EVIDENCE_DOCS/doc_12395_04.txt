@@ -1,0 +1,80 @@
+By Nate Silver Filed under Approval Ratings   FacebookTwitterEmail               				President Trump during a campaign rally on Saturday in Melbourne, Florida.
+ Chris O'Meara / AP    Here’s what we can say for sure: It’s unprecedented for a president to face so much opposition from the electorate so soon.
+ Recent polls show that anywhere between 43 and 56 percent of Americans disapprove of President Trump’s job performance.
+ Even if you take the low end of that range, Trump’s numbers are much worse than any past president a month into his term.1 But beyond that, there’s a lot of seeming disagreement in the polls about exactly how unpopular Trump is — and even whether his disapproval rating exceeds his approval rating at all.
+ Moreover, the differences between Trump’s best surveys and his worst ones span a critical range.
+ Take one group of polls, and the country looks about evenly divided — a lot like it did during the 2016 election, when Trump narrowly lost the popular vote but nonetheless won the Electoral College.
+ Take another group, and his electoral fortunes look much bleaker, with Trump already unpopular enough that the House of Representatives could be in play despite Republicans’ advantages from gerrymandering and the geographic distribution of their voters.
+ What’s the real story?
+ The differences between the polls aren’t random, or at least they don’t appear to be based on the relatively limited amount of data we have so far.
+ Instead, Trump’s approval ratings are systematically higher in polls of voters — either registered voters or likely voters — than they are in polls of all adults.
+ And they’re systematically higher in polls conducted online or by automated script than they are in polls conducted by live-telephone interviewers.
+ Based on polls conducted between Feb. 1 and Feb. 19 2017.
+ Sources: RealClearPolitics, Huffington Post Pollster, @Politics_Polls   Trump’s overall average is 45 percent approving and 50 percent disapproving.
+ You could come up with fancier ways of calculating the average, such as by weighting the higher-quality polls more heavily.
+ Indeed, we’ll be releasing our own FiveThirtyEight-style approval ratings averages soon.
+ Sources: RealClearPolitics, Huffington Post Pollster, @Politics_Polls     All adults vs. registered voters vs. likely voters Trump has a fairly poor 43 percent approval rating — and a 51 percent disapproval rating — among polls of all American adults, but he improves to a 47 percent approval rating and a 49 percent disapproval rating among polls that survey registered voters or the narrower group of likely voters.
+ That’s a reasonably big difference.
+ So which polls should you use?
+ Traditionally, approval rating polls are conducted among all adults, so those are probably better for making historical comparisons.
+ And there’s something to be said for inclusivity if your goal is to assess the extent to which Trump has a mandate with the public.
+ He is, after all, the president of all Americans and not just those who are registered to vote or who do so regularly.
+ But for forward-looking, predictive purposes — to assess the effect that Trump will have on the midterms, for instance — the voter-based polls are probably more useful.
+ While there can be good reasons for using polls of voters as opposed to those of all adults, however, I’d be wary of making too much about the difference between registered-voter and likely-voter polls.
+ At this early stage, it’s hard to predict what the likely voter electorate will look like in 2018.
+ Midterm voters are typically older and whiter than registered voters overall, which should help Republicans.
+ But they’re also better-educated, which should help Democrats.
+ So far, the only pollsters surveying likely voters are Rasmussen Reports and Zogby, and they aren’t very good pollsters.
+ And the only pollsters we could find releasing numbers among both all adults and registered voters — which provides for the most direct comparison between those groups — are YouGov and Pew Research.
+ YouGov’s poll showed Trump’s approval rating lower among all adults than among registered voters, but his disapproval rating was lower also.
+ That’s a fairly typical pattern: Adults who aren’t registered to vote are often politically disengaged and may have indifferent views toward Trump.
+ Live-caller vs. automated script vs. online polls Polls conducted with live-telephone interviewers, such as Gallup’s, show worse numbers for Trump — an average of 42 percent approving and 52 percent disapproving — compared to polls conducted online or by automated telephone calls, which have his numbers almost even at 47 percent approving and 48 percent disapproving.
+ One theory about this is that the online and automated polls reveal “shy” or “hidden” Trump support, with people more willing to reveal their true feelings about the “politically incorrect” Trump in online or automated polls where they have greater anonymity.
+ It’s a plausible theory, but I’m not sure it’s really supported by the evidence.
+ Trump didn’t overperform his polls overall during the Republican primaries, and while he did so in the general election, the overperformance was concentrated among white voters without college degrees, not the group you’d expect if the “shy Trump” theory is right.3 There are also arguments against using online and, especially, automated polls.
+ They don’t have as long a track record of success, even if some of them fared reasonably well in the 2016 general election.
+ Moreover, they may have trouble reaching a representative sample of the population.
+ Automated polls only call landlines, which means they miss the roughly half (!!)
+ of the American population that uses mobile phones only.4 And most online polls don’t use probability sampling, the traditional means of taking a random sample of the population.
+ Without getting too far into the debate, we’d probably recommend using a mix of live-caller and the higher-quality online surveys, while being suspicious of automated polls.
+ A further complication is that there’s a relationship between how a poll is conducted and who it’s surveying.
+ For whatever reason, most live-caller approval ratings polls survey all adults, while most automated or online polls survey registered or likely voters.
+ Thus, there’s some cross-contamination between the problems I’ve mentioned here, and it will take more data to sort it out completely.
+ Related: Politics Podcast       Politics Podcast: Tea Party Parallels      Be wary of cherry-picking In the meantime, be on alert for selective citation of polls that are used to advance a narrative.
+ In his press conference last week, for instance, Trump cited a Rasmussen Reports poll showing him with a 55 percent approval rating — neglecting to mention that no other recent poll shows him above 49 percent approval.
+ But I’ve seen at least as much cherry-picking from liberal and mainstream reporters.
+ In my Twitter feed last week, for instance, a Pew poll that had Trump at 39 percent approval5 got a lot more attention than a Fox News survey which had him at 48 percent instead.6 In some ways, the pattern reflected the one before November’s election, when reporters and pundits selectively interpreted the evidence and assumed that Hillary Clinton was a much heavier favorite than she really was based on the polls.
+ Trump is not very popular, but he’s also no more unpopular than Barack Obama was for much of his presidency.
+ If his numbers hold where they they are right now — especially among registered voters — Republicans would probably hold their own in 2018, and 2020 would be another highly competitive election.
+ What’s different, as I mentioned, is Trump’s approval ratings are much worse than what a president typically enjoys at this stage of his term.
+ So the question is whether his ratings will continue to decline or if he steadies the ship, or eventually pivots and sees his approval ratings improve.
+ It’s possible — I’d wager more likely than not if forced to bet — that Trump’s ratings will continue to decline over the next six to 18 months, at which point he’d be in trouble since he’s starting from a low baseline.
+ But while he faces a lot of challenges — mostly of his own making — he sometimes benefits from news coverage that overextends itself and predicts his immediate demise only to have to pull back later, perhaps making him seem more formidable in the process.
+ We learned that lesson the hard way in the primaries, and then we often watched the same feeding-frenzy mentality take hold in the general election.
+ While the news is unfolding at an exceptionally brisk pace, changes to Trump’s popularity ratings are likely to be slower.
+ Footnotes  The previous high disapproval rating at this stage of a presidency belonged to Bill Clinton, who reached 34 percent disapproval in a Gallup poll in mid-February, 1993.
+ Clinton’s approval rating was 51 percent in the same survey, however, so his numbers still netted out to be substantially positive.
+ Trump’s disapproval rating exceeds his approval rating in most (but by no means all) surveys, by contrast.
+ By “this month,” I mean among polls that conducted at least some of their interviews in February.
+ If a pollster has asked about Trump’s approval ratings multiple times, I’ve listed only the most recent survey.
+ I do list YouGov and Pew Research twice, since they calculated Trump’s approval ratings both among all adults and among registered voters, a distinction that proves to be rather important.
+ The idea underlying the “shy Trump” theory is social desirability bias, i.e., that voters wouldn’t want to reveal their true feelings about Trump when there was some social sanction for doing so among their peer group.
+ If the theory is right, Trump would probably most overperform his polls among groups such as black voters and well-educated whites, whose communities by and large oppose Trump.
+ Instead, Trump overperformed his polls in places where he was already popular but turned out to be even more popular than polls suggested.
+ Although, an increasing number of automated polls, such as Rasmussen Reports and Public Policy Polling, supplement their “robocalls” with online panels.
+ The jury is still out on whether his is an effective technique.
+ Among adults; Trump’s approval rating was 42 percent among registered voters in the poll.
+ Despite what you might assume, Fox News polls haven’t historically shown a statistical bias toward the GOP.
+ Nate Silver is the founder and editor in chief of FiveThirtyEight.
+ @natesilver538    Comments        Filed under Donald Trump (1428 posts) The Trump Administration (750) Polling (418) Approval Ratings (107)         Newsletter    Want more FiveThirtyEight?
+ Get our weekly most popular stories newsletter.
+ You are now subscribed!
+ Sign me up  See all newsletters                			Get more FiveThirtyEight		    Store   Newsletter   Twitter   Facebook   Data   RSS          Follow @FiveThirtyEight       Contact   Jobs   Masthead   About Nielsen Measurement   Advertise With Us     			Powered by WordPress.com VIP     Terms of Use   Privacy Policy   Do Not Sell My Info   Your California Privacy Rights   Children's Online Privacy Policy   Interest-Based Ads    				© 2020 ABC News Internet Ventures.
+ All rights reserved.
+ Close Additional Information Terms of Use and Privacy Policy and Safety Information/Your California Privacy Rights/Children's Online Privacy Policy are applicable to you.
+ © 2020 ABC News Internet Ventures.
+ All rights reserved.
+ Interest-Based Ads.
+ Cookie Policy.
+ Send to Email Address  Your Name  Your Email Address     Cancel  				Post was not sent - check your email addresses!
+ Email check failed, please try again			  				Sorry, your blog cannot share posts by email.

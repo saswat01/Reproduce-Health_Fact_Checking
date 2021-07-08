@@ -1,0 +1,97 @@
+Video Series  Defining Cancer Statistics  Glossary of Statistical Terms   SEER Publications   Monographs     Reports on Cancer  Annual Report to the Nation on the Status of Cancer Cancer Stat Facts Cancer Statistics Review Preliminary Incidence Rates SEER Publications  Interactive Tools, Maps, &amp; Graphs  SEER*Explorer CanStat Animator Cancer Query Systems  Understanding Statistics  Did You Know?
+ Video Series Defining Cancer Statistics Glossary of Statistical Terms     SEER Data &amp; Software    SEER Incidence Database   Accessing the Data  Request the Data  Sample Data Use Agreement   Documentation for Data   SEER*Stat Database Details   Variable and Recode Definitions   U.S. Datasets   U.S. Mortality  U.S.
+ Populations  Standard Populations  SEER Linked Databases   Statistical Software   SEER*Stat  SEER*Prep  Methods &amp; Tools for Population-based Cancer Statistics     SEER Incidence Database  Accessing the Data Request the Data Sample Data Use Agreement  Documentation for Data  SEER*Stat Database Details Variables and Recode Definitions  U.S. Datasets  U.S. Mortality U.S.
+ Populations Standard Populations SEER Linked Databases  Statistical Software  SEER*Stat SEER*Prep Methods &amp; Tools for Population-based Cancer Statistics     Registry Operations    Reporting Guidelines   SEER Program Coding Manual  Hematopoietic Project  2018 Solid Tumor Rules   Tools &amp; Software    Glossary for Registrars  SEER*Rx - Drug Database  SEER Abstracting Tool  SEER Data Management System (SEER*DMS)    Questions &amp; Answers   SEER Inquiry System   Ask a SEER Registrar   Data Collection Answers   Staging   Registrar Staging Assistant (SEER*RSA)   Summary Stage 2018  Staging Resources   Extent of Disease 2018   Training      Reporting Guidelines  SEER Program Coding Manual Hematopoietic Project 2018 Solid Tumor Rules  Tools &amp; Software  Glossary for Registrars SEER*Rx - Drug Database SEER Abstracting Tool SEER Data Management System (SEER*DMS)  Questions &amp; Answers  SEER Inquiry System Ask a SEER Registrar Data Collection Answers  Staging  Registrar Staging Assistant (SEER*RSA) Summary Stage 2018 Staging Resources Extent of Disease 2018  Training     News    About                   Section Menu  Home Cancer Statistics Reports on Cancer Cancer Stat Facts Prostate Cancer — Cancer Stat Facts Cancer Stat Facts: Prostate Cancer         Reports on Cancer  Annual Report to the Nation Cancer Stat Facts  Cancer Among AYAs Common Cancer Sites Cancer Disparities Bladder Breast (Female) Colon and Rectum Kidney and Renal Pelvis Leukemia Lung and Bronchus Melanoma of the Skin Non-Hodgkin Lymphoma  Pancreas Prostate Thyroid Uterus More Cancer Types   Cancer Statistics Review, 1975-2017  Browse the Tables and Figures Access CSR Contents in PDF Generate Custom Reports  Archive   Preliminary Incidence Rates for 2017  Preliminary Estimates for 2017 February Delay-adjustment Validation Datasets and Archive   SEER Publications  Monographs Cancer Patterns among Asian and Pacific Islanders in the U.S.
+ Expand All Collapse All  Statistics at a Glance  At a Glance     Estimated New Cases in 2020 191,930 % of All New Cancer Cases 10.6%   Estimated Deaths in 2020 33,330 % of All Cancer Deaths 5.5%     5-YearRelative Survival 97.8% 2010–2016          Year Rate of New Cases — SEER 9  Rate of New Cases — SEER 13 Death Rate — U.S. 5-Year Relative Survival — SEER 9   Observed Modeled Trend Observed Modeled Trend Observed Modeled Trend Observed Modeled Trend     1975 94.00 92.87 - - 30.97 31.42 66.45% 66.87%   1976 97.95 95.30 - - 31.78 31.71 68.65% 67.76%   1977 100.48 97.79 - - 31.83 32.00 69.11% 68.63%   1978 99.40 100.35 - - 32.66 32.29 69.46% 69.49%   1979 103.42 102.97 - - 32.84 32.58 71.34% 70.32%   1980 106.05 105.66 - - 33.05 32.87 70.50% 71.14%   1981 108.88 108.42 - - 33.17 33.17 72.01% 71.94%   1982 108.25 111.25 - - 33.36 33.47 72.16% 72.72%   1983 111.65 114.16 - - 33.92 33.78 72.77% 73.48%   1984 111.70 117.14 - - 34.06 34.08 73.39% 74.23%   1985 115.52 120.20 - - 33.91 34.39 75.21% 74.96%   1986 119.10 123.34 - - 34.93 34.70 77.24% 75.67%   1987 133.78 126.57 - - 35.11 35.02 80.77% 80.35%   1988 137.65 129.87 - - 35.88 36.08 83.45% 84.22%   1989 145.43 150.79 - - 37.10 37.18 84.64% 87.39%   1990 171.14 175.08 - - 38.56 38.31 88.70% 89.96%   1991 214.89 203.27 - - 39.31 39.47 92.96% 92.03%   1992 237.60 236.01 234.27 232.52 39.22 39.28 96.28% 93.69%   1993 209.67 213.64 207.19 206.66 39.34 39.09 95.41% 95.01%   1994 180.43 193.39 177.62 183.67 38.54 38.90 94.87% 96.07%   1995 169.55 175.05 166.68 163.24 37.29 37.25 95.94% 96.90%   1996 169.68 174.70 166.91 166.73 36.00 35.67 96.66% 97.56%   1997 173.83 174.35 172.08 170.28 34.15 34.15 97.71% 98.08%   1998 171.25 174.00 169.91 173.92 32.63 32.71 98.40% 98.49%   1999 183.72 173.64 180.50 177.63 31.56 31.57 99.47% 98.81%   2000 183.37 173.29 179.14 181.42 30.39 30.47 99.08% 99.07%   2001 185.41 172.94 180.40 177.81 29.52 29.42 99.98% 99.27%   2002 182.74 172.59 178.24 174.27 28.71 28.39 99.92% 99.42%   2003 170.19 172.24 165.75 170.80 27.19 27.41 99.54% 99.55%   2004 166.36 171.90 165.78 167.40 26.19 26.46 99.82% 99.64%   2005 157.10 171.55 154.39 164.07 25.40 25.54 99.36% 99.72%   2006 172.69 171.20 165.13 160.81 24.24 24.65 99.81% 99.78%   2007 175.79 170.86 168.54 157.61 24.23 23.80 99.89% 99.70%   2008 158.65 170.51 154.01 154.47 23.01 22.97 99.45% 99.59%   2009 155.82 156.86 150.96 151.40 22.12 22.17 99.47% 99.44%   2010 148.40 144.30 144.39 148.38 21.81 21.40 99.59% 99.23%   2011 142.31 132.75 138.32 133.48 20.79 20.66 99.35% 98.94%   2012 116.37 122.12 113.17 120.08 19.57 19.94 98.23% 98.55%   2013 111.15 112.35 107.67 108.03 19.28 19.25 - 98.01%   2014 102.02 103.35 98.83 97.18 19.12 19.18 - 97.29%   2015 107.88 107.07 101.91 100.68 18.96 19.11 - 96.30%   2016 110.01 110.92 103.74 104.31 19.40 19.05 - 94.95%   2017 115.24 114.91 108.05 108.07 18.85 18.98 - 93.14%   2018 - - - - 18.88 18.91 - 90.72%                 New cases come from SEER 13.
+ Deaths come from U.S. Mortality.
+ All Races, Males.
+ Rates are Age-Adjusted.
+ Modeled trend lines were calculated from the underlying rates using the Joinpoint Trend Analysis Software.
+ New cases are also referred to as incident cases in other publications.
+ Rates of new cases are also referred to as incidence rates.
+ View Data Table     Rate of New Cases and Deaths per 100,000: The rate of new cases of prostate cancer was 109.8 per 100,000 men per year.
+ The death rate was 19.0 per 100,000 men per year.
+ These rates are age-adjusted and based on 2013–2017 cases and 2014–2018 deaths.
+ Lifetime Risk of Developing Cancer: Approximately 12.1 percent of men will be diagnosed with prostate cancer at some point during their lifetime, based on 2015–2017 data.
+ Prevalence of This Cancer: In 2017, there were an estimated 3,170,339 men living with prostate cancer in the United States.
+ Did you know?
+ More men are living with Prostate Cancer.
+ Did You Know?
+ Relative survival is an estimate of the percentage of patients who would be expected to survive the effects of their cancer.
+ It excludes the risk of dying from other causes.
+ Because survival statistics are based on large groups of people, they cannot be used to predict exactly what will happen to an individual patient.
+ 5-YearRelative Survival 97.8%     Based on data from SEER 18 2010–2016.
+ Gray figures represent those who have died from prostate cancer.
+ Green figures represent those who have survived 5 years or more.
+ Additional Information 			  More about survival statistics Additional prostate cancer survival statistics in SEER*Explorer   Survival by Stage Cancer stage at diagnosis, which refers to extent of a cancer in the body, determines treatment options and has a strong influence on the length of survival.
+ In general, if the cancer is found only in the part of the body where it started it is localized (sometimes referred to as stage 1).
+ If it has spread to a different part of the body, the stage is regional or distant.
+ For prostate cancer, 75.9% are diagnosed at the local stage.
+ The 5-year relative survival for localized prostate cancer is 100.0%.
+ Percent of Cases &amp; 5-Year Relative Survival by Stage at Diagnosis: Prostate Cancer         Stage Percent of Cases 5-Year Relative Survival     Localized Confined to Primary Site 76% 100.0%   Regional Spread to Regional Lymph Nodes 13% 100.0%   Distant Cancer Has Metastasized 6% 30.2%   Unknown Unstaged 5% 83.3%           Percent of Cases by Stage           Localized (76%)Confined to Primary Site Regional (13%)Spread to Regional Lymph Nodes Distant (6%)Cancer Has Metastasized Unknown (5%)Unstaged           5-Year Relative Survival              SEER 18 2010–2016, All Races, Males by SEER Summary Stage 2000       				Additional Information 			  More about prostate cancer staging Additional statistics on prostate cancer by stage in SEER*Explorer    New Cases and Deaths  How Common Is This Cancer?
+ Compared to other cancers, prostate cancer is fairly common.
+ Rank Common Types of Cancer Estimated NewCases 2020 EstimatedDeaths 2020     1.
+ Breast Cancer (Female) 276,480 42,170   2.
+ Lung and Bronchus Cancer 228,820 135,720   3.
+ Prostate Cancer 191,930 33,330   4.
+ Colorectal Cancer 147,950 53,200   5.
+ Melanoma of the Skin 100,350 6,850   6.
+ Bladder Cancer 81,400 17,980   7.
+ Non-Hodgkin Lymphoma 77,240 19,940   8.
+ Kidney and Renal Pelvis Cancer 73,750 14,830   9.
+ Uterine Cancer 65,620 12,590   10.
+ Leukemia 60,530 23,100       Prostate cancer represents 10.6% of all new cancer cases in the U.S.  10.6%     In 2020, it is estimated that there will be 191,930 new cases of prostate cancer and an estimated 33,330 people will die of this disease.
+ Who Gets This Cancer?
+ Prostate cancer occurs only in men, and it is more common in older men than younger men.
+ It is more likely to occur in men with a family history of prostate cancer and men of African American descent.
+ The rate of new cases of prostate cancer was 109.8 per 100,000 men per year based on 2013–2017 cases, age-adjusted.
+ Rate of New Cases per 100,000 Persons by Race/Ethnicity: Prostate Cancer      Males   All Races 109.8   White 102.3   Black 175.2   Asian/Pacific Islander 56.7   American Indian/Alaska Native 54.6   Hispanic 92.0   Non-Hispanic 112.6     Females   All Races Sex-specific cancer type   White    Black    Asian/Pacific Islander    American Indian/Alaska Native    Hispanic    Non-Hispanic            All Races White Black Asian /Pacific Islander American Indian /Alaska Native Hispanic Non-Hispanic      SEER 21 2013–2017, Age-Adjusted   Percent of New Cases by Age Group: Prostate Cancer          Age Range Percent of New Cases      84 4.1%                    Prostate cancer is most frequently diagnosed among men aged 65–74.
+ Median AgeAt Diagnosis 66     SEER 21 2013–2017, All Races, Males  Who Dies From This Cancer?
+ Because we have screening for prostate cancer, most of the time it is caught before it spreads to other parts of the body.
+ Men who have prostate cancer that is characterized as localized or regional are not as likely to die as men whose cancer is distant.
+ In general prostate cancer has excellent survival rates, but death rates are higher in African American men, men who have advanced stage cancer, and men who are between the ages of 75 and 84.
+ Prostate cancer is the fifth leading cause of cancer death in the United States.
+ The death rate was 19.0 per 100,000 men per year based on 2014–2018, age-adjusted.
+ Death Rate per 100,000 Persons by Race/Ethnicity: Prostate Cancer      Males   All Races 19.0   White 17.9   Black 37.4   Asian/Pacific Islander 8.8   American Indian/Alaska Native 18.5   Hispanic 15.6   Non-Hispanic 19.3     Females   All Races Sex-specific cancer type   White    Black    Asian/Pacific Islander    American Indian/Alaska Native    Hispanic    Non-Hispanic            All Races White Black Asian /Pacific Islander American Indian /Alaska Native Hispanic Non-Hispanic      U.S. 2014–2018, Age-Adjusted   Percent of Deaths by Age Group: Prostate Cancer          Age Range Percent of Deaths      84 33.0%                    The percent of prostate cancer deaths is highest among men aged 75–84.
+ Median AgeAt Death 80     U.S. 2014–2018, All Races, Males   Trends in Rates  Changes Over Time Keeping track of new cases, deaths, and survival over time (trends) can help scientists understand whether progress is being made and where additional research is needed to address challenges, such as improving screening or finding better treatments.
+ Using statistical models for analysis, age-adjusted rates for new prostate cancer cases have been falling on average 4.3% each year over 2008–2017.
+ Age-adjusted death rates have been falling on average 1.8% each year over 2009–2018.
+ 5-year relative survival trends are shown below.
+ New Cases, Deaths and 5-Year Relative Survival           New cases come from SEER 9.
+ Deaths come from U.S. Mortality.
+ All Races, Males.
+ Rates are Age-Adjusted.
+ Modeled trend lines were calculated from the underlying rates using the Joinpoint Trend Analysis Software.
+ SEER 9 5-Year Relative Survival Percent from 1975–2012, All Races, Males.
+ Modeled trend lines were calculated from the underlying rates using the Joinpoint Survival Model Software.
+ View Data Table    Interactive Statistics with SEER*Explorer     With SEER*Explorer, you can...
+ Create custom graphs and tables Download data and images Share links to results     SEER*Explorer is an interactive website that provides easy access to a wide range of SEER cancer statistics.
+ It provides detailed statistics for a cancer site by gender, race, calendar year, age, and for a selected number of cancer sites, by stage and histology.
+ Explore Additional Prostate Cancer Statistics    More About This Cancer   Cancer and the Prostate          Figure: Prostate and Nearby Organs Click to enlarge.
+ Figure: Prostate and Nearby Organs     Figure: Anatomy diagram shows the prostate, urethra, penis, testicle, bladder, lymph nodes, seminal vesicle, and rectum are labeled.
+ An inset provides a close-up view of the prostate, urethra, bladder, seminal vesicles, and rectum.
+ This cancer forms in tissues of the prostate (a gland in the male reproductive system found below the bladder and in front of the rectum).
+ The prostate surrounds the urethra, the tube through which urine flows.
+ A healthy prostate is about the size of a walnut.
+ If the prostate grows too large, it squeezes the urethra.
+ This may slow or stop the normal flow of urine.
+ Prostate cancer usually occurs in older men.
+ Additional Information  Learn more about prostate cancer  More Information Here are some resources for learning more about prostate cancer.
+ About risk factors for prostate cancer About symptoms and diagnosis of prostate cancer About treatment options for prostate cancer About clinical trials About preventing prostate cancer About the health risks of smoking and ways to quit  References All statistics in this report are based on statistics from SEER and the Centers for Disease Control and Prevention's National Center for Health Statistics.
+ Most can be found within SEER*Explorer.
+ Suggested Citation All material in this report is in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated.
+ SEER Cancer Stat Facts: Prostate Cancer.
+ National Cancer Institute.
+ Bethesda, MD, https://seer.cancer.gov/statfacts/html/prost.html    These stat facts focus on population statistics that are based on the U.S. population.
+ Because these statistics are based on large groups of people, they cannot be used to predict exactly what will happen to an individual patient.
+ To see tailored statistics, browse SEER*Explorer.
+ To see statistics for a specific state, go to the State Cancer Profiles.
+ The statistics presented in these stat facts are based on the most recent data available, most of which can be found in SEER*Explorer.
+ In some cases, different year spans may be used.
+ Estimates of new cases and deaths for 2020 are projections made by the American Cancer Society (ACS), based on earlier reported data.
+ Cancer is a complex topic.
+ There is a wide range of information available.
+ These stat facts do not address causes, symptoms, diagnosis, treatment, follow-up care, or decision making, although links are provided to information in many of these areas.
+ Return to Top    SEER is supported by the Surveillance Research Program (SRP) in NCI's Division of Cancer Control and Population Sciences (DCCPS).
+ SRP provides national leadership in the science of cancer surveillance as well as analytical tools and methodological expertise in collecting, analyzing, interpreting, and disseminating reliable population-based statistics.
+ Follow SEER       Contact Information  Contact SEER NCI LiveHelp Online Chat    More Information  Careers Sitemap Using This Website    Policies  Accessibility Disclaimer FOIA Privacy &amp; Security Reuse of Graphics and Text Website Linking     U.S. Department of Health and Human Services National Institutes of Health National Cancer Institute USA.gov  NIH...

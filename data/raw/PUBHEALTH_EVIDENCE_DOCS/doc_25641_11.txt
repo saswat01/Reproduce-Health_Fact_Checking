@@ -1,0 +1,40 @@
+To submit a letter to the editor for publication, write to   letters@nytimes.com.The True Coronavirus Toll in the U.S. Has Already Surpassed 200,000By Denise LuAug.
+ Across the United States, at least 200,000 more people have died than usual since March, according to a New York Times analysis of estimates from the Centers for Disease Control and Prevention.
+ This is about 60,000 higher than the number of deaths that have been directly linked to the coronavirus.
+ As the pandemic has moved south and west from its epicenter in New York City, so have the unusual patterns in deaths from all causes.
+ That suggests that the official death counts may be substantially underestimating the overall effects of the virus, as people die from the virus as well as by other causes linked to the pandemic.
+ When the coronavirus took hold in the United States in March, the bulk of deaths above normal levels, or “excess deaths,” were in the Northeast, as New York and New Jersey saw huge surges.
+ The Northeast still makes up nearly half of all excess deaths in the country, though numbers in the region have drastically declined since the peak in April.
+ But as the number of hot spots expanded, so has the number of excess deaths across other parts of the country.
+ Many of the recent coronavirus cases and deaths in the South and the West may have been driven largely by reopenings and relaxed social distancing restrictions.
+ When excess deaths peaked during the pandemic      South West Midwest Northeast          	Counting deaths takes time and many states are weeks or months behind in reporting.
+ The estimates from the C.D.C.
+ are adjusted based on how mortality data has lagged in previous years.
+ Even with this adjustment, it’s possible there could be an underestimate of the complete death toll if increased mortality is causing states to lag more than they have in the past or if states have changed their reporting systems.
+ But comparing recent totals of deaths from all causes can provide a more complete picture of the pandemic’s impact than tracking only deaths of people with confirmed diagnoses.
+ Weekly deaths above normal in each state   	The charts below show how much higher than usual weekly deaths have been in each state.
+ States with the most recent peaks — the week when they saw the most excess deaths during the pandemic — appear first.
+ For each state, weeks in which data may be incomplete are excluded.
+ Deaths above normal in the South             	Nine of the 13 states in the South started seeing excess deaths surge in July, months into the pandemic.
+ A spike in cases in places like Texas put pressure on hospitals, echoing the chaos that ensued in New York months earlier.
+ South Carolina, among the first states to reopen retail stores, saw deaths reach 1.6 times normal levels in mid-July.
+ Unlike other states in this region, Louisiana saw its excess deaths peak in April — when total deaths reached 1.7 times normal levels.
+ Medical experts said Mardi Gras gatherings most likely contributed to this spike.
+ Deaths above normal in the West             	In July, coronavirus deaths in Arizona surged, though new daily cases have since decreased.
+ In California, the first state to issue a stay-at-home order this spring, coronavirus deaths climbed up in July, after a reopening that some health officials warned was too fast.
+ Deaths above normal in the Midwest             	In the Midwest, some states like Michigan and Illinois saw their peaks in April.
+ Detroit was particularly hard hit by the virus.
+ Deaths above normal in the Northeast             	New York City in the first few months of the pandemic was the epicenter of the coronavirus outbreak, and it was plagued by staggering death totals, which peaked at more than seven times normal levels.
+ Other areas of the Northeast, including New Jersey, Massachusetts and Connecticut also saw early surges.
+ Over all, rates have decreased significantly since then in much of the region.
+ Methodology Total death numbers are estimates from the Centers for Disease Control and Prevention, which are based on death certificates counted by the C.D.C.
+ and adjusted to account for typical lags in the reporting of deaths.
+ Only weeks in which the C.D.C.
+ estimates the data to be at least 90 percent complete or estimated deaths were above expected death numbers are included.
+ Weeks in which reported deaths were less than 50 percent of the C.D.C.
+ estimate are not included.
+ Expected deaths were calculated with a simple model based on the weekly number of all-cause deaths from 2017 to 2019 released by the Centers for Disease Control and Prevention, adjusted to account for trends, like population changes, over time.
+ Additional reporting by Josh Katz and Margot Sanger-Katz.
+ // NB could be extended to be "global" if we want!
+ Most of these  // loosely map to existing hybridConfig values.
+ /**   * Returns the read/unread status for a series of assets, by URI.

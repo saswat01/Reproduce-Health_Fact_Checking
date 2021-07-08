@@ -1,0 +1,43 @@
+Skip to content               
+  Bienvenidos a Prevén       Prevén Sobre Nosotros Servicios  Servicios Prevén Prevén Embarazos Prevén Infecciones Prevén el Riesgo Prevén para Padres Prevén Zika Preguntas Frecuentes   Clínicas  Aguadilla Bayamón Caguas Cabo Rojo Manatí Mayagüez Mayagüez RUM Ponce San Germán San Juan Yauco   Contáctanos      Search      Search   Search …                           Search      Search   Search …           Search   Search …       Menu         Prevén Sobre Nosotros Servicios  Servicios Prevén Prevén Embarazos Prevén Infecciones Prevén el Riesgo Prevén para Padres Prevén Zika Preguntas Frecuentes   Clínicas  Aguadilla Bayamón Caguas Cabo Rojo Manatí Mayagüez Mayagüez RUM Ponce San Germán San Juan Yauco   Contáctanos          404 Ooops, page not found      Sorry, but the requested page is not found.
+ You might try a search below.
+ Search   Search …                 Videos Prevén  
+  Your browser does not support the video tag.
+ You will need to secure your site with an SSL certificate (HTTPS) or this feature may not work for your visitors","use_my_location":"Use my location","google_api_not_loaded":"The map cannot be initialized because the Maps API has not been loaded.
+ Please check your settings.
+ ","no_google_maps_api_key":"You have not entered a Google Maps API Key .
+ Please go to the your admin area, then Maps, then Settings, then the Advanced tab to enter your Google Maps API key .
+ Alternatively, choose the Open Layers engine to avoid getting an API key.
+ ","documentation":"Documentation","api_dashboard":"API Dashboard","verify_project":"Verify Project","failed_to_get_address":"Failed to get address","failed_to_create_marker":"Failed to create marker %d - this marker cannot be placed on the map.
+ ","my_location":"My Location","kilometers_away":"km away","miles_away":"miles away","import_completed":"Import completed.
+ ","importing_please_wait":"Importing, this may take a moment...","no_address_specified":"No address specified","add_marker":"Add Marker","save_marker":"Save Marker","please_wait":"Please Wait...","zero_results":"No results found in this location.
+ Please try again.
+ ","address_not_found":"This address could not be found.
+ WP Google Maps uses a 3rd party service (eg Google) to convert addresses to geographic coordinates.
+ Unfortunately, the service has no records for this address at present.
+ Please try an alternative format, or manually position the marker using right click.
+ ","geocode_fail":"Geocode failed due to technical reasons","you_must_check_gdpr_consent":"You must check the GDPR consent box to continue","no_gps_coordinates":"No GPS coordinates found","fetching_directions":"Fetching directions...","unknown_directions_service_status":"Unknown directions service status","please_fill_out_both_from_and_to_fields":"Please fill out both the \"from\" and \"to\" fields","no_picture_found":"No picture found","overwrite_theme_data":"Are you sure you want to overwrite the existing theme data?
+ ","upload_complete":"Upload Complete","uploading_file":"Uploading file","bulk_jpeg_media_title":"WP Google Maps - Bulk JPEG Upload","from_your_location":"from your location","from_searched_location":"from searched location","yes":"Yes","no":"No","requires_gold_v5":"Requires WP Google Maps - Gold add-on 5.0.0 or above","confirm_remove_duplicates":"This operation is not reversable.
+ We recommend you take a backup before proceeding.
+ Would you like to continue?
+ ","invalid_theme_data":"Invalid theme data","duplicate_custom_field_name":"Duplicate custom field names, please ensure you only add unique custom field names.
+ ","disabled_interactions_notice":"Some interactions are disabled.
+ ","interactions_enabled_notice":"Interactions Enabled","disabled_interactions_button":"Re-Enable Interactions","use_two_fingers":"Use two fingers to move the map","use_ctrl_scroll_to_zoom":"Use ctrl + scroll to zoom the map","geocode_was_not_successful":"Geocode was not successful for the following reason: ","geocoding_library_notice":"Geocoding this address failed.
+ Please check you have enabled the Geocoding API for your Google Maps API project.
+ ","map_delete_prompt_text":"Are you sure you want to delete this map?
+ ","map_bulk_delete_prompt_text":"Are you sure you want to delete these maps?
+ ","please_select_a_file_to_upload":"Please select a file to upload.
+ ","import_reservedwordsfix":"Import","delete_reservedwordsfix":"Delete","back_to_import_data":"Back to Import Data","are_you_sure_you_wish_to_delete_this_file":"Are you sure you wish to delete this file?
+ ","file_deleted":"File deleted.
+ ","please_enter_a_url_to_import_from":"Please enter a URL to import from.
+ ","loading_import_options":"Loading import options...","are_you_sure_you_wish_to_delete_this_scheduled_import":"Are you sure you wish to delete this scheduled import?
+ ","scheduled_import_deleted":"Scheduled import deleted.
+ ","please_select_at_least_one_map_to_export":"Please select at least one map to export.
+ .\r\n \r\n\r\n \t\r\n\tI agree for my personal data, provided via map API calls, to be processed by the API provider, for the purposes of geocoding (converting addresses to coordinates), reverse geocoding and\tgenerating directions.\r\n \r\n \r\n\tSome visual components of WP Google Maps use 3rd party libraries which are loaded over the network.
+ At present the libraries are Google Maps, Open Street Map, jQuery DataTables and FontAwesome.
+ When loading resources over a network, the 3rd party server will receive your IP address and User Agent string amongst other details.
+ Please refer to the Privacy Policy of the respective libraries for details on how they use data and the process to exercise your rights under the GDPR regulations.\r\n \r\n \r\n\tWP Google Maps uses jQuery DataTables to display sortable, searchable tables, such as that seen in the Advanced Marker Listing and on the Map Edit Page.
+ jQuery DataTables in certain circumstances uses a cookie to save and later recall the \"state\" of a given table - that is, the search term, sort column and order and current page.
+ This data is held in local storage and retained until this is cleared manually.
+ No libraries used by WP Google Maps transmit this information.\r\n \r\n \r\n\tPlease see here and here for Google's terms.
+ Please also see Google's Privacy Policy .

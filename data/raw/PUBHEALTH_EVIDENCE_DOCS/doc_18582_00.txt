@@ -1,0 +1,368 @@
+11, D-48129 Muenster, Germany   1To whom correspondence should be addressed.
+ Email: nieschl@uni-muenster.de  
+   Search for other works by this author on:
+    Oxford Academic   PubMed   Google Scholar      Eberhard Nieschlag    
+  Eberhard Nieschlag
+    Institute of Reproductive Medicine of the University, Domagkstr.
+ This review focuses on age-associated alterations of male fertility and genetic risks.
+ Semen volume, sperm motility and sperm morphology decrease with age, whereas the data concerning sperm concentration are conflicting.
+ Men aged &gt;40 years contribute to reduced fertility and fecundity of a couple, especially when the female partner is also of advanced age.
+ Because relatively few children are born to older fathers and genetic diseases are rare, there is little statistical power supporting an association of genetic diseases in the offspring with advancing paternal age.
+ Nevertheless, autosomal dominant diseases and some diseases of complex aetiology, such as schizophrenia, are associated with advancing paternal age.
+ The single point mutations in sperm which are responsible for achondroplasia and Apert's syndrome, two autosomal dominant diseases, increase with the man's age.
+ In case of Apert's syndrome this increase is believed to be due to a pre-meiotic selection of mutant spermatogonia.
+ Although structural chromosome anomalies and disomies of certain chromosomes increase in sperm with the man's age, paternal age is, with the exception of trisomy 21, not associated with numerical or de novo structural chromosomal aberrations in newborns.
+ However, even if the genetic risk for progeny from older fathers is slightly increased, the risk to the individual is low.
+ ageing male, fertility, genetic risk, mutation, semen parameters Introduction When reproductive functions of older men are discussed, several celebrities who became fathers at advanced age such as Pablo Picasso, Charlie Chaplin and Anthony Quinn are often cited as examples.
+ While the public regards these cases with a mixture of admiration and skepticism, birth statistics show that there are quite a number of children born to fathers aged &gt;50 years in the general population and this is true of Eastern and Western cultures alike (Figure 1 and Martin et al., 2003).
+ However, it is well known that practically no children are born to mothers aged &gt;50 years and it is common to all older fathers that they have younger partners.
+ The discrepancy in the reproductive span between males and females is astonishing and reduced fertility and higher reproductive risks associated with advancing maternal age prompt the question whether advanced paternal age is also associated with compromised fertility and increasing risks.
+ This question can be extended to younger age groups since increasing numbers of couples postpone parenthood into their fourth or fifth decade of life.
+ In Germany, the mean age of men at first marriage has risen from 26.6 years in 1985 to 31.8 years in 2002 (Statistisches Bundesamt Deutschland) and the median age of married fathers has increased from 31.3 in 1991 to 33.1 years in 1999 (Statistisches Bundesamt, 2004b).
+ Reasons for this continuing trend are the use of female contraception, rising female educational levels and the almost universal entry of women into the labour market.
+ In addition, life expectancy is increasing and is associated with changing patterns of marriage and divorce so that remarriage and the wish to father a child in a new partnership are becoming increasingly common.This delay in childbearing unmasks the phenomenon of reproductive ageing which is well documented for women.
+ Besides a progressive decrease of fertility due to both quantitative and qualitative loss of oocytes, eventually ending in menopause, women experience an age-dependent increase of miscarriages, obstetric morbidities and chromosomal anomalies of the fetus (Lubna and Santoro, 2003).
+ In contrast to the female, male reproductive functions do not cease abruptly, but androgen production and spermatogenesis continue lifelong.Notwithstanding, age-dependent alterations of male reproductive functions have become increasingly obvious.
+ Alterations of the endocrine testicular function have been reviewed by Juul and Skakkebaek (2002) in this journal; here we focus on the following questions: (i) do semen parameters show age-dependent alterations?
+ (ii) is there a male contribution to reduced fertility and fecundity of older couples?
+ (iii) is there a genetic risk for offspring attributable to increased paternal age?
+ Materials and methods We reviewed the literature by a PubMed (http://www.pubmed.de/data/nlm.link.html) search using the key words ‘ageing male AND fertility*’; or fecundity* or sperm*; ‘paternal age AND fertility*’; or fecundity*; ‘ageing male AND chromosomal anomalies*’; or aneuploidies*.
+ Search criteria were limited to studies in humans published in English or German.
+ We searched cited references in retrieved articles and reviewed relevant publications we have collected over 30 years.
+ Book chapters and systematic reviews were also included because they provide a more extensive overview.
+ Age-dependent alterations in testes and semen Age-dependent alterations of semen parameters may have several causes.
+ In addition to age per se, factors such as urogenital infections, vascular diseases or an accumulation of toxic substances may be responsible for a deterioration in semen parameters.
+ Most studies are retrospective and rarely include males &gt;60 years (Nieschlag et al., 1982).
+ An overview of the studies is presented in Table I.
+ They clearly indicate a decrease of semen volume and sperm motility with age, when only those studies controlling for length of abstinence are included.
+ Concerning semen volume, five studies of infertile (Rolf et al., 1996; Andolz et al., 1999; Rolf et al., 2002) or healthy men (Fisch et al., 1996; Eskenazi et al., 2003) found a decrease with age.
+ This decrease ranges between 0.5% per year (Andolz et al., 1999) and a relative decrease in semen volume of 20% when comparing 50 year old with 30 year old men (Eskenazi et al., 2003).
+ The only study which controlled for length of abstinence but failed to detect a significant change of semen volume with age included only men up to an age of 50 years (Schwartz et al., 1983).
+ The bulk of semen volume is derived from the seminal vesicles, and one of their secretions, fructose, also decreases with age whereas zinc and α-glucosidase, secreted by the prostate and epididymis respectively, remain constant over the age range (Rolf et al., 1996).Six of seven studies which adjusted for time of abstinence found a significant decrease in sperm motility associated with age and a yearly decrease ranging between 0.17% (Fisch et al., 1996) and 0.7% (Eskenazi et al., 2003).
+ These studies were performed in sperm donors (Schwartz et al., 1983; Auger et al., 1995; Fisch et al., 1996; Eskenazi et al., 2003) as well as in infertile patients (Rolf et al., 1996; Andolz et al., 1999) and three of these studies adjusted for confounding factors (Auger et al., 1995; Andolz et al., 1999; Eskenazi et al., 2003).When focusing on sperm concentration, abstinence-adjusted studies do not provide a uniform picture.
+ A significant age-dependent decrease (Auger et al., 1995; Eskenazi et al., 2003) as well as constant values over the age range (Schwartz et al., 1983) or even a non-significant age-dependent increase with age (Fisch et al., 1996) have been detected in healthy men.
+ Sperm concentration in infertile patients increases (Rolf et al., 1996; Andolz et al., 1999) or remains unaltered (Rolf et al., 2002), as indicated in abstinence-adjusted studies.
+ Total sperm count was calculated only in two of these studies and this decreases with age in fertile men (Eskenazi et al., 2003) but remains constant in infertile men (Rolf et al., 1996).Concerning sperm morphology, four studies found a significant and five studies found a non-significant deterioration with age in both fertile and infertile patients; five studies found no relation between age and morphology.
+ As methodologically stronger studies with high numbers and adjustment for confounding factors reflect a decrease of normal morphology with age, this finding may be accepted as evidence-based (Kidd et al., 2001).
+ The decrease per annum ranges between 0.2% (Andolz et al., 1999) and 0.9% (Auger et al., 1985).All reported changes of histological and seminal parameters develop gradually without a sudden age threshold.
+ The alterations in semen parameters fall within normal ranges.
+ Nevertheless, the age-dependent alterations of testicular histology and semen parameters are accompanied by a significant increase in FSH (Nieschlag et al., 1982) and a slight but significant decrease in inhibin B (Baccarelli et al., 2001; Mahmoud et al., 2003), which are also found in men with apparently normal semen parameters.
+ Fertility of ageing men Undoubtedly, male fertility is basically maintained until very late in life, and, in addition to anecdotal reports, it has been documented scientifically up to an age of 94 years (Seymour et al., 1935).
+ Age-dependent decreases of fertility in couples are usually attributed to female ageing, and indeed the strong female age effect, and the fact that male and female age are correlated, make studies on male age effect on fertility difficult.
+ Besides female age, further confounders, such as reduced coital frequency, an increasing incidence of erectile dysfunction and smoking habits have to be considered in studies which analyse male fertility.
+ In a large survey of Italian men, the frequency of erectile dysfunction rose from 4.6% in men 74 years (Mirone et al., 2004).
+ Cigarette smoking is not only associated with infertility but is a strong predictor of erectile dysfunction.
+ Smoking doubled the likelihood of moderate or complete erectile dysfunction after a median follow-up interval of 8.9 years in the Massachusetts Male Aging Study (Feldman et al., 2000).All studies which focused on a non-clinical population found a significant negative relationship between male age and fertility of the couple.According to descriptive birth rate data for the Irish population prior to 1911, male fertility declines almost linearly after the age of 42.5 years (Anderson, 1975).
+ In a Mormon birth cohort with a pattern of young marriage, a moderately negative effect of the father's ageing was also detected (Mineau and Trussell, 1982) and the same is true for developing countries, such as Kenya and Syria (Goldman and Montgomery, 1989).
+ All these studies were adjusted for female age and marital duration, which is negatively associated with coital frequency (Weinstein and Stark, 1994).In a current study from Britain (Ford et al., 2000) the odds ratio for conception within 12 months decreases by 3% per year of the man's age (P 45 years old are 4.6-fold more likely to have a time to pregnancy (TTP) of &gt;1 year relative to men aged 35 years is a well-known risk factor for miscarriages but paternal age ≥40 years is also a risk factor for spontaneous abortion (de la Rochebrochard and Thonneau, 2002).
+ A retrospective study of a large sample of European couples analysed the risk of difficulties (due to adverse pregnancy outcome, i.e.
+ ectopic pregnancy, miscarriage or stillbirth or due to delayed conception) and the risk of delay in pregnancy onset (de la Rochebrochard and Thonneau, 2003).
+ Both indicators of infertility are increased in couples with women aged 35–39 years and paternal age ≥40 years compared to paternal age 30 years old and concerning pregnancy onset when pregnancy is delayed beyond female age &gt;35 years.
+ Risk of delay in pregnancy onset and especially of miscarriage is highest when both partners are advanced in age (de la Rochebrochard and Thonneau, 2002, 2003).
+ The risks for miscarriage for three different couple-age classes, i.e.
+ standard risk, significantly increased risk (‘high zone’) and a major risk increase (‘highest zone’) are summarized in Figure 2.
+ Age-related changes were also found in a prospective study which estimated day-specific probabilities for pregnancy relative to ovulation (Dunson et al., 2002).
+ Frequency of sexual intercourse was monitored by sexual diaries and ovulation was based on basal body temperature measurements (Figure 3).
+ According to this study, fertility for men aged &gt;35 years is significantly reduced and the age effect of men aged 35–40 years is about the same as when intercourse frequency drops from twice per week to once per week (Dunson et al., 2004).In studies dealing with subfertile couples, a significant decrease in pregnancy rates (Rolf et al., 1996) or increase in TTP (Olson, 1990) were observed with female but not with male age, possibly indicating that male age-dependent alterations are masked by the infertility as such.With methods of assisted reproduction, prerequisites for natural conception such as motility or fertilizing capacity are circumvented.
+ The more invasive the treatment, the less important male age appears: success rates of ISCI (Spandorfer et al., 1998) or IVF (Piette et al., 1990; Gallardo et al., 1996; Paulson et al., 2001) are not associated with male age.
+ On the other hand the success rate of intrauterine insemination (IUI), a method which requires much higher quality and capability of sperm, is related to male age (Mathieu et al., 1995; Brzechffa and Buyalos, 1997).However, when we analysed data from the German IVF register from 1998 to 2002, we found a significantly reduced pregnancy rate per embryo transfer in couples with male age ≥50 years and female age between 31 and 40 years, compared to couples with a male age 30% for women in their forties (Hassold and Chiu, 1985), so that advanced maternal age represents an indication for prenatal chromosome analysis via amniocentesis or chorionic villus sampling (e.g.
+ Bundesärztekammer, 1998).On the other hand, early observations also associate paternal age with certain syndromes (Penrose, 1955).
+ Meanwhile it has become evident that some mutations, consisting of single base substitutions in three different genes: RET, FGFR2 (fibroblast growth factor receptor 2) and FGFR3 (fibroblast growth factor receptor 3), are exclusively of paternal origin and increase non-linearly but sharply with male age (for review, see Crow, 2000).
+ They remain in meiotic arrest and continue meiosis in adulthood when ovulation has taken place.
+ It has been estimated that 30 spermatogonial stem cell divisions take place before puberty, when they begin to undergo meiotic divisions.
+ From then on, 23 mitotic divisions per year occur, resulting in 150 replications by the age of 20 years and 840 replications by the age of 50 years (Crow, 2000).
+ Because of these numerous divisions of stem cells, older men may have an increased risk of errors in DNA transcription.The association between elevated paternal age and serious birth defects is the reason why the age of semen donors is limited to 40 years in certain countries (American Society for Reproductive Medicine, 1998; British Andrology Society, 1999).
+ Conversely, male age is not an indicator for prenatal diagnosis.
+ The relevance of this will be discussed in the following sections.
+ Numerical chromosome disorders Aneuploidy, the presence of an extra or missing chromosome, is the leading genetic cause of pregnancy loss.
+ Aneuploidies are detected in 35% of spontaneous abortions, in 4% of stillbirths and in 0.3% of live births (Hassold and Hunt, 2001).
+ Among spontaneous abortions, Turner's syndrome (45,X) and trisomy 16, 21 and 22 are the most prevalent aneuploidies.
+ In live births, an additional sex chromosome (XXX; XXY; XYY) or an additional chromosome 21, followed by trisomy 13 or 18, are most common.
+ In general, aneuploidies arise by the process of non-disjunction, i.e.
+ the failure of paired chromosomes to separate in the first meiotic division of maternal meiosis, whereas some chromosomes show a significant proportion of paternal and/or maternal II errors (Eichenlaub-Ritter, 1996; Griffin, 1996).
+ The aneuploidy rate of oocytes has been reported to be in the range of 13.2% (Jacobs, 1992).
+ The disomy frequency was calculated to be 0.26% for the sex chromosomes and 0.15% for the autosomes with an exception for chromosomes 14, 21 and 22 which display higher disomy frequencies (for review, see Shi and Martin, 2000).
+ Studies which analysed the age-dependent alteration of aneuploidy frequency in chromosomes are severely limited due to low case numbers.
+ However, one of these studies found an increase in XY frequency in sperm from older infertile (but normozoospermic) men, compared to a group of younger men without known fertility problems (Asada et al., 2000), so that their results are possibly not only related to age effects.
+ Interestingly, the age-dependent increase of XY disomy was also detected in sperm from fathers of boys with Klinefelter's syndrome (Lowe et al., 2001), irrespective of paternal or maternal inheritance of the extra X chromosome (Eskenazi et al., 2002).
+ Focusing on fathers of boys with paternally derived Klinefelter's syndrome, only one study demonstrated increased paternal age compared to maternally inherited Klinefelter's syndrome (Lorda-Sanchez et al., 1992), whereas the other studies did not confirm a paternal age effect (Carothers and Filippi, 1988; Jacobs et al., 1988; MacDonald et al., 1994; Thomas et al., 2000).
+ Fifty per cent of Klinefelter's syndrome cases are of paternal origin and other gonosomal aneuploidies are even more often paternally inherited in live births, as are 80% of Turner's syndrome cases (45,X) and 100% of XYY karyotypes (Lorda-Sanchez et al., 1992).
+ None of these syndromes is related to paternal age (Bordson and Leonardo, 1991).
+ Similarly the incidence of autosomal aneuploidies, such as trisomy 13, 16 and 18, is independent of paternal age (Hatch et al., 1990; Bordson and Leonardo, 1991).The paternal age effect for trisomy 21 remains to be elucidated.
+ Early studies with small sample sizes reflect different results in the same study population depending on the method of statistical analysis (Hook and Cross, 1982; Stene et al., 1987).
+ With one exception (Stene et al., 1981), most studies analysing prenatal diagnosis data find no paternal age effect (Roth et al., 1983; Ferguson-Smith and Yates, 1984; Cross and Hook, 1987).
+ In spontaneous abortions a non-significant paternal age effect was detected (Hatch et al., 1990) and in live births, no age effect (Regal et al., 1980; Roecker and Huether, 1983; de Michelena et al., 1993; Stoll et al., 1998) or a significant paternal age effect (McIntosh et al., 1995; Fisch et al., 2003) were evident.
+ In a further study which included stillbirths, a weak but non-significant paternal age effect was observed (Kazaura and Lie, 2002).
+ A further study indicated an effect of donor age on the incidence of trisomy 21 after artificial insemination with frozen donor sperm (Thepot et al., 1996).
+ It should be kept in mind that only 10% of Down's syndrome patients receive the excess chromosome from their father (Hassold and Sherman, 2000), so that an age effect could be confined to this small category of cases and subtle age effects might go undetected unless those derived paternally are considered separately.
+ However, with respect to paternally inherited Down's syndrome cases, no paternal age effect became evident (Hook and Regal, 1984).Moreover, it is difficult to identify whether there is an additional paternal age effect, due to the steep maternal age effect.
+ Paternal age effect was seen in association with a maternal age of ≥35 years, so that a paternal age effect in aged couples can no longer be neglected concerning trisomy 21, whereas other autosomal or sex chromosomal aneuploidies are not associated with increased paternal age (Table II).
+ Structural chromosomal anomalies Structural chromosomal anomalies result from chromosomal breakage and the following abnormal rearrangement within the same or within different chromosomes.
+ In 84% of cases de novo structural aberrations are paternal in origin (Olsen and Magenis, 1988) and they are found in 2% of spontaneous abortions and in 0.6% of live births (Jacobs, 1992).
+ Cytogenetic studies on structural chromosomal anomalies in sperm are rare but consistently describe an increase of mutations with age (Martin and Rademaker, 1987; Estop et al., 1995; Sartorelli et al., 2001).
+ FISH was used for the structural analysis of individual chromosomes: duplications and deletions for the centromeric and subtelomeric regions of chromosome 9 increase significantly with age (Bosch et al., 2003) as do deletions of the centromere of chromosome 1 (McInnes et al., 1998).
+ Despite these age-dependent structural alterations in sperm, no increase of de novo structural chromosomal anomalies has been detected in newborns from older fathers (Hook et al., 1984).
+ However, it is assumed that older fathers more often bequeath balanced structural chromosomal anomalies to their offspring than younger fathers (Hook et al., 1984).
+ Autosomal dominant diseases Achondroplasia, the most common form of dwarfism, is the first genetic disorder that was hypothesized to have a paternal age component (Penrose, 1955).
+ Meanwhile further autosomal dominantly inherited diseases have been shown to be the result of paternally inherited mutations and to be associated with increasing paternal age, such as multiple endocrine neoplasia type 2B and craniosynostotic diseases such as Apert's syndrome, Crouzon's syndrome and Pfeiffer's syndrome, which are characterized by a premature fusion of sutures of the skull (Risch et al., 1987; Carlson et al., 1994; Moloney et al., 1996; Wilkin et al., 1998; Glaser et al., 2000).
+ Achondroplasia occurs between 1 in 15 000 and 40 000 live births (Vajo et al., 2000).
+ It is caused by two mutations at the same nucleotide 1138 of the FGFR 3 gene, both resulting in the substitution of arginine for the glycine residue at position 380 in the protein.
+ Apert's syndrome has a birth prevalence of ∼1 in 70 000 (Cohen et al., 1992; Tolarova et al., 1997) and is due to two mutations in the FRGF 2 gene with a C-to-G transversion at position 755 and 758 (Glaser et al., 2003).
+ Apert's syndrome and achondroplasia have been amenable to direct sperm DNA mutation analysis (Tiemann-Boege et al., 2002; Glaser et al., 2003; Goriely et al., 2003) and both are characterized by an age-dependent increase of mutations in sperm, but there are some peculiarities.The age-related increase of the mutation for achondroplasia in sperm is lower than expected (Figure 5) and does not explain the exponential increase of the disease with paternal age (Tiemann-Boege et al., 2002).
+ This discrepancy might be explained by a selective process so that the mutant spermatozoon is more likely to fertilize an oocyte.
+ Another possible reason is that, with the exception of four cases, mutation analysis was not performed in sperm of fathers of children with achondroplasia.
+ They might constitute a group with distinct mutation properties.
+ In fact, in fathers of children with Apert's syndrome, the increased frequency of mutations in sperm mirrors the paternal age effect of the disease, whereas fathers of unaffected children reveal a lower mutation frequency in sperm (Glaser et al., 2003).
+ Goriely et al.
+ (2003) concluded that the apparently high mutation frequency for Apert's syndrome in older men is caused by a selection of mutant spermatogonia before the start of meiosis.
+ They detected a mutation frequency in sperm which corresponds to the age-dependent increase of the disease.
+ The results were independent of whether the fathers had children with Apert's syndrome or not.
+ The mutation frequency of Apert's syndrome is constant with age in leukocytes (Glaser et al., 2003; Goriely et al., 2003), suggesting that the increase of mutations or the selection of mutations is a tissue-specific effect of the testis.For sporadic cases of Crouzon's or Pfeiffer's syndrome, 11 different mutations of the FGFR 2 gene are responsible, indicating that, unlike Apert's syndrome or achondroplasia, these are genetically heterogeneous conditions (Glaser et al., 2000).
+ These mutations also arise in the male germ line and advanced paternal age was noted for fathers of those patients.Other mutations in the FGFR 3 gene have been identified as a cause of thanatophoric dysplasia, the most common type of neonatal lethal osteochondrodysplasias and characterized by extremely short ribs, tubular bones and macrocephaly (Sahinoglu et al., 2003).
+ The increase with paternal age is exponential (Orioli et al., 1995).The relationship between mutation frequency and paternal age is heterogeneous among autosomal dominantly inherited diseases (Risch et al., 1987).
+ In contrast to the above-mentioned diseases, osteogenesis imperfecta, neurofibromatosis or bilateral retinoblastoma show a weak paternal age effect (Riccardi et al., 1984; Risch et al., 1987; Jadayel et al., 1990; Orioli et al., 1995; Sivakumaran et al., 2000).
+ This may be due to the fact that a significant fraction of new mutations is not base substitutions (for review, see Crow, 2000).
+ Many of the mutations of the neurofibromatosis gene are intragenic deletions.
+ These deletions are not age-dependent because they occur by mechanisms other than the base substitutions and are maternally derived in 16 of 21 cases (Lazaro et al., 1996).Due to this heterogeneity of the paternal age effect in autosomal dominant diseases, the risk estimates proposed by Friedman for paternal age and autosomal dominant mutations may be overestimated (Friedman, 1981; Hook, 1986).
+ Friedman calculated a risk for autosomal dominant diseases of 0.3–0.5% among offspring of fathers aged ≥40 years.
+ This risk is comparable with the risk of Down's syndrome for 35–40 year old women.
+ However, the calculation was based on the assumption that the paternal age effect found in achondroplasia is typical of all autosomal dominant diseases.Currently, prenatal screening is not possible for all autosomal dominant diseases (American Colloge of Obstetricians and Gynecologists, Committee Opinion, 1997), as there are plenty of mutations to be considered.
+ At least 154 paternally derived mutations have been analysed in FGFR3, FGFR2 and RET (Crow, 2000).
+ Achondroplasia is almost never detected on prenatal ultrasound before the third trimester and a reliable sonographic diagnosis of fetal de novo skeletal dysplasias is rarely possible (Mesoraca et al., 1996; Modaff et al., 1996).
+ Taken together, prenatal screening for paternally transmitted autosomal dominant diseases is not yet performed routinely.
+ Genetic diseases of complex aetiology This section focuses on diseases which are caused by genetic as well as environmental components.
+ Specifically, congenital heart defects belong to this category.
+ In a retrospective analysis of 4110 cases, an increasing risk with paternal age was found for ventricular septal defects, atrial septal defects and patent ductus arteriosus (Olshan et al., 1994).
+ It was estimated that among men aged &gt;35 years, ∼5% of cases may be due to advanced paternal age, possibly through dominant mutations.
+ A further analysis of paternal age in relation to birth defects indicated an odds risk for fathers aged ≥40 years relative to those 34 years, thereby supporting the multifactorial aetiology of birth defects (Ewing et al., 1997).Similarly conflicting are the data for Alzheimer's disease.
+ Four studies conclude that paternal age is a risk factor (Powell and Folstein, 1984; Urakami et al., 1989; Whalley et al., 1995; Bertram et al., 1998).
+ One of them found an increased paternal age associated with the disease only in men (Whalley et al., 1995) and another showed a positive association only in patients without a major gene for Alzheimer's disease (Bertram et al., 1998).
+ Four studies found no association between paternal age and Alzheimer's disease (Corkin et al., 1983; Hofman et al., 1990; Fratiglioni et al., 1993; Ptok et al., 2000).
+ These inconsistent results may be due to small sample sizes of the studies or due to the genetic heterogeneity of the disease.There are more conclusive data with regard to schizophrenia: all studies identified an increased risk of schizophrenia with paternal age (Bertranpetit and Fananas, 1993; Malaspina et al., 2001; Dalman and Allebeck, 2002).
+ Patients without a family history of schizophrenia had significantly older fathers than familial patients, so that de novo mutations were considered responsible (Malaspina et al., 2002).
+ Pre-eclampsia, which is considered to be a risk factor for schizophrenia, is also associated with paternal age (Harlap et al., 2002).Besides the above-mentioned risk for retinoblastoma, advanced paternal age increases the risk of other cancers in offspring.
+ According to the Swedish Family-Cancer Database, there is a marginal effect of paternal age on the incidence of sporadic breast and sporadic nervous system cancer in offspring (Hemminki and Kyyronen, 1999).
+ A weak association between paternal age and death from breast cancer was confirmed by another Swedish study (Holmberg et al., 1995).
+ The association between advanced paternal age and acute lymphoblastic leukaemia is equivocal: it was deduced from two studies (Dockerty et al., 2001; Murray et al., 2002) but rejected by another (Hemminki and Kyyronen, 1999).
+ Using data from the Framingham study, an association between paternal age and the son's risk of prostate cancer was found (Zhang et al., 1999).
+ The association of paternal age with early onset prostate cancer ( 8500 persons from aristocratic families found that daughters of fathers aged &gt;50 years died 4.4 years earlier compared to daughters of younger fathers (20–29 years) (Gavrilov et al., 1997).
+ The authors speculate that genes responsible for longevity are located on the X chromosome and may acquire more mutations during longer paternal life.A syndrome of unknown cause which is associated with significantly higher paternal age at conception is the CHARGE syndrome (Tellier et al., 1996).
+ The syndrome refers to a non-random clustering of malformations, such as ocular coloboma, heart malformation, choanal atresia, retarded growth, malformations of the central nervous system, genital hypoplasia, ear abnormalities or deafness (Pagon et al., 1981).
+ Environmental factors could be excluded whereas genetic factors are suspected but could not yet be identified (Tellier et al., 1998).
+ Conclusion Although based on a small number of cases, the data presented for testicular morphology, semen parameters and fertility in ageing males are conclusive and reflect a gradual deterioration with age within a broad individual spectrum.
+ Most studies suggest that reduced fertility begins to become evident in the late thirties in men.
+ Increased male age is associated with an increased risk of miscarriages and both the risk of infertility and the risk of miscarriage strongly depend on female age.
+ Among couples composed of a woman aged 35–39 years, the adjusted odds ratio for delay in pregnancy onset (failure to conceive within 12 months) for men ≥40 years compared to men 30 years; the effect on pregnancy onset becomes relevant in women aged &gt;35 years (de la Rochebrochard and Thonneau, 2003).Advancing paternal age is associated with diseases of complex aetiology such as schizophrenia and with autosomal dominant inherited diseases such as achondroplasia and Apert's syndrome.
+ The literature also indicates an increased risk for trisomy 21.Couples should be aware of these age-dependent alterations in fertility and predisposition to genetic risks.
+ They should be informed, however, that the male contribution to reduced fertility is less pronounced than the female's and that the absolute risk for the aforementioned genetic disturbances is low.
+ In addition, biological disadvantage may to a degree be balanced by social advantage, as it has been shown that children born to older parents do better at school than do those of very young parents (Zybert et al., 1978; Cohen et al., 1980).Although at the moment increased paternal age is not an indication for prenatal diagnosis, there may be further developments in the future.
+ Technical progress will resolve the conflicting data related to the effect of paternal age in achondroplasia and Apert's syndrome and the corresponding mutation in sperm.
+ Mutations and relevant environmental factors in diseases with complex traits still have to be identified and the mechanisms and relevance of DNA damage in sperm with age have to be clarified.
+ Other open questions, e.g.
+ concerning sperm parameters, influence of paternal age on assisted reproduction and on Alzheimer's disease will be answered by studies with more cases.
+ The increasing number of children born to older fathers will allow more highly powered studies on paternal age effects on the offspring, but will also increase the need to identify those men who carry an increased risk for affected children.
+ Birth data of German mothers aged &gt;50 years and German fathers &gt;70 years are represented as one dot respectively.
+ (Updated from Rolf and Nieschlag, 2000.
+ Birth data of German mothers aged &gt;50 years and German fathers &gt;70 years are represented as one dot respectively.
+ (Updated from Rolf and Nieschlag, 2000.)
+ Figure 2.Open in new tabDownload slideMiscarriage risk for couples in different age groups.
+ The adjusted odds ratio and 95% confidence intervals of three couple-age zones are presented.
+ (With permission from de la Rochebrochard and Thonneau, 2002.
+ )Figure 2.Open in new tabDownload slideMiscarriage risk for couples in different age groups.
+ The adjusted odds ratio and 95% confidence intervals of three couple-age zones are presented.
+ (With permission from de la Rochebrochard and Thonneau, 2002.)
+ Figure 3.Open in new tabDownload slideProbability of clinical pregnancy following intercourse on a given day relative to ovulation for women of three different age groups (A: 19–26 years; B: 27–34 years; C: 35–39 years) with average fertility having partners of the same age (—) or 5 years older (- - -).
+ (With permission from Dunson et al., 2002.
+ )Figure 3.Open in new tabDownload slideProbability of clinical pregnancy following intercourse on a given day relative to ovulation for women of three different age groups (A: 19–26 years; B: 27–34 years; C: 35–39 years) with average fertility having partners of the same age (—) or 5 years older (- - -).
+ (With permission from Dunson et al., 2002.)
+ Figure 4.Open in new tabDownload slidePregnancy/embryo transfer (%) in relation to the couples' age undergoing IVF or ICSI.
+ [Data compiled from the German IVF Register (DIR) 1998–2002.
+ ]Figure 4.Open in new tabDownload slidePregnancy/embryo transfer (%) in relation to the couples' age undergoing IVF or ICSI.
+ [Data compiled from the German IVF Register (DIR) 1998–2002.]
+ Figure 5.Open in new tabDownload slideIncrease of spontaneous cases of achondroplasia with paternal age and frequency of FGFR 3 mutations in sperm.
+ (With permission from Tiemann-Boege et al., 2002.
+ )Figure 5.Open in new tabDownload slideIncrease of spontaneous cases of achondroplasia with paternal age and frequency of FGFR 3 mutations in sperm.
+ (With permission from Tiemann-Boege et al., 2002.)
+ Table I.Male age and semen parameters: overview of published data Male category and reference
+    .
+ No.
+ of subjects
+    .
+ Male age (years)
+    .
+ Age effect on
+    .
+ .
+ .
+ .
+ .
+ (n)
+    .
+ .
+ Semen volume
+    .
+ Sperm motility
+    .
+ Sperm morphology
+    .
+ Sperm concentration
+    .
+ Am J Obstet Gynecol 189, 901–915.de Michelena MI, Burstein E, Lama JR and Vasquez JC (1993) Paternal age as a risk factor for Down syndrome.
+ Am J Med Genet 45, 679–682.Dockerty JD, Draper G, Vincent T, Rowan SD and Bunch KJ (2001) Case-control study of parental age, parity and socioeconomic level in relation to childhood cancers.
+ Int J Epidemiol 30, 1428–1437.Doepfmer R (1960) Die männliche Fertilität bei Jugendlichen und Greisen.
+ Dtsch Med Wochenschr 11, 427–430.Dondero F, Mazzilli F, Giovenco P, Lenzi A and Cerasaro M (1985) Fertility in elderly men.
+ J Endocrinol Invest 8 (Suppl 2), 87–91.Drost JB and Lee WR (1995) Biological basis of germline mutation: comparisons of spontaneous germline mutation rates among drosophila, mouse, and human.
+ Environ Mol Mutagen 25 (Suppl 26), 48–64.Dunson DB, Colombo B and Baird D (2002) Changes with age in the level and duration of fertility in the menstrual cycle.
+ Hum Reprod 17, 1399–1403.Dunson DB, Baird DD and Colombo B (2004) Increased infertility with age in men and women.
+ Obstet Gynecol 103, 51–56.Eichenlaub-Ritter U (1996) Parental age-related aneuploidy in human germ cells and offspring: a story of past and present.
+ Environ Mol Mutagen 28, 211–236.Eskenazi B, Wyrobek AJ, Kidd SA, Lowe X, Moore D, 2nd, Weisiger K and Aylstock M (2002) Sperm aneuploidy in fathers of children with paternally and maternally inherited Klinefelter syndrome.
+ Hum Reprod 17, 576–583.Eskenazi B, Wyrobek AJ, Sloter E, Kidd SA, Moore L, Young S and Moore D (2003) The association of age and semen quality in healthy men.
+ Am J Hum Genet 56, 452–460.Ewing CK, Loffredo CA and Beaty TH (1997) Paternal risk factors for isolated membranous ventricular septal defects.
+ Am J Med Genet 71, 42–46.Feldman HA, Johannes CB, Derby CA, Kleinman KP, Mohr BA, Araujo AB and McKinlay JB (2000) Erectile dysfunction and coronary risk factors: prospective results from the Massachusetts male aging study.
+ Prev Med 30, 328–338.Ferguson-Smith MA and Yates JR (1984) Maternal age specific rates for chromosome aberrations and factors influencing them: report of a collaborative European study on 52 965 amniocenteses.
+ Prenat Diagn 4, 5–44.Fisch H, Goluboff ET, Olson JH, Feldshuh J, Broder SJ and Barad DH (1996) Semen analysis in 1 283 men from the United States over a 25-year period: no decline in quality.
+ Fertil Steril 65, 1009–1014.Fisch H, Hyun G, Golden R, Hensle TW, Olsson CA and Liberson GL (2003) The influence of paternal age on Down syndrome.
+ J Urol 169, 2275–2278.Ford WCL, North K, Taylor H, Farrow A, Hull MGR and Golding J ALSPAC study team, (2000) Increasing paternal age is associated with delayed conception in a large population of fertile couples: evidence for declining fecundity in older men.
+ Hum Reprod 15, 1703–1708.Fratiglioni L, Ahlbom A, Viitanen M and Winblad B (1993) Risk factors for late-onset Alzheimer's disease: a population-based, case-control study.
+ Ann Neurol 33, 258–266.Friedman JM (1981) Genetic disease in the offspring of older fathers.
+ Obstet Gynecol 57, 745–749.Gallardo E, Simón C and Levy M (1996) Effect of age on sperm fertility potential: oocyte donation as a model.
+ Fertil Steril 66, 260–264.Gavrilov LA, Gavrilova NS, Kroutko VN, Evdokushkina GN, Semyonova VG, Gavrilova AL, Lapshin EV, Evdokushkina NN and Kushnareva YE (1997) Mutation load and human longevity.
+ Mutat Res 377, 61–62.Glaser RL, Jiang W, Boyadjiev SA, Tran AK, Zachary AA, Van Maldergem L, Johnson D, Walsh S, Oldridge M, Wall SA et al.
+ (2000) Paternal origin of FGFR2 mutations in sporadic cases of Crouzon syndrome and Pfeiffer syndrome.
+ Am J Hum Genet 66, 768–777.Glaser RL, Broman KW, Schulman RL, Eskenazi B, Wyrobek AJ and Jabs EW (2003) The paternal-age effect in Apert syndrome is due, in part, to the increased frequency of mutations in sperm.
+ Am J Hum Genet 73, 939–947.Goldman N and Montgomery M (1989) Fecundability and husband's age.
+ Soc Biol 36, 146–166.Goriely A, McVean GA, Rojmyr M, Ingemarsson B and Wilkie AO (2003) Evidence for selective advantage of pathogenic FGFR2 mutations in the male germ line.
+ Science 301, 643–646.Griffin DK (1996) The incidence, origin, and etiology of aneuploidy.
+ Int Rev Cytol 167, 263–296.Griffin DK, Abruzzo MA, Millie EA, Sheean LA, Feingold E, Sherman SL and Hassold TJ (1995) Non-disjunction in human sperm: evidence for an effect of increasing paternal age.
+ Hum Mol Genet 4, 2227–2232.Guttenbach M, Kohn FM, Engel W and Schmid M (2000) Meiotic nondisjunction of chromosomes 1, 17, 18, X, and Y in men more than 80 years of Age.
+ Biol Reprod 63, 1727–1729.Haidl G, Jung A and Schill WB (1996) Ageing and sperm function.
+ Hum Reprod 11, 558–560.Handelsman DJ and Staraj S (1985) Testicular size: the effects of aging, malnutrition, and illness.
+ J Androl 6, 144–151.Harbitz TB (1973) Morphometric studies of the Sertoli cells in elderly men with special reference to the histology of the prostate.
+ Acta Pathol Microbiol Scand Sect A Pathol 81, 703–717.Harlap S, Paltiel O, Deutsch L, Knaanie A, Masalha S, Tiram E, Caplan LS, Malaspina D and Friedlander Y (2002) Paternal age and preeclampsia.
+ Epidemiology 13, 660–667.Hassan MA and Killick SR (2003) Effect of male age on fertility: evidence for the decline in male fertility with increasing age.
+ Fertil Steril 79(Suppl 3), 1520–1527.Hassold T and Chiu D (1985) Maternal age specific rates of numerical chromosome abnormalities with specifial reference to trisomy.
+ Hum Genet 70, 11–17.Hassold T and Hunt P (2001) To err (meiotically) is human: the genesis of human aneuploidy.
+ Nat Rev Genet 2, 280–291.Hassold T and Sherman S (2000) Down syndrome: genetic recombination and the origin of the extra chromosome 21.
+ Clin Genet 57, 95–100.Hatch M, Kline J, Levine B, Hutzler M and Wartburton D (1990) Paternal age and trisomy among spontaneous abortions.
+ Hum Genet 85, 355–361.Hemminki K and Kyyronen P (1999) Parental age and risk of sporadic and familial cancer in offspring: implications for germ cell mutagenesis.
+ Epidemiology 10, 747–751.Henkel R, Bittner J, Weber R, Huther F and Miska W (1999) Relevance of zinc in human sperm flagella and its relation to motility.
+ Fertil Steril 71, 1138–1143.Hermann M, Untergasser G, Rumpold H and Berger P (2000) Aging of the male reproductive system.
+ Exp Gerontol 35, 1267–1279.Hofman A, van Duijn CM, Schulte W, Tanja TA, Haaxma R, Lameris AJ and Saan RJ (1990) Is parental age related to the risk of Alzheimer's disease?
+ Br J Psychiat 157, 273–275.Holmberg L, Ekbom A, Calle E, Mokdad A and Byers T (1995) Parental age and breast cancer mortality.
+ Epidemiology 6, 425–427.Holstein AF (1989) Morphological evidence for the involution of spermatogenesis during senescence.
+ In Holstein AF (ed) Reproductive Biology and Medicine.
+ Diesbach, Berlin, Germany, pp 66–77.Holstein AF, Roosen-Junge EC and Schirren C (1988) Spermatogenesis in the aging testis.
+ In Holstein AF, Roosen-Junge EC, and Schirren C (eds) Illustrated Pathology of Human Spermatogenesis.
+ Grosse, Berlin, Germany, pp 195–238.Homonnai ZT, Fainman N, David MP and Paz GF (1982) Semen quality and sex hormone pattern of 39 middle aged men.
+ Andrologia 14, 164–170.Hook EB (1986) Paternal age and effects on chromosomal and specific locius mutations and on other genetic outcomes in offspring.
+ In Mastroianni L and Paulsen CA (eds) Ageing, Reproduction, and the Climacteric.
+ Plenum Publishing Corporation, New York, pp 117–146.Hook EB and Cross PK (1982) Paternal age and Down's syndrome genotypes diagnosed prenatally: no association in New York state data.
+ Hum Genet 62, 167–174.Hook EB and Regal RR (1984) A search for a paternal-age effect upon cases of 47,+21 in which the extra chromosome is of paternal origin.
+ Am J Hum Genet 36, 413–421.Hook EB, Schreinemachers DM, Willey AM and Cross PK (1984) Inherited structural cytogenetic abnormalities detected incidentally in fetuses diagnosed prenatally: frequency, parental-age associations, sex-ratio trends, and comparisons with rates of mutants.
+ Am J Hum Genet 36, 422–443.Irvine S, Cawood E, Richardson D, MacDonald E and Aitken J (1996) Evidence of deteriorating semen quality in the United Kingdom: birth cohort study in 577 men in Scotland over 11 years.
+ Br Med J 312, 467–471.Jacobs PA, Hassold TJ, Whittington E, Butler G, Collyer S, Keston M and Lee M (1988) Klinefelter's syndrome: an analysis of the origin of the additional sex chromosome using molecular probes.
+ Ann Hum Genet 52, 93–109.Jacobs PA (1992) The chromosome complement of human gametes.
+ Oxf Rev Reprod Biol 14, 47–72.Jadayel D, Fain P, Upadhyaya M, Ponder MA, Huson SM, Carey J, Fryer A, Mathew CG, Barker DF and Ponder BA (1990) Paternal origin of new mutations in von Recklinghausen neurofibromatosis.
+ Nature 428, 145–150.Johnson L (1986) Spermatogenesis and aging in the human.
+ J Androl 7, 331–354.Johnson L, Grumbles JS, Bagheri A and Petty CS (1990) Increased germ cell degeneration during postprophase of meiosis is related to increased serum follicle-stimulating hormone concentrations and reduced daily sperm production in aged men.
+ Biol Reprod 42, 281–287.Juul A and Skakkebaek NE (2002) Androgens and the ageing male.
+ Hum Reprod Update 8, 423–433.Jyothy A, Kumar KS, Mallikarjuna GN, Babu Rao V, Uma Devi B, Sujatha M and Reddy PP (2001) Parental age and the origin of extra chromosome 21 in Down syndrome.
+ J Hum Genet 46, 347–350.Kazaura MR and Lie RT (2002) Down's syndrome and paternal age in Norway.
+ Paediatr Perinat Epidemiol 16, 314–319.Keck C, Bramkamp G, Behre HM, Muller C, Jockenhoevel F and Nieschlag E (1995) Lack of correlation between cadmium in seminal plasma and fertility status of nonexposed individuals and two cadmium-exposed patients.
+ Reprod Toxicol 9, 35–40.Kidd SA, Eskenazi B and Wyrobek A (2001) Effects of male age on semen quality and fertility: a review of the literature.
+ Fertil Steril 75, 237–248.Kinakin B, Rademaker A and Martin R (1997) Paternal age effect of YY aneuploidy in human sperm, as assessed by fluorescence in situ hybridization.
+ Cytogenet Cell Genet 78, 116–119.Lazaro C, Gaona A, Ainsworth P, Tenconi R, Vidaud D, Kruyer H, Ars E, Volpini V and Estivill X (1996) Sex differences in the mutation rate and mutational mechanism in the NF gene in neurofibromatosis type 1 patients.
+ Hum Genet 98, 696–699.Lian ZH, Zack MM and Erickson JD (1986) Paternal age and the occurrence of birth defects.
+ Am J Hum Genet 39, 648–660.Loffredo CA, Hirata J, Wilson PD, Ferencz C and Lurie IW (2001) Atrioventricular septal defects: possible etiologic differences between complete and partial defects.
+ Teratology 63, 87–93.Lorda-Sanchez I, Binkert F, Maechler M, Robinson WP and Schinzel AA (1992) Reduced recombination and paternal age effect in Klinefelter syndrome.
+ Hum Genet 89, 524–530.Lowe X, Eskenazi B, Nelson DO, Kidd S, Alme A and Wyrobek AJ (2001) Frequency of XY sperm increases with age in fathers of boys with Klinefelter syndrome.
+ Am J Hum Genet 69, 1046–1054.Lubna P and Santoro N (2003) Age-related decline in fertility.
+ Endocrinol Metab Clin N Am 32, 669–688.Luetjens CM, Rolf C, Gassner P, Werny JE and Nieschlag E (2002) Sperm aneuploidy rates in younger and older men.
+ Hum Reprod 17, 1826–1832.MacDonald M, Hassold T, Harvey J, Wang LH, Morton NE and Jacobs P (1994) The origin of 47,XXY and 47,XXX aneuploidy: heterogeneous mechanisms and role of aberrant recombination.
+ Hum Mol Genet 3, 1365–1371.Mahmoud AM, Goemaere S, El-Garem Y, Van Pottelbergh I, Comhaire FH and Kaufman JM (2003) Testicular volume in relation to hormonal indices of gonadal function in community-dwelling elderly men.
+ J Clin Endocrinol Metab 88, 179–184.Malaspina D, Harlap S, Fennig S, Heiman D, Nahon D, Feldman D and Susser ES (2001) Advancing paternal age and the risk of schizophrenia.
+ Arch Gen Psychiat 58, 361–367.Malaspina D, Corcoran C, Fahim C, Berman A, Harkavy-Friedman J, Yale S, Goetz D, Goetz R, Harlap S and Gorman J (2002) Paternal age and sporadic schizophrenia: evidence for de novo mutations.
+ Am J Med Genet 114, 299–303.Martin RH and Rademaker AW (1987) The effect of age on the frequency of sperm chromosomal abnormalities in normal men.
+ Am J Hum Genet 41, 484–492.Martin JA, Hamilton BE, Sutton PD, Ventura SJ, Menacker F and Munson ML (2003) Births: final data for 2002.
+ Natl Vital Stat Rep 52, 1–113.Martin RH, Spriggs E, Ko E and Rademaker AW (1995) The relationship between paternal age, sex ratios, and aneuploidy frequencies in human sperm, as assessed by multicolor FISH.
+ Am J Hum Genet 57, 1395–1399.Mathieu C, Ecochard R, Bied V, Lornage J and Czyba JC (1995) Cumulative conception rate following intrauterine artificial insemination with husband's spermatozoa: influence of husband's age.
+ Hum Reprod 10, 1090–1097.McInnes B, Rademaker A and Martin R (1998) Donor age and the frequency of disomy for chromosomes 1, 13, 21 and structural abnormalities in human spermatozoa using multicolour fluorescence in-situ hybridisation.
+ Hum Reprod 13, 2489–2494.McIntosh GC, Olshan AF and Baird PA (1995) Paternal age and the risk of birth defects in offspring.
+ Epidemiology 6, 282–288.Mesoraca A, Pilu G, Perolo A, Novelli G, Salfi N, Lucchi A, Bovicelli L and Dallapiccola B (1996) Ultrasound and molecular mid-trimester prenatal diagnosis of de novo achondroplasia.
+ Prenat Diagn 16, 764–768.Mineau GP and Trussell J (1982) A specification of marital fertility by parents' age, age at marriage and marital duration.
+ Demography 19, 335–350.Mirone V, Ricci E, Gentile V, Basile Fasolo C and Parazzini F (2004) Determinants of erectile dysfunction risk in a large series of Italian men attending andrology clinics.
+ Eur Urol 45, 87–91.Mladenovic I, Micic S, Papic N, Genbacev O and Marinkovic B (1994) Sperm morphology and motility in different age populations.
+ Arch Androl 32, 197–205.Modaff P, Horton VK and Pauli RM (1996) Errors in the prenatal diagnosis of children with achondroplasia.
+ Prenat Diagn 16, 525–530.Moloney DM, Slaney SF, Oldridge M, Wall SA, Sahlin P, Stenman G and Wilkie AO (1996) Exclusive paternal origin of new mutations in Apert syndrome.
+ Nat Genet 13, 48–53.Murray L, McCarron P, Bailie K, Middleton R, Davey Smith G, Dempsey S, McCarthy A and Gavin A (2002) Association of early life factors and acute lymphoblastic leukaemia in childhood: historical cohort study.
+ Br J Cancer 86, 356–361.Nieschlag E, Lammers U, Freischem CW, Langer K and Wickings EJ (1982) Reproductive functions in young fathers and grandfathers.
+ J Clin Endocrinol Metab 55, 676–681.Oldereid NB, Thomassen Y, Attramadal A, Olaisen B and Purvis K (1993) Concentrations of lead, cadmium and zinc in the tissues of reproductive organs of men.
+ J Reprod Fertil 99, 421–455.Oldereid NB, Thomassen Y and Purvis K (1998) Selenium in human male reproductive organs.
+ Hum Reprod 13, 2172–2176.Olsen SD and Magenis RE (1988) Preferential paternal origin of de novo structural chromosome rearrangements.
+ In Daniel A (ed) The Cytogenetics of Mammalian Autosomal Rearrangements.
+ Alan R.Liss, New York, pp 583–599.Olshan AF, Schnitzer PG and Baird PA (1994) Paternal age and the risk of congenital heart defects.
+ Teratology 50, 80–84.Olson J (1990) Subfecundity according to the age of the mother and the father.
+ Dan Med Bull 37, 281–282.Orioli IM, Castilla EE, Scarano G and Mastroiacovo P (1995) Effect of paternal age in achondroplasia, thanatophoric dysplasia, and osteogenesis imperfecta.
+ Am J Med Genet 59, 209–217.Pagon RA, Graham JM Jr, Zonana J and Yong SL (1981) Coloboma, congenital heart disease, and choanal atresia with multiple anomalies: CHARGE association.
+ J Pediatr 99, 223–227.Paniagua R, Amat P, Nistal M and Martin A (1986) Ultrastructure of Leydig cells in human ageing testes.
+ J Anat 146, 173–183.Paniagua R, Nistal M, Amat P, Rodriguez MC and Martin A (1987) Seminiferous tubule involution in elderly men.
+ Biol Reprod 36, 939–947.Paulson RJ, Milligan RC and Sokol RZ (2001) The lack of influence of age on male fertility.
+ Am J Obstet Gynecol 184, 818–822, discussion 822-824.Penrose LS (1933) The relative effects of paternal and maternal age in mongolism.
+ J Genet 27, 219–224.Penrose LS (1955) Parental age and mutation.
+ Lancet 269, 312–313.Piette C, de Mouzon J, Bachelot A and Spira A (1990) In-vitro fertilization: influence of women's age on pregnancy rates.
+ Hum Reprod 5, 56–59.Powell D and Folstein MF (1984) Pedigree study of familial Alzheimer disease.
+ J Neurogenet 1, 189–197.Ptok U, Papassotiropoulos A, Maier W and Heun R (2000) Advanced parental age: a risk factor for Alzheimer's disease or depression in the elderly?
+ Int Psychogeriatr 12, 445–451.Regadera J, Nistal M and Paniagua R (1985) Testis, epididymis, and spermatic cord in elderly men.
+ Correlation of angiographic and histologic studies with systemic arteriosclerosis.
+ Arch Pathol Lab Med 109, 663–667.Regal RR, Cross PK, Lamson SH and Hook EB (1980) A search for evidence for a paternal age effect independent of a maternal age effect in birth certificate reports of Down's syndrome in New York state.
+ Am J Epidemiol 112, 650–655.Riccardi VM, Dobson CE, 2nd, Chakraborty R and Bontke C (1984) The pathophysiology of neurofibromatosis: IX.
+ Paternal age as a factor in the origin of new mutations.
+ Am J Med Genet 18, 169–176.Risch N, Reich EW, Wishnick MM and McCarthy JG (1987) Spontaneous mutation and parental age in humans.
+ Am J Hum Genet 41, 218–248.Robbins WA, Baulch JE, Moore D, 2nd, Weier HU, Blakey D and Wyrobek AJ (1995) Three-probe fluorescence in situ hybridization to assess chromosome X, Y, and 8 aneuploidy in sperm of 14 men from two healthy groups: evidence for a paternal age effect on sperm aneuploidy.
+ Reprod Fertil Dev 7, 799–809.Roecker GO and Huether CA (1983) An analysis for paternal-age effect in Ohio's Down syndrome births, 1970–1980.
+ Am J Hum Genet 35, 1297–1306.Rolf C and Nieschlag E (2000) The aging male.
+ In Nieschlag E and Behre HM (eds) Andrology, Male Reproductive Health and Dysfunction.
+ 2nd edn.
+ Springer, Heidelberg, Germany, pp 419–432.Rolf C, Behre HM and Nieschlag E (1996) Reproductive parameters of older couples compared to younger men of infertile couples.
+ Int J Androl 19, 135–142.Rolf C, Kenkel S and Nieschlag E (2002) Age-related disease pattern in infertile men: increasing incidence of infections in older patients.
+ Andrologia 34, 209–217.Roth MP, Feingold J, Baumgarten A, Bigel P and Stoll C (1983) Reexamination of paternal age effect in Down's syndrome.
+ Hum Genet 63, 149–152.Rousseaux S, Hazzouri M, Pelletier R, Monteil M, Usson Y and Sele B (1998) Disomy rates for chromosomes 14 and 21 studied by fluorescent in-situ hybridization in spermatozoa from three men over 60 years of age.
+ Mol Hum Reprod 4, 695–699.Sahinoglu Z, Uludogan M, Gurbuz A and Karateke A (2003) Prenatal diagnosis of thanatophoric dysplasia in the second trimester: ultrasonography and other diagnostic modalities.
+ Arch Gynecol Obstet 269, 57–61.Sallmen M and Lukkonen R (2001) Is the observed association between increasing paternal age and delayed conception an artefact?
+ Hum Reprod 16, 2027–2031.Sartorelli EM, Mazzucatto LF and de Pina-Neto JM (2001) Effect of paternal age on human sperm chromosomes.
+ Fertil Steril 76, 1119–1123.Schlüter, D (1978) Die endokrinen Organe der Über-Neunzigjährigen.
+ Dissertation, Universität Hamburg.Schwartz D, Mayaux MJ, Spira A, Moscato ML, Jouannet P, Czyglik F and David G (1983) Semen characteristics as a function of age in 833 fertile men.
+ Fertil Steril 39, 530–535.Seymour FI, Duffy C and Koerner A (1935) A case of authenticated fertility in a man, aged 94.
+ J Am Med Assoc 105, 1423–1424.Shi Q and Martin RH (2000) Aneuploidy in human sperm: a review of the frequency and distribution of aneuploidy, effects of donor age and lifestyle factors.
+ Cytogenet Cell Genet 90, 219–226.Sivakumaran TA, Ghose S, Kumar HAS and Kucheria K (2000) Parental age in Indian patients with sporadic hereditary retinoblastoma.
+ Ophthal Epidemiol 7, 285–291.Spandorfer SD, Avrech OM, Colombero LT, Palermo GD and Rosenwaks Z (1998) Effect of parental age on fertilization and pregnancy characteristics in couples treated by intracytoplasmic sperm injection.
+ Hum Reprod 13, 334–338.Statistisches Bundesamt Deutschland (2004a) http://www.destatis.de/basis/dbevoc/bevoctabl.htm.Statistisches Jahrbuch 2003 für die Bundesrepublik Deutschland (2003) Durchschnittliches Heiratsalter nach dem bisherigen Familienstand der Ehepartner.
+ In Statistisches Bundesamt (ed) Metzler-Poeschel, Stuttgart, p 70.Stene E, Stene J and Stengel-Rutkowski S (1987) A reanalysis of the New York State prenatal diagnosis data on Down's syndrome and paternal age effects.
+ Hum Genet 77, 299–302.Stene J, Stene E, Stengel-Rutkowski S and Murken JD (1981) Paternal age and Down's syndrome: data from prenatal diagnoses (DFG).
+ Hum Genet 59, 119–124.Stoll C, Alembik Y, Dott B and Roth MP (1998) Study of Down syndrome in 238 942 consecutive births.
+ Ann Genet 41, 44–51.Tellier AL, Lyonnet S, Cormier-Daire V, de Lonlay P, Abadie V, Baumann C, Bonneau D, Labrune P, Lacombe D and Le Merrer M (1996) Increased paternal age in CHARGE association.
+ Clin Genet 50, 548–550.Tellier AL, Cormier-Daire V, Abadie V, Amiel J, Sigaudy S, Bonnet D, de Lonlay-Debeney P, Morrisseau-Durand MP, Hubert P, Michel JL et al.
+ (1998) CHARGE syndrome: report of 47 cases and review.
+ Am J Med Genet 76, 402–409.Thepot F, Mayaux MJ, Czyglick F, Wack T, Selva J and Jalbert P (1996) Incidence of birth defects after artificial insemination with frozen donor spermatozoa: a collaborative study of the French CECOS Federation on 11 535 pregnancies.
+ Hum Reprod 11, 2319–2323.Thomas NS, Collins AR, Hassold TJ and Jacobs PA (2000) A reinvestigation of non-disjunction resulting in 47, XXY males of paternal origin.
+ Eur J Hum Genet 8, 805–808.Tiemann-Boege I, Navidi W, Grewal R, Cohn D, Eskenazi B, Wyrobek AJ and Arnheim N (2002) The observed human sperm mutation frequency cannot explain the achondroplasia paternal age effect.
+ Proc Natl Acad Sci USA 99, 14952–14957.Tolarova MM, Harris JA, Ordway DE and Vargervik K (1997) Birth prevalence, mutation rate, sex ratio, parents' age, and ethnicity in Apert syndrome.
+ Am J Med Genet 72, 394–398.Urakami K, Adachi Y and Takahashi K (1989) A community-based study of parental age at the birth of patients with dementia of the Alzheimer type.
+ Arch Neurol 46, 38–39.Vajo Z, Francomano CA and Wilkin DJ (2000) The molecular and genetic basis of fibroblast growth factor receptor 3 disorders: the achondroplasia family of skeletal dysplasias, Muenke craniosynostosis, and Crouzon syndrome with acanthosis nigricans.
+ Endocr Rev 21, 23–39.Wang C, Chan SY, Leung A, Ng RP, Ng M, Tang LC, Ma HK, Tsoi WL and Kwan M (1985) Cross-sectional study of semen parameters in a large group of normal Chinese men.
+ Int J Androl 8, 257–274.Weinstein M and Stark M (1994) Behavioral and biological determinants of fecundability.
+ Ann NY Acad Sci 709, 128–144.Whalley LJ, Thomas BM and Starr JM (1995) Epidemiology of presenile Alzheimer's disease in Scotland (1974-88) II.
+ Exposures to possible risk factors.
+ Br J Psychiatry 167, 732–738.Wilkin DJ, Szabo JK, Cameron R, Henderson S, Bellus GA, Mack ML, Kaitila I, Loughlin J, Munnich A, Sykes B et al.
+ (1998) Mutations in fibroblast growth-factor receptor 3 in sporadic cases of achondroplasia occur exclusively on the paternally derived chromosome.
+ Am J Hum Genet 63, 711–716.Wyrobek AJ, Aardema M, Eichenlaub-Ritter U, Ferguson L and Marchetti F (1996) Mechanisms and targets involved in maternal and paternal age effects on numerical aneuploidy.
+ Environ Mol Mutagen 28, 254–264.Zhang Y, Kreger BE, Dorgan JF, Cupples LA, Myers RH, Splansky GL, Schatzkin A and Ellison RC (1999) Parental age at child's birth and son's risk of prostate cancer.
+ The Framingham Study.
+ Am J Epidemiol 150, 1208–1212.Zybert P, Stein Z and Belmont L (1978) Maternal age and children's ability.
+ Percept Mot Skills 47, 815–818.
+ Human Reproduction Update Vol.
+ 10 No.
+ Spermatogonial stem cells: A story of self-renewal and differentiation.
+ Inclusion of African American/black adults in a pilot brain proteomics study of Alzheimer's disease.
+ Irritable bowel syndrome.
+ Close

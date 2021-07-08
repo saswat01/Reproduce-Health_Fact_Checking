@@ -1,0 +1,99 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link Skip directly to A-Z link Skip directly to A-Z link        Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People                    A-Z Index    ×  Submit            Search       Submit  
+    For a full list of topics: A-Z Index          Search Dropdown     Submit  
+    For a full list of topics: A-Z Index                 Emerging Infectious Disease journal ISSN: 1080-6059           Section Navigation         CDC Home                  Facebook Twitter LinkedIn Syndicate            
+   Volume 26, Number 2—February 2020
+   Perspective 
+  Middle East Respiratory Syndrome Coronavirus Transmission
+     
+      On This Page
+       MERS-CoV in Camels  Zoonotic Transmission  Human-to-Human Transmission  Conclusions  Cite This Article    
+      Figures
+       Figure    
+      Podcast
+        Listen to audio/Podcast    
+      Downloads
+       Article     Appendix      Article &amp; Appendix       RIS [TXT - 2 KB]        Altmetric     Metric Details      44  citations of this article
+      
+      EID Journal Metrics on Scopus    
+      Related Articles
+       Exposure of African Green Monkeys to MERS-CoV  Surveillance and Testing for MERS-CoV, Saudi Arabia  Pharmacologic Treatments for MERS  More articles on MERS     
+    Marie E. Killerby , Holly M. Biggs, Claire M. Midgley, Susan I. Gerber, and John T. Watson
+     Author affiliations: Centers for Disease Control and Prevention, Atlanta, Georgia, USA  Cite This Article  
+    Open modal
+      Abstract Middle East respiratory syndrome coronavirus (MERS-CoV) infection causes a spectrum of respiratory illness, from asymptomatic to mild to fatal.
+ MERS-CoV is transmitted sporadically from dromedary camels to humans and occasionally through human-to-human contact.
+ Current epidemiologic evidence supports a major role in transmission for direct contact with live camels or humans with symptomatic MERS, but little evidence suggests the possibility of transmission from camel products or asymptomatic MERS cases.
+ Because a proportion of case-patients do not report direct contact with camels or with persons who have symptomatic MERS, further research is needed to conclusively determine additional mechanisms of transmission, to inform public health practice, and to refine current precautionary recommendations.
+ Middle East respiratory syndrome (MERS) coronavirus (MERS-CoV) was first detected in Saudi Arabia in 2012 (1).
+ To date, &gt;2,400 cases globally have been reported to the World Health Organization (WHO), including &gt;850 deaths (case fatality rate ≈35%) (2).
+ Illness associated with MERS-CoV infection ranges from asymptomatic or mild upper respiratory illness to severe respiratory distress and death.
+ MERS-CoV is a zoonotic virus, and dromedary camels are a reservoir host (3–5).
+ Bats are a likely original reservoir; coronaviruses similar to MERS-CoV have been identified in bats (6), but epidemiologic evidence of their role in transmission is lacking.
+ Infection of other livestock species with MERS-CoV is possible (7); however, attempts to inoculate goats, sheep, and horses with live MERS-CoV did not produce viral shedding (8), and no epidemiologic evidence has implicated any species other than dromedaries in transmission.
+ Figure  Figure.
+ Summary of Middle East respiratory syndrome coronavirus transmission pathways.
+ Solid lines indicate known transmission pathways; dashed lines indicate possible transmission pathways for which supporting evidence is limited or unknown.
+ Sporadic zoonotic transmission from dromedaries has resulted in limited human-to-human transmission chains, usually in healthcare or household settings (9–14) (Figure).
+ MERS-CoV human cases result from primary or secondary transmission.
+ Primary transmission is classified as transmission not resulting from contact with a confirmed human MERS case-patient (15) and can result from zoonotic transmission from camels or from an unidentified source.
+ Conzade et al.
+ reported that, among cases classified as primary by the WHO, only 191 (54.9%) persons reported contact with dromedaries (15).
+ Secondary transmission is classified as transmission resulting from contact with a human MERS case-patient, typically characterized as healthcare-associated or household-associated, as appropriate.
+ However, many MERS case-patients have no reported exposure to a prior MERS patient or healthcare setting or to camels, meaning the source of infection is unknown.
+ Among 1,125 laboratory-confirmed MERS-CoV cases reported to WHO during January 1, 2015–April 13, 2018, a total of 157 (14%) had unknown exposure (15).
+ Although broad categories of exposure are associated with transmission (e.g., exposure to camels or to healthcare facilities with ill patients), exact mechanisms of MERS-CoV transmission are not fully understood.
+ Little direct epidemiologic evidence exists regarding transmission routes or the efficacy of interventions in reducing transmission.
+ However, other potentially important factors, including detection of virus in different secretions, detection and survival of virus in the environment, and detection of virus in aerosols, lend support for the biological plausibility of certain transmission pathways.
+ We summarize the available evidence regarding camel-to-camel, camel-to-human, and human-to-human transmission of MERS-CoV, including direct epidemiologic evidence and evidence supporting biologically plausible transmission routes.
+ MERS-CoV in Camels  Evidence for Infection of Camels MERS-CoV infection in camels has been demonstrated through serologic investigations, molecular evidence using real-time reverse transcription PCR (rRT-PCR), and by virus isolation, as described in recent reviews (16,17).
+ Geographically wide-ranging seroprevalence studies have identified MERS-CoV–specific antibodies in camels in countries across the Middle East and North, West, and East Africa, often with &gt;90% seroprevalence in adult camels (18).
+ Studies in many of these countries have shown molecular evidence of MERS-CoV RNA and isolation of infectious MERS-CoV in camels (16,17,19–21).
+ Viral Shedding in Camels In naturally or experimentally infected camels, MERS-CoV appears to cause an upper respiratory tract infection with or without symptoms, including nasal and lachrymal discharge, coughing, sneezing, elevated body temperature, and loss of appetite (20,22,23).
+ In naturally infected camels, MERS-CoV RNA has been recovered most commonly from nasal swabs but also from fecal swabs, rectal swabs, and lung tissue (20,24).
+ No evidence of viral RNA has been demonstrated in camel serum, blood, or urine using rRT-PCR (25,26).
+ In experimentally infected camels, infectious virus and RNA was detected in nasal swab and oral samples but not in blood, serum, feces, or urine (23).
+ MERS-CoV RNA has been detected in raw camel milk collected using traditional milking methods, including using a suckling calf as stimulus for milk letdown; presence of live virus was not evaluated (27).
+ Virus RNA may therefore have been introduced via calf saliva or nasal secretions or fecal contamination.
+ Experimentally introduced virus can survive in milk but did not survive when heat treated (28).
+ It is also not known if the virus would remain viable in milk from seropositive dams when antibodies could be found in the milk.
+ These shedding data indicate that contact with camel nasal secretions, saliva, and respiratory droplets carry potential risk for camel-to-human or camel-to-camel transmission.
+ Contact with nasal secretions can occur when directly handling live camels, and virus from camel nasal secretions can contaminate fomites in the environment (29).
+ Although rRT-PCR evidence of MERS-CoV and genome fragments have been detected in air samples from a camel barn (30), no live virus was detected, and no epidemiologic study has implicated airborne transmission.
+ Transmission following exposure to camel feces may be biologically plausible, although no epidemiologic evidence indicates the likelihood of such transmission.
+ Similarly, although transmission following consumption of raw camel milk may be biologically plausible, epidemiologic studies have not consistently identified milk consumption as a unique risk factor for MERS-CoV infection or illness, independent of other direct or indirect camel exposures (31,32).
+ No epidemiologic evidence supports transmission associated with camel urine or meat.
+ Camel-to-Camel Transmission Dynamics MERS-CoV RNA is detected most frequently in younger camels (22,25,33) but has been detected in camels &gt;4 years of age (22).
+ In a longitudinal study of a camel dairy herd, most calves became infected with MERS-CoV at 5–6 months of age, around the time maternal MERS-CoV antibodies wane.
+ The calves then produced MERS-CoV antibodies by 11–12 months of age (34).
+ In seroprevalence studies, camels 2 years of age (25,35).
+ Across many countries, the seroprevalence of adult camels is &gt;90% (16,17).
+ Overall, these data suggest most camels are initially infected with MERS-CoV at 1 month after illness onset (Appendix references 65,66), and live virus has been isolated up to 25 days after symptom onset (Appendix reference 67).
+ RNA detection is prolonged in the respiratory tract of patients with diabetes mellitus, even when adjusting for illness severity (Appendix reference 66).
+ Among mildly ill patients, who might typically be isolated at home, viral RNA levels in the upper respiratory tract have been detected for several weeks (Appendix references 68,69).
+ Infectious virus has been isolated from the upper respiratory tract of a patient with mild symptoms (Appendix reference 68), suggesting a potential for transmission among less severely ill patients.
+ However, there is no definitive evidence of transmission from asymptomatic cases, and epidemiologic evidence suggests that transmission from mildly symptomatic or asymptomatic cases does not readily occur (Appendix reference 70).
+ In humans, MERS-CoV RNA has been detected outside of the respiratory tract (Appendix references 66,71,72).
+ Viral RNA has been detected in the whole blood or serum of mildly or severely ill patients (Appendix references 66,72) and in the urine of patients who subsequently died (Appendix reference 66), although virus isolation attempts on urine samples (Appendix reference 66) and serum (Appendix reference 71) have been unsuccessful.
+ MERS-CoV RNA has also been detected from the stool of mildly and severely ill patients (Appendix reference 66).
+ Subgenomic MERS-CoV RNA, an intermediate in the virus replication cycle, has been detected in stool, suggesting that MERS-CoV might replicate in the gastrointestinal tract (Appendix reference 73); however, it is not clear if this contributes to pathogenesis or transmission.
+ Reproduction Number and Attack Rates The number of secondary cases resulting from a single initial case (reproduction number, R0) (Appendix reference 74) ranges widely for MERS-CoV, e.g., from 8.1 in the South Korea outbreak, compared with an overall R0 of 0.45 in Saudi Arabia (Appendix reference 74).
+ Superspreading events, which generally describe a single MERS-CoV case epidemiologically linked to &gt;5 subsequent cases, have been frequently described, particularly in healthcare-associated outbreaks (Appendix references 55,56).
+ Use of trade names is for identification only and does not imply endorsement by any of the groups named above.
+ home4EID JournalAbout the JournalexpandGeneral InformationexpandBackground and GoalsEditorsEditorial BoardStaffContactArticlesexpandNovember 2020Early ReleasePast IssuesexpandFebruary 2020expandMiddle East Respiratory Syndrome Coronavirus TransmissionexpandFigureAppendixMedscape CMESearchexpandAdvanced Article SearchArticles by Country SearchSpotlight TopicsexpandAntimicrobial Resistance SpotlightCoronavirus SpotlightEbola SpotlightEtymologiaFood Safety SpotlightHIV/AIDS SpotlightInfluenza SpotlightLyme Disease SpotlightMalaria SpotlightMERS SpotlightPneumonia SpotlightRabies SpotlightTicks SpotlightTuberculosis SpotlightZika SpotlightArticle Type SearchEID on PubMed CentralSubscribeAuthor Resource CenterexpandPolicies and GuidelinesexpandEditorial PolicyCopyright PolicyInformed ConsentPreprint PolicyManuscriptexpandProvide ORCiDComplete Author ChecklistTypes of ArticlesManuscript TemplatePrepare ManuscriptFormat TablesFormat Figures &amp; VideosFormat ReferencesSubmit ManuscriptCheck Manuscript StatusWriting GuidesexpandAbbreviations, Acronyms, and InitialismsCapitalizationGeographic DesignationsMathematical Modeling GuidePreferred UsagePunctuationScientific NomenclatureSpelling PreferencesUnits of MeasureEditorial Style GuideSearch Style GuidePeer ReviewersPodcastsMedia Related ContentexpandSocial MediaPress &amp; Media Information        HAVE QUESTIONS?
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ EID Killerby ME, Biggs HM, Midgley CM, Gerber SI, Watson JT.
+ Middle East Respiratory Syndrome Coronavirus Transmission.
+ Emerg Infect Dis.
+ 2020;26(2):191-198. https://dx.doi.org/10.3201/eid2602.190697   AMA Killerby ME, Biggs HM, Midgley CM, et al.
+ Middle East Respiratory Syndrome Coronavirus Transmission.
+ Emerging Infectious Diseases.
+ 2020;26(2):191-198. doi:10.3201/eid2602.190697.
+ APA Killerby, M. E., Biggs, H. M., Midgley, C. M., Gerber, S. I., &amp; Watson, J. T. (2020).
+ Middle East Respiratory Syndrome Coronavirus Transmission.
+ Emerging Infectious Diseases, 26(2), 191-198. https://dx.doi.org/10.3201/eid2602.190697.

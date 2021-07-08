@@ -1,0 +1,216 @@
+Skip to main content   Advertisement            Thank you for visiting nature.com.
+ You are using a browser version with limited support for CSS.
+ To obtain    the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in    Internet Explorer).
+ In the meantime, to ensure continued support, we are displaying the site without styles    and JavaScript.
+ View all Nature Research journals     Search   My Account   Login           Explore our content     Journal information         naturenature medicinebrief communicationsarticle                 Respiratory virus shedding in exhaled breath and efficacy of face masks          Download PDF          Brief Communication Published: 03 April 2020  Respiratory virus shedding in exhaled breath and efficacy of face masks Nancy H. L. Leung     ORCID: orcid.org/0000-0001-7314-840X1, Daniel K. W. Chu1, Eunice Y. C. Shiu1, Kwok-Hung Chan2, James J. McDevitt3, Benien J. P. Hau1,4, Hui-Ling Yen     ORCID: orcid.org/0000-0003-2493-36091, Yuguo Li5, Dennis K. M. Ip1, J. S. Malik Peiris1, Wing-Hong Seto1,6, Gabriel M. Leung1, Donald K. Milton7 na1 &amp; Benjamin J. Cowling     ORCID: orcid.org/0000-0002-6297-71541 na1   Nature Medicine volume 26, pages676–680(2020)Cite this article     2.00m Accesses   283 Citations   21143 Altmetric   Metrics details      Subjects  EpidemiologyInfectious diseases         An Author Correction to this article was published on 27 May 2020        This article has been updated    AbstractWe identified seasonal human coronaviruses, influenza viruses and rhinoviruses in exhaled breath and coughs of children and adults with acute respiratory illness.
+ Surgical face masks significantly reduced detection of influenza virus RNA in respiratory droplets and coronavirus RNA in aerosols, with a trend toward reduced detection of coronavirus RNA in respiratory droplets.
+ Our results indicate that surgical face masks could prevent transmission of human coronaviruses and influenza viruses from symptomatic individuals.
+ Download PDF     MainRespiratory virus infections cause a broad and overlapping spectrum of symptoms collectively referred to as acute respiratory virus illnesses (ARIs) or more commonly the ‘common cold’.
+ Although mostly mild, these ARIs can sometimes cause severe disease and death1.
+ These viruses spread between humans through direct or indirect contact, respiratory droplets (including larger droplets that fall rapidly near the source as well as coarse aerosols with aerodynamic diameter &gt;5 µm) and fine-particle aerosols (droplets and droplet nuclei with aerodynamic diameter ≤5 µm)2,3.
+ Although hand hygiene and use of face masks, primarily targeting contact and respiratory droplet transmission, have been suggested as important mitigation strategies against influenza virus transmission4, little is known about the relative importance of these modes in the transmission of other common respiratory viruses2,3,5.
+ Uncertainties similarly apply to the modes of transmission of COVID-19 (refs.
+ 6,7).Some health authorities recommend that masks be worn by ill individuals to prevent onward transmission (source control)4,8.
+ Surgical face masks were originally introduced to protect patients from wound infection and contamination from surgeons (the wearer) during surgical procedures, and were later adopted to protect healthcare workers against acquiring infection from their patients.
+ However, most of the existing evidence on the filtering efficacy of face masks and respirators comes from in vitro experiments with nonbiological particles9,10, which may not be generalizable to infectious respiratory virus droplets.
+ There is little information on the efficacy of face masks in filtering respiratory viruses and reducing viral release from an individual with respiratory infections8, and most research has focused on influenza11,12.Here we aimed to explore the importance of respiratory droplet and aerosol routes of transmission with a particular focus on coronaviruses, influenza viruses and rhinoviruses, by quantifying the amount of respiratory virus in exhaled breath of participants with medically attended ARIs and determining the potential efficacy of surgical face masks to prevent respiratory virus transmission.ResultsWe screened 3,363 individuals in two study phases, ultimately enrolling 246 individuals who provided exhaled breath samples (Extended Data Fig.
+ 1).
+ Among these 246 participants, 122 (50%) participants were randomized to not wearing a face mask during the first exhaled breath collection and 124 (50%) participants were randomized to wearing a face mask.
+ Overall, 49 (20%) voluntarily provided a second exhaled breath collection of the alternate type.Infections by at least one respiratory virus were confirmed by reverse transcription PCR (RT–PCR) in 123 of 246 (50%) participants.
+ 1 and 2), including one participant co-infected by both coronavirus and influenza virus and another two participants co-infected by both rhinovirus and influenza virus.
+ These 111 participants were the focus of our analyses.There were some minor differences in characteristics of the 111 participants with the different viruses (Table 1a).
+ Overall, 24% of participants had a measured fever ≥37.8 °C, with patients with influenza more than twice as likely than patients infected with coronavirus and rhinovirus to have a measured fever.
+ Coronavirus-infected participants coughed the most with an average of 17 (s.d.
+ The profiles of the participants randomized to with-mask versus without-mask groups were similar (Supplementary Table 1).Table 1a Characteristics of individuals with symptomatic coronavirus, influenza virus or rhinovirus infectionFull size tableWe tested viral shedding (in terms of viral copies per sample) in nasal swabs, throat swabs, respiratory droplet samples and aerosol samples and compared the latter two between samples collected with or without a face mask (Fig.
+ 1).
+ On average, viral shedding was higher in nasal swabs than in throat swabs for each of coronavirus (median 8.1 log10 virus copies per sample versus 3.9), influenza virus (6.7 versus 4.0) and rhinovirus (6.8 versus 3.3), respectively.
+ Viral RNA was identified from respiratory droplets and aerosols for all three viruses, including 30%, 26% and 28% of respiratory droplets and 40%, 35% and 56% of aerosols collected while not wearing a face mask, from coronavirus, influenza virus and rhinovirus-infected participants, respectively (Table 1b).
+ In particular for coronavirus, we identified OC43 and HKU1 from both respiratory droplets and aerosols, but only identified NL63 from aerosols and not from respiratory droplets (Supplementary Table 2 and Extended Data Fig.
+ 3).Fig.
+ 1: Efficacy of surgical face masks in reducing respiratory virus shedding in respiratory droplets and aerosols of symptomatic individuals with coronavirus, influenza virus or rhinovirus infection.a–c, Virus copies per sample collected in nasal swab (red), throat swab (blue) and respiratory droplets collected for 30min while not wearing (dark green) or wearing (light green) a surgical face mask, and aerosols collected for 30min while not wearing (brown) or wearing (orange) a face mask, collected from individuals with acute respiratory symptoms who were positive for coronavirus (a), influenza virus (b) and rhinovirus (c), as determined by RT–PCR in any samples.
+ The box plots indicate the median with the interquartile range (lower and upper hinge) and ±1.5×interquartile range from the first and third quartile (lower and upper whiskers).Full size imageTable 1b Efficacy of surgical face masks in reducing respiratory virus frequency of detection and viral shedding in respiratory droplets and aerosols of symptomatic individuals with coronavirus, influenza virus or rhinovirus infectionFull size tableWe detected coronavirus in respiratory droplets and aerosols in 3 of 10 (30%) and 4 of 10 (40%) of the samples collected without face masks, respectively, but did not detect any virus in respiratory droplets or aerosols collected from participants wearing face masks, this difference was significant in aerosols and showed a trend toward reduced detection in respiratory droplets (Table 1b).
+ For influenza virus, we detected virus in 6 of 23 (26%) and 8 of 23 (35%) of the respiratory droplet and aerosol samples collected without face masks, respectively.
+ There was a significant reduction by wearing face masks to 1 of 27 (4%) in detection of influenza virus in respiratory droplets, but no significant reduction in detection in aerosols (Table 1b).
+ Moreover, among the eight participants who had influenza virus detected by RT–PCR from without-mask aerosols, five were tested by viral culture and four were culture-positive.
+ Among the six participants who had influenza virus detected by RT–PCR from with-mask aerosols, four were tested by viral culture and two were culture-positive.
+ For rhinovirus, there were no significant differences between detection of virus with or without face masks, both in respiratory droplets and in aerosols (Table 1b).
+ Conclusions were similar in comparisons of viral shedding (Table 1b).
+ In addition, we found a significant reduction in viral shedding (Supplementary Table 2) in respiratory droplets for OC43 (Extended Data Fig.
+ 4) and influenza B virus (Extended Data Fig.
+ 5) and in aerosols for NL63 (Extended Data Fig.
+ 4).We identified correlations between viral loads in different samples (Extended Data Figs.
+ 6–8) and some evidence of declines in viral shedding by time since onset for influenza virus but not for coronavirus or rhinovirus (Extended Data Fig.
+ 9).
+ Published studies detected respiratory viruses13,14 such as influenza12,15 and rhinovirus16 from exhaled breath, and the detection of SARS-CoV17 and MERS-CoV18 from air samples (without size fractionation) collected from hospitals treating patients with severe acute respiratory syndrome and Middle East respiratory syndrome, but ours demonstrates detection of human seasonal coronaviruses in exhaled breath, including the detection of OC43 and HKU1 from respiratory droplets and NL63, OC43 and HKU1 from aerosols.Our findings indicate that surgical masks can efficaciously reduce the emission of influenza virus particles into the environment in respiratory droplets, but not in aerosols12.
+ Both the previous and current study used a bioaerosol collecting device, the Gesundheit-II (G-II)12,15,19, to capture exhaled breath particles and differentiated them into two size fractions, where exhaled breath coarse particles &gt;5 μm (respiratory droplets) were collected by impaction with a 5-μm slit inertial Teflon impactor and the remaining fine particles ≤5 μm (aerosols) were collected by condensation in buffer.
+ We also demonstrated the efficacy of surgical masks to reduce coronavirus detection and viral copies in large respiratory droplets and in aerosols (Table 1b).
+ This has important implications for control of COVID-19, suggesting that surgical face masks could be used by ill people to reduce onward transmission.Among the samples collected without a face mask, we found that the majority of participants with influenza virus and coronavirus infection did not shed detectable virus in respiratory droplets or aerosols, whereas for rhinovirus we detected virus in aerosols in 19 of 34 (56%) participants (compared to 4 of 10 (40%) for coronavirus and 8 of 23 (35%) for influenza).
+ For those who did shed virus in respiratory droplets and aerosols, viral load in both tended to be low (Fig.
+ 1).
+ Given the high collection efficiency of the G-II (ref.
+ 19) and given that each exhaled breath collection was conducted for 30 min, this might imply that prolonged close contact would be required for transmission to occur, even if transmission was primarily via aerosols, as has been described for rhinovirus colds20.
+ Our results also indicate that there could be considerable heterogeneity in contagiousness of individuals with coronavirus and influenza virus infections.The major limitation of our study was the large proportion of participants with undetectable viral shedding in exhaled breath for each of the viruses studied.
+ We could have increased the sampling duration beyond 30 min to increase the viral shedding being captured, at the cost of acceptability in some participants.
+ An alternative approach would be to invite participants to perform forced coughs during exhaled breath collection12.
+ However, it was the aim of our present study to focus on recovering respiratory virus in exhaled breath in a real-life situation and we expected that some individuals during an acute respiratory illness would not cough much or at all.
+ Indeed, we identified virus RNA in a small number of participants who did not cough at all during the 30-min exhaled breath collection, which would suggest droplet and aerosol routes of transmission are possible from individuals with no obvious signs or symptoms.
+ Another limitation is that we did not confirm the infectivity of coronavirus or rhinovirus detected in exhaled breath.
+ While the G-II was designed to preserve viability of viruses in aerosols, and in the present study we were able to identify infectious influenza virus in aerosols, we did not attempt to culture coronavirus or rhinovirus from the corresponding aerosol samples.MethodsStudy designParticipants were recruited year-round from March 2013 through May 2016 in a general outpatient clinic of a private hospital in Hong Kong.
+ As routine practice, clinic staff screened all individuals attending the clinics for respiratory and any other symptoms regardless of the purpose of the visit at triage.
+ Study staff then approached immediately those who reported at least one of the following symptoms of ARI for further screening: fever ≥37.8 °C, cough, sore throat, runny nose, headache, myalgia and phlegm.
+ Individuals who reported ≥2 ARI symptoms, within 3 d of illness onset and ≥11 years of age were eligible to participate.
+ After explaining the study to and obtaining informed consent from the participants, a rapid influenza diagnostic test, the Sofia Influenza A + B Fluorescent Immunoassay Analyzer (cat.
+ no.
+ 20218, Quidel), was used to identify influenza A or B virus infection as an incentive to participate.
+ All participants provided a nasal swab for the rapid test and an additional nasal swab and a separate throat swab for subsequent virologic confirmation at the laboratory.
+ All participants also completed a questionnaire to record basic information including age, sex, symptom severity, medication, medical conditions and smoking history.
+ In the first phase of the study from March 2013 to February 2014 (‘Influenza Study’), the result of the rapid test was used to determine eligibility for further participation in the study and exhaled breath collection, whereas in the second phase of the study from March 2014 to May 2016 (‘Respiratory Virus Study’), the rapid test did not affect eligibility.
+ Eligible participants were then invited to provide an exhaled breath sample for 30 min in the same clinic visit.Before exhaled breath collection, each participant was randomly allocated in a 1:1 ratio to either wearing a surgical face mask (cat.
+ no.
+ 62356, Kimberly-Clark) or not during the collection.
+ To mimic the real-life situation, under observation by the study staff, participants were asked to attach the surgical mask themselves, but instruction on how to wear the mask properly was given when the participant wore the mask incorrectly.
+ Participants were instructed to breathe as normal during the collection, but (natural) coughing was allowed and the number of coughs was recorded by study staff.
+ Participants were then invited to provide a second exhaled breath sample of the alternate type (for example if the participant was first assigned to wearing a mask they would then provide a second sample without a mask), but most participants did not agree to stay for a second measurement because of time constraints.
+ Participants were compensated for each 30-min exhaled breath collection with a supermarket coupon worth approximately US$30 and all participants were gifted a tympanic thermometer worth approximately US$20.Ethical approvalWritten informed consent was obtained from all participants ≥18 years of age and written informed consent was obtained from parents or legal guardians of participants 11–17 years of age in addition to their own written informed consent.
+ The study protocol was approved by the Institutional Review Board of The University of Hong Kong and the Clinical and Research Ethics Committee of Hong Kong Baptist Hospital.Collection of swabs and exhaled breath particlesNasal swabs and throat swabs were collected separately, placed in virus transport medium, stored and transported to the laboratory at 2–8 °C and the virus transport medium was aliquoted and stored at −70 °C until further analysis.
+ Exhaled breath particles were captured and differentiated into two size fractions, the coarse fraction containing particles with aerodynamic diameter &gt;5 μm (referred to here as ‘respiratory droplets’), which included droplets up to approximately 100 µm in diameter and the fine fraction with particles ≤5 μm (referred to here as ‘aerosols’) by the G-II bioaerosol collecting device12,15,19.
+ In the G-II device, exhaled breath coarse particles &gt;5 μm were collected by a 5-μm slit inertial Teflon impactor and the remaining fine particles ≤5 μm were condensed and collected into approximately 170 ml of 0.1% BSA/PBS.
+ Both the impactor and the condensate were stored and transported to the laboratory at 2–8 °C.
+ The virus on the impactor was recovered into 1 ml and the condensate was concentrated into 2 ml of 0.1% BSA/PBS, aliquoted and stored at −70 °C until further analysis.
+ In a validation study, the G-II was able to recover over 85% of fine particles &gt;0.05 µm in size and had comparable collection efficiency of influenza virus as the SKC BioSampler19.Laboratory testingSamples collected from the two studies were tested at the same time.
+ Nasal swab samples were first tested by a diagnostic-use viral panel, xTAG Respiratory Viral Panel (Abbott Molecular) to qualitatively detect 12 common respiratory viruses and subtypes including coronaviruses (NL63, OC43, 229E and HKU1), influenza A (nonspecific, H1 and H3) and B viruses, respiratory syncytial virus, parainfluenza virus (types 1–4), adenovirus, human metapneumovirus and enterovirus/rhinovirus.
+ After one or more of the candidate respiratory viruses was detected by the viral panel from the nasal swab, all the samples from the same participant (nasal swab, throat swab, respiratory droplets and aerosols) were then tested with RT–PCR specific for the candidate virus(es) for determination of virus concentration in the samples.
+ Infectious influenza virus was identified by viral culture using MDCK cells as described previously21, whereas viral culture was not performed for coronavirus and rhinovirus.Statistical analysesThe primary outcome of the study was virus generation rate in tidal breathing of participants infected by different respiratory viruses and the efficacy of face masks in preventing virus dissemination in exhaled breath, separately considering the respiratory droplets and aerosols.
+ The secondary outcomes were correlation between viral shedding in nose swabs, throat swabs, respiratory droplets and aerosols and factors affecting viral shedding in respiratory droplets and aerosols.We identified three groups of respiratory viruses with the highest frequency of infection as identified by RT–PCR, namely coronavirus (including NL63, OC43, HKU1 and 229E), influenza virus and rhinovirus, for further statistical analyses.
+ We defined viral shedding as log10 virus copies per sample and plotted viral shedding in each sample (nasal swab, throat swab, respiratory droplets and aerosols); the latter two were stratified by mask intervention.
+ We investigated correlations between viral shedding in nasal swab, throat swab, respiratory droplets and aerosols with scatter-plots and calculated the Spearman’s rank correlation coefficient between any two types of samples.
+ We imputed 0.3 log10 virus copies ml−1 for undetectable values before transformation to log10 virus copies per sample.
+ All analyses were conducted with R v.3.6.0 (ref.
+ 22) and the VGAM package v.1.1.1 (ref.
+ 23).Reporting SummaryFurther information on research design is available in the Nature Research Reporting Summary linked to this article.
+ Data availability Anonymized raw data and R syntax to reproduce all the analyses, figures, tables and supplementary tables in the published article are available at: https://doi.org/10.5061/dryad.w9ghx3fkt.
+ Change history27 May 2020An amendment to this paper has been published and can be accessed via a link at the top of the paper.References1.Nichols, W. G., Peck Campbell, A. J.
+ &amp; Boeckh, M. Respiratory viruses other than influenza virus: impact and therapeutic advances.
+ Clin.
+ Microbiol.
+ Rev.
+ 21, 274–290 (2008).CAS   Article   PubMed   PubMed Central         Google Scholar      2.Shiu, E. Y. C., Leung, N. H. L. &amp; Cowling, B. J.
+ Controversy around airborne versus droplet transmission of respiratory viruses: implication for infection prevention.
+ Curr.
+ Opin.
+ Infect.
+ Dis.
+ 32, 372–379 (2019).Article   CAS   PubMed         Google Scholar      3.Tellier, R., Li, Y., Cowling, B. J.
+ &amp; Tang, J. W. Recognition of aerosol transmission of infectious agents: a commentary.
+ BMC Infect.
+ Dis.
+ 19, 101 (2019).Article   PubMed   PubMed Central         Google Scholar      4.Xiao, J. et al.
+ Nonpharmaceutical measures for pandemic influenza in nonhealthcare settings-personal protective and environmental measures.
+ Emerg.
+ Infect.
+ Dis.
+ https://doi.org/10.3201/eid2605.190994 (2020).Article   CAS   PubMed   PubMed Central         Google Scholar      5.Kutter, J. S., Spronken, M. I., Fraaij, P. L., Fouchier, R. A. M. &amp; Herfst, S. Transmission routes of respiratory viruses among humans.
+ Curr.
+ Opin.
+ Virol.
+ 28, 142–151 (2018).CAS   Article   PubMed   PubMed Central         Google Scholar      6.Cowling, B. J.
+ &amp; Leung, G. M. Epidemiological research priorities for public health control of the ongoing global novel coronavirus (2019-nCoV) outbreak.
+ Euro Surveill.
+ https://doi.org/10.2807/1560-7917.ES.2020.25.6.2000110 (2020).7.Han, Q., Lin, Q., Ni, Z.
+ &amp; You, L. Uncertainties about the transmission routes of 2019 novel coronavirus.
+ Influenza Other Respir.
+ Viruses https://doi.org/10.1111/irv.12735 (2020).8.MacIntyre, C. R. &amp; Chughtai, A.
+ A. Facemasks for the prevention of infection in healthcare and community settings.
+ BMJ 350, h694 (2015).Article   PubMed         Google Scholar      9.Ha’eri, G. B.
+ &amp; Wiley, A. M. The efficacy of standard surgical face masks: an investigation using “tracer particles”.
+ Clin.
+ Orthop.
+ Relat.
+ Res.
+ 148, 160–162 (1980).
+ Google Scholar      10.Patel, R. B., Skaria, S. D., Mansour, M. M. &amp; Smaldone, G. C. Respiratory source control using a surgical mask: an in vitro study.
+ J. Occup.
+ Environ.
+ Hyg.
+ 13, 569–576 (2016).CAS   Article   PubMed   PubMed Central         Google Scholar      11.Johnson, D. F., Druce, J. D., Birch, C. &amp; Grayson, M. L. A quantitative assessment of the efficacy of surgical and N95 masks to filter influenza virus in patients with acute influenza infection.
+ Clin.
+ Infect.
+ Dis.
+ 49, 275–277 (2009).CAS   Article   PubMed         Google Scholar      12.Milton, D. K., Fabian, M. P., Cowling, B. J., Grantham, M. L. &amp; McDevitt, J. J.
+ Influenza virus aerosols in human exhaled breath: particle size, culturability, and effect of surgical masks.
+ PLoS Pathog.
+ 9, e1003205 (2013).CAS   Article   PubMed   PubMed Central         Google Scholar      13.Huynh, K. N., Oliver, B. G., Stelzer, S., Rawlinson, W. D. &amp; Tovey, E. R. A new method for sampling and detection of exhaled respiratory virus aerosols.
+ Clin.
+ Infect.
+ Dis.
+ 46, 93–95 (2008).Article   PubMed         Google Scholar      14.Stelzer-Braid, S. et al.
+ Exhalation of respiratory viruses by breathing, coughing and talking.
+ J. Med.
+ Virol.
+ 81, 1674–1679 (2009).Article   PubMed         Google Scholar      15.Yan, J. et al.
+ Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community.
+ Proc.
+ Natl Acad.
+ Sci.
+ USA 115, 1081–1086 (2018).CAS   Article   PubMed         Google Scholar      16.Tovey, E. R. et al.
+ Rhinoviruses significantly affect day-to-day respiratory symptoms of children with asthma.
+ J.
+ Allergy Clin.
+ Immunol.
+ 135, 663–669 (2015).Article   PubMed         Google Scholar      17.Booth, T. F. et al.
+ Detection of airborne severe acute respiratory syndrome (SARS) coronavirus and environmental contamination in SARS outbreak units.
+ J. Infect.
+ Dis.
+ 191, 1472–1477 (2005).Article   PubMed   PubMed Central         Google Scholar      18.Kim, S. H. et al.
+ Extensive viable Middle East respiratory syndrome (MERS) coronavirus contamination in air and surrounding environment in MERS isolation wards.
+ Clin.
+ Infect.
+ Dis.
+ 63, 363–369 (2016).Article   PubMed   PubMed Central         Google Scholar      19.McDevitt, J. J. et al.
+ Development and performance evaluation of an exhaled-breath bioaerosol collector for influenza virus.
+ Aerosol Sci.
+ Technol.
+ 47, 444–451 (2013).CAS   Article   PubMed   PubMed Central         Google Scholar      20.Jennings, L. C. &amp; Dick, E. C. Transmission and control of rhinovirus colds.
+ Eur.
+ J. Epidemiol.
+ 3, 327–335 (1987).CAS   Article   PubMed         Google Scholar      21.Chan, K. H., Peiris, J. S., Lim, W., Nicholls, J. M. &amp; Chiu, S. S. Comparison of nasopharyngeal flocked swabs and aspirates for rapid diagnosis of respiratory viruses in children.
+ J. Clin.
+ Virol.
+ 42, 65–69 (2008).CAS   Article   PubMed         Google Scholar      22.R: a language and environment for statistical computing (R Foundation for Statistical Computing, Vienna, Austria, 2019).23.Yee, T. W. Vector Generalized Linear and Additive Models: with an Implementation in R (Springer, 2016).Download referencesAcknowledgementsThis work was supported by the General Research Fund of the University Grants Committee (grant no.
+ 765811), the Health and Medical Research Fund (grant no.
+ 13120592) and a commissioned grant of the Food and Health Bureau and the Theme-based Research Scheme (project no.
+ T11-705/14-N) of the Research Grants Council of the Hong Kong SAR Government.
+ We acknowledge colleagues including R. O. P. Fung, A. K. W. Li, T. W. Y. Ng, T. H. C. So, P. Wu and Y. Xie for technical support in preparing and conducting this study and enrolling participants; J. K. M. Chan, S. Y. Ho, Y.
+ Z. Liu and A. Yu for laboratory support; S. Ferguson, W. K. Leung, J. Pantelic, J. Wei and M. Wolfson for technical support in constructing and maintaining the G-II device; V. J. Fang, L. M. Ho and T. T. K. Lui for setting up the database; and C. W. Y. Cheung, L. F. K. Cheung, P. T. Y. Ching, A. C. H. Lai, D. W. Y. Lam, S. S. Y.
+ S. Malik PeirisView author publicationsYou can also search for this author in       PubMed Google ScholarWing-Hong SetoView author publicationsYou can also search for this author in       PubMed Google ScholarGabriel M. LeungView author publicationsYou can also search for this author in       PubMed Google ScholarDonald K. MiltonView author publicationsYou can also search for this author in       PubMed Google ScholarBenjamin J. CowlingView author publicationsYou can also search for this author in       PubMed Google ScholarContributionsAll authors meet the International Committee of Medical Journal Editors criteria for authorship.
+ The study protocol was drafted by N.H.L.L.
+ and B.J.C.
+ Data were collected by N.H.L.L., E.Y.C.S.
+ and B.J.P.H.
+ Laboratory testing was performed by D.K.W.C.
+ and K.-H.C. Statistical analyses were conducted by N.H.L.L.
+ N.H.L.L.
+ and B.J.C.
+ wrote the first draft of the manuscript, and all authors provided critical review and revision of the text and approved the final version.Corresponding authorCorrespondence to     Benjamin J. Cowling.Ethics declarations Competing interests B.J.C.
+ consults for Roche and Sanofi Pasteur.
+ The authors declare no other competing interests.
+ Additional informationPeer review information Alison Farrell was the primary editor on this article and managed its editorial process and peer review in collaboration with the rest of the editorial team.Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Extended dataExtended Data Fig.
+ 1Participant enrolment, randomization of mask intervention and identification of respiratory virus infection.Extended Data Fig.
+ 2 Weekly number of respiratory virus infections identified by RT-PCR in symptomatic individuals who had provided exhaled breath samples (respiratory droplets and aerosols) during the study period.Blue, coronavirus; red, influenza virus; yellow, rhinovirus; green, other respiratory viruses including human metapneumovirus, parainfluenza virus, respiratory syncytial virus and adenovirus; white, no respiratory virus infection identified.Extended Data Fig.
+ The box plots indicate the median with the interquartile range (lower and upper hinge) and ± 1.5 × interquartile range from the first and third quartile (lower and upper whisker).
+ Dark blue, coronavirus NL63; light blue, coronavirus OC43; brown, coronavirus HKU1; red, influenza A virus; orange, influenza B virus.Extended Data Fig.
+ 4 Efficacy of surgical face masks in reducing respiratory virus shedding in respiratory droplets and aerosols of symptomatic individuals with seasonal coronaviruses including (a) coronavirus NL63, (b) coronavirus OC43 and (c) coronavirus HKU1.The figure shows the virus copies per sample collected in nasal swab (red), throat swab (blue), respiratory droplets collected for 30 min while not wearing (dark green) or wearing (light green) a surgical face mask and aerosols collected for 30 min while not wearing (brown) or wearing (orange) a face mask, collected from individuals with acute respiratory symptoms who were positive for coronavirus NL63, coronavirus OC43 and coronavirus HKU1 as determined by RT-PCR in any samples.
+ 5 Efficacy of surgical face masks in reducing respiratory virus shedding in respiratory droplets and aerosols of symptomatic individuals with seasonal influenza viruses including (a) influenza A and (b) influenza B virus.The figure shows the virus copies per sample collected in nasal swab (red), throat swab (blue), respiratory droplets collected for 30 min while not wearing (dark green) or wearing (light green) a surgical face mask and aerosols collected for 30 min while not wearing (brown) or wearing (orange) a face mask, collected from individuals with acute respiratory symptoms who were positive for influenza A and influenza B virus as determined by RT-PCR in any samples.
+ r, the Spearman’s rank correlation coefficient.Extended Data Fig.
+ r, the Spearman’s rank correlation coefficient.Extended Data Fig.
+ r, the Spearman’s rank correlation coefficient.Extended Data Fig.
+ 9 Respiratory virus shedding in respiratory droplets and aerosols stratified by days from symptom onset for (a) coronavirus, (b) influenza virus or (c) rhinovirus.The figures shows the virus copies per sample collected in nasal swab (red), throat swab (blue), respiratory droplets (dark green) and aerosols (brown) collected for 30 min while not wearing a surgical face mask, stratified by the number of days from symptom onset on which the respiratory droplets and aerosols were collected.
+ The box plots indicate the median with the interquartile range (lower and upper hinge) and ± 1.5 × interquartile range from the first and third quartile (lower and upper whisker).Supplementary information Supplementary InformationSupplementary Discussion and Supplementary Tables 1–6Reporting SummaryRights and permissionsReprints and PermissionsAbout this articleCite this articleLeung, N.H.L., Chu, D.K.W., Shiu, E.Y.C.
+ et al.
+ Respiratory virus shedding in exhaled breath and efficacy of face masks.
+ Nat Med 26, 676–680 (2020).
+ https://doi.org/10.1038/s41591-020-0843-2Download citationReceived: 02 March 2020Accepted: 20 March 2020Published: 03 April 2020Issue Date: May 2020DOI: https://doi.org/10.1038/s41591-020-0843-2   Further reading           Gender, face mask perceptions, and face mask wearing: Are men being dangerous during the COVID-19 pandemic?
+ Matt C. Howard  Personality and Individual Differences     (2021)               Management and use of filter masks in the “none-medical” population during the Covid-19 period        Enzo Cumbo &amp; Giuseppe Alessandro Scardina  Safety Science     (2021)               An overview of filtration efficiency through the masks: Mechanisms of the aerosols penetration        A. Tcharkhtchi, N. Abbasnezhad, M. Zarbini Seydani, N. Zirak, S. Farzaneh &amp; M. Shirinbayan  Bioactive Materials     (2021)               Enhancing the filtration efficiency and wearing time of disposable surgical masks using TENG technology        Ruichao Zhang, Qi Xu, Suo Bai, Jun Hai, Li Cheng, Guoqiang Xu &amp; Yong Qin  Nano Energy     (2021)               Exposure of staff to aerosols and bioaerosols in a dental office        Bernard Polednik  Building and Environment     (2021)                  Download PDF                       Explore our content              News &amp; Comment                        Research                        Current Issue                        Browse Issues                        Browse Articles                        Browse Collections             Sign up for alerts          Journal information             About the Journal                      For Reviewers                      For Authors                      Web Feeds                      Nature Medicine Classic Collection                      Podcasts                      Posters            Submit manuscript         Search    Article Search   Search            Advanced search             Quick links  Explore articles by subject Find a job Guide to authors Editorial policies                 Nature Medicine       ISSN 1546-170X (online)               nature.com sitemap      About us Press releases Press office Contact us                      Discover content  Journals A-Z Articles by subject Nano Protocol Exchange Nature Index    Publish with us  Guide to Authors Guide to Referees Editorial policies Open access Reprints &amp; permissions    Researcher services  Research data Language editing Scientific editing Nature Masterclasses Nature Research Academies    Libraries &amp; institutions  Librarian service &amp; tools Librarian portal Open research    Advertising &amp; partnerships  Advertising Partnerships &amp; Services Media kits Branded content    Career development  Nature Careers Nature Conferences Nature events    Regional websites  Nature China Nature India Nature Japan Nature Korea Nature Middle East    Legal &amp; Privacy  Privacy Policy Use of cookies Manage cookies/Do not sell my data Legal notice Accessibility statement Terms &amp; Conditions California Privacy Statement           © 2020 Springer Nature Limited                               Close banner        Close       Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+ Email address   Sign up    I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+ Close banner        Close    Get the most important science stories of the day, free in your inbox.
+ Sign up for Nature Briefing

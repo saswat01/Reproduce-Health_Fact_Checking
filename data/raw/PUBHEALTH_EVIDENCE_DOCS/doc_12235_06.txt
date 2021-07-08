@@ -1,0 +1,22 @@
+Dr. Potter: For a fresh fact-check, I write seeking your on-the-record comment and assistance as we check a claim that transgender residents make up "about 1-in-300 people, we're all over the place, we're your friends and your neighbors."
+ Ashley Smith, who made the claim, told us she relied on this Williams Institute report.
+ In your analysis, how does this report stand up, factually?
+ Any other recommended resources?
+ Thank you, g. Want our fact checks first?
+ Follow us on Twitter.W.
+ Gardner SelbyReporter / NewsAustin American-StatesmanPolitiFact Texas3:31 p.m.July 31, 2017It took me a little while to look at the report.
+ I think the statement could be described as true (or close to it) based on the analysis in the report.
+ Essentially the estimate in the report for the U.S. was between .36% and .95% of the population identifies as transgender, so 1/300 (.3%) is a little low.
+ The next question probably has to do with the validity of the estimate.
+ I think the authors of the report effectively and transparently describe their methodology.
+ There are some assumptions made in producing the estimates that may or may not hold true.
+ The basis of the estimate comes from the 2014 Behavioral Risk Factor Surveillance System survey from 19 states that included an item about whether or not respondents considered themselves to be transgender.
+ The data on characteristics (race and ethnicity; age cohorts; and educational attainment) from those who responded yes to this item was used to produce estimates of percentages of the adult population who may identify as transgender in those 19 states and then in the balance of the states.
+ From this the estimates were aggregated up to the U.S. estimate.
+ Some of the assumptions include that the sample of respondents is representative of the population in each of the 19th states, that the demographic and socioeconomic characteristics of those who identify as transgender in those 19th states is similar to the demographic and socioeconomic characteristics of persons who identify as transgender in all other states,  that everyone who identifies as transgender and who participated in the survey answered the question and answered it honestly.
+ I think if one agrees that these assumptions are reasonable, the method used probably results in a pretty good estimate.
+ It is likely that there is under-reporting among those who do identify as transgender in those 19 states which would suggest the estimate is on the low end.
+ I’m less certain of the possible effect of using data on characteristics from those who identify as transgender in those 19 states and information about how states differ would result in accurate or less accurate estimates for the balance of states.
+ However, the report does seem to be using a reasonable approach given the lack of data from most states and is likely the most accurate/valid estimate of the population that identifies as transgender in the United States to date.
+ :MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(Sa)return/WebKit\/(\S+)/.exec(a);if(Oa)return/(?
+ :Version)[ \/]?

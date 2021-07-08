@@ -1,0 +1,51 @@
+Skip to main content   Advertisement             Thank you for visiting nature.com.
+ You are using a browser version with limited support for CSS.
+ To obtain    the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in    Internet Explorer).
+ In the meantime, to ensure continued support, we are displaying the site without styles    and JavaScript.
+ View all Nature Research journals     Search   My Account   Login           Explore our content     Journal information     Subscribe         naturenewsarticle           NEWS       26 February 2020    Mystery deepens over animal source of coronavirus       Pangolins are a prime suspect, but a slew of genetic analyses has yet to find conclusive proof.
+ David Cyranoski          David Cyranoski reports for Nature from Shanghai, China.
+ Three weeks ago, Chinese scientists suggested, on the basis of genetic analyses, that the scaly, ant-eating pangolin was the prime suspect.
+ But scientists have now examined those data — along with three other pangolin coronavirus genome studies released last week — and say that although the animal is still a contender, the mystery is far from solved.Public-health officials want to pin down the virus’s source so they can prevent new outbreaks.
+ Scientists assume that the pathogen jumped to people from an animal, as has been seen with other coronaviruses; for example, the virus that causes severe acute respiratory syndrome (SARS) is thought to have jumped to humans from civets in 2002.
+ Dozens of people infected early in the current outbreak worked in a live-animal market in the Chinese city of Wuhan, but tests of coronavirus samples found at the market have yet to identify a source.
+ Three separate Chinese teams are trying to trace the origin of the coronavirus, including a group from the Chinese Center for Disease Control and Prevention, and one from the Chinese Academy of Sciences.
+ MiscommunicationResearchers at the South China Agricultural University in Guangzhou suggested pangolins as the animal source at a press conference on 7 February.
+ Pangolins are highly sought-after in China for their meat and their scales; the latter are used in traditional medicine.
+ Although sales of the animal are forbidden in China as part of a worldwide ban, they are still smuggled in from a handful of southeast Asian and African countries.
+ The researchers said they had found a coronavirus in smuggled pangolins that was a 99% genetic match to the virus circulating in people.But the result did not actually refer to the entire genome.
+ In fact, it related to a specific site known as the receptor-binding domain (RBD), say the study’s authors, who posted their analysis1 on the biomedical preprint server bioRxiv on 20 February.
+ The press-conference report was the result of an “embarrassing miscommunication between the bioinformatics group and the lab group of the study”, explains Xiao Lihua, a parasitologist at the South China Agricultural University and a co-author of the paper.
+ A whole-genome comparison found that the pangolin and human viruses share 90.3% of their DNA.The RBD is a crucial part of coronaviruses, which allows them to latch on to and enter a cell.
+ Even a 99% similarity between the RBDs of the two viruses is not necessarily enough to link them, says Linfa Wang, a virologist at Duke–National University of Singapore Medical School who was part of the team that found the origin of the SARS virus.Not close enoughThree similar comparison studies were posted on bioRxiv last week.
+ One of those papers — by an international research group , posted on 18 February — found2 that coronaviruses in frozen cell samples from illegally trafficked pangolins shared between 85.5% and 92.4% of their DNA with the virus found in humans.
+ Two other papers published on 20 February, from groups in China, also studied coronaviruses from smuggled pangolins.
+ The viruses were 90.23%3 and 91.02%4 similar, respectively, to the virus that causes COVID-19.
+ The genetic similarity should be higher than reported in these studies before the host can be identified, says Arinjay Banerjee, who studies coronaviruses at McMaster University in Hamilton, Canada.
+ He notes that the SARS virus shared 99.8% of its genome with a civet coronavirus, which is why civets were considered the source.
+ If pangolins are the origin of the current outbreak, says Banerjee, it is not the pangolins in these studies.Key differencesSo far, the closest match to the human coronavirus has been found in a bat in China’s Yunnan province.
+ A study5 published on 3 February found that the bat coronavirus shared 96% of its genetic material with the virus that causes COVID-19.
+ Bats could have passed the virus to humans, but there are key differences between the RBD sites in the two viruses.
+ This suggests that this specific bat coronavirus did not directly infect people, but could have been transmitted it to people through an intermediate host, say researchers.The papers raise more questions than they answer, says Jiang Zhigang, an ecologist at the Chinese Academy of Sciences Institute of Zoology in Beijing.
+ He asks, if pangolins are the source of the virus, and they came from another country, why haven’t there been reports of people being infected in that location?Sara Platto, who studies animal behaviour at Jianghan University in Wuhan, worries that all the speculation about pangolins being the source could drive people to kill them.
+ Civets were killed en masse after the SARS outbreak.
+ “The problem is not the animals, it’s that we get in contact with them,” says Platto.
+ Nature 579, 18-19 (2020) doi: https://doi.org/10.1038/d41586-020-00548-w   References1.Xiao, K. et al.
+ Preprint on bioRxiv https://doi.org/10.1101/2020.02.17.951335 (2020).2.Lam, T. T.-Y.
+ et al.
+ Preprint on bioRxiv https://doi.org/10.1101/2020.02.13.945485 (2020).3.Liu, P. et al.
+ Preprint on bioRxiv https://doi.org/10.1101/2020.02.18.954628 (2020).4.Zhang, T., Wu, Q.
+ &amp; Zhang, Z. Preprint on bioRxiv https://doi.org/10.1101/2020.02.19.950253 (2020).5.Zhou, P. et al.
+ Nature https://doi.org/10.1038/s41586-020-2012-7 (2020).Article           Google ScholarDownload references   Latest on:   Zoology      The record-setting flight of a bat that weighs less than a toothbrush Research Highlight 05 NOV 20      Reply to: Methods matter in repeating ocean acidification studies Matters Arising 21 OCT 20      Toughening mechanisms of the elytra of the diabolical ironclad beetle Article 21 OCT 20       Public health      Scientists criticize use of unproven COVID drugs in India News 09 NOV 20      COVID research updates: Uninfected children have antibodies to the coronavirus News 09 NOV 20     Europe’s public-health systems gear up for future epidemics Correspondence 27 OCT 20       Animal behaviour      The record-setting flight of a bat that weighs less than a toothbrush Research Highlight 05 NOV 20      Reply to: Methods matter in repeating ocean acidification studies Matters Arising 21 OCT 20      Reply to: Reevaluating bipedalism in Danuvius Matters Arising 30 SEP 20           Nature Briefing An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+ Email address    Yes!
+ Sign me up to receive the daily Nature Briefing email.
+ I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+ Sign up      Related Articles                                  Latest news on the coronavirus                                               Time to use the p-word?
+ Coronavirus enters dangerous new phase                                               When will the coronavirus outbreak peak?
+ Did pangolins spread the China coronavirus to people?
+ Subjects  Zoology  Public health  Animal behaviour              Sign up to Nature Briefing An essential round-up of science news, opinion and analysis, delivered to your inbox every weekday.
+ Email address    Yes!
+ Sign me up to receive the daily Nature Briefing email.
+ I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+ Sign up                      Close banner        Close       Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+ Email address   Sign up    I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+ Close banner        Close    Get the most important science stories of the day, free in your inbox.

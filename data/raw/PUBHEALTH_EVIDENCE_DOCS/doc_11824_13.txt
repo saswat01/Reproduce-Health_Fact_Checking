@@ -1,0 +1,8 @@
+According to Juvenile Offenders and Victims: 2014 National Report, a report funded by the Office of Juvenile Justice and Delinquency Prevention (OJJDP): "There is no national recidivism rate for juveniles.
+ Each state's juvenile justice system differs in organization, administration, and data capacity.
+ These differences influence how states define, measure, and report recidivism rates.
+ This also makes it challenging to compare recidivism rates across states."
+ In addition, view the report Measuring and Using Juvenile Recidivism Data To Inform Policy, Practice, and Resource Allocation and Core Principles for Reducing Recidivism and Improving Other Outcomes for Youth in the Juvenile Justice System, which are sponsored by OJJDP and the Bureau of Justice Assistance.
+ Also see Measuring Juvenile Recidivism an online interactive resource from the Pew Charitable Trusts' Public Safety Performance Project.You may also wish to conduct a search of the NCJRS Abstracts Database, which contains a number of reports on recidivism at the state level.
+ Also see the recidivism data collection from the Bureau of Justice Statistics.
+ 'Logout' : 'Login'", 500);

@@ -1,0 +1,32 @@
+Skip to main content    Find out more about how we use cookies.
+ Otherwise by continuing to use the site you agree to the use of the cookies as they are currently set.
+ I agree        Visit the UK Parliament website   House of Commons Library  Toggle main navigation     Home   Research   Resources   Training and events           Subscribe            Search     UK ParliamentHouse of Commons LibraryResearch Briefing5G     5G Research Briefing  Published Friday, 06 September, 2019    Research Briefing Technology     Georgina Hutton     A House of Commons Library Briefing on 5G - the fifth generation of mobile technology.
+ Included is an explanation of 5G and its expected uses; policy challenges associated with 5G and information about the roll-out of 5G in the UK including forthcoming spectrum auctions.
+ Documents to download   5G (827 KB, PDF)    Download full report Download ‘5G ’ report (827 KB, PDF)         What is 5G?
+ 5G is the next generation of wireless communications technology.
+ It is expected to provide faster connections with much higher capacity and very fast response times, allowing many more users and devices to access fast internet connections and large amounts of data at the same time.
+ Mobile broadband is the first commercial application of 5G.
+ 5G is also expected to be used in applications beyond mobile networks, for example in healthcare, smart cities, transport and manufacturing.
+ A more detailed discussion of 5G technology and applications is provided in the Parliamentary Office of Science and Technology POST brief on 5G technology (24 July 2019).
+ This paper focuses on policy challenges and developments surrounding the roll-out of 5G in the UK.
+ When and where will 5G be rolled out?
+ 5G for mobile broadband and is being rolled-out by private mobile network operators: EE, O2, Vodafone and Three.
+ The first commercial networks went live in major UK cities in 2019.
+ Initially, 5G is expected to be deployed largely from existing 4G base stations in busy urban areas.
+ Detailed roll-out plans of private operators are not normally publicly available.
+ Government 5G policy The Government has a target that the majority of the population will be covered by a 5G signal by 2027.
+ The Government’s strategy for future digital infrastructure – full-fibre and 5G – is set out in DCMS’s Future Telecoms Infrastructure Review (FTIR), published on 23 July 2018.
+ 5G policy challenges 5G presents some new and different infrastructure challenges compared to 3G and 4G.
+ 5G is expected to see a greater number of small cells (low powered base stations that can be mounted on buildings and street furniture) and will require wider deployment of full-fibre broadband infrastructure.
+ Additionally, 5G deployment will require significant investment from mobile operators and other stakeholders, which still presents commercial risks and uncertainties as 5G applications and business cases develop.
+ Spectrum for 5G 5G will require spectrum of different frequencies to suit different applications.
+ Ofcom is working on making spectrum available in three categories:  Low frequency spectrum (the 700 MHz band) to enable wide coverage; Mid-frequency spectrum (the 3.4–3.8 GHz band) for large bandwidths to provide necessary capacity and to enable higher speeds; and High-frequency spectrum (26 GHz band) providing ultra-high capacity but with very small coverage ranges.
+ Some 5G spectrum was auctioned in April 2018 (the 3.4–3.6 GHz band; see the Library paper: Spectrum Auctions 2018 for background).
+ Ofcom plans to auction spectrum in the 700 MHz and 3.6–3.8 GHz bands by Spring 2020.
+ Trial licences are available in the 26 GHz band.
+ Share this        Share this with    FacebookShare this with Facebook     TwitterShare this with Twitter     LinkedInShare this with LinkedIn     EmailShare this with Email     Close share panel ×       Documents to download   5G (827 KB, PDF)    Download full report Download ‘5G ’ report (827 KB, PDF)        Related posts            The Universal Service Obligation (USO) for Broadband   This Commons Library Briefing provides information about the Government's Universal Service Obligation (USO) for broadband.
+ This has happened after over two decades when, regardless of the political complexion of successive UK governments, the trend was towards closer engagement and cooperation.
+ This briefing looks at why and how this has happened.
+ Armed forcesAsia PacificEconomyHigher educationImmigrationInstitutionsTechnology          Quick Links About us Services for MPs and MPs’ staff Data protection privacy notice Research for this week's debates   By Topic Brexit Coronavirus Economy, business and transport Home affairs Parliament and elections Science, environment and technology Social policy World affairs Full topic list   By Type Research Briefings Debate Packs Insights Data tools and resources Constituency casework articles Podcast   Mailing List Subscribe to receive email alerts every time we publish new research about the topics you’re interested in.
+ Subscribe Follow us:       Twitter          Copyright © 2020 House of Commons Library.
+ All rights reserved.

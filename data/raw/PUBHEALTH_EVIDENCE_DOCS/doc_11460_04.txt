@@ -1,0 +1,783 @@
+Commonly consumed in Asian countries, turmeric has been used for medicinal purposes for centuries.
+ (More information)  		Mounting evidence from preclinical studies shows that curcumin modulates numerous molecular targets and exerts antioxidant, anti-inflammatory, anticancer, and neuroprotective activities.
+ (More information)  		In humans, curcumin taken orally is poorly absorbed and rapidly metabolized and eliminated.
+ Therefore, the potential of curcumin as a therapeutic agent is limited by its poor bioavailability.
+ (More information)  		Current evidence suggesting that curcumin may help prevent and/or treat colorectal cancer and type 2 diabetes mellitus is very limited.
+ Yet, several clinical trials designed to assess the safety and efficacy of curcumin alone or with first-line treatment in patients with breast, prostate, pancreatic, lung, or colorectal cancer are under way.
+ (More information)  		While a few preliminary trials suggested that curcumin may have anti-inflammatory activities in humans, larger randomized controlled trials are still needed to establish the efficacy of curcumin as an anti-inflammatory agent against rheumatoid arthritis, ulcerative colitis, and radiotherapy-induced dermatitis.
+ (More information)  		There is currently no substantial evidence showing that curcumin may improve cognitive performance in older adults with or without cognitive impairments.
+ Yet, some preclinical studies have found curcumin prevented or reversed certain pathological features of Alzheimer’s disease (AD).
+ A number of clinical trials designed to assess whether curcumin might help prevent or treat AD are under way.
+ (More information)  		Long-term clinical trials are required to confirm whether curcumin could exhibit long-lasting antidepressant effects in patients suffering from major depressive disorder.
+ (More information)  		Oral supplementation with curcumin is generally regarded as safe, especially because of its low bioavailability.
+ However, use of curcumin supplements may affect the efficacy or increase the toxicity of a wide range of drugs when taken concurrently.
+ (More information)  Introduction  	Turmeric is a spice derived from the rhizomes of the tropical plant Curcuma longa Linn, which is a member of the ginger family (Zingiberaceae).
+ Rhizomes are horizontal underground stems that send out shoots, as well as roots.
+ The bright yellow-orange color of turmeric comes mainly from fat-soluble, polyphenolic pigments known as curcuminoids.
+ Curcumin, the principal curcuminoid found in turmeric, is generally considered its most active constituent (1).
+ Other curcuminoids found in turmeric include demethoxycurcumin and bisdemethoxycurcumin (Figure 1).
+ In addition to its use as a spice and pigment, turmeric has been used in India for medicinal purposes for centuries (2).
+ More recently, evidence that curcumin may have anti-inflammatory and anticancer activities has renewed scientific interest in its potential to prevent and treat disease.
+ Metabolism and Bioavailability  Clinical trials in humans indicate that the systemic bioavailability of orally administered curcumin is relatively low (3-5) and that mostly metabolites of curcumin, instead of curcumin itself, are detected in plasma or serum following oral consumption (6, 7).
+ In the intestine and liver, curcumin is readily conjugated to form curcumin glucuronide and curcumin sulfate or, alternately, reduced to tetrahydrocurcumin, hexahydrocurcumin, and octahydrocurcumin (Figure 2) (4).
+ An early clinical trial conducted in Taiwan indicated that serum curcumin concentrations peaked at 0.41 to 1.75 micromoles/liter (μM) one hour after oral doses of 4 to 8 g of curcumin (8).
+ Another clinical trial conducted in the UK found that plasma concentrations of curcumin, curcumin sulfate, and curcumin glucuronide were in the range of 0.01 μM one hour after a 3.6 g oral dose of curcumin (9).
+ Curcumin and its metabolites could not be detected in plasma at doses lower than 3.6 g/day.
+ There is some evidence that orally administered curcumin accumulates in gastrointestinal tissues.
+ For instance, when colorectal cancer patients took 3.6 g/day of curcumin orally for seven days prior to surgery, curcumin was detected in both malignant and normal colorectal tissue (10).
+ In contrast, curcumin was not detected in the liver tissue of patients with liver metastases of colorectal cancer after the same oral dose of curcumin (11), suggesting that oral curcumin administration may not effectively deliver curcumin to tissues outside the gastrointestinal tract.
+ The safety and efficacy of several curcumin formulations are currently being explored in (pre)clinical settings with the aim of increasing the absorption, bioavailability, and tissue-targeted delivery of curcumin (12-16).
+ Examples of approaches include conjugation to peptide carriers (e.g., to polylactic-co-glycolic acid [PLGA]); complexation with essential oils; coadministration with piperine; and encapsulation into nanoparticles, liposomes, phytosomes, polymeric micelles, and cyclodextrins (reviewed in 17).
+ Biological Activities  Antioxidant activity  	Curcumin is an effective scavenger of reactive oxygen species (ROS) and reactive nitrogen species in the test tube (18, 19).
+ However, it is not clear whether curcumin acts as a direct antioxidant in vivo.
+ Due to its limited oral bioavailability in humans (see Metabolism and Bioavailability), plasma and tissue curcumin concentrations are likely to be much lower than those of other fat-soluble antioxidants like α-tocopherol (vitamin E).
+ Yet, curcumin taken orally may reach sufficient concentrations in the gastrointestinal tract and protect the intestinal mucosa against oxidative DNA damage (11).
+ In addition to a potentially direct antioxidant activity, curcumin can induce the expression of phase II antioxidant enzymes, including glutamate-cysteine ligase (GCL), the rate-limiting enzyme in glutathione synthesis.
+ Glutathione (GSH) is an important intracellular antioxidant that plays a critical role in cellular adaptation to stress (20).
+ Curcumin was found to upregulate the expression of GCL through the activation of different signaling pathways (21).
+ In particular, curcumin increases the expression of GCL and other detoxifying enzymes via the activation of the nuclear factor E2-related factor 2 (Nrf2)-dependent pathway.
+ Nrf2-dependent antioxidant pathway  	Briefly, Nrf2 is a transcription factor that is bound to the protein Kelch-like ECH-associated protein 1 (Keap1) in the cytosol.
+ Keap1 responds to oxidative stress signals by freeing Nrf2.
+ Upon release, Nrf2 translocates to the nucleus and binds to the antioxidant response element (ARE) located in the promoter of genes coding for antioxidant/detoxifying enzymes and scavengers.
+ Nrf2/ARE-dependent genes code for numerous mediators of the antioxidant response, including GCL, glutathione S-transferases (GSTs), thioredoxin, NAD(P)H quinone oxidoreductase 1 (NQO-1), and heme oxygenase 1 (HO-1) (22).
+ Nrf2-dependent upregulation of HO-1 in curcumin-treated renal tubular epithelial cells challenged with high glucose concentrations was shown to prevent phenotype changes resembling fibrosis and known to occur at an early stage of diabetic renal injury (23).
+ Curcumin also inhibited the progression of fibrosis in liver and lung in animal models of chronic inflammatory diseases (24, 25).
+ Curcumin mitigated the effect of chronic ethanol intake on mouse liver, partly by upregulating Nrf2 target genes coding for NQO-1, HO-1, glutathione peroxidase (GSH-Px), and superoxide dismutase (SOD) (26).
+ Curcumin treatment also counteracted oxidative damage induced by heavy ion irradiation by upregulating Nrf2 downstream genes for GCL, HO-1, NQO-1, and SOD in the brain of rats (27).
+ Additional studies have demonstrated the ability of curcumin to reduce oxidative stress in different experimental settings via the induction of Nrf2/ARE pathway (reviewed in 22).
+ Anti-inflammatory activity  	Curcumin has been shown to inhibit mediators of the inflammatory response, including cytokines, chemokines, adhesion molecules, growth factors, and enzymes like cyclooxygenase (COX), lipoxygenase (LOX), and inducible nitric oxide synthase (iNOS).
+ Nuclear factor-kappa B (NF-κB) is a transcription factor that binds DNA and induces the transcription of the COX-2 gene, other pro-inflammatory genes, and genes involved in cell proliferation, adhesion, survival, and differentiation.
+ The anti-inflammatory effects of curcumin result from its ability to inhibit the NF-κB pathway, as well as other pro-inflammatory pathways like the mitogen-activated protein kinase (MAPK)- and the Janus kinase (JAK)/Signal transducer and activator of transcription (STAT)-dependent signaling pathways (28).
+ Inhibition of dextran sulfate sodium (DSS)-induced colitis by curcumin in mice has been associated with a downregulation of the expression of p38-MAPK and pro-inflammatory cytokine TNF-α and a reduction of myeloperoxidase (MPO) activity, a marker of neutrophil infiltration in intestinal mucosa (29).
+ Curcumin has also been shown to improve colitis by preventing STAT3 activation and STAT3-dependent induction of cell proliferation in mouse colon (30).
+ Moreover, curcumin was shown to attenuate the immune response triggered by collagen injections in a mouse model of rheumatoid arthritis, partly by blocking the proliferation of T lymphocytes in mouse splenocytes (31).
+ In addition, curcumin has been found to reduce the secretion of TNF-α and IL-1β and the production of COX-2-induced prostaglandin G2.
+ In one study, curcumin inhibited the secretion of matrix metalloproteins (MMPs) — responsible for the degradation of the synovial joints — in human fibroblast-like synoviocytes (31) and in human articular chondrocytes (32).
+ Curcumin has also been found to alleviate neuro-inflammation in a mouse model of traumatic brain injury, reducing macrophage and microglial activation and increasing neuronal survival (33).
+ Anticancer activity  Effects on biotransformation enzymes  	Some compounds are not carcinogenic until they are metabolized in the body by phase I biotransformation enzymes, such as enzymes of the cytochrome P450 (CYP) family (34).
+ Primarily based on evidence from rodent studies, it is thought that curcumin may inhibit procarcinogen bioactivation and help prevent cancer by inhibiting the activity of multiple CYP enzymes in humans (35-37).
+ Curcumin may also increase the activity of phase II detoxification enzymes, such as GSTs and quinone reductase (QR) (see also Nrf2-dependent antioxidant pathway) (35, 38, 39).
+ In addition, curcumin intakes ranging from 0.45 to 3.6 g/day for up to four months did not increase leukocyte GST activity in humans (9).
+ Inhibition of proliferation and induction of apoptosis  	Following DNA damage, the cell cycle can be transiently arrested to allow for DNA repair or for activation of pathways leading to programmed cell death (apoptosis) if the damage is irreparable (40).
+ Defective cell-cycle regulation may result in the propagation of mutations that contribute to the development of cancer.
+ Unlike normal cells, cancer cells proliferate rapidly and are unable to respond to cell death signals that initiate apoptosis.
+ For example, the inhibition of cell proliferation by curcumin has been associated with the Nrf2-dependent downregulation of DNA repair-specific flap endonuclease 1 (Fen1) in breast cancer cells in culture (46).
+ Curcumin has been shown to induce p53-dependent or -independent apoptosis depending on the cancer cell type (47).
+ In a panel of cancer cell lines, p53-independent apoptosis induced by curcumin was mediated by the rapid increase of ROS and the activation of MAPK and c-jun kinase (JNK) signaling cascades (48).
+ Inhibition of NF-κB signaling by curcumin also suppresses proliferation and induces apoptosis in cancer cells (47).
+ Inhibition of tumor invasion and angiogenesis  Malignant and aggressive forms of cancer can invade surrounding tissues and spread to distant tissues once cancer cells have acquired the ability to leave the primary site (reduced cell-to-cell adhesion and loss of polarity), migrate, and disseminate.
+ Epithelial-mesenchymal transition (EMT) is the process by which epithelial cells acquire the ability to migrate and invade through downregulating proteins like E-cadherin and γ-catenin and expressing mesenchymal markers like MMPs, N-cadherin, and vimentin.
+ In breast cancer cells, curcumin prevented EMT-associated morphological changes induced by lipopolysaccharide (LPS) while upregulating E-cadherin and downregulating vimentin.
+ It was further shown that curcumin inhibited NF-κB/Snail signaling involved in LPS-induced EMT (49).
+ In another study, curcumin increased the expression of the small non-coding RNA miR181b, which then downregulated proinflammatory cytokines, CXCL1 and CXCL2, as well as MMPs, thereby reducing the metastatic potential of breast cancer cells.
+ Curcumin inhibited IL-6-induced proliferation, migration, and invasiveness of human small cell lung cancer (SCLC) cells by reducing JAK/STAT3 phosphorylation (i.e., activation) and downstream genes coding for cyclin B1, survivin, Bcl-XL, MMPs, intercellular adhesion molecule 1 (ICAM-1), and vascular endothelial growth factor (VEGF) (30).
+ Neuroprotective activity  	In Alzheimer’s disease (AD), a peptide called β-amyloid (Aβ peptide) aggregates into oligomers and fibrils and forms deposits known as amyloid (or senile) plaques outside neurons in the hippocampus and cerebral cortex of patients.
+ Another feature of AD is the accumulation of intracellular neurofibrillary tangles formed by phosphorylated Tau protein (50).
+ Abnormal microglial activation, oxidative stress, and neuronal death are also associated with the progression of the disease.
+ Curcumin has been found to inhibit Aβ fibril formation and extension and to destabilize preformed fibrils in vitro (51-53).
+ Metal chelation by curcumin might interfere with metal ion (Cu2+/Zn2+)-induced Aβ aggregation.
+ Curcumin might also affect the trafficking of Aβ peptide precursor (APP) and the generation of Aβ peptides from APP (54, 55).
+ Abnormally activated microglia and hypertrophic astrocytes around amyloid plaques in AD brains release cytotoxic molecules, such as proinflammatory cytokines and ROS, which enhance Aβ formation and deposition and further damage neurons.
+ Curcumin was found to reduce the inflammatory response triggered by Aβ peptide-induced microglial activation and increase neuronal cell survival (56).
+ When injected into the carotid artery of a transgenic mouse model of AD, curcumin was found to cross the blood-brain barrier, bind to amyloid plaques, and block the formation of Aβ oligomers and fibrils (53).
+ In other animal models of AD, dietary curcumin decreased biomarkers of inflammation and oxidative damage, increased Aβ peptide clearance by macrophages, dismantled amyloid plaques in the brain, stimulated neuronal cell growth in the hippocampus, and improved Aβ-induced memory deficits (reviewed in 57).
+ Note: It is important to keep in mind that some of the biological activities discussed above were observed in cultured cells and animal models exposed to curcumin at concentrations unlikely to be achieved in cells of humans consuming curcumin orally (see Metabolism and Bioavailability).
+ Disease Prevention  Cancer  	Oral curcumin administration has been found to inhibit the development of chemically-induced cancer in animal models of oral (58, 59), stomach (60, 61), liver (62), and colon (63-65) cancer.
+ ApcMin/+ mice have a mutation in the Apc (adenomatous polyposis coli) gene similar to that in humans with familial adenomatous polyposis, a genetic condition characterized by the development of numerous colorectal adenomas (polyps) and a high risk for colorectal cancer.
+ Oral curcumin administration has been found to inhibit the development of intestinal adenomas in ApcMin/+ mice (66, 67).
+ Despite promising results in animal studies, there is presently little evidence that high intakes of curcumin or turmeric are associated with decreased cancer risk in humans.
+ A 30-day phase II clinical trial in 40 smokers with at least eight rectal aberrant crypt foci (ACF; precancerous lesions) found that the number of ACF was significantly lower with a daily supplementation with 4 g/day of curcumin compared to 2 g/day (68).
+ Several controlled clinical trials in humans designed to evaluate the effect of oral curcumin supplementation on precancerous colorectal lesions, such as adenomas, are under way (69).
+ Type 2 diabetes mellitus  Oxidative stress and inflammation have been implicated in the pathogenesis of type 2 diabetes mellitus and related vascular complications.
+ A large body of preclinical evidence suggests that the antioxidant, anti-inflammatory, and glucose-lowering activities of curcumin and its analogs may be useful in the prevention and/or treatment of type 2 diabetes (70).
+ In a nine-month, randomized, double-blind, placebo-controlled study in 237 subjects with impaired glucose tolerance (pre-diabetes), no progression to overt diabetes was reported with a daily ingestion of a mixture of curcuminoids (0.5 g), while 16.4% of placebo-treated participants developed diabetes (71).
+ In addition, curcumin supplementation was shown to reduce insulin resistance and improve measures of pancreatic β-cell function and glucose tolerance.
+ In an eight-week, randomized, placebo-controlled study in 67 individuals with type 2 diabetes, oral curcumin (a mixture of all three major curcuminoids; 0.6 g/day) failed to significantly lower the level of glycated hemoglobin A1c (HbA1c; a measure of glycemic control), plasma fasting glucose, total serum cholesterol, LDL-cholesterol, and serum triglycerides (72).
+ Yet, supplemental curcumin was found to be as effective as lipid-lowering drug atorvastatin (10 mg/day) in reducing circulating markers of oxidative stress (malondialdehyde) and inflammation (endothelin-1, TNFα, IL-6) and in improving endothelial function.
+ Another randomized controlled trial also reported that oral curcumin supplementation (1.5 g/day) for six months improved endothelial function, insulin sensitivity, and metabolic markers associated with atherogenesis (plasma triglycerides, visceral fat, total body fat) in participants with type 2 diabetes (73).
+ Finally, in a two-month randomized, double-blind, placebo-controlled study in 40 individuals with type 2 diabetic nephropathy (kidney disease), daily curcumin ingestion (66.3 mg) significantly reduced urinary concentrations of proteins and inflammation markers (TGF-β, IL-8), suggesting that curcumin might be helpful with slowing the progression of kidney damage and preventing kidney failure (74).
+ Larger trials are needed to assess whether curcumin could be useful in the prevention or management of type 2 diabetes and vascular complications.
+ To date, most of the controlled clinical trials of curcumin supplementation in cancer patients have been phase I trials, which are aimed at determining feasibility, tolerability, safety, and providing early evidence of efficacy (76).
+ A phase I clinical trial in patients with advanced colorectal cancer found that doses up to 3.6 g/day for four months were well tolerated, although the systemic bioavailability of oral curcumin was low (77).
+ When colorectal cancer patients with liver metastases took 3.6 g/day of curcumin orally for seven days, trace levels of curcumin metabolites were measured in liver tissue, but curcumin itself was not detected (11).
+ In contrast, curcumin was measurable in normal and malignant colorectal tissue after patients with advanced colorectal cancer took 3.6 g/day of curcumin orally for seven days (10).
+ In a pilot trial in patients awaiting gastrointestinal endoscopy or colorectal cancer resection, the administration of a mixture of three major curcuminoids (2.35 g/day for 14 days) resulted in detectable amounts of curcumin in colonic mucosa (mean concentration, 48.4 μg/g of tissue), demethoxycurcumin (7.1 μg/g), and bisdemethoxycurcumin (0.7 μg/g) (78).
+ While these findings suggested that oral curcumin may likely be more effective as a therapeutic agent in cancers of the gastrointestinal tract than of other tissues, some phase I/II trials have also examined whether supplemental curcumin may confer additional benefits to conventional drugs against different types of cancer.
+ Combining curcumin with anticancer drugs like gemcitabine in pancreatic cancer (79, 80), docetaxel in breast cancer (81), and imatinib in chronic myeloid leukemia (82) may be safe and well tolerated.
+ A recent single-arm, phase II trial combining three cycles of docetaxel/prednisone and curcumin (6 g/day) was carried out in 26 patients with castration-resistant prostate cancer (83).
+ The level of prostate-specific antigen (PSA) was decreased in most patients and was normalized in 36% of them, and the co-administration of curcumin with drugs showed no toxicity beyond adverse effects already related to docetaxel monotherapy.
+ Many registered phase I/II clinical trials designed to investigate the effectiveness of curcumin alone or with first-line treatment in patients with breast, prostate, pancreatic, lung, or colorectal cancer are under way (69).
+ Inflammatory diseases  	Although curcumin has been demonstrated to have anti-inflammatory and antioxidant activities in cell culture and animal studies, few randomized controlled trials have examined the efficacy of curcumin in the treatment of inflammatory conditions.
+ A placebo-controlled trial in 40 men who had surgery to repair an inguinal hernia or hydrocele found that oral curcumin supplementation (1.2 g/day) for five days was more effective than placebo in reducing post-surgical edema, tenderness and pain, and was comparable to phenylbutazone therapy (300 mg/day) (84).
+ Rheumatoid arthritis  	A preliminary intervention trial that compared curcumin with a nonsteroidal anti-inflammatory drug (NSAID) in 18 patients with rheumatoid arthritis (RA) found that improvements in morning stiffness, walking time, and joint swelling after two weeks of curcumin supplementation (1.2 g/day) were comparable to those experienced after two weeks of phenylbutazone (NSAID) therapy (300 mg/day) (85).
+ In a more recent randomized, open-label study in 45 RA patients, supplementation with a mixture of all three major curcuminoids (0.5 g/day for eight weeks) was found to be as effective as diclofenac (NSAID; 50 mg/day) in reducing measures of disease activity, tenderness, and swelling joints (86).
+ Larger randomized controlled trials are needed to determine whether oral curcumin supplementation is effective in the treatment of RA.
+ Radiation dermatitis  	Radiation-induced skin inflammation occurs in most patients receiving radiation therapy for sarcoma, lung, breast, or head and neck cancer.
+ One randomized, double-blind, placebo-controlled trial in 30 women prescribed radiation therapy for breast carcinoma in situ reported a reduction of radiation-induced dermatitis severity and moist desquamation with a supplemental curcuminoid mixture (6 g/day for four to seven weeks).
+ Curcumin failed to reduce skin redness and radiation-induced pain at the site of treatment (87).
+ Ulcerative colitis  Ulcerative colitis (UC) is a long-term condition characterized by diffuse and superficial inflammation of the colonic mucosa.
+ Disease activity may fluctuate between periods of remission and periods of relapse.
+ Preliminary evidence suggests that curcumin might be useful as an add-on therapy to control disease activity.
+ One multicenter, randomized, double-blind, placebo-controlled study has examined the efficacy of curcumin enema (2 g/day) in the prevention of relapse in 82 patients with quiescent UC (88).
+ Six-month treatment with curcumin significantly reduced measures of disease activity and severity and resulted in a lower relapse rate than with placebo in subjects on standard-of-care medication (sulfasalazine or mesalamine); yet, there was no difference in the proportion of patients who experienced relapse six months after curcumin was discontinued (88).
+ In another randomized controlled trial in active UC patients treated with mesalamine, the percentage of patients in clinical remission was significantly higher after a one-month treatment with oral curcumin (3 g/day) than with placebo (89).
+ Larger trials are needed to ensure that curcumin can be safely used with conventional UC treatments and to further support its potential therapeutic benefits for relapsing-remitting UC.
+ Oral health  	Emerging evidence suggests that curcumin has anti-inflammatory and antimicrobial properties that could be beneficial in the treatment of certain diseases of the oral cavity.
+ For example, the topical application of a curcumin gel was found to reduce gingival bleeding and periodontal bacteria after conventional periodontal therapy (scaling and root planing) (90-92).
+ A mouthwash containing curcumin was also found to be as effective as chlorhexidine in reducing inflammation in individuals who underwent periodontal therapy for gingivitis (93).
+ Oral submucous fibrosis   	Any part of the oral cavity may be affected by oral submucous fibrosis (OSMF), a currently incurable condition especially prevalent in Southeast Asia and India.
+ OSMF is characterized by the formation of excess fibrous tissue (fibrosis) that leads to stiffness of the mucosa and restricted mouth opening.
+ A few recent intervention studies showed that curcumin could improve some symptoms, such as burning sensations and reduced mouth opening (reviewed in 94).
+ In an open-label intervention study in 40 OSMF patients randomized to receive either the conventional treatment (weekly intra-lesional injections of steroids) or daily oral administration of a Curcuma longa Linn extract (600 mg/day) for three months, the burning sensation significantly improved in the curcumin-treated group, while tongue protrusion was reduced with conventional therapy.
+ No differences between the two treatment groups were seen with respect to mouth opening (95).
+ A six-month follow-up of the effect of oral curcumin (2 g/day) in OSMF patients treated for three months found that curcumin outperformed steroid ointment in its ability to increase maximum mouth opening and to reduce self-reported burning sensation (96).
+ Further studies should assess the appropriate dose of curcumin to achieve the greatest benefits and determine whether curcumin can enhance the effect of standard-of-care treatment in limiting OSMF disease progression.
+ Cognitive decline and Alzheimer’s disease  Alzheimer’s disease (AD) is a form of dementia characterized by extracellular deposition of β-amyloid plaques, intracellular formation of neurofibrillary tangles, and neuronal loss, eventually leading to brain atrophy and cognitive impairment in affected individuals (57).
+ When injected into the carotid artery, curcumin was found to cross the blood-brain barrier in an animal model of AD (53), though it is not known whether curcumin taken orally can reach the blood-brain barrier at sufficient concentrations and impede cognitive decline in humans.
+ As a result of promising findings in animal models (see Neuroprotective activity), a few recent clinical trials have examined the effect of oral curcumin supplementation on cognition in healthy older adults and AD patients (57).
+ A randomized, double-blind, placebo-controlled trial in 60 healthy older adults (mean age, 68.5 years) investigated whether acute (80 mg) or chronic (80 mg/day for 4 weeks) oral intake of curcumin could improve their ability to cope with the mental stress and change in mood usually associated with undergoing a battery of cognitive tests (97).
+ A significant reduction in mental fatigue and higher levels of calmness and contentedness following cognitive test sessions were observed in individuals who consumed curcumin (either acutely or chronically) compared to the placebo group.
+ Additionally, the results of cognitive ability tests suggested that curcumin treatment had limited benefits on cognitive function, as shown by better scores in measures of sustained attention and working memory compared to placebo (97).
+ The results of a six-month trial in 27 patients with AD found that oral supplementation with up to 4 g/day of curcumin — containing all three major curcuminoids — was safe (6).
+ Yet, measures of cognitive performance (using the Mini Mental State Examination [MMSE] scoring scale) and levels of F2-isoprostanes (oxidative stress markers) and antioxidants in blood were not found to be significantly different between curcumin- and placebo-treated subjects at the end of the intervention period.
+ In another six-month, randomized, double-blind, placebo-controlled study of subjects with mild-to-moderate AD, curcumin failed to improve cognitive test scores and to reduce blood and cerebrospinal fluid (CSF) concentrations of β-amyloid peptide, CSF concentrations of total and phosphorylated Tau protein, and CSF concentrations of F2-isoprostanes (98).
+ Despite the lack of encouraging results from completed trials, several randomized controlled studies are under way to determine whether supplemental curcumin has the ability to reverse or prevent cognitive deficits in both healthy and cognitively impaired individuals (57).
+ Major depressive disorder  	Major depressive disorder (MDD) is a neuropsychiatric disorder associated with abnormal neurotransmission; it is primarily treated with drugs that improve the bioavailability of neurotransmitters like serotonin, noradrenaline, and dopamine in the brain (99).
+ Characteristics of MDD also include alterations in the hypothalamus-pituitary-adrenal axis, increased neuroinflammation, defective neurogenesis, and neuronal death.
+ A few clinical studies have examined the effect of curcumin alone or with conventional antidepressant drugs in MDD patients.
+ A recent meta-analysis of six randomized controlled trials found that supplementation with curcumin significantly reduced depression symptoms (100).
+ However, in one of the studies included in this meta-analysis — a double-blind, controlled study in 56 adults diagnosed with MDD — curcumin treatment (~880 mg/day of curcuminoids) for eight weeks was no more effective than placebo in reducing self-reported depression- and anxiety-related symptoms (101).
+ Significant improvements in the severity and frequency of specific depression-related symptoms only occurred after four weeks of treatment, suggesting that a longer treatment period might be needed to uncover the antidepressant effects of curcumin (100, 101).
+ In another randomized, placebo-controlled trial, supplemental curcumin (330 mg/day) for five weeks failed to relieve depressive symptoms in patients treated with conventional antidepressants (102).
+ In contrast, in a six-week, randomized, single-blinded, placebo-controlled study in 60 MDD patients, supplemental curcumin (~880 mg/day of curcuminoids) alone yielded a similar response rate to the antidepressant, fluoxetine (a serotonin reuptake inhibitor [Prozac]; 20 mg/day) in terms of depressive symptoms; no additional effect was observed when both curcumin and fluoxetine treatments were combined (103).
+ Moreover, in a randomized controlled study in 100 participants taking escitalopram (a serotonin reuptake inhibitor [Lexapro]; 5 to 15 mg/week), supplemental curcumin (1,000 mg/day) for six weeks increased the antidepressant effect of the medication (104).
+ Curcumin also induced a reduction in plasma concentrations of inflammatory markers and an increase in plasma concentrations of brain-derived neurotrophic factor compared to placebo (antidepressant drug alone) (104).
+ Larger clinical trials are needed to address the long-term effect of curcumin in subjects with major depression.
+ Premenstrual syndrome   	Premenstrual syndrome (PMS) refers to a range of emotional (e.g., irritability, anxiety), behavioral (e.g., fatigue, insomnia), and physical symptoms (e.g., breast tenderness, headache) occurring prior to the monthly menstrual period in up to 90% of premenopausal women.
+ In a recent randomized, double-blind, placebo-controlled trial in 70 women with PMS, the daily supplementation with 0.2 g of curcumin for 10 days during three consecutive menstrual cycles significantly reduced overall PMS severity, as assessed by a composite measure of all emotional, behavioral, and physical symptoms (105).
+ Additional trials are necessary to evaluate the efficacy of curcumin in the management of PMS.
+ Sources  Food sources  	Turmeric is the dried ground rhizome of Curcuma longa Linn (106).
+ It is used as a spice in Indian, Southeast Asian, and Middle Eastern cuisines.
+ Curcuminoids comprise about 2%-9% of turmeric (107).
+ Curcumin is the most abundant curcuminoid in turmeric, providing about 75% of the total curcuminoids, while demethoxycurcumin and bisdemethoxycurcumin generally represent 10%-20% and less than 5% of the total curcuminoids, respectively (108).
+ Curcumin extracts are also used as food-coloring agents (110).
+ Supplements  	Commercial curcumin is usually a mixture of curcumin, demethoxycurcumin, and bisdemethoxycurcumin (see Figure 1 above).
+ Curcuminoid extracts are available as dietary supplements without a prescription in the US.
+ The labels of a number of these extracts state that they are standardized to contain 95% curcuminoids, although such claims are not strictly regulated by the US Food and Drug Administration (FDA).
+ Some curcumin preparations also contain piperine, which may increase the bioavailability of curcumin by inhibiting its metabolism (108).
+ However, piperine may also affect the metabolism of drugs (see Drug interactions).
+ Optimal doses of curcumin for cancer chemoprevention or therapeutic uses have not been established.
+ It is unclear whether doses less than 3.6 g/day are biologically active in humans (see Metabolism and Bioavailability).
+ Curcuminoid-containing supplements taken on an empty stomach may cause gastritis and peptic ulcer disease (108).
+ Safety  Adverse effects  	In the United States, turmeric is generally recognized as safe (GRAS) by the FDA as a food additive (110).
+ An increase in gallbladder contractions was observed in 12 healthy people supplemented with single doses of 20 to 40 mg of curcumin (111, 112).
+ Yet, serious adverse effects have not been reported in humans taking high doses of curcumin.
+ A dose escalation trial in 24 adults found that single oral dosages up to 12 g were safe, and adverse effects, including diarrhea, headache, rash, yellow stool, were not related to dose (7).
+ In a phase I trial in Taiwan, curcumin supplementation up to 8 g/day for three months was reported to be well tolerated in patients with precancerous conditions or noninvasive cancer (8).
+ Another clinical trial in the UK found that curcumin supplementation ranging from 0.45 to 3.6 g/day for four months was generally well tolerated by people with advanced colorectal cancer, although two participants experienced diarrhea and another reported nausea (9).
+ Increases in serum alkaline phosphatase and lactate dehydrogenase were also observed in several participants, but it was not clear whether these increases were related to curcumin supplementation or cancer progression (3).
+ In an open-label phase II trial, curcumin treatment (8 g/day) in combination with the anticancer drug gemcitabine was associated with severe abdominal pain in 7 out of 17 patients with advanced pancreatic cancer, leading to the treatment being discontinued in five patients while curcumin dosage was reduced to 4 g/day in two patients (79).
+ Pregnancy and lactation  	Although there is no evidence that dietary consumption of turmeric as a spice adversely affects pregnancy or lactation, the safety of curcumin supplements in pregnancy and lactation has not been established.
+ Drug interactions  	Curcumin has been found to inhibit platelet aggregation in vitro (113, 114), suggesting a potential for curcumin supplementation to increase the risk of bleeding in people taking anticoagulant or antiplatelet medications, such as aspirin, clopidogrel (Plavix), dalteparin (Fragmin), enoxaparin (Lovenox), heparin, ticlopidine (Ticlid), and warfarin (Coumadin).
+ In cultured breast cancer cells, curcumin inhibited apoptosis induced by the chemotherapeutic agents, camptothecin, mechlorethamine, and doxorubicin at concentrations of 1 to 10 μM (115).
+ In an animal model of breast cancer, dietary curcumin inhibited cyclophosphamide-induced tumor regression.
+ Yet, it is not known whether oral curcumin administration will result in breast tissue concentrations that are high enough to inhibit cancer chemotherapeutic agents in humans (11).
+ Curcuminoids may interfere with the activity of efflux drug transporters of the ATP-binding cassette (ABC) family, including P-glycoprotein, multidrug resistance protein (MRP), and breast cancer-resistant protein (BCRP), which function as ATP-dependent efflux pumps that actively regulate the excretion of a number of drugs limiting their systemic bioavailability (116, 117).
+ Curcumin was also found to affect the activity of phase I biotransformation enzymes like cytochrome P450 (CYP) 3A4 (CYP3A4) (118), which catalyzes the metabolism of about one-half of all marketed drugs in the US (119).
+ In healthy Japanese volunteers, curcumin (2 g) was found to increase plasma sulfasalazine concentration following the administration of a therapeutic dose (2 g) of the anti-rheumatic drug sulfasalazine (Salazopyrin, Azulfidine) (120).
+ Some curcumin supplements also contain piperine to increase the bioavailability of curcumin.
+ Piperine may also interfere with efflux drug transporters and phase I cytochrome P450 enzymes and increase the bioavailability and slow the elimination of a number of drugs, including phenytoin (Dilantin), propranolol (Inderal), theophylline, and carbamazepine (Tegretol) (121-123).
+ Authors and Reviewers  	Originally written in 2005 by: 	Jane Higdon, Ph.D. 	Linus Pauling Institute 	Oregon State University  	Updated in January 2009 by: 	Victoria J. Drake, Ph.D. 	Linus Pauling Institute 	Oregon State University  	Updated in February 2016 by: 	Barbara Delage, Ph.D. 	Linus Pauling Institute 	Oregon State University  	Reviewed in March 2016 by: 	Lynne Howells, Ph.D. 	Research Fellow 	Experimental Cancer Medicine Centre Lab Quality Manager 	University of Leicester  	Copyright 2005-2020  Linus Pauling Institute   References      					1.
+ Gupta SC, Kismali G, Aggarwal BB.
+ Curcumin, a component of turmeric: from farm to pharmacy.
+ Biofactors.
+ 2013;39(1):2-13.
+ (PubMed)  2.
+ Bandyopadhyay D. Farmer to pharmacist: curcumin as an anti-invasive and antimetastatic agent for the treatment of cancer.
+ Front Chem.
+ 2014;2:113.
+ (PubMed)  3.
+ Sharma RA, Gescher AJ, Steward WP.
+ Curcumin: The story so far.
+ Eur J Cancer.
+ 2005;41(13):1955-1968.
+ (PubMed)  4.
+ Anand P, Kunnumakkara AB, Newman RA, Aggarwal BB.
+ Bioavailability of curcumin: problems and promises.
+ Mol Pharm.
+ 2007;4(6):807-818.
+ (PubMed)  5.
+ Maheshwari RK, Singh AK, Gaddipati J, Srimal RC.
+ Multiple biological activities of curcumin: a short review.
+ Life Sci.
+ 2006;78(18):2081-2087.
+ (PubMed)  6.
+ Baum L, Lam CW, Cheung SK, et al.
+ Six-month randomized, placebo-controlled, double-blind, pilot clinical trial of curcumin in patients with Alzheimer disease.
+ J Clin Psychopharmacol.
+ 2008;28(1):110-113.
+ (PubMed)  7.
+ Lao CD, Ruffin MTt, Normolle D, et al.
+ Dose escalation of a curcuminoid formulation.
+ BMC Complement Altern Med.
+ 2006;6:10.
+ (PubMed)  8.
+ Cheng AL, Hsu CH, Lin JK, et al.
+ Phase I clinical trial of curcumin, a chemopreventive agent, in patients with high-risk or pre-malignant lesions.
+ Anticancer Res.
+ 2001;21(4B):2895-2900.
+ (PubMed)  9.
+ Sharma RA, Euden SA, Platton SL, et al.
+ Phase I clinical trial of oral curcumin: biomarkers of systemic activity and compliance.
+ Clin Cancer Res.
+ 2004;10(20):6847-6854.
+ (PubMed)  10.
+ Garcea G, Berry DP, Jones DJ, et al.
+ Consumption of the putative chemopreventive agent curcumin by cancer patients: assessment of curcumin levels in the colorectum and their pharmacodynamic consequences.
+ Cancer Epidemiol Biomarkers Prev.
+ 2005;14(1):120-125.
+ (PubMed)  11.
+ Garcea G, Jones DJ, Singh R, et al.
+ Detection of curcumin and its metabolites in hepatic tissue and portal blood of patients following oral administration.
+ Br J Cancer.
+ 2004;90(5):1011-1015.
+ (PubMed)  12.
+ Aggarwal ML, Chacko KM, Kuruvilla BT.
+ Systematic and comprehensive investigation of the toxicity of curcuminoidessential oil complex: A bioavailable turmeric formulation.
+ Mol Med Rep. 2016;13(1):592-604.
+ (PubMed)  13.
+ Jager R, Lowery RP, Calvanese AV, Joy JM, Purpura M, Wilson JM.
+ Comparative absorption of curcumin formulations.
+ Nutr J.
+ 2014;13:11.
+ (PubMed)  14.
+ Kanai M, Imaizumi A, Otsuka Y, et al.
+ Dose-escalation and pharmacokinetic study of nanoparticle curcumin, a potential anticancer agent with improved bioavailability, in healthy human volunteers.
+ Cancer Chemother Pharmacol.
+ 2012;69(1):65-70.
+ (PubMed)  15.
+ Mendonca LM, Machado Cda S, Teixeira CC, Freitas LA, Bianchi ML, Antunes LM.
+ Comparative study of curcumin and curcumin formulated in a solid dispersion: Evaluation of their antigenotoxic effects.
+ Genet Mol Biol.
+ 2015;38(4):490-498.
+ (PubMed)  16.
+ Shakeri A, Sahebkar A. Optimized curcumin formulations for the treatment of Alzheimer's disease: A patent evaluation.
+ J Neurosci Res.
+ 2016;94(2):111-113.
+ (PubMed)  17.
+ Prasad S, Tyagi AK, Aggarwal BB.
+ Recent developments in delivery, bioavailability, absorption and metabolism of curcumin: the golden pigment from golden spice.
+ Cancer Res Treat.
+ 2014;46(1):2-18.
+ (PubMed)  18.
+ Sreejayan, Rao MN.
+ Nitric oxide scavenging by curcuminoids.
+ J Pharm Pharmacol.
+ 1997;49(1):105-107.
+ (PubMed)  19.
+ Sreejayan N, Rao MN.
+ Free radical scavenging activity of curcuminoids.
+ Arzneimittelforschung.
+ 1996;46(2):169-171.
+ (PubMed)  20.
+ Dickinson DA, Levonen AL, Moellering DR, et al.
+ Human glutamate cysteine ligase gene regulation through the electrophile response element.
+ Free Radic Biol Med.
+ 2004;37(8):1152-1159.
+ (PubMed)  21.
+ Dickinson DA, Iles KE, Zhang H, Blank V, Forman HJ.
+ Curcumin alters EpRE and AP-1 binding complexes and elevates glutamate-cysteine ligase gene expression.
+ FASEB J.
+ 2003;17(3):473-475.
+ (PubMed)  22.
+ Scapagnini G, Vasto S, Abraham NG, Caruso C, Zella D, Fabio G. Modulation of Nrf2/ARE pathway by food polyphenols: a nutritional neuroprotective strategy for cognitive and neurodegenerative disorders.
+ Mol Neurobiol.
+ 2011;44(2):192-201.
+ (PubMed)  23.
+ Zhang X, Liang D, Guo L, et al.
+ Curcumin protects renal tubular epithelial cells from high glucose-induced epithelial-to-mesenchymal transition through Nrf2-mediated upregulation of heme oxygenase-1.
+ Mol Med Rep. 2015;12(1):1347-1355.
+ (PubMed)  24.
+ Suzuki M, Betsuyaku T, Ito Y, et al.
+ Curcumin attenuates elastase- and cigarette smoke-induced pulmonary emphysema in mice.
+ Am J Physiol Lung Cell Mol Physiol.
+ 2009;296(4):L614-623.
+ (PubMed)  25.
+ Yao QY, Xu BL, Wang JY, Liu HC, Zhang SC, Tu CT. Inhibition by curcumin of multiple sites of the transforming growth factor-β1 signalling pathway ameliorates the progression of liver fibrosis induced by carbon tetrachloride in rats.
+ BMC Complement Altern Med.
+ 2012;12:156.
+ (PubMed)  26.
+ Xiong ZE, Dong WG, Wang BY, Tong QY, Li ZY.
+ Curcumin attenuates chronic ethanol-induced liver injury by inhibition of oxidative stress via mitogen-activated protein kinase/nuclear factor E2-related factor 2 pathway in mice.
+ Pharmacogn Mag.
+ 2015;11(44):707-715.
+ (PubMed)  27.
+ Xie Y, Zhao QY, Li HY, Zhou X, Liu Y, Zhang H. Curcumin ameliorates cognitive deficits heavy ion irradiation-induced learning and memory deficits through enhancing of Nrf2 antioxidant signaling pathways.
+ Pharmacol Biochem Behav.
+ 2014;126:181-186.
+ (PubMed)  28.
+ Ghosh S, Banerjee S, Sil PC.
+ The beneficial role of curcumin on inflammation, diabetes and neurodegenerative disease: A recent update.
+ Food Chem Toxicol.
+ 2015;83:111-124.
+ (PubMed)  29.
+ Li CP, Li JH, He SY, Chen O, Shi L. Effect of curcumin on p38MAPK expression in DSS-induced murine ulcerative colitis.
+ Genet Mol Res.
+ 2015;14(2):3450-3458.
+ (PubMed)  30.
+ Yang JY, Zhong X, Yum HW, et al.
+ Curcumin inhibits STAT3 signaling in the colon of dextran sulfate sodium-treated mice.
+ J Cancer Prev.
+ 2013;18(2):186-191.
+ (PubMed)  31.
+ Moon DO, Kim MO, Choi YH, Park YM, Kim GY.
+ Curcumin attenuates inflammatory response in IL-1β-induced human synovial fibroblasts and collagen-induced arthritis in mouse model.
+ Int Immunopharmacol.
+ 2010;10(5):605-610.
+ (PubMed)  32.
+ Shakibaei M, John T, Schulze-Tanzil G, Lehmann I, Mobasheri A. Suppression of NF-κB activation by curcumin leads to inhibition of expression of cyclo-oxygenase-2 and matrix metalloproteinase-9 in human articular chondrocytes: Implications for the treatment of osteoarthritis.
+ Biochem Pharmacol.
+ 2007;73(9):1434-1445.
+ (PubMed)  33.
+ Zhu HT, Bian C, Yuan JC, et al.
+ Curcumin attenuates acute inflammatory injury by inhibiting the TLR4/MyD88/NF-κB signaling pathway in experimental traumatic brain injury.
+ J Neuroinflammation.
+ 2014;11:59.
+ (PubMed)  34.
+ Baird WM, Hooven LA, Mahadevan B. Carcinogenic polycyclic aromatic hydrocarbon-DNA adducts and mechanism of action.
+ Environ Mol Mutagen.
+ 2005;45(2-3):106-114.
+ (PubMed)  35.
+ Sehgal A, Kumar M, Jain M, Dhawan DK.
+ Modulatory effects of curcumin in conjunction with piperine on benzo(a)pyrene-mediated DNA adducts and biotransformation enzymes.
+ Nutr Cancer.
+ 2013;65(6):885-890.
+ (PubMed)  36.
+ Thapliyal R, Maru GB.
+ Inhibition of cytochrome P450 isozymes by curcumins in vitro and in vivo.
+ Food Chem Toxicol.
+ 2001;39(6):541-547.
+ (PubMed)  37.
+ Volak LP, Ghirmai S, Cashman JR, Court MH.
+ Curcuminoids inhibit multiple human cytochromes P450, UDP-glucuronosyltransferase, and sulfotransferase enzymes, whereas piperine is a relatively selective CYP3A4 inhibitor.
+ Drug Metab Dispos.
+ 2008;36(8):1594-1605.
+ (PubMed)  38.
+ Das L, Vinayak M. Long term effect of curcumin in restoration of tumour suppressor p53 and phase-II antioxidant enzymes via activation of Nrf2 signalling and modulation of inflammation in prevention of cancer.
+ PLoS One.
+ 2015;10(4):e0124000.
+ (PubMed)  39.
+ Iqbal M, Sharma SD, Okazaki Y, Fujisawa M, Okada S. Dietary supplementation of curcumin enhances antioxidant and phase II metabolizing enzymes in ddY male mice: possible role in protection against chemical carcinogenesis and toxicity.
+ Pharmacol Toxicol.
+ 2003;92(1):33-38.
+ (PubMed)  40.
+ Stewart ZA, Westfall MD, Pietenpol JA.
+ Cell-cycle dysregulation and anticancer therapy.
+ Trends Pharmacol Sci.
+ 2003;24(3):139-145.
+ (PubMed)  41.
+ Duvoix A, Blasius R, Delhalle S, et al.
+ Chemopreventive and therapeutic effects of curcumin.
+ Cancer Lett.
+ 2005;223(2):181-190.
+ (PubMed)  42.
+ Surh YJ, Chun KS.
+ Cancer chemopreventive effects of curcumin.
+ Adv Exp Med Biol.
+ 2007;595:149-172.
+ (PubMed)  43.
+ Singh S, Khar A.
+ Biological effects of curcumin and its role in cancer chemoprevention and therapy.
+ Anticancer Agents Med Chem.
+ 2006;6(3):259-270.
+ (PubMed)  44.
+ Kuttan G, Kumar KB, Guruvayoorappan C, Kuttan R. Antitumor, anti-invasion, and antimetastatic effects of curcumin.
+ Adv Exp Med Biol.
+ 2007;595:173-184.
+ (PubMed)  45.
+ Kunnumakkara AB, Anand P, Aggarwal BB.
+ Curcumin inhibits proliferation, invasion, angiogenesis and metastasis of different cancers through interaction with multiple cell signaling proteins.
+ Cancer Lett.
+ 2008;269(2):199-225.
+ (PubMed)  46.
+ Chen B, Zhang Y, Wang Y, Rao J, Jiang X, Xu Z. Curcumin inhibits proliferation of breast cancer cells through Nrf2-mediated down-regulation of Fen1 expression.
+ J Steroid Biochem Mol Biol.
+ 2014;143:11-18.
+ (PubMed)  47.
+ Zhou H, Beevers CS, Huang S. The targets of curcumin.
+ Curr Drug Targets.
+ 2011;12(3):332-347.
+ (PubMed)  48.
+ Han X, Xu B, Beevers CS, et al.
+ Curcumin inhibits protein phosphatases 2A and 5, leading to activation of mitogen-activated protein kinases and death in tumor cells.
+ Carcinogenesis.
+ 2012;33(4):868-875.
+ (PubMed)  49.
+ Huang T, Chen Z, Fang L. Curcumin inhibits LPS-induced EMT through downregulation of NF-κB-Snail signaling in breast cancer cells.
+ Oncol Rep. 2013;29(1):117-124.
+ (PubMed)  50.
+ Prvulovic D, Hampel H. Amyloid beta (Aβ) and phospho-tau (p-τ) as diagnostic biomarkers in Alzheimer's disease.
+ Clin Chem Lab Med.
+ 2011;49(3):367-374.
+ (PubMed)  51.
+ Ono K, Hasegawa K, Naiki H, Yamada M. Curcumin has potent anti-amyloidogenic effects for Alzheimer's β-amyloid fibrils in vitro.
+ J Neurosci Res.
+ 2004;75(6):742-750.
+ (PubMed)  52.
+ Reinke AA, Gestwicki JE.
+ Structure-activity relationships of amyloid β-aggregation inhibitors based on curcumin: influence of linker length and flexibility.
+ Chem Biol Drug Des.
+ 2007;70(3):206-215.
+ (PubMed)  53.
+ Yang F, Lim GP, Begum AN, et al.
+ Curcumin inhibits formation of amyloid β oligomers and fibrils, binds plaques, and reduces amyloid in vivo.
+ J Biol Chem.
+ 2005;280(7):5892-5901.
+ (PubMed)  54.
+ Lin R, Chen X, Li W, Han Y, Liu P, Pi R. Exposure to metal ions regulates mRNA levels of APP and BACE1 in PC12 cells: blockage by curcumin.
+ Neurosci Lett.
+ 2008;440(3):344-347.
+ (PubMed)  55.
+ Zhang C, Browne A, Child D, Tanzi RE.
+ Curcumin decreases amyloid-β peptide levels by attenuating the maturation of amyloid-β precursor protein.
+ J Biol Chem.
+ 2010;285(37):28472-28480.
+ (PubMed)  56.
+ Shi X, Zheng Z, Li J, et al.
+ Curcumin inhibits Aβ-induced microglial inflammatory responses in vitro: Involvement of ERK1/2 and p38 signaling pathways.
+ Neurosci Lett.
+ 2015;594:105-110.
+ (PubMed)  57.
+ Goozee KG, Shah TM, Sohrabi HR, et al.
+ Examining the potential clinical value of curcumin in the prevention and diagnosis of Alzheimer's disease.
+ Br J Nutr.
+ 2015:1-17.
+ (PubMed)  58.
+ Krishnaswamy K, Goud VK, Sesikeran B, Mukundan MA, Krishna TP.
+ Retardation of experimental tumorigenesis and reduction in DNA adducts by turmeric and curcumin.
+ Nutr Cancer.
+ 1998;30(2):163-166.
+ (PubMed)  59.
+ Li N, Chen X, Liao J, et al.
+ Inhibition of 7,12-dimethylbenz[a]anthracene (DMBA)-induced oral carcinogenesis in hamsters by tea and curcumin.
+ Carcinogenesis.
+ 2002;23(8):1307-1313.
+ (PubMed)  60.
+ Ikezaki S, Nishikawa A, Furukawa F, et al.
+ Chemopreventive effects of curcumin on glandular stomach carcinogenesis induced by N-methyl-N'-nitro-N-nitrosoguanidine and sodium chloride in rats.
+ Anticancer Res.
+ 2001;21(5):3407-3411.
+ (PubMed)  61.
+ Huang MT, Lou YR, Ma W, Newmark HL, Reuhl KR, Conney AH.
+ Inhibitory effects of dietary curcumin on forestomach, duodenal, and colon carcinogenesis in mice.
+ Cancer Res.
+ 1994;54(22):5841-5847.
+ (PubMed)  62.
+ Chuang SE, Kuo ML, Hsu CH, et al.
+ Curcumin-containing diet inhibits diethylnitrosamine-induced murine hepatocarcinogenesis.
+ Carcinogenesis.
+ 2000;21(2):331-335.
+ (PubMed)  63.
+ Pereira MA, Grubbs CJ, Barnes LH, et al.
+ Effects of the phytochemicals, curcumin and quercetin, upon azoxymethane-induced colon cancer and 7,12-dimethylbenz[a]anthracene-induced mammary cancer in rats.
+ Carcinogenesis.
+ 1996;17(6):1305-1311.
+ (PubMed)  64.
+ Rao CV, Rivenson A, Simi B, Reddy BS.
+ Chemoprevention of colon carcinogenesis by dietary curcumin, a naturally occurring plant phenolic compound.
+ Cancer Res.
+ 1995;55(2):259-266.
+ (PubMed)  65.
+ Kawamori T, Lubet R, Steele VE, et al.
+ Chemopreventive effect of curcumin, a naturally occurring anti-inflammatory agent, during the promotion/progression stages of colon cancer.
+ Cancer Res.
+ 1999;59(3):597-601.
+ (PubMed)  66.
+ Mahmoud NN, Carothers AM, Grunberger D, et al.
+ Plant phenolics decrease intestinal tumors in an animal model of familial adenomatous polyposis.
+ Carcinogenesis.
+ 2000;21(5):921-927.
+ (PubMed)  67.
+ Perkins S, Verschoyle RD, Hill K, et al.
+ Chemopreventive efficacy and pharmacokinetics of curcumin in the min/+ mouse, a model of familial adenomatous polyposis.
+ Cancer Epidemiol Biomarkers Prev.
+ 2002;11(6):535-540.
+ (PubMed)  68.
+ Carroll RE, Benya RV, Turgeon DK, et al.
+ Phase IIa clinical trial of curcumin for the prevention of colorectal neoplasia.
+ Cancer Prev Res (Phila).
+ 2011;4(3):354-364.
+ (PubMed)  69.
+ National Institutes of Health.
+ Clinical Trials.gov [Website].
+ Available at: http://clinicaltrials.gov/.
+ Accessed 1/27/16.
+ 70.
+ Rivera-Mancia S, Lozada-Garcia MC, Pedraza-Chaverri J.
+ Experimental evidence for curcumin and its analogs for management of diabetes mellitus and its associated complications.
+ Eur J Pharmacol.
+ 2015;756:30-37.
+ (PubMed)  71.
+ Chuengsamarn S, Rattanamongkolgul S, Luechapudiporn R, Phisalaphong C, Jirawatnotai S. Curcumin extract for prevention of type 2 diabetes.
+ Diabetes Care.
+ 2012;35(11):2121-2127.
+ (PubMed)  72.
+ Usharani P, Mateen AA, Naidu MU, Raju YS, Chandra N. Effect of NCB-02, atorvastatin and placebo on endothelial function, oxidative stress and inflammatory markers in patients with type 2 diabetes mellitus: a randomized, parallel-group, placebo-controlled, 8-week study.
+ Drugs R D. 2008;9(4):243-250.
+ (PubMed)  73.
+ Chuengsamarn S, Rattanamongkolgul S, Phonrat B, Tungtrongchitr R, Jirawatnotai S. Reduction of atherogenic risk in patients with type 2 diabetes by curcuminoid extract: a randomized controlled trial.
+ J Nutr Biochem.
+ 2014;25(2):144-150.
+ (PubMed)  74.
+ Khajehdehi P, Pakfetrat M, Javidnia K, et al.
+ Oral supplementation of turmeric attenuates proteinuria, transforming growth factor-β and interleukin-8 levels in patients with overt type 2 diabetic nephropathy: a randomized, double-blind and placebo-controlled study.
+ Scand J Urol Nephrol.
+ 2011;45(5):365-370.
+ (PubMed)  75.
+ Schaffer M, Schaffer PM, Zidan J, Bar Sela G. Curcuma as a functional food in the control of cancer and inflammation.
+ Curr Opin Clin Nutr Metab Care.
+ 2011;14(6):588-597.
+ (PubMed)  76.
+ National Institutes of Health.
+ An Introduction to Clinical Trials.
+ Available at: https://clinicaltrials.gov/ct2/about-studies/learn.
+ Accessed 2/8/16.
+ 77.
+ Mall M, Kunzelmann K. Correction of the CF defect by curcumin: hypes and disappointments.
+ Bioessays.
+ 2005;27(1):9-13.
+ (PubMed)  78.
+ Irving GR, Howells LM, Sale S, et al.
+ Prolonged biologically active colonic tissue levels of curcumin achieved after oral administration — a clinical pilot study including assessment of patient acceptability.
+ Cancer Prev Res (Phila).
+ 2013;6(2):119-128.
+ (PubMed)  79.
+ Epelbaum R, Schaffer M, Vizel B, Badmaev V, Bar-Sela G. Curcumin and gemcitabine in patients with advanced pancreatic cancer.
+ Nutr Cancer.
+ 2010;62(8):1137-1141.
+ (PubMed)  80.
+ Kanai M, Yoshimura K, Asada M, et al.
+ A phase I/II study of gemcitabine-based chemotherapy plus curcumin for patients with gemcitabine-resistant pancreatic cancer.
+ Cancer Chemother Pharmacol.
+ 2011;68(1):157-164.
+ (PubMed)  81.
+ Bayet-Robert M, Kwiatkowski F, Leheurteur M, et al.
+ Phase I dose escalation trial of docetaxel plus curcumin in patients with advanced and metastatic breast cancer.
+ Cancer Biol Ther.
+ 2010;9(1):8-14.
+ (PubMed)  82.
+ Ghalaut VS, Sangwan L, Dahiya K, Ghalaut PS, Dhankhar R, Saharan R. Effect of imatinib therapy with and without turmeric powder on nitric oxide levels in chronic myeloid leukemia.
+ J Oncol Pharm Pract.
+ 2012;18(2):186-190.
+ (PubMed)  83.
+ Mahammedi H, Planchat E, Pouget M, et al.
+ The new combination docetaxel, prednisone and curcumin in patients with castration-resistant prostate cancer: a pilot phase II study.
+ Oncology.
+ 2016;90(2):69-78.
+ (PubMed)  84.
+ Satoskar RR, Shah SJ, Shenoy SG.
+ Evaluation of anti-inflammatory property of curcumin (diferuloyl methane) in patients with postoperative inflammation.
+ Int J Clin Pharmacol Ther Toxicol.
+ 1986;24(12):651-654.
+ (PubMed)  85.
+ Deodhar SD, Sethi R, Srimal RC.
+ Preliminary study on antirheumatic activity of curcumin (diferuloyl methane).
+ Indian J Med Res.
+ 1980;71:632-634.
+ 86.
+ Chandran B, Goel A.
+ A randomized, pilot study to assess the efficacy and safety of curcumin in patients with active rheumatoid arthritis.
+ Phytother Res.
+ 2012;26(11):1719-1725.
+ (PubMed)  87.
+ Ryan JL, Heckler CE, Ling M, et al.
+ Curcumin for radiation dermatitis: a randomized, double-blind, placebo-controlled clinical trial of thirty breast cancer patients.
+ Radiat Res.
+ 2013;180(1):34-43.
+ (PubMed)  88.
+ Hanai H, Iida T, Takeuchi K, et al.
+ Curcumin maintenance therapy for ulcerative colitis: randomized, multicenter, double-blind, placebo-controlled trial.
+ Clin Gastroenterol Hepatol.
+ 2006;4(12):1502-1506.
+ (PubMed)  89.
+ Lang A, Salomon N, Wu JC, et al.
+ Curcumin in combination with mesalamine induces remission in patients with mild-to-moderate ulcerative colitis in a randomized controlled trial.
+ Clin Gastroenterol Hepatol.
+ 2015;13(8):1444-1449 e1441.
+ (PubMed)  90.
+ Anuradha BR, Bai YD, Sailaja S, Sudhakar J, Priyanka M, Deepika V. Evaluation of anti-inflammatory effects of curcumin gel as an adjunct to scaling and root planing: A Clinical Study.
+ J Int Oral Health.
+ 2015;7(7):90-93.
+ (PubMed)  91.
+ Nagasri M, Madhulatha M, Musalaiah SV, Kumar PA, Krishna CH, Kumar PM.
+ Efficacy of curcumin as an adjunct to scaling and root planning in chronic periodontitis patients: A clinical and microbiological study.
+ J Pharm Bioallied Sci.
+ 2015;7(Suppl 2):S554-558.
+ (PubMed)  92.
+ Sreedhar A, Sarkar I, Rajan P, et al.
+ Comparative evaluation of the efficacy of curcumin gel with and without photo activation as an adjunct to scaling and root planing in the treatment of chronic periodontitis: A split mouth clinical and microbiological study.
+ J Nat Sci Biol Med.
+ 2015;6(Suppl 1):S102-109.
+ (PubMed)  93.
+ Muglikar S, Patil KC, Shivswami S, Hegde R. Efficacy of curcumin in the treatment of chronic gingivitis: a pilot study.
+ Oral Health Prev Dent.
+ 2013;11(1):81-86.
+ (PubMed)  94.
+ Alok A, Singh ID, Singh S, Kishore M, Jha PC.
+ Curcumin — pharmacological actions and its role in oral submucous fibrosis: a review.
+ J Clin Diagn Res.
+ 2015;9(10):ZE01-03.
+ (PubMed)  95.
+ Yadav M, Aravinda K, Saxena VS, et al.
+ Comparison of curcumin with intralesional steroid injections in Oral Submucous Fibrosis - A randomized, open-label interventional study.
+ J Oral Biol Craniofac Res.2014;4(3):169-173.
+ (PubMed)  96.
+ Hazarey VK, Sakrikar AR, Ganvir SM.
+ Efficacy of curcumin in the treatment for oral submucous fibrosis — a randomized clinical trial.
+ J Oral Maxillofac Pathol.
+ 2015;19(2):145-152.
+ (PubMed)  97.
+ Cox KH, Pipingas A, Scholey AB.
+ Investigation of the effects of solid lipid curcumin on cognition and mood in a healthy older population.
+ J Psychopharmacol.
+ 2015;29(5):642-651.
+ (PubMed)  98.
+ Ringman JM, Frautschy SA, Teng E, et al.
+ Oral curcumin for Alzheimer's disease: tolerability and efficacy in a 24-week randomized, double blind, placebo-controlled study.
+ Alzheimers Res Ther.
+ 2012;4(5):43.
+ (PubMed)  99.
+ Davidson JR. Major depressive disorder treatment guidelines in America and Europe.
+ J Clin Psychiatry.
+ 2010;71 Suppl E1:e04.
+ (PubMed)  100.
+ Al-Karawi D, Al Mamoori DA, Tayyar Y.
+ The role of curcumin administration in patients with major depressive disorder: mini meta-analysis of clinical trials.
+ Phytother Res.
+ 2016;30(2):175-183.
+ (PubMed)  101.
+ Lopresti AL, Maes M, Maker GL, Hood SD, Drummond PD.
+ Curcumin for the treatment of major depression: a randomised, double-blind, placebo controlled study.
+ J Affect Disord.
+ 2014;167:368-375.
+ (PubMed)  102.
+ Bergman J, Miodownik C, Bersudsky Y, et al.
+ Curcumin as an add-on to antidepressive treatment: a randomized, double-blind, placebo-controlled, pilot clinical study.
+ Clin Neuropharmacol.
+ 2013;36(3):73-77.
+ (PubMed)  103.
+ Sanmukhani J, Satodia V, Trivedi J, et al.
+ Efficacy and safety of curcumin in major depressive disorder: a randomized controlled trial.
+ Phytother Res.
+ 2014;28(4):579-585.
+ (PubMed)  104.
+ Yu JJ, Pei LB, Zhang Y, Wen ZY, Yang JL.
+ Chronic supplementation of curcumin enhances the efficacy of antidepressants in major depressive disorder: a randomized, double-blind, placebo-controlled pilot study.
+ J Clin Psychopharmacol.
+ 2015;35(4):406-410.
+ (PubMed)  105.
+ Fanaei H, Khayat S, Kasaeian A, Javadimehr M. Effect of curcumin on serum brain-derived neurotrophic factor levels in women with premenstrual syndrome: a randomized, double-blind, placebo-controlled trial.
+ Neuropeptides.
+ 2015.
+ Nov 11. pii: S0143-4179(15)00118-3. doi: 10.1016/j.npep.2015.11.003.
+ [Epub ahead of print].
+ (PubMed)  106.
+ Prasad S, Gupta SC, Tyagi AK, Aggarwal BB.
+ Curcumin, a component of golden spice: from bedside to bench and back.
+ Biotechnol Adv.
+ 2014;32(6):1053-1064.
+ (PubMed)  107.
+ Lechtenberg M, Quandt B, Nahrstedt A. Quantitative determination of curcuminoids in Curcuma rhizomes and rapid differentiation of Curcuma domestica Val.
+ and Curcuma xanthorrhiza Roxb.
+ by capillary electrophoresis.
+ Phytochem Anal.
+ 2004;15(3):152-158.
+ (PubMed)  108.
+ Hendler SS, Rorvik DM.
+ PDR for Nutritional Supplements.
+ 2nd ed: Thomson Reuters; 2008.
+ 109.
+ Heath DD, Khwaja F, Rock CL.
+ Curcumin content of turmeric and curry powders.
+ FASEB J.
+ 2004;18(4):A125-A125.
+ (PubMed)  110.
+ US Food and Drug Administration.
+ Food Additive Status List: GRN number 460.
+ Aug 23, 2013.
+ Accessed 1/25/16.
+ 111.
+ Rasyid A, Lelo A.
+ The effect of curcumin and placebo on human gall-bladder function: an ultrasound study.
+ Aliment Pharmacol Ther.
+ 1999;13(2):245-249.
+ (PubMed)  112.
+ Rasyid A, Rahman AR, Jaalam K, Lelo A.
+ Effect of different curcumin dosages on human gall bladder.
+ Asia Pac J Clin Nutr.
+ 2002;11(4):314-318.
+ (PubMed)  113.
+ Shah BH, Nawaz Z, Pertani SA, et al.
+ Inhibitory effect of curcumin, a food spice from turmeric, on platelet-activating factor- and arachidonic acid-mediated platelet aggregation through inhibition of thromboxane formation and Ca2+ signaling.
+ Biochem Pharmacol.
+ 1999;58(7):1167-1172.
+ (PubMed)  114.
+ Srivastava KC, Bordia A, Verma SK.
+ Curcumin, a major component of food spice turmeric (Curcuma longa) inhibits aggregation and alters eicosanoid metabolism in human blood platelets.
+ Prostaglandins Leukot Essent Fatty Acids.
+ 1995;52(4):223-227.
+ (PubMed)  115.
+ Somasundaram S, Edmund NA, Moore DT, Small GW, Shi YY, Orlowski RZ.
+ Dietary curcumin inhibits chemotherapy-induced apoptosis in models of human breast cancer.
+ Cancer Res.
+ 2002;62(13):3868-3875.
+ (PubMed)  116.
+ Chearwae W, Shukla S, Limtrakul P, Ambudkar SV.
+ Modulation of the function of the multidrug resistance-linked ATP-binding cassette transporter ABCG2 by the cancer chemopreventive agent curcumin.
+ Mol Cancer Ther.
+ 2006;5(8):1995-2006.
+ (PubMed)  117.
+ Chearwae W, Wu CP, Chu HY, Lee TR, Ambudkar SV, Limtrakul P. Curcuminoids purified from turmeric powder modulate the function of human multidrug resistance protein 1 (ABCC1).
+ Cancer Chemother Pharmacol.
+ 2006;57(3):376-388.
+ (PubMed)  118.
+ Hsieh YW, Huang CY, Yang SY, et al.
+ Oral intake of curcumin markedly activated CYP 3A4: in vivo and ex-vivo studies.
+ Sci Rep. 2014;4:6587.
+ (PubMed)  119.
+ Koe XF, Tengku Muhammad TS, Chong AS, Wahab HA, Tan ML.
+ Cytochrome P450 induction properties of food and herbal-derived compounds using a novel multiplex RT-qPCR in vitro assay, a drug-food interaction prediction tool.
+ Food Sci Nutr.
+ 2014;2(5):500-520.
+ (PubMed)  120.
+ Kusuhara H, Furuie H, Inano A, et al.
+ Pharmacokinetic interaction study of sulphasalazine in healthy subjects and the impact of curcumin as an in vivo inhibitor of BCRP.
+ Br J Pharmacol.
+ 2012;166(6):1793-1803.
+ (PubMed)  121.
+ Bano G, Raina RK, Zutshi U, Bedi KL, Johri RK, Sharma SC.
+ Effect of piperine on bioavailability and pharmacokinetics of propranolol and theophylline in healthy volunteers.
+ Eur J Clin Pharmacol.
+ 1991;41(6):615-617.
+ (PubMed)  122.
+ Pattanaik S, Hota D, Prabhakar S, Kharbanda P, Pandhi P. Pharmacokinetic interaction of single dose of piperine with steady-state carbamazepine in epilepsy patients.
+ Phytother Res.
+ 2009;23(9):1281-1286.
+ (PubMed)  123.
+ Velpandian T, Jasuja R, Bhardwaj RK, Jaiswal J, Gupta SK.
+ Piperine in food: interference in the pharmacokinetics of phenytoin.
+ Eur J Drug Metab Pharmacokinet.
+ 2001;26(4):241-247.
+ (PubMed)        ‹ Chlorophyll and Chlorophyllin up Fiber ›    Printer-friendly version                X      				Since 2000, the Micronutrient Information Center has been your source for evidence-based information on the roles of nutrients and dietary factors in health and disease.
+ Join our $20 for 20 years campaign to help sustain this free resource.
+ We thank our supporters.
+ mic-site-identifier.png            lpi-mic-ce.png           Subscribe to our Research Newsletter      Donate to the MIC          Vitamins Minerals Micronutrient Inadequacies Other Nutrients Dietary FactorsL-Carnitine Coenzyme Q10 Lipoic Acid PhytochemicalsCarotenoids Chlorophyll and Chlorophyllin Curcumin Fiber Flavonoids Garlic Indole-3-Carbinol Isothiocyanates Lignans Phytosterols Resveratrol Soy Isoflavones   Food and Beverages Life Stages Health and Disease                         Disclaimer The Linus Pauling Institute Micronutrient Information Center provides scientific information on the health aspects of dietary factors and supplements, food, and beverages for the general public.
+ The information is made available with the understanding that the author and publisher are not providing medical, psychological, or nutritional counseling services on this site.
+ The information should not be used in place of a consultation with a competent health care or nutrition professional.
+ The information on dietary factors and supplements, food, and beverages contained on this website does not cover all possible uses, actions, precautions, side effects, and interactions.
+ It is not intended as nutritional or medical advice for individual problems.
+ Liability for individual actions or omissions based upon the contents of this site is expressly disclaimed.
+ You may not copy, modify, distribute, display, transmit, perform, publish or sell any of the copyrightable material on this website.
+ You may hyperlink to this website but must include the following statement: "This link leads to a website provided by the Linus Pauling Institute at Oregon State University.
+ [Your name] is not affiliated or endorsed by the Linus Pauling Institute or Oregon State University."
+ Contact Info   Linus Pauling Institute | Oregon State University 	307 Linus Pauling Science Center 	Corvallis, Oregon 97331 	phone: 541-737-5075 | fax: 541-737-5077 	email: lpi@oregonstate.edu  For media contact information   Copyright     ©2020    Oregon State University Disclaimer

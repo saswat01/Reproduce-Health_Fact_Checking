@@ -1,0 +1,26 @@
+": "Are you sure you want to delete this comment?
+ ", "Are you sure?
+ ": "Are you sure?
+ ", "Audience": "Audience", "Aug": "Aug", "August": "August", "Badges": "Badges", "Blog": "Blog", "By using this embed, you agree to Instagram\\'s API Terms of Use .
+ ": "By using this embed, you agree to Instagram\u005C\u0027s \u003Ca href\u003D\u0022http://instagram.com/about/legal/terms/api/\u0022\u003EAPI Terms of Use\u003C/a\u003E.
+ ", "Cancel": "Cancel", "Content unavailable": "Content unavailable", "Copy Embed Code": "Copy Embed Code", "Copy this code:": "Copy this code:", "Couldn\\'t post comment": "Couldn\u005C\u0027t post comment", "Dec": "Dec", "December": "December", "Delete": "Delete", "Edit Profile": "Edit Profile", "Embed": "Embed", "Feb": "Feb", "February": "February", "Follow": "Follow", "Follow %(username)s on Instagram": "Follow %(username)s on Instagram", "Follow friends and interesting people to see their photos here.
+ ": "Follow friends and interesting people to see their photos here.
+ ", "Following": "Following", "Forgot your password?
+ ": "Forgot your password?
+ ", "Fri": "Fri", "Friday": "Friday", "Here are some suggestions.
+ ": "Here are some suggestions.
+ ", "Home": "Home", "Jan": "Jan", "January": "January", "Jobs": "Jobs", "Jul": "Jul", "July": "July", "Jun": "Jun", "June": "June", "Leave a comment...": "Leave a comment...", "Like": "Like", "Likes": "Likes", "Load More...": "Load More...", "Load more": "Load more", "Load more...": "Load more...", "Loading more...": "Loading more...", "Loading...": "Loading...", "Log Out": "Log Out", "Log in": "Log in", "Mar": "Mar", "March": "March", "May": "May", "Mon": "Mon", "Monday": "Monday", "More": "More", "Next photo": "Next photo", "No Recent Photos": "No Recent Photos", "No likes yet.
+ ": "No likes yet.
+ ", "No photos to show.
+ ": "No photos to show.
+ ", "Nov": "Nov", "November": "November", "Now": "Now", "Oct": "Oct", "October": "October", "Open in App": "Open in App", "Others": "Others", "PM": "PM", "Password:": "Password:", "Paste it on your website, blog, or wherever you want to link to your profile!
+ ": "Paste it on your website, blog, or wherever you want to link to your profile!
+ ", "People you follow": "People you follow", "Performance": "Performance", "Photo by %(username)s": "Photo by %(username)s", "Posts": "Posts", "Press": "Press", "Press Page - Instagram": "Press Page \u002D Instagram", "Previous Posts": "Previous Posts", "Previous photo": "Previous photo", "Privacy": "Privacy", "Report inappropriate": "Report inappropriate", "Requested": "Requested", "Retry": "Retry", "Sat": "Sat", "Saturday": "Saturday", "Select your badge:": "Select your badge:", "Sep": "Sep", "September": "September", "Summary": "Summary", "Sun": "Sun", "Sunday": "Sunday", "Support": "Support", "Terms": "Terms", "This user is private": "This user is private", "Thu": "Thu", "Thursday": "Thursday", "To follow %(username)s, you need to log in.
+ ": "To follow %(username)s, you need to log in.
+ ", "Toggle like": "Toggle like", "Tue": "Tue", "Tuesday": "Tuesday", "Username:": "Username:", "Video by %(username)s": "Video by %(username)s", "View Photo Page": "View Photo Page", "View Profile": "View Profile", "View Video Page": "View Video Page", "View on Instagram": "View on Instagram", "Wed": "Wed", "Wednesday": "Wednesday", "When you are finished following people,": "When you are finished following people,", "Write a comment...": "Write a comment...", "Yes": "Yes", "You must log in to add a comment.
+ ": "You must log in to add a comment.
+ ", "You must log in to like this photo.
+ ": "You must log in to like this photo.
+ ", "You need to be following %(username)s to like or comment": "You need to be following %(username)s to like or comment", "Your username or password was incorrect.
+ ": "Your username or password was incorrect.
+ feed!!!

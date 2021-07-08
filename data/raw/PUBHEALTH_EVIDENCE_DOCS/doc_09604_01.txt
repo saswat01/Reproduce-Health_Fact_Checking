@@ -1,0 +1,53 @@
+Publisher Gary Schwitzer and other contributors may post new articles periodically.
+ But all of the 6,000+ articles we have published contain lessons to help you improve your critical thinking about health care interventions.
+ And those will be still be alive on the site for a couple of years.
+ Story Reviews News Release Review Blog Posts    6152 Posts 2616 Story Reviews 606 News Release Reviews 2930 Blog Posts   Home Story Reviews News Release Reviews Blog Podcasts About Us Editorial Team What We Review and How Review Criteria How Is the Star Score Determined?
+ Our Comments Policy Accolades for HealthNewsReview.org Talks, Workshops &amp; Presentations Toolkit Tips for Analyzing Studies &amp; Health Care Claims Just for Journalists: Writing Tips Stories of Patient Harm from Misleading Media Pre-publication News Release Review Health News Watchdog podcasts News Sites &amp; Blogs We Like List of Industry-Independent Experts Links to Other Resources Contact    Menu               July 12, 2016 Read Original Story‘This is a game changer:’ Reuters story on new dissolvable stent borders on giddy   Reviewed By Rating  Categories  heart disease, Reuters Tags  dissolvable stent  Abbott wins U.S. approval for stent that absorbs into body   Our Review Summary Doctors often treat coronary artery disease with a procedure called angioplasty to widen clogged or narrowed arteries using a metal stent.
+ But those stents have been problematic for some patients, leading to blood clots and even heart attacks.
+ The FDA has just approved medical use of a dissolvable stent manufactured by Abbott Labs, and this story heralds that decision.
+ The Reuters story included some details the Associated Press version did not–namely, what the stent is made of, what kind of drug is coated onto it, and what the plans are for rolling it out to hospitals.
+ But its almost giddy approach to the FDA announcement belies the fact that long-term safety and efficacy data are not yet in hand.
+ Put another way, no one yet knows if these dissolvable stents will make a practical difference in heart disease patient outcomes.
+ The AP story makes that crucial information a centerpiece of the text and, we think, does its readers a greater service.
+ Why This MattersCoronary heart disease is responsible for about 370,000 deaths each year in the U.S., according to the National Heart, Lung, and Blood Institute.
+ The use of stents to prop open occluded blood vessels is a popular treatment but one fraught with problems.
+ If dissolvable stents can help solve these problems in ways superior to other treatment alternatives, they represent a real and important advance.
+ Only time will tell–and this story didn’t make that clear enough.
+ Criteria  Does the story adequately discuss the costs of the intervention?
+ Not Satisfactory A reader would be hard-pressed to determine the cost of this new stent.
+ The only cost information provided sits in the last paragraph of the story, where it notes that the dissolvable stent will apparently cost more than Abbott Lab’s drug-coated metal stent, marketed under the name Xience.
+ (See our review of the AP story to see how much more in-depth they covered costs.)
+ Does the story adequately quantify the benefits of the treatment/test/product/procedure?
+ Not Satisfactory We’re not given any numbers, just this quick summary: “Data released in October concluded Absorb was comparable to Abbott’s own Xience drug-coated metal stent in safety and effectiveness but showed a higher risk of heart attacks and blood clots.” That’s a confusing statement.
+ Given that stents are presumably intended to prevent heart attacks, how can the two stents be “comparable” in effectiveness if there’s a higher risk with one compared to the other?
+ Also left unsaid is that any long-term benefits (and harms) are “prospective,” as no clinical study has lasted long enough to find them.
+ Does the story adequately explain/quantify the harms of the intervention?
+ Satisfactory The story mentions that one clinical study found a higher risk of heart attacks and blood clots in participants, complications that Abbott Labs apparently blames not on the stent but on surgeons’ lack of experience in using it.
+ A weakness here, though, as noted in the “benefits” segment above, is that there apparently have been no clinical trials that have lasted long enough for the stents to dissolve (about three years) in order to assess harms.
+ The story should make that clear to readers.
+ Does the story seem to grasp the quality of the evidence?
+ Not Satisfactory One study—presumably conducted by Abbott Labs—is referenced but not explained in enough detail to permit a reader to judge its quality.
+ The lab’s new release provides a bit more detail, but a reader still would not know if the trial design included a control group, whether it was “blinded,” etc.
+ Does the story commit disease-mongering?
+ Satisfactory Permanent metal mesh stents have complications, so the search for an alternative makes sense.
+ Does the story use independent sources and identify conflicts of interest?
+ Not Satisfactory Both scientists quoted in this story are connected in some way to Abbott Labs; one is a (presumably paid) adviser to the company while the other led the company’s clinical trial.
+ They are clearly identified.
+ A reader would likely infer, correctly, that development of the new device has been funded by the lab.
+ But had the reporter sought out an independent source or two, the murky nature of long-term effects of the stent might have become more obvious.
+ Does the story compare the new approach with existing alternatives?
+ Satisfactory The clinical trial summarized in the story compared the dissolvable stent with a metal stent coated with a drug to minimize future blood clots.
+ The story would have been stronger if it also had mentioned traditional metal stents (with no drug coating) and the use of drugs to manage heart disease.
+ Does the story establish the availability of the treatment/test/product/procedure?
+ Satisfactory The story notes that Abbott Labs plans to make the stent available to some 100 hospitals in the near future, in order to train surgeons in its use, before “ramping up sales.” This was information that we wished had been in the Associated Press story on the topic, which we also reviewed.
+ Does the story establish the true novelty of the approach?
+ Satisfactory Novelty is established in the first paragraph of this story and appears to be an accurate statement about what’s “newsy” here.
+ Does the story appear to rely solely or largely on a news release?
+ Satisfactory Although the story seems to be reasonably independent of the two available press releases found in the course of this analysis, its positive assessment of the new stent is consistent with the tone of the Abbott Labs’ release.
+ Total Score: 6 of 10 Satisfactory  You might also like   In just a few short paragraphs, Reuters story covers a lot of ground on asthma pill AP takes pains to point out lack of long-term data for new dissolvable stent 'Game changer' finds it way into poorly reported story on asthma pill still in development  Comments (1) Please note, comments are no longer published through this website.
+ All previously made comments are still archived and available for viewing through select posts.
+ Gary Schwitzer July 19, 2016 at 9:07 am In their Slow Medicine newsletter, Michael Hochman and Pieter Cohen wrote: Earlier this month the FDA approved the first in a new class of absorbable stents (known formerly as bioresorbable vascular scaffolds) even though the most comprehensive meta-analysis (a patient-level meta-analysis of 4 randomized controlled trials including more than 3,000 patients) found that the new stents led to an increase in target vessel myocardial infarction (MI) — yes, patients did worse compared to traditional drug-eluting stents.
+ The FDA’s own analysis also found that the new stent increased major cardiac events (7.8%) compared to control stents (6.1%), but that the increase was not statistically significant.
+ Remarkably, FDA did not just approve the Absorb stent, they actually pitched the new device: In the FDA news release to announce the approval Bram Zuckerman, the physician-director of the FDA’s division of cardiovascular devices, explained that “The FDA’s approval of the Absorb GT1 BVS offers a new treatment option for individuals who are candidates for angioplasty, but would prefer an absorbable device rather than a permanent metallic coronary stent.” Maybe so, but we’re left asking ourselves a few questions: Outside of a clinical study, is it ethical to offer this absorbable stent?
+ If a manufacturer can receive FDA imprimatur for a stent that increases MI’s, what’s next?
+ Reply

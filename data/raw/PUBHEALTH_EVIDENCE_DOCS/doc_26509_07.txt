@@ -1,0 +1,78 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link        Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People                  Search         Submit      For a full list of topics: A-Z Index   
+ 					Advanced Search
+ 				    
+ 				Advanced Search
+ 			                 Emergency Preparedness and Response            Section Navigation         CDC Home                    Facebook Twitter LinkedIn Syndicate                         Update and Interim Guidance on Outbreak of 2019 Novel Coronavirus (2019-nCoV)     Minus     Related Pages          Distributed via the CDC Health Alert Network February 1, 2020, 0900 ET (9:00 AM ET) CDCHAN-00427 Summary The Centers for Disease Control and Prevention (CDC) continues to closely monitor an outbreak of respiratory illness caused by a novel coronavirus (2019-nCoV) that was initially detected in Wuhan City, Hubei Province, China in December 2019.
+ This CDC Health Alert Network (HAN) Update provides a situational update and interim guidance to state and local health departments that supersedes guidance in CDC’s HAN 426 distributed on January 17, 2020.
+ It also adds  guidance for clinicians caring for patients with 2019-nCoV (https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html), and for public health officials on the evaluation and testing of patients under investigation (PUIs) for 2019-nCoV (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html), and updated infection prevention and control guidance specific to 2019-nCoV (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html).
+ Early in the outbreak, many of the patients with respiratory illness caused by 2019-nCoV in China had exposure to a large seafood and live animal market, suggesting animal-to-human transmission.
+ More recently, cases have been confirmed with no exposure to animal markets, indicating that person-to-person spread of the virus has occurred.
+ Chinese officials report that sustained person-to-person spread in the community is occurring in China.
+ The first US case-patient was identified on January 21, 2020, and had recently traveled from Wuhan, China.
+ Since that time, six additional cases have been confirmed in the United States, four among persons who traveled from Wuhan, and one a close contact of a confirmed case.
+ Globally, reported illnesses in people with 2019-nCoV have ranged from mild (no or few signs and symptoms), to severe, including death.
+ These findings are consistent with other coronaviruses, including Severe Acute Respiratory Syndrome (SARS) (https://www.cdc.gov/sars/) and Middle East Respiratory Syndrome (MERS) (https://www.cdc.gov/coronavirus/mers/index.html).
+ Additional information about 2019-nCoV is needed to better understand transmission, disease severity, and risk to the general population.
+ The goal of the ongoing US public health response is to identify and contain this outbreak and prevent sustained spread of 2019-nCoV in the United States.
+ Recommendations for Screening of Patients for 2019-nCoV in Healthcare Facilities  Recommendations for screening of patients for possible 2019-nCoV infection are based on (1) current knowledge of the characteristics of clinical illness observed in early cases, and (2) the geographic distribution of current cases.
+ They reflect the current public health goal of rapidly containing and preventing transmission of 2019-nCoV illness.
+ Patients presenting to healthcare facilities should be assessed for exposures associated with risk of 2019-nCoV infections (e.g., travel to China or close contact with a confirmed case) and for symptoms consistent with 2019-nCoV infection (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html).
+ The assessment is intended to allow healthcare providers to make decisions about appropriate infection control and management of patients.
+ Note that the signs and symptoms of 2019-nCoV overlap with those associated with other viral respiratory tract infections.
+ Given the time of year, common respiratory illnesses, including influenza, should also be considered in patients who are screened.
+ (Figure 1) Clinicians should ask:  Does the person have fever or symptoms of lower respiratory infection, such as cough or shortness of breath?
+ AND  Has the patient traveled to mainland China within 14 days of symptom onset?
+ OR  Has the patient had close contact1 with a person confirmed with 2019-nCoV infection?
+ Figure 1. pdf icon If a patient meets these criteria:  To minimize the risk that other people will be exposed to individuals who may have 2019-nCoV, patients who report having these symptoms should be asked to wear a surgical mask as soon as they are identified and directed to a separate area, if possible, with at least 6 feet (2 meters) separation from other persons.
+ Patients should be evaluated in a private room with the door closed, ideally an airborne infection isolation room (AIIR), if available.
+ Healthcare personnel entering the room should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield).
+ For more information about this, see CDC’s Interim Infection Prevention and Control Recommendations for Patients with Known or Patients Under Investigation for 2019 Novel Coronavirus (2019-nCoV) in a Healthcare Setting (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html).
+ Clinicians should immediately notify the healthcare facility’s infection control personnel and local health department.
+ The health department will determine if this patient needs to be considered a PUI for 2019-nCoV and be tested for infection.
+ Criteria to Guide Evaluation and Testing of Patients Under Investigation (PUI) for 2019-nCoV Local health departments, in consultation with clinicians, should determine whether a patient is a PUI for 2019-nCoV.
+ The CDC clinical criteria for 2019-nCoV PUIs have been developed based on available information about this novel virus, as well as what is known about SARS and MERS.
+ These criteria are subject to change as additional information becomes available.
+ Clinical Features   AND   Epidemiologic Risk    Fever2 or signs/symptoms of lower respiratory illness (e.g.
+ cough or shortness of breath)  AND  Any person, including health care workers, who has had close contact1 with a laboratory-confirmed3 2019-nCoV patient within 14 days of symptom onset    Fever2 and signs/symptoms of a lower respiratory illness (e.g., cough or shortness of breath)  AND  A history of travel from Hubei Province, China within 14 days of symptom onset   Fever2 and signs/symptoms of a lower respiratory illness (e.g., cough or shortness of breath) requiring hospitalization4  AND  A history of travel from mainland China within 14 days of symptom onset    These criteria are intended to serve as guidance for evaluation and testing.
+ Patients should be evaluated and discussed with public health departments on a case-by-case basis for possible 2019-nCoV infection.
+ Testing decisions might be further informed by the clinical presentation or exposure history (e.g., uncertain travel or exposure), and the presence of an alternative diagnosis that explains their clinical presentation.
+ Recommendations for Reporting, Testing, and Specimen Collection Healthcare providers should immediately notify infection control personnel at their healthcare facility if a patient is classified a PUI for 2019-nCoV.
+ State health departments that have identified a PUI should immediately contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 and complete a 2019-nCoV PUI case investigation form (https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-criteria.html#reporting-testing-specimen-collection).
+ CDC’s EOC will assist local and state health departments with obtaining, storing, and shipping appropriate specimens to CDC, including afterhours or on weekends or holidays.
+ Currently, diagnostic testing for 2019-nCoV can be done only at CDC.
+ Testing for other respiratory pathogens should not delay specimen shipping to CDC.
+ For initial diagnostic testing for 2019-nCoV, CDC recommends collecting and testing upper respiratory (nasopharyngeal AND oropharyngeal swabs), and lower respiratory (sputum, if possible)) for those patients with productive coughs.
+ Induction of sputum is not indicated.
+ Specimens should be collected as soon as possible once a PUI is identified, regardless of the time of symptom onset.
+ See Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from Patients Under Investigation (PUIs) for 2019 Novel Coronavirus (2019-nCoV) (https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-clinical-specimens.html).
+ Recommendations for Healthcare Providers No vaccine or specific treatment for 2019-nCoV infection is available.
+ At present, medical care for patients with 2019-nCoV is supportive.
+ Persons with confirmed or suspected 2019-nCoV infection who are hospitalized should be evaluated and cared for in a private room with the door closed, ideally an airborne infection isolation room, if available.
+ For more information, see Interim Infection Prevention and Control Recommendations for Patients with Known or Patients Under Investigation for 2019 Novel Coronavirus (2019-nCoV) in a Healthcare Setting (https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html).
+ Home care and isolation may be an option, based on clinical and public health assessment, for some persons.
+ Please see Interim Guidance for Preventing the Spread of 2019 Novel Coronavirus (2019-nCoV) in Homes and Communities (https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html).
+ Those isolated at home should be monitored by public health officials to the extent possible.
+ Refer to Interim Guidance for Implementing Home Care of People Not Requiring Hospitalization for 2019 Novel Coronavirus (2019-nCoV) (https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-home-care.html) for more information.
+ Notes 1Close contact is defined as: a) being within approximately 6 feet (2 meters), or within the room or care area, of a 2019-nCoV case for a prolonged period of time while not wearing recommended personal protective equipment or PPE (e.g., gowns, gloves, NIOSH-certified disposable N95 respirator, eye protection); close contact can include caring for, living with, visiting, or sharing a health care waiting area or room with a 2019-nCoV case – or – b) having direct contact with infectious secretions of a 2019-nCoV case (e.g., being coughed on) while not wearing recommended personal protective equipment.
+ 2Fever may be subjective or confirmed See CDC’s updated Interim Infection Prevention and Control Recommendations for Patients with Known or Patients Under Investigation for 2019 Novel Coronavirus (2019-nCoV) in a Healthcare Setting (https://www.cdc.gov/coronavirus/2019-ncov/infection-control.html).
+ Data to inform the definition of close contact are limited.
+ Considerations when assessing close contact include the duration of exposure (e.g., longer exposure time likely increases exposure risk) and the clinical symptoms of the person with 2019-nCoV (e.g., coughing likely increases exposure risk as does exposure to a severely ill patient).
+ Special consideration should be given to those exposed in health care settings.
+ 3 Documentation of laboratory-confirmation of 2019-nCoV may not be possible for travelers or persons caring for patients in other countries.
+ 4 Category also includes any member of a cluster of patients with severe acute lower respiratory illness (e.g., pneumonia, ARDS) of unknown etiology in which 2019-nCoV is being considered that requires hospitalization.
+ Such persons should be evaluated in consultation with state and local health departments regardless of travel history.
+ For More Information  More information is available at the 2019 Novel Coronavirus website (https://www.cdc.gov/coronavirus/2019-ncov/index.html) or by calling 800-CDC-INFO | (800-232-4636) | TTY: (888) 232-6348  The Centers for Disease Control and Prevention (CDC) protects people’s health and safety by preventing and controlling diseases and injuries; enhances health decisions by providing credible information on critical health issues; and promotes healthy living through strong partnerships with local, national and international organizations.
+ Department of Health and Human Services HAN Message Types   Health Alert: Conveys the highest level of importance; warrants immediate action or attention.
+ Health Advisory: Provides important information for a specific incident or situation; may not require immediate action.
+ Health Update: Provides updated information regarding an incident or situation; unlikely to require immediate action.
+ Info Service: Provides general information that is not necessarily considered to be of an emergent nature.
+ ###This message was distributed to state and local health officers, state and local epidemiologists, state and local laboratory directors, public information officers, HAN coordinators, and clinician organizations.###    Top of Page    Additional Resources HAN Archive By Year HAN Types Sign Up for HAN Email Updates HAN Jurisdictions             
+ 						Page last reviewed: February 1, 2020 Content source: 	Center for Preparedness and Response (CPR)         homeHealth Alert Network (HAN)  HAN Jurisdictions HAN Message Types Sign Up for HAN Updates HAN Archiveplus icon  2020plus icon  HAN00437 HAN00436 HAN00435 HAN00434 HAN00433 HAN00432 HAN00431 HAN00430 HAN00429 HAN00428 HAN00427 HAN00426 HAN00425 HAN00424   2019plus icon  HAN00423 HAN00422 HAN00421 HAN00420 HAN00419 HAN00418 HAN00417   2018plus icon  HAN00416 HAN00415 HAN00414 HAN00413 HAN00412 HAN00411 HAN00410   2017plus icon  HAN00409 HAN00408 HAN00407 HAN00406 HAN00405 HAN00404 HAN00403 HAN00402 HAN00401 HAN00400   2016plus icon  HAN00399 HAN00398 HAN00397 HAN00396 HAN00395 HAN00394 HAN00393 HAN00392 HAN00391 HAN00390 HAN00389 HAN00388 HAN00387 HAN00386 HAN00385   2015plus icon  HAN00384 HAN00383 HAN00382 HAN00381 HAN00380 HAN00379 HAN00378 HAN00377 HAN00376 HAN00375            Prepare Your Health Coping with a Disaster or Traumatic Event Information on Specific Types of Emergencies Information for Specific Groups Resources for Emergency Health Professionals Training &amp; Education Social Media What’s New Preparation &amp; Planning       More on Preparedness   What CDC is Doing Blog: Public Health Matters                 HAVE QUESTIONS?
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ Cancel Continue

@@ -1,0 +1,35 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop     addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape     addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical)     addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical)     addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape     addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ On one hand, prejudice against immigration has a long and dark history of baselessly associating immigrants with the spread of infectious disease.
+ On the other, it's important to recognise that some migrants—particularly refugees fleeing war, persecution, or natural disaster—come from regions with weak or disrupted health systems and so face a unique set of challenges to health care.
+ The movement of people is high on the political agenda in Europe and the USA, and in 2015, an unprecedented 65 million people were displaced worldwide.
+ There has never been a more important time to understand and appreciate these complications.The rise of a fervent right-wing politics in Europe and the USA has seen several politicians making unfounded claims relating migration to infection.
+ As part of his seemingly continuous efforts to kindle anti-Mexican feeling, US presidential candidate hopeful Donald Trump has claimed that “tremendous infectious disease is pouring across the border”.
+ Poland's former leader Jarosław Kaczyński warned against accepting refugees from the Middle East because they could bring diseases and parasites.
+ The idea that immigrants do more harm than good to the health system was also a central pillar of the campaign for the UK to leave the European Union, which won out in the referendum on June 23.
+ Nigel Farage, one of the architects of the Leave campaign, has repeatedly called for people with HIV to be banned from migrating to the UK.Such rhetoric does a disservice to the people who these politicians are appointed to represent.
+ Not only does it stoke fear and appeal to base prejudices, but it also exaggerates the risks.
+ Contrary to the impressions given by the likes of Trump, the vast majority of refugees are hosted by low-income and middle-income countries (Turkey, Pakistan, Lebanon, and Iran alone host a quarter of the world's 20 million refugees).
+ And there is no systematic association between migration and importation of infectious diseases.
+ Indeed, migrants tend to be young and fit and so are potentially healthier than the general population.
+ Instead, the act of migration should be viewed as an opportunity for improving health—for example, through ensuring immunisation for people from countries with disrupted services.This disparity between the reality and the perception is one of the factors addressed in a Personal View on infectious disease and refugees by Mishal Khan and colleagues, published in this issue of the journal.
+ They outline a three point plan of how the global health community can respond to the refugee crisis in Europe, which has seen more than 1 million people cross its borders.
+ First, building inclusive health services that prevent stigmatisation and persecution to ensure Europe's health security and reduce costs by early diagnosis of illness.
+ Second, reducing health and socioeconomic inequalities worldwide to prevent the need for mass migration.
+ And third, providing a sound evidence base for health risks to counter misinformation.Happily, this issue of The Lancet Infectious Diseases includes an excellent example of a scientific approach to studying infectious diseases in migrants.
+ Robert Aldridge and colleagues report the results of a cross-sectional study of active tuberculosis in more than 475 000 people who applied for visas to visit the UK between 2005 and 2013.
+ Screening by chest radiograph followed by sputum culture for those with signs of tuberculosis showed a prevalence of 92 cases per 100 000 individuals.
+ After adjustment for age and sex, an increased likelihood of active tuberculosis was associated with having had close contact with a patient, migration from a country with high tuberculosis prevalence, and application for a settlement and dependent visa.
+ As such, Aldridge and colleagues call for contact tracing in the country of origin, and better coordination between pre-entry screening programmes and tuberculosis programmes in the applicant's country.
+ Data such as these are essential to ground perspectives on health in migrants and obtain evidence of risks to prevent prejudice and frame policy.But the importance of the infectious disease community is not restricted to passive academic assessments of health needs and interventions.
+ We have a second role to fulfil.
+ The humanitarian ethos of health care compels us to show compassion and understanding for those we share the planet with.
+ By continuing you agree to the use of cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

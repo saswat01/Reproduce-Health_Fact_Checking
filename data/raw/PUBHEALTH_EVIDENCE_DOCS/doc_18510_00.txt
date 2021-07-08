@@ -1,0 +1,633 @@
+Skip directly to search Skip directly to A to Z list Skip directly to site content     CDC Home  CDC 24/7: Saving Lives.
+ Protecting People.™     Search The CDC                Note: Javascript is disabled or is not supported by your browser.
+ For this reason, some items on this page will be unavailable.
+ For more information about this message, please visit this page: About CDC.gov.
+ Morbidity and Mortality Weekly Report (MMWR)         MMWR                            ShareCompartir             Persons using assistive technology might not be able to fully access information in this file.
+ For assistance, please send e-mail to: mmwrq@cdc.gov.
+ Type 508 Accommodation and the title of the report in the subject line of e-mail.
+ Abortion Surveillance — United States, 2009  
+ 
+   Karen Pazol, PhD Andreea A. Creanga, MD, PhD Suzanne B. Zane, DVM Kim D. Burley Denise J. Jamieson, MD Division of Reproductive Health, National Center for Chronic Disease Prevention and Health Promotion, CDC  Corresponding address: CDC, National Center for Chronic Disease Prevention and Health Promotion, Division of Reproductive Health, 1600 Clifton Rd., NE, MS K-21, Atlanta, GA 30333.
+ E-mail: cdcinfo@cdc.gov.
+ Abstract Problem/Condition: Since 1969, CDC has conducted abortion surveillance to document the number and characteristics of women obtaining legal induced abortions in the United States.
+ Reporting Period Covered: 2009.
+ Description of System: Each year, CDC requests abortion data from the central health agencies of 52 reporting areas (the 50 states, the District of Columbia, and New York City).
+ The reporting areas provide this information voluntarily.
+ For 2009, data were received from 48 reporting areas.
+ For the purpose of trend analysis, abortion data were evaluated from the 45 areas that reported data every year during 2000–2009.
+ Census and natality data, respectively, were used to calculated abortion rates (number of abortions per 1,000 women) and ratios (number of abortions per 1,000 live births).
+ Results: A total of 784,507 abortions were reported to CDC for 2009.
+ Of these abortions, 772,630 (98.5%) were from the 45 reporting areas that provided data every year during 2000–2009.
+ Among these same 45 reporting areas, the abortion rate for 2009 was 15.1 abortions per 1,000 women aged 15–44 years, and the abortion ratio was 227 abortions per 1,000 live births.
+ Compared with 2008, the total number and rate of reported abortions for 2009 decreased 5%, representing the largest single year decrease for the entire period of analysis.
+ The abortion ratio decreased 2%.
+ From 2000 to 2009, the total number, rate, and ratio of reported abortions decreased 6%, 7%, and 8%, respectively, to the lowest levels for 2000–2009.
+ In 2009 and throughout the period of analysis, women in their 20s accounted for the majority of abortions and had the highest abortion rates, whereas women aged ≥30 years accounted for a much smaller percentage of abortions and had lower abortion rates.
+ In 2009, women aged 20–24 and 25–29 years accounted for 32.7% and 24.4% of all abortions, respectively, and had an abortion rate of 27.4 abortions per 1,000 women aged 20–24 years and 20.4 abortions per 1,000 women aged 25–29 years.
+ In contrast, women aged 30–34, 35–39, and ≥40 years accounted for 14.7%, 8.8%, and 3.3% of all abortions, respectively, and had an abortion rate of 13.3 abortions per 1,000 women aged 30–34 years, 7.6 abortions per 1,000 women aged 35–39 years, and 2.7 abortions per 1,000 women aged ≥40 years.
+ Throughout the period of analysis, abortion rates decreased among women aged 20–24 and 25–29 years, whereas they increased among women aged ≥40 years.
+ In 2009, adolescents aged 15–19 years accounted for 15.5% of all abortions and had an abortion rate of 13.0 abortions per 1,000 adolescents aged 15–19 years.
+ Throughout the period of analysis, the percentage of all abortions accounted for by adolescents and the adolescent abortion rate decreased.
+ In contrast to the percentage distribution of abortions and abortion rates by age, abortion ratios in 2009 and throughout the entire period of analysis were highest among adolescents and lowest among women aged 30–39 years.
+ Abortion ratios decreased from 2000 to 2009 for women in all age groups except for those aged 13 weeks' decreased 12%.
+ Moreover, among abortions performed at ≤13 weeks' gestation, the distribution shifted toward earlier gestational ages, with the percentage of these abortions performed at ≤6 weeks' gestation increasing 47%.
+ In 2009, 74.2% of abortions were performed by curettage at ≤13 weeks' gestation, 16.5% were performed by early medical abortion (a nonsurgical abortion at ≤8 weeks' gestation), and 8.1% were performed by curettage at &gt;13 weeks' gestation.
+ Among abortions that were performed at ≤8 weeks' gestation and thus were eligible for early medical abortion, 25.2% were completed by this method.
+ The use of early medical abortion increased 10% from 2008 to 2009.
+ Deaths of women associated with complications from abortions for 2009 are being investigated under CDC's Pregnancy Mortality Surveillance System.
+ In 2008, the most recent year for which data were available, 12 women were reported to have died as a result of complications from known legal induced abortions.
+ No reported deaths were associated with known illegal induced abortions.
+ However, the change from 2008 to 2009 for both the total number of abortions and the abortion rate was the largest single year decrease during 2000–2009, and all three measures of abortion (total numbers, rates, and ratios) decreased to the lowest level observed during this period.
+ Public Health Actions: Unintended pregnancy is the major contributor to abortion.
+ Because unintended pregnancies are rare among women who use the most effective methods of reversible contraception, increasing access to and use of these methods can help further reduce the number of abortions performed in the United States.
+ The data in this report can help program planners and policy makers identify groups of women at greatest risk for unintended pregnancy and help guide and evaluate prevention efforts.
+ Introduction This report is based on abortion data for 2000–2009 that were provided voluntarily to CDC by the central health agencies of 48 reporting areas (the District of Columbia; New York City; and 46 states, excluding California, Delaware, Maryland, and New Hampshire).
+ Since 1969, CDC has conducted abortion surveillance to document the number and characteristics of women obtaining legal induced abortions in the United States (1).
+ Following nationwide legalization of abortion in 1973, the total number, rate (number of abortions per 1,000 women aged 15–44 years), and ratio (number of abortions per 1,000 live births) of reported abortions increased rapidly, reaching the highest levels in the 1980s before decreasing at a slow yet steady pace (2–6).
+ Continued surveillance is needed to monitor long-term changes in the incidence of abortion in the United States.
+ Methods Description of the Surveillance System Each year, CDC requests tabulated data from the central health agencies of 52 reporting areas (the 50 states, the District of Columbia, and New York City) to document the number and characteristics of women obtaining abortions in the United States.
+ For the purpose of surveillance, a legal induced abortion* is defined as an intervention performed by a licensed clinician (e.g., a physician, nurse-midwife, nurse practitioner, or physician assistant) that is intended to terminate a suspected or known ongoing intrauterine pregnancy and produce a nonviable fetus at any gestational age.
+ In most states, collection of abortion data is facilitated by the legal requirement for hospitals, facilities, and physicians to report abortions to a central health agency (16).
+ These central health agencies voluntarily provide CDC aggregate numbers for the abortion data they have collected (17).
+ Although reporting to CDC is voluntary, most reporting areas do provide aggregate abortion numbers: during 2000–2009, a total of 45 reporting areas provided CDC a continuous annual record of abortion numbers,† and in 2009, CDC obtained aggregate abortion numbers from 48 reporting areas (excludes California, Delaware, Maryland, and New Hampshire).
+ To encourage more uniform collection of these details, CDC has developed a model reporting form to serve as a technical guide (18).
+ However, because the collection of abortion data is not federally mandated, many reporting areas have developed their own forms and do not collect all the information that CDC compiles.
+ Variables and Categorization of Data Each year, CDC sends suggested templates to the central health agencies for compilation of abortion data in aggregate.
+ For curettage, abortions are categorized as having been performed at ≤13 weeks' gestation or at &gt;13 weeks' gestation because of differences in technique used before and after 13 weeks (20).
+ Finally, because intrauterine instillations cannot be performed early in gestation, abortions reported to have been performed by intrauterine installation at ≤12 weeks' gestation are excluded from calculation of the percentage of abortions by known method type.††  Measures of Abortion Four measures of abortion are presented in this report: 1) the total number of abortions in a given population, 2) the percentage of abortions obtained by a given subpopulation, 3) the abortion rate (number of abortions per 1,000 women aged 15–44 years or other specific group within a given population), and 4) the abortion ratio (number of abortions per 1,000 live births within a given population).
+ Although total numbers and percentages are useful measures for determining how many women have obtained an abortion, abortion rates adjust for differences in subpopulation size and reflect how likely abortion is among women in particular groups.
+ Abortion ratios measure the relative number of pregnancies in a population that end in abortion compared with live birth.
+ Abortion ratios are influenced both by the proportion of pregnancies in a population that are unintended and the proportion of unintended pregnancies that end in abortion.
+ Abortion ratios also are influenced by the proportion of intended pregnancies that end in abortion; however, intended pregnancies account for a very small percentage of abortions ( 15 years were lower in 2009 than they had been in 2000, with the greatest decreases occurring among adolescents aged 18–19 years (Table 6).
+ For all adolescents aged 15–19 years this decrease occurred almost exclusively from 2005 to 2009 and not from 2000 to 2004.
+ Gestational Age Among the 39 areas that reported gestational age at the time of abortion for 2009 (Table 7), the majority (64.0%) of abortions were performed at ≤8 weeks' gestation, and 91.7% were performed at ≤13 weeks' gestation.
+ Few abortions (7.0%) were performed at 14–20 weeks' gestation, and even fewer (1.3%) were performed at ≥21 weeks' gestation.
+ Among the 30 reporting areas that provided data on gestational age every year during 2000–2009 (Table 8), the percentage of abortions performed at ≤13 weeks' gestation increased only slightly.
+ However, within this gestational age range, a shift occurred toward earlier gestational ages, with abortions performed at ≤8 weeks' gestation increasing 12%.
+ The percentage increase in abortions performed at ≤8 weeks' was greatest from 2000 to 2004 but continued from 2005 to 2009.
+ Throughout the period of analysis, the percentage of abortions performed at &gt;13 weeks' gestation remained low ( 13 weeks' gestation, and all other methods were uncommon (Table 11).
+ Among the 27 reporting areas that included medical abortion on their reporting form and provided this data for all 3 years of comparison (2001, the first full year following FDA approval of mifepristone for use in early medical abortion, as well as 2008 and 2009),¶¶¶ the use of early medical abortion increased 10% from 2008 to 2009 and approximately 350% from 2001 to 2009 (from 3.4% of abortions in 2001 to 13.8% in 2008 and 15.2% in 2009).
+ In contrast, use of curettage at ≤13 weeks' gestation decreased 2% from 2008 to 2009 and 14% from 2001 to 2009 (from 87.3% of abortions in 2001 to 76.7% in 2008 and 75.5% in 2009).
+ Use of curettage at &gt;13 weeks' gestation was stable from 2001 to 2008 but decreased 5% from 2008 to 2009 (from 8.6% of abortions in 2001 and in 2008 to 8.2% in 2009).
+ All other methods consistently accounted for a small percentage of abortions (0.04%–0.9%).
+ Race/Ethnicity Among the 29 areas that reported cross-classified race/ethnicity data for 2009 (Table 12), non-Hispanic white women and non-Hispanic black women accounted for the largest percentages of abortions (37.7% and 35.4%, respectively), whereas Hispanic women and non-Hispanic women in the other races category accounted for smaller percentages (20.6% and 6.3%, respectively).
+ Non-Hispanic white women had the lowest abortion rates (8.5 abortions per 1,000 women aged 15–44 years) and ratios (140 abortions per 1,000 live births), whereas non-Hispanic black women had the highest abortion rates (32.5 abortions per 1,000 women aged 15–44 years) and ratios (477 abortions per 1,000 live births).
+ Among the 24 areas**** that reported by race/ethnicity every year during 2007–2009, abortion rates decreased for all racial/ethnic groups.
+ The abortion rate decreased 7% for non-Hispanic white women (from 9.1 abortions per 1,000 women in 2007 to 8.5 in 2009) and 6% for Hispanic women (from 20.5 abortions per 1,000 women in 2007 to 19.3 in 2009) but only 1% for non-Hispanic black women (from 34.6 abortions per 1,000 women in 2007 to 34.2 in 2009).
+ In contrast, abortion ratios decreased among non-Hispanic white women but not among women in any other racial/ethnic group.
+ For non-Hispanic white women, the abortion ratio decreased 3% (from 143 abortions per 1,000 live births in 2007 to 138 in 2009), whereas the abortion ratio increased 4% for non-Hispanic black women (from 481 abortions per 1,000 live births in 2007 to 501 in 2009) and 2% for Hispanic women (from 192 abortions per 1,000 live births in 2007 to 195 in 2009).
+ Data also are reported separately by race and by ethnicity for 2009 (Tables 13 and 15) and for 2000–2009 (Tables 14 and 16).
+ Marital Status Among the 37 areas that reported marital status for 2009, 15.0% of all women who obtained abortions were married, and 85.0% were unmarried (Table 17).
+ For the 28 reporting areas†††† that provided these data for the relevant years of comparison, the percentage of abortions accounted for by unmarried women increased 4% from 2000 to 2009 (from 81.6% in 2000 to 85.0% in 2009); an increase occurred both from 2000 to 2004 and from 2005 to 2009.
+ Previous Live Births and Abortions Data from the 36 areas that reported the number of previous live births for women who obtained abortions in 2009 show that 40.2%, 46.3%, and 13.6% of these women previously had zero, one to two, or three or more live births, respectively (Table 18).
+ Among the 29 reporting areas§§§§ that provided these data for the relevant years of comparison, little change occurred in the distribution of abortions by the number of previous live births: the percentage of women who had zero previous live births was 39.7% in 2000 and 40.1% in 2009; the percentage of women who had one to two previous live births was 48.0% in 2000 and 46.4% in 2009; and the percentage of women who had three or more previous live births was 12.4% in 2000 and 13.5% in 2009.
+ Data from the 37 areas that reported the number of previous abortions for women obtaining abortions in 2009 show that the majority of women (55.3%) had not previously had an abortion; 36.6% had previously had either one to two abortions, and 8.1% had three or more abortions (Table 19).
+ Among the 30 reporting areas¶¶¶¶ that provided data for the relevant years of comparison, the distribution of abortions by the number of previous abortions changed little: the percentage of women who had zero previous abortions was 55.0% in 2000 and 55.4% in 2009; the percentage of women who had one or two previous abortions was 37.3% in 2000 and 36.5% in 2009; and the percentage of women who had three or more previous abortions was 7.7% in 2000 and 8.2% in 2009.
+ Age and Marital Status by Race and Race/Ethnicity In some reporting areas, abortions that were categorized by maternal race and race/ethnicity were further categorized by maternal age and marital status (Tables 20 and 21).
+ A consistent pattern existed for abortion by age across all racial and racial/ethnic groups, with the smallest percentage of abortions occurring among adolescents aged 13 weeks' gestation, a greater understanding is needed of the factors that cause delays in pregnancy termination (48–51).
+ The trend of obtaining abortions earlier in pregnancy, although not observed equally among all subgroups of women, has been facilitated by changes in abortion practices.
+ Curettage has remained the most common method for performing abortions.
+ Although for many years this type of abortion was performed only after the initial weeks of gestation, the development of highly sensitive pregnancy tests and transvaginal ultrasonography increasingly have allowed clinicians to diagnose pregnancy and confirm its termination at ≤6 weeks' gestation (52–57).
+ In addition, the use of medical abortion might have contributed to the increasing percentage of abortions performed early in gestation.
+ In September 2000, FDA approved mifepristone for use in early medical abortion (34), and the American College of Obstetricians and Gynecologists has endorsed an evidence-based protocol that can be used up to 63 days of gestation (19).
+ In 2009, 64.0% of abortions were performed at ≤8 weeks' gestation and thus were eligible for early medical abortion; 25.2% of these eligible abortions and 16.5% of all abortions were reported as early medical abortions.
+ Moreover, the use of early medical abortion has increased substantially since FDA approval of mifepristone: from 2001 to 2009, the percentage of all reported abortions accounted for by this method increased approximately 350%.
+ Furthermore, whereas the rate of increase leveled off after the initial years of approval (58), the proportional use of this method has continued to increase, with the percentage of all abortions reported as early medical abortion increasing 10% from 2008 to 2009.
+ In 2008, 12 legal induced abortion-related deaths occurred; no women died as a result of a known illegal abortion.
+ The annual number of legal induced abortions has fluctuated from year to year over the past 36 years (Table 25).
+ For example, 12 abortion-related deaths occurred in 1994, four deaths in 1995, and nine deaths in 1996.
+ The national legal induced abortion case-fatality rate was 0.64 legal induced abortion-related deaths per 100,000 reported legal induced abortions for both the most recent period (2004–2008) and the preceding 5-year period (1999–2003).
+ Limitations The findings in this report are subject to at least four limitations.
+ During the period covered by this report, the total annual number of abortions recorded by CDC was 65%–69% of the number recorded by the Guttmacher Institute (12,59), which uses numerous active follow-up techniques to increase the completeness of the data obtained through its periodic national census of abortion providers (12).
+ Although most reporting areas collect and send abortion data to CDC, this information is given to CDC voluntarily.
+ Consequently, during 2000–2009, seven of the 52 reporting areas did not provide CDC data on a consistent annual basis, and for 2009, CDC did not obtain any information from California, Delaware, Maryland, or New Hampshire.
+ ***** In addition, whereas most of the reporting areas that send abortion data to CDC have laws requiring medical providers to submit a report for every abortion they perform to a central health agency, in New Jersey and the District of Columbia, medical providers submit this information voluntarily (16).
+ Consequently, several other reporting areas tend to provide CDC with incomplete numbers.§§§§§  Second, because reporting requirements are established by the individual reporting areas, many states have developed reporting forms that do not resemble the template CDC created for technical guidance (18).
+ Consequently, many reporting areas do not collect all the information CDC compiles on the characteristics of women obtaining abortions (e.g., age, race, and ethnicity) (60).
+ Although missing demographic information can reduce the extent to which the statistics in this report represent all women in the United States, four nationally representative surveys of women obtaining abortions in 1987, 1994–1995, 2001–2002, and 2008 (7–10) have produced distributions, for most characteristics, that are nearly identical to the distributions reported by CDC.
+ The one exception is the distribution of abortions by race/ethnicity.
+ In particular, the percentage of abortions accounted for by non-Hispanic black women is higher in this report than the percentage in reports based on a recent nationally representative survey of abortion patients (10).
+ Similarly, the greater decrease in abortion rates for non-Hispanic black women compared with women of other racial/ethnic groups based on nationally representative survey data (11) is not supported by the data reported to CDC.
+ Importantly, some of the reporting areas that have not reported to CDC, or have not reported cross-classified race/ethnicity data (e.g., California, Florida, and Illinois), have large enough populations of minority women that the absence of data from these areas reduces the representativeness of CDC data.
+ Third, abortion data are compiled and reported to CDC by the central health agency of the reporting area in which the abortion was performed rather than the reporting area in which the woman lived.
+ This inflates abortion statistics for reporting areas in which a high percentage of abortions are obtained by out-of-state residents and undercounts abortions for states with limited abortion services, more stringent legal requirements for obtaining an abortion, or geographic proximity to services in another state.
+ To adjust for these biases, CDC attempts to categorize abortions by residence in addition to occurrence.
+ However, in 2009, CDC was unable to identify the reporting area, territory, or country of residence for 11.4% of reported abortions.
+ Public Health Implications Ongoing abortion surveillance is important for several reasons.
+ First, abortion surveillance is needed to guide and evaluate programs aimed at preventing unintended pregnancies.
+ Pregnancy intentions are complex and difficult to assess (61–68); abortion surveillance provides an important measure of pregnancies that are unwanted.
+ Second, routine abortion surveillance is needed to assess changes in clinical practice patterns over time.
+ Information in this report on the prevalence of abortions performed through different methods (e.g., medical or curettage) and at different gestational ages provides the denominator data that are necessary for analyses of the relative safety of abortion practices.
+ According to the most recent national estimates, 18% of all pregnancies in the United States end in abortion (5).
+ Multiple factors are known to influence the incidence of abortion, including the availability of abortion providers (12,70–72); state regulations, such as mandatory waiting periods (73), parental involvement laws (74), and legal restrictions on abortion providers (75); increasing acceptance of nonmarital childbearing (76,77); shifts in the racial/ethnic composition of the U.S. population (78,79); and changes in the economy and the resulting impact on fertility preferences and access to health-care services, including contraception (80,81).
+ However, despite these multiple influences, given that unintended pregnancy precedes nearly all abortions (23),¶¶¶¶¶ efforts to reduce the incidence of abortion need to focus on helping women avoid pregnancies that they do not desire.
+ Providing women and men with the knowledge and resources necessary to make decisions about their sexual behavior and use of contraception can help them avoid unintended pregnancies.
+ However, efforts to improve contraceptive use and reduce the number of unintended pregnancies in the United States have been challenging.
+ Findings from the National Survey of Family Growth (NSFG), the primary national source of data on unintended pregnancy in the United States, suggest that unintended pregnancy decreased during 1982–1995 in conjunction with an increase in contraceptive use among women at risk for unintended pregnancy (82–84).
+ ****** However, data from the 2002 and 2006–2010 NSFGs show that contraceptive use among women at risk for unintended pregnancy has decreased (84,85).
+ Moreover, although use of the most effective forms of reversible contraception (i.e., intrauterine devices and hormonal implants, which are as effective as sterilization at preventing unintended pregnancy [86]) has increased (85,87), use of these methods in the United States remains among the lowest of any developed country (87), and no additional progress has been made toward reducing unintended pregnancy (41,42).
+ Research has shown that providing no-cost contraception increases use of the most effective methods and can reduce abortion rates (88,89).
+ Removing cost as one barrier to the use of the most effective contraceptive methods might therefore be an important way to reduce the number of unintended pregnancies and consequently the number of abortions that are performed in the United States.
+ References 	Smith JC.
+ Abortion surveillance report, hospital abortions, annual summary 1969.
+ Atlanta, GA: US Department of Health, Education, and Welfare, Public Health Service, Health Services and Mental Health Administration, National Communicable Disease Center; 1970.
+ CDC.
+ Abortion surveillance—United States, 2005.
+ MMWR 2008;57(No.
+ SS-13).
+ Henshaw SK, Kost K. Trends in the characteristics of women obtaining abortions, 1974 to 2004.
+ New York, NY: Guttmacher Institute; 2008.
+ Available at http://www.guttmacher.org/pubs/2008/09/23/TrendsWomenAbortions-wTables.pdf.
+ Accessed September 10, 2012.
+ Jones RK, Kost K, Singh S, Henshaw SK, Finer LB.
+ Trends in abortion in the United States.
+ Clin Obstet Gynecol 2009;52:119–29.
+ Ventura SJ, Curtin SC, Abma JC, Henshaw SK.
+ Estimated pregnancy rates and rates of pregnancy outcomes for the United States, 1990–2008.
+ Natl Vital Stat Rep 2012;60(7).
+ Ventura SJ, Mosher WD, Curtin SC, Abma JC, Henshaw S. Trends in pregnancies and pregnancy rates by outcome: estimates for the United States, 1976–1996.
+ Vital Health Stat 2000;21(56).
+ Henshaw SK, Kost K. Abortion patients in 1994–1995: characteristics and contraceptive use.
+ Fam Plann Perspect 1996;28:140–7,58.
+ Henshaw SK, Silverman J.
+ The characteristics and prior contraceptive use of U.S. abortion patients.
+ Fam Plann Perspect 1988;20:158–68.
+ Jones RK, Darroch JE, Henshaw SK.
+ Patterns in the socioeconomic characteristics of women obtaining abortions in 2000–2001.Perspect Sex Reprod Health 2002;34:226–35.
+ Jones RK, Finer LB, Singh S. Characteristics of U.S. abortion patients, 2008.
+ New York, NY: Guttmacher Institute; 2010.
+ Available at http://www.guttmacher.org/pubs/US-Abortion-Patients.pdf.
+ Accessed September 10, 2012.
+ Jones RK, Kavanaugh ML.
+ Changes in abortion rates between 2000 and 2008 and lifetime incidence of abortion.
+ Obstet Gynecol 2011;117:1358–66.
+ Jones RK, Kooistra K. Abortion incidence and access to services in the United States, 2008.
+ Perspect Sexual Reprod Health 2011;43:41–50.
+ CDC.
+ Abortion surveillance—United States, 2006.
+ MMWR 2009;58(No.
+ SS-8).
+ CDC.
+ Abortion surveillance—United States, 2008.
+ MMWR 2011;60(No.
+ SS-15).
+ CDC.
+ Abortion surveillance—United States, 2007.
+ MMWR 2011;60(No.
+ SS-1).
+ Guttmacher Institute.
+ State policies in brief: abortion reporting requirements.
+ New York, NY: Guttmacher Institute.
+ Available at http://www.guttmacher.org/statecenter/spibs/spib_ARR.pdf.
+ September 10, 2012.
+ Saul R. Abortion reporting in the United States: an examination of the federal-state partnership.
+ Fam Plann Perspect 1998;30:244–7.
+ CDC.
+ Handbook on the reporting of induced termination of pregnancy.
+ Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics; 1998; DHHS publication no.
+ (PHS)98 1117:1–18.
+ ACOG Committee.
+ ACOG practice bulletin: clinical management guidelines for obstetrician-gynecologists.
+ Obstet Gynecol 2005;106:871–82.
+ Paul M, Lichtenberg ES, Borgatta L, Grimes DA, Stubblefield PG, Creinin MD.
+ Management of unintended and abnormal pregnancy: comprehensive abortion care.
+ Oxford, England: Blackwell; 2009.
+ Grimes DA, Schultz KF, Cates W, Jr., Tyler CW.
+ The Joint Program for the Study of Abortion/CDC: a preliminary report.
+ In: Hern WM, Andrikopoulos B, eds.
+ Abortion in the seventies: proceedings of the Western Regional Conference on Abortion.
+ New York, NY: National Abortion Federation; 1977:41–54.
+ Grimes DA, Schulz KF, Cates W, Jr., Tyler CW, Jr. Mid-trimester abortion by dilatation and evacuation: a safe and practical alternative.
+ N Engl J Med 1977;296:1141–5.
+ Finer LB, Kost K. Unintended pregnancy rates at the state level.
+ Perspect Sex Reprod Health 2011;43:78–87.
+ CDC.
+ Postcensal estimates of the resident population of the United States as of July 1, 2009, by year, state and county, age, bridged race, sex, and Hispanic origin (Vintage 2009) [File pcen_v2009_y09.sasbdat].
+ Hyattsville, MD: CDC, National Center for Health Statistics; 2009.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2009.
+ Accessed September 10, 2012.
+ CDC.
+ Postcensal estimates of the resident population of the United States as of July 1, 2008, by year, state and county, age, bridged race, sex, and Hispanic origin (Vintage 2008).
+ [File pcen_v2008_y08.sasbdat].
+ Hyattsville, MD: CDC, National Center for Health Statistics; 2009.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2008.
+ Accessed September 10, 2012.
+ CDC.
+ Postcensal estimates of the resident population of the United States as of July 1, 2007, by year, state and county, age, bridged race, sex, and Hispanic origin (Vintage 2007) [File pcen_v2007_y07.sasbdat].
+ Hyattsville, MD: CDC, National Center for Health Statistics; 2008.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2007.
+ Accessed September 10, 2012.
+ CDC.
+ Postcensal estimates of the resident population of the United States as of July 1, 2006, by year, state and county, age, bridged race, sex, and Hispanic origin (Vintage 2006) [File pcen_v2006_y06.sasbdat].
+ Hyattsville, MD: CDC, National Center for Health Statistics; 2007.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2006.
+ Accessed September 10, 2012.
+ CDC.
+ Postcensal estimates of the resident population of the United States as of July 1, 2005, by year, state and county, age, bridged race, sex, and Hispanic origin (Vintage 2005) [File pcen_v2005_y05.sasbdat].
+ Hyattsville, MD: CDC, National Center for Health Statistics; 2006.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2005.
+ Accessed September 10, 2012.
+ CDC.
+ Postcensal estimates of the resident population of the United States as of July 1, 2004, by year, state and county, age, bridged race, sex, and Hispanic origin (Vintage 2004) [File pcen_v2004_y04.sasbdat].
+ Hyattsville, MD: CDC, National Center for Health Statistics; 2005.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2004.
+ Accessed September 10, 2012.
+ CDC.
+ Postcensal estimates of the resident population of the United States as of July 1, 2003, by year, state and county, age, bridged race, sex, and Hispanic origin (Vintage 2003) [File pcen_v2003_y03.zip].
+ Hyattsville, MD: CDC, National Center for Health Statistics; 2004.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2003.
+ Accessed September 10, 2012.
+ CDC.
+ Postcensal estimates of the resident population of the United States as of July 1, 2002, by year, state and county, age, bridged race, sex, and Hispanic origin (Vintage 2002) [File pcen_v2002_y02.zip]; 2003.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#vintage2002.
+ Accessed September 10, 2012.
+ CDC.
+ Bridged-race population estimates of the resident population of the United States as of April 1, 2000, by state and county, single year of age, bridged race, sex, and Hispanic origin [File br040100.zip].
+ Hyattsville, MD: CDC, National Center for Health Statistics; 2003.
+ Available at http://www.cdc.gov/nchs/nvss/bridged_race/data_documentation.htm#april2000.
+ Accessed September 10, 2012.
+ CDC.
+ VitalStats—births, birth data files.
+ Hyattsville, MD: CDC, National Center for Health Statistics.
+ Available at http://www.cdc.gov/nchs/data_access/vitalstats/VitalStats_Births.htm.
+ Accessed September 10, 2012.
+ US Food and Drug Administration.
+ Orange book: approved drug products with therapeutic equivalence evaluations [Mifepristone].
+ Accessed September 10, 2012.
+ CDC.
+ Abortion surveillance, 1972.
+ Atlanta, GA: US Department of Health, Education, and Welfare, CDC; 1974.
+ CDC.
+ Abortion surveillance, 1977.
+ Atlanta, GA: US Department of Health, Education, and Welfare, Public Health Service, CDC; 1979.
+ CDC.
+ Pregnancy mortality surveillance in the United States.
+ Atlanta, GA; 2011.
+ Available at http://www.cdc.gov/reproductivehealth/MaternalInfantHealth/Pregnancy-relatedMortality.htm.
+ Accessed September 10, 2012.
+ Hoyert D. Maternal mortality and related concepts.
+ National Center for Health Statistics.
+ Vital Health Stat 2007;3(33).
+ Martin JA, Hamilton BE, Sutton PD, et al.
+ Births: final data for 2007.
+ Natl Vital Stat Rep 2010;58(24).
+ Martin JA, Hamilton BE, Ventura SJ, et al.
+ Births: final data for 2009.
+ Natl Vital Stat Rep 2012;60(1).
+ Finer LB, Henshaw SK.
+ Disparities in rates of unintended pregnancy in the United States, 1994 and 2001.
+ Perspect Sex Reprod Health 2006;38:90–6.
+ Finer LB, Zolna MR.
+ Unintended pregnancy in the United States: incidence and disparities, 2006.
+ Contraception 2011;84:478–85.
+ Bartlett LA, Berg CJ, Shulman HB, et al.
+ Risk factors for legal induced abortion-related mortality in the United States.
+ Obstet Gynecol 2004;103:729–37.
+ Ferris LE, McMain-Klein M, Colodny N, Fellows GF, Lamont J.
+ Factors associated with immediate abortion complications.
+ CMAJ 1996;154:1677–85.
+ Buehler JW, Schulz KF, Grimes DA, Hogue CJ.
+ The risk of serious complications from induced abortion: do personal characteristics make a difference?
+ Am J Obstet Gynecol 1985;153:14–20.
+ Andersen K, Ganatra B, Stucke S, Basnett I, Karki YB, Thapa K. A prospective study of complications from comprehensive abortion care services in Nepal.
+ BMC Public Health 2012;12:9.
+ Jones RK, Finer LB.
+ Who has second-trimester abortions in the United States?
+ Contraception 2012;85:544–51.
+ Kiley JW, Yee LM, Niemi CM, Feinglass JM, Simon MA.
+ Delays in request for pregnancy termination: comparison of patients in the first and second trimesters.
+ Contraception 2010;81:446–51.
+ Joyce T, Kaestner R. The impact of Mississippi's mandatory delay law on the timing of abortion.
+ Fam Plann Perspect 2000;32:4–13.
+ Drey EA, Foster DG, Jackson RA, Lee SJ, Cardenas LH, Darney PD.
+ Risk factors associated with presenting for abortion in the second trimester.
+ Obstet Gynecol 2006;107:128–35.
+ Finer LB, Frohwirth LF, Dauphinee LA, Singh S, Moore AM.
+ Timing of steps and reasons for delays in obtaining abortions in the United States.
+ Contraception.
+ 2006;74:334–44.
+ Creinin MD, Edwards J.
+ Early abortion: surgical and medical options.
+ Curr Probl Obstet Gynecol Fertil 1997;20:1–32.
+ Edwards J, Carson SA.
+ New technologies permit safe abortion at less than six weeks' gestation and provide timely detection of ectopic gestation.
+ Am J Obstet Gynecol 1997;176:1101–6.
+ Fjerstad M, Stewart F. Pregnancy testing and management of early pregnancy.
+ In: Hatcher RA, Trussell J, Nelson AL, Cates Jr. W, Stewart F, Kowal D, eds.
+ Contraceptive technology.
+ 19th ed, rev.
+ New York, NY: Ardent Media; 2008:591–635.
+ Goldstein SR, Reeves MF.
+ Clinical assessment and ultrasound in early pregnancy.
+ In: Paul M, Lichtenberg ES, Borgatta L, Grimes DA, Stubblefield PG, Creinin MD, eds.
+ Management of unintended and abnormal pregnancy: comprehensive abortion care.
+ West Sussex, England: Blackwell; 2009:63–77.
+ Mechstroth K, Paul M. First-trimester aspiration abortion.
+ In: Paul M, Lichtenberg ES, Borgatta L, Grimes DA, Stubblefield PG, Creinin MD, eds.
+ Management of unintended and abnormal pregnancy: comprehensive abortion care.
+ West Sussex: Blackwell Publishing; 2009:135–56.
+ Paul ME, Mitchell CM, Rogers AJ, Fox MC, Lackie EG.
+ Early surgical abortion: efficacy and safety.
+ Am J Obstet Gynecol 2002;187:407–11.
+ Finer LB, Wei J.
+ Effect of mifepristone on abortion access in the United States.
+ Obstet Gynecol 2009;114:623–30.
+ Guttmacher Institute.
+ State data center, trend data, abortions by state of occurrence.
+ New York, NY: Guttmacher Institute; 2012.
+ Available at http://www.guttmacher.org/datacenter/trend.jsp#.
+ Accessed September 10, 2012.
+ Pazol K. Abortion surveillance in the United States: future directions and challenges.
+ Paper presented at the annual meeting of the National Association for Public Health Statistics and Information Systems.
+ St. Louis, MO; 2010.
+ Available at http://www.naphsis.org/naphsis/files/ccLibraryFiles/Filename/000000001291/Pazol_Abortion%20Surveillance%206-9-10_03.ppt.
+ Accessed September 10, 2012.
+ Bachrach CA, Newcomer S. Intended pregnancies and unintended pregnancies: distinct categories or opposite ends of a continuum?
+ Fam Plann Perspect 1999;31:251–2.
+ Dott M, Rasmussen SA, Hogue CJ, Reefhuis J.
+ Association between pregnancy intention and reproductive-health related behaviors before and after pregnancy recognition, National Birth Defects Prevention Study, 1997–2002.
+ Matern Child Health J 2010;14:373-81.
+ Klerman LV.
+ The intendedness of pregnancy: a concept in transition.
+ Matern Child Health J 2000;4:155–62.
+ Lifflander A, Gaydos LM, Hogue CJ.
+ Circumstances of pregnancy: low income women in Georgia describe the difference between planned and unplanned pregnancies.
+ Matern Child Health J 2007;11:81–9.
+ Sable MR, Wilkinson DS.
+ Pregnancy intentions, pregnancy attitudes, and the use of prenatal care in Missouri.
+ Matern Child Health J 1998;2:155–65.
+ Santelli J, Rochat R, Hatfield-Timajchy K, et al.
+ The measurement and meaning of unintended pregnancy.
+ Perspect Sex Reprod Health 2003;35:94–101.
+ Santelli JS, Lindberg LD, Orr MG, Finer LB, Speizer I.
+ Toward a multidimensional measure of pregnancy intentions: evidence from the United States.
+ Stud Fam Plann 2009;40:87–100.
+ Trussell J, Vaughan B, Stanford J.
+ Are all contraceptive failures unintended pregnancies?
+ Evidence from the 1995 National Survey of Family Growth.
+ Fam Plann Perspect 1999;31:246–7,60.
+ Ventura SJ, Abma JC, Mosher WD, Henshaw SK.
+ Estimated pregnancy rates by outcome for the United States, 1990–2004.
+ Natl Vital Stat Rep 2008;56(15).
+ Finer LB, Henshaw SK.
+ Abortion incidence and services in the United States in 2000.
+ Perspect Sex Reprod Health.
+ 2003;35:6–15.
+ Henshaw SK.
+ Abortion incidence and services in the United States, 1995–1996.
+ Fam Plann Perspect 1998;30:263–70,87.
+ Jones RK, Zolna MR, Henshaw SK, Finer LB.
+ Abortion in the United States: incidence and access to services, 2005.
+ Perspect Sex Reprod Health 2008;40:6–16.
+ Joyce TJ, Henshaw SK, Dennis A, Finer LB, Blanchard K. The impact of state mandatory counseling and waiting period laws on abortion: a literature review.
+ New York, NY: Guttmacher Institute; 2009.
+ Available at http://www.guttmacher.org/pubs/MandatoryCounseling.pdf.
+ Accessed September 10, 2012.
+ Dennis A, Henshaw SK, Joyce TJ, Finer LB, Blanchard K. The impact of laws requiring parental involvement for abortion: a literature review.
+ New York, NY: Guttmacher Institute; 2009.
+ Available at http://www.guttmacher.org/pubs/ParentalInvolvementLaws.pdf.
+ Accessed September 10, 2012.
+ Joyce T. The supply-side economics of abortion.
+ N Engl J Med 2011;365:1466–9.
+ Martinez GM, Chandra A, Abma JC, Jones J, Mosher WD.
+ Fertility, contraception, and fatherhood: data on men and women from Cycle 6 (2002) of the National Survey of Family Growth.
+ Vital Health Stat 2006;23(26).
+ Ventura SJ.
+ Changing patterns of nonmarital childbearing in the United States.
+ Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics; 2009.
+ (NCHS data brief, no.
+ 18).
+ Moore KA.
+ Teen births: examining the recent increase.
+ Washington DC: The National Campaign to Prevent Teen and Unplanned Pregnancy; 2008.
+ Available at http://www.thenationalcampaign.org/resources/pdf/teenbirths_examincrease.pdf.
+ Accessed September 10, 2012.
+ Yang Z, Gaydos LM.
+ Reasons for and challenges of recent increases in teen birth rates: a study of family planning service policies and demographic changes at the state level.
+ J Adolesc Health 2010;46:517–24.
+ American College of Obstetricians and Gynecologists.
+ Bad economy blamed for women delaying pregnancy and annual check-up.
+ Washington, DC: American College of Obstetricians and Gynecologists; 2009.
+ Available at http://www.acog.org/from_home/publications/press_releases/nr05-05-09-1.cfm; 2009.
+ Accessed September 10, 2012.
+ Guttmacher Institute.
+ A real-time look at the impact of the recession on women's family planning and pregnancy decisions.
+ New York, NY: Guttmacher Institute; 2009.
+ Available at http://www.guttmacher.org/pubs/RecessionFP.pdf 2009.
+ Accessed September 10, 2012.
+ Henshaw SK.
+ Unintended pregnancy in the United States.
+ Fam Plann Perspect 1998;30:24–9,46.
+ Piccinino LJ, Mosher WD.
+ Trends in contraceptive use in the United States: 1982–1995.
+ Fam Plann Perspect 1998;30:4–10,46.
+ Mosher WD, Martinez GM, Chandra A, Abma JC, Willson SJ.
+ Use of contraception and use of family planning services in the United States: 1982–2002.
+ Adv Data 2004;350:1–36.
+ Jones J, Mosher WD, Daniels K. Current contraceptive use in the United States, 2006–2010, and changes in patterns of use since 1995.
+ Natl Vital Stat Rep 2012;60.
+ Trussell, J.
+ Contraceptive efficacy.
+ In: Hatcher RA, Trussell J, Nelson AL, Cates W, Kowal D, Policar MS, eds.
+ Contraceptive technology, 20th ed.
+ Atlanta, GA: Ardent Media, Inc; 2011:779–88.
+ Finer LB, Jerman J, Kavanaugh ML.
+ Changes in use of long-acting contraceptive methods in the United States, 2007–2009.
+ Fertil Steril 2012;98:893–7.
+ Epub July 13, 2012.
+ Secura GM, Allsworth JE, Madden T, Mullersman JL, Peipert JF.
+ The Contraceptive CHOICE Project: reducing barriers to long-acting reversible contraception.
+ Am J Obstet Gynecol 2010;203:115.e1–7.
+ Available at http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2910826.
+ Accessed October 30, 2012.
+ Peipert JF, Madden T, Allsworth JE, Secura GM.
+ Preventing unintended pregnancies by providing no-cost contraception.
+ Obstet Gyneol.
+ 2012.
+ Epub October 3, 2012.
+ Available at http://journals.lww.com/greenjournal/Abstract/publishahead/Preventing_Unintended_Pregnancies_by_Providing.99945.aspx.
+ Accessed October 30, 2012.
+ *	Hereafter, all abortions in this report are considered to be legally induced unless stated to be illegally induced.
+ †	Data were not reported for ≥1 year by Alaska (2000–2002), California (2000–2009), Delaware (2009), Louisiana (2005), Maryland (2007–2009), New Hampshire (2000–2009), and West Virginia (2003–2004).
+ §	Curettage includes vacuum aspiration, suction curettage, sharp curettage, and dilation and evacuation procedures.
+ ¶	Includes hysterectomy and hysterotomy, as well as other methods that do not belong to a defined category.
+ **	The cutoff of ≤8 weeks acknowledges the conventional use of completed weeks of gestation and thus includes up to 8 weeks and 6 days, thereby closely matching the gestational age limit of 63 days for the early medical abortion protocol endorsed by the American College of Obstetricians and Gynecologists (19).
+ ††	The cutoff of ≤12 weeks has been selected on the basis of the implausibility of this procedure being performed at earlier gestational ages, and on the basis of early research assessing the safety of intrauterine instillations starting at 13 weeks' gestation (21,22).
+ §§	Excludes five states that did not report or did not report by maternal residence status (California, Delaware, Florida, Maryland, and New Hampshire).
+ ¶¶	Excludes Alaska, California, Delaware, Louisiana, Maryland, New Hampshire, and West Virginia.
+ ***	Does not consider Wyoming, which reported 13 weeks' gestation (%)   9.2   8.9   8.8   9.0   8.5   8.5   8.4   8.4   8.5   8.1   -7.6   -4.7   -4.7   -12.0     14–15   3.2   3.2   3.1   3.2   3.2   3.2   3.2   3.3   3.3   3.2   0.0   0.0   -3.0   0.0     16–17   2.2   2.1   2.1   2.1   1.8   1.9   1.8   1.8   1.9   1.8   -18.2   -5.3   -5.3   -18.2     18–20   2.3   2.1   2.2   2.2   1.9   2.0   1.9   1.9   1.9   1.8   -17.4   -10.0   -5.3   -21.7     ≥21   1.5   1.5   1.5   1.6   1.5   1.5   1.4   1.4   1.4   1.3   0.0   -13.3   -7.1   -13.3     Total (no.)
+ 509,028   503,140   504,940   505,342   494,864   487,956   498,618   493,758   495,536   473,372   —   —   —   —     *	Data from 30 reporting areas; by year, these reporting areas represent 76%–82% of the abortions reported to CDC by gestational age during 2000–2009.
+ Excludes 22 areas (Alaska, California, Connecticut, Delaware, District of Columbia, Florida, Illinois, Louisiana, Maryland, Massachusetts, Mississippi, Nebraska, Nevada, New Hampshire, New York State, North Carolina, Pennsylvania, Rhode Island, Vermont, West Virginia, Wisconsin, and Wyoming) that did not report, did not report by gestational age, or did not meet reporting standards for ≥1 year.
+ TABLE 9.
+ Reported abortions obtained at ≤13 weeks' gestation,* distribution by week at ≤13 weeks' gestation and by reporting area of occurrence — selected states,† United States, 2009     State/Area   Week of gestation   Total no.
+ of abortions at ≤13 weeks     ≤6   7   8   9   10   11   12   13     No.
+ (%)§   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)     Alabama   3,100   (31.3)   2,045   (20.6)   1,424   (14.4)   1,041   (10.5)   700   (7.1)   647   (6.5)   534   (5.4)   414   (4.2)   9,905     Alaska   586   (30.6)   306   (16.0)   292   (15.2)   236   (12.3)   160   (8.4)   131   (6.8)   95   (5.0)   110   (5.7)   1,916     Arizona   3,764   (39.1)   2,272   (23.6)   1,436   (14.9)   770   (8.0)   524   (5.4)   391   (4.1)   285   (3.0)   189   (2.0)   9,631     Arkansas   1,450   (36.0)   797   (19.8)   545   (13.5)   401   (10.0)   330   (8.2)   243   (6.0)   149   (3.7)   113   (2.8)   4,028     Colorado   4,461   (41.4)   1,998   (18.5)   1,609   (14.9)   1,040   (9.7)   539   (5.0)   475   (4.4)   353   (3.3)   302   (2.8)   10,777     District of Columbia¶   1,029   (46.5)   451   (20.4)   249   (11.3)   161   (7.3)   106   (4.8)   111   (5.0)   50   (2.3)   55   (2.5)   2,212     Georgia   7,974   (27.6)   6,411   (22.2)   4,408   (15.2)   3,259   (11.3)   2,552   (8.8)   2,063   (7.1)   1,334   (4.6)   942   (3.3)   28,943     Hawaii   688   (23.3)   511   (17.3)   546   (18.5)   350   (11.9)   287   (9.7)   195   (6.6)   217   (7.3)   159   (5.4)   2,953     Idaho   447   (27.6)   328   (20.2)   281   (17.3)   178   (11.0)   131   (8.1)   102   (6.3)   97   (6.0)   58   (3.6)   1,622     Indiana   2,358   (22.8)   2,190   (21.1)   2,025   (19.6)   1,348   (13.0)   904   (8.7)   724   (7.0)   563   (5.4)   245   (2.4)   10,357     Iowa   2,468   (44.7)   905   (16.4)   887   (16.1)   399   (7.2)   337   (6.1)   279   (5.1)   164   (3.0)   77   (1.4)   5,516     Kansas   2,849   (33.8)   1,762   (20.9)   1,228   (14.6)   933   (11.1)   569   (6.8)   514   (6.1)   333   (4.0)   229   (2.7)   8,417     Kentucky   1,080   (29.3)   873   (23.7)   636   (17.3)   319   (8.7)   296   (8.0)   238   (6.5)   162   (4.4)   80   (2.2)   3,684     Louisiana   2,111   (29.5)   1,156   (16.2)   1,150   (16.1)   840   (11.7)   772   (10.8)   458   (6.4)   363   (5.1)   301   (4.2)   7,151     Maine   751   (31.6)   485   (20.4)   377   (15.9)   259   (10.9)   166   (7.0)   135   (5.7)   105   (4.4)   96   (4.0)   2,374     Michigan   6,994   (34.3)   3,890   (19.1)   3,093   (15.2)   2,259   (11.1)   1,354   (6.6)   1,195   (5.9)   880   (4.3)   712   (3.5)   20,377     Minnesota   3,839   (33.8)   2,510   (22.1)   1,752   (15.4)   1,241   (10.9)   686   (6.0)   575   (5.1)   384   (3.4)   369   (3.2)   11,356     Mississippi   369   (17.9)   412   (19.9)   425   (20.6)   312   (15.1)   244   (11.8)   175   (8.5)   75   (3.6)   54   (2.6)   2,066     Missouri   1,029   (16.6)   1,453   (23.4)   1,215   (19.5)   864   (13.9)   592   (9.5)   500   (8.0)   344   (5.5)   218   (3.5)   6,215     Montana   873   (42.5)   358   (17.4)   275   (13.4)   155   (7.6)   133   (6.5)   89   (4.3)   101   (4.9)   68   (3.3)   2,052     Nevada   2,023   (26.9)   1,605   (21.4)   1,439   (19.2)   1,017   (13.5)   512   (6.8)   402   (5.4)   322   (4.3)   192   (2.6)   7,512     New Jersey**   8,009   (33.0)   5,376   (22.2)   4,107   (16.9)   2,121   (8.8)   1,570   (6.5)   941   (3.9)   996   (4.1)   1120   (4.6)   24,240     New Mexico   1,948   (44.5)   746   (17.0)   586   (13.4)   384   (8.8)   258   (5.9)   156   (3.6)   165   (3.8)   138   (3.1)   4,381     New York   32,493   (18.9)   19,318   (18.9)   16,213   (15.9)   12,014   (11.7)   8,328   (8.1)   6,323   (6.2)   4,693   (4.6)   2,874   (2.8)   102,256     New York City   30,249   (39.2)   14,989   (19.4)   11,146   (14.5)   7,556   (9.8)   4,965   (6.4)   3,723   (4.8)   2,870   (3.7)   1,618   (2.1)   77,116     New York State   2,244   (8.9)   4,329   (17.2)   5,067   (20.2)   4,458   (17.7)   3,363   (13.4)   2,600   (10.3)   1,823   (7.3)   1,256   (5.0)   25,140     North Carolina   9,006   (34.8)   5,387   (20.8)   3,988   (15.4)   2,440   (9.4)   1,805   (7.0)   1,448   (5.6)   1,079   (4.2)   758   (2.9)   25,911     North Dakota   412   (32.9)   277   (22.1)   162   (12.9)   121   (9.6)   72   (5.7)   84   (6.7)   72   (5.7)   54   (4.3)   1,254     Ohio   7,278   (28.6)   4,879   (19.2)   4,107   (16.2)   2,805   (11.0)   2,133   (8.4)   1,686   (6.6)   1,347   (5.3)   1194   (4.7)   25,429     Oklahoma   2,432   (40.9)   950   (16.0)   874   (14.7)   503   (8.5)   511   (8.6)   382   (6.4)   164   (2.8)   133   (2.2)   5,949     Oregon   3,647   (38.6)   1,687   (17.8)   1,377   (14.6)   909   (9.6)   585   (6.2)   545   (5.8)   393   (4.2)   314   (3.3)   9,457     Rhode Island   1,650   (41.2)   795   (19.9)   518   (12.9)   321   (8.0)   256   (6.4)   195   (4.9)   137   (3.4)   133   (3.3)   4,005     South Carolina   2,844   (41.5)   1,357   (19.8)   859   (12.5)   576   (8.4)   389   (5.7)   364   (5.3)   310   (4.5)   151   (2.2)   6,850     South Dakota   156   (20.7)   137   (18.2)   151   (20.0)   91   (12.1)   94   (12.5)   50   (6.6)   27   (3.6)   48   (6.4)   754     Tennessee   5,746   (34.4)   3,294   (19.7)   2,232   (13.4)   1,620   (9.7)   1,233   (7.4)   1,087   (6.5)   1,084   (6.5)   411   (2.5)   16,707     Texas   36,017   (48.9)   11,484   (15.6)   9,571   (13.0)   5,921   (8.0)   3,946   (5.4)   2,953   (4.0)   2,036   (2.8)   1791   (2.4)   73,719     Utah   1,195   (36.1)   753   (22.7)   487   (14.7)   283   (8.5)   197   (6.0)   142   (4.3)   129   (3.9)   124   (3.7)   3,310     Virginia   9,102   (33.9)   5,598   (20.8)   4,196   (15.6)   2,683   (10.0)   1,926   (7.2)   1,466   (5.5)   1,251   (4.7)   664   (2.5)   26,886     Washington   7,791   (37.9)   4,111   (20.0)   2,985   (14.5)   1,816   (8.8)   1,352   (6.6)   1,029   (5.0)   867   (4.2)   581   (2.8)   20,532     West Virginia   422   (25.5)   376   (22.7)   270   (16.3)   187   (11.3)   142   (8.6)   129   (7.8)   92   (5.6)   39   (2.4)   1,657     Total   180,391   (35.2)   99,243   (19.4)   77,975   (15.2)   52,177   (10.2)   36,691   (7.2)   28,622   (5.6)   21,752   (4.2)   15,510   (3.0)   512,361     	*	Gestational age based on the clinician's estimate (Alabama, Alaska, Arizona, Colorado, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Michigan, Minnesota, Montana, New Jersey, New York City, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Washington, West Virginia); gestational age calculated from the last normal menstrual period (District of Columbia, Mississippi, Missouri, New Mexico, and New York State); gestational age based on the clinician's estimate when the date of the last menstrual period unavailable (Arkansas, Georgia); and gestational age calculated from the last normal menstrual period when the clinician's estimate unavailable (Maine).
+ †	Data are from 39 reporting areas; excludes 13 areas (California, Connecticut, Delaware, Florida, Illinois, Maryland, Massachusetts, Nebraska, New Hampshire, Pennsylvania, Vermont, Wisconsin, and Wyoming) that did not report, did not report by gestational age, or did not meet reporting standards.
+ §	Percentages for the individual component categories might not add to 100 because of rounding.
+ ¶	Because reporting is not mandatory, information could not be obtained for all abortions performed in the District of Columbia.
+ **	Data from hospitals and licensed ambulatory care facilities only; because reporting is not mandatory for private physicians and women's centers, information could not be obtained for all abortions performed in New Jersey.
+ TABLE 10.
+ Reported abortions obtained at ≤13 weeks' gestation, distribution by week at ≤13 weeks' gestation and by year — selected states,* United States, 2000–2009     Weeks of gestation   Year   % change      2000   2001   2002   2003   2004   2005   2006   2007   2008   2009   2000 to 2004   2005 to 2009   2008 to 2009   2000 to 2009     % among abortions reported at ≤13 weeks     ≤6   25.1   28.0   30.5   31.3   33.1   34.3   34.4   35.4   35.8   37.0   31.6   7.8   3.3   47.2     7   20.1   20.0   20.1   20.1   19.8   19.7   20.0   19.9   19.8   19.4   -1.6   -1.2   -2.0   -3.5     8   18.9   17.8   17.0   16.7   16.2   15.5   15.2   14.6   14.7   14.9   -14.2   -3.9   0.8   -21.4     9   12.5   11.9   11.3   11.0   10.5   10.4   10.4   10.1   10.0   9.7   -15.8   -6.3   -2.5   -22.4     10   9.2   8.6   8.0   7.8   7.6   7.5   7.4   7.3   7.1   6.7   -17.1   -10.2   -4.8   -26.4     11   6.4   6.2   5.8   5.7   5.5   5.4   5.3   5.4   5.4   5.3   -13.7   -2.0   -2.8   -16.9     12   4.7   4.5   4.3   4.4   4.2   4.2   4.2   4.2   4.2   4.1   -8.9   -3.6   -2.9   -12.5     13   3.2   3.1   3.0   3.0   3.0   3.1   3.1   3.0   3.0   2.9   -3.9   -5.3   -2.4   -8.4     Total (no.)
+ 578,661   576,735   578,442   578,863   572,072   554,656   578,388   569,432   574,074   512,367   —   —   —   —     *	Data from 30 reporting areas; by year, these reporting areas represent 76%–82% of the abortions reported to CDC by gestational age during 2000–2002.
+ Excludes 22 areas (Alaska, California, Connecticut, Delaware, District of Columbia, Florida, Illinois, Louisiana, Maryland, Massachusetts, Mississippi, Nebraska, Nevada, New Hampshire, New York State, North Carolina, Pennsylvania, Rhode Island, Vermont, West Virginia, Wisconsin, and Wyoming) that did not report, did not report by gestational age, or did not meet reporting standards for ≥1 year.
+ TABLE 11.
+ Reported abortions, by known method type and reporting area of occurrence — selected states,* United States, 2009     State/Area   Curettage†   Medical    Intrauterine instillation§   Other¶   Total abortions reported by known method type     Curettage, ≤13 weeks' gestation   Curettage, &gt;13 weeks' gestation   Curettage,unknown gestational age   Medical,≤8 weeks' gestation   Medical,&gt;8 weeks' gestation   Medical, unknown gestational age     No.
+ % of all reported abortions††     No.
+ (%)**   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)     Alabama§§   8,191   (75.4)   927   (8.5)   12   (0.1)   N/A   N/A   N/A   N/A   N/A   N/A   5   (0.0)   1,730   (15.9)   10,865   (99.8)     Alaska   1,416   (74.0)   10   (0.5)   0   (0.0)   462   (24.1)   26   (1.4)   0   (0.0)   0   (0.0)   0   (0.0)   1,914   (98.8)     Arizona   4,494   (44.6)   404   (4.0)   170   (1.7)   4,780   (47.4)   190   (1.9)   44   (0.4)   0   (0.0)   0   (0.0)   10,082   (98.2)     Arkansas   3,508   (76.6)   551   (12.0)   0   (0.0)   510   (11.1)   11   (0.2)   0   (0.0)   0   (0.0)   0   (0.0)   4,580   (100.0)     Colorado   6,441   (55.5)   685   (5.9)   —¶¶   —   3,938   (34.0)   204   (1.8)   37   (0.3)   —   —   267   (2.3)   11,598   (100.0)     Connecticut***   N/A   N/A   N/A   N/A   10,226   (74.5)   N/A   N/A   N/A   N/A   3,505   (25.5)   —   —   —   —   13,732   (100.0)     District of Columbia†††   1,494   (57.6)   362   (13.9)   0   (0.0)   714   (27.5)   —   —   0   (0.0)   —   —   22   (0.8)   2,596   (100.0)     Georgia   25,941   (80.4)   3,902   (12.1)   0   (0.0)   2,269   (7.0)   116   (0.4)   —   —   —   —   17   (0.1)   32,248   (97.9)     Hawaii§§   2,764   (84.6)   355   (10.9)   28   (0.9)   N/A   N/A   N/A   N/A   N/A   N/A   0   (0.0)   122   (3.7)   3,269   (97.8)     Idaho   1,067   (64.7)   0   (0.0)   —   —   540   (32.7)   16   (1.0)   0   (0.0)   —   —   25   (1.5)   1,650   (100.0)     Indiana   8,755   (83.4)   180   (1.7)   —   —   1,427   (13.6)   33   (0.3)   0   (0.0)   —   —   100   (1.0)   10,498   (99.4)     Iowa   2,654   (45.6)   275   (4.7)   —   —   2,757   (47.4)   125   (2.1)   7   (0.1)   0   (0.0)   —   —   5,820   (100.0)     Kansas   6,464   (68.7)   868   (9.2)   0   (0.0)   1,929   (20.5)   146   (1.6)   0   (0.0)   —   —   —   —   9,410   (100.0)     Kentucky   3,094   (75.2)   426   (10.3)   0   (0.0)   588   (14.3)   —   —   —   —   0   (0.0)   5   (0.1)   4,116   (99.9)     Louisiana§§   5,296   (65.8)   926   (11.5)   45   (0.6)   N/A   N/A   N/A   N/A   N/A   N/A   0   (0.0)   1,784   (22.2)   8,051   (98.6)     Maine   1,954   (81.0)   18   (0.7)   —   —   412   (17.1)   23   (1.0)   —   —   0   (0.0)   0   (0.0)   2,413   (100.0)     Massachusetts***   N/A   N/A   N/A   N/A   17,720   (77.2)   N/A   N/A   N/A   N/A   5,037   (22.0)   13   (0.1)   175   (0.8)   22,945   (100.0)     Michigan   17,636   (78.9)   1,881   (8.4)   59   (0.3)   2,626   (11.8)   117   (0.5)   —   —   —   —   20   (0.1)   22,348   (100.0)     Minnesota   9,040   (73.0)   1,013   (8.2)   —   —   2,176   (17.6)   138   (1.1)   —   —   7   (0.1)   12   (0.1)   12,388   (100.0)     Mississippi   2,066   (84.7)   40   (1.6)   331   (13.6)   0   (0.0)   0   (0.0)   0   (0.0)   —   —   —   —   2,438   (100.0)     Missouri   4,539   (66.0)   632   (9.2)   13   (0.2)   1,529   (22.2)   153   (2.2)   11   (0.2)   0   (0.0)   0   (0.0)   6,877   (99.9)     Montana   1,281   (57.8)   168   (7.6)   —   —   754   (34.0)   10   (0.5)   0   (0.0)   —   —   —   —   2,217   (99.7)     Nebraska***   N/A   N/A   N/A   N/A   2,320   (90.9)   N/A   N/A   N/A   N/A   231   (9.1)   0   (0.0)   0   (0.0)   2,551   (100.0)     Nevada§§   6,872   (75.8)   721   (8.0)   1,063   (11.7)   N/A   N/A   N/A   N/A   N/A   N/A   0   (0.0)   409   (4.5)   9,065   (95.0)     New Jersey§§§   23,020   (80.7)   3,999   (14.0)   16   (0.1)   1,179   (4.1)   41   (0.1)   11   (0.0)   11   (0.0)   237   (0.8)   28,514   (100.0)     New Mexico   3,725   (74.9)   554   (11.1)   0   (0.0)   531   (10.7)   157   (3.2)   0   (0.0)   —   —   —   —   4,970   (99.0)     New York   88,401   (74.5)   11,723   (9.9)   3,904   (3.3)   11,405   (9.6)   1,828   (1.5)   1,190   (1.0)   53   (0.0)   219   (0.2)   118,723   (98.9)     New York City   67,912   (78.2)   8,919   (10.3)   844   (1.0)   8,601   (9.9)   357   (0.4)   161   (0.2)   22   (0.0)   9   (0.0)   86,825   (99.5)     New York State   20,489   (64.2)   2,804   (8.8)   3,060   (9.6)   2,804   (8.8)   1,471   (4.6)   1,029   (3.2)   31   (0.1)   210   (0.7)   31,898   (97.5)     North Carolina   20,395   (69.3)   2,086   (7.1)   1,791   (6.1)   4,594   (15.6)   122   (0.4)   353   (1.2)   38   (0.1)   32   (0.1)   29,411   (96.1)     North Dakota   965   (75.0)   35   (2.7)   0   (0.0)   282   (21.9)   —   —   —   —   0   (0.0)   0   (0.0)   1,286   (99.7)     Ohio   19,297   (69.2)   2,946   (10.6)   145   (0.5)   5,169   (18.5)   547   (2.0)   96   (0.3)   36   (0.1)   760   (2.7)   27,903¶¶¶   (97.2)     Oklahoma   3,950   (61.4)   479   (7.4)   0   (0.0)   1,992   (31.0)   9   (0.1)   0   (0.0)   0   (0.0)   0   (0.0)   6,430   (100.0)     Oregon   7,789   (72.3)   992   (9.2)   270   (2.5)   1,588   (14.7)   62   (0.6)   49   (0.5)   0   (0.0)   28   (0.3)   10,778   (99.8)     Pennsylvania***,****   N/A   N/A   N/A   N/A   29,892   (83.8)   N/A   N/A   N/A   N/A   5,776   (16.2)   0   (0.0)   16   (0.0)   35,684   (100.0)     Rhode Island   3,578   (82.8)   274   (6.3)   35   (0.8)   418   (9.7)   11   (0.3)   6   (0.1)   —   —   —   —   4,323   (99.9)     South Carolina   4,208   (61.0)   40   (0.6)   —   —   2,610   (37.8)   38   (0.6)   —   —   —   —   —   —   6,904   (99.9)     South Dakota   531   (69.1)   —   —   0   (0.0)   216   (28.1)   20   (2.6)   0   (0.0)   0   (0.0)   —   —   769   (100.0)     Tennessee§§   12,431   (72.7)   447   (2.6)   158   (0.9)   N/A   N/A   N/A   N/A   N/A   N/A   0   (0.0)   4,054   (23.7)   17,090   (97.8)     Texas   57,817   (74.5)   3,751   (4.8)   23   (0.0)   15,710   (20.2)   278   (0.4)   —   —   —   —   43   (0.1)   77,630   (100.0)     Utah   2,024   (55.2)   284   (7.8)   24   (0.7)   1,246   (34.0)   58   (1.6)   —   —   0   (0.0)   —   —   3,664   (100.0)     Virginia   23,417   (85.8)   400   (1.5)   83   (0.3)   3,243   (11.9)   55   (0.2)   32   (0.1)   9   (0.0)   59   (0.2)   27,298   (99.5)     Washington   15,844   (70.0)   1,994   (8.8)   36   (0.2)   4,605   (20.3)   88   (0.4)   23   (0.1)   28   (0.1)   12   (0.1)   22,630   (99.8)     West Virginia   1,494   (84.6)   50   (2.8)   —   —   56   (3.2)   6   (0.3)   0   (0.0)   —   —   158   (8.9)   1,767   (99.7)           TABLE 11.
+ (Continued) Reported abortions, by known method type and reporting area of occurrence — selected states,* United States, 2009     State/Area   Curettage†   Medical    Intrauterine instillation§   Other¶   Total abortions reported by known method type     Curettage, ≤13 weeks' gestation   Curettage, &gt;13 weeks' gestation   Curettage,unknown gestational age   Medical,≤8 weeks' gestation   Medical,&gt;8 weeks' gestation   Medical, unknown gestational age     No.
+ % of all reported abortions††     No.
+ (%)**   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ * 	Data from 43 reporting areas; excludes nine states (California, Delaware, Florida, Illinois, Maryland, New Hampshire, Vermont, Wisconsin, and Wyoming) that did not report, did not report by method type, or did not meet reporting standards.
+ † 	Includes vacuum aspiration, suction curettage, sharp curettage, and dilation and evacuation procedures.
+ §	Intrauterine instillations reported at ≤12 weeks' gestation are not presented with abortions reported by known method type.
+ ¶ 	Includes hysterotomy/hysterectomy and procedures reported as "other."
+ ** 	Percentages for the individual component categories might not add to 100 because of rounding and because some areas report more than one method for each abortion.
+ †† 	Calculated as the number of abortions reported by known method type divided by the sum of abortions reported by known and unknown method type.
+ §§ 	Numbers for medical abortion are not presented because medical abortion was not included as a separate category on the reporting form.
+ *** 	Numbers for curettage procedures at ≤13 weeks versus &gt;13 weeks and for medical abortion at ≤8 weeks versus &gt;8 weeks are not presented because gestational age data were not provided or were provided in incompatible categories.
+ ††† 	Because reporting is not mandatory, information could not be obtained for all abortions performed in the District of Columbia.
+ §§§ 	Data from hospitals and licensed ambulatory care facilities only; because reporting is not mandatory for private physicians and women's centers, information could not be obtained for all abortions performed in New Jersey.
+ ¶¶¶ 	Because more than one method was reported for some abortions, the sum of the individual methods exceeds the total number of abortions reported by known method type.
+ "Other" methods might have been used concomitantly with specified method types to aid in the completion of the abortion.
+ **** 	Includes residents only.
+ ††††	Small numbers removed from individual cells have been subtracted from the column total so that the missing number cannot be back-calculated from the total.
+ §§§§	Curettage abortions reported without a gestational age were distributed among the curettage categories according to the distribution of abortions performed by curettage at known gestational age.
+ ¶¶¶¶	Medical abortions reported without a gestational age were distributed among the medical abortion categories according to the distribution of medical abortions at known gestational age.
+ *****	Because some states reported more than one method for some abortions, the sum of the individual methods exceeds the total number of abortions reported by known method type.
+ †††††	Excludes five states (Alabama, Hawaii, Louisiana, Nevada, and Tennessee) that have been included in the total for all areas reporting by method type.
+ These states were excluded because medical abortion was not included as a separate category on their reporting form.
+ TABLE 12.
+ Reported abortions, by known race/ethnicity of women who obtained an abortion and reporting area of occurrence — selected states,* United States, 2009     State/Area   Non-Hispanic   Hispanic   Total abortions reported by known race/ethnicity     White   Black   Other   No.
+ % of all reported abortions§     No.
+ (%)†   No.
+ (%)   No.
+ (%)   No.
+ (%)     Alabama   3,918   (36.2)   6,254   (57.8)   215   (2.0)   428   (4.0)   10,815   (99.4)     Alaska   968   (57.9)   107   (6.4)   542   (32.4)   54   (3.2)   1,671   (86.2)     Arizona   4,677   (47.5)   696   (7.1)   885   (9.0)   3,593   (36.5)   9,851   (95.9)     Arkansas   2,500   (54.6)   1,608   (35.1)   195   (4.3)   274   (6.0)   4,577   (99.9)     Colorado   6,549   (57.9)   860   (7.6)   967   (8.5)   2,938   (26.0)   11,314   (97.6)     District of Columbia¶   599   (23.4)   1,375   (53.8)   258   (10.1)   323   (12.6)   2,555   (98.4)     Georgia   8,162   (26.5)   18,856   (61.2)   1,323   (4.3)   2,490   (8.1)   30,831   (93.6)     Idaho   1,301   (79.6)   21   (1.3)   81   (5.0)   231   (14.1)   1,634   (99.0)     Indiana   6,187   (61.5)   2,785   (27.7)   377   (3.7)   715   (7.1)   10,064   (95.3)     Kansas   5,698   (60.7)   2,125   (22.6)   678   (7.2)   887   (9.4)   9,388   (99.8)     Kentucky   2,783   (67.5)   981   (23.8)   255   (6.2)   101   (2.5)   4,120   (100.0)     Maine   1,856   (88.1)   59   (2.8)   123   (5.8)   69   (3.3)   2,107   (87.3)     Minnesota   7,010   (58.1)   2,799   (23.2)   1,542   (12.8)   711   (5.9)   12,062   (97.4)     Mississippi   499   (20.5)   1,871   (76.8)   35   (1.4)   31   (1.3)   2,436   (99.9)     Missouri   3,457   (50.6)   2,866   (41.9)   343   (5.0)   170   (2.5)   6,836   (99.3)     Montana   1,735   (85.4)   9   (0.4)   204   (10.0)   83   (4.1)   2,031   (91.4)     New Jersey**   7,011   (25.6)   9,517   (34.8)   4,571   (16.7)   6,261   (22.9)   27,360   (95.9)     New York††   25,810   (22.8)   48,391   (42.8)   6,146   (5.4)   32,657   (28.9)   113,004   (94.2)      New York City   9,853   (11.6)   40,798   (48.2)   5,561   (6.6)   28,364   (33.5)   84,576   (96.9)      New York State   15,957   (56.1)   7,593   (26.7)   585   (2.1)   4,293   (15.1)   28,428   (86.9)     North Dakota   790   (71.5)   50   (4.5)   213   (19.3)   52   (4.7)   1,105   (85.7)     Ohio   15,164   (55.4)   10,485   (38.3)   662   (2.4)   1,041   (3.8)   27,352   (95.2)     Oregon   7,827   (75.2)   556   (5.3)   777   (7.5)   1,248   (12.0)   10,408   (96.4)     South Carolina   3,330   (49.4)   2,767   (41.0)   254   (3.8)   394   (5.8)   6,745   (97.6)     South Dakota   555   (72.2)   61   (7.9)   116   (15.1)   37   (4.8)   769   (100.0)     Tennessee   7,548   (44.6)   8,291   (49.0)   437   (2.6)   656   (3.9)   16,932   (96.9)     Texas§§   24,457   (31.7)   19,152   (24.8)   3,967   (5.1)   29,576   (38.3)   77,152   (99.4)     Utah   2,122   (67.3)   68   (2.2)   164   (5.2)   797   (25.3)   3,151   (86.0)     Virginia   9,964   (36.3)   11,429   (41.6)   2,034   (7.4)   4,015   (14.6)   27,442   (100.0)     West Virginia   1,498   (84.7)   227   (12.8)   29   (1.6)   14   (0.8)   1,768   (99.8)     Total   163,975   (37.7)   154,266   (35.4)   27,393   (6.3)   89,846   (20.6)   435,480   (96.4)     Abortion rate¶¶   8.5      32.5      17.7      19.3      14.3        Abortion ratio***   140      477      243      195      210        	*	Data from 29 reporting areas; excludes 23 reporting areas (California, Connecticut, Delaware, Florida, Hawaii, Illinois, Iowa, Louisiana, Maryland, Massachusetts, Michigan, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, Oklahoma, Pennsylvania, Rhode Island, Vermont, Washington, Wisconsin, and Wyoming) that did not report, did not report by race/ethnicity, or did not meet reporting standards.
+ †	Percentages for the individual component categories might not add to 100 because of rounding.
+ §	Calculated as the number of abortions reported by known race/ethnicity divided by the sum of abortions reported by known and unknown race/ethnicity.
+ ¶	Because reporting is not mandatory, information could not be obtained for all abortions performed in the District of Columbia.
+ **	Data from hospitals and licensed ambulatory care facilities only; because reporting is not mandatory for private physicians and women's centers, information could not be obtained for all abortions performed in New Jersey.
+ ††	Non-Hispanic categories include abortions for women whose ethnicity was reported as unknown; previous evaluation has shown that most reports without ethnicity are for non-Hispanic women.
+ §§	Reporting form contains only one question for race and ethnicity; therefore, abortions reported for women of white, black, and other races (Asian and Native American) are not explicitly identified as non-Hispanic.
+ ¶¶	Number of abortions obtained by women in a given race/ethnicity group per 1,000 women in that same group.
+ For each state, abortions for women of unknown race/ethnicity were distributed according to the distribution of abortions among women of known race/ethnicity for that state.
+ ***	Number of abortions obtained by women in a given race/ethnicity group per 1,000 live births to women in that same race/ethnicity group.
+ For each state, abortions for women of unknown race/ethnicity were distributed according to the distribution of abortions among women of known race/ethnicity for that state.
+ TABLE 13.
+ Reported abortions, by known race of women who obtained an abortion and reporting area of occurrence — selected states,* United States, 2009     State/Area   White    Black    Other    Total abortions reported by known race     No.
+ (%)†   No.
+ (%)   No.
+ (%)   No.
+ % all reported abortions§     Alabama   4,316   (39.8)   6,270   (57.8)   267   (2.5)   10,853   (99.7)     Alaska   1,076   (59.3)   128   (7.1)   609   (33.6)   1,813   (93.6)     Arizona   6,835   (74.3)   737   (8.0)   1,623   (17.7)   9,195   (89.5)     Arkansas   2,596   (56.7)   1,608   (35.1)   373   (8.1)   4,577   (99.9)     Colorado   8,543   (75.1)   877   (7.7)   1,954   (17.2)   11,374   (98.1)     District of Columbia¶   607   (23.8)   1,382   (54.1)   565   (22.1)   2,554   (98.4)     Georgia   8,367   (29.0)   19,116   (66.2)   1,391   (4.8)   28,874   (87.7)     Idaho   1,500   (92.0)   22   (1.3)   109   (6.7)   1,631   (98.8)     Indiana   6,657   (64.7)   3,155   (30.6)   484   (4.7)   10,296   (97.5)     Iowa   4,554   (78.2)   666   (11.4)   601   (10.3)   5,821   (100.0)     Kansas   6,183   (66.0)   2,155   (23.0)   1,035   (11.0)   9,373   (99.6)     Louisiana   2,696   (37.1)   4,419   (60.8)   159   (2.2)   7,274   (89.1)     Maine   2,201   (91.7)   71   (3.0)   129   (5.4)   2,401   (99.5)     Michigan   11,395   (52.3)   9,457   (43.4)   929   (4.3)   21,781   (97.4)     Minnesota   7,468   (61.2)   2,919   (23.9)   1,824   (14.9)   12,211   (98.6)     Mississippi   529   (21.7)   1,871   (76.8)   35   (1.4)   2,435   (99.9)     Missouri   3,619   (52.9)   2,876   (42.0)   351   (5.1)   6,846   (99.5)     Montana   1,904   (88.9)   9   (0.4)   228   (10.6)   2,141   (96.3)     New Jersey**   9,373   (33.8)   12,628   (45.6)   5,696   (20.6)   27,697   (97.1)     North Carolina   11,850   (43.1)   14,518   (52.8)   1,146   (4.2)   27,514   (89.9)     North Dakota   996   (78.1)   53   (4.2)   227   (17.8)   1,276   (98.9)     Ohio   15,683   (58.1)   10,647   (39.4)   679   (2.5)   27,009   (94.0)     Oklahoma   4,665   (72.6)   1,095   (17.0)   670   (10.4)   6,430   (100.0)     Oregon   8,830   (86.0)   568   (5.5)   874   (8.5)   10,272   (95.1)     Pennsylvania††   18,403   (53.0)   15,127   (43.6)   1,196   (3.4)   34,726   (97.3)     South Carolina   3,788   (55.3)   2,801   (40.9)   261   (3.8)   6,850   (99.1)     South Dakota   573   (75.8)   61   (8.1)   122   (16.1)   756   (98.3)     Tennessee   8,159   (48.2)   8,300   (49.0)   477   (2.8)   16,936   (96.9)     Virginia   13,414   (48.9)   11,726   (42.7)   2,302   (8.4)   27,442   (100.0)     West Virginia   1,511   (85.5)   228   (12.9)   29   (1.6)   1,768   (99.8)     Total   178,291   (52.4)   135,490   (39.8)   26,345   (7.7)   340,126   (95.7)     Abortion rate§§   8.1      27.8      19.4      12.1        Abortion ratio¶¶   127      388      258      183        	*	Data from 30 reporting areas; excludes 22 states (California, Connecticut, Delaware, Florida, Hawaii, Illinois, Kentucky, Maryland, Massachusetts, Nebraska, Nevada, New Hampshire, New Mexico, New York City, New York State, Rhode Island, Texas, Utah, Vermont, Washington, Wisconsin, and Wyoming) that did not report, did not report by race, or did not meet reporting standards.
+ †	Percentages for the individual component categories might not add to 100 because of rounding.
+ §	Calculated as the number of abortions reported by known race, divided by the sum of abortions reported by known and unknown race.
+ ¶	Because reporting is not mandatory, information could not be obtained for all abortions performed in the District of Columbia.
+ **	Data from hospitals and licensed ambulatory care facilities only; because reporting is not mandatory for private physicians and women's centers, information could not be obtained for all abortions performed in New Jersey.
+ ††	Includes residents only.
+ §§	Number of abortions obtained by women in a given racial group per 1,000 women in that same group.
+ For each state, abortions for women of unknown race were distributed according to the distribution of abortions among women of known race for that state.
+ ¶¶	Number of abortions obtained by women in a given racial group per 1,000 live births to women in that same racial group.
+ For each state, abortions for women of unknown race were distributed according to the distribution of abortions among women of known race for that state.
+ TABLE 14.
+ Reported abortions, by known race of women who obtained an abortion and year — selected states,* United States, 2000–2009     Race   Year   % change      2000   2001   2002   2003   2004   2005   2006   2007   2008   2009   2000 to 2004   2005 to 2009   2008 to 2009   2000 to 2009     % of abortions     White   54.1   53.7   53.9   54.2   54.2   53.6   53.4   53.2   52.0   51.2   0.2   -4.5   -1.5   -5.4     Black   38.7   38.2   38.3   38.2   38.1   38.4   38.7   38.7   40.3   41.2   -1.6   7.3   2.2   6.5     Other   7.2   8.0   7.7   7.6   7.7   8.0   7.9   8.1   7.7   7.6   6.9   -5.0   -1.3   5.6     Abortion rate†     White   9.3   9.2   9.1   9.4   9.2   8.9   9.2   9.0   8.9   8.4   -1.1   -5.6   -5.6   -9.7     Black   31.6   30.7   30.2   30.4   29.5   28.8   29.5   28.6   30.1   29.0   -6.6   0.7   -3.7   -8.2     Other   26.6   28.1   25.6   25.1   24.3   24.4   23.8   23.8   23.0   21.0   -8.6   -13.9   -8.7   -21.1     Abortion ratio§     White   149   148   147   147   144   139   138   134   135   131   -3.4   -5.8   -3.0   -12.1     Black   445   449   453   451   429   413   401   385   404   405   -3.6   -1.9   0.2   -9.0     Other   395   428   385   366   343   342   329   310   298   282   -13.2   -17.5   -5.4   -28.6     Total (no.)
+ 176,902   174,886   172,208   174,327   170,002   165,301   168,403   164,111   161,107   152,004   —   —   —   —     * 	Data from 23 reporting areas; by year, these reporting areas represent 49–71% of the abortions reported by race during 2000–2009.
+ Excludes 29 areas (Alaska, Arizona, California, Connecticut, Delaware, Florida, Hawaii, Illinois, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Nebraska, Nevada, New Hampshire, New Mexico, New York City, New York State, Rhode Island, South Dakota, Texas, Utah, Vermont, Washington, West Virginia, Wisconsin, and Wyoming) that did not report, did not report by race, or did not meet reporting standards for ≥1 year.
+ †	Number of abortions obtained by women in a given racial group per 1,000 women in that same racial group.
+ For each state, abortions for women of unknown race were distributed according to the distribution of abortions among women of known race for that state.
+ §	Number of abortions obtained by women in a given racial group per 1,000 live births to women in that same racial group.
+ For each state, abortions for women of unknown race were distributed according to the distribution of abortions among women of known race for that state.
+ TABLE 15.
+ Reported abortions, by known ethnicity of women who obtained an abortion and reporting area of occurrence — selected states,* United States, 2009     State/Area   Hispanic   Non-Hispanic   Total abortions reported by known ethnicity     No.
+ (%)†   No.
+ (%)   No.
+ % of all reported abortions§     Alabama   428   (4.0)   10,401   (96.0)   10,829   (99.5)     Alaska   54   (3.2)   1,645   (96.8)   1,699   (87.7)     Arizona   3,593   (35.7)   6,474   (64.3)   10,067   (98.0)     Arkansas   274   (6.0)   4,303   (94.0)   4,577   (99.9)     Colorado   2,938   (25.8)   8,471   (74.2)   11,409   (98.4)     District of Columbia¶   323   (12.6)   2,232   (87.4)   2,555   (98.4)     Georgia   2,490   (7.8)   29,533   (92.2)   32,023   (97.3)     Hawaii   235   (7.2)   3,007   (92.8)   3,242   (97.0)     Idaho   231   (14.1)   1,406   (85.9)   1,637   (99.2)     Indiana   715   (7.1)   9,416   (92.9)   10,131   (96.0)     Kansas   887   (9.4)   8,511   (90.6)   9,398   (99.9)     Kentucky   101   (2.5)   4,019   (97.5)   4,120   (100.0)     Maine   69   (3.3)   2,045   (96.7)   2,114   (87.6)     Minnesota   711   (5.9)   11,385   (94.1)   12,096   (97.6)     Mississippi   31   (1.3)   2,407   (98.7)   2,438   (100.0)     Missouri   170   (2.5)   6,693   (97.5)   6,863   (99.7)     Montana   83   (4.1)   1,958   (95.9)   2,041   (91.8)     New Jersey**   6,261   (22.7)   21,356   (77.3)   27,617   (96.8)     New York††   32,657   (27.2)   87,339   (72.8)   119,996   (100.0)     New York City   28,364   (32.5)   58,909   (67.5)   87,273   (100.0)     New York State   4,293   (13.1)   28,430   (86.9)   32,723   (100.0)     North Dakota   52   (4.7)   1,056   (95.3)   1,108   (85.9)     Ohio   1,041   (3.7)   27,321   (96.3)   28,362   (98.8)     Oregon   1,248   (11.7)   9,449   (88.3)   10,697   (99.0)     South Carolina   394   (5.8)   6,351   (94.2)   6,745   (97.6)     South Dakota   37   (4.8)   732   (95.2)   769   (100.0)     Tennessee   656   (3.8)   16,539   (96.2)   17,195   (98.4)     Texas   29,576   (38.3)   47,576   (61.7)   77,152   (99.4)     Utah   797   (24.4)   2,475   (75.6)   3,272   (89.3)     Virginia   4,015   (14.6)   23,427   (85.4)   27,442   (100.0)     West Virginia   14   (0.8)   1,756   (99.2)   1,770   (99.9)     Wisconsin§§   809   (9.7)   7,490   (90.3)   8,299   (100.0)     Total   90,890   (19.9)   366,773   (80.1)   457,663   (98.7)     Abortion rate¶¶   18.8      13.3    14.1        Abortion ratio***   189      212    207        	*	Data from 31 reporting areas; excludes 21 areas (California, Connecticut, Delaware, Florida, Illinois, Iowa, Louisiana, Maryland, Massachusetts, Michigan, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, Oklahoma, Pennsylvania, Rhode Island, Vermont, Washington and Wyoming) that did not report, did not report by ethnicity, or did not meet reporting standards.
+ †	Percentages for the individual component categories might not add to 100 because of rounding.
+ §	Calculated as the number of abortions reported by known ethnicity divided by the sum of abortions reported by known and unknown ethnicity.
+ ¶	Because reporting is not mandatory, information could not be obtained for all abortions performed in the District of Columbia.
+ **	Data from hospitals and licensed ambulatory care facilities only; because reporting is not mandatory for private physicians and women's centers, information could not be obtained for all abortions performed in New Jersey.
+ ††	Non-Hispanic category includes abortions for women whose ethnicity was reported as unknown; previous evaluation has shown that most reports without ethnicity are for non-Hispanic women.
+ §§	Includes residents only.
+ ¶¶	Number of abortions obtained by women in a given ethnic group per 1,000 women in that same group.
+ For each state, abortions for women of unknown ethnicity were distributed according to the distribution of abortions among women of known ethnicity for that state.
+ ***	Number of abortions obtained by women in a given ethnic group per 1,000 live births to women in that same ethnic group.
+ For each state, abortions for women of unknown ethnicity were distributed according to the distribution of abortions among women of known ethnicity for that state.
+ TABLE 16.
+ Reported abortions, by known ethnicity of women who obtained an abortion and year — selected states,* United States, 2000–2009     Ethnicity   Year   % change      2000   2001   2002   2003   2004   2005   2006   2007   2008   2009   2000 to 2004   2005 to 2009   2008 to 2009   2000 to 2009     % of abortions     Hispanic   20.9   21.5   22.4   22.6   22.8   22.6   23.4   23.2   23.6   23.3   9.1   3.1   -1.3   11.5     Non-Hispanic   79.1   78.5   77.6   77.4   77.2   77.4   76.6   76.8   76.4   76.7   -2.4   -0.9   0.4   -3.0     Abortion rate†     Hispanic   24.2   23.8   24.0   23.7   23.0   21.9   22.6   21.8   21.6   20.2   -5.0   -7.8   -6.5   -16.5     Non-Hispanic   15.6   15.5   15.4   15.3   15.0   14.9   15.2   14.9   14.8   14.3   -3.8   -4.0   -3.4   -8.3     Abortion ratio§     Hispanic   249   246   246   239   229   218   220   210   211   206   -8.0   -5.5   -2.4   -17.3     Non-Hispanic   196   195   193   188   183   181   177   171   171   170   -6.6   -6.1   -0.6   -13.3     Total (no.)
+ 389,872   380,542   382,137   379,193   376,880   362,629   361,153   377,047   372,685   370,069   —   —   —   —     * 	Data from 16 reporting areas; by year, these reporting areas represent 58%–63% of the abortions reported by ethnicity during 2000–2009.
+ Excludes 36 areas (Alaska, Arizona, California, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Montana, Nebraska, Nevada, New Hampshire, New Mexico, New York State, North Carolina, North Dakota, Oklahoma, Pennsylvania, Rhode Island, South Dakota, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming) that did not report, did not report by ethnicity, or did not meet reporting standards for ≥1 year.
+ † 	Number of abortions obtained by women in a given ethnic group per 1,000 women in that same ethnic group.
+ For each state, abortions for women of unknown ethnicity were distributed according to the distribution of abortions among women of known ethnicity for that state.
+ § 	Number of abortions obtained by women in a given ethnic group per 1,000 live births to women in that same ethnic group.
+ For each state, abortions for women of unknown ethnicity were distributed according to the distribution of abortions among women of known ethnicity for that state.
+ TABLE 17.
+ Reported abortions, by known marital status and reporting area of occurrence — selected states,* United States, 2009     State/Area   Marital status   Total abortions reported by known marital status     Married   Unmarried   No.
+ % of all reported abortions§     No.
+ (%)†   No.
+ (%)     Alabama   1,189   (11.0)   9,664   (89.0)   10,853   (99.7)     Alaska   366   (19.2)   1,543   (80.8)   1,909   (98.5)     Arizona   1,485   (14.5)   8,786   (85.5)   10,271   (100.0)     Arkansas   649   (14.2)   3,927   (85.8)   4,576   (99.9)     Colorado   2,013   (17.5)   9,467   (82.5)   11,480   (99.0)     District of Columbia¶   244   (9.6)   2,308   (90.4)   2,552   (98.3)     Hawaii   601   (18.3)   2,689   (81.7)   3,290   (98.4)     Idaho   318   (19.3)   1,331   (80.7)   1,649   (99.9)     Illinois**   4,905   (12.3)   35,035   (87.7)   39,940   (96.7)     Indiana   1,676   (15.9)   8,844   (84.1)   10,520   (99.6)     Iowa   965   (16.6)   4,850   (83.4)   5,815   (99.9)     Kansas   1,454   (15.5)   7,948   (84.5)   9,402   (99.9)     Kentucky   519   (12.6)   3,601   (87.4)   4,120   (100.0)     Maine   331   (13.9)   2,051   (86.1)   2,382   (98.7)     Michigan   2,359   (10.6)   19,980   (89.4)   22,339   (99.9)     Minnesota   1,789   (14.7)   10,384   (85.3)   12,173   (98.3)     Mississippi   178   (7.3)   2,259   (92.7)   2,437   (100.0)     Missouri   1,082   (15.9)   5,722   (84.1)   6,804   (98.9)     Montana   378   (17.4)   1,792   (82.6)   2,170   (97.6)     New Jersey††   3,619   (12.8)   24,707   (87.2)   28,326   (99.3)     New Mexico   672   (13.7)   4,218   (86.3)   4,890   (97.4)     New York City   12,395   (14.5)   72,962   (85.5)   85,357   (97.8)     North Carolina   5,555   (18.9)   23,799   (81.1)   29,354   (95.9)     North Dakota   198   (15.4)   1,087   (84.6)   1,285   (99.6)     Ohio   3,771   (13.7)   23,779   (86.3)   27,550   (95.9)     Oklahoma   1,307   (20.3)   5,123   (79.7)   6,430   (100.0)     Oregon   1,990   (19.1)   8,438   (80.9)   10,428   (96.5)     Pennsylvania**   4,500   (12.6)   31,182   (87.4)   35,682   (100.0)     Rhode Island   701   (17.5)   3,310   (82.5)   4,011   (92.7)     South Carolina   983   (14.3)   5,886   (85.7)   6,869   (99.4)     South Dakota   125   (16.3)   644   (83.7)   769   (100.0)     Tennessee   2,311   (13.8)   14,462   (86.2)   16,773   (96.0)     Texas   13,332   (17.2)   64,160   (82.8)   77,492   (99.8)     Utah   859   (25.3)   2,531   (74.7)   3,390   (92.5)     Virginia   4,488   (17.9)   20,571   (82.1)   25,059   (91.3)     West Virginia   317   (17.9)   1,451   (82.1)   1,768   (99.8)     Wisconsin**   1,190   (14.3)   7,104   (85.7)   8,294   (99.9)     Total   80,814   (15.0)   457,595   (85.0)   538,409   (98.0)     	* 	Data from 37 reporting areas; excludes 15 areas (California, Connecticut, Delaware, Florida, Georgia, Louisiana, Maryland, Massachusetts, Nebraska, Nevada, New Hampshire, New York State, Vermont, Washington, and Wyoming) that did not report, did not report by marital status, or did not meet reporting standards.
+ † 	Percentages for the individual component categories might not add to 100 because of rounding.
+ §	Calculated as the number of abortions reported by known marital status divided by the sum of abortions reported by known and unknown marital status.
+ ¶ 	Because reporting is not mandatory, information could not be obtained for all abortions performed in the District of Columbia.
+ ** 	Includes residents only.
+ ††	Data from hospitals and licensed ambulatory care facilities only; because reporting is not mandatory for private physicians and women's centers, information could not be obtained for all abortions performed in New Jersey.
+ TABLE 18.
+ Reported abortions, by known number of previous live births and reporting area of occurrence — selected states,* United States, 2009     State/Area   No.
+ of previous live births   Total abortions reported by known no.
+ of previous live births     0   1   2   3   ≥4   No.
+ % of all reported abortions§     No.
+ (%)†   No.
+ (%)   No.
+ (%)   No.
+ (%)   No.
+ (%)     Alabama   4,259   (39.1)   3,231   (29.7)   2,140   (19.7)   834   (7.7)   417   (3.8)   10,881   (100.0)     Alaska   823   (42.7)   478   (24.8)   335   (17.4)   184   (9.5)   109   (5.7)   1,929   (99.5)     Arizona   4,487   (43.8)   2,339   (22.8)   1,886   (18.4)   938   (9.2)   601   (5.9)   10,251   (99.8)     Arkansas   1,690   (36.9)   1,311   (28.6)   992   (21.7)   387   (8.4)   200   (4.4)   4,580   (100.0)     Colorado   5,561   (49.4)   2,491   (22.1)   1,911   (17.0)   857   (7.6)   441   (3.9)   11,261   (97.1)     Hawaii   1,447   (50.7)   609   (21.3)   459   (16.1)   212   (7.4)   126   (4.4)   2,853   (85.4)     Idaho   759   (46.0)   371   (22.5)   306   (18.6)   139   (8.4)   74   (4.5)   1,649   (99.9)     Indiana   3,883   (36.8)   2,822   (26.8)   2,319   (22.0)   949   (9.0)   573   (5.4)   10,546   (99.9)     Iowa   2,527   (43.4)   1,399   (24.1)   1,120   (19.3)   501   (8.6)   270   (4.6)   5,817   (99.9)     Kansas   3,715   (39.5)   2,480   (26.4)   1,928   (20.5)   834   (8.9)   453   (4.8)   9,410   (100.0)     Kentucky   1,648   (40.0)   1,175   (28.5)   797   (19.3)   331   (8.0)   169   (4.1)   4,120   (100.0)     Louisiana   3,309   (42.7)   2,056   (26.5)   1,444   (18.6)   610   (7.9)   332   (4.3)   7,751   (94.9)     Maine   1,269   (52.6)   557   (23.1)   395   (16.4)   132   (5.5)   60   (2.5)   2,413   (100.0)     Michigan¶   8,953   (40.0)   5,938   (26.6)   4,309   (19.3)   1,966   (8.8)   1,191   (5.3)   22,357   (100.0)     Minnesota   5,208   (42.1)   3,007   (24.3)   2,420   (19.6)   1,034   (8.4)   709   (5.7)   12,378   (99.9)     Mississippi   760   (31.2)   814   (33.4)   547   (22.4)   209   (8.6)   107   (4.4)   2,437   (100.0)     Missouri   2,732   (39.7)   1,816   (26.4)   1,391   (20.2)   572   (8.3)   370   (5.4)   6,881   (100.0)     Montana   1,038   (46.7)   541   (24.3)   386   (17.4)   162   (7.3)   96   (4.3)   2,223   (100.0)     Nebraska   1,066   (41.8)   663   (26.0)   475   (18.6)   228   (8.9)   119   (4.7)   2,551   (100.0)     Nevada   4,015   (42.9)   2,260   (24.2)   1,723   (18.4)   816   (8.7)   536   (5.7)   9,350   (98.0)     New Jersey**   11,174   (39.6)   7,810   (27.7)   5,389   (19.1)   2,256   (8.0)   1,562   (5.5)   28,191   (98.8)     New York City   34,074   (40.3)   23,307   (27.5)   16,345   (19.3)   6,858   (8.1)   4,065   (4.8)   84,649   (97.0)     North Carolina   10,932   (40.3)   6,910   (25.5)   5,118   (18.9)   2,405   (8.9)   1,750   (6.5)   27,115   (88.6)     North Dakota   516   (40.0)   321   (24.9)   251   (19.5)   131   (10.2)   71   (5.5)   1,290   (100.0)     Ohio††   9,890   (35.7)   7,932   (28.6)   5,855   (21.1)   2,549   (9.2)   1484   (5.4)   27,710   (96.5)     Oklahoma   2,505   (39.0)   1,663   (25.9)   1,375   (21.4)   606   (9.4)   281   (4.4)   6,430   (100.0)     Oregon   5,109   (48.3)   2,428   (23.0)   1,854   (17.5)   760   (7.2)   422   (4.0)   10,573   (97.9)     Pennsylvania   15,161   (40.7)   10,085   (27.0)   7,116   (19.1)   3,137   (8.4)   1,785   (4.8)   37,284   (100.0)     South Carolina   3,013   (43.6)   1,923   (27.8)   1,249   (18.1)   510   (7.4)   216   (3.1)   6,911   (100.0)     South Dakota   325   (42.3)   192   (25.0)   151   (19.7)   63   (8.2)   37   (4.8)   768   (99.9)     Tennessee   5,756   (33.4)   4,787   (27.8)   3,646   (21.2)   1,802   (10.5)   1,235   (7.2)   17,226   (98.6)     Texas   29,006   (37.4)   20,784   (26.8)   16,608   (21.4)   7,277   (9.4)   3,882   (5.0)   77,557   (99.9)     Utah   1,516   (42.0)   835   (23.1)   698   (19.3)   349   (9.7)   210   (5.8)   3,608   (98.4)     Virginia   10,486   (38.8)   7,409   (27.4)   5,607   (20.8)   2,326   (8.6)   1,179   (4.4)   27,007   (98.4)     Washington   10,655   (47.2)   5,483   (24.3)   3,910   (17.3)   1,675   (7.4)   865   (3.8)   22,588   (99.6)     West Virginia   629   (35.5)   565   (31.9)   364   (20.5)   158   (8.9)   56   (3.2)   1,772   (100.0)     Total   209,896   (40.2)   138,792   (26.6)   102,819   (19.7)   44,757   (8.6)   26,053   (5.0)   522,317   (98.1)     	*	Data from 36 reporting areas; excludes 16 areas (California, Connecticut, Delaware, District of Columbia, Florida, Georgia, Illinois, Maryland, Massachusetts, New Hampshire, New Mexico, New York State, Rhode Island, Vermont, Wisconsin, and Wyoming) that did not report, did not report by number of previous births, or did not meet reporting standards.
+ †	Percentages for the individual component categories might not add to 100 because of rounding.
+ §	Calculated as the number of abortions reported by known number of previous live births, divided by the sum of abortions reported by known and unknown number of previous live births.
+ ¶	Recorded as number of previous pregnancies carried to term.
+ **	Data from hospitals and licensed ambulatory care facilities only; because reporting is not mandatory for private physicians and women's centers, information could not be obtained for all abortions performed in New Jersey.
+ ††	Abortions reported for women with ≥2 previous live births have been distributed among 2, 3 and ≥4 previous births according to the distribution of known values for all other reporting areas.
+ TABLE 19.
+ Reported abortions, by known number of previous induced abortions and reporting area of occurrence — selected states,* United States, 2009     State/Area   No.
+ of previous induced abortions   Total abortions reported by known no.
+ of previous induced abortions     0   1   2   ≥3   No.
+ % of all reported abortions§     No.
+ (%)†   No.
+ (%)   No.
+ (%)   No.
+ (%)     Alabama   6,978   (64.1)   2,725   (25.0)   846   (7.8)   332   (3.1)   10,881   (100.0)     Alaska   1,173   (61.6)   435   (22.9)   214   (11.2)   81   (4.3)   1,903   (98.2)     Arizona   6,023   (58.8)   2,824   (27.6)   1,001   (9.8)   397   (3.9)   10,245   (99.7)     Arkansas   2,919   (65.6)   980   (22.0)   383   (8.6)   166   (3.7)   4,448   (97.1)     Colorado   7,363   (64.6)   2,771   (24.3)   876   (7.7)   383   (3.4)   11,393   (98.2)     Idaho   1,174   (71.2)   347   (21.1)   89   (5.4)   38   (2.3)   1,648   (99.9)     Indiana   6,600   (62.6)   2,552   (24.2)   891   (8.4)   505   (4.8)   10,548   (99.9)     Iowa   3,768   (64.8)   1,434   (24.7)   403   (6.9)   206   (3.5)   5,811   (99.8)     Kansas   5,716   (60.7)   2,251   (23.9)   917   (9.7)   526   (5.6)   9,410   (100.0)     Kentucky   2,537   (61.6)   1,013   (24.6)   358   (8.7)   211   (5.1)   4,119   (100.0)     Louisiana   5,567   (69.8)   1,681   (21.1)   541   (6.8)   187   (2.3)   7,976   (97.7)     Maine   1,477   (62.1)   589   (24.7)   230   (9.7)   84   (3.5)   2,380   (98.6)     Michigan   11,538   (51.6)   5,806   (26.0)   2,914   (13.0)   2,099   (9.4)   22,357   (100.0)     Minnesota   7,351   (59.3)   2,890   (23.3)   1,198   (9.7)   949   (7.7)   12,388   (100.0)     Mississippi   1,499   (61.5)   663   (27.2)   202   (8.3)   73   (3.0)   2,437   (100.0)     Missouri   4,105   (59.7)   1,702   (24.7)   656   (9.5)   416   (6.0)   6,879   (100.0)     Montana   736   (33.1)   826   (37.2)   387   (17.4)   274   (12.3)   2,223   (100.0)     Nebraska   1,729   (67.8)   576   (22.6)   168   (6.6)   78   (3.1)   2,551   (100.0)     Nevada   5,030   (53.6)   2,542   (27.1)   1,092   (11.6)   722   (7.7)   9,386   (98.4)     New Jersey¶   18,356   (65.1)   4,984   (17.7)   2,633   (9.3)   2,218   (7.9)   28,191   (98.8)     New York   49,873   (44.4)   28,806   (25.6)   16,858   (15.0)   16,872   (15.0)   112,409   (93.7)     New York City   35,774   (42.4)   21,797   (25.8)   13,131   (15.6)   13,699   (16.2)   84,401   (96.7)     New York State   14,099   (50.3)   7,009   (25.0)   3,727   (13.3)   3,173   (11.3)   28,008   (85.6)     North Carolina   16,372   (60.7)   6,644   (24.6)   2,635   (9.8)   1,330   (4.9)   26,981   (88.2)     North Dakota   887   (68.8)   262   (20.3)   90   (7.0)   51   (4.0)   1,290   (100.0)     Ohio   14,027   (52.9)   7,279   (27.5)   3,147   (11.9)   2,050   (7.7)   26,503   (92.3)     Oklahoma   4,132   (64.3)   1,496   (23.3)   510   (7.9)   292   (4.5)   6,430   (100.0)     Oregon   6,180   (58.0)   2,557   (24.0)   1,059   (9.9)   855   (8.0)   10,651   (98.6)     Pennsylvania   20,263   (56.5)   9,401   (26.2)   4,401   (12.3)   1,829   (5.1)   35,894   (96.3)     Rhode Island   2,311   (54.1)   1,091   (25.5)   476   (11.1)   393   (9.2)   4,271   (98.7)     South Carolina   3,850   (55.7)   1,746   (25.3)   800   (11.6)   515   (7.5)   6,911   (100.0)     South Dakota   537   (69.8)   158   (20.5)   49   (6.4)   25   (3.3)   769   (100.0)     Tennessee   8,990   (52.2)   4,631   (26.9)   2,116   (12.3)   1,491   (8.7)   17,228   (98.6)     Texas   44,345   (57.2)   20,355   (26.3)   8,172   (10.5)   4,660   (6.0)   77,532   (99.9)     Utah   2,500   (69.8)   734   (20.5)   237   (6.6)   111   (3.1)   3,582   (97.7)     Virginia   14,597   (53.8)   7,399   (27.2)   3,184   (11.7)   1,977   (7.3)   27,157   (99.0)     Washington   12,445   (55.1)   5,637   (25.0)   2,573   (11.4)   1,915   (8.5)   22,570   (99.6)     West Virginia   983   (55.5)   467   (26.4)   198   (11.2)   124   (7.0)   1,772   (100.0)     Total   303,931   (55.3)   138,254   (25.2)   62,504   (11.4)   44,435   (8.1)   549,124   (97.0)     * 	Data from 37 reporting areas; excludes 15 areas (California, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois, Maryland, Massachusetts, New Hampshire, New Mexico, Vermont, Wisconsin, and Wyoming) that did not report, did not report by the number of previous induced abortions, or did not meet reporting standards.
+ † 	Percentages for the individual component categories might not add to 100 because of rounding.
+ §	Calculated as the number of abortions reported by known number of previous induced abortions divided by the sum of abortions reported by known and unknown number of previous induced abortions.
+ ¶	Data from hospitals and licensed ambulatory care facilities only; because reporting is not mandatory for private physicians and women's centers, information could not be obtained for all abortions performed in New Jersey.
+ TABLE 20.
+ Reported abortions, by known race, age group, and marital status of women who obtained an abortion — selected states, United States, 2009     Characteristic   White   Black   Other   Total     No.
+ (%)*   No.
+ (%)   No.
+ (%)   No.
+ * 	Data from 34 reporting areas; excludes 18 areas (Alabama, California, Connecticut, Delaware, Florida, Hawaii, Illinois, Louisiana, Maryland, Massachusetts, Nebraska, Nevada, New Hampshire, Pennsylvania, Tennessee, Vermont, Wisconsin, and Wyoming) that did not report, did not report by method type or gestational age, did not meet reporting standards, or did not have medical abortion as a specific category on their reporting form.
+ † 	For each gestational age category, percentages of all method types might not add to 100 because of rounding.
+ § 	Includes vacuum aspiration/suction curettage, sharp curettage, and dilation and evacuation procedures.
+ ¶ 	The administration of medication or medications to induce an abortion; at ≤8 weeks' gestation, typically involves the use of mifepristone and misoprostol; at &gt;8 weeks' gestation, typically involves the use of vaginal prostaglandins.
+ **	Intrauterine instillations reported at ≤12 weeks' gestation have not been included with known values.
+ TABLE 25.
+ Number of deaths and case-fatality rates* for abortion-related deaths reported to CDC, by type of abortion — United States, 1973–2008†     Year   Type of abortion   Total   Case-fatality rate per 100,000     Induced   Unknown**     Legal§   Illegal¶     1973–1978       1.78     1973   25   19   3   47      1974   26   6   1   33      1975   29   4   1   34      1976   11   2   1   14      1977   17   4   0   21      1978   9   7   0   16      1979–1983       0.78     1979   22   0   0   22      1980   9   1   2   12      1981   8   1   0   9      1982   11   1   0   12      1983   11   1   0   12      1984–1988       0.72     1984   12   0   0   12      1985   11   1   1   13      1986   11   0   2   13      1987   7   2   0   9      1988   16   0   0   16      1989–1993       0.62     1989   12   1   0   13      1990   9   0   0   9      1991   11   1   0   12      1992   10   0   0   10      1993   6   1   2   9      1994–1998       0.57     1994   10   2   0   12      1995   4   0   0   4      1996   9   0   0   9      1997   7   0   0   7      1998   9   0   0   9      1999–2003       0.64     1999   4   0   0   4      2000   11   0   0   11      2001   7   1   0   8      2002   10   0   0   10      2003   10   0   0   10      2004–2008       0.64     2004   7   1   0   8      2005   7   0   0   7      2006   7   0   0   7      2007   6   0   0   6      2008   12   0   0   12      Total   403   56   13   472   0.82     	*	Number of legal induced abortion-related deaths per 100,000 reported legal induced abortions.
+ Because a substantial number of legal induced abortions occurred outside reporting areas that provided data to CDC, national case-fatality rates (i.e., number of legal induced abortion-related deaths per 100,000 reported legal induced abortions in the United States) were calculated with denominator data from a more complete source (Source: Jones RK, Kooistra K. Abortion incidence and access to services in the United States, 2008.
+ Perspect Sex Reprod Health 2011;43:41–50).
+ Case-fatality rates were computed for the 5-year period 1973–1978 and for consecutive 5-year periods thereafter because rates based on

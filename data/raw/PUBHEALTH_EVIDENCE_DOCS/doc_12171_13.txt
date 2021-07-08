@@ -1,0 +1,19 @@
+This grade takes into account key indicators of a location’s safety, including violent and property crime rates as well as resident reviews, in an attempt to measure an area’s safety and security.
+ Learn where our data comes from.
+ Factors Considered     Assault Rate Rate of assaults committed per 100,000 residents.
+ FBI Uniform Crime Report 20.0%   Robbery Rate Rate of robberies committed per 100,000 residents.
+ FBI Uniform Crime Report 20.0%   Murder Rate Rate of murders committed per 100,000 residents.
+ FBI Uniform Crime Report 15.0%   Burglary Rate Rate of burglaries committed per 100,000 residents.
+ FBI Uniform Crime Report 10.0%   Vehicle Theft Rate Rate of vehicle thefts committed per 100,000 residents.
+ FBI Uniform Crime Report 10.0%   Composite Crime and Safety Score Niche survey responses scored on a 1-5 scale regarding crime and safety of the place.
+ Self-reported by Niche users 7.5%   Larceny Rate Rate of larcenies committed per 100,000 residents.
+ FBI Uniform Crime Report 7.5%   Drug Related Deaths Number of drug poisoning deaths per 100,000 population.
+ CDC 2.5%   Excessive Drinking The rate of adults (at the county level) who report heavy drinking (a weekly average of eight or more drinks for women or 15 or more drinks for men) or binge drinking (consuming in a single occasion four or more drinks for women or five or more drinks for men in the last 30 days).
+ CDC 2.5%   Firearm Related Deaths Number of deaths due to firearms per 100,000 population.
+ CDC 2.5%   Premature Death Rate Years of potential life lost before age 75 per 100,000 population (age-adjusted).
+ CDC 2.5%     The same methodology is used to produce the Crime &amp; Safety Grade for each ranked place.
+ Statistics are primarily obtained from the FBI Uniform Crime Report and represent the most recent data available.
+ For more details about how we calculate our rankings, click here.
+ Discover the schools, companies, and neighborhoods that are right for you.
+ Places to Live   K-12   Colleges   Places to Work     					Do you work for a school or college?
+ Claim Your School      About Us Niche for Schools Niche for Colleges Blog Contact Niche Data Careers Partnerships Press Do Not Sell My Info Privacy Policy User Agreement Cookie Policy       ©2020 Niche.com Inc.

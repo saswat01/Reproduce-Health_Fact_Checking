@@ -1,0 +1,32 @@
+The A.V.
+ \n\nThe medical device was created by scientists at Imperial College London and tech firm DNA Electronics, and all it needs is a simple drop of blood to measure HIV-1 levels.
+ It then creates an electrical signal that’s fed into a computer, laptop, or handheld device.
+ The disposable test could be used by HIV patients to monitor their own treatment and help patients in remote regions of the world, where more standard HIV tests are inaccessible.
+ \n\nPublished in the journal Scientific Reports, results show that the USB stick is highly accurate, and it can produce a result in under 30 minutes.
+ Current tests to detect the amount of HIV in the blood can take as much as three days, requiring patients to send blood samples to a lab.
+ In the latest research, the USB stick tested 991 blood samples with 95 percent accuracy, with an average time to produce a new result just shy of 21 minutes.\n\nWhen blood is placed onto a spot on the USB stick, it senses the HIV-1 virus through a change in acidity levels.
+ A mobile phone chip in the USB stick converts this information into an electrical signal, and the stick then feeds the result to an app on a handheld device or computer.\n\n The technology is still in its early stages, but it could allow patients to regularly monitor their virus levels similar to the way people with diabetes check their blood sugar levels.
+ The current treatment for HIV reduces virus levels to practically zero, but in some cases, the anti-retroviral medication stops working, typically due to the HIV virus developing a resistance to the drugs.
+ The new USB stick can detect the rise in HIV levels, and flag a potential problem with a patient’s meds or therapy.
+ \n\n“[Monitoring] viral load is crucial to the success of HIV treatment,” noted study lead author Graham Cooke in a statement.
+ “At the moment, testing often requires costly and complex equipment that can take a couple of days to produce a result.
+ AdvertisementThe medical device was created by scientists at Imperial College London and tech firm DNA Electronics, and all it needs is a simple drop of blood to measure HIV-1 levels.
+ It then creates an electrical signal that’s fed into a computer, laptop, or handheld device.
+ The disposable test could be used by HIV patients to monitor their own treatment and help patients in remote regions of the world, where more standard HIV tests are inaccessible.
+ Image: Imperial College London/DNA ElectronicsAdvertisementPublished in the journal Scientific Reports, results show that the USB stick is highly accurate, and it can produce a result in under 30 minutes.
+ Current tests to detect the amount of HIV in the blood can take as much as three days, requiring patients to send blood samples to a lab.
+ In the latest research, the USB stick tested 991 blood samples with 95 percent accuracy, with an average time to produce a new result just shy of 21 minutes.When blood is placed onto a spot on the USB stick, it senses the HIV-1 virus through a change in acidity levels.
+ A mobile phone chip in the USB stick converts this information into an electrical signal, and the stick then feeds the result to an app on a handheld device or computer.
+ The current treatment for HIV reduces virus levels to practically zero, but in some cases, the anti-retroviral medication stops working, typically due to the HIV virus developing a resistance to the drugs.
+ The new USB stick can detect the rise in HIV levels, and flag a potential problem with a patient’s meds or therapy.
+ “[Monitoring] viral load is crucial to the success of HIV treatment,” noted study lead author Graham Cooke in a statement.
+ “At the moment, testing often requires costly and complex equipment that can take a couple of days to produce a result.
+ We have taken the job done by this equipment, which is the size of a large photocopier, and shrunk it down to a USB chip.”AdvertisementThe team is now investigating the possibility of using the device to test for other viruses, such as hepatitis.
+ [Scientific Reports]AdvertisementGeorge DvorskyPostsEmailTwitterGeorge is a senior staff reporter at Gizmodo.Share This StoryGet our newsletterSubscribeMore from GizmodoWhat If That New Mandalorian Character Isn’t Who You Think?Why, Yes, I Would Like to Own This Actually Pocket-Sized PCTrump’s Cybersecurity Agency Says It Is 'Highly Difficult' to Commit Voter Fraud, ActuallyColorado Is Getting Its Wolves Back After Voters Approve Historic LawDISCUSSIONDr Emilio Lizardo11/10/16 1:17PM...the USB stick tested 991 blood samples with 95 percent accuracy...This is not an accurate statement.
+ The sensitivity of the technique is 95% in general, only 88.8% “on-chip.” That means if you have HIV, 11.2% of the time it will tell you that you do not.
+ News, stories, photos, videos and more.
+ News, stories, photos, videos and more.
+ | Gizmodo","metaDescription":"We come from the future.
+ News, stories, photos, videos and more.
+ News, stories, photos, videos and more.
+ | Gizmodo","metaDescription":"We come from the future.

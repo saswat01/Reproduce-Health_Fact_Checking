@@ -1,0 +1,213 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListJ Stud Alcohol DrugsPMC3125880        J Stud Alcohol Drugs.
+ 2011 Jul; 72(4): 567–576.
+ doi: 10.15288/jsad.2011.72.567PMCID: PMC3125880PMID: 21683038Drug and Alcohol Involvement in Four Types of Fatal Crashes*Eduardo Romano, Ph.D.† and Robert B. Voas, Ph.D.Author information Article notes Copyright and License information DisclaimerImpaired-Driving Center, Pacific Institute for Research and Evaluation, 11720 Beltsville Drive, Suite 900, Calverton, Maryland, 20705†Correspondence may be sent to Eduardo Romano at the above address or via email at: gro.erip@onamor.Received 2010 Oct 25; Accepted 2011 Apr 12.Copyright © 2011 by Alcohol Research Documentation, Inc.This article has been cited by other articles in PMC.AbstractObjective:The aim of this study was to explore the relationship of drunk and drugged driving to the occurrence of fatal crashes associated with speeding, failure to obey/yield, inattention, and seat belt nonuse.Method:We examined data for fatally injured drivers involved in single-vehicle crashes killed in states in which more than 79% of the drivers were tested for drugs other than alcohol and had a known result.Results:About 25% of the drivers tested positive for drugs, a figure almost double that estimated by the 2007 National Roadside Survey.
+ Cannabinoids and stimulants each contributed to about 23% of the drug-positive results (6% among all fatally injured single-vehicle drivers).
+ Stimulants more than cannabinoids were found to be associated with the four types of crashes under study.
+ Some drugs showed a protective effect over the four crash types under study.
+ Significant interactions between drugs and alcohol were observed.
+ Stimulants contributed to the different types of fatal crashes irrespective of the levels of alcohol consumed by the drivers.Conclusions:This study provides further evidence of a link between drug consumption and fatal crashes.
+ Research is also needed on drugs that could have a protective effect on the occurrence of fatal crashes.
+ These findings could be highly relevant to the design of drug-related traffic laws and programs targeted at curbing drugged driving.The role of drugged driving in fatal crashes has been overshadowed by the significance of alcohol impairment.
+ Since the middle of the 20th century, alcohol has been the most important factor for drivers involved in fatal crashes.
+ Highway fatality records indicate that, in the 1960s, as many as half of all fatalities could be traced to an alcohol-related crash; currently, that proportion has been reduced to about a third of all fatalities.
+ Unfortunately, the proportion of fatal crashes resulting from impairment by drugs other than alcohol has been hidden by the police officers' inability to detect drug involvement and the cost of obtaining laboratory confirmation of drugs in bodily fluids.
+ Additionally, the policies in some jurisdictions do not allow investigating or prosecuting the possibility of drug involvement if an impaired-driving conviction can be obtained based on the driver's blood alcohol concentration (BAC; Compton et al., 2009).There is a growing interest in the extent to which the use of drugs by drivers is related to crash involvement (Dobbs, 2005; Jones et al., 2003; Moskowitz and Wilkinson, 2004; Walsh et al., 2004).
+ These reviews have covered laboratory, simulator, and research studies of arrested and crash-involved drivers and on-road studies of specific driving skills.
+ Although this work suggests a connection between drug use and driving impairment, a specific quantitative relationship between drug concentration and driving impairment has not been established (Compton et al., 2009).Despite this limited knowledge, laws criminalizing drugged driving are being enacted and enforced.
+ Internationally, the most aggressive enforcement is occurring in Australia, where the police have adapted their highly successful alcohol random breath-testing programs (Homel, 1993) to the testing of other drugs using oral fluid (Boorman and Owens, 2010; Boorman and Swann, 2010; Faulks and Irwin, 2010).
+ Aside from enforcing drugged-driving laws, European researchers are seeking rapid drug-testing methods that can be used in enforcement through the international cooperative Roadside Testing Assessment (ROSITA) program (Verstraete and Raes, 2006).
+ In another international effort—Driving Under the Influence of Drugs, Alcohol and Medicines (Kui-jten, 2009), a 5-year project established by the European Commission—several European countries have embarked on a program to establish drug-impairment thresholds by comparing drug levels of injured drivers with those of drivers recruited at random roadside surveys.In the United States, the 2007 National Roadside Survey found that the percentage of drivers who were using drugs (14%) was greater than the percentage who were using alcohol (12%; Lacey et al., 2009).
+ This somewhat startling result led the White House Office of National Drug Control Policy (2010) to call for states to pass drug per se laws in 2010.
+ Currently, 17 U.S. states have drugged-driving per se laws, of which 15 specify zero tolerance for any measureable amount of an illicit drug.
+ As described in the National Highway Traffic Safety Administration (NHTSA) report to Congress (Compton et al., 2009), enforcing these laws will be difficult because, among other problems, the United States does not have a true per se illegal law (like the one in Australia allowing for random breath testing) for either alcohol or other drugs that will allow officers to stop cars at random and demand a chemical test.
+ The Fourth Amendment to the U.S. Constitution requires that searches be reasonable—meaning that there must be evidence or probable cause that the suspect has used alcohol or another drug.
+ Absent that information, the officer cannot require a test, and even if one has been collected, its admission in court can be blocked if the defense can show that the officer lacked probable cause to require the test.
+ To meet these requirements for enforcing drinking-and-driving laws, the NHTSA has funded extensive research for the development of manuals describing vehicle maneuvers that indicate the driver may be intoxicated and that illustrate the appearance and actions of drivers who may be under the influence of alcohol.
+ Although NHTSA has developed a drug-recognition-expert program for police officers, the number that can be trained and qualified under that program is limited.To increase the rate of apprehension of drugged drivers, police officers will need a set of vehicle maneuvering cues that suggest the driver may be impaired by a drug.
+ Normally, traffic officers respond to typical driving offenses, such as speeding, red-light running, and failure to use seat belts.
+ In this study, we attempted to determine whether the types of offenses provided a cue to the drugged status of the driver.
+ In the process, we explored the relationship of drunk and drugged driving and the two combined to crashes involving specific types of driving errors.To accomplish this, we analyzed data from the Fatality Analysis Reporting System (FARS), which is a census of all crashes on U.S. public roads that result in a death within 30 days.
+ FARS contains an estimate of the BAC of every driver involved in a fatal crash based on an actual measurement or an imputed value based on other factors in the crash (Sub-ramanian, 2002).
+ Drug information is more limited, but 20 of the 50 states have provided drug use information on at least 80% of their fatally injured drivers.
+ A major strength of FARS is its extensive data set on the characteristics of the crash and its inclusion of important driver demographics, such as age and gender.
+ Based on this information, we explored the relationship of drugs and alcohol in fatally injured drivers in single-vehicle crashes (where the responsibility is clear) involving four driver error factors: speeding, failure to obey or yield, inattention, and failure to use a seat belt.MethodCase selectionData were obtained from the 1998-2009 FARS (NHTSA, 1998-2009).
+ Table 1 lists the states from which information on drug involvement was drawn for each year.
+ Data were limited to fatally injured drivers because surviving drivers are rarely tested for drugs.
+ We also limited the data to drivers in single-vehicle crashes to select the events for which the drivers of interest were likely to be responsible rather than crashes in which two or more drivers were involved.
+ This strategy, which relies on a subset of states and drivers that isolates the characteristics (drug use and crash responsibility) required for our study, is not new but is typical of many studies using the FARS data.Table 1States/year with more than 79% of fatally injured drivers with known lab result: Number of fatally injured drivers with drug information in the database by state and yearLocationYear1998199920002001200022003200420052006200720082009TotalCalifornia1,0751,1251,2271,3631,4411,4601,4301,1781,2111,1621,04687114,589Colorado0000024701361882142001691,154Connecticut14901441211301220901341310891,110District of Columbia000000130770633Georgia00478000000000478Hawaii5233003447536258585057504Illinois000000534516528471002,049Maryland490000002252722252302211,222Massachusetts1541690000000000323Minnesota00000000000160160Montana000471141181161081181440111876Nevada00000000014312595363New Hampshire576960074599195670800652New Jersey0227247224425623202602472792061902,383New Mexico01530001591902112171741621771,443North Carolina0005105696446856006416156053995,268North Dakota0000042056046490193Ohio00000005275405505254172,559Pennsylvania00000006796336726305163,130Rhode Island4051464848604440413200450Vermont0000035504955433640308Virginia00039100000000391Washington00026429425426422802742782372272,350West Virginia16116819418822141712041771882002051872,251Total1,7371,9952,3913,1703,1743,6503,6525,2895,4195,4444,3863,93244,239Open in a separate windowSource: Fatality Analysis Reporting System database, downloaded August 2010 (National Highway Traffic Safety Administration, 1998-2009).To ensure a proper identification of crash responsibility, in addition to limiting the sample to single-vehicle drivers, we discarded drivers who (a) presented a condition signaling them as mentally challenged, (b) were involved in a police chase, (c) were driving buses or farm equipment, or (d) were parked or in the process of parking a vehicle.
+ After these manipulations, 44,239 drivers remained in the file.As shown in Table 1, only two states (California and West Virginia) tested more than 79% of the fatally injured drivers for drugs in each of the years under consideration.
+ If only the most recent 5 years are considered, the number of states increases to 12, suggesting that the number of states collecting these measures is rising.MeasuresAge and gender.
+ Five age groups of drivers were examined: 20 years and younger, 21-34,35-64,65-74, and 75 and older.
+ Although information on race and ethnicity has been present in FARS since 1999, some states have not provided this information to the FARS data managers.
+ The following list shows the correspondence between these codes and drug classes that applies to FARS: 000 (Not Tested for Drugs); 001 (No Drugs Reported/Negative); 100-295 (Narcotics); 300-395 (Depressants); 400-495 (Stimulants); 500-595 (Hallucinogens); 600-695 (Can-nabinoids); 700-795 (Phencyclidine/PCP); 800-895 (Anabolic Steroids); 900-995 (Inhalants); 996 (Other Drugs); 997 (Tested for Drugs, Results Unknown); 998 (Tested for Drugs, Drugs Found, Type Unknown/Positive); and 999 (Unknown if Tested/Not Reported).
+ We followed this list, but because of some small sample sizes, some classes of drugs (Hallucinogens, Phencyclidine/PCP, Anabolic Steroids, and Inhalants) and drugs of an unknown type were collapsed into the “996-Other Drugs” class.
+ Thus, more than half of the drivers in this miscellaneous category have tested positive for drugs, but that drug is not specified in the database.
+ To establish alcohol consumption, we relied on (a) the actual BAC as measured and reported in FARS and (b) the multiple imputation of BAC values when the actual BAC values were missing, as is currently done in the FARS (Subramanian, 2002).
+ We then ran logistic regressions to investigate the joint contribution of drugs, alcohol, and demographics to each of the four types of crashes under study.
+ We ran regressions for main effects only and for both main effects and dual Drug × Alcohol interactions.
+ In all, eight regressions were run: one main effects only and one main effects plus interactions for each of the four types of crashes under consideration.
+ We used the MIAnalyze procedure in SAS 9.1.
+ (SAS Institute Inc., Cary, NC) to combine and analyze the 10 BAC imputations.ResultsThis section is divided into two parts.
+ First, we present the results of the descriptive analyses, which focus on single associations between drug class and crash type.
+ Next, we present the outcome of the logistic regressions, which examine the joint contribution of alcohol, drug class, and demographics to each of the four crash type under consideration.Descriptive analysisThe descriptive associations between the drug classes and the four crash types under study are shown in Table 3.
+ : tested negative) Cannabinoids1.243.0611.224.1421.199&lt;.00011.071.633 Depressant1.268.2171.111.6291.342.0000.851.512 Multidrug1.463.0061.248.1761.776&lt;.00011.346.076 Narcotic1.088.5981.045.84321.425&lt;.00011.062.7532 Other drugs0.647&lt;.00010.637&lt;.00011.384&lt;.00010.652&lt;.0001 Stimulant2.514&lt;.00012.066&lt;.00011.298&lt;.00011.579.011Alcohol (ref.
+ : 21-34) 16-202.194&lt;.00011.953&lt;.00011.170&lt;.00011.525.000 35-640.479&lt;.00010.824.0030.976.3080.751&lt;.0001 65-740.305&lt;.00012.024&lt;.00010.928.1170.824.142 ≥750.292&lt;.00014.647&lt;.00010.793&lt;.00011.121.388Gender (ref.
+ With the exception of the Drug × BAC ≥ .08 interaction rows, coefficients and p values in this table were estimated for main effects model.
+ Although added in this table to save space, the five rows denoting Drug × BAC ≥ .08 interactions were estimated from separate models.
+ Only statistically significant Drug × Alcohol interactions (at least for one of the four types of crashes under study) were included in this table.
+ Cannabinoid (although marginally significant), stimulant, and multidrug users were more likely to speed than drivers with no drugs in their systems.
+ Among these drugs, stimulants were found to be closely associated with speeding, with the odds of speeding about double those for drivers using cannabinoids.
+ The protective role of the miscellaneous other-drugs group on speeding that surfaced in Table 3 also appears in Table 4.
+ Although stimulant and multidrug use were found to be significant contributors to speeding, the largest contributor to speeding was alcohol, an important crash factor even at relatively low BAC levels.
+ The contribution of alcohol to speeding increased with the BAC level; the largest increase was at BAC ≥ .08, with an odds ratio (OR) almost doubling that for intermediate BAC levels or stimulants.
+ As expected, speeding was more likely to occur among young male drivers.Failure to obey or yield.
+ The contribution of drugs to the likelihood of failure to obey or yield shows a slightly different pattern than that found for speeding.
+ As was the case with speeding, stimulants were found to be a significant contributor to the likelihood of failure to obey or yield.
+ Unlike the case with speeding-related crashes, multidrug users were no longer significant contributors to failure-to-obey or -yield crashes.
+ As with speeding, the miscellaneous other-drugs group had a protective effect on failure-to-obey or -yield crashes.
+ Also, as with speeding, alcohol was an important contributor to failure to obey or yield.
+ Alcohol was also an important contributor to failure-to-obey or -yield crashes, albeit significant only for BAC ≥ .08 and with an OR lower than that of stimulants.
+ Drivers ages 75 and older were much more likely to fail to obey or yield than drivers of any other age.
+ Drivers ages 35-64 were the least likely to fail to obey or yield.
+ Male drivers were less likely than their female counterparts to be fatally injured in a failure-to-obey or -yield crash.Seat belt nonuse.
+ Unlike the case with speeding or failure to obey or yield, the presence of any of the drugs under study reduced the likelihood of wearing a seat belt.
+ Even the miscellaneous other-drugs group was found to be a contributor to these crashes.
+ Alcohol was again the most important contributor to this type of crash, with an OR for BAC ≥ .08 that doubled for any individual drug.
+ Seat belt use differed by age, being relatively low among the youngest drivers and high among the oldest.
+ As expected, male drivers were less likely than their female counterparts to wear a seat belt.Inattention.
+ Stimulants were the only drug class found to significantly increase the likelihood of an inattention-related fatal crash, albeit only at the 5% α level.
+ The miscellaneous other-drugs category again showed a protective factor against crashes.
+ Cannabinoids were found statistically nonsignificant.
+ Alcohol impairment was again the most important contributor to these types of crashes, with ORs that doubled that of stimulants.
+ Regarding age, inattention-related crashes were more prevalent among the young and the old: drivers ages 16-20 and 75 and older.
+ Women were more likely than men to be involved in this type of crash.Interaction terms.
+ The joint effect of alcohol and drugs was further explored by the addition of interaction terms to the main effect models.
+ Interestingly, only the interaction of drugs with BAC ≥ .08 was significant.
+ No drug interaction with relatively low BAC levels (i.e., BAC &lt; .08) was found to be a significant contributor to any of the four crash types under study.
+ Also interesting was the direction of these significant interactions, all of them showing an OR of less than 1.
+ When statistically significant, the direction of the estimated ORs for interaction terms suggests that the influence of the drug classes shown by the main effects models depends on the level of alcohol in the driver's system being greater at lower BAC levels.
+ For instance, that seems to be the case for cannabinoids or multidrugs in each of the four types of crashes under study as well as for the miscellaneous other drugs in all crash types (except inattention) and for depressants in speeding.
+ In other words, this finding suggests that the consumption of cannabinoids or multidrugs does have an influence on these crashes but mostly in the absence of alcohol.
+ Even the protective role that the miscellaneous other-drugs class seems to play on these crashes is affected by the levels of alcohol consumed by the drivers.It is interesting to note the nonsignificance of the Stimulants × Alcohol interaction.
+ The main effects models have shown that stimulants were significantly associated with each of the crash types under study.
+ However, the lack of significance of its interactions with alcohol suggests that, unlike that for cannabinoids or multidrugs, the contribution of stimulants to crashes occurs irrespective of the level of alcohol consumed by the drivers.DiscussionTo our knowledge, this study is the first to use FARS to investigate the role of drugs other than alcohol in the occurrence of different types of fatal crashes.
+ Albeit constrained to a selected group of states, this study is among the first to provide an estimate of drug prevalence among fatally injured drivers (25%).
+ By comparing it with the drug-prevalence estimates among nighttime drivers reported in the 2007 National Roadside Survey (14%; Lacey et al., 2009), this study provides further evidence about the negative role that drugs play in the occurrence of fatal crashes.In considering the negative effects of drug use, it is important to keep in mind that a drug may increase the risk of crash involvement through its influence on driving skills at the time of the crash.
+ Alternatively, drug use (in particular when illegal) may define a class of drivers per se who are risky enough to consume those drugs.
+ In other words, the risk of crash involvement associated with drug use may occur regardless of the amount of drug taken when the crash occurs.
+ An example of this effect is provided by the role of stimulants on increasing the likelihood of a crash that could be related to the use of a particular drug class and/or the risk-taking or impulsivity characteristics of the involved drivers.Several authors (Cherpitel, 1999; Coghlan and Macdonald, 2010; Macdonald et al., 2008) have studied these associations and reported an increase in unintentional injuries among drivers showing a combination of stimulants and risk-taking or impulsivity characteristics.
+ Authors such as Cherpitel (1999) and Macdonald et al.
+ (2008) argued that the risk-taking or impulsivity characteristics of the drivers, rather than the consumption of drugs, is the main reason these injuries occur.
+ Individuals with risk-taking personalities are also more likely to consume stimulants than other individuals.
+ Although the relative contribution of risk-taking/ impulsivity characteristics and stimulants to speeding-related fatal crashes could not be assessed in this study, this effort clearly shows that stimulants are indeed associated with the occurrence of those types of fatal crashes.
+ In contrast, the miscellaneous other-drugs class was shown to have a protective effect over the four crash types under study.
+ We speculated that the observed protective effect of drugs in this class was related to their use as medications and other over-the-counter drugs.
+ We believe that the relative contribution of drug presence versus the characteristics of drug users to crash involvement deserves further study.
+ Although cannabis has been found to be associated with the occurrence of unintentional injuries (Cherpitel, 1999; Macdonald et al., 2008), unlike stimulants, it would be expected to reduce the motivation to speed.
+ We might speculate that the marijuana relationship to speeding is related to the characteristics of the users who may be more likely to be risk takers than to the acute effects of the drug on the body.
+ Among the two drug classes most commonly used, stimulants more than cannabinoids were found to be associated with the four types of crashes under study.
+ The second important finding of this study involves the presence of alcohol.
+ Broadly speaking, we found that the contribution of drugs to fatal crashes is important mainly in the absence of an impairing level of alcohol.
+ When drivers are alcohol impaired, the influence of other drugs is less significant.
+ Counter to the commonly held belief, no synergistic reinforcing drugs-alcohol effect seems to occur.
+ What seems to happen is, when alcohol is present, it is the main source of impairment.
+ This suggests that the current procedure in the criminal justice system of not pursuing potential drug offenders where an illegal BAC is available is appropriate.
+ Further, by comparing the OR obtained for drugs and alcohol, it is clear that alcohol is the main single contributor to three of the four types of crashes under study.The sole exception regarding the Alcohol × Drug interactions under study involved stimulants.
+ Stimulants seem to depart from the other drug classes in two ways.
+ First, stimulants have a damaging role on failure-to-obey or -yield crashes that is as severe as that of alcohol.
+ This is in keeping with prior studies in which amphetamines have been implicated in studies of crash-involved drivers.
+ Second, and unlike cannabinoids, stimulants contributed to the different types of fatal crashes irrespective of the levels of alcohol consumed by the drivers.
+ Thus, the findings coming from this study suggest not only that different drugs are associated with different types of fatal crashes but also that the role other drugs play in those crashes might be as severe as that of alcohol.
+ A third finding of this study involves the miscellaneous other-drugs class.
+ This class has shown a protective effect over the four crash types under study.
+ Unfortunately, lack of detail about the individual drug composition of this miscellaneous other-drug class prevents a further understanding of this somehow surprising result.
+ We have speculated that the observed protective effect of this drug class was caused by medications and other over-the-counter drugs, which are not the main target of laboratory analyses in the participant states.
+ Nevertheless, we believe this speculation about the role of medications on crashes is one that should be formally hypothesized and properly evaluated in future research efforts.Despite its pioneering findings, this study has several limitations.
+ First, because of lack of information on drugs, only 20 of the 50 states were included in the analyses.
+ This study is therefore based on a select number of drivers from a select number of states.
+ These small numbers warn that the associations we found and discussed should be taken with caution.
+ Nevertheless, the strategy of using only data coming from states with specific laws or programs of interest and with good data is reminiscent of that in many past studies, particularly from the earlier days of alcohol research, when only about 15 states were accurately reporting BACs on fatally injured drivers (e.g., Perrine et al., 1989).
+ The BAC of drug-using drivers has proven to be a major determining factor in the significance of drugs to crash involvement.
+ For alcohol, dosage is directly related to impairment.
+ It is reasonable to expect that dosage should also have an effect in determining the levels of impairment associated with the drugs we have studied.
+ Unfortunately, the concentrations of drugs other than alcohol that impair driving performance and significantly raise crash risk remain to be defined.
+ Until such concentrations have been defined, the FARS data on drugs will be difficult to interpret.
+ Until a national standard for the analysis of each of the key drugs associated with crash involvement can be developed, it will be difficult to combine results across states.
+ Also, more research is needed on some drugs that are not well defined that could have a protective effect on the occurrence of fatal crashes.
+ Findings from more research could be highly relevant to the design of drug-related traffic laws as well as public health programs and policies targeted at curbing drugged driving.AcknowledgmentsThe authors thank two anonymous reviewers who helped us enormously with their suggestions and guidance.Footnotes*This research was supported by National Institute on Alcohol Abuse and Alcoholism Grant P20AA017831.ReferencesBoorman M, Owens K. An evaluation of the deterrent value of random breath testing (RBT) and random drug testing (RDT) across Australia.
+ In: Logan B., Morland J., editors.
+ ICADTS T2010 Conference, 11—26 August.
+ Oslo, Norway: International Council on Alcohol, Drugs, and Traffic Safety; 2010, August.
+ [Google Scholar]Boorman M, Swann P. Victoria impaired driving legislation 2000 and random roadside oral fluid legislation (2004): Theory and results of 2 different enforcement strategies.
+ In: Logan B., Morland J., editors.
+ ICADTS T2010 Conference, 11-26 August.
+ Oslo, Norway: International Council on Alcohol, Drugs, and Traffic Safety; 2010, August.
+ [Google Scholar]Campbell BN, Smith JD, Najm WG.
+ Analysis of fatal crashes due to signal and stop sign violations.
+ Washington, DC: National Highway Traffic Safety Administration; 2004.
+ [Google Scholar]Cherpitel CJ.
+ Substance use, injury, and risk-taking dispositions in the general population.
+ Alcoholism: Clinical and Experimental Research.
+ 1999;23:121–126.
+ [PubMed] [Google Scholar]Coghlan M, Macdonald S. The role of substance use and psy-chosocial characteristics in explaining unintentional injuries.
+ Accident Analysis &amp; Prevention.
+ 2010;42:476–479.
+ [PubMed] [Google Scholar]Compton R, Vegega M, Smither D. Drug-impaired driving— Understanding the problem and ways to reduce it: A report to Congress.
+ Washington, DC: National Highway Traffic Safety Administration; 2009.
+ [Google Scholar]Dobbs B.
+ Medical conditions and driving: A review of the scientific literature (1960-2000) Washington, DC: National Highway Traffic Safety Administration; 2005.
+ [Google Scholar]Faulks I, Irwin J.
+ Drink driving and Australian alcohol policy developments in 2008-2009.
+ Wahroonga, NSW, Australia: TRB Committee on Alcohol, Other Drugs, and Transportation, Safety and Policy Analysis International; 2010.
+ [Google Scholar]Homel R. Random breath testing in Australia: Getting it to work according to specifications.
+ Addiction.
+ 1993;88:27S–33S.
+ [PubMed] [Google Scholar]Jones RK, Shinar D, Walsh JM.
+ State of knowledge of drug-impaired driving.
+ Washington, DC: National Highway Traffic Safety Administration; 2003.
+ [Google Scholar]Kuijten C. Evaluation of oral fluid screening devices by TISPOL to harmonise European police requirements (ESTHER) 2009.
+ DRUID 6th Framework Programme Deliverable 3.1.1.
+ Retrieved from: www.druid-project.eu.
+ [Google Scholar]Lacey JH, Kelley-Baker T, Furr-Holden D, Voas RB, Romano E, Ramirez A, Berning A.
+ 2007 National Roadside Survey of Alcohol and Drug Use by Drivers: Drug Results (DOT HS 811 249) Washington, DC: National Highway Traffic Safety Administration; 2009.
+ [Google Scholar]Macdonald S, Erickson P, Wells S, Hathaway A, Pakula B.
+ Predicting violence among cocaine, cannabis, and alcohol treatment clients.
+ Addictive Behaviors.
+ 2008;33:201–205.
+ [PubMed] [Google Scholar]Moskowitz H, Wilkinson CJ.
+ Antihistamines and driving-related behavior: A review of the evidence of impairment.
+ Washington, DC: National Highway Traffic Safety Administration; 2004.
+ [Google Scholar]National Highway Traffic Safety Administration.
+ FARS Analytic Reference Guide 1975 to 2009 (DOT HS 811 352) Washington, DC: Author; 2010.
+ Retrieved from http://www-nrd.nhtsa.dot.gov/Pubs/811352.pdf.
+ [Google Scholar]National Highway Traffic Safety Administration.
+ Fatality Analysis Reporting System (FARS) Washington, DC: National Highway Traffic Safety Administration; 1998–2009.
+ Retrieved March 31, 2010, from ftp://ftp.nhtsa.dot.gov/fars.
+ [Google Scholar]Office of National Drug Control Policy.
+ National Drug Control Strategy, 2010.
+ Washington, DC: Author; 2010.
+ [Google Scholar]Perrine MW, Peck RC, Fell JC.
+ Surgeon General's Workshop on Drunk Driving: Background Papers.
+ Rockville, MD: Office of the Surgeon General, U.S. Department of Health and Human Services, Public Health Service; 1989.
+ Epidemiologic perspectives on drunk driving; pp.
+ 35–76.
+ Retrieved from http://profiles.nlm.nih.gov/ps/access/NNBCXY.pdf.
+ [Google Scholar]Romano E, Tippetts S, Blackman KO, Voas R. Acculturation, income, education, safety belt use, and fatal motor vehicle crashes in California.
+ Prevention Science.
+ 2005;6:139–148.
+ [PubMed] [Google Scholar]Subramanian R. Transitioning to multiple imputation— A new method to estimate missing blood alcohol concentration (BAC) values in FARS.
+ Washington, DC: Mathematical Analysis Division, National Center for Statistics and Analysis, National Highway Traffic Safety Administration, U.S. Department of Transportation; 2002.
+ [Google Scholar]Tsai VW, Anderson CL, Vaca FE.
+ Alcohol involvement among young female drivers in US fatal crashes: Unfavourable trends.
+ Injury Prevention.
+ 2010;16:17–20.
+ [PubMed] [Google Scholar]Verstraete A, Raes E. Rosita-2 project.
+ Belgium: Ghent University, Department of Clinical Biology; 2006.
+ [Google Scholar]Walsh JM, Gier JJ, Christopherson AS, Verstraete AG.
+ Drugs and driving.
+ Traffic Injury Prevention.
+ 2004;5:241–253.
+ [PubMed] [Google Scholar]Articles from Journal of Studies on Alcohol and Drugs are provided here courtesy of Rutgers University.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

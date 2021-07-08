@@ -1,0 +1,849 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListVirusesv.11(1); 2019 JanPMC6356540        Viruses.
+ 2019 Jan; 11(1): 41.
+ Published online 2019 Jan 9. doi: 10.3390/v11010041PMCID: PMC6356540PMID: 30634396Bats and CoronavirusesArinjay Banerjee,1,† Kirsten Kulcsar,2,† Vikram Misra,3 Matthew Frieman,2 and Karen Mossman1,*Arinjay Banerjee1Department of Pathology and Molecular Medicine, Michael DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton, ON L8S 4L8, Canada; ac.retsamcm@9arenabFind articles by Arinjay BanerjeeKirsten Kulcsar2Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, MD 21201, USA; ude.dnalyramu.mos@rascluKK (K.K.
+ ); ude.dnalyramu.mos@nameirFM (M.F.
+ )Find articles by Kirsten KulcsarVikram Misra3Department of Veterinary Microbiology, Western College of Veterinary Medicine, University of Saskatchewan, Saskatoon, SK S7N 5B4, Canada; ac.ksasu@arsim.markivFind articles by Vikram MisraMatthew Frieman2Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, MD 21201, USA; ude.dnalyramu.mos@rascluKK (K.K.
+ ); ude.dnalyramu.mos@nameirFM (M.F.
+ )Find articles by Matthew FriemanKaren Mossman1Department of Pathology and Molecular Medicine, Michael DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton, ON L8S 4L8, Canada; ac.retsamcm@9arenabFind articles by Karen MossmanAuthor information Article notes Copyright and License information Disclaimer1Department of Pathology and Molecular Medicine, Michael DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton, ON L8S 4L8, Canada; ac.retsamcm@9arenab2Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, MD 21201, USA; ude.dnalyramu.mos@rascluKK (K.K.
+ ); ude.dnalyramu.mos@nameirFM (M.F.
+ )3Department of Veterinary Microbiology, Western College of Veterinary Medicine, University of Saskatchewan, Saskatoon, SK S7N 5B4, Canada; ac.ksasu@arsim.markiv*Correspondence: ac.retsamcm@kssom; Tel.
+ : +1-905-525-9140 (ext.
+ 23542)†A.B.
+ and K.K.
+ contributed equally.Received 2018 Dec 20; Accepted 2019 Jan 7.Copyright © 2019 by the authors.Licensee MDPI, Basel, Switzerland.
+ This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).This article has been cited by other articles in PMC.AbstractBats are speculated to be reservoirs of several emerging viruses including coronaviruses (CoVs) that cause serious disease in humans and agricultural animals.
+ These include CoVs that cause severe acute respiratory syndrome (SARS), Middle East respiratory syndrome (MERS), porcine epidemic diarrhea (PED) and severe acute diarrhea syndrome (SADS).
+ Bats that are naturally infected or experimentally infected do not demonstrate clinical signs of disease.
+ These observations have allowed researchers to speculate that bats are the likely reservoirs or ancestral hosts for several CoVs.
+ In this review, we follow the CoV outbreaks that are speculated to have originated in bats.
+ We review studies that have allowed researchers to identify unique adaptation in bats that may allow them to harbor CoVs without severe disease.
+ We speculate about future studies that are critical to identify how bats can harbor multiple strains of CoVs and factors that enable these viruses to “jump” from bats to other mammals.
+ We hope that this review will enable readers to identify gaps in knowledge that currently exist and initiate a dialogue amongst bat researchers to share resources to overcome present limitations.Keywords: bats, coronaviruses, immune response, in vitro, in vivo1.
+ IntroductionBats are an ancient and diverse group of ecologically important mammals, constituting almost a quarter of all mammalian diversity and inhabiting every continent except Antarctica.
+ More than 1300 species of bats belong to the order Chiroptera and are further classified into two suborders, Yinpterochiroptera and Yangochiroptera [1,2,3].
+ The Yinpterochiroptera suborder includes the non-echolocating Pteropodidae family and the echolocating Rhinolophoidea superfamily.
+ Yangochiroptera contains the remaining echolocating microbat families.
+ The two suborders diverged over 50 million years ago [4,5,6].
+ Many of the viruses in bats can cause disease in humans and agriculturally important animal species.
+ These viruses include lyssaviruses, filoviruses, henipaviruses and coronaviruses [1,7,8,9].In this mini-review, we focus on the role of bats as reservoir hosts for important human and animal coronaviruses.
+ We discuss the evidence of coronavirus spillover from bats, how bat ecological niches may contribute to spillover and the need to further explore bat-coronavirus interactions using viruses that have been naturally detected in bats.2.
+ Coronaviruses and Their OriginsThe coronavirus family (Coronaviridae) is the largest in the order Nidovirales.
+ Coronaviridae consists of two subfamilies, Letovirinae and Orthocoronavirinae.
+ Within the subfamily Orthocoronavirinae, there are four genera: alphacoronavirus, betacoronavirus, gammacoronavirus and deltacoronavirus.
+ Alphacoronaviruses and betacoronaviruses are found in mammals, whereas gammacoronaviruses and deltacoronaviruses are primarily found in birds [10].
+ Coronaviruses are enveloped and have single stranded positive sense RNA genomes that range in size from 26 to 32 kilobases [11].
+ Coronaviruses typically cause respiratory and enteric diseases in humans and animals, respectively.
+ Historically, coronaviruses were thought to cause agriculturally important diseases in animals and the common cold in humans.
+ However, in 2002, severe acute respiratory syndrome coronavirus (SARS-CoV) emerged in China.
+ The SARS-CoV outbreak lasted for 8 months and resulted in 8,098 confirmed human cases worldwide, of which 774 (9.5%) were fatal [15].
+ Approximately 10 years after SARS-CoV emerged, another highly pathogenic human coronavirus, Middle East respiratory syndrome coronavirus (MERS-CoV) appeared in the Kingdom of Saudi Arabia.
+ MERS-CoV continues to cause outbreaks and has resulted in a total of 2,260 confirmed cases in 27 countries of which 803 have been fatal [16].
+ Currently, there are four coronaviruses that have been recognized to cause the common cold in humans, HCoV-OC43, HCoV-NL63, HCoV-HKU1, and HCoV-229E, and two emerging coronaviruses, SARS-CoV and MERS-CoV, that can cause highly pathogenic respiratory infections [17].In addition to the human coronaviruses, other coronavirus species cause agriculturally important diseases in animals.
+ These include avian infectious bronchitis virus (IBV), transmissible gastroenteritis virus (TGEV), porcine epidemic diarrhea virus (PEDV) and more recently, swine acute diarrhea syndrome coronavirus (SADS-CoV).
+ With the advent of next generation sequencing technology and increased surveillance of wild animal species, an enormous number of novel coronaviruses have been identified.
+ To date, over 200 novel coronaviruses have been identified in bats and approximately 35% of the bat virome sequenced to date is composed of coronaviruses [20].
+ These technologies have helped elucidate the evolutionary history of coronaviruses that are known to cause disease in humans and animals of agricultural importance (Table 1).Table 1Zoonotic coronaviruses that have caused serious disease in humans and agricultural animals.CoronavirusAffected HostIntermediate HostPotential Reservoir/Ancestral HostsSimilar Virus in Intermediate HostSimilar Virus in Reservoir HostReferencePEDVPigsNone identifiedBat (Scotophilus kuhlii)None identifiedBtCoV/512/05[21]SADS-CoVPigsNone identifiedBat (Rhinolophus spp.
+ )None identifiedHKU2-CoV[9]SARS-CoVHumansHimalayan palm civet/racoonBat (Rhinolophus spp.
+ )CoV isolate SZ3 and SZ16SARS-related CoVs[22,23]MERS-CoVHumansDromedary camelsBat (Taphozous perforatus, Rhinopoma hardwickii and Pipistrellus kuhlii) MERS-CoV—KFU-HKU 1 and KFU-HKU 13BatCoV Rhhar, BatCoV Pikuh, BatCoV Taper [24,25,26]Open in a separate window2.1.
+ Human Coronavirus OriginsSARS-CoV emerged in humans in 2002 and efficient human to human transmission resulted in a global SARS epidemic which lasted 8 months [15].
+ Initial studies investigating animal sources of the virus from “wet markets” in the Guangdong province of China suggested that Himalayan palm civets and raccoon dogs were the most likely hosts responsible for human transmission [22]; however, the role of bats as the original animal reservoir hosts of SARS-CoV was speculated as similar viruses were detected in them [27,28].
+ Years later, during an ecological surveillance of bats in the same region, a SARS-like CoV that closely matched the human SARS-CoV was isolated from the Chinese horseshoe bat.
+ Bat SARS-like CoV could replicate in HeLa cells expressing angiotensin-converting enzyme 2 (ACE2) receptor from human, civet and bat.
+ The virus replicated in cells derived from human, bat and pig.
+ No civet cells were tested [29].
+ These data suggest that SARS-CoV could have spilled over into humans directly from the Chinese horseshoe bat while the palm civets in the “wet market” were incidental hosts [30].
+ However, the exact mechanism by which the zoonotic transmission event to humans occurred is still not clear.
+ Retrospective studies have found low levels of seroprevalence of SARS-like CoV in healthy individuals in Hong Kong dating back to 2001.
+ Interestingly, in 13 of 17 of these seropositive patients, the antibodies responded more strongly against the SARS-like-CoV isolated from a Himalayan palm civet compared to the human SARS-CoV isolate [31].
+ These data suggest that low levels of human exposure to zoonotic SARS-like CoVs occurred prior to the SARS-CoV epidemic that began in 2002, but went unidentified.MERS-CoV emerged in Saudi Arabia in 2012 and continues to cause human disease with a case fatality rate of 35% [16].
+ Dromedary camels are a natural reservoir host for MERS-CoV.
+ In the Arabian Peninsula and across Northern Africa, the seroprevalence rate for MERS-CoV in dromedary camels ranges from 70% to nearly 100% [32,33,34,35,36,37].
+ Live MERS-CoV has been successfully isolated and cultured from camel specimens [38].
+ Approximately 55% of primary MERS-CoV cases are a result of direct contact with dromedary camels or camel products [39]; however, the remainder of primary MERS-CoV cases have no history of contact with camels or infected individuals and thus, where they came into contact with the virus is unknown.
+ A recent study found that 16 out of 30 camel workers surveyed in Saudi Arabia show evidence of prior MERS-CoV infection via seroconversion and/or virus-specific CD8+ T cell responses without any history of significant respiratory disease.
+ This study suggests that camel workers with asymptomatic or mild disease may serve as another route of exposure [40].
+ Although camels are thought to be the primary zoonotic reservoir for human transmission, there is strong evidence that bats are the ancestral reservoir host for MERS-CoV [24,41,42,43].
+ This includes BatCoV HKU4, BatCoV HKU5, NeoCoV, and PDF-2180 [41,44,45].
+ Furthermore, the spike protein from HKU4 and MERS-CoV are highly similar and both use human dipeptidyl-peptidase 4 (DPP4) for virus entry [25,46,47].
+ It is not clear when MERS-CoV spread from bats to camels, but widespread exposure to the virus in the Middle East and North and East Africa dates back as early as the 1980s, suggesting that camels have served as a zoonotic reservoir for MERS-CoV for at least 30 years [33,34,37,40,48].In addition to emerging highly pathogenic coronaviruses, human coronaviruses that cause the common cold are also thought to have their origins in bats.
+ HCoV-NL63 was first identified in a pediatric patient with bronchiolitis in 2004, but since then it has come to be appreciated that the virus causes approximately 1–9% of the common colds each year and has most likely circulated in humans for centuries with worldwide distribution [49,50,51].
+ A survey of bats in the U.S. found novel alphacoronaviruses, one of which was isolated from the North American tricoloured bat, Perimyotis subflavus and was found to be a recent common ancestor of HCoV-NL63 with an estimated divergence of ~550 years ago [52].
+ HCoV-NL63-like sequences were also identified in bats in Africa [53], further supporting a bat origin for HCoV-NL63.
+ Although HCoV-NL63-like viruses have been identified in bats, these viruses have sequences quite distant from the HCoV-NL63 sequences, suggesting a possible intermediate host.
+ HCoV-229E also appears to have its origins in bat species.
+ HCoV-229E, another cause of the common cold, was first identified in 1967 and has been circulating in the human population for some time [54].
+ HCoV-229E-related viruses have been found in hipposiderid bats during surveillance studies in Kenya and Ghana [53,55].
+ In 2007, a novel alphacoronavirus was identified in an outbreak of respiratory disease in alpacas in the US, which is geographically separated from the bat species that harbor HCoV-229E-like viruses in Africa [56].
+ Full genome sequencing and phylogenetic analysis of the alpaca CoV placed it as an intermediate between the bat HCoV-229E-related viruses and HCoV-229E from humans [56].
+ By analyzing more bat, alpaca and human HCoV-229E and HCoV-229E-related sequences, evidence of genomic changes that occurred between bat and alpaca HCoV-229E evolution and subsequently between alpaca and human evolution were identified [57].
+ Interestingly, during tests of dromedary camels for MERS-CoV, about 6% of the camels studied were positive for HCoV-229E [58].
+ Seropositive camels were more prevalent in the Arabian Peninsula compared to Africa and the earliest seropositive sample was from 1997 in a study that looked at samples from 1983 to 2014 [58].
+ These data all support the notion that HCoV-229E has its ancestral origins in bat species while camelids serve as a more recent zoonotic reservoir for human transmission.
+ A recent study has shown that HCoV-229E (human strain) is incapable of infecting and replicating in cell lines from multiple bat species [59].
+ Thus it is critical to isolate bat and camel strains of HCoV-229E-related viruses to dissect the role of these mammals in the evolution of HCoV-229E.2.2.
+ Animal Coronavirus OriginsPorcine epidemic diarrhea (PED) was recognized as an enteric disease in pigs in the United Kingdom as early as 1971.
+ PEDV was detected in Belgium in 1978 [60].
+ The full-length genomic sequence of the prototype Belgian PEDV CV777 strain was determined in 2001 [61].
+ PEDV CV777 is more closely related to a Scotophilus bat coronavirus (BtCoV) 512/2005 than to other known alphacoronaviruses, such as transmissible gastroenteritis coronavirus (TGEV) and HCoV-229E and HCoV-NL63, in phylogeny as well as genome organization [21].
+ This finding suggests that PEDV and BtCoV/512/2005 have a common evolutionary precursor and that cross-species transmission of coronavirus may have occurred between bats and pigs.
+ PEDV has since emerged in North America and continues to cause periodic outbreaks that significantly affect producers [18,62].
+ An effective vaccine may enable control of future PEDV outbreaks along with strict biosecurity practices.
+ Although PEDV propagates in human embryonic kidney cells [65], no clinical cases of PEDV have been reported in humans so far.
+ We (Banerjee and Misra et al.)
+ have also shown that PEDV can infect kidney cells from big brown bats (Eptesicus fuscus) [66].
+ PEDV replication in bat cells has not been extensively studied.
+ Efforts are focused on designing therapeutics and vaccines to prevent PED in pigs.More recently, a novel HKU2-related bat coronavirus, SADS-CoV has been shown to cause fatal enteric disease in pigs.
+ Zhou et al.
+ identified SADS-CoV as the causative agent for a large-scale outbreak of fatal disease in pigs in China that caused the death of 24,693 piglets across four farms.
+ SADS-CoV-like viruses with 96–98% similarity to SADS-CoV were detected in 9.8% of the bats that were sampled in this region [9].
+ None of the human serum samples that were collected from farm workers were positive for antibodies against SADS-CoV [9].
+ Thus, SADS-CoV does not pose a risk for human transmission yet.
+ Further studies will be required to confirm the ability of SADS-CoV to infect and propagate in human cells.3.
+ Bats and Coronavirus Spillover EventsUnderstanding how bats maintain a virus within a population is important for predicting spillover transmission events.
+ For many viruses with known or suspected bat reservoirs, spillover transmission events typically occur within a defined time frame and location, which corresponds with higher than normal virus levels in the bat reservoir host.
+ The reason for these “pulses” of virus within the reservoir host population are not clear, but proposed theories and evidence supporting these theories have been reviewed by Plowright et al.
+ [67].
+ In the case of Marburg virus (MARV), for example, ecological surveillance data shows a clear biannual spike in the prevalence of MARV positive bats within the Kitaka cave population, which correlates with an increase in the number of juvenile Rousettus aegyptiacus bats due to the biannual birthing cycle.
+ This pulse of virus positive bats correlates with an increased incidence of human spillover events [68].
+ Horizontal transmission of MARV between R. aegyptiacus bats was confirmed in a controlled experimental setting [69].
+ Furthermore, recent experimental data has shown that bats infected with MARV clear infection and maintain long-term immunity.
+ This finding suggests that susceptible naïve juvenile bats are critical for maintaining MARV within the population [69].Studies with Hendra virus have shown that reproductive and nutritional stress can increase the levels of virus in little red flying foxes (Pteropus scapulatus) [70].
+ The increase in virus replication may enhance the chances of a virus spillover.
+ Similar ecological studies need to be undertaken for bats and CoVs.
+ Other stressors, such as secondary infections, may also affect the relationship between bats and their viruses.
+ A recent study by one of our laboratories (Misra et al.)
+ suggest that infection of little brown bats (Myotis lucifugus) with White-Nose Syndrome causing fungus (Pseudogymnoascus destructans) leads to an increase in replication of a persistently infecting coronavirus in these bats [71].A recent study by Anthony et al.
+ evaluated the global diversity of coronaviruses in almost 20,000 animals and humans.
+ During the course of this study, they found that the diversity of coronaviruses was highly associated with the diversity of bat species and this diversity separated into 3 distinct geographical regions, which mirrored the distribution of different species of bats.
+ The authors report particular associations between bat families and viral sub-clades that suggest co-evolution [72].
+ A survey of coronaviruses isolated from bats in Kenya found a high prevalence of coronaviruses in Cardioderma cor, Ediolon helvum, Epomophorus labiatuc, Hipposideros sp., Miniopterus minor, Otomops martiensseni, Rhinolophus hildebrandtii, Rhinolophus sp., and Triaenops afer.
+ The phylogenetic analysis of these novel CoVs found a number of cross-species transmission events, although the majority of these events appeared to be transient spillover events [53].
+ The recombination frequency of coronaviruses, which can be as high as 25% for the entire genome [73], could lead to bats being an important reservoir for coronavirus recombination and virus evolution, much like birds and pigs are for influenza virus.
+ Indeed, there is strong evidence to suggest that a recombination event occurred between HCoV-229E-like viruses found in Hipposideros bats and HCoV-NL63-like viruses found in Triaenops afer bats, where the gene encoding for the spike protein is more closely related to the HCoV-229E virus [53].
+ Furthermore, the majority of recombination events identified in coronaviruses isolated from bats suggest recombination hotspots around the spike gene [53,23].
+ There is evidence that there are seasonal fluctuations in virus replication [74,75], however, the interconnectedness of virus replication rates and virus spillover have not been explored for bats.
+ Typically, coronaviruses found in bats have or require an intermediate host before spilling over into humans, like what is observed with MERS-CoV and camels.
+ Unlike the amount of information available from studies of other bat viruses such as Nipah, Hendra, Ebola, and Marburg viruses, we know very little, if anything about how coronaviruses are transmitted directly to humans or if direct human transmission does not occur and spillover via an intermediate host is required.4.
+ Bat Immune Response to CoronavirusesBats are known to harbor a wide range of viruses including many that are highly pathogenic in humans.
+ Research to determine the mechanisms by which bats limit disease following virus infection is a relatively new field and can be difficult due to a lack of reagents and the need to develop appropriate in vitro and in vivo systems.
+ Of note, very few of these studies are focused on coronavirus infections in bats and are rather centered around henipavirus and filovirus infections.
+ Future studies evaluating the virus-host interactions of bats and coronaviruses, particularly with bat CoV isolates are important in determining why bats serve as important reservoirs for CoVs and how they control infection to limit severe pathological consequences.4.1.
+ Cell Culture Model SystemsMultiple studies have elucidated unique adaptations in the antiviral responses of bat cells.
+ The primary bat species being used to study the bat immune response to virus infections in vitro and in vivo are Pteropus alecto (black flying fox), Rousettus aegyptiacus (Egyptian rousette), and Artibeus jamaicensis (Jamaican fruit bat).
+ Papenfuss et al.
+ were the first to sequence the P. alecto transcriptome and identified approximately 500 genes (3.5% of P. alecto transcribed genes) that encode immune-related proteins [76].
+ A similar number of immune genes were also identified in the transcriptomes of R. aegyptiacus and A. jamaicensis [77,78].
+ This included the expression of canonical pattern recognition receptors including toll-like receptors (TLRs) 1–10, retinoic acid-inducible gene I (RIG-I), and melanoma differentiation associated protein 5 (MDA5) [76,77].
+ Furthermore, genes for different immune cell subsets, T-cell receptors (TCRs), cytokines and chemokines, and interferon-related genes were detected, while genes encoding for natural killer (NK) cell receptors were largely absent.
+ Genomic analysis of the interferon loci has shown species-specific evolution in which P. alecto has a contracted type I IFN locus [82] whereas P. vampyrus, M. lucifugus, and R. aegyptiacus have expanded the number of type I IFN genes [83,84].
+ It has been observed that there may also be species specific differences in the baseline expression of type I IFNs.
+ The molecular mechanisms that enable the differential expression pattern of IFNs in bats are not known.
+ Thus, it is important to acknowledge that different species of bats may have evolved specific strategies to control viruses that they co-evolved with.Although it appears that bats have many of the genes that are important for responding to virus infection, how this response compares between human and bat cells is just beginning to be examined.
+ RNA sensing and subsequent antiviral responses in bat cells have been studied using viruses known to induce an interferon response, such as Sendai virus or Newcastle disease virus or by transfecting a synthetic surrogate of viral double stranded RNA (poly(I:C)) [80,86,87,88,89,90].
+ These studies show that bat cells respond to RNA and induce an antiviral response.
+ Many viruses encode proteins that antagonize the host response to infection and dampen the innate antiviral response.
+ It has previously been shown that the V and W proteins of Nipah and Hendra viruses can inhibit antiviral responses in bat cells, similar to what is observed in human cells [90].
+ A more recent study showed that MARV can inhibit the antiviral response in a R. aegyptiacus bat cell line and that this inhibition is dependent on the viral protein VP35 [85].Coronavirus accessory proteins are dispensable for replication but they play an important role in pathogenesis and virus fitness under the natural environment of a host [13,91].
+ Multiple studies with PEDV, SARS- and MERS-CoVs have identified accessory proteins that can effectively inhibit an IFN response in mammalian cells [12,13,14,91,92,93,94,95].
+ However, to date, there have been no published studies looking at the role of these accessory proteins in modulating antiviral responses in bat cells.In addition to studying the role of CoV proteins in antagonizing the antiviral response in bat cells compared to other mammalian cell lines, it is also important to determine how CoVs isolated from bats compare to those isolated from humans.
+ Coronavirus accessory genes have co-evolved with their natural host for optimum functionality [91] and thus it is important to identify the role of accessory proteins in both their natural and spillover hosts.
+ Many of the CoVs that have been reported in bats, with the exception of few, such as a SARS-like CoV (bat SL-CoV-WIV1) [29], have been detected by molecular techniques that detect trace amounts of viral nucleic acids.
+ To overcome this limitation, reverse genetics systems using the whole genome sequence from CoVs isolated from bats could be generated, propagated and evaluated in both bat and human cell lines [96].
+ This would allow researchers to better understand the role of viral proteins in a species-specific context.4.2.
+ In vivo Model SystemsThe vast majority of studies evaluating the bat host response to virus infection has been performed in cell lines.
+ However, there is a great need to understand what happens during a virus infection in bats in vivo.
+ The ability to study these questions is a daunting task and requires specialized facilities and staff, appropriate species selection especially for CoVs, and generating the necessary reagents.
+ Because of these limitations, only a handful of studies have been performed looking at the in vivo response of bats to virus infection.
+ In fact, there are only two published studies in which experimental infections in bats using CoVs was performed.The first study was performed in an attempt to rescue a bat CoV isolate.
+ Watanabe et al.
+ detected CoVs in 57.1% of insectivorous bats and 55.6% of frugivorous bats; however, they were unable to culture the virus in vitro.
+ To propagate CoVs detected in a lesser dog-faced fruit bat (Cynopterus brachyotis), they administered intestinal samples orally to Leschenault rousette bats (Rousettus leschenaulti).
+ Virus could be detected by quantitative real-time PCR (qPCR) on 2 to 5 days after infection and there was an increase in viral RNA while no clinical disease was observed.
+ Based on these data, the authors reported that this bat CoV replicates in Leschenault rousette bats; however, they were not able to isolate live virus [97].
+ This study emphasizes the importance of bat species selection for studying CoVs in bats.
+ Ideally, we would want to study a bat CoV in the same species that it was detected in.The second study aimed to determine if bats could be infected with MERS-CoV and, if so, what the host response looks like.
+ Munster et al.
+ infected ten Jamaican fruit bats (Artibeus jamaicensis) with MERS-CoV/EMC2012.
+ The authors detected virus shedding in the respiratory and intestinal tracts for 9 days.
+ Although the bats showed evidence of virus replication, no overt signs of disease were observed.
+ A moderate and transient induction of the innate immune response was seen, but there were no signs of inflammation.
+ Based on their observations, the authors reported that Jamaican fruit bats support the replication of MERS-CoV and thus, bats could be potential ancestral hosts of MERS-CoV [98].
+ This study has not been repeated in an insectivorous bat species.
+ Although several MERS-like viruses have been detected in bats since the study in Jamaican fruit bats, none have been successfully isolated [25,41,47,99].Another study focused on looking at species-specific tropism.
+ In this study, the authors focused on the MERS-CoV receptor dipeptidyl peptidase 4 (DPP4).
+ Widagdo et al.
+ mapped the tissue distribution of DPP4 in multiple bat species to identify the differences in tissue tropism of MERS-CoV.
+ In their study, the authors report that DPP4 in insectivorous bats is primarily detected in the gastro-intestinal (GI) tract and kidneys, whereas frugivorous bats express DPP4 in the respiratory and GI tracts [43].
+ Other studies determined that DPP4 expression in camels is primarily in the upper respiratory tract [100] whereas DPP4 expression in humans is highest in the lower respiratory tract [101].
+ These data suggest that the tissue tropism in bats may be different than that in other mammalian species and that this may dictate the course of disease and disease severity.5.
+ Implications of Bats as Hosts of CoVsThe ability of bats to harbor several different coronaviruses may seem like a mystery, but the same is true for rodents.
+ Although bats harbor more zoonotic viruses per species, rodents harbor a larger total number of zoonotic viruses [102].
+ After the SARS outbreak, bats have been extensively sampled for coronaviruses and other viruses alike.
+ We may be looking too hard and one may argue that we could find a similar diversity of viruses in other animals if we looked as robustly.
+ Metagenomics has enabled us to identify the broad range of viruses in bats and with time, we will expand this to other hosts of zoonotic viruses.
+ For now, we know that bats are major evolutionary reservoirs and ecological drivers of CoV diversity [72].
+ We can leverage this knowledge to design studies that will allow us to identify factors that cause CoVs to spillover from bats to other hosts.A recent study demonstrated that secondary infection with the White-nose syndrome fungus (Pseudogymnoascus destructans) increases CoV replication in M. lucifugus [71].
+ This study opens up a new avenue of investigation in infection dynamics.
+ Considering bats harbor multiple viruses, it is necessary to identify the impact these viruses have on each other.
+ How do these viruses modulate the numerous host responses in bats and how does that affect virus replication?
+ Several such questions remain and studies are currently delayed due to the inability to isolate bat-CoVs similar to SARS-CoV, MERS-CoV, PEDV and SADS-CoV.Ecological and epidemiological studies to identify landscape changes and human practices that could enable a coronavirus to spillover from bats are also necessary [103].
+ Such studies enabled researchers to decipher the transmission cycle of Nipah virus in Malaysia and Bangladesh, which led to public health policies to change farming practices to control the spillover of Nipah virus from bats [104,105,106].As the human population expands and societal changes occur, human contact with wildlife will continue to increase.
+ This increases the risk that emerging zoonotic viruses, including CoVs, pose to human and animal health.
+ Surveillance combined with scientific studies to better understand zoonotic CoVs and spillover will enable us to stay a step ahead of the next epidemic.Author ContributionsA.B.
+ and K.K.
+ conceived the ideas and wrote the review.
+ V.M., M.F.
+ and K.M.
+ edited the review.
+ All authors reviewed the final article.FundingThis study was funded by Natural Science and Engineering Research Council of Canada’s Discovery Grants awarded to K.M.
+ and V.M., a M.G.
+ DeGroote fellowship awarded to A.B., grant R21AI126300 to K.K.
+ and M.F.
+ and grant F32AI136390 to K.K.Conflicts of InterestThe authors declare no conflict of interest.References1.
+ Moratelli R., Calisher C.H.
+ Bats and zoonotic viruses: Can we confidently link bats with emerging deadly viruses?
+ Mem.
+ Inst.
+ Oswaldo Cruz.
+ 2015;110:1–22.
+ doi: 10.1590/0074-02760150048.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]2.
+ Teeling E.C., Springer M.S., Madsen O., Bates P., O’Brien S.J., Murphy W.J.
+ A molecular phylogeny for bats illuminates biogeography and the fossil record.
+ Science.
+ 2005;307:580–584.
+ doi: 10.1126/science.1105113.
+ [PubMed] [CrossRef] [Google Scholar]3.
+ Teeling E.C., Jones G., Rossiter S.J.
+ Phylogeny, Genes, and Hearing: Implications for the Evolution of Echolocation in Bats.
+ Bat Bioacoustics.
+ 2016;54:25–54.
+ doi: 10.1007/978-1-4939-3527-7_2.
+ [CrossRef] [Google Scholar]4.
+ Simmons N.B., Seymour K.L., Habersetzer J., Gunnell G.F.
+ Primitive Early Eocene bat from Wyoming and the evolution of flight and echolocation.
+ Nature.
+ 2008;451:818–821.
+ doi: 10.1038/nature06549.
+ [PubMed] [CrossRef] [Google Scholar]5.
+ O’Leary M.A., Bloch J.I., Flynn J.J., Gaudin T.J., Giallombardo A., Giannini N.P., Goldberg S.L., Kraatz B.P., Luo Z.X., Meng J., et al.
+ The placental mammal ancestor and the post-K-Pg radiation of placentals.
+ Science.
+ 2013;339:662–667.
+ doi: 10.1126/science.1229237.
+ [PubMed] [CrossRef] [Google Scholar]6.
+ Lei M., Dong D. Phylogenomic analyses of bat subordinal relationships based on transcriptome data.
+ Sci.
+ Rep. 2016;6:27726. doi: 10.1038/srep27726.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]7.
+ Fisher C.R., Streicker D.G., Schnell M.J.
+ The spread and evolution of rabies virus: Conquering new frontiers.
+ Nat.
+ Rev.
+ Microbiol.
+ 2018;16:241–255.
+ doi: 10.1038/nrmicro.2018.11.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]8.
+ Calisher C.H., Childs J.E., Field H.E., Holmes K.V., Schountz T. Bats: Important reservoir hosts of emerging viruses.
+ Clin.
+ Microbiol.
+ Rev.
+ 2006;19:531–545.
+ doi: 10.1128/CMR.00017-06.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]9.
+ Zhou P., Fan H., Lan T., Yang X.L., Shi W.F., Zhang W., Zhu Y., Zhang Y.W., Xie Q.M., Mani S., et al.
+ Fatal swine acute diarrhoea syndrome caused by an HKU2-related coronavirus of bat origin.
+ Nature.
+ 2018;556:255–258.
+ doi: 10.1038/s41586-018-0010-9.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]10.
+ Woo P.C., Huang Y., Lau S.K., Yuen K.Y.
+ Coronavirus genomics and bioinformatics analysis.
+ Viruses.
+ 2010;2:1804–1820.
+ doi: 10.3390/v2081803.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]11.
+ Coleman C.M., Frieman M.B.
+ Coronaviruses: Important emerging human pathogens.
+ J. Virol.
+ 2014;88:5209–5212.
+ doi: 10.1128/JVI.03488-13.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]12.
+ Liu D.X., Fung T.S., Chong K.K., Shukla A., Hilgenfeld R. Accessory proteins of SARS-CoV and other coronaviruses.
+ Antivir.
+ Res.
+ 2014;109:97–109.
+ doi: 10.1016/j.antiviral.2014.06.013.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]13.
+ Narayanan K., Huang C., Makino S. SARS coronavirus accessory proteins.
+ Virus Res.
+ 2008;133:113–121.
+ doi: 10.1016/j.virusres.2007.10.009.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]14.
+ Yang Y., Zhang L., Geng H., Deng Y., Huang B., Guo Y., Zhao Z., Tan W. The structural and accessory proteins M, ORF 4a, ORF 4b, and ORF 5 of Middle East respiratory syndrome coronavirus (MERS-CoV) are potent interferon antagonists.
+ Protein Cell.
+ 2013;4:951–961.
+ doi: 10.1007/s13238-013-3096-8.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]15.
+ CDC Severe Acute Respiratory Syndrome.
+ [(accessed on 20 December 2018)]; Available online: https://www.cdc.gov/sars/about/fs-sars.html.16.
+ WHO Middle East Respiratory Syndrome Coronavirus.
+ [(accessed on 10 November 2018)]; Available online: http://www.who.int/emergencies/mers-cov/en/17.
+ Lim Y.X., Ng Y.L., Tam J.P., Liu D.X.
+ Human Coronaviruses: A Review of Virus-Host Interactions.
+ Diseases.
+ 2016;4 doi: 10.3390/diseases4030026.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]18.
+ Schulz L.L., Tonsor G.T.
+ Assessment of the economic impacts of porcine epidemic diarrhea virus in the United States.
+ J. Anim.
+ Sci.
+ 2015;93:5111–5118.
+ doi: 10.2527/jas.2015-9136.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]19.
+ Colvero L.P., Villarreal L.Y.B., Torres C.A., Brandao P.E.
+ Assessing the economic burden of avian infectious bronchitis on poultry farms in Brazil.
+ Revue Scientifique et Technique de l’OIE.
+ 2015;34:993–999.
+ doi: 10.20506/rst.34.3.2411.
+ [PubMed] [CrossRef] [Google Scholar]20.
+ Chen L., Liu B., Yang J., Jin Q. DBatVir: The database of bat-associated viruses.
+ Database.
+ 2014;2014:bau021.
+ doi: 10.1093/database/bau021.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]21.
+ Tang X.C., Zhang J.X., Zhang S.Y., Wang P., Fan X.H., Li L.F., Li G., Dong B.Q., Liu W., Cheung C.L., et al.
+ Prevalence and genetic diversity of coronaviruses in bats from China.
+ J. Virol.
+ 2006;80:7481–7490.
+ doi: 10.1128/JVI.00697-06.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]22.
+ Guan Y., Zheng B.J., He Y.Q., Liu X.L., Zhuang Z.X., Cheung C.L., Luo S.W., Li P.H., Zhang L.J., Guan Y.J., et al.
+ Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China.
+ Science.
+ 2003;302:276–278.
+ doi: 10.1126/science.1087139.
+ [PubMed] [CrossRef] [Google Scholar]23.
+ Hu B., Zeng L.P., Yang X.L., Ge X.Y., Zhang W., Li B., Xie J.Z., Shen X.R., Zhang Y.Z., Wang N., et al.
+ Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus.
+ PLoS Pathog.
+ 2017;13:e1006698.
+ doi: 10.1371/journal.ppat.1006698.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]24.
+ Memish Z.A., Mishra N., Olival K.J., Fagbo S.F., Kapoor V., Epstein J.H., Alhakeem R., Durosinloun A., Al Asmari M., Islam A., et al.
+ Middle East respiratory syndrome coronavirus in bats, Saudi Arabia.
+ Emerg.
+ Infect.
+ Dis.
+ 2013;19:1819–1823.
+ doi: 10.3201/eid1911.131172.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]25.
+ Lau S.K.P., Zhang L., Luk H.K.H., Xiong L., Peng X., Li K.S.M., He X., Zhao P.S., Fan R.Y.Y., Wong A.C.P., et al.
+ Receptor usage of a novel bat lineage C betacoronavirus reveals evolution of MERS-related coronavirus spike proteins for human DPP4 binding.
+ J. Infect.
+ Dis.
+ 2018 doi: 10.1093/infdis/jiy018.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]26.
+ Hemida M.G., Chu D.K., Poon L.L., Perera R.A., Alhammadi M.A., Ng H.Y., Siu L.Y., Guan Y., Alnaeem A., Peiris M. MERS coronavirus in dromedary camel herd, Saudi Arabia.
+ Emerg.
+ Infect.
+ Dis.
+ 2014;20:1231–1234.
+ doi: 10.3201/eid2007.140571.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]27.
+ Lau S.K., Woo P.C., Li K.S., Huang Y., Tsoi H.W., Wong B.H., Wong S.S., Leung S.Y., Chan K.H., Yuen K.Y.
+ Severe acute respiratory syndrome coronavirus-like virus in Chinese horseshoe bats.
+ Proc.
+ Natl.
+ Acad.
+ Sci.
+ USA.
+ 2005;102:14040–14045.
+ doi: 10.1073/pnas.0506735102.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]28.
+ Li W., Shi Z., Yu M., Ren W., Smith C., Epstein J.H., Wang H., Crameri G., Hu Z., Zhang H., et al.
+ Bats are natural reservoirs of SARS-like coronaviruses.
+ Science.
+ 2005;310:676–679.
+ doi: 10.1126/science.1118391.
+ [PubMed] [CrossRef] [Google Scholar]29.
+ Ge X.Y., Li J.L., Yang X.L., Chmura A.A., Zhu G., Epstein J.H., Mazet J.K., Hu B., Zhang W., Peng C., et al.
+ Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor.
+ Nature.
+ 2013;503:535–538.
+ doi: 10.1038/nature12711.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]30.
+ Kuehn B.M.
+ More evidence emerges that bats may have spread SARS.
+ JAMA.
+ 2013;310:2138. doi: 10.1001/jama.2013.283495.
+ [PubMed] [CrossRef] [Google Scholar]31.
+ Zheng B.J., Wong K.H., Zhou J., Wong K.L., Young B.W., Lu L.W., Lee S.S. SARS-related virus predating SARS outbreak, Hong Kong.
+ Emerg.
+ Infect.
+ Dis.
+ 2004;10:176–178.
+ doi: 10.3201/eid1002.030533.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]32.
+ Falzarano D., Kamissoko B., de Wit E., Maiga O., Cronin J., Samake K., Traore A., Milne-Price S., Munster V.J., Sogoba N., et al.
+ Dromedary camels in northern Mali have high seropositivity to MERS-CoV.
+ One Health.
+ 2017;3:41–43.
+ doi: 10.1016/j.onehlt.2017.03.003.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]33.
+ Muller M.A., Corman V.M., Jores J., Meyer B., Younan M., Liljander A., Bosch B.J., Lattwein E., Hilali M., Musa B.E., et al.
+ MERS coronavirus neutralizing antibodies in camels, Eastern Africa, 1983-1997.
+ Emerg.
+ Infect.
+ Dis.
+ 2014;20:2093–2095.
+ doi: 10.3201/eid2012.141026.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]34.
+ Reusken C.B., Messadi L., Feyisa A., Ularamu H., Godeke G.J., Danmarwa A., Dawo F., Jemli M., Melaku S., Shamaki D., et al.
+ Geographic distribution of MERS coronavirus among dromedary camels, Africa.
+ Emerg.
+ Infect.
+ Dis.
+ 2014;20:1370–1374.
+ doi: 10.3201/eid2008.140590.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]35.
+ Deem S.L., Fevre E.M., Kinnaird M., Browne A.S., Muloi D., Godeke G.J., Koopmans M., Reusken C.B.
+ Serological Evidence of MERS-CoV Antibodies in Dromedary Camels (Camelus dromedaries) in Laikipia County, Kenya.
+ PLoS ONE.
+ 2015;10:e0140125.
+ doi: 10.1371/journal.pone.0140125.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]36.
+ Alexandersen S., Kobinger G.P., Soule G., Wernery U.
+ Middle East respiratory syndrome coronavirus antibody reactors among camels in Dubai, United Arab Emirates, in 2005.
+ Transbound.
+ Emerg.
+ Dis.
+ 2014;61:105–108.
+ doi: 10.1111/tbed.12212.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]37.
+ Reusken C.B.E.M., Haagmans B.L., Müller M.A., Gutierrez C., Godeke G.-J., Meyer B., Muth D., Raj V.S., Vries L.S.-D., Corman V.M., et al.
+ Middle East respiratory syndrome coronavirus neutralising serum antibodies in dromedary camels: A comparative serological study.
+ Lancet Infect.
+ Dis.
+ 2013;13:859–866.
+ doi: 10.1016/S1473-3099(13)70164-6.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]38.
+ Raj V.S., Farag E.A., Reusken C.B., Lamers M.M., Pas S.D., Voermans J., Smits S.L., Osterhaus A.D., Al-Mawlawi N., Al-Romaihi H.E., et al.
+ Isolation of MERS coronavirus from a dromedary camel, Qatar, 2014.
+ Emerg.
+ Infect.
+ Dis.
+ 2014;20:1339–1342.
+ doi: 10.3201/eid2008.140663.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]39.
+ Conzade R., Grant R., Malik M.R., Elkholy A., Elhakim M., Samhouri D., Ben Embarek P.K., Van Kerkhove M.D.
+ Reported Direct and Indirect Contact with Dromedary Camels among Laboratory-Confirmed MERS-CoV Cases.
+ Viruses.
+ 2018;10 doi: 10.3390/v10080425.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]40.
+ Alshukairi A.N., Zheng J., Zhao J., Nehdi A., Baharoon S.A., Layqah L., Bokhari A., Al Johani S.M., Samman N., Boudjelal M., et al.
+ High Prevalence of MERS-CoV Infection in Camel Workers in Saudi Arabia.
+ MBio.
+ 2018;9 doi: 10.1128/mBio.01985-18.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]41.
+ Further Evidence for Bats as the Evolutionary Source of Middle East Respiratory Syndrome Coronavirus.
+ MBio.
+ 2017;8 doi: 10.1128/mBio.00373-17.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]42.
+ Chastel C. Middle East respiratory syndrome (MERS): Bats or dromedary, which of them is responsible?
+ Bull.
+ Soc.
+ Pathol.
+ Exot.
+ 2014;107:69–73.
+ doi: 10.1007/s13149-014-0333-1.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]43.
+ Widagdo W., Begeman L., Schipper D., Run P.R.V., Cunningham A.A., Kley N., Reusken C.B., Haagmans B.L., van den Brand J.M.A.
+ Tissue Distribution of the MERS-Coronavirus Receptor in Bats.
+ Sci.
+ Rep. 2017;7:1193. doi: 10.1038/s41598-017-01290-6.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]44.
+ Woo P.C.Y., Lau S.K.P., Li K.S.M., Tsang A.K.L., Yuen K.-Y.
+ Genetic relatedness of the novel human group C betacoronavirus to Tylonycteris bat coronavirus HKU4 and Pipistrellus bat coronavirus HKU5.
+ Emerg.
+ Microbes Infect.
+ 2012;1:e35.
+ doi: 10.1038/emi.2012.45.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]45.
+ Ithete N.L., Stoffberg S., Corman V.M., Cottontail V.M., Richards L.R., Schoeman M.C., Drosten C., Drexler J.F., Preiser W. Close relative of human Middle East respiratory syndrome coronavirus in bat, South Africa.
+ Emerg.
+ Infect.
+ Dis.
+ 2013;19:1697–1699.
+ doi: 10.3201/eid1910.130946.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]46.
+ Wang Q., Qi J., Yuan Y., Xuan Y., Han P., Wan Y., Ji W., Li Y., Wu Y., Wang J., et al.
+ Bat origins of MERS-CoV supported by bat coronavirus HKU4 usage of human receptor CD26.
+ Cell Host Microbe.
+ 2014;16:328–337.
+ doi: 10.1016/j.chom.2014.08.009.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]47.
+ Luo C.M., Wang N., Yang X.L., Liu H.Z., Zhang W., Li B., Hu B., Peng C., Geng Q.B., Zhu G.J., et al.
+ Discovery of novel bat coronaviruses in south China that use the same receptor as MERS coronavirus.
+ J. Virol.
+ 2018 doi: 10.1128/JVI.00116-18.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]48.
+ Corman V.M., Jores J., Meyer B., Younan M., Liljander A., Said M.Y., Gluecks I., Lattwein E., Bosch B.J., Drexler J.F., et al.
+ Antibodies against MERS coronavirus in dromedary camels, Kenya, 1992–2013.
+ Emerg.
+ Infect.
+ Dis.
+ 2014;20:1319–1322.
+ doi: 10.3201/eid2008.140596.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]49. van der Hoek L., Pyrc K., Jebbink M.F., Vermeulen-Oost W., Berkhout R.J., Wolthers K.C., Wertheim-van Dillen P.M., Kaandorp J., Spaargaren J., Berkhout B.
+ Identification of a new human coronavirus.
+ Nat.
+ Med.
+ 2004;10:368–373.
+ doi: 10.1038/nm1024.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]50.
+ Abdul-Rasool S., Fielding B.C.
+ Understanding Human Coronavirus HCoV-NL63.
+ Open Virol.
+ J.
+ 2010;4:76–84.
+ doi: 10.2174/1874357901004010076.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]51.
+ Pyrc K., Dijkman R., Deng L., Jebbink M.F., Ross H.A., Berkhout B., van der Hoek L. Mosaic structure of human coronavirus NL63, one thousand years of evolution.
+ J. Mol.
+ Biol.
+ 2006;364:964–973.
+ doi: 10.1016/j.jmb.2006.09.074.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]52.
+ Huynh J., Li S., Yount B., Smith A., Sturges L., Olsen J.C., Nagel J., Johnson J.B., Agnihothram S., Gates J.E., et al.
+ Evidence supporting a zoonotic origin of human coronavirus strain NL63.
+ J. Virol.
+ 2012;86:12816–12825.
+ doi: 10.1128/JVI.00906-12.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]53.
+ Tao Y., Shi M., Chommanard C., Queen K., Zhang J., Markotter W., Kuzmin I.V., Holmes E.C., Tong S. Surveillance of Bat Coronaviruses in Kenya Identifies Relatives of Human Coronaviruses NL63 and 229E and Their Recombination History.
+ J. Virol.
+ 2017;91 doi: 10.1128/JVI.01953-16.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]54.
+ McIntosh K., Dees J.H., Becker W.B., Kapikian A.Z., Chanock R.M.
+ Recovery in tracheal organ cultures of novel viruses from patients with respiratory disease.
+ Proc.
+ Natl.
+ Acad.
+ Sci.
+ USA.
+ 1967;57:933–940.
+ doi: 10.1073/pnas.57.4.933.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]55.
+ Pfefferle S., Oppong S., Drexler J.F., Gloza-Rausch F., Ipsen A., Seebens A., Müller M.A., Annan A., Vallo P., Adu-Sarkodie Y., et al.
+ Distant Relatives of Severe Acute Respiratory Syndrome Coronavirus and Close Relatives of Human Coronavirus 229E in Bats, Ghana.
+ Emerg.
+ Infect.
+ Dis.
+ 2009;15:1377–1384.
+ doi: 10.3201/eid1509.090224.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]56.
+ Crossley B.M., Mock R.E., Callison S.A., Hietala S.K.
+ Identification and characterization of a novel alpaca respiratory coronavirus most closely related to the human coronavirus 229E.
+ Viruses.
+ 2012;4:3689–3700.
+ doi: 10.3390/v4123689.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]57.
+ Corman V.M., Baldwin H.J., Tateno A.F., Zerbinati R.M., Annan A., Owusu M., Nkrumah E.E., Maganga G.D., Oppong S., Adu-Sarkodie Y., et al.
+ Evidence for an Ancestral Association of Human Coronavirus 229E with Bats.
+ J. Virol.
+ 2015;89:11858–11870.
+ doi: 10.1128/JVI.01755-15.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]58.
+ Corman V.M., Eckerle I., Memish Z.A., Liljander A.M., Dijkman R., Jonsdottir H., Juma Ngeiywa K.J., Kamau E., Younan M., Al Masri M., et al.
+ Link of a ubiquitous human coronavirus to dromedary camels.
+ Proc.
+ Natl.
+ Acad.
+ Sci.
+ USA.
+ 2016;113:9864–9869.
+ doi: 10.1073/pnas.1604472113.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]59.
+ Lau S.K.P., Fan R.Y.Y., Luk H.K.H., Zhu L., Fung J., Li K.S.M., Wong E.Y.M., Ahmed S.S., Chan J.F.W., Kok R.K.H., et al.
+ Replication of MERS and SARS coronaviruses in bat cells offers insights to their ancestral origins.
+ Emerg.
+ Microbes Infect.
+ 2018;7:209. doi: 10.1038/s41426-018-0208-9.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]60.
+ Pensaert M.B., de Bouck P. A new coronavirus-like particle associated with diarrhea in swine.
+ Arch.
+ Virol.
+ 1978;58:243–247.
+ doi: 10.1007/BF01317606.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]61.
+ Kocherhans R., Bridgen A., Ackermann M., Tobler K. Completion of the porcine epidemic diarrhoea coronavirus (PEDV) genome sequence.
+ Virus Genes.
+ 2001;23:137–144.
+ doi: 10.1023/A:1011831902219.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]62.
+ Choudhury B., Dastjerdi A., Doyle N., Frossard J.P., Steinbach F. From the field to the lab—An European view on the global spread of PEDV.
+ Virus Res.
+ 2016 doi: 10.1016/j.virusres.2016.09.003.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]63.
+ Opriessnig T., Gerber P.F., Shen H., de Castro A., Zhang J., Chen Q., Halbur P. Evaluation of the efficacy of a commercial inactivated genogroup 2b-based porcine epidemic diarrhea virus (PEDV) vaccine and experimental live genogroup 1b exposure against 2b challenge.
+ Vet.
+ Res.
+ 2017;48:69. doi: 10.1186/s13567-017-0472-z.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]64.
+ Lee S.H., Yang D.K., Kim H.H., Cho I.S.
+ Clin.
+ Exp.
+ Vaccine Res.
+ 2018;7:61–69.
+ doi: 10.7774/cevr.2018.7.1.61.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]65.
+ Zhang J., Guo L., Xu Y., Yang L., Shi H., Feng L., Wang Y.
+ Characterization of porcine epidemic diarrhea virus infectivity in human embryonic kidney cells.
+ Arch.
+ Virol.
+ 2017;162:2415–2419.
+ doi: 10.1007/s00705-017-3369-2.
+ [PubMed] [CrossRef] [Google Scholar]66.
+ Banerjee A., Rapin N., Miller M., Griebel P., Zhou Y., Munster V., Misra V. Generation and Characterization of Eptesicus fuscus (Big brown bat) kidney cell lines immortalized using the Myotis polyomavirus large T-antigen.
+ J. Virol.
+ Methods.
+ 2016;237:166–173.
+ doi: 10.1016/j.jviromet.2016.09.008.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]67.
+ Plowright R.K., Peel A.J., Streicker D.G., Gilbert A.T., McCallum H., Wood J., Baker M.L., Restif O.
+ Transmission or Within-Host Dynamics Driving Pulses of Zoonotic Viruses in Reservoir-Host Populations.
+ PLoS Negl.
+ Trop.
+ Dis.
+ 2016;10:e0004796.
+ doi: 10.1371/journal.pntd.0004796.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]68.
+ Amman B.R., Carroll S.A., Reed Z.D., Sealy T.K., Balinandi S., Swanepoel R., Kemp A., Erickson B.R., Comer J.A., Campbell S., et al.
+ Seasonal pulses of Marburg virus circulation in juvenile Rousettus aegyptiacus bats coincide with periods of increased risk of human infection.
+ PLoS Pathog.
+ 2012;8:e1002877.
+ doi: 10.1371/journal.ppat.1002877.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]69.
+ Schuh A.J., Amman B.R., Jones M.E., Sealy T.K., Uebelhoer L.S., Spengler J.R., Martin B.E., Coleman-McCray J.A., Nichol S.T., Towner J.S.
+ Modelling filovirus maintenance in nature by experimental transmission of Marburg virus between Egyptian rousette bats.
+ Nat.
+ Commun.
+ 2017;8:14446. doi: 10.1038/ncomms14446.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]70.
+ Plowright R.K., Field H.E., Smith C., Divljan A., Palmer C., Tabor G., Daszak P., Foley J.E.
+ Reproduction and nutritional stress are risk factors for Hendra virus infection in little red flying foxes (Pteropus scapulatus) Proc.
+ Biol.
+ Sci.
+ 2008;275:861–869.
+ doi: 10.1098/rspb.2007.1260.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]71.
+ Davy C.M., Donaldson M.E., Subudhi S., Rapin N., Warnecke L., Turner J.M., Bollinger T.K., Kyle C.J., Dorville N.A.S., Kunkel E.L., et al.
+ White-nose syndrome is associated with increased replication of a naturally persisting coronaviruses in bats.
+ Sci.
+ Rep. 2018;8:15508. doi: 10.1038/s41598-018-33975-x.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]72.
+ Anthony S.J., Johnson C.K., Greig D.J., Kramer S., Che X., Wells H., Hicks A.L., Joly D.O., Wolfe N.D., Daszak P., et al.
+ Global patterns in coronavirus diversity.
+ Virus Evol.
+ 2017;3:vex012.
+ doi: 10.1093/ve/vex012.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]73.
+ Baric R.S., Fu K., Schaad M.C., Stohlman S.A. Establishing a genetic recombination map for murine coronavirus strain A59 complementation groups.
+ Virology.
+ 1990;177:646–656.
+ doi: 10.1016/0042-6822(90)90530-5.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]74.
+ Lau S.K., Li K.S., Huang Y., Shek C.T., Tse H., Wang M., Choi G.K., Xu H., Lam C.S., Guo R., et al.
+ Ecoepidemiology and complete genome comparison of different strains of severe acute respiratory syndrome-related Rhinolophus bat coronavirus in China reveal bats as a reservoir for acute, self-limiting infection that allows recombination events.
+ J. Virol.
+ 2010;84:2808–2819.
+ doi: 10.1128/JVI.02219-09.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]75.
+ Wang M.N., Zhang W., Gao Y.T., Hu B., Ge X.Y., Yang X.L., Zhang Y.Z., Shi Z.L.
+ Longitudinal surveillance of SARS-like coronaviruses in bats by quantitative real-time PCR.
+ Virol.
+ Sin.
+ 2016;31:78–80.
+ doi: 10.1007/s12250-015-3703-3.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]76.
+ Papenfuss A.T., Baker M.L., Feng Z.P., Tachedjian M., Crameri G., Cowled C., Ng J., Janardhana V., Field H.E., Wang L.F.
+ The immune gene repertoire of an important viral reservoir, the Australian black flying fox.
+ BMC Genom.
+ 2012;13:261. doi: 10.1186/1471-2164-13-261.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]77.
+ Lee A.K., Kulcsar K.A., Elliott O., Khiabanian H., Nagle E.R., Jones M.E., Amman B.R., Sanchez-Lockhart M., Towner J.S., Palacios G., et al.
+ De novo transcriptome reconstruction and annotation of the Egyptian rousette bat.
+ BMC Genom.
+ 2015;16:1033. doi: 10.1186/s12864-015-2124-x.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]78.
+ Shaw T.I., Srivastava A., Chou W.C., Liu L., Hawkinson A., Glenn T.C., Adams R., Schountz T. Transcriptome sequencing and annotation for the Jamaican fruit bat (Artibeus jamaicensis) PLoS ONE.
+ 2012;7:e48472.
+ doi: 10.1371/journal.pone.0048472.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]79.
+ Cowled C., Baker M., Tachedjian M., Zhou P., Bulach D., Wang L.F. Molecular characterisation of Toll-like receptors in the black flying fox Pteropus alecto.
+ Dev.
+ Comp.
+ Immunol.
+ 2011;35:7–18.
+ doi: 10.1016/j.dci.2010.07.006.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]80.
+ Cowled C., Baker M.L., Zhou P., Tachedjian M., Wang L.F. Molecular characterisation of RIG-I-like helicases in the black flying fox, Pteropus alecto.
+ Dev.
+ Comp.
+ Immunol.
+ 2012;36:657–664.
+ doi: 10.1016/j.dci.2011.11.008.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]81.
+ Zhou P., Cowled C., Mansell A., Monaghan P., Green D., Wu L., Shi Z., Wang L.F., Baker M.L.
+ IRF7 in the Australian black flying fox, Pteropus alecto: Evidence for a unique expression pattern and functional conservation.
+ PLoS ONE.
+ 2014;9:e103875.
+ doi: 10.1371/journal.pone.0103875.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]82.
+ Zhou P., Tachedjian M., Wynne J.W., Boyd V., Cui J., Smith I., Cowled C., Ng J.H., Mok L., Michalski W.P., et al.
+ Contraction of the type I IFN locus and unusual constitutive expression of IFN-alpha in bats.
+ Proc.
+ Natl.
+ Acad.
+ Sci.
+ USA.
+ 2016;113:2696–2701.
+ doi: 10.1073/pnas.1518240113.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]83.
+ Kepler T.B., Sample C., Hudak K., Roach J., Haines A., Walsh A., Ramsburg E.A.
+ Chiropteran types I and II interferon genes inferred from genome sequencing traces by a statistical gene-family assembler.
+ BMC Genom.
+ 2010;11:444. doi: 10.1186/1471-2164-11-444.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]84.
+ Pavlovich S.S., Lovett S.P., Koroleva G., Guito J.C., Arnold C.E., Nagle E.R., Kulcsar K., Lee A., Thibaud-Nissen F., Hume A.J., et al.
+ The Egyptian rousette Genome Reveals Unexpected Features of Bat Antiviral Immunity.
+ Cell.
+ 2018;173:1098–1110.
+ doi: 10.1016/j.cell.2018.03.070.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]85.
+ Arnold C.E., Guito J.C., Altamura L.A., Lovett S.P., Nagle E.R., Palacios G.F., Sanchez-Lockhart M., Towner J.S.
+ Transcriptomics Reveal Antiviral Gene Induction in the Egyptian rousette Bat Is Antagonized In Vitro by Marburg Virus Infection.
+ Viruses.
+ 2018;10 doi: 10.3390/v10110607.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]86.
+ Liang Y.Z., Wu L.J., Zhang Q., Zhou P., Wang M.N., Yang X.L., Ge X.Y., Wang L.F., Shi Z.L.
+ Cloning, expression, and antiviral activity of interferon beta from the Chinese microbat, Myotis davidii.
+ Virol.
+ Sin.
+ 2015;30:425–432.
+ doi: 10.1007/s12250-015-3668-2.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]87.
+ Banerjee A., Rapin N., Bollinger T., Misra V. Lack of inflammatory gene expression in bats: A unique role for a transcription repressor.
+ Sci.
+ Rep. 2017;7:2232. doi: 10.1038/s41598-017-01513-w. [PMC free article] [PubMed] [CrossRef] [Google Scholar]88.
+ Li J., Zhang G., Cheng D., Ren H., Qian M., Du B. Molecular characterization of RIG-I, STAT-1 and IFN-beta in the horseshoe bat.
+ Gene.
+ 2015;561:115–123.
+ doi: 10.1016/j.gene.2015.02.013.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]89.
+ Biesold S.E., Ritz D., Gloza-Rausch F., Wollny R., Drexler J.F., Corman V.M., Kalko E.K., Oppong S., Drosten C., Muller M.A.
+ Type I interferon reaction to viral infection in interferon-competent, immortalized cell lines from the African fruit bat Eidolon helvum.
+ PLoS ONE.
+ 2011;6:e28131.
+ doi: 10.1371/journal.pone.0028131.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]90.
+ Glennon N.B., Jabado O., Lo M.K., Shaw M.L.
+ Transcriptome Profiling of the Virus-Induced Innate Immune Response in Pteropus vampyrus and Its Attenuation by Nipah Virus Interferon Antagonist Functions.
+ J. Virol.
+ 2015;89:7550–7566.
+ doi: 10.1128/JVI.00302-15.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]91.
+ Menachery V.D., Mitchell H.D., Cockrell A.S., Gralinski L.E., Yount B.L., Jr., Graham R.L., McAnarney E.T., Douglas M.G., Scobey T., Beall A., et al.
+ MERS-CoV Accessory ORFs Play Key Role for Infection and Pathogenesis.
+ MBio.
+ 2017;8 doi: 10.1128/mBio.00665-17.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]92.
+ Niemeyer D., Zillinger T., Muth D., Zielecki F., Horvath G., Suliman T., Barchet W., Weber F., Drosten C., Muller M.A.
+ Middle East respiratory syndrome coronavirus accessory protein 4a is a type I interferon antagonist.
+ J. Virol.
+ 2013;87:12489–12495.
+ doi: 10.1128/JVI.01845-13.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]93.
+ Xing Y., Chen J., Tu J., Zhang B., Chen X., Shi H., Baker S.C., Feng L., Chen Z.
+ The papain-like protease of porcine epidemic diarrhea virus negatively regulates type I interferon pathway by acting as a viral deubiquitinase.
+ J. Gen. Virol.
+ 2013;94:1554–1567.
+ doi: 10.1099/vir.0.051169-0.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]94.
+ Cao L., Ge X., Gao Y., Herrler G., Ren Y., Ren X., Li G. Porcine epidemic diarrhea virus inhibits dsRNA-induced interferon-beta production in porcine intestinal epithelial cells by blockade of the RIG-I-mediated pathway.
+ Virol.
+ J.
+ 2015;12:127. doi: 10.1186/s12985-015-0345-x.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]95.
+ Ding Z., Fang L., Jing H., Zeng S., Wang D., Liu L., Zhang H., Luo R., Chen H., Xiao S. Porcine epidemic diarrhea virus nucleocapsid protein antagonizes beta interferon production by sequestering the interaction between IRF3 and TBK1.
+ J. Virol.
+ 2014;88:8936–8945.
+ doi: 10.1128/JVI.00700-14.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]96.
+ Scobey T., Yount B.L., Sims A.C., Donaldson E.F., Agnihothram S.S., Menachery V.D., Graham R.L., Swanstrom J., Bove P.F., Kim J.D., et al.
+ Reverse genetics with a full-length infectious cDNA of the Middle East respiratory syndrome coronavirus.
+ Proc.
+ Natl.
+ Acad.
+ Sci.
+ USA.
+ 2013;110:16157–16162.
+ doi: 10.1073/pnas.1311542110.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]97.
+ Watanabe S., Masangkay J.S., Nagata N., Morikawa S., Mizutani T., Fukushi S., Alviola P., Omatsu T., Ueda N., Iha K., et al.
+ Bat coronaviruses and experimental infection of bats, the Philippines.
+ Emerg.
+ Infect.
+ Dis.
+ 2010;16:1217–1223.
+ doi: 10.3201/eid1608.100208.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]98.
+ Munster V.J., Adney D.R., van Doremalen N., Brown V.R., Miazgowicz K.L., Milne-Price S., Bushmaker T., Rosenke R., Scott D., Hawkinson A., et al.
+ Replication and shedding of MERS-CoV in Jamaican fruit bats (Artibeus jamaicensis) Sci.
+ Rep. 2016;6:21878. doi: 10.1038/srep21878.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]99.
+ Woo P.C.Y., Lau S.K.P., Chen Y., Wong E.Y.M., Chan K.H., Chen H., Zhang L., Xia N., Yuen K.Y.
+ Rapid detection of MERS coronavirus-like viruses in bats: pote1ntial for tracking MERS coronavirus transmission and animal origin.
+ Emerg.
+ Microbes Infect.
+ 2018;7:18. doi: 10.1038/s41426-017-0016-7.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]100.
+ Widagdo W., Raj V.S., Schipper D., Kolijn K., van Leenders G., Bosch B.J., Bensaid A., Segales J., Baumgartner W., Osterhaus A., et al.
+ Differential Expression of the Middle East Respiratory Syndrome Coronavirus Receptor in the Upper Respiratory Tracts of Humans and Dromedary Camels.
+ J. Virol.
+ 2016;90:4838–4842.
+ doi: 10.1128/JVI.02994-15.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]101.
+ Meyerholz D.K., Lambertz A.M., McCray P.B., Jr. Dipeptidyl Peptidase 4 Distribution in the Human Respiratory Tract: Implications for the Middle East Respiratory Syndrome.
+ Am.
+ J. Pathol.
+ 2016;186:78–86.
+ doi: 10.1016/j.ajpath.2015.09.014.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]102.
+ Luis A.D., Hayman D.T., O’Shea T.J., Cryan P.M., Gilbert A.T., Pulliam J.R., Mills J.N., Timonin M.E., Willis C.K., Cunningham A.A., et al.
+ A comparison of bats and rodents as reservoirs of zoonotic viruses: Are bats special?
+ Proc.
+ Biol.
+ Sci.
+ 2013;280:20122753. doi: 10.1098/rspb.2012.2753.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]103.
+ Plowright R.K., Eby P., Hudson P.J., Smith I.L., Westcott D., Bryden W.L., Middleton D., Reid P.A., McFarlane R.A., Martin G., et al.
+ Ecological dynamics of emerging bat virus spillover.
+ Proc.
+ Biol.
+ Sci.
+ 2015;282:20142124. doi: 10.1098/rspb.2014.2124.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]104.
+ ClinicalTrials.gov Community Intervention to Prevent Nipah Spillover.
+ Gurley E. Ecological determinants of Nipah virus risk in Bangladesh: The convergence of people, bats, trees and a tasty drink; Proceedings of the 3rd International One Health Conference; Amsterdam, The Netherlands.
+ 15–18 March 2015.
+ [Google Scholar]106.
+ Field H., Young P., Yob J.M., Mills J., Hall L., Mackenzie J.
+ The natural history of Hendra and Nipah viruses.
+ Microbes Infect.
+ 2001;3:307–314.
+ doi: 10.1016/S1286-4579(01)01384-3.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

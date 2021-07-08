@@ -1,0 +1,1064 @@
+Forgot your password?
+ Enter your email address below and we will send you the reset instructions     Email*      Cancel    If the address matches an existing account you will receive an email with instructions to reset your password.
+ Close        Request Username  Can't sign in?
+ Forgot your username?
+ Enter your email address below and we will send you your username     Email*       Close    If the address matches an existing account you will receive an email with instructions to retrieve your username        Change Password      Old Password       New Password     Too Short Weak Medium Strong Very Strong Too Long      Password Changed Successfully Your password has been changed       Verify Phone     Enter the verification code      Cancel    Congrats!
+ Vernooij, PhD, Claudia Valli, MSc, Regina El Dib, PhD, Catherine Marshall, Patrick J. Stover, PhD, Susan Fairweather-Taitt, PhD, Grzegorz Wójcik, PhD, Faiz Bhatia, PEng, Russell de Souza, ScD, Carlos Brotons, MD, PhD, Joerg J. Meerpohl, MD, Chirag J. Patel, PhD, Benjamin Djulbegovic, MD, PhD, Pablo Alonso-Coello, MD, PhD, Malgorzata M. Bala, MD, PhD, Gordon H. Guyatt, MDBradley C. Johnston, PhDDalhousie University, Halifax, Nova Scotia, Canada, McMaster University, Hamilton, Ontario, Canada, and Texas A&amp;M University, College Station, Texas (B.C.J.
+ )Search for more papers by this author, Dena Zeraatkar, MScMcMaster University, Hamilton, Ontario, Canada (D.Z., G.H.G.
+ )Search for more papers by this author, Mi Ah Han, PhDChosun University, Gwangju, Republic of Korea (M.A.H.
+ )Search for more papers by this author, Robin W.M.
+ Vernooij, PhDNetherlands Comprehensive Cancer Organisation (IKNL), Utrecht, the Netherlands, and Dalhousie University, Halifax, Nova Scotia, Canada (R.W.V.
+ )Search for more papers by this author, Claudia Valli, MScIberoamerican Cochrane Centre Barcelona, Biomedical Research Institute San Pau (IIB Sant Pau), Barcelona, Spain (C.V., P.A.
+ )Search for more papers by this author, Regina El Dib, PhDInstitute of Science and Technology, Universidade Estadual Paulista, São José dos Campos, São Paulo, Brazil, and Dalhousie University, Halifax, Nova Scotia, Canada (R.E.
+ )Search for more papers by this author, Catherine MarshallCochrane Consumer Group, Wellington, New Zealand (C.M.
+ )Search for more papers by this author, Patrick J. Stover, PhDTexas A&amp;M AgriLife Research, College of Agriculture and Life Sciences, Texas A&amp;M University, College Station, Texas (P.J.S.
+ )Search for more papers by this author, Susan Fairweather-Taitt, PhDNorwich Medical School, University of East Anglia, Norwich, United Kingdom (S.F.
+ )Search for more papers by this author, Grzegorz Wójcik, PhDJagiellonian University Medical College, Kraków, Poland (G.W., M.M.B.
+ )Search for more papers by this author, Faiz Bhatia, PEngEtobicoke, Ontario, Canada (F.B.
+ )Search for more papers by this author, Russell de Souza, ScDPopulation Health Research Institute, Hamilton, Ontario, Canada (R.D.
+ )Search for more papers by this author, Carlos Brotons, MD, PhDSardenya Primary Health Care Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), Barcelona, Spain (C.B.
+ )Search for more papers by this author, Joerg J. Meerpohl, MDInstitute for Evidence in Medicine, Medical Centre, University of Freiburg, Freiburg, Germany (J.J.M.
+ )Search for more papers by this author, Benjamin Djulbegovic, MD, PhDCity of Hope, Duarte, California (B.D.
+ )Search for more papers by this author, Pablo Alonso-Coello, MD, PhDIberoamerican Cochrane Centre Barcelona, Biomedical Research Institute San Pau (IIB Sant Pau), Barcelona, Spain (C.V., P.A.
+ )Search for more papers by this author, Malgorzata M. Bala, MD, PhDJagiellonian University Medical College, Kraków, Poland (G.W., M.M.B.
+ )Search for more papers by this author, Gordon H. Guyatt, MDMcMaster University, Hamilton, Ontario, Canada (D.Z., G.H.G.
+ )Search for more papers by this authorAuthor, Article and Disclosure Informationhttps://doi.org/10.7326/M19-1621 Eligible for CME Point-of-CareCME/MOC         SectionsSupplemental MaterialAboutVisual AbstractAbstractPDF ToolsAdd to favoritesDownload CitationsTrack CitationsPermissions  ShareFacebookTwitterLinked InRedditEmail AbstractThis article has been corrected.
+ The original version (PDF) is appended to this article as a Supplement.Description:Dietary guideline recommendations require consideration of the certainty in the evidence, the magnitude of potential benefits and harms, and explicit consideration of people's values and preferences.
+ A set of recommendations on red meat and processed meat consumption was developed on the basis of 5 de novo systematic reviews that considered all of these issues.Methods:The recommendations were developed by using the Nutritional Recommendations (NutriRECS) guideline development process, which includes rigorous systematic review methodology, and GRADE methods to rate the certainty of evidence for each outcome and to move from evidence to recommendations.
+ A panel of 14 members, including 3 community members, from 7 countries voted on the final recommendations.
+ Strict criteria limited the conflicts of interest among panel members.
+ Considerations of environmental impact or animal welfare did not bear on the recommendations.
+ Four systematic reviews addressed the health effects associated with red meat and processed meat consumption, and 1 systematic review addressed people's health-related values and preferences regarding meat consumption.Recommendations:The panel suggests that adults continue current unprocessed red meat consumption (weak recommendation, low-certainty evidence).
+ Similarly, the panel suggests adults continue current processed meat consumption (weak recommendation, low-certainty evidence).Primary Funding Source:None.
+ (PROSPERO 2017: CRD42017074074; PROSPERO 2018: CRD42018088854)Contemporary dietary guidelines recommend limiting consumption of unprocessed red meat and processed meat.
+ For example, the 2015–2020 Dietary Guidelines for Americans recommend limiting red meat intake, including processed meat, to approximately 1 weekly serving (1).
+ Similarly, United Kingdom dietary guidelines endorse limiting the intake of both red and processed meat to 70 g/d (2), and the World Cancer Research Fund/American Institute for Cancer Research recommend limiting red meat consumption to moderate amounts and consuming very little processed meat (3).
+ The World Health Organization International Agency for Research on Cancer has indicated that consumption of red meat is “probably carcinogenic” to humans, whereas processed meat is considered “carcinogenic” to humans (4).These recommendations are, however, primarily based on observational studies that are at high risk for confounding and thus are limited in establishing causal inferences, nor do they report the absolute magnitude of any possible effects.
+ Furthermore, the organizations that produce guidelines did not conduct or access rigorous systematic reviews of the evidence, were limited in addressing conflicts of interest, and did not explicitly address population values and preferences, raising questions regarding adherence to guideline standards for trustworthiness (5–9).A potential solution to the limitations of contemporary nutrition guidelines is for an independent group with clinical and nutritional content expertise and skilled in the methodology of systematic reviews and practice guidelines, methods that include careful management of conflicts of interest, to produce trustworthy recommendations based on the values and preferences of guideline users.
+ We developed the Nutritional Recommendations (NutriRECS) (7) international consortium to produce rigorous evidence-based nutritional recommendations adhering to trustworthiness standards (10–12).To support our recommendations, we performed 4 parallel systematic reviews that focused both on randomized trials and observational studies addressing the possible impact of unprocessed red meat and processed meat consumption on cardiometabolic and cancer outcomes (13–16), and a fifth systematic review addressing people's health-related values and preferences related to meat consumption (17).
+ On the basis of these reviews, we developed recommendations for unprocessed red meat and processed meat consumption specific to health outcomes.MethodsGuideline Development ProcessWe developed our recommendations by following the NutriRECS guideline development process (7), which includes use of GRADE (Grading of Recommendations, Assessment, Development and Evaluation) methodology (18–20).
+ To inform our guideline recommendations, systematic reviews were conducted on the basis of a priori methods (21, 22).Guideline Team StructureThis work involved 3 teams:1.
+ A core NutriRECS leadership team was responsible for supervision and coordination of the project and for drafting of the research questions, guideline protocol, and manuscripts.2.
+ A guideline panel included experts in health research methodology, nutritional epidemiology, dietetics, basic and translational research, family medicine, and general internal medicine.
+ The panel included 3 members from outside the medical and health care communities.
+ Panelists resided in high-income countries (Canada, England, Germany, New Zealand, Poland, Spain, and the United States).3.
+ A literature review team drafted the protocols for the systematic reviews, completed the literature search and eligibility review, abstracted data and conducted data analysis, and produced narrative and tabular summaries of the results.Framework for Panel Construction and Guideline RecommendationsThe core leadership team applied safeguards against competing interests (7).
+ After generating a list of potential panel members without perceived vested interests, we contacted prospective candidates from North America, Western Europe, and New Zealand.
+ Those who expressed interest completed a detailed form enumerating potential financial or intellectual conflicts during the previous 3 years.
+ If important competing issues were identified (1 interested individual had financial conflicts), the potential panelist was not invited to participate.
+ The Appendix Table shows a summary of the authors' conflict of interest forms; a full list of competing interests is available upon request from Dr. Johnston.Appendix Table.
+ Summary of Panelists' Potential Conflicts of InterestBefore our initial guideline panel meeting, the methods editor and panel chair contacted panelists, shared the draft questions, and received and incorporated feedback.
+ At the initial meeting, the guideline panel discussed the scope of the project and agreed on the research questions and subgroups of interest.
+ The panel focused on health outcomes thought to be associated with consumption of unprocessed red meat and processed meat and chose not to consider animal welfare and environmental issues related to meat consumption in making recommendations.
+ Finally, to consider these issues rigorously would require systematic reviews that we were not resourced to       undertake.The panel also chose to make separate recommendations for unprocessed red meat and processed meat, given the potential for differential health effects and differing values and preferences of members of the public with regard to consumption of unprocessed meat versus processed meat.Target Audience for RecommendationsThe target audience for our guidance statement was individuals who consume unprocessed red meat or processed meat as part of their diet.
+ The panel took the perspective of individual decision making rather than a public health perspective.Key Principles for PICO Questions and Study Eligibility CriteriaEach NutriRECS project addresses a single nutrition question or topic, in this case guidance regarding the potential harms, benefits, and health-related values and preferences related to consuming unprocessed red meat and processed meat.
+ We conducted a series of systematic reviews to inform our recommendations, addressing the following questions: 1) Among adults, what is the effect of diets and dietary patterns lower in red or processed meat versus diets higher in red or processed meat intake on the risk for outcomes important to community members?
+ and 2) What are their health-related values and preferences for red and processed meat consumption?The panel considered all-cause mortality, major cardiometabolic outcomes (cardiovascular mortality, stroke, myocardial infarction, and diabetes), cancer incidence and mortality (gastrointestinal, prostate, and gynecologic cancer), quality of life, and willingness to change unprocessed red or processed meat consumption as “critically important” for developing recommendations.
+ “Important” outcomes included surrogate outcomes (weight, body mass index, blood lipids, blood pressure, hemoglobin, anemia) and reasons for eating unprocessed red meat and processed meat.Methods for Systematic ReviewsIn consultation with an expert librarian, we searched the major literature databases to identify all relevant studies on harms, benefits, and health-related values and preferences regarding unprocessed red meat and processed meat.
+ Studies in which more than 20% of the sample was pregnant or had cancer or a chronic health condition, other than cardiometabolic disease, were excluded.
+ The review articles report our methods for screening, data abstraction, risk of bias assessment, and data analysis (13–17).Panelists considered 3 servings per week as a realistic reduction in meat consumption (for example, moving from 7 to 4 servings, or 4 to 1 serving) on the basis of the average intake of 2 to 4 servings per week in North America and Western Europe (24–28).
+ We therefore framed the evidence regarding the potential reduced risks associated with a decrease of 3 servings per week of both unprocessed red meat and processed meat.We used GRADEpro software to formulate GRADE summary of findings tables for each PICO (population, intervention, control, and outcomes) question (29).
+ The overall certainty of evidence was evaluated by using the GRADE approach (18).
+ For estimates of risk with current levels of meat consumption, we used population estimates from the Emerging Risk Factors Collaboration study for cardiometabolic outcomes (30) and population estimates from GLOBOCAN for cancer outcomes (31).
+ We hypothesized that if red meat and processed meat were indeed causally related to adverse health outcomes, we would find stronger associations in studies that specifically addressed red meat and processed meat intake versus studies addressing dietary patterns (7).To address health-related values and preferences regarding red meat and processed meat, we included qualitative (such as interviews and focus groups) and quantitative (such as cross-sectional surveys) studies conducted in adults.
+ We independently screened studies, abstracted data, and assessed risk of bias (17).
+ We then synthesized the data into narrative themes and tabulated summaries, and again assessed the certainty of evidence by using the GRADE approach (18, 32).To assist our 3 public panel members without health science backgrounds, the method's editor conducted electronic meetings with them before the guideline panel meetings to explain the systematic review results and the GRADE approach for assessing the certainty of evidence and for moving from evidence to recommendations.
+ During the guideline panel meetings, the leads of each of the systematic reviews shared the summary data and certainty of evidence for each of our outcomes with the guideline panel, and the panel chair answered any questions as necessary.Moving From Evidence to RecommendationsBefore our final guideline panel meeting, we asked each panelist to complete a GRADE Evidence to Decision (EtD) framework.
+ The purpose of EtD frameworks is to help panelists use the evidence summaries in a structured and transparent way to develop the final recommendations.
+ In doing so, the panelists considered evidence summaries for health effects, values, and preferences as well as cost, acceptability, and feasibility of a recommendation to decrease meat consumption (33).
+ During the final meeting, the panel reviewed the results of the EtD survey and considered the implications of those judgments for their recommendations.ResultsRecommendation for Unprocessed Red MeatFor adults 18 years of age or older, we suggest continuing current unprocessed red meat consumption (weak recommendation, low-certainty evidence).
+ Eleven of 14 panelists voted for continuation of current unprocessed red meat consumption, whereas 3 voted for a weak recommendation to reduce red meat consumption.Recommendation for Processed MeatFor adults 18 years of age or older, we suggest continuing current processed meat consumption (weak recommendation, low-certainty evidence).
+ Again, 11 of 14 panel members voted for a continuation of current processed meat consumption, and 3 voted for a weak recommendation to reduce processed meat consumption.Evidence Summary for Harms and Benefits of Unprocessed Red Meat ConsumptionFor our review of randomized trials on harms and benefits (12 unique trials enrolling 54 000 participants), we found low- to very low-certainty evidence that diets lower in unprocessed red meat may have little or no effect on the risk for major cardiometabolic outcomes and cancer mortality and incidence (15).
+ Dose–response meta-analysis results from 23 cohort studies with 1.4 million participants provided low- to very low-certainty evidence that decreasing unprocessed red meat intake may result in a very small reduction in the risk for major cardiovascular outcomes (cardiovascular disease, stroke, and myocardial infarction) and type 2 diabetes (range, 1 fewer to 6 fewer events per 1000 persons with a decrease of 3 servings/wk), with no statistically significant differences in 2 additional outcomes (all-cause mortality and cardiovascular mortality) (16).
+ Dose–response meta-analysis results from       17 cohorts with 2.2 million participants provided low-certainty evidence that decreasing unprocessed red meat intake may result in a very small reduction of overall lifetime cancer mortality (7 fewer events per 1000 persons with a decrease of 3 servings/wk), with no statistically significant differences for 8 additional cancer outcomes (prostate cancer mortality and the incidence of overall, breast, colorectal, esophageal, gastric, pancreatic, and prostate cancer) (13).
+ Similar to studies directly addressing red meat, cohort studies assessing dietary patterns (70 cohort studies with just over 6 million participants) provided mostly uncertain evidence for the risk for adverse cardiometabolic and cancer outcomes.
+ Although statistically significant, low- to very low-certainty evidence indicates that adherence to dietary patterns lower in red or processed meat is associated with a very small absolute risk reduction in 9 major       cardiometabolic and cancer outcomes (range, 1 fewer to 18 fewer events per 1000 persons), with no statistically significant differences for 21 additional outcomes observed (14).
+ The tables in the Supplement show the GRADE summary of findings for all systematic reviews on the harms and benefits associated with red and processed meat.We summarize people's attitudes on eating meat below in a section on values and preferences.
+ In short, omnivores enjoy eating meat and consider it an essential component of a healthy diet.
+ There is also evidence of possible health benefits of omnivorous versus vegetarian diets on such outcomes as muscle development and anemia (34, 35), but we did not systematically review this literature.Evidence Summary for Harms and Benefits for Processed MeatNo randomized trials differed by a gradient of 1 serving/wk for our target outcomes (15).
+ With respect to cohorts addressing adverse cardiometabolic outcomes (10 cohort studies with 778 000 participants providing dose–response meta-analysis), we found low- to very low-certainty evidence that decreased intake of processed meat was associated with a very small reduced risk for major morbid cardiometabolic outcomes, including all-cause mortality, cardiovascular mortality, stroke, myocardial infarction, and type 2 diabetes (range, 1 fewer to 12 fewer events per 1000 persons with a decrease of 3 servings/wk), with no statistically significant difference in 1 additional outcome (cardiovascular disease) (16).
+ For cohort studies assessing dietary patterns (70 cohort studies with over 6 million participants), although statistically significant we found low- to very low-certainty evidence that adherence to dietary patterns lower in red or processed meat was associated with a very small absolute risk reduction in 9 major cardiometabolic and cancer       outcomes (range, 1 fewer to 18 fewer events per 1000 persons), with no statistically significant differences for 21 additional outcomes observed (14).
+ Again, we assessed the risk for adverse cardiometabolic outcomes on the basis of an average of 10.8 years follow-up, and adverse cancer outcomes over a lifetime.In our assessment of causal inferences on unprocessed red meat and processed meat and adverse health outcomes, we found that the absolute effect estimates for red meat and processed meat intake (13, 16) were smaller than those from dietary pattern estimates (14), indicating that meat consumption is unlikely to be a causal factor of adverse health outcomes (Table 1).
+ We anticipated that if unprocessed red meat or processed meat was indeed a causal factor in raising the risk for adverse outcomes, the observed association between unprocessed red and processed meat and adverse outcomes would be greater in studies directly addressing the lowest versus highest intake of unprocessed red or processed meat versus studies in which meat was only one component of a dietary pattern (7, 22).
+ Using our       findings, in our assessment of the certainty of evidence, we did not rate up for dose-response, given the potential for residual confounding (36).
+ The tables in the Supplement show the GRADE summary of findings.Table 1.
+ Causal Inference Assessment Based on Summary of Evidence for Statistically Significant Effects for Red Meat, Processed Meat, and Dietary PatternsEvidence Summary of Health-Related Values and Preferences for MeatOur systematic review on health-related values and preferences yielded 54 articles from Australia, Canada, Europe, and the United States, including 41 quantitative and 13 qualitative studies (17).
+ Omnivores reported enjoying eating meat, considered meat an essential component of a healthy diet, and often felt they had limited culinary skills to prepare satisfactory meals without meat.
+ Participants tended to be unwilling to change their meat consumption.
+ The certainty of evidence was low for “reasons for meat consumption” and low for “willingness to reduce meat consumption” in the face of undesirable health effects, owing to issues of risk of bias (for example, unvalidated surveys), imprecision (small number of participants in qualitative studies), and indirectness (failure to specifically ask about the health benefits that would motivate a reduction in red or processed meat consumption) (Table 2).Table 2.
+ Summary of Findings for Health-related Values and Preferences*Rationale for Recommendations for Red Meat and Processed MeatThe rationale for our recommendation to continue rather than reduce consumption of unprocessed red meat or processed meat is based on the following factors.
+ First, the certainty of evidence for the potential adverse health outcomes associated with meat consumption was low to very low (13–16), supported by the similar effect estimates for red meat and processed meat consumption from dietary pattern studies as from studies directly addressing red meat and processed meat intake (13, 14, 16).
+ Second, there was a very small and often trivial absolute risk reduction based on a realistic decrease of 3 servings of red or processed meat per week.
+ Finally, the panel focused exclusively on health outcomes associated with meat and did not consider animal welfare and environmental issues.
+ Taken together, these observations warrant a weak recommendation to continue current levels of red meat and processed meat consumption.Other ConsiderationsThe panel judged that although for some people in some circumstances, issues of cost, acceptability, feasibility, and equity may be relevant, these issues were not major considerations in making their judgments.
+ Considerations of animal welfare, and particularly of environmental impact, will certainly be important to some individuals; the latter might be of particular importance from a societal perspective (37–41).
+ The panel, at the outset, decided that issues of animal welfare and potential environmental impact were outside the scope of this guideline.DiscussionWe developed recommendations for unprocessed red meat and processed meat by following the NutriRECS guideline development process, which adheres to the Institute of Medicine and GRADE working group standards.
+ On the basis of 4 systematic reviews assessing the harms and benefits associated with red meat and processed meat consumption and 1 systematic review assessing people's health-related values and preferences on meat consumption, we suggest that individuals continue their current consumption of both unprocessed red meat and processed meat (both weak recommendations, low-certainty evidence).Our weak recommendation that people continue their current meat consumption highlights both the uncertainty associated with possible harmful effects and the very small magnitude of effect, even if the best estimates represent true causation, which we believe to be implausible.
+ Despite our findings from our assessment of intake studies versus dietary pattern studies suggesting that unprocessed red meat and processed meat are unlikely to be causal factors for adverse health outcomes (13, 14, 16), this does not preclude the possibility that meat has a very small causal effect.
+ Taken together with other potential causal factors (for example, such preservatives as sodium, nitrates, and nitrites) (42) among dietary patterns with very small effects, this may explain the larger reductions among dietary patterns high in red meat and processed meat (14).
+ The guideline panel's assessment was based on the available evidence regarding values and preferences suggesting that the majority of individuals, when faced with a very small and uncertain absolute risk reduction in cardiometabolic and cancer outcomes, would choose to continue their current meat consumption.
+ People considering a decrease in their meat consumption should be aware of this evidence.Our analysis has several strengths.
+ We conducted 5 separate rigorous systematic reviews addressing both evidence from randomized trials and observational studies regarding the impact of unprocessed red meat and processed meat on cardiovascular and cancer outcomes (13–16), and community values and preferences regarding red meat and processed meat consumption (17).
+ By using the GRADE approach, our reviews explicitly addressed the uncertainty of the underlying evidence.
+ We present results focusing on absolute estimates of effects associated with realistic decreases in meat consumption of 3 servings per week (Tables 4 through 7 in the Supplement), and these estimates informed our recommendations.
+ Our panel included nutrition content experts, methodologists, health care practitioners, and members of the public, and we      minimized conflicts of interest by prescreening panel members for financial, intellectual, and personal conflicts of interest and providing a full account of potential competing interests.Our guideline also has limitations.
+ We considered issues of animal welfare and potential environmental impact to be outside the scope of our recommendations.
+ These guidelines may therefore be of limited relevance to individuals for whom these issues are of major importance.
+ Related to this, we took an individual rather than a societal perspective.
+ Decision makers considering broader environmental issues may reasonably consider evidence regarding the possible contribution of meat consumption to global warming and suggest policies limiting meat consumption on that basis.Regarding the uncertainty of the evidence, randomized trials were limited by the small differences in meat consumption between the intervention and control groups, whereas observational studies were limited in the accuracy of dietary measurement and possible residual confounding related both to aspects of diet other than red meat and processed meat consumption and nondietary confounders, making decisions regarding meat consumption particularly value- and preference-dependent.
+ With respect to our review on dietary patterns, studies did not typically report data separately for red and processed meat.
+ Evidence was also limited in that we found information insufficient to conduct planned subgroup analyses regarding the method      of meat preparation (for example, grilling versus boiling) in terms of possible carcinogenic compounds from grilling, such as polycyclic aromatic hydrocarbons and heterocyclic amines (43).
+ Finally, our panel was not unanimous in its recommendation: Three of the 14 panel members favored a weak recommendation in favor of decreasing red meat consumption.As noted in our introduction, other dietary guidelines and position statements suggest limiting consumption of red and processed meat because of the reported association with cancer (1, 2, 44–46).
+ There are 3 major explanations for the discrepancy between these guidelines and ours.
+ First, other guidelines have not used the GRADE approach for rating certainty of evidence that highlight the low or very low certainty of evidence to support the potential causal nature of the association between meat consumption and health outcomes.
+ As a result, we are less convinced of meat consumption as a cause of cancer.
+ Because of the likelihood of residual confounding (that is, confounding that exists after adjustment for known prognostic factors) the GRADE approach we used for assessing causation considers that, in the absence of a large effect or a compelling      dose–response gradient, observational studies provide only low- or very low-certainty evidence for causation (47, 48).
+ Second, even if one assumes causation, other guidelines have not calculated, or if calculated have not highlighted, the very small magnitude of the absolute adverse effects over long periods associated with meat consumption.
+ Third, other guidelines have paid little or no attention to the reasons people eat meat, and the extent to which they would choose to reduce meat consumption given small and uncertain health benefits.
+ Indeed, no prior dietary guideline has attended with care to evidence bearing on values and preferences, and in particular has not conducted a systematic review addressing the issue.Nutritional guidelines are challenging because each potential source of evidence has substantial limitations.
+ Randomized trials are limited by sample size, duration of follow-up, and the difficulties participants have in adhering to prescribed diets.
+ These limitations make showing an intervention effect very challenging.
+ Observational studies are limited in the inevitable residual confounding (unmeasured differences in prognosis that remain after adjusted analyses).
+ These limitations in randomized trials and observational studies are evident in studies addressing meat consumption and health outcomes.
+ Studies focusing on intermediate outcomes (such as cholesterol and triglyceride levels) have additional limitations, in that changes in biomarkers often fail to deliver the anticipated benefits in patient-important health outcomes.
+ Therefore, our reviews focused only on those outcomes important to patients.
+ Nutritional recommendations must, therefore, acknowledge the      low-certainty evidence and avoid strong “just do it” recommendations that can, as evidenced by the many low-fat recommendations worldwide (9, 12, 49), be very misleading.In terms of how to interpret our weak recommendation, it indicates that the panel believed that for the majority of individuals, the desirable effects (a potential lowered risk for cancer and cardiometabolic outcomes) associated with reducing meat consumption probably do not outweigh the undesirable effects (impact on quality of life, burden of modifying cultural and personal meal preparation and eating habits).
+ The weak recommendation reflects the panel's awareness that values and preferences differ widely, and that as a result, a minority of fully informed individuals will choose to reduce meat consumption.Our studies have implications for future research.
+ Generating higher-certainty evidence regarding the impact of red meat and processed meat on health outcomes would be, were it possible, both desirable and important.
+ It may not, however, be possible.
+ Randomized trials will always face challenges with participants complying with diets that differ sufficiently in meat consumption, adhering to these diets for very long periods, and being available for follow-up over these long periods (12).
+ These challenges are all the more formidable because results of observational studies may well represent the upper boundary of causal effects of meat consumption on adverse health outcomes, and the estimated effects are very small.
+ Observational studies will continue to be limited by challenges of accurate measurement of diet, the precise and accurate measurement of known confounders (50), and the likelihood of residual      confounding after adjusted analyses (13, 14, 16).This assessment may be excessively pessimistic; indeed, we hope that is the case.
+ What is certain is that generating higher-quality evidence regarding the magnitude of any causal effect of meat consumption on health outcomes will test the ingenuity and imagination of health science investigators.References1.
+ U.S. Department of Health and Human Services.
+ 2015-2020 Dietary Guidelines for Americans.
+ Washington, DC U.S. Department of Health and Human Services December 2015.
+ Google Scholar2.
+ Public Health England.
+ The Eatwell Guide.
+ London, UK Public Health England 2016.
+ Google Scholar3.
+ World Cancer Research Fund; American Institute for Cancer Research.
+ Meat, fish and dairy products and the risk of cancer.
+ Continuous Update Project Expert Report 2019.
+ 2019.
+ Accessed at www.wcrf.org/dietandcancer on 16 August 2019.
+ Google Scholar4.
+ International Agency for Research on Cancer Monograph Working Group.
+ Carcinogenicity of consumption of red and processed meat.
+ Lancet Oncol.
+ 2015;16:1599-600.
+ [PMID: 26514947] doi:10.1016/S1470-2045(15)00444-1 CrossrefMedlineGoogle Scholar5.
+ Blake P , 
+      Durão S , 
+      Naude CE , et al.
+ An analysis of methods used to synthesize evidence and grade recommendations in food-based dietary guidelines.
+ Nutr Rev.
+ 2018;76:290-300.
+ [PMID: 29425371] doi:10.1093/nutrit/nux074 CrossrefMedlineGoogle Scholar6.
+ Ioannidis JPA .
+ The challenge of reforming nutritional epidemiologic research.
+ JAMA.
+ 2018;320:969-70.
+ [PMID: 30422271] doi:10.1001/jama.2018.11025 CrossrefMedlineGoogle Scholar7.
+ Johnston BC , 
+      Alonso-Coello P , 
+      Bala MM , et al.
+ Methods for trustworthy nutritional recommendations NutriRECS (Nutritional Recommendations and accessible Evidence summaries Composed of Systematic reviews): a protocol.
+ BMC Med Res Methodol.
+ 2018;18:162.
+ [PMID: 30518328] doi:10.1186/s12874-018-0621-8 CrossrefMedlineGoogle Scholar8.
+ Rabassa M , 
+      Garcia-RiberaRuiz S , 
+      Solà I , et al.
+ J Clin Epidemiol.
+ 2018;104:62-72.
+ [PMID: 30171900] doi:10.1016/j.jclinepi.2018.08.018 CrossrefMedlineGoogle Scholar9.
+ Zeraatkar D , 
+      Johnston BC , and 
+      Guyatt G .
+ Evidence collection and evaluation for the development of dietary guidelines and public policy on nutrition.
+ Annu Rev Nutr.
+ 2019;39:227-47.
+ [PMID: 31433741] doi:10.1146/annurev-nutr-082018-124610 CrossrefMedlineGoogle Scholar10.
+ Brouwers MC , 
+      Kho ME , 
+      Browman GP , et al.
+ AGREE Next Steps Consortium.
+ AGREE II: Advancing guideline development, reporting and evaluation in health care.
+ CMAJ.
+ 2010;182:E839-42.
+ [PMID: 20603348] doi:10.1503/cmaj.090449 CrossrefMedlineGoogle Scholar11.
+ Institute of Medicine; National Academy of Sciences.
+ Practice Guidelines We Can Trust.
+ Washington, DC: National Academies Pr; 2011.
+ Accessed at www.nationalacademies.org on 16 August 2019.
+ Google Scholar12.
+ Johnston BC , 
+      Seivenpiper JL , 
+      Vernooij RWM , et al.
+ The philosophy of evidence-based principles and practice in nutrition.
+ Mayo Clin Proc Innov Qual Outcomes.
+ 2019;3:189-99.
+ [PMID: 31193887] doi:10.1016/j.mayocpiqo.2019.02.005 CrossrefMedlineGoogle Scholar13.
+ Han MA , 
+      Zeraatkar D , 
+      Guyatt GH , et al.
+ Reduction of red and processed meat intake and cancer mortality and incidence.
+ A systematic review and meta-analysis of cohort studies.
+ Ann Intern Med.
+ 2019;171:711-20. doi:10.7326/M19-0699 LinkGoogle Scholar14.
+ Vernooij RWM , 
+      Zeraatkar D , 
+      Han MA , et al.
+ Patterns of red and processed meat consumption and risk for cardiometabolic and cancer outcomes.
+ A systematic review and meta-analysis of cohort studies.
+ Ann Intern Med.
+ 2019;171:732-41. doi:10.7326/M19-1583 LinkGoogle Scholar15.
+ Zeraatkar D , 
+      Johnston BC , 
+      Bartoszko J , et al.
+ Effect of lower versus higher red meat intake on cardiometabolic and cancer outcomes.
+ A systematic review of randomized trials.
+ Ann Intern Med.
+ 2019;171:721-31. doi:10.7326/M19-0622 LinkGoogle Scholar16.
+ Zeraatkar D , 
+      Han MA , 
+      Guyatt GH , et al.
+ Red and processed meat consumption and risk for all-cause mortality and cardiometabolic outcomes.
+ A systematic review and meta-analysis of cohort studies.
+ Ann Intern Med.
+ 2019;171:703-10. doi:10.7326/M19-0655 LinkGoogle Scholar17.
+ Valli C , 
+      Rabassa M , 
+      Johnston BC , et al.
+ Health-related values and preferences regarding meat consumption.
+ A mixed-methods systematic review.
+ Ann Intern Med.
+ 2019;171:742-55. doi:10.7326/M19-1326 LinkGoogle Scholar18.
+ Guyatt GH , 
+      Oxman AD , 
+      Vist GE , et al.
+ GRADE Working Group.
+ GRADE: an emerging consensus on rating quality of evidence and strength of recommendations.
+ BMJ.
+ 2008;336:924-6.
+ [PMID: 18436948] doi:10.1136/bmj.39489.470347.AD CrossrefMedlineGoogle Scholar19.
+ Andrews J , 
+      Guyatt G , 
+      Oxman AD , et al.
+ GRADE guidelines: 14.
+ Going from evidence to recommendations: the significance and presentation of recommendations.
+ J Clin Epidemiol.
+ 2013;66:719-25.
+ [PMID: 23312392] doi:10.1016/j.jclinepi.2012.03.013 CrossrefMedlineGoogle Scholar20.
+ Andrews JC , 
+      Schünemann HJ , 
+      Oxman AD , et al.
+ GRADE guidelines: 15.Going from evidence to recommendation-determinants of a recommendation's direction and strength.
+ J Clin Epidemiol.
+ 2013;66:726-35.
+ [PMID: 23570745] doi:10.1016/j.jclinepi.2013.02.003 CrossrefMedlineGoogle Scholar21.
+ Valli C, Rabassa M, Zeraatkar D, et al.
+ Adults' beliefs, preferences and attitudes about meat consumption: a systematic review protocol.
+ PROSPERO 2018 CRD42018088854.
+ Google Scholar22.
+ Zeraatkar D, Bala M, Webber-Adams T, et al.
+ Red meat and health outcomes: a systematic review.
+ PROSPERO 2017 CRD42017074074.
+ Google Scholar23.
+ World Cancer Research Fund; American Institute for Cancer Research.
+ Food, nutrition, physical activity, and the prevention of cancer: a global perspective.
+ 2007.
+ Accessed at www.wcrf.org/sites/default/files/english.pdf on 26 August 2019.
+ Google Scholar24.
+ Daniel CR , 
+      Cross AJ , 
+      Koebnick C , et al.
+ Trends in meat consumption in the USA.
+ Public Health Nutr.
+ 2011;14:575-83.
+ [PMID: 21070685] doi:10.1017/S1368980010002077 CrossrefMedlineGoogle Scholar25.
+ Statistics Canada.
+ Canadian Community Health Surveys (Nutrition) 2004 and 2015.
+ 2018.
+ Accessed at www.canada.ca/en/health-canada/services/food-nutrition/food-nutrition-surveillance/health-nutrition-surveys/canadian-community-health-survey-cchs/2015-canadian-community-health-survey-nutrition-food-nutrition-surveillance.html on 16 August 2019.
+ Google Scholar26.
+ United Kingdom meat consumption.
+ Results of the National Diet and Nutrition Survey (NDNS) rolling programme for 2014 to 2015 and 2015 to 2016.
+ 2019.
+ Accessed at www.gov.uk/government/statistics/ndns-results-from-years-7-and-8-combined on 16 August 2019.
+ Google Scholar27.
+ Suarez MV, Mañas RJ, Fernández SR, et al.
+ Spanish national dietary survey in adults, elderly and pregnant women.
+ EFSA J.
+ 2016;13.
+ Accessed at https://doi.org/10.2903/sp.efsa.2016.EN-1053 on 16 August 2019.
+ Google Scholar28.
+ Micha R , 
+      Khatibzadeh S , and 
+      Shi P ; Global Burden of Diseases Nutrition and Chronic Diseases Expert Group (NutriCoDE).
+ Global, regional and national consumption of major food groups in 1990 and 2010: a systematic analysis including 266 country-specific nutrition surveys worldwide.
+ BMJ Open.
+ 2015;5:e008705.
+ [PMID: 26408285] doi:10.1136/bmjopen-2015-008705 CrossrefMedlineGoogle Scholar29.
+ GRADEpro GDT: GRADEpro Guideline Development Tool.
+ Hamilton, Ontario, Canada: McMaster University; 2015.
+ Accessed at https://gradepro.org on 16 August 2019.
+ Google Scholar30.
+ Sarwar N , 
+      Gao P , 
+      Seshasai SR , et al.
+ Emerging Risk Factors Collaboration.
+ Diabetes mellitus, fasting blood glucose concentration, and risk of vascular disease: a collaborative meta-analysis of 102 prospective studies.
+ Lancet.
+ 2010;375:2215-22.
+ [PMID: 20609967] doi:10.1016/S0140-6736(10)60484-9 CrossrefMedlineGoogle Scholar31.
+ Ferlay J , 
+      Soerjomataram I , 
+      Dikshit R , et al.
+ Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012.
+ Int J Cancer.
+ 2015;136:E359-86.
+ [PMID: 25220842] doi:10.1002/ijc.29210 CrossrefMedlineGoogle Scholar32.
+ Lewin S , 
+      Bohren M , 
+      Rashidian A , et al.
+ Applying GRADE-CERQual to qualitative evidence synthesis findings-paper 2: How to make an overall CERQual assessment of confidence and create a Summary of Qualitative Findings table.
+ Implement Sci.
+ 2018;13:10.
+ [PMID: 29384082] doi:10.1186/s13012-017-0689-2 CrossrefMedlineGoogle Scholar33.
+ Alonso-Coello P , 
+      Oxman AD , 
+      Moberg J , et al.
+ GRADE Working Group.
+ GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices.
+ 2: Clinical practice guidelines.
+ BMJ.
+ 2016;353:i2089.
+ [PMID: 27365494] doi:10.1136/bmj.i2089 CrossrefMedlineGoogle Scholar34.
+ Haider LM , 
+      Schwingshackl L , 
+      Hoffmann G , et al.
+ The effect of vegetarian diets on iron status in adults: a systematic review and meta-analysis.
+ Crit Rev Food Sci Nutr.
+ 2018;58:1359-74.
+ [PMID: 27880062] doi:10.1080/10408398.2016.1259210 CrossrefMedlineGoogle Scholar35.
+ Kersting M , 
+      Kalhoff H , 
+      Melter M , et al.
+ [Vegetarian diets in children?—an assessment from pediatrics and nutrition science].
+ Dtsch Med Wochenschr.
+ 2018;143:279-86.
+ [PMID: 29471576] doi:10.1055/s-0043-119864 CrossrefMedlineGoogle Scholar36.
+ Fewell Z , 
+      DaveySmith G , and 
+      Sterne JA .
+ The impact of residual and unmeasured confounding in epidemiologic studies: a simulation study.
+ Am J Epidemiol.
+ 2007;166:646-55.
+ [PMID: 17615092] CrossrefMedlineGoogle Scholar37.
+ Clonan A , 
+      Wilson P , 
+      Swift JA , et al.
+ Red and processed meat consumption and purchasing behaviours and attitudes: impacts for human health, animal welfare and environmental sustainability.
+ Public Health Nutr.
+ 2015;18:2446-56.
+ [PMID: 25766000] doi:10.1017/S1368980015000567 CrossrefMedlineGoogle Scholar38.
+ Godfray HCJ , 
+      Aveyard P , 
+      Garnett T , et al.
+ Meat consumption, health, and the environment.
+ Science.
+ 2018;361.
+ [PMID: 30026199] doi:10.1126/science.aam5324 CrossrefMedlineGoogle Scholar39.
+ Pimentel D  and 
+      Pimentel M .
+ Sustainability of meat-based and plant-based diets and the environment.
+ Am J Clin Nutr.
+ 2003;78:660S-3S.
+ [PMID: 12936963] doi:10.1093/ajcn/78.3.660S CrossrefMedlineGoogle Scholar40.
+ Sanchez-Sabate R  and 
+      Sabaté J .
+ Consumer attitudes towards environmental concerns of meat consumption: a systematic review.
+ Int J Environ Res Public Health.
+ 2019;16.
+ [PMID: 30959755] doi:10.3390/ijerph16071220 CrossrefMedlineGoogle Scholar41.
+ Springmann M , 
+      Clark M , 
+      Mason-D’Croz D , et al.
+ Options for keeping the food system within environmental limits.
+ Nature.
+ 2018;562:519-25.
+ [PMID: 30305731] doi:10.1038/s41586-018-0594-0 CrossrefMedlineGoogle Scholar42.
+ Etemadi A , 
+      Sinha R , 
+      Ward MH , et al.
+ Mortality from different causes associated with meat, heme iron, nitrates, and nitrites in the NIH-AARP Diet and Health Study: population based cohort study.
+ BMJ.
+ 2017;357:j1957.
+ [PMID: 28487287] doi:10.1136/bmj.j1957 CrossrefMedlineGoogle Scholar43.
+ Sinha R , 
+      Peters U , 
+      Cross AJ , et al.
+ Meat, meat cooking methods and preservation, and risk for colorectal adenoma.
+ Cancer Res.
+ 2005;65:8034-41.
+ [PMID: 16140978] CrossrefMedlineGoogle Scholar44.
+ Nordic Council of Ministers.
+ Nordic Nutrition Recommendations 2012: Integrating Nutrition and Physical Activity.
+ Copenhagen Nordisk Ministerråd 2012.
+ Google Scholar45.
+ Health Canada.
+ Canada's Dietary Guidelines for Health Professionals and Policy Makers.
+ 2019.
+ Accessed at https://food-guide.canada.ca/static/assets/pdf/CDG-EN-2018.pdf on 16 August 2019.
+ Google Scholar46.
+ International Agency for Research in Cancer.
+ Monographs on the Evaluation of Carcinogenic Risks to Humans.
+ Red and Processed Meat.
+ Vol 114.
+ Lyon, France: International Agency for Research in Cancer; 2015.
+ Accessed at https://monographs.iarc.fr/wp-content/uploads/2018/06/mono114.pdf on 16 August 2019.
+ Google Scholar47.
+ Balshem H , 
+      Helfand M , 
+      Schünemann HJ , et al.
+ GRADE guidelines: 3.Rating the quality of evidence.
+ J Clin Epidemiol.
+ 2011;64:401-6.
+ [PMID: 21208779] doi:10.1016/j.jclinepi.2010.07.015 CrossrefMedlineGoogle Scholar48.
+ Guyatt GH , 
+      Oxman AD , 
+      Sultan S , et al.
+ GRADE Working Group.
+ GRADE guidelines: 9.
+ Rating up the quality of evidence.
+ J Clin Epidemiol.
+ 2011;64:1311-6.
+ [PMID: 21802902] doi:10.1016/j.jclinepi.2011.06.004 CrossrefMedlineGoogle Scholar49.
+ Ludwig DS .
+ Lowering the bar on the low-fat diet.
+ JAMA.
+ 2016;316:2087-8.
+ [PMID: 27681384] doi:10.1001/jama.2016.15473 CrossrefMedlineGoogle Scholar50.
+ Patel CJ , 
+      Burford B , and 
+      Ioannidis JP .
+ Assessment of vibration of effects due to model specification can demonstrate the instability of observational associations.
+ J Clin Epidemiol.
+ 2015;68:1046-58.
+ [PMID: 26279400] doi:10.1016/j.jclinepi.2015.05.029 CrossrefMedlineGoogle ScholarThis article was published at Annals.org on 1 October 2019.
+ Comments0 CommentsSign In to Submit A Comment    Barbara Hansen, PhDUniversity of South Florida31 January 2020 Thank you I am a former president of the Obesity Society, and the American Society for Nutrition, and the International Association for the Study of Obesity, and a current and longstanding member of the National Academy of Medicine.
+ I am writing to THANK YOU for proceeding with the publication in Annals of the articles questioning the prior evidence related to "meat".
+ Rita Rubin writing a perspective in JAMA did a great job of explaining the actual history of those articles.
+ I can only say CHEERS to you.
+ Those calling for the prevention of publication of those articles themselves have huge conflicts of interest and are not able to provide science based evidence for their views, only hyperbole and opinions.
+ YOU did GREAT.
+ THANK YOU!
+ Barbara C Hansen, Professor of Internal Medicine and Pediatrics, University of South Florida   Emi Okomoto, MDNone31 December 2019 Comment I want to express my deep disappointment on reading the series of articles on red meat (11/2019).
+ While the data was helpful to report, the interpretation feels misleading and detrimental to the population.
+ There is a clear reduction in valuable endpoints.
+ If Americans adopted similar reductions, we would prevent hundreds of thousands of cardiometabolic outcomes.
+ A relatively small shift in diet likely can save as many lives as a statin; look how much praise and publicity we give statins!
+ Please, pay more attention to the data and do not downplay significant and potentially very impactful results based on the current environment.
+ We must stand tall behind the data and announce results that we use to benefit the population, even when it is not popular.
+ This was extremely disappointing that we have released what I believe to be frankly harmful guidance.
+ Actions like these by the ACP leave me questioning my membership.
+ Carpe Diem, Emi Okamoto, MD   Bradley C. Johnston, Dena Zeraatkar, Mi Ah Han, Robin W.M.
+ Vernooij, Claudia Valli, Regina El Dib, Catherine Marshall, Patrick J. Stover, Susan Fairweather-Taitt, Grzegorz Wojcik, Faiz Bhatia, Russell de Souza, Carlos Brotons, Joerg J. Meerpohl, Chirag J. Patel, Benjamin Djulbegovic, Pablo Alonso-Coello, Malgorzata M. Bala, Gordon H. GuyattNutriRECS consortium25 October 2019 Get your facts first, then you can distort them as you please In response to Dr. Rosenfeld’s comments, we believe the issue at hand should be argued not on the basis of who was on the panel, but whether the panel judgements were appropriate.
+ From the individual perspective we took: 1) any effects of red or processed meat on health outcomes are uncertain, 2) if there are adverse health effects, they are very small, and 3) our systematic review of peoples’ values and preference suggests that for many reasons people are attached to their red and processed meat consumptions and that, when confronted with very small and uncertain benefits of reducing meat consumption, most fully informed individuals, considering only health effects, would choose to continue their current meat consumption.
+ Perhaps the panel was wrong in this inference, but it seems clear to us that it was not an unreasonable inference.Having said all that, our process for selecting panelists addressed many important issues including panelist representation across seven countries, and a priori screening for important and relevant financial and intellectual conflicts of interest, methods that we believe represents an advancement in the field of dietary guidelines.
+ The focus of our recommendations was on individual health outcomes and we believe that each of the 14 panelists could be objective about health outcome data, irrespective of their personal dietary habits.
+ Dietary habits of the five remaining guideline authors, all of whom managed the supporting systematic reviews or the survey of panelists, were not relevant as they did not vote on the red and processed meat recommendations.
+ We acknowledge that unconscious bias or opinions that may have been uncomfortable to share could have influenced decisions, but such a phenomenon is difficult to measure, and always possible so long as humans make health care decisions.We did take measures to elicit opinions that panelists may have been uncomfortable sharing in group meetings.
+ To move from the evidence to recommendations, we used the GRADE Evidence to Decision frameworks (1,2) to survey our panel members independently using Survey Monkey.
+ Using the frameworks, we conducted three surveys asking panelists to consider the summary evidence, and its certainty for harms, benefits and health-related values and preferences.
+ One survey sought to understand the panels independent recommendations prior to panel meeting #4, one survey was in real-time during panel meeting #4 to get the aggregate vote to potentially generate further discussion, a method to try and elicit opinions that individuals may have been uncomfortable sharing directly in the meeting, and one survey after panel meeting #4 to assess the process.1.
+ Alonso-Coello P, Schünemann HJ, Moberg J, et al.
+ GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices.
+ 1: Introduction.
+ BMJ.
+ 2016 Jun 28;353:i2016.
+ 2.
+ Alonso-Coello P, Oxman AD, Moberg J, et al.
+ GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices.
+ 2: Clinicalpractice guidelines.
+ BMJ.
+ 2016 Jun 30;353:i2089.
+ Richard M. Rosenfeld, MD, MPH, MBASUNY Downstate Medical Center, Brooklyn, NY, USA8 October 2019 Get your facts first, then you can distort them as you please In the context of Mark Twain’s suggestion “Get your facts first, then distort them as you please,” one could view the meat dietary recommendations by Johnston and colleagues (1) as a potential distortion of the evidentiary facts from the supporting systematic reviews.Trustworthy systematic reviews are the foundation for guideline recommendations, offering bottom -line objective facts (e.g., pooled estimates of effect size) qualified by estimates of precision, certainty, and directness.
+ A dirty little secret of all guideline panels, even those that follow the highly regarded GRADE process, is that consensus plays a large role in shaping the outcome (2): all evidence, including systematic reviews, must be interpreted by the panelists, who then craft recommendations reflecting the group’s values, priorities, and preferences.
+ Ideally, the value judgments that underlie each recommendation are explicitly stated in the guideline (3).Value judgments can be shaped by conflicts of interest, which should be disclosed for all panelists as active, inactive, financial, or intellectual (4).
+ To the credit of the 14 meat guideline panelists, they go beyond this in the Appendix Table at the end of the guideline (1) and state meat dietary preferences: 93% regularly consume red meat, 86% regularly consume processed meat, and only 1 panelist was a non-meat eater (pescatarian).
+ Unfortunately, there are 19 authors, so the dietary patterns, and other disclosures, for the 5 authors who were not panelists is unclear.Even if conflicts are fully disclosed, not having vegetarian or vegan panelists raises serious concerns of inadequate viewpoint diversity, leading to unintentional “distortion” of facts in formulating the guideline scope, key questions, recommendation wording, and recommendation strength.
+ Without viewpoint diversity, “problematic assumptions can go unchallenged, and it can be difficult to effectively understand or engage with others who have different backgrounds, priors, and commitments (5).” The process of reaching consensus may have progressed very differently if the panel had balanced and diverse viewpoints from meat-eaters, flexitarians, vegetarians, and whole food plant-based vegans.
+ Hopefully future guidance from the NutriRECS Consortium will have greater respect for viewpoint diversity as a prerequisite for fair, balanced, and credible consensus.References1.
+ Johnston BC, Zeraatkar D, Han MA, et al.
+ Unprocessed red meat and processed meat consumption: dietary guideline recommendations from the NutriRECS Consortium.Ann Int Med [Epub ahead of print 1 October 2019] doi: 10.7326/M19-1621.2.
+ Djulbegovic B, Guyatt G. Evidence vs. consensus in clinical practice guidelines.
+ JAMA 2019; 322:725-6.3.
+ Rosenfeld RM, Shiffman RN, Robertson P. Clinical practice guideline development manual, third edition: a quality-drive approach for translating evidence into action.
+ Otolaryngol Head Neck Surg 2013; 148 (Suppl 1):S1-S55.4.
+ Qaseem A, Wilt TJ; for the Clinical Guidelines Committee of the American College of Physicians.
+ Disclosure of interests and management of conflict of interest in clinical guidelines and guidance statements: methods from the Clinical Guidelines Committee of the American College of Physicians.
+ Ann Intern Med 2019; 171:354-61.5.
+ Heterodox Academy.
+ The Problem.
+ https://heterodoxacademy.org/the-problem/.
+ Accessed 10/6/19.
+ Disclosures: Whole food, plant-based diet Founder and Chair, SUNY Downstate Committee on Plant-based Health and Nutrition   Bradley C. Johnston, Dena Zeraatkar, Robin W.M.
+ Vernooij, Montserrat Rabassa, Claudia Valli, Mi Ah Han, Pablo Alonso-Coello, Malgorzata M. Bala, Gordon H. GuyattDalhousie University, McMaster University, and Texas A&M; University14 February 2020 Authors' Final Response  Environmental impact We share Dr. Meyer’s environmental concerns, but have a different perspective on the role of individual autonomy in the shared decision-making process, and in the role of a guideline panel.
+ Guideline panels should be fully informed of the best available evidence regarding all the issues that bear on their recommendations.
+ In our guideline, we exclusively assessed the relation between meat and health outcomes.
+ Producing recommendations regarding meat that take into account environmental concerns would require knowledge of the relative contribution of meat consumption versus other contributors to climate change.
+ That would require systematic reviews of the relevant evidence, which was beyond the scope of our work and resources – and indeed, of our expertise.
+ Implicit in Dr. Meyer’s position is that guideline developers – and other physicians – are entitled or perhaps even obligated to base recommendations on their own moral stances.
+ We, instead, followed  standards for the development of guidelines that require basing recommendations on the beliefs and values of the target population (1,2).
+ Composition of panel Dr. Rosenfeld suggests that the lack of perspective from vegans on the guideline panel likely explains our (weak) recommendation to continue red and processed meat consumption.
+ His point presupposes that panelists were unable to faithfully carry out their mandate to put aside their own views regarding meat consumption and to make their recommendation based on their view of what a group of fully informed individuals in the population of interest (those that consume meat) would choose.
+ Indeed, if vegans were on the panel and substituted their values for that of the population for whom we made recommendations, they would have failed in carrying out their role.
+ We believe that all panelists made an effort to carry out their mandate.
+ In addition, our process for selecting panelists addressed many important issues including panelist representation across seven countries, and a priori screening for important and relevant financial and intellectual conflicts of interest.
+ We believe these methods represent an advance in the field of dietary guidelines.
+ Food replacement analysis Dr. Rosenfeld makes a good point regarding considering what nutrients those reducing red meat might choose as replacements.
+ Our judgment, however, was that the available evidence, largely based on modeling data in observational studies, is insufficient to develop helpful recommendations regarding replacement nutrients.
+ Further, replacement analysis makes assumptions (e.g., linearity between nutrients, foods and health outcomes and that all foods and nutrients are accounted for in the analyses) that are rarely justified.
+ Replacement analysis might make for a productive issue for a future guideline to address, particularly if randomized trials exist that replace nutrients while following participants for important health outcomes (e.g.
+ major cardiometabolic events).
+ Epidemiology vs evidence-based medicine To address Dr. Westman’s comments, we put forward that clinical epidemiology is the basic science that informs evidence-based medicine (EBM).
+ We agree that unlike the clinical epidemiology community (2-5), in general the epidemiology community, and in particular the nutritional epidemiology community, often have different views on interpreting the certainty of evidence and making causal inferences (6,7).
+ In 2000 a group comprised primarily of clinical epidemiologists set out to produce a systematic, transparent framework for those producing systematic reviews and practice guidelines.
+ The group subsequently expanded to include representation from the wider scientific community, including epidemiologists, and developed and refined “GRADE” (3), a framework now in use by over 110 health care organizations worldwide (e.g.
+ World Health Organization, Joanna Briggs Institute, Cochrane Collaboration), organizations that regularly conduct evidence synthesis work of observational studies.
+ GRADE guidance suggests a weak recommendation when the certainty of evidence is low, which is generally the case when the evidence base comes from observational studies.
+ Unlike strong “just do it” recommendations, weak recommendations call for shared decision-making based on the totality of evidence on potential harms, benefits, and when relevant, values and preferences, costs and burden.
+ E-values to address causation We were interested to learn from Dr. Gong and colleagues about E-value calculations as a statistical method to demonstrate the susceptibility of observational studies to unmeasured confounding, and how these values can be used to estimate how strong any unmeasured confounders would have to be to nullify our pooled results from our systematic reviews of cohort studies.
+ Although we have not explored E-values, if the estimates that Gong et al.
+ have reported are trustworthy, then the values corroborate the GRADE approach for assessing the certainty of evidence for observational data on an outcome by outcome basis.
+ That is, based on the identified cohort data in our systematic reviews, the certainty of evidence is low to very low across approximately 90 outcomes, indicating that a causal relationship between red and processed meat and health outcomes is unlikely.
+ It is plausible that a host of other confounders, including known but poorly measured confounders (e.g.
+ lifestyle) and unknown confounders (e.g.
+ genetic), might explain the observed risk reductions among those that consume three fewer servings of meat per week.
+ Grading the evidence in nutrition research Finally, regarding the issues raised by Wan and Wang on the use of GRADE in nutrition research, we refer the reader to the accompanying response by Zeraatkar et al.
+ (8) REFERENCES 1.
+ Dedios CM, Esperato A, De-Regli LM, Peña-Rosas JP, Norris SL.
+ Improving the adaptability of WHO evidence-informed guidelines for nutrition actions: results of a mixed methods evaluation.
+ Implement Sci.
+ 2017; 12(1): 39.
+ 2.
+ Johnston BC, Seivenpiper JL, Vernooij RWM, et al.
+ The Philosophy of Evidence-Based Principles and Practice in Nutrition.
+ Mayo Clin Proc Innov Qual Outcomes.
+ 2019 May 27;3(2):189-199. doi: 10.1016/j.mayocpiqo.2019.02.005.
+ 3.
+ Guyatt GH, Oxman AD, Vist GE, et al.
+ GRADE: an emerging consensus on rating quality of evidence and strength of recommendations.
+ BMJ.
+ 2008;336(7650):924-6.
+ 4.
+ Johnston BC, Alonso-Coello P, Bala MM, et al.
+ Methods for trustworthy nutritional recommendations NutriRECS (Nutritional Recommendations and accessible Evidence summaries Composed of Systematic reviews): a protocol.
+ BMC Med Res Methodol.
+ 2018;18:162.
+ 5.
+ Zeraatkar D, Johnston BC, Guyatt G. Evidence Collection and Evaluation for the Development of Dietary Guidelines and Public Policy on Nutrition.
+ Annu Rev Nutr.
+ 2019 Aug 21;39:227-247.
+ 6.
+ Katz DL, Karlsen MC, Chung M, et al.
+ Hierarchies of evidence applied to lifestyle medicine (HEALM): introduction of a strength-of-evidence approach based on a methodological systematic review.
+ BMC Med Res Methodol.
+ 2019 Dec 1;19(1):178.
+ 7.
+ Johnston BC, Guyatt GH.
+ Causal inference, interpreting and communicating results on red and processed meat.
+ Amer J Clin Nutri.
+ 2020 (accepted).
+ 8.
+ Zeraatkar D, Guyatt GH, Alonso-Coello P, et al.
+ The application of GRADE to nutritional epidemiology is appropriate.
+ Ann Intern Med.
+ 2020 (accepted).
+ Disclosures: BCJ, MM, PAC, and GG are members of the GRADE working group.
+ The work cited in Annals for Internal Medicine on red and processed meat was unfunded.
+ As part of his recent recruitment to Texas A&amp;M University, BCJ receives funds from Texas A&amp;M AgriLife Research to support investigator-initiated research related to saturated and polyunsaturated fats.
+ Support from Texas A&amp;M AgriLife institutional funds are from interest and investment earnings, not a sponsoring organization, industry, or company.
+ BCJ also received funding in 2015 (outside the 36-month ICJME reporting period) from the International Life Science Institute (North America) to assess the methodological quality of guidelines addressing sugar intake using internationally accepted GRADE and AGREE guideline standards.
+ The authors of the study on sugar guidelines conducted the study independently without involvement of the funder.
+ Richard M. Fleming, PhD, MD, JD; Matthew R. Fleming, BS, NRP; Tapan K. Chaudhuri, MDFHHI-OI-Camelot; Eastern Virginia Medical School11 February 2020 Diets, Inflammation and Heart Disease - From 20/20 to 2020.
+ Comparisons of recent publications by Zhong [1], Rubin [2], and Johnston [3] would suggest that our current understanding - surrounding the impact of diets and heart disease – has left us with little more than a food fight [4].
+ It is well established that cholesterol plays an important role in the development of the inflammatory tissue process known as coronary artery disease [5,6].
+ It is incorrect to say that coronary artery disease is an inflammatory process and that cholesterol is unimportant – as cholesterol is defined as one of the contributing factors to the inflammatory process described in the “Inflammation and Heart Disease” theory itself [5,6].
+ Measurement of changes in inter alia weight, cholesterol, CRP, fibrinogen, and homocysteine, alone without measurement of the actual tissue impact – viz.
+ More than 20-years after the introduction of the “Inflammation and Heart Disease” Theory, we have yet to conduct the research needed to understand the changes occurring in tissue of the coronary arteries following specific dietary practices.
+ References:1.
+ Zhong VW, Van Horn L, Greenland P, et al.
+ Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality.
+ JAMA Intern Med.
+ Published online February 03, 2020. doi:10.1001/jamainternmed.2019.69692.
+ Rubin R. Backlash Over Meat Dietary Recommendations Raises Questions About Corporate Ties to Nutrition Scientists.
+ JAMA.
+ Published online January 15, 2020. doi:10.1001/jama.2019.21441.3.
+ Johnston BC, Zeraatkar D, Han MA, et al.
+ Unprocessed Red Meat and Processed Meat Consumption: Dietary Guideline Recommendations From the Nutritional Recommendations (NutriRECS) Consortium.
+ Ann Intern Med 2019.
+ DOI: 10.7326/M19-1621.4.
+ Dyer O.
+ Food fight: controversy over red meat guidelines rumbles on.
+ BMJ 2020;368, doi.org/10.1136/bmj.m3975.
+ Fleming RM.
+ Chapter 64.
+ The Pathogenesis of Vascular Disease.
+ Textbook of Angiology.
+ John C. Chang Editor, Springer-Verlag New York, NY.
+ 1999, pp.
+ 787-798.
+ 6.
+ 20/20 special on Inflammation and Heart Disease.
+ The Fleming Method for Tissue and Vascular Differentiation and Metabolism (FMTVDM) using same state single or sequential quantification comparisons.
+ Patent Number 9566037.
+ Issued 02/14/2017.
+ Disclosures: FMTVDM Issued to First Author.
+ Lorraine TosielloCenter for Comprehensive Health Practice and VNCJ Asbury Park Community Health Center25 November 2019 A lot of Malarkey That the Annals Clinical Guideline should promote that "adults continue current unprocessed red meat consumption" because of "low to very low certainty of evidence" that reduction reduces mortality, cardiovascular events and cancer mortality is a lot of malarkey!
+ I refer the authors back to Table 1 of the guideline, where we see that 4 cardiac events per 1000 people over 10.8 years would be averted, as would 12 new onsets of diabetes.
+ That is cumulatively 16 individuals afforded better health outcomes out of every 1000, using a lifestyle intervention.
+ Calculated across the entire US population, this would calculate to, and indeed has been, a major public health intervention!
+ In addition, in 2019, I challenge the authors to find individuals who can even reduce their consumption by three servings per week.
+ I know very few people who have three servings of processed or unprocessed red meat in a week.Thank goodness with the wording of this guideline, I can continue to tell them to do what they have been doing!
+ Bradley C. Johnston, Dena Zeraatkar, Mi Ah Han, Robin W.M.
+ Vernooij, Claudia Valli, Regina El Dib, Catherine Marshall, Patrick J. Stover, Susan Fairweather-Taitt, Grzegorz Wojcik, Faiz Bhatia, Russell de Souza, Carlos Brotons, Joerg J. Meerpohl, Chirag J. Patel, Benjamin Djulbegovic, Pablo Alonso-Coello, Malgorzata M. Bala, Gordon H. GuyattNutriRECS consortium 25 October 2019 A public health versus individual patient perspective for red meat recommendations In response to Dr. Bergdahl’s comments, the fundamental issue is whether one takes a public health or individual patient perspective.
+ A very small benefit for an individual becomes an impressive sounding benefit when one multiplies it by a few million people.
+ Our perspective was for the individual rather than the population which we made clear repeatedly.
+ It is an important philosophical or ethical question whether one should frame harms or benefits with respect to individual autonomy, in which case the uncertain benefit is very small, or multiply by a few million, in which case – the still uncertain benefit – looks much larger.
+ Each perspective has its merits, but both are based on uncertain benefit to the individual (or population).
+ The author’s point is that a very small benefit for an individual can look impressive if framed in terms of a population.
+ Whether decisions should be left to the fully informed individual who sees a very small benefit, or to a public health official who sees a large benefit, is a fundamental matter of a philosophical approach to health care decision-making.
+ However, given the uncertainty, we believe that if public health officials make a recommendation, the public should be aware of the degree of uncertainty.
+ Using the internationally recognized GRADE approach, we issued a weak recommendation that most people, but not all, continue their red and processed meat consumption.
+ Andrews JC, Schünemann HJ, Oxman AD, et al.
+ GRADE guidelines: 15.
+ Going from evidence to recommendation-determinants of a recommendation's direction and strength.
+ J Clin Epidemiol.
+ 2013 Jul;66(7):726-35.2.
+ Hultcrantz M, Rind D, Akl EA, et al.
+ The GRADE Working Group clarifies the construct of certainty of evidence.
+ J Clin Epidemiol.
+ 2017 Jul;87:4-13.3.
+ Alper BS, Oettgen P, Kunnamo I, et al; GRADE Working Group.
+ Defining certainty of net benefit: a GRADE concept paper.
+ BMJ Open.
+ 2019 Jun 4;9(6):e027445.4.
+ Johnston BC, Alonso-Coello P, Bala MM, et al.
+ Methods for trustworthy nutritional recommendations NutriRECS (Nutritional Recommendations and accessible Evidence summaries Composed of Systematic reviews): a protocol.
+ BMC Med Res Methodol.
+ 2018 Dec 5;18(1):162.
+ Chan School of Public Health15 October 2019 Grading the Evidence in Nutrition Research TO THE EDITOR: We read with interest the work conducted by Johnston and colleagues who performed a series of systematic reviews regarding meat consumption and made dietary guideline recommendations based on these systematic reviews (1).
+ We appreciated the heated discussion of meat consumption brought by the authors.
+ However, we are concerned about the evidence grading system adopted in the dietary guideline development process.The authors used GRADE (Grading of Recommendations, Assessment, Development and Evaluation) approach to rate the quality of evidence and grade strength of recommendations.
+ The GRADE method was mainly developed for recommendations in clinical practice guidelines which provide clinicians and patients with a guide to using those recommendations in clinical practice and policymakers with a guide to their use in health policy (2).
+ In the GRADE approach, randomized controlled trials (RCTs) start as high-quality evidence and observational studies as low-quality evidence.
+ At least two concerns will arise when applying the GRADE method directly to nutrition research.
+ First, not all questions in the nutrition field can be examined via RCTs due to ethical constraints.
+ The authors conducted a systematic review of randomized trials on red meat intake as well.
+ However, none of the trials included in this systematic review directly investigated processed meat intake.
+ The authors also performed a meta-analysis of cohorts and found the association between processed meat consumption and adverse outcomes, although authors argued that the magnitude was small, and the evidence was downgraded to low certainty due to observational design (3).
+ Thus, it may not be ethically feasible to conduct a trial or achieve a large gradient in processed meat consumption between intervention groups in trials.
+ Second, for ethically feasible RCTs in nutrition research, they may have inherent methodologic constraints, including small sample size, lack of blinding, poor compliance, high dropout rates, and insufficient follow-up time (4).
+ These methodologic constraints will lower the quality of RCTs when applying GRADE.Therefore, in the field of nutrition research, where RCTs are constrained, well-designed prospective cohort studies can provide important evidence and should be given enough weight when developing dietary guidelines.
+ Criteria for a grading system in nutrition research should also take nutrition-specific aspects (such as dietary assessment methods and their validation, or calibration of FFQs) into account.
+ Good examples of modified criteria for nutrition research are NutriGRADE scoring system (4), and the criteria developed by the World Cancer Research Fund (5).
+ 1.
+ Johnston BC, Zeraatkar D, Han MA, et al.
+ Unprocessed red meat and processed meat consumption: dietary guideline recommendations.
+ Ann Intern Med.
+ 1 October 2019 [Epub ahead of print].
+ doi:10 .7326/M19-16212.
+ Guyatt G, Oxman AD, Akl EA, et al.
+ GRADE guidelines: 1.
+ Introduction—GRADE evidence profiles and summary of findings tables.
+ J Clin Epidemiol.
+ 2011;64(4):383-94.3.
+ Zeraatkar D, Han HA, Guyatt GH, et al.
+ Red and processed meat consumption and risk for all-cause mortality and cardiometabolic outcomes.
+ A systematic review and meta-analysis of cohort studies.
+ Ann Intern Med.
+ 1 October 2019 [Epub ahead of print].
+ doi:10.7326 /M19-06554.
+ Schwingshackl L, Knüppel S, Schwedhelm C, et al.
+ Perspective: NutriGrade: a scoring system to assess and judge the meta-evidence of randomized controlled trials and cohort studies in nutrition research.
+ Adv Nutr.
+ 2016;7(6):994-1004.5.
+ World Cancer Research Fund/American Institute for Cancer Research.
+ Continuous Update Project Expert Report 2018.
+ Judging the evidence.
+ Available at dietandcancerreport.org   Cynthia L. Gong, PharmD, PhD,1,2 Nadine K. Zawadzki, MPH,3 Roy Zawadzki,4 Jeffrey Tran, MD,2 Joel W. Hay, MA, MPhil, PhD3 1, 2, 3 University of Southern California 4 California Polytechnic State University16 October 2019 The Association Between Red Meat Consumption and Adverse Outcomes is Unlikely to be Causal The NutriRECS panel sought to clarify the relationship between meat consumption and health, noting that the 2015–2020 Dietary Guidelines for Americans recommend limiting red meat intake (including processed meat) to ~1 weekly serving.1,2 Similarly, The World Health Organization International Agency for Research on Cancer has indicated that red meat is “probably carcinogenic”, and processed meat “carcinogenic” to humans.3 These recommendations are based on observational studies at high risk for confounding, thus limiting causal inferences.
+ NutriRECS conducted a rigorous systematic review focusing on cardiovascular and cancer outcomes, concluding that adults continue their current unprocessed red meat consumption and processed meat consumption (both weak recommendations, low-certainty evidence).1 We support the authors’ conclusions, and suggest an additional approach through which they might demonstrate observational studies’ susceptibility to unmeasured confounding.
+ This approach is E-value analysis, which addresses the specific question: How strong would any unmeasured confounding have to be to negate the observed results?4 We calculated E-values for all studies included in the review (Supplemental Tables 1-9) to verify the validity of these recommendations.
+ We found that of all 93 outcomes assessed, none had an E-value confidence interval bound greater than 2.5, implying that even for those outcomes with the highest E-values (i.e.
+ gallbladder cancer, 5.0, extrahepatic cancer, 4.31, pancreatic cancer, 3.97), an unobserved confounder 2.5 times more likely to be associated with these cancers and meat intake would nullify any observed effect.
+ These might include, for example, alcohol, smoking, and environmental pollutants.
+ Furthermore, all cardiovascular outcomes assessed had an E-value of 70% of all antimicrobials sold on Earth].
+ (1) Climate change due to GHG from factory farming will result in humans suffering intense heatwaves, drought, water stress, food shortages, heavy rains/storms, fires, coastal flooding, changes in vector-borne diseases, with climate refugees, and potential for ecosystems collapse as tipping points are reached.
+ (2) The rise of ISIS can be attributed to climate change, and other climate wars are expected.
+ (3) These effects on the morbidity and mortality of individuals now and in the future were ignored.Factory farming involves industrialized abuse of billions of sentient non-human land-animals every year [&gt;300 killed every single second in the United States alone].
+ This causes unfathomable suffering from un-anesthetized mutilations [e.g., castration, tail-docking, beak-trimming, de-horning, etc.
+ ], extreme confinement, overcrowding, fear, frustration, and pain, ended in childhood by far-too-often conscious slaughter.
+ (4) Other than assertions of bare speciesism, and as shown by the argument from species overlap, there is no morally acceptable reason to justify humans in paying for this immense suffering only to satisfy a taste for animal ‘products’.
+ (4,5) Just as the enjoyment and tradition of human slavery cannot be considered to make owning human slaves a permissible choice, so enjoyment and tradition cannot make supporting the oppression of factory farmed non-human animals a permissible choice.
+ These effects on the suffering and killing of sentient individuals were ignored.
+ Physicians serve as role-models, advocates, and experts in the service of health.
+ The missed opportunity to improve and save the lives of untold humans (of this and future generations) and sentient non-human animals is a tragedy.
+ A dose-reduction of 3 servings/week of unprocessed red-meat or processed meat reduced all-cause, cancer, and cardiovascular mortality, stroke, myocardial infarction, and type-2 diabetes, with relative risks from 0.90-0.95.
+ The public health effects are large, and no harms were identified.
+ The rational recommendation is to end the support for factory farming entailed in the consumption of animals.
+ References1.
+ Goodland R, Anhang J. Livestock and climate change: what if the key actors in climate change are cows, pigs, and chicken?
+ World Watch.
+ 2009; November/December:10-19.
+ Hoegh-Guldberg O, Jacob D, Taylor M, Guillen Bolanos T, Bindi M, Brown S, et al.
+ The human imperative of stabilizing global climate change at 1.5ᵒ C. Science 2019;365:eaaw6974.
+ 3.
+ Kelley CP, Mohtadi S, Cane MA, Seager R, Kushnir Y.
+ Climate change in the Fertile Crescent and implications of the recent Syrian drought.
+ Proc Nat Acad Sci 2015;112:3241-3246.4.
+ Singer P, Mason J.
+ The Ethics of What We Eat: why our food choices matter.
+ Rodale Inc: USA.
+ 2006.
+ 5.
+ Horta O.
+ The scope of the argument from species overlap.
+ J Applied Philosophy 2014; 31:142-154.
+ Bradley Johnston, Dena Zeraatkar, Mi Ah Han, Robin Vernooij, Claudia Valli, Regina El Dib, Catherine Marshall, Patrick Stover, Susan Fairweather-Taitt, Grzegorz Wojcik, Faiz Bhatia, Russell de Souza, Carlos Brotons, Joerg Meerpohl, Chirag Patel, Benjamin Djulbegovic, Pablo Alonso-Coello, Malgorzata Bala, Gordon GuyattNutriRECS Consortium8 October 2019 Response to Dr. Ansorg and Dr. Meyer re: environment concerns  We share Dr. Ansorg’s and Dr. Meyer’s environmental concerns, but have a different perspective on the role of individual autonomy in the shared decision-making process, and in the role of a guideline panel.Guideline panels should be fully informed of the best available evidence regarding all the issues that bear on their recommendations.
+ Producing recommendations regarding meat that take into account environmental concerns would require knowledge of the relative contribution of meat consumption versus other contributors to climate change.
+ That would require a systematic review of the relevant evidence, which was beyond the scope of our work – and indeed, of our expertise.
+ More importantly, there are those who either do not see environmental concerns as their priority, or feel that there are many other ways to personally work to protect the environment, including the selection of foods and food products.
+ Even an individual who has a high concern for climate change may choose not to take every possible action to protect the environment.Implicit in Dr. Ansorg and Dr. Meyer’s position is that guideline developers – and other physicians – are entitled or perhaps even obligated to base recommendations on their own particular moral stances.
+ We, instead, followed high quality standards for the development of guidelines that require basing recommendations on the beliefs and values of the target population (1).
+ To respect a diversity of viewpoints, we consider it useful for each person to weigh all the issues related to meat consumption – health, the environment, and animal welfare, for instance - and to consider them separately.
+ The reason is that some of these concerns will be salient to some, and to others not at all.1.
+ Dedios CM, Esperato A, De-Regli LM, Peña-Rosas JP, Norris SL.
+ Improving the adaptability of WHO evidence-informed guidelines for nutrition actions: results of a mixed methods evaluation.
+ Implement Sci.
+ 2017; 12(1): 39.
+ Barbara E. Millen, DrPH, RD, FADA (Chair); Steven Abrams, MD; Lucille Adams-Campbell, PhD; Steven Clinton, MD, PhD; Raphael Perez-Escamilla, PhD; Miriam Nelson, PhD; Marian L. Neuhouser, PhD, RD; Anna Maria Siega-Riz, PhD; Mary Story, PhD, RD.DHHS and USDA Former 2015 DGAC Members 8 October 2019 2015-2020 Dietary Guidelines for Americans are Sound and Evidence-Based  The NutritRECS initiative presented five papers (1-5) aimed at developing “trustworthy nutritional recommendations” on red and processed meat intake.
+ As members of the former 2015 U.S. Dietary Guidelines Advisory Committee (DGAC), which set the scientific foundation (6,7) for the 2015-2020 Dietary Guidelines for Americans (DGA)(8), we emphasize that these papers have serious methodological limitations which led to flawed data interpretation and unsound conclusions on red and processed meat consumption (9).
+ We agree with others (10) that three of five NutriRECS meta-analyses (1-3) contradict NutriRECS’ analyses and confirm negative health effects of meat intake on total, cardiovascular and cancer mortality, and incident type 2 diabetes.
+ The data support the 2015 DGAC and 2015-2020 DGA (6-8) which identified common features of healthy dietary patterns: higher in vegetables, fruits, whole grains, low- or non-fat dairy, seafood, legumes and nuts; lower in red and processed meats, if consumed; low in sugar-sweetened foods and drinks and refined grains; moderate in alcohol (in adults, if consumed), with saturated fat and added sugars limited to less than 10% of calories and sodium to under 2300 mg.
+ Together with USDA scientists, the 2015 DGAC modeled alternative calorie dietary patterns to meet differing consumer preferences (including vegetarian) at 1000 to 3200 calorie levels.
+ At 2000 calories, average daily intake includes: 2-2.5 cups of vegetable and fruits; 2-3 cups of low and non-fat dairy; if eaten, about 3 ounces of red meat and poultry and 1-2 ounces of fish; 3 ounces of eggs; 4-7 ounces of nuts and seeds; about an ounce of oil; and ½ to 8 ounces of soy protein.
+ Healthy dietary patterns can be ‘personalized’ to include portion-controlled meats, if desired; however, current or increased average American meat consumption levels would not achieve DGA food or nutrient targets, and would be deleterious to individual, population and planetary health.
+ The DGA update process is overseen every five years by USDA and DHHS, but unlike NutriRECS, adheres to an open, research-driven process consistent with best practices of other expert groups (11-16) and implemented by a DGAC fully vetted for expertise, constituency representation, and to minimize conflict of interest.
+ All DGAC conclusions are rigorously graded on research quality and confirmed by panel consensus.
+ We should all be striving to continue improving the science that informs the DGA instead of issuing recommendations through self-appointed groups with unclear goals and whose expertise and conflict of interest have not been thoroughly evaluated.
+ 2015 Dietary Guidelines Advisory Committee Members: Barbara E. Millen, DrPH, RD, FADA (Chair); Steven Abrams, MD; Lucille Adams-Campbell, PhD; Steven Clinton, MD, PhD; Raphael Perez-Escamilla, PhD; Miriam Nelson, PhD; Marian L. Neuhouser, PhD, RD; Anna Maria Siega-Riz, PhD; Mary Story, PhD, RD.
+ We are not aware of any Conflicts of Interest.
+ 1.
+ Vernooij RWM, Zeraatkar D, Han MA, et al.
+ Patterns of red and processed meat consumption and risk for cardiometabolic and cancer outcomes.
+ A systematic review and meta-analysis of cohort studies.
+ Ann Intern Med.
+ 1 October 2019 [Epub ahead of print].
+ doi:10 .7326/M19-1583 2.
+ Han MA, Zeraatkar D, Guyatt G, et al.
+ Reduction of red and processed meat intake and cancer mortality and incidence.
+ A systematic review and meta-analysis of cohort studies.
+ Ann Intern Med.
+ 1 October 2019 [Epub ahead of print].
+ doi:10.7326/M19-0699 3.
+ Zeraatkar D, Han HA, Guyatt GH, et al.
+ Red and processed meat consumption and risk for all-cause mortality and cardiometabolic outcomes.
+ A systematic review and meta-analysis of cohort studies.
+ Ann Intern Med.
+ 1 October 2019 [Epub ahead of print].
+ doi:10.7326 /M19-0655 4.
+ Zeraatkar D, Johnston BC, Bartoszko J, et al.
+ Effect of lower versus higher red meat intake on cardiometabolic and cancer outcomes.
+ A systematic review of randomized trials.
+ Ann Intern Med.
+ 1 October 2019 [Epub ahead of print].
+ doi:10.7326/M19-0622 5.
+ Valli C, Rabassa M, Johnston BC, et al.
+ Health-related values and preferences regarding meat consumption.
+ A mixed-methods systematic review.
+ Ann Intern Med.
+ 1 October 2019 [Epub ahead of print].
+ doi:10.7326/M19-1326 6.
+ Scientific Report of the 2015 Dietary Guidelines Advisory Committee.
+ U.S. Department of Health and Human Services.
+ U.S. Department of Agriculture.
+ Accessed 10 4 2019 at https://health.gov/dietaryguidelines/2015-scientific-report/PDFs/Scientific-Report-of-the-2015-Dietary-Guidelines-Advisory-Committee.pdf 7.
+ Millen BE, Abrams S, Adams-Campbell L, Anderson CAM, Brenna JT, Campbell WW, Clinton S, Hu F, Nelson M, Neuhhouser ML, Perez-Escamilla R, Siega-Riz AM, Story M, Lichtenstein AH.
+ The 2015 Dietary Guidelines Advisory Committee Scientific Report: Development and Major Conclusions.
+ Adv Nutr 2016; 7:438-444 doi:10.3945/an.116.012120 8.
+ U.S. Department of Health and Human Services, U.S. Department of Agriculture.
+ 2015–2020 Dietary Guidelines for Americans.
+ 8th ed.
+ Accessed 10 4 2019 at https://health.gov/dietaryguidelines/2015/resources/2015-2020_Dietary_Guidelines.pdf 9.
+ Johnston BC, Zeraatkar D, Han MA, et al.
+ Unprocessed red meat and processed meat consumption: dietary guideline recommendations.
+ Ann Intern Med.
+ 1 October 2019 [Epub ahead of print].
+ Jensen MD, Ryan DH, Apovian CM, Ard JD, Comuzzie AG, Donato KA, Hu FB, Hubbard VS, Jakicic JM, Kushner RF, Loria CM, Millen BE, Nonas CA, Pi-Sunyer FX, Stevens J, Stevens VJ, Wadden TA, Wolfe BM, Yanovski SZ, Jordan HS, Kendall KA, Lux LJ, Mentor-Marcel R, Morgan LC, Trisolini MG, Wnek J, Anderson JL, Halperin JL, Albert NM, Bozkurt B, Brindis RG, Curtis LH, DeMets D, Hochman JS, Kovacs RJ, Ohman EM, Pressler SJ, Sellke FW, Shen WK, Smith SC Jr, Tomaselli GF; American College of Cardiology/American Heart Association Task Force on Practice Guidelines; Obesity Society.
+ 2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines and The Obesity Society.
+ Circulation.
+ 2014;129(25 Suppl 2):S102-138.
+ PMID: 24239920.
+ 12.
+ Eckel RH, Jakicic JM, Ard JD, de Jesus JM, Houston Miller N, Hubbard VS, Lee IM, Lichtenstein AH, Loria CM, Millen BE, Nonas CA, Sacks FM, Smith SC Jr, Svetkey LP, Wadden TA, Yanovski SZ; American College of Cardiology/American Heart Association Task Force on Practice Guidelines.
+ 2013 AHA/ACC guideline on lifestyle management to reduce cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.
+ Am Coll Cardiol.
+ 2014;63(25 Pt B):2960-2984.
+ PMID: 24239922.
+ 13.
+ World Cancer Research Fund.
+ American Institute for Cancer Research.
+ Diet, Nutrition, Physical Activity and Cancer: a Global Perspective.
+ A summary of the Third Expert Report.
+ London: World Cancer Research Fund International; 2018.
+ 14.
+ American Heart Association Diet and Lifestyle Recommendations.
+ Accessed 10 4 2019 at: https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/aha-diet-and-lifestyle-recommendations 15.
+ Health Canada.
+ Canada's Dietary Guidelines for Health Professionals and Policy Makers.
+ Accessed 10 4 2019 at https://food-guide.canada.ca/static/assets/pdf/CDG-EN-2018.pdf.
+ 16.
+ Public Health England.
+ The Eatwell Guide.
+ Accessed 10 4 2019 at www.gov.uk/government/publications/the-eatwell-guide.
+ Eric C. Westman, MD MHSDuke University8 October 2019 Epidemiology vs. Evidence-based Medicine?
+ Health guidelines that restrict red meat and saturated fat are based on epidemiological research.
+ (1) However, when epidemiology has weak associations, evidence-based medicine (EBM) regards it as a method to generate hypotheses, but not to test hypotheses.
+ (2) EBM argues that the highest level of experimental evaluations of hypotheses (randomized, controlled trials) should be used to generate guidelines, and also assesses the data for clinical relevance.
+ If EBM principles were available years ago when red meat/saturated fat-restricting guidelines first were developed, the guidelines would not have restricted red meat or saturated fat.
+ (3) In this paper, red meat consumption, when examined with evidence-based medicine techniques, has no clinically relevant risk.
+ (4) A growing number of medical organizations support dietary patterns that do not restrict red meat or saturated fat.
+ (5,6) Other guideline panels should use a modern (EBM) evaluation of data to make their recommendations too.References:1.
+ Arnett DK, Blumenthal RS, Albert MA, et al.
+ ACC/AHA guideline on the primary prevention of cardiovascular disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.
+ Circulation.
+ 2019;140:e596–e646.
+ DOI: 10.1161/2.
+ Haynes RB, Sackett DL, Guyatt GH, Tugwell P. Clinical Epidemiology: How to do Clinical Practice Research.
+ LWW, 2005.3.
+ Harcombe Z, Baker JS, DiNicolantonio JJ, et al.
+ Evidence from randomised controlled trials does not support current dietary fat guidelines: a systematic review and metaanalysis.
+ Open Heart 2016;3: e000409.
+ doi:10.1136/ openhrt-2016-0004094.
+ Johnson BC et al.
+ Unprocessed red meat and processed meat consumption: Dietary guideline recommendations from the NutriRECS Consortium.
+ Ann Intern Med.
+ 2019.
+ DOI:10.7326/M19-1621.5.
+ Obesity Medicine Association.
+ Download algorithm guideline from www.obesityalgorithm.org6.
+ American Diabetes Association.
+ Evert AB, Dennison M, Gardner CD et al.
+ Nutrition Therapy for Adults with Diabetes or Prediabetes: A Consensus Report.
+ Diabetes Care.
+ 2019 May;42(5):731-754.
+ (2019) on guideline recommendations on red meat and processed meat consumption has received much attention in public discussions and newspapers.
+ Among other things the authors point at a ‘very small and often trivial absolute risk reduction based on a realistic decrease of 3 servings of red or processed meat per week’.
+ This ‘very small’ is often cited in the public discussions and newspapers, but what are the numbers behind?
+ The risk reduction they refer to, given their own calculations, includes 7 saved cancer deaths per 1000 individuals.
+ This corresponds to over 600 saved lives per year in my little country Sweden only, given the 90-100,000 annual deaths.
+ This in turn corresponds to 3% of all cancer deaths.
+ In the U.S. it would be 20,000 saved lives per year.
+ It is remarkable that the authors refer to that as a ‘very small’ risk reduction, especially as this is not for total avoidance of meat, but a ‘realistic decrease of 3 servings per week’.
+ The uncertainty of the risk is considerable and should be discussed.
+ But as regards this particular paper, the fact that the authors name a risk reduction that corresponds to 20,000 saved lives per year in the U.S. as a ‘very small’ risk reduction gives rise to questions about the validity of the judgements made during the process of working these recommendations out.Johnston BC, Zeraatkar D, Han MA, et al.
+ Unprocessed Red Meat and Processed Meat Consumption: Dietary Guideline Recommendations From the Nutritional Recommendations (NutriRECS) Consortium.
+ Ann Intern Med.
+ 2019; [Epub ahead of print 1 October 2019].
+ doi: 10.7326/M19-1621   Richard M Fleming, PhD, MD FHHI-OmnificImaging-Camelot El Segundo, CA, USA4 October 2019 Whatever Happened to Civil Scientific Discourse?
+ On 1 October 2019 a series of articles appeared in the Annals of Internal Medicine including the recommendations by a private group - which to the best of my understanding does not reflect the views of the Journal, the USDA, AHA or any other organization - that people need not change their intake of red or processed meats [1].
+ The process by which a paper submitted to a scientific journal is evaluated to determine if it should or will be published is one the general public and media may not be aware of, but those of us who publish research and who participate in the process of deciding what will and will not be published, should be familiar with [2].
+ While I have already addressed some of my views in comments and letters-to-the-editor, which may or may not get published - the underlying tone on both sides of this tirade- is one of disrespect and the behavior that one would expect from a second grader, not a scientist or physician.
+ The Annals of Internal Medicine, like any journal, is not required to publish only what its most powerful readers want published.
+ Neither should it be limited by threats made by its readers.
+ When we disagree with what has been published and we present an intelligent articulate message, we are listened to.
+ When we go on social media and act like the people we disrespect, we are accordingly disrespected and doubted, adding credibility to the opposing point-of-view.
+ If we wonder why the general public and the media are confused, we need look no further than in the mirror.
+ References: 1.
+ Johnston BC, Zeraatkar D, Han MA, et al.
+ Unprocessed Red Meat and Processed Meat Consumption: Dietary Guideline Recommendations From the Nutritional Recommendations (NutriRECS) Consortium.
+ Ann Intern Med 2019.
+ DOI: 10.7326/M19-1621.
+ 2.
+ Fleming RM, Fleming MR, Chaudhuri TK.
+ Establishing Data Validity: Statistically Determining if Data is Fabricated, Falsified or Plagiarized.
+ ACTA Scientific Med Sci 2019;3(8):169-191.
+ Disclosures: FMTVDM patent was issued to primary author   Richard M. Rosenfeld, MD, MPH, MBASUNY Downstate Medical Center, Brooklyn, NY, USA4 October 2019 Less Meat May Not Help, But It's More Plants That Really Matters Johnston and colleagues (1) have produced a trustworthy guideline recommending that adults continue their current consumption of processed meat and unprocessed red meat.
+ This recommendation may surprise some, but is best understood in context of the research question: how does a diet higher or lower in processed meat or unprocessed red meat (e.g., a decrease of 3 or more servings per week) impact the risk of cancer or adverse cardiometabolic outcomes?
+ In this context, four de novo systematic reviews conducted explicitly for the guideline show small or trivial risk reductions that are deemed insufficient to recommend a change in eating patterns.A more pragmatic issue, however, is not simply reducing meat consumption but also considering what fills the void.
+ For example, replacing meat with high-quality plant sources – soy, legumes, nuts, or high-quality carbohydrates – can lower total cholesterol, triglyceride, and LDL levels (2).
+ Similarly, consuming more whole grains and fiber-rich carbohydrates reduces the risk of strokes (and related mortality), coronary artery disease (and related mortality), type 2 diabetes, and some cancers (breast can colorectal) (3).
+ Adults who eat more healthy plant foods (whole grains, fruits, vegetables, nuts, and legumes) also have reduced risk of coronary heart disease compared to adults who eat less healthy foods (juices, sweetened beverages, refined grains, potatoes, fried foods, sweets) (4).
+ Last, consuming more fruits, vegetables, and legumes can lower overall and cardiovascular mortality (5).Reducing meat consumption alone may not improve health if the replacement calories come from fried foods, refined foods, simple carbohydrates, baked goods, or sweets.
+ Conversely, replacing meat with high quality carbohydrates and whole, unrefined plant foods could improve health.
+ The guideline does not mention the critical issue of what replaces reduced meat intake, nor does it mention plant foods or plant-centered diets (e.g.
+ vegan, vegetarian, flexitarian).
+ This omission may relate to the disclosure that none of the authors are vegetarians and 14 of 15 are regular meat eaters, of whom 13 eat processed meat and 6 consume 3 or more meat servings per week.
+ The evidence may have been interpreted differently by the guideline development group if eating patterns of participants better reflected the diversity of alternatives to an omnivore diet.References:1.
+ Johnston BC, Zeraatkar D, Han MA, et al.
+ Unprocessed red meat and processed meat consumption: dietary guideline recommendations from the NutriRECS Consortium.Ann Int Med [Epub ahead of print 1 October 2019] doi: 10.7326/M19-1621.2.
+ Guasch-Ferré M, Satija A, Blondin SA, et al.
+ Circulation 2019; 139:1828-45.3.
+ Reynolds A, Mann J, Cummings J, et al.
+ Carbohydrate quality and human health: a series of systematic reviews and meta-analyses.
+ Lancet 2019; 393:434-45.4.
+ Satija A, Bhupathiraju SN, Spiegelman D, et al.
+ Healthful and unhealthful plant-based diets and the risk of coronary artery heart disease in US adults.
+ J Am Coll Cardiol 2017; 70:411-422.5.
+ Miller M, Mente A, Dehghan M, et al.
+ Fruit, vegetable, and legume intake, and cardiovascular disease and deaths in 18 countries (PURE): a prospective cohort study.
+ Lancet 2017; 390:2037-49.
+ Disclosures: Whole food, plant-based diet Founder and Chair, SUNY Downstate Committee on Plant-based Health and Nutrition   Richard M FlemingPhysicist-Physician4 October 2019 Are We Really Prescribing the right diets for CAD, T2D, Cancer and Obesity???
+ One cannot read a medical journal [1] or participate in social media without becoming increasingly aware of the dichotomy that has taken place in the debate over what constitutes a healthy and non-healthy diet.
+ Despite what is undoubtedly a strong concern by many over how to best address the ever-increasing incidence of “inflammatory” diseases, including coronary artery disease (CAD), adult onset diabetes mellitus (T2D), obesity and certain types of cancer, there remains considerable disagreement.
+ This most recent publication [1] has done nothing to help clarify this debate – it has however, further fueled the antagonism that already exists while causing further public confusion.The clinical treatment of these diseases for hundreds of thousands to millions of people around the world depends upon when and where the patient’s physician was trained and who has influenced their training.
+ Medicine is not a place for personal opinions or twitter biting.
+ For many physicians the focus remains on measuring cholesterol levels and other blood tests looking for inflammation.
+ Many of the currently published dietary studies emphasize looking for improvements in cholesterol or inflammation [2] to support the success of their dietary regimens or drug treatment.
+ It is clear that many clinicians depend upon these blood tests to determine if their treatment (diet, medication, surgery, etc.)
+ for obesity, T2D, Cancer and/or CAD is successful.
+ These blood tests, which are commonly checked in the “fasting” state focus on looking for reductions in specific cholesterol levels, glucose, hemoglobin A1C (glycosylated hemoglobin), fibrinogen, homocysteine, c-reactive protein (CRP) and a series of other tests.
+ The consequential build-up of inflammatory plaques ultimately impairs the ability of the coronary arteries to relax to carry more blood flow to the heart, which in turns compromises the heart when the metabolic demands of the heart increase [3] producing major adverse cardiac events (MACE).
+ Should patients be prescribed a diet consistent with the American Heart Association recommendations?
+ Should they be prescribed vegan or vegetarian diets?
+ Should they be prescribed KETO genic diets?
+ Should they be prescribed statins and PCSK9 inhibitors?
+ Are we prescribing the right diets?
+ Are we over prescribing medications?
+ Are we using the right tests to know?As established in 2008 [4], merely measuring changes in cholesterol and inflammation do not tell us what is actually happening inside the walls of any given patients coronary arteries.
+ The disconnect between blood tests and actual CAD raises serious questions about using these blood tests to determine the effect of diets or medications for CAD, T2D, cancer or obesity and it raises questions about the meaning of the studies presented by Johnston, et al [1].Quantitative measurement of changes in CAD and cancer requires a method capable of accurately, consistently and reproducibly measuring these changes [5].
+ Similarly, we can also measure the true extent to which treatment of T2D and obesity is associated with changes in cancer and CAD.As we attempt to expand our knowledge and understanding into the causes and treatment of CAD, T2D, Cancer and Obesity, it becomes increasingly important that we measure the actual outcome of these treatments.
+ If we are to truly “do no harm”, we must measure the effect of our treatments to provide the best medical care possible for our patients, making it possible to prescribe the best diet and lifestyle choices possible, while at the same time judiciously limiting the use of medications to those instances where they are truly beneficial and only for the amount of time they prove to be valuable.
+ Acknowledgement: FMTVDM issued to author.
+ References:1.
+ Johnston BC, Zeraatkar D, Han MA, et al.
+ Unprocessed Red Meat and Processed Meat Consumption: Dietary Guideline Recommendations From the Nutritional Recommendations (NutriRECS) Consortium.
+ Ann Intern Med 2019.
+ DOI: 10.7326/M19-1621.2.
+ Fleming RM.
+ Chapter 64.
+ The Pathogenesis of Vascular Disease.
+ Textbook of Angiology.
+ John C. Chang Editor, Springer-Verlag New York, NY.
+ 1999, pp.
+ 787-798.3.
+ Fleming RM.
+ Chapter 29.
+ Atherosclerosis: Understanding the relationship between coronary artery disease and stenosis flow reserve.
+ Textbook of Angiology.
+ John C. Chang Editor, Springer-Verlag, New York, NY.
+ 1999. pp.
+ 381-387.4.
+ Fleming RM, Harrington GM.
+ "What is the Relationship between Myocardial Perfusion Imaging and Coronary Artery Disease Risk Factors and Markers of Inflammation?"
+ Angiology 2008;59:16-25.
+ 5.
+ The Fleming Method for Tissue and Vascular Differentiation and Metabolism (FMTVDM) using same state single or sequential quantification comparisons.
+ Patent Number 9566037.
+ Issued 02/14/2017.
+ Disclosures: FMTVDM issued to author.
+ Christine LaineAnnals of Internal Medicine2 October 2019 Response to Chilson Readers can view the conflict of interest disclosures for all authors of the systematic reviews and the recommendations by clicking on the link following each article's byline on www.annals.org.
+ None of the authors declared a financial relationship with the meat industry.
+ Disclosures: Editor in Chief, Annals of Internal Medicine   Daniel A. Meyer, MD Assistant Professor of Medicine Tufts University School of Medicine, Division Director, Division of Hospital Medicine, Department of Medicine, Maine Medical Center, Portland, ME2 October 2019 Missing the Forrest through the Trees The recent article by Johnston and colleagues (1) outlining recommendations on red meat and processed meat consumption is both impressive in its approach and disappointing in that it fails to go farther.
+ By deciding not to consider environmental impacts of red meat consumption in their recommendation that adults continue both red meat and processed consumption the group has produced a flawed report that is both an abdication of the moral responsibility physicians have to our society and also an incomplete assessment of the health impacts created by red meat consumption for individual patients.The contributions of red meat consumption to climate change are well documented.
+ Cows are one of a number of major sources of methane gas and methane amounted to 10% of US green-house gas emissions in 2017 (2).
+ Methane has 25 times the climate impact of a similar amount of CO2 (3) making it a major contributor to climate change.
+ The health impacts of global warming are going to be substantial and have already started to manifest.
+ These include rising food insecurity, water insecurity, reduced nutritional value of food, increased mosquito and vector borne diseases, and rises in diseases associated with catastrophic weather events such as heat stroke, leptospirosis and others (4).
+ Given the significant contribution red meat consumption makes to climate change these health impacts merit consideration in societal guidelines around red meat consumption.Further, in a time when society is grappling with how to confront climate change physicians have a responsibility to support sound science, and rational decision making around policy.
+ Recommendations from physician groups carry weight in policy assessments and have the ability to influence both governmental policy and individual decision making.
+ That influence occurs both at the societal level through published statements such as this, and in the individual physician patient interaction where these guidelines inform the discussion.
+ It is therefore a disappointment that these nutritional recommendations would not consider the broader health impacts of red meat consumption.The result is an article that incompletely informs the physician in how to counsel patients on the risks and benefits of red meat consumption.
+ Johnson and colleagues would have done well to reconsider their approach.
+ Certainly balancing all of these considerations would have increased the complexity of the task but that was the challenge they were given and they have failed to deliver recommendations that meet the needs of our time or our patients.1.
+ Johnson BC et al.
+ Unprocessed Red Meat and Processed Meat Consumption: Dietary Guideline Recommendations from the NutriRECS Consortium.
+ Ann Int Med.
+ Doi: 10.7326/M19-16212.
+ “Greenhouse Gas Emissions”, EPA.Gov.
+ https://www.epa.gov/ghgemissions/overview-greenhouse-gases, Accessed 2 October 2019.3.
+ Friend, Tad.
+ Can A Burger Help Solve Climate Change.
+ New Yorker Magazine, September 23, 2019.4.
+ Rossati A.
+ Global Warming and its health impact.
+ Disclosures: Dr. Johnston received a grant from Texas A&amp;M AgriLife Research to fund investigator-driven research related to saturated and polyunsaturated fats within the 36-month reporting period required by the International Committee of Medical Journal Editors, as well as funding received from the International Life Science Institute (North America) that ended before the 36-month reporting period.
+ Dr. de Souza reports personal fees and nonfinancial support from the World Health Organization; personal fees from the Canadian Institutes of Health Research/Health Canada and McMaster Children's Hospital; grants from the Canadian Foundation for Dietetic Research, Canadian Institutes of Health Research, Hamilton Health Sciences Corporation, and Hamilton Health Sciences Corporation/Population Health Research Institute outside of the submitted work.
+ He also reports other support from the College of Family Physicians of Canada, Royal College (speaking at       a recent conference), and he has served on the Board of Directors of the Helderleigh Foundation.
+ Dr. Patel reports grants from the National Institutes of Health, Sanofi, and the National Science Foundation; personal fees from XY.health, Inc, doc.ai, Janssen, and the US Centers for Disease Control and Prevention; and nonfinancial support from Microsoft, Inc, and Amazon, Inc, during the conduct of the study and equity in XY.health, Inc, outside the submitted work.
+ A summary of disclosures is provided in the Appendix Table.
+ Authors not named here have disclosed no conflicts of interest.
+ Darren B. Taichman, MD, PhD, Executive Editor, reports that he has no financial relationships or interests to disclose.
+ Cynthia D. Mulrow, MD, MSc, Senior Deputy Editor, reports that she has no relationships or interests to disclose.
+ Jaya K. Rao, MD, MHS, Deputy Editor, reports that she has stock holdings/options in Eli Lilly and Pfizer.
+ Catharine B. Stack, PhD, MS, Deputy Editor, Statistics, reports that she has stock holdings in Pfizer, Johnson &amp; Johnson, and Colgate-Palmolive.
+ Christina C. Wee, MD, MPH, Deputy Editor, reports employment with Beth Israel Deaconess Medical Center.
+ Sankey V. Williams, MD, Deputy Editor, reports that he has no financial relationships or interests to disclose.
+ Yu-Xiao Yang, MD, MSCE, Deputy Editor, reports that he has no financial relationships or interest       to disclose.&gt;Reproducible Research Statement: Study protocol: Available at PROSPERO (www.crd.york.ac.uk/prospero/) (CRD42017074074).
+ Statistical code and data set: Available upon request from Dr. Johnston (e-mail, [email protected]).Corresponding Author: Bradley C. Johnston, PhD, Department of Community Health and Epidemiology, Dalhousie University, Centre for Clinical Research, Room 404, 5790 University Avenue, Halifax, Nova Scotia, Canada, B3H 1V7; e-mail, [email protected].Current Author Addresses: Dr. Johnston: Department of Community Health and Epidemiology, Dalhousie University, Centre for Clinical Research, Room 404, 5790 University Avenue, Halifax, Nova Scotia, Canada B3H 1V7.Ms.
+ Zeraatkar and Dr. Guyatt: Department of Health Research Methods, Evidence, and Impact, McMaster University, 1280 Main Street West, Hamilton, Ontario L8S 4K1, Canada.Dr.
+ Han: Department of Preventive Medicine, College of Medicine, Chosun University, 309 Philmun-daero, Dong-gu, Gwangju 61452, Korea.Dr.
+ Vernooij: Department of Research, Netherlands Comprehensive Cancer Organisation, Godebaldkwartier 419, Utrecht 3511 DT, the Netherlands.Ms.
+ Valli and Dr. Alonso-Coello: Iberoamerican Cochrane Centre, Instituto de Investigación Biomédica de Sant Pau (IIB Sant Pau-CIBERESP), Carrer de Sant Antoni Maria Claret 167, Barcelona 08025, Spain.Dr.
+ El Dib: Institute of Science and Technology, São José dos Campos, Avenida Engenheiro Francisco José Longo, 777, Jardim São Dimas, São Paulo 12245-000, Brazil.Ms.
+ Marshall: Cochrane Consumer Group, 6 Horomona Road, Wellington 5034, New Zealand.Dr.
+ Fairweather-Taitt: Norwich Medical School, University of East Anglia, Norwich Research Park, Floor 2, Bob Champion Research and Education Building, James Watson Road, Norwich NR4 7UQ, United Kingdom.Dr.
+ Wojcik: Department of Medical Sociology, Jagiellonian University Medical College, 7 Kopernika Street, 31-034 Kraków, Poland.Mr.
+ Bhatia: 1503-33 Shore Breeze Drive, Etobicoke, Ontario M8V 0G1, Canada.Dr.
+ de Souza: Population Health Research Institute, 237 Barton Street East, Hamilton, Ontario L8L 2X2, Canada.Dr.
+ Brotons: Sardenya Primary Health Care Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), Sardenya 466, Barcelona 08025, Spain.Dr.
+ Meerpohl: Institute for Evidence in Medicine, Medical Centre, University of Freiburg, Faculty of Medicine, University of Freiburg, Breisacher Strasse 153, Freiburg 79110, Germany.Dr.
+ Djulbegovic: City of Hope, 1500 East Duarte Road, Duarte, CA 91010.Dr.
+ Bala: Department of Hygiene and Dietetics, Jagiellonian University Medical College, 7 Kopernika Street, 31-034 Kraków, Poland.Author Contributions: Conception and design: B.C.
+ Johnston, D. Zeraatkar, M.A.
+ Han, R.W.M.
+ Vernooij, C. Valli, P. Alonso-Coello, M.M.
+ Bala, G.H.
+ Guyatt.Analysis and interpretation of the data: B.C.
+ Johnston, D. Zeraatkar, M.A.
+ Han, R.W.M.
+ Vernooij, C. Valli, R. El Dib, C. Marshall, P.J.
+ Stover, S. Fairweather-Taitt, G. Wójcik, F. Bhatia, R. de Souza, C. Brotons, J. Meerpohl, C.J.
+ Patel, B. Djulbegovic, P. Alonso-Coello, M.M.
+ Bala, G.H.
+ Guyatt.Drafting of the article: B.C.
+ Johnston.Critical revision of the article for important intellectual content: B.C.
+ Johnston, D. Zeraatkar, M.A.
+ Han, R.W.M.
+ Vernooij, C. Valli, R. El Dib, C. Marshall, P.J.
+ Stover, S. Fairweather-Taitt, G. Wójcik, F. Bhatia, R. de Souza, C. Brotons, J. Meerpohl, C.J.
+ Patel, B. Djulbegovic, P. Alonso-Coello, M.M.
+ Bala, G.H.
+ Guyatt.Final approval of the article: B.C.
+ Johnston, D. Zeraatkar, M.A.
+ Han, R.W.M.
+ Vernooij, C. Valli, R. El Dib, C. Marshall, P.J.
+ Stover, S. Fairweather-Taitt, G. Wójcik, F. Bhatia, R. de Souza, C. Brotons, J. Meerpohl, C.J.
+ Patel, B. Djulbegovic, P. Alonso-Coello, M.M.
+ Bala, G.H.
+ Guyatt.Provision of study materials or patients: B.C.
+ Johnston.Statistical expertise: B.C.
+ Johnston, D. Zeraatkar, M.A.
+ Han, R.W.M.
+ Vernooij, R. El Dib, G.H.
+ Guyatt.Administrative, technical, or logistical support: B.C.
+ Johnston, D. Zeraatkar, M.A.
+ Han, R.W.M.
+ Vernooij, C. Valli, R. El Dib, B. Djulbegovic, P. Alonso-Coello, M.M.
+ Bala, G.H.
+ Guyatt.Collection and assembly of data: B.C.
+ Johnston, D. Zeraatkar, M.A.
+ Han, R.W.M.
+ Vernooij, C. Valli, R. El Dib, B. Djulbegovic.
+ Vernooij, PhD, Claudia Valli, MSc, Bradley C. Johnston, PhDDietary Assessment and Opportunities to Enhance Nutritional Epidemiology EvidenceRoss L. Prentice, PhDCorrection: Nutritional Recommendations (NutriRECS) on Consumption of Red and Processed MeatEffect of Lower Versus Higher Red Meat Intake on Cardiometabolic and Cancer OutcomesA Systematic Review of Randomized TrialsDena Zeraatkar, MSc, Bradley C. Johnston, PhD, Jessica Bartoszko, HBSc, Kevin Cheung, MD, Malgorzata M. Bala, MD, PhD, Claudia Valli, MSc, Montserrat Rabassa, PhD, Daegen Sit, MD, Kirolos Milio, BSc, Behnam Sadeghirad, PharmD, Arnav Agarwal, MD, Adriana M. Zea, RD, Yung Lee, BHSc, Mi Ah Han, MD, PhD, Robin W.M.
+ Vernooij, PhD, Pablo Alonso-Coello, MD, PhD, Gordon H. Guyatt, MD, Regina El Dib, PhDReduction of Red and Processed Meat Intake and Cancer Mortality and IncidenceA Systematic Review and Meta-analysis of Cohort StudiesMi Ah Han, MD, PhD, Dena Zeraatkar, MSc, Gordon H. Guyatt, MD, Robin W.M.
+ Vernooij, PhD, Regina El Dib, PhD, Ying Zhang, PhD, Abdullah Algarni, MBBS, Gareth Leung, BHSc, Dawid Storman, MD, Claudia Valli, MSc, Montserrat Rabassa, PhD, Nadia Rehman, BDS, Michael K. Parvizian, BHSc, Max Zworth, BA&amp;Sc, Jessica J. Bartoszko, HBSc, Luciane Cruz Lopes, PhD, Daegan Sit, MD, Malgorzata M. Bala, MD, PhD, Pablo Alonso-Coello, MD, PhD, Bradley C. Johnston, PhDHealth-Related Values and Preferences Regarding Meat ConsumptionA Mixed-Methods Systematic ReviewClaudia Valli, MSc, Montserrat Rabassa, PhD, Bradley C. Johnston, PhD, Ruben Kuijpers, MSc, Anna Prokop-Dorner, PhD, Joanna Zajac, PhD, Dawid Storman, MD, Monika Storman, MD, Malgorzata M. Bala, MD, PhD, Ivan Solà, MSc, Dena Zeraatkar, MSc, Mi Ah Han, MD, PhD, Robin W.M.
+ Vernooij, PhD, Gordon H. Guyatt, MD, Pablo Alonso-Coello, MD, PhD, Patterns of Red and Processed Meat Consumption and Risk for Cardiometabolic and Cancer OutcomesA Systematic Review and Meta-analysis of Cohort StudiesRobin W.M.
+ Comments are moderated.Name (if multiple authors, separate names by comma)Name field is requiredComment TitleTitle field is requiredAffiliation &amp; Institution (max characters: 200)Affiliations field is requiredCommentComment field is requiredPlease disclose any conflicts of interest or leave the box unchecked if you have noneDisclosure of Any Conflicts of InterestCancelSubmit     Back to top           ACP Journals home    Annals of Internal Medicine Print ISSN: 0003-4819 | Online ISSN: 1539-3704  Latest Issues CME/MOC In the Clinic Journal Club Multimedia Information for Readers Subscribe/Renew Submit Authors  About Personae (Cover Photo) Junior Investigator Awards Poetry Prize       ACP Journal Club Archives Print ISSN: 1056-8751 | Online ISSN: 1539-8560  Issues About       RESOURCES  Patient Information Annals in the News Career Connection     INFORMATION FOR  Reviewers Press  Institutions / Libraries / Agencies Advertisers     SERVICES  Reprints &amp; Permissions Contact Us Help Alerts     Copyright © 2020 American College of Physicians.
+ All Rights Reserved.
+ conditions of usePRIVACY POLICY

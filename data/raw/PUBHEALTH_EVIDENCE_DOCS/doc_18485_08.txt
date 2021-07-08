@@ -1,0 +1,2078 @@
+ 11.  Introduction 
+  Criminal recidivism poses a serious risk to
+ public safety.   As many as two-thirds of 
+released inmates return to prison within a few 
+years (BJS (2002a)), and data from the National 
+Corrections Reporting Program show that approximat
+ely 40 percent of all criminals sent to U.S. 
+prisons over the last twenty years were already convicted felons.  Recently, victims™ advocates 
+and others have argued that persons convicted of sex offenses are highly likely to ﬁsame crimeﬂ 
+recidivate (see Langan et al. (2003) and Vásquez et al. (2008)).  Although criminal behavior 
+typically declines steeply with age after the earl
+y twenties, the decline for sex offenses may be 
+more gradual (Hanson (2002)).  Partly for th
+ese reasons, and because of a few high-profile crimes in the late 1980s and early 1990s, sex offe
+nders have become the focus of considerable 
+legislation and public spending aime
+d at reducing their recidivism. 
+ In the 1990s, two sets of laws targeting 
+sex offenders proliferated across the United States.  A federal mandate in 1994 (the Jacob Wette
+rling Act, named after the victim of a crime 
+in Minnesota) required that states create registri
+es of sex offenders for use by law enforcement.  
+Another federal mandate in 1996 (Megan™s Law, named after a victim in New Jersey, Megan 
+
+Kanka) required that states provide public notification of the location of sex offenders to local residents or other ﬁat riskﬂ groups.  The basic motivations for regi
+stration and notification were, respectively, to aid law enforcement in supe
+rvising and apprehending sex offenders who may 
+recidivate and to help local households protect themselves through monitoring and avoiding 
+offenders in their neighborhoods.    Despite the widespread use of sex offender re
+gistration and notification laws, it is unclear whether they have been successful in reducing crime by sex offenders, or whether they have 
+achieved other goals (e.g., increasing the probability of arrest).  It is also unknown whether sex offenders respond (or are able to respond) to these laws in other ways (e.g., selecting their victims differently).  The answers to these que
+stions are important not only for evaluating the 
+costs and benefits of registration and notification laws, but also for understanding how an important group of convicted criminals re
+sponds to changes in legal sanctions.1                                                  1 Empirical work provides so
+me support for the cl
+aim that criminals in general 
+react to changes in expected 
+punishment (e.g., Levitt (1998), Kessler and Levitt (1999), 
+Nagin (1998)).  However, it is unclear whether this is 
+true for all types of individuals (see McCrary and Lee (2005) on juvenile offenders), and whether these results 
+extend to sex offenders in particular is unknown (see Bachman et al. (1992)).   
+  2The first studies that sought to measure the 
+impact of registration and notification laws 
+(Schram and Milloy (1995) and Adkins et al. (20
+00)) compared recidivism rates of offenders in 
+Iowa and Washington State released just before
+ and after registration 
+and notification laws 
+became effective.  While neither study found a st
+atistically significant difference in subsequent 
+arrests for sex offenses between these two groups, both studies relied on small samples of 
+offenders.  More recent studies have examined
+ the relationship between the timing of laws™ 
+passage and changes in the annual frequency of sex offenses across states using UCR data (Shao and Li (2006), Agan (2007), and Vásquez et al. (2008)).  Taken together, these studies find little evidence that these laws had a significan
+t impact on the number of sex offenses.
+2 While we also use the timing of changes in st
+ate laws to study the impact of those laws 
+on criminal behavior, we are able to offer ne
+w evidence on a number of
+ different questions because our analysis differs significantly from 
+earlier work in both the data we use and the 
+methodology we employ.  First, we conducted ex
+tensive research into the sex offender legislation of various states, and found that earlier studies had used incorrect legal dates or had mischaracterized these laws.  U
+nderstanding the timing and scope of this body of law is not easy, 
+partially because sex offender laws have changed over time due to legislative amendments and 
+judicial decisions.3  We also take advantage of information on the exact dates when laws became 
+effective by using monthly data a
+nd allowing for variation in crime frequency within years, in contrast to the earlier work using annual data. Second, unlike existing work, our analysis distinguishes between sex offender registration and notification laws.  Notification laws require the dissemination of information 
+about sex offenders (e.g., criminal history, phys
+ical description, home address, etc.).  
+Registration laws, in contrast, re
+quire that sex offenders provide such information to a public 
+authority (e.g., local police), but this data is otherwise kept confidential.  While registration requirements are intended solely to help law 
+enforcement track and apprehend recidivist 
+                                                 2 Only Shao and Li (2006) report any evidence that offe
+nder registration laws caused
+ a statistically significant 
+reduction in sex offenses.  However, their findings 
+are sensitive to empirical 
+specification and they group 
+registration and notification laws together as a single treat
+ment.  Agan (2007) offers so
+me evidence that posting sex offender information on the internet reduced the number 
+of arrests for sex offenses, but her results are similarly 
+sensitive and open to alternative interpretations. 
+3 We describe the history of sex offender registration and notification laws in Section 2 and provide basic 
+information on these enactments in Appendix Table 1. 
+  3offenders, notification laws aim both at reducing 
+crime through greater public awareness and by 
+facilitating capture conditional on the commissi
+on of a crime (Prentky (1996), Pawson (2002), 
+Levenson and D™Amora (2007)).  We also differe
+ntiate among various features of notification 
+laws, e.g., access to paper registry, internet 
+access, or proactive community notification.
+4    Third, we use variation in the number of offe
+nders actually registered
+ with authorities to identify different ways in which registration and notification may influenc
+e criminal behavior.  
+For example, the main channel by which notificati
+on laws are expected to reduce recidivism is 
+by making the public aware of nearby sex offender
+s, but they may also 
+reduce crime by raising 
+the punishment for first-time sex offenders (whose crimes and personal information will be made 
+
+public upon release if they are caught and convicted).  While notific
+ation should have little effect on recidivism when registries are empty, the potential effect on first-time or simply unregistered 
+offenders should be invariant to the number
+ of offenders actually registered.   Finally, we examine the effects of these la
+ws on the relationship mix between offenders 
+and victims in addition to the overall frequency of
+ reported sex offenses.  Neither registration nor notification were intended to a
+ffect the ﬁincidenceﬂ of sex offenses across different types of victims, but some observers have suspected that 
+notification laws might s
+imply displace crime by 
+changing the population of victims targeted by sex 
+offenders (see Prentky (1996), Filler (2001)).  We also study changes in the probability that an arrest is made given a reported sex offense, and 
+that the offense reported is not prosecuted, despite arrest, because the victim refused to cooperate 
+or the prosecution declined to pursue the case for some other reason. 
+ We find evidence that actual registration of 
+released sex offenders is associated with a 
+significant decrease in crime.  This is in line with predictions from a simple model of criminal 
+
+behavior in which providing information on offenders to local authorities increases monitoring 
+and the expected punishment for recidivism.  Mo
+reover, the drop in the overall frequency of reported sex offenses associated with registration is due primarily to
+ reductions in attacks against ﬁlocalﬂ victims who are known to an offender (i
+.e., a family member, friend, acquaintance, or 
+                                                 4 Shao and Li (2007) do not differentiate between notifica
+tion and registration laws.  Vásquez et al. (2008) state 
+explicitly that they examine both ﬁregistration and notifica
+tionﬂ laws, but do not distinguish between the two in their 
+empirical work.  Agan (2007), on the other hand, recognizes the distinction with respect to internet availability of 
+registry information, but nevertheless does not include or consider other kinds of notification.  
+  4neighbor).  Importantly, sex offenses by strangers appear unaffected by registration, indicating 
+little or no substitution from local to more ﬁdistantﬂ victims.   
+ We also find that the implementation of a 
+notification law (regardl
+ess of the number of 
+registered offenders) is associated with a reduction in the overall frequency of sex offenses.  One 
+potential explanation for this effect, again consiste
+nt with our model, is 
+that notification raises 
+the punishment for future offenders.  Importantly
+, we find no evidence that notification laws (as opposed to registration laws) reduced crime by lo
+wering recidivismŠthe estimated effect is 
+actually weaker
+ when a large number of offenders are on th
+e registry.  This finding is potentially consistent with a number of explanations.  But, as we show below, the evidence on balance 
+
+supports the existence of a significant ﬁrelative 
+utilityﬂ effect, in which convicted sex offenders 
+become 
+more
+ likely to commit crime when their information is made public because the 
+associated psychological, social, or financial costs make crime more attractive. 
+ The rest of the paper proceeds as follows.  In Section 2, we describe the variation in the 
+timing and scope of state registration and notific
+ation laws.  Section 3 lays out the potential 
+effects of registration and notification using a simple model of cr
+iminal behavior and presents 
+our basic empirical methodology.  Section 4 descri
+bes our data.  We pr
+esent our results in Section 5 and robustness checks in Sec
+tion 6.  We conclude in Section 7. 
+ 2.  The Evolution of Sex Offender Re
+gistration and Notification Laws
+   To characterize the sex offender registra
+tion and notification laws properly for the empirical work below, we painstakingly researched
+ the evolution of these laws in states covered in the 1990s by the National Incident Based Reporting System (NIBRS), the data used in our analysis below.5  We divide the legal changes we study 
+into four categories: registration, public access, internet availability, a
+nd active notification.  Registration requires that sex offenders                                                  5 See the Data Appendix.  Determining accurate effectiv
+e dates proved difficult.  When we compare our legal 
+analysis to the dates used by Shao an
+d Li (2006), Agan (2007), and Vásquez et al. (2008), we find a low rate of 
+agreement.  Among the 50 states and DC there are only 13 instances (16 instances) in which all studies agreed on 
+the exact date (calendar year) that regi
+stration became effective.  For example, 
+Utah™s first generally applicable sex 
+offender registry became effective on 
+March 30, 1983.  Shao and Li use May 
+19, 1987, a date we cannot locate in 
+legislative history, but which is close to the enactment (as 
+opposed to effective) date of a 1987 law that re-codified 
+and amended the registration law.  Agan (2007) uses July 1, 1984, which likely refers to a 1984 law that also 
+
+amended the original 1983 enactment, but 
+the effective date for that law was Fe
+bruary 16, 1984.  Vásquez et al. use 
+the year 1996, when Utah passed
+ a notification law granting public
+ access to registry information. 
+  5provide authorities with identifying information upon release from custody or probation.  Until 
+notification laws were enacted, this information wa
+s held confidential.  Police typically increase 
+surveillance of registered offenders and can more easily locate, investigate, and apprehend them. 
+The remaining three categories of lawsŠpublic 
+access, internet availability, and active 
+notificationŠare designed to make information a
+bout offenders available to the public, rather than to assist police directly.  The public can, in theory, reduce sex offender recidivism by avoiding convicted offenders or by reporting suspicious behavior.    Since the late 1980s and early 1990s, states 
+have typically proceeded from using basic 
+registration laws, to relying on mo
+re restrictive and varied forms 
+of public access, to eventually 
+placing all sex offender registration information onto the internet.
+6  Many states have also implemented ﬁactive not
+ificationﬂ regimes.
+7  At each stage, states al
+so had to decide whether to make their registration or notification laws retroactive in their application.  Retroactivity 
+
+provisions specify which offenders are covered by the laws in light of the timing of their conviction or their release from custody.  These provi
+sions allow us to calculate the sizes of state sex offender registries.8  We use all of this cross-state variationŠin exact timing, scope, and 
+registry sizeŠto identify the causal effect
+s of registration and notification laws.  
+ Figure 1a shows the timing of adoption of re
+gistration, public access, internet availability, 
+and active notification for each NIBRS state (see al
+so Appendix Table 1), as well as the year in 
+which agencies from each state began reporti
+ng to NIBRS.  While sex offender laws have 
+evolved in a similar fashion from state to stat
+e, Figure 1a demonstrates that the timing and 
+content of these laws varies considerably.  For example, Idaho began registration and (limited) 
+public access simultaneously in 1993, but did not
+ have an internet registry until 2001 or 
+                                                 6 Sex offender ﬁweb registriesﬂ allow the public to search for offenders using an individual™s name or alias, or 
+search for all offenders living near a specific address. 
+7 Examples of active community notification include announcing the release or residential moves of sex 
+offenders through notices in local newspapers, by personal visits or letters to former victims or others considered at-
+risk, and opt-in provisions, which allow citizens to reques
+t notification if a certain sex offender or one satisfying 
+certain conditions is released or moves.   
+8 For example, Massachusetts™ registration law, eff
+ective October 1996, required anyone convicted of a 
+qualifying sex offense on or after August 1, 1981 to register.  As a result, close to 8,000 offenders were registered 
+when the registry became effective (Boston Globe (1996)).  
+Other states made their laws 
+prospective.  For instance, 
+Michigan™s registration law, effective on October 1, 1995, required registration of individuals ﬁconvicted or 
+releasedﬂ on or after that date.  As 
+a result, when the law became effective,
+ Michigan™s registry was empty.   
+  6community notification until 2003.  
+Texas, in contrast, began registration in 1991, started both 
+public access and community notification in 1995, and launched an internet site in 1999.   
+Endogeneity in the timing of thes
+e laws is unlikely to be a problem for several reasons.  
+First, unlike criminal law in general, where rising
+ crime rates might lead to increases in penalties 
+or police spending, many state sex offender laws 
+were passed quickly, in response to one or two well-publicized and usually gruesome incidents.
+  Indeed, many sex offender laws are named 
+after the victim who sparked the legislative effo
+rt, and sex offense rates (like rates of other crimes) actually declined in the 1990s, the period
+ in which most of these laws were passed.  Second, federal laws passed in 1994 and 1996 (motivated in part by specific crimes against 
+individual children in Minnesota and New Jersey) required states to
+ pass registration and notification laws.  These federal laws left states with discretio
+n as to substance and timing, but had minimum requirements and imposed deadlines.
+  Finally, the timing of passage was also 
+partly dictated by pre-existing legislative schedules (e.g., the Kentucky, North Dakota and Texas legislatures meet only once every two year
+s) rather than by sex offense trends. 9  3.  Conceptual Model and Empirical Framework
+  To generate testable hypotheses and to aid in
+ the interpretation of
+ our empirical results, 
+we consider a simple model of criminal beha
+vior.  Criminal offenses committed by individual 
+i against victim 
+j are governed by a victim-specifi
+c probability of punishment (pij) and cost of targeting the victim (
+cij), a level of punishment if convicted (
+fi), and utility from committing 
+crime, relative to legal behavior (
+ui) that is invariant across victims.
+10  Sex offenses require victims, and the laws we consider
+ were specifically intended to ma
+ke it difficult for offenders to 
+victimize people in their vici
+nityŠneighbors, acquaintances, and friends.  By assumption, 
+                                                 9 Whether a sex offender law is made retroactive is also 
+unlikely to be endogenous to crime rates.  Criminal 
+laws with retroactive features can violate the U.S. and 
+state constitutions.  The decision whether to make a law 
+retroactive in any particular state 
+turned in significant part on governing judicial opinions in the state. 
+10 This model is adapted from the structure of Becker (1968
+).  The utility term is an analog to Becker™s concept 
+of the individual™s ﬁwillingness to commit an illegal act.ﬂ  The assumption that the relative utility of criminal 
+behavior is invariant across victims may not be true in a strict sense (a particular offender may prefer targeting, for 
+example, a stranger to a neighbor, conditional on actual costs), but any variation can be reinterpreted as a difference 
+
+in victim-specific targeting costs.  
+In any event, becau
+se we focus on 
+changes
+ in these terms caused by registration 
+and notification laws, the assumption is not critical 
+to motivating or interpreting our empirical work. 
+  7offenses are increasing in the rela
+tive utility of crime commission (
+ui), and decreasing in the cost 
+of targeting a victim (
+cij), punishment probability (
+pij), and punishment severity (
+fi). 
+Oij = Oij (c
+ij, pij, fi, ui)              (1) 
+ Registration and notification laws are likely to
+ influence the number of offenses through 
+several specific channels.  Registration may increase the abil
+ity of police to monitor and 
+apprehend registered
+ sex offenders (RSOs), raising pij for RSOs and particularly so for local victims.  This feature of registration may also
+ affect forward-looking, unregistered individuals because punishment (
+fi) now includes a higher future probability of detection.
+11  However, so long as registry information re
+mains confidential, registration 
+alone should not alter the cost to targeting victims (
+cij) or the utility of crime commission (
+ui). 
+ NotificationŠeither via public 
+access to registry informati
+on, an internet registry, or 
+active community notificationŠmay further affect 
+criminal behavior.  First, punishment for sex 
+offenses now includes public airing of one™s personal information and criminal history.  This 
+publicity has negative consequences for RSOs, in
+cluding loss of employment, housing, or social 
+ties; harassment; and psychological 
+costs such as increased stress,
+ loneliness, and depression (see Zevitz and Farkas (2000a), Tewksbury (2005), 
+and Levenson and Cotter (2005)).  Thus, for potential (or otherwise unregistered) sex offenders, punishment severity (
+fi) would be higher because any conviction would newly subject the offender to this sort of publicity.  In contrast, RSOs already suffer notification costs.  While committing another offense 
+may prolong their registration in 
+the distant futureŠthe federal minimum registration period is 
+10 yearsŠmany states have lifetime registration fo
+r violent sex offenders, and some states have 
+lifetime registration for all sex offenses.  Mo
+reover, the consequences of notification (e.g., difficulty finding employment) may cause RSOs
+ to commit more crime (Freeman-Longo (1996), 
+Prentky (1996), Winick (1998), Presser and Gunn
+ison (1999), Edwards and Hensley (2001)).  In the context of our model, punishment (
+fi ) would stay constant for RSOs (or increase slightly), 
+while the relative utility 
+of criminal behavior (
+ui) would rise.12                                                  11 The registry might also lower the probability of punishment (
+pij) for first-time offenders if police shift 
+resources towards monitoring RSOs.  Unfortunately
+, we cannot determine whether this occurs. 
+12 Although we conceive of these burdens on offenders 
+as raising the relative utility of criminal behavior, one 
+  8 In addition, by allowing local re
+sidents, friends, and acquaintances to identify and avoid registered offenders, notification may increase th
+e costs of targeting this subset of potential victims (
+cij).  Indeed, a major motivation for the pa
+ssage of Megan™s Law was the belief that Megan Kanka would have avoided her fate had her parents been notified of her eventual attacker™s presence in the neighborhood.  However, it is uncl
+ear to what degree notification will reduce the overall
+ number of sex offensesŠnotification 
+may instead ﬁaccomplish nothing more 
+than changing the neighborhood in which the offender looks for victimsﬂ (Prentky (1996)).  In 
+other words, notification may disp
+lace crime rather than reduce it.
+13    
+ While we lack information on whether any particular crime in our data was committed by 
+a registered sex offender, the ideas laid out above suggest how the effects of these laws can be 
+identified and distinguished by using variation in the size of sex offender registries.  Specifically 
+the effect of registration on crime via increased probability 
+of punishment should be small when 
+relatively few offenders are registered, and should grow with the relative size of the registry.  The potential impact of registration on the punishment level (
+fi) for forward-looking, unregistered individuals, however, would not depend (or depend very little) on the size of the 
+registry.  Likewise, notification may raise the punishment (
+fi) for potential (or unregistered) sex offenders, reducing aggregate crime, irrespectiv
+e of the size of the sex offender registry.14  Notification may also have severa
+l, offsetting effects on the behavior of registered sex offenders by increasing the cost of targeting local victims (
+cij), increasing the probability of punishment for 
+local crimes (
+pij), slightly increasing the level of punishment (
+fi), and increasing offenders™ relative utility of crime commission (
+ui).  The consequence of thes
+e combined effects for overall 
+crime is indeterminate, but it is likely to
+ grow in magnitude with registry size.  
+                                                                                                                                                               could also think of them as lowering punishment levels because they make life in prison seem relatively more 
+attractive.  Regardless, both effects would increase the numb
+er of offenses committed by registered sex offenders. 
+13 In addition to raising the cost of targeting local vict
+ims, notification may also raise vigilance and knowledge 
+of an RSO™s actions within his neighborhood.  This ﬁcomm
+unity policingﬂ effect (Lie
+b (1996)) could increase the 
+likelihood that an offender is apprehended if he attacks 
+a local victim.  Again, if th
+e likelihood of punishment only 
+rises for crimes against local victims, offenders may simply offend in other neighborhoods.  Crime displacement has 
+
+been an important consideration in othe
+r empirical research on criminals™ resp
+onses to changes in their environments 
+(e.g., Jacob et al. (2004), Di Tella an
+d Schargrodsky (2004), Iyengar (2007)). 
+14 This response may in turn affect aggregate offe
+nder-victim relationships if offenders™ probability of 
+punishment is correlated with their relationship to victims.  For example, the reporting rate to police, and hence the 
+probability of punishment, may be lower for crimes committed against children within families (see Filler (2001)). 
+  9 To carry out this analysis, we estim
+ate the following reduced-form equation: 
+jtsjtst3st2st1st0sjjttjjtRgSizeNtRgNtRgDXCrime*                                 (2) 
+Crimejt is a measure of crime frequency (e.g., o
+ffenses per 10,000 people) for reporting area j in time period 
+t.  j is a reporting area fixed effect to captu
+re any persistent heterogeneity in crime 
+across areas, 
+t is a time effect to capture secu
+lar changes in crime over time, and 
+Xjt are time-
+varying reporting area characteristics th
+at are likely to impact crime.  
+stRgand stNt are vectors indicating that state 
+s had a sex offender registry or a notification law in place during time period 
+t, and RgSizejt is a vector measuring the size of the offender registry in area 
+j in time period 
+t.  sjD indicates that
+ reporting area j is located in state 
+s.    0 represents the deterrent effect of an offender registry on non-RSOs and should be negative in sign if the registry increases the pun
+ishment faced by unregistered individuals (due to 
+the threat of future registration).15  A stronger prediction of our model, however, is that 2 should be negativeŠan increase in the probability of punishment for RSOs should lower crime by more 
+when there are relatively more RSOs, i.e., when 
+the registry is relativel
+y large because relatively more potential recidivists are registered.
+16  1 captures the effect of 
+notification on potential (or unregistered) sex offenders.  We hypothesize that 
+this coefficient should be negative, reflecting                                                  15 We use the term non-RSO to refer to both first-time offenders and individuals previously convicted of a sex 
+offense but not required to register (e.g., offenders released prior to the passage of a non-retroactive registration 
+law).  Also, the identification of 
+0Šthe effect of a registry with no registrantsŠhas no in-sample variation from a 
+few of the states in our analysis.  Massachusetts™ and Sout
+h Carolina™s registration laws 
+retroactively affected large 
+numbers of released offenders, and Texas and Utah joined the NIBRS well after their registries had begun.   
+16 Registry size could, in theory, influence the behavior of 
+potential
+ sex offenders if their behavior responded 
+either to contemporaneous registry si
+ze or the expected size of the regist
+ry in the future.  In that case, 
+2 and 3 would capture mixes of deterrence and recidivism reduction.  Potential offenders 
+might
+ have believed that resources 
+devoted to tracking each offender would grow with registry size, or they might have believed the opposite or 
+
+nothing.  They may have believed a large registry would overwhelm the public with information or reduce the 
+stigma against sex offenders as more offenders were ﬁrevealed,ﬂ or they may have believed that larger registries 
+would attract more attention and more stigma surrounding sex offenders (which is what seems to have occurred).  
+
+Nevertheless, we know of no evidence that potential offenders considered registry size in making their decisions, 
+and it seems to us improbable.  Still, although we interpret 
+2 and 3 as recidivism effects al
+one in the remainder of 
+the paper, some small portion of the effects we identify could result from non-registered offender behavior. 
+  10the greater punishment for unregiste
+red individuals from notification.
+17  In contrast, there is no clear prediction for 
+3 due to notification™s offsetting effects on RSO behavior.  A finding that 
+3 is negative would indicate that notification reduces the availabil
+ity of victims and would bolster 
+claims made by proponents of notif
+icationŠafter all, protecting the public from recidivism was 
+the law™s intended effect.  However, if offenders shift to more distant victims or commit more 
+
+crime because publicity has made criminal behavi
+or relatively more attr
+active, our estimate for 
+3 could be close to zero or even positive.
+18  We can also use Equation 2 to examine the 
+impact of registration 
+and notification on the distribution of relationships betw
+een victims and offenders.  Because registration laws apply to 
+sex offenses regardless of the victim-offender 
+relationship, if a law increases punishment for 
+non-RSOs (0 and 1), the effect should be similar across a
+ll relationship types.  However, with respect to RSO behavior, the impact 
+of a registry should be greatest (2 most negative) for offenses against ﬁlocalﬂ victims.  We would expect
+ to find a smaller negative effect with respect 
+to distant relationship offenses or, potentially, a positive effect if offenses are being displaced 
+from local to distant victims (e.g., 
+strangers).  How the effect of notification on RSO crimes (
+3) should vary across victims is unclear.  If the in
+creased cost of targeting local victims is a 
+dominant effect, then a negative effect for local 
+victims and a zero or positive effect for distant 
+victims is likely.  However, if 
+the increased relative utility of crime commission is the dominant 
+effect, then we might see a positiv
+e effect across all victims.   
+                                                 17 The identification of 
+2 relies to a greater extent on out-of-sample
+ variation because only a few of the NIBRS 
+states passed a ﬁfull notificationﬂ statute at the same time as
+ their registration law, and most states did not do so until 
+several years after their registration law became effectiv
+e.  Nevertheless, our data does include a considerable 
+number of observations in which the number of registered offenders per 10,000 persons is quite low relative to the 
+sample mean.  For example, the 10th percentile registry si
+ze among observations with a 
+full notification law in place 
+is about 6 offenders per 10,000 persons, and the 10th percentile
+ within each state is at or below 6 per 10,000 in nine 
+of the fifteen NIBRS states.  Our estimat
+es, presented below, suggest that a notification law with this low level of 
+registration would still have a negative and statistically significant effect on crime frequency.   
+18 One concern with the use of registry size is the potentia
+l for reverse causation, given that registry size will be 
+influenced by the number of sex offenses committed in the past.  In practice, however, registry size is primarily a 
+function of how long the registry has been in existence, the degree to which the registration law applied retroactively 
+
+to previously released offenders, the inclusion or exclusio
+n of offenders convicted of less serious crimes, and overall 
+compliance with the registration law.  Additionally, the lag 
+with which new offenders are added to the registry is 
+likely to be quite long.  For individuals sent to prison in 2002 whose first listed offense was Rape, Sexual Assault, 
+
+and Child Molestation, the median sentence length was 120, 72, and 68 months, respectively, and the fraction with a 
+sentence of one year or less was 1.7, 2.5, and 1.8 percent, respectively (authors™ calculations, 2002 National 
+Corrections Reporting Program data).  Thus, only a very small amount of registry size growth is due to recent 
+
+convictions, and any short-run change in the frequency of sex offenses driven by other factors is unlikely to be 
+correlated with sh
+ort-run changes in registry size. 
+  11 When examining arrests and dropped cases to 
+interpret the crime frequency results, we 
+use incident-level data to estimate similar equations.  For example:   
+itsitst3st2st1st0siittjitRgSizeNtRgNtRgDXArrest*                                 (3) 
+Subscript i denotes an incident in reporting area 
+j.  Incident-lev
+el variables (Xit) include details about the crime known to police (e.g., characte
+ristics of the victim, offender, and their 
+relationship, the offense type, the number of victims and offenders 
+involved, etc.).    When predicting the effect of registration a
+nd notification laws on arrests, both police and offender behavior are relevant.  A registry or a notification law should not influence the likelihood of arrest for non-RSOs (0 and 1) through changes in police behavior because police have no additional information about these individuals.
+19  However, if the punishment level (
+f) rises, potential offenders may offend less, subs
+tituting away from marg
+inal victims where the 
+probability of punishment (
+p) is relatively highŠsuggesting that any effects on the likelihood of arrest (
+0 and 1) should have the same signs as on offense frequency (
+0 and 1).   
+ The predicted effect on arrest rates for RSO cr
+imes is also unclear.  The direct effect of 
+the registry (
+2) should be to increase arrest rates, reflecting increased monitoring and 
+apprehension.  However, RSOs may respond by for
+going offenses against victims where arrest is 
+relatively more likely.  Therefore, the effect on arrests should be positive if there is no change in recidivism, but small if RSOs offend less or 
+shift toward victims where the probability of 
+punishment has not risen.  A similar analysis 
+applies to notification.  A direct effect (3) on RSOs via ﬁcommunity policingﬂ should increase the 
+arrest probability.  Howe
+ver, if local victims 
+use notification to avoid RSOs, increasing targeting costs (c), offenders will only attack local 
+victims with low probabilitie
+s of punishment, and average 
+observed
+ arrest rates will drop.  Notification may also increase the number of offe
+nses by increasing the relative utility of crime 
+commission (
+u).  This would increase arrest probabiliti
+es, theoretically, as offenders victimize 
+those for whom the probability of punish
+ment was previously too great.   
+                                                 19 Importantly, if monitoring RSOs or responding to c
+itizen complaints about RSOs becomes so expensive or 
+time consuming that the police are not able to investigate cr
+imes or perform other activities (e.g., foot patrols) likely 
+to deter crime, then non-RSOs would eventually per
+ceive the effects of these changes and might react by 
+committing more crime. 
+  12Thus, the impact of these policies on arrest pr
+obabilities must be inte
+rpreted in light of their impact on overall crime frequency.  In genera
+l, our analysis of arrest data (and of dropped cases) aids in verifying the robustness of our offense frequency findings.  Table 1 gives the 
+predicted relationships between the registration and notification variables in Equations 2 and 3 and the model parameters and outcomes of interest.
+20    4.  Data  NIBRS, our primary data source, is a pa
+rt of the FBI™s Uniform Crime Reporting 
+Program (UCR), but presents several opportunities
+ for research that are unavailable with 
+standard UCR data.  First, NIBRS links informa
+tion on victims, offenders, and arrestees for each incident in the dataset.  Thus, in addition to examining the impact
+ of registration and notification on reported crime frequency, we are able to exam
+ine effects on the relationship mix between 
+offenders and victims (or the ﬁincidenceﬂ of sex offenses) and on the ability of police to secure 
+
+an arrest for a reported crime.  Second, the timing 
+information of each incident is superior in the 
+NIBRS data, allowing us to better exploit within-year variation in the timi
+ng of sex offender laws to identify our results.  While UCR data are avai
+lable by month, the UCR date reflects when an 
+incident was reported, whereas NIBRS re
+ports the date the incident occurred.21    NIBRS does suffer from significant limitations, 
+however.  First, like most crime data, 
+NIBRS only contains information on incidents reco
+rded by police.  Changes in reported crime 
+may be driven by true changes in victimization or
+ by changes in reporting.  We return to this 
+issue when interpreting our findings.  Another limitation is that
+ NIBRS data only started to become available in the 1990s, and only a subset of
+ states participates in the program.  In 1995Š
+                                                 20 We also examine ﬁdropped casesﬂ following arrest that
+ are due to non-cooperation by victims or decisions by 
+prosecutors not to pursue a case.  These variables are ava
+ilable in the NIBRS and are of interest to us, but are not 
+part of our model and so we leave discussion of
+ these issues until we present our results below. 
+21 If the date of occurrence is not known to the policeŠthis occurs for about 20 percent of sex offensesŠthen 
+NIBRS reports the date on which the crime was reported.  
+Unfortunately, NIBRS does not report both dates, so we 
+cannot directly measure the lag between occurrence and report.  However, we can get a sense of the gap between 
+incident and report dates by exploiti
+ng the fact that a subset of crimes 
+reported in NIBRS took place in a prior 
+calendar year (i.e., some crim
+es that occurred in year 
+T are reported in the data from year 
+T+1).  We examine all sex 
+offenses (excluding 2005) by the calendar month in which 
+they took place and measure th
+e fraction reported in the 
+following year.  Of the sex offenses th
+at took place in December, 11 percent we
+re reported the year after, while the 
+corresponding figures for November, July, and March were 7,
+ 2 and 1 percent, respectively.  Thus, most crimes are 
+reported within a few months after they
+ take place but a non-trivial 
+fraction is reported with 
+a considerable lag.  In 
+any event, our qualitative results are not sensitive to dropping
+ crimes for which an incident date is unavailable. 
+  13one year after the federal governme
+nt required that states create sex offender registries and one year before it required the registry information to be publicŠthe
+re were just nine states; by 1998, eight more states had joined, and 30 states were
+ included as of 2004.  Our analysis focuses on 15 
+states that were in the NIBRS by 1998:  Colorado, Connecticut, Idaho, Iowa, Kentucky, 
+Massachusetts, Michigan, Nebraska, North Dakota, Ohio, South Carolina, Texas, Utah, Vermont, and Virginia.
+22  Third, within each state, the num
+ber of reporting agencies (or ORIs) generally increases over time.  We
+ include ORI fixed effects in all of our regressions.  Thus, in 
+addition to taking account of the growth in the nu
+mber of reporting agencies over time, we also 
+control for persistent heterogeneity in ORI characteristics.
+23  In NIBRS, multiple offenses can be reported in
+ a single incident, and so we classify an 
+incident as a sex offense if any of the reported offenses fell under one of three sex offense categories: rape and sexual assa
+ult, sexual molestation (called ﬁf
+orcible fondlingﬂ in NIBRS), or other non-violent sex offenses (i.e., ﬁincestﬂ and ﬁstatutory rapeﬂ).24  We also create variables for 
+the relationship between victims and offenders by 
+dividing victims into three groups based on the 
+intimacy of their relationship with
+ the offender: ﬁclose,ﬂ ﬁnear,ﬂ and ﬁstranger.ﬂ  The close group includes family members, signif
+icant others, and friends; the near group includes neighbors, acquaintances, or offenders ﬁotherwise known,ﬂ and the stranger group includes incidents where the victim claimed the offender was a stranger 
+or where the offender-v
+ictim relationship was 
+unknown to the victim (which is distinct from ﬁmissingﬂ).   
+                                                 22 These states are geographically
+ diverse, but they do not 
+include any states from the 
+far west (e.g., California) 
+or the ﬁdeepﬂ South (e.g., Mississippi).  Tennessee and West Virginia also joined the NIBRS in 1998.  However, 
+both had passed registration and notification laws by that time, so we did not pursue them further. 
+23 Although the NIBRS surveys ORIs on a monthly basis, 
+an ORI may not complete every report in a year.  We 
+exert considerable effort to ensure th
+at our results are not driven by report
+ing errors, a full accounting of which is 
+given in the Data Appendix.   
+24 Incidents of other crimes are used in our analysis to
+ control for other time varying factors that cause changes 
+in crime rates within an ORI over time.  We classify non-sex
+ crimes as either ordinary 
+assault or ﬁotherﬂ crime, in 
+order to control for overall rates of crime and a type of vi
+olent crime arguably more similar to sex offenses.  We 
+classify an incident as an assault if one of the offenses listed fell under an assault category but none of the offenses 
+was a sex offense.  This latter condition affected only a small number of incidents: only 0.3 percent of incidents with 
+
+a sex offense also had an assault and just 0.02 percent of assaults also had a sex offense.  Likewise, incidents of 
+ﬁotherﬂ crime do not contain either a 
+sex offense or an ordinary assault. 
+  14Table 2 shows summary statistics on the sample of incidents we examine.
+25  For purposes of comparison, we also include information on or
+dinary assaults.  Assaults are more common 
+than sex offenses, with more than 14 assaults for every sex offense.  Repor
+ting of incident dates, arrest rates, and time until arrest are quite different for the two types of crime.  The frequency 
+
+with which incident dates are not reported (and only a report date is available) is higher for sex offenses (19 vs. 13 percent).  Arrests are less common for sex offenses (26 vs. 37 percent) and 
+the time to arrestŠconditional on the arrest occu
+rring at least one day after the incidentŠis considerably longer (24 vs. 14 days).  The relationship between offenders and victim
+s is similar for sex offenses and assaults, 
+with family members and acquaintances as the 
+two most common categories of offenders.  The 
+overall fraction of (reported) incidents with an acquaintance is somewhat higher for sex offenses 
+(31 vs. 24 percent) but incidents of sex offense are less common between all family members (26 
+vs. 30 percent) and significant others (8 vs. 18 percent).  For both sex offenses and ordinary assaults, in about 20 percent of incidents the victim claimed that the offender was a stranger or 
+did not know his/her relationship to the offender.   Assaults and sex offenses differ substantia
+lly in the demographic characteristics of 
+victims.  While 51 percent of sex offense vi
+ctims were below age 15, the corresponding figure for assault is only 9 percent.  Sex offense victims are also more likely to be female (87 vs. 58 
+percent) and white (78 vs. 68 percent).  Offender characteristics between the two crimes also 
+differ.  The age distribution of sex offenders is wider than for assault, with more mass in both the 
+youngest and oldest age groups.  Reported sex offenders are much more likely to be male (96 vs. 
+77 percent) and somewhat more likel
+y to be white (69 vs. 62 percent).  Finally, we classify each incide
+nt based on the laws in effect and the number of offenders on the registry at the time the crime took place.  
+When analyzing data aggregated to the reporting 
+agency-month level, our legal variab
+les reflect the law as of the 15
+th day of the calendar month.  
+While complete historical data on the size of registries is unavailable (particularly for early 
+
+years), we have gathered an extensive amount of
+ information on state registry sizes at various 
+points in time.  Under the assumption that regist
+ries grew smoothly over time, we can use this 
+                                                 25 Additional data detail can be found in Appendix Ta
+ble 2, which provides summary statistics on the 
+aggregated (to the ORI-month level) NIBRS data, the legal data, and the county and state demographic data we use 
+in most of our empirical work below. 
+  15data to estimate how registries evolved during our sample pe
+riod.  Details on this estimation 
+procedure are given in the Data Appendix.  5.  Crime Frequency and Relationship Mix Results 
+ We estimate the effects of registration 
+and notification laws using the regression specifications outlined in Section 3.  All regressi
+ons include ORI fixed effects, year and month 
+fixed effects, and control for annual per-capita income, unemployment, and poverty rates and the 
+fraction of the population in five ethnicity categories and five-year age categories at the county level.  In addition, for some sp
+ecifications, we include the number of ordinary assaults and of other crimes committed per 10,000 persons as proxies for ORI-specific time-varying factors that 
+
+influence crime rates and may be correlated with
+ the legal variables.  Though we do not report the coefficients, both assault rates and ﬁother crimeﬂ rates are always positively related to sex 
+
+offenses and are highly statistically significant.26    The registry indicator signifies that the stat
+e has an active offender registry, and registry size is measured using our empirical estim
+ates, as explained in the Data Appendix.
+27  For notification, recall that there are 
+three types of notification: pub
+lic access, internet access, and 
+community notification.  Within 
+these categories, we focus on statutes that implied widely 
+available or ﬁfullﬂ public access 
+to sex offender information, meaning access was not subject to 
+the discretion of local authorities and where the public could inquire about local offenders in general, as opposed to a specific person inquiry. 
+ Full internet access indica
+tes that the internet 
+                                                 26 Including assault and other crime may be problematic in that these may also be affected by sex offender laws, 
+depending on their substitutability/complementarity in 
+both their commission and reporting.  However, their 
+inclusion turns out to have little influence on our results 
+and, if anything, decreases the size of our estimated 
+coefficients.  We therefore view 
+them as appropriate controls for 
+time-varying unobservable factors. 
+27 Internet and active notification laws do 
+not
+ necessarily apply to all registered sex offenders.  In our sample, as 
+of 2008, seven of the fifteen states we
+ study listed 100% of their registered offenders on their web registry and ten 
+listed more than 95% of all registered offenders.  Ho
+wever, five states listed significantly less than 95% 
+(specifically, Colorado, Iowa, Massachusetts, Nebraska, 
+and North Dakota) on their internet registries.  
+Overestimating the size of the (internet access and active) no
+tification-relevant registry
+ should only affect our 
+estimates of the coefficient on the interaction of relevant 
+notification provision with registry size and, if anything, 
+the overestimate should bias these resu
+lts toward zero (making our estimates reported below a lower bound).  To 
+verify this logic, we ran regressions using a rough proxyŠthe ratio of individuals on a state™s web registry to the 
+total number of sex offenders registeredŠto calculate a separa
+te registry size for the interactions with an internet 
+site and active notification.  As predicted, the estimates 
+(discussed below) grew in magnitude and retained similar 
+statistical significance levels.  These results 
+are available from the 
+authors upon request. 
+  16registry is on-line and generally complete.
+28  Full community notification means a law that 
+makes notification mandatory and 
+requires either neighbors or the media be provided with sex 
+offender information.  Figure 1b shows the timing of the effective dates of these laws.  In our 
+
+regressions below, we define having a notification law to mean that at least one of these ﬁfullﬂ 
+versions of notification 
+is in place and effective.29  The unit of observation in our analysis is
+ an ORI-by-month cell, and the dependent 
+variable is measured as 
+annualized incidents per 10,000 persons covered by the ORI (i.e., we multiply monthly incident rates by 12, for ease of interpretation).
+30  The regressions are weighted by ORI population coverage so that the coefficients
+ reflect average changes in crime risk faced 
+by a typical person covered by the NIBRS sample, 
+and to account for likely heteroskedasticity.31  Finally, because our sample includes a small number
+ of states and our registry size variable is 
+empirically estimated, using standard OLS estimat
+es of standard errors or even clustering by state can lead to incorrect statistical inference (Donald and 
+Lang (2007), Cameron et al. (2007), 
+Murphy and Topel (1985)).  To correct our standard errors for both of these problems, we use a 
+bootstrap procedure, outlined in the Data Appendix.                                                   28 We located news articles in six states suggesting that th
+e internet registry was incomplete when launched, i.e., 
+it was missing information on a large share of registered offenders.  For two of these states, we found notice of when 
+the web registry was completed.  For the four states where we have an indication of incompleteness but do not have 
+any notice of completion, we consider the internet to be fully available three months after the site was launched. 
+29 Given the limited number of states and the fact that notification laws are designed to work in a similar 
+fashionŠlowering information costs and increasing 
+disseminationŠour primary specification uses any full 
+notification law in effect.  One complication that arises from
+ this framework is that two states in our sample (Texas 
+and Ohio) had registration and no
+tification laws in place prior to the start of
+ the NIBRS data period.  Thus, variation 
+in crime frequency within these states 
+does not contribute to the identification of the main effects of these laws.  
+Dropping these states from our sample has very little impact
+ on our results, and we report
+ replications of our main 
+results with a restricted 13 state sample in Appendix Table 3. 
+30 Studies of crime frequency often examine the natural 
+log of crime as a dependent variable in regression 
+analysis (see, e.g., Shao and Li (2007)).  This transformation is problematic in our case because we use monthly data 
+from very disaggregate areas and therefore have many observations in which zero sex offenses occur.  However, for 
+comparison purposes, we also estimate regressions where the dependent variable is the natural log of offenses plus 
+
+one per 10,000 persons.  The results from these specificati
+ons are quite similar in sign and significance to our 
+measure of crime per 10,000 persons, and 
+are available upon request.  The similarity of the results is not surprising, 
+given that we weight our analysis by covered population an
+d thereby rely more on larger
+ areas that are unlikely to 
+have months without the occurrence of at least one sex offense. 
+31 To illustrate the heteroskedasticity issue, suppose we 
+have two ORIs, each with te
+n sex offenses per 10,000 
+persons in a given month, but one ORI has 1000 persons and another has 100,000.  These two values correspond 
+
+roughly to the 5
+th and 95
+th percentile of covered population among ORIs in our sample.  The smaller ORI in this 
+example had only one sex offense, and would drop to zero per 10,000 persons if there are no crimes the following 
+month (which is quite likely to happen given sampling variation).  In contrast, the large ORI had 100 sex offenses 
+during the month, and is much less likely to drop to zero per 10,000 due to sampling error. 
+  17Our results for the overall frequency of sex offenses are shown in Table 3.  We find no 
+evidence that registries deter first-time sex offende
+rs.  Specifically, the impact of an (empty) sex 
+offender registry is estimated to be positive, 
+but imprecisely estimated.  Importantly, however, 
+we do find that requiring registration reduces recidivism
+, presumably by increasing monitoring 
+and the likelihood of punishment fo
+r potential recidivists.  The interaction of the registry indicator with the size of the registry is negative and statistically significant, as predicted by our model.  The estimate in column (2) of -0.096 imp
+lies that each additional sex offender registered per 10,000 people reduces reported annual sex offenses per 10,000 by 0.096 crimes.  This is a 
+
+substantial (1.1 percent) reduction and, if correct, would support placing information about 
+offenders in the hands of local law enforcement to combat recidivism. 
+ Notification laws also appear to affect the 
+frequency of sex offenses.  The estimates in 
+Table 3 suggest that notification makes a noticeabl
+e difference in criminal behavior, but not in 
+the way that proponents of these laws in
+tended.  The estimated effect of the 
+existence
+ of a notification law on the frequency of sex offenses is negative and statistically significant.  If our identifying assumptions are correct, the estimate 
+in column (2) suggests 
+that notification laws reduce crime frequency by -1.05 crimes per 10,000 
+persons per year (about 11.5 percent) via a deterrent effect on individuals not currently registered as sex offenders.  But the interaction of notification with registry size is 
+positive and statistically significant.  In the context of our model, 
+this implies that any beneficial impact of regi
+stration on recidivism is dampened by the use of 
+notification.  This also suggests that the punitive aspects of notification laws may cr
+eate perverse effects (as discussed in Section 3).  A basic tr
+ade-off may exist in the 
+sex offender notification contextŠwhile some first-time offenders are de
+terred by notification sanctions, the imposition of 
+those sanctions on convicted offenders ex post may
+ make them more likely to recidivate.
+32 Assuming our evidence is accurate and our
+ interpretation is valid, how should a 
+legislature approach this trade-off?  For a simp
+le back-of-the-envelope analysis, imagine a state 
+                                                 32 Another possible explanation for the increase in crime frequ
+ency associated with an increase in registry size is 
+that either the state authorities or citizens become overwhe
+lmed with the number of offenders as the registry size 
+grows.  This strikes us as unlikely.  First, with respect to the police, we continue to see a reduction in the number of 
+
+offenses as the registry grows under a registration regime
+, suggesting that, although su
+rely costly, police are not 
+being overwhelmed to the point where an additional regist
+rant actually reduces the overall effectiveness of the 
+system.  Second, notification regimes are primarily local.  Therefore, most of the increase in registry rolls amounts 
+
+to an increase from zero registered o
+ffenders to two or three in a neighborhood or zip code.  Citizens are not 
+expected to track thousands of offenders, and, indeed, notification systems are not designed to work that way.   
+  18that must decide 1) whether to 
+enact a registration law, 2) whet
+her to enact a notification law, and 3) how many offenders to cover with these laws
+.  We estimate that an empty registry has an 
+insignificant positive effect on annual sex offenses (0.24 per 10,000 people, p-value 0.62).  
+
+However, actual registration of offenders (absent notification) appears to reduce crime.  For 
+example, the estimated total effect of registrati
+on with an average-size registry (16 offenders per 10,000 people) is a reduction of 1.3 sex offenses per 10,000 people (p-value 0.07).  On the other 
+hand, notification laws appear to be attractive only when the size of the registry is relatively small.  We estimate that implementing a notific
+ation law deters 0.64 yearly sex offenses per 10,000 people (p-value 0.04) for a registry with 4.7 offenders per 10,000 persons (the 10th percentile of registry size).  In contrast, combining a notification law with a registration law 
+when the registry is of average size has an insignificant 
+positive effect on sex offenses (0.34 per 10,000 people, p-value 0.33), though the overall impact of the combined laws is still a reduction 
+of 0.94 yearly sex offenses per 10,000 people (p-value 0.18).   If a state uses both registration and notification, the level of coverage, assuming equal 
+coverage, turns out to be somewhat unimportant
+ if the only criterion is the total number of 
+crimes committed.  This is because the notification 
+interaction coefficient is similar in magnitude 
+to the registration interaction coefficient, and the 
+difference is not statistically significant.  As a result, our data do not indicate that a larger registryŠwhen comb
+ined with notificationŠreduces 
+crime.  In fact, a larger registry may incr
+ease overall sex offense frequency.  Given the significant social and individual costs of maintaining a large regist
+ry, one possible implication of these estimates is that states should consider na
+rrow notification regimes, in which all or most 
+sex offenders are required to register, but only a small subset of those o
+ffenders are subject to 
+notification.
+33  Alternatively, states might
+ consider notification substitutes capable of similar 
+deterrence gains, but that avoid notification-rela
+ted recidivism.  Because notification laws were 
+enacted to reduce recidivism, not to deter, ou
+r results suggest a reevaluation of notification requirements may be necessary.  
+                                                 33 As noted above, one-third of the states in our sample do not apply their most stringent notification 
+requirements to all RSOs.  Unfortunately, our empirical strategy precludes our saying anything about whether these 
+
+states are closer to a crime-minimizing mi
+x of sex offender policies.  Of course, in the context of our model, reduced 
+application of the stringent notification provisions may reduce their 
+deterrent
+ effect as well. 
+  19 We also estimate regressions in which 
+we disaggregate our previously singular notification measure into three different types 
+of notification regimesŠfull public access, full 
+internet access, and full active notification.
+34  As one would expect, disaggregating results in less precision, and yet the basic pattern of results is unchanged.  The co
+efficients on all three types of notification laws and their interactions with registry size have the same signŠnegative main 
+effect, positive interactionŠand the standard errors are too large to reject the hypothesis that they are equal.  Nevertheless, it is worth noting that the coefficient on the main effect of active 
+community notification is noticeably larger in magnitude, implyi
+ng greater deterrence of first-time offenders in the context of our model.  Th
+e strength of the active 
+notification result makes 
+sense, as active notification is perhaps the most
+ intrusive form of notification and therefore may 
+have particular deterrence value.  In Table 4, we investigate the extent to wh
+ich registration and notification laws may have 
+affected the relationship mix of of
+fenders and victims.  As noted 
+in Section 4, we divide victims 
+into three groups based on their relationship with the offender: ﬁclose,ﬂ ﬁnear,ﬂ and ﬁstranger.ﬂ  Notification laws are designed specifically to protect individuals who know offenders or come 
+into contact with them in their local area by help
+ing these potential target
+s avoid situations in which they or their friends and relatives could be victimized.  Accordingly, we examine whether 
+(as lawmakers hoped) the frequency of crimes ag
+ainst victims who were close or near to the 
+offender drops, and whether (as lawmakers had 
+not hoped) the frequency of ﬁstrangerﬂ sex offenses increases due to crime displacement.  
+To interpret our results and understand the drawbacks of our a
+pproach, it is important to 
+recognize that the NIBRS relati
+onship variable has one geographic element (neighbor), but is 
+generally organized by the level of familiarity the victim has with the offender (e.g., friend, 
+acquaintance, etc.) or by family status (e.g., s
+pouse, sibling, etc.).  For our purposes, we are 
+interested in the effect of sex offender laws on crime in those relationships where the existence 
+of a notification regime would he
+lp a victim to learn of a poten
+tial offender™s status or where registration would help the police interfere with a crime or apprehend an offender.   
+For notification-based recidivism reduction, 
+our model suggests that the ﬁneighborﬂ and ﬁacquaintanceﬂ relationships, although they are 
+both under- and over-inclusive, are the most 
+                                                 34 These results are available 
+from the authors upon request. 
+  20susceptible to change.  Family members (s
+pouses, siblings, etc.) presumably already 
+know
+ of an offender™s status (although perhaps not in every caseŠe.g., step parent), and strangers (who are not neighbors, by assumption) would have less reason to learn of an offender™s status.  Moreover, web registries require either a request about a specific person or a localized search around an address (i.e., a neighbor) and active notification regimes typica
+lly notify only neighbors (those within a specified radius of an RSO™s address)
+ or former victims.  Both facts decrease the 
+likelihood that individuals would have significant knowledge regarding offenders who do not live nearby and with whom they do not
+ have any personal connection.   Thus, a reduction in recidivism due to notif
+ication should primarily reduce the frequency 
+of offenses against ﬁnearﬂ victims (neighbor
+s, acquaintances, or ﬁotherwise knownﬂ), even though the categories that make up ﬁnearﬂ vi
+ctims are a hodgepodge of geographic and familiarity considerations.  Similarly, under regi
+stration, our model indica
+tes that RSOs may be 
+more easily monitored (both around their familie
+s and in their neighborhoods) and more easily 
+identified as suspects when a nearby crime occurs
+.  Therefore, we predict that a registration regime is most likely to imp
+act ﬁcloseﬂ and ﬁnearﬂ offenses. 
+ The results of our incidence analysis suppor
+t these predictions and the interpretation of the results presented in Table 3.  According to our model, the deterrent effects of registration and 
+notification laws should not alter the relationship mix of sex 
+offenses because, by definition, first-time offenders are not currently register
+ed (so neighbors, for example, cannot protect 
+themselves).  The results in Table 4 are cons
+istent with this predictionŠnotification has a deterrent effect that is, percentage-wise, si
+milar in magnitude across relationship groups, 
+although the estimate for strangers is
+ not precisely estimated.  In a
+ny event, there is no evidence that the effect differs across groups, and, for all groups, the estimated coefficients on the 
+indicator for having a registry are not statistically significant.   
+However, consistent with the hopes of policymakers, the interactions between the 
+registration law indicator and the size of the registry are negative and of similar magnitude for 
+both the close and near victim groups.  In cont
+rast, the estimated inte
+raction for the stranger group is slightly positive, and, though statistically indistinguishable from zero, fairly precisely 
+estimated.  The effects in Table 4 for ﬁcloseﬂ an
+d ﬁnearﬂ victims are marginally significantly 
+different from zero (p-values of 0.15 and 0.10, respectively), consistent with the idea that   21registration helps reduce crime by local offenders 
+against local victims or family members.  The 
+estimates imply that each additional register
+ed sex offender per 10,000 persons reduces these 
+group specific sex offense rates, in total, 
+by 0.063 per 10,000 persons.  Registration of sex offenders with law enforcement does not appear 
+to reduce crimes committed against more distant 
+individuals, but the estimated coefficient in colu
+mn (4) also does not indicate an increase in sex offenses against strangers due to displacement, as some critics feared might happen.
+35  Our model provides an ambiguous prediction for 
+the effect of the interaction between the notification law indicator and the si
+ze of the registry.  If notification laws make it more costly for 
+a sex offender to target local victims (raising 
+cij), then we should see negative effects on the 
+frequency of sex offenses for ﬁnearﬂ and ﬁcloseﬂ victims, but less of a reduction or even an 
+increase (if there is displacement) for stranger vic
+tims.  Alternatively, if notification laws instead 
+primarily reduce the rela
+tive utility of legal behavior for RSOsŠby making life outside of prison 
+less attractiveŠcrime might increase as the registry
+ grows.  Furthermore, if notification laws do 
+not alter the relative cost of a
+ttacking certain victims, crime increases should be similar across 
+groups.  Table 4 favors this last scenario.  The 
+notification-registry size
+ interaction is positive 
+and statistically significant across all groups, and, as percentages, the increases are almost identical (with stranger crimes 
+increasing by 0.77 percent, while crimes against close and near 
+victims rose by 0.90 percent and 0.69 percent, resp
+ectively).  Thus, notification may serve as a 
+deterrent against non-registered offenders, but ma
+y be less effective at reducing recidivism by 
+prompting local victims to protect themselves.  In 
+fact, a relative utility effect, one that increases 
+recidivism of sex offenders subject 
+to notification, seems plausible.   
+The estimated effects of registration and notif
+ication laws on various arrest variables for 
+all sex offenses are shown in Table 5.36  Neither of the arrest variables shows a statistically 
+                                                 35 We have also conducted an analysis that disaggrega
+tes ﬁcloseﬂ relationships into 
+ﬁfamilyﬂ and ﬁnon-familyﬂ 
+(i.e., significant others and friends).  The results for both
+ groups were similar in sign
+ and statistical significance to 
+the results for all ﬁcloseﬂ relationship crimes.   
+36 For analysis of arrests and dropped cases, as noted in 
+Section 3, we examine incident-level data instead of 
+ORI-month aggregates.  We also drop the controls for assaults and other crimes (which are aggregate statistics) and 
+include incident-specific variables in addition to victim
+ and offender age indicators, 
+victim and offender sex and 
+ethnicity indicators, indicators for the type of offender-victim relationship, indicators for the number of victims and 
+the number of offenders (capped at four), and indicators for the type of sex offense (i.e., rape and sexual assault, 
+sexual molestation, other non-violent sex offense).  The motivation for this added set of covariates is to control as 
+
+best we can for the information available to law enforcement authorities and to examine law enforcement 
+performance conditional on this information.   
+  22significant relationship with either type of law.  If the decrease in crime frequencies associated 
+with registration was indeed caused by increa
+sed probability of punishment, the response by 
+offenders to this changed probability must undo (in 
+equilibrium) any detectable change in arrest 
+probability and in the time to arre
+st.  The notification coefficients show the same pattern.  A 
+notification law may reduce the number of crimes, 
+but does not appear to increase the probability 
+of arrest.  The coefficient on the interaction of notification with registry size is also statistically 
+
+insignificant.  The estimate is positive, as woul
+d be predicted by a change in crime due to a 
+relative utility effect, but it is also very imprecisely estimated.
+37 At a minimum, our analysis provides eviden
+ce to support the claims
+ of those who argue that registration and notification laws matter.  Registration laws 
+seem to reduce recidivism, and 
+notification laws appear to deter those not currently registered.  Our work also suggests that notification laws may harden registered sex o
+ffenders, however, making them more likely to 
+commit additional sex offenses, perhaps because crim
+inal behavior is relatively more attractive 
+for registered sex offenders living under a notification regime.  
+ 6.  Robustness Checks In this section, we address possible concerns about our results and our interpretation of them.  We inquire first into the possibility that
+ our results are due to some omitted variable or 
+trend by checking whether our identification approach generates similar results for non-sex 
+related crimes.  We also discuss the robustness 
+of our specification and sample choice.  Second, 
+we consider whether our results, especially with 
+respect to the ﬁrelative utility effect,ﬂ might be 
+driven by changes in reporting behavior.  We cannot
+ completely rule out this possibility, but we 
+present a number of findings that seem inconsistent with this explanation.  
+                                                 37 With respect to dropped cases, we find little evidence that the probability a victim would not cooperate was 
+associated with the registration and notification variables.  Looking at the probability that the prosecution decides 
+not to prosecute someone for lack of evidence, we find suggestive evidence that this occurred more frequently in 
+
+areas with a registry in place but few regi
+stered offenders, but less frequently 
+as the number of registered offenders 
+rose, at least until the advent of notification.  This result 
+could make sense.  For example, prosecutions may suffer at 
+the start of a registration regime as police personnel ar
+e used and criminal justice 
+resources are spent on the 
+construction and introduction of the regi
+stry, but as the number of registered
+ offenders rises, police may have access 
+to more and better information about local offenders, leading 
+to stronger average cases.  
+Later, with the arrival of 
+notification, prosecutors may find that 
+the advantages of registration informa
+tion to the state became degraded when 
+community members also had this information, perhaps becau
+se of false accusations (to which we will return).  The 
+evidence here, however, allows only speculation. 
+  23 6.1. Falsification Tests and Specification Checks 
+ One concern with our basic results is that 
+there may be changes in crime frequency due to 
+other unobservable factors correlated with registration and notification laws.  We control for a 
+number of local economic and demographic vari
+ables and for contemporaneous crime, but our 
+empirical strategy may still suffer from omitted variables bias.  To increase our confidence that 
+
+there is indeed a relationship between sex offe
+nses and registration and notification laws, we repeat our analysis on the overall frequency of other types of crime that we believe are far less likely to be affected by the crim
+inal behavior of sex offenders or individuals on the margin of committing a first sex offense.  We expect these 
+ﬁplacebo testﬂ estimates to show no statistically 
+significant relationships between the laws and crime frequencies.
+38    We selected auto theft, drug offenses, fr
+aud, weapons violations, forgery, and larceny because, while our intuition is that these crimes
+ are quite different from sex offenses, many of 
+them occur with roughly similar fr
+equency.  Of the 24 coefficients we estimate, we find only two 
+statistically significant relationships between reported crime 
+rates in these non-sex offense categories and our registration and notification variables (which
+ might easily occur randomly), 
+and neither of these coefficient estimates mimics our basic results.
+39  More importantly, the signs and magnitudes of all of the coefficients increase 
+our confidence that our earlier results are not 
+driven by spurious correlation with general trends in crime.  Fo
+r example, the coefficients on 
+registry size are all positive or very close to zero in these specifications.    Another concern when dealing with relatively
+ few states in a quasi-experimental setting 
+like ours is that one large state might plausibly account for all of
+ the relevant results (see Currie                                                  38 According to our model, the relative utility effect 
+generated by notification mi
+ght cause registered sex 
+offenders to commit more crime in general.  In that sense,
+ with respect to the interaction of notification laws and 
+registry size, this exercise should 
+not be viewed as a falsification check in the usual sense.  However, we 
+purposefully selected a number of comparison crimes that are very different from sex offenses to reduce the 
+likelihood that changes in the behavior of registered sex offenders would show up in their overall frequencies.  
+Released sex offenders do commit many other types of crime besides sex offenses.  For example, among all sex 
+offenders released in 16 states in 1994, subsequent arrests 
+for auto theft occurred half 
+as frequently as arrests for 
+another sex offense (Authors™ Calculations, data from ICPSR Study #3335 ﬁRecidivism of Prisoners Released in 
+1994ﬂ).  However, while released sex 
+offenders are far more likely to be arrested for sexual offenses than other 
+released criminals, they are considerably less likely to be
+ arrested for the crimes we 
+consider here.  Given that 
+released sex offenders constitute a relatively small portion 
+of all released criminals, it seems likely that the portion 
+of incidents committed by sex 
+offenders in these ﬁplaceboﬂ
+ categories is very low. 
+39 For weapons crimes, there is a significant negative co
+efficient on the indicator 
+for whether a registry is 
+effective, but we previously found no evidence that the ex
+istence of a registry alone had any effect on sex offense 
+frequency.  Registry size also has a 
+significant effect on the number of
+ larcenies, but the sign is wrong. 
+  24and MacLeod (2007)).  We check the robustness of our findings to this possibility by running a series of regressions in which one state is dropped from the samp
+le.  We find that the estimated 
+coefficients remain quite robust 
+to the exclusion of each state. 
+Our analysis controls for ORI effects, m
+onth and year effects, local economic and 
+demographic characteristics, and for contemporan
+eous crime trends, but it remains possible that 
+our approach attributes the consequences of some unknown trend to our registration and notification variables.  Up to this point, we have
+ not included state-specific trends in our analysis because one of our key variablesŠregistry 
+sizeŠclosely approximates a state trend (see 
+Appendix Figure 1).  By including a state trend as a control variab
+le, we effectively throw away 
+a great deal of information in 
+an attempt to account for a possi
+ble, but entirely hypothetical and 
+unknown state-level linear trend.  Nevertheless, even though we view our earlier results as more 
+reliable, estimating such specifi
+cation is a useful exercise. 
+In Table 6, we present our original results, along with the results from a specification that 
+includes state-specific linear trends (in columns (3
+) and (6)).  Our findings are fairly robust to the inclusion of the trends.  The magnitude of th
+e direct notification effect drops, but remains 
+marginally statistically significant (p-value of 0.16).
+40  The coefficient on registry size is smaller 
+but similar in magnitude relative 
+to the other specifications and marginally significant (p-value 
+of 0.13).  The interaction of notification and registry size remains highly significant regardless of the specification.  The inclusion of linear state-specific trend controls thus changes the picture slightly, but, in most important respects, the 
+basic results from Table 3 remain intact.  
+Equation 2 assumes that the effects of registra
+tion and notification laws on RSO behavior 
+(but not non-RSO behavior) increase linearly with registry size.  This could be problematic for at 
+least two reasons.  First, notification regimes with very larg
+e registries might overwhelm 
+potential victims, making it less useful than a 
+narrow notification regime.  Second, and more 
+likely, a large registry could stretch police resources, making re
+gistration and notification less effective (and even counterproductiv
+e), at least once a registry reach
+es a certain size.  We believe 
+these effects are unlikely in prac
+tice.  The maximum registry size 
+in our sample is less than 40 
+                                                 40 It is worth noting that the coefficient on notification is statistically significant at the 5% level when we restrict 
+our sample to the 13 states that actually passed a notification statute during our sample period.  With the addition of 
+
+state-specific linear trends as controls, it makes less sense 
+to include the two states (Texas and Ohio) for which there 
+is no legal variation in registration and full notification during our sample period.
+   25per 10,000, while the average numbe
+r of police per 10,000 people in the U.S. during this time 
+period was about 20 (Evans and Owens (2007)).  However, to explore these possibilities, we estimate a specification similar to Equation 2 in 
+every way except for the inclusion of two new quadratic terms in registry size: 
+jtsjtst5st4sjsjtst3st2st1st0sjjttjjtRgSizeNtRgDRgSizeNtRgNtRgDXCrime2*                            *                                 (4) 
+The results (available upon request) indicate that our prior specification is appropriate.  The quadratic coefficient estimates are extremely 
+small and statistically insignificant, while the 
+estimates for the main effects of registration a
+nd notification and the linear interactions with 
+registry size are nearly the same in 
+magnitude and statistical significance. 
+ 6.2. Reporting Behavior Like most studies of criminal behavior
+, we can only examine the frequency of 
+reported crime, and it is therefore possible that our fi
+ndings are affected by cha
+nges in victim reporting 
+behavior.  Reporting may be a particularly impor
+tant issue for sexual offenses; data from the 
+National Crime Victimization Surv
+ey (1996-2005) indicate that less than 50 percent of rape and sexual assault victimizations are reported to the police.   
+Sex offender notification laws may reduce 
+reporting by victims who have a personal 
+relationship with the offender and consider the law to be an overly harsh new punishment.  But 
+this seems unlikely to be the entire stor
+y, given the effects we find for neighbors and acquaintances, and that we find a decrease in crime associated with registration alone.
+41  Registration and notification laws may also cause 
+offenders to move away from family, friends, 
+and acquaintances due to a ﬁshamingﬂ effect.  
+Thus, a decrease in crimes against these groups could be explained by reduced contact with offenders.  However, it seems more likely, 
+a priori, that this type of mechanical ch
+ange in the relationship mix of 
+reported offenses would be greater                                                  41 Changes in reporting behavior might also lead us to underestimate the effects of registration on recidivism.  
+For example, if registration leads victims to believe that thei
+r reports are more likely to le
+ad to an arrest, they might 
+be more likely to report crimes.  We do not regard this story as likely.  While victims may know of a registry™s 
+
+existence, they are prob
+ably unlikely to know whether their assailant is 
+registered.  However, th
+e estimated effect of 
+simply having a registry, while positive,
+ is never statistically significant.   
+  26for community notification than registration, 
+which does not match our
+ findings.  Finally, a community notification law could decreases sex offenses regardless
+ of the number of registered 
+offenders if the law increases awareness of se
+x offenses in general and makes all potential 
+victims more cautious.  Unfortunately, we
+ cannot test this hypothesis directly.  More importantly, our finding that the intera
+ction of notification and registry size is associated with an increase in crime could be 
+generated by two different plausible changes in reporting behavior.  As a registry grows and an increasing number of individuals are notified that 
+a sex offender lives nearby, there could be both (1) an increase in the frivolous reporting of sex offenses because the proximity of a sex offender 
+is made known and salient and (2) an increase 
+in the number of 
+true reports for crimes that would othe
+rwise have gone undetected.  Both of these hypotheses are possible, but we find little evidence to support them in the data.   
+If frivolous reports of sex offenses had increased, holding offender behavior constant, we would expect to see either a reduction in the likelihood that a report led to an arrest (because the average case reported has, all else 
+equal, less merit) and/
+or an increase in th
+e probability that a case was dismissed by the prosecutor, because the 
+average case became weaker.  In our analysis 
+reported in Table 5, we found that the estimated interaction of notif
+ication with registry size was positive for the prosecutorial dismissal rate but it was also positive and of the same magnitude 
+
+for the arrest rate.  Thus, it is hard to reconcile our results on the interaction of notification and registry size with a simple
+ story about reporting bias. We can also use the fact that shifts in repor
+ting behavior may affect different types of sex 
+offenses differently to test the robustness of our results.  While 
+registration and notification laws apply uniformly to rapists and child molest
+ers, one might hypothesize that both types of 
+reporting biases described above (frivolous reporting and meritorious reporting of previously 
+undetected crime) are a concern primarily in the 
+molestation context.  Information that a sex 
+offender lives nearby may make parents more awar
+e of their children™s behavior or whereabouts, and lead parents to investigate their suspicions more than they would have without that 
+information.  But knowledge of the proximity of a 
+sex offender alone may be less likely, all else equal, to change reporting behavior substantially in the case of forcible rape. When we separately examine child molest
+ation (ﬁforced fondlingﬂ in NIBRS) and forcible rape, which constitute the bulk of all sex offenses (see Table 2) using the specification in 
+  27Equation 2, we see no evidence of shifts in reporting behavior.42  If increased reporting accounted for our findings, we would expect to see 
+the notification-registry size interaction effect only in forced fondling cases, or at least primarily
+ in those cases.  Instead
+ we find identical point estimates (both statistically significant) for both 
+types of sex offenses.  The notification-registry interaction effect (in percentage terms) is somewhat higher for f
+ondling than it is for rape, but that difference is small. 
+ 7.  Conclusion  
+ Using detailed data on state laws and in
+cident-level crime data from NIBRS, we 
+examined the effect of registration and notifica
+tion laws on the total frequency of crime, the 
+incidence of that crime on various victim gr
+oups, and on police performance, conditional on a 
+crime occurring.  We find evidence that registra
+tion laws reduce the frequency of sex offenses, particularly when the number of registrants is large, suggesting there are benefits of providing information on convicted sex offenders to local au
+thorities.  We estimat
+e that an average-size registry (16 offenders per 10,000 people) results in a reduction of almost 1.3 sex offenses per 
+10,000 people, approximately a 14 percent reduction from the sample
+ mean. This reduction in 
+crime was locally concentrated, in line with th
+e intentions of policymakers, with greater 
+reductions among victims with a personal connection to offenders.   We also find evidence that notification 
+laws reduce crime, but do so by deterring 
+potential criminals, not necessarily recidivists. 
+ Our estimates imply that notification laws reduce 
+crime when the size of the registry is small, but 
+that these benefits dissipate when more offenders 
+become subject to notification requi
+rements.  At the average registry
+ size, in fact, we find that a 
+notification regime (not in
+cluding the distinct effects of a registration system) 
+increases the number of sex offenses by more than 0.3 offenses
+ per 10,000 people, or 3 percent.  These results suggest that notification may serv
+e as a deterrent to unregistered individuals, but registered offenders subject to notification may commit more 
+crime, perhaps because of social and financial 
+costs associated with the public release of their personal information.   
+ Though researchers are still in 
+the process of measuring the 
+benefits of registration and notification laws, the costs have been well documented.  A number of researchers have 
+                                                 42 These results are available 
+from the authors upon request. 
+  28established the financial, physical, and psychological damage done
+ to registered sex offenders and their families (e.g., Zevitz and Farkas (
+2000a), Tewksbury (2005), and Levenson and Cotter 
+(2005)).  The labor and capital costs to law enforcement agencies who are required to monitor 
+offenders can also be substantial (Zevitz and Farkas (2000b)).  Moreover, there is evidence that these laws have created financial and psychol
+ogical costs for neighbors of registered sex 
+offenders.  Linden and Rockoff (2008) and Pope (2007) document declines in property value for 
+households living close to registered offenders, and several studies find little evidence that community notification alleviates concerns among community me
+mbers who have been notified 
+of an offender™s presence (Zevitz and Farkas (2000b), Beck and Travis (2004) (2006)).    The lack of empirical evidence on the benef
+its of registration and notification has not 
+stopped politicians and policymakers from further 
+regulation of sex offenders.  Registration and notification laws are, in some 
+sense, old technology.  Today, states are in the midst of imposing 
+ever more draconian laws, such as residency re
+strictions and civil commitment, as a means to 
+reduce recidivism among sex offe
+nders.  These more restrictive policies clearly impose higher 
+costs on sex offenders and their families than 
+registration and notification laws, and future research is needed to understand the impact 
+of these policies on criminal behavior.  
+  29References Adkins, G., Huff, D., Stageberg, P. (2000)
+ ﬁThe Iowa Sex Offender Registry and Recidivism,ﬂ Report of the Iowa Department 
+of Human Rights, Division of Criminal and 
+Juvenile Justice Planning and 
+Statistical Analysis Center. 
+ 
+Agan, A. (2007) ﬁSex Offender Registries: Fear without Function?ﬂ Unpublished Manuscript. 
+ 
+Bachman, R., Paternoster, R., Ward, S. (
+1992) ﬁThe Rationality of Sexual Offending: 
+Testing a Deterrence/Rational Choi
+ce Conception of Sexual Assault,ﬂ Law and Society Review 26(2): 343Œ372.  
+Beck, V.S. and Travis, L.F. (2004) ﬁSex Offender Notification and Fear of 
+Victimization,ﬂ 
+Journal of Criminal Justice 32(): 455Œ63  
+Beck, V.S. and Travis, L.F. (2006) ﬁSex
+ Offender Notification: A Cross-State Comparison,ﬂ 
+Police Practice and Research 7(4): 293Œ307  
+Becker, G.S. (1968) ﬁCrime and Punishment: An Economic Approach,ﬂ 
+Journal of Political Economy 76(2): 169Œ217.  
+Boston Globe (October 5, 1996) ﬁHigh-risk Sex Offenders to be Named on TV,ﬂ by 
+Jordana Hart, Globe Staff. 
+ 
+Bureau of Justice Statistics (2002a) ﬁRecidivism of Prisoners Released in 1994.ﬂ  U.S. 
+Dept. of Justice, Office of Justice Programs (March): NCJ 193427 
+ Bureau of Justice Statistics (2002b) ﬁFact Sheet: Summary of State Sex Offender 
+Registries, 2001.ﬂ  U.S. Dept. of Justice, Office of Justice Programs (March): NCJ 192265. 
+ 
+Cameron, C., Gelbach, J.B., Miller, D.L. 
+(2007) ﬁBootstrap-Based Improvements for 
+Inference with Clustered Errorsﬂ Florida Stat
+e University Law and Economics Research Paper 
+Series, Paper No. 07/002.  
+Currie, J. and MacLeod, W.B. (2008) ﬁFirst Do No Harm?  Tort Reform and Birth 
+Outcomes,ﬂ 
+Quarterly Journal of Economics 123(2): 795Œ830  
+Di Tella, R. and Schargrodsky, E. (2004) ﬁDo Police Reduce Crime? Estimates Using the 
+Allocation of Police Forces 
+after a Terrorist Attack,ﬂ 
+American Economic Review 94(1): 115Œ133.  
+Donald, S.G. and Lang, K. (2007) ﬁInference with Difference-In-Differences and Other Panel Data,ﬂ The Review of Economics and Statistics
+ 89(2): 221Œ33.  
+Edwards, W. and Hensley, C. (2001) ﬁContextualizing Sex Offender Management 
+Legislation and Policy: Evaluating the Problem of Latent 
+Consequences in Community   30Notification Laws,ﬂ International Journal of Offender Therapy and Comparative Criminology 45(1): 83Œ101.  
+Evans, W.N. and Owens, E.G. (2007) ﬁCOPS 
+and Crime,ﬂ Journal of Public Economics 
+91(1): 181Œ201.  
+Filler, D.M. (2001) ﬁMaking the Case for Megan™s Law: A Study in Legislative 
+Rhetoric,ﬂ Indiana Law Journal 76: 315Œ345.  
+Freeman-Longo, R. (1996) ﬁPrevention or Problem,ﬂ 
+Sexual Abuse: A Journal of Research and Treatment 8(2): 91-100  
+Hanson, R.K. (2002) ﬁRecidivism and Ag
+e: Follow-Up Data from 4,673 Sexual 
+Offenders,ﬂ Journal of Interpersonal Violence 17(10): 1046Œ62.  Iyengar, R. (2007) ﬁI™d Rather be Hanged for a Sheep than a Lamb: The Unintended 
+Consequences of ‚Three-Strikes™ Laws,ﬂ Unpublished Manuscript.  Jacob, B.A. Lefgren, L. and Moretti, E (2004) ﬁThe Dynamics of Criminal Behavior: 
+Evidence from Weather Shocks,ﬂ
+ NBER Working Paper #10739.  
+Kessler, D. and Levitt, S.D. (1999) ﬁUsing Sentencing Enhancements to Distinguish 
+between Deterrence and Incapacitation,ﬂ Journal of Law and Economics 42(1): 343Œ63.  
+Langan, P.A., Schmitt, E.L., Durose, M.R. (2003) ﬁRecidivism of Sex Offenders 
+Released from Prison in 1994,ﬂ Bureau of Justice Statistics Report NCJ 198281.  Levenson, J.S. and Cotter, L.P. (2005) ﬁThe Effect of Megan™s Law on Sex Offender Reintegration,ﬂ 
+Journal of Contemporary Criminal Justice 21(1): 49Œ66.  
+Levenson, J.S. and D'Amora, D.A. (2007) ﬁSocial Policies Designed to Prevent Sexual 
+Violence: The Emperor's New Clothes?ﬂ 
+Criminal Justice Policy Review
+ 18(2): 168Œ99  
+Levitt, S.D. (1998) ﬁJuvenile Crime and Punishment,ﬂ 
+Journal of Political Economy 106(6): 1156Œ85.  
+Lieb, R. (1996) ﬁCommunity Notification Laws: ‚A Step Toward More Effective 
+Solutions,™ﬂ 
+Journal of Interpersonal Violence 11(2): 298Œ300.  
+Linden, L.L. and Rockoff, J.E. (2008) ﬁEstimates of the Impact of Crime Risk on 
+Property Values from Megan™s Laws,ﬂ 
+American Economic Review 98(3): 1103Œ27.  
+McCrary, J., and Lee, D.S. (2005) ﬁCrime
+, Punishment, and Myopia,ﬂ NBER Working 
+Paper #11491.    31Murphy, K.M., and Topel, R.H. (1985) ﬁEstimation and Inference in Two-Step 
+Econometric Modelsﬂ 
+Journal of Business and Economic Statistics 3(4): 370Œ79  
+Nagin, D.S. (1998) ﬁCriminal Deterrence Resear
+ch at the Outset of the Twenty-First 
+Century,ﬂ Crime and Justice
+ 23: 1Œ42.  
+North Carolina State Bureau of Investigation, ﬁNC Sex Offender and Predator Statistics 
+by Countyﬂ 1996 Œ 2001, Online at: sbi2.jus.state.nc.us/crp/public/other/sexofsum.htm 
+ 
+Ohio Legislative Service Commission (2002) ﬁOhio Facts 2002.ﬂ  
+Pawson, R. (2002) ﬁDoes Megan™s Law Work? 
+A Theory-Driven Systematic Review,ﬂ 
+ESRC UK Centre for Evidence Based Po
+licy and Practice, Working Paper 8  
+Pope, J.C. (2007) ﬁDo Scarlet Letters Lead to Scarlet Homes? Household Reactions to 
+Public Information from Sex Offender 
+Registries,ﬂ Unpublished Manuscript.  
+Prentky, R.A. (1996) ﬁCommunity Notification and Constructive Risk Reduction,ﬂ Journal of Interpersonal Violence 11(2): 295Œ98.  
+Presser, L. and Gunnison, E. (1999) ﬁStrange Bedfellows: Is Sex Offender Notification a Form of Community Justice?ﬂ 
+Crime Delinquency
+ 45(3): 299Œ315.  
+Schram, D.D. and Milloy, C.D. (1995) ﬁCom
+munity Notification: A Study of Offender 
+Characteristics and Recidivism,ﬂ
+ Washington State Institute for 
+Public Policy Working Paper. 
+ Shao, L. and Li, J. (2006) ﬁThe Effect of Sex Offender Registration Laws on Rape Victimization,ﬂ Unpublished Manuscript. 
+ 
+Teichman, D. (2005) ﬁSex, Shame, and the 
+Law: An Economic Perspective on Megan™s 
+Laws,ﬂ Harvard Journal on Legislation 42(1): 335Œ415.  
+Tewksbury, R. (2005) ﬁCollateral Conse
+quences of Sex Offender Registrationﬂ 
+Journal of Contemporary Criminal Justice 21(1): 67Œ81.  
+U.S. Census Bureau (2002), Table CO-EST2001
+-12-00 - Time Series 
+of Intercensal State Population Estimates: April 1, 1990 to Ap
+ril 1, 2000, Release Date: April 11, 2002.  
+U.S. Census Bureau (2002), Intercensal Estimates of the United States Population by Age 
+and Sex, 1990-2000: All Months.  
+U.S. Census Bureau (2006), Table 1: Annual Estimates of the Population for the United 
+States, Regions, and States and for Puerto 
+Rico: April 1, 2000 to July 1, 2006 (NST-EST2006-01), Release Date: December 22, 2006.    32U.S. Census Bureau (2006), County Population by Age, Sex, Race, and Hispanic Origin: 
+April 1, 2000 through July 1, 2006.  
+U.S. Dept. of Justice, Federal Bureau of Investigation. NATIONAL INCIDENT-BASED REPORTING SYSTEM, 1995-2005 [Computer files]. Compiled by the U.S. Dept. of Justice, 
+Federal Bureau of Investigation. ICPSR ed. A
+nn Arbor, MI: Inter-unive
+rsity Consortium for Political and Social Research [producer and distributor]   
+Vásquez, B.E., Maddan, S., and Walker, J.T.
+ (2008) ﬁThe Influence of Sex Offender 
+Registration and Notification Laws In the United States: A Time Series Analysis,ﬂ 
+Crime & Delinquency 54: 175Œ92.  
+Winick, B.J. (1998) ﬁSex Offender Law in
+ the 1990s: A Therapeutic Jurisprudence Analysis,ﬂ Psychology, Public Policy, and Law
+ 4(1): 505Œ70.  
+Zevitz, R.G., Farkas, M.A. (2000a) ﬁSex Offender Community Notification: Managing 
+High Risk Criminals or Ex
+acting Further Vengeance?ﬂ 
+Behavioral Sciences and the Law 18: 375Œ91. 
+ 
+ Zevitz, R.G., Farkas, M.A. (2000b) ﬁSex 
+Offender Community Notification: Assessing 
+the Impact in Wisconsinﬂ National Ins
+titute of Justice Report, December 2000 
+ RegistrationLaw EffectiveRegistration Law * Registry SizeNotificationLaw EffectiveNotification Law* Registry SizeImpact on Model Parameters (caused by an increase in the column variable)Non-RSOs: future punishment rises (f); likely small effect as costs appear lowRSOs: likelihood of punishment rises (p) due to easier police monitoring and apprehensionNon-RSOs: future punishment rises (f); possibly large effect as costs appear significantRSOs: likelihood of punishment rises (p) due to community policing; costs of crime increase (c) due to victim awareness; relative attractiveness of crime increases (u) due to shame/publicity Predicted Effect on Frequency of Offenses (caused by an increase in the column variable)Prediction: Reduction in frequencyPrediction
+: Reduction in frequencyPrediction
+: Reduction in frequencyPrediction: Indeterminate effect on frequency Œ more community policing and more victim avoidance versus higher relative attractiveness of crime Predicted Heterogeneity Across Victims No predicted differencesacross different types of offender-victim relationshipsPrediction: Stronger effects for "local" victims; potential displacement of crimes onto "distant" victimsNo predicted differencesacross different types of offender-victim relationships Prediction: Stronger effects on "local" victims due to community policing and victim avoidance; no predicted differences for any relative utility effectPredicted Change in the Probability of Arrest (caused by an increase in the column variable)Prediction: Any change should have the same sign as the effect (if any) on the frequency of offensesPrediction:Reduction in the probability of arrest, but effect should approach zero as crime declines or is displaced onto more distant victimsPrediction: Any change should have the same sign as the effect (if any) on the frequency of offensesPrediction: Indeterminate effect on probability of arrest Œ offsetting effects of community policing (positive, but zero with displacement), victim avoidance (negative, but zero with displacement), and relative attractivness of crime (positive)Note: For details on how these predictions were made, see text of Section 3.Variables of InterestTable 1: Model Predictions for Registration and Notification Coefficients Sex OffensesAssaults
+Total Number of Incidents in Sample328,2604,757,118
+Rape and Sexual Assault37.9%
+n/aForced Fondling (i.e., Sexual Molestation)41.8%
+n/aOther Non-Violent Sex Offenses20.3%
+n/aPercent of Incidents with Report Date18.9%12.8%
+
+Percent of Incidents Leading to Arrest25.7%37.3%
+
+Average Days to Arrest24.313.7
+
+Prosecution Drops Charges7.1%4.8%
+Victim Refuses to Cooperate5.1%6.6%
+Offender-Victim RelationshipImmediate Family (e.g., spouse, child, sibling)11.5%24.9%
+
+Extended Family (e.g., grandparent, in-laws)9.3%3.7%
+
+Stepfamily4.7%1.3%
+Friend7.0%2.8%
+Significant Other8.0%17.6%
+Acquaintance31.0%23.7%
+
+Neighbor2.4%1.8%
+Otherwise Known9.6%9.3%
+
+Stranger8.4%9.7%
+Relationship Unknown11.8%10.2%
+
+Missing Relationship Information4.3%4.5%
+Victim CharacteristicsFemale86.5%58.4%
+
+White77.6%68.2%
+
+Black17.9%28.3%
+Aged 0-48.7%0.7%
+
+Aged 5-914.8%1.6%
+
+Aged 10-1427.1%6.9%
+
+Aged 15-1923.8%15.3%
+
+Aged 20-2913.1%30.2%
+
+Aged 30-397.2%24.0%
+
+Aged 40-493.6%14.5%
+
+Aged 50-651.1%5.6%
+
+Aged 65+0.5%1.3%
+Offender CharacteristicsMale95.9%76.8%
+
+White69.0%61.5%
+
+Black24.1%33.9%
+Aged 0-92.3%0.5%
+
+Aged 10-1411.2%6.2%
+
+Aged 15-1920.1%15.9%
+
+Aged 20-2925.5%31.3%
+
+Aged 30-3920.5%25.4%
+
+Aged 40-4912.0%14.5%
+
+Aged 50-656.5%5.1%
+
+Aged 65+1.9%0.9%
+Notes: Sample includes all sex offenses and assaults reported in the 15 NIBRS states that we include in our analysis.  Relationships total to more than 100% in this table because some incidents involved more 
+than one relationship.Table 2: Summary Statistics on Reported Crime Incidents Sex Offenses   per 10,000 Sex Offenses   per 10,000 ln (Sex Offenses per 10,000)ln (Sex Offenses per 10,000)(1)(2)(3)(4)
+Registry Effective0.3000.2470.0230.020
+(0.442)(0.487)(0.033)(0.035)
+[.51][.62][.50][.58]
+-0.078-0.096-0.006-0.007
+(0.033)(0.04)(0.002)(0.003)
+[.04][.04][.04][.03]
+Notification-1.116-1.050-0.075-0.072
+(0.354)(0.364)(0.027)(0.027)
+[.01][.02][.02][.02]
+0.0820.0870.0060.006
+(0.028)(0.031)(0.002)(0.002)
+[.01][.02][.02][.02]
+Assault/Crime ControlsMean Offense Frequency    (Standard Deviation)
+Mean Registry Size
+    (Standard Deviation)Observations210,209210,209210,209210,209
+R-squared0.350.360.680.68
+Notes: The dependent variable is annualized incidents per 10,000 persons in columns (1)-(2).  In columns (3)-(4), the dependent variable is the natural log of annualized incidents plus one per 10,000 
+persons.  The unit of observation is a reporting agency (ORI) by month cell.  Registry size is measured 
+in offenders per 10,000 persons (mean registry size is reported).  The notification laws represent "full" 
+access by the public to information on offenders; for more details see the text in Section 5.  Registry 
+size is empirically estimated from registry data, as explained in the Data Appendix.  All regressions 
+control for county income and demographics, ORI fixed effects, year fixed effects, and month fixed 
+effects.  Columns, as indicated, also control for rates of assault and other crime.  Regressions are 
+weighted by the covered population in each ORI.  Standard errors (in parentheses) are estimated via 
+bootstrapping.  P-values shown in brackets.Registry Effective *                 Registry SizeNotification *                          Registry Size Table 3: Effects of Registration and Notification on Sex Offense Frequency9.17(9.70)15.99(11.15) All Victims"Close" Victims"Near" Victims"Stranger" Victims(1)(2)(3)(4)
+Registry Effective0.2470.0380.130-0.126
+(0.487)(0.167)(0.207)(0.169)
+[.62][.82][.54][.48]
+-0.096-0.032-0.0310.006
+(0.04)(0.02)(0.017)(0.01)
+[.04][.15][.10][.57]
+Notification-1.050-0.339-0.297-0.244
+(0.364)(0.099)(0.162)(0.126)
+[.02][.01][.10][.08]
+0.0870.0310.0260.014
+(0.031)(0.013)(0.014)(0.007)
+[.02][.04][.09][.06]
+Mean Offense Frequency9.173.463.781.83
+    (Standard Deviation)(9.70)(5.58)(5.67)(3.47)
+Mean Registry Size15.9915.9915.9915.99
+
+    (Standard Deviation)(11.15)(11.15)(11.15)(11.15)
+Observations210,209210,209210,209210,209
+R-squared0.360.200.210.29
+Table 4: Effects of Registration and Notification on Sex OffenseFrequency and Relationship MixRegistry Effective *                 Registry SizeNotification *                           Registry Size Note: The unit of measurement for the dependent variables is annualized incidents per 10,000 persons, and the unit of observation is a reporting agency (ORI) by month cell.  Registry size is measured in offenders 
+per 10,000 persons.  The notification laws represent "full" access by the public to information on offenders; 
+for more details see the text in Section 5.  Registry size is empirically estimated from registry data, as 
+explained in the Data Appendix.  The regressions control for rates of assault and other crime, county 
+income and demographics, ORI fixed effects, year fixed effects, and month fixed effects, as described in the 
+text.  In columns (2) to (4), the assault and other crime variables are specific to incidents with the same 
+offender-victim relationship as the dependent variable.  Regressions are weighted by the covered population 
+in each ORI.  Standard errors (in parentheses) are estimated via bootstrapping.  P-values shown in brackets. Arrest MadeTime to Arrest   (in days)Victim Refuses to CooperateProsecution Drops Charges(1)(2)(3)(4)
+Registry Effective-0.0013-1.63110.01940.0512
+(0.0378)(1.5563)(0.0126)(0.0185)
+[.97][.32][.16][.02]
+-0.00080.0240-0.0010-0.0039
+(0.005)(0.1113)(0.001)(0.002)
+[.88][.83][.34][.08]
+Notification-0.01540.4400-0.01660.0020
+(0.0381)(2.3799)(0.0138)(0.0221)
+[.70][.86][.26][.93]
+0.0030-0.04720.00180.0033
+(0.0032)(0.1124)(0.0011)(0.0019)
+[.36][.68][.12][.10]
+Mean of Dependent Variable0.2315.810.070.10
+     (Standard Deviation)(23.89)Observations287,78965,702287,789287,789
+R-squared0.100.120.100.14
+Notes: The unit of observation is a reported sex offense.  The dependent variables in columns (1), (3), and (4) are zero-one indicators, respectively, for whether an arrest was made in connection with a report, for whether the 
+report was cleared because the prosecution declined to pursue the case, and for whether it was cleared because the 
+victim did not cooperate.  In column (2), the sample is restricted to reported sex offenses that lead to an arrest, and 
+the dependent variable is the number of days from the report/occurrence of an incident until an arrest was made.  
+The regression includes controls for victim and offender characteristics, victim-offender relationship, type of sex 
+offense, ORI fixed effects, year fixed effects, and month fixed effects, as described in the text.  Standard errors (in 
+parentheses) are calculated via bootstrapping.  P-values are given in brackets.Registry Effective *Registry SizeNotification *Registry Size Table 5: Effects of Registration and Notification on Arrest Outcomes Sex Offenses    per 10,000 Sex Offenses    per 10,000 Sex Offenses    per 10,000 ln (Sex Offenses per 10,000)ln (Sex Offenses per 10,000)ln (Sex Offenses per 10,000)(1)(2)(3)(4)(5)(6)
+Registry Effective0.3000.247-0.2100.0230.020-0.011
+(0.442)(0.487)(0.285)(0.033)(0.035)(0.02)
+[.51][.62][.48][.50][.58][.59]
+-0.078-0.096-0.060-0.006-0.007-0.004
+(0.033)(0.04)(0.036)(0.002)(0.003)(0.002)
+[.04][.04][.13][.04][.03][.06]
+Notification-1.116-1.050-0.430-0.075-0.072-0.024
+(0.354)(0.364)(0.283)(0.027)(0.027)(0.023)
+[.01][.02][.16][.02][.02][.33]
+0.0820.0870.0550.0060.0060.004
+(0.028)(0.031)(0.019)(0.002)(0.002)(0.001)
+[.01][.02][.02][.02][.02][.02]
+Assault/Crime Controls
+State Linear TrendsMean Offense Frequency    (Standard Deviation)
+Mean Registry Size
+    (Standard Deviation)Observations210,209210,209210,209210,209210,209210,209
+R-squared0.350.360.360.680.680.68
+(11.15)Notes: The dependent variable is annualized incidents per 10,000 persons in columns (1)-(3).  In columns (4)-(6), the dependent variable is the natural log of annualized incidents plus one per 10,000 persons.  The unit of observation is a 
+reporting agency (ORI) by month cell.  Registry size is measured in offenders per 10,000 persons (mean registry size is 
+reported).  The notification laws represent "full" access by the public to information on offenders; for more details see the 
+text in Section 5.  Registry size is empirically estimated from registry data, as explained in the Data Appendix.  All 
+regressions control for county income and demographics, ORI fixed effects, year fixed effects, and month fixed effects.  
+Columns, as indicated, also control for rates of assault and other crime and state-specific linear trends.  Regressions are 
+weighted by the covered population in each ORI.  Standard errors (in parentheses) are estimated via bootstrapping.  P-
+values shown in brackets.Registry Effective *           Registry SizeNotification *                        Registry Size Table 6: Robustness of Registration and Notification Effectson Sex Offense Frequency9.1715.99(9.70) (1)         reg-eff-date(2)         pubacc- eff  (3)       pubacc-disc(4)       pubacc-mand(5)      pubacc-writreq(6)       pubacc-specific(7)       internet-live(8)       comm-eff-date(9)       comm-disc(10)       comm-mand(11)       comm- opt-in(12)       comm-victim(13)       comm-neighbor(14)       comm-mediaColorado07/01/199106/05/1995
+06/05/1995 a07/01/1999N/AN/A07/30/200112/01/1999
+12/1/1999 b05/30/2006N/AN/A12/01/1999N/A
+Connecticut01/01/199510/1/1998 cN/A10/1/1998cN/AN/A
+1/1/1999c10/01/199510/01/1995 cN/AN/AN/A
+10/01/1995 cN/AIdaho07/01/199307/01/1993N/A07/01/1993
+07/01/1993 d07/01/1993 e07/01/200107/01/2003N/A07/01/2003N/AN/AN/A07/01/2003
+Iowa07/01/199507/01/1995N/A07/01/199507/01/1995
+070/1/1995 e03/16/200007/01/199807/01/1998N/AN/AN/A07/01/1998N/A
+Kentucky01/01/1995N/AN/AN/AN/AN/A04/11/2000
+01/01/1999 f07/12/200601/01/1999 g01/01/1999 g01/01/1999 g01/01/1999 f01/01/1999 gMassachusetts10/01/199610/01/1996N/A10/01/199610/01/1996N/A08/03/200409/10/199909/10/1999N/AN/AN/A09/10/1999N/A
+Michigan10/01/199504/01/1997N/A04/01/1997N/AN/A02/01/199901/01/2007N/AN/A01/01/2007N/AN/AN/A
+Nebraska01/01/1997N/AN/AN/AN/AN/A03/30/200007/15/1998
+7/15/1998  (lower risk)7/15/1998    (high risk)N/AN/A07/15/199807/15/1998
+North Dakota07/01/199308/01/1995N/A08/01/1995N/AN/A11/06/200108/01/1995
+08/01/1995 h08/01/1997N/A08/01/200108/01/1995N/A
+Ohio07/01/199707/01/1997N/A07/01/1997N/AN/A12/18/200307/01/1997N/A07/01/1997
+07/01/1997  (victims only)07/01/1997    (if opt-in)07/01/1997N/A
+South Carolina07/01/199406/18/1996N/A06/18/199606/18/199606/18/199611/22/199906/18/1996
+6/18/1996 i6/30/1999 (newspapers)N/AN/A06/18/199606/30/1999
+Texas09/01/199109/01/1995N/A09/01/1995
+09/01/1995 jN/A01/11/199909/01/1995
+09/01/2005 (newspapers)09/01/1995 kN/AN/A09/01/1999
+09/01/1995 lUtah03/30/198304/29/1996
+03/15/1996 e 07/01/199803/15/1996 e03/15/1996 e07/01/1998N/AN/AN/AN/AN/AN/AN/A
+Vermont09/01/199605/29/2000N/A05/29/2000N/AN/A10/01/200409/01/199605/26/2006N/A
+09/01/1996 (victim only)09/01/1996     (if opt-in)05/26/2006N/A
+Virginia07/01/199407/01/1998N/A07/01/199807/01/199807/01/199801/01/199907/01/2006N/AN/A07/01/2006N/AN/AN/A
+Notes:a:repealed07/1/1999;b:repealed05/30/2006;c:enjoined05/17/2001until05/03/2003;d:repealed07/01/2001;e:repealed07/01/1998;f:
+repealed04/11/2001,reeffective07/12/2006;g:repealed04/11/2001;h:repealed08/01/1997;i:exceptfor
+newspapers as of 06/30/1999; j: repealed 09/01/1997; k: repealed 09/01/2005 for newspapers; l: discretionary after 09/01/2005. Columns (1)-(7): (1) the effective date of the first registration law; (2) the effective date of the first public access law of any kind; (3) the date that a discretionary public access law, if applicable, became effective; (4) the date that mandatory public access law, if applicable, became effective; (5) the date on which a "written request" requirement, if applicable, became effective; (6) the date on which "specific person request only" restriction, if applicable, became effective; (7) the date on which public access was moved onto the internet, thereby removing all previous access restrictions.Columns (8)-(14): (8) the effective date the first active community notification provision; (9) the date the notification law, if discretionary, became effective; (10) the date the notification law, if mandatory, became effective; (11) the date that a notification law that required that people "opt-in" to the notification system, if applicable, became effective; (12) the date that notification law that notified former victims, if applicable, became effective; (13) the date that a notification law that informed neighbors specifically, either by a written notice or by a personal visit, became effective, if applicable; (14) the date that a notification law that used the media to deliver any notification, if applicable, became effective.Appendix Table 1: Evolution of Registration and Notification Laws, by State 15 states(1991 start)s.d.13 states(1991 start)s.d.15 states (1995 start)s.d.ORI Population18,75038,57017,16829,27719,05239,503
+Number of Offenses (annualized, per 10,000 people)Total Sex Offenses9.179.709.209.899.099.67
+
+Rape Offenses4.716.294.696.454.656.25
+
+Forced Fondling Offenses3.855.883.926.163.835.85
+
+Assaults138.3116.0135.7117.3136.6114.9
+
+Other Crimes 514.6338.3504.7337.7509.6333.1
+Registration and Notification LawsRegistration Effective0.9250.260.9010.300.9840.13
+Full Notification Effective0.7700.420.6960.460.8320.37
+Full Public Access Effective0.5600.500.4890.500.6050.49
+
+Full Internet Access Effective0.5630.500.5140.500.6090.49
+
+Full Active Community Notification Effective0.2020.400.1300.340.2180.41
+
+Registry Size (estimated, incl. states with no registry)14.7911.5214.6611.7115.8711.22
+ORI-Level DemographicsPer-Capita Personal Income (in thousands)28.9615.4027.2916.5929.8515.65
+
+Unemployment Rate0.0480.0190.0470.0200.0470.018
+
+Male (ages 1-14)0.2190.0260.2200.0270.2180.025
+
+Male (ages 15-29)0.2180.0430.2180.0440.2170.042
+
+Male (ages 30-44)0.2320.0250.2310.0240.2310.025
+
+Male (ages 45-64)0.2280.0310.2260.0320.2310.030
+
+Male (ages 65+)0.1040.0290.1050.0290.1040.028
+
+Female (ages 1-14)0.2010.0240.2020.0250.2000.024
+
+Female (ages 15-29)0.2020.0410.2030.0430.2010.041
+
+Female  (ages 30-44)0.2250.0240.2240.0240.2250.025
+
+Female  (ages 45-64)0.2290.0300.2270.0310.2320.028
+
+Female  (ages 65+)0.1420.0370.1440.0370.1420.037
+
+Black0.1220.1430.1190.1470.1180.140
+
+White0.7980.1490.8150.1440.7980.148
+
+Hispanic0.0530.0640.0440.0490.0560.065
+Number of ORI-Level Observations210,209
+Appendix Table 2: Summary Statistics on ORI-Level SamplesNotes: Samples are identical to the data used in the regression analyses reported in Tables 3, 4, and 6.  Data are weighted by NIBRS covered population for number of offenses, registration and notification laws, and ORI-level demographics.  Data are aggregated from incident level to ORI-month level.  Mean registry size estimate is calculated over all ORI-months, including those months where no law was in place, in which registry size is always zero.173,706190,571
+ Sex Crimes per 10,000 Sex Crimes per 10,000 Sex Crimes per 10,000 ln (Sex Crimes per 10,000)ln (Sex Crimes per 10,000)ln (Sex Crimes per 10,000)(1)(2)(3)(4)(5)(6)
+Registry Effective0.2950.215-0.2470.0270.023-0.010
+(0.422)(0.467)(0.298)(0.032)(0.034)(0.024)
+[.50][.66][.43][.41][.51][.69]
+-0.071-0.088-0.058-0.005-0.006-0.004
+(0.035)(0.043)(0.034)(0.002)(0.003)(0.002)
+[.07][.07][.12][.04][.04][.05]
+Notification-1.100-1.047-0.460-0.074-0.071-0.026
+(0.362)(0.349)(0.215)(0.025)(0.024)(0.017)
+[.01][.01][.06][.01][.01][.15]
+0.0840.0880.0600.0060.0060.004
+(0.028)(0.031)(0.019)(0.002)(0.002)(0.001)
+[.01][.02][.01][.02][.02][.01]
+Assault/Crime Controls
+State Linear TrendsMean Crime Frequency    (Standard Deviation)
+Mean Registry Size
+    (Standard Deviation)Observations173,706173,706173,706173,706173,706173,706
+R-squared0.300.310.310.610.620.62
+Appendix Table 3: Effects of Registration and Notificationon Sex Offense Frequency(13 State Sample)9.20(9.89)16.27(11.22)Notes: The dependent variable is annualized incidents per 10,000 persons in columns (1)-(3) and is the natural log of this value in columns (4)-(6).  The unit of observation is a reporting agency (ORI) by month cell.  Registry size is 
+measured in offenders per 10,000 persons (mean registry size is reported).  The notification laws represent "full" 
+access by the public to information on offenders; for more details see the text in Section 5.  Registry size is 
+empirically estimated from registry data, as explained in the Data Appendix.  All regressions control for county 
+income and demographics, ORI fixed effects, year fixed effects, and month fixed effects.  Columns, as indicated, 
+also control for rates of assault and other crime and state-specific linear trends.  Regressions are weighted by the 
+covered population in each ORI.  Standard errors (in parentheses) are estimated via bootstrapping.  P-values shown 
+in brackets.Registry Effective * Registry SizeNotification *            Registry Size  Figure 1a: Registration and Notification Laws in NIBRS States  
+Virginia
+Vermont
+Utah
+Texas
+South Carolina
+Ohio
+North Dakota
+Nebraska
+Michigan
+Massachusetts
+Kentucky
+Iowa
+Idaho
+Connecticut
+Colorado
+199019952000
+2005
+RegistrationPublic AccessInternet
+Community NotificationYear Joined NIBRS
+ Note: Depicted are dates when registration, public access, 
+and community notification laws are effective, and when 
+an internet site goes live.  These incl
+ude all laws, regardless of special rest
+rictions.  Utah™s registration law was 
+effective in 1983.  For details see Appendix Table 1. 
+ Figure 1b: Registration and ﬁFullﬂ Notification Laws in NIBRS States  
+Virginia
+Vermont
+Utah
+Texas
+South Carolina
+Ohio
+North Dakota
+Nebraska
+Michigan
+Massachusetts
+Kentucky
+Iowa
+Idaho
+Connecticut
+Colorado
+19901995200
+0200
+5RegistrationPublic AccessInternet
+Community NotificationYear Joined NIBRS
+ Note: Depicted are dates when ﬁfullﬂ versions regist
+ration, public access, and community notification laws are 
+effective, and when a complete internet registry site goes
+ live.  Utah™s registration la
+w was effective in 1983.  For 
+details see Appendix Table 1 a
+nd the text in Section 5. 
+   
+ 
+ Appendix Figure 1:  Observations of Registry Size and Empirical Estimates  
+ 051002402460123051005100204001230.510102005100204060024605101501231990
+1996
+2002
+2008
+1990
+1996
+2002
+2008
+1990
+1996
+2002
+2008
+COCTIAIDKYMAMINBNDOHSCTXUTVAVTObservation of Registry SizeEmpirical Estimate
+Offenders on Registry, in Thousands
+ Notes:  This figure depicts our empirically 
+estimated registry sizes for the NIBRS states 
+in our sample.  To calculate these registry sizes, we ran a least squares regression of 
+registry size on quadratic function of date, allowing for state specific intercepts and 
+
+slopes and using all data points available for each state.  We then use the predicted values 
+from this regression as measures of the state re
+gistry size for each month.  See the Data 
+Appendix for more details. 
+  i Data Appendix 
+1.  Coding Registration and Notification Laws To build our database of registration and notification laws, we 
+constructed a detailed legal timeline for each state, relying principally 
+on paper legislative sources, legal databases 
+containing statutes and judicial opinions, news releases and stories, and conversations and email 
+communications with state employees.  We catal
+ogued enactment dates, effective dates, and 
+compliance dates for each legal change, and veri
+fied, where possible, that such changes took place in reality, and not just on paper.  We cr
+oss-checked our research with other sources 
+compiling sex offender laws and resolved all conflic
+ts.  Finally, we recorded the precise content 
+of these legal changes, which is particularly
+ necessary with sex offender notification laws 
+because they differ across st
+ates on various dimensions. 
+ 
+As noted in Section 2, states invariably began regulating sex offenders with registration statues that required all sex offender information be kept confidential.  Over time, however, state 
+laws evolved toward making more of this info
+rmation public.  Most states began by providing public access to their registration databases, but va
+ried in the restrictions
+ they placed on access to 
+this information.  Some states (e.g., Idaho) only 
+allowed the public to ma
+ke information requests 
+in writing or about specific suspected persons.  Others made information available about all sex 
+offenders in the area and allowed them to be openly inspected at police departments or other 
+government agencies (e.g., Michigan).  Both appr
+oaches to public access assume that potential 
+victims or witnesses will make use of these opport
+unities despite their nontrivial travel and time 
+costs.  By the end of our sample period, all st
+ates maintained a web registry, and many had 
+enacted ﬁactiveﬂ comm
+unity notification. 
+ 2.  NIBRS and Demographic Data 
+ Many of the advantages and disadvantages of NIBRS data are described in Section 4, but  we met additional challenges and ma
+de additional choices in constructing our data for analysis.  One limitation of NIBRS is that the first year 
+for which NIBRS data are available (from the 
+ICPSR) is 1995.  To address this problem, we reque
+sted additional data, available for some states 
+back to 1991, from the FBI, and have incorporated
+ that data into our analysis.  Excluding data from 1991 through 1994 does not affect our results. 
+ Another complexity, discussed briefly in 
+Section 4, is that participation of law enforcement agencies can vary within a state and over time.  
+Agencies are identified in NIBRS by an ﬁOriginating Agency Identifierﬂ (ORI), and, within each state, the number of reporting ORIs increases dramatically over time.  For example, the number 
+of reporting ORIs from Nebraska more than qu
+intupled between 1998 (its first reporting year) and 2005.  Consequently, we include ORI fixed effects in our regressions.   ii  In building our offense variables (sex offe
+nse, assault, or ﬁotherﬂ crime) and our 
+relationship groups (ﬁclose,ﬂ ﬁnear,ﬂ and ﬁstrangerﬂ), we had to deal with the non-trivial number 
+of sex offenses with multiple victims (8 percent) or multiple offenders (8 percent).  The 
+
+indicators we create for the relationship between
+ the offender and the victim include all victim 
+relationships.  For example, if there were two 
+victims, a family member and a friend of the 
+offender, both the family member and friend indicat
+ors are set equal to one.  When we examine 
+arrests, we include victim and offender characteris
+tics as controls.  For incidents with multiple 
+victims or multiple offenders we record the characteristics of the first victim and first offender 
+
+listed.  These non-relationship variables are only used in our analysis of arrests.  
+ In addition to the information on victims, 
+offenders, and arrestees from NIBRS, we use 
+annual, county-level demographic data from the 
+U.S. census on the fraction of the population in 18 age categories and five ethnicities as well as annual county-level data on income per capita, 
+poverty rates, and unemployment rates as controls
+ in our regressions.  While some ORIs are 
+smaller than counties, we believ
+e these are the best annual data available to control for any demographic shifts that may have occurred in 
+ORIs over our sample period.  Two percent of 
+ORIs are located in multiple counties.  We assi
+gn to these ORIs a weighted average of county characteristics based on the population of the ORI in each county.    3.  Addressing Reporting Errors in NIBRS   We use a multi-faceted approach to handl
+e reporting errors in the NIBRS data we 
+employ.  First, we use the indica
+tors provided in NIBRS for whet
+her an ORI reported crime in a 
+given month.  Among ORIs reporting crime duri
+ng any month of each year, the fraction 
+reporting for all twelve months ranged from 68 percen
+t in 1995 to 89 percent in 2004.  We limit 
+our analysis to crimes that took place duri
+ng months when the ORI reported crime in the 
+previous month, the current month, and the next four
+ months.  This restriction causes us to drop 
+less than 5 percent of sex offenses that occurred between February 1991 and August 2005, and all offenses occurring outside this period. 
+ 
+ Despite this initial cleaning of the data, 
+we found a number of in
+stances of apparent underreporting of crimes in NIBRS.  For exampl
+e, an agency might report about 500 crimes 
+every month for many months, then 
+report few or no crimes for one month, and then return to the 
+previous pattern of 500 crimes.  We also obs
+erve agencies that, according to the NIBRS 
+indicators, started reporting officially on a given month, but do not start reporting crime until 
+several months later.  To addr
+ess these concerns, we implement 
+an algorithm to identify these 
+kinds of misreporting.  First, we
+ take all agency-period cells with a given number of crimes 
+reported, then we calculate the variance of the 
+number of crimes reported in periods a given 
+length of time from the current 
+period, and then we flag all observations that are outliers given  iii this variance (i.e., the observation has very small chan
+ce of occurring, assuming reports are 
+normally distributed with given variance).  We re
+peat this process for reports up to six periods away and flag observations twice: first with one
+ in one million chances and second with one in 
+one hundred thousand chances.  The two-stage process is helpful because it allows us to 
+
+recalculate the variance after eliminating very distant outliers. 
+ We also flag all adjacent months, 
+to guard against the possibility that underreporting in one month leads to over-reporting in 
+others. 
+ 4.  Registry Size Estimates 
+  Our data on historical regist
+ry sizes come from various so
+urces.  Two reports from the 
+National Institute of Justice pr
+ovide us with states™ registry
+ sizes at the end of 1998 and 2001 
+(Bureau of Justice Statistics (2002b)).  In addition, we have been able to gather documents 
+posted on-line by the National Center for Missing and Exploited Children that provide counts of offenders registered in each state at several points in time from 2003 through 2007.  The exact 
+dates when the information was gathered varied by st
+ate, but, in general, this gives us a snapshot of registry sizes in 2003, 2005, 2006 and 2007.  We also add data from news
+ articles and state government reports.  We also know that some states
+ did not apply their laws retroactively, and so we are able to include a zero at
+ the start of their registries. 
+ 
+ Thus, although we have collected data on th
+e number of registered offenders in each state, there are some years for which we do not ha
+ve this information.  In order to estimate the 
+historical size of the registries for the NIBRS states at the state level,
+ we run a least squares regression of registry size on quadratic function of date, allowing 
+for state specific intercepts and 
+slopes and using all data points available for each st
+ate.  We then use the predicted values from 
+this regression as measures of the state regi
+stry size for each month.  The results of these 
+regressions are depicted
+ in Appendix Figure 1.  
+ We combine this state-level informati
+on on registry size with information on all 
+registered offenders nationwide as of August, 2007.  This data set was compiled by a private company (www.familywatchdog.com) that provides 
+sex offender information to the public, and was given to us for research purposes.  This data allows us to calculate th
+e number of registered 
+sex offenders by county within each NIBRS state.  We then allocate sex offenders to each county 
+under the assumption that the fraction of offenders
+ by county today is reflective of the fractions by county in past years. 
+ 5.  Bootstrap Method for Standard Error Estimates 
+ In order to estimate unbiased standard erro
+rs in the presence of a small number of 
+clusters, we follow Camer
+on et al. (2007) and employ a bootstrapping methodology. 
+ iv Specifically, we repeat each regression in our analysis 500 time
+s and calculate our standard errors using the variance of the resulting estimates.  Let 
+i be the estimated vector of coefficients 
+from repetition 
+i.  Our variance estimate is 2*‹, where NiiN2112* , N = 100  In the simulations carried out by Cameron et 
+al. (2007), this technique, which they term ﬁpaired bootstrap-se,ﬂ does not perform as well as other techniques, such as ﬁwild bootstrap,ﬂ in the sense that it finds a placebo to have a statistically significant relationship with the dependent 
+variable at the 0.05 level in around 10 percent of their simulations.  However, it is not clear from 
+their work whether this difference is reflectiv
+e of a general result that would apply to our situation, i.e., an unbalanced panel with groups of differing size and independent variables that have different variances across groups.  We find the standard e
+rrors from a wild bootstrap are 
+smaller than those from the paired bootstrap, a
+nd we therefore use the paired bootstrap estimates. 
+ 
+ In addition to sampling our states (with repl
+acement) in each repetition, we take account 
+of any additional bias due to estimated regressors by using values
+ for registry size calculated 
+from randomly drawn values from the distribution of
+ our estimator in the ﬁfirst stageﬂ where we 
+estimate registry size.  Specificall
+y, we take the estimator of the
+ K parameters from the first stage  
+(0) and use the Cholesky decompos
+ition of the variance-covariance matrix (V) to draw a new 
+vector (i) where 
+).1,0(...~,]...[,1021NdiirrrRRViKi We then use this vector of coefficients to re-estimate registry size for each regression. 
+   
+  
+ 

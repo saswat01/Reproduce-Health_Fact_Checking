@@ -1,0 +1,72 @@
+Slate’s Use of Your Data         By clicking “Agree,” you consent  to Slate’s Terms of Service  and Privacy Policy  and the use of technologies such as cookies by Slate and our partners  to deliver relevant advertising on our iOS app  to personalize content and perform site analytics.
+ Please see our Privacy Policy  for more information about our use of data, your rights, and how to withdraw consent.
+ Agree         Subscribe to Continue Reading You’ve run out of free articles.
+ Join Slate Plus to continue reading, and you’ll get unlimited access to all our work—and support Slate’s independent journalism.
+ You can cancel anytime.
+ Start Free Trial Now   Already a member?
+ Sign in here.
+ You’re almost out of free articles.
+ Subscribe to get unlimited access.
+ Start Free Trial Now   Already a member?
+ Sign in here.
+ (t -1:!
+ You may bind with `on` or remove with `off` callback functions // to an event; trigger`-ing an event fires all callbacks in succession.
+ Returns a reference to  // the Eventify object.
+ Passing `"all"` will bind  // the callback to all events fired.
+ After the first time  // the callback is invoked, it will be removed.
+ If `context` is null, removes all  // callbacks with that function.
+ If `callback` is null, removes all  // callbacks for the event.
+ If `name` is null, removes all bound  // callbacks for all events.
+ The predicate is invoked with two arguments: (value, key).
+ it's invalid.
+ arguments[1] : false;   handler ?
+ :0|[1-9]\d*)$/;  /**  * Checks if `value` is a valid array-like index.
+ MAX_SAFE_INTEGER : length;   return !
+ (e.g.
+ See `baseIsEqual` for more details.
+ new SetCache : undefined;   stack.set(array, other);  stack.set(other, array);   // Ignore non-index properties.
+ ]+$/.exec(coreJsData &amp;&amp; coreJsData.keys &amp;&amp; coreJsData.keys.IE_PROTO || '');  return uid ?
+ ('Symbol(src)_1.'
+ *  * **Note:** This method is loosely based on  * [`ToLength`](http://ecma-international.org/ecma-262/7.0/#sec-tolength).
+ A value is considered array-like if it's  * not a function and has a `value.length` that's an integer greater than or  * equal to `0` and less than or equal to `Number.MAX_SAFE_INTEGER`.
+ *  * **Note:** Non-object values are coerced to objects.
+ An empty string is returned for `null`  * and `undefined` values.
+ The sign of `-0` is preserved.
+ :\.|\[\]|$))/g;  /** Used to match backslashes in property paths.
+ (remainder ?
+ The debounced function comes with a `cancel` method to cancel  * delayed `func` invocations and a `flush` method to immediately invoke them.
+ * Provide `options` to indicate whether `func` should be invoked on the  * leading and/or trailing edge of the `wait` timeout.
+ The `func` is invoked  * with the last arguments provided to the debounced function.
+ Subsequent  * calls to the debounced function return the result of the last `func`  * invocation.
+ *  * **Note:** If `leading` and `trailing` options are `true`, `func` is  * invoked on the trailing edge of the timeout only if the debounced function  * is invoked more than once during the `wait` timeout.
+ *  * If `wait` is `0` and `leading` is `false`, `func` invocation is deferred  * until to the next tick, similar to `setTimeout` with a timeout of `0`.
+ *  * See [David Corbacho's article](https://css-tricks.com/debouncing-throttling-explained-examples/)  * for details over the differences between `_.debounce` and `_.throttle`.
+ * @example  *  * // Avoid costly calculations while the window size is in flux.
+ * jQuery(window).on('resize', _.debounce(calculateLayout, 150));  *  * // Invoke `sendMail` when clicked, debouncing subsequent calls.
+ !
+ return leading ?
+ freeParseInt(value.slice(2), isBinary ?
+ 2 : 8)  : (reIsBadHex.test(value) ?
+ * The iteratee is invoked with three arguments: (value, index|key, collection).
+ * Iteratee functions may exit iteration early by explicitly returning `false`.
+ *  * **Note:** As with other "Collections" methods, objects with a "length"  * property are iterated like arrays.
+ To avoid this behavior use `_.forIn`  * or `_.forOwn` for object iteration.
+ !\/)/, "/"),   search: r ?
+ ":".concat(e.port) : "")) + (e.pathname || "") + (e.search ?
+ "?
+ ".concat(k.formatQS(e.search || "")) : "") + (e.hash ?
+ :Clamped)?Array$/.test(n) ?
+ n : Z(t) ?
+ t : te(t) ?
+ t ?
+ !
+ ")), !1) : (Object(m.logError)(r("Bidder ".concat(t.bidderCode, " is missing required params.
+ Check http://prebid.org/dev-docs/bidder-adapter-1.html for list of params.
+ "))), !1)) : (Object(m.logWarn)("Some adapter tried to add an undefined bid for ".concat(e, ".
+ ")), !1) : (Object(m.logWarn)("No adUnitCode was supplied to addBidResponse.
+ i(t) : !
+ a.logWarn('Number of user syncs exceeded for "'.concat(t, '"')) : p.canBidderRegisterSync(e, t) ?
+ e.constructor.prototype : e instanceof Object ?
+ "&amp;" : "?
+ e.params.referrer : t || r.refererInfo.referer;   return e.params.secure ?
+ 1 : 0,     language: navigator[l].split("-")[0],     make: navigator.vendor ?

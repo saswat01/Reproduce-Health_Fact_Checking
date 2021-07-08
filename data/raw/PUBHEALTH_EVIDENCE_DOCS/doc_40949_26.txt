@@ -1,0 +1,102 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop     addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape     addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical)     addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical)     addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape     addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ 2020; 369m1710Crossref PubMed Scopus (17) Google Scholar,  5Royal College of Paediatrics and Child HealthGuidance: Paediatric multisystem inflammatory syndrome temporally associated with COVID-19.https://www.rcpch.ac.uk/sites/default/files/2020-05/COVID-19-Paediatric-multisystem-%20inflammatory%20syndrome-20200501.pdfDate: 2020Date accessed: May 6, 2020Google Scholar,  6Jones VG Mills M Suarez D et al.COVID-19 and Kawasaki disease: novel virus and novel case.Hosp Pediatr.
+ 2020; (published online April 7.
+ )DOI:10.1542/hpeds.2020-0123Crossref Scopus (171) Google ScholarBy April 30, 1199 PCR tests (all types of samples, including oropharyngeal and nasopharyngeal) for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) had been done in children in Geneva, Switzerland, and 57 children had positive results.
+ We describe the clinical characteristics of three adolescents (10–12 years) who presented in septic shock (appendix), defined as a severe infection leading to cardiovascular dysfunction,7Weiss SL Peters MJ Alhazzani W et al.Surviving sepsis campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children.Intensive Care Med.
+ 2020; 46: 10-67Crossref PubMed Scopus (23) Google Scholar two of whom had signs of peritonitis and multiple organ dysfunction syndrome (MODS), and who met the definition for paediatric multisystem inflammatory syndrome temporally associated with COVID-19.5Royal College of Paediatrics and Child HealthGuidance: Paediatric multisystem inflammatory syndrome temporally associated with COVID-19.https://www.rcpch.ac.uk/sites/default/files/2020-05/COVID-19-Paediatric-multisystem-%20inflammatory%20syndrome-20200501.pdfDate: 2020Date accessed: May 6, 2020Google Scholar,  8Watson RS Crow SS Hartman ME Lacroix J Odetola FO Epidemiology and outcomes of pediatric multiple organ dysfunction syndrome.Pediatr Crit Care Med.
+ 2017; 18: 4-16Crossref Scopus (12) Google Scholar All had confirmed infection with SARS-CoV-2.The first patient was a 12-year-old hispanic male with obesity and mild asthma.
+ He presented with 1 day of fever, odynophagia, cough, dyspnoea, and headache.
+ Physical examination revealed a patient that appeared mildly ill but was non-toxic, smiling and talkative, febrile to 39·5°C, tachypnoeic with a respiratory rate of 34, tachycardic to 150 beats per minutes (bpm), with a normotensive blood pressure of 109/52, and an oxygen saturation of 97% on room air.
+ Lung examination revealed mild bibasilar hypoventilation without wheezing, a slightly increased inspiration to expiration ratio without retractions, and no response to a trial of salbutamol.
+ The remainder of the examination returned normal results.
+ During the patient's time in the emergency department, his tachycardia worsened to 170 bpm and the patient presented signs of compensated shock with cold peripheries, a prolonged capillary refill time of 6 s, and an elevated lactate concentration (4·1 mmol/L).
+ He was managed with crystalloid boluses (a total of 60 mL/kg) with an adequate response.
+ Laboratory tests showed no elevation in inflammatory markers but did show lymphocytopenia.
+ The chest X-ray was unremarkable.
+ The SARS-CoV-2 nasopharyngeal swab PCR was positive.
+ Over the following 8 h, his vital signs and perfusion normalised and his condition improved.
+ Blood cultures were sterile.
+ The final diagnosis was COVID-19-compensated septic shock.
+ The patient returned home, but presented again to the emergency department on day 3 with a non-specific non-petechial pruritic maculopapular rash on the trunk and arms, without systemic symptoms, thought to be of viral aetiology, probably related to COVID-19.
+ The patient returned home; a phone call to the family revealed no further complications and the patient had not required any further medical care.The second patient was a previously healthy 10-year-old mixed-race (Asian and white) male with obesity.
+ He presented with 5 days of fever to 40°C, cough, odynophagia, vomiting, and abdominal pain.
+ Physical examination showed a patient that was ill but did not appear toxic, conversant but mildly anxious, well hydrated, tachycardic to 120 bpm, hypotensive to 85/50 mmHg, tachypnoeic with an respiratory rate of 36, and with oxygen saturation of 89–95% on room air.
+ He had basilar hypoventilation and otherwise normal breath sounds without retractions.
+ His abdomen was diffusely tender, with guarding and rebound tenderness.
+ Hypotensive shock was managed with serial boluses of crystalloids (total of 60 mL/kg), broad-spectrum antibiotics, and inotropic support with adequate response.
+ Lactate concentration (4·0 mmol/L) and inflammatory markers were elevated with lymphocytopenia, and liver function testing showed mild elevated transaminases with a markedly increased conjugated bilirubin.
+ Renal function revealed prerenal acute renal failure.
+ CT imaging revealed a right upper lobe consolidation with bilateral pleural effusions and ileocolitis with signs of terminal ileitis and reactive appendicitis.
+ He was started on hydroxychloroquine and azithromycin and required non-invasive mechanical ventilation for 5 days.
+ No operative intervention was required.
+ Blood and urine cultures were sterile.
+ Nasopharyngeal PCRs for SARS-CoV-2, mycoplasma, and chlamydia returned negative.
+ Other viral testing including hepatitis A, hepatitis B, and hepatitis E, cytomegalovirus, Epstein-Barr virus, HIV, and adenovirus revealed no signs of acute infection.
+ SARS-CoV-2 infection was confirmed serologically.
+ The final diagnosis was COVID-19 hypotensive septic shock associated with MODS.
+ The patient has been discharged from hospital.The third patient is a previously healthy 10-year-old black male with obesity who presented in hypotensive shock after 7 days of fever, vomiting, and severe abdominal pain.
+ Examination revealed a patient that appeared toxic, conscious and orientated, tachypnoeic with a respiratory rate of 39, tachycardic to 117 bpm, with systolic hypotension to 85 mmHg despite a crystalloid volume bolus (20 mL/kg) administered during pre-hospital care, and with a saturation of 98% on room air.
+ The lung examination was otherwise healthy and the abdomen was tender, with generalised guarding.
+ His lactate concentration was mildly elevated (2·8 mmol/L).
+ Volume resuscitation (a total of 50 mL/kg of crystalloids), septic work-up, broad-spectrum antibiotic therapy, and vasopressor support were initiated.
+ The initial chest radiograph was unremarkable.
+ Laboratory results revealed marked inflammatory marker elevation with lymphopenia and evidence of MODS, with acute renal failure and cholestasis.
+ A CT scan showed diffuse bilateral consolidations, predominantly in the posterior aspects of the upper and inferior lobes (figure) and mesenteric lymphadenitis without evidence for surgical pathology.
+ Other viral testing including hepatitis A, hepatitis B, and hepatitis E, cytomegalovirus, Epstein-Barr virus, HIV, adenovirus, rotavirus, and a comprehensive respiratory viral panel by PCR revealed no signs of acute infection.
+ A SARS-CoV-2 infection was confirmed serologically.
+ The patient's respiratory status further deteriorated despite non-invasive mechanical ventilation and required intubation.
+ The patient was started on hydroxychloroquine and azithromycin and, for suspicion of a cytokine storm, started on anakinra.
+ Renal function deteriorated, attributed to prerenal and renal injury, and the patient required haemodialysis.
+ Echocardiography on hospital day 8 showed left anterior descending artery and right coronary aneurysms, with Z-scores of 4·53 and 3·30, respectively.
+ The patient has since been transferred out of the intensive care unit, but remains in hospital.FigureLung window axial and coronal CT images of patient 3 that show diffuse bilateral consolidations predominantly located in the posterior aspects of the upper and inferior lobesView Large            Image           Figure ViewerDownload Hi-res            image           Download (PPT)Although paediatric patients with COVID-19 are mainly reported to show only mild or moderate symptoms, critical COVID-19 and MODS can occur in the paediatric population.
+ Such children might present to primary care physicians or emergency departments, similar to the patients described previously, with, unlike adults,2CDC COVID-19 Response TeamCoronavirus disease 2019 in children—United States, February 12–April 2, 2020.MMWR Morb Mortal Wkly Rep. 2020; 69: 422-426Crossref PubMed Scopus (19) Google Scholar a paucity of respiratory symptoms but in septic shock or with pronounced abdominal signs mimicking peritonitis.A recently published report5Royal College of Paediatrics and Child HealthGuidance: Paediatric multisystem inflammatory syndrome temporally associated with COVID-19.https://www.rcpch.ac.uk/sites/default/files/2020-05/COVID-19-Paediatric-multisystem-%20inflammatory%20syndrome-20200501.pdfDate: 2020Date accessed: May 6, 2020Google Scholar has alerted the medical community about paediatric multisystem inflammatory syndrome temporally associated with COVID-19, defined as fever, inflammation, and evidence of single-organ or multi-organ dysfunction, after the exclusion of other microbial causes, with SARS-CoV-2 positive or negative testing.
+ This syndrome shares common features with other paediatric inflammatory conditions including Kawasaki disease, staphylococcal and streptococcal toxic shock syndromes, bacterial sepsis, and macrophage activation syndrome, and can also present with unusual abdominal symptoms with excessive inflammatory markers.
+ The second and third patient meet the definition for paediatric multisystem inflammatory syndrome temporally associated with COVID-19.
+ The first patient, despite presenting in compensated shock as defined by international guidelines,7Weiss SL Peters MJ Alhazzani W et al.Surviving sepsis campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children.Intensive Care Med.
+ 2020; 46: 10-67Crossref PubMed Scopus (23) Google Scholar did not meet the criteria for the syndrome; he might have presented with acute, severe COVID-19 viraemia but, unlike the second and third patients, did not have the worsening of symptoms seen between day 5 and day 10 of the illness.9Huang C Wang Y Li X et al.Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.Lancet.
+ 2020; 395: 497-506Summary Full Text Full Text PDF PubMed Scopus (7873) Google Scholar,  10Wang D Hu B Hu C et al.Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China.JAMA.
+ 2020; (published online Feb 7.
+ )DOI:10.1001/jama.2020.1585Crossref Scopus (4613) Google Scholar,  11Yang X Yu Y Xu J et al.Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study.Lancet Respir Med.
+ 2020; 8: 475-481Summary Full Text Full Text PDF PubMed Scopus (1792) Google Scholar,  12Zhou F Yu T Du R et al.Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.Lancet.
+ 2020; 395: 1054-1062Summary Full Text Full Text PDF PubMed Scopus (4128) Google Scholar Despite the fact that 35–50% of children in sepsis and septic shock have no infectious organism found,13Schlapbach LJ Straney L Alexander J et al.Mortality related to invasive infections, sepsis, and septic shock in critically ill children in Australia and New Zealand, 2002-13: a multicentre retrospective cohort study.Lancet Infect Dis.
+ 2015; 15: 46-54Summary Full Text Full Text PDF PubMed Scopus (119) Google Scholar,  14Weiss SL Fitzgerald JC Pappachan J et al.Global epidemiology of pediatric severe sepsis: the sepsis prevalence, outcomes, and therapies study.Am J Respir Crit Care Med.
+ 2015; 191: 1147-1157Crossref PubMed Scopus (270) Google Scholar we believe that the temporality of our patients' presentations and their SARS-CoV-2 positive testing strongly indicates causality.All three patients reported here had a body-mass index greater than the 97th percentile for age, which raises the question of obesity as a risk factor for severe disease, as reported in adult studies.15Goyal P Choi JJ Pinheiro LC et al.Clinical characteristics of Covid-19 in New York City.N Engl J Med.
+ 2020; (published online April 17.
+ )DOI:10.1056/NEJMc2010419Crossref PubMed Scopus (317) Google Scholar In addition, whether the preponderance of abdominal symptoms and the prevalence of cholestasis rather than liver injury are explained by a higher expression of angiotensin-converting enzyme 2 receptors on the gastrointestinal epithelial cells and on cholangiocytes rather than on hepatocytes is yet to be confirmed.16Liang W Feng Z Rao S et al.Diarrhoea may be underestimated: a missing link in 2019 novel coronavirus.Gut.
+ 2020; 69: 1141-1143Crossref PubMed Scopus (100) Google Scholar,  17Xu Y Li X Zhu B et al.Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding.Nat Med.
+ 2020; 26: 502-505Crossref PubMed Scopus (332) Google Scholar,  18Zimmermann P Curtis N Coronavirus infections in children including COVID-19: an overview of the epidemiology, clinical features, diagnosis, treatment and prevention options in children.Pediatr Infect Dis J.
+ 2020; 39: 355-368Crossref PubMed Scopus (170) Google Scholar,  19Musa S Hepatic and gastrointestinal involvement in coronavirus disease 2019 (COVID-19): What do we know till now?.Arab J Gastroenterol.
+ 2020; 21: 3-8Crossref PubMed Scopus (33) Google Scholar,  20Xiaoqiang C Longfei H Yan Z et al.Specific ACE2 expression in cholangiocytes may cause liver damage after 2019-nCoV infection.bioRxiv.
+ 2020; (published online Feb 4.)
+ (preprint).DOI: 10.1101/2020.02.03.931766Google Scholar These patients serve as a reminder for clinicians to be cognizant of critical disease and of the newly described paediatric multisystem inflammatory syndrome temporally associated with COVID-19, in their evaluation of paediatric patients.We declare no competing interests.
+ Written consent had been obtained from the caregivers of the patients.Supplementary Material            Download .pdf (.27            MB)                     Help with          pdf files         Supplementary appendixReferences1.Wu Z McGoogan JM Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: summary of a report of 72314 cases from the Chinese Center for Disease Control and Prevention.JAMA.
+ 2020; 369m1710View       in Article       Scopus (17) PubMed Crossref Google Scholar5.Royal College of Paediatrics and Child HealthGuidance: Paediatric multisystem inflammatory syndrome temporally associated with COVID-19.https://www.rcpch.ac.uk/sites/default/files/2020-05/COVID-19-Paediatric-multisystem-%20inflammatory%20syndrome-20200501.pdfDate: 2020Date accessed: May 6, 2020View       in Article       Google Scholar6.Jones VG Mills M Suarez D et al.COVID-19 and Kawasaki disease: novel virus and novel case.Hosp Pediatr.
+ 2020; (published online April 7.
+ )DOI:10.1542/hpeds.2020-0123View       in Article       Scopus (171) Crossref Google Scholar7.Weiss SL Peters MJ Alhazzani W et al.Surviving sepsis campaign international guidelines for the management of septic shock and sepsis-associated organ dysfunction in children.Intensive Care Med.
+ 2020; 46: 10-67View       in Article       Scopus (23) PubMed Crossref Google Scholar8.Watson RS Crow SS Hartman ME Lacroix J Odetola FO Epidemiology and outcomes of pediatric multiple organ dysfunction syndrome.Pediatr Crit Care Med.
+ 2017; 18: 4-16View       in Article       Scopus (12) Crossref Google Scholar9.Huang C Wang Y Li X et al.Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.Lancet.
+ 2020; 395: 497-506View       in Article       Scopus (7873) PubMed Summary Full Text Full Text PDF Google Scholar10.Wang D Hu B Hu C et al.Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China.JAMA.
+ 2020; (published online Feb 7.
+ )DOI:10.1001/jama.2020.1585View       in Article       Scopus (4613) Crossref Google Scholar11.Yang X Yu Y Xu J et al.Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study.Lancet Respir Med.
+ 2020; 8: 475-481View       in Article       Scopus (1792) PubMed Summary Full Text Full Text PDF Google Scholar12.Zhou F Yu T Du R et al.Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.Lancet.
+ 2020; 395: 1054-1062View       in Article       Scopus (4128) PubMed Summary Full Text Full Text PDF Google Scholar13.Schlapbach LJ Straney L Alexander J et al.Mortality related to invasive infections, sepsis, and septic shock in critically ill children in Australia and New Zealand, 2002-13: a multicentre retrospective cohort study.Lancet Infect Dis.
+ 2015; 15: 46-54View       in Article       Scopus (119) PubMed Summary Full Text Full Text PDF Google Scholar14.Weiss SL Fitzgerald JC Pappachan J et al.Global epidemiology of pediatric severe sepsis: the sepsis prevalence, outcomes, and therapies study.Am J Respir Crit Care Med.
+ 2015; 191: 1147-1157View       in Article       Scopus (270) PubMed Crossref Google Scholar15.Goyal P Choi JJ Pinheiro LC et al.Clinical characteristics of Covid-19 in New York City.N Engl J Med.
+ 2020; (published online April 17.
+ )DOI:10.1056/NEJMc2010419View       in Article       Scopus (317) PubMed Crossref Google Scholar16.Liang W Feng Z Rao S et al.Diarrhoea may be underestimated: a missing link in 2019 novel coronavirus.Gut.
+ 2020; 69: 1141-1143View       in Article       Scopus (100) PubMed Crossref Google Scholar17.Xu Y Li X Zhu B et al.Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding.Nat Med.
+ 2020; 26: 502-505View       in Article       Scopus (332) PubMed Crossref Google Scholar18.Zimmermann P Curtis N Coronavirus infections in children including COVID-19: an overview of the epidemiology, clinical features, diagnosis, treatment and prevention options in children.Pediatr Infect Dis J.
+ 2020; 39: 355-368View       in Article       Scopus (170) PubMed Crossref Google Scholar19.Musa S Hepatic and gastrointestinal involvement in coronavirus disease 2019 (COVID-19): What do we know till now?.Arab J Gastroenterol.
+ 2020; 21: 3-8View       in Article       Scopus (33) PubMed Crossref Google Scholar20.Xiaoqiang C Longfei H Yan Z et al.Specific ACE2 expression in cholangiocytes may cause liver damage after 2019-nCoV infection.bioRxiv.
+ 2020; (published online Feb 4.)
+ (preprint).DOI: 10.1101/2020.02.03.931766View       in Article       Google ScholarArticle InfoPublication HistoryPublished: May 19, 2020IdentificationDOI: https://doi.org/10.1016/S2352-4642(20)30164-4Copyright© 2020 Elsevier Ltd. All rights reserved.ScienceDirectAccess this article on ScienceDirectHide CaptionDownloadSee figure in articleToggle ThumbstripView Large ImageDownload Hi-res image Download .PPT           Related Hub       COVID-19 Resource Centre  Access the latest 2019 novel coronavirus disease (COVID-19) content from across The Lancet journals as it is published.
+ By continuing you agree to the use of cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

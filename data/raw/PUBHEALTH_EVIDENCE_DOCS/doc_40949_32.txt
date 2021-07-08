@@ -1,0 +1,99 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListNature Public Health Emergency CollectionPMC7264968        Nat Rev Immunol.
+ 2020 Jun 2 : 1–2.
+ doi: 10.1038/s41577-020-0354-x [Epub ahead of print]PMCID: PMC7264968PMID: 32488201Blood clots and TAM receptor signalling in COVID-19 pathogenesisGreg Lemke1,2 and Gregg J. Silverman3Greg Lemke1Molecular Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA USA 2Immunobiology and Microbial Pathogenesis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA USA Find articles by Greg LemkeGregg J. Silverman3Laboratory of B-cell Immunobiology, Department of Medicine, New York University School of Medicine, New York, NY USA Find articles by Gregg J. SilvermanAuthor information Copyright and License information Disclaimer1Molecular Neurobiology Laboratory, The Salk Institute for Biological Studies, La Jolla, CA USA 2Immunobiology and Microbial Pathogenesis Laboratory, The Salk Institute for Biological Studies, La Jolla, CA USA 3Laboratory of B-cell Immunobiology, Department of Medicine, New York University School of Medicine, New York, NY USA Greg Lemke, Email: ude.klas@ekmel.Contributor Information.Corresponding author.Copyright © Springer Nature Limited 2020This article is made available via the PMC Open Access Subset for unrestricted research re-use and secondary analysis in any form or by any means with acknowledgement of the original source.
+ These permissions are granted for the duration of the World Health Organization (WHO) declaration of COVID-19 as a global pandemic.This article has been cited by other articles in PMC.More than one-third of patients seriously ill with COVID-19 worldwide are afflicted with dangerously high levels of blood clotting1.
+ Indeed, of the very first 99 patients hospitalized in Wuhan, China, 36% presented with elevated blood levels of the so-called D-dimer, a dimeric fragment of fibrin that is the most widely used diagnostic blood marker of recent and/or ongoing coagulopathy.
+ In one study from Wuhan, D-dimer levels of more than 1 mg l−1 predicted an 18-fold increased risk of death2, and a recent post hoc analysis from New York City indicated that survival of patients with COVID-19 who had been mechanically ventilated was significantly enhanced if these patients had received systemic anticoagulant therapy3.
+ Thrombosis and disseminated intravascular clotting are common in SARS-CoV-2 infections.Blood clots are ‘consumptive’, in that the explosive coagulation reaction consumes free soluble coagulation proteins by incorporating them into the growing clot, lowering their concentration in the circulation.
+ This depletion of coagulation factors in part accounts for the continued bleeding that accompanies clot-precipitated blood vessel ruptures and haemorrhagic strokes.
+ One of the many coagulation factors that are depleted during exuberant clotting is the anticoagulant protein S (PROS1).
+ This protein is present in the blood at a concentration of ~300 nM (~60% bound to the complement factor C4BP), where it normally acts in concert with activated protein C to degrade factor Va and factor VIIIa and thereby terminate the coagulation reaction4.
+ It is an essential inhibitory node in the coagulation cascade, as congenital PROS1 deficiencies in people can lead to profound coagulopathies, and complete Pros1 deficiency in mice is embryonically lethal owing to catastrophic blood clotting and associated haemorrhages5.A key additional feature that dramatically worsens the status of many patients with COVID-19 is the secondary development of an immune hyper-reaction, the so-called cytokine storm.
+ High levels of IL-1β, IL-6, IFNγ and tumour necrosis factor (TNF), among several other cytokines and chemokines, are pleiotropically damaging at multiple sites.
+ In SARS-CoV-2 infections, these cytokines are associated with inflammatory sequelae in the lungs, heart, kidneys and other tissues and may be linked to phenomena as diverse as the recently reported incomplete Kawasaki syndrome in children (a multisystem inflammatory disorder that results in severe paediatric vasculitis of the heart)6 and chilblains-like acral lesions of the hands and feet, such as ‘COVID toes’.We suggest that excessive blood clotting and immune hyper-reaction may be mechanistically linked by PROS1 and that, with respect to this regulator, these phenomena may be two sides of the same coin.
+ This hypothesis is based on the fact that, in addition to functioning as an anticoagulant in the blood coagulation cascade, PROS1 also serves as one of two activating ligands for the TAM family of receptor tyrosine kinases (RTKs) — TYRO3, AXL and MER (also known as MERTK)7.
+ The other TAM ligand is the structurally related GAS6, which does not function as an anticoagulant and is present in blood at only very low concentrations7.
+ In the immune system, the TAM RTKs are expressed by macrophages, dendritic cells and other immune sentinels, and MER is found on the surface of all phagocytic tissue macrophages.
+ Its kinase, and thus its signalling, is activated by the binding of PROS1 (and GAS6) to the extracellular domain of MER8.
+ Most importantly, MER activation in macrophages and other immune sentinels is broadly immunosuppressive and dampens the production of type I interferons, IL-6, TNF and other cytokines that are released by these cells in response to infection by viruses (for example, SARS-CoV-2), bacteria and other pathogens7,9.
+ Deficiencies in TAM receptor signalling, brought about by reduced receptor or PROS1 expression, are associated with chronic immune hyperactivation, deficits in the clearance of apoptotic cells and the development of certain autoimmune diseases, including systemic lupus erythematosus7.Our hypothesis is that the depletion of PROS1 as a result of dysregulated blood coagulation contributes to the uncontrolled cytokine production that characterizes the cytokine storm of the most serious COVID-19 cases (Fig.
+ 1).
+ It is also possible that some measure of PROS1 depletion from the blood is the result of SARS-CoV-2 infection of the vasculature, as in mice the endothelial cells that line blood vessels contribute ~45% of the PROS1 that appears in the circulation5.
+ One issue with this ‘protein S hypothesis’ is that coagulation occurs within the vasculature, whereas the PROS1 that activates the immunosuppressive TAM receptor MER on immune sentinels is probably produced and certainly operates within tissues.
+ Macrophages, for example, express abundant PROS1 mRNA on their own.
+ However, blood vessels with out-of-control clots are subject to necrosis that may lead to their rupture, and haemorrhage may expose tissue-produced PROS1 to the consumptive effects of clots and so may also lower the levels of this TAM ligand within tissues (Fig.
+ 1).
+ In keeping with this possibility, vasculitis and haemorrhage have been observed in the alveoli of the lungs, the gastrointestinal tract, the kidneys, and the meninges and parenchyma of the brain in patients with COVID-19.
+ These phenomena lead to end-organ ischaemia and damage.
+ Importantly, it has previously been shown that vascular endothelial cells, which also express PROS1-activated MER, require this RTK to strengthen their tight junctions and maintain vascular integrity in the face of a systemic West Nile virus infection10.Open in a separate windowFig.
+ 1Does protein S link blood clotting and cytokine storms in COVID-19?Infection by SARS-CoV-2 is associated with fulminant blood clotting.
+ This weakens vessel walls, resulting in their local rupture and haemorrhage into tissues.
+ The growing clot consumes clotting factors, including the anticoagulant protein S (PROS1), which is also a ligand for the immunosuppressive receptor tyrosine kinase (TK) MER, expressed by macrophages and other immune sentinels.
+ PROS1 depletion may silence MER signalling and activate sentinel cells to express and secrete inflammatory cytokines.
+ RBC, red blood cell; TNF, tumour necrosis factor.Measurement of free PROS1 levels in the circulation is not currently part of the standard blood work-up for patients, but we suggest that such measurements may be informative and warranted in patients with COVID-19 with evidence of coagulopathy and high D-dimer levels.
+ In addition, PROS1 signalling through MER normally plays a major role in macrophage phagocytosis of apoptotic cells, and so our hypothesis predicts that post-mortem analyses should demonstrate a higher incidence of apoptotic cell accumulation in the tissues of these same patients.Author contributionsThe authors contributed equally to all aspects of the article.Competing interestsThe authors declare no competing interests.Contributor InformationGreg Lemke, Email: ude.klas@ekmel.Gregg J. Silverman, Email: gro.enognaluyn@namrevlis.ggerg.References1.
+ Levi M, Thachil J, Iba T, Levy JH.
+ Coagulation abnormalities and thrombosis in patients with COVID-19.
+ Lancet Haematol.
+ 2020;7:e438–e440.
+ doi: 10.1016/S2352-3026(20)30145-9.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]2.
+ Zhou F, et al.
+ Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.
+ Lancet.
+ 2020;395:1054–1062.
+ doi: 10.1016/S0140-6736(20)30566-3.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]3.
+ Paranjpe I, et al.
+ Association of treatment dose anticoagulation with in-hospital survival among hospitalized patients with COVID-19.
+ J.
+ Am.
+ Coll.
+ Cardiol.
+ 2020 doi: 10.1016/j.jacc.2020.05.001.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]4.
+ Castoldi E, Hackeng TM.
+ Regulation of coagulation by protein S. Curr.
+ Opin.
+ Hematol.
+ 2008;15:529–536.
+ doi: 10.1097/MOH.0b013e328309ec97.
+ [PubMed] [CrossRef] [Google Scholar]5.
+ Burstyn-Cohen T, Heeb MJ, Lemke G. Lack of protein S in mice causes embryonic lethal coagulopathy and vascular dysgenesis.
+ J. Clin.
+ Invest.
+ 2009;119:2942–2953.
+ doi: 10.1172/JCI39325.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]6.
+ Viner RM, Whittaker E. Kawasaki-like disease: emerging complication during the COVID-19 pandemic.
+ Lancet.
+ 2020 doi: 10.1016/S0140-6736(20)31129-6.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]7.
+ Lemke G. Biology of the TAM receptors.
+ Cold Spring Harb.
+ Perspect.
+ Biol.
+ 2013;5:a009076.
+ doi: 10.1101/cshperspect.a009076.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]8.
+ Lew ED, et al.
+ Differential TAM receptor-ligand-phospholipid interactions delimit differential TAM bioactivities.
+ eLife.
+ 2014;3:e03385.
+ doi: 10.7554/eLife.03385.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]9.
+ Rothlin CV, et al.
+ TAM receptors are pleiotropic inhibitors of the innate immune response.
+ Cell.
+ 2007;131:1124–1136.
+ doi: 10.1016/j.cell.2007.10.034.
+ [PubMed] [CrossRef] [Google Scholar]10.
+ Miner JJ, et al.
+ The TAM receptor Mertk protects against neuroinvasive viral infection by maintaining blood-brain barrier integrity.
+ Nat.
+ Med.
+ 2015;21:1464–1472.
+ doi: 10.1038/nm.3974.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

@@ -1,0 +1,334 @@
+E‐mail: dflockha@uoguelph.caSearch for more papers by this author  Jean‐Baptiste Pichancourt Climate Adaptation Flagship, CSIRO, Ecosystem Sciences, GPO 2583, Brisbane, QLD, 4001 AustraliaSearch for more papers by this author  D. Ryan Norris Department of Integrative Biology, University of Guelph, Guelph, ON, N1G2W1 CanadaSearch for more papers by this author  Tara G. Martin Climate Adaptation Flagship, CSIRO, Ecosystem Sciences, GPO 2583, Brisbane, QLD, 4001 Australia ARC Centre of Excellence for Environmental Decisions, the NERP Environmental Decisions Hub, Centre for Biodiversity &amp; Conservation Science, University of Queensland, Brisbane, Queensland, 4072 AustraliaSearch for more papers by this author      D. T. Tyler Flockhart Corresponding Author Department of Integrative Biology, University of Guelph, Guelph, ON, N1G2W1 CanadaCorrespondence author.
+ E‐mail: dflockha@uoguelph.caSearch for more papers by this author  Jean‐Baptiste Pichancourt Climate Adaptation Flagship, CSIRO, Ecosystem Sciences, GPO 2583, Brisbane, QLD, 4001 AustraliaSearch for more papers by this author  D. Ryan Norris Department of Integrative Biology, University of Guelph, Guelph, ON, N1G2W1 CanadaSearch for more papers by this author  Tara G. Martin Climate Adaptation Flagship, CSIRO, Ecosystem Sciences, GPO 2583, Brisbane, QLD, 4001 Australia ARC Centre of Excellence for Environmental Decisions, the NERP Environmental Decisions Hub, Centre for Biodiversity &amp; Conservation Science, University of Queensland, Brisbane, Queensland, 4072 AustraliaSearch for more papers by this author     First published: 05 June 2014 https://doi.org/10.1111/1365-2656.12253Citations: 108 Find at Imperial AboutSectionsPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues.
+ Populations of the iconic monarch butterfly (Danaus plexippus) of eastern North America have declined over the last 21 years.
+ Three hypotheses have been posed to explain the decline: habitat loss on the overwintering grounds in Mexico, habitat loss on the breeding grounds in the United States and Canada, and extreme weather events.
+ Our objectives were to assess population viability, determine which life stage, season and geographical region are contributing the most to population dynamics and test the three hypotheses that explain the observed population decline.
+ We developed a spatially structured, stochastic and density‐dependent periodic projection matrix model that integrates patterns of migratory connectivity and demographic vital rates across the annual cycle.
+ We used perturbation analysis to determine the sensitivity of population abundance to changes in vital rate among life stages, seasons and geographical regions.
+ Next, we compared the singular effects of each threat to the full model where all factors operate concurrently.
+ Finally, we generated predictions to assess the risk of host plant loss as a result of genetically modified crops on current and future monarch butterfly population size and extinction probability.
+ Our year‐round population model predicted population declines of 14% and a quasi‐extinction probability ( 5% within a century.
+ Monarch abundance was more than four times more sensitive to perturbations of vital rates on the breeding grounds than on the wintering grounds.
+ Simulations that considered only forest loss or climate change in Mexico predicted higher population sizes compared to milkweed declines on the breeding grounds.
+ Our model predictions also suggest that mitigating the negative effects of genetically modified crops results in higher population size and lower extinction risk.
+ Recent population declines stem from reduction in milkweed host plants in the United States that arise from increasing adoption of genetically modified crops and land‐use change, not from climate change or degradation of forest habitats in Mexico.
+ Therefore, reducing the negative effects of host plant loss on the breeding grounds is the top conservation priority to slow or halt future population declines of monarch butterflies in North America.
+ Introduction Hemispheric migrations of wildlife involving billions of individuals each year are in widespread decline (Robbins et al.
+ 1989; Bolger et al.
+ 2008; Brower et al.
+ 2012).
+ Migratory animals face multiple threats at different portions of the annual cycle that are often separated by vast geographical distances (Webster et al.
+ 2002), which pose enormous challenges for predicting population abundance and designing effective management plans (Martin et al.
+ 2007; Norris &amp; Marra 2007; Small‐Lorenz et al.
+ 2013).
+ Addressing threats to population viability of migratory animals therefore requires integrating detailed information of how individuals move, survive and reproduce throughout the annual cycle and respond to these threats (Webster et al.
+ 2002; Norris &amp; Marra 2007; Taylor &amp; Norris 2010; Jenouvrier 2013).
+ Monarch butterflies (Danaus plexippus), which undergo a long‐distance migration between breeding and non‐breeding locations typical of vertebrates, have traditionally been considered most vulnerable to disturbance on the overwintering grounds.
+ In Mexico, forest habitat loss (Brower et al.
+ 2002) and severe weather patterns (Oberhauser &amp; Peterson 2003; Brower et al.
+ 2004) are known to affect local butterfly population abundance by increasing the probability of catastrophic mass mortality events (Anderson &amp; Brower 1996; Brower et al.
+ 2012).
+ Alternatively, declines of monarch butterflies may also be attributed to habitat loss that could occur at multiple locations and time periods of the breeding cycle.
+ 2001; Brower et al.
+ 2012; Pleasants &amp; Oberhauser 2013) is predicted to increase competition for food among larvae leading to decreases in immature survival (Flockhart, Martin &amp; Norris 2012).
+ Given that the conservation of monarch butterflies, like many migratory species, is a responsibility shared by multiple countries (Commission for Environmental Cooperation 2008), a quantitative assessment of year‐round population dynamics is critical for guiding effective transboundary conservation planning and assessing risk of extinction in the wild.
+ Our objectives were to (i) assess the long‐term viability trend and cumulative quasi‐extinction probability ( 10 mm would result in butterflies being wetted and making them more vulnerable to freezing risk (Anderson &amp; Brower 1996) and assumed that the probability of a rain event of &gt;10 mm between December and March summarized from the weather station data would remain consistent.
+ The matrix population model randomly selected a daily probability of a large rain event and a minimum temperature to calculate the daily survival between December 1 and March 30.
+ The product of these daily mortality estimates represented the population‐level stochastic mortality rate of each year of the model (see Supporting Information).
+ Analysis We initiated the population model using the population size observed in 1994 (Rendón‐Salinas &amp; Tavera‐Alonso 2014) to assess the model fit from the first 19 years of the simulation (1995–2013) and then projected the population for 100 years and calculated the stochastic population growth rate (log λs) and 95% confidence interval from 1000 simulations.
+ Model fit was assessed by testing the standard deviates of the population growth rates from observed and projected population sizes (McCarthy et al.
+ 2001).
+ The cumulative probability of quasi‐extinction was determined using a binomial model that regress the counts of the number of simulations that had gone extinct by a given year.
+ To test between the three hypotheses, we divided the mean population size from a simulation with each effect by the population size of the full model and used linear models to regress differences in population size against year.
+ A slope different from zero indicates that threat alone would cause a larger (in the case of positive slope) future population than the full model that considers all threats simultaneously.
+ To understand the factors that limit population size of monarch butterflies, we estimated monthly transient elasticities (the relative sensitivity values which sum to 1) of the total species abundance to perturbation of the migration and demographic vital rates (Caswell 2007).
+ To make general predictions of the sensitivity of population growth to changes in vital rates throughout the annual cycle, we summed the demographic transition elasticity values across life stages (immature, adult), life‐history events (breeding, non‐breeding) or regions (Mexico, South, Central, North).
+ We ran all simulations using Matlab R2009.
+ 3a) and predict that, if land‐use and climate change continue as expected, population size will decline by an additional 14% within the next 100 years (Fig.
+ 3b).
+ Furthermore, under these conditions, we predict that the cumulative probability of quasi‐extinction of 5% (Fig.
+ 3b).
+ Overall, the stochastic population growth rate was predicted to be −0·0332 (95% CI: [−0·4028, 0·3364]) (Fig.
+ 2012; Rendón‐Salinas &amp; Tavera‐Alonso 2014).
+ Figure 3Open in figure viewerPowerPoint  Monarch butterfly population size is projected to decrease with a corresponding increase in quasi‐extinction probability.
+ (a) The model‐derived mean predicted overwintering colony size (points) fit the observed monarch butterfly overwintering colony size (bars; Brower et al.
+ 2012; Rendón‐Salinas &amp; Tavera‐Alonso 2014).
+ Overwintering population size is the area (in hectares) occupied by clustering monarch butterflies.
+ For predicted colony size, the points represent the mean density (50 million ha−1), while the upper (25 million ha−1) and lower (75 million ha−1) error bars represent the observed lower and upper population density estimate (Brower et al.
+ 2004) assuming a 1 : 1 sex ratio.
+ (b) Projected mean population size (±SE, circles and error bars) and probability (±95% CI, line and shading) of quasi‐extinction ( 1% mortality of total population) under different proportions of habitat forest cover on the wintering grounds over time.Fig.
+ S2.
+ Daily minimum temperature used to describe temperature patterns at the overwintering colonies in Mexico between December and March.Table S1.
+ Key to notation used in the spatial periodic matrix model for migratory monarch butterflies (Danaus plexippus) in eastern North America.Table S2.
+ Sample sizes of monarch butterflies captured in each region for assigning migratory connectivity (Flockhart et al.
+ 2013).Table S3.
+ Monthly transition of monarch butterflies between destination region where they were captured and their region of origin based on stable isotopes.Table S4.
+ Survival of monarch butterflies during migration.Table S5.
+ Data used in the Geographic Information System used to calculate milkweed abundance in eastern North America.Table S6.
+ Land‐cover classification.Table S7.
+ Milkweed density (m2 ha−1) for different land‐cover types in eastern North America.Table S8.
+ Results of models used to explain road and right‐of‐way widths in eastern North America.Table S9.
+ The width of roads in eastern North America.Table S10.
+ The width of road right‐of‐ways in eastern North America.Table S11.
+ Transition matrix of annual land‐cover change based on data between 1982 and 2007.Table S12.
+ The proportion of total row crops grown as corn and soybean among the three breeding regions in eastern North America.Table S13.
+ Parameter estimates used in a logistic regression to predict changes in the adoption rates of genetically modified corn and soybean crops over time.Table S14.
+ Monthly weather in monarch butterfly overwintering colonies in Mexico.Table S15.
+ Future monthly mean minimum temperatures in monarch butterfly overwintering colonies in Mexico.Table S16.
+ Annual rates of winter habitat degradation between 1971 and 2012 in Oyamel fir‐pine forest ecosystems, Mexico.
+ Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors.
+ Any queries (other than missing content) should be directed to the corresponding author for the article.
+ References    Anderson, J.B. &amp; Brower, L.P. (1996) Freeze‐protection of overwintering monarch butterflies in Mexico: critical role of the forest as a blanket and an umbrella.
+ Ecological Entomology, 21, 107– 116.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Baum, K.A.
+ &amp; Sharber, W.V.
+ (2012) Fire creates host plant patches for monarch butterflies.
+ Biology Letters, 8, 968– 971.
+ Crossref PubMed Web of Science®Google ScholarFind at Imperial   Baxter, P.W.J., McCarthy, M.A., Possingham, H.P., Menkhorst, P.W.
+ &amp; McLean, N. (2006) Accounting for management costs in sensitivity analyses of matrix population models.
+ Conservation Biology, 20, 893– 905.
+ Wiley Online Library PubMed Web of Science®Google ScholarFind at Imperial   Bolger, D.T., Newmark, W.D., Morrison, T.A.
+ &amp; Doak, D.F.
+ (2008) The need for integrative approaches to understand and conserve migratory ungulates.
+ Ecology Letters, 11, 63– 77.
+ Wiley Online Library PubMed Web of Science®Google ScholarFind at Imperial   Brower, L.P. (1995) Understanding and misunderstanding the migration of the monarch butterfly (Nymphalidae) in North America: 1857–1995.
+ Journal of the Lepidopterists' Society, 49, 304– 385.
+ Google ScholarFind at Imperial   Brower, L.P. &amp; Calvert, W.H.
+ (1985) Foraging dynamics of bird predators on overwintering monarch butterflies in Mexico.
+ Evolution, 39, 852– 868.
+ Wiley Online Library PubMed Web of Science®Google ScholarFind at Imperial   Brower, L.P., Horner, B.E., Marty, M.A., Moffitt, C.M.
+ &amp; Bernardo, V.‐R.
+ (1985) Mice (Peromyscus maniculatus, P. spicilegus, and Microtus mexicanus) as predators of overwintering monarch butterflies (Danaus plexippus) in Mexico.
+ Biotropica, 17, 89– 99.
+ Crossref Web of Science®Google ScholarFind at Imperial   Brower, L.P., Castilleja, G., Peralta, A., Lopez‐Garcia, J., Bojorquez‐Tapia, L., Diaz, S. et al.
+ (2002) Quantitative changes in the forest quality in a principal overwintering area of the monarch butterfly in Mexico, 1971–1999.
+ Conservation Biology, 16, 346– 359.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Brower, L. P., Kust, D.R., Rendón Salinas, E., García‐Serrano, E., Kust, K.R., Miller, J. et al.
+ (2004) Catastrophic winter storm mortality of monarch butterflies in Mexico during January 2002.
+ The Monarch Butterfly: Biology and Conservation (eds K.S.
+ Oberhauser &amp; M.J. Solensky), pp.
+ 151– 166.
+ Cornell University Press, Ithaca.
+ Google ScholarFind at Imperial   Brower, L.P., Taylor, O.R., Williams, E.H., Slayback, D.A., Zubieta, R.R.
+ &amp; Ramirez, M.I.
+ (2012) Decline of monarch butterflies overwintering in Mexico: is the migratory phenomenon at risk?
+ Insect Conservation and Diversity, 5, 95– 100.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Bull, J.W., Suttle, K.B., Singh, N.J. &amp; Milner‐Gulland, E.J.
+ (2013) Conservation when nothing stands still: moving targets and biodiversity offsets.
+ Frontiers in Ecology and the Environment, 11, 203– 210.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Calvert, W.H.
+ (1999) Patterns in the spatial and temporal use of Texas milkweeds (Asclepiadaceae) by the monarch butterfly (Danaus plexippus L.) during fall, 1996.
+ Journal of the Lepidopterists' Society, 53, 37– 44.
+ Google ScholarFind at Imperial   Calvert, W.H.
+ (2004) Two methods estimating overwintering monarch population size in Mexico.
+ The Monarch Butterfly: Biology and Conservation (eds K.S.
+ Oberhauser &amp; M.J. Solensky), pp.
+ 121– 127.
+ Cornell University Press, Ithaca.
+ Web of Science®Google ScholarFind at Imperial   Caswell, H. (2007) Sensitivity analysis of transient population dynamics.
+ Ecology Letters, 10, 1– 15.
+ Wiley Online Library CAS PubMed Web of Science®Google ScholarFind at Imperial   Chapman, J.W., Bell, J.R., Burgin, L.E., Reynolds, D.R., Pettersson, L.B., Hill, J.K. et al.
+ (2012) Seasonal migration to high latitudes results in major reproductive benefits in an insect.
+ Proceedings of the National Academy of Sciences of the United States of America, 109, 14924– 14929.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   Cockrell, B.J., Malcolm, S.B.
+ &amp; Brower, L.P. (1993) Time, temperature, and latitudinal constraints on the annual recolonization of eastern North America by the monarch butterfly.
+ Biology and Conservation of the Monarch Butterfly (eds S.B.
+ Malcolm &amp; M.P.
+ Zalucki), pp.
+ 233– 251.
+ Natural History Museum of Los Angeles County, Los Angeles.
+ Google ScholarFind at Imperial    Commission for Environmental Cooperation (2008) North American Monarch Conservation Plan.
+ Commission for Environmental Cooperation, Montreal.
+ Available from: http://www3.cec.org/islandora/en/item/2350-north-american-monarch-conservation-plan-en.pdf.
+ Google ScholarFind at Imperial   Faaborg, J., Holmes, R.T., Anders, A.D., Bildstein, K.L., Dugger, K.M., Gauthreaux, S.A. Jr et al.
+ (2010) Conserving migratory land birds in the New World: do we know enough?
+ Ecological Applications, 20, 398– 418.
+ Wiley Online Library CAS PubMed Web of Science®Google ScholarFind at Imperial   Fischman, R.L.
+ &amp; Hyman, J.B. (2010) The legal challenge of protecting animal migration as phenomena of abundance.
+ Virginia Environmental Law Journal, 28, 173– 239.
+ Google ScholarFind at Imperial   Flockhart, D.T.T., Martin, T.G.
+ &amp; Norris, D.R.
+ (2012) Experimental examination of intraspecific density‐dependent competition during the breeding period in monarch butterflies (Danaus plexippus).
+ PLoS One, 7, e45080.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   Flockhart, D.T.T., Wassenaar, L.I., Martin, T.G., Hobson, K.A., Wunder, M.B.
+ &amp; Norris, D.R.
+ (2013) Tracking multi‐generational colonization of the breeding grounds by monarch butterflies in eastern North America.
+ Proceedings of the Royal Society of London.
+ Series B: Biological Sciences, 280, 20131087.
+ Crossref PubMed Web of Science®Google ScholarFind at Imperial   García‐Serrano, E., Lobato Reyes, J.
+ (2004) Locations and area occupied by monarch butterflies overwintering in Mexico from 1992–2002.
+ The Monarch Butterfly: Biology and Conservation (eds K.S.
+ Oberhauser &amp; M.J. Solensky), pp.
+ 129– 134.
+ Cornell University Press, Ithaca.
+ Google ScholarFind at Imperial   Glendinning, J.I., Alonso Mejia, A.
+ &amp; Brower, L.P. (1988) Behavioral and ecological interactions of foraging mice (Peromyscus melanotis) with overwintering monarch butterflies (Danaus plexippus) in México.
+ Oecologia, 75, 222– 227.
+ Crossref Web of Science®Google ScholarFind at Imperial   Goehring, L. &amp; Oberhauser, K.S.
+ (2002) Effects of photoperiod, temperature, and host plant age on induction of reproductive diapauses and development time in Danaus plexippus.
+ Ecological Entomology, 27, 674– 685.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Hartzler, R.G.
+ (2010) Reduction in common milkweed (Asclepias syriaca) occurrence in Iowa cropland from 1999 to 2009.
+ Crop Protection, 29, 1542– 1544.
+ Crossref Web of Science®Google ScholarFind at Imperial   Hartzler, R.G.
+ &amp; Buhler, D.D.
+ (2000) Occurrence of common milkweed (Asclepias syriaca) in cropland and adjacent areas.
+ Crop Protection, 19, 363– 366.
+ Crossref Web of Science®Google ScholarFind at Imperial   Herman, W.S.
+ &amp; Tatar, M. (2001) Juvenile hormone regulation of longevity in the migratory monarch butterfly.
+ Proceedings of the Royal Society of London.
+ Series B: Biological Sciences, 268, 2509– 2514.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   Hunter, C.M.
+ &amp; Caswell, H. (2005) The use of the vec‐permutation matrix in spatial matrix population models.
+ Ecological Modelling, 188, 15– 21.
+ Crossref Web of Science®Google ScholarFind at Imperial   Jenouvrier, S. (2013) Impacts of climate change on avian populations.
+ Global Change Biology, 19, 2036– 2057.
+ Wiley Online Library CAS PubMed Web of Science®Google ScholarFind at Imperial   Kareiva, P., Marvier, M. &amp; McClure, M. (2000) Recovery and management options for spring/summer Chinook salmon in the Columbia River basin.
+ Science, 290, 977– 979.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   López‐García, J.
+ &amp; Alcántara‐Ayala, I.
+ (2012) Land‐use change and hillslope instability in the monarch butterfly biosphere reserve, central Mexico.
+ Land Degradation &amp; Development, 23, 384– 397.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Malcolm, S.B., Cockrell, B.J.
+ &amp; Brower, L.P. (1993) Spring recolonization of eastern North America by the monarch butterfly: successive brood or single sweep?
+ Biology and Conservation of the Monarch Butterfly (eds S.B.
+ Malcolm &amp; M.P.
+ Zalucki), pp.
+ 253– 268.
+ Natural History Museum of Los Angeles County, Los Angeles.
+ Google ScholarFind at Imperial   Martin, T.G., Chadès, I., Arcese, P., Marra, P.P., Possingham, H.P.
+ &amp; Norris, D.R.
+ (2007) Optimal conservation of migratory animals.
+ PLoS One, 2, e751.
+ Crossref PubMed Web of Science®Google ScholarFind at Imperial   Martin, T.G., Burgman, M.A., Fidler, F., Kuhnert, P.M., Low‐Choy, S., McBride, M. et al.
+ (2012a) Eliciting expert knowledge in conservation science.
+ Conservation Biology, 26, 29– 38.
+ Wiley Online Library PubMed Web of Science®Google ScholarFind at Imperial   Martin, T.G., Nally, S., Burbidge, A., Arnall, S., Garnett, S.T., Hayward, M.W.
+ et al.
+ (2012b) Acting fast helps avoid extinction.
+ Conservation Letters, 5, 274– 280.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   McCarthy, M.A., Possingham, H.P., Day, J.R. &amp; Tyre, A.J.
+ (2001) Testing the accuracy of population viability analysis.
+ Conservation Biology, 15, 1030– 1038.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Miller, N.G., Wassenaar, L.I., Hobson, K.A.
+ &amp; Norris, D.R.
+ (2011) Monarch butterflies cross the Appalachians from the west to recolonize the east coast of North America.
+ Biology Letters, 7, 43– 46.
+ Crossref PubMed Web of Science®Google ScholarFind at Imperial   Muir, W.D., Smith, S.G., Williams, J.G., Hockersmith, E.E.
+ &amp; Skalski, J.R. (2001) Survival estimates for migrant yearling Chinook salmon and steelhead tagged with passive integrated transponders in the Lowe Snake and Lower Columbia Rivers, 1993–1998.
+ North American Journal of Fisheries Management, 21, 269– 282.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Myers, J.P., Morrison, R.I.G., Antas, P.Z., Harrington, B.A., Lovejoy, T.E., Sallaberry, M. et al.
+ (1987) Conservation strategies for migratory species.
+ American Scientist, 75, 18– 26.
+ Google ScholarFind at Imperial   Norris, D.R.
+ &amp; Marra, P.P.
+ (2007) Seasonal interactions, habitat quality, and population dynamics of migratory birds.
+ The Condor, 109, 535– 547.
+ Crossref Web of Science®Google ScholarFind at Imperial   Oberhauser, K.S.
+ (1997) Fecundity, lifespan and egg mass in butterflies: effects of male‐derived nutrients and female size.
+ Functional Ecology, 11, 166– 175.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Oberhauser, K. (2012) Tachinid flies and monarch butterflies: citizen scientists document parasitism patterns over broad spatial and temporal scales.
+ American Entomologist, 58, 19– 22.
+ Crossref Google ScholarFind at Imperial   Oberhauser, K. &amp; Peterson, A.T. (2003) Modeling current and future potential wintering distributions of eastern North American monarch butterflies.
+ Proceedings of the National Academy of Sciences of the United States of America, 100, 14063– 14068.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   Oberhauser, K.S., Prysby, M.D., Mattila, H.R., Stanley‐Horn, D.E., Sears, M.K., Dively, G. et al.
+ (2001) Temporal and spatial overlap between monarch larvae and corn pollen.
+ Proceedings of the National Academy of Sciences of the United States of America, 98, 11913– 11918.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   Oberhauser, K., Gebhard, I., Cameron, C. &amp; Oberhauser, S. (2007) Parasitism of Monarch Butterflies (Danaus plexippus) by Lespesia archippivora (Diperta: Tachinidae).
+ American Midland Naturalist, 157, 312– 328.
+ Crossref Web of Science®Google ScholarFind at Imperial   Pichancourt, J.‐B., Chadès, I., Firn, J., van Klinken, R.D.
+ &amp; Martin, T.G.
+ (2012) Simple rules to contain an invasive species with a complex life cycle and high dispersal capacity.
+ Journal of Applied Ecology, 49, 52– 62.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Pleasants, J.M.
+ &amp; Oberhauser, K.S.
+ (2013) Milkweed loss in agricultural fields because of herbicide use: effect on the monarch butterfly population.
+ Insect Conservation and Diversity, 6, 135– 144.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Ramírez, M.I., Azcárate, J.G.
+ &amp; Luna, L. (2003) Effects of human activities on monarch butterfly habitat in protected mountain forests, Mexico.
+ The Forestry Chronicle, 79, 242– 246.
+ Crossref Web of Science®Google ScholarFind at Imperial   Rendón‐Salinas, E. &amp; Tavera‐Alonso, G. (2014) Monitoeo de la superficie forestal ocupada por las colonias de hibernación de la mariposa Monarca en diciembre de 2013.
+ World Wildlife Fund‐México, Zitácuaro, Michoacán.
+ Available from: http://awsassets.panda.org/downloads/monitoreo_mariposa_monarca_en_mexico_2013_2014.pdf.
+ Web of Science®Google ScholarFind at Imperial   Robbins, C.S., Sauer, J.R., Greenberg, R.S.
+ &amp; Droege, S. (1989) Population declines in North American birds that migrate to the neotropics.
+ Proceedings of the National Academy of Sciences of the United States of America, 86, 7658– 7662.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   Robinson, S.K., Thompson, F.R.
+ III, Donovan, T.M., Whitehead, D.R.
+ &amp; Faaborg, J.
+ (1995) Regional forest fragmentation and the nesting success of migratory birds.
+ Science, 267, 1987– 1990.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   Sáenz‐Romero, C., Rehfeldt, G.E., Crookston, N.L., Duval, P., St‐Amant, R., Beaulieu, J. et al.
+ (2010) Spline models of contemporary, 2030, 2060, and 2090 climates for Mexico and their use in understanding climate‐change impacts on the vegetation.
+ Climate Change, 102, 595– 623.
+ Crossref Web of Science®Google ScholarFind at Imperial   Sáenz‐Romero, C., Rehfeldt, G.E., Duval, P. &amp; Lindig‐Cisneros, R.A. (2012) Abies religiosa habitat prediction in climate change scenarios and implications for monarch butterfly conservation in Mexico.
+ Forest Ecology and Management, 275, 98– 106.
+ Crossref Web of Science®Google ScholarFind at Imperial   Sheehy, J., Taylor, C.M., McCann, K.S.
+ &amp; Norris, D.R.
+ (2010) Optimal conservation of migratory animals: integrating demographic information across seasons.
+ Conservation Letters, 3, 192– 202.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Sherry, T.W.
+ &amp; Holmes, R.T. (1996) Winter habitat quality, population limitation, and conservation of Neotropical‐Nearactic migrant birds.
+ Ecology, 77, 36– 48.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Sillett, T.S.
+ &amp; Holmes, R.T. (2002) Variation in survivorship of a migratory songbird throughout its annual cycle.
+ Journal of Animal Ecology, 71, 296– 308.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Small‐Lorenz, S.L., Culp, L.A., Ryder, T.B., Will, T.C.
+ &amp; Marra, P.P.
+ (2013) A blind spot in climate change vulnerability assessments.
+ Nature Climate Change, 3, 91– 93.
+ Crossref Web of Science®Google ScholarFind at Imperial   Stefanescu, C., Páramo, F., Åkesson, S., Alarcón, M., Ávila, A., Brereton, T. et al.
+ (2013) Multi‐generational long‐distance migration of insects: studying the painted lady butterfly in the Western Palaearctic.
+ Ecography, 36, 474– 486.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   Taylor, O.R.
+ (2013) Monarch Watch Peak Migration Dates.
+ Available from: http://www.monarchwatch.org/tagmig/peak.html.
+ Accessed 16 April 2013.
+ Google ScholarFind at Imperial   Taylor, C.M.
+ &amp; Norris, D.R.
+ (2010) Population dynamics in migratory networks.
+ Theoretical Ecology, 3, 65– 73.
+ Crossref PubMed Web of Science®Google ScholarFind at Imperial   Taylor, O.R.
+ &amp; Shields, J.
+ (2000) The Summer Breeding Habitat of Monarch Butterflies in Eastern North America.
+ Environmental Protection Agency, Washington.
+ Google ScholarFind at Imperial    U.S. Department of Agriculture (2009) Summary Report: 2007 National Resources Inventory, Natural Resources Conservation Service.
+ Washington, and Center for Survey Statistics and Methodology, Ames.
+ Google ScholarFind at Imperial   Vidal, O., López‐García, J.
+ &amp; Rendón‐Salinas, E. (2014) Trends in deforestation and forest degradation after a decade of monitoring in the Monarch Butterfly Biosphere Reserve in Mexico.
+ Conservation Biology, 28, 177– 186.
+ Wiley Online Library PubMed Web of Science®Google ScholarFind at Imperial   Ward, D.H., Rexstad, E., Sedinger, J.S., Lindberg, M.S.
+ &amp; Dawe, N.K.
+ (1997) Seasonal and annual survival of adult pacific brant.
+ Journal of Wildlife Management, 61, 773– 781.
+ Crossref Web of Science®Google ScholarFind at Imperial   Wassenaar, L.I.
+ &amp; Hobson, K.A.
+ (1998) Natal origins of migratory monarch butterflies at wintering colonies in Mexico: new isotopic evidence.
+ Proceedings of the National Academy of Sciences of the United States of America, 95, 15436– 15439.
+ Crossref CAS PubMed Web of Science®Google ScholarFind at Imperial   Webster, M.S., Marra, P.P., Haig, S.M., Bensch, S. &amp; Holmes, R.T. (2002) Links between worlds: unraveling migratory connectivity.
+ Trends in Ecology &amp; Evolution, 17, 76– 83.
+ Crossref Web of Science®Google ScholarFind at Imperial   Zalucki, M.P.
+ &amp; Lammers, J.H.
+ (2010) Dispersal and egg shortfall in Monarch butterflies: what happens when the matrix is cleaned up?
+ Ecological Entomology, 35, 84– 91.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial            Citing LiteratureNumber of times cited according to CrossRef: 108Koray Ozcan, Anuj Sharma, Steven P. Bradbury, Dana Schweitzer, Teresa Blader, Sue Blodgett, Milkweed (Asclepias syriaca) plant detection using mobile cameras, Ecosphere, 10.1002/ecs2.2992, 11, 1, (2020).Wiley Online LibraryTyler J.
+ Grant, D. T. Tyler Flockhart, Teresa R. Blader, Richard L. Hellmich, Grace M. Pitman, Sam Tyner, D. Ryan Norris, Steven P. Bradbury, Estimating arthropod survival probability from field counts: a case study with monarch butterflies, Ecosphere, 10.1002/ecs2.3082, 11, 4, (2020).Wiley Online LibraryMirella Aoun, Pesticides’ Impact on Pollinators, Zero Hunger, 10.1007/978-3-319-95675-6_38, (634-644), (2020).CrossrefMatthew Z. Brym, Cassandra Henry, Shannon P. Lukashow-Moore, Brett J. Henry, Natasja van Gestel, Ronald J. Kendall, Prevalence of monarch (Danaus plexippus) and queen (Danaus gilippus) butterflies in West Texas during the fall of 2018, BMC Ecology, 10.1186/s12898-020-00301-x, 20, 1, (2020).CrossrefJohn Jackson, Khyne U. Mar, Win Htut, Dylan Z. Childs, Virpi Lummaa, Changes in age‐structure over four decades were a key determinant of population growth rate in a long‐lived mammal, Journal of Animal Ecology, 10.1111/1365-2656.13290, 89, 10, (2268-2278), (2020).Wiley Online LibraryMurilo Guimarães, Decio T. Correa, Marília Palumbo Gaiarsa, Marc Kéry, Full-annual demography and seasonal cycles in a resident vertebrate, PeerJ, 10.7717/peerj.8658, 8, (e8658), (2020).CrossrefWayne E. Thogmartin, Jennifer A. Szymanski, Emily L. Weiser, Evidence for a Growing Population of Eastern Migratory Monarch Butterflies Is Currently Insufficient, Frontiers in Ecology and Evolution, 10.3389/fevo.2020.00043, 8, (2020).Crossrefundefined Thayer, undefined Vargas, undefined Castellanos, undefined Lafon, undefined McCarl, undefined Roelke, undefined Winemiller, undefined Lacher, Integrating Agriculture and Ecosystems to Find Suitable Adaptations to Climate Change, Climate, 10.3390/cli8010010, 8, 1, (10), (2020).CrossrefKelsey E. Fisher, Richard L. Hellmich, Steven P. Bradbury, Estimates of common milkweed (Asclepias syriaca) utilization by monarch larvae (Danaus plexippus) and the significance of larval movement, Journal of Insect Conservation, 10.1007/s10841-019-00213-2, (2020).CrossrefWimke Fokkema, Henk P. van der Jeugd, Thomas K. Lameris, Adriaan M. Dokter, Barwolt S. Ebbinge, André M. de Roos, Bart A. Nolet, Theunis Piersma, Han Olff, Ontogenetic niche shifts as a driver of seasonal migration, Oecologia, 10.1007/s00442-020-04682-0, (2020).CrossrefChristine Sample, Joanna A. Bieri, Benjamin Allen, Yulia Dementieva, Alyssa Carson, Connor Higgins, Sadie Piatt, Shirley Qiu, Summer Stafford, Brady J. Mattsson, Darius J. Semmens, Jay E. Diffendorfer, Wayne E. Thogmartin, Quantifying the contribution of habitats and pathways to a spatially structured population facing environmental change, The American Naturalist, 10.1086/709009, (2020).CrossrefOrley R. Taylor, John M. Pleasants, Ralph Grundel, Samuel D. Pecoraro, James P. Lovett, Ann Ryan, Evaluating the Migration Mortality Hypothesis Using Monarch Tagging Data, Frontiers in Ecology and Evolution, 10.3389/fevo.2020.00264, 8, (2020).CrossrefJay E. Diffendorfer, Wayne E. Thogmartin, Ryan Drum, Cheryl B. Schultz, Editorial: North American Monarch Butterfly Ecology and Conservation, Frontiers in Ecology and Evolution, 10.3389/fevo.2020.576281, 8, (2020).CrossrefLouie H. Yang, Meredith L. Cenzer, Seasonal windows of opportunity in milkweed–monarch interactions, Ecology, 10.1002/ecy.2880, 101, 1, (2019).Wiley Online LibraryNatalie Z. Kerr, Elizabeth E. Crone, Frances S. Chew, Life history trade‐offs are more pronounced for a noninvasive, native butterfly compared to its invasive, exotic congener, Population Ecology, 10.1002/1438-390X.12035, 62, 1, (119-133), (2019).Wiley Online LibraryCheryl B. Schultz, Nick M. Haddad, Erica H. Henry, Elizabeth E. Crone, Movement and Demography of At-Risk Butterflies: Building Blocks for Conservation, Annual Review of Entomology, 10.1146/annurev-ento-011118-112204, 64, 1, (167-184), (2019).CrossrefNathan L. Haan, Douglas A. Landis, Grassland disturbance increases monarch butterfly oviposition and decreases arthropod predator abundance, Biological Conservation, 10.1016/j.biocon.2019.03.007, 233, (185-192), (2019).CrossrefSamantha M. Knight, D. Ryan Norris, Rachael Derbyshire, D.T.
+ Tyler Flockhart, Strategic mowing of roadside milkweeds increases monarch butterfly oviposition, Global Ecology and Conservation, 10.1016/j.gecco.2019.e00678, (e00678), (2019).CrossrefD.
+ T. Tyler Flockhart, Maxim Larrivée, Kathleen L. Prudic, D. Ryan Norris, Estimating the annual distribution of monarch butterflies in Canada over 16 years using citizen science data, FACETS, 10.1139/facets-2018-0011, 4, 1, (238-253), (2019).CrossrefJustin R. Dee, Kristen A. Baum, Mowing Frequency Influences Number of Flowering Stems but not Population Age Structure of Asclepias viridis, an Important Monarch Host Plant, The American Midland Naturalist, 10.1674/0003-0031-182.1.27, 182, 1, (27), (2019).CrossrefP Brosset, JM Durant, E Van Beveren, S Plourde, Fish population growth in the Gulf of St Lawrence: effects of climate, fishing and predator abundance, Marine Ecology Progress Series, 10.3354/meps13029, 624, (167-181), (2019).CrossrefAnna M Tucker, Conor P McGowan, Robert A Robinson, Jacquie A Clark, James E Lyons, Audrey DeRose-Wilson, Richard Du Feu, Graham E Austin, Philip W Atkinson, Nigel A Clark, Effects of individual misidentification on estimates of survival in long-term mark–resight studies, The Condor, 10.1093/condor/duy017, 121, 1, (2019).CrossrefAndrew M Allen, Bruno J Ens, Martijn Van de Pol, Henk Van der Jeugd, Magali Frauendorf, Kees Oosterbeek, Eelke Jongejans, Seasonal survival and migratory connectivity of the Eurasian Oystercatcher revealed by citizen science, The Auk, 10.1093/auk/uky001, 136, 1, (2019).CrossrefFabrizio Sergio, Giacomo Tavecchia, Alessandro Tanferna, Julio Blas, Guillermo Blanco, Fernando Hiraldo, When and where mortality occurs throughout the annual cycle changes with age in a migratory bird: individual vs population implications, Scientific Reports, 10.1038/s41598-019-54026-z, 9, 1, (2019).CrossrefAndrew D. Kaul, Brian J. Wilsey, Monarch butterfly host plant (milkweed Asclepias spp.)
+ Hall, Multiple transmission routes sustain high prevalence of a virulent parasite in a butterfly host, Proceedings of the Royal Society B: Biological Sciences, 10.1098/rspb.2019.1630, 286, 1910, (20191630), (2019).CrossrefSara L. Hermann, Carissa Blackledge, Nathan L. Haan, Andrew T. Myers, Douglas A. Landis, Predators of monarch butterfly eggs and neonate larvae are more diverse than previously recognised, Scientific Reports, 10.1038/s41598-019-50737-5, 9, 1, (2019).CrossrefChristine Sample, Joanna A. Bieri, Benjamin Allen, Yulia Dementieva, Alyssa Carson, Connor Higgins, Sadie Piatt, Shirley Qiu, Summer Stafford, Brady J. Mattsson, Darius J. Semmens, Wayne E. Thogmartin, Jay E. Diffendorfer, Quantifying source and sink habitats and pathways in spatially structured populations: A generalized modelling approach, Ecological Modelling, 10.1016/j.ecolmodel.2019.06.003, 407, (108715), (2019).CrossrefLeona K. Svancara, John T. Abatzoglou, Beth Waterbury, Modeling Current and Future Potential Distributions of Milkweeds and the Monarch Butterfly in Idaho, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00168, 7, (2019).CrossrefStephen J. Dinsmore, Rachel A. Vanausdall, Kevin T. Murphy, Karen E. Kinkead, Paul W. Frese, Patterns of Monarch Site Occupancy and Dynamics in Iowa, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00169, 7, (2019).CrossrefBeth Waterbury, Ann Potter, Leona K. Svancara, Monarch Butterfly Distribution and Breeding Ecology in Idaho and Washington, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00172, 7, (2019).CrossrefAlison B. Cariveau, Holly L. Holt, James P. Ward, Laura Lukens, Kyle Kasten, Jennifer Thieme, Wendy Caldwell, Karen Tuerk, Kristen A. Baum, Pauline Drobney, Ryan G. Drum, Ralph Grundel, Keith Hamilton, Cindy Hoang, Karen Kinkead, Julie McIntyre, Wayne E. Thogmartin, Tenlea Turner, Emily L. Weiser, Karen Oberhauser, The Integrated Monarch Monitoring Program: From Design to Implementation, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00167, 7, (2019).CrossrefNathan L. Haan, Douglas A. Landis, The Importance of Shifting Disturbance Regimes in Monarch Butterfly Decline and Recovery, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00191, 7, (2019).CrossrefKaren E. Kinkead, Tyler M. Harms, Stephen J. Dinsmore, Paul W. Frese, Kevin T. Murphy, Design Implications for Surveys to Monitor Monarch Butterfly Population Trends, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00195, 7, (2019).CrossrefTyler J.
+ Grant, Steven P. Bradbury, The Role of Modeling in Monarch Butterfly Research and Conservation, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00197, 7, (2019).CrossrefPaola Olaya-Arenas, Ian Kaplan, Quantifying Pesticide Exposure Risk for Monarch Caterpillars on Milkweeds Bordering Agricultural Land, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00223, 7, (2019).CrossrefKeith A. Hobson, Kevin J. Kardynal, Geoff Koehler, Expanding the Isotopic Toolbox to Track Monarch Butterfly (Danaus plexippus) Origins and Migration: On the Utility of Stable Oxygen Isotope (δ18O) Measurements, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00224, 7, (2019).CrossrefEmma M. Pelton, Cheryl B. Schultz, Sarina J. Jepsen, Scott Hoffman Black, Elizabeth E. Crone, Western Monarch Population Plummets: Status, Probable Causes, and Recommended Conservation Actions, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00258, 7, (2019).CrossrefTara L. Crewe, Greg W. Mitchell, Maxim Larrivée, Size of the Canadian Breeding Population of Monarch Butterflies Is Driven by Factors Acting During Spring Migration and Recolonization, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00308, 7, (2019).CrossrefRodrigo Solis-Sosa, Christina A. D. Semeniuk, Sergio Fernandez-Lozada, Kornelia Dabrowska, Sean Cox, Wolfgang Haider, Monarch Butterfly Conservation Through the Social Lens: Eliciting Public Preferences for Management Strategies Across Transboundary Nations, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00316, 7, (2019).CrossrefDarius Semmens, Zachary Ancona, Monarch Habitat as a Component of Multifunctional Landscape Restoration Using Continuous Riparian Buffers, Frontiers in Environmental Science, 10.3389/fenvs.2019.00126, 7, (2019).CrossrefKristen J. Voorhies, Jennifer Szymanski, Kelly R. Nail, Mason Fidino, A Method to Project Future Impacts From Threats and Conservation on the Probability of Extinction for North American Migratory Monarch (Danaus plexxipus) Populations, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00384, 7, (2019).CrossrefAlison B. Cariveau, Erik Anderson, Kristen A. Baum, Jennifer Hopwood, Eric Lonsdorf, Chris Nootenboom, Karen Tuerk, Karen Oberhauser, Emilie Snell-Rood, Rapid Assessment of Roadsides as Potential Habitat for Monarchs and Other Pollinators, Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00386, 7, (2019).CrossrefRafael Moreno-Sanchez, James Raines, Jay Diffendorfer, Mark A. Drummond, Jessica Manko, Challenges for Monitoring the Extent and Land Use/Cover Changes in Monarch Butterflies’ Migratory Habitat across the United States and Mexico, Land, 10.3390/land8100156, 8, 10, (156), (2019).CrossrefAlana A. E. Wilcox, D. T. Tyler Flockhart, Amy E. M. Newman, D. Ryan Norris, An Evaluation of Studies on the Potential Threats Contributing to the Decline of Eastern Migratory North American Monarch Butterflies (Danaus plexippus), Frontiers in Ecology and Evolution, 10.3389/fevo.2019.00099, 7, (2019).CrossrefDaniel R Howard, Carrie L Hall,      Examining the Management of Rare Insects Through the Lens of Biotic Interactions: A Comparative Case Study of     Nicrophorus americanus     (Coleoptera: Silphidae) and     Gryllotalpa major     (Orthoptera: Gryllotalpidae)    , Annals of the Entomological Society of America, 10.1093/aesa/saz008, (2019).CrossrefR.
+ Harvey Lemelin, Pablo F. Jaramillo-López, Orange, black, and a little bit of white is the new shade of conservation: the role of tourism in Monarch Butterfly Conservation in Mexico, Journal of Ecotourism, 10.1080/14724049.2019.1656726, (1-13), (2019).CrossrefAnia A. Majewska, Dara A. Satterfield, Rebecca B. Harrison, Sonia Altizer, Jeffrey Hepinstall-Cymerman, Urbanization predicts infection risk by a protozoan parasite in non-migratory populations of monarch butterflies from the southern coastal U.S. and Hawaii, Landscape Ecology, 10.1007/s10980-019-00799-7, (2019).CrossrefVictoria M. Pocius, Diane M. Debinski, John M. Pleasants, Keith G. Bidne, Richard L. Hellmich, Monarch butterflies do not place all of their eggs in one basket: oviposition on nine Midwestern milkweed species, Ecosphere, 10.1002/ecs2.2064, 9, 1, (2018).Wiley Online LibraryScott Wilson, James F. Saracco, Richard Krikun, D. T. Tyler Flockhart, Christine M. Godwin, Kenneth R. Foster, Drivers of demographic decline across the annual cycle of a threatened migratory bird, Scientific Reports, 10.1038/s41598-018-25633-z, 8, 1, (2018).CrossrefKatherine C. Kral, Torre J. Hovick, Ryan F. Limb, Jason P. Harmon, Multi-scale considerations for grassland butterfly conservation in agroecosystems, Biological Conservation, 10.1016/j.biocon.2018.08.002, 226, (196-204), (2018).CrossrefStephen B. Malcolm, Anthropogenic Impacts on Mortality and Population Viability of the Monarch Butterfly, Annual Review of Entomology, 10.1146/annurev-ento-020117-043241, 63, 1, (277-302), (2018).CrossrefR.
+ Mesnage, M.N.
+ Antoniou, Roundup Ready!
+ Glyphosate and the Current Controversy Over the World's Leading Herbicide, Encyclopedia of the Anthropocene, 10.1016/B978-0-12-809665-9.09981-X, (149-153), (2018).CrossrefEmma Despland, Effects of phenological synchronization on caterpillar early-instar survival under a changing climate, Canadian Journal of Forest Research, 10.1139/cjfr-2016-0537, 48, 3, (247-254), (2018).CrossrefAdam M. Baker, Daniel A. Potter, Japanese beetles’ feeding on milkweed flowers may compromise efforts to restore monarch butterfly habitat, Scientific Reports, 10.1038/s41598-018-30731-z, 8, 1, (2018).CrossrefGrace M. Pitman, D.T.
+ Tyler Flockhart, D. Ryan Norris, Patterns and causes of oviposition in monarch butterflies: Implications for milkweed restoration, Biological Conservation, 10.1016/j.biocon.2017.10.019, 217, (54-65), (2018).CrossrefLincoln P. Brower, Ernest H. Williams, Kelly Sims Dunford, James C. Dunford, Amy L. Knight, Jaret Daniels, James A. Cohen, Tonya Van Hook, Emily Saarinen, Matthew J. Standridge, Samantha W. Epstein, Myron P. Zalucki, Stephen B. Malcolm, A long-term survey of spring monarch butterflies in north-central Florida, Journal of Natural History, 10.1080/00222933.2018.1510057, 52, 31-32, (2025-2046), (2018).CrossrefMatthew Z. Brym, Cassandra Henry, Ronald J. Kendall, POTENTIAL SIGNIFICANCE OF FALL BREEDING OF THE MONARCH BUTTERFLY (DANAUS PLEXIPPUS) IN THE ROLLING PLAINS ECOREGION OF WEST TEXAS, Texas Journal of Science, 10.32011/txjsci_70_1_Note4, 70, 1, (Note 4), (2018).CrossrefDara A. Satterfield, Peter P. Marra, T. Scott Sillett, Sonia Altizer, Responses of migratory species and their pathogens to supplemental feeding, Philosophical Transactions of the Royal Society B: Biological Sciences, 10.1098/rstb.2017.0094, 373, 1745, (20170094), (2018).CrossrefDarius J. Semmens, Jay E. Diffendorfer, Kenneth J. Bagstad, Ruscena Wiederholt, Karen Oberhauser, Leslie Ries, Brice X. Semmens, Joshua Goldstein, John Loomis, Wayne E. Thogmartin, Brady J. Mattsson, Laura López-Hoffman, Quantifying ecosystem service flows at multiple scales across the range of a long-distance migratory species, Ecosystem Services, 10.1016/j.ecoser.2017.12.002, 31, (255-264), (2018).CrossrefTyler J.
+ Grant, Hazel R. Parry, Myron P. Zalucki, Steven P. Bradbury, Predicting monarch butterfly ( Danaus plexippus ) movement and egg-laying with a spatially-explicit agent-based model: The role of monarch perceptual range and spatial memory, Ecological Modelling, 10.1016/j.ecolmodel.2018.02.011, 374, (37-50), (2018).CrossrefVictoria Marie Pocius, John M. Pleasants, Diane M. Debinski, Keith G. Bidne, Richard L. Hellmich, Steven P. Bradbury, Sue L. Blodgett, Monarch Butterflies Show Differential Utilization of Nine Midwestern Milkweed Species, Frontiers in Ecology and Evolution, 10.3389/fevo.2018.00169, 6, (2018).CrossrefAshley Fisher, Kiana Saniee, Charis van der Heide, Jessica Griffiths, Daniel Meade, Francis Villablanca, Climatic Niche Model for Overwintering Monarch Butterflies in a Topographically Complex Region of California, Insects, 10.3390/insects9040167, 9, 4, (167), (2018).CrossrefJoseph Belsky, Neelendra K. Joshi, Assessing Role of Major Drivers in Recent Decline of Monarch Butterfly Population in North America, Frontiers in Environmental Science, 10.3389/fenvs.2018.00086, 6, (2018).CrossrefAdam M. Baker, Daniel A. Potter, Colonization and usage of eight milkweed (Asclepias) species by monarch butterflies and bees in urban garden settings, Journal of Insect Conservation, 10.1007/s10841-018-0069-5, (2018).CrossrefChristine Sample, John M. Fryxell, Joanna A. Bieri, Paula Federico, Julia E. Earl, Ruscena Wiederholt, Brady J. Mattsson, D. T. Tyler Flockhart, Sam Nicol, Jay E. Diffendorfer, Wayne E. Thogmartin, Richard A. Erickson, D. Ryan Norris, A general modeling framework for describing spatially structured population dynamics, Ecology and Evolution, 10.1002/ece3.3685, 8, 1, (493-508), (2017).Wiley Online LibraryCheryl B. Schultz, Leone M. Brown, Emma Pelton, Elizabeth E. Crone, Citizen science monitoring demonstrates dramatic declines of monarch butterflies in western North America, Biological Conservation, 10.1016/j.biocon.2017.08.019, 214, (343-346), (2017).CrossrefDavid N. Zaya, Ian S. Pearse, Greg Spyreas, Long-Term Trends in Midwestern Milkweed Abundances and Their Relevance to Monarch Butterfly Declines, BioScience, 10.1093/biosci/biw186, 67, 4, (343-356), (2017).CrossrefV M Pocius, D M Debinski, J M Pleasants, K G Bidne, R L Hellmich, L P Brower, Milkweed Matters: Monarch Butterfly (Lepidoptera: Nymphalidae) Survival and Development on Nine Midwestern Milkweed Species, Environmental Entomology, 10.1093/ee/nvx137, 46, 5, (1098-1105), (2017).CrossrefLaura López-Hoffman, Charles C. Chester, Darius J. Semmens, Wayne E. Thogmartin, M. Sofia Rodríguez-McGoffin, Robert Merideth, Jay E. Diffendorfer, Ecosystem Services from Transborder Migratory Species: Implications for Conservation Governance, Annual Review of Environment and Resources, 10.1146/annurev-environ-110615-090119, 42, 1, (509-539), (2017).CrossrefT.
+ A. Jones, Ecosystem restoration: recent advances in theory and practice, The Rangeland Journal, 10.1071/RJ17024, 39, 6, (417), (2017).CrossrefVictoria M. Pocius, Diane M. Debinski, Keith G. Bidne, Richard L. Hellmich, Frances K. Hunter,      Performance of Early Instar Monarch Butterflies (     Danaus plexippus     L.) on Nine Milkweed Species Native to Iowa    , Journal of the Lepidopterists' Society, 10.18473/lepi.71i3.a5, 71, 3, (153-161), (2017).CrossrefR.
+ Mesnage, M.N.
+ Antoniou, Roundup Ready!
+ NEW USER &gt;                  INSTITUTIONAL LOGIN &gt;             Change Password        Old Password       New Password     Too Short Weak Medium Strong Very Strong Too Long       Password Changed Successfully Your password has been changed           Create a new account      Email or Customer ID                    Returning user                 Forgot your password?
+ Enter your email address below.
+ Email or Customer ID           Please check your email for instructions on resetting your password.
+ If you do not receive an email within 10 minutes, your email address may not be registered,      and you may need to create a new Wiley Online Library account.
+ Request Username  Can't sign in?
+ Forgot your username?

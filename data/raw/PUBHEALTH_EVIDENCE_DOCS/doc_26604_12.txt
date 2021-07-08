@@ -1,0 +1,2 @@
+406 Not Acceptable
+  This request is not acceptable

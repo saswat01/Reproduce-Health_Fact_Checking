@@ -1,0 +1,913 @@
+CATF
+: Toll From Coal
+   Page 2 of 
+16                   Founded in 1996, the Clean Air Task Force is a nonprofit organization dedicated to 
+restoring clean air and healthy environments through scientific research, public 
+education, and legal advocacy. 
+             MAIN OFFICE 
+ OTHER 
+LOCATIONS
+  18 Tremont Street 
+     Brunswick, ME
+ Suite 530 
+      Carbondale, IL
+ Boston, MA 02108      Columbus, OH
+ 617.624.0234 
+     Washington, DC
+ info@catf.us
+       Beijing, China
+ www.catf.us
+    CATF
+: Toll From Coal
+   Page 3 of 
+16 Acknowledgements
+  This work was made possible through the generous support of the Energy
+ Foundation. The study benefited from the work of a number of colleagues 
+and consultants including Theo Spencer and Peter Altman at the Na
+tural Resources Defense Counci
+l. The interactive web portion of this work was 
+constructed by Zev Ross of Zev Ross Spatial Analysis.  Written by: Conrad Schneider and Jonathan Banks, CATF
+  Edited by: 
+Marika Tatsutani
+  Technical Assistance: 
+David Schoengol
+d, 
+MSB Energy Associates
+  September 2010
+                       COVER IMAGE:
+ December 28, 2007
+ Image by
+ Nick Humphries 
+, via Flickr Creative Commons
+     CATF
+: Toll From Coal
+   Page 4 of 
+16 EXECUTIVE SUMMARY
+   Among all industrial sources of air pollution, none poses greater risks to human 
+health and the environment 
+than coal-fired power plants.  Emissions from coal
+-fired power plants contribute to global warming, ozone smog, acid rain, regional 
+haze, and
+Ñperhaps most consequential of all from a public health standpoint 
+Ñ fine particle pollution.  In 2000 and again in
+ 2004, the Clean Air Task Force 
+commissioned comprehensive studies of health impacts caused by fine particle 
+air pollution from the nationÕs roughly 500 coal
+-fired power plants.  Each study 
+incorporated the latest scientific findings concerning the link be
+tween air 
+pollution and public health, as well as up
+-to-date emissions information.  
+Both found that emissions from the U.S. power sector cause tens of thousands of 
+premature deaths each year and hundreds of thousands of heart attacks, asthma 
+attacks, emer
+gency room visits, hospital admissions, and lost workdays.  
+ This study provides a new update on the burden of death and disease from 
+coal-based electricity production across the United States.  Estimated 
+impacts are based on projected power sector emissio
+ns in 2010.  As in our 
+2000 and 2004 reports, Clean Air Task Force commissioned Abt Associates 
+to conduct the analysis for this study.   Abt Associates developed estimates of 
+health impacts using a well
+-established and extensively peer
+-reviewed 
+methodology
+ that has been approved by both the U.S. Environmental 
+Protection AgencyÕs (EPAÕs) Science Advisory Board and the National 
+Academy of Sciences (NAS).  In fact, the same methodology has provided the 
+basis for regulatory impact analyses in the context of rec
+ent EPA 
+rulemakings.  
+ Results from this latest assessment indicate that although coal plant 
+emissions of key particle
+-forming pollutants like sulfur dioxide (SO
+2) and 
+nitrogen oxides (NOx) have declined significantly over the last several years, 
+existing 
+plants remain among the top contributors to fine particle pollution 
+in the United States.  As a result, their emissions continue to take a 
+significant toll on the health and longevity of millions of Americans.  
+ Specifically, Abt
+ AssociateÕs analysis finds
+ that fine particle pollution from 
+existing coal plants is expected to cause nearly 13,200 deaths in 2010.  
+Additional impacts include an estimated 9,700 hospitalizations and more 
+than 20,000 heart attacks per year.  The total monetized value of these 
+adverse health impacts adds up to more than $100 billion per year.  This 
+burden is not distributed evenly across the population. Adverse impacts are 
+especially severe for the elderly, children, and those with respiratory disease.  
+In addition, the poor, minori
+ty groups, and people who live in areas 
+downwind of multiple power plants are likely to be disproportionately 
+exposed to the health risks and costs of fine particle pollution.  
+ These figures take into account emissions reductions from regulatory 
+changes that have happened since 2004, when the Clean Air Task Force last 
+sponsored a comprehensive assessment of adverse health impacts from the 
+ CATF
+: Toll From Coal
+   Page 5 of 
+16 fleet of existing coal-fired power plants.  In 2005, EPA issued the Clean Air 
+Interstate Rule (CAIR), which was designe
+d to achieve further reductions in 
+SO2 and NOx emissions from power plants in the eastern United States. 
+CAIR was subsequently challenged and ultimately struck down in federal 
+court in 2008 for failing to conform to aspects of the Clean Air Act, but the 
+court has allowed the CAIR requirements to remain in place until EPA can 
+issue a replacement rule.  For the purposes of this reanalysis of health 
+impacts from the nationÕs existing power plants, Abt Associates assumed 
+that a regulation as stringent as the CAIR rule would be in place in 2010. 
+ Comparing estimated health impacts from the 2004 analysis and this 
+updated assessment serves to underscore the direct link between reduced 
+power plant emissions and substantial public health benefits. For example, 
+Abt AssociatesÕ estimate of 13,200 deaths from fine particle pollution in 2010 
+compares to an estimate of nearly 24,000 deaths per year from existing 
+plants in the 2004 study.  Similar public health gains are evident in the 
+estimated incidence of other adverse i
+mpacts including hospital admissions 
+(9,700 in 2010 compared to 21,850 in 2004) and heart attacks (20,400 in 
+2010 compared to 38,200 in 2004).  
+ The improvements 
+in public health 
+estimated by Abt 
+Associates are 
+consistent with 
+observed reductions 
+in national sulfur 
+dioxide emissions 
+since 2004.  Over 
+that period of time, 
+sulfur dioxide emissions nationally 
+fell from 10.3 million 
+tons in 2004 to 5.7 
+million tons in 
+2009.1  These 
+reductions largely 
+resulted from the 
+addition of over 130 flue gas desulfurization 
+(FGD) (also known as ÒscrubbersÓ) installations on coal
+-fired units, mostly 
+in the eastern U.S.  These scrubbers were installed as a result of the 
+combination of the Clean Air Interstate Rule (CAIR), federal and state 
+enforcement of the New Source Review (NSR) provisions of the Clean Air 
+Act, and state power plan
+t clean up laws.  These actions are responsible for 
+saving nearly 11,000 lives per year and demonstrate that judicious use of the 
+Clean Air Act offers a powerful solution to power plant pollution. 
+  Jobs and Public Health
+ Reducing air pollution from the nationÕs power 
+plants is not just good for public h
+ealth; it i
+s also 
+good for the nationÕs economy. Pollution control 
+technologies, such as scrubbers for SO
+2, are large 
+projects that require a tremendous amount of 
+skilled labor and materials.  Since 2004 roughly 
+130 scrubbers have been installed at existin
+g power plants.  The average scrubber requires 
+380,000 man
+-hours or 200 person
+-years to 
+complete.  Each scrubber installation can take 
+roughly 2 years to complete which means roughly 
+100 people working over this period.  These jobs 
+are both engineering and
+ management jobs as 
+well as jobs for boilermakers and other skilled 
+labor.
+1  CATF
+: Toll From Coal
+   Page 6 of 
+16 These results not only point to the necessity of preserving emissions 
+reductions mandated under CAIR, but the need for even stronger measures 
+to further mitigate the still unacceptably high burden of death and disease 
+from coal
+-fired power plants going forward. With a national commitment to 
+deploy the most advanc
+ed pollution control technologies, implement cost
+-effective efficiency improvements, and steadily increase the use of inherently 
+cleaner sources of electricity, the opportunity exists to save thousands more 
+lives and avert costly health impacts due to powe
+r sector emissions.  
+   Specifically, to reduce the death and disease associated with power plant
+-related particulate matter pollution from SO
+2 and NOx, EPA should 
+strengthen and finalize the recently proposed Transport Rule to replace the 
+judicially invalidated Clean Air Interstate Rule. Stronger regional caps on 
+SO2 and NOx pollution are achievable and cost effective and would reflect 
+both the progress made and the performance of the most recent pollution 
+control equipment.
+2 In the last five years, emissions control equipment 
+installed at power plants around the country (flue gas desulfurization or 
+FGD for SO
+2 and selective catalytic reduction or SCR for NOx reduction) 
+have helped coal plants achieve reductions in their emission r
+ates of SO2 and 
+NOx by 
+an average of 72 percent and 74 percent respectively.
+3 The result has 
+been a reduction in SO
+2 and NOx pollution by almost half without noticeably 
+affecting electricity prices or bills, natural gas prices, or the reliability of the 
+power system.
+  Over the years
+; however, implementation of the Clean Air Act has often been 
+stalled due to lawsuits and other delays. To preserve the recent emission 
+reduction
+s, speed further reductions,
+ avoid years of costly litigation delay 
+from industry ch
+allenges to these regulations, and offer certainty with 
+respect to environmental objectives and costs, CATF supports efforts in 
+Congress to set a more protective national cap on power plant SO
+2 emissions 
+0 2,000,000 4,000,000 6,000,000 8,000,000 
+10,000,000 12,000,000 2004 2005 
+2006 2007 
+2008 
+2009 SO2 and NOx Emissions From 
+Power Plants (tons)  
+SO2 
+NOx Figure 1. Source: EPA
+  CATF
+: Toll From Coal
+   Page 7 of 
+16 at 2 million tons per year in 2015 and 1.5 million t
+ons per year in 2018.  This 
+same proposal would establish a nat
+ional power plant NOx cap at 1.6
+ million 
+tons in 2015. CATF has testified in support of strengthening and passing this 
+legislation that, if enacted, would prevent tens of thousands of premature 
+deaths, heart attacks and other health impacts.
+4                           How do the numbers compare to EPAÕs?
+  U.S. EPA in its Transport Rule proposal estimates that the rule will 
+prevent the deaths of 14,000 to 36,000 people annually from power plant 
+pollution starting in 2014.  How does this estimate compare to CATFÕs 
+estimate in this report that power plant poll
+ution is causing the premature 
+deaths of 13,200 people in 2010?  The answer gets to the heart of why we 
+need a strong Clean Air Transport Rule. 
+  First, remember that 
+one of the steps that has reduced emissions from 
+power 
+plants since our 2004 report rests
+ on shaky legal ground.  Some of 
+the reductions were 
+driven by 
+the Clean Air Interstate Rule (CAIR), which 
+the court struck down in 2008.  In the proposed Regulatory Impact 
+Analysis of the Transport Rule, EPA had to assume that the CAIR does not 
+exist.  So
+, EPA compared the benefits of its proposed Transport Rule to a 
+base case with none of the cleanup measures required by the CAIR.  By 
+contrast, CATF in this report is estimating the total number of power 
+plant pollution
+-related deaths that will occur this 
+year under current 
+emissions
+Ñthat is, with all the existing cleanup measures in place and 
+operating.  CATF assumed that a rule at least as stringent as CAIR is in 
+effect in 2010.  In fact, the CAIR rule has driven the installation of dozens 
+of sulfur scrub
+bers since 2004 and these emission control devices 
+currently are running.  So, we credit those reductions as part of our 
+analysis.  However, there is an operation and maintenance cost associated 
+with these scrubbers and power companies will not continue to
+ run them 
+indefinitely unless they are legally required to do so.  That is why it is so 
+important that EPA strengthen and finalize the Transport Rule 
+Ð otherwise, these reductions are at risk.  
+  Secondly, EPA estimated the lives saved by the Transport Rul
+e as a range 
+(i.e., 14,000 to 36,000 lives annually).  The lower number of this range is 
+based on the results from the American Cancer Society study (Pope et al. 
+2002) and the higher number is based on the Harvard Six
+-Cities Study 
+(Laden et al. 2006).  CAT
+F in its 2000 and 2004 reports used the 
+American Cancer Society study.  For consistencyÕs sake, we do so again in 
+the current report. That means that if we used est
+imates based on the 
+Harvard Six
+-Cities Study, the number of lives saved each year would be 
+much, much higher.  
+    CATF
+: Toll From Coal
+   Page 8 of 
+16 The Link between Power Plant Pollution and Human Health
+ The direct link between power plant emissions and human health has been 
+documented in an extensive 
+body of scientific research drawing on multiple 
+lines of evidence, including several rigorous, large
+-scale epidemiological 
+studies.  Much of that literature has been reviewed and summarized in 
+formal rulemakings and regulatory analyses by the U.S. Environm
+ental 
+Protection Agency (EPA) over the last several years and in reports published 
+by the Clean Air Task Force and other organizations advocating on behalf of 
+more stringent regulation of power sector emissions.
+5  In brief, public health concerns have 
+focused, for at least the last decade, on 
+the role of very small airborne particles in causing or contributing to a host 
+of respiratory and cardiopulmonary ailments and increasing the risk of 
+premature death.  Fine particles are especially dangerous becaus
+e they can 
+bypass the bodyÕs defensive mechanisms and become lodged deep in the 
+human lung.  Indeed, research also indicates that short
+-term exposures to 
+fine particle pollution is linked to cardiac effects, including increased risk of 
+heart attack.
+6  Mean
+while, long
+-term exposure to fine particle pollution has 
+been shown to increase the risk of death from cardiac and respiratory 
+diseases and lung cancer, resulting in shorter life
+-expectancy for people 
+living in the most polluted cities compared to people w
+ho live in cleaner 
+cities.7 And although research suggests fine particles reduce the average life 
+span of the general population by a few years, the life of an individual dying 
+as a result of exposure to air pollution may be shortened by 14 years.
+8 Adverse
+ effects, including excess mortality, occur even at low ambient 
+concentrations of fine particlesÑsuggesting there is no ÒsafeÓ threshold for this type of pollution.9  Recent studies have also succeeded in identifying 
+plausible biological mechanisms such as
+ systemic inflammation, accelerated 
+atherosclerosis, and altered cardiac function to explain the cardiac and other 
+serious health impacts associated with exposure to airborne fine particles.
+10 Because most fine particle
+-related deaths are thought to occur w
+ithin a year 
+or two of exposure, reducing power plant pollution will have almost 
+immediate benefits.
+11  Unfortunately, persistently elevated levels of fine particle pollution are 
+common across wide swaths of the country, particularly in the eastern 
+United S
+tates.  Fine particle pollution itself consists of a complex mixture of 
+harmful pollutants including elements as diverse as soot, acid droplets, and 
+metals.  Most of these pollutants originate from combustion sources such as 
+power plants, diesel trucks, bu
+ses, and cars.  East of the Mississippi, sulfates 
+are a dominant ingredient of fine particle pollution. Sulfates are formed in 
+the atmosphere from sulfur dioxide (SO
+2) emissions, which also contribute
+Ñalong with emissions of nitrogen oxides (NOx)
+Ñto the formation of airborne 
+acidic particles. 
+In 2008, power plants accounted for 66% of the national SO
+2 inventory with the vast majority of this contribution (more than 98%) 
+coming from coal
+-fired power plants.
+ Sulfur emissions from coal
+-fired power 
+plants thus 
+emerge as the chief driver of adverse health impacts from 
+industrial sources of air pollution across much of the country.  Moreover, 
+many of the nationÕs existing coal plants are old
+Ñin fact, the average age of 
+the current coal fleet is 44 years and has very little in the way of modern 
+ CATF
+: Toll From Coal
+   Page 9 of 
+16 pollution controls.  These same aging plants also contribute 
+disproportionately to power
+-sector emissions of other harmful pollutants 
+such as mercury and other air toxics, as well as emissions of the chief 
+greenhouse gas, car
+bon dioxide.  
+ Over the last two decades considerable progress has been achieved in 
+reducing SO
+2 and NOx emissions from the U.S. power sector.  Under a 
+variety of Clean Air Act programs and regulations designed to address acid 
+rain, particulate matter (PM) pollution, ozone smog, and regional haze, 
+power plant 
+emissions of SO
+2 in 2009 fell to 
+approximately one-third of the national total in 1980; a similar 
+reduction was 
+likewise achieved 
+in national
+-level 
+power sector NOx 
+emissions over the 
+same time frame.
+12  The updated estimates of 
+adverse health impacts presented 
+in the next section 
+take these trends into account and 
+assume that actual 
+emissions in 2010 
+remain in line with 
+recent experience and regulatory expectations under the CAIR rule.  They 
+show that despite the record of progress in reducing power plant emissions 
+over the last 15 to 20 years, th
+e burden of death and disease from coal
+-based electricity production in the United States remains too high.
+            What are fine particles
+?  Fine particles are a mixture of harmful pollutants 
+(e.g. soot, acid droplets, metals) that originate 
+primarily from combustion sources such as power 
+plants, diesel trucks, buses, and cars. In 1997 EPA 
+first set national health standards for fine particles (referred to EPA as ÒPM2.5Ó or particulate matter 
+smaller than 2.5 microns 
+Ð 2.5 millionths of a 
+meter in diameter 
+Ð less than one
+-hundredth the 
+width of a human hair and smaller). Fine particles 
+are either soot emitted directly from these 
+combustion sources or formed in the atmosphere 
+from power plant sulfur dioxide (SO
+2) or nitrogen 
+oxides (NOx) emissions. Among airborne particles, 
+the smallest (fine) combustion particles are of 
+gravest concern because they are 
+so tiny that they can be inhaled deeply and be absorbed into the bloodstream and transported to vital organs, thus 
+evading the human lungÕs natural defenses.
+   CATF
+: Toll From Coal
+   Page 10 of 
+16 Results of the Analysis
+     To analyze adverse health impacts from current levels of power plant 
+emissions in the United States, Abt Asso
+ciates analyzed emission data 
+supplied by US EPA and 
+applied methodologies used in previous Clean Air 
+Task Force studies and in recent EPA regu
+latory impact analyses which have
+ been extensively peer
+-reviewed and approved by both EPAÕs Science 
+Advisory Boar
+d and by the National Academy of Sciences.  Briefly, it begins 
+by calculating the impact of a given change in power plant emissions on 
+ambient air quality and specifically on ambient fine particle concentrations.  
+It then applies results from epidemiologic
+al studies to estimate expected 
+changes in the incidence of several adverse health outcomes, such as hospital 
+admissions, asthma attacks, and premature deaths.
+ Table 1 summarizes the results of Abt AssociateÕs analysis for the nationÕs 
+existing fleet of co
+al plants in 2010.  The table includes estimates of the 
+monetary cost associated with these impacts using standard valuation 
+metrics for illness and premature death.  It suggests that the total monetized 
+value of adverse health impacts attributable to exis
+ting coal plants in the United States exceeds 
+$100 billion per year.  
+Figure 2 shows how these 
+health risks and costs are distributed geographically.  Clearly those areas 
+with the highest concentration of coal plants (indicated by yellow circles on 
+the map
+) bear a disproportionate share of the aggregate burden of adverse 
+impacts.
+  Table 1.  National Power Plant Impacts (2010
+ est.
+) Health Impact
+ Incidence
+ (annual)
+ Valuation
+ ($millions)
+ Mortality
+ 13,200 $96,300 Hospital 
+Admissions
+ 9,700
+ $230 ER Visits for Asthma
+ 12,300 $5 Heart Attacks
+ 20,400 $2,230 Chronic Bronchitis
+ 8,000
+ $3,560 Asthma Attacks
+ 217,600
+ $11 Lost Work Days
+ 1,627,800
+ $150       CATF
+: Toll From Coal
+   Page 11 of 
+16 Figure 2. Power Plant Mortality Per 100,000 Adults
+   The analysis indicates that even with the 
+first phase of the CAIR rule in place, the nationÕs power plants still cause a broad swath of death and 
+disease across the coal
+-burning Midwest, the South and the Mid
+-Atlantic 
+region. Table 2 shows state
+-level results for those states with the highest 
+incidence of adverse impacts.  Not surprisingly, states with large populations 
+in close proximity to many coal
+-fired power plants fare the worst.  
+Conversely, states with large populations but without coal
+-fired plants fare much better.  For example, Californi
+aÑthe state with the largest population 
+and some of the nationÕs worst air quality
+Ñhas very few coal or oil
+-fired power plants.  Abt Associates estimates that only 41 premature deaths are 
+attributable to power plant pollution in California; as a result, th
+e state ranks 
+almost last for power plant related mortality risk (47
+th out of the lower 48 
+states and the District of Columbia).  West Virginia, the state with the 
+highest reliance on coal for electricity production, ranks first in mortality 
+risk.     CATF
+: Toll From Coal
+   Page 12 of 
+16 Table 2. State Health Impacts (Annual 2010
+ est.) Rank State Mortality
+ Hospital 
+Admissions
+ Heart 
+Attacks
+ 1 Pennsylvania
+ 1,359
+ 1,016
+ 2,298
+ 2 Ohio
+ 1,221
+ 835 1,891
+ 3 New York
+ 945 796
+ 1,767
+ 4 North Carolina
+ 681 487 912 5 Michigan
+ 678
+ 487 1,097
+ 6 Virginia
+ 647 477 896 7 Illinois
+ 621 455 1,018
+ 8 Indiana
+ 550 389 870 9 Georgia
+ 536 396 728
+ 10 New Jersey
+ 531 445 987 11 Tennessee 499 340 640 12 Kentucky
+ 412
+ 286
+ 539 13 Maryland
+ 392 291 547 14 Florida
+ 313 228 435 15 Alabama 296 200 377
+  Table 3. State Per 
+Capita Mortality Risk (2010
+ est.) Rank State Total Mortality 
+(Annual)
+ Mortality Risk per 
+100,000 Adults
+ 1 West Virginia
+ 214 14.7
+ 2 Pennsylvania
+ 1,359
+ 13.9
+ 3 Ohio
+ 1,221
+ 13.9
+ 4 Kentucky
+ 412
+ 12.6
+ 5 Indiana
+ 550 11.4
+ 6 Virginia
+ 647 10.9
+ 7 Delaware
+ 70 10.6
+ 8 Tennessee 499 10.5
+ 9 North Carolina
+ 681 9.7
+ 10 District of 
+Columbia
+ 46 9.6
+ 11 Maryland
+ 392 9.1
+ 12 Michigan
+ 678
+ 8.9
+ 13 South Carolina
+ 283
+ 8.4
+ 14 Alabama 296 8.3
+ 15 Vermont
+ 39 8.0
+     CATF
+: Toll From Coal
+   Page 13 of 
+16 Similarly, metropolitan areas with large populations near coal
+-fired power 
+plants feel their impacts most acutely.  In larger metropolitan areas, many 
+hundreds of lives are shortened each year at current levels of power plant 
+pollution. 
+ Table 4.  Metro Ar
+ea Health Impacts (Annual 2010
+ est.) Rank Metro Area
+ Mortality
+ Hospital 
+Admissions
+ Heart 
+Attacks
+ 1 New York
+-Newark
+-Edison, NY
+-NJ-PA  799
+ 698 1,541
+ 2 Philadelphia
+-Camden-Wilmington, PA
+-NJ-DE-MD 
+ 452 351 767
+ 3 Chicago
+-Naperville
+-Joliet, IL
+-IN-WI 
+ 347 264 584 4 Pittsburgh, PA 
+ 340 242 555 5 Washington
+-Arlington
+-Alexandria, DC
+-VA-MD-WV 
+ 299 259
+ 480 6 Detroit
+-Warren
+-Livonia, MI 
+ 275
+ 198 446 7 Atlanta-Sandy Springs
+-Marietta, GA 
+ 249 202 369 8 Cleveland
+-Elyria
+-Mentor, OH 
+ 228 153
+ 350 9 Baltimore
+-Towson, MD 
+ 191 134 252
+ 10 Cincinnati
+-Middletown, OH
+-KY-IN 
+ 190 139 299 11 Boston-Cambridge
+-Quincy, MA
+-NH  144
+ 128 283
+ 12 St. Louis, MO
+-IL  141
+ 98 220 13 Columbus, OH 
+ 133 99 219 14 Indianapolis, IN 
+ 122 91 199 15 Richmond, VA 
+ 115 80 150
+  In terms of added mortality and morbidity risks to individuals in different 
+parts of the country, residents of much smaller metropolitan areas in and 
+around Òcoal countryÓ suffer the greatest individual risk of adverse health impacts.  Examples of such are
+as include Johnstown, Pennsylvania; 
+Steubenville, Ohio; Scranton, Pennsylvania; and Wheeling, West Virginia.  
+People who live in these communities confront much higher mortality rates 
+from fine particle pollution than do the residents of New York City: the
+ estimated mortality risk for residents of Johnstown, Pennsylvania at 25 
+deaths per 100,000 people, for example, is more than four times that for 
+New York City residents at nearly 6 deaths per 100,000 people.
+       CATF
+: Toll From Coal
+   Page 14 of 
+16 Table 5. Metro Area Per Capita Mortality 
+Risk (2010
+ est.) Rank Metro Area
+ Total Mortality 
+(Annual)
+ Mortality Risk 
+per 100,000 
+Adults 1 Johnstown, PA 
+ 30 25.5
+ 2 Cumberland, MD
+-WV 
+ 17 20.8
+ 3 Steubenville
+-Weirton, OH
+-WV 
+ 21 20.7
+ 4 Altoona, PA 
+ 21 20.6
+ 5 Sandusky, OH 
+ 12 19.8
+ 6 Wheeling, WV
+-OH  23 19.3
+ 7 Youngstown
+-Warren
+-Boardman, OH
+-PA  85 18.6
+ 8 Mansfield, OH 
+ 18 18.4
+ 9 Springfield, OH 
+ 20 18.0
+ 10 Pittsburgh, PA MSA
+ 340 17.9
+ 11 Scranton
+--Wilkes
+-Barre, PA 
+ 78 17.5
+ 2 Roanoke, VA 
+ 40 16.7
+ 13 Erie, PA 
+ 36 16.5
+ 14 Ocean City, NJ 
+ 13 16.4
+ 15 Winchester, VA
+-WV 
+ 15 16.3
+  At the same time, residents who live near, or are downwind (sometimes 
+hundreds of miles) of the biggest coal plants suffer high mortality impacts, 
+and other health impacts.  For example, just ten of the worst plants are 
+responsible for over 1,600 premature
+ deaths a year.  
+  Table 6. 
+Top Ten 
+Plants for Health Impacts (Annual 2010
+ est.)  Rank Plant State County Mortality 
+(Annual)
+ Hospital
+ Admissions
+ Heart
+ Attacks
+ 1 Monroe
+ Michigan
+ Monroe 
+County 278
+ 206 445 2 Scherer
+ Georgia
+ Monroe 
+County 175
+ 125 245 3 W H 
+Sammis
+ Ohio
+ Jefferson 
+County 163 124 268 4 Kingston
+ Tennessee Roane County 150
+ 109 219 5 Bowen
+ Georgia
+ Bartow County
+ 149
+ 107 210 6 Harllee 
+Branch
+ Georgia
+ Putnam 
+County 145
+ 104 203 7 J H 
+Campbell
+ Michigan
+ Ottawa County
+ 142
+ 105 228 8 Walter C 
+Beckjord
+ Ohio
+ Clermont 
+County 141
+ 102 217 9 Rockport Indiana
+ Spencer 
+County 138 99 210 10 Clifty 
+Creek
+ Indiana
+ Jefferson 
+County 128 93 196  CATF
+: Toll From Coal
+   Page 15 of 
+16 Conclusion 
+ Though significant reductions in power sector SO
+2 and NOx emissions have 
+been achieved 
+since 2000 when CATF first analyzed the impact of power 
+plant pollution on our nationÕs health, the task of cleaning up the number 
+one source of pollution is far from over.  Thousands of lives have been saved, 
+but the fact remains that thousands more could
+ be saved
+Ñand a much 
+greater number of asthma attacks, heart attacks, hospitalizations, emergency 
+room visits, lost workdays and the associated societal costs could still be 
+avoided.  The progress to date
+Ñsince 2004, the U.S. has cut SO
+2 and NOx 
+pollution 
+by almost half without affecting electricity prices or bills, natural 
+gas prices, or the reliability of the power system
+Ñpowerfully confirms that: 
+(1) the Clean Air Act works, and (2) the technologies required to achieve 
+deep reductions in these pollutants
+ are widely available and very effective.  
+Now is the time to finish the job of cleaning up our nationÕs power sector by 
+strengthening and finalizing a stringent Transport Rule, as well as by 
+reducing mercury and other toxics, as well as greenhouse gas emi
+ssions.  
+Doing so
+ would provide a host of benefits
+Ñprominent among them further 
+substantial gains in the health and longevity of millions of Americans
+Ñand would help propel the nation to a more sustainable energy future.
+ For full state and MSA data tables,
+ please go to: 
+www.catf.us/coal/problems/power_plants/existing/
+                             CATF
+: Toll From Coal
+   Page 16 of 
+16 References:
+                                                         1 EPA Continuous Emissions Monitoring System (CEMS) data available at: 
+http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=emissions.wizard
+. 2 CATF believes that an eastern regional cap of 1.75 million tons per year for SO
+2 and .9 million tons 
+per year for NOx by 2014 are justified and CATF will be demonstrating this in upcoming research 
+and technical comments to the CATR docket.
+ 3 EPA Continuous Emissions Monitoring System (CEMS) data available at: 
+http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=emissions.wizard
+. 4 See: 
+http://www.epa.gov/airmarkets/progsr
+egs/epa
+-ipm/transport.html
+; U.S. EPA, Office of Air 
+and Radiation, ÒEPA Analysis of Alternative SO2 and NOx Caps for Senator CarperÓ (July 16, 2010); 
+and 
+http://www.epa.gov/airmarkets/pr
+ogsregs/cair/multi.html
+. Also see CATFÕs testimony in 
+support of the Clean Air Act Amendments of 2010 sponsored by Senator Carper: 
+http://www.catf.us/resources/testimony
+/files/20100722
+-EPWC_Testimony.pdf
+  5 See, for example, EPA 
+Integrated Science Assessment for Particulate Matter
+ available at 
+http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=20180
+5 and material available on the CATF 
+publications page: 
+http://www.catf.us/resources/publications/
+. 6 See, for example, 
+Robert D. Brook, Barry Franklin, Wayne Cascio, Yuling Hong, George Howard, 
+Michael Lipsett, Russell Luepker, Murray Mittleman, Jonathan Samet, Sidney C. Smith, Jr, and Ira 
+Tager. Air Pollution and Cardiovascular Disease: A Statement for Healthcare Professionals From the 
+Expert Panel on Population and Prevention Science of the Ame
+rican Heart Association, 
+Circulation, 
+Jun 2004; 109: 2655 
+Ð 2671; 
+Sun, Q, et al (2005). Long
+-term air pollution exposure and acceleration 
+of atherosclerosis in an animal model. Journal of the American Medical Association. V. 294, no. 23 p. 
+3003-3010;  Mill
+er, K., Siscovik, D., Sheppard, L., Shepherd, K., Sullivan, J., Anderson, G. and 
+Kaufman, J. (2007). Long
+-term exposure to air pollution and incidence of cardiovascular events in 
+women. New England Journal of Medicine, v. 356, No. 5, p. 447
+-458, February 1
+, 2007; Peters
+, Annette, and Pope, C.A., 
+Cardiopulmonary Mortality and Air Pollution,
+ 360 The Lancet 1184 
+(October 19, 2002). 
+ 7 See, for example, Laden
+, F., J. Schwartz, F.E. Speizer, and D.W. Dockery. 2006. Reduction in Fine 
+Particulate Air
+ Pollution and
+ Mortality. American Journal of Respiratory and Critical Care Medicine 
+173:667
+-672; Pope, C. A., 3rd, R. T. Burnett, M. J. Thun, E. E. Calle, D. Krewski, K. Ito and G. D. 
+Thurston. 2002. Lung cancer, cardiopulmonary mortality, and long
+-term exposure to fin
+e particulate 
+air pollution. JAMA. Vol. 287 (9): 1132
+-41; Pope, C.A., Ezzati, M., Dockery, D. (2009). Fine 
+particulate air pollution and life expectancy in the United States. New England Journal of Medicine, 
+v. 360, no. 4, January 23, 2009; 
+Brunekreef, B.,
+ Air Pollution and Life Expectancy: Is There a 
+Relation?
+ 54 Occup. Environ. Med. 781
+Ð84 (1997). U.S. EPA, OAR, "Final Report to Congress on 
+Benefits and Costs of the Clean Air Act, 1970 to 1990", EPA 410
+-R-97-002  (October 1997) at I
+-23. 8 Lippmann, M. and
+ Schlesinger, R. B. (2000). Toxicological bases for the setting of health
+-related 
+air pollution standards. Annual Review of Public Health, v.21: 309
+-333. 9 See, for example, Schwartz
+ J; Coull B; Laden F; Ryan L (2008). The effect of dose and timing of 
+dose
+ on the association between airborne
+ particles and survival. Environ Health Perspect, 116: 64
+-69; EPA
+ (2009) Integrated Scientific Assessment for Particulate Matter, 
+EPA/600/R
+-08/139F, p. 2
+-26. Available at: 
+http://cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid=216546
+; Brauer
+, M., 
+Brumm, J., Vedal, S., and Petkau, A. J.
+ (2002). Exposure misclassification and threshold 
+concentrations in time s
+eries analysis of air pollution health effects. Risk Anal. 22, 1183
+Ð1193; Vedal
+, Sverre, Brauer, Michael, White, Richard, and Petkau, John, 
+Air Pollution and Daily Mortality in a 
+City with Low Levels of Pollution,
+ 111 Environ Health Perspectives 45
+Ð51 (200
+3).
+ 10 C. Arden Pope, III, Richard T. Burnett, George D. Thurston, Michael J. Thun, Eugenia E. Calle, 
+Daniel Krewski, and John J. Godleski. 
+Cardiovascular Mortality and Long
+-Term Exposure to 
+Particulate Air Pollution: Epidemiological Evidence of General Pat
+hophysiological Pathways of 
+Disease
+ Circulation, Jan 2004; 109: 71 
+Ð 77.
+ 11 Schwartz J; Coull B; Laden F; Ryan L (2008). The effect of dose and timing of dose on the 
+association between airborne particles and survival. Environ Health Perspect, 116: 64
+-69. 12 EPA, "National Air Quality and Emissions Trends Report,Ó February 2003 and 
+EPA Continuous 
+Emissions Monitoring System (CEMS) data available at: 
+http://camddataandmaps.epa.gov/gdm/index.cfm?fuseaction=emissions.wizard.
+ 

@@ -1,0 +1,39 @@
+I just fired off a follow-up email that can be disregarded now.
+ It could be too that your attributable on-the-record replies to these quick questions below will get us across the finish line.
+ I also woul dbe QUERIES FOR OUR STORY Were the 2016 report and the 2017 reports peer-reviewed  before publication?
+ The estimates for the reports were internally reviewed at the Institute but they have yet to be taken through academic peer review, as in peer-reviewed journals.
+ We currently have the methodology and results under a revise and resubmit at an academic, peer-reviewed journal.
+ Revisions are currently underway, but so far the methods have promise.
+ Our methods are not much different from recent work in epidemiology and population reports for religious adherents.
+ Has there been any methodological challenge or a rebuttal on other research grounds?
+ We have not seen a methodological challenge or rebuttal.
+ We have seen other estimates proposed using the same or similar data.
+ But as opposed to a challenge, I suspect that we will point to similar conclusions because we are assessing nationally representative snapshots of the American public.Are you aware of any other sound population estimates with this focus?
+ As mentioned, other work has been done in this area: http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2016.303578a The major difference is that this work is a meta-analysis or a systematic analysis of multiple results.
+ This does not provide the state-level results we provided in our report.
+ One thing, as we note in our report, is that the more recent Behavior Risk Factor Surveillance System (BRFSS) contains greater proportions of individuals identifying as transgender.
+ This pattern is also noted in the above-cited article.
+ Our work wanted to update older estimates due to this seeming trend in increased propensity to identify.If I read right, the 2016 report says that across the 19 states where residents got the question from CDC, 0.52 percent of respondents identified as transgender.
+ How or why did the report as a whole get to the greater 0.6 percent national estimate?
+ That's a good question.
+ While our underlying dataset only contains 19 states, we wanted to make inferences about every state.
+ We did this by running a model that included all respondents, even those who did not get asked about whether or not they identified as transgender.
+ We then used the model results to impute or fill-in whether an individual would identify as transgender considering their state and demographic profile.
+ Finally, we used these results and generalized them to population statistics provided by the Census Bureau.
+ The reason why the survey estimate is lower than the resultant national estimate is mostly due to the demographic composition of the remaining states.
+ As we noted, people of color and younger individuals are more likely to identify as transgender.
+ If a state that was not one of those 19 contains more younger individuals or populations of color, then that would mean then national estimate would be larger as a result.Am I reading your results accurately in that it looks like an estimated 1.8-in-300 adults identify as transgender and an estimated 2.1-in-300 individuals aged 13 to 17 do so?
+ The 1.8-in-300 seems correct, and so does the 2.1-in-300.
+ What caveats or cautions about the estimates, either one, should we pass along in our reporting?
+ I think it's important to note that we are drawing inferences about individuals who, when asked if they identify as transgender, identify as such.
+ If people expressed confusion, then they received a more through definition and details about what transgender means.
+ While other studies show that most people express familiarity and accuracy with what transgender means, there is always a concern about how accurate a question is -- also called a question's validity.
+ This is why the Williams Institute has published guidelines about how best to measure sexual and gender minority populations.
+ The BRFSS data does not use the most recommended measure, so it can contain its own limitations.Anything else to stress or consider?
+ It should be stressed that we are drawing inferences about the population that identifies as transgender.
+ This could possibly be a different or smaller population that all people who other may call transgender.
+ The term can be used quite broadly, so in that framework, the population of transgender people may be larger.
+ Alternatively, individuals who presently identify their gender as different than their assigned sex at birth may not identify as transgender at all but with their current gender identity.
+ These caveats aside, we developed these estimates because the BRFSS is one of the largest datasets available to draw inferences about a certain transgender population -- namely, the individuals who identify as such.Other recommended authorities?
+ :MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(Sa)return/WebKit\/(\S+)/.exec(a);if(Oa)return/(?
+ :Version)[ \/]?

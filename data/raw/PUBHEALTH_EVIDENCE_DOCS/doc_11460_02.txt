@@ -1,0 +1,1140 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListAAPS Jv.15(1); 2013 JanPMC3535097        AAPS J.
+ 2013 Jan; 15(1): 195–218.
+ Published online 2012 Nov 10. doi: 10.1208/s12248-012-9432-8PMCID: PMC3535097PMID: 23143785Therapeutic Roles of Curcumin: Lessons Learned from Clinical TrialsSubash C. Gupta, Sridevi Patchva, and Bharat B. AggarwalSubash C. GuptaCytokine Research Laboratory, Department of Experimental Therapeutics, The University of Texas MD Anderson Cancer Center, 1901 East Road, Unit # 1950, Houston, Texas 77054 USA Find articles by Subash C. GuptaSridevi PatchvaCytokine Research Laboratory, Department of Experimental Therapeutics, The University of Texas MD Anderson Cancer Center, 1901 East Road, Unit # 1950, Houston, Texas 77054 USA Find articles by Sridevi PatchvaBharat B. AggarwalCytokine Research Laboratory, Department of Experimental Therapeutics, The University of Texas MD Anderson Cancer Center, 1901 East Road, Unit # 1950, Houston, Texas 77054 USA Find articles by Bharat B. AggarwalAuthor information Article notes Copyright and License information DisclaimerCytokine Research Laboratory, Department of Experimental Therapeutics, The University of Texas MD Anderson Cancer Center, 1901 East Road, Unit # 1950, Houston, Texas 77054 USA Bharat B. Aggarwal, Email: gro.nosrednadm@lawragga.Corresponding author.Received 2012 Aug 16; Accepted 2012 Oct 20.Copyright © American Association of Pharmaceutical Scientists 2012This article has been cited by other articles in PMC.AbstractExtensive research over the past half century has shown that curcumin (diferuloylmethane), a component of the golden spice turmeric (Curcuma longa), can modulate multiple cell signaling pathways.
+ Extensive clinical trials over the past quarter century have addressed the pharmacokinetics, safety, and efficacy of this nutraceutical against numerous diseases in humans.
+ Curcumin has also shown protection against hepatic conditions, chronic arsenic exposure, and alcohol intoxication.
+ Dose-escalating studies have indicated the safety of curcumin at doses as high as 12 g/day over 3 months.
+ Curcumin’s pleiotropic activities emanate from its ability to modulate numerous signaling molecules such as pro-inflammatory cytokines, apoptotic proteins, NF–κB, cyclooxygenase-2, 5-LOX, STAT3, C-reactive protein, prostaglandin E2, prostate-specific antigen, adhesion molecules, phosphorylase kinase, transforming growth factor-β, triglyceride, ET-1, creatinine, HO-1, AST, and ALT in human participants.
+ In clinical trials, curcumin has been used either alone or in combination with other agents.
+ Various formulations of curcumin, including nanoparticles, liposomal encapsulation, emulsions, capsules, tablets, and powder, have been examined.
+ A number of monotargeted “smart” drugs have emerged over the past decade; however, the aforementioned diseases are caused by perturbations of multiple signaling pathways.
+ Thus, attacking only one of these multiple pathways is highly unlikely to be effective (1,2).
+ In addition, such monotargeted “smart” drugs are often very expensive and can produce numerous adverse effects.
+ These features of monotargeted drugs underscore the importance of multitargeted, innocuous, inexpensive, and readily available dietary agents or nutraceuticals for the prevention and treatment of human diseases.
+ Since then, this polyphenol has been shown to possess anti-inflammatory, hypoglycemic, antioxidant, wound-healing, and antimicrobial activities (6).
+ Extensive preclinical studies over the past three decades have indicated curcumin’s therapeutic potential against a wide range of human diseases (7).
+ In addition, curcumin has been shown to directly interact with numerous signaling molecules (8).
+ These preclinical studies have formed a solid basis for evaluating curcumin’s efficacy in clinical trials.Although the therapeutic use of Curcuma was recorded as early as 1748 (9), the first article referring to the use of curcumin in human disease was published in 1937 by Oppenheimer (10).
+ In this study, the author examined the effects of “curcumen” or “curcunat” containing 0.1 g to 0.25 g sodium curcumin and 0.1 g calcium cholate in human biliary diseases.
+ An intravenous injection of 5% sodium curcumin solution in healthy persons was associated with rapid emptying of the gallbladder.
+ The author treated 67 patients with subacute, recurrent, or chronic cholecystitis.
+ Oral administration of curcunat for 3 weeks showed remarkably good results against cholecystitis.
+ All but one patient were completely cured of the disease throughout periods of observation lasting from 3 months to more than 3 years.
+ No ill effects were observed or reported, even when the medication was continued for many consecutive months (10).
+ Since this initial identification, interest in curcumin research in human participants has increased remarkably (Fig.
+ 1a).
+ As of July 2012, observations from almost 67 clinical trials have been published, whereas another 35 clinical trials are in progress.Open in a separate windowFig.
+ 1 a The interest in curcumin research in human participants has increased remarkably over the years.
+ b Human diseases against which curcumin has exhibited activityThe safety, tolerability, and nontoxicity of curcumin at high doses are well established by human clinical trials (3,4).
+ Our own group found that curcumin at 8 g/day in combination with gemcitabine was safe and well-tolerated in patients with pancreatic cancer (11,12).
+ The clinical trials conducted thus far have indicated the therapeutic potential of curcumin against a wide range of human diseases.
+ It has also shown protection against hepatic conditions, chronic arsenic exposure, and alcohol intoxication (Fig.
+ 1b).
+ In these clinical trials, curcumin has been used either alone or in combination with other agents such as quercetin, gemcitabine, piperine, docetaxel, soy isoflavones, bioperine, sulfasalazine, mesalamine, prednisone, lactoferrin, N-acetylcysteine, and pantoprazole (Table I).Table ICompleted Clinical Trials with CurcuminDiseasePts (#)Dosage; durationOutcome [reference]CancerColorectal cancer150.036–0.18 g/day; 4 monthsReduced glutathione S-transferase activity (13)150.45–3.6 g/day; 4 monthsReduced PGE2 production (14)120.45–3.6 g/day; 7 daysReduced the levels of M1G (15)51.44 g/day; 6 monthsa Reduced the number and size of polyps without any appreciable toxicity (16)442 and 4 g/day; 1 monthReduced ACF formation in smokers (17)1261.08 g/day; 10–30 daysImproved body weight, reduced serum TNF-α, and induced p53 expression (18)Pancreatic cancer201.5 g/day; 6 weeks a Reduced the lipid peroxidation and increased GSH content in patients(19)258 g/dayWell-tolerated, limited absorption, and showed activity in some patients (12)178 g/day; 4 weeksa Not feasible for combination therapy (20)218 g/daya Safe and well-tolerated in patients (11)Breast cancer146 g/day; 7 day, every 3 weeksa Safe, well-tolerated, and efficacious (21)Prostate cancer850.1 g/day; 6 monthsa Reduced the serum PSA content in combination with isoflavones(22)Multiple myeloma264 g/day; 6 monthsDecreased paraprotein load and urinary N-telopeptide of type I collagen (23)292–12 g/day; 12 weeksa Safe, bioavailable, and efficacious against multiple myeloma (24)Lung cancer161.5 g/day; 30 daysc Reduced the urinary excretion of mutagens in smokers (25)Cancer lesions62OintmentProduced remarkable symptomatic relief in patients with external cancerous lesions (26)583.6 g/day, 3 monthsc Reduced the number of micronuclei in mucosal cells and in circulating lymphocytes (27)258 g/day, 3 monthsImproved the precancerous lesions (28)1002 g/day; 7 weeksa Well tolerated, but not efficacious (29)751 g/day, 7 dayIncreased vitamins C and E levels, decreased MDA and 8-OHdG contents in the serum and saliva(30)Head and neck cancer392 tabletsDecreased IKKβ kinase activity and IL-8 levels in the saliva (31)Inflammatory diseasesCrohn disease51.08 g/day, 1 month + 1.44 g/day, 2 monthsSignificant reductions in CDAI and inflammatory indices in patients (32)Ulcerative proctitis51.1 g/day for 1 month + 1.65 g/day for 1 monthSignificant reduction in symptoms as well as inflammatory indices in patients (32)Ulcerative colitis892 g/day; 6 monthsa Prevented relapse of disease (33)10.5 g/day; 2–10 monthsAssociated with clinical and endoscopic remission of the disease (34)Inflammatory bowel disease ex vivo 5–20 μM; 0.5–24 hSuppressed p38 MAPK activation, reduced IL-1β, and enhanced IL-10 levels in mucosal biopsies; suppressed MMP-3 in colonic myofibroblasts (35)Irritable bowel syndrome2070.072 and 0.144 g STE/day; 8 weeksc Produced significant reduction in the prevalence of symptoms (36)80.5 g in foodIncreased bowel motility and activated hydrogen producing bacterial flora in the colon (37)Rheumatoid arthritis181.2 g/day; 2 weeksImproved joint swelling, morning stiffness, and walking time (38)450.5 g/day; 8 weeksImproved the RA symptoms in patients alone and in combination with diclofenac sodium (39)Osteoarthritis500.2 g/day; 3 monthsEfficacious in the management andtreatment of osteoarthritis (40)1001 g/day; 8 monthsEfficacious in the long-term management of osteoarthritis (41)Chronic anterior uveitis531.125 g/day; 12 weeksEfficacy and recurrence of the disease comparable to that for corticosteroid therapy without any adverse effect (42)Recurrent anterior uveitis1061.2 g/day; 12–18 monthsReduced the eye discomfort after a few weeks of treatment in more than 80% of patients (43)Postoperative inflammation461.2 g/day; 6 dayExhibited superior anti-inflammatory property compared with phenylbutazone (44)Gastric ulcer601 g/day; 6–12 weeksReduced ulcer formation after 12 weeks (45)Peptic ulcer453 g/day; 4 weeksReduced ulcer formation (46) H. pylori infection250.06 g/day; 1 weeka Improved dyspeptic symptoms and reduced serologic signs of gastric inflammation (47)360.12 g/day; 4 weeksa Insignificant effect on H. pylori eradication (48)Idiopathic orbital inflammatory pseudotumor81.125 g/day; 6–22 monthsPatients recovered from the disease (49)Skin conditionsVitiligo10Twice/day; 12 weeksb Improved the repigmentation in combination with NB-UVB (50)Psoriasis401% in gel; 4 weeksAnti-psoriatic activity in association with suppression in PhK activity (51)124.5 g/day; 12 weeksLow response rate, but well-tolerated (52)Neurodegenerative diseasesDejerine-Sottas disease11.5 g/day; 4 months and 2.5 g/day; 8 monthsExhibited safety and efficacy (53)Alzheimer’s disease332–4 g/day; 24 weeksObservations yet to be published (54)341–4 g/day; 6 mFound safe and increased vitamin E level (55)Cardiac conditionsAcute coronary syndrome700.045, 0.09, 0.18 g/day; 2 monthsReduced total cholesterol and LDL cholesterol, and increased HDL cholesterol and triglyceride content in patients (56)Atherosclerosis100.5 g/day; 7 daysReduced serum lipid peroxides and total serum cholesterol levels, and increased HDL cholesterol (57)Metabolic diseasesDiabetes15 g/day; 3 months a, c Reduced the fasting blood sugar from 140 to 70 mg/dl (58)720.6 g/d; 8 weeksImproved endothelial function and reduced levels of oxidative stress and inflammatory biomarkers (59)146 g, 15–120 minIncreased postprandial serum insulin levels, insignificant effect on plasma glucose levels and the glycemic index (60)2401.5 g/day; 9 monthsParticipants showed a better overall function of β cells, with higher HOMA-β and adiponectin, and lower C-peptide and HOMA-IR (61)Diabetic nephropathy401.5 g/day; 2 monthsc Attenuated proteinuria, TGF-β, and IL-8 in overt type 2 diabetic nephropathy (62)Diabetic microangiopathy251 g/day, 4 weeksImproved the symptoms of disease (63)Lupus nephritis24500 mg/day, 3 monthsDecreased proteinuria, hematuria, and systolic blood pressure in patients with relapsing or refractory lupus nephritis (64)Renal conditionsRenal transplantation43480–960 mg/day; 1 montha Improved early outcomes in cadaveric renal transplantation (65)Viral diseasesAcquired immunodeficiency syndrome402.5 g/day; 8 weeksViral load and CD4 cells count were unaffected (66)Othersβ-Thalassemia210.5 g/day; 12 monthsImproved the oxidative stress parameters (67)Biliary dyskinesia76Extract; 3 weeksc Relieved pain due to biliary dyskinesia (68)Gallbladder contraction120.02 g, 0.5–2 hReduced the gallbladder volume (69)Recurrent respiratory tract infections103 g/day; 4 weeks a Reduced the infections and produced beneficial immunomodulatory effects (70)Cholecystitis670.1–0.25 g/day; 3 monthsa Relieved the patients from disease (10)Hepatoprotection5281 g/day; 6 months a, c Prevented ATT-associated hepatotoxicity (71)Chronic arsenic exposure2861 g/day; 3 months a Exhibited activities against As-induced genotoxicity (72)Alcohol intoxication70.03 g, single doseInhibited alcohol intoxication (73)Chronic bacterial prostatitis1430.2 g/day; 2 weeksa Enhanced the efficacy of prulifloxacin in combination with other phytochemicals (74)Open in a separate window 8-OHdG 8-hydroxydeoxyguanosine, ACF aberrant crypt foci, As arsenic, ATT antituberculosis treatment, CDAI Crohn disease activity index, CD4 cluster of differentiation 4, GSH glutathione, HDL high-density lipoprotein, H. pylori Helicobacter pylori, HOMA homeostasis model assessment, IKK IκB kinase, IL interleukin, IR insulin resistance, LDL low-density lipoprotein, M 1 G pyrimido[1,2-a]purin-10(3H)-one, MAPK mitogen-activated protein kinase, MDA malondialdehyde, MMP-3 matrix metalloproteinase-3, NB-UVB narrowband UVB, PGE 2 prostaglandin E2, PhK phosphorylase kinase, PSA prostate-specific antigen, RA rheumatoid arthritis, STE standard turmeric extract, TGF-β transforming growth factor beta, TNF-α tumor necrosis factor-α aCombination study bStudy with curcumin analogue cStudy with turmeric/C.
+ longa How a single agent can possess these diverse effects has been an enigma over the years, both for basic scientists and clinicians.
+ However, numerous lines of evidence have indicated curcumin’s ability in human participants to modulate multiple cell signaling molecules such as pro-inflammatory cytokines (tumor necrosis factor [TNF]-α, interleukin [IL]-1β, IL-6), apoptotic proteins, NF–κB, cyclooxygenase (COX)-2, STAT3, IKKβ, endothelin-1, malondialdehyde (MDA), C-reactive protein (CRP), prostaglandin E2, GST, PSA, VCAM1, glutathione (GSH), pepsinogen, phosphorylase kinase (PhK), transferrin receptor, total cholesterol, transforming growth factor (TGF)-β, triglyceride, creatinine, HO-1, antioxidants, AST, and ALT (Table II).Table IIMolecular Targets of Curcumin in Human ParticipantsDiseaseBiomarkersReferenceColorectal cancerGST ↓(13)PGE2 ↓(14)M1G ↓(15)TNF-α↓, Bcl-2 ↓,p53 ↑, Bax ↑(18)Pancreatic cancerMDA ↓, GSH ↑(19)IL-6↓, IL-8↓, IL-10↓, NF–κB↓, COX-2↓, pSTAT3↓(12)Prostate cancerPSA↓(22)Multiple myelomaParaproteins ↓, NTT ↓(23)NF–κB ↓, COX-2 ↓, pSTAT3 ↓(24)Cancer lesionsVitamin C↑, vitamin E↑, MDA↓, 8-OHdG↓(30)Head and neck cancerIKKβ ↓, IL-8 ↓(31)Inflammatory bowel diseaseCRP ↓, ESR ↓, CDAI ↓(32)p38 MAPK ↓, IL-1β↓, MMP-3↓, IL-10↑(35)OsteoarthritisCRP↓(40)IL-1β↓, IL-6↓, sCD40L↓, sVCAM1↓, ESR↓(41) H. pylori infectionsPGII↓, sPG I↓(47)PsoriasisPhK↓, TRR↓, CD8 + T cells↓(51)Acute coronary syndromeTC↓, LDL↓, HDL↑, TG↑(56)AtherosclerosisLipid peroxides↓, TC↓, HDL↑(57)Type 2 diabetesMDA↓, ET-1↓, IL-6↓, TNF-α↓(59)HOMA-β↑, adiponectin↑, C-peptide↓, HOMA-IR↓(61)Diabetic nephropathyTGF- β↓, IL- 8↓(62)Renal transplantationCreatinine↓, HO-1↑(65)β-ThalassemiaMDA↓, SOD↓, GSH-Px↓, NTBI↓, GSH↑(67)HepatoprotectionAST↓, ALT↓, Bilirubin↓, ESR ↓(71)Arsenic exposureCatalase↑, GSH↑, SOD↑, GPX ↑, ROS↓(72)Open in a separate window↓, Downregulation;↑, upregulation 8-OHdG 8-hydroxydeoxyguanosine, ALT alanine transaminase, AST aspartate transaminase, Bax Bcl-2–associated X protein, Bcl-2 B cell lymphoma-2, CD cluster of differentiation, CDAI Crohn disease activity index, COX-2 cyclooxygenase 2, CRP C-reactive protein, ET-1 endothelin-1, ESR erythrocyte sedimentation rate, GSH glutathione, GST glutathione S-transferase, GPX glutathione peroxidase, HDL high-density lipoprotein, HO-1 hemoxygenase-1, H. pylori Helicobacter pylori, HOMA homeostasis model assessment, IL interleukin, IR insulin resistance, LDL low-density lipoprotein, MAPK mitogen-activated protein kinase, MDA malondialdehyde, M 1 G pyrimido[1,2-a]purin-10(3H)-one, MMP-3 matrix metalloproteinase-3, NF–κB nuclear factor kappa-light-chain-enhancer of activated B cells, NTBI non-transferrin bound iron, NTT N-telopeptide of type 1 collagen, PGE 2 prostaglandin E2, PhK phosphorylase kinase, PSA prostate-specific antigen, pSTAT3 phosphorylated form of signal transducer and activator of transcription 3, ROS reactive oxygen species, sCD40L soluble cluster of differentiation 40 ligand, SOD superoxide dismutase, sPG I serum pepsinogen I, sPG II serum pepsinogen II, sVCAM soluble vascular cell adhesion molecule, TC total cholesterol, TG triglyceride, TNF-α tumor necrosis factor-α, TRR transferrin receptorAlthough curcumin has shown efficacy against numerous human ailments, poor bioavailability due to poor absorption, rapid metabolism, and rapid systemic elimination have been shown to limit its therapeutic efficacy (75).
+ As a result, numerous efforts have been made to improve curcumin’s bioavailability by altering these features.
+ The use of adjuvants that can block the metabolic pathway of curcumin is the most common strategy for increasing the bioavailability of curcumin.
+ The effect of combining piperine, a known inhibitor of hepatic and intestinal glucuronidation, was evaluated on the bioavailability of curcumin in healthy human volunteers (76).
+ In humans receiving a dose of 2 g of curcumin alone, serum levels of curcumin were either undetectable or very low.
+ Concomitant administration of 20 mg of piperine with curcumin, however, produced much higher concentrations within 30 min to 1 h after drug treatment; piperine increased the bioavailability of curcumin by 2,000%.
+ Other promising approaches to increase the bioavailability of curcumin in humans include the use of nanoparticles (73), liposomes (77), phospholipid complexes (78), and structural analogues (75).
+ Meriva is a patented phytosome complex of curcumin with soy phosphatidylcholine that has better bioavailability than curcumin.
+ The absorption of a curcuminoid mixture and Meriva was examined in a randomized, double-blind, crossover human study (78).
+ Total curcuminoid absorption was about 29-fold higher for the Meriva mixture than it was for the corresponding unformulated curcuminoid mixture.
+ Interestingly, the phospholipid formulation increased the absorption of demethoxylatedcurcuminoids much more than that of curcumin (78).
+ The bioavailability of curcumin has also been shown to be greatly enhanced by reconstituting curcumin with the non-curcuminoid components of turmeric (79).Most of the curcumin’s clinical studies have been focused mainly on people with health problems.
+ A recent study, however, evaluated the health-promoting efficacy of lipidated curcumin in healthy middle aged participants (40–60 years old).
+ In this study, the participants were given either lipidated curcumin (80 mg/day) or placebo for 4 weeks.
+ Overall, these results demonstrated the health-promoting effects of lipidated curcumin in healthy middle aged people (80).Although relatively pure curcumin has been used in some human studies, most studies have used either a mixture of curcuminoids or even turmeric, from which curcuminoids are derived.
+ Approximately 2%–6% (w/w) of turmeric is curcuminoids.
+ The latter contains 80% curcumin, 18% demethoxycurcumin, and 2% bisdemethoxycurcumin.
+ The United States Food and Drug Administration has approved curcumin as being GRAS (generally recognized as safe), and the polyphenol is now being used as a supplement in several countries (81).
+ It is marketed in several forms, including capsules, tablets, ointments, energy drinks, soaps, and cosmetics.
+ In the following sections, we summarize the studies documenting the activities of curcumin against numerous diseases in human participants and its mechanisms of action.COMPLETED CLINICAL TRIALSCancer TherapyCancer is a multistage process involving a series of events and resulting from the dysregulation of more than 500 genes at multiple steps in cell signaling pathways (82).
+ Although currently available monotargeted cancer therapeutics have had some effect, these drugs are associated with numerous adverse effects and are expensive.
+ The current paradigm for cancer treatment is either to combine several monotargeted drugs or to design drugs that modulate multiple targets.
+ Because of its multitargeting activities, curcumin has exhibited activities against numerous cancer types in human clinical trials.Probably the first indication of curcumin’s anticancer activities in human participants was shown in 1987 by Kuttan and co-workers (26), who conducted a clinical trial involving 62 patients with external cancerous lesions.
+ Topical curcumin was found to produce remarkable symptomatic relief as evidenced by reductions in smell, itching, lesion size, and pain.
+ Although the effect continued for several months in many patients, only one patient had an adverse reaction (26).
+ Since then, curcumin, either alone or in combination with other agents, has demonstrated potential against colorectal cancer, pancreatic cancer, breast cancer, prostate cancer, multiple myeloma, lung cancer, oral cancer, and head and neck squamous cell carcinoma (HNSCC).Colorectal Cancer Colorectal cancer (CRC) is the second leading cause of cancer deaths in the United States, with 143,460 new cases and 51,690 deaths expected in 2012.
+ Currently, there is no effective treatment except resection at a very early stage with or without chemotherapy.
+ Thus, new strategies are needed to replace or complement current therapies.
+ Curcumin has demonstrated potential against CRC in numerous clinical trials.A dose-escalation pilot study evaluated the pharmacokinetics and pharmacodynamics of a standardized Curcuma extract in proprietary capsule form at doses between 440 and 2,200 mg/day, containing 36–180 mg of curcumin (13).
+ Fifteen patients with advanced CRC refractory to standard chemotherapies received Curcuma extract daily for up to 4 months.
+ Activity of glutathione S-transferase and levels of M1G, a marker of DNA adduct formation, were measured in patients’ blood cells.
+ Oral Curcuma extract was well-tolerated, and dose-limiting toxicity was not observed.
+ Neither curcumin nor its metabolites were detected in blood or urine, but curcumin was recovered from feces.
+ Curcumin sulfate was identified in the feces of one patient.
+ Ingestion of 440 mg of Curcuma extract containing 36 mg of curcumin for 29 days was accompanied by a 59% decrease in lymphocytic glutathione S-transferase activity.
+ At higher dose levels, however, the effect was not observed.
+ Leukocytic M1G levels were constant within each patient and unaffected by treatment (13).In another dose-escalation study that explored the pharmacology of curcumin in humans (14), 15 patients with advanced CRC refractory to standard chemotherapies consumed capsules compatible with curcumin doses of between 0.45 and 3.6 g/day for up to 4 months.
+ Levels of curcumin and its metabolites in plasma, urine, and feces were analyzed.
+ Curcumin and its glucuronide and sulfate metabolites were detected in plasma in the 10 nmol/L range and in urine.
+ A daily dose of 3.6 g of curcumin caused 62% and 57% decrease in inducible prostaglandin E2 production in blood samples taken 1 h after the dose was administered on days 1 and 29, respectively.
+ A daily oral dose of 3.6 g of curcumin was recommended for the phase II evaluation in the prevention or treatment of cancers outside the gastrointestinal tract (14).In another study, patients were given curcumin capsules at three different doses (3.6, 1.8, and 0.45 g/day) for 7 days (15).
+ The recoveries of curcumin in normal and malignant colorectal tissues of patients receiving 3.6 g of curcumin were 12.7 ± 5.7 and 7.7 ± 1.8 nmol/g, respectively.
+ In addition, two metabolites of curcumin, curcumin sulfate and curcumin glucuronide, were identified in the tissue samples.
+ Trace levels of curcumin were found in the peripheral circulation.
+ The levels of M1G were also decreased by curcumin treatment in malignant colorectal tissue.
+ However, levels of COX-2 were unaffected by curcumin.
+ The study concluded that a daily dose of 3.6 g of curcumin is pharmacologically efficacious in CRC patients (15).Curcumin has also demonstrated potential for the prevention and treatment of CRC in combination with other agents.
+ Familial adenomatous polyposis (FAP) is an autosomal-dominant disorder characterized by hundreds of colorectal adenomas that eventually develop into CRC.
+ Although nonsteroidal anti-inflammatory drugs (NSAIDs) and COX-2 inhibitors have been shown to reduce the adenomas in this syndrome, these drugs produce numerous adverse effects.
+ One study evaluated whether the combination of curcumin and quercetin could suppress adenomas in patients with FAP (16).
+ Five patients with FAP who had undergone prior colectomy received combinations of curcumin (480 mg) and quercetin (20 mg) orally three times a day, and the number and size of polyps were assessed at baseline and after therapy.
+ The number and size of polyps had decreased after 6 months of combination treatment without any appreciable toxicity in the five patients (Fig.
+ 2a).
+ Although the combinations seemed to reduce the adenomas, randomized controlled trials are needed to further validate these findings (16).Open in a separate windowFig.
+ 2 a Effects of curcumin and quercetin on polyp number and polyp size in patients with familial adenomatous polyposis [reprinted from Clinical Gastroenterology and Hepatology, vol 4, Cruz–Correa et al., Combination treatment with curcumin and quercetin of adenomas in familial adenomatous polyposis, 1035–1038, copyright (2006), with permission from Elsevier (16)].
+ b MDA and GSH levels in patients with tropical pancreatitis after oral administration of curcumin for 6 weeks [reprinted by permission from Indian Journal of Medical Research, vol 122, issue 4, pages 315–318, Durgaprasad et al., copyright (2005) the IJMR (19)].
+ GSH, glutathione; MDA, malondialdehydeIn a nonrandomized, open-label clinical trial in smokers, polyphenol reduced the formation of aberrant crypt foci (ACF), the precursor of colorectal polyps (17).
+ In this study, 44 smokers were given curcumin orally at two different doses (2 or 4 g/day) for 30 days.
+ The levels of procarcinogenic eicosanoids, prostaglandin E2, and 5-hydroxyeicosatetraenoic acid in ACF or normal flat mucosa were unaffected by the curcumin treatment at lower doses.
+ Curcumin at 4 g/day, however, significantly reduced ACF formation.
+ The reduction in ACF formation by curcumin was associated with a significant fivefold increase in post-treatment plasma curcumin/conjugate levels.
+ Curcumin was well-tolerated at both concentrations.
+ These findings demonstrated the effect of curcumin against ACF formation in smokers (17).
+ However, if the mechanism by which curcumin reduces ACF formation can be identified, it might further strengthen curcumin’s utility as a cancer chemopreventive agent.In another recent study, curcumin was administered to patients with CRC after diagnosis and before surgery (18).
+ Curcumin (360 mg in a capsule form) was given three times a day for 10–30 days.
+ Curcumin administration increased body weight, decreased serum TNF-α level, increased the number of apoptotic cells, and enhanced the expression of p53 in tumor tissue.
+ The authors of this study concluded that curcumin treatment can improve the general health of CRC patients via the mechanism of increased p53 expression in tumor cells (18).
+ However, such a correlation does not necessarily mean that p53 induction by curcumin can improve the general health of patients with CRC.
+ Further studies are necessary to confirm these claims.In summary, the studies discussed in this section suggest curcumin’s safety and efficacy in patients with CRC.
+ Larger randomized and well-controlled clinical trials will further confirm curcumin’s clinical efficacy against CRC.Pancreatic Cancer Pancreatic cancer is the fourth most common cause of cancer death across the globe (83).
+ It often develops without early symptoms and is diagnosed at an advanced stage.
+ Tropical pancreatitis is a type of chronic pancreatitis common in tropical populations.
+ If the disease persists longer, patients with tropical pancreatitis may develop pancreatic cancer.
+ Because oxidative stress is believed to be one of the causes of tropical pancreatitis, use of antioxidants may improve this condition.
+ A single-blind, randomized, placebo-controlled study from India was conducted to evaluate the effects of oral curcumin with piperine on the pain and markers associated with oxidative stress in patients with tropical pancreatitis (19).
+ Twenty patients with tropical pancreatitis were randomly assigned to receive 500 mg of curcumin with 5 mg of piperine or to receive placebo for 6 weeks, and the effects on the pattern of pain and on red blood cell (RBC) levels of MDA and GSH were assessed.
+ The results indicated a significant reduction in the erythrocyte MDA levels compared with placebo after curcumin therapy, with a significant increase in GSH levels (Fig.
+ 2b).
+ The pain, however, was not improved by curcumin administration.
+ The authors of this study concluded that oral curcumin with piperine may reverse lipid peroxidation in patients with tropical pancreatitis (19).Curcumin was found safe and well-tolerated in a phase II clinical trial of patients with advanced pancreatic cancer (12).
+ Of the 25 patients enrolled in the study, 21 were evaluable for response.
+ Patients were given 8 g of curcumin per day orally until disease progression, with restaging every 2 months.
+ Circulating curcumin was detectable as the glucuronide and sulfate conjugate forms, albeit at low steady-state levels, suggesting poor oral bioavailability.
+ Two patients showed clinical biological activity, and one had ongoing stable disease for more than 18 months.
+ Interestingly, one additional patient had a brief, but marked, tumor regression accompanied by significant increases in serum cytokine levels (IL-6, IL-8, IL-10, and IL-1 receptor antagonists).
+ No toxicities associated with curcumin administration were noted in the patients.
+ A downregulation in the expression of NF–κB, COX-2, and pSTAT3 in peripheral blood mononuclear cells of patients was observed after curcumin intake.
+ The study concluded that the oral curcumin is well-tolerated and, despite limited absorption, has biological activity in some patients with pancreatic cancer (12).An open-label phase II trial evaluated the efficacy of curcumin in combination with gemcitabine against advanced pancreatic cancer (20).
+ Seventeen patients enrolled in the study received 8 g of curcumin orally per day for 4 weeks; gemcitabine was given concurrently at an intravenous dose of 1,000 mg/m2 three times a week.
+ Eleven patients were eligible for evaluation of the efficacy of this combination since curcumin or the whole treatment was discontinued very early due to toxicity in five patients and sudden death in one patient.
+ One of the 11 evaluable patients (9%) showed a partial response; four (36%) had stable disease, and six (55%) had tumor progression.
+ Time to tumor progression was 1–12 months (median, 2.5 months), and overall survival was 1–24 months (median, 5 months).
+ The authors of this study concluded that a curcumin dose of 8 g/day is above the maximum tolerated dose when taken with gemcitabine and that the efficacy of the combinations seemed modest.
+ A large number of patients are needed to draw a solid conclusion (20).
+ Kanai et al.
+ recently evaluated the safety and feasibility of combinations of curcumin and gemcitabine in 21 patients with gemcitabine-resistant pancreatic cancer.
+ Curcumin at 8 g/day in combination with gemcitabine was safe and well-tolerated (11).Breast Cancer Breast cancer is the second most common cause of cancer death in women and is very rare in men.
+ According to one estimate, almost 226,870 new cases of invasive breast cancer are expected to occur among women in the United States during 2012.
+ Docetaxel, a microtubule inhibitor, has been commonly used either as a single agent in metastatic disease or in combination with other chemotherapeutic agents in early stages of breast cancer.
+ The feasibility and tolerability of the combination of docetaxel and curcumin in patients with advanced and metastatic breast cancer were evaluated in an open-label phase I trial (21).
+ Fourteen patients with advanced or metastatic breast cancer were enrolled in the study.
+ Docetaxel (100 mg/m2) was administered as a 1-h intravenous infusion every 3 weeks on day 1 for six cycles.
+ Curcumin was given orally from 0.5 g/day for seven consecutive days by cycle (from day−4 to day+2) and escalated until a dose-limiting toxicity occurred.
+ The primary endpoint was to determine the maximal tolerable dose of the combination of dose-escalating curcumin and the standard dose of docetaxel chemotherapy in advanced and metastatic breast cancer patients.
+ Secondary objectives included toxicity, safety, vascular endothelial growth factor and tumor markers measurements, and assessment of objective and clinical responses to the combination therapy.
+ The maximum tolerable dose of curcumin was found to be 8 g/day, whereas the recommended dose was 6 g/day for seven consecutive days every 3 weeks in combination with a standard dose of docetaxel (21).Prostate Cancer Prostate cancer is the most common malignancy of men.
+ According to the American Cancer Society’s most recent estimates, 241,740 new cases of prostate cancer will occur in the United States during 2012.
+ The disease is normally monitored by the prostate-specific antigen (PSA) test.
+ An elevated level of PSA per se reflects the risk of developing prostate cancer.
+ Thus, intervention to improve the PSA level may help prevent prostate cancer.
+ A randomized, double-blind, controlled study evaluated the effects of soy isoflavones and curcumin on serum PSA levels in men who underwent prostate biopsies because of increased PSA but who had negative findings for prostate cancer (22).
+ Eighty-five participants were randomly assigned to take a supplement containing isoflavones and curcumin or placebo daily.
+ Participants were subdivided by the cut-off of their baseline PSA value at 10 ng/ml.
+ Forty-three participants were given a combination of 100 mg of curcumin and 40 mg of isoflavones, and 42 were given placebo for 6 months.
+ PSA values were evaluated before and 6 months after treatment.
+ PSA levels decreased in the patient group, with PSA values greater than10 ng/ml among those who received supplementation containing isoflavones and curcumin (Fig.
+ 3a).
+ These results indicated that isoflavones and curcumin could modulate serum PSA levels.
+ The authors of this study concluded that curcumin presumably synergizes with isoflavones to suppress PSA production (22).Open in a separate windowFig.
+ 3 a Serum PSA levels at the baseline (pre) and after administration of isoflavones (40 mg/day) and curcumin (100 mg/day) supplements or placebo (post) for 6 months in participants with PSA  20 g/L, and five of these ten had a 12% to 30% reduction in paraprotein levels while receiving curcumin therapy.
+ In addition, 27% of patients receiving curcumin had a &gt;25% decrease in urinary N-telopeptide of type I collagen (23).
+ The study suggested the therapeutic potential of curcumin against MGUS.Vadhan-Raj et al.
+ (24) evaluated the safety, tolerability, and clinical efficacy of curcumin in 29 patients with asymptomatic, relapsed, or plateau phase multiple myeloma.
+ Curcumin was given either alone (orally at 2, 4, 6, 8, or 12 g/day in two divided doses) or in combination with bioperine (10 mg in two divided doses) for 12 weeks.
+ Curcumin and bioperine were well-tolerated, with no significant adverse events.
+ Of the 29 evaluable patients, 12 continued treatment for more than 12 weeks, and five patients (one at a dose of 4 g, two at 6 g, and two at 8 g) completed a full year of treatment with stable disease.
+ Peripheral blood mononuclear cells from 28 patients examined at baseline showed constitutively active NF–κB, COX-2, and STAT3.
+ Furthermore, oral administration of curcumin was associated with significant downregulation in the constitutive activation of NF–κB and STAT3, and it suppressed COX-2 expression in most of the patients.
+ These observations suggest the potential of curcumin against multiple myeloma (24); however, well-controlled clinical trials with larger number of patients are required to confirm the efficacy of curcumin against multiple myeloma.Lung Cancer Smokers excrete significant amounts of mutagens in the urine and are at high risk of developing lung cancer.
+ Whereas smoking increases the risk for mutagenicity and lung cancer, dietary factors including turmeric reduce the risk.
+ One study assessed the anti-mutagenic effects of turmeric in 16 chronic smokers and six non-smokers who served as a control (25).
+ When given at 1.5 g/day for 30 days, turmeric significantly reduced the urinary excretion of mutagens in the smokers, but in the control group, no changes in the urinary excretion of mutagens were observed.
+ Furthermore, turmeric had no significant effect on serum aspartate aminotransferase and alanine aminotransferase, blood glucose, creatinine, or lipid profile (25).
+ Authors of this study suggested that dietary turmeric can act as an effective anti-mutagen in smokers and can reduce the risk of lung cancer.Cancer Lesions Oral cancer is one of the leading cancers of the Indian subcontinent and is associated mostly with tobacco chewing.
+ The most common precancerous oral lesions such as oral submucous fibrosis, oral leukoplakia, and oral lichen planus are associated with tobacco chewing.
+ In addition to tobacco chewing, numerous other factors contribute to the onset of oral lichen planus including the use of NSAIDs, sulfonylureas, anti-malarials, and β-blockers as well as genetic factors and stress conditions (85).
+ The patients experiencing these lesions show an increase in the number of micronuclei in their exfoliated oral mucosal cells and in circulating lymphocytes.
+ Thus, the number of micronucleated oral mucosal cells can be used as a biomarker for predicting the clinical course of oral pre-cancers and early invasive cancer, and for assessing the potential of therapeutic agents.One study evaluated the effects of alcoholic extracts of turmeric oil and turmeric oleoresin on the number of micronuclei in healthy participants and in patients with submucous fibrosis (27).
+ None of the extracts had any effects on the number of micronuclei in lymphocytes from healthy participants.
+ All three extracts, however, offered protection against benzo[a]pyrene-induced increase in micronuclei in patients circulating lymphocytes.
+ In another set of experiments, patients with submucous fibrosis were given a daily oral dose of turmeric oil (600 mg) plus turmeric (3 g), turmeric oleoresin (600 mg) plus turmeric (3 g), or turmeric alone (3 g) for 3 months.
+ Results indicated that all three treatment modalities decreased the number of micronucleated cells both in exfoliated oral mucosal cells and in circulating lymphocytes (Fig.
+ 3b).
+ However, turmeric oleoresin was more effective in reducing the number of micronuclei in oral mucosal cells.
+ These results suggest the potential of turmeric extract against micronuclei formation in patients with oral precancerous lesions.Another phase I study evaluated the toxicology, pharmacokinetics, and biologically effective dose of curcumin in patients with resected urinary bladder cancer, arsenic-associated Bowen disease of the skin, uterine cervical intraepithelial neoplasm (CIN), oral leucoplakia, and intestinal metaplasia of the stomach (28).
+ A total of 25 patients were enrolled in this study.
+ Curcumin was given orally for 3 months, and biopsy of the lesion sites was done immediately before and 3 months after initiation of curcumin treatment.
+ No treatment-related toxicity occurred with doses up to 8 g/day.
+ At doses higher than 8 g/day, however, the bulky volume of the drug was unacceptable to the patients.
+ The serum concentration of curcumin usually peaked at 1 to 2 h after curcumin intake and gradually declined within 12 h. However, urinary excretion of curcumin was undetectable.
+ One of four patients with CIN and one of seven with oral leucoplakia developed frank malignancies in spite of curcumin treatment.
+ In contrast, histologic improvement of precancerous lesions was seen in one of two patients with resected bladder cancer, two of seven patients of oral leucoplakia, one of six patients of intestinal metaplasia of the stomach, one of four patients with CIN, and two of six patients with Bowen disease (28).
+ These data demonstrate the safety of curcumin at doses up to 8 g/day taken orally for 3 months.
+ The study also suggested the chemopreventive potential of curcumin against cancerous lesions.A randomized, double-blind, placebo-controlled trial was conducted in 100 patients with oral lichen planus to evaluate the efficacy of curcuminoids (29).
+ The trial included two interim analyses, and the participants were randomly assigned to receive either placebo or curcuminoids at 2 g/day for 7 weeks.
+ In addition, all participants received prednisone at 60 mg/day for the first week.
+ The primary outcome was a change in symptoms from baseline, and secondary outcomes were changes in clinical signs and occurrence of any side effects.
+ The results of the first interim analysis using data from 33 participants did not show any significant difference between the placebo and curcuminoid groups.
+ Conditional power calculations suggested that the likelihood of the curcuminoid group having significantly better outcome than that of the placebo group if the trial were to be completed was less than 2%.
+ Therefore, the study was ended before completion.
+ However, curcuminoids were well-tolerated.
+ For future studies of efficacy, the authors suggested the use of a larger sample size and a higher dose and/or longer duration of curcuminoids without an initial course of prednisone (29).
+ Since the earlier studies had examined the effects of alcoholic extracts of turmeric, turmeric oil, and turmeric oleoresin in patients with submucous fibrosis (27) but the later study used curcumin (29), it remains unclear whether differences in the preparations accounted for the differences in results.More recently, administration of a 1-g curcumin tablet (900 mg of curcumin, 80 mg of demethoxycurcumin, 20 mg of bisdemethoxycurcumin) for 1 week was associated with an increase in vitamins C and E levels and a decrease in MDA and 8-hydroxydeoxyguanosine (8-OHdG) contents in the serum and saliva of patients with precancerous lesions (30).Head and Neck Squamous Cell Carcinoma HNSCC is the sixth most common cancer worldwide, with approximately 600,000 cases diagnosed per year.
+ HNSCC is a heterogeneous disease that includes oral, laryngeal, and pharyngeal malignancies, with about 40% of these arising in the oral cavity.
+ Despite medical advancements, the 5-year survival rate for patients with HNSCC remains in the range of 40% to 50%.
+ Studies over the past several years have indicated the role of NF–κB and inflammatory molecules such as IL-6, IL-8, and VEGF in the pathogenesis of this disease (86).
+ Therefore, targeting these signaling molecules might prove useful against HNSCC.
+ Whether curcumin can inhibit IκB kinase β (IKKβ) kinase activity, an enzyme involved in NF–κB activation that suppresses expression of inflammatory cytokines in patients with HNSCC, was investigated (31).
+ A total of 39 patients (13 with dental caries, 21 with HNSCC, and 5 healthy volunteers) participated in this study.
+ Saliva was collected before and 1 h after participants chewed two curcumin tablets for 5 min.
+ Significant reduction in IL-8 levels was seen in post-curcumin samples from patients with dental caries.
+ Although IL-8 expression was reduced in 8 of 21 post-curcumin samples of patients with HNSCC, the data did not reach statistical significance.
+ The authors of this study concluded that IKKβ kinase could be used as a biomarker for detecting the effect of curcumin in HNSCC (31).Inflammatory Bowel DiseaseInflammatory bowel disease (IBD) is a condition in which the intestines become inflamed.
+ Although the etiology of IBD is not clearly known, it appears to be driven by inflammatory cytokines such as TNF-α.
+ Two major types of IBD are ulcerative colitis and Crohn disease.
+ Whereas ulcerative colitis is limited to the colon, Crohn disease can involve any part of the gastrointestinal tract from the mouth to the anus.
+ Another mild-to-moderate form of ulcerative colitis is called ulcerative proctitis, which involves inflammation of the rectum.
+ Patients with IBD have a significantly higher risk of developing colon cancer than the general population has.
+ Generally, anti-inflammatory drugs, immunosuppressants, and TNF blockers are used to manage IBD.
+ However, the high cost and adverse effects associated with these drugs encourages the use of alternative management options.One open-label study evaluated the efficacy of curcumin in five patients with ulcerative proctitis and in five patients with Crohn disease (32).
+ The patients with ulcerative proctitis were given 550 mg of curcumin twice daily for 1 month and then 550 mg three times daily for another month.
+ In the patients with Crohn disease, curcumin was administered at a dose of 360 mg three times a day for 1 month and then 360 mg four times a day for another 2 months.
+ Significant decrease in symptoms as well as in inflammatory indices (erythrocyte sedimentation rate and CRP) were observed in all patients with proctitis.
+ Only four of the five patients with Crohn disease, however, completed the study.
+ There was a mean reduction of 55 points in the Crohn disease activity index, and reductions in erythrocyte sedimentation rate and CRP were observed in these patients.
+ Although this study suggests the efficacy of curcumin against IBD, large double-blind, placebo-controlled studies are required for confirmation.Another study evaluated the efficacy of curcumin as maintenance therapy in 89 patients with quiescent ulcerative colitis (33).
+ For this randomized, double-blind, multicenter trial, 45 patients received curcumin, 1 g after breakfast and 1 g after the evening meal, plus sulfasalazine or mesalamine, and 44 patients received placebo plus sulfasalazine or mesalamine for 6 months.
+ The relapse rates were 4.65% in the curcumin-treated group and 20.51% in the placebo group (Fig.
+ 4a).Open in a separate windowFig.
+ 4 a Effects of curcumin on recurrence of disease in patients with ulcerative colitis [reprinted from Clinical Gastroenterology and Hepatology, vol 4, Hanai et al., Curcumin maintenance therapy for ulcerative colitis: randomized, multicenter, double-blind, placebo-controlled trial, pages 1502–1506, copyright (2006), with permission from Elsevier (33)].
+ b Levels of C-reactive protein in patients with active rheumatoid arthritis at baseline and after curcumin treatment [reprinted with permission from Chandran and Goel, (2012), Phytotherapy Research, John Wiley and Sons (39)]In another recent study, ingestion of oral curcumin at 500 mg/day along with prednisone was associated with clinical and endoscopic remission in a 60-year-old woman with a 17-year history of left-sided ulcerative colitis and enteropathic arthropathy (34).
+ The patient had been examined for persistently active colitis in December 2009.
+ Both a clinical and endoscopic evaluation confirmed the diagnosis.
+ Previously, multiple mesalamine preparations, sulfasalazine, and steroid enemas had not been effective, and the patient had required multiple courses of steroids for disease exacerbation.
+ She refused azathioprine/6-mercaptopurine and anti-TNF treatment because of possible adverse effects.
+ In addition to 40 mg of prednisone, 500 mg of curcumin per day was given to the patient.
+ After receiving curcumin and prednisone treatment for 1 year, the patient’s bowel movements had gone to two per day without blood, she was no longer taking steroids, and she was feeling well.
+ She remained in clinical remission at further clinical evaluations in April, July, and December 2010.
+ A colonoscopy performed in September 2010 showed no ulceration and biopsies consistent with chronic inactive ulcerative colitis (34).
+ Thus, based on this case study, curcumin represents a viable treatment alternative or adjunctive therapy in the management of chronic ulcerative colitis.A recent study assessed the effect of curcumin on the levels of p38 mitogen-activated protein kinase (p38 MAPK), IL-1β, IL-10, and matrix metalloproteinase-3 (MMP-3) in the gut of children and adults with IBD (35).
+ Colonic mucosal biopsies and colonic myofibroblasts from children and adults with active IBD were cultured ex vivo with curcumin.
+ Results indicated suppression in p38 MAPK activation, reduction in IL-1β, and enhancement in IL-10 levels in curcumin-treated mucosal biopsies.
+ Furthermore, dose-dependent suppression of MMP-3 in colonic myofibroblasts was observed after curcumin treatment (35).Irritable Bowel SyndromeIrritable bowel syndrome (IrBS) is a chronic problem of the large intestine.
+ The most common symptoms of IrBS are cramping, abdominal pain, bloating, gas, diarrhea, and constipation.
+ The causes of IrBS are unclear, and there is no commonly accepted cure.
+ A partially blinded, randomized, two-dose, pilot study assessed the effects of turmeric extract on IrBS symptoms in healthy adults (36).
+ Turmeric was given to the volunteers in tablet form: 102 patients were given one tablet containing 72 mg of standardized turmeric extract, and 105 patients were given two tablets a day, both for 8 weeks.
+ The prevalence of IrBS was reduced by 53% and 60% in the one-tablet and two-tablet groups, respectively, and was associated with a marked decrease in IrBS symptoms (36).
+ Although these results suggest that turmeric may help reduce IrBS symptoms, placebo-controlled trials are needed to confirm these findings.
+ Another study conducted with eight healthy participants reported that turmeric has the potential to increase bowel motility and to activate hydrogen-producing bacterial flora in the colon (37).ArthritisArthritis is a chronic disease that results from the inflammation of one or more joints.
+ It usually results from dysregulation of pro-inflammatory cytokines (e.g., TNF, IL-1β) and pro-inflammatory enzymes that mediate the production of prostaglandins (e.g., COX-2) and leukotrienes (e.g., lipoxygenase), together with the expression of adhesion molecules and matrix metalloproteinases.
+ Although more than 100 different kinds of arthritis have been reported, the three most common forms are osteoarthritis, rheumatoid arthritis, and gout.
+ Typically, a combination of exercise, modifications in lifestyle factors, and NSAIDs are used for the treatment of osteoarthritis.
+ The use of NSAIDs, however, is associated with numerous adverse effects.The potential of curcumin against arthritis was first reported in 1980 in a short-term, double-blind, crossover study involving 18 young patients with rheumatoid arthritis (38).
+ In this study, curcumin’s efficacy was compared with that of the prescription drug phenylbutazone.
+ Patients were randomly assigned to receive either curcumin (1.2 g/day) or phenylbutazone (0.3 g/day) for 2 weeks.
+ Curcumin was well-tolerated, had no adverse effects, and exerted an anti-rheumatic activity identical to that of phenylbutazone as shown by improvement in joint swelling, morning stiffness, and walking time.
+ However, one of the major drawbacks of this study was the lack of a control or placebo group (38).
+ Further well-controlled studies are therefore required to examine the long-term effects of curcumin against rheumatoid arthritis.
+ In another recent study, curcumin alone (0.5 g) and in combination with diclofenac sodium (0.05 g) was found to be safe and effective in 45 patients with rheumatoid arthritis (39).
+ Furthermore, the level of CRP was suppressed in these patients after curcumin administration (Fig.
+ 4b).Another study in 50 patients with osteoarthritis evaluated the efficacy of Meriva at a dose that corresponded to 200 mg of curcumin per day (40).
+ The signs and symptoms of osteoarthritis were evaluated with use of WOMAC scores, an indicator of pain level.
+ The mobility was assessed by walking performance (treadmill), and inflammatory status was assessed by measuring the levels of CRP.
+ After 3 months of treatment, the global WOMAC score was decreased by 58%; walking distance was increased from 76 m to 332 m, and CRP levels were significantly decreased.
+ In comparison, only modest improvement in these measurements was observed in the control group.
+ Overall, these results suggested the efficacy of Meriva in the management of osteoarthritis (40).
+ In a subsequent study, this group investigated the long-term efficacy and safety of Meriva in a longer (8-month) study involving 100 patients with osteoarthritis (41).
+ The patients were divided into the control group (50 patients) and the curcumin group (50 patients), in which patients received 1 g/day of Meriva for 8 months.
+ The WOMAC score was decreased by more than 50%, whereas treadmill walking performance was increased almost threefold compared with the control.
+ Serum inflammatory biomarkers such as IL-1β, IL-6, soluble CD40 ligand, soluble vascular cell adhesion molecule-1, and erythrocyte sedimentation rate were also significantly decreased in the treatment group.
+ In addition, remarkable decreases in gastrointestinal complications, distal edema, and the use of NSAIDs/painkillers by the patients were also noted after Meriva treatment.
+ The need for hospital admissions, consultations, and tests by the patients was also decreased after Meriva treatment.
+ The authors of this study concluded that Meriva is worth considering for the long-term complementary management of osteoarthritis (41).UveitisUveitis is an inflammation of the uvea, the middle layer of the eye.
+ Uveitis is a major cause of visual impairment and has been estimated to account for 10% to 15% of all cases of total blindness in the United States.
+ Depending on the anatomical localization and visible signs of the disease, uveitis can be classified into anterior, posterior, pan, and intermediate.
+ The course of the disease can be acute, chronic (&gt;3-month duration), and recurrent.
+ Corticosteroids are normally used for treatment of uveitis.
+ However, the adverse effects associated with these drugs limit their use.One study evaluated the efficacy of curcumin against chronic anterior uveitis (42).
+ Curcumin was administered orally to patients with chronic anterior uveitis at a dose of 375 mg three times a day for 12 weeks.
+ Of 53 patients enrolled, 32 completed the 12-week study and were divided into two groups.
+ One group of 18 patients received curcumin alone, whereas the other group of 14 patients, who had a strong reaction to tuberculin purified protein derivative, also received anti-tubercular treatment.
+ After 2 weeks of treatment, both groups showed significant improvement in the disease.
+ Whereas all patients who received curcumin alone exhibited improvement, the group receiving anti-tubercular therapy along with curcumin had a response rate of 86%.
+ Furthermore, follow-up of all patients for the next 3 years found recurrence rates of 55% for the first group and 36% for the second group.
+ The efficacy of curcumin on recurrences after treatment was comparable to that of corticosteroid therapy.
+ Furthermore, lack of any adverse effects with curcumin was an advantage over corticosteroid therapy (42).
+ A double-blind, multicenter clinical trial with curcumin against chronic anterior uveitis is highly desirable to further validate the results of this study.One nonplacebo-controlled study evaluated the efficacy of Meriva against recurrent anterior uveitis (43).
+ All patients were given Norflo containing 600 mg of Meriva twice daily during the follow-up period (about 12–18 months).
+ The primary end point was relapse frequency in all treated patients, before and after Meriva treatment, followed by the number of relapses in the three etiological groups.
+ The secondary end points were relapse severity and overall quality of life.
+ A total of 106 and 19 patients, respectively, had relapses before and after treatment with Norflo.
+ Furthermore, the total number of relapses was reduced from 275 to 36 after the 1-year treatment with Norflo.
+ Meriva was well-tolerated and reduced eye discomfort after a few weeks of treatment in more than 80% of patients.
+ Thus, the study demonstrated the therapeutic role of curcumin and its efficacy against recurrent anterior uveitis (43).Postoperative InflammationIn a study of curcumin’s anti-inflammatory properties, Satoskar et al.
+ (44) evaluated the effects of this polyphenol on spermatic cord edema and tenderness in 46 men (15–68 years old) who had just undergone surgical repair of an inguinal hernia and/or hydrocele.
+ After surgery, patients were randomly assigned to receive curcumin (400 mg), placebo (250 mg lactose powder), or phenylbutazone (100 mg) three times a day for 6 days.
+ Spermatic cord edema, spermatic cord tenderness, operative site pain, and operative site tenderness reflected by intensity score (TIS) were measured.
+ TIS on day 6 decreased by 84.2% in the curcumin group, by 61.8% in placebo group, and by 86% in phenylbutazone group.
+ Although TIS values for the curcumin and phenylbutazone groups were similar on day 6, curcumin proved to be superior by reducing all four measures of inflammation (44).Peptic UlcerPeptic ulcers are the most common ulcer of the gastrointestinal tract and can be extremely painful.
+ These ulcers are usually open sores that develop on the inner lining of the esophagus, stomach, and the upper portion of the small intestine.
+ If the peptic ulcer is located in the stomach, it is called a gastric ulcer.
+ According to one estimate, 5% to 10% of adults globally are affected by peptic ulcers at least once in their lifetime.
+ The preferred medications for peptic ulcers include proton pump inhibitors, histamine receptor blockers, and antibiotics to kill a Helicobacter pylori infection.
+ A randomized controlled clinical trial from Thailand compared the efficacy of turmeric and liquid antacid (containing 333 g of aluminum hydroxide and 33.3 g of magnesium hydroxide per 1,000 ml) against benign gastric ulcers (45).
+ Of the 60 patients who participated in the study, 30 received turmeric (250 mg, four times per day), and the other 30 received antacid (30 ml, four times per day).
+ The treatment was continued for 6 to 12 weeks.
+ Although both antacid and turmeric improved gastric ulcers in patients, the former was better in reducing the ulcers (45).A phase II clinical trial from Thailand evaluated the safety and efficacy of curcumin in patients with peptic ulcers (46).
+ Forty-five patients (24 men and 21 women, aged 16–60 years) were included in the study.
+ Twenty-five patients (18 men and 7 women) underwent endoscopy, and their ulcers were found in the duodenal bulb and gastric (angulus) region.
+ The remaining 20 patients did not have ulcers but appeared to have erosions, gastritis, and dyspepsia.
+ Two capsules (300 mg each) of turmeric were given orally five times daily over a period of 4 weeks.
+ Results after 4 weeks of treatment showed that ulcers were absent in 12 patients; after 8 weeks of treatment, ulcers were absent in 18 patients; and after 12 weeks of treatment, ulcers were absent in 19 patients.
+ The remaining patients had symptomatic relief after turmeric treatment (46).H.
+ pylori InfectionH.
+ pylori is one of the most widespread infectious agents and is the common cause of peptic ulcers.
+ The bacterium is also involved in the pathogenesis of several other diseases, such as mucosa-associated lymphoid tissue lymphoma, gastric adenocarcinoma, iron deficiency anemia, skin disease, and rheumatologic conditions (87).
+ The most commonly used treatment regimens for H. pylori infection include the use of proton pump inhibitors and antibiotics.
+ However, these medications are associated with adverse effects.
+ One study investigated the effectiveness of 7-day non-antibiotic therapy (including curcumin, lactoferrin, N-acetylcysteine, and pantoprazole) for eradication of H. pylori infection and reduction of gastric inflammation (47).
+ Twenty-five H. pylori-positive patients with functional dyspepsia were enrolled in the study, and the outcomes evaluated were H. pylori eradication, gastric inflammation, and relief of symptoms.
+ Patients were treated twice a day for 7 days with curcumin (30 mg), bovine lactoferrin (100 mg), N-acetylcysteine (600 mg), and pantoprazole (20 mg).
+ H. pylori status and upper gastrointestinal symptoms were assessed by 13C-urea breath test and an intensity scale for upper gastrointestinal symptoms (absent, mild, moderate, and severe), as well as a blood test for serum pepsinogens (sPGI, sPGII), gastrin-17 (G-17), and anti-H. pylori IgG (IgG-Hp) at baseline and after 2 months.
+ Results indicated that 3 (12%) of 25 patients were cured of H. pylori infection.
+ Significant decreases in the overall severity of symptoms and in sPGII and sPGI levels were observed after 2 months of the treatment.
+ However, IgG and G-17 values did not significantly decrease after 2 months.
+ The authors of this study concluded that the therapy is not effective for H. pylori eradication.
+ However, significant improvement in dyspeptic symptoms and a reduction of serologic signs of gastric inflammation were observed after 2 months (47).
+ Additional studies with larger cohorts of participants are necessary to confirm the potential of curcumin in the management of H. pylori infection.Another study investigated the effect of curcumin on the production of IL-8, IL-1β, TNF-α, and COX-2 in gastric mucosa from 36 H. pylori-infected gastritis patients (48).
+ The patients were randomly assigned to receive either a 1-week course of OAM-based triple regimen (20 mg of omeprazole, 1 g of amoxicillin, and 800 mg of metronidazole, each given orally twice a day) or a 4-week course of turmeric tablets (700 mg containing 40 mg of curcumin, three times a day).
+ Gastric biopsy samples were collected before and after treatment and were examined for the level of inflammatory cytokines.
+ The eradication rate of H. pylori was significantly higher for patients who received OAM treatment than it was for patients who received curcumin.
+ The levels of IL-8 mRNA expression in the OAM group significantly decreased after treatment, but no changes of other cytokines were found.
+ However, decrease in cytokine production was not found in the curcumin group.
+ The study concluded that curcumin alone may have a limited anti-bactericidal effect on H. pylori and on the production of inflammatory cytokines (48).Idiopathic Orbital Inflammatory PseudotumorIdiopathic orbital inflammatory pseudotumor (IOIP) is a chronic neoplasm-like inflammatory reaction, usually affecting the orbital tissues of both eyes and orbit.
+ Originally characterized in 1905 by Birch-Hirschfeld, the disease constitutes the third most common ophthalmic disorder after Grave’s disease and lymphoproliferative disorders (88).
+ Oral corticosteroids, radiotherapy, or anti-metabolites such as cyclophosphamide are normally used for the treatment of the disease; however, 25% to 50% of patients do not respond (89).
+ The clinical efficacy of curcumin in the treatment of IOIP was investigated in a study of eight patients (49), in which curcumin was administered orally at a dose of 375 mg, three times a day, for a period of 6 to 22 months.
+ The patients were followed up for 2 years at 3-month intervals.
+ Five patients completed the study; of these, four recovered completely, and in one patient, the swelling regressed completely but some limitation of movement persisted.
+ Furthermore, the disease did not recur in any of the patients, and curcumin was not associated with any adverse effects.
+ On the basis of these observations, the authors of this study concluded that curcumin could be used as a safe and effective drug in the treatment of IOIP (49).
+ However, well-controlled multicenter clinical trials are needed to confirm the efficacy of curcumin against IOIP.VitiligoVitiligo is a skin disorder in which the cells producing pigment (color) in the skin (melanocytes) are destroyed, resulting in white patches that appear on the skin on different parts of the body.
+ Although what causes damage to melanocytes remains unclear, oxidative stress has been implicated in the pathogenesis of the disease (90).
+ Narrowband UVB (NB-UVB) that uses the portion of the UVB spectrum from 311 to 312 nm is now considered the gold standard treatment for vitiligo (91).
+ Because of its anti-oxidant property, curcumin seems to be a therapeutic option for the treatment of vitiligo.
+ One study investigated whether the combination of NB-UVB and tetrahydrocurcuminoid cream could result in synergistic therapeutic effects against vitiligo (50).
+ Ten patients with focal or generalized vitiligo were enrolled in the study.
+ Two similar lesions were treated with either NB-UVB plus topical tetrahydrocurcuminoid cream or with UVB alone.
+ The UVB treatments were given twice a week for 12 weeks.
+ Results indicated a statistically significant repigmentation in both treatment groups compared with baseline on completion of the study.
+ Furthermore, the overall degree of repigmentation was slightly better in the combination group at 8 and 12 weeks, and the tetrahydrocurcuminoid was well-tolerated (50).PsoriasisPsoriasis is a chronic inflammatory skin disease characterized by thick, red, scaly lesions that may appear on any part of the body.
+ The disease exists in five different forms—plaque, guttate, inverse, pustular, and erythrodermic—of which plaque psoriasis is most common.
+ The disease affects approximately 2% of the population worldwide and is associated with increased cardiovascular risk (92).
+ The currently available treatment for psoriasis is time-consuming (UVB or psoralen plus UVA therapy) and has the potential for organ toxicity (methotrexate, acitretin, cyclosporine).Elevations of activity in PhK, a serine/threonine-specific protein kinase, have been correlated with pathogenesis of psoriasis.
+ Therefore, agents with potential to inhibit PhK activity can be useful for the treatment of psoriasis.
+ One of the early studies from our own laboratory indicated that curcumin is a noncompetitive inhibitor of PhK, with a Ki of 75 μM (93).
+ A different study investigated whether the anti-psoriatic activity of curcumin in patients is due to suppression of PhK activity (51).
+ In this study, PhK activity was assayed in four groups of ten participants each: (1) active untreated psoriasis; (2) resolving psoriasis treated by calcipotriol, a vitamin D3 analogue and an indirect inhibitor of PhK; (3) curcumin treatment (1% in the gel); and (4) normal non-psoriatic participants.
+ The PhK activity was highest in active untreated psoriasis and progressively lower in the calcipotriol-treated group, in the curcumin-treated group, and in non-psoriatic participants (Fig.
+ 5a).
+ The decrease in PhK activity in curcumin- and calcipotriol-treated psoriasis was associated with a decrease in keratinocyte transferrin receptor expression and with decrease in the severity of parakeratosis and the density of epidermal CD8+ T cells.
+ The authors of this study concluded that drug-induced suppression of PhK activity is associated with resolution of psoriatic activity and that the anti-psoriatic activity of curcumin may be achieved through modulation of PhK activity (51).
+ However, further well-controlled clinical trials are required to confirm these observations.Open in a separate windowFig.
+ 5 a Phosphorylase kinase values in curcumin- and vehicle-treated groups [reprinted with permission from Heng et al., (2000), British Journal of Dermatology, John Wiley and Sons (51)].
+ b Effects of curcumin on serum MDA and lipoproteins in human volunteers [reprinted from Soni and Kuttan, 1992, with permission of Executive Editor, Indian Journal of Physiology and Pharmacology (57)].
+ HDL, high density lipoprotein; MDA, malondialdehydeA phase II, open-label, Simon’s two-stage clinical trial sought to determine the safety and efficacy of oral curcumin in patients with moderate to severe psoriasis (52).
+ Twelve patients with chronic plaque psoriasis were enrolled in the study and were given 4.5-g curcumin capsules every day for 12 weeks, followed by a 4-week observation period.
+ Curcumin was well-tolerated, and all participants completed the study.
+ The response rate was low, however, possibly caused by a placebo effect or the natural history of psoriasis.
+ However, two patients who responded to the treatment showed 83% to 88% improvement at 12 weeks of treatment.
+ Small sample size and the lack of a control (placebo) group were the limitations of the study (52).
+ Therefore, large placebo-controlled studies are required before recommending oral curcumin for psoriasis.Dejerine-Sottas DiseaseDejerine-Sottas disease is a severe degenerative form of Charcot-Marie-Tooth disease, a neurological disorder.
+ The disease is characterized by generalized weakness sometimes progressing to severe disability, loss of sensation, curvature of the spine, and sometimes mild hearing loss.
+ The disease is caused by defects in genes of axons and myelin such as myelin P0 (MPZ), peripheral myelin protein 22 (PMP22), PRX, and EGR2.
+ One study assessed the safety of oral curcumin in a 15-year-old Caucasian girl with Déjérine-Sottasdisease (53).
+ The patient received 1.5 g of oral curcumin daily for the first 4 months and 2.5 g/day thereafter, to complete a 12-month trial.
+ After 12 months, the patient experienced no adverse events and reported good compliance.
+ Knee flexion and foot strength increased slightly, but hand and elbow strength decreased.
+ Pulmonary function, hand function, and measures of upper/lower extremity disability were stable or reduced.
+ The neurophysiologic findings of the patient were unchanged.
+ Parent-reported quality of life improved for most domains, especially self-esteem, during the 12 months of treatment.
+ Overall, these results suggest the safety and efficacy of curcumin against Déjérine-Sottas disease (53).
+ A well-controlled, randomized, large clinical trial is needed to confirm the efficacy of curcumin against this disease.Alzheimer’s DiseaseAlzheimer’s disease is a progressive neurodegenerative disorder, usually affecting people older than age 65 years.
+ The pathogenesis of Alzheimer’s disease involves aggregation of Aβ (especially Aβ1–42) into fibrils, formation of amyloid plaques, and deposition of these plaques into the brain.
+ These plaques are believed to cause the loss of cholinergic neurons in the basal forebrain of patients with Alzheimer’s disease (94).
+ The currently available treatments for this disease have numerous adverse effects, thus underscoring the need for alternative approaches.
+ A phase II, randomized, double-blind, placebo-controlled study in the United States was designed to evaluate the safety and tolerability of curcumin in patients with mild to moderate Alzheimer’s disease (54).
+ A total of 33 patients who were enrolled in the study were randomly assigned to a placebo group, low-dose curcumin group (2 g/day), or high-dose curcumin group (4 g/day).
+ After 24 weeks, the patients who were receiving curcumin continued the treatment at their assigned dose, whereas those who were receiving the placebo were given one of the two doses of curcumin.
+ The study examined the safety, tolerability, pharmacokinetics, and efficacy of curcumin in patients with Alzheimer’s disease, as well as the effects of curcumin on biomarkers associated with the pathology of this disease.
+ Although the study has been completed, the observations have yet to be published (54).Baum et al.
+ (55) conducted a randomized, double-blind, placebo-controlled study in 34 patients with Alzheimer’s disease.
+ The study participants were randomly assigned to receive curcumin at two different doses (1 or 4 g) or placebo (4 g).
+ The Mini-Mental State Examination (MMSE) score that assesses mental status was not improved after curcumin treatment.
+ Similarly, the level of serum Aβ40 was not affected by curcumin treatment.
+ However, curcumin administration was associated with an increase in vitamin E level, and curcumin did not cause any adverse effects.
+ These authors concluded that the anti-oxidant activity of curcuminoids might decrease the need for anti-oxidant vitamin E (55).
+ These observations support the opening of a clinical trial of curcumin against Alzheimer’s disease using large numbers of patients.Acute Coronary SyndromeAcute coronary syndrome (ACS) refers to a situation in which the blood supply to the myocardium is cut off.
+ ACS encompasses three clinical conditions involving the coronary arteries: ST elevation myocardial infarction (STEMI), non-ST elevation MI, and unstable angina.
+ Dyslipidemia and hyperglycemia are characteristic features of patients with ACS (95).
+ A randomized, double-blind, controlled trial from Jakarta evaluated the effects of curcumin on total cholesterol, LDL cholesterol, HDL cholesterol, and triglyceride levels in patients with ACS (56).
+ A total of 70 patients were assigned to four different groups: placebo, low-dose (45 mg/day), moderate-dose (90 mg/day), and high-dose (180 mg/day) curcumin.
+ The curcumin was administered orally to the patients for 2 months.
+ Low-dose curcumin was highly effective, compared with high-dose curcumin, in reducing total cholesterol and LDL cholesterol in patients.
+ Conversely, low-dose curcumin increased HDL cholesterol to a greater extent than did the high-dose.
+ The increase in triglyceride content by curcumin was greatest at the moderate dose, however.
+ These studies suggest the beneficial effects of curcumin in improving lipid profiles in patients with ACS (56).
+ However, improving the lipid profile does not necessarily mean that curcumin is effective against ACS.
+ Further studies are required to demonstrate whether curcumin can suppress ACS in patients.AtherosclerosisAtherosclerosis is a condition in which fatty materials such as cholesterol accumulate and thickens the artery wall (96).
+ This is a chronic disease that normally remains asymptomatic for decades.
+ One study evaluated the effects of curcumin in reducing the serum levels of cholesterol and lipid peroxides in ten healthy human volunteers (57).
+ Curcumin (at 0.5 g/day) administered to the volunteers for 7 days reduced serum lipid peroxides by 33% and total serum cholesterol levels by 11.63%, and increased HDL cholesterol by 29% (Fig.
+ 5b).
+ Because of these properties, curcumin was suggested to act as a chemopreventive agent against atherosclerosis.DiabetesDiabetes mellitus (DM) is a chronic metabolic disease in which a person has high concentrations of blood sugar.
+ The high blood sugar in turn produces symptoms of polyuria, polydipsia, and polyphagia.
+ Three main types of diabetes are type 1, type 2, and gestational diabetes.
+ Type 1 result from the body’s failure to produce insulin, whereas in type 2 diabetes (T2DM) the body fails to use insulin properly.
+ Extensive research over the past several years has indicated that pro-inflammatory cytokines and oxidative stress play a role in the pathogenesis of T2DM (97).
+ Because of its anti-inflammatory property, curcumin represents a promising therapeutic option for T2DM.
+ Curcumin’s ability to decrease blood sugar levels in human patients was first reported in 1972 (58).
+ A male patient who had diabetes for 16 years ingested 5 g of turmeric powder over a period, after which his fasting blood sugar decreased from 140 to 70 mg/dl.
+ Ingestion of turmeric or curcumin along with insulin synergistically reduced the blood sugar level.
+ Furthermore, when the insulin dosage was decreased to the minimum, the anti-diabetic effect of turmeric was persistent.
+ Interestingly, when the ingestion of curcumin and turmeric was discontinued for a week, random blood sugar levels increased to 140 mg/dl.
+ Therefore, ingestion of a daily 5-g dose of turmeric was resumed, which promptly reduced the fasting blood sugar level to 110 mg/dl.
+ Blood urea in this patient after 3 months of turmeric therapy was 20 to 22, and the patient’s electrocardiogram was normal.
+ Turmeric therapy was not associated with any palpable adverse effects; rather, the beneficial effects of turmeric as a good appetite stimulant and effective laxative were observed (58).Usharani et al.
+ Seventy-two patients with T2DM were randomly assigned to receive NCB-02 (300 mg of curcumin, twice a day), atorvastatin (10 mg, once a day), or placebo for 8 weeks.
+ Of the 72 patients, 67 completed the study.
+ Curcumin treatment significantly improved endothelial function and reduced oxidative stress (MDA) and inflammatory markers (IL-6, TNFα, endothelin-1) in these patients.
+ Larger, randomized clinical trials should further confirm the observations of this proof-of-concept study.Another study examined the effects of C. longa on postprandial plasma glucose and insulin levels and the glycemic index in healthy participants (60).
+ Fourteen healthy participants were assessed in a crossover trial.
+ The study found that ingestion of C. longa increased postprandial serum insulin levels but had no effect on plasma glucose levels or the glycemic index in these healthy participants.
+ The study concluded that C. longa might have an effect on insulin secretion (60).More recently, a randomized, double-blind, placebo-controlled clinical trial assessed the efficacy of curcumin in delaying development of T2DM in the prediabetes population (61).
+ A total of 240 participants were randomly assigned to receive either curcumin (1.5 g/day) or placebo capsules, and changes in β cell functions (homeostasis model assessment [HOMA]-β, C-peptide, and proinsulin/insulin), insulin resistance (HOMA-IR), and anti-inflammatory cytokine (adiponectin) levels were monitored at the baseline and at 3, 6, and 9 months of treatment.
+ After 9 months of treatment, 16.4% of participants in the placebo group were diagnosed with T2DM, whereas none were diagnosed with T2DM in the curcumin-treated group (Fig.
+ 6a).
+ In addition, the participants of curcumin-treated group showed a better overall function of β cells, with higher HOMA-β and lower C-peptide levels.
+ The curcumin-treated participants also exhibited a lower level of HOMA-IR and higher adiponectin when compared with the placebo group.
+ The authors of this study concluded that the curcumin may be beneficial in a prediabetes population (61).Open in a separate windowFig.
+ 6 a Number of newly diagnosed diabetic subjects after treatment with curcumin [copyright 2012 American Diabetes Association From Diabetes Care(R), vol.
+ 35, 2012, reprinted by permission of the American Diabetes Association (61)].
+ Both proteinuria and TGF-β may contribute to the development of end-stage renal disease in patients with diabetic nephropathy.
+ One study investigated the effects of turmeric on serum and urinary TGF-β, IL-8, and TNF-α, as well as proteinuria, in patients with overt type 2 diabetic nephropathy (62).
+ Each patient in the trial group received one capsule (containing 500 mg of turmeric, three times a day) with each meal for 2 months; the control group received placebo capsules containing starch for the same 2 months.
+ Serum concentrations of TGF-β and IL-8 and urinary protein excretion and IL-8 were significantly decreased after turmeric supplementation in comparison with the pre-supplementation values.
+ No adverse effects related to turmeric supplementation were observed during the trial.
+ The authors of this study concluded that short-term turmeric supplementation can attenuate proteinuria, TGF-β, and IL-8 in patients with overt type 2 diabetic nephropathy and can be administered as a safe adjuvant therapy for these patients (62).
+ However, long-term trials with larger numbers of patients are needed to confirm whether turmeric’s effects on renal function are transient or long-lasting.Diabetic MicroangiopathyMicroangiopathy is a disease of the small blood vessels (capillaries), in which the capillary walls become so thick and weak that they bleed, leak protein, and slow the flow of blood.
+ Hyperglycemia in patients with poorly controlled diabetes induces biochemical and molecular changes in microvascular cells that lead to retinal, renal, and neural complications and ultimately extend to other complications, including advanced periodontal disease.
+ The treatment of diabetic microangiopathy is based on control of glycemia, lipemia, and blood pressure using glitazones, angiotensin II receptor antagonists, and statins (98).One study evaluated the potential of Meriva in improving diabetic microangiopathy (63).
+ In these patients, the disease was associated with microcirculatory alteration that was managed without insulin for at least 5 years.
+ All patients were treated with what could be considered the best treatment protocol for the disease.
+ In the treatment group, Meriva (1 g/day) was added as a supplement to the standard treatment for 4 weeks and was well-tolerated, with no dropouts reported, and all participants in the treatment and control group completed the study.
+ In the treatment group, at 4 weeks, microcirculatory and clinical evaluations indicated a decrease in skin flux at the surface of the foot, an indicator of an improvement in microangiopathy.
+ Also, a significant decrease in the edema score and a corresponding improvement in the venoarteriolar response were observed.
+ An increase in PO2, possibly due to better oxygen diffusion into the skin and decreased edema, was observed.
+ These features were observed in all participants using Meriva, whereas no clinical or microcirculatory effects were observed in the control group (63).These results suggest the usefulness of Meriva for the management of diabetic microangiopathy and open a window of opportunities for the evaluation of curcumin’s efficacy in more prolonged and larger studies.Lupus NephritisLupus nephritis is an autoimmune disease characterized by polyclonal B cell hyperactivity and defective T cell function.
+ The disease is responsive to immunosuppressive and steroid therapy, but sometimes the disease relapses.
+ The effect of oral turmeric supplementation on 24 patients with relapsing or refractory biopsy-proven lupus nephritis was investigated in a randomized and placebo-controlled study (64).
+ The patients in the trial group were given one capsule containing 500 mg of turmeric with each meal for 3 months.
+ The patients in the control group received capsules containing starch that were identical in color and size to the turmeric capsules.
+ A significant decrease in proteinuria was observed in the trial group compared with the control group.
+ Turmeric supplementation significantly lowered systolic blood pressure and hematuria in patients.
+ It was concluded that short-term turmeric supplementation can decrease proteinuria, hematuria, and systolic blood pressure in patients with relapsing or refractory lupus nephritis and can be used as a safe adjuvant therapy for such patients (64).
+ Long-term clinical trials with larger numbers of patients are required to further clarify these effects of turmeric.Renal TransplantationRenal transplantation is the transplantation of a kidney into a patient with end-stage renal disease.
+ Kidneys for transplantation come from a living donor or a deceased (cadaver) donor.
+ Delayed graft function is a common occurrence in cadaveric renal transplantation and has been linked to increased rates of acute rejection and reduced graft survival (99).
+ One study examined the effects of curcumin and quercetin on early graft function in 43 dialysis-dependent cadaveric kidney recipients (65).
+ Curcumin (480 mg) and quercetin (20 mg) were given in a single capsule to the patients for 1 month after surgery.
+ The patients were randomly assigned to three groups: control (placebo), low-dose (one capsule, one placebo), and high-dose (two capsules).
+ Delayed graft function was defined as dialysis need in the first week, slow graft function as failure of creatinine levels to decrease within the first 48 hand/or creatinine &gt;2.5 mg/dl by day 10, and early function as the rest of the patients.
+ There were four withdrawals: one by patient choice and three for urine leak.
+ Results indicated that two patients in the control group exhibited delayed graft function, which was completely absent in either of the treatment groups.
+ Incidences of early function were 43% in the control group, 71% in the low-dose group, and 93% in the high-dose group.
+ Serum creatinine was significantly lower at 2 days (control, 7.6 ± 2.1; low, 5.4 ± 0.6; high, 3.96 ± 0.35) and at 30 days (control, 1.82 ± 0.16; low, 1.65 ± 0.09; high, 1.33 ± 0.1).
+ The incidences of acute rejection within 6 months were14.3% in the control and low-dose groups and 0% in the high-dose group.
+ Tremor was detected in 13% of the high-dose group and in 46% of the control and low-dose groups.
+ Furthermore, urinary HO-1 activity was increased in a dose-dependent manner in the treatment groups.
+ The authors of this study concluded that curcumin and quercetin can improve early outcomes in cadaveric renal transplantation, possibly through induction of HO-1 (65).Acquired Immunodeficiency SyndromeAcquired immunodeficiency syndrome (AIDS) is caused by the human immunodeficiency virus (HIV), which interferes with and weakens the immune system.
+ The virus primarily infects vital components of the human immune system, such as CD4+ T cells, macrophages, and dendritic cells.
+ The virus directly and indirectly destroys CD4+ T cells.
+ Current treatment for HIV infection consists of highly active anti-retroviral therapy.
+ A clinical trial from New England examined the effectiveness of curcumin as an anti-viral agent in 40 AIDS patients (66).
+ Two participants dropped out due to adverse events unrelated to the curcumin study.
+ Of the remaining 38 patients, 23 were randomly assigned to a high-dose group (2.5 g/d) and 15 to a low-dose group.
+ The treatment was continued for 8 weeks.
+ No evidence of curcumin-associated reduction in viral load was observed.
+ CD4 cells showed a slight increase in the high-dose group and a consistent decrease in the low-dose group.
+ However, none of the results was statistically significant.
+ Despite the lack of apparent anti-viral or CD4 effects, most participants liked taking curcumin because they felt better (66).
+ It is likely that curcumin could provide benefits in unknown ways.β-Thalassemiaβ-Thalassemia is an inherited blood disorder in which the body makes an abnormal form of β-chains of hemoglobin (Hb).
+ The disorder results in excessive destruction of RBCs, which leads to anemia.
+ Disturbances in oxidative stress and in the anti-oxidant defense system are commonly reported in patients with β-thalassemia (100).
+ One study examined whether measures of oxidative stress can be ameliorated after treatment with curcumin in patients with β-thalassemia (67).
+ Twenty-one patients were given curcuminoids (500 mg/d) for 12 months.
+ Blood was collected every 2 months during treatment and 3 months after withdrawal and was analyzed for MDA, superoxide dismutase, glutathione peroxidase (GSH-Px), and reduced GSH in RBCs, as well as non-transferrin-bound iron in serum.
+ An increase in oxidative stress was reported, as indicated by higher levels of MDA, superoxide dismutase, and GSH-Px in RBCs, higher non-transferrin-bound iron in serum, and lower levels of RBC GSH in patients.
+ Curcuminoid administration was associated with improvement in these measures.
+ Furthermore, 3 months after withdrawal of curcuminoid treatment, all measures returned close to baseline levels.
+ The authors of this study concluded that curcuminoids may be used to ameliorate oxidative damage in patients with β-thalassemia.
+ However, further studies are required to demonstrate whether improvement in these parameters by curcuminoids is associated with improvement in symptoms of β-thalassemia.Biliary DyskinesiaBiliary dyskinesia is a motility disorder that affects the gallbladder and sphincter of Oddi.
+ The disease is often associated with right upper abdominal pain.
+ A multicenter pilot study analyzed the effects of dried Curcuma extracts on abdominal pain in the right upper quadrant due to biliary dyskinesia (68).
+ The extract was given to 39 patients and placebo to 37 patients for 3 weeks.
+ Pain reduction was more rapid during the first treatment week in patients who received the extract than in the control group.
+ Thus, this study provides evidence for the beneficial effects of Curcuma extract on pain due to biliary dyskinesia (68).
+ However, how the extract mediates pain-relieving activity remains to be investigated.Gallbladder ContractionThe gallbladder is a very small but important organ that serves as a reservoir for bile, which it helps to release into the small intestine to digest fats.
+ The need for bile in the small intestine is signaled by a hormone called cholecystokinin, which causes the gallbladder to contract and deliver bile into the intestine.
+ Alterations in gallbladder contraction may contribute to pathological conditions such as cholesterol gallstone formation and cholecystitis.
+ Gallbladder contraction can be stimulated by using synthetic hormones such as cholecystokinin, caerulein, and motilin and cholinomimetic drugs such as bethanechol, neostigmine, and erythromycin (101).
+ A randomized, double-blind, crossover study compared the effect of 20 mg of curcumin or placebo on the gallbladder volume of 12 healthy volunteers (69).
+ Ultrasonographic examination was carried out serially to measure the gallbladder volume.
+ The gallbladder volume was reduced within the period after curcumin administration.
+ The percentages of gallbladder volume reduction at 0.5, 1, 1.5, and 2 h after curcumin administration were 11.8%, 16.8%, 22%, and 29.3%, respectively.
+ These results suggest the ability of curcumin in stimulating gallbladder contraction and reducing the risk of gallstones formation (69).
+ Further dose–response studies are required to determine the optimal dose of curcumin that can induce further increase in contraction.Recurrent Respiratory Tract InfectionsRecurrent respiratory tract infections (RRTIs) are common diseases in childhood and constitute a serious problem worldwide.
+ The anti-inflammatory or anti-bacterial drugs used for these infections are often associated with adverse effects and contribute to the selection of drug-resistant microorganisms.
+ One study examined the clinical and immunologic effects of lactoferrin and curcumin (LC) oral supplementation in healthy children with RRTIs (70).
+ Ten children with RRTIs received LC orally at 1 g (900 mg lactoferrin plus 100 mg curcumin) every 8 h for 4 weeks.
+ Administration of LC was associated with reduction in RRTIs and beneficial immune-modulatory effects in children.
+ Randomized clinical trials will further validate the possible effects of LC in reducing RRTIs.ATT-Induced HepatotoxicityAlthough isoniazid, rifampicin, pyrazinamide, and ethambutol are used as anti-tuberculosis treatment (ATT), the associated hepatotoxicity represents a major disadvantage.
+ The exact mechanism of ATT-induced hepatotoxicity is unknown, but oxidative stress, choline deficiency, reduced glutathione level, and activation of CYP2E1 may play crucial roles.
+ Occurrences of such hepatotoxicity are normally managed by stopping the drug use and reintroducing the same drug after normalization of liver enzymes.
+ (71) conducted a randomized controlled clinical trial to evaluate the efficacy of C. longa in controlling hepatotoxic episodes in patients with a diagnosis of tuberculosis who were undergoing ATT.
+ A total of 528 patients participated in the study.
+ The patients were randomly assigned to a control group (200patients) and a trial group (328patients), from which 192 and 316 patients, respectively, completed the study.
+ The ATT consisted of isoniazid, rifampicin, pyrazinamide, and ethambutol for the first 2 months followed by continuation phase therapy that excluded pyrazinamide for 4 months.
+ In the treatment group, patients were given curcumin-enriched (25%) C. longa and Tinospora extract (1 g/d each) along with ATT.
+ Only 2 of the 316 patients from the trial group and 27 of 192 patients from the control group developed hepatotoxicity.
+ There were increases in liver aspartate transaminase (AST), alanine transaminase (ALT), and bilirubin concentrations in the control group but not in the treatment group.
+ Furthermore, significant weight gain and a decreased erythrocyte sedimentation rate were observed in the treatment group compared with controls (Fig.
+ 6b).
+ The authors of this study concluded that C. longa can be used as an adjuvant to prevent ATT-associated hepatotoxicity.
+ However, more clinical trials are required to determine the effectiveness of curcumin in latent tuberculosis cases and multidrug-resistant cases.Chronic Arsenic ExposureGroundwater arsenic contamination is a global threat to human health and is associated with carcinogenic effects.
+ The biggest cases of groundwater arsenic contamination can be found in Bangladesh and in West Bengal in India.
+ The carcinogenic effects of arsenic are likely mediated through oxidative DNA damage.
+ Therefore, agents with antioxidant capacity may have potential against arsenic-induced genotoxic effects.
+ A field trial from West Bengal evaluated the role of curcumin against the genotoxic effects of arsenic (72).
+ A total of 286 volunteers exposed to groundwater arsenic were recruited into the study.
+ The participants were randomly assigned to a placebo group (143 persons) and a curcumin-treated group (143 persons).
+ Curcumin was given at a dose of 500 mg twice daily for 3 months in combination with piperine.
+ DNA damage in lymphocytes was assessed by the comet assay and fluorescence-activated DNA unwinding assay.
+ Curcumin was analyzed in blood by high-performance liquid chromatography.
+ Arsenic-induced oxidative stress and curcumin’s antagonistic role were evaluated by measuring reactive oxygen species (ROS) generation, lipid peroxidation, and protein carbonyl contents.
+ The blood samples from this arsenic-exposed population showed severe DNA damage with increased levels of ROS and lipid peroxidation.
+ Three months of curcumin intervention reduced the DNA damage and retarded ROS generation and lipid peroxidation.
+ Curcumin treatment was also associated with significant enhancement in the levels of such anti-oxidants as catalase, superoxide dismutase, glutathione peroxidase, and glutathione.
+ The authors of this study concluded that curcumin may have some protective role against arsenic-induced DNA damage (72).Alcohol IntoxicationTheracurmin, a highly absorptive curcumin dispersed with colloidal nanoparticles, was recently shown to exhibit an inhibitory action against alcohol intoxication in humans (73).Chronic Bacterial ProstatitisChronic bacterial prostatitis (CBP) is a persistent infection of the prostate gland characterized by poor quality of life.
+ Both gram-negative (102) and gram-positive bacteria are involved in the pathogenesis of CBP (103).
+ Current treatments for CBP include use of antibiotics that penetrate the prostate and kill the causative organisms.
+ However, poor penetration of antibiotics to the prostate tissue, drug resistance of uropathogens, and the adverse effects associated with antibiotic treatment necessitate alternative approaches for CBP treatment.
+ A randomized, long-term follow-up study evaluated the efficacy of combinations of Serenoarepens (160 mg) plus Urticadioica (120 mg) (ProstaMEV®), and curcumin (200 mg) plus quercetin (100 mg) (FlogMEV®) in improving the efficacy of prulifloxacin in patients with CBP (74).
+ A total of 143 CBP patients divided into two groups (A and B) were enrolled in this study and received prulifloxacin (600 mg) daily for 14 days.
+ A total of 106 patients in group A received prulifloxacin in combination with ProstaMEV® and FlogMEV® whereas 37 patients in group B received only antibiotic therapy.
+ One month after treatment, 89.6% of patients in group A reported no symptoms associated with CBP, whereas only 27% of patients who received antibiotic therapy alone were recurrence-free.
+ Significant differences were found between groups in terms of symptoms and improvements in quality of life.
+ Six months after treatment, no patients in group A had recurrence of disease, whereas two patients in group B did.
+ It was concluded that ProstaMEV® and FlogMEV® can improve the clinical efficacy of prulifloxacin in patients with CBP (74).
+ However, the relative contribution of curcumin in improving CBP symptoms was not evaluated.ONGOING CLINICAL TRIALSAlthough numerous clinical trials have been completed, some are still evaluating the efficacy of curcumin against human ailments.
+ A search on www.clinicaltrials.gov (accessed in February 2012) indicated that about 35 clinical trials with curcumin are ongoing.
+ The most common human diseases for which curcumin is being evaluated are cancer, IrBS, inflammatory conditions, arthritis, neurological conditions, and diabetes (Table III).
+ Although curcumin is being evaluated all over the world, most of these clinical trials are from the United States.
+ A team from the University of Leicester, UK, and Cancer Research UK has planned to initiate a clinical trial that will examine whether curcumin can improve response to chemotherapy (FOLFOX; combinations of 5-FU, leucovorin, and oxaliplatin) in patients with advanced bowel cancer (104).
+ This 2-year trial will recruit 42 patients with bowel cancer that has metastasized to the liver; 75% will receive curcumin for 7 days, followed by FOLFOX, and the remainder will receive FOLFOX only.
+ Some clinical trials, such as one from India for Alzheimer’s disease and one from James Graham Brown Cancer Center in the United States are still recruiting patients.
+ The estimated primary completion times for most of these ongoing clinical trials range from 6 months to 10 years.
+ Doses ranging from 0.18 to 8 g/day are being used in these trials.
+ For some diseases, curcumin is being administered in combination with other agents and therapies such as chemotherapeutics, radiation, and other nutraceuticals.
+ These ongoing clinical trials are expected to provide a deeper understanding of curcumin’s efficacy and mechanism of action against human diseases.Table IIIOngoing Clinical Trials with CurcuminDiseasePts (#)PhaseDose; durationPI (affiliation)StartDuration (month)Cutaneous T cell lymphoma28II8 g/day; 6 monthsMadeleine Duvic; UTMDACC, USAApr 201224NSCLC32I/II4 g/day; 10 weeksZhongxing Liao; UTMDACC, USAMay 201224Multiple myeloma70II1 g/day; 6 monthsa Robert Orlowski; UTMDACC, USAJan 201236Advanced cancer72I0.2 g/day; 28 daysa Siqing Fu; UTMDACC, USAOct 201196Head and neck cancer32I/II4 g/day; 10 weeksDavid Rosenthal; UTMDACC, USAMay 201224Colon cancer35I3.6 g/day; 7 daysa Donald Miller; James Graham Brown, USAJan 201118Colorectal cancer40I4 g/day; 1 monthGary Asher; UNC, USANov 201012Adenomatous polyps50II3 g/day; 1 yearsFrancis Giardiello; JHU, USASep 201060Head and neck cancer1508 g/day; 3–4 weeksCherie-Ann Nathan; LS UHSC, USAJun 201024Cervical dysplasia16I0.5 g/day; 2 weeksLisa Flowers; Emory University, USAJan 201011Colorectal cancer30I5 capsules/day; 2–4 weeksWilliam Steward; UH, Leicester, UKJul 20096Rectal cancer45II8 g/daya Sunil Krishnan; UTMDACC, USAJul 200860Osteosarcoma24I/IIDietaryManish Agarwal; Tata Memorial Hospital, IndiaMay 200860Adenomatous polyps50–4 pills/day; 12 monthsCruz-Correa; University of Puerto RicoNov 200796Colorectal cancer48IIDietaryFrank Meyskens; University of California, USASep 200624Adenomatous polyps56II4 g/day; 4 monthsCarmen Guerra; University of Pennsylvania, USAJul 200550Advanced bowel cancer42I/II–William Steward, University of Leicester, UK201224Joanna Reynolds, Cancer Research, UKRadiation dermatitis508II6 g/day; 4–7 weeksJulie Ryan; University of Rochester, USAJan 201136Radiation dermatitis508II/III6 g/daya Julie Ryan; University of Rochester, USAFeb 201133Radiation dermatitis508II/III3 g/daya Julie Ryan; University of Rochester, USAJan 201136Irritable bowel syndrome40II0.5 g/day; 4 weeksa TimnaNaftali; Meir Medical Center, IsraelApr 20118Ulcerative colitis50III5 g/daya Alon Lang; Sheba Medical Center, IsraelJuly 20119Rheumatoid arthritis4002–4 g/day; 16 weeksDinesh Khanna; University of California, USAJan 201012Osteoarthritis396III1.5 g/day; 28 daysVilaiKuptniratsaikul; MU, ThailandDec 200830Ulcerative colitis30–2 g/day; 2 monthsa Iris Dotan; TASMC, IsraelNov 200812Alzheimer’s disease26II4 g/day or 6 g/dayFaliPoncha; Jaslok Hospital, IndiaOct 20098Cognitive impairment132II0.18 g/day; 18 monthsGary Small; University of California, USAJul 201160LH optic neuropathy70III0.5 g/dayChuenkongkaew; MU, ThailandMay 200531ESRF with renal transplant20ISolutionKaijaSalmela; Helsinki University, FinlandJan 201123Abdominal aortic aneurysm3500III4 g/day; 3 dayAmitGarg; LHRI, CanadaNov 201136Type 2 diabetes200IV1.5 g/day; 12 monthsSomlakChuengsamarn; SU, ThailandAug 20096Type 2 diabetes200IV1.5 g/day; 12 monthsSomlakChuengsamarn; SU, ThailandJul 20096Hyperprolactinoma30I–HalehYazdi; Mashhad University, IranJul 201112Open in a separate window ESRF end-stage renal failure, LH optic neuropathy Leber’s hereditary optic neuropathy, NSCLC non–small cell lung cancer, JHU Johns Hopkins University, LHRI Lawson Health Research Institute, LSUHSC Louisiana State University Health Science Center, MU Mahidol University, SU Srinakharinwirot University, TASMC Tel Aviv Sourasky Medical Center, UH University Hospitals, UNC University of North Carolina, UTMDACC The University of Texas MD Anderson Cancer Center www.clinicaltrials.gov  aGiven in combination with other drugsADVERSE EVENTS ASSOCIATED WITH CURCUMINAlthough curcumin has been shown to exhibit beneficial activities in a plethora of human diseases with minimal toxicities, some investigators have reported undesired adverse effects associated with this polyphenol.
+ Lao et al.
+ (105) conducted a dose-escalation study to determine the maximum tolerable dose and safety of a single oral dose of curcumin in 34 healthy volunteers.
+ The volunteers were given escalating doses of curcumin ranging from 500 to 12,000 mg, and safety was assessed for 72 h after administration.
+ Twenty-four participants completed the trial, seven of whom experienced minimal toxicity that did not appear to be dose-related.
+ More specifically, these seven participants experienced diarrhea, headache, rash, and yellow stool.In another study, curcumin at doses ranging from 0.45 to 3.6 g/day for 1 to 4 months was associated with nausea and diarrhea and caused an increase in serum alkaline phosphatase and lactate dehydrogenase contents in human participants (14).
+ In patients with high-risk or premalignant lesions, doses of curcumin above 8 g/day were unacceptable to patients because of the bulky volume of the tablets (28).
+ In one study of patients with advanced pancreatic cancer, 5 of the 17 patients receiving curcumin (8 g/day) in combination with gemcitabine reported intractable abdominal pain after a few days to 2 weeks of curcumin intake (20).
+ Thus, more studies are required to evaluate the long-term toxicity associated with curcumin before it can be approved for human use.CONCLUSIONSSubsequent to the first seminal paper published in 1949 in Nature, numerous preclinical studies have provided a solid basis for examining curcumin’s efficacy against human diseases.
+ As discussed in this review, curcumin has shown therapeutic potential against a number of human diseases.
+ Common to all of these studies have been the safety, tolerability, and non-toxicity of this polyphenol, even at doses up to 8 g per day.
+ The underlying mechanism for curcumin’s clinical efficacy seems to be modulation of numerous signaling molecules.
+ However, because of the complex nature of the diseases, the underlying mechanism in many cases remains unclear.From the findings of the completed clinical trials, it may seem that curcumin’s clinical efficacy is too good to be true.
+ However, this polyphenol has not yet been approved for human use.
+ Poor bioavailability and limited adverse effects reported by some investigators are a major limitation to the therapeutic utility of curcumin.
+ We hope that the results from ongoing clinical trials will provide a deeper understanding of curcumin’s therapeutic potential and will help to place this fascinating molecule at the fore front of novel therapeutics.AcknowledgmentsWe thank Michael Worley, Tamara K. Locke and the Department of Scientific Publications for carefully editing the manuscript and providing valuable comments.
+ Dr. Aggarwal is the Ransom Horne, Jr., Professor of Cancer Research.FootnotesInvited review for The AAPS Journal Editor-in-Chief: Ho-Leung Fung, Ph.D.References1.
+ Frantz S. Drug discovery: playing dirty.
+ Nature.
+ 2005;437(7061):942–943.
+ doi: 10.1038/437942a.
+ [PubMed] [CrossRef] [Google Scholar]2.
+ Mencher SK, Wang LG.
+ Promiscuous drugs compared to selective drugs (promiscuity can be a virtue) BMC Clin Pharmacol.
+ 2005;5(1):3. doi: 10.1186/1472-6904-5-3.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]3.
+ Vogel A, Pelletier J. Examen chimique de la racine de Curcuma.
+ J Pharm.
+ 1815;1:289–300.
+ [Google Scholar]4.
+ Gupta SC, Patchva S, Koh W, Aggarwal BB.
+ Discovery of curcumin, a component of golden spice, and its miraculous biological activities.
+ Clin Exp Pharmacol Physiol.
+ 2012;39(3):283–299.
+ doi: 10.1111/j.1440-1681.2011.05648.x.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]5.
+ Schraufstatter E, Bernt H. Antibacterial action of curcumin and related compounds.
+ Nature.
+ 1949;164(4167):456. doi: 10.1038/164456a0.
+ [PubMed] [CrossRef] [Google Scholar]6.
+ Aggarwal BB, Sung B. Pharmacological basis for the role of curcumin in chronic diseases: an age-old spice with modern targets.
+ Trends Pharmacol Sci.
+ 2009;30(2):85–94.
+ doi: 10.1016/j.tips.2008.11.002.
+ [PubMed] [CrossRef] [Google Scholar]7.
+ Aggarwal BB, Harikumar KB.
+ Potential therapeutic effects of curcumin, the anti-inflammatory agent, against neurodegenerative, cardiovascular, pulmonary, metabolic, autoimmune and neoplastic diseases.
+ Int J Biochem Cell Biol.
+ 2009;41(1):40–59.
+ doi: 10.1016/j.biocel.2008.06.010.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]8.
+ Gupta SC, Prasad S, Kim JH, Patchva S, Webb LJ, Priyadarsini IK, et al.
+ Multitargeting by curcumin as revealed by molecular interaction studies.
+ Nat Prod Rep. 2011;28(12):1937–1955.
+ doi: 10.1039/c1np00051a.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]9.
+ Loeber CC.
+ De curcuma officinarum.
+ diss Inaug Halae.
+ 1748.10.
+ Oppenheimer A. Turmeric (curcumin) in biliary diseases.
+ Lancet.
+ 1937;229:619–621.
+ doi: 10.1016/S0140-6736(00)98193-5.
+ [CrossRef] [Google Scholar]11.
+ Kanai M, Yoshimura K, Asada M, Imaizumi A, Suzuki C, Matsumoto S, et al.
+ A phase I/II study of gemcitabine-based chemotherapy plus curcumin for patients with gemcitabine-resistant pancreatic cancer.
+ Cancer Chemother Pharmacol.
+ 2011;68(1):157–164.
+ doi: 10.1007/s00280-010-1470-2.
+ [PubMed] [CrossRef] [Google Scholar]12.
+ Dhillon N, Aggarwal BB, Newman RA, Wolff RA, Kunnumakkara AB, Abbruzzese JL, et al.
+ Phase II trial of curcumin in patients with advanced pancreatic cancer.
+ Clin Cancer Res.
+ 2008;14(14):4491–4499.
+ doi: 10.1158/1078-0432.CCR-08-0024.
+ [PubMed] [CrossRef] [Google Scholar]13.
+ Sharma RA, McLelland HR, Hill KA, Ireson CR, Euden SA, Manson MM, et al.
+ Pharmacodynamic and pharmacokinetic study of oral Curcuma extract in patients with colorectal cancer.
+ Clin Cancer Res.
+ 2001;7(7):1894–1900.
+ [PubMed] [Google Scholar]14.
+ Sharma RA, Euden SA, Platton SL, Cooke DN, Shafayat A, Hewitt HR, et al.
+ Phase I clinical trial of oral curcumin: biomarkers of systemic activity and compliance.
+ Clin Cancer Res.
+ 2004;10(20):6847–6854.
+ doi: 10.1158/1078-0432.CCR-04-0744.
+ [PubMed] [CrossRef] [Google Scholar]15.
+ Garcea G, Berry DP, Jones DJ, Singh R, Dennison AR, Farmer PB, et al.
+ Consumption of the putative chemopreventive agent curcumin by cancer patients: assessment of curcumin levels in the colorectum and their pharmacodynamic consequences.
+ Cancer Epidemiol Biomarkers Prev.
+ 2005;14(1):120–125.
+ [PubMed] [Google Scholar]16.
+ Cruz-Correa M, Shoskes DA, Sanchez P, Zhao R, Hylind LM, Wexner SD, et al.
+ Combination treatment with curcumin and quercetin of adenomas in familial adenomatous polyposis.
+ Clin Gastroenterol Hepatol.
+ 2006;4(8):1035–1038.
+ doi: 10.1016/j.cgh.2006.03.020.
+ [PubMed] [CrossRef] [Google Scholar]17.
+ Carroll RE, Benya RV, Turgeon DK, Vareed S, Neuman M, Rodriguez L, et al.
+ Phase IIa clinical trial of curcumin for the prevention of colorectal neoplasia.
+ Cancer Prev Res (Phila) 2011;4(3):354–364.
+ doi: 10.1158/1940-6207.CAPR-10-0098.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]18.
+ He ZY, Shi CB, Wen H, Li FL, Wang BL, Wang J. Upregulation of p53 expression in patients with colorectal cancer by administration of curcumin.
+ Cancer Investig.
+ 2011;29(3):208–213.
+ doi: 10.3109/07357907.2010.550592.
+ [PubMed] [CrossRef] [Google Scholar]19.
+ Durgaprasad S, Pai CG, Vasanthkumar, Alvres JF, Namitha S. A pilot study of the antioxidant effect of curcumin in tropical pancreatitis.
+ Indian J Med Res.
+ 2005;122(4):315–318.
+ [PubMed] [Google Scholar]20.
+ Epelbaum R, Schaffer M, Vizel B, Badmaev V, Bar-Sela G. Curcumin and gemcitabine in patients with advanced pancreatic cancer.
+ Nutr Cancer.
+ 2010;62(8):1137–1141.
+ doi: 10.1080/01635581.2010.513802.
+ [PubMed] [CrossRef] [Google Scholar]21.
+ Bayet-Robert M, Kwiatkowski F, Leheurteur M, Gachon F, Planchat E, Abrial C, et al.
+ Phase I dose escalation trial of docetaxel plus curcumin in patients with advanced and metastatic breast cancer.
+ Cancer Biol Ther.
+ 2010;9(1):8–14.
+ doi: 10.4161/cbt.9.1.10392.
+ [PubMed] [CrossRef] [Google Scholar]22.
+ Ide H, Tokiwa S, Sakamaki K, Nishio K, Isotani S, Muto S, et al.
+ Combined inhibitory effects of soy isoflavones and curcumin on the production of prostate-specific antigen.
+ Prostate.
+ 2010;70(10):1127–1133.
+ doi: 10.1002/pros.21147.
+ [PubMed] [CrossRef] [Google Scholar]23.
+ Golombick T, Diamond TH, Badmaev V, Manoharan A, Ramakrishna R. The potential role of curcumin in patients with monoclonal gammopathy of undefined significance–its effect on paraproteinemia and the urinary N-telopeptide of type I collagen bone turnover marker.
+ Clin Cancer Res.
+ 2009;15(18):5917–5922.
+ doi: 10.1158/1078-0432.CCR-08-2217.
+ [PubMed] [CrossRef] [Google Scholar]24.
+ Vadhan-Raj S, Weber D, Wang M, Giralt S, Alexanian R, Thomas S, et al.
+ Curcumin downregulates NF-КB and related genes in patients with multiple myeloma: results of a phase 1/2 study.
+ Blood.
+ 2007;110(11):357a.
+ [Google Scholar]25.
+ Polasa K, Raghuram TC, Krishna TP, Krishnaswamy K. Effect of turmeric on urinary mutagens in smokers.
+ Mutagenesis.
+ 1992;7(2):107–109.
+ doi: 10.1093/mutage/7.2.107.
+ [PubMed] [CrossRef] [Google Scholar]26.
+ Kuttan R, Sudheeran PC, Josph CD.
+ Turmeric and curcumin as topical agents in cancer therapy.
+ Tumori.
+ 1987;73(1):29–31.
+ [PubMed] [Google Scholar]27.
+ Hastak K, Lubri N, Jakhi SD, More C, John A, Ghaisas SD, et al.
+ Effect of turmeric oil and turmeric oleoresin on cytogenetic damage in patients suffering from oral submucous fibrosis.
+ Cancer Lett.
+ 1997;116(2):265–269.
+ doi: 10.1016/S0304-3835(97)00205-X.
+ [PubMed] [CrossRef] [Google Scholar]28.
+ Cheng AL, Hsu CH, Lin JK, Hsu MM, Ho YF, Shen TS, et al.
+ Phase I clinical trial of curcumin, a chemopreventive agent, in patients with high-risk or pre-malignant lesions.
+ Anticancer Res.
+ 2001;21(4B):2895–2900.
+ [PubMed] [Google Scholar]29.
+ Chainani-Wu N, Silverman S, Jr, Reingold A, Bostrom A, Mc Culloch C, Lozada-Nur F, et al.
+ A randomized, placebo-controlled, double-blind clinical trial of curcuminoids in oral lichen planus.
+ Phytomedicine.
+ 2007;14(7–8):437–446.
+ doi: 10.1016/j.phymed.2007.05.003.
+ [PubMed] [CrossRef] [Google Scholar]30.
+ Rai B, Kaur J, Jacobs R, Singh J.
+ J Oral Sci.
+ 2010;52(2):251–256.
+ doi: 10.2334/josnusd.52.251.
+ [PubMed] [CrossRef] [Google Scholar]31.
+ Kim SG, Veena MS, Basak SK, Han E, Tajima T, Gjertson DW, et al.
+ Clin Cancer Res.
+ 2011;17(18):5953–5961.
+ doi: 10.1158/1078-0432.CCR-11-1272.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]32.
+ Holt PR, Katz S, Kirshoff R. Curcumin therapy in inflammatory bowel disease: a pilot study.
+ Dig Dis Sci.
+ 2005;50(11):2191–2193.
+ doi: 10.1007/s10620-005-3032-8.
+ [PubMed] [CrossRef] [Google Scholar]33.
+ Hanai H, Iida T, Takeuchi K, Watanabe F, Maruyama Y, Andoh A, et al.
+ Curcumin maintenance therapy for ulcerative colitis: randomized, multicenter, double-blind, placebo-controlled trial.
+ Clin Gastroenterol Hepatol.
+ 2006;4(12):1502–1506.
+ doi: 10.1016/j.cgh.2006.08.008.
+ [PubMed] [CrossRef] [Google Scholar]34.
+ Lahiff C, Moss AC.
+ Curcumin for clinical and endoscopic remission in ulcerative colitis.
+ Inflamm Bowel Dis.
+ 2011;17(7):E66.
+ doi: 10.1002/ibd.21710.
+ [PubMed] [CrossRef] [Google Scholar]35.
+ Epstein J, Docena G, MacDonald TT, Sanderson IR.
+ Curcumin suppresses p38 mitogen-activated protein kinase activation, reduces IL-1beta and matrix metalloproteinase-3 and enhances IL-10 in the mucosa of children and adults with inflammatory bowel disease.
+ Br J Nutr.
+ 2010;103(6):824–832.
+ doi: 10.1017/S0007114509992510.
+ [PubMed] [CrossRef] [Google Scholar]36.
+ Bundy R, Walker AF, Middleton RW, Booth J. Turmeric extract may improve irritable bowel syndrome symptomology in otherwise healthy adults: a pilot study.
+ J Altern Complement Med.
+ 2004;10(6):1015–1018.
+ doi: 10.1089/acm.2004.10.1015.
+ [PubMed] [CrossRef] [Google Scholar]37.
+ Shimouchi A, Nose K, Takaoka M, Hayashi H, Kondo T. Effect of dietary turmeric on breath hydrogen.
+ Dig Dis Sci.
+ 2009;54(8):1725–1729.
+ doi: 10.1007/s10620-008-0550-1.
+ [PubMed] [CrossRef] [Google Scholar]38.
+ Deodhar SD, Sethi R, Srimal RC.
+ Preliminary study on antirheumatic activity of curcumin (diferuloyl methane) Indian J Med Res.
+ 1980;71:632–634.
+ [PubMed] [Google Scholar]39.
+ Chandran B, Goel A.
+ A randomized, pilot study to assess the efficacy and safety of curcumin in patients with active rheumatoid arthritis.
+ Phytother Res.
+ 2012;26(11):1719–25.
+ doi:10.1002/ptr.4639.
+ [PubMed]40.
+ Belcaro G, Cesarone MR, Dugall M, Pellegrini L, Ledda A, Grossi MG, et al.
+ Product-evaluation registry of Meriva(R), a curcumin-phosphatidylcholine complex, for the complementary management of osteoarthritis.
+ Panminerva Med.
+ 2010;52(2 Suppl 1):55–62.
+ [PubMed] [Google Scholar]41.
+ Belcaro G, Cesarone MR, Dugall M, Pellegrini L, Ledda A, Grossi MG, et al.
+ Efficacy and safety of Meriva(R), a curcumin-phosphatidylcholine complex, during extended administration in osteoarthritis patients.
+ Altern Med Rev.
+ 2010;15(4):337–344.
+ [PubMed] [Google Scholar]42.
+ Lal B, Kapoor AK, Asthana OP, Agrawal PK, Prasad R, Kumar P, et al.
+ Efficacy of curcumin in the management of chronic anterior uveitis.
+ Phytother Res.
+ 1999;13(4):318–322.
+ doi: 10.1002/(SICI)1099-1573(199906)13:4 3.0.CO;2-7.
+ [PubMed] [CrossRef] [Google Scholar]43.
+ Allegri P, Mastromarino A, Neri P. Management of chronic anterior uveitis relapses: efficacy of oral phospholipidic curcumin treatment.
+ Long-term follow-up.
+ Clin Ophthalmol.
+ 2010;4:1201–1206.
+ [PMC free article] [PubMed] [Google Scholar]44.
+ Satoskar RR, Shah SJ, Shenoy SG.
+ Evaluation of anti-inflammatory property of curcumin (diferuloyl methane) in patients with postoperative inflammation.
+ Int J Clin Pharmacol Ther Toxicol.
+ 1986;24(12):651–654.
+ [PubMed] [Google Scholar]45.
+ Kositchaiwat C, Kositchaiwat S, Havanondha J. Curcuma longa Linn.
+ in the treatment of gastric ulcer comparison to liquid antacid: a controlled clinical trial.
+ J Med Assoc Thail.
+ 1993;76(11):601–605.
+ [PubMed] [Google Scholar]46.
+ Prucksunand C, Indrasukhsri B, Leethochawalit M, Hungspreugs K. Phase II clinical trial on effect of the long turmeric (Curcuma longa Linn) on healing of peptic ulcer.
+ Southeast Asian J Trop Med Public Health.
+ 2001;32(1):208–215.
+ [PubMed] [Google Scholar]47.
+ Di Mario F, Cavallaro LG, Nouvenne A, Stefani N, Cavestro GM, Iori V, et al.
+ A curcumin-based 1-week triple therapy for eradication of Helicobacter pylori infection: something to learn from failure?
+ Helicobacter.
+ 2007;12(3):238–243.
+ doi: 10.1111/j.1523-5378.2007.00497.x.
+ [PubMed] [CrossRef] [Google Scholar]48.
+ Koosirirat C, Linpisarn S, Changsom D, Chawansuntati K, Wipasa J.
+ Investigation of the anti-inflammatory effect of Curcuma longa in Helicobacter pylori-infected patients.
+ Int Immunopharmacol.
+ 2010;10(7):815–818.
+ doi: 10.1016/j.intimp.2010.04.021.
+ [PubMed] [CrossRef] [Google Scholar]49.
+ Lal B, Kapoor AK, Agrawal PK, Asthana OP, Srimal RC.
+ Role of curcumin in idiopathic inflammatory orbital pseudotumours.
+ Phytother Res.
+ 2000;14(6):443–447.
+ doi: 10.1002/1099-1573(200009)14:6 3.0.CO;2-V. [PubMed] [CrossRef] [Google Scholar]50.
+ Asawanonda P, Klahan SO.
+ Tetrahydrocurcuminoid cream plus targeted narrowband UVB phototherapy for vitiligo: a preliminary randomized controlled study.
+ Photomed Laser Surg.
+ 2010;28(5):679–684.
+ doi: 10.1089/pho.2009.2637.
+ [PubMed] [CrossRef] [Google Scholar]51.
+ Heng MC, Song MK, Harker J, Heng MK.
+ Drug-induced suppression of phosphorylase kinase activity correlates with resolution of psoriasis as assessed by clinical, histological and immunohistochemical parameters.
+ Br J Dermatol.
+ 2000;143(5):937–949.
+ doi: 10.1046/j.1365-2133.2000.03767.x.
+ [PubMed] [CrossRef] [Google Scholar]52.
+ Kurd SK, Smith N, VanVoorhees A, Troxel AB, Badmaev V, Seykora JT, et al.
+ Oral curcumin in the treatment of moderate to severe psoriasis vulgaris: a prospective clinical trial.
+ J Am Acad Dermatol.
+ 2008;58(4):625–631.
+ doi: 10.1016/j.jaad.2007.12.035.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]53.
+ Burns J, Joseph PD, Rose KJ, Ryan MM, Ouvrier RA.
+ Effect of oral curcumin on Dejerine-Sottas disease.
+ Pediatr Neurol.
+ 2009;41(4):305–308.
+ doi: 10.1016/j.pediatrneurol.2009.04.030.
+ [PubMed] [CrossRef] [Google Scholar]54.
+ Ringman JM, Frautschy SA, Cole GM, Masterman DL, Cummings JL.
+ A potential role of the curry spice curcumin in Alzheimer’s disease.
+ Curr Alzheimer Res.
+ 2005;2(2):131–136.
+ doi: 10.2174/1567205053585882.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]55.
+ Baum L, Lam CW, Cheung SK, Kwok T, Lui V, Tsoh J, et al.
+ Six-month randomized, placebo-controlled, double-blind, pilot clinical trial of curcumin in patients with Alzheimer disease.
+ J Clin Psychopharmacol.
+ 2008;28(1):110–113.
+ doi: 10.1097/jcp.0b013e318160862c.
+ [PubMed] [CrossRef] [Google Scholar]56.
+ Alwi I, Santoso T, Suyono S, Sutrisna B, Suyatna FD, Kresno SB, et al.
+ The effect of curcumin on lipid level in patients with acute coronary syndrome.
+ Acta Med Indones.
+ 2008;40(4):201–210.
+ [PubMed] [Google Scholar]57.
+ Soni KB, Kuttan R. Effect of oral curcumin administration on serum peroxides and cholesterol levels in human volunteers.
+ Indian J Physiol Pharmacol.
+ 1992;36(4):273–275.
+ [PubMed] [Google Scholar]58.
+ Srinivasan M. Effect of curcumin on blood sugar as seen in a diabetic subject.
+ Indian J Med Sci.
+ 1972;26(4):269–270.
+ [PubMed] [Google Scholar]59.
+ Usharani P, Mateen AA, Naidu MU, Raju YS, Chandra N. Effect of NCB-02, atorvastatin and placebo on endothelial function, oxidative stress and inflammatory markers in patients with type 2 diabetes mellitus: a randomized, parallel-group, placebo-controlled, 8-week study.
+ Drugs R D. 2008;9(4):243–250.
+ doi: 10.2165/00126839-200809040-00004.
+ [PubMed] [CrossRef] [Google Scholar]60.
+ Wickenberg J, Ingemansson SL, Hlebowicz J.
+ Effects of Curcuma longa (turmeric) on postprandial plasma glucose and insulin in healthy subjects.
+ Nutr J.
+ 2010;9:43. doi: 10.1186/1475-2891-9-43.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]61.
+ Chuengsamarn S, Rattanamongkolgul S, Luechapudiporn R, Phisalaphong C, Jirawatnotai S. Curcumin extract for prevention of type 2 diabetes.
+ Diabetes Care.
+ 2012;35(11):2121–7.
+ doi:10.2337/dc12-0116.
+ [PMC free article] [PubMed]62.
+ Khajehdehi P, Pakfetrat M, Javidnia K, Azad F, Malekmakan L, Nasab MH, et al.
+ Oral supplementation of turmeric attenuates proteinuria, transforming growth factor-beta and interleukin-8 levels in patients with overt type 2 diabetic nephropathy: a randomized, double-blind and placebo-controlled study.
+ Scand J Urol Nephrol.
+ 2011;45(5):365–370.
+ doi: 10.3109/00365599.2011.585622.
+ [PubMed] [CrossRef] [Google Scholar]63.
+ Appendino G, Belcaro G, Cornelli U, Luzzi R, Togni S, Dugall M, et al.
+ Potential role of curcumin phytosome (Meriva) in controlling the evolution of diabetic microangiopathy.
+ A pilot study.
+ Panminerva Med.
+ 2011;53(3 Suppl 1):43–49.
+ [PubMed] [Google Scholar]64.
+ Khajehdehi P, Zanjaninejad B, Aflaki E, Nazarinia M, Azad F, Malekmakan L, et al.
+ Oral supplementation of turmeric decreases proteinuria, hematuria, and systolic blood pressure in patients suffering from relapsing or refractory lupus nephritis: a randomized and placebo-controlled study.
+ J Ren Nutr.
+ 2012;22(1):50–57.
+ doi: 10.1053/j.jrn.2011.03.002.
+ [PubMed] [CrossRef] [Google Scholar]65.
+ Shoskes D, Lapierre C, Cruz-Correa M, Muruve N, Rosario R, Fromkin B, et al.
+ Beneficial effects of the bioflavonoids curcumin and quercetin on early function in cadaveric renal transplantation: a randomized placebo controlled trial.
+ Transplantation.
+ 2005;80(11):1556–1559.
+ doi: 10.1097/01.tp.0000183290.64309.21.
+ [PubMed] [CrossRef] [Google Scholar]66.
+ James JS.
+ Curcumin: clinical trial finds no antiviral effect.
+ AIDS Treat News.
+ 1996;(no 242):1–2.
+ [PubMed]67.
+ Kalpravidh RW, Siritanaratkul N, Insain P, Charoensakdi R, Panichkul N, Hatairaktham S, et al.
+ Improvement in oxidative stress and antioxidant parameters in beta-thalassemia/Hb E patients treated with curcuminoids.
+ Clin Biochem.
+ 2010;43(4–5):424–429.
+ doi: 10.1016/j.clinbiochem.2009.10.057.
+ [PubMed] [CrossRef] [Google Scholar]68.
+ Niederau C, Gopfert E. The effect of chelidonium- and turmeric root extract on upper abdominal pain due to functional disorders of the biliary system.
+ Results from a placebo-controlled double-blind study.
+ Med Klin (Munich) 1999;94(8):425–430.
+ doi: 10.1007/BF03044726.
+ [PubMed] [CrossRef] [Google Scholar]69.
+ Rasyid A, Lelo A.
+ The effect of curcumin and placebo on human gall-bladder function: an ultrasound study.
+ Aliment Pharmacol Ther.
+ 1999;13(2):245–249.
+ doi: 10.1046/j.1365-2036.1999.00464.x.
+ [PubMed] [CrossRef] [Google Scholar]70.
+ Zuccotti GV, Trabattoni D, Morelli M, Borgonovo S, Schneider L, Clerici M. Immune modulation by lactoferrin and curcumin in children with recurrent respiratory infections.
+ J Biol Regul Homeost Agents.
+ 2009;23(2):119–123.
+ [PubMed] [Google Scholar]71.
+ Prevention of hepatotoxicity due to anti tuberculosis treatment: a novel integrative approach.
+ World J Gastroenterol.
+ 2008;14(30):4753–4762.
+ doi: 10.3748/wjg.14.4753.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]72.
+ Biswas J, Sinha D, Mukherjee S, Roy S, Siddiqi M, Roy M. Curcumin protects DNA damage in a chronically arsenic-exposed population of West Bengal.
+ Hum Exp Toxicol.
+ 2010;29(6):513–524.
+ doi: 10.1177/0960327109359020.
+ [PubMed] [CrossRef] [Google Scholar]73.
+ Sasaki H, Sunagawa Y, Takahashi K, Imaizumi A, Fukuda H, Hashimoto T, et al.
+ Innovative preparation of curcumin for improved oral bioavailability.
+ Biol Pharm Bull.
+ 2011;34(5):660–665.
+ doi: 10.1248/bpb.34.660.
+ [PubMed] [CrossRef] [Google Scholar]74.
+ Cai T, Mazzoli S, Bechi A, Addonisio P, Mondaini N, Pagliai RC, et al.
+ Serenoa repens associated with urtica dioica (ProstaMEV) and curcumin and quercitin (FlogMEV) extracts are able to improve the efficacy of prulifloxacin in bacterial prostatitis patients: results from a prospective randomised study.
+ Int J Antimicrob Agents.
+ 2009;33(6):549–553.
+ doi: 10.1016/j.ijantimicag.2008.11.012.
+ [PubMed] [CrossRef] [Google Scholar]75.
+ Anand P, Kunnumakkara AB, Newman RA, Aggarwal BB.
+ Bioavailability of curcumin: problems and promises.
+ Mol Pharm.
+ 2007;4(6):807–818.
+ doi: 10.1021/mp700113r.
+ [PubMed] [CrossRef] [Google Scholar]76.
+ Shoba G, Joy D, Joseph T, Majeed M, Rajendran R, Srinivas PS.
+ Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers.
+ Planta Med.
+ 1998;64(4):353–356.
+ doi: 10.1055/s-2006-957450.
+ [PubMed] [CrossRef] [Google Scholar]77.
+ Gota VS, Maru GB, Soni TG, Gandhi TR, Kochar N, Agarwal MG. Safety and pharmacokinetics of a solid lipid curcumin particle formulation in osteosarcoma patients and healthy volunteers.
+ J Agric Food Chem.
+ 2010;58(4):2095–2099.
+ doi: 10.1021/jf9024807.
+ [PubMed] [CrossRef] [Google Scholar]78.
+ Cuomo J, Appendino G, Dern AS, Schneider E, McKinnon TP, Brown MJ, et al.
+ Comparative absorption of a standardized curcuminoid mixture and its lecithin formulation.
+ J Nat Prod.
+ 2011;74(4):664–669.
+ doi: 10.1021/np1007262.
+ [PubMed] [CrossRef] [Google Scholar]79.
+ Antony B, Merina B, Iyer VS, Judy N, Lennertz K, Joyal S. A pilot cross-over study to evaluate human oral bioavailability of BCM-95CG (Biocurcumax), a novel bioenhanced preparation of curcumin.
+ Indian J Pharm Sci.
+ 2008;70(4):445–449.
+ doi: 10.4103/0250-474X.44591.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]80.
+ Disilvestro RA, Joseph E, Zhao S, Joshua B.
+ Diverse effects of a low dose supplement of lipidated curcumin in healthy middle aged people.
+ Nutr J.
+ 2012;11(1):79. doi: 10.1186/1475-2891-11-79.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]81.
+ Goel A, Jhurani S, Aggarwal BB.
+ Multi-targeted therapy by curcumin: how spicy is it?
+ Mol Nutr Food Res.
+ 2008;52(9):1010–1030.
+ doi: 10.1002/mnfr.200700354.
+ [PubMed] [CrossRef] [Google Scholar]82.
+ Gupta SC, Kim JH, Prasad S, Aggarwal BB.
+ Regulation of survival, proliferation, invasion, angiogenesis, and metastasis of tumor cells through modulation of inflammatory pathways by nutraceuticals.
+ Cancer Metastasis Rev.
+ 2010;29(3):405–434.
+ doi: 10.1007/s10555-010-9235-2.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]83.
+ Hariharan D, Saied A, Kocher HM.
+ Analysis of mortality rates for pancreatic cancer across the world.
+ HPB (Oxford) 2008;10(1):58–62.
+ doi: 10.1080/13651820701883148.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]84.
+ Kyle RA, Rajkumar SV.
+ Monoclonal gammopathy of undetermined significance.
+ Clin Lymphoma Myeloma.
+ 2005;6(2):102–114.
+ doi: 10.3816/CLM.2005.n.036.
+ [PubMed] [CrossRef] [Google Scholar]85.
+ Scully C, Beyli M, Ferreiro MC, Ficarra G, Gill Y, Griffiths M, et al.
+ Update on oral lichen planus: etiopathogenesis and management.
+ Crit Rev Oral Biol Med.
+ 1998;9(1):86–122.
+ doi: 10.1177/10454411980090010501.
+ [PubMed] [CrossRef] [Google Scholar]86.
+ Aggarwal BB, Vijayalekshmi RV, Sung B.
+ Targeting inflammatory pathways for prevention and therapy of cancer: short-term friend, long-term foe.
+ Clin Cancer Res.
+ 2009;15(2):425–430.
+ doi: 10.1158/1078-0432.CCR-08-0149.
+ [PubMed] [CrossRef] [Google Scholar]87.
+ Megraud F, Brassens-Rabbe MP, Denis F, Belbouri A, Hoa DQ.
+ J Clin Microbiol.
+ 1989;27(8):1870–1873.
+ [PMC free article] [PubMed] [Google Scholar]88.
+ Birch-Hirschfeld A. Zur diagnostic and pathologic der orbital tumoren.
+ Ber Dtsch Opthalmol Ges.
+ 1905;32:127–135.
+ [Google Scholar]89.
+ Orcutt JC, Garner A, Henk JM, Wright JE.
+ Treatment of idiopathic inflammatory orbital pseudotumours by radiotherapy.
+ Br J Ophthalmol.
+ 1983;67(9):570–574.
+ doi: 10.1136/bjo.67.9.570.
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]90.
+ Schallreuter KU, Wood JM, Pittelkow MR, Buttner G, Swanson N, Korner C, et al.
+ Increased monoamine oxidase A activity in the epidermis of patients with vitiligo.
+ Arch Dermatol Res.
+ 1996;288(1):14–18.
+ doi: 10.1007/BF02505037.
+ [PubMed] [CrossRef] [Google Scholar]91.
+ Arca E, Tastan HB, Erbil AH, Sezer E, Koc E, Kurumlu Z. Narrow-band ultraviolet B as monotherapy and in combination with topical calcipotriol in the treatment of vitiligo.
+ J Dermatol.
+ 2006;33(5):338–343.
+ doi: 10.1111/j.1346-8138.2006.00079.x.
+ [PubMed] [CrossRef] [Google Scholar]92.
+ Gelfand JM, Neimann AL, Shin DB, Wang X, Margolis DJ, Troxel AB.
+ Risk of myocardial infarction in patients with psoriasis.
+ JAMA.
+ 2006;296(14):1735–1741.
+ doi: 10.1001/jama.296.14.1735.
+ [PubMed] [CrossRef] [Google Scholar]93.
+ Reddy S, Aggarwal BB.
+ Curcumin is a non-competitive and selective inhibitor of phosphorylase kinase.
+ FEBS Lett.
+ 1994;341(1):19–22.
+ doi: 10.1016/0014-5793(94)80232-7.
+ [PubMed] [CrossRef] [Google Scholar]94.
+ Mattson MP, Rydel RE.
+ Alzheimer’s disease.
+ Amyloid ox-tox transducers.
+ Nature.
+ 1996;382(6593):674–675.
+ doi: 10.1038/382674a0.
+ [PubMed] [CrossRef] [Google Scholar]95.
+ Goyal A, Petersen JL, Mahaffey KW.
+ The evaluation and management of dyslipidemia and impaired glucose metabolism during acute coronary syndromes.
+ Curr Cardiol Rep. 2004;6(4):300–307.
+ doi: 10.1007/s11886-004-0080-1.
+ [PubMed] [CrossRef] [Google Scholar]96.
+ Ross R. Atherosclerosis–an inflammatory disease.
+ N Engl J Med.
+ 1999;340(2):115–126.
+ doi: 10.1056/NEJM199901143400207.
+ [PubMed] [CrossRef] [Google Scholar]97.
+ Sathyapalan T, Atkin SL.
+ Is there a role for immune and anti-in-flammatory therapy in type 2 diabetes?
+ Minerva Endocrinol.
+ 2011;36(2):147–156.
+ [PubMed] [Google Scholar]98.
+ Camera A, Hopps E, Caimi G. Diabetic microangiopathy: physiopathological, clinical and therapeutic aspects.
+ Minerva Endocrinol.
+ 2007;32(3):209–229.
+ [PubMed] [Google Scholar]99.
+ Shoskes DA, Shahed AR, Kim S. Delayed graft function.
+ Influence on outcome and strategies for prevention.
+ Urol Clin N Am.
+ 2001;28(4):721–732.
+ doi: 10.1016/S0094-0143(01)80028-8.
+ [PubMed] [CrossRef] [Google Scholar]100.
+ Fibach E, Rachmilewitz E. The role of oxidative stress in hemolytic anemia.
+ Curr Mol Med.
+ 2008;8(7):609–619.
+ doi: 10.2174/156652408786241384.
+ [PubMed] [CrossRef] [Google Scholar]101.
+ Marzio L. Factors affecting gallbladder motility: drugs.
+ Dig Liver Dis.
+ 2003;35(Suppl 3):S17–S19.
+ doi: 10.1016/S1590-8658(03)00088-4.
+ [PubMed] [CrossRef] [Google Scholar]102.
+ Wagenlehner FM, Diemer T, Naber KG, Weidner W. Chronic bacterial prostatitis (NIH type II): diagnosis, therapy and influence on the fertility status.
+ Andrologia.
+ 2008;40(2):100–104.
+ doi: 10.1111/j.1439-0272.2007.00827.x.
+ [PubMed] [CrossRef] [Google Scholar]103.
+ Nickel JC, Xiang J.
+ Clinical significance of nontraditional bacterial uropathogens in the management of chronic prostatitis.
+ J Urol.
+ 2008;179(4):1391–1395.
+ doi: 10.1016/j.juro.2007.11.081.
+ [PubMed] [CrossRef] [Google Scholar]104.
+ Rodwell C. Curcumin curries favour?
+ Nat Rev Cancer.
+ 2012;12(6):376. doi: 10.1038/nrc3288.
+ [CrossRef] [Google Scholar]105.
+ Lao CD, Ruffin MT, Normolle D, Heath DD, Murray SI, Bailey JM, et al.
+ Dose escalation of a curcuminoid formulation.
+ BMC Complement Altern Med.
+ 2006;6:10. doi: 10.1186/1472-6882-6-10.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

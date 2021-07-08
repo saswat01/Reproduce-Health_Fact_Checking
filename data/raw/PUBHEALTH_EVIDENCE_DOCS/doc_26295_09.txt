@@ -1,0 +1,67 @@
+Menu     Close             Home   COVID-19   Arts + Culture   Business + Economy   Cities   Education   Environment + Energy   Health + Medicine   Politics + Society   Science + Technology     Edition        Africa          Australia          Canada          Canada (français)          España          France          Global Perspectives          Indonesia          New Zealand          United Kingdom          United States                      Edition:    Available editions   United Kingdom      Africa   Australia   Canada   Canada (français)   España   France   Global Perspectives   Indonesia   New Zealand   United States       Donate      Get newsletter         Become an author   Sign up as a reader   Sign in                Search            Academic rigour, journalistic flair       COVID-19   Arts + Culture   Business + Economy   Cities   Education   Environment + Energy   Health + Medicine   Politics + Society   Science + Technology                 Evidence is growing that when masks are worn by nearly everyone, it can slow coronavirus transmission.
+ AP Photo/Rick Bowmer             Masks help stop the spread of coronavirus – the science is simple and I’m one of 100 experts urging governors to require public mask-wearing     May 14, 2020 1.03pm BST            Jeremy Howard, University of San Francisco    Author        Jeremy Howard        Distinguished Research Scientist, University of San Francisco        Disclosure statement Jeremy Howard does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.
+ Partners The Conversation UK receives funding from these organisations View the full list          Email    Twitter    Facebook    LinkedIn    WhatsApp    Messenger      I’m a data scientist at the University of San Francisco and teach courses online in machine learning for fast.ai.
+ In late March, I decided to use public mask-wearing as a case study to show my students how to combine and analyze diverse types of data and evidence.
+ Much to my surprise, I discovered that the evidence for wearing masks in public was very strong.
+ It appeared that universal mask-wearing could be one of the most important tools in tackling the spread of COVID-19.
+ Yet the people around me weren’t wearing masks and health organizations in the U.S. weren’t recommending their use.
+ We published a preprint of our paper on April 12 and it is now awaiting peer review at the Proceedings of the National Academy of Sciences.
+ Since then, there have been many more reviews that support mask-wearing.
+ On May 14, I and 100 of the world’s top academics released an open letter to all U.S. governors asking that “officials require cloth masks to be worn in all public places, such as stores, transportation systems, and public buildings.”  Currently, the U.S. Centers for Disease Control and Prevention recommends that everyone wears a mask – as do the governments covering 90% of the world’s population – but, so far, only 12 states in the U.S. require it.
+ In the majority of the remaining states, the CDC recommendation has not been enough: Most people do not currently wear masks.
+ However, things are changing fast.
+ Every week more and more jurisdictions require mask use in public.
+ As I write this, there are now 94 countries that have made this move.
+ So what is this evidence that has led myself and so many scientists to believe so strongly in masks?
+ Droplets ejected from people’s mouths during coughing or talking are likely the most significant source of SARS-CoV-2 transmission.
+ Thomas Jackson/Stone via Getty Images   The evidence The research that first convinced me was a laser light-scattering experiment.
+ Researchers from the National Institutes of Health used lasers to illuminate and count how many droplets of saliva were flung into the air by a person talking with and without a face mask.
+ The paper was only recently published officially, but I saw a YouTube video showing the experiment in early March.
+ The results are shockingly obvious in the video.
+ When the researcher used a simple cloth face cover, nearly all the droplets were blocked.
+ This evidence is only relevant if COVID-19 is transmitted by droplets from a person’s mouth.
+ It is.
+ There are many documented super-spreading cases connected with activities – like singing in enclosed spaces – that create a lot of droplets.
+ The light-scattering experiment cannot see “micro-droplets” that are smaller than 5 microns and could contain some viral particles.
+ But experts don’t think that these are responsible for much COVID-19 transmission.
+ While just how much of a role these small particles play in transmission remains to be seen, recent research suggests that cloth masks are also effective at reducing the spread of these smaller particles.
+ In a paper that has not yet been peer-reviewed, researchers found that micro-droplets fell out of the air within 1.5 meters of the person who was wearing a mask, versus 5 meters for those not wearing masks.
+ When combined with social distancing, this suggests that masks can effectively reduce transmission via micro-droplets.
+ Another recent study showed that unfitted surgical masks were 100% effective in blocking seasonal coronavirus in droplets ejected during breathing.
+ If only people with symptoms infected others, then only people with symptoms would need to wear masks.
+ But experts have shown that people without symptoms pose a risk of infecting others.
+ In fact, four recent studies show that nearly half of patients are infected by people who do not themselves have symptoms.
+ This evidence seems, to me, clear and simple: COVID-19 is spread by droplets.
+ We can see directly that a piece of cloth blocks those droplets and the virus those droplets contain.
+ People without symptoms who don’t even know they are sick are responsible for around half of the transmission of the virus.
+ We should all wear masks.
+ Asking the wrong questions led to a misunderstanding of the medical literature around masks.
+ AP Photo/Eric Gay   Against the tide After going through all of this strong evidence in late March and early April, I wondered why mask-wearing was controversial amongst health organizations in the Western world.
+ The U.S. and European CDCs did not recommend masks, and neither did nearly any western government except for Slovakia and Czechia, which both required masks in late March.
+ I think there were three key problems.
+ The first was that most researchers were looking at the wrong question – how well a mask protects the wearer from infection and not how well a mask prevents an infected person from spreading the virus.
+ Masks function very differently as personal protective equipment (PPE) versus source control.
+ Masks are very good at blocking larger droplets and not nearly as good at blocking tiny particles.
+ When a person expels droplets into the air, they quickly evaporate and shrink to become tiny airborne particles called droplet nuclei.
+ These are extremely hard to remove from the air.
+ However, in the moist atmosphere between a person’s mouth and their mask, it takes nearly a hundred times as long for a droplet to evaporate and shrink into a droplet nuclei.
+ This means that nearly any kind of simple cloth mask is great for source control.
+ The mask creates humidity, this humidity prevents virus-containing droplets from turning into droplet nuclei, and this allows the fabric of the mask to block the droplets.
+ Unfortunately, nearly all of the research that was available at the start of this pandemic focused on mask efficacy as PPE.
+ This measure is very important for protecting health care workers, but does not capture their value as source control.
+ On Feb. 29, the U.S. surgeon general tweeted that masks “are NOT effective in preventing general public from catching #Coronavirus.” This missed the key point: They are extremely effective at preventing its spread, as our review of the literature showed.
+ The second problem was that most medical researchers are used to judging interventions on the basis of randomized controlled trials.
+ These are the foundation of evidence based medicine.
+ However, it is impossible and unethical to test mask-wearing, hand-washing or social distancing during a pandemic.
+ Experts like Trisha Greenhalgh, the author of the best-selling textbook “How to Read a Paper: The Basics of Evidence Based Healthcare,” are now asking, “Is Covid-19 evidence-based medicine’s nemesis?” She and others are suggesting that when a simple experiment finds evidence to support an intervention and that intervention has a limited downside, policymakers should act before a randomized trial is done.
+ The third problem is that there is a shortage of medical masks around the world.
+ Many policymakers were concerned that recommending face coverings for the public would lead to people hoarding medical masks.
+ This led to seemingly contradictory guidance where the CDC said there was no reason for the public to wear masks but that masks needed to be saved for medical workers.
+ The CDC has now clarified its stance and recommends the public use of homemade masks while saving higher-grade masks for medical professionals.
+ Many countries were quick to adopt public mask-wearing while others, including the U.S., still haven’t enacted nationwide rules.
+ AP Photo/Andy Wong   Results of mask-wearing There are numerous studies that suggest if 80% of people wear a mask in public, then COVID-19 transmission could be halted.
+ Until a vaccine or a cure for COVID-19 is discovered, cloth face masks might be the most important tool we currently have to fight the pandemic.
+ Given all of the laboratory and epidemiological evidence, the low cost of wearing masks – which can be made at home with no tools – and the potential to slow COVID-19 transmission with widescale use, policymakers should ensure that everyone wears a mask in public.
+ [You need to understand the coronavirus pandemic, and we can help.
+ Read The Conversation’s newsletter.]
+ Public health   Aerosols   Coronavirus   Masks   Microdroplets   Face masks   Personal protective equipment   COVID-19   SARS-CoV-2   Social distancing   Transmission   Droplets   Asymptomatic   Cloth masks                Events     Festival of Social Science 2020    —    Birmingham       What just happened: an intimate look at the 2020 US election    —    Oxford, Oxfordshire       Experiments for the social good    —    Birmingham       Panel Discussion: 'Africa, capital flight and the bankers who help: evidence from the FinCEN files'    —    N/A, Oxfordshire       City-zenship: What does a Brummie education look like?

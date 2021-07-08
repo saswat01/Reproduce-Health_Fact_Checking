@@ -1,0 +1,133 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListEmerg Infect Disv.19(11); 2013 NovPMC3837665        Emerg Infect Dis.
+ 2013 Nov; 19(11): 1819–1823.
+ doi: 10.3201/eid1911.131172PMCID: PMC3837665PMID: 24206838Middle East Respiratory Syndrome Coronavirus in Bats, Saudi ArabiaZiad A. Memish, Nischay Mishra, Kevin J. Olival, Shamsudeen F. Fagbo, Vishal Kapoor, Jonathan H. Epstein, Rafat AlHakeem, Abdulkareem Durosinloun, Mushabab Al Asmari, Ariful Islam, Amit Kapoor, Thomas Briese, Peter Daszak, Abdullah A. Al Rabeeah, and W. Ian LipkinAuthor information Copyright and License information DisclaimerMinistry of Health, Riyadh, Saudi Arabia (Z.A.
+ Memish, S.F.
+ Fagbo, R. AlHakeem, A. Durosinloun, A.A. Al Rabeeah); Columbia University, New York, New York, USA (N. Mishra, V. Kapoor, A. Kapoor, T. Briese, W.I.
+ Lipkin); EcoHealth Alliance, New York (K.J.
+ Olival, J.H.
+ Epstein, P. Daszak); Ministry of Health, Bisha, Saudi Arabia (M. Al Asmari); EcoHealth Alliance, Dhaka, Bangladesh (A. Islam)Corresponding author.Address for correspondence: W. Ian Lipkin, Center for Infection and Immunity, Columbia University, 722 West 168th St, New York, NY 10032, USA; email: ude.aibmuloc@1002liwCopyright notice This article has been cited by other articles in PMC.AbstractThe source of human infection with Middle East respiratory syndrome coronavirus remains unknown.
+ Molecular investigation indicated that bats in Saudi Arabia are infected with several alphacoronaviruses and betacoronaviruses.
+ Virus from 1 bat showed 100% nucleotide identity to virus from the human index case-patient.
+ Bats might play a role in human infection.Keywords: coronavirus, bats, Middle East respiratory syndrome, MERS CoV, viruses, Saudi ArabiaSince Middle East respiratory syndrome (MERS) was described in September 2012, over 90 cases have been reported worldwide, 70 from Saudi Arabia.
+ The incidence of infection with the causative agent, a betacoronavirus (MERS CoV) (1), has not been determined; however, the mortality rate among those who received clinical care is ≈65% (2).
+ Although instances of human-to-human transmission have been documented between case-patients and others in close contact (including hospital patients sharing rooms, family members, and medical personnel), the sources of infection for most patients remain unknown.
+ Because of sequence similarities between β-CoVs identified in bats and those of MERS CoV isolated from humans, a bat reservoir has been posited (3–5).
+ Although neither detection of MERS CoV in bats nor contact of human MERS patients with bats have been reported, a role for bats in human infection cannot be excluded because contact can be indirect (mediated through another animal vector or fomites).The StudyIn October 2012 and April 2013, three agencies collected samples from bats in regions where MERS cases had been identified (Figure 1).
+ The agencies are the Ministry of Health of Saudi Arabia, the Center for Infection and Immunity of Columbia University, and EcoHealth Alliance.
+ Open in a separate windowFigure 1Bat sampling sites and locations of home and workplace of index case-patient with Middle East respiratory syndrome, Bisha, Saudi Arabia.During the October investigation, the team interviewed the family of an index case-patient in Bisha and collected samples from bats &lt;12 km from his home, in an abandoned date palm orchard, and &lt;1 km from his place of employment, a hardware store that fronted a garden and date palm orchard.
+ Although neither family members nor employees recalled seeing bats, the team observed roosting bats and guano in abandoned wells and ruins within 12 km of his home and insectivorous bats at dusk in the garden behind his store.
+ Over 3 weeks, 96 bats representing 7 species (Rhinopoma hardwickii, Rhinopoma microphyllum, Taphozous perforatus, Pipistrellus kuhlii, Eptesicus bottae, Eidolon helvum, and Rosettus aegyptiacus) were captured in mist nets and harp traps, then released after visual speciation and collection of morphometric measurements; wing punch biopsy samples; blood; throat swab samples; and rectal swab samples or fecal pellets.
+ Samples were collected into viral transport medium or lysis buffer.During the 3-week April investigation, fecal samples were collected on tarps laid out at bat roosting sites in and around Bisha, Unaizah, and Riyadh.
+ Representative animals at each roosting site were captured, identified morphologically, and released after wing punch biopsy samples were collected for speciation by DNA analysis.
+ Samples were collected into cryovials.All samples were stored in liquid nitrogen and conveyed to Riyadh for storage at −80°C before being transported to Columbia University in New York in dry nitrogen.
+ The October 2012 shipment was inadvertently opened at customs in the United States and sat at room temperature for 48 hours before transfer to Columbia University; at arrival, all samples had thawed.
+ The April 2013 samples arrived intact.Total nucleic acid was extracted from samples by using the NucliSENS easyMAG system (bioMérieux, Durham, NC, USA) and subjected to 8 PCRs with primers and protocols designed to amplify regions within the helicase, RNA-dependent RNA polymerase (RdRp), and nucleocapsid or envelope proteins of CoVs (6–9).
+ Products were sequenced and analyzed for similarity to GenBank database entries by using the BLASTn and BLASTx programs (www.ncbi.nlm.nih.gov/blast/Blast.cgi).
+ Primer sequences are shown in Table 1.
+ The identity of bat species yielding specific viral products was determined by amplifying and sequencing a fragment of the cytochrome B gene (10).
+ All visual classifications of species were confirmed except for that of T. perforatus bats.
+ There is no reference sequence for T. perforatus bats in GenBank.
+ However, because the closest reference sequence was from T. nudiventris bats, at 84% identity we presume that the product represents bona fide T. perforatus bat cytochrome B gene sequence.
+ Representative cytochrome B sequences have been uploaded to GenBank (accession nos.
+ )Nested pan-CoV-I (6)PLQ-F1, CGTTGGIACWAAYBTVCCWYTICARBTRGG≈400 nt, RdRp (18310–187450)α-CoV (8), β-CoV (1)PLQ-R1, GGTCATKATAGCRTCAVMASWWGCNACATGPLQ-F2, GGCWCCWCCHGGNGARCAATTPLQ-R2, GGWAWCCCCAYTGYTGWAYRTCNested pan-CoV-II (7)WT-COV-F1, GGTTGGGAYTAYCCHAARTGTGA≈430 nt, RdRp (15260–15700)α-CoV (5), β-CoV (2)WT-COV-R1, CCATCATCASWYRAATCATCATAWT-COV-F2, GAYTAYCCHAARTGTGAYAGAGCWT-COV-F3, GAYTAYCCHAARTGTGAUMGWGCHemi-nested RdRp-sequence assay (9)EMC-SeqRdRP-Rev, GCATWGCNCWGTCACACTTAGG ≈230 nt, RdRp (15048–15290)α-CoV (2), β-CoV (1)EMC-SeqRdRP-Fwd, TGCTATWAGTGCTAAGAATAGRGCEMC-SeqRdRP-Rnest, CACTTAGGRTARTCCCAWCCCAHemi-nested N-sequence assay (9)EMC-SeqN-Fwd, CCTTCGGTACAGTGGAGCCA ≈280 nt,N seq (29,549–29,860)–EMC-SeqN-Rev, GATGGGGTTGCCAAACACAAACEMC-SeqN-Fnest, TGACCCAAAGAATCCCAACTACNested CII-pan-CoV-IIINM-CoV-2F1, ACWGTTCARGGICCWCCIGG≈355 nt, helicase (17,060–17,410)β-CoV (2)NM-CoV-2F2, GTTCARGGGCCWCCGGGNACNM-CoV-2R1, GGCAGCTGWGCWGGRTCICCNACRTANM-CoV-2R2, AGCTGWGCWGGRTCGCCIACRTANACNested CII-MERS-RdRpNM-HCOV-F1, GTGCTAAGAATAGAGCTCGCACTNM-HCOV-F2, AGAGCTCGCACTGTTGCAGGC≈190 nt, RdRp (15068–15249)β-CoV (1, MERS CoV)NM-HCOV-F2, AGAGCTCGCACTGTTGCAGGCNM-HCOV-R1, ACCCATAAGATGCGGATTATCAACNM-HCOV-R2, TGCGGATTATCAACATCTTTGTACHemi-nested CII-MERS N sequenceNM-NSeq-F-1, ACTTCCTTCGGTACAGTGGAGC≈170 nt, N seq (29545–29713)–NM-NSeq-R-1, GGCACTGTTCACTTGCAATCNM-NSeq-R-2, GGAGGTTCAGACATTTGGTCTupE and ORF1b real-time assays (8)upE-Fwd: GCAACGCGCGATTCAGTT Upstream of E gene and ORF 1b–upE-Prb: FAM-CTCTTCACATAATCGCCCCGAGCTCG-TAMRAupE-Rev: GCCTCTACACGGGACCCATAORF1b-Fwd: TTCGATGTTGAGGGTGCTCATORF1b-Prb: FAM-CCCGTAATGCATGTGGCACCAATGT-TAMRAORF1b-Rev: TCACACCAGTTGAAAATCCTAATTGOpen in a separate window* CoV, coronavirus; MERS, Middle East respiratory syndrome; RdRp, RNA-dependent RNA polymerase; –, not applicable; ORF, open reading frame.†Primer locations are based on human β-CoV 2c EMC/2012, complete genome (GenBank accession no.
+ As anticipated, pan-CoV assays detected α- and β-CoVs.
+ One assay specific for MERS CoV (9) also detected α-CoVs.
+ This finding reinforces the need for sequence confirmation of PCR products.
+ Table 2 indicates the CoV species identified with respect to location, sample type, and bat species.
+ CoV sequences were amplified from rectal swab samples or fecal pellets and from roost feces but not from serum, throat swab samples, or urine.
+ Alpha CoV sequences were amplified more frequently than β-CoV sequences (223 vs 4).
+ Whereas α- and β-CoV sequences were amplified from CoVs from T. perforatus, E. helvum, and R. hardwickii bats, only alpha sequences were amplified from CoVs from P. kuhlii bat samples.Table 2CoVs detected in bats, Saudi Arabia*Bat family, genus, speciesLocationNo.
+ BatsNo.
+ samples tested (no.
+ †Based on BLASTn (www.ncbi.nlm.nih.gov/blast/Blast.cgi).CoV sequences were amplified from 220 of 732 roost feces samples and 7 of 91 rectal swab samples or fecal pellets.
+ A product obtained by PCR amplification of nucleic acid from a fecal pellet of a T. perforatus bat captured in October 2012 in Bisha showed 100% nt identity to the human β-CoV 2c EMC/2012 cloned from the index case-patient in Bisha.
+ A phylogenetic analysis of CoVs obtained in this study is shown in Figure 2.
+ CoV sequences have been uploaded in GenBank (accession nos.
+ The maximum-likelihood tree of partial RNA-dependent RNA polymerase gene (nt position 15068–15249 of GenBank accession no.
+ Each branch shows the GenBank accession number followed by a brief description of the sequence used.
+ Scale bar indicates nucleotide substitutions per site.
+ MERS, Middle East respiratory syndrome; CoV, coronavirus; SARS, severe acute respiratory syndrome; KSA, Kingdom of Saudi Arabia.ConclusionsA wide range of CoV species are circulating among bats in Saudi Arabia.
+ Although the prevalence of CoVs was high (≈28% of fecal samples), MERS CoV was found in only 1 bat.
+ Furthermore, the sensitivity for viral nucleic acid detection in samples collected in October 2012 was probably reduced because of failure in cold chain transport.
+ Whereas 219 (32%) of 675 of fecal pellets collected in April revealed a CoV sequence by PCR, only 8 (5%) of 148 of rectal swab samples or fecal pellets collected in October were positive by the same assays.
+ We were unable to recover additional sequences beyond the 190-nt RdRp fragment represented in Figure 2 but are confident in the fidelity of the finding.
+ First, although RdRp is a conserved portion of the CoV genome, there is no precedent for 100% identity of a bat sequence with a human MERS CoV sequence.
+ Second, when this work began we did not have cultured MERS CoV, human MERS samples, or MERS CoV cDNA in the laboratory at Columbia University where samples were removed directly from the tubes in which they were collected in the field for nucleic acid extraction, PCR, and sequence analysis.
+ Third, the only MERS-positive signal was obtained in PCR analysis of the T. perforatus bat captured in Bisha near the home and workplace of the MERS index case-patient used to generate the human β-CoV 2c EMC/2012 sequence.Bats are reservoirs of several viruses that can cause human disease, including rabies, Hendra, Nipah, Marburg, severe acute respiratory syndrome CoV, and probably Ebola viruses (11–14).
+ Cross-species transmission from bats to humans can be direct, through contact with infected bats or their excreta, or facilitated by intermediate hosts (15).
+ Bat CoVs are typically host specific; however, MERS-related CoVs have reportedly been found in many bat families, including Vespertillionidae, Molosidae, Nyteridae, and now Emballonuridae (sheath-tailed bats) in Africa, the Americas, Asia, and Europe.
+ We sampled only a small sample of bats in Saudi Arabia.
+ Nonetheless, given the rarity of MERS CoV sequences detected by our survey and the broad distribution of MERS cases throughout the Middle East, we speculate that there are probably other hosts.
+ Future work should investigate additional bat and other wildlife species and domestic animals for CoV infection and potential linkage to human disease.AcknowledgmentsWe thank Rebecca Hersch and George Amato for cytochrome B gene sequencing, Lorenzo Uccellini and Stephen Sameroff for assistance with nucleic acid extraction, Kawathar Muhammad and Ahmad Hakeem for sample coordination, and Meera Bhat and Ellie Kahn for assistance with manuscript preparation.
+ Work in the Center for Infection and Immunity and EcoHealth Alliance was supported by the National Institute of Allergy and Infectious Diseases, the US Agency for International Development (PREDICT), and the Defense Threat Reduction Agency.Biography• Dr Memish is deputy minister for public health, director of the WHO Collaborating Center for Mass Gathering Medicine in the Ministry of Health, and professor in the College of Medicine of Alfaisal University in Riyadh.
+ His research interests include emerging infectious diseases, infection control, and preventive medicine.
+ FootnotesSuggested citation for this article: Memish ZA, Mishra N, Olival KJ, Fagbo SF, Kapoor V, Epstein JH, et al.
+ Middle East respiratory syndrome coronavirus in bats, Saudi Arabia.
+ Emerg Infect Dis [Internet].
+ 2013 Nov [date cited].
+ http://dx.doi.org/10.3201/eid1911.131172References1.
+ Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier RA.
+ Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia.
+ N Engl J Med.
+ 2012;367:1814–20 .
+ 10.1056/NEJMoa1211721 [PubMed] [CrossRef] [Google Scholar]2.
+ Assiri A, McGeer A, Perl TM, Price CS, Al Rabeeah AA, Cummings DA, et al.
+ Hospital outbreak of Middle East respiratory syndrome coronavirus.
+ N Engl J Med.
+ 2013;369:407–16 10.1056/NEJMoa1306742 [PMC free article] [PubMed] [CrossRef] [Google Scholar]3.
+ Annan A, Baldwin HJ, Corman VM, Klose SM, Owusu M, Nkrumah EE, et al.
+ Human betacoronavirus 2c EMC/2012-related viruses in bats, Ghana and Europe.
+ Emerg Infect Dis.
+ 2013;19:456–9 10.3201/eid1903.121503 [PMC free article] [PubMed] [CrossRef] [Google Scholar]4.
+ Coronaviruses in bats from Mexico.
+ J Gen Virol.
+ 2013;94:1028–38 10.1099/vir.0.049759-0 [PMC free article] [PubMed] [CrossRef] [Google Scholar]5.
+ Ithlete NL, Stoffberg S, Corman VM, Cottontail VM, Richards LR, Schoeman MC, et al.
+ Close relative of human Middle East respiratory syndrome coronavirus in bat, South Africa [letter].
+ Emerg Infect Dis.
+ 2013:19 [cited 2013 Aug 19].
+ http://wwwnc.cdc.gov/eid/article/19/10/13-0946_article.htm [PMC free article] [PubMed]6.
+ Quan PL, Firth C, Street C, Henriquez JA, Petrosov A, Tashmukhamedova A, et al.
+ Identification of a severe acute respiratory syndrome coronavirus–like virus in a leaf-nosed bat in Nigeria.
+ MBio.
+ 2010;1:e00208–10 .10.1128/mBio.00208-10 [PMC free article] [PubMed] [CrossRef] [Google Scholar]7.
+ Watanabe S, Masangkay JS, Nagata N, Morikawa S, Mizutani T, Fukushi S, et al.
+ Bat coronaviruses and experimental infection of bats, the Philippines.
+ Emerg Infect Dis.
+ 2010;16:1217–23 10.3201/eid1608.100208 [PMC free article] [PubMed] [CrossRef] [Google Scholar]8.
+ Corman VM, Eckerle I, Bleicker T, Zaki A, Landt O, Eschbach-Bludau M, et al.
+ Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction.
+ Euro Surveill.
+ 2012;17:20288.
+ [PubMed] [Google Scholar]9.
+ Corman VM, Muller MA, Costabel U, Timm J, Binger T, Meyer B, et al.
+ Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections.
+ Euro Surveill.
+ 2012;17:20334.
+ [PubMed] [Google Scholar]10.
+ Teeling EC, Springer MS, Madsen O, Bates P, O'Brien SJ, Murphy WJ.
+ A molecular phylogeny for bats illuminates biogeography and the fossil record.
+ Science.
+ 2005;307:580–4 10.1126/science.1105113 [PubMed] [CrossRef] [Google Scholar]11.
+ Smith I, Wang LF.
+ Bats and their virome: an important source of emerging viruses capable of infecting humans.
+ Curr Opin Virol.
+ 2013;3:84–91 .10.1016/j.coviro.2012.11.006 [PMC free article] [PubMed] [CrossRef] [Google Scholar]12.
+ Lau SK, Woo PC, Li KS, Huang Y, Tsoi HW, Wong BH, et al.
+ Severe acute respiratory syndrome coronavirus–like virus in Chinese horseshoe bats.
+ Proc Natl Acad Sci U S A.
+ 2005;102:14040–5 10.1073/pnas.0506735102 [PMC free article] [PubMed] [CrossRef] [Google Scholar]13.
+ Poon LL, Chu DK, Chan KH, Wong OK, Ellis TM, Leung YH, et al.
+ Identification of a novel coronavirus in bats.
+ J Virol.
+ 2005;79:2001–9 10.1128/JVI.79.4.2001-2009.2005 [PMC free article] [PubMed] [CrossRef] [Google Scholar]14.
+ Li W, Shi Z, Yu M, Ren W, Smith C, Epstein JH, et al.
+ Bats are natural reservoirs of SARS-like coronaviruses.
+ Science.
+ 2005;310:676–9 10.1126/science.1118391 [PubMed] [CrossRef] [Google Scholar]15.
+ Khan SU, Gurley ES, Hossain MJ, Nahar N, Sharker MA, Luby SP.
+ A randomized controlled trial of interventions to impede date palm sap contamination by bats to prevent Nipah virus transmission in Bangladesh.
+ PLoS ONE.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

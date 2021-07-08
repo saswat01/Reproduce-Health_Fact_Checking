@@ -1,0 +1,9 @@
+× Don't have an account?
+ Sign up×By registering, I Agree to the Terms of Service and Privacy PolicyAlready a member?
+ Log in××× ×   NewStatesman  Subscribe Subscribe        You are browsing in private mode.
+ To enjoy all the benefits of our website LOG IN or Create an Account        This website uses cookies to help us give you the best experience when you visit our website.
+ By continuing to use this website, you consent to our use of these cookies.
+ This website uses cookies to help us give you the best experience when you visit our website.
+ By continuing to use this website, you consent to our use of these cookies.
+ "+currentNid+"story_related" );
+  // console.log("#node-"+currentNid+" div.

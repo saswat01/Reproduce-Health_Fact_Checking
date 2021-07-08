@@ -1,0 +1,97 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop     addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape     addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical)     addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical)     addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape     addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ Glickman Urological and Kidney Institute, Cleveland Clinic, 9500 Euclid Ave, Cleveland, OH 44106, USA.
+ Tel.
+ +1 216 4445601; Fax: +1 216 6364492.
+ Contact       AffiliationsDepartment of Urology, Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, OH, USASearch for articles by this authorArnon ChaitArnon ChaitAffiliationsCleveland Diagnostics, Cleveland, OH, USASearch for articles by this authorJason M. HafronJason M. HafronAffiliationsPathology and Research Department, Michigan Institute of Urology, St Clair Shores, MI, USASearch for articles by this authorKenneth M. KernenKenneth M. KernenAffiliationsPathology and Research Department, Michigan Institute of Urology, St Clair Shores, MI, USASearch for articles by this authorKannan ManickamKannan ManickamAffiliationsChesapeake Urology Associates, Baltimore, MD, USASearch for articles by this authorAndrew J. StephensonAndrew J. StephensonAffiliationsDepartment of Urology, Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, OH, USASearch for articles by this authorMathew WagnerMathew WagnerAffiliationsKaiser Permanente Northwest, Clackamas, OR, USASearch for articles by this authorHui ZhuHui ZhuAffiliationsLouis Stokes VA Medical Center, Cleveland, OH, USASearch for articles by this authorAimee KestranekAimee KestranekAffiliationsCleveland Diagnostics, Cleveland, OH, USASearch for articles by this authorBoris ZaslavskyBoris ZaslavskyAffiliationsCleveland Diagnostics, Cleveland, OH, USASearch for articles by this authorMark StovskyMark StovskyAffiliationsDepartment of Urology, Glickman Urological and Kidney Institute, Cleveland Clinic, Cleveland, OH, USACleveland Diagnostics, Cleveland, OH, USASearch for articles by this author Published:April 07, 2017DOI:https://doi.org/10.1016/j.eururo.2017.03.025The Single-parameter, Structure-based IsoPSA Assay Demonstrates Improved Diagnostic Accuracy for Detection of Any Prostate Cancer and High-grade Prostate Cancer Compared to a Concentration-based Assay of Total Prostate-specific Antigen: A Preliminary ReportPrevious ArticleWhy Epidemiological Studies of Physical Activity in Prostate Cancer Often Underestimate its BenefitsNext ArticleNew Prostate Cancer Biomarkers: The Search Continues                 AbstractBackgroundIsoPSA is a serum-based assay that predicts prostate cancer (PCa) risk by partitioning isoforms of prostate-specific antigen (PSA) with an aqueous two-phase reagent.ObjectivesTo determine the diagnostic accuracy of IsoPSA in identifying the presence or absence of PCa and the presence of high-grade disease in a contemporary biopsy cohort.Design, setting, and participantsMulticenter prospective study of 261 men scheduled for prostate biopsy at five academic and community centers in the USA enrolled between August 2015 and December 2016.InterventionPerformance of the IsoPSA assay.Outcome measurements and statistical analysisDiscrimination power was evaluated using receiver operating characteristic (ROC) analysis.
+ The outcome of the IsoPSA assay was transformed into risk probability using logistic regression.
+ Decision curve analysis (DCA) was used to compare the net benefit of IsoPSA against other clinical protocols.Results and limitationsThe overall prevalence was 53% for any PCa and 34% for high-grade PCa.
+ The area under the ROC curve was 0.79 for any cancer versus none and 0.81 for high-grade PCa versus low-grade PCa/benign histology.
+ In this preliminary study, DCA revealed a superior net benefit of IsoPSA against no biopsy, all biopsy, and the modified Prostate Cancer Prevention Trial Risk Calculator 2.0.
+ At a cutoff selected to recommend biopsy, IsoPSA demonstrated a 48% reduction in false-positive biopsies; at a cutoff selected to identity men at low risk of high-grade disease, there was a 45% reduction in the false-positive rate.ConclusionThe structure-based IsoPSA assay outperformed concentration-based PSA measurement, and provided a net benefit against other protocols.
+ Once validated, clinical use of IsoPSA could significantly reduce unnecessary biopsies while identifying patients needing treatment.Patient summaryThe IsoPSA assay outperformed prostate-specific antigen in predicting the overall risk of prostate cancer and the risk of clinically significant cancer in a preliminary study.
+ The IsoPSA assay could assist in determining the need for prostate biopsy for patients.KeywordsBiomarkerProstate cancerProstate-specific antigen1.
+ IntroductionProstate-specific antigen (PSA) is arguably the most successful blood-based cancer biomarker to date.
+ Despite criticism [1Illic D. Neuberger M. Djulbegovic M. et al.Screening for prostate cancer, 2013.Cochrane Database Syst Rev.
+ 2013; 2013: CD004720Google Scholar, 2Moyer V.A.
+ US Preventive Services Task Force.
+ Screening for prostate cancer: U.S. Preventive Services Task Force recommendation statement.Ann Intern Med.
+ 2012; 157: 120-134Crossref PubMed Scopus (1404) Google Scholar], PSA has transformed the landscape of early detection, screening, and management of prostate cancer (PCa) in the last few decades.
+ PSA is distinct from virtually all other cancer biomarkers because of its almost exclusive specificity to the prostate, allowing direct assessment of physiological conditions in the gland with a simple blood test.
+ Unfortunately, PSA is tissue- but not cancer-specific, and overdiagnosis and overtreatment of PSA-detected, biologically insignificant cancers are widely recognized as key limitations in its clinical utility [3Carter H.B.
+ Albertsen P.C.
+ Barry M.J. et al.Early detection of prostate cancer: AUA guideline.J Urol.
+ 2013; 190: 419-426Abstract Full Text Full Text PDF PubMed Scopus (611) Google Scholar].The vast majority of currently available protein-based cancer biomarkers are defined as normal or abnormal according to their concentration in body fluids.
+ This definition owes more to the wide availability of low-cost and convenient technology such as enzyme-linked immunosorbent assays than to biological reasons.
+ Indeed, an increase in biomarker concentration in blood or other body fluids could be due to a plethora of unrelated physiological mechanisms such as increased cell membrane permeability or inflammation resulting in cell death.
+ Furthermore, many cancer-related proteins undergo alterations to their structure, including conformational changes due to point mutations, truncations, and post-translational modifications such as glycosylation [4Gilgunn S. Conroy P.J.
+ Saldova R. Rudd P.M. O’Kennedy R.J. Aberrant PSA glycosylation--a sweet predictor of prostate cancer.Nat Rev Urol.
+ 2013; 10: 99-107Crossref PubMed Scopus (131) Google Scholar, 5Leymarie N. Griffin P.J.
+ Jonscher K. et al.Interlaboratory study on differential analysis of protein glycosylation by mass spectrometry: the ABRF glycoprotein research multi-institutional study.Mol Cell Proteomics.
+ 2013; 12: 2935-2951Crossref PubMed Scopus (85) Google Scholar, 6Saldova R. Fan Y. Fitzpatrick J.M.
+ Watson R.W.
+ Rudd P.M.
+ Core fucosylation and alpha2-3 sialylation in serum N-glycome is significantly increased in prostate cancer comparing to benign prostate hyperplasia.Glycobiology.
+ 2011; 21: 195-205Crossref PubMed Scopus (116) Google Scholar, 7Vermassen T. Speeckaert M.M.
+ Lumen N. Rottey S. Delanghe J.R. Glycosylation of prostate specific antigen and its potential diagnostic applications.Clin Chim Acta.
+ 2012; 413: 1500-1505Crossref PubMed Scopus (57) Google Scholar] resulting from the altered metabolism of cancer cells.
+ These structural changes may result in modified interactions with other proteins in the blood, offering an opportunity for improved methods of detection.Recognition of structural changes to PSA, such as free PSA (which signifies differences in interaction of PSA with α1-antichymotrypsin [8Higashihara E. Nutahara K. Kojima M. et al.Significance of serum free prostate specific antigen in the screening of prostate cancer.J Urol.
+ 1996; 156: 1964-1968Abstract Full Text Full Text PDF PubMed Scopus (41) Google Scholar, 9Okihara K. Cheli C.D.
+ Partin A.W.
+ et al.Comparative analysis of complexed prostate specific antigen, free prostate specific antigen and their ratio in detecting prostate cancer.J Urol.
+ 2002; 165: 2017-2023Abstract Full Text Full Text PDF Google Scholar]) and pro-PSA, a specific isoform of PSA [10Mikolajczyk S.D.
+ Catalona W.J.
+ Evans C.L.
+ et al.Proenzyme forms of prostate-specific antigen in serum improve the detection of prostate cancer.Clin Chem.
+ 2004; 50: 1017-1025Crossref PubMed Scopus (118) Google Scholar], have better diagnostic accuracy than measurement of the PSA parent protein alone.
+ However, as the molecular evolution of cancer may result in changes in structural isoforms of a biomarker over time in the same patient, and in differences in which isoforms are present among individual patients, the diagnostic accuracy of even these structurally altered PSA proteins has limitations.
+ The lack of perfect sensitivity of the currently available next-generation PSA assays such as PHI and 4Kscore may be attributable to the fact that they measure only a few known isoforms of PSA that are informative only if they are present in a given patient at a given time.
+ Thus, since it is known that multiple isoforms of PSA that are not measured by current assays exist [11Hilz H. Noldus J. Hammerer P. Buck F. Lück M. Huland H. Molecular heterogeneity of free PSA in sera of patients with benign and malignant prostate tumors.Eur Urol.
+ 1999; 36: 286-292Crossref PubMed Scopus (41) Google Scholar, 12Chen Y.T.
+ Tuan L.P. Chen H.W.
+ et al.Quantitative analysis of prostate specific antigen isoforms using immunoprecipitation and stable isotope labeling mass spectrometry.Anal Chem.
+ 2015; 87: 545Crossref PubMed Scopus (28) Google Scholar, 13Llop E. Ferrer-Batallé M. Barrabés S. et al.Improvement of prostate cancer diagnosis by detecting PSA glycosylation-specific changes.Theranostics.
+ 2016; 24: 1190-1204Crossref Scopus (61) Google Scholar], a method that detects multiple PSA isoforms without a priori knowledge of which are present in a given sample is likely to have better diagnostic accuracy than existing assays.Here we describe our initial clinical experience with IsoPSA, previously known as PSA/SIA [14Stovsky M. Ponsky L. Vourganti S. et al.Prostate-specific antigen/solvent interaction analysis: a preliminary evaluation of a new assay concept for detecting prostate cancer using urinary samples.Urology.
+ 2011; 78: 601-605Abstract Full Text Full Text PDF PubMed Scopus (17) Google Scholar], as a new blood-based assay for detection of PCa.
+ IsoPSA is a structure-based (rather than concentration-based) assay that agnostically interrogates the entire spectrum of structural changes of complex PSA (ACT-PSA).
+ We report on the performance of IsoPSA in a multi-institutional prospective study of US men referred for prostate biopsy on the basis of currently accepted clinical criteria.
+ The endpoints of the study were the ability of the IsoPSA assay to identify the risk of any PCa (defined as Gleason ≥6) versus no cancer and of high-grade PCa (defined as Gleason ≥7) versus low-grade PCa or benign disease in comparison to a standard concentration-based assay for total PSA.2.
+ Patients and methods2.1 Patient population and specimen collectionThis institutional review board–approved, multicenter prospective study enrolled men scheduled for prostate biopsy because of a rising PSA level or suspicious digital rectal examination (DRE).
+ Five academic and community urology centers across the USA (Cleveland Clinic; Louis Stokes VA Medical Center; Kaiser Permanente Northwest; Michigan Institute of Urology; and Chesapeake Institute of Urology) collected heparin-plasma for IsoPSA between August 2015 and December 2016.
+ Samples were collected within 30 d before to biopsy, processed according to Early Detection Research Network (EDRN) guidelines [15National Cancer Institute.
+ EDRN standard operating procedures (SOP).
+ https://edrn.nci.nih.gov/resources/standard-operating-procedures/standard-operating-procedures.Google Scholar], and frozen at −80 °C until analysis.
+ The primary study endpoints of this preliminary study were the presence or absence of cancer and cancer grade as detected by 12-core transrectal ultrasound (TRUS) or magnetic resonance imaging (MRI)-TRUS fusion biopsy.
+ Open table in a new tab       2.2 Laboratory methodsFrozen plasma samples were shipped to Cleveland Diagnostics (Cleveland, OH, USA) and all testing was performed and reported naïve to pathology outcome.
+ On receipt, the samples were thawed and immediately added to IsoPSA reagent tubes.
+ The reagent tubes were vortexed, centrifuged, and subjected to the IsoPSA assay (the IsoPSA assay is for research use only in the USA as of February 2017), which comprises two steps: partitioning of plasma samples in an aqueous two-phase system (IsoPSA RUO reagent, Cleveland Diagnostics), followed by measurement of free and total PSA concentrations in each of the two aqueous phases (referred to as top or bottom).
+ An aliquot was removed from each phase and the total and free PSA concentrations were measured using US Food and Drug Administration–approved clinical assays (Cobas e411, Roche Diagnostics, Indianapolis, IN, USA).
+ The K parameter can be used directly to classify patients via binary analysis (eg, cancer present or absent), or converted by logistic regression to an individual risk probability, KR, for the two study indications.2.3 IsoPSA clinical performance evaluationTwo key clinical performance objectives were tested: discriminatory power between PCa (Gleason ≥6) and benign prostate conditions (cancer vs no cancer), and between high-grade PCa (Gleason ≥7) and low-grade cancer (Gleason 6) or benign histology (high grade).
+ More directly, the confidence interval of the area under the ROC curve (AUC) for each ROC analysis was determined using 1000 bootstrapped samples with replacement.
+ A calibration curve for each model was constructed to explore the relationship between the observed and predicted outcome.
+ Decision curve analysis (DCA) [16Vickers A.J.
+ Elkin E.B.
+ Decision curve analysis: a novel method for evaluating prediction models.Med Decis Making.
+ 2006; 26: 565-574Crossref PubMed Scopus (1266) Google Scholar] was used to investigate the clinical utility of the models in comparison to the two extreme limits of all-biopsy (as for the current patient cohort) and no-biopsy, as well as against the modified Prostate Cancer Prevention Trial Risk Calculator (PCPTRC) 2.0 risk calculator [17Ankerst D.P.
+ Hoeﬂer J. Bock S. et al.Prostate Cancer Prevention Trial Risk Calculator 2.0 for the prediction of low- vs high-grade prostate cancer.Urology.
+ 2014; 83: 1362-1368Abstract Full Text Full Text PDF PubMed Scopus (128) Google Scholar], providing risk estimates for low-grade versus high-grade cancer with PSA, age, DRE, race, and prior biopsy as parameters.
+ Performance parameters including specificity, sensitivity, negative predictive value (NPV), and positive predictive value (PPV) were examined, and their clinical consequences for each of the two indications were recorded in terms of biopsies avoided as defined according to selected cutoff values.
+ Statistical analysis was conducted using either Analyse-It for Microsoft Excel v.4.65.2 (Analyse-it Software, Leeds, UK) or Stata/MP 13.1 for Windows (StataCorp, College Station, TX, USA).3.
+ ResultsThe overall prevalence of PCa in the entire cohort was 53.3% (139/261), while the prevalence of high-grade PCa was 33.7% (88/261).
+ As expected, there was no significant correlation between IsoPSA K and serum PSA levels (Fig.
+ 1; Pearson correlation coefficient 0.2).
+ As measured by ROC, IsoPSA outperformed standard PSA for both study endpoints (Table 2 and Fig.
+ 2).
+ 2).
+ Table 3 shows the sensitivity, specificity, PPV, and NPV for IsoPSA versus total PSA at selected cutoff values for risk probability for the endpoints cancer versus no cancer (KR-CNC) and high-grade PCa versus low-grade PCa/benign histology (KR-HG).
+ Recognizing that the decision to perform or forgo a biopsy depends on clinical suspicion and both patient and physician risk tolerance, Table 3 suggests some clinically relevant scenarios illustrating the superior predictive power of IsoPSA.
+ As an exclusion test to identify patients at high risk of high-grade PCa, a KR-HG cutoff of 17% yields NPV of 96%, while KR-HG of 70% yields PPV of 76%.Fig.
+ By continuing you agree to the Use of Cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

@@ -1,0 +1,25 @@
+addSize([4000, 0], [728, 90]).
+ addSize([3000, 0], [728, 90]).
+ addSize([2000, 0], [728, 90]).
+ addSize([1000, 0], [728, 90]).
+ addSize([750, 0], [728, 90]).
+ addSize([700, 0], [[300, 250],[336, 280]]).
+ addSize([530, 0], [[300, 250],[336, 280]]).
+ addSize([336, 0], [[300, 250],[336, 280]]).
+ addSize([320, 0], [300, 250]).
+ addSize([4000, 0], [728, 90]).
+ addSize([3000, 0], [728, 90]).
+ addSize([2000, 0], [728, 90]).
+ addSize([1000, 0], [728, 90]).
+ addSize([750, 0], [728, 90]).
+ addSize([700, 0], [300, 250]).
+ addSize([530, 0], [300, 250]).
+ addSize([430, 0], [300, 250]).
+ addSize([320, 0], [300, 250]).
+ However, a social media post is going viral with the claim that one can catch fire due to the sanitiser as it contains high amount of alcohol.The viral Facebook post shows a pair of hands with the claim, "The lady here applied sanitizer on her arms and went to the kitchen to cook.
+ The moment she turned on the stove, her hands caught fire due to the alcohol contained in the sanitizer.
+ "This post is also viral on WhatsApp.India Today Anti Fake News War Room (AFWA) has found that the viral post is a hoax.
+ The alcohol in the hand sanitiser evaporates completely once rubbed over the hands and leaves nothing to catch fire.We found that the viral photograph is of a burn victim whose forearm was harvested for skin grafts.
+ One can see the sharp edges on her forearm which can never be the result of an actual burn.
+ Skin grafting is a surgical procedure that involves removing the skin from one part of the body and transplanting it to another.Hence, it is clear that the viral image is not of a woman whose hands caught fire while she was putting on the stove after applying hand sanitiser.
+ In fact, alcohol-based hand sanitisers do not catch fire as the alcohol evaporates completely once applied on the hands.ALSO READ | Fact Check: Image of Covid-19 testing kit passed off as vaccine on social mediaALSO READ | Fact Check: No, Putin has not unleashed lions on Russian streets to enforce Corona lockdown

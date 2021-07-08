@@ -1,0 +1,3703 @@
+   United States Government Accountability Office 
+  Highlights of GAO-12-168
+, a report to 
+congressional requesters  December 2011 
+DELPHI PENSION PLANSGM Agreements with Unions Give Rise to Unique Differences in Participant Benefits  
+Why GAO Did This Study 
+The Pension Benefit Guaranty 
+Corporation (PBGC) terminated the 
+
+underfunded six qualified defined 
+
+benefit (DB) plans of the Delphi 
+Corporation, a former subsidiary of General Motors (GM), in July 2009.  Given questions about how PBGC 
+
+came to terminate the plans, whether 
+
+treatment for certain Delphi workers 
+
+was preferential, and the role of the 
+
+U.S. Department of the Treasury 
+
+(Treasury) in these outcomes, GAO 
+
+was asked to answer the following 
+
+questions:  (1) What precipitated PBGC™s decision to terminate Delphi™s plans and what 
+
+was Treasury's role, if any? 
+(2) What actions did PBGC take to 
+secure Delphi domestic and foreign 
+
+assets as part of its recovery process?  
+(3) Why will certain Delphi employees 
+receive reduced pension benefits and 
+
+others will not?  
+(4) What information was 
+communicated to employees about the 
+
+termination of their plans? 
+GAO issued a timeline of key events 
+leading to the plans™ termination in 
+
+March 2011 (GAO-11-373R). To examine the issues more fully for this 
+
+report, GAO analyzed additional 
+
+information from PBGC, Treasury, GM, 
+
+Delphi, and Delphi employee groups 
+
+and unions, and interviewed 
+
+representatives from those organizations. For comparison 
+purposes, GAO also reviewed the 
+
+termination and recovery processes for 
+all ten firms with the largest termination 
+
+claims from plans trusteed by PBGC. 
+Treasury™s comments generally agreed with GAO™s findings and conclusions.  
+What GAO Found As a result of the termination of Delphi
+™s pension plans in July 2009 and statutory 
+benefit limits, many Delphi retirees will receive less from PBGC than their full 
+benefit promised by Delphi. However, some of those experiencing statutory 
+reductions will still receive their full 
+benefits because of union agreements with 
+GM. With respect to PBGC's role in the pr
+ocess, the steps taken to terminate the 
+plans and reduce some benefits according to
+ statutory limits are consistent with 
+PBGC™s usual actions when terminating large plans.  
+ PBGC™s decision to terminate the plan
+s was ultimately precipitated by the 
+apparent lack of a viable sponsor, impending foreclosure on Delphi™s assets, 
+and the prospect of increased losses
+ for PBGC and the plans that would 
+occur upon liquidation. Similar factors we
+re often at play in PBGC™s decisions 
+to terminate other large plans we reviewed.  
+ PBGC used its authority under the law to file liens and negotiate recoveries 
+of corporate assets on behalf of De
+lphi™s plans. Although PBGC ultimately 
+recovered only about 6 percent of the 
+total unfunded benefit liabilities in 
+these plans, this ratio falls within the range of recovery ratios for other large 
+terminated plans we reviewed. 
+ Among the Delphi plan participants PBGC had reviewed as of June 2011, 
+just under half of both hourly and salaried plan participants received 
+reductions in their promised benefits 
+due to the application of statutory 
+benefit limits. While initial estimates indicate a higher proportion of Delphi 
+
+retirees have been subject to the guarantee limits compared with retirees of 
+most other large terminated plans, PBG
+C expects Delphi™s higher proportion 
+to decline once all benefit calculations are finalized. 
+ Delphi sent required communications to employees concerning deteriorating 
+plan funding, and PBGC sent communications concerning plan termination 
+and its impact on participants™ benefits. 
+However, the role that GM played in the process was more unusual. Some Delphi 
+hourly plan participants are protected from
+ benefit losses caused by statutory limits 
+because GM agreed to ﬁtop upﬂ potential benefit losses for certain Delphi union 
+employees. These agreements were renewed and upheld at numerous points in 
+Delphi™s history, including by the ﬁnew
+ GMﬂ established in July 2009. Because of 
+these agreements, about 60 percent of the participants in the hourly plan will have 
+any statutory reductions in their benefits
+ restored by GM. Other hourly employees, 
+as well as all employees in Delphi™s salaried plan and the other smaller plans. were 
+
+never covered by comparable top-up agreements. 
+Although acknowledging the significan
+t role Treasury played in GM's 
+restructuring, GM and Treasury officials 
+stated that Treasury™s role was advisory 
+concerning GM™s decisions not to take on additional Delphi pension liabilities but 
+to honor the top-up agreements with some unions. Similarly, PBGC officials 
+stated that PBGC independently made the de
+cision to terminate the plans. Still, 
+in response to a prior GAO recommendati
+on, Treasury revised its reporting policy 
+to increase transparency on its activities related to the auto industry. GAO 
+
+believes that the most effective means of
+ addressing concerns about Treasury™s 
+
+multiple roles regarding pensions is also through such increased transparency. 
+View 
+GAO-12-168
+. For more information, 
+contact Barbara Bovbjerg at 202-512-7215 or 
+bovbjergb@gao.gov
+.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page i 
+GAO-12-168  Delphi Pension Plans   
+Letter  1 Background 3
+ Threat of Increased Losses Led PBGC to Terminate Delphi Pension 
+Plans 10 PBGC Pursued Claims on Delphi™s Assets, Resulting in between 
+$600 Million and $650 Million in Recoveries 
+21 Many Delphi Retirees Are Subject to Benefit Reductions and Only 
+Certain Hourly Retirees Are Protected by Union Agreements 
+with GM 
+28 Both Delphi and PBGC Provided Delphi Employees with 
+Information 35 Concluding Observations 38 Agency Comments and Our Evaluation 
+39 Appendix I 
+Single-Employer Firms with the Largest PBGC Claims for  
+Terminated Plans (1975 through 2011) 
+41 
+ Appendix II 
+Number and Percentage Delphi Retirees with Reductions in ERISA 
+Benefits Due to Guaranteed Benefit 
+Limits (as of June 1, 2011) 42 
+ Appendix III  Allocation of Plan Assets and Recoveries to Unfunded  
+Nonguaranteed Benefits 
+43  Appendix IV 
+Comments from the Department of the Treasury 48  Appendix V GAO Contact and Staff Acknowledgments 50 
+ Related GAO Products  51
+  Tables Table 1: Terminated Delphi Defined Benefit Plans, as of July 31, 
+2009  
+6 Contents    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page ii 
+GAO-12-168  Delphi Pension Plans   
+Table 2: Types of Guaranteed Benefit Limits under ERISA 
+7 Table 3: Number and Percentage 
+of Delphi Retirees Subject to 
+Reductions in Estimated Benefits Due to ERISA Limits (as of June 1, 2011) 29 Table 4: Allocation Priority Categories (PC) 
+44 Table 5: Comparison of Allocation of Plan Assets and Recoveries 
+among Plans of Firms with 10 Largest Claims 
+45  Figures Figure 1: Who Is Bearing the Cost of Delphi Pension Plans™ 
+Unfunded Liabilities 
+20 Figure 2: PBGC Asset Recoveries in Delphi™s Bankruptcy 
+25 Figure 3: Distribution of Asset Recoveries by PBGC in Delphi™s 
+Bankruptcy 27 Figure 4: Number of Delphi Employees Covered by GM Top-Ups, 
+by Plan 
+34 Figure 5: Status of Benefits for Participants from Delphi™s Hourly 
+and Salaried Plans (as of June 2011) 
+35  Abbreviations AIFP  Automotive Industry Financing Program 
+DB  defined benefit plan 
+DIP debtor-in-possession 
+DSRA   Delphi Salaried Retiree Association 
+
+ERISA Employee Retirement Income Security Act of 1974 
+GM  General Motors  
+IUE International Union of Electronic, Electrical, Salaried, Machine 
+and Furniture Workers, AFL-CIO 
+MSR mutually satisfactory retirement 
+
+PBGC Pension Benefit Guaranty Corporation 
+
+UAW International Union, United Automobile, Aerospace, and 
+Agricultural Implement Workers of America 
+USWA United Steelworkers of America 
+This is a work of the U.S. government and is
+ not subject to copyright protection in the 
+United States. The published product may be 
+reproduced and distributed in its entirety 
+without further permission from GAO. However, because this work may contain 
+copyrighted images or other material, permission from the copyright holder may be 
+necessary if you wish to reproduce this material separately. 
+   
+ Page 1 
+GAO
+-12-168  Delphi Pension Plans   
+United States Government Accountability Office 
+Washington, DC 20548
+ December 15, 2011
+ Congressional Requesters
+ The Pension Benefit Guaranty Corporation (PBGC), the government 
+corporation that insures private
+-sector defined benefit (DB) plans, 
+terminated the six plans of Delphi Corporation (Delphi) in July 2009.
+1Since the termination, there has been controversy over different pe
+nsion 
+benefit outcomes for certain unionized and non
+-unionized Delphi retirees. 
+Further, the involvement of the U.S. Department of the Treasury 
+
+(Treasury) in the bankruptcy of General Motors (GM), Delphi
+™s former 
+parent company, raised questions for some regarding the role that 
+
+Treasury played in PBGC
+™s decision to terminate Delphi
+™s pension plans 
+and the resulting outcomes for Delphi plan participants. Given these 
+concerns, you asked us to answer the following questions:
+  The plans were estimated to be underfunded by a combined $7.2 billion at 
+
+termination, of which PBGC expects to cover about $6 billion.
+ 1. What precipitated PBGC
+™s decision to terminate the plans and what 
+was Treasury
+™s role, if any?
+ 2. What actions did PBGC take to secure Delphi domestic and foreign 
+assets as part of its recovery process?
+ 3. Why will certain Delphi employees receive reduced pension benefits 
+
+and others will not?
+ 4. What information was communicated to employees about the 
+
+termination of their plans?
+ In March 2011, we issued a report providing a timeline of key events 
+related to the Delphi plan terminations in which we provided information 
+about some of these issues.
+2                                                                                                                       1A DB p
+lan promises a benefit that is generally based on an employee
+™s years of service 
+and, often, compensation as well. The employer is generally responsible for funding all or 
+most of the benefit, investing and managing plan assets, and bearing the investment 
+risk. 
+ To address the issues more fully for this 
+2GAO, 
+Key Events Leading to the Termination of the Delphi Defined Benefit Plans
+, GAO-
+11-373R
+ (Washington, D.C.: Mar. 30, 2011).
+   
+    
+
+ 
+ 
+ Page 2 
+GAO
+-12-168  Delphi Pension Plans   
+report, we conducted additional analysis of PBGC documents, such as 
+benefit estimates, actuarial reports, internal documents on the termination 
+decision and on asset recovery, and reports from PBGC
+™s Office of 
+Inspect
+or General.
+ We also conducted follow
+-up interviews with PBGC 
+officials to clarify information from the documents. To explore further 
+
+Treasury
+™s role in the termination of Delphi
+™s pension plans, we reviewed 
+publicly available documents, such as Treasury of
+ficials
+™ 
+depositions and 
+other legal documents, including those related to pending litigation,
+3 and conducted additional interviews of GM, Delphi, and the Delphi Salaried 
+Retiree Association (DSRA). We reviewed relevant e
+-mails provided by 
+PBGC and DSRA.
+4To provide benchmarks and comparative examples, we also gathered 
+data about other terminated plans from PBGC
+™s list of firms with the ten 
+biggest termination claims in PBGC
+™s history.
+ (Delphi is number two on 
+this list, behind United Airlines.)
+ We also interviewed union, GM, Delphi, and DSRA 
+officials to obtain their perspectives on plan termination, asset recovery, 
+
+benefit determination, and communications, as well as analyzed 
+additional documents related to these issues from these groups, inclu
+ding 
+
+data from GM about benefit guarantees they have paid or expect to pay 
+to former Delphi employees.
+ 5                                                                                                                       3Delphi Salaried retirees are in litigation against PBGC regarding termination of Delphi
+™s 
+pension plans. Black v. PBGC, No. 2:09
+-cv-13616 (Bankr. E.D. Mich. filed Nov. 5, 2009). 
+In September 2011, the court dismissed the retirees
+™ 
+claims against Treasury and 
+Treasury officials. Order Granting Defendant United States Department of the Treasury, 
+Presidential Task Force on the Auto Industry, Timothy F. Geithner, Steven L. Rattner, and 
+Ron. A. Bloom
+™s Reviewed Motion to Dismiss, No. 09
+-13616 (E.D. Mich. Sept. 1, 2011). It 
+is GAO policy to avoid taking a position or addressing claims that are currently in litigation. 
+This review was structured to avoid influencing or interfering with the litigation and this 
+report does not address the legal issues involved in the litigation.
+  For example, to provide context for how 
+PBGC pursued recoveries for Delphi, we reviewed the recovery process 
+for all nine of the other firms on this list, and identified the allocation of 
+recoveries across priority groups for all plans with more than 5,000 
+participants (18 of the 29 plans these firms sponsored). We did not 
+
+examine PBGC
+™s actions to date to value Delphi
+™s assets, as this effort is 
+4The Special Inspector General for the Troubled As
+set Relief Program (SIGTARP) is 
+conducting an audit of Treasury
+™s role in GM
+™s decision to provide top
+-ups for certain 
+hourly workers, including whether the Administration or Treasury pressured GM to provide 
+additional funding for the hourly plan. SIGTARP has not announced when it expects to 
+complete this audit.
+ 5See appendix I for a summary description of PBGC
+™s 10 largest terminations.
+     
+
+ 
+ 
+ Page 3 
+GAO
+-12-168  Delphi Pension Plans   
+still ongoing. PBGC
+™s Office of Inspector General has recently reported on 
+deficiencies in PBGC
+™s efforts to value assets for two other firms on the 
+top-10 list: National Steel and United Airlines.
+6We conducted this work between April 2011 and December 2011 in 
+accordance with generall
+y accepted government auditing standards. 
+Those standards require that we plan and perform the audit to obtain 
+sufficient, appropriate evidence to provide a reasonable basis for our 
+findings and conclusions based on our audit objectives. We found the 
+data from PBGC and GM sufficiently reliable for the purpose of helping us 
+answer our research questions, and we believe that the evidence 
+obtained provides a reasonable basis for our findings and conclusions 
+based on our audit objectives.
+  According to 
+the Inspector 
+General
+™s office, the contractor identified as having conducted the 
+valuation of assets for both the National Steel and United Airlines 
+
+terminations is not the contractor conducting the valuation of assets for 
+Delphi.
+    Delphi was a global supplier of mobile electronics and transportation 
+systems that began as part of GM and was spun off as an independent 
+company in 1999.
+7                                                                                                                       6PBGC Office of Inspector General Evaluation Report, 
+PBGC™
+s Plan Asset Audit of 
+National Steel Pension Plans Was Seriously Flawed
+ (OIG Eval
+-2011
+-10/PA
+-09-66-1, 
+Washington, D.C.: Mar. 30, 2011); 
+ﬁ At that time, Delphi established two pension plans, 
+with assets and liabilities transferred from their GM counterparts: the 
+Delphi Hourly
+-Rate Employees Pension Plan (hourly plan) and the Delphi 
+Retirement Program for Salaried Employees (salaried plan). When Delphi 
+was spun off from GM in 1999, GM was required to collectively bargain 
+with the
+ affected unions
+Šincluding International Union, United 
+Automobile, Aerospace, and Agricultural Implement Workers of America 
+(UAW); the International Union of Electronic, Electrical, Salaried, Machine 
+Letter to Chairman Miller of The Committee on 
+Education and Labor Regarding PBGC Termination of United Airlines Pension Plans
+ﬂ (LTR
+-2010-10, Washington, D.C.: Jul. 20, 2010)
+; and 
+PBGC Processing of Terminated 
+United Airlines Pension Plans Was Seriously Deficient, 
+(OIG, Eval
+-2012
+-05/PA
+-10-72, 
+Washington, D.C: Nov. 30, 2011).
+  
+7For a more detailed treatment of this history, see 
+GAO-
+11-373R
+. 
+Background
+ Delphi
+-GM History
+     
+
+ 
+ 
+ Page 4 
+GAO
+-12-168  Delphi Pension Plans   
+and Furniture Workers, AFL
+-CIO (IUE);
+8 and the United Steelworkers of 
+America (USWA); as well as other 
+ﬁsplinter
+ﬂ unions.
+9 As a result of these 
+negotiations, GM agreed to provide a retirement benefit supplement 
+(referred to as 
+ﬁtop-upsﬂ) to 
+ﬁcovered employees
+ﬂ with UAW, IUE, or 
+USWA (but not the splinter unions), should the Delphi hourly plan be 
+frozen or terminated.
+10
+Over the period 2001 to 2005, Delphi suffered large losses, and the 
+company filed for Chapter 11 bankruptcy in October 2005, although it 
+continued to operate.
+ Covered employees included those who had been 
+represented by these unions as GM workers and now as Delphi workers 
+with no break in employment or seniority as of May 28, 1999. Salaried 
+employees and
+ hourly employees not in the three unions were not 
+covered by top
+-up agreements.
+ 11
+                                                                                                                       8Effective October 1, 2000, IUE merged with the Communications Workers of America to 
+become the Industrial Division of CWA (IUE
+-CWA); for the purposes of this report, we 
+continue to refer to this entity as the IUE.
+  Beginning in the fall of 2008, economic conditions 
+deteriorated throughout the auto industry, affecting both Delphi and GM. 
+GM™s deteriorating financial condition in the fall of 2008 led the company 
+to seek assistance from Treasury through the Automotive Industry 
+9The splinter unions include the International Association of Machinists and Aerospace 
+Workers; International Brotherhood of Electrical Workers; Michigan Regional Council of 
+Carpenters, Local 687 and Interior Systems, Local 1045; International Brotherhood of 
+Painters and Allied Trades of the United States and Canada, Sign & Display Union Local 
+59; International Brotherhood of Teamsters; International Brotherhood of Boilermakers; 
+
+International Union of Operating Engineers; and United Catering Restaurant Bar & Hotel 
+
+Workers. 
+10
+The top
+-up agreements were originally set to expire in October 2007.
+ In June 2007, GM, 
+Delphi, and UAW entered into a memorandum of understanding (MOU) extending the GM 
+
+benefit guarantee for Delphi UAW workers, which would be enforceable if benefit accruals 
+for future credited service in the Delphi hourly plan were frozen and if the plan were 
+terminated. On August 5, 2007, GM and Delphi entered into a MOU with Delphi IUE, and 
+
+on August 16, 2007, with Delphi USWA, providing the same top
+-up guarantee as the 
+
+Delphi UAW MOU.
+ 11
+Failing entities choose to go through Chapter 11 of the Bankruptcy Code when they 
+hope to reorganize and stay in business rather than liquidate and go out of business. 11 
+U.S.C. §§ 1101
+-1174.
+     
+
+ 
+ 
+ Page 5 
+GAO
+-12-168  Delphi Pension Plans   
+Financi
+ng Program (AIFP).
+12
+ As a condition of receiving this assistance, 
+GM was required to develop a restructuring plan to identify how the 
+company planned to achieve and sustain long
+-term financial viability. In 
+April and May 2009, Treasury worked with GM to develop a restructuring 
+plan through the Presidential Task Force on the Auto Industry and its 
+
+staff. On June 1, 2009, GM filed for bankruptcy and sought the approval 
+of the bankruptcy court for the sale of substantially all of the company
+™s assets to a new entity (
+ﬁnew GM
+ﬂ).13
+Soon after,
+ PBGC terminated Delphi
+™s six DB plans (Delphi having 
+acquired four more since the spin
+-off from GM), effective July 31, 2009, 
+with almost 70,000 participants (see table 1). According to PBGC, as of 
+the termination date, the Delphi plans were underfunded b
+y approximately $7.2 billion, of which PBGC insurance would cover an 
+
+estimated $6.0 billion. In October 2009, after 4 years in bankruptcy, 
+Delphi completed its reorganization when Delphi Automotive LLP (
+ﬁnewﬂ Delphi), a United Kingdom limited partnership, purchased most of 
+Delphi
+™s assets and GM purchased 4 other Delphi sites. 
+ﬁOld
+ﬂ Delphi 
+became DPH Holdings Corp., an entity set up to sell or dispose of any 
+
+remaining assets.
+  After the sale of the assets in July 
+2009, new GM began operating with substantially less debt and Treasury 
+received 60.8 percent equity and $2.1 billion in preferred stock in the new 
+GM, and a $6.7 billion GM debt obligation.
+                                                                                                                        12
+In December 2008, Treasury established AIFP under the Troubled Asset Relief Program 
+(TARP) to help stab
+ilize the U.S. automotive industry and avoid disruptions that would 
+pose systemic risk to the nation
+™s economy. TARP was authorized under the Emergency 
+Economic Stabilization Act of 2008 (EESA), Pub. L. No. 110
+-343 div. A, 122 Stat. 3765 
+(codified as amended at 12 U.S.C. §§ 5201
+-5261). EESA originally authorized Treasury to 
+
+purchase or guarantee up to $700 billion in troubled assets. § 115(a), 122 Stat. 3780. The 
+Public
+-Private Investment Program Improvement and Oversight Act of 2009 amended 
+EESA to reduce the maximum allowable amount of outstanding troubled assets under 
+EESA by almost $1.3 billion, from $700 billion to $698.741 billion. Pub. L. No. 111
+-22, § 
+402, § 402(f), 123 Stat. 1656, 1658. EESA requires that the appropriate committees of 
+
+Congress be notified in writing when the Secretary of the Treasury, after consultation with 
+
+the Chairman of the Board of Governors of the Federal Reserve System, determines that 
+it is necessary to purchase other financial instruments to promote financial market 
+stabilit
+y. § 3(9)(B), 122 Stat. 3767 (codified at 12 U.S.C. § 5202(9)(B)).
+ 13
+Throughout this report, in cases where a distinction is important, we refer to the pre
+-bankruptcy entity as 
+ﬁold GM
+ﬂ and the new one that purchased its operating assets as 
+ﬁnew GM.
+ﬂ Prior 
+to bankruptcy, old GM
+™s legal name was General Motors Corporation. 
+The legal name of the new entity created in July 2009 was General Motors Company. As 
+
+of October 19, 2009, General Motors Company became General Motors LLC.
+     
+
+ 
+ 
+ Page 6 
+GAO
+-12-168  Delphi Pension Plans   
+Table 1: Terminated Delphi Defined Benefit Plans, as of July 31, 2009 
+ Plan 
+ Numbe
+r of participants 
+ Delphi Hourly
+-Rate Employees Pension Plan (hourly plan) 
+ 47,176 
+ Delphi Retirement Program For Salaried Employees 
+(salaried plan) 
+ 20,203 
+ Packard-
+Hughes Interconnect Non
+-Bargaining Retirement 
+Plan 
+ 1,383 
+ ASEC Manufacturing Retirement Program 
+ 533  Packard-
+Hughes Interconnect Bargaining Retirement Plan 
+ 165 Delphi Mechatronic Systems Retirement Program 
+ 148  Source: Pension Benefit Guaranty Corporation (PBGC).
+  PBGC was created as a government corporation by the Employee 
+Retirement Income Security Act of 1974 (ERISA)
+14
+ to help insure the 
+retirement income of U.S. workers with private
+-sector defined benefit 
+plans. Under PBGC
+™s single
+-employer insurance program, if a company
+™s pension plan has inadequate funds to pay all promised benefits, plan 
+sponsors meeting certain criteria can seek to terminate a plan through a 
+ﬁdistress
+ﬂ termination.
+15
+ Under certain circumstances, PBGC may also 
+decide to terminate an underfunded plan.
+16
+PBGC pays participants
+™ 
+benefits only up to certain limits set forth by 
+ERISA and related regulations. Participants whose benefits under the 
+plan would otherwise exceed these statutory limits may have their 
+benefits reduced to the guaranteed amount, unless the plan has sufficient 
+assets to pay the nonguaranteed portion of their benefits, either in part or 
+ In all these situations, PBGC 
+is generally appointed trustee of the plan, as provided under ERISA, and 
+
+assumes responsibility for paying benefits to the participants.
+                                                                                                                        14
+Pub. L. No. 93
+-406, 88 Stat. 829
+ (codified, as amended, at 29 U.S.C. §§ 1001
+-1461).
+ 15
+At least one of the following criteria must be present in order for PBGC to approve a 
+distress termination: (1) liquidation in bankruptcy (Chapter 7) or insolvency proceedings; 
+(2) reorganization in bankruptcy (Chapter 11); (3) inability to pay debts while in business 
+without terminating a plan; or (4) unreasonably, burdensome pension costs caused solely 
+by a decline in workers covered by the plan. 29 U.S.C. § 1341(c)(2)(B).
+ 16
+29 U.S.C. § 1342(a).
+ ERISA Guarantee Limits, 
+Benefit Determination
+     
+
+ 
+ 
+ Page 7 
+GAO
+-12-168  Delphi Pension Plans   
+in full. These guarantee limits include the phase
+-in limit, the accrued
+-at-normal limit, and the maximum limit, as illustrated in table 2.
+17
+Table 2: Types of Guaranteed Benefit Limits under ERISA
+  Maximum limit
+a Phase
+-in limit
+b Accrued
+-at-normal limit
+c  The g
+uaranteed benefit cannot exceed 
+the statutory maximum, adjusted annually, 
+at the time the plan terminates.
+  In 2009 (the year Delphi™s plans were 
+terminated), the maximum was $54,000 
+per year for a person retiring at age 65 
+
+and with no survivor benefit (tha
+t is, a 
+single
+-life annuity).
+  The maximum is lower for those retiring 
+under age 65 or with a survivor benefit.
+  The guaranteed benefit cannot 
+include any benefit increase 
+
+implemented through a plan 
+
+amendment that was made 
+within 1 year of the date of the 
+plan termination.
+  For benefit improvements that 
+became effective more than 1 
+year but less than 5 years prior 
+
+to the plan™s termination, the 
+guaranteed amount is the larger 
+of 20 percent of the benefit 
+
+increase or $20 per month of the 
+increase for each full year the 
+increase was in effect.
+  The monthly guaranteed benefit cannot be 
+greater than the monthly benefit provided 
+
+as a straight
+-life annuity (that is, a periodic 
+payment for the life of the retiree, with no 
+additional payments to survivors) 
+available at the plan™s normal retirement 
+
+age.  The portion of any combined early 
+
+retirement benefit and supplemental 
+
+benefit that exceeds the normal retirement 
+age straight life annuity is not guaranteed.
+ Source: ERISA, PBGC
+™s implementing regulations, and related doc
+uments.
+ a29 U.S.C. § 1322(b)(3); 29 C.F.R. § 4022.23 (2011). 
+b29 U.S.C. § 1322(b)(1) and (7); 29 C.F.R. § 4022.25 (2011). 
+c29 C.F.R. § 4022.21 (2011). 
+ Determining participants
+™ 
+benefit amounts following plan termination is a 
+complex process. It begins with PBGC gathering extensive data on plans 
+and individuals
+™ 
+work and personnel histories, and determining who is 
+eligible for benefits under a plan, which can be more complicated if the 
+company or plan has a history of mergers or elaborate structure or is 
+missing data. It requires understanding plan provisions that vary from 
+plan to plan and can be voluminous, applying the ERISA guarantee limits 
+to each individual
+™s benefit, valuing plan assets and liabilities, and 
+determining which participants may receive additional benefits from any 
+assets PBGC may recover from the sponsor. Final determination of 
+benefits can take years, especially in a large, complex plan.
+18
+                                                                                                                       17
+For mor
+e details on how these limits affected Delphi participant benefits, see appendix II.
+  If the participant is already retired, or retires before the process is complete, 
+18
+For more information on PBGC benefit determination, see GAO, 
+Pension Benefit 
+Guaranty Corporation: More Strategic Approach Needed for Processing Complex Plans 
+Prone to Delays and Overpayments
+ (
+GAO-
+09-716
+; Washington, D.C.: Aug. 2009).
+     
+
+ 
+ 
+ Page 8 
+GAO
+-12-168  Delphi Pension Plans   
+PBGC makes payments to the retiree initially based on an estimate of the 
+final benefit amount. Once the process is complete, PBGC notifies each 
+participant of the final benefit amount through a 
+ﬁbenefit determination 
+
+letter.
+ﬂ  As of September 30, 2011, PBGC insured the benefits of about 44 million 
+workers and retirees in more than 27,000 private DB plans. PBGC 
+receives no funds from general tax revenue and is financed by premiums 
+
+paid by DB plan sponsors, investment income, and assets that PBGC 
+acquires when it assumes control of a plan.
+19
+ As of the end of fiscal year 
+2011, PBGC had terminated and trusteed a total of 4,300 plans, and its 
+
+net accumulated financial deficit totaled $26 billion.
+20
+PBGC is governed by a three
+-member board of directors consisting of the 
+Secretaries of the Treasury, Labor, and Commerce, who are responsible 
+for establishing and overseeing the policies of the agency.
+ Additionally, at fiscal 
+year
+-end, PBGC
+™s estimate of total plan underfunding in plans sponsored 
+by financially risky single
+-employer program companies totaled 
+approximately $227 billion, up significantly from $170 billion the year 
+before.
+ 21
+ According to 
+PBGC, PBGC™
+s director is responsible for managing PBGC
+™s day
+-to-day 
+operations, including, according to PBGC, such decisions as whether and 
+when to terminate particular pension plans.
+22  We designated PBGC
+™s single
+-employer pension insurance program as 
+ﬁhigh risk
+ﬂ in 2003, 
+including it on our list of major programs that need urgent attention and 
+transformation.
+23
+                                                                                                                       19
+29 U.S.C. § 1305.
+  In 2007 and 2008, we reported that PBGC
+™s board had 
+20
+PBGC™
+s net accumulated financial deficit equals the total liabilities of the single employer 
+program and the financial assistance unlikely to be repaid from the multiemployer 
+program, less total assets in both programs.
+ 21
+29 U.S.C. § 1302(d) and (f) and 29 C.F.R. § 4002.3 (2011)
+. 
+22
+ERISA specifies that in carrying out PBGC™s functions, PBGC is to be administered by 
+its d
+irector. 29 U.S.C. § 1302(a).
+ 23
+GAO, Pension Benefit Guaranty Corporation Single
+-Employer Insurance Program: Long
+-Term Vulnerabilities Warrant 
+‚High Risk
+™ 
+Designation, 
+GAO-
+03-1050SP
+ (Washington, 
+D.C.: July 2003).
+ PBGC Finances and 
+Governance
+     
+
+ 
+ 
+ Page 9 
+GAO
+-12-168  Delphi Pension Plans   
+limited time and resources to fulfill its responsibilities.
+24
+  The program, 
+along with PBGC
+™s other insurance program, remains high risk due to an 
+ongoing threat of losses from the terminations of underfunded p
+lans.
+ In previous reports, we also have examined the challenges posed to 
+Treasury due to its multiple roles as a private pension regulator
+ 25 and a GM shareholder, as well as having its Secretary serve on the PBGC 
+board
+.26
+ In its role on
+ PBGC
+™s board and as a pension regulator, Treasury 
+has an interest in protecting the viability of private defined benefit pension 
+plans and the retirement incomes of plan participants. But as a GM 
+shareholder, Treasury has an interest in the financial well
+-being of GM.
+ Recognizing the potential for interested parties to perceive 
+possible 
+conflicts, we reported that Treasury ha
+s 
+taken several steps to mitigate 
+this risk. For example, the department adopted core principles to guide its 
+oversight of its
+ investments under TARP and limit its involvement in day
+-to-day operations of companies. The department also ha
+s 
+taken steps to 
+establish a protective barrier between Treasury officials who make policy
+-related decisions with respect to investments in the automakers and the 
+Treasury officials who are responsible for regulating pensions or 
+overseeing the operations of PBGC. Nevertheless, we noted that the 
+tensions inherent in Treasury
+™s multiple roles remained.
+27
+                                                                                                                       24
+GAO, 
+Pension Benefit Guaranty Corporation:
+ Governance Structure Needs 
+Improvements to Ensure Policy Direction and Oversight, 
+ In one previous 
+report, we concluded that Treas
+ury™
+s investment in the auto companies 
+created an enhanced need for transparency,
+ and we recommended that 
+GAO-
+07-808
+ (Washington, D.C.: 
+July 2007); GAO, 
+Pension Benefit Guaranty Corporation:
+ Need for Improved Oversight 
+Persists, 
+GAO-
+08-1062
+ (Washington, D.C.: September 2008).
+ 25
+The Internal Revenue Service (IRS), within Treasury, oversees the tax qualified status of 
+pension plans. 26 U.S.C. § 401(a).
+  
+26
+See GAO, 
+Troubled Asset Relief Program: Automaker Pension Funding and Multiple 
+Federal Roles Pose Challenges for the Future
+, GAO-
+10-492, (Washington, D.C.: April 6, 
+2010); GAO, 
+Troubled Asset Relief Program: The U.S. Government Role as Shareholder 
+in AIG, Citigroup, Chrysler, and General Motors and Preliminary Views on its Investment 
+Management Activities
+, GAO-
+10-325T
+ (Washington, D.C.: Dec. 16, 2009); GAO, 
+Troubled 
+Asset Relief Program: Status of Efforts to Address Transparency and Accountability 
+Issues
+, GAO-
+09-296
+ (Washington, D.C.: Jan. 30, 200
+9); and GAO, 
+Troubled Asset Relief 
+Program: Additional Actions Needed to Better Ensure Accountability, Integrity, and 
+Transparency
+, GAO-
+09-161 (Washington, D.C.: Dec. 2, 2008).
+ 27
+For more on this topic, see 
+GAO-
+10-492
+, pp. 42
+-45.
+ Treasury
+™s Multiple Roles
+     
+ 
+ 
+ Page 10 
+GAO-12-168  Delphi Pension Plans   
+Treasury should regularly communicate to Congress about TARP 
+activities to ensure accountability and provide added assurances that the 
+taxpayers™ investment is being appropriately safeguarded.
+28 In a subsequent report, we reiterated this recommendation, and noted that by 
+providing a more complete picture of the companies™ financial 
+
+performance, Treasury also could help mitigate potential or perceived 
+tensions in its multiple roles.
+29 Although Treasury had initially expressed concerns about disclosing proprietary information in a competitive market, 
+it agreed to provide information on its oversight of the companies™ 
+performance that balances the need for transparency with the need to 
+protect certain proprietary business information.
+30  PBGC™s decision to terminate the Delphi DB plans was precipitated by 
+Delphi™s inability to fund or maintain its plans and by the threat of 
+increased losses from Delphi™s impending loan default and possible 
+
+liquidation. Treasury, as GM™s primary lender in bankruptcy, played a 
+significant role in helping GM resolv
+e the Delphi bankruptcy to arrive at the ﬁbest resolutionﬂ from GM™s perspective.31 However, with regard to GM™s decisions regarding the assumption of Delphi™s plans and top-up 
+
+agreements, Treasury played an advisory role only, according to GM and 
+Treasury officials. Similarly, according to PBGC officials, PBGC 
+
+independently decided to terminate the Delphi plans. The documents we 
+reviewed, including GM and Delphi SEC filings and PBGC internal 
+records, are consistent with these statements. 
+                                                                                                                      
+ 28GAO, Troubled Asset Relief Program: Continued Stewardship Needed as Treasury 
+Develops Strategies for Monitoring and Divesting Financial Interests in Chrysler and GM
+, GAO-10-151 (Washington, D.C.: Nov. 2, 2009). 
+Specifically, we recommended that 
+Treasury report to Congress on how it planned to assess and monitor GM™s and Chrysler™s 
+performance to help ensure the companies are 
+on track to repay their loans and to return 
+to profitability. 
+29GAO-10-492. 30Because of Treasury™s concerns about disclosing proprietary information in a 
+competitive market, Treasury responded to our recommendation by providing GAO, as a 
+
+congressional oversight body, with information on how it was using sensitive business 
+
+information to oversee the companies™ perfo
+rmance. This approach was consistent with 
+our recommendation that noted the need for transparency to be balanced with protecting 
+certain propriety information.  
+31Deposition of Matthew Feld
+man, Black v. PBGC, No. 04-44481 (RDD) (S.D. N.Y. July 
+21, 2009). 
+Threat of Increased Losses Led PBGC to 
+Terminate Delphi 
+
+Pension Plans     
+
+ 
+ 
+ Page 11 
+GAO
+-12-168  Delphi Pension Plans   
+PBGC officials said the agency would have preferred to have Delphi 
+emerge from bankruptcy and continue to sponsor the plans rather than
+ terminate them. Delphi had announced in March 2006 that a key objective 
+
+in restructuring was to continue to sponsor both the hourly and salaried 
+DB plans. Therefore, PBGC
+™s activities were focused on allowing the 
+plans to continue after Delphi exited bankruptcy and having a reorganized 
+Delphi continue to fund the plans. While PBGC has authority under 
+ERISA to involuntarily terminate a plan that fails to meet certain 
+conditions,
+32
+The vision was not realized, however. The Delphi bankruptcy court 
+confirmed Delphi
+™s reorganization plan in January 2008, but on April 4, 
+2008, Delphi
+™s investors retracted an offer that would have executed the 
+plan and prevented the termination of its pension plans. Delphi also 
+
+negotiated with GM, Delphi
+™s former parent company, to assume Delphi
+™s hourly plan, but these efforts were only partially successful. Under a 
+change to an agreement initially negotiated between the companies in 
+2007, GM would assume the hourly plan in two phases; this would reduce 
+
+Delphi
+™s overall pension liabilities and make it more attractive to investors, 
+while Delphi would continue sponsoring the salaried plan. After making 
+
+some changes to the agreement, the first phase occurred in September 
+
+2008, transferring approximately $2.1 billion in net liabilities from Delphi to 
+GM. However, the second phase, in which GM would have absorbed 
+substantially all of the remaining hourly plan liabilities, was conditional on 
+Delphi successfully reorganizing.
+ PBGC officials said that they hoped that avoiding termination 
+would save both the agency and plan participants from potential losses 
+from unfunded plan benefits.
+ 33
+  In July 2009, after Delphi
+™s attempts to 
+reorganize failed, and with GM in its own bankruptcy, GM decided not to 
+
+take on the remaining liabilities of Delphi
+™s hourly plan. According to 
+representatives of GM, after it was clear Delphi would not be able to 
+reorganize, Delph
+i asked GM to take the salaried plan as well; however, 
+GM declined.
+                                                                                                                        32
+Under ERISA, PBGC has authority to involuntarily terminate a plan that fails to m
+eet 
+minimum funding standards, will be unable to pay benefits due, failed to make quarterly 
+contributions, or is reasonably expected to increase long term losses to PBGC if not 
+terminated. 29 U.S.C. § 1342(a).
+ 33
+Delphi also agreed that the reorganized Delphi would provide GM with up to a $2.055 
+billion administrative claim.
+ PBGC Initially Focused on 
+Delphi or Another 
+Company Continuing the
+ 
+Plans
+     
+
+ 
+ 
+ Page 12 
+GAO
+-12-168  Delphi Pension Plans   
+By 2009, PBGC determined that the economic decline and the collapse of 
+the U.S. auto industry had diminished the likelihood that Delphi, GM, or 
+another company would be able and willing to sponsor Delphi
+™s plans. 
+Moreover, it became apparent to PBGC officials that PBGC
+™s potential 
+losses could grow if it waited. Delphi net sales, already on a steady 
+
+decline since 2003, had fallen 50 percent between 2008 and 2009, and 
+funding for Delphi
+™s plans had been eroding since 2007.
+34
+According to PBGC officials, the likelihood that Delphi would default on its 
+
+debtor-in-possession (DIP) loan, and the potential impact on PBGC 
+recoveries, moved them in April 2009 to decide to terminate the Delphi 
+plans.
+ Delphi
+™s SEC filing that month stated that Delphi
+™s short
+-term loan 
+from its DIP lenders was due to expire, and that extension of the loan w
+as 
+conditional on Delphi (1) delivering the lenders terms, agreed to by 
+
+Treasury and GM; and (2) finalizing GM
+™s contributions to the resolution 
+of Delphi
+™s bankruptcy. The filing noted that failure to meet these terms 
+would trigger a requirement that Delphi make a $117 million repayment 
+
+obligation on April 20. With Delphi unlikely to make this payment, it was 
+possible that the lenders would foreclose on Delphi assets held as 
+
+collateral. Foreclosure would have threatened PBGC
+™s ability to recover 
+Delphi Corporation assets on behalf of its plans, which would in turn have 
+
+increased PBGC
+™s and Delphi plan participant losses from plan 
+termination. With a deteriorating auto industry and no foreseeable 
+sponsor for the Delphi plans, and with potential recoveries th
+reatened, 
+PBGC concluded that the agency
+™s long
+-run loss would increase if the 
+plans were not terminated.
+  Delphi
+™s largest 
+customer, GM, amidst the lowest per
+-capita vehicle sales in 50 years, 
+requested financial assistance from the U.S. government in December 
+
+2008. These conditions diminished the likelihood that Delphi would be 
+able to continue 
+operating
+ and maintain its pension plans.
+ Ultimately, however, PBGC postponed termination.
+ The urgency to 
+terminate in April, was reduced after Delphi
+™s DIP lenders offered PBGC a 
+5-
+business d
+ay notice prior to foreclosing, fearing, according to PBGC, 
+                                                                                                                       34
+Different estimates, done on different dates and using different methodologies intended 
+for different purposes, measured varying degrees of funding in Delphi
+™s salaried plan. 
+According to Delphi, the salaried plan was 53.7 percent funded as of year
+-end 2008 and 
+was still 53.7 percent funded as of the date of plan termination on July 31, 2009. DSRA, 
+based on an actuarial evaluation by Watson Wyatt, reported the salaried plan was 85.6 
+perce
+nt funded as of October 1, 2008. PBGC measured salaried plan funding at 48 
+percent as of termination on July 31, 2009.
+ Lack of a Willing Sponsor 
+and the Risk of Additional 
+Losses Prompted PBGC to 
+
+Terminate
+     
+
+ 
+ 
+ Page 13 
+GAO
+-12-168  Delphi Pension Plans   
+that termination of Delphi
+™s pension plans would reduce Delphi
+™s value. In 
+a June 1, 2009, press release, Delphi stated that the hourly plan would 
+ﬁbe addressed
+ﬂ by GM and that PBGC 
+ﬁmay
+ﬂ terminat
+e the salaried and 
+four smaller plans. According to Treasury, PBGC later confirmed that GM 
+was not an alternative sponsor for the Delphi hourly plan. On June 30, 
+2009, a meeting took place between PBGC and Treasury to discuss the 
+
+Delphi plans; according to
+ PBGC, Treasury informed PBGC officials that 
+GM would not assume the remaining Delphi hourly pension liabilities. 
+
+Finally, on July 15, 2009, Delphi
+™s DIP lenders gave PBGC a notice of 
+foreclosure under the April agreement. With no willing and viable sponso
+r, 
+PBGC officials expected the plans would be abandoned with no sponsor 
+to pay benefits as they came due. On July 22, 2009, PBGC announced 
+
+that Delphi
+™s plans would be terminated. The termination date was set to 
+be July 31, 2009, and PBGC officially became
+ the trustee of the plans on 
+August 10, 2009. Delphi
+™s claim was the second largest in PBGC
+™s history, following United Airlines as the largest.
+ Our examination of PBGC termination decisions for nine of its ten largest 
+
+insurance claims (Delphi
+™s being the tenth) shows the agency making 
+assessments similar to those it made for the Delphi pension plans. In 
+
+each case, we found that PBGC evaluated the future viability of the plans 
+
+when making such decisions. For example, PBGC considered the 
+likelihood of the company securing investment or more generally exiting 
+bankruptcy as the plan
+™s sponsor, or, alternatively, of an asset purchaser 
+assuming the plan. PBGC also assessed future plan funding. For 
+example, staff recommended termination of Weirton Steel
+™s plan 
+exp
+ecting that plan funding would soon decline. Weirton Steel, pursuing 
+two tracks to exit bankruptcy, both of which assumed plan termination, 
+
+filed an emergency motion seeking court approval to lay off 175 
+management employees, which would have triggered additional benefits 
+
+totaling up to $270 million. PBGC expected the layoffs to significantly 
+reduce the funding of Weirton
+™s already underfunded pension plan and 
+terminated the pension plan before the plan
+™s funding was affected.
+  As GM
+™s primary lender in bankruptcy, Treasury played a significant role 
+in helping GM resolve the Delphi bankruptcy in terms of GM
+™s interests. 
+Treasury
+™s guiding principle was to see the bankruptcy resolved with the 
+least possible amount of investment by GM while still preserving GM
+™s supply chain. However, with regard to GM decisions about the Delphi 
+pension plans
+Štheir sponsorship and the decision to honor existing top
+-up agreements
+Šcourt filings and statements from GM and Treasury 
+officials su
+pport
+ that Treasury deferred to GM
+™s business judgment. 
+Treasury Was Involved as
+ GM 
+Determined How Best 
+to Resolve the Delphi 
+Bankruptcy
+     
+
+ 
+ 
+ Page 14 
+GAO
+-12-168  Delphi Pension Plans   
+According to Treasury officials, Treasury agreed with GM
+™s assessment 
+that the company could not afford the potential costs of sponsoring the 
+Delphi hourly plan. With regard to the top
+-ups, Treasury officials said that 
+
+while Treasury did not explicitly approve or disprove of GM
+™s agreement 
+to honor previously negotiated top
+-up agreements with some unions, it 
+
+agreed that GM had solid commercial reasons to ente
+r into such 
+
+agreement. Similarly, PBGC officials have maintained that their agency
+™s decision to terminate the Delphi plans was made independent of input 
+
+from Treasury.
+ From Treasury
+™s initial discussions about Delphi
+™s pensions with PBGC in 
+April 2009 until after GM
+™s bankruptcy filing on June 1, 2009, Treasury 
+had anticipated that Delphi
+™s salaried pension plan would be terminated 
+by PBGC, but that GM would assume the remaining portion of Delphi
+™s hourly plan, as called for in phase 2 of the September 2008 agreement. 
+
+With respect to the salaried plan, according to Treasury officials, Treasury 
+agreed with GM
+™s rationale not to assume the now underfunded Delphi 
+salaried plan, since that plan had been fully funded when GM
+ transferred 
+it to Delphi in 1999.
+35
+ With respect to the hourly plan, however, 
+a 
+Treasury official
+™s deposition indicate
+s 
+that Treasury thought it was 
+reasonable for GM to assume the Delphi hourly plan for UAW
+-
+represented workers, given the UAW
+™s continuing
+ role with the new GM 
+and the fact that the hourly plan, which covered both the UAW and other 
+union
+-represented workers, had not been fully funded at the time the plan 
+was transferred from GM to Delphi in 1999.
+36
+According to our review of the records, Treasury was involved in 
+discussions with PBGC and GM prior to GM
+™s bankruptcy filing, on how to 
+address Delphi
+™s pensions. Specifically, according to 
+the Treasury 
+official
+™s deposition, initial discussions with PBGC, GM, and Treasury in 
+                                                                                                                        35
+According to data provided by Delphi, based on a fair market valuation of plan assets 
+the Delphi salaried plan was 108.8 percent funded as of year
+-end 1998 and 122.7 percent 
+funded as of year
+-end 1999. (
+ﬁFully funded
+ﬂ means that as of a particular date, plan assets 
+equal or exceed the relevant measure of plan obligations.)
+ However, for the typical 
+pension plan invested in a mix of stocks and bonds, measures of funded status can be 
+highly volatile, so that a plan that is fully funded on one date could be substantially less 
+than fully funded on a subsequent date
+ 36
+According to the deposition, Treasury was not focused on the other unions
+™ 
+plans
+ at this 
+time but was concerned about UAW because of UAW
+™s role for new GM.
+ According to 
+data from Delphi, the hourly plan was 69.1 percent funded as of year
+-end 1999, 
+measuring assets on a fair market value basis. 
+ Decisions Related to Plan 
+Sponsorship
+     
+
+ 
+ 
+ Page 15 
+GAO
+-12-168  Delphi Pension Plans   
+April and May 2009 centered on trying to reach an agreement under 
+which, among other things, the Delphi salaried plan would be terminated 
+and GM would assume the hourly pension plan. According to the 
+
+deposition, as of May 28, 2009, there was a general agreement with 
+PBGC that, if GM had been willing to take on the hourly plan, the salaried 
+plan would be terminated and PBGC would have an administrative claim 
+
+on the Delphi bankruptcy. In exchange, PBGC would release the liens on 
+Delphi
+™s foreign assets and have an unsecured claim for an undefined 
+amount.
+ According to PBGC officials, there were discussions in April and 
+May 2009 around the topic of how to deal with Delphi
+™s pension plans in 
+light of the collapse of the auto market and growing concerns about 
+Delphi
+™s inability to maintain its pension plans and imminent liquidation, 
+as well as GM
+™s own financial difficulties and impending bankruptcy. 
+However, PBGC officials told us that at this time, they had not reached 
+
+any agreement with GM or Delphi regarding the future of the Delphi
+ pension plans or settlement of PBGC liens and other claims that might 
+arise from the termination of one or more of Delphi
+™s pension plans.
+ According to court filings, GM officials first informed Treasury that they 
+
+had concerns about taking on the hourly plan and had not built the cost of 
+doing so into its restructuring plan on June 3, 2009
+Šshortly after GM
+™s bankruptcy filing. In June 2009, GM developed and provided Treasury 
+with an assessment of the costs of Delphi
+™s pensions, which explained 
+that the restructuring plan did not assume the transfer of remaining Delphi 
+hourly or salaried plans. The assessment also stated that, subject to 
+certain conditions, GM was obligated to absorb the second transfer of 
+Delphi
+™s hourly plan but did not expect Delphi to meet those conditions.
+37
+ GM also noted that it was not obligated to absorb Delphi
+™s salaried plans. 
+After reviewing GM
+™s calculations and engaging in discussions with GM
+™s pension team, Treasury agreed with GM
+™s assessment that taking on the 
+Delphi hourly plan was a 
+ﬁ3 billion dollar liability that General Motors could 
+
+not afford.
+ﬂ38
+                                                                                                                       37
+The assessment added that the since the
+ first transfer in September 2008, the unfunded 
+liability for the remainder of Delphi
+™s hourly plan had increased from $1.5 billion to 
+approximately $3.2 to 3.5 billion as of March 31, 2009
+  In a legal brief, Treasury has asserted that the department 
+38
+Upon termination in July 2009, PBGC calculated that the hourly plan underfunding 
+totaled $4.4 billion. 
+     
+
+ 
+ 
+ Page 16 
+GAO
+-12-168  Delphi Pension Plans   
+did not dictate what should be done with the Delphi pensions and that 
+Treasury agreed with GM
+™s decisions.
+39
+According to
+ PBGC, Treasury did not play an active role in PBGC
+™s decision to terminate the Delphi plans, although the Secretary of the 
+Treasury is one of PBGC
+™s three PBGC board members. 
+Specifically, 
+according to PBGC officials, PBGC
+™s director informed the board of
+ PBGC™
+s decision to seek termination of the Delphi plans, gave the board 
+advance notice of its subsequent implementation of that decision, and 
+routinely kept the board informed of the agency
+™s actions in the Delphi 
+bankruptcy case, consistent with PBGC
+™s practice in other large cases. 
+The law gives the board responsibility to establish and oversee PBGC 
+policies,
+ 40
+ but according to PBGC, the board decides broad policy issues 
+that may arise from cases without getting involved directly in those cases. 
+For their
+ part, Treasury officials acknowledged that the department had 
+multiple roles in this process by virtue of its roles in PBGC oversight and 
+
+in managing the U.S. investment in new GM, but noted that Treasury 
+does not communicate with PBGC about its GM investment activities.
+41
+ Moreover, in response to questions from Congress, the Treasury 
+Secretary stated that Treasury did not make the decision to terminate 
+Delphi
+™s pension plans.
+42
+Although GM decided not to assume the second installment of Delphi
+™s hourly plan, 
+it did decide to honor existing top
+-up agreements for 
+commercial reasons that Treasury found reasonable. As noted in a 
+Treasury official
+™s deposition, during GM
+™s bankruptcy process, GM was 
+prepared to honor the obligation of providing top
+-ups to Delphi UAW 
+
+retirees, while the situation was less clear regarding comparable 
+
+agreements with IUE and USWA. GM officials told us that the company 
+agreed to honor the top
+-up agreement with the UAW during its 
+restructuring because of its dependence on the union, whose members 
+                                                                                                                        39
+Mot. Def. U.S. Dep™t Treas,., Pres. Task Force on Auto Indus., Timothy F. Geithner, 
+Steven L. Rattner, Ron. A. Bloom, Dis., or Alt. Summ. J. at 24, Black v. PBGC, No. 2:09
+-cv-13616
+-AJT-
+DAS (E.D. Mich. Feb. 16, 2010).
+ 40
+29 U.S.C.
+ § 1302(d) and (f).
+ 41
+GAO-
+10-492.  42
+The Federal Bailout of AIG: Hearing before the House Committee on Oversight and 
+Government Reform, 111
+th Cong. (2010) (answers to questions for the record
+ from 
+Timothy Geithner, Secretary of the Treasury).
+ Decisions Related to Top
+-Up 
+Agreements 
+    
+
+ 
+ 
+ Page 17 
+GAO
+-12-168  Delphi Pension Plans   
+made up a substantial part of GM
+™s workforce. GM agreed to provide top
+-ups to the Delphi UAW retirees as part of GM
+™s master sale and purchase 
+agreement, to which Treasury gave its approval.
+43
+While new GM maintained that it was not obligated to provide top
+-ups to 
+Delphi IUE and USWA retirees, it did have reason to want to resolve 
+Delphi
+™s bankruptcy, given GM
+™s reliance on Delphi for parts.
+ The agreement did not 
+include top
+-ups for IUE and USWA
+-represented employees, nor for the 
+splinter unions or the salaried employees, who had no previous top
+-up agreements with GM.
+ 44
+                                                                                                                       43
+In re General Motors Corp, 407 B.R. 463, 481 (Bankr. S.D.N.Y. 2009) (Decision on 
+debtor™s motion for approval of (1) sale of assets to Vehicle Acquisitions Holdings LLC; (2) 
+assumption and assignment of related executory contracts; and (3) entry into UAW retiree 
+
+settlement agreement). 
+The master sale and purchase agreement outlined, among other 
+things, the assets being sold by old GM to new GM and the liabilities being assumed by new 
+GM from old GM. 
+  Moreover, 
+IUE and USWA, which still represented part of Delphi
+™s workforce, 
+needed to give their consent to finalize the sale of assets in Delp
+hi™s bankruptcy. According to a GM official
+™s court declaration, a prolonged 
+cessation in the supply of parts from Delphi to GM would have had a 
+ﬁdevastating effect on GM, its ability to reorganize, and the communities 
+that depend on employment by GM and its community of parts 
+44
+According to a July 2009 declaration of a GM official, since the spin
+-off from GM, Delphi 
+was GM
+™s largest component parts supplier, accounting for approximately 11.3 percent of 
+GM™s North American purchases and 9.6 percent of GM
+™s global purchases in 2008.
+ Declaration of Randall L. Pappal in Support of Debtors
+™ 
+Motion for Entry of Order 
+Approving (I) Master Disposition Agreement for Purchase of Certain assets of Delphi 
+Corp., (II) Related agreements, (III) Assumption and Assignment of Executory Contracts, 
+(IV
+) Agreement with PBGC, and (V) Entry into Alternative Transaction in Lieu Thereof, at 
+4, In re General Motors Corp., No. 09
+-50026 (Bankr. S.D.N.Y. July 8, 2009). 
+     
+
+ 
+ 
+ Page 18 
+GAO
+-12-168  Delphi Pension Plans   
+suppliers.
+ﬂ45
+ According to a Treasury official
+™s deposition, Treasury was 
+kept apprised of GM
+™s ongoing bargaining with IUE and USWA on a 
+variety of issues, including the top
+-ups.
+46
+Although Treasury officials said that Treasury did not explicitly approve or 
+disapprove of GM providing top
+-ups to the Delphi UAW, USWA, and IUE 
+
+retirees, Treasury did subsequently comment on GM
+™s decision. In 
+a 
+legal 
+brief, Treasury stated that GM had solid commercial reasons for providing 
+the top-ups.
+ Additionally, according to 
+Treasury officials, Treasur
+y™
+s consent for transactions greater than $100 
+million, which had been required prior to GM
+™s bankruptcy, was not 
+required of new GM and therefore, was not required when the settlement 
+agreement was signed, 2 months after new GM began operations. 
+Negotiati
+ons resulted in an agreement, on September 10, 2009, between 
+new GM, old GM, IUE, and USWA that, among other things, honored the 
+top-ups to the retirees of Delphi who were represented by these unions 
+and who were covered by the 1999 top
+-up agreements. According to the 
+
+agreement, the parties entered into it after consideration of the factual 
+and legal arguments regarding these issues, as well as the costs, risks, 
+and delays associated with litigating these issues.
+ 47
+                                                                                                                       45
+Declaration of Randall L. Pappal in Support of Debtors
+™ 
+Motion for Entry of Order 
+Approving 
+(I) Master Disposition Agreement for Purchase of Certain assets of Delphi 
+Corp., (II) Related agreements, (III) Assumption and Assignment of Executory Contracts, 
+(IV) Agreement with PBGC, and (V) Entry into Alternative Transaction in Lieu Thereof at 4, 
+In 
+re General Motors Corp., No.09
+-50026 (Bankr. S.D.N.Y. July 8, 2009).
+ The declaration 
+stated that Delphi was a sole
+-source, just
+-in-time supplier of many critical parts to GM, 
+including parts that are used in almost every GM product line in North America an
+d identified several ways that a cessation of parts delivery by Delphi could affect GM, 
+
+including that (1) most parts that Delphi manufactures for GM are not readily available 
+from an alternate source, and while GM could accelerate efforts to resource Delphi parts 
+in the event of a supply interruption, the sheer magnitude of the parts to be resourced and 
+
+revalidation required would take at least several months to achieve; (2) because GM 
+operates on a just
+-in-time inventory delivery system, GM plants relying
+ on just
+-in-time 
+shipments may run out of inventory of such parts and have to shut down within a matter of 
+days, if Delphi ever ceased shipping even a small fraction of production parts to GM; and 
+(3) the shutdown of GM plants as a result of termination of
+ deliveries of affected parts from 
+Delphi could idle tens of thousands of GM workers, significantly decrease GM
+™s revenues, 
+and increase GM
+™s costs to expedite resourcing efforts.
+  
+ Specifically, Treasury stated that its aim in negotiating the 
+details of GM
+™s reorganization plan was to ensure that new GM would 
+assume only those liabilities of old GM that were 
+ﬁcommercially 
+46
+Deposition of Treasury Official, No. 04
+-44481 (RDD) (S.D. N.Y. July 21, 20
+09).
+  
+47
+Mot. Def. U.S. Dep™t Treas. at 28
+.  
+    
+
+ 
+ 
+ Page 19 
+GAO
+-12-168  Delphi Pension Plans   
+necessary
+ﬂ in order for new GM to operate. Treasury noted in the brief 
+that because of new GM
+™s dependence on the UAW workforce and the 
+costs, risks, and delays associated with litigating USWA
+™s and IUE
+™s claims related to the Delphi bankruptcy, new GM had solid commercial 
+reasons to agree to provide the top
+-ups to the Delphi UAW, USWA, and 
+IUE retirees. Additionally, Treasury officials noted that, unlike the hourly 
+plan, the salaried plan was fully funded at the time GM transferred it to 
+Delphi, and that because GM was never obligated to provide top
+-ups to 
+the salaried or other retirees not represented by UAW, IUE, and USWA.
+ As a result of GM
+™s decisions to pay top
+-up benefits 
+to those participants 
+covered by the agreements and to take back a portion of the Delphi 
+
+hourly plan in September 2008, GM will bear some
+ of the costs of 
+Delphi
+™s unfunded pension liabilities (see fig. 1). Retirees who experience 
+benefit reductions that are not topped up by GM will also bear a portion of 
+
+the cost through their 
+reduced
+ benefits. However, PBGC will bear the 
+biggest burden
+Šabout $6 billion in unfunded guaranteed benefits across 
+
+all six of Delphi
+™s DB plans.
+     
+
+ 
+ 
+ Page 20 
+GAO
+-12-168  Delphi Pension Plans   
+Figure 1: Who Is Bearing the Cost of Delphi Pension Plans
+™ 
+Unfunded Liabilities
+ aGM estimated the cost for top-up benefits in December 2010. GM™s top-up estimate is higher than 
+PBGC
+™s estimate for the hourly plan™s total amount of unfunded nonguaranteed benefits because GM 
+will pay some benefits not included in PBGC™s calculations. For example, unlike PBGC™s estimate, 
+GM
+™s estimate includes obligations to provide up to 7 years of accrued benefits for certain employees 
+covered under the top-up agreement who were not eligible to retire as of the plan termination date, 
+but who became (or will become) eligible to retire under a normal or voluntary retirement during this 
+
+7-year wi
+ndow. In addition, GM™s estimate includes obligations to provide covered employees who 
+retired under the mutually satisfactory retirement (MSR) option, for which GM will pay the difference 
+
+between the PBGC deferred vested pension benefit and the Delphi MSR benefit amount. 
+      
+
+ 
+ 
+ Page 21 
+GAO
+-12-168  Delphi Pension Plans   
+PBGC took actions during Delphi
+™s bankruptcy to protect plan funding and 
+recover assets from Delphi, eventually recovering between $600 and 
+$650 million against the $7.2 billion in total unfunded plan benefits. PBGC 
+
+negotiated value for its claims and liens with Delphi and GM, releasing 
+them for a settlement generating cash and other recoveries. The process 
+for distributing these recoveries is laid out in ERISA,
+48
+ PBGC 
+regulations,
+49
+  policies, and procedures. Because of the large gap 
+between plan assets and liabilities in Delphi
+™s plans relative to PBGC
+™s recoveries, its recoveries are expected to have only a modest impact on 
+the benefits of only some participants.
+ Upon the termination and trusteeship of an underfunded single
+-employer 
+plan, PBGC generally takes control of all plan assets, but PBGC also has 
+
+authority to recover additional money from company assets outside of its 
+pension plans.
+ ERISA provides that when underfunded single
+-employer 
+plan is terminated, the plan sponsor and other entities under common 
+control (the controlled group)
+50
+ are 
+ﬁjointly and severally
+ﬂ51
+ liab
+le to PBGC 
+for any unpaid premiums
+52
+ and the amount of any unfunded benefit 
+liability.
+53
+ In addition, a plan sponsor is required under ERISA to 
+periodically make certain minimum contributions to its plan,
+54
+ andŠalong 
+with other members of the controlled group
+Šis liable to a plan for any 
+required contributions not made by the date due.
+55
+                                                                                                                       48
+29 U.S.C. § 1344.
+  49
+See 29 C.F.R. pt. 4044 (2011).
+ 50
+The controlled group consists of the plan sponsor and other entities under common 
+control, determined generally as prescribed under 26 U.S.C. § 1563(a), 29 U.S.C. § 
+1301(a)(14), and
+ 26 C.F.R. § 1.414(b)
+-1 (2011).
+ 51
+Joint and several liability is when a creditor may sue one or more of the parties 
+separately, or sue
+ all of them.
+ 52
+29 U.S.C. §1307(c).
+ 53
+29 U.S.C. § 1362(a).
+ 54
+29 U.S.C. §§ 1082 and 1083.
+ 55
+29 U.S.C. § 1082(b)(1) and (2).
+ PBGC Pursued Claims 
+on Delphi
+™s Assets, 
+Resulting in between 
+$600 Million and $650 
+
+Million in Recoveries
+ PBGC Pursued Statutory 
+Claims Arising against 
+
+Delphi
+™s Assets
+     
+
+ 
+ 
+ Page 22 
+GAO
+-12-168  Delphi Pension Plans   
+ERISA imposes a lien that can only be officially filed (
+ﬁperfected
+ﬂ)56
+ by 
+PBGC on behalf of a plan in the amount of the aggregate missed 
+contribution payments, when the total of those missed payments exceeds 
+$1 million.
+57
+ PBGC first filed liens on behalf of the Delphi plans, for 
+missed required contributions of $75,177,000, in March 2006.
+58
+ From 
+2006 to 2009, PBGC filed liens on behalf of the Delphi plans in response 
+to Delphi
+™s fai
+ling to contribute to its plans in the amounts required by 
+statutory minimum funding standards. As of the termination of the Delphi 
+plans in July 2009, PBGC held $195.9 million in perfected liens on behalf 
+of the salaried plan and a combined $9.2 million on behalf of Delphi
+™s smaller pension plans, for a total of $205 million in secured claims. PBGC 
+officials told us they filed these liens for missed contributions only on the 
+assets of Delphi
+™s foreign subsidiaries because Delphi
+™s domestic assets 
+were shielded from PBGC liens by the automatic stay in Delphi
+™s bankruptcy.
+59
+                                                                                                                       56
+A lien is perfected by filing it as prescribed in the relevant jurisdiction. Perfecting a lien 
+provides constructive notice of its existence to all third parties and gives it priority over any 
+later
+-perfected liens.
+ In a bankruptcy, a properly perfected lien becomes a secured claim; 
+an unperfected lien is treated the same as a general unsecured claims.
+ All creditors with 
+secured claims must receive payment in full (or up to the total value of their security) 
+before those with general unsecu
+red cla
+ims receive any payment at all.
+  In addition, prior to the transfer of $2.1 billion in net 
+liabilities to GM
+™s hourly plan, PBGC also held liens on behalf of Delphi
+™s hourly plan, reflecting missed required contributions to that plan. 
+However, according to PBGC, the transfer of a portion of Delphi
+™s hourly 
+plan in September 2008 eliminated the hourly plan
+™s accumulated funding 
+deficiency, eliminating the legal basis for any liens for missed 
+
+contributions up to that point in time. Following the transfer, the 
+contribution due to Delphi
+™s hourly plan for the final plan year was $194 
+million. However, according to PBGC officials, because no quarterly 
+contributions were due, that final $194 million catch
+-up payment was not 
+due until June 15, 2010, well after the plan was terminated, and therefore, 
+
+a lien did not arise.
+ 57
+29 U.S.C. § 1083(k).
+ 58
+The Internal Revenue Code requires single employer plan sponsors to make a certain 
+amount of periodic contributions to their DB plans and maintain minimum funding 
+standards.
+ 26 U.S.C. § 412.
+ 59
+Fi
+ling for bankruptcy operates as an automatic stay barring anyone from, among other 
+things, perfecting
+ or enforcing liens against the filing party. 11 U.S.C. § 362(a)(4).
+     
+
+ 
+ 
+ Page 23 
+GAO
+-12-168  Delphi Pension Plans   
+ERISA also establishes a lien on behalf of PBGC in the amount of any
+ unfunded benefit liability as of the plan
+™s termination date, up to an
+ amount not in excess of
+ 30 percent of the controlled group
+™s net worth
+60
+  However, when a firm is in bankruptcy
+Šas was the case with Delphi
+ŠPBGC is barred from perfecting a lien under this provision. According to 
+PBGC officials, although liens could have arisen under this provision on 
+Delphi
+™s foreign controlled group members after the Delphi plans were 
+terminated, they concluded that PBGC could maximize recoveries by 
+achieving a settlement prior to termination, in part because they were 
+concerned about the potential breakup of Del
+phi™s controlled group and 
+the impact this would have on recoveries.
+ According to information from PBGC, in May 2009, PBGC, Delphi, GM 
+and Treasury met to discuss the status of negotiations surro
+unding 
+Delphi
+™s bankruptcy, including the pension plans. Treasury participated in 
+those negotiations as the facilitator between GM and PBGC regarding 
+Delphi pension issues.
+61
+According to a GM official
+™s court declaration, 
+neither GM nor presumably any other
+ potential purchaser was willing to 
+purchase Delphi
+™s assets while they were subject to the threat of liens 
+PBGC held on behalf of the underfunded Delphi plans. Therefore, GM
+™s obligations to Delphi were conditioned upon PBGC agreeing to remove 
+these liens
+ on Delphi
+™s assets. During the negotiations, GM recognized 
+that it might be necessary for it to make a cash payment to the PBGC or 
+assume some portion of Delphi
+™s unfunded pension liabilities. GM noted it 
+would only make such a payment if necessary to help Delphi
+™s reorganization and the payment was clearly outweighed by the benefits 
+
+GM would receive from Delphi
+™s reorganization. GM also noted that any 
+contributions under an agreement with PBGC would be subject to 
+Treasury
+™s consent if funds in a restricted escrow account, over which 
+Treasury held approval rights, would be used for such contributions.
+62
+                                                                                                                       60
+29 U.S.C. § 1368.
+  61
+Deposition of Treasury Official, No. 04
+-44481 (RDD) (S.D. N.Y. Jul
+y 21, 2009).
+  
+62
+Of the $30.1 billion that Treasury provided to GM at its bankruptcy filing, $16.4 billion 
+was held in escrow to be accessed by GM on an as
+-needed basis with the consent of 
+Treasury.
+ In October 2009, Treasury approved GM
+™s request for approximately $3 billion 
+from this account for transactions related to the resolution of the Delphi bankruptcy.
+ According to GM, this amount included the $70 million payment that GM made as part of 
+its agreement with PBGC.
+ PBGC Negotiated the 
+Value of Its Claims with 
+
+Delphi and GM
+     
+
+ 
+ 
+ Page 24 
+GAO
+-12-168  Delphi Pension Plans   
+PBGC and Delphi reached an agreement on July 21, 2009, and PBGC 
+announced it was terminating Delphi
+™s plans the following day. PBGC 
+received a membership interest in new Delphi, which gave it rights to 
+some of the initial profit distributions from post
+-bankruptcy Delphi. PBGC 
+actuaries valued the interest at $500 to $600 million. GM also paid PBGC 
+$70 million in cash. In exchange, PBGC released $205 million in
+ liens on 
+Delphi
+™s foreign assets (which PBGC considered worth substantial 
+negotiating leverage in maximizing recoveries) and released Delphi 
+
+controlled group members from any potential future PBGC claim that 
+
+might arise against them under any circumstance
+s. PBGC also settled 
+with Delphi and received a $3 billion general unsecured claim in Delphi
+™s bankruptcy in exchange for releasing all of its other claims in the case 
+
+(see fig. 2).
+ In March 2011, PBGC redeemed its membership interest from new Delphi 
+
+for $594 million. Soon after, in April 2011, PBGC sold its remaining $3 
+billion general unsecured claim against old Delphi to Credit Suisse Loan 
+Funding, LLC for $53 million
+Šroughly 2 cents on the dollar. Together, 
+
+PBGC™
+s recoveries of Delphi Corporation assets
+ totaled approximately 
+$717 million
+Šor an estimated $600 million to $650 million when 
+discounted to its value as of the date of plan termination, as required 
+under ERISA.
+63
+                                                                                                                       63
+29 U.S.C. § 1362(b)(1).
+  Based on these values, recovery ratios for Delphi
+™s hourly 
+and salaried plans are estimated to ultimately be just over 6 percent.
+     
+
+ 
+ 
+ Page 25 
+GAO
+-12-168  Delphi Pension Plans   
+Figure 2: PBGC Asset Recoveries in Delphi
+™s Bankruptcy
+ The recovery ratios in Delphi™s case are comparable to those we found in 
+the nine other companies on PBGC™s top
+-10 list of largest claims, although 
+the circumstances surrounding each recovery process are unique. As it did 
+in Delphi™s case, PBGC had claims on non
+-debtor corporate subsidiaries in 
+recovery efforts against three other large terminations we examined: 
+Weirton Steel, Bethlehem Steel, and National 
+Steel. Also, as it did with 
+Delphi, PBGC entered into a negotiated settlement agreement with eight of 
+the other nine companies on PBGC™s top
+-10 list of largest claims.
+64
+We reviewed documents for the 29 plans across these nine firms, and 
+found that the recovery ratios ranged from 0 percent to 38.5 percent. 
+                                                                                                                        64
+The companies we reviewed, 5 airlines and 4 steel companies and Delphi, are single
+-employer pension plan firms with the 10 highest claims on PBGC from 1975 through 2010. 
+Among them they sponsored a total of 35 DB plans.
+ See appendix III for a summary of 
+PBGC recoveries 
+for terminated plans of these firms. In addition to these terminations we 
+also reviewed the terminations of the Collins & Aikman Corporation and Hayes Lemmerz 
+International, Inc., because as it did in Delphi
+™s case, PBGC filed liens on foreign 
+subsidiaries
+ of those companies.
+     
+
+ 
+ 
+ Page 26 
+GAO
+-12-168  Delphi Pension Plans   
+Recovery ratios appeared to vary by industry for the other nine 
+companies, all of which are airlines or steel companies. Of the 13
+ terminated steel plans we reviewed, 9 had PBGC recovery ratios less 
+
+than 3 percent, and of the 11 large airline plans we reviewed, 8 had 
+recovery ratios over 8 percent. We also found that PBGC generally 
+
+achieved higher recovery ratios for plans of companies that were in a 
+
+position to emerge from bankruptcy after their plans
+™ 
+termination than 
+those of
+ companies positioned to sell their assets or liquidate.
+ We also sought to compare PBGC
+™s recovery efforts against Delphi with 
+other terminations involving companies with foreign assets. In response 
+
+to our request for cases involving foreign liens, PBGC did not identify any 
+of the firms involving their 10 largest claims,
+65
+ but instead provided two 
+other case examples. In one case, Hayes Lemmerz International, Inc., 
+PBGC entered into a settlement (along with the other creditors) for clai
+ms 
+on the company
+™s foreign subsidiaries to recover funds on behalf of the 
+company
+™s pension plan. PBGC
+™s claims in this case total $113.1 million, 
+and expected recoveries total $21.7 million, about 19 cents per dollar 
+claimed. In the other case, Collins &
+ Aikman Corporation, the company
+™s Canadian and Mexican subsidiaries represented a potentially large 
+portion of the net worth in the controlled group. As in Delphi
+™s case, 
+PBGC terminated the Collins & Aikman
+™s pension plan when it expected 
+that these foreign assets would leave the controlled group and reduce 
+
+PBGC recoveries. PBGC
+™s claims in this case total $225.2 million, and 
+recoveries total $8.7 million, a recovery ratio of less than 4 percent.
+66
+  A fraction of PBGC
+™s $600 million to $650 million in recoveries will go to 
+increase participant benefits beyond the level already guaranteed by 
+
+PBGC, with the rest offsetting PBGC
+™s payment of unfunded guaranteed 
+benefits. Recoveries of due and unpaid employer contributions are 
+
+allocated back to the pension plans to which they are owed. Based on the 
+
+liens for missed contributions to the Delphi plans, PBGC will allocate 
+                                                                                                                       65
+One of the companies on the top
+-10 list, Delta Airlines, did have foreign subsidiaries in 
+its controlled group and not in bankruptcy, but according to PBGC officials, these 
+subsidiaries were relatively small and could not provide PBGC
+ substantial recoveries. 
+Therefore, PBGC did not file foreign liens in that case.
+ 66
+As others have noted, PBGC
+™s authority to recover on liens abroad is not without some 
+constraints. Allan E. Reznick and A. Owen Glist, Pension Benefit Guaranty Corp.
+ŠControl
+led Group Claims Abroad, 235 N.Y. L.J. No. 33 (2006).
+ Recoveries Will Result in 
+Minimal Benefit Increases 
+
+beyond Guaranteed 
+
+Benefit Amounts
+     
+
+ 
+ 
+ Page 27 
+GAO
+-12-168  Delphi Pension Plans   
+$195.9 million of its recoveries to the salaried plan, and $9.2 million to the 
+smaller plans from its recoveries (see fig. 3).
+ Figure 3: Distribution of Asset Recoveries by PBGC in Delphi
+™s Bankruptcy
+ aPlan assets distributed to unfunded guaranteed and nonguaranteed benefits, but under different 
+rules than asset recoveries. 
+ The remaining recoveries, estimated to be between $395 and $445 
+million, are allocated among the plans proportionally according to each 
+plan
+™s percentage of total remaining unfunded benefit liabilities.
+67
+ The money allocated to each plan is then split between PBGC (to offset its 
+cost of paying unfunded guaranteed benefits) and participants (to pay a 
+portion of unfunded benefits beyond ERISA
+™s guarantee limits). For plans 
+with more than $20 million in unfunded benefit liabilities, as in the case 
+of 
+Delphi
+™s hourly and salaried plans, the percentage of participants
+™ 
+nonguaranteed benefits PBGC pays depends on the percentage of the 
+plans
+™ 
+unfunded benefit liability PBGC is able to recover.
+68
+                                                                                                                       67
+29 U.S.C. §§ 1322(c) and 1344(f).
+  Remaining 
+68
+29 U.S.C. § 1344(f)(2)(C). For plans with less than $20 million in unfunded benefit 
+liabilities, the split between PBGC and participant benefits is determined by PBGC
+™s small 
+plan recovery ratio, an average of PBGC
+™s recoveries over a 5
+-year period (29 U.S.C. 
+1344(f)(2)(A)). In 2009, this ratio was set at 3.85 percent. 
+     
+
+ 
+ 
+ Page 28 
+GAO
+-12-168  Delphi Pension Plans   
+recoveries go to offset PBGC
+™s loss for paying guaranteed benefits. With 
+recoveries of about 6 percent of unfunded liabilities for both Delphi
+™s hourly and salaried plans, PBGC would pay about 6 percent of all 
+participant unfunded nonguaranteed plan benefits, which are those 
+benefits funded neither by plan assets nor guaranteed by PBGC. PBGC 
+officials said it is too early in the benefit determination process to develop 
+
+an accurate estimate of total unfunded, non
+-guaranteed benefits, but at 
+this point, PBGC expects that recoveries will slightly increase benefits for 
+some participants across Delphi
+™s plans.
+  The benefits provided by PBGC must comply with the limits on guaranteed 
+benefits under ERISA, and as a result, the amount guaranteed and paid by 
+PBGC to some Delphi retirees 
+will be
+ less than the amounts promised by 
+Delphi.
+ However, some Delphi hourly plan participants avoided these 
+reductions because they were transferred int
+o GM™s plan prior to PBGC™s 
+termination of the Delphi plan. Some of the other hourly plan participants 
+who will receive less from PBGC than the amount promised by Delphi will 
+
+have their losses covered by GM because of top
+-up agreements originally 
+negotiate
+d when Delphi was spun off from GM. These participants will 
+receive additional payments from GM resulting in their receiving, in total, 
+their full promised benefits. But most Delphi employees are not covered by 
+these top
+-up agreements
+Šincluding about 40 percent of the participants in 
+the hourly plan, and all the participants in the salaried and other four 
+smaller plans. PBGC™s data showed that, as a result of the ERISA limits, 
+PBGC has had to reduce benefits for just under half of salaried and hourly 
+plan participants already retired and receiving pension payments, 
+
+according to information collected by DSRA.
+  As of June 2011, after reviewing the benefits promised to and being paid 
+to the vast majority of Delphi hourly and salaried participants already 
+retired, PBGC data indicate that just under half required reductions in 
+
+their estimated benefit in order to comply with ERISA limits (see table 
+3).
+69
+                                                                                                                       69
+When PBGC becomes trustee of a terminated plan, it pays participants already retired 
+and receiving pension payments estimated benefits until it can determine the correct 
+benefits participants should receive under ERISA. 
+  According to the data, 48 percent of hourly retirees and 45 percent of 
+the salaried retirees had their estimated benefits reduced because of 
+Many Delphi Retirees 
+Are Subject to Benefit 
+Reductions and Only 
+
+Certain Hourly 
+
+Retirees Are 
+Protected by Union 
+Agreements with GM
+ ERISA Limits Result in 
+Reductions in Benefits for 
+Many Retirees
+     
+
+ 
+ 
+ Page 29 
+GAO
+-12-168  Delphi Pension Plans   
+guarantee limits.
+70
+ Like those affected by other large terminations, Delphi 
+participants who had retired early or had accrued higher benefits were 
+likely to have their benefits reduced due to ERISA limits.
+ For example, 
+retirees in both plans frequently had benefit reductions because of 
+
+ERISA™
+s accrued
+-at-normal limit, which can eliminate or substantially 
+reduce any early retirement supplemental benefits.
+71
+ Only salari
+ed retirees had a high proportion of retirees receiving reductions because of 
+
+ERISA™
+s maximum limit, with 26 percent of them exceeding this limit 
+compared with 2 percent of hourly retirees.
+72
+Table 
+3: Number and Percentage of Delphi Retirees Subject to Reductions in Estimated Benefits Due to ERISA Limits (as of 
+June 1, 2011)
+  Even after applying the 
+ERISA limits, PBGC expects to pay about $6 billion of the $7.2 billion in 
+
+unfunded benefits promised to Delphi participants, as these benefits fall 
+under the limits and thus are guaranteed.
+ Delphi plan
+a Number of 
+participants
+ Number of participants 
+ with benefits reviewed by 
+PBGC as of June 1, 2011
+b Number with 
+reductions in 
+benefits
+ Percent reviewed 
+with
+ reductions
+b Percent reviewed 
+with no
+ reductions
+b Hourly pla
+n 47,176
+ 28,051
+ 13,368
+ 48 52 Salaried plan
+ 20,203
+ 8,273
+ 3,714
+ 45 55 Source: GAO analysis of PBGC data.
+ aIn addition to the hourly and salaried plans, Delphi also has four other small plans. (See appendix II 
+for estimated benefit reductions for all Delphi plans.) 
+bAccording to PBGC officials, as of June 2011, they had not yet reviewed the benefit amounts for 
+about 2,000 of the 30,000 hourly plan participants already receiving payment, but had reviewed the 
+benefit amounts for all other salaried plan participants already receiving payments. These rates are 
+
+also subject to change as PBGC determines the impact of plan asset recoveries on retirees™ benefits 
+
+and as more workers retire and receive estimated reductions and final benefit determinations over the 
+
+next year or more. 
+                                                                                                                       70
+The proportion of Delphi retirees who have had their benefits reduced by each of 
+ERISA™
+s benefit limits as of June 2011 is provided in appendix II.
+ 71
+Under ERISA, the accrued
+-at-normal limit permits little if any early retirement or supplemental 
+benefits to be paid. It provides for benefits to be paid at the plan™s normal retirement age, which 
+is 65 years old, as a straight
+-life annuity (that is, a periodic payment for the life of the retiree, 
+with no additional payments to survivors). 29 C.F.R. § 4022.21 (2011).
+ 72
+ERISA™s maximum limit guarantees payment of benefits up to a federal statutory maximum 
+(29 U.S.C. § 1322(b)(3)), adjusted annu
+ally, based on the year the plan terminates. 29 
+C.F.R. § 4022.23 (2011). When Delphi™s plans terminated in 2009, the maximum limit was 
+$54,000 per year for a person retiring at age 65 and with no survivor benefit. The maximum 
+is actuarially lower for those
+ retiring under age 65 or with a survivor benefit.
+     
+
+ 
+ 
+ Page 30 
+GAO
+-12-168  Delphi Pension Plans   
+Based on PBGC
+™s reviews as of June 2011, a higher proportion of Delphi 
+retirees have been subject to the guarantee limits compared with retirees 
+of most other large plans terminated and trusteed by PBGC.
+ While PBGC 
+does not systematically track the number of participants affected by 
+guaranteed benefit limits, a study it conducted in 2008 using a sample of 
+large plans showed that ERISA benefit limits resulted in 16 percent of 
+
+participants receiving reductions.
+ It also found that the steel and 
+airline 
+plans, which tend to allow early retirement and have generous benefits, 
+
+had a higher percentage of participants experiencing reductions, at 21 
+
+percent for steel plans and 22 percent for airline plans.
+ Although certain 
+plans for pilots have had 60 percent of participants receiving
+ reductions, 
+Delphi
+™s current rates of 45 percent of salaried plan participants and 48 
+percent of hourly plan participants are higher than most. However, over 
+time, the proportion of Delphi retirees with benefit reductions is likely to 
+decline.
+ According to PBGC, many participants from the salaried plan 
+who were not eligible to retire as of the termination date were not entitled 
+under the plan to benefit supplements or benefit payments larger than 
+ERISA™
+s maximum limit. Also,
+ some workers eligible for these benefits 
+may choose to wait longer to retire to try to avoid or mitigate the amount 
+of benefit reductions.
+ Recoveries can also mitigate possible benefit losses that have not been 
+
+guaranteed by PBGC. As PBGC is still in the early stages of valuing the 
+plan, it has not fully determined the extent to which recoveries will impact 
+
+participants
+™ 
+unfunded nonguaranteed benefits.
+ According to a PBGC 
+official, preliminary estimates suggest that PBGC recoveries allocated to 
+
+Delphi par
+ticipants
+™ 
+benefits will lessen the extent of benefit reductions for 
+some participants with benefits at the top of the statutory allocation 
+priority category 3
+Šthat is, those who were retired (or were eligible to 
+retire) at least 3 years prior to the date of plan termination for the salaried 
+plan.
+73
+                                                                                                                       73
+For terminated underfunded plans, ERISA establishes a detailed process for allocating 
+plan assets and PBGC recoveries to participants
+™ 
+benefits based on six priority categories. 
+For further details, see appendix III.
+ As discussed in the prior section, the recoveries 
+allocated to participants for unfunded and nonguaranteed benefits do not include any of 
+the recoveries for 
+ﬁdue and unpaid employer contributions,
+ﬂ which are allocated back to 
+the pension plans to which they were owed and allocated with plan assets rather than 
+recoveries.
+     Most of the other large plans we reviewed had sufficient assets 
+and recoveries to partially or fully fund this priority category.
+ (See app. III 
+for the allocation of plan assets and recoveries to the priority cat
+egories 
+for other large terminations we reviewed.)
+     
+
+ 
+ 
+ Page 31 
+GAO
+-12-168  Delphi Pension Plans   
+As for the magnitude of benefit reductions, PBGC could not provide 
+summary information on the range of retirees
+™ 
+losses. However, according 
+to DSRA officials, information they collected indicates that sala
+ried 
+retirees under 65 years of age were at risk for 
+ﬁsignificant pension 
+reductions.
+ﬂ DSRA requested information on losses from approximately 
+4,000 salaried retirees who may have received reductions in benefits as 
+
+of the first quarter of 2010. The 1,703 who responded (or about 8 percent 
+of all salaried plan participants) reported losses in benefits ranging from 5 
+percent to 60 percent, with more than 90 percent having losses of 10 
+percent to 40 percent.
+74
+  Our review of a small judgmental sample of 
+reduction
+s for seven salaried retirees showed a range of pension losses 
+from 12 percent to 40 percent. The salaried retiree who had a 12 percent 
+drop in pension benefits lost $349 per month (a decline from $2,944.25 to 
+$2,595.15 per month) due to the loss of a substantial portion of his early 
+
+retirement supplemental benefit.
+ The salaried retiree who had a 40 
+percent drop in pension benefits lost $1,490.67 per month (a decline from 
+
+$3,732.63 to $2,241.96 per month) due to the loss of benefits in excess of 
+
+the maximum
+ limit based on his age at retirement and his annuity that 
+provided survivor benefits.
+ Agreements negotiated between GM and various Delphi unions have 
+protected certain participants in Delphi
+™s hourly plan from benefit loss due 
+to termination of their underfunded plan. These agreements include the 
+arrangement that resulted in the transfer of 14,413 (about 22 percent) of 
+Delphi
+™s hourly plan participants back to GM
+™s hourly 
+plan in September 
+2008, as well as the provision of pension top
+-ups covering reductions in 
+benefits resulting from the application of ERISA limits.
+75
+In 2007 and 2008, as part of Delphi
+™s bankruptcy and restructuring plan at 
+the time, GM and Delphi negotiated agreements to transfer the Delphi 
+hourly plan participants
+™ 
+pensions back into GM
+™s hourly plan in two 
+ But most Delphi 
+employees are not protected by these agreements
+Šincluding a 
+substantial portion of hourly plan participants and all the participants in 
+the salaried plan and other smaller Delphi pension plans.
+                                                                                                                        74
+We could not verify the accuracy of information collected by DSRA
+ nor could we perform 
+any statistical analyses to determine the significance of the results.
+ 75
+For a summa
+ry and timeline of events surrounding the creation of the union agreements 
+and the termination of Delphi plans, s
+ee GAO-
+11-373R
+. 
+Agreements between GM 
+and Unions Protect Certain 
+
+Hourly Retirees from 
+
+Benefit Loss
+     
+
+ 
+ 
+ Page 32 
+GAO
+-12-168  Delphi Pension Plans   
+installments.
+76
+ The unions participated in developing the criteria to select 
+the pensions to be transferred in the first installment, which took place in 
+September 2008.
+77
+ In this transfer, the pens
+ions of about 24 percent 
+(14,413 of 60,905) of Delphi
+™s hourly plan participants were transferred to 
+GM™s hourly plan, which assumed the associated $2.1 billion in net 
+liabilities for these pensions.
+78
+Furthermore, top
+-up agreements covering certain hourly workers will 
+protect these workers, but
+ not others, from potential losses due to the 
+benefit limits in ERISA.
+ In June and August of 2007, GM agreed with 
+UAW, IUE, and USWA to extend the top
+-up agreements originally 
+
+negotiated in 1999 after Delphi
+™s spinoff from GM. In November 2008, 
+Delphi froze its hourly plan, ceasing the accrual of additional benefits 
+under the plan and triggering the top
+-up agreement for covered 
+participants.
+ As a result, those Delphi plan participants 
+whose pensions were transferred were no longer part of Delphi
+™s plan and 
+were therefore protected from any benefit loss resulting from Delphi
+™s subsequent plan termination.
+ 79
+                                                                                                                       76
+On September 6, 2007, GM and Delphi signed the first Global Settlemen
+t Agreement 
+that laid out their plans to transfer pensions from Delphi
+™s hourly plan to GM
+™s hourly plan. 
+The plans for the second pension transfer are included in Section 2.03 of the Global 
+Settlement Agreement between Delphi and
+ GM, dated September 12, 2
+008. 
+  GM negotiated and maintained the top
+-up agreements with 
+the UAW during its bankruptcy and restructuring, as did new GM with the 
+IUE and USWA in September 2009.
+ As a result, certain covered hourly 
+employees will receive their full promised benefits despite the plan freeze 
+
+and subsequent termination, even if their benefits exceed the guaranteed 
+77
+The criteria and order of Delphi hourly pensions to be transferred was based on 2007 
+negotiations between the Unions, Delphi, and GM and contained in paragraph 22(b) of the 
+Term Sheet (Attachment B) to the UAW
+-Delphi
+-GM Memorandum of Understanding 
+Œ 
+Delphi Restructuring, dated June 22, 2007 (and comparable agreements for the IUE
+-CWA 
+and USWA). The UAW
+-Delphi
+-GM Implementation Agreement, dated September 26, 2008 
+(and comparable agreements for the IUE
+-CWA and USWA), supplemented this 
+information 
+to include additional criteria.
+ 78
+The second installment never took place because Delphi could not meet the agreed 
+upon conditions for the transfer. For more information about the Delphi reorganiz
+ation 
+efforts, see 
+GAO
+-11-373R
+. 
+79
+In September 2008, Delphi also froze its salaried plan and three smaller qualified DB 
+plans to limit all future benefit accruals. For more information on types of freezes and their 
+effects, see: GAO, 
+Defined Benefit Pensions: Plan Fr
+eezes Affect Millions of Participants 
+and May Pose Retirement Income Challenges
+, GAO-
+08-817 (Washington, D.C.: Jul. 21, 
+2008).
+  
+    
+
+ 
+ 
+ Page 33 
+GAO
+-12-168  Delphi Pension Plans   
+benefit limits under ERISA.
+ According to data provided by GM, about 60 
+percent of the participants in Delphi
+™s hourly plan as of the date of plan 
+termination are potentially covered by GM top
+-ups if there is any 
+reductions in their promised benefits. As of June 2011, GM reported tha
+t it had paid $221.9 million to 12,638 Delphi retirees and dependents under 
+these top
+-up agreements.
+ As indicated in figure 4, however, most Delphi employees are not covered 
+by these top
+-up agreements. No participants in Delphi
+™s salaried plan or 
+other four smaller plans are covered. In addition, about 40 percent of 
+Delphi hourly plan participants are also not covered, including anyone 
+who never was qualified because they were not members of the unions 
+
+securing these agreements, were not members of the GM hourly plan 
+prior to the spinoff, or lost their qualification because they had a break in 
+their employment or otherwise lost their seniority. Participants who would 
+
+otherwise be covered, but do not meet the retirement criteria of the plan, 
+also will not be provided top
+-ups, according to GM officials.
+80
+                                                                                                                       80
+Pension plans include retirement eligibility criteria that must be met
+ to receive normal or 
+early retirement benefits.
+ For instance, a Delphi hourly plan participant must generally be 
+of certain age and have sufficient number of credited years of service to retire.
+ For 
+example, to get a normal retirement, a participant needs
+ to be 65 years old.
+ To get an 
+early retirement, a participant generally needs to be at least 60 years old with 10 years of 
+service, have 30 years of credited service, or meet the rule
+-of-85 (i.e., be at least 55 years 
+of age, but not age 60, and have the total of his an age and years of credited service total 
+at least 85). 
+      
+ 
+ 
+ Page 34 
+GAO-12-168  Delphi Pension Plans   
+Figure 4: Number of Delphi Employees Covered by GM Top-Ups, by Plan 
+Note: Delphi hourly plan participants who were not
+ protected by top-up agreements include all those 
+who were not members affiliated with UAW, IUE, or USWA and were not previously employed by GM 
+prior to the Delphi spin-off. 
+ PBGC will reduce the benefits of all participants in the terminated pension 
+plans whose promised benefits exceed ERISA™s guaranteed benefit limits. 
+Because of the GM top-up, certain 
+hourly plan participants will have any 
+pension benefit reduced because of statutory limits paid to them by GM. 
+The combination of the GM top-ups and the 2008 partial plan transfer of 
+Delphi™s hourly plan participants to GM have resulted in a much higher 
+
+percentage of salaried plan participants ultimately facing benefit 
+reductions than hourly plan participants. Based on the status of PBGC™s 
+benefit reviews as of June 2011, 18 percent of the salaried plan 
+
+participants have had their benefits reduced, while only 1 percent of the 
+hourly plan participants had reductions that will not be topped up by GM.
+81 (See fig. 5.) However, the percentage of hourly participants with 
+reductions not topped up by GM is expected to rise over time, as more of 
+this group have their benefits reviewed by PBGC. According to PBGC 
+
+officials, no other underfunded pension plan terminated and trusteed by 
+PBGC has had a top-up agreement with a parent company comparable to 
+these agreements between Delphi and GM. 
+                                                                                                                      
+ 81The 18 percent of salaried plan participants 
+with benefit reductions and no top-ups 
+represent 45 percent of the retirees with 
+reductions. The 1 percent of hourly plan 
+participants with reductions and no top-ups r
+epresent 5 percent of the hourly retirees 
+reviewed by PBGC 
+with reductions.  
+    
+ 
+ 
+ Page 35 
+GAO-12-168  Delphi Pension Plans   
+Figure 5: Status of Benefits for Participants from De
+lphi™s Hourly and Salaried Plans (as of June 2011) 
+  In the course of the Delphi bankruptcy and the termination of its pension 
+plans, Delphi employees were notified by Delphi and subsequently by 
+
+PBGC of certain facts, as required by lawŠnamely, of Delphi™s intention 
+to defer pension plan contributions and to subsequently freeze the plans, 
+and of PBGC™s intention to terminate and trustee the plans, and 
+
+subsequently the effects, when calculated, on individual employee 
+pensions. Through their unions, hourly employees received additional 
+information, while salaried employees had no formal representative 
+
+through which to receive additional information until they formed DSRA. 
+ Both Delphi and PBGC Provided 
+Delphi Employees 
+with Information     
+ 
+ 
+ Page 36 
+GAO-12-168  Delphi Pension Plans   
+Delphi notified both hourly and salaried employees in 2006 that it had 
+failed to make the minimally-required contribution to their pension plans 
+due at that time and that the plans were underfunded by $4.3 billion as of 
+December 2004.
+82 Later in 2006, it also notified its employees, as 
+required, that the company had requested a funding waiver for plan year 
+
+2006 from the IRS.83 This notification also included legally required 
+information such as a description of the extent to which the plan is 
+funded. Similarly, in 2007, Delphi notified the hourly employees of another 
+
+waiver request to defer hourly plan contributions for plan year 2007. 
+Subsequently, as required, in October 2008, Delphi notified representatives of the unions, UAW, IUE, and USWA, that the hourly plan 
+would be frozen as of the end of November 2008 and that participants 
+would, consequently, cease accruing additional pension benefits.
+84 In addition, as required, in August of 2008, Delphi also notified salaried 
+employees that their plan would be frozen as of the end of September. 
+Prior to the termination, Delphi employees did not receive regular information from Delphi as to the actual funding status of their plans. 
+Under a new federal requirement, such reporting would have been first 
+
+required of Delphi by January 1, 2010Šseveral months after PBGC had 
+terminated and trusteed the plans.
+85 However, Delphi noted that it 
+provided its employees with summary plan descriptions, as required.
+86 The example summary plan descriptions we obtained for the salaried and 
+hourly plans included information about PBGC™s pension insurance 
+program and how pension payments could be reduced if the plan 
+terminates without enough money to pay all benefits, based on the 
+
+guarantee limits in ERISA and PBGC regulations.                                                                                                                       
+ 82ERISA requires plan sponsors to notify employ
+ees when the sponsor requests a waiver 
+from annual plan funding from the IRS (29 U.
+S.C. § 1082(c)(6)); and to notify employees 
+and unions if the sponsor freezes 
+the plan (29 U.S.C. § 1054(h)). 
+83The Delphi hourly and salaried plan year 
+was from the beginning of October to the end 
+of September of the following calendar year.  
+84The splinter unions, IBEW, IAM, and IUOE were also notified in October 2008 that their 
+members™ benefits would be frozen as
+ of the end of November 2008.  
+85Pension Protection Act of 2006, Pub. L. No. 109-280, § 501(a), 120 Stat. 780, 936-39. 
+(codified at 29 U.S.C. § 1021(f)) and Employee Be
+nefits Security Administration, Field 
+Assistance Bulletin No. 2009-01 at 2 (Feb. 10, 2009). 
+8629 U.S.C. § 1022 and 29 C.F.
+R. § 2520.102-3(m)(1)-(3) (2011). 
+Delphi Notified Pension Holders as Required and also Communicated with 
+Employee Representatives 
+    
+
+ 
+ 
+ Page 37 
+GAO
+-12-168  Delphi Pension Plans   
+In a July 2009 PBGC press release, PBGC announced the Delphi 
+employee pension plans were terminated and the underfunded status of 
+the plans. Following termination, PBGC notified Delphi employees of its 
+role as statutory trustee of the plans, as required by ERISA.
+87
+As of October 2011, PBGC sent benefit determination letters, informing 
+participants of their benefits,
+ to about 10,600 hourly employees and to 
+about 50 salaried employees. According to PBGC, letters to many 
+
+salaried employees had been delayed due to coordination with several 
+
+insurers contracted by Delphi to provide annuities.
+  Based on 
+official Delphi notices to employees we reviewed, this press release from 
+
+PBGC constituted the first time that employees were apprised of the fact 
+that the plans were severely underfunded since the notice from Delphi in 
+2006. Following termination in July, PBGC sent Delphi employees letters 
+
+notifying them that if they were eligible and applied to PBGC to beg
+in 
+payments, it would begin paying estimated benefits. It also has a toll
+-free 
+telephone number that allows any participant to call PBGC directly with 
+questions. PBGC sent Delphi employees a welcome packet and a video 
+describing PBGC
+™s role as trustee. The
+ agency also spoke regularly with 
+representatives of DSRA. PBGC met, as well, with union representatives 
+of UAW, IUE, and USWA to answer their questions.
+  As representatives of hourly employees in collective bargaining over 
+wages and benefits, the three major unions with whom we spoke
+ŠUAW, 
+IUE, and USWA
+Šsaid that they kept their members apprised of change
+s to their benefits and prior agreements, through briefings, letters, and 
+through the process of ratification. In addition, their members were 
+apprised by GM in January 2010 that the company would honor the top
+-
+up agreements. On the other hand, Delphi
+™s salaried employees had no 
+such union membership or agreement with GM, and received their 
+
+information exclusively from Delphi until just before termination in 
+
+February 2009, when they formed DSRA.
+                                                                                                                          87
+29 U.S.C. § 1342(d)(2).
+ PBGC Communicated with 
+Delphi Employees
+ Delphi Employees also 
+
+Receiv
+ed Information 
+through Their Employee 
+
+Representatives
+     
+
+ 
+ 
+ Page 38 
+GAO
+-12-168  Delphi Pension Plans   
+The termination of Delphi
+™s pension
+ plans culminated from a complicated 
+and intertwined set of events involving Delphi, GM, various unions, and 
+Treasury, as well as PBGC. That some participants will not get the full 
+
+benefits promised to them by their employer is not unusual when 
+companies g
+o bankrupt and leave their plans with large unfunded 
+liabilities. At the same time, the role that GM and Treasury played in the 
+
+events leading up to termination caused the process to be unusual in 
+several respects. Beginning with negotiations related to De
+lphi
+™s spin
+-off in 1999, GM
+Šalthough no longer the sponsor of the Delphi plans
+Šagreed to top up the benefits of certain union workers should the Delphi 
+
+hourly plan be frozen or terminated, and maintained these top
+-up agreements at various points over the next decade. In addition, after 
+
+Delphi filed for bankruptcy, GM agreed to take back all or part of Delphi
+™s hourly plan under certain conditions, and actually took back the pensions 
+
+of nearly a fourth of Delphi hourly plan
+™s participants in 2008. PBGC 
+offic
+ials noted they have not seen these types of agreements in any other 
+plan terminations to date.
+ Then, with GM
+™s own financial condition 
+deteriorating, Treasury
+™s role as a shareholder led some to question the 
+role Treasury might also be playing with respect to GM
+™s decisions 
+regarding Delphi and its pension plans. As we have reported previously, 
+
+Treasury
+™s multiple roles in situations involving the auto industry and 
+workers™ 
+pensions may create potential tensions and challenges. On 
+behalf of the U.S. taxpayer, Treasury has an interest in safeguarding 
+
+taxpayer investment, while also
+Šthrough 
+the Secretary of the Treasury™s
+ role on PBGC
+™s board
+Šprotecting the financial viability of workers
+™ 
+pension plans. Although Treasury has established policies to separate 
+
+these interests, and various parties told us that Treasury did not play an 
+active role in decisions regarding Delphi
+™s plans, potential tensions due to 
+these multiple roles remain. In our prior work on the automakers
+™ 
+pension 
+plans, we concluded that the best way for Treasury to mitigate these 
+
+tensions is through more open reporting to Congress and the public on its 
+activities. In response to a previous recommendation, Treasury 
+implemented a revised reporting policy, attempting to balance concerns 
+
+about publicly disclosing proprietary information in a competitive market 
+with the need for greater transparency. We believe that the most effective 
+means of addressing concerns about Treasury
+™s different roles is for 
+Treasury to continue to be as transparent as possible about its activities.
+   Concluding 
+Observations
+     
+
+ 
+ 
+ Page 39 
+GAO
+-12-168  Delphi Pension Plans   
+We obtained written comments on a draft of this report from the 
+Department of the Treasury (see appendix IV). Treasury™s comments 
+generally agree with the findings and concluding observations in our report, 
+
+emphasizing that 
+Treasury
+ did not authorize, approve, or consent to the 
+termination of the Delphi salaried plan, and that PBGC independently 
+
+decided 
+- 
+not the PBGC board or Treasury 
+- 
+to terminate the Delphi 
+pensions. We continue to believe that Treasury™s multiple roles in situations 
+involving the auto industry and workers™ pensions may create the 
+appearance of potential tensions and challenges, and that the most 
+
+effective means of addressing these concerns is for Treasury to continue to 
+be as transparent as possible about its activities.
+ In addition, Treasury, PBGC, and the Department of Labor,
+ all provided 
+technical comments that we incorporated as appropriate.
+ We also 
+provided
+ certain segments of the draft to Delphi, GM, DSRA, UAW, IUE, 
+and USWA
+. 
+We
+ received technical comments on these segments from 
+GM and USWA, and have incorporated 
+these
+ where appropriate, as well.
+  We are sending copies of this report to the appropriate congressional 
+committees, the Director of PBGC, the Secretary of
+ Labor, the Secretary 
+
+of Treasury, the Secretary of Commerce, and other interested parties. 
+The report also is available at no charge on GAO
+™s Web site at 
+http://www.gao.gov
+. 
+If you or your staff have any questions about this report, please contact 
+Barbara Bovbjerg at (202) 512
+-7215 or 
+bovbjergb@gao.gov
+. Contact 
+points for our Offices of Congressional Relations and Public Affairs may 
+be found on the last page of this report. Key contributors to this report are 
+listed in appendix V.
+ Barbara D. Bovbjerg
+ Managing Director
+ Education, Workforce,
+    and Income Security Issues
+ Agency Comments 
+and Our Evaluation
+      
+
+ 
+ 
+ Page 40 
+GAO
+-12-168  Delphi Pension Plans   
+List of Requesters
+ The Honorable John A. Boehner
+ Speaker of the House of Representatives
+  The Honorable Roger F. Wicker
+ United States Senate
+  The Honorable Spencer T. Bachus
+ 
+Chairman, Committee on Financial Services
+ House of Representatives
+  
+The Honorable Mike Pence
+ The Honorable Michael R. Turner
+ House of Representatives
+    Appendix I: Single
+-Employer Firms with the 
+Largest PBGC Claims for Terminated Plans 
+
+(1975 through 2011) 
+
+ 
+ 
+ Page 41 
+GAO
+-12-168  Delphi Pension Plans   
+ Top
+-10 firms
+ Number of 
+plans
+ Fiscal year(s) 
+ of plan
+ termination(s)
+ Claims (by firm)
+ Vested 
+participants
+ Average 
+claim per 
+vested 
+participant
+ Percent of 
+total 
+claims
+ 1. United Airlines 
+ 4 
+2005 
+$7,441,450,992 
+ 123,957
+ $60,033 
+ 16.3
+ 2. Delphi
+ 6 
+2009
+ 6,108,491,551
+ 69,042
+ 88,475
+ 13.4  
+ 3. Bethlehem Steel 
+ 1 
+2003
+ 3,654,380,116
+ 91,312
+ 40,021
+ 8.0
+ 4. US Airways 
+ 4 
+2003, 2005 
+ 2,751,534,173
+ 55,770
+ 49,337
+ 6.0
+ 5. LTV Steel
+a  
+6 
+2002, 2003, 2004 
+ 2,134,985,884
+ 83,094
+ 25,694
+ 4.7
+ 6. Delta Air Lines 
+ 1 
+2006
+ 1,641,083,525
+ 13,291
+ 123,473
+ 3.6
+ 7. National Steel 
+ 7 
+2003
+ 1,275,628,286
+ 33,737
+ 37,811
+ 2.8
+ 8. Pan American Air 
+ 3 
+1991, 1992 
+ 841,082,434
+ 31,999
+ 26,285
+ 1.8
+ 9. Trans World Airlines
+ 2 
+2001
+ 668,377,106
+ 32,263
+ 20,717
+ 1.5
+ 10. Weirton Steel 
+ 1 
+2004
+ 640,480,970
+ 9,410
+ 68,064
+ 1.4
+ Top
+-10 total 
+ 35  $27,157,495,038
+ 543,875
+ $49,933
+ 59.6
+ All other total 
+ 4,257
+  $18,390,580,981
+ 935,125
+ $19,666
+ 40.4
+ Total
+ 4,292
+  $45,548,076,019
+ 1,479,000
+ $30,797
+ 100.0
+ Source: 
+PBGC, Pension Insurance Data Book 2009 and 2011 PBGC Annual Report.   
+ Note: Cumulative plans include 10 multiemployer plans trusteed by PBGC before 1980. PBGC has 
+not trusteed any multiemployer plans since 1980. The Multiemployer Pension Plan Amendments Act 
+
+of 1980 changed PBGC™s responsibility from trusteeship of troubled multiemployer plans to providing 
+
+financial assistance (loans) to insolvent plans. Pub. L. No. 96-364, 94 Stat. 1208. 
+aDoes not include 1986 termination of a Republic Steel plan sponsored 
+by LTV.
+   Appendix I: Single
+-Employer Firms with th
+e Largest PBGC Claims for Terminated Plans 
+(1975 through 2011)
+   Appendix II: Number and Percentage Delphi Retirees with Reductions in ERISA B
+enefits Due to Guaranteed Benefit Limits (as of June 
+1, 2011) 
+
+ 
+ 
+ Page 42 
+GAO
+-12-168  Delphi Pension Plans   
+      Accrued
+-at-normal limit
+c  Maximum limit
+d   Phase
+-in limit
+e Number
+ Percentage 
+reduced
+  Numbe
+r 
+Percentage 
+reduced
+ Plan 
+Total number of 
+participants (as 
+of termination)
+ Number of 
+participants reviewed 
+by PBGC as of 
+ June 2011
+ Number with 
+reduction(s) in 
+PBGC estimated 
+benefit
+a Percentage 
+reviewed with 
+reduction
+b Number
+  Percentage 
+reduced
+ Delphi Hourly Plan
+f     11,619 
+ 41.42 
+ 472 1.68  352 1.25 Delphi Salaried Plan 
+20,203 
+8,273 
+3,714 
+45 2,323 
+ 28.08 
+ 2,174 
+26.28 
+ 0 0 Packard-Hughes Interconnect 
+Non-Bargaining Retirement 
+Plan (PHI_NBU) 
+1,383 
+240 30 13 3  10.00 
+ 1 3.33  26 86.67 
+Packard-Hughes Interconnect 
+
+Bargaining Retirement Plan 
+(PHI_BU) 
+165 80 62 78 0  0  1 1.61  61 98.39 
+ASEC Manufacturing 
+Retirement Program (ASEC) 
+533 126 6 5 0  0  4 66.67 
+ 0 0 Delphi Mechatronic Systems 
+
+Retirement Program (DMS) 
+148 12 3 25 3  100.00 
+ 1 33.33 
+ 0 0 Source: GAO analysis of PBGC data.
+ aRetirees may have more than one type of reduction; therefore, the number of retirees with reductions and the number of reductions may not be the same for each plan. 
+bThese rates are subject to change as more workers retire and receive early estimated reductions and final benefit determination letters from PBGC over the next year or more. 
+cAccrued-at-normal limit: The monthly guaranteed benefit cannot be greater than the monthly benefit provided as a straight-life annuity (that is, a periodic payment for the life of the retiree, with no 
+additional payments to survivors) available at the plan™s normal retirement age. The portion of any combined early retirement benefit and supplemental benefit that exceeds the normal retirement 
+age straight life annuity is not guaranteed under this provision. 29 C.F.R. § 4022.21 (2011). 
+dMaximum limit: The guaranteed benefit cannot exceed the statutory maximum, adjusted annually, at the time the plan terminates. In 2009, the maximum was $54,000 per year for a person who 
+begins to receive benefits from PBGC at age 65 and with no survivor benefit (that is, a single-life annuity). The maximum is lower for those retiring under age 65 or with a survivor benefit. 29 U.S.C. 
+
+§ 1322(b)(3); 29 C.F.R. § 4022.23 (2011). 
+ePhase-in limit: The guaranteed benefit cannot include any benefit increase that was made within 1 year of the date of the plan termination. For benefit improvements that became effective more 
+than 1 year but less than 5 years prior to the plan™s termination, the guaranteed amount is the larger of 20 percent of the benefit increase or $20 per month of the increase for each full year the 
+increase was in effect. 29 U.S.C. § 1322(b)(1) and (7); 29 C.F.R. § 4022.25 (2011). 
+fPBGC also found that 1,567 hourly retirees should have their benefits reduced because it determined that they were not eligible for the ﬁmutually satisfactory retirement,ﬂ which is a type of early 
+retirement under the Hourly Plan. 
+gAs of June 2011, PBGC still had about 2,000 of the 30,000 Hourly Plan retirees awaiting review.
+Appendix II: Number and Percentage Delphi Retirees with 
+Reductions in ERISA Benefits Due to Guaranteed Benefit 
+Limits (as of June 1, 2011)
+   Appendix III Allocation of Plan Assets and 
+
+Recoveries to Unfunded Nonguaranteed 
+
+Benefits
+ Page 43 
+ GAO
+-12-168  Delphi Pension Plans   
+Upon the termination of a single
+-employer plan, plan assets are identified, 
+valued, and then allocated to participant benefits, in accordance with the 
+requirement of section 4044 of ERISA. Codified at 29 U.S.C. § 1344. In 
+
+addition to plan assets, a portion of monies from company assets that 
+PBGC recovers for unfunded benefit liabilities are allocated to participant 
+benefits, in accordance with section 4022(c) of ERISA.29 U.S.C. 
+ 
+§ 1322(c).
+ Plan assets available to pay for benefits under the plan are allocated to 
+
+participant benefits according to six priority categories, as described in 
+table 
+4. Assets are allocated to each priority category in succession, 
+beginning with priority category 1. If the plan has sufficient assets to pay 
+for all benefits in a priority category, the remaining assets are allocated to 
+the next lower priority category. This process is repeated until all benefits 
+in priority categories 1 through 6 have been provided or until all available 
+
+plan assets have been allocated. Most private sector defined benefit 
+plans do not require or allow participant contributions, so there are rarely 
+any benefits in priority categories 1 and 2. Thus, in most trusteed plans, 
+
+asset allocation begins with the benefits in priority category 3, that is, the 
+benefits of those retired or eligible to retire 3 years before the plan 
+terminated. However, it should be noted that assets are allocated based 
+
+on retirement eligibility, not retirement status, and that many participants 
+have benefits in more than one category.
+ Table 
+5 
+provides the allocation 
+of plan assets and recoveries to priority categories among plans that had 
+5,000 or more participants for the 10 firms with the largest claims.
+  
+   
+   
+   
+   
+ Appendix III
+ Allocation of Plan Assets and 
+Recoveries to Unfunded Nonguaranteed 
+Benefits 
+  Appendix III Allocation of Plan Assets and 
+
+Recoveries to Unfunded Nonguaranteed 
+
+Benefits
+ Page 44 
+ GAO
+-12-168  Delphi Pension Plans   
+Table 4
+: Allocation Priority Categories (PC)
+ Priority 
+Category
+ Definition
+ PC-1 
+Accrued benefits derived from voluntary employee contributions. 
+(According to PBGC, such benefits are
+ ﬁextremely rareﬂ among private 
+sector defined benefit plans.)
+ PC-2 
+Accrued benefits derived from mandatory employee contributions. 
+
+(According to PBGC, such benefits are ﬁquite uncommonﬂ among private 
+sector defined benefit plans.)
+ PC-3 
+Annuity benefits that have been in pay status for at least 3 years before 
+the plan™s termination date, or could have been in pay status for at least 3 
+years before the plan™s termination date had the participant chosen to 
+retire at his or her earliest possible retirement date; however, benefits 
+
+subject to the phase
+-in limitation (that is, benefit increases made within the 
+last 5 years) are excluded. These benefits can be either guaranteed or 
+
+nonguaranteed.
+ PC-4 
+Other guaranteed benefits and certain nonguaranteed benefits. 
+The 
+nonguaranteed benefits are those that are subject to the aggregate 
+
+benefits limitation for participants in more than one plan that has been 
+
+terminated with insufficient funds or are subject to special provisions 
+applicable to substantial owners (that is, those owning more than 10 
+percent of the company).
+ PC-5 
+Other vested nonguaranteed benefits that a participant is entitled to under 
+the plan; however, benefits that result solely due to the termination of the 
+plan
+Šwhich are deemed ﬁforfeitableﬂ
+Šare exc
+luded.
+ PC-6 
+All other benefits under the plan. This category includes nonvested 
+benefits and ﬁgrow
+-inﬂ benefits, which are benefits that are provided in 
+some situations where the company continues to operate after the plan is 
+terminated.
+ Source: PBGC.
+     Appendix III Allocation of Plan Assets and Recoveries to Unfunded 
+Nonguaranteed Benefits 
+
+ Page 45 GAO-12-168  Delphi Pension Plans   
+Table 5: Comparison of Allocation of Plan Assets and Recoveries among Plans of Firms with 10 Largest Claims 
+ Firm/         
+plansa Present value
+b (millions of dollars) 
+Recovery 
+ratio (percent)e Allocations, by priority category
+f Plan assets 
+Unfunded benefit liabilities 
+Percent of liabilities funded by assets 
+Percent of unfunded nonguaranteed benefits  
+funded by recoveries 
+Unfunded guaranteed benefitsc Unfunded non-guaranteed benefits Totald PC3 PC4
+g PC5 PC6 PC3 PC4
+g PC5 PC6 
+United Airlines  
+                      
+Ground Employees plan 
+1,309  1,978  796 2,774 12.88 97 
+0 0 0 
+100 
+Not calculated 
+13 0 Management, 
+
+administrative 
+and public 
+
+contact plan 
+1,651  1,644  670 2,313 12.75 100 
+1 0 0 
+Not applicable
+h 100 37 0 
+Flight attendant 
+plan 
+1,427  1,644  256 1,901 13.23 69 
+0 0 0 
+100 
+Not calculated 
+100 9 
+Pilots plan 2,846  
+1,376  1,381 2,757 12.98 81 
+0 0 0 
+56 0 0 0 Delphi (based on early  estimates, calculations not yet finalized
+)    Hourly plan 
+3,700   
+4,000  
+400 4,400 
+6.3 (allocations not yet determined) 
+(allocations not yet determined)
+ Salaried plan 
+2,400  2,200 
+400 2,600 
+6.3 (allocations not yet determined)
+ (allocations not yet determined)
+ Bethlehem Steel  
+        
+    
+      
+      Bethlehem 
+
+Steel plan 
+3,533  3,693  835 4,529 
+1.11 60 
+0 0 0 
+5 0 0 0 US Airways 
+                          
+Plan for pilots 1,193 
+552 1,692 2,244 
+0.00 100 Not 
+calculated 
+0 0 Not 
+applicable
+h Not calculated 
+0 0 Employees of 
+
+IAM & AW
+i 560  749  24 774 8.27 77 0 0 0 93 Not 
+calculated 
+0 0 Flight 
+attendants plan 
+420 647 36 683 0.00 100 Not 
+calculated 
+0 0 Not 
+applicable
+h Not calculated 
+0 0 Certain employees plan 
+895 685 16 701 4.39 100 7 0 0 Not 
+applicable
+h Not calculated 
+6 0               
+              
+              
+ Appendix III Allocation of Plan Assets and Recoveries to Unfunded 
+Nonguaranteed Benefits 
+
+ Page 46 GAO-12-168  Delphi Pension Plans   
+ Firm/         
+plansa Present value
+b (millions of dollars) 
+Recovery 
+ratio (percent)e Allocations, by priority category
+f Plan assets 
+Unfunded benefit liabilities 
+Percent of liabilities funded by assets 
+Percent of unfunded nonguaranteed benefits  
+funded by recoveries 
+Unfunded guaranteed benefitsc Unfunded non-guaranteed benefits Totald PC3 PC4
+g PC5 PC6 PC3 PC4
+g PC5 PC6 
+LTV Steel 
+                          
+Hourly plan 1,697  
+1,681  672 2,353 
+1.97 66 
+0 0 0 
+100 
+Not calculated 
+1 0 Salary plan 
+384  302  66 367 
+2.12 65 
+0 0 0 
+100 
+Not calculated 
+0 NA Delta Air Lines 
+       
+    
+      
+        Pilots plan 1,985  
+799  1,769 2,568 38.51 93 
+0 0 0 
+100 
+Not calculated 
+34 0 National Steel   
+Hourly plan  482  
+471  149 620 
+0 77 
+0 0 0 
+0 0 0 0 Weirton 
+retirement 
+program 
+313  190  1 192 7.86 73 
+0 0 0 
+0 Not calculated 
+8 0 Corporation 
+
+retirement 
+program 
+303  291  73 364 
+0. 69 
+0 0 0 
+0 0 0 0 Pan American World Airways 
+Cooperative 
+retirement 
+income plan 
+301  703  13 715 12.01 52 
+0 0 0 
+32 0 0 0 Trans World 
+Airlines 
+       
+    
+      
+        Plan for 
+
+employees 
+736  460  4 464 4.94 100 Not 
+calculated 
+0 0 Not 
+applicable
+h Not calculated 
+25 0 Weirton Steel 
+   
+Retirement plan 540  
+637  205 842 
+0 71 
+0 0 0 
+0 0 0 
+0 Source: GAO analysis of PBGC data 
+aOf the 35 plans associated with the 10 larges
+t claims, this table includes the 20 plans 
+with 5,000 or more participants. Of the
+ 15 remaining plans (including the 4 
+smaller Delphi plans): (1) 5 plans 
+had unfunded nonguaranteed benefits that exceeded $20 million and the 
+participants' portion of recoveries should be allocated u
+sing each plan's actual recovery 
+ratio, (2) 9 plans had unfunded 
+nonguaranteed benefits of less than $20 million and the participants' portion of recoveries should be 
+allocated using the Small Plan Average Recovery Ratio (SPARR), and (3) 1plan did not have 
+information on allocation of recoveries.  Appendix III Allocation of Plan Assets and Recoveries to Unfunded 
+Nonguaranteed Benefits
+  Page 47 
+GAO
+-12-168  Delphi Pension Plans   
+bThe present value is the actuarial value of benefits calculated as of the date of plan termination. 
+cThe ERISA guaranteed benefits are equal to the plan assets and the unfunded guaranteed benefits. 
+dThe total unfunded benefit liabilities are equal to the unfunded guaranteed benefits and the unfunded nonguaranteed benefits.  This total may be slightly higher or lower than the sum of these 
+preceding columns due to rounding. 
+eFor plans with unfunded nonguaranteed benefits exceeding $20 million, the recovery ratio is the actual recovered amount (unde
+r section 4022(c) of ERISA) divided by the unfunded 
+nonguaranteed benefits.  In other cases, the ratio is an average of PBGC's recoveries over a 5-
+year period.
+ fIn most cases, plans had no participants in either the PC1 or PC2 categories, therefore, we did not include these categories in the table. However, four of our plans did have participants in these 
+categories: the US Airways Flight attendants plan, the Weirton retirement program plan, the Trans World Airlines plan for its employees, and the National Steel corporation retirement program. All 
+these plans had sufficient plan assets to cover 100 percent of the unfunded PC2 benefits. 
+gThe funded percentage was not calculated for the PC4 category in some plans. According to PBGC officials, this may have been because it was obvious that assets were insufficient so that 
+calculating the funded status was unnecessary. 
+hNot applicable because PC3 benefits were 100 percent funded by plan assets. 
+iIAM & AW stands for the International Association of Machinists and Aerospace Workers.
+ Appendix IV: Comments from the Department 
+of the Treasury
+ Page 48 
+GAO
+-12-168  Delphi Pension Plans   
+  Appendix IV:
+ Comments from the 
+Department of the Treasury
+  Appendix IV: Comments from the Department 
+of the Treasury
+ Page 49 
+GAO
+-12-168  Delphi Pension Plans   
+   Page 50 GAO-12-168  Delphi Pension Plans   
+Barbara D. Bovbjerg, (202) 512-7215, bovbjergb@gao.gov  In addition, Margie K. Shields, Assistant Director; Mark M. Glickman, 
+Analyst-in-Charge; James Bennett; Susan Bernstein; A. Nicole Clowers; 
+Julie DeVault; Heather Krause; Edward Leslie; Kathy Leslie; Sheila 
+
+McCoy; Edda Emmanuelli-Perez; Bryan Rogowski; Raymond Sendejas; 
+and Craig Winslow made significant contributions to this report. 
+Appendix V: GAO Contact and Staff 
+Acknowledgments GAO Contact Staff Acknowledgments   Related GA
+O Products
+ Page 51 
+GAO
+-12-168  Delphi Pension Plans   
+Delphi
+ Corporation: Key Events Leading to Termination of the Delphi 
+Defined Benefit Plans
+, GAO
+-12-234T. 
+Washington, D.C.:
+ Nov 14, 2011.
+ Key Events Leading to the Termination of the Delphi Defined Benefit 
+Plans
+. GAO
+-11-373R. Washington, D.C.: March 30, 2011.
+ Troubled Asset Relief Program
+: Automaker Pension Funding and Multiple 
+Federal Roles Pose Challenges for the Future
+. GAO
+-10-492. Washington, 
+D.C.: April 6, 2010.
+ Troubled Asset Relief Program: The U.S. Government Role as 
+Sharehold
+er in AIG, Citigroup, Chrysler, and General Motors and 
+
+Preliminary Views on its Investment Management Activities
+. GAO
+-10-325T. Washington, D.C.: December 16, 2009.
+ Troubled Asset Relief Program: Continued Stewardship Needed as 
+Treasury Develops Strategies for Monitoring and Divesting Financial 
+Interests in Chrysler and GM
+. GAO
+-10-151. Washington, D.C.: November 
+2, 2009. Pension Benefit Guaranty Corporation: More Strategic Approach Needed 
+for Processing Complex Plans Prone to Delays and Overpayments
+. GAO
+-09-716. Washington, D.C.: August 17, 2009.
+ Pension Benefit Guaranty Corporation: Financial
+ Challenges Highlight 
+Need for Improved Governance and Management
+. GAO
+-09-702T. Washington, D.C.: May 20, 2009.
+ Auto Industry: Summary of Government Efforts and Automakers™ 
+Restructuring to Date
+. GAO
+-09-553. Washington, D.C.: April 23, 2009.
+ Troubled Asset Relief Program: March 2009 Status of Efforts to Address 
+
+Transparency and Accountability Issues
+. GAO
+-09-504. Washington, D.C.: 
+March 31, 2009.
+ Auto Industry: A Framework for Considering Federal Financial 
+Assistance
+. GAO
+-09-242T. Washington, D.C.: December 4, 2008.
+ Troubled Asset Relief
+ Program: Additional Actions Needed to Better 
+Ensure Integrity, Accountability, and Transparency
+. GAO
+-09-161. Washington, D.C.: December 2, 2008.
+ Related GAO Products
+   Related GA
+O Products
+ Page 52 
+GAO
+-12-168  Delphi Pension Plans   
+Pension Benefit Guaranty Corporation: Improvements Needed to Address 
+Financial and Management Challenges
+. GAO
+-08-1162T. Washington, 
+D.C.: September 24, 2008.
+ Pension Benefit Guaranty Corporation Single
+-Employer Insurance 
+Program: Long
+-Term Vulnerabilities Warrant ﬁHigh Riskﬂ Designation
+. GAO
+-03-1050SP
+. Washington, D.C.: July 23, 2003.
+    
+   
+   
+  (131077)
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+  The Government Accountability Office, the audit, evaluation, and 
+investigativ
+e arm of Congress, exists to support Congress in meeting its 
+constitutional responsibilities and to help improve the performance and 
+accountability of the federal government for the American people. GAO 
+
+examines the use of public funds; evaluates federal programs and policies; 
+
+and provides analyses, recommendations, and other assistance to help 
+
+Congress make informed oversight, policy, and funding decisions. GAO™s 
+
+commitment to good government is reflected in its core values of 
+accountability, integrity, and reliability.
+ The fastest and easiest way to obtain copies of GAO documents at no cost 
+
+is through GAO™s website (
+www.gao.gov
+). Each weekday afternoon, GAO 
+posts on its website newly released reports, testimony, and 
+
+correspondence. To have GAO e
+-mail you a list of newly posted products, 
+go to www.gao.gov
+ and select ﬁE
+-mail Updates.ﬂ
+ The price 
+of each GAO publication reflects GAO™s actual cost of 
+production and distribution and depends on the number of pages in the 
+publication and whether the publication is printed in color or black and 
+
+white. Pricing and ordering information is posted on GAO™s 
+website, 
+http://www.gao.gov/ordering.htm
+.  Place orders by calling (202) 512
+-6000, toll free (8
+66) 801-7077, or  
+TDD (202) 512
+-2537. 
+Orders may be paid for using American Express, Discover Card, 
+MasterC
+ard
+, Visa, 
+check
+, 
+or money order. Call fo
+r additional information.
+ Connect with GAO on 
+Facebook
+, Flickr
+, Twitter
+, and YouTube
+. 
+Subscribe to our 
+RSS Feeds
+ or 
+E-mail Updates
+. Listen to our
+ Podcasts
+. 
+Visit GAO on the web at 
+www.gao.gov
+. 
+Contact:
+ 
+Website: 
+www.gao.gov/fraudnet/fraudnet.htm
+ E-mail: 
+fraudnet@gao.gov
+ Automated answering system: (800) 424
+-5454 or (202) 512
+-7470 Ralph Dawn, Managing Director, 
+dawnr@gao.gov
+, (202) 512
+-4400 U.S. Government Accountability Office, 441 G Street NW, Room 7125
+ Washington, DC 20548
+ Chuck Young, Managing Director, 
+youngc1@gao.gov
+, (202) 512
+-4800 U.S. Government Accountability Office, 441 G Street NW, Room 7149 
+ Washington, DC 20548
+ GAO™s Mission
+ Obtaining Copies of 
+GAO Reports and 
+Testimony
+ Order by Phone
+ Connect with GAO
+ To Report Fraud, 
+Waste, and Abuse in 
+Federal Programs
+ Congressional 
+Relations
+ Public Affairs
+ PleasePrintonRecycledPaper.

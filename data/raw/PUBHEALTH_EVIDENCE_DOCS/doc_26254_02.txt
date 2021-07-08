@@ -1,0 +1,3651 @@
+ iiiContents
+Overview of CDC™s Surveillance and Control Goals and Activities
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1Appendix A: Surveillance for COVID-19
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9Appendix B: Healthcare System Surveillance
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13Appendix C: Guidance on Infection Control and Contact Tracing
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16Appendix D: Guidance on Test Usage (Asymptomatic Populations and Serology)
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21Appendix E: Assessing Surveillance and Hospital Gating Indicators
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24Appendix F: Setting Speci˜c Guidance
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38  1This document brie˚y summarizes CDC™s initiatives, activities, and tools in support of the Whole-of-Government 
+response to COVID-19.
+Overview of CDC™s Surveillance and Control Goals and Activities
+The principal objectives of COVID-19 surveillance are to monitor the spread and intensity of the pandemic, 
+to enable contact tracing to slow transmission, and to identify disease clusters requiring special intervention. 
+
+Secondary objectives include understanding the severity and spectrum of disease, identifying risk factors for and 
+
+methods of preventing infection, and producing data essential for forecasting. In addition to tracking the disease 
+
+itself, monitoring of healthcare capacity and essential supplies through the National Healthcare Safety Network 
+
+(NHSN) is critical to ensure adequacy of care. 
+Because no single system can capture all parameters of the pandemic, CDC has implemented multiple, 
+complementary surveillance systems (
+Appendix A). Key systems are case-based reporting through the National 
+Noti˜able Diseases Surveillance System (NNDSS), laboratory-based surveillance, syndromic-surveillance data 
+
+reported through the National Syndromic Surveillance Program (NSSP), and data on healthcare system capacity 
+
+reported through the NHSN (
+Appendix B). Additional systems, such as COVID-Net, provide rich, publicly available 
+information for meeting secondary objectives. CDC continues to explore emerging and experimental surveillance 
+
+platforms with a critical eye toward proven utility. 
+Control of the epidemic requires action at the individual, community, and population levels. CDC has provided 
+state, tribal, local, and territorial health departments with extensive detailed 
+guidance
+ on contact tracing
+, infection control
+, and a wide range of other prevention and control topics. Recent models suggest that asymp
+-tomatic and pre-symptomatic transmission and delays in case recognition can greatly reduce the e˛ectiveness 
+
+of contact tracing. To enhance the speed and thus e˛ectiveness of contact tracing, CDC is exploring technologic 
+
+methods for instantaneous voluntary noti˜cation of contacts of con˜rmed cases. 
+At the community level, recent events have shown the devastating e˛ects that outbreaks can have among 
+vulnerable populations, especially those in congregate settings such as nursing homes, prisons, and homeless 
+
+shelters. Similarly, outbreaks in food production plants and other critical industries are crippling communities 
+
+˜nancially and threatening national food security. Rapid identi˜cation and response to these events is a CDC 
+
+priority that can mitigate the immediate impact and provide critical insights needed to prevent future outbreaks 
+
+in similar settings. CDC has developed extensive tools to assist states, counties, facilities, and industries in 
+
+responding to and preventing these events (
+Appendix C).Laboratory testing of asymptomatic individuals is an evolving consideration as more is learned about the role of 
+
+asymptomatic and subclinical infections in transmission SARS-COV-2. Emerging evidence suggests that asymp
+-tomatic infections may play an important role in the epidemiology of the disease. However, it is important to 
+
+de˜ne the circumstances where testing asymptomatic persons is likely to be helpful in controlling the COVID-19 
+
+pandemic. Interim guidance about laboratory test usage for asymptomatic populations and for serologic testing 
+
+and serologic surveillance is provided in 
+Appendix D.Surveillance and hospitalization indicators can aid public health and government o˝cials in their decisions when 
+
+to reopen communities. The disease occurrence and hospital gating indicators in the Opening Up America Again 
+
+guideline provide states and communities insight into the trajectory of the COVID-19 pandemic in their juris
+-
+diction. These indicators are part of the broad assessment jurisdictions should undertake when deciding when 
+
+and how to adjust community mitigation strategies for COVID-19 (
+Appendix E). 2As businesses and other organizations gradually open after the COVID-19-related slowdown, they will need to 
+consider a variety of measures for keeping people safe. These considerations include practices for scaling up 
+
+operations, safety actions (e.g., cleaning and disinfection, social distancing), monitoring possible reemergence 
+
+of illness, and maintaining health operations. Interim guidance for helping establishments with these steps is 
+
+provided in 
+Appendix F. Widespread community mitigation combined with ongoing containment activities represents both an e˛ective 
+
+intervention for limiting the spread of COVID-19 and a serious threat to the economic well-being of the country 
+
+and the world.
+ 3CRITICAL INITIATIVES AND ACTIVITIES
+A. Expanding Testing and Advising Testing Practices
+Extensive, rapid, and widely available COVID-19 testing is essential. CDC is working within the ﬁAll-of-Government 
+and All-of-America Approachﬂ to increase testing capacity and availability to improve case detection and contact 
+
+tracing though all phases of the US plan to Opening Up America Again. As the supply and nature of tests expand, 
+
+testing criteria have been broadened to include a wider range of people and situations. 
+Prioritizing Patients for Testing: Current recommendations for testing: 
+https://www.cdc.gov/coronavirus/2019-
+nCoV/hcp/clinical-criteria.html
+Focusing Testing E˛orts: CDC is working across the US government to support diverse e˛orts to increase testing in 
+multiple settings to support diagnosis, surveillance, and outbreak control: 
+Ł Testing for Diagnosis and Clinical Management:
+ CDC is working with federal government partners to 
+
+support hospitals, healthcare systems, clinics, and public health departments to ensure the capability to 
+
+diagnose COVID-19 infections with a turnaround time needed for appropriate clinical care and public health 
+
+decision-making. CDC is:
+ »Working with federal government partners to provide a wide range of technical assistance resources to 
+each state to help them develop a state-speci˜c testing plan that meets their unique needs.
+ »Equipping state public health laboratories with su˝cient quantities of devices, reagents, and testing 
+
+supplies in the International Reagent Resource (IRR).
+ »Working with the White House Coronavirus Task Force to enhance the national supply of reagents and 
+
+testing supplies so that the commercial market is able to supply state e˛orts. This supply should be su˝
+-cient to achieve a rate of less than 10% positive tests for COVID-19 among symptomatic, asymptomatic, 
+and pre-symptomatic individuals.
+Ł Testing for Surveillance and Outbreak Control:
+ Identify newly emergent cases or clusters of COVID-19 
+among symptomatic and asymptomatic individuals who are prioritized by public health o˝cials and clini
+-
+cians, and improve reporting of COVID-19 cases to public health systems. CDC is:
+ »Utilizing established, nationwide surveillance systems to identify any areas of potential COVID-19 
+outbreaks, including use of CDC™s In˚uenza-Like Illness Network and the National Syndromic Surveillance 
+Program.
+ »Enabling public health systems at state, local, territorial, and tribal levels to develop a robust system to 
+identify COVID-19 infections, particularly among vulnerable populations such as residents of nursing 
+homes, people of racial and ethnic minority groups (e.g., African Americans, American Indians, Alaska 
+Natives) at higher risk of disease, and those in areas of high social vulnerability, closed settings, and 
+
+congregate housing.
+ »Supporting existing case-based surveillance e˛orts for identifying infections through routine testing of 
+
+persons in clinical encounters.
+ »Enhancing case investigation and contact tracing e˛orts through increased public health sta˛ and rapid 
+
+testing capability.
+ »Working with point-of-care diagnostic test manufacturers and state health departments to improve 
+
+reporting of results from rapid, point-of-care devices 
+ »Evaluating various serologic assays for use in surveillance and for potential use for returning to work.
+ 4De˜ning Usage:
+ CDC is working with state, local, and other partners to de˜ne the circumstances where testing of 
+asymptomatic persons is likely to be helpful in controlling the pandemic, as well as the best application of surveil
+-
+lance serologic testing. 
+Ł Emerging evidence suggests that asymptomatic infections play an important role in the epidemiology of 
+
+SAR-CoV-2 infections. Testing for asymptomatic infection should focus (1) on persons with an increased 
+
+likelihood of infection and (2) on settings with particularly vulnerable populations. 
+Ł CDC is working to identify indications for serologic testing. Broadly, the purpose of serologic test falls into 
+
+two categories: serologic surveillance of populations and serologic testing of individuals to determine if they 
+
+have had a prior infection. This current CDC COVID-19 test is not currently designed for individual use (i.e., to 
+
+test people who want to know if they have been previously infected with SARS-CoV-2). Serologic surveillance 
+
+has the potential to provide important insights into the transmission dynamics of disease, as well as a more 
+
+complete picture of total burden of COVID-19 infections in a community or among ˜rst responders and front-
+
+line health providers. More information is needed to determine how the results of serologic testing correlate 
+
+with possible immunity.
+Ł See 
+Appendix D and https://www.cdc.gov/coronavirus/2019-ncov/lab/serology-testing.html
+ for additional 
+
+details on testing strategies, testing of asymptomatic infections, and serologic testing.
+Augmenting Existing Infrastructure and Technology to Improve Data Flow and Reporting:
+CDC is supporting the improvement of current data infrastructure, and the development and integration of 
+digital/technology solutions to augment state and community-wide sites to ensure timely and transparent 
+
+communication to all citizens inclusive of daily new cases, hospitalizations, use of intensive care units (ICU), and 
+
+mortality by county and or zip code. To ensure geographic relevant information is continuously available to state 
+
+and local governments and the public in those communities, this should also include laboratory and potential 
+
+immunization data systems. Activities include:
+Ł Working with state and local o˝cials and web development groups to develop and support interactive 
+
+web-based platforms that allow open and transparent data visibility to all communities, such as the Florida 
+
+Public Health COVID-19 
+website
+.Ł Working with manufacturers for point-of-care diagnostic tests, commercial laboratories, state and local health 
+
+departments, testing locations (providers, hospitals, pharmacies), and public health partners (Association of 
+
+Public Health Laboratories [APHL], Council of state and Territorial Epidemiologists [CSTE]) to improve data 
+
+quality, integration, and electronic reporting.
+Ł Developing, integrating, and testing the ability for laboratories to securely share data with digital platforms 
+
+selected by public health, including platforms that may be used for testing, or to support state and local 
+
+contract tracing. 
+Ł Exploring digital solutions to share laboratory results with patients directly and sharing tested best practices 
+
+with state and local partners. This could also extend to immunization record access. 
+Ł Developing recommendations for minimum requirements of platforms to integrate, store, and manage 
+
+personal laboratory information on digital platforms (what states should consider before investing or having 
+
+additional standards for platforms handling these data).
+ 5B. 
+Phased Plan and Indicators for Reopening America
+The plan for reopening America outlines a three-phased approach for reducing community mitigation measures 
+while protecting vulnerable populations. The phased approach can be implemented statewide or community-by-
+
+community at governors™ discretion. The guidelines propose the use of six ﬁgatingﬂ indicators to assess when to 
+
+move through from one mitigation phase to another. 
+Table 1. Gating Criteria and Phase-speci˜c Thresholds
+Gating Criteria
+Threshold for entering
+ Phase 1Threshold for entering
+ Phase 2Threshold for entering
+ Phase 3Decreases in newly 
+identi˜ed COVID-19 cases 
+Downward trajectory (or 
+
+near-zero incidence) of 
+
+documented cases over a 
+
+14-day period
+Downward trajectory (or 
+
+near-zero incidence) of 
+
+documented cases for at 
+
+least 14 days 
+after entering 
+
+Phase 1
+Downward trajectory (or 
+
+near-zero incidence) of 
+
+documented cases for at 
+
+least 14 days 
+after entering 
+
+Phase
+ 2Decreases in emergency 
+
+department (ED) and/or 
+
+outpatient visits for COVID-
+
+like illness (CLI)
+Downward trajectory (or 
+
+near-zero incidence) of CLI 
+
+syndromic cases reported 
+
+over a 14-day period 
+Downward trajectory (or 
+
+near-zero incidence) of CLI 
+
+syndromic cases reported 
+
+for at least 14 days 
+after 
+
+entering Phase 1
+Downward trajectory (or 
+
+near-zero incidence) of CLI 
+
+syndromic cases reported 
+
+for at least an additional 14 
+
+days 
+after entering Phase 2
+Decreases in ED and/
+
+or outpatient visits for 
+
+in˚uenza-like illness (ILI)
+Downward trajectory (or 
+
+near-zero incidence) of 
+
+ILI reported over a 14-day 
+
+period Downward trajectory (or 
+
+near-zero incidence) of ILI 
+
+reported for at least 14 days 
+
+after entering Phase 1
+Downward trajectory (or 
+
+near-zero incidence) of 
+
+ILI reported for at least an 
+
+additional 14 days 
+after 
+
+entering Phase 2
+Decreases in percentage of 
+
+SARS-CoV-2 tests positive 
+Downward trajectory (or 
+
+near-zero percent positive) 
+
+of positive tests as a 
+
+percentage of total tests 
+
+over a 14-day period (˚at or 
+
+increasing volume of tests)
+Downward trajectory (or 
+
+near-zero percent positive) 
+
+of positive tests as a 
+
+percentage of total tests for 
+
+14 days 
+after entering Phase 
+
+1 (˚at or increasing volume 
+
+of tests)
+Downward trajectory (or 
+
+near-zero percent positive) 
+
+of positive tests as a 
+
+percentage of total tests for 
+
+at least 14 days 
+after entering 
+
+Phase 2
+ (˚at or increasing 
+
+volume of tests)
+Treat all patients without 
+
+crisis care
+Jurisdiction inpatient & 
+
+ICU beds <80% full Sta˛ 
+
+shortage in last week = no 
+
+PPE supplies adequate for 
+
+>4 days
+Jurisdiction inpatient & 
+
+ICU beds <75% full Sta˛ 
+
+shortage in last week = no 
+
+PPE supplies adequate for 
+
+>4 days
+Jurisdiction inpatient & 
+
+ICU beds <70% full Sta˛ 
+
+shortage in last week = no 
+
+PPE supplies adequate for 
+
+>15 days
+Robust testing program
+Test availability such that 
+
+percentage of positive tests 
+
+is ˙20% for 14 days Median 
+
+time from test order to result 
+
+is ˙4 days 
+Test availability such that 
+
+percentage of positive tests 
+
+is ˙15% for 14 days Median 
+
+time from test order to result 
+
+is ˙3 days 
+Test availability such that 
+
+the percentage of positive 
+
+tests is ˙10% for 14 days 
+
+Median time from test order 
+
+to result is ˙2 days 
+ 6Decisions to move between phases should also consider the public health capacity of the jurisdiction based on 
+the criteria listed below. Other epidemiologic data sources available locally can be used to corroborate trends 
+
+seen in core epidemiologic gating criteria. Special consideration should be given to infections identi˜ed in 
+
+populations and settings such as healthcare personnel, patients in healthcare facilities (e.g., nursing homes, 
+
+dialysis centers, long-term care facilities), and residents of congregate living settings (e.g., prisons, youth homes, 
+
+shelters), underserved populations, and people of racial and ethnic minority groups (e.g., African Americans, 
+
+American Indians, Alaska Natives) at higher risk of disease. Incidence and trajectory (increasing versus decreasing) 
+
+of COVID-19 illnesses in the surrounding region should also be considered.
+Table 2. Assessing Capacity for Case Identi˜cation, Follow Up, and Containment
+Category
+Considerations for Assessing Capacity for Case Identi˜cation, Follow Up, and Containment
+SARS-CoV-2 
+testing in 
+
+jurisdiction
+Testing is available as indicated for clinical, public health, and infection prevention needs.
+Identi˜cation of 
+
+new COVID-19 
+
+cases
+All new COVID-19 cases in the jurisdiction can be rapidly identi˜ed through active surveillance, 
+including proactive monitoring for asymptomatic cases through surveillance monitoring.
+Interviewing new 
+COVID-19 cases 
+Initial interviews can be conducted for nearly all new COVID-19 cases within one day of health 
+
+department noti˜cation.
+Contact tracing 
+Follow up (isolation, self-monitoring, and rapid testing of selected contacts) can be initiated for 
+
+nearly all identi˜ed contacts of newly identi˜ed cases.
+Incidence relative 
+
+to local public 
+
+health resources
+Public health capacity is su˝cient to fully perform contact tracing and investigate outbreaks based 
+on local incidence and resources available.
+While some communities will progress sequentially through the reopening phases, there is the possibility of 
+recrudescence in some areas. Given the potential for a rebound in the number of cases or level of community 
+
+transmission, a low threshold for reinstating more stringent mitigation standards will be essential. The decision 
+
+to reinstate community mitigation strategies will undoubtedly be very di˝cult and will require careful thought to 
+
+de˜ne an evidence-based monitoring strategy and speci˜c guidance for these decisions. 
+Technical Support for States
+As part of the ﬁWhole-of-Governmentﬂ public health e˛ort, CDC is providing states and other jurisdictions with 
+
+technical assistance regarding testing, surveillance data collection and reporting, contact tracing, infection 
+
+control, and outbreak investigation. Implementation of these activities is supported by the Paycheck Protection 
+
+Program and Health Care Enhancement Act, which includes $11 billion to be awarded, within 30 days, directly 
+
+to states, localities, territories, tribes, tribal organizations, urban Indian health organizations, or health service 
+
+providers to tribes to develop, purchase, administer, process, and analyze COVID-19 tests, conduct surveillance, 
+
+trace contacts, and related activities. Listed below are additional strategies CDC is using to strengthen the 
+
+capacity of state, tribal, local, and territorial (STLT) health departments to ˜ght against COVID-19. This technical 
+
+assistance is essential to ready the nation to re-open and minimize future COVID-19 outbreaks in jurisdictions 
+
+across the country. 
+ 7Contact Tracing
+Contact tracing, a core disease control measure used by local and state health department personnel for decades, 
+is a key strategy for preventing further spread of infectious diseases, including COVID-19. Contact tracing is part 
+
+of the process of supporting a˛ected individuals and warning contacts of exposure in order to stop chains of 
+
+transmission. CDC is ramping up America's capacity to perform contact tracing. As part of this e˛ort, CDC has 
+
+developed multiple training tools for communities to train the newest frontline workers in public health. CDC will 
+
+train newly identi˜ed contact tracers on how to quickly locate and talk with the a˛ected individuals, assist with 
+
+isolation issues, and work with a˛ected individuals to identify people with whom the a˛ected individuals have 
+
+been in close contact. Identi˜cation of contacts will allow further outreach by public health to identify individuals 
+
+who need to self-isolate. 
+Table 3. CDC Priorities and Strategies to Support STLT Health Departments
+Priorities
+Strategies
+Contact tracing guidance and training 
+https://www.cdc.gov/coronavirus/
+ 2019-ncov/php/contact-tracing/index.html
+Provide 
+CDC guidance on case investigation and contact tracing to STLT 
+
+health departments
+ Address key issues such as sta˝ng and roles, when to initiate an 
+investigation, steps to the investigation, con˜dentiality and consent, 
+
+self-isolation, quarantine, and necessary support services (housing, food, 
+
+medicine); data management; digital contact tracing tools and technology; 
+
+and evaluation and monitoring
+Ł Work with states to develop a comprehensive proactive plan for the 
+
+identi˜cation of asymptomatic case in areas of high vulnerability and/
+
+or high rates of co-morbidities
+Address surge sta˛ng needs
+https://www.cdc.gov/coronavirus/
+ 2019-ncov/php/open-america/response-
+corps.html
+Use a multi-pronged approach to enhance and complement the e˛orts 
+of STLT health department sta˛ through innovative hiring mechanisms 
+designed to address the surge sta˝ng needs of STLT health departments.
+Provide access to a variety of mechanism to complement local e˛orts to 
+increase capacity. 
+Ł Realign existing CDC ˜eld sta˛
+Ł Deploy CDC teams to address outbreaks in special settings
+Ł Partner with CDC Foundation and other organizations to place surge 
+
+sta˛ for STLT health departments across the nation
+Ł Partner with other federal agencies (e.g., AmeriCorps) to o˛er sta˝ng 
+
+options with states
+Ł Facilitate access to a variety of contact tracing and case investigation 
+
+training products and tools for a diverse and evolving public health 
+
+workforce
+Continued on the next page 
+ 8Priorities
+Strategies
+Innovative technologies
+Support implementation of innovative methods and technologies at the 
+STLT levels to help inform and guide the national response.
+Ł Develop guidance for assisting states and locals in evaluating tools, 
+
+re˜ning guidance, and identifying gaps in contact tracing work˚ow
+Ł Leverage partnerships to facilitate information sharing among our state 
+
+and local partners regarding digital contact tracing tools
+Ł Share the landscape of digital tools, including those for 
+contact tracing
+, case management, workforce management, and proximity tracking
+Conclusion
+As part of the Whole-of-Government Response, CDC has developed and is continually evaluating and improving 
+the comprehensive surveillance program to generate essential data for tracking the pandemic and guiding the 
+
+overall response to COVID-19. In addition, CDC is working with federal, state, and local partners to improve testing 
+
+and to advise and support communities during the phased reopening of America. 
+ 9Appendix A: Surveillance for COVID-19
+The goals of US surveillance are to produce timely and accurate information at national, state, local and 
+community levels to inform decisions on public measures for implementing and adjusting disease reduction strat
+-egies, to guide clinical decisions, to educate the public and key stakeholders, and to provide data for estimating 
+
+and forecasting disease burden.
+Surveillance Objectives 
+Ł To identify both symptomatic and asymptomatic/presymptomatic cases and track contacts to slow trans
+-
+mission of COVID-19 in the United States
+Ł To monitor spread and intensity of COVID-19 disease in the United States 
+Ł To understand disease severity and spectrum of illness
+Ł To understand risk factors for severe disease and transmission
+Ł To monitor for virus changes
+Ł To estimate disease burden
+Ł To produce data for forecasting spread and impact
+Ł To identify when thresholds have been met to adjust community mitigation measures 
+Approach
+Using multiple surveillance systems and epidemiology networks, CDC in collaboration with state, local, and 
+
+academic partners, monitors the progression and impact of COVID-19 spread in the United States. The combi
+-nation of data from the di˛erent systems is used to generate an ongoing picture of virus spread and produce data 
+
+to address the key questions for directing and re˜ning the US response. Surveillance data are used for:
+Ł Situational awareness
+ŠTimely monitoring of the spread and intensity of COVID-19 disease in the United 
+
+States. Surveillance systems allow for e˝cient targeting of public health measures, developing timely 
+
+communications, and preparing health systems for increasing numbers of ill people. Data from these systems 
+
+will be updated daily or weekly to create an ongoing, accurate understanding of impacted regions, a˛ected 
+
+populations, trends over time, and viral characteristics.
+Ł Understanding impact and forecasting disease spread
+ŠAll surveillance systems will be employed to produce 
+
+data to understand overall impact and epidemic characteristics to inform future use of public health and 
+
+medical resources.
+Ł Characterizing COVID-19 infection
+ across a spectrum of conditions include: 
+ »asymptomatic infections
+ »symptomatic infection
+ »medically attended outpatient and ambulatory visits
+ »hospitalizations
+ »deaths 
+ 10DIEDHOSPITALIZED
+MEDICALLY ATTENDED
+SYMPTOMATIC
+INFECTED ASYMPTOMATIC
+Operational Plan
+The plan is operationalized according to the following components:
+Ł Increase laboratory testing and reporting to detect cases quickly and 
+  reliably for timely public health action
+Ł Use robust syndromic surveillance, proactive monitoring for 
+ 
+asymptomatic cases in settings with people at risk for infection 
+ 
+or with known vulnerabilities 
+Ł Use laboratory reporting systems to monitor local disease 
+ 
+trends to identify if thresholds (gates) have been met
+Ł Corroborate trends and risk assessment with high-quality 
+ 
+data from sentinel surveillance and systems
+Ł Monitor disease and outbreaks in healthcare, 
+ 
+institutional, workplace and group settings
+Ł Use data for estimation of disease burden over time and to aid disease and transmission forecasts
+Federal, State, and Local roles
+The surveillance strategies rely on collaboration at federal, state, and local levels. The federal government will 
+
+work with the states to establish the data platforms used by states and local jurisdictions to monitor transmission, 
+
+public health, and health system capacity and provide technical assistance and coordination of information 
+
+sharing and decision making across jurisdictions. These data platforms will be public facing to maximize trans
+-
+parency and maximize information to communities at the most granular level. Using the federal data systems, 
+
+states can share data and information and communicate with residents™ decisions under consideration and 
+
+clear guidance on adhering to mitigation levels. In addition to implementing federal programs, states can also 
+
+coordinate resource allocation within their regions and across communities and monitor indicators closely to 
+
+make decisive adjustments to mitigation measures. Finally, local governments are responsible for feeding data 
+
+and information into state and federal data systems and adjoining communities.
+Components of the US COVID-19 surveillance plan
+The surveillance program is built on a combination of existing in˚uenza and viral respiratory diseases surveillance 
+
+systems, syndromic surveillance systems, case reporting systems, proactive monitoring for asymptomatic cases 
+ 
+in areas of demonstrated vulnerabilities, commercial laboratory reporting, ongoing research platforms employed 
+
+for the COVID-19 response, and new systems. The systems are summarized in 
+Table 4
+ and a more fully described 
+ in Appendix A. 11Table 4. Surveillance Systems Used by Objective.
+Surveillance data for decision-making uses multiple systems and epidemiology networks. These approaches use laboratory 
+submitted specimens, electronically transmitted data, and other sources to generate an ongoing picture of disease spread, 
+
+intensity, and severity, and produce data to address the key questions for directing and re˜ning the US response.
+Goal addressed
+Outcome
+Platform
+Trends in disease spread 
+and intensity
+No. of cases, by location, trends, 
+
+demographics, underlying diseases, 
+
+outcomes
+COVID-19 case-based surveillance
+No. of lab-positives; % positive, by age 
+
+groups, location, over time
+Public Health Laboratories (PHLs)
+National Respiratory and Enteric Virus 
+Surveillance System (NREVSS)
+Commercial labs
+Outpatient, syndromicŠ%ILI, trends in 
+ILI by region, age group, concordance and 
+
+discordance between surveillance data
+ILInet
+National Syndromic Surveillance Program 
+(NSSP)OutpatientŠlaboratory-con˜rmed, 
+ 
+% positive, by location, by age group
+Laboratory-con˜rmed outpatient (OP) 
+
+surveillance
+US Flu Vaccine E˛ectiveness (VE) network 
+(acute respiratory illness)
+Severity/clinical spectrum
+Hospitalizations rates, by age group, 
+
+underlying condition
+FluSurvnetŠall ages
+Hospitalizations
+New Vaccine Surveillance Network (NVSN)Š
+
+pediatrics
+Viral changes
+Virus characterization, sequence changes
+PHLs and CDC/DVD 
+SPHERESRisk factors for severe 
+
+diseaseRisk of severe disease given underlying 
+
+illness, age
+COVID-19 case-based surveillance
+US Flu VE network
+
+FluSurvnetŠall ages
+
+NVSNŠpediatrics
+
+Hospitalized Adult In˚uenza Vaccine 
+E˛ectiveness Network (HAIVEN)
+In˚uenza ICU Vaccine E˛ectiveness Study 
+
+Pediatric Intensive Care In˚uenza Network 
+(PICFLU)
+Disease burden
+Overall number of persons a˛ected by 
+
+severity and age
+All systems, plus additional special research 
+
+studiesSerologic surveys
+Pandemic severity
+Pandemic In˚uenza Severity Assessment 
+(PISA)
+Modeling based on epidemiological inputs
+Continued on the next page 
+ 12Goal addressed
+Outcome
+Platform
+Forecasting and modeling 
+spread and impact
+When will it peak, how many disease 
+
+outcomes, how will it spread
+Modelling work with broad coalition of 
+
+modelers led by CDC, using data above
+Transmissibility
+Attack rates and risk factors for transmission
+Field studies
+Flu Transmission Evaluation Study
+ (FLuTES)
+Household In˚uenza Vaccine E˛ectiveness 
+Study (HIVES) 
+Risk Factors for Severe 
+
+diseaseRisk of severe disease given underlying 
+
+illness, age
+Pandemic cohorts (community, households, 
+
+healthcare workers, pregnant woman, long-
+
+term care facilities)
+Disease Burden
+Overall number of persons a˛ected by 
+
+severity and age
+All systems, plus additional special research 
+
+studiesSerologic surveys
+Pandemic Severity
+PISAModeling based on Epi inputs
+Forecasting and modeling 
+spread and impact
+When will it peak, how many disease 
+
+outcomes, how will it spread
+Modelling work with broad coalition of 
+
+modelers led by CDC, using data above
+Transmissibility
+Attack rates and risk factors for transmission
+Field studies
+FLuTES
+
+HIVE
+Pandemic cohorts (community, households, 
+HCWs, pregnant woman, LTCFs)
+ 13Appendix B: Healthcare System Surveillance
+Rationale and Objective
+Measuring and reporting the impact of COVID-19 on the capacity of the US healthcare systemŠincluding both 
+acute-care hospitals and long-term care facilitiesŠis an essential public health function in the pandemic response 
+
+and in plans for Opening Up America Again. To make critical decisions, all levels of government, including federal, 
+
+regional, state, local, tribal, and territorial, and the healthcare system need detailed and timely information about 
+
+the availability and shortages of key resources, including hospital beds, intensive care unit (ICU) beds, ventilators, 
+
+personal protective equipment, and healthcare personnel shortages. Reporting needs to be comprehensive across 
+
+all states.
+Regional variations in disease burden place a premium on supporting a surveillance system that can provide 
+standardized data that are timely, easy to interpret, and readily accessible for multiple end users at all geographic 
+
+levels. Among the main objectives for a national healthcare surveillance system in the current crisis are providing 
+
+timely and readily available metrics with which to monitor the pandemic™s trajectory and progress toward Opening 
+
+Up America Again. The key surveillance metrics available from NHSN are reported counts and a panel of additional 
+
+summary statistics on hospitalized COVID-19 patients, hospital bed capacity, intensive care unit bed capacity, 
+
+ventilatory capacity, supplies of personal protective equipment, and sta˝ng shortages. These metrics, produced 
+
+daily, serve as indicators that can drive decisions and actions at the national, state, county, tribal, territorial, and 
+
+healthcare facility levels but needs to be expanded to be inclusive of all hospitals.
+Key System
+Implementation of several key surveillance metrics for monitoring the impact of the pandemic on the healthcare 
+
+system are available through the existing Centers for Disease Control and Prevention™s (CDC) National Healthcare 
+
+Safety Network (NHSN). NHSN™s role as a shared platform for healthcare-associated condition surveillance provides 
+
+a powerful and unique foundation for COVID-19 surveillance. 
+CDC is already e˝ciently leveraging NHSNŠwhich was launched in 2005 and now is the nation™s most widely 
+used healthcare-associated condition tracking systemŠto support the nation™s COVID-19 response. NHSN 
+
+provides a well-established technical infrastructure, readily extensible platform, and a strong set of partnerships 
+
+with healthcare facilities, state and local health departments, the Centers for Medicare and Medicaid Services 
+
+(CMS), and electronic health record system (EHRs) companies, and other healthcare information technology 
+
+suppliers. This system will need to continue improving to ensure 100% reporting of all cases and outcomes.
+The US healthcare system relies on NHSN to track healthcare-associated conditions, improve patient safety, ful˜ll 
+mandatory federal and state reporting requirements, and ultimately eliminate healthcare-associated conditions. 
+
+NHSN serves as the operating system for hospital-associated infection reporting through legislation established 
+
+by 36 states, Washington, D.C., and Philadelphia, PA. NHSN will need to be expanded to all states and all hospitals 
+
+to provide a comprehensive analysis of COVID-19. CMS uses NHSN reporting to enable healthcare facilities to ful˜ll 
+
+CMS requirements for submitting healthcare outcome data that are used in CMS™s public reporting and incentive 
+
+payment programs. Currently, over 25,000 healthcare facilities, including almost every hospital in the nation, 
+
+more than 7,500 dialysis facilities, and over 3,000 nursing homes participate in NHSN. To be e˛ective, this system 
+
+must be nationwide and be comprehensive in reporting. Personnel in these facilities have extensive experience 
+
+submitting data to NHSN, adhering to the system™s surveillance protocols, and using their own data and national 
+
+benchmarks provided by NHSN for local prevention and control purposes. NHSN™s collaborations with EHR 
+
+companies, infection surveillance system providers, and the Health Level Seven (HL7) data standards organizations 
+
+enable healthcare facilities to submit data electronically to NHSN by using HL7 data exchange speci˜cations. 
+ 14On March 27, 2020, CDC launched the NHSN COVID-19 Patient Impact and Hospital Capacity Module 
+ (https://www.cdc.gov/nhsn/covid19/report-patient-impact.html
+), and as of April 24, 2020, over 56% of acute 
+
+care hospitals and over 53% of critical access hospitals have reported COVID-19 surveillance metrics. This level 
+
+of participation needs to continue to improve until reporting is at the 95Œ100% range. Additionally, as of April 
+
+28, 2020, all ~15,000 nursing homes will be required to report COVID-19 cases and deaths, as well as sta˝ng 
+
+and personal protective equipment supply metrics, to NHSN (
+https://www.cdc.gov/nhsn/ltc/covid19/index.
+
+html
+) per a new CMS Interim Final Rule
+. The adaptation of NHSN to the immediate needs of the emergency 
+response is a clear example of how CDC is retooling, modernizing, and updating its existing national surveil
+-
+lance capabilities to confront the pandemic. 
+During the COVID-19 pandemic, data on key metrics are submitted daily to NHSN, where the data are analyzed 
+
+daily and presented out to the key components at all levels of the public health response. NHSN COVID-19 data 
+
+are an integrally important asset in the US government response. The NHSN data are provisioned for use in secure 
+
+access systems maintained by the White House Coronavirus Task Force, the National Response Coordination 
+
+Center (NRCC), CDC, FEMA, ASPR, and CMS. In addition, all state health departments, several local health depart
+-ments, and many HHS ASPR and FEMA Regional O˝ces receive data from NHSN and rely upon it for regional and 
+
+state emergency response decisions.
+NHSN uses COVID-19 data to develop and report national and state-wide estimates that serve as indicators of 
+stress on the healthcare system. Figures below show examples of national trend-data as well as an example of a 
+
+state trend.
+ 15 16Appendix C: Guidance on Infection Control and Contact Tracing
+General CDC Guidance Hub 
+https://www.cdc.gov/coronavirus/2019-ncov/communication/guidance-list.
+html?Sort=Date%3A%3Adesc
+Infection Prevention Control
+ŁWhat CDC is doing for infection control»https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control.htmlŁStandard CDC guidance on infection control in healthcare settings»Interim Infection Prevention and Control Recommendations for Patients with Suspected or Con˜rmedCoronavirus Disease 2019 (COVID-19) in Healthcare Settings: https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-recommendations.htmlŁBest practices currently in use by states and private sectorŁLink to virtual training»Training for Healthcare Professionals (including clinical care and infection control, PPE, nonpharmaceuticalinterventions, emergency preparedness and response, and additional topics): https://www.cdc.gov/coronavirus/2019-ncov/hcp/training.html»Preparing Nursing Homes and Assisted Living Facilities for COVID-19 (CDC webinar): https://www.youtube.com/watch?v=p1FiVFx5O78ŁFocus areas/congregate settings:»Long-term care facilitiesłPreparing for COVID-19: Long-term Care Facilities, Nursing Homes: https://www.cdc.gov/coronavirus/2019-ncov/hcp/long-term-care.html»Assisted living facilitiesłhttps://www.cdc.gov/coronavirus/2019-ncov/hcp/assisted-living.html»Dialysis facilitiesłhttps://www.cdc.gov/coronavirus/2019-ncov/hcp/dialysis.html»Dental facilitiesłhttps://www.cdc.gov/coronavirus/2019-ncov/hcp/dental-settings.html»Ambulatory care facilitiesłhttps://www.cdc.gov/coronavirus/2019-ncov/hcp/ambulatory-care-settings.html»Pharmaciesłhttps://www.cdc.gov/coronavirus/2019-ncov/healthcare-resources/pharmacies.html»Emergency Medical Services (EMS)łhttps://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-for-ems.html»Food processing facilitiesłMeat and Poultry Processing Workers and Employers: Interim Guidance from CDC and the Occupational
+Safety and Health Administration (OSHA)łhttps://www.cdc.gov/coronavirus/2019-ncov/community/organizations/meat-poultry-processing-workers-employers.html  17 »Correctional facilities
+ łResources for Correctional and Detention Facilities: 
+https://www.cdc.gov/coronavirus/2019-ncov/
+community/correction-detention/guidance-correctional-detention.html
+. »Businesses łInterim Guidance for Businesses and Employers to Plan and Respond to Coronavirus Disease 2019 
+
+(COVID-19): 
+https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html
+ łPrepare your Small Business and Employees for the E˛ects of COVID-19: 
+https://www.cdc.gov/
+
+coronavirus/2019-ncov/community/guidance-small-business.html
+Ł Other IPC tools/Resources:
+ »IPC FAQs: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-faq.html
+ »Using PPE, including donning & do˝ng resources: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/
+
+using-ppe.html
+ »Healthcare preparedness tools: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/preparedness-checklists.
+
+html
+ »Strategies to mitigate sta˝ng shortages: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/mitigating-
+
+sta˛-shortages.html
+  »Key strategies to prepare LTCFs: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/long-term-care-
+
+strategies.html
+ łLTCF Letter to residents, family members and visitors: 
+https://www.cdc.gov/coronavirus/2019-ncov/
+
+downloads/healthcare-facilities/Long-Term-Care-letter.pdf
+ »Cleaning and disinfecting school and community facilities: 
+https://www.cdc.gov/coronavirus/2019-ncov/
+
+community/disinfecting-building-facility.html
+Ł Cleaning and disinfecting non-emergency transport vehicles: 
+https://www.cdc.gov/coronavirus/2019-
+ncov/community/organizations/disinfecting-transport-vehicles.html
+Ł External partners tools/resources
+ »Centers for Medicare & MedicaidŠCOVID partner toolkit
+Šhttps://www.cms.gov/outreach-education/
+partner-resources/coronavirus-covid-19-partner-toolkit
+  »American College of Emergency Physicians
+ŠField guideŠ
+https://www.acep.org/corona/covid-19-˜eld-
+
+guide/cover-page/
+  »American Academy of Pediatrics
+ŠGuidance for Telehealth Payer Policy in Response to Covid-19 
+ https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/aap-guidance-telehealth-
+
+payer-policy-in-response-to-covid-19/
+  »Society for Critical Care Medicine
+ŠCOVID-19 Resource CenterŠIncludes literature and training 
+ https://www.sccm.org/COVID19RapidResources/Home
+  »Society for Healthcare Epidemiology of America
+ łCOVID-19 Resource Page: 
+http://shea-online.org/index.php/practice-resources/priority-topics/emerging-
+
+pathogens/novel-coronavirus-2019-2019-ncov-resources
+  łHospital epidemiology trainingŠ
+https://learningce.shea-online.org/content/sheacdc-outbreak-
+
+response-training-program-ortp#group-tabs-node-course-default1/index.php
+ łRapid Response Program podcast and webinar series 
+https://learningce.shea-online.org/content/novel-
+
+coronavirus-covid-19
+ 18 »Association for Professionals in Infection Control and Epidemiology
+  łCOVID-19 Page: 
+https://apic.org/covid19/
+  łLTC text chapters: 
+https://apic.org/resources/apic-text/apic-text-chapter-collection-long-term-care/
+ »American Medical Association, Resource Center for PhysiciansŠ
+https://www.ama-assn.org/delivering-
+care/public-health/covid-19-2019-novel-coronavirus-resource-center-physicians
+ »American Nurses Association Resource Center
+Šhttps://www.nursingworld.org/practice-policy/
+
+work-environment/health-safety/disaster-preparedness/coronavirus/?utm_campaign=261605+COVID-
+
+19+MKT&utm_source=hero&utm_medium=digitalad&utm_content=covidresourcepage
+ »American Dental Association
+ŠCOVID-19 CenterŠ
+https://success.ada.org/en/practice-management/
+
+patients/infectious-diseases-2019-novel-coronavirus?utm_source=cpsorg&utm_medium=covid-
+
+nav&utm_content=nav-covid-19-center&utm_campaign=covid-19
+  »Argentum (senior living)
+ŠToolkitŠ
+https://www.argentum.org/coronavirustoolkit/
+Ł Critical infrastructure workers 
+ »Implementing Safety Practices for Critical Infrastructure Workers Who May Have Had Exposure to a Person 
+
+with Suspected or Con˜rmed COVID-19: 
+https://www.cdc.gov/coronavirus/2019-ncov/community/critical-
+
+workers/implementing-safety-practices.html
+ »Transportation and Delivery Workers: 
+ łhttps://www.cdc.gov/coronavirus/2019-ncov/community/transportation/index.html
+ »Airport, Airline Workers
+ łWhat Airline Customer Service Representatives and Gate Agents Need to Know about COVID-19: 
+ 
+https://www.cdc.gov/coronavirus/2019-ncov/community/airport-customer-factsheet.html
+ łWhat Airport Baggage and Cargo Handlers Need to Know about COVID-19: 
+https://www.cdc.gov/
+
+coronavirus/2019-ncov/community/organizations/airport-baggage-cargo-handlers.html
+ łWhat Airport Custodial Sta˛ Need to Know about COVID-19: 
+https://www.cdc.gov/coronavirus/2019-
+
+ncov/community/organizations/airport-custodial-sta˛.html
+ łWhat Airport Passenger Assistance Workers Need to Know about COVID-19: 
+https://www.cdc.gov/
+
+coronavirus/2019-ncov/community/organizations/airport-passenger-assistance-workers.html
+ łWhat Aircraft Maintenance Workers Need to Know about COVID-19: 
+https://www.cdc.gov/
+
+coronavirus/2019-ncov/community/organizations/aircraft-maintenance-workers.html
+ »Other transit workers:
+ łWhat Bus Transit Operators Need to Know About COVID-19: 
+https://www.cdc.gov/coronavirus/2019-
+
+ncov/community/organizations/bus-transit-operator.html
+ łWhat Rail Transit Operators Need to Know About COVID-19: 
+https://www.cdc.gov/coronavirus/2019-
+
+ncov/community/organizations/rail-transit-operator.html
+ łWhat Transit Maintenance Workers Need to Know About COVID-19: 
+https://www.cdc.gov/
+
+coronavirus/2019-ncov/community/organizations/transit-maintenance-worker.html
+ łWhat Transit Station Workers Need to Know About COVID-19: 
+https://www.cdc.gov/coronavirus/2019-
+
+ncov/community/organizations/transit-station-workers.html
+ »Occupational Safety and Health Administration resources
+ łControl and Prevention: 
+https://www.osha.gov/SLTC/covid-19/controlprevention.html
+  »Guidance on Preparing Workplaces for COVID-19: 
+https://www.osha.gov/Publications/OSHA3990.pdf
+  19Ł Return to work 
+ »Criteria for Return to Work for Healthcare Personnel with Con˜rmed or Suspected COVID-19 (Interim 
+Guidance): 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/return-to-work.html
+Ł PPE reuse guidance
+ »Strategies to Optimize the Supply of PPE and Equipment (including eye protection, isolation 
+
+gowns, facemasks, N95 respirators, elastomeric respirators, and ventilators): 
+https://www.cdc.gov/
+
+coronavirus/2019-ncov/hcp/ppe-strategy/index.html
+ »Decontamination and Reuse of Filtering Facepiece Respirators: 
+https://www.cdc.gov/coronavirus/2019-
+
+ncov/hcp/ppe-strategy/decontamination-reuse-respirators.html
+  »Personal Protective Equipment (PPE) Burn Rate Calculator: 
+https://www.cdc.gov/coronavirus/2019-ncov/
+
+hcp/ppe-strategy/burn-calculator.html
+Ł Sustainable Isolation
+ »Interim Infection Control Guidance for Public Health Personnel Evaluating Persons Under Investigation 
+
+(PUIs) and Asymptomatic Close Contacts of Con˜rmed Cases at Their Home or Non-Home Residential 
+
+Settings at 
+https://www.cdc.gov/coronavirus/2019-ncov/php/guidance-evaluating-pui.html
+ »Public Health Guidance for Potential COVID-19 Exposure Associated with International Travel or Cruise 
+
+Travel at 
+https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html
+  »Public Health Recommendations for Community-Related Exposure at 
+https://www.cdc.gov/
+
+coronavirus/2019-ncov/php/public-health-recommendations.html
+  »Links to programs to support people in isolation: 
+https://www.cdc.gov/coronavirus/2019-ncov/daily-life-
+
+coping/index.html
+  »Links to housing support for people without safe places for isolation: 
+https://www.cdc.gov/
+
+coronavirus/2019-ncov/community/homeless-shelters/unsheltered-homelessness.html
+  »Links to federal programs- unemployment etc.
+ »www.coronavirus.gov
+  »https://www.coronavirus.gov/smallbusiness/
+ »https://www.irs.gov/coronavirus-tax-relief-and-economic-impact-payments
+  »https://www.usa.gov/unemployment
+Ł Call center for clinical inquiries 24/7 (770-488-7100)
+ »https://www.cdc.gov/cdc-info/ask-cdc.html
+ Ł Others
+ »NIH COVID-19 Treatment Guidelines: 
+https://www.covid19treatmentguidelines.nih.gov/overview/
+ »Therapeutic options: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html
+ »Infectious Diseases Society of America Guidelines: 
+https://www.idsociety.org/practice-guideline/covid-19-
+
+guideline-treatment-and-management/
+ »Information for Pediatric Healthcare Providers: 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/pediatric-
+
+hcp.html
+ »Considerations for Inpatient Obstetric Healthcare Settings: 
+https://www.cdc.gov/coronavirus/2019-ncov/
+
+hcp/inpatient-obstetric-healthcare-guidance.html
+ »Interim Guidance for Implementing Home Care of People Not Requiring Hospitalization for Coronavirus 
+
+Disease 2019 (COVID-19): 
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-home-care.html
+ 20Contact Tracing
+Ł Contact Tracing Overview:
+ https://www.cdc.gov/coronavirus/2019-ncov/php/open-america/contact-
+ tracing.html
+Ł Principles of Contact Tracing: Part of a Multipronged Approach to Fight the COVID-19 Pandemic
+:  
+https://www.cdc.gov/coronavirus/2019-ncov/php/principles-contact-tracing.html
+ (also see PDF booklet: 
+
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/principles-contact-tracing-booklet.pdf
+)Ł Sample Contact Tracing Training Plan:
+ https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/
+
+contact-tracing-training-plan.pdf
+Ł Digital Contract Tracing Tools for COVID-19:
+ https://www.cdc.gov/coronavirus/2019-ncov/downloads/
+
+digital-contact-tracing.pdf
+Ł Preliminary Criteria for the Evaluation of Digital Contact Tracing Tools for COVID-19:
+ https://www.cdc.gov/
+
+coronavirus/2019-ncov/downloads/php/prelim-eval-criteria-digital-contact-tracing.pdf
+Ł External partners tools/resources
+ »Association of State and Territorial Health O˛cials:
+ Making Contact: A Training for COVID-19 Contact 
+Tracers Introductory Online Course: 
+https://learn.astho.org/p/ContactTracer
+ »Johns Hopkins Bloomberg School of Public Health Center for Health Security:
+ Review of Mobile Appli
+-
+cation Technology to Enhance Contact Tracing Capacity for COVID-19 
+https://www.centerforhealthsecurity.
+
+org/resources/COVID-19/COVID-19-fact-sheets/200408-contact-tracing-factsheet.pdf
+ »National Association of County & City Health O˛cials:
+ Building COVID-19 Contact Tracing Capacity in 
+
+Health Departments to Support Reopening American Society Safely: 
+https://www.naccho.org/uploads/
+
+full-width-images/Contact-Tracing-Statement-4-16-2020.pdf
+ 21Appendix D: Guidance on Test Usage (Asymptomatic Populations and Serology)
+Information on testing prioritization can be found here: 
+https://www.cdc.gov/coronavirus/2019-nCoV/hcp/
+clinical-criteria.html
+Testing asymptomatic populations
+Testing of asymptomatic individuals is a growing consideration as the role of asymptomatic and subclinical 
+
+infections in transmission becomes more apparent. Emerging evidence suggests that asymptomatic infections 
+
+may play an important role in the epidemiology of the disease. Nevertheless, it is important to de˜ne the 
+
+circumstances where testing asymptomatic persons is likely to be helpful in controlling the COVID-19 pandemic. 
+
+E˛ective testing programs will focus on (1) persons with an increased likelihood of infection and (2) settings with 
+
+particularly vulnerable populations, including but not limited to the following:
+Ł Contacts of known (symptomatic or asymptomatic) cases. This may include testing of contacts going back one 
+
+to two weeks before the onset of symptoms, particularly contacts who work with vulnerable populations.
+Ł Residents and sta˛ of long-term care facilities. Periodic testing and sentinel surveillance in these settings 
+
+may serve to detect outbreaks early in this setting, where devastating outbreaks are known to occur and to 
+
+be associated with high rates of asymptomatic infection. CDC is updating guidance for surveillance in these 
+
+settings https://www.cdc.gov/coronavirus/2019-ncov/hcp/long-term-care.html
+.Ł Other healthcare facility workers and ˜rst responders. Healthcare facilities may consider testing sta˛ periodi
+-cally, starting with sta˛ in high tra˝c, high risk areas such as emergency departments.
+Serologic testing
+Serologic testing currently has little role in the diagnosis of acute disease but is already playing an important role 
+
+in the response to the pandemic. The uses of serologic testing fall into two broad categories: serologic surveil
+-
+lance of populations and serologic testing of individuals for proof-of-prior infection.
+Serologic surveillance
+https://www.cdc.gov/coronavirus/2019-ncov/covid-data/serology-surveillance/index.html
+Serologic surveillance has the potential to provide a more complete picture of how much infection has occurred 
+already in the United States. Case-based surveillance for anything with a wide spectrum of severity will always 
+
+miss many cases, and its increasingly clear that a substantial proportion of SARS-CoV-2 infections are asymp
+-tomatic. To the degree that SARS-CoV-2 infection results in measurable antibodies, serologic testing will pick up 
+
+any infection.
+The purposes of serologic surveillance are the following:
+Ł To provide a more complete estimate of the incidence of infection.
+Ł To determine the proportion of the population that was previously infected.
+Ł To better understand transmission.
+Ł To evaluate the impact of community mitigation measures.
+CDC has published its COVID-19 Serology Surveillance Strategy at 
+https://www.cdc.gov/coronavirus/2019-ncov/
+covid-data/serology-surveillance/index.html
+  22External serosurveys
+Ł CDC will support state, tribal, local, and territorial health authorities to plan and implement serosurveys in 
+their populations with known prior exposure. Serial antibody tests, initial and con˜rmatory, will be used in all 
+
+˜eld studies to ensure enhanced positive predictive values.
+Serologic testing of individuals for proof-of-prior infection (immunity)
+https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html
+While the lay public often mistakenly refers to this as ﬁserologic surveillanceﬂ, it is fundamentally di˛erent and is 
+at its core a clinical activity designed to guide decisions about speci˜c individuals by determining whether or not 
+
+they are already immune to the infection. Serologic testing may play a role in a back-to-work strategy provided 
+
+it can be shown that serologic testing can reliably infer immunity. This immunity may not need to be absolute: 
+
+protection against severe infection may be enough even if immunity against reinfection isn™t reliable or durable. 
+While there appears to be considerable public optimism that serologic testing will allow return to work without 
+the need for PPE or other precautions, there are many unknowns at this early date that limit implementation of 
+
+serology for this purpose:
+Ł The correlates of immunity to SARS-CoV-2 are not known and there are few or no data to con˜rm that 
+
+antibodies detected in serologic tests correlate with such immunity. Studies in the US military during 
+
+the 1970s showed that reinfection with endemic coronaviruses occurred in the presence of low levels of 
+
+antibodies. Nonetheless, most experts feel immunity from infection is likely at least in the short term.
+Ł The performance characteristics of serologic assays are not yet known, although there is much work ongoing 
+
+to de˜ne those characteristics. Typically, a well-performing single step serologic assay may be expected to 
+
+have a speci˜city of 95% (sensitivity is a secondary concern here, although also important), which is likely 
+
+not enough for this purpose, given the potential consequences of COVID-19. Combining two di˛erent tests 
+
+will be critical for improving performance and should be part of any strategy to utilize serologic testing for 
+
+ﬁimmunityﬂ determinations.
+Ł The current seroprevalence is likely to be highly variable. In New York City, for example, with one of the 
+
+highest incidence rates in the country, a recent survey among customers of retail outlets found a seropreva
+-
+lence of 22%. Preliminary data at CDC from remainder clinical specimens in the New York City area found 
+
+about half that rate; in Western Washington, the preliminary rate was closer to 5%. This has two implications:
+Ł At best, the use of serologic testing for a back-to-work strategy would likely bene˜t fewer than 10% of the 
+
+population currently.
+Ł In the setting of a relatively low seroprevalence, any serologic test would have to have excellent performance 
+
+characteristics. If a test with 95% speci˜city were used in a population with a true seroprevalence of 5%, 
+
+almost half all ﬁpositivesﬂ would be false-positive and not immune and therefore must include 2 serial tests to 
+
+con˜rm all positive results.
+Ł There is a need for high-level consensus on the role of serologic testing in a back-to-work policy. The stakes 
+
+are high for such a policy, so that in addition to the scienti˜c data, there is also a need to have political 
+
+consensus on this issue. Consensus is also needed on a plan for how to provide documentation of that 
+
+immunity, be it through federal- or state-based immunity registries, digital proof-of-immunity, or physical 
+
+documentation such as ﬁimmunity certi˜catesﬂ.
+ 23Despite these limitations, continued interest in the use of serologic testing in a back-to-work policy is likely. 
+ In the meantime, CDC is doing the following:
+Ł Working with NIH/NCI, FDA, and ASPR on evaluating the ˜rst panel of 25 serologic assays. More testing will 
+
+quickly follow these tests.
+Ł Designing studies to track healthcare workers long term to monitor for evidence of reinfection.
+Ł Tracking seroprevalence nationally, as described above.
+ 24Appendix E: Assessing Surveillance and Hospital Gating Indicators
+This document is for use by public health and government o˝cials to aid their decisions when to reopen commu
+-nities. It describes four indicators speci˜c to disease occurrence and hospital readiness, which form part of the 
+
+ﬁgating criteriaﬂ described in the Opening Up America Again guidelines. 
+Background and Summary
+On April 16, 2020, the White House released the Opening Up America Again guideline (
+https://www.whitehouse.
+
+gov/openingamerica/
+), which outlines a three-phased approach to relaxing community mitigation measures 
+
+currently in place to limit transmission of the SARS-CoV-2 virus. The purpose of the guideline is to outline a path to 
+
+re-opening the economy while mitigating the risk of resurgence in COVID-19 illnesses and protecting vulnerable 
+
+populations. The phased approach can be implemented on a statewide basis or community-by-community 
+
+at governors' discretion. The guideline proposes the use of three categories of ﬁgatingﬂ indicators (based on 
+
+symptoms, based on cases, and for hospitals) to assess when to move through three community mitigation 
+
+phases (Phase One, Phase Two, and Phase Three). Two gating indicators are in each category and include:
+Ł Indicators based on symptoms:
+ 1. Downward trajectory of in˚uenza-like illnesses (ILI syndrome) reported within a 14-day period 
+AND2. Downward trajectory of COVID-like syndromic cases (i.e., COVID-like illness or CLI syndrome) reported 
+within a 14-day period
+Ł Indicators based on cases:
+3. Downward trajectory of documented COVID-19 cases within a 14-day period
+OR4. Downward trajectory of positive tests as a percent of total tests within a 14-day period (concurrent with 
+a ˚at or increasing volume of tests)
+Ł Indicators for hospital readiness:
+5. Capacity to treat all patients without utilization of crisis care standards
+AND6. Robust testing program in place for at-risk healthcare workers, including antibody testing 
+The 
+Table
+ at the end of the section summarizes all six indicators and the measures to support planning for 
+transitioning through community mitigation phases. Indicators 1 through 4 rely on public health surveillance 
+data to determine the trajectory of COVID-19 transmission within a jurisdiction. This document describes 
+
+the measurement and interpretation of these four disease occurrence gating indicators. This document also 
+
+highlights other disease occurrence measures that may be important for state or local jurisdictions to use when 
+
+adjusting the intensity of community mitigation measures. Indicators 5 and 6 utilize hospital readiness measures 
+
+to inform decision-making processes about readiness to move through mitigation phases. In addition to these 
+
+indicators, CDC and CMS work collaboratively to provide guidance for reopening America. Further information 
+
+on reopening of clinical facilities is available at 
+https://www.cms.gov/˜les/document/covid-˚exibility-reopen-
+
+essential-non-covid-services.pdf
+. 25Disease Occurrence Gating Indicators
+The following subsections provide further detail for each of the disease occurrence gating indicators outlined 
+in the Opening Up America Again guideline, including a description and rationale, potential data sources, how 
+
+to assess decreases (and moving through the three mitigation phases), how to assess increases (i.e., ﬁreboundﬂ), 
+
+and interpreting each measure™s strengths and limitations. Numerous data sources and surveillance systems 
+
+exist at the local, state, and federal levels that can be used to measure and evaluate these indicators. Local and 
+
+state o˝cials should use the best data available, regardless of source, when assessing the trajectory of COVID-19 
+
+illnesses. Variability will exist from jurisdiction to jurisdiction in the quality, completeness, and timeliness of these 
+
+data sources, and su˝cient data may not be available for all jurisdictions to evaluate all four of the disease occur
+-rence gating criteria. In situations where all the gating indicators cannot be assessed, additional data sources 
+
+available locally may assist in determining the trajectory of COVID-19 activity in the jurisdiction. 
+Downward trajectory of ILI reported within a 14-day period 
+Ł Description/Rationale:
+ ILI is a syndromic surveillance categorization applied to emergency department 
+
+(ED) and outpatient visit symptom and diagnostic code data. This measure is intended to identify areas that 
+
+are experiencing sustained decreases in outpatient clinic or ED visits in people with ILI. ILI is de˜ned as fever 
+
+with cough and/or a sore throat. COVID-19 may present with symptoms similar to ILI, so the U.S. Outpatient 
+
+In˚uenza-like Illness Surveillance Network (ILINet) and the National Syndromic Surveillance Program (NSSP) 
+
+can be used to track COVID-19 trends, especially when paired with SARS-CoV-2 and other respiratory 
+
+pathogen testing data.
+Ł Data Sources:
+ Outpatient care facilities and hospital EDs selected by state and/or local health departments for 
+
+participation in the Outpatient In˚uenza-Like Illness Network (ILINet) report to CDC either directly or through 
+
+their health department via a web-based reporting system. In addition, electronic data, including data from 
+
+CDC™s NSSP can be uploaded to ILINet. These data are stored in a shared database for use by CDC and state/
+
+local public health o˝cials. States and jurisdictions may collect syndromic surveillance data on ILI locally that 
+
+is not submitted to ILINet but could be used in interpreting the ILI gating indicator. ILINet data is available 
+
+publicly at the state-level at 
+https://www.cdc.gov/˚u/weekly/˚uviewinteractive.htm
+.Ł Assessing Decreases:
+  »To pass the criteria of a 14-day downward trajectory in ILI syndromic cases, a locality must either have 
+experienced 14 days of decreasing cases or 14 days of minimal ILI activity. To determine a downward 
+
+trajectory, the visits data are assessed using a smoothed curve to account for periodic ˚uctuations in ILI. To 
+
+calculate this curve, CDC applies a cubic spline, or ﬁsmoothed curveﬂ, a statistical method that smooths out 
+
+day-to-day variability in the data. The slope of this curve is used to assess declining incidence. Localities 
+
+must have 14 days of consecutive downward slope, allowing for 2Œ3-day grace periods of increasing ILI 
+
+to allow for irregularities. It is recommended that localities assess both the total counts of ILI visits and ILI 
+
+visits as a percentage of total ED visits. Statistical coding used by CDC (using the R package) can be shared 
+
+with state and local jurisdictions upon request.
+ »Normal variation in ILI ED and outpatient visits can a˛ect the assessment of daily trends, especially in 
+
+smaller geographies with low daily visits and by variations in healthcare seeking behavior associated with 
+the day of the week, holidays, and current social distancing measures. 
+ »ILI activity levels are traditionally calculated for jurisdictions based on the percent of outpatient visits due 
+to ILI in a jurisdiction compared with the average percent of ILI visits that occur during weeks with little or 
+no in˚uenza virus circulation in that jurisdiction (i.e., non-in˚uenza weeks), adjusted for the sites contrib
+-uting data for the week. ILI activity values within two standard deviations of the non-in˚uenza week mean 
+are classi˜ed as a minimal level of ILI.
+ 26 »Given potential changes in healthcare seeking behaviors resulting from community mitigation measures 
+that can signi˜cantly a˛ect the denominator of ILI proportions, jurisdictions should analyze within-juris
+-diction ILI trends using both the number (count) and proportion of visits to account for this potential bias.
+Ł Mitigation Phase Transitions:
+ All the gating indicators as well as other information available locally should 
+be used by jurisdictions when choosing to move through the community mitigation phases. Below is a 
+
+framework for speci˜cally evaluating whether the ILI gating indicator is met with respect to these phase 
+
+transitions.
+ »Transition into Phase One: achieve 14 consecutive days (or two weeks) of downward trajectory or 
+maintaining minimal ILI activity level. 
+ »Transition into Phase Two: achieve an additional 14 consecutive days (or two weeks) of improvement 
+
+(downward trajectory or minimal ILI activity level) without experiencing a rebound (de˜ned below).
+ »Transition into Phase Three: achieve another 14 consecutive days (or two weeks) of improvement 
+
+(downward trajectory or minimal ILI activity level) without experiencing a rebound (de˜ned below). 
+Ł Identifying Rebound: 
+ »An increase in ILI visits or an increase in ILI activity levels over 5 consecutive days may indicate a potential 
+
+rebound in COVID-19 activity.
+Ł Interpretation/Limitations: 
+ »ILI is a nonspeci˜c syndromic measure and can be in˚uenced by the circulation of numerous respiratory 
+
+pathogens and should be interpreted in the context of virologic and other surveillance data. For example, 
+
+ILI is expected to ˚uctuate in the fall and winter due to circulation of seasonal in˚uenza.
+ »The purpose of ILI surveillance is to detect changes in outpatient visits for febrile respiratory illness. The 
+
+percent of patient visits for ILI can be a˛ected by changes in health care seeking behavior, so jurisdictions 
+
+should look at numbers (counts) of ILI visits in addition to proportions.
+ »ILI frequency and activity levels within a jurisdiction are in˚uenced by the mix of primary care practice 
+
+types submitting data. These changes make direct comparisons of ILI from one jurisdiction to another 
+
+invalid. Calculation of ILI activity levels allows for more appropriate comparison of ILI between jurisdictions.
+Downward trajectory of COVID-like illness (CLI) reported within a 14-day period 
+Ł Description/Rationale: 
+CLI is a syndromic surveillance categorization applied to ED visit symptom and 
+diagnostic code data. This measure is intended to identify areas that are experiencing sustained decreases in 
+
+ED visits consistent with the presenting symptoms of COVID-19 illness (fever and either cough, shortness of 
+
+breath, or di˝culty breathing) or with a coronavirus diagnostic code that ˜ts CDC interim coding guidelines, 
+
+and without a diagnostic code for in˚uenza (
+https://www.cdc.gov/nchs/data/icd/ICD-10-CM-O˝cial-Coding-
+
+Gudance-Interim-Advice-coronavirus-feb-20-2020.pdf
+). CLI can be used to track COVID-19 trends, especially 
+when paired with SARS-CoV-2 and other respiratory pathogen testing data.
+Ł Data Sources:
+ Hospitals report ED visits in near real-time to state and/or local health departments and to 
+
+NSSP. These data are stored within the BioSense Platform where they can be analyzed and exchanged by 
+
+public health o˝cials. States and jurisdictions may collect syndromic surveillance data on CLI locally that is 
+
+not submitted to NSSP but could be useful for interpreting the CLI gating indicator.
+Ł Assessing Decreases: 
+ »To pass the criteria of a 14-day downward trajectory in CLI syndromic cases, a locality must either 
+have experienced 14 days of decreasing cases or exhibit near pre-pandemic levels of CLI. To determine 
+
+a downward trajectory, the visits data are assessed using a smoothed curve to account for periodic 
+ 27˚uctuations in CLI. To calculate this curve, CDC applies the cubic spline as with ILI and described above. 
+The slope of this curve is used to assess declining incidence. Localities must have 14 days of consecutive 
+
+downward slope, allowing for 2Œ3-day grace periods of increasing CLI to allow for irregularities. It is 
+
+recommended that localities assess both the total counts of CLI visits and CLI visits as a percentage of 
+
+total ED visits. Statistical coding used by CDC (using the R package) can be shared with state and local 
+
+jurisdictions upon request.
+ »Normal variation in CLI ED visits a˛ects the assessment of daily trends, especially in smaller geographies 
+
+with low daily visits and by variations in healthcare seeking behavior associated with the day of the week, 
+holidays, and current social distancing measures. 
+Ł Mitigation Phase Transitions: 
+All the gating indicators as well as other information available locally should 
+be used by jurisdictions when choosing to move through the community mitigation phases. Below is a 
+framework for speci˜cally evaluating whether the CLI gating indicator is met with respect to these phase 
+
+transitions.
+ »Transition into Phase One: achieve 14 consecutive days of improvement (downward trajectory or near 
+pre-pandemic CLI ED visits). 
+ »Transition into Phase Two: achieve an additional 14 consecutive days of improvement (downward trajectory 
+
+or near pre-pandemic CLI ED visits) without experiencing a rebound (de˜ned below).
+ »Transition into Phase Three: achieve another 14 consecutive days of improvement (downward trajectory or 
+
+near pre- pandemic CLI ED visits) without experiencing a rebound (de˜ned below). 
+Ł Identifying Rebound: 
+Two primary methods can be used to help assess for a rebound in CLI ED visits. 
+ »Within NSSP, daily statistical anomaly detection methods are automatically applied to time series trends, 
+
+and anomalous increases are ˚agged for further epidemiologic investigation. Multiple consecutive days 
+
+of anomalies may be an indicator of increases in COVID-19 activity and could be used to focus additional 
+
+testing of patients.
+ »Regression methods (e.g., binomial regression) can be used to classify time series trends in the last 15 days 
+
+to detect 5-day periods of signi˜cant increase in patients being seen with CLI and can also be used to focus 
+
+additional investigations and/or con˜rmatory testing.
+Ł Interpretation/Limitations: 
+ »The purpose of syndromic surveillance is to ˜nd timely, more automated, indicators of a change in patterns 
+
+of illness or health seeking behaviors in a community than is possible with case reporting. Syndromic 
+
+data can initiate further con˜rmatory investigation. CLI is a non-speci˜c syndromic measure and could be 
+
+in˚uenced by the circulation of other respiratory pathogens. 
+ »The timeliest element of ED records is the patient chief complaint text describing their symptoms. The CLI 
+
+syndrome is based in part on the patient™s chief complaint at presentation to the ED, which may or may not 
+
+actually be COVID-19, but also includes visits that were assigned a COVID-19 diagnosis code. 
+ »The data quality and completeness of chief complaint text and diagnostic codes can vary by reporting 
+
+hospital and can a˛ect the assessment of trends over time. 
+ »In general, syndromic categorizations emphasize timeliness and sensitivity over speci˜city. As such, the 
+
+CLI gating indictor may exhibit changes earlier than other indicators but may also include visits for other 
+
+illnesses that have similar symptoms as COVID-19 (e.g., infections with other respiratory viruses). Interpre
+-tation of CLI data should always be considered in conjunction with other data and the local context. Data 
+
+that track the presence of other respiratory illnesses (e.g., respiratory syncytial virus and in˚uenza) circu
+-
+lating within the community may help in assessing whether CLI is due to the virus that causes COVID-19 or 
+other viruses. 
+ 28Downward trajectory of documented (con˜rmed and probable) cases within a 14-day period
+Ł Description/Rationale: 
+On April 5, 2020, the Council of State and Territorial Epidemiologists (CSTE) issued 
+an interim COVID-19 position statement making COVID-19 a nationally noti˜able disease and establishing 
+
+con˜rmed and probable case de˜nitions (
+www.cste.org/resource/resmgr/2020ps/interim-20-id-01_covid-19.
+
+pdf). The case report gating indicator is intended to identify communities experiencing sustained decreases 
+in the number of new cases occurring each day, an indication of decreases in disease transmission. 
+Ł Data Sources: 
+Case report information for con˜rmed and probable cases collected by state and local 
+ 
+jurisdictions and submitted to CDC; publicly available aggregated case count data (e.g., USAFacts: 
+ https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
+); US Census population estimates 
+
+(used as denominator for incidence calculations)
+Ł Assessing criteria for reduction in number of cases:
+ To pass this criterion, a locality must either 1) have 
+
+experienced 14 days of decreasing cases or 2) be in a low-incidence plateau. A locality that has a new 
+
+outbreak or rebound cannot advance to the next phase unless they see another 14 days of decline.
+Ł De˜ning 14 days of decreasing cases:
+ To assess a downward trajectory, CDC uses a 3-day rolling average 
+
+and applies a spline curve (described above). A period of 14 days of declining cases occurs when fewer cases 
+
+are reported at the end of the 14 days compared with the number at the beginning of the period, using the 
+
+3-day rolling average ˜tted with the spline curve to de˜ne the number of cases. In addition, a ﬁgrace periodﬂ 
+
+of 5 days may be applied during a downward trajectory, during which cases may increase for no more than 
+
+5 consecutive days. (If 5 days of consecutive increase occur, then the jurisdiction has met the criteria for 
+
+rebound and is no longer in a downward trajectory.) Statistical coding used by CDC (using the R package) can 
+
+be shared with state and local jurisdictions upon request.
+Ł De˜ning a low incidence plateau
+ »A low-incidence plateau is de˜ned as a very low number of new cases reported (below 10 cases per 
+100,000 population over 2 weeks) with only minimal change in daily cases.
+ »To qualify for this category, a locality must previously have seen elevated case counts. 
+Ł Mitigation Phase Transitions:
+ All the gating indicators as well as other information available locally should 
+be used by jurisdictions when choosing to move through the community mitigation phases. Below is a 
+
+framework for speci˜cally evaluating whether the case report gating indicator is met with respect to these 
+
+phase transitions. Note that the Opening Up America Again guideline speci˜es that either the case report 
+
+gating indictor or the percent positive gating indicator should be met.
+ »Transition into Phase One: achieve 14 consecutive days of improvement (downward trajectory or near-zero 
+incidence).
+ »Transition into Phase Two: achieve an additional 14 consecutive days of improvement (downward trajectory 
+
+or near-zero incidence) without experiencing a rebound (de˜ned below).
+ »Transition into Phase Three: achieve another 14 consecutive days of improvement (downward trajectory or 
+
+near-zero incidence) without experiencing a rebound (de˜ned below).
+Ł De˜ning rebound
+ »A rebound occurs when the smoothed, 3-day average of case counts exhibits an increase over a 5 consec
+-
+utive day period, following a downward trajectory of 14 or more days, including any grace period applied.
+ 29Ł Interpretation/Limitations:
+ »Case report data are a lagging indicator for assessing SARS-CoV-2 transmission in the community, as new 
+cases are not identi˜ed until after the incubation period occurs, the ill person seeks testing or healthcare for 
+their illness, and the information is reported to health o˝cials. 
+ »The choice of the dates used (e.g., onset date, report date) is critical in the interpretation of observed 
+trends. If available, onset date is preferred because it improves timeliness of trend interpretation. However, 
+
+because date of report is more likely to be available than date of illness onset, it is more frequently the date 
+
+used to calculate trends. Whatever date is used, the assessment must account for the fact that very recent 
+
+cases will not have been reported. Excluding recent onset dates or report dates (e.g., in the last 3 days or 
+
+last week if onset dates are used) from assessment of trends should be considered to ensure that incom
+-
+plete reporting of recent cases does not give the false appearance of downward trajectory. 
+ »CDC analyses are typically based on the date of case report and not diagnosis or onset date because it 
+
+is the most uniformly available date across jurisdictions. Preliminary analyses of national data show that 
+
+there is typically an 8- to 10-day lag between the date of symptom onset and the date the case is reported 
+
+to CDC, but this varies by jurisdiction.
+ »A sustained downward trajectory demonstrates improvement in daily case incidence but does not 
+
+necessarily equate to a low disease burden. Communities should consider local resource capacity (e.g., 
+
+availability of public health sta˛ to conduct contact tracing) when determining appropriate incidence 
+
+thresholds for making phase transition decisions. 
+Downward trajectory of positive tests as a percent of total tests within a 14-day period with stable or increasing test volume
+Ł Description/Rationale:
+ Laboratory test percent positive can be used in combination with, or as an alternative 
+to, observing a decline in new case reports. In circumstances where testing is adequate and testing practices 
+
+are largely stable, percent positive may be a reliable indicator of COVID-19 activity.
+Ł Data Sources:
+ Positive and negative SARS-CoV-2 test results reported by laboratories to state health depart
+-ments. Data from the Census Bureau™s Population Estimates Program can be used to estimate state and county 
+
+population denominators for per-capita test rates. 
+Ł Assessing Decreases: 
+ »Percent positive is calculated as the number of positive tests divided by the total test results, with total 
+test results de˜ned as the sum of positive tests and negative tests, excluding records where the test was 
+not performed because the specimen was not usable or the test was cancelled. The number of tests with 
+indeterminate results has been small, so not including these in the denominator of total test results should 
+
+not a˛ect interpretation of the trends observed. 
+ »A jurisdiction must see a 14-day downward trajectory in percent positive (or near-zero percent positive) 
+
+with up to 2Œ3 consecutive days of increasing or stable percent positive allowed as a grace period if data 
+are inconsistent, while total test volume is stable or increasing.
+ »Methods to assess decreases in laboratory test positivity are similar to those used to assess decreases in ILI 
+and CLI. Ł Mitigation Phase Transitions:
+ All the gating indicators as well as other information available locally should 
+be used by jurisdictions when choosing to move through the community mitigation phases. Below is a 
+
+framework for speci˜cally evaluating whether the percent positive gating indicator is met with respect to 
+
+these phase transitions. Note that in the Opening Up America Again guideline, the case report gating indictor 
+
+or the percent positive gating indicator should be met. 
+ »Transition into Phase One: achieve 14 or more consecutive days of decline in percent positive (or near-zero 
+percent positive) while total test volume is stable or increasing.
+ 30 »Transition into Phase Two: achieve an additional 14 or more consecutive days of decline in percent positive 
+(or near-zero percent positive) while total test volume is stable or increasing. 
+ »Transition into Phase Three: achieve an additional 14 or more consecutive days of decline in percent 
+
+positive (or near-zero percent positive) while total test volume is stable or increasing. 
+ »If a near-zero plateau has been reached, can meet if plateau is maintained over 14 consecutive days 
+
+(2Œ3-day grace period)
+Ł Identifying Rebound:
+ Multi-day increases in percent positivity with stable or increasing testing volume 
+should be assessed along with case report and CLI data to identify rebounds. 
+Ł Interpretation/Limitations: 
+ »The daily percent positive may ˚uctuate, particularly in areas with smaller populations. Total test volume 
+may also vary by day of the week, based on the number of tests ordered or regular system maintenance at 
+
+laboratories. 
+ »The percent positive is driven by the number of people who are positive in a community and the number 
+
+of people who are tested. Declines in percent positive may result from an expansion of testing to more 
+
+people. Thus, it is important to track percent positive in combination with the number tested, whether 
+
+measured as the total volume of all test results, or as total test results per capita. Percent positivity should 
+
+only be used as an indicator of COVID-19 activity when per capita testing levels are stable over the time 
+
+period being assessed. 
+ »The percent positive may also be a˛ected by a changing proportion of tests in people who are less likely 
+
+to be infected, such as those who are asymptomatic or who have less severe symptoms. Few laboratories 
+
+have ˜elds indicating whether the person tested was asymptomatic or whether the patient was in an 
+
+inpatient or outpatient setting at the time of testing. However, communities can stratify by data source to 
+
+assess changes in the population tested over time, such as tracking the percent positive in hospital data 
+
+separately from the percent positive in large commercial laboratories. 
+ »The residence of the person tested may not be validated as thoroughly in laboratory data as in case data. 
+
+Patient zip code may be based on insurance billing data, and thus less likely to be complete and correct 
+
+when the person tested is uninsured or on another family member™s plan.
+ »Provider zip code is generally accurate, when available. However, drive-up facilities might use a central zip 
+
+code that does not re˚ect where the physical drive-up facility is located. 
+Joint interpretation of all four disease occurrence gating criteria
+The four disease occurrence gating indicators should be interpreted collectively to reach a determination on the 
+trajectory of COVID-19 activity within a jurisdiction, bearing in mind that the measures di˛er signi˜cantly in their 
+
+lag, speci˜city, and sensitivity. Lab testing and syndromic data sources generally have less lag than COVID-19 
+
+case report data relative to when transmission occurred. SARS-CoV-2 testing and COVID-19 case reports are more 
+
+speci˜c measures of COVID-19 activity than the CLI syndrome, but all three are likely far more speci˜c than the 
+
+ILI syndrome. The CLI syndrome likely has superior sensitivity to the other measures, as it is more likely to capture 
+
+people with COVID-19 that were not tested. While downward trajectory for a period of 14 days is used for each 
+
+of the disease occurrence gating indicators in the Opening Up America Again guideline, state and local jurisdic
+-
+tions should use judgment based on their knowledge of local disease surveillance practices and infrastructure in 
+
+determining whether longer time periods (e.g., 21 or 28 days) are needed before moving to di˛erent community 
+
+mitigation phases. 
+ 31Other Data Sources and Measures
+The four disease occurrence gating indicators above provide insight into both the intensity and trajectory of the 
+COVID-19 pandemic within jurisdictions. In addition, other epidemiologic data sources are available to local, 
+
+state, and federal health o˝cials and can be used to con˜rm trends observed in the disease occurrence gating 
+
+indicators.
+Ł COVID-19 hospital admissions:
+ Depending on the overall COVID-19 incidence rate, the size of the juris
+-
+diction, and the regional hospital referral patterns, hospitalizations for laboratory-con˜rmed COVID-19 can 
+
+be an important measure to assess trajectory. Testing is likely more complete and less variable in hospitalized 
+
+populations, providing more assurance that observed trends are not driven by testing practices. In addition 
+
+to helping verify increases or decreases in the disease occurrence gating indicators, monitoring COVID-19 
+
+hospital admissions (and discharges) can help assess the burden on local healthcare capacity.
+Ł COVID-19 deaths: 
+Depending on the overall COVID-19 incidence rate and the size of the jurisdiction, deaths 
+
+due to COVID-19 may occur in high enough numbers to reliably assess the trajectory of the outbreak in the 
+
+jurisdiction. Although they represent a small proportion of all COVID-19 illnesses and signi˜cantly lag the 
+
+core disease occurrence gating indicators, vital records are a universally collected data source and should 
+
+be available for review in all jurisdictions. Further, observing declines in newly reported COVID-19 deaths 
+
+almost certainly indicates that demands on the healthcare system are waning. Care should be taken to 
+
+understand the extent and variability in SARS-CoV-2 testing for deceased individuals in the jurisdiction when 
+
+using death as a source of data to understand the overall trajectory of COVID-19 illnesses in the jurisdiction. 
+
+COVID-19 death data reported to CDC™s National Center for Health Statistics are published weekly by state 
+
+(https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm
+).Ł Measures of trajectory:
+ The e˛ective reproductive number (the average number of secondary cases from an 
+
+infectious case in an a particular population at a speci˜c point in time) and doubling time (the time required 
+
+for the number of cases to double) are epidemiologic measures that can be used to characterize the speed 
+
+with which illnesses are spreading in an outbreak. Although these measures can be imprecise, especially 
+
+when calculated within smaller populations, they provide alternative ways to analyze and characterize the 
+
+trajectory of COVID-19 activity. 
+Implied in the Core State Preparedness Responsibilities in the 
+Opening Up America Again 
+guideline is the need 
+for jurisdictions to have con˜dence in the epidemiologic data being used to make assessments about the 
+
+magnitude and trajectory of COVID-19 illnesses. In order for most of the gating indicators to be reliably assessed, 
+
+1) rapid testing should be occurring as indicated for all clinical, public health, and infection prevention needs and 
+
+2) all new symptomatic COVID-19 cases in the jurisdiction should be able to be rapidly identi˜ed through active 
+
+surveillance of laboratories and healthcare facilities. In the absence of widespread testing and robust active 
+
+surveillance, jurisdictions should be cautious when adjusting mitigation strategies based on the disease occur
+-rence gating indicators. Several measures, listed below, can be helpful in providing an indirect assessment of the 
+
+completeness of case ascertainment in a jurisdiction.
+Ł COVID-19 case-fatality ratio: Case-fatality is de˜ned as the proportion of COVID-19 cases result in death. 
+
+Although estimates of the percentage of symptomatic COVID-19 illnesses that result in death has varied 
+
+widely, the overall percentage is likely lower than 1Œ2%. Although many factors contribute to disease 
+
+severity, including the underlying health status of the population, jurisdictions that have very high COVID-19 
+
+case-fatality ratios (above 5Œ10%) may be under-ascertaining COVID-19 illnesses. This could indicate that 
+
+case reporting is an unreliable measure of true COVID-19 activity. In this situation it may be useful to examine 
+
+measures for CLI syndrome or COVID-19 hospital admissions as measures of disease activity.
+ 32Ł High percent positive: Although changes in percent positive is an indicator in the Opening Up America Again 
+guideline, very high proportions of SARS-CoV-2 positivity (e.g., >25%) may be an indicator that testing levels 
+
+are not adequate and that COVID-19 illnesses are being under-ascertained in the jurisdiction, as it suggests 
+
+that only a limited number of people with a high likelihood of being infected with SARS-CoV-2 are able to be 
+
+tested. In this situation it also may useful to look at the CLI syndrome or at COVID-19 hospital admissions as 
+
+measures of disease activity, since they are likely less susceptible to the in˚uence of testing availability. 
+Ł Per capita testing: It is di˝cult to determine a widely applicable benchmark for a per capita level of 
+
+SARS-CoV-2 testing that is su˝cient to have con˜dence in the adequacy of COVID-19 case-ascertainment. 
+
+However, jurisdictions can consider evaluating their per capita testing to assist in judging whether testing 
+
+levels are adequate for e˛ective COVID-19 surveillance.
+Ł Proportion of cases with an unknown source: Improvements in case ascertainment and contact tracing should 
+
+lead to a lower proportion of new cases with an unknown exposure to SARS-CoV-2. Jurisdictions can consider 
+
+tracking the proportion of new COVID-19 cases without a documented exposure source (e.g., travel to a high-
+
+incidence region or country, exposure to someone with a con˜rmed case of COVID-19, attending and event or 
+
+going to a setting with suspected SARS-CoV-2 transmission). Although di˝cult to achieve, jurisdictions that 
+
+have fewer than 50% of new cases with an unknown exposure source likely have likely achieved high levels of 
+
+case ascertainment, interviewing, and contact tracing.
+Hospital Indicators
+Capacity to treat all patients without crisis care
+Ł Description/Rationale: 
+Capacity indicators, including percentage of inpatients and ICU beds occupied and 
+PPE supplies, help identify areas where additional healthcare capacity needs may exist now or in the future. 
+Ł Data sources: 
+Data within HHS Protect, including from CDC™s National Healthcare Safety Network (NHSN) (a 
+
+healthcare infection associated tracking system), provide information on inpatient and ICU bed occupancy, 
+
+sta˝ng shortages, and PPE supplies. 
+Ł Assessing indicator: 
+All three measures of treating patients without crisis care should be met before a juris
+-
+diction moves to the next community mitigation phase. 
+Ł Mitigation Phase Transitions:
+ All the gating indicators as well as other information available locally should 
+
+be used by jurisdictions when choosing to move through the community mitigation phases. Below is a 
+
+framework for speci˜cally evaluating whether the hospital indicators are met with respect to these phase 
+
+transitions.
+ »Transition into Phase One: Inpatient and ICU beds <80% full for 7 consecutive days AND no sta˛ shortages 
+for 7 consecutive days AND PPE supplies adequate and available for >4 days.
+ »Transition into Phase Two: Inpatient and ICU beds <75% full for 7 consecutive days AND no sta˛ shortages 
+
+for 7 consecutive days AND PPE supplies adequate and available for >4 days.
+ »Transition into Phase Three: Inpatient and ICU beds <70% full for 7 consecutive days AND no sta˛ shortages 
+
+for 7 consecutive days AND PPE supplies adequate and available for >15 days.
+Ł Interpretation/Limitations:
+ »Hospitals within the same jurisdiction may be at di˛erent stages with regard to these measures. Public 
+
+health o˝cials should assess the status of the jurisdiction™s hospital capacity overall and consider whether 
+
+resources (e.g., clinical sta˛, PPE) could be re-allocated to address di˛erential needs. 
+ 33Robust testing program
+Ł Description/Rationale: 
+ »The percentage of positive diagnostic tests for SARS-CoV-2 can be used as an indirect measure of 
+agreement between testing demand and test availability. A target frequency of negative tests (e.g., 80% 
+
+negative) must be established as an indicator of ﬁadequateﬂ availability of tests. This threshold can then be 
+
+used to monitor for regional shortages and target distribution of testing resources to areas with greatest 
+
+need. 
+ »Timeliness of results is another measure of laboratory testing capacity, and prompt results are essential for 
+
+e˛ective contact tracing. 
+Ł Data sources:
+ Positive and negative SARS-CoV-2 test results reported by laboratories to state health depart
+-ments. Median time between test order and results can be calculated from the reported laboratory data.
+Ł Assessing indicator:
+ Both criteria for a robust testing program should be met before a jurisdiction moves 
+to the next community mitigation phase. The metric for percentage positive tests can be assessed as the 
+
+percentage of positive of viral tests among all tests with a result for 14 consecutive days. An alternative 
+
+would be to have daily percent positive below the phase transition threshold for 14 consecutive days.
+Ł Mitigation Phase Transitions:
+ All the gating indicators as well as other information available locally should 
+
+be used by jurisdictions when choosing to move through the community mitigation phases. Below is a 
+
+framework for speci˜cally evaluating whether the indicators for a robust testing program are met with 
+
+respect to these phase transitions.
+ »Transition into Phase One: Percentage positive tests ˙20% for 14 days AND median time from test order to 
+result <4 days.
+ »Transition into Phase Two: Percentage positive tests ˙15% for 14 days AND median time from test order to 
+
+result <3 days.
+ »Transition into Phase Three: Percentage positive tests ˙10% for 14 days AND median time from test order to 
+
+result <2 days.
+Ł Interpretation/Limitations:
+ »This indicator refers to tests for current infection (e.g., nucleic acid (PCR) or antigen tests). Serology (i.e., 
+
+antibody) testing metrics should not be used for this indicator.
+ »Lags in test reporting may lead to incomplete data for calculating percent positive tests for the most recent 
+
+few days. Jurisdictions should calculate percent positive for the most recent 14 days with near-complete 
+
+testing data.
+Additional Considerations
+Overall Incidence Level
+The disease occurrence gating indicators all pertain to assessing the trajectory of COVID-19 activity, but do not 
+specify that COVID-19 incidence should reach an absolute level to move through the mitigation phases. Jurisdic
+-
+tions should be cautious in pivoting from a general community mitigation approach back toward an identi˜cation 
+
+and containment approach until incidence is low enough and resources adequate to 1) attempt an initial 
+
+interview for nearly all new COVID-19 cases within one day of health department noti˜cation, 2) to rapidly isolate 
+
+all newly identi˜ed COVID-19 cases, and 3) to initiate appropriate follow up (isolation, self-monitoring, and rapid 
+
+testing of symptomatic contacts) for nearly all identi˜ed contacts of newly identi˜ed cases. Incidence should 
+
+also be low enough that health departments can respond to large outbreaks (e.g., nursing home outbreaks) 
+ 34that require substantial resources to investigate and control. Declines in incidence should also be enough for 
+healthcare capacity to not only meet current demands, but to be able to comfortably surge in the event of an 
+
+increase in cases (e.g., availability of acute care beds, critical care beds, ventilators, and adequate PPE).
+Special Populations and Settings
+Infections in high-risk settings and populations can disproportionately impact localized transmission and the 
+
+ability of public health capacity to keep pace with follow up needs such as contract tracing and screening. E˛orts 
+
+should be taken to monitor infections in some speci˜c populations and settings, including but not limited to 
+
+healthcare personnel, patients in healthcare facilities (e.g., nursing homes, dialysis centers, long term care facil
+-ities), and residents of congregate living settings (e.g., prisons, youth homes, shelters). In addition, identi˜cation 
+
+of illnesses at work places (e.g., meat and poultry processing facilities) or events with the potential for ﬁexplosive 
+
+spreadﬂ (e.g., mass gatherings) may warrant adjustment of community mitigation measures in the absence of 
+
+community-wide changes in the disease occurrence gating indicators. 
+Neighboring Jurisdictions
+When making decisions about adjusting community mitigation measures, state and local jurisdictions also 
+
+should coordinate with o˝cials in neighboring areas to assess the burden and trajectory of COVID-19 illnesses 
+
+in the surrounding region. Neighboring or nearby jurisdictions with signi˜cantly higher incidence or with 
+
+increasing COVID-19 activity could reintroduce SARS-CoV-2 to a jurisdiction, jeopardizing improvements within 
+
+the jurisdiction.
+Measures of Mobility and Social Distancing
+If available, it may be important to understand the knowledge, attitudes and behaviors of the community as it 
+
+relates to the public health guidance provided within the local jurisdiction. Survey data and data on mobility 
+
+can be useful in understanding if community members are aware of and following established social distancing 
+
+and isolation guidelines and informing changes in the mitigation strategies used. Several publicly available data 
+
+sources currently exist that generate measures of social distancing and mobility, frequently based on mobile 
+
+phone location services or social media data.
+Summary
+The disease occurrence gating indicators in the 
+Opening Up America Again
+ guideline provide states and commu
+-
+nities insight into the trajectory of the COVID-19 pandemic in their jurisdiction. The disease occurrence gating 
+
+indicators should be evaluated collectively, considering their relative strengths and weaknesses, in the context 
+
+of other epidemiologic data available for the jurisdiction. The hospital indicators are designed to help decision 
+
+makers understand the health system™s ability to handle a potential surge in cases. These indicators are part 
+
+of the broad assessment jurisdictions should undertake when deciding when and how to adjust community 
+
+mitigation strategies for COVID-19.
+ 35Table 5. Gating Criteria Summary
+Gating Criteria
+Threshold for entering
+ Phase 1Threshold for entering
+ Phase 2Threshold for entering
+ Phase 3Decreases in ED and/
+or outpatient visits for 
+
+in˚uenza-like illness (ILI)
+Decreases in ED and/or 
+outpatient visits for COVID-
+
+like illness (CLI)
+Downward trajectory of ILI/
+
+CLI (or minimal ILI activity or 
+
+near pre-pandemic level of 
+
+CLI ED visits) reported over a 
+
+14-day period
+Ł Uses a 3-day average in a 
+
+cubic smoothing spline Ł 14 consecutive days 
+
+of decline required 
+
+but can use a 2Œ3 day 
+
+grace period if data are 
+
+inconsistent 
+Ł Look at both total 
+
+visits for ILI/CLI and 
+
+percentage of visits for 
+
+ILI/CLIŁ 14th day must be lower 
+
+than 1st day
+Ł If near pre-pandemic 
+
+level of CLI ED visits has 
+
+been reached, can meet 
+
+if pre-pandemic level 
+
+is maintained over 14 
+
+consecutive days (2Œ3 
+
+day grace period)
+Downward trajectory of ILI/
+
+CLI (or minimal ILI activity 
+
+or near pre-pandemic level 
+
+of CLI ED visits) reported 
+
+for at least 14 days after 
+
+entering Phase 1 without 
+
+experiencing a rebound
+Ł Same criteria but for a 
+
+second 14-day period
+Ł Rebound is determined 
+
+if the trajectory increases 
+
+in a 5-day period
+Downward trajectory of ILI/
+
+CLI (or minimal ILI activity 
+
+or near pre-pandemic level 
+
+of CLI ED visits) reported 
+
+for at least an additional 14 
+
+days after entering Phase 
+
+2 without experiencing a 
+
+rebound
+Ł Same criteria but for a 
+
+second 14-day period
+Ł Rebound is determine if 
+
+the trajectory increases 
+
+in a 5-day period
+Continued on the next page 
+ 36Gating Criteria
+Threshold for entering
+ Phase 1Threshold for entering
+ Phase 2Threshold for entering
+ Phase 3Decreases in newly 
+identi˜ed COVID-19 cases
+Downward trajectory 
+ 
+(or near-zero incidence) of 
+
+documented cases over a 
+
+14-day period
+Ł Uses a 3-day average in a 
+
+cubic smoothing spline Ł 14 consecutive days of 
+
+decline required but 
+
+can use up to a 5-day 
+
+grace period if data are 
+
+inconsistent 
+Ł 14th day must be lower 
+
+than 1st day
+Ł To be near-zero 
+
+incidence, must have 
+
+fewer than 10 cases per 
+
+100k population over 
+
+14 days) and must have 
+
+previously had elevated 
+
+cases Downward trajectory 
+ 
+(or near-zero incidence) of 
+
+documented cases for at 
+
+least 14 days after entering 
+
+Phase 1
+Ł Same criteria as Phase 1 
+
+for another 14 days
+Ł Rebound is de˜ned as 
+having 5 consecutive 
+
+days of increase
+Downward trajectory 
+ 
+(or near-zero incidence) of 
+
+documented cases for at 
+
+least 14 days after entering 
+
+Phase 2
+Ł Same criteria as Phase 2 
+
+for another 14 days
+Ł Rebound is de˜ned as 
+having 5 consecutive 
+
+days of increase
+Decreases in newly 
+
+identi˜ed COVID-19 cases
+Downward trajectory (or 
+
+near-zero incidence) of 
+
+documented cases over a 
+
+14-day period
+Ł Uses a 3-day average in a 
+
+cubic smoothing spline Ł 14 consecutive days of 
+
+decline required but 
+
+can use up to a 5-day 
+
+grace period if data are 
+
+inconsistent 
+Ł 14th day must be lower 
+
+than 1st day
+Ł To be near-zero 
+
+incidence, must have 
+
+fewer than 10 cases per 
+
+100k population over 
+
+14 days) and must have 
+
+previously had elevated 
+
+casesDownward trajectory (or 
+
+near-zero percent positive) 
+
+of positive tests as a 
+
+percent of total tests for 14 
+
+days after entering Phase 1 
+
+(˚at or increasing volume 
+
+of tests)
+Ł Same criteria as Phase 1 
+
+for another 14 days
+Ł Rebound is de˜ned 
+as having multi-day 
+
+increases in percent 
+
+positivity with stable 
+
+or increasing testing 
+volume.
+Ł Look at positive results 
+and cases when 
+assessing for rebound
+Downward trajectory (or 
+
+near-zero percent positive) 
+
+of positive tests as a 
+
+percent of total tests for at 
+
+least 14 days after entering 
+
+Phase 2 (˚at or increasing 
+
+volume of tests)
+Ł Same criteria as Phase 1 
+
+for another 14 days
+Ł Rebound is de˜ned 
+as having multi-day 
+
+increases in percent 
+
+positivity with stable 
+
+or increasing testing 
+volume.
+Ł Look at positive results 
+and cases when 
+assessing for rebound
+Continued on the next page 
+ 37Gating Criteria
+Threshold for entering
+ Phase 1Threshold for entering
+ Phase 2Threshold for entering
+ Phase 3Decreases in percentage of 
+SARS-CoV-2 tests positive 
+Downward trajectory 
+ 
+(or near-zero percent 
+
+positive) of positive tests 
+
+as a percent of total tests 
+
+over a 14-day period (˚at or 
+
+increasing volume of tests)
+Ł Divide total positive 
+
+results by total positive + 
+
+negative 
+Ł Remove incomplete and 
+
+inconclusive results
+Ł 14 consecutive days of 
+
+downward trend with up 
+
+to 2
+Œ3 consecutive days 
+of a grace period due to 
+
+data inconsistency 
+Ł 14th day must be lower 
+
+than 1st day
+Ł If a near-zero plateau has 
+
+been reached, can meet 
+
+if plateau is maintained 
+
+over 14 consecutive days 
+
+(2Œ3 day grace period)
+Ł Test volume must remain 
+
+the same or be increasing 
+
+to use this criterion
+Ł Should include all test 
+
+results from all labs
+Downward trajectory 
+ 
+(or near-zero percent 
+
+positive) of positive tests 
+
+as a percent of total tests 
+
+for 14 days after entering 
+
+Phase 1 (˚at or increasing 
+
+volume of tests)
+Ł Same criteria as Phase 1 
+
+for another 14 days
+Ł Rebound is de˜ned 
+as having multi-day 
+
+increases in percent 
+
+positivity with stable 
+
+or increasing testing 
+volume.
+Ł Look at positive results 
+and cases when 
+assessing for rebound
+Downward trajectory 
+ 
+(or near-zero percent 
+
+positive) of positive tests 
+
+as a percent of total tests 
+
+for at least 14 days after 
+
+entering Phase 2 (˚at or 
+
+increasing volume of tests)
+Ł Same criteria as Phase 1 
+
+for another 14 days
+Ł Rebound is de˜ned 
+as having multi-day 
+
+increases in percent 
+
+positivity with stable 
+
+or increasing testing 
+volume.
+Ł Look at positive results 
+and cases when 
+assessing for rebound
+Treat all patients without 
+
+crisis care
+Jurisdiction inpatient & ICU 
+
+beds <80% full Sta˛ shortage in last week 
+= noPPE supplies adequate for 
+>4 days
+Jurisdiction inpatient & ICU 
+
+beds <75% full Sta˛ shortage in last week 
+= noPPE supplies adequate for 
+>4 days
+Jurisdiction inpatient & ICU 
+
+beds <70% fullSta˛ shortage in last week 
+= noPPE supplies adequate for 
+>15 days
+Robust testing program
+Test availability such that % 
+
+positive tests <20% for 14 
+
+days
+Median time from test order 
+to result <4 days 
+Test availability such that % 
+
+positive tests <15% for 14 
+
+days
+Median time from test order 
+to result <3 days
+Test availability such that % 
+
+positive tests <10% for 14 
+
+days
+Median time from test order 
+to result <2 days
+ 38Appendix F: Setting Speci˜c Guidance
+CDC o˛ers this interim guidance to assist establishments as they open. CDC will update this guidance as it learns 
+more about COVID-19 and best practices to prevent its spread. 
+This guidance is meant to supplement the 
+decision tools
+ CDC released on May 14, 2020. It lists speci˜c practices 
+that employers may ˜nd helpful at particular stages of the COVID-19 outbreak. This guidance sets forth a menu of 
+
+safety measures, from which establishments may choose those that make sense for them in the context of their 
+
+operations and local community, as well as state and local regulations and directives. 
+INTERIM GUIDANCE FOR CHILD CARE PROGRAMS 
+The gradual scale up of activities towards pre-COVID-19 operating practices at childcare programs is crucial to 
+
+helping parents and guardians return to work. Many states have closed schools for the academic year and, with 
+
+summer quickly approaching, an increasing number of working parents may need to rely on these programs. 
+
+CDC™s 
+Interim Guidance for Administrators of US K-12 Schools and Child Care Programs
+ and supplemental 
+
+Guidance for Child Care Programs that Remain Open
+ provide recommendations for operating childcare programs 
+
+in low, moderate, and signi˜cant mitigation communities. In communities that are deemed signi˜cant mitigation 
+
+areas by state and local authorities, childcare programs should be closed. However, childcare programs can 
+
+choose to remain open to serve children of 
+essential workers
+, such as healthcare workers
+. All decisions about following these recommendations should be made locally, in collaboration with local health o˝cials who can 
+
+help determine levels of COVID-19 community transmission and the capacities of the local public health system 
+
+and healthcare systems. CDC is releasing this interim guidance, laid out in a series of three steps, to inform a 
+
+gradual scale up of operations. The scope and nature of community mitigation suggested decreases from Step 1 
+
+to Step 3. Some amount of community mitigation is necessary across all steps until a vaccine or therapeutic drug 
+
+becomes widely available. 
+Scaling Up Operations
+Ł In all Steps:
+ »Establish and maintain communication with local and State authorities to determine current mitigation 
+levels in your community.
+ »Protect
+ and support sta˛, children, and their family members who are at 
+higher risk for severe illness.
+ »Provide sta˛ from higher transmission areas (earlier Step areas) telework and other options as feasible to 
+
+eliminate travel to childcare programs in lower transmission (later Step) areas and vice versa.
+ »Follow CDC™s supplemental 
+Guidance for Child Care Programs that Remain Open
+. »Encourage any other community groups or organizations that use the childcare facilities also follow this 
+
+guidance.
+Ł Step 1: 
+Restrict to children of 
+essential workers
+.Ł Step 2:
+ Expand to all children with enhanced social distancing measures.
+Ł Step 3:
+ Remain open for all children with social distancing measures. 
+ 39Safety Actions
+Promote healthy hygiene practices
+ (Steps 1Œ3)
+Ł Teach and reinforce 
+washing hands
+ and covering coughs and sneezes among children and sta˛.
+Ł Teach and reinforce use of 
+cloth face coverings
+ among all sta˛. Face coverings are most essential at times 
+when social distancing is not possible. Sta˛ should be frequently reminded not to touch the face covering 
+
+and to 
+wash their hands
+ frequently. Information should be provided to all sta˛ on 
+proper use, removal, and 
+
+washing of cloth face coverings
+.Ł Have adequate supplies to support healthy hygiene behaviors, including soap, hand sanitizer with at least 60 
+
+percent alcohol (for sta˛ and older children who can safely use hand sanitizer), paper towels, and tissues.
+Ł Post signs on how to 
+stop the spread
+ of COVID-19, 
+properly wash hands
+, promote everyday protective 
+measures
+, and properly wear a face covering
+.Intensify cleaning, disinfection, and ventilation
+ (Steps 1Œ3)
+Ł Clean, sanitize, and disinfect
+ frequently touched surfaces (for example, playground equipment, door handles, 
+
+sink handles, drinking fountains) multiple times per day and shared objects between use.
+Ł Avoid use of items (for example, soft or plush toys) that are not easily cleaned, sanitized, or disinfected.
+Ł Ensure 
+safe and correct application of disinfectants
+ and keep products away from children.
+Ł Ensure that ventilation systems operate properly and increase circulation of outdoor air as much as possible 
+
+such as by opening windows and doors. Do not open windows and doors if doing so poses a safety or health 
+
+risk (for example, allowing pollens in or exacerbating asthma symptoms) to children using the facility.
+Ł Take steps
+ to ensure that all water systems and features (for example, drinking fountains or decorative 
+
+fountains) are safe to use after a prolonged facility shutdown to minimize the risk of 
+Legionnaires™ disease
+ and 
+other diseases associated with water.
+Promote social distancing
+Ł Steps 1 and 2
+ »Ensure that classes include the same group of children each day and that the same childcare providers 
+remain with the same group each day, if possible.
+ »Restrict mixing between groups.
+ »Cancel all ˜eld trips, inter-group events, and extracurricular activities (Step 1).
+ »Limit gatherings, events, and extracurricular activities to those that can maintain social distancing, support 
+
+proper hand hygiene, and restrict attendance of those from higher transmission areas (Step 2; Note: 
+restricting attendance from those in Step 1 areas).
+ »Restrict nonessential visitors, volunteers, and activities involving other groups at the same time.
+ »Space out seating and bedding (head-to-toe positioning) to 6 feet apart if possible.
+ »Close communal use spaces, such as game rooms or dining halls, if possible; if this is not possible, stagger 
+use and disinfect
+ in between uses. 
+ »If a cafeteria or group dining room is typically used, serve meals in classrooms instead. Put each child™s meal 
+
+on a plate, to limit the use of shared serving utensils and ensure the safety of children with 
+food allergies
+.  »Stagger arrival and drop-o˛ times or put in place other protocols to limit direct contact with parents as 
+
+much as possible. 
+ 40Ł Step 3
+ »Consider keeping classes together to include the same group of children each day, and consider keeping 
+the same childcare providers with the same group each day.
+ »Allow minimal mixing between groups. Limit gatherings, events, and extracurricular activities to those that 
+
+can maintain social distancing, support proper hand hygiene, and restrict attendance of those from higher 
+
+transmission areas (Step 1 or 2 areas).
+ »Continue to space out seating and bedding (head-to-toe positioning) to 6 feet apart, if possible.
+ »Consider keeping communal use spaces closed, such as game rooms, playgrounds, or dining halls, if 
+
+possible; if this is not possible, stagger use and disinfect in between uses.
+ »Consider continuing to plate each child™s meal, to limit the use of shared serving utensils and ensure the 
+
+safety of children with food allergies.
+ »Consider limiting nonessential visitors, volunteers, and activities involving other groups. Restrict atten
+-
+dance of those from higher transmission areas (Step 1 or 2 areas).
+ »Consider staggering arrival and drop-o˛ times or putting in place other protocols to limit close contact 
+
+with parents or caregivers as much as possible.
+Ł Limit sharing (Steps 1Œ3)
+ »Keep each child™s belongings separated and in individually labeled storage containers, cubbies, or areas 
+
+and taken home each day and cleaned, if possible.
+ »Ensure adequate supplies to minimize sharing of high-touch materials to the extent possible (art supplies, 
+
+equipment etc. assigned to a single child) or limit use of supplies and equipment by one group of children 
+
+at a time and clean and disinfect between use.
+ »If food is o˛ered at any event, have pre-packaged boxes or bags for each attendee instead of a bu˛et or 
+
+family-style meal.
+ »Avoid sharing of foods and utensils.
+ »Avoid sharing electronic devices, toys, books, other games, and learning aids.
+ »Prevent risk of transmitting COVID-19 by avoiding immediate contact (such as shaking or holding hands, 
+
+hugging, or kissing).
+Ł Train all sta˛ (Steps 1Œ3)
+ »Train all sta˛ in the above safety actions. Consider conducting the training virtually, or, if in-person, ensure 
+
+social distancing is maintained.
+Monitoring and Preparing
+Check for
+ signs and symptoms
+ (Steps 1Œ3)
+Ł Screen children upon arrival, if possible. Establish routine, daily health checks on arrival, such as temperature 
+screening of both sta˛ and children. Options for daily health check screenings for children are provided in 
+
+CDC™s supplemental 
+Guidance for Child Care Programs that Remain Open
+ and in CDC™s General Business FAQs
+ 
+for screening sta˛.
+Ł Implement health checks (e.g. 
+temperature checks and symptom screening
+) screenings safely and respect
+-fully, and with measures in place to ensure con˜dentiality as well as in accordance with any applicable privacy 
+laws or regulations. Con˜dentiality should be maintained.
+ 41Ł Employers and childcare directors may use examples of screening methods in CDC™s supplemental 
+Guidance 
+for Child Care Programs that Remain Open
+ as a guide.
+Ł Encourage sta˛ to stay home if they are sick and encourage parents to keep sick children home.
+Plan for when a sta˝ member, child, or visitor becomes sick
+ (Steps 1Œ3)
+Ł Identify an area to separate anyone who exhibits COVID-like symptoms during hours of operation, and ensure 
+
+that children are not left without adult supervision.
+Ł Establish procedures for safely transporting anyone sick to their home or to a healthcare facility, as appro
+-priate.
+Ł Notify local health o˝cials, sta˛, and families immediately of any possible case of COVID-19 while maintaining 
+
+con˜dentiality consistent with the Americans with Disabilities Act (ADA) and other applicable federal and 
+
+state privacy laws.
+Ł Close o˛ areas used by any sick person and do not use them until they have been cleaned. Wait 24 hours 
+
+before you clean or disinfect to reduce risk to individuals cleaning. If it is not possible to wait 24 hours, wait 
+
+as long as possible. Ensure safe and 
+correct application of disinfectants
+, and keep disinfectant products away 
+from children
+Ł Advise sick sta˛ members or children not to return until they have met CDC 
+criteria to discontinue home 
+
+isolation
+.Ł Inform those who have had 
+close contact
+ to a person diagnosed with COVID-19 to stay home and self-monitor 
+
+for symptoms, and to follow 
+CDC guidance
+ if symptoms develop. If a person does not have symptoms follow 
+
+appropriate CDC guidance for 
+home isolation
+.Maintain healthy operations
+ (Steps 1Œ3)
+Ł Implement ˚exible sick leave policies and practices, if feasible.
+Ł Monitor absenteeism to identify any trends in employee or child absences due to illness. This might indicate 
+
+spread of COVID-19 or other illness. Have a roster of trained back-up sta˛ in order to maintain su˝cient 
+
+sta˝ng levels.
+Ł Designate a sta˛ person to be responsible for responding to COVID-19 concerns. Employees should know who 
+
+this person is and how to contact them.
+Ł Create a communication system for sta˛ and families for self-reporting of 
+symptoms and noti˜cation of 
+
+exposures and closures
+.Ł Support coping and resilience
+ among employees and children.
+Steps 1Œ3
+Ł It is very important to check State and local health department notices daily about spread of COVID-19 in the 
+
+area and adjust operations accordingly.
+Ł Where a community is deemed a signi˜cant mitigation community, childcare programs should close, except 
+
+for those caring for the children of essential workers, such as the children of health care workers.
+Ł In the event a person diagnosed with COVID-19 is determined to have been in the building and poses a risk to 
+
+the community, programs may consider closing for a few days for cleaning and disinfection.
+ 42INTERIM GUIDANCE FOR SCHOOLS AND DAY CAMPS 
+As communities consider a gradual scale up of activities towards pre-COVID-19 operating practices in centers 
+for learning, such as KŒ12 schools and summer day camps, CDC o˛ers the following recommendations to keep 
+
+communities safe while resuming peer-to-peer learning and providing crucial support for parents and guardians 
+
+returning to work. These recommendations depend on community monitoring to prevent COVID-19 from 
+
+spreading. Communities with low levels of COVID-19 spread and those with con˜dence that the incidence of 
+
+infection is genuinely low (e.g., communities that remain in low transmission or that have entered Step 2 or 3) 
+
+may put in place the practices described below as part of a gradual scale up of operations. All decisions about 
+
+following these recommendations should be made in collaboration with 
+local health o˝cials and other state 
+
+and local authorities who can help assess the current level of mitigation needed based on levels of COVID-19 
+
+community transmission and the capacities of the local public health and healthcare systems, among other 
+
+relevant factors. CDC is releasing this interim guidance, laid out in a series of three steps, to inform a gradual scale 
+
+up of operations. The scope and nature of community mitigation suggested decreases from Step 1 to Step 3. 
+
+Some amount of community mitigation is necessary across all steps until a vaccine or therapeutic drug becomes 
+
+widely available. 
+Scaling Up Operations
+Ł In all Steps:
+ »Establish and maintain communication with local and state authorities to determine current mitigation 
+levels in your community.
+ »Protect and support sta˛ and students who are at 
+higher risk for severe illness
+, such as providing options 
+for telework and virtual learning.
+ »Follow CDC™s 
+Guidance for Schools and Childcare Programs
+. »Provide teachers and sta˛ from higher transmission areas (earlier Step areas) telework and other options as 
+
+feasible to eliminate travel to schools and camps in lower transmission (later Step) areas and vice versa.
+ »Encourage any other external community organizations that use the facilities also follow this guidance.
+Ł Step 1:
+ Schools that are currently closed, remain closed. E-learning or distance learning opportunities should 
+be provided for all students. Support provision of student services such as school meal programs, as feasible. 
+
+Camps should be restricted to children of essential workers and for children who live in the local geographic 
+
+area only.
+Ł Step 2:
+ Remain open with enhanced social distancing measures and for children who live in the local 
+
+geographic area only.
+Ł Step 3:
+ Remain open with distancing measures. Restrict attendance to those from limited transmission areas 
+
+(other Step 3 areas) only.
+Safety Actions
+Promote
+ healthy hygiene practices
+ (Steps 1Œ3)
+Ł Teach and reinforce 
+washing hands
+ and covering coughs and sneezes among children and sta˛.
+Ł Teach and reinforce use of face coverings among all sta˛. Face coverings may be challenging for students 
+
+(especially younger students) to wear in all-day settings such as school. Face coverings should be worn by 
+
+sta˛ and encouraged in students (particularly older students) if feasible and are most essential in times when 
+ 43physical distancing is di˝cult. Information should be provided to sta˛ and students on 
+proper use, removal, 
+and washing of cloth face coverings
+. Face coverings are not recommended for babies or children under the 
+age of 2, or for anyone who has trouble breathing, or is unconscious, incapacitated or otherwise unable 
+
+to remove the covering without assistance. Cloth face coverings are meant to protect other people in case 
+
+the wearer is unknowingly infected (many people carry COVID-19 but do not have symptoms). Cloth face 
+
+coverings are not surgical masks, respirators, or personal protective equipment.
+Ł Have adequate supplies to support healthy hygiene behaviors, including soap, hand sanitizer with at least 
+
+60 percent alcohol (for sta˛ and older children who can safely use hand sanitizer), paper towels, tissues, and 
+
+no-touch trash cans.
+Ł Post signs on how to 
+stop the spread
+ of COVID-19, 
+properly wash hands
+, promote everyday protective 
+measures
+, and properly wear a face covering
+.Intensify cleaning, disinfection, and ventilation
+ (Steps 1Œ3)
+Ł Clean and disinfect
+ frequently touched surfaces within the school and on school buses at least daily (for 
+
+example, playground equipment, door handles, sink handles, drinking fountains) as well as shared objects (for 
+
+example, toys, games, art supplies) between uses.
+Ł To clean and disinfect school buses, see 
+guidance for bus transit operators
+.Ł Ensure 
+safe and correct application
+ of disinfectants and keep products away from children.
+Ł Ensure ventilation systems operate properly and increase circulation of outdoor air as much as possible such 
+
+as by opening windows and doors. Do not open windows and doors if they pose a safety or health risk (e.g., 
+
+allowing pollens in or exacerbating asthma symptoms) risk to children using the facility.
+Ł Take steps
+ to ensure that all water systems and features (for example, drinking fountains, decorative 
+
+fountains) are safe to use after a prolonged facility shutdown to minimize the risk of 
+Legionnaires™ disease
+ and 
+other diseases associated with water.
+Promote social distancing
+Ł Step 1 and 2
+ »Ensure that student and sta˛ groupings are as static as possible by having the same group of children stay 
+with the same sta˛ (all day for young children, and as much as possible for older children).
+ »Restrict mixing between groups.
+ »Cancel all ˜eld trips, inter-group events, and extracurricular activities (Step 1).
+ »Limit gatherings, events, and extracurricular activities to those that can maintain social distancing, support 
+
+proper hand hygiene, and restrict attendance of those from higher transmission areas (Step 2; Note: 
+restricting attendance from those in Step 1 areas).
+ »Restrict nonessential visitors, volunteers, and activities involving other groups at the same time. 
+ »Space seating/desks to at least 6 feet apart.
+ »Turn desks to face in the same direction (rather than facing each other), or have students sit on only one 
+side of tables, spaced apart.
+ »Close communal use spaces such as dining halls and playgrounds if possible; otherwise stagger use and 
+
+disinfect
+ in between use.
+ »If a cafeteria or group dining room is typically used, serve meals in classrooms instead. Serve individually 
+
+plated meals and hold activities in separate classrooms and ensure the safety of children with 
+food 
+
+allergies
+.  44 »Stagger arrival and drop-o˛ times or locations, or put in place other protocols to limit close contact with 
+parents or caregivers as much as possible.
+ »Create social distance between children on school buses (for example, seating children one child per seat, 
+
+every other row) where possible.
+Ł Step 3
+ »Consider keeping classes together to include the same group of children each day, and consider keeping 
+
+the same child care providers with the same group each day.
+ »Allow minimal mixing between groups. Limit gatherings, events, and extracurricular activities to those that 
+
+can maintain social distancing, support proper hand hygiene, and restrict attendance of those from higher 
+
+transmission areas (Step 1 or 2 areas).
+ »Continue to space out seating and bedding (head-to-toe positioning) to 6 feet apart, if possible.
+ »Consider keeping communal use spaces closed, such as game rooms or dining halls, if possible; if this is not 
+
+possible, stagger use and 
+disinfect
+ in between uses.
+ »Consider continuing to plate each child™s meal, to limit the use of shared serving utensils and ensure the 
+
+safety of children with 
+food allergies
+. »Consider limiting nonessential visitors, volunteers, and activities involving other groups. Restrict atten
+-
+dance of those from higher transmission areas (Step 1 or 2 areas).
+ »Consider staggering arrival and drop-o˛ times or locations, or put in place other protocols to limit close 
+
+contact with parents or caregivers as much as possible. 
+Limit sharing (Steps 1Œ3)
+Ł Keep each child™s belongings separated from others™ and in individually labeled containers, cubbies, or areas 
+and taken home each day and cleaned, if possible.
+Ł Ensure adequate supplies to minimize sharing of high touch materials to the extent possible (art supplies, 
+
+equipment etc. assigned to a single student/camper) or limit use of supplies and equipment by one group of 
+
+children at a time and clean and disinfect between use.
+Ł If food is o˛ered at any event, have pre-packaged boxes or bags for each attendee instead of a bu˛et or 
+
+family-style meal. Avoid sharing of foods and utensils.
+Ł Avoid sharing electronic devices, toys, books, and other games or learning aids.
+Train all sta˝
+ (Steps 1Œ3)
+Ł Train all teachers and sta˛ in the above safety actions. Consider conducting the training virtually, or, if 
+
+in-person, ensure that social distancing is maintained.
+Check for
+ signs and symptoms
+ (Steps 1Œ3)
+Ł If feasible, conduct daily health checks (e.g. temperature screening and/or 
+symptoms checking
+) of sta˛ and 
+students safely, respectfully, as well as in accordance with any applicable privacy laws or regulations. Con˜
+-
+dentiality should be maintained.
+Ł School and camp administrators may use examples of screening methods in CDC™s supplemental 
+Guidance 
+
+for Child Care Programs that Remain Open
+ as a guide for screening children and CDC™s 
+General Business FAQs
+ 
+for screening sta˛. 
+Ł Encourage sta˛ to stay home if they are sick and encourage parents to keep sick children home. 
+ 45Plan for when a sta˝ member, child, or visitor becomes sick
+ (Steps 1Œ3)
+Ł Work with school administrators, nurses, and other healthcare providers to identify an isolation room or 
+area to separate anyone who exhibits COVID-like symptoms. School nurses and other healthcare providers 
+
+should use Standard and Transmission-Based Precautions
+ when caring for sick people. See: 
+What Healthcare 
+Personnel Should Know About Caring for Patients with Con˜rmed or Possible COVID-19 Infection
+.Ł Establish procedures for safely transporting anyone sick home or to a healthcare facility.
+Ł Notify local health o˝cials, sta˛, and families immediately of a possible case while maintaining con˜dentiality 
+
+consistent with the 
+Americans with Disabilities Act
+ (ADA) and other applicable federal and state privacy laws.
+Ł Close o˛ areas used by a sick person and do not use before cleaning and disinfection. Wait 24 hours before 
+
+you 
+clean and disinfect
+. If it is not possible to wait 24 hours is, wait as long as possible. 
+Ensure safe and correct 
+application
+ of disinfectants and keep disinfectant products away from children.
+Ł Advise sick sta˛ members and children not to return until they have met CDC 
+criteria to discontinue home 
+
+isolation
+.Ł Inform those who have had 
+close contact
+ to a person diagnosed with COVID-19 to stay home and self-monitor 
+
+for symptoms and to follow 
+CDC guidance
+ if symptoms develop. If a person does not have symptoms follow 
+
+appropriate CDC guidance for 
+home isolation
+.Maintain healthy operations
+ (Steps 1Œ3)
+Ł Implement ˚exible sick leave policies and practices, if feasible.
+Ł Monitor sta˛ absenteeism and have a roster of trained back-up sta˛.
+Ł Monitor health clinic tra˝c. School nurses and other healthcare providers play an important role in 
+
+monitoring health clinic tra˝c and the types of illnesses and symptoms among students.
+Ł Designate a sta˛ person to be responsible for responding to COVID-19 concerns. Employees should know 
+
+who this person is and how to contact them.
+Ł Create a communication system for sta˛ and families for self-reporting of 
+symptoms and noti˜cation of 
+
+exposures and closures
+.Ł Support coping and resilience
+ among employees and children.
+ClosingSteps 1Œ3
+Ł Check state
+ and local health department notices daily about transmission in the area and adjust operations 
+
+accordingly.
+Ł In the event a person diagnosed with COVID-19 is determined to have been in the building and poses a risk to 
+
+the community, programs may consider closing for a short time (1Œ2 days) for cleaning and disinfection. 
+ 46INTERIM GUIDANCE FOR EMPLOYERS WITH WORKERS AT HIGH RISK
+As workplaces consider a gradual scale up of activities towards pre-COVID-19 operating practices, it is particularly 
+important to keep in mind that some workers are at 
+higher risk for severe illness
+ from COVID-19. These workers 
+
+include individuals over age 65 and those with underlying medical conditions. Such underlying conditions 
+
+include, but are not limited to, chronic lung disease, moderate to severe asthma, hypertension, severe heart 
+
+conditions, weakened immunity, severe obesity, diabetes, liver disease, and chronic kidney disease that requires 
+
+dialysis. Workers at higher risk for severe illness should be encouraged to self-identify, and employers should 
+
+avoid making unnecessary medical inquiries. Employers should take particular care to reduce workers™ risk of 
+
+exposure to COVID-19, while making sure to be compliant with relevant Americans with Disabilities Act (ADA) 
+
+and Age Discrimination in Employment Act (ADEA) regulations. First and foremost, this means following 
+CDC and the Occupational Safety and Health Administration
+ (OSHA) guidance for reducing workplace exposure for 
+all employees. All decisions about following these recommendations should be made in collaboration with 
+local 
+health o˝cials and other state and local authorities who can help assess the current level of mitigation needed 
+
+based on levels of COVID-19 community transmission and the capacities of the local public health and healthcare 
+
+systems. In addition, the guidance o˛ered below applies to workplaces generally; speci˜c industries may require 
+
+more stringent safety precautions. Finally, there may be essential workplaces in which the recommended 
+
+mitigation strategies are not feasible. CDC is releasing this interim guidance, laid out in a series of three steps, to 
+
+inform a gradual scale up of operations. The scope and nature of community mitigation suggested decreases from 
+
+Step 1 to Step 3. Some amount of community mitigation is necessary across all steps until a vaccine or therapeutic 
+
+drug becomes widely available. 
+Scaling Up Operations
+Ł In all Steps:
+ »Establish and maintain communication with local and state authorities to determine current mitigation 
+levels in your community.
+ »Protect employees at 
+higher risk for severe illness by supporting and encouraging options to telework.
+ »Consider o˛ering 
+workers at higher risk
+ duties that minimize their contact with customers and other 
+
+employees (e.g., restocking shelves rather than working as a cashier), if agreed to by the worker.
+ »Encourage any other entities sharing the same work space also follow this guidance.
+ »Provide employees from higher transmission areas (earlier Step areas) telework and other options as 
+
+feasible to eliminate travel to workplaces in lower transmission (later Step) areas and vice versa.
+Ł Step 1:
+ Scale up only if business can ensure strict social distancing, proper cleaning and disinfecting 
+requirements, and protection of their workers and customers; workers at 
+higher risk for severe illness are 
+
+recommended to shelter in place.
+Ł Step 2:
+ Scale up only if business can ensure moderate social distancing, proper cleaning and disinfecting 
+
+requirements, and protection of their workers and customers; workers at 
+higher risk for severe illness are 
+
+recommended to shelter in place.
+Ł Step 3:
+ Scale up only if business can ensure limited social distancing, proper cleaning and disinfecting 
+
+requirements, and protection of their workers and customers.
+ 47Safety Action
+Promote 
+healthy hygiene practices
+ (Steps 1Œ3)
+Ł Enforce 
+hand washing
+, covering coughs and sneezes, and using 
+cloth face coverings
+ when around others 
+where feasible;
+Ł however, certain industries may require face shields.
+Ł Ensure that adequate supplies to support healthy hygiene behaviors, including soap, hand sanitizer with at 
+least 60 percent alcohol, tissues, paper towels, and no-touch trash cans.
+Ł Post signs on how to 
+stop the spread
+ of COVID-19 
+properly wash hands
+, promote everyday protective 
+measures
+, and properly wear a face covering
+.Intensify cleaning, disinfection, and ventilation
+ (Steps 1Œ3)
+Ł Clean and disinfect
+ frequently touched surfaces at least daily and shared objects between use.
+Ł Avoid use or sharing of items that are not easily cleaned, sanitized, or disinfected.
+Ł Ensure safe and correct application of disinfectants.
+Ł Ensure that ventilation systems operate properly and increase circulation of outdoor air as much as possible 
+
+such as by opening windows and doors. Do not open windows and doors if doing so poses a safety risk to 
+
+individuals and employees using the workspace.
+Ł Take steps to ensure that all water systems and features (for example, drinking fountains, decorative 
+
+fountains) are safe to use after a prolonged facility shutdown to minimize the risk of 
+Legionnaires™ disease
+ and 
+other diseases associated with water.
+Promote social distancing
+ (Steps 1Œ3)
+Ł Limit service to drive-throughs, curbside take out, or delivery options, if possible (Step 1).
+Ł Consider installing physical barriers, such as sneeze guards and partitions, and changing workspace layouts to 
+
+ensure all individuals remain at least 6 feet apart.
+Ł Close communal spaces, such as break rooms, if possible (Step 1) or stagger use and clean and disinfect in 
+
+between uses (Steps 2 & 3).
+Ł Encourage telework for as many employees as possible.
+Ł Consider rotating or staggering shifts to limit the number of employees in the workplace at the same time. 
+Ł Replace in-person meetings with video- or tele-conference calls whenever possible.
+Ł Cancel all group events, gatherings, or meetings of more than 10 people (Step 1), of more than 50 people 
+
+(Step 2), and any events where social distancing of at least 6 feet cannot be maintained between participants 
+
+(all Steps).
+Ł Restrict (Step 1) or consider limiting (Step 2) any nonessential visitors, volunteers, and activities involving 
+
+external groups or organizations.
+Ł Limit any sharing of foods, tools, equipment, or supplies.
+Limit travel and modify commuting practices
+ (Steps 1Œ3)
+Ł Cancel all non-essential travel (Step 1) and consider resuming non-essential travel in accordance with state 
+
+and local regulations and guidance (Steps 2 & 3).
+ 48Ł Ask employees who use public transportation to consider using teleworking to promote 
+social distancing.Ł Train all managers and sta˛ in the above safety actions. Consider conducting the training virtually, or if 
+in-person, ensure that social distancing is maintained.
+Monitoring and Preparing
+Checking for
+ signs and symptoms
+ (Steps 1Œ3)
+Ł Consider conducting routine, daily health checks (e.g., 
+temperature and symptom screening
+) of all employees.
+Ł If implementing health checks, conduct them safely and respectfully, and in accordance with any applicable 
+
+privacy laws and regulations. Con˜dentiality should be respected. Employers may use examples of screening 
+
+methods in CDC™s General Business FAQs
+ as a guide. 
+Ł Encourage employees who are sick to stay at home.
+Plan for when an employee becomes sick 
+(Steps 1Œ3)
+Ł Employees with symptoms (fever, cough, or shortness of breath) at work should immediately be separated 
+
+and sent home.
+Ł Establish procedures for safely transporting anyone sick to their home or to a healthcare facility.
+Ł Notify local health o˝cials, sta˛, and customers (if possible) immediately of a possible case while maintaining 
+
+con˜dentiality consistent with the 
+Americans with Disabilities Act
+ (ADA) and other applicable federal and 
+
+state privacy laws.
+Ł Close o˛ areas used by the sick person until after cleaning and disinfection Wait 24 hours to 
+clean and 
+disinfect
+. If it is not possible to wait 24 hours, wait as long as possible before cleaning and disinfecting. Ensure 
+safe and correct application
+ of disinfectants and keep disinfectant products away from children.
+Ł Inform those who have had 
+close contact
+ to a person diagnosed with COVID-19 to stay home and self-monitor 
+
+for symptoms, and to follow 
+CDC guidance
+ if symptoms develop. If a person does not have symptoms follow 
+
+appropriate CDC guidance for 
+home isolation
+.Ł Sick employees should not return to work until they have met CDC™s criteria to 
+discontinue home isolation
+.Maintain healthy operations
+ (Steps 1Œ3)
+Ł Implement ˚exible sick leave and other ˚exible policies and practices, such as telework, if feasible. 
+Ł Monitor absenteeism of employees and create a roster of trained back-up sta˛.
+Ł Designate a sta˛ person to be responsible for responding to COVID-19 concerns. Employees should know who 
+
+this person is and how to contact them.
+Ł Create and test communication systems for employees for self-reporting and noti˜cation of exposures and 
+
+closures.
+Ł Support 
+coping and resilience
+ among employees.
+ClosingSteps 1Œ3
+Ł Check state
+ and local health department notices daily about transmission in the area and adjust operations 
+
+accordingly.
+Ł Be prepared to consider closing for a few days if there is a case of COVID-19 in the workplace or for longer if 
+
+cases increase in the local area.
+ 49INTERIM GUIDANCE FOR RESTAURANTS AND BARS 
+This guidance provides considerations for businesses in the food service industry (e.g., restaurants and bars) on 
+ways to maintain healthy business operations and a safe and healthy work environment for employees, while 
+
+reducing the risk of COVID-19 spread for both employees and customers. Employers should follow applicable 
+
+Occupational Safety and Health Administration
+ (OSHA) and 
+CDC guidance for businesses
+ to plan and respond 
+
+to COVID-19. All decisions about implementing these recommendations should be made in collaboration with 
+
+local health o˝cials and other state and local authorities who can help assess the current level of mitigation 
+
+needed based on levels of COVID-19 community transmission and the capacities of the local public health and 
+
+healthcare systems. CDC is releasing this interim guidance, laid out in a series of three steps, to inform a gradual 
+
+scale up of activities towards pre-COVID-19 operating practices. The scope and nature of community mitigation 
+
+suggested decreases from Step 1 to Step 3. Some amount of community mitigation is necessary across all steps 
+
+until a vaccine or therapeutic drug becomes widely available. 
+Scaling Up Operations
+Ł In all Steps:
+ »Establish and maintain communication with local and state authorities to determine current mitigation 
+levels in your community.
+ »Consider assigning 
+workers at high risk for severe illness
+ duties that minimize their contact with customers 
+
+and other employees (e.g., managing inventory rather than working as a cashier, managing administrative 
+
+needs through telework).
+ »Provide employees from higher transmission areas (earlier Step areas) telework and other options as 
+
+feasible to eliminate travel to workplaces in lower transmission (later Step) areas and vice versa.
+Ł Step 1:
+ Bars remain closed and restaurant service should remain limited to drive-through, curbside take out, 
+or delivery with strict social distancing.
+Ł Step 2:
+ Bars may open with limited capacity; restaurants may open dining rooms with limited seating 
+
+capacity that allows for 
+social distancing.Ł Step 3:
+ Bars may open with increased standing room occupancy that allows for 
+social distancing; restaurants 
+
+may operate while maintaining 
+social distancing. Safety Actions
+Promote
+ healthy hygiene practices
+ (Steps 1Œ3)
+Ł Enforce 
+hand washing
+, covering coughs and sneezes, and use of a 
+cloth face coverings
+ by employees when 
+near other employees and customers.
+Ł Ensure adequate supplies to support healthy hygiene practices for both employees and customers including 
+
+soap, hand sanitizer with at least 60 percent alcohol (on every table, if supplies allow), paper towels, and 
+
+tissues. 
+Ł Post signs on how to 
+stop the spread
+ of COVID-19 
+properly wash hands
+, promote everyday protective 
+measures
+, and properly wear a face covering
+.Intensify cleaning, disinfection, and ventilation
+ (Steps 1Œ3)
+Ł Clean and disinfect
+ frequently touched surfaces (for example, door handles, workstations, cash registers) 
+
+at least daily and shared objects (for example, payment terminals, tables, countertops/bars, receipt trays, 
+
+condiment holders) between use. Use 
+products that meet EPA™s criteria for use against SARS-CoV-2
+ and that 
+ 50are appropriate for the surface. Prior to wiping the surface, allow the disinfectant to sit for the necessary 
+contact time recommended by the manufacturer. Train sta˛ on proper cleaning procedures to ensure safe 
+
+and correct application of disinfectants.
+Ł Make available individual disinfectant wipes in bathrooms.
+Ł Wash, rinse, and sanitize food contact surfaces, food preparation surfaces, and beverage equipment after use.
+Ł Avoid using or sharing items such as menus, condiments, and any other food. Instead, use disposable or 
+
+digital menus, single serving condiments, and no-touch trash cans and doors.
+Ł Use touchless payment options as much as possible, when available. Ask customers and employees to 
+
+exchange cash or card payments by placing on a receipt tray or on the counter rather than by hand. Clean and 
+
+disinfect any pens, counters, or hard surfaces between use or customer.
+Ł Use disposable food service items (utensils, dishes). If disposable items are not feasible, ensure that all 
+
+non-disposable food service items are handled with gloves and washed with dish soap and hot water or in a 
+
+dishwasher. Employees should 
+wash their hands
+ after removing their gloves or after directly handling used 
+
+food service items
+Ł Use gloves when removing garbage bags or handling and disposing of trash and 
+wash hands afterwards
+ Ł Avoid using food and beverage containers or utensils brought in by customers.
+Ł Ensure that ventilation systems operate properly and increase circulation of outdoor air as much as possible 
+
+such as by opening windows and doors. Do not open windows and doors if doing so poses a safety risk to 
+
+employees, children, or customers.
+Ł Take steps to ensure that all water systems and features (for example, drinking fountains, decorative 
+
+fountains) are safe to use after a prolonged facility shutdown to minimize the risk of 
+Legionnaires™ disease
+ 
+and other diseases associated with water.
+Promote social distancing
+Step 1
+Ł Limit service to drive-through, delivery, or curb-side pick-up options only.
+Ł Provide physical guides, such as tape on ˚oors or sidewalks to ensure that customers remain at least 6 feet 
+
+apart in lines or ask customers to wait in their cars or away from the establishment while waiting to pick up 
+
+food. Post signs to inform customers of food pickup protocols.
+Ł Consider installing physical barriers, such as sneeze guards and partitions at cash registers, or other food 
+
+pickup areas where maintaining physical distance of 6 feet is di˝cult.
+Ł Restrict the number of employees in shared spaces, including kitchens, break rooms, and o˝ces to maintain 
+
+at least a six-foot distance between people.
+Ł Rotate or stagger shifts to limit the number of employees in the workplace at the same time.
+Step 2
+Ł Provide drive-through, delivery, or curb-side pick-up options and prioritize outdoor seating as much as 
+
+possible.
+Ł Reduce occupancy and limit the size of parties dining in together to sizes that ensure that all customer 
+
+parties remain at least 6 feet apart (e.g., all tables and bar stools 6 feet apart, marking tables/stools that are 
+
+not for use) in order to protect sta˛ and other guests.
+ 51Ł Provide physical guides, such as tape on ˚oors or sidewalks and signage on walls to ensure that customers 
+remain at least 6 feet apart in lines or waiting for seating.
+Ł Ask customers to wait in their cars or away from the establishment while waiting to be seated. If possible, 
+
+use phone app technology to alert patrons when their table is ready to avoid touching and use of ﬁbuzzers.ﬂ
+Ł Consider options for dine-in customers to order ahead of time to limit the amount of time spent in the 
+
+establishment.
+Ł Avoid o˛ering any self-serve food or drink options, such as bu˛ets, salad bars, and drink stations.
+Ł Install physical barriers, such as sneeze guards and partitions at cash registers, bars, host stands, and other 
+
+areas where maintaining physical distance of 6 feet is di˝cult.
+Ł Limit the number of employees in shared spaces, including kitchens, break rooms, and o˝ces to maintain at 
+
+least a six-foot distance between people.
+Step 3
+Ł Provide drive-through, delivery, or curbside pick-up options and prioritize outdoor seating as much as 
+
+possible.
+Ł Consider reducing occupancy and limiting the size of parties dining in together to sizes that ensure that all 
+
+customer parties remain at least 6 feet apart (e.g., all tables and bar stools 6 feet apart, marking tables/stools 
+
+that are not for use) in order to protect sta˛ and other guests.
+Ł Provide physical guides, such as tape on ˚oors or sidewalks and signage on walls, to ensure that customers 
+
+remain at least 6 feet apart in lines or waiting for seating.
+Ł If possible, use phone app technology to alert patrons when their table is ready to avoid touching and use 
+
+of ﬁbuzzers.ﬂ 
+Ł Consider options for dine-in customers to order ahead of time to limit the amount of time spent in the 
+
+establishment. 
+Ł Avoid o˛ering any self-serve food or drink options, such as bu˛ets, salad bars, and drink stations.
+Ł Install physical barriers, such as sneeze guards and partitions at cash registers, bars, host stands, and other 
+
+areas where maintaining physical distance of 6 feet is di˝cult.
+Train all sta˝ 
+(Steps 1Œ3)
+Ł Train all employees in the above safety actions while maintaining 
+social distancing and use of face coverings
+ 
+during training.
+Monitoring and Preparing
+Checking for 
+signs and symptoms
+ (Steps 1Œ3)
+Ł Consider conducting daily health checks (e.g., temperature and symptom screening) of employees.
+Ł If implementing health checks, conduct them safely and respectfully, and in accordance with any applicable 
+
+privacy laws and regulations. Con˜dentiality should be respected. Employers may use examples of screening 
+
+methods in CDC™s General Business FAQs as a guide.
+Ł Encourage sta˛ who are sick to stay at home.
+ 52Plan for when an employee becomes sick
+ (Steps 1Œ3)
+Ł Employees with 
+symptoms
+ of COVID-19 (fever, cough, or shortness of breath) at work should immediately be 
+sent to their home.
+Ł Inform those who have had 
+close contact
+ to a person diagnosed with COVID-19 to stay home and self-monitor 
+
+for symptoms, and to follow 
+CDC guidance
+ if symptoms develop. If a person does not have symptoms follow 
+
+appropriate CDC guidance for home isolation.
+Ł Establish procedures for safely transporting anyone sick to their home or to a healthcare facility.
+Ł Notify local health o˝cials, sta˛, and customers (if possible) immediately of any possible case of COVID-19 
+
+while maintaining con˜dentiality consistent with the 
+Americans with Disabilities Act
+ (ADA) and other appli
+-
+cable federal and state privacy laws.
+Ł Close o˛ areas used by a sick person and do not sure them until after cleaning and disinfection. Wait 24 hours 
+
+before cleaning and disinfecting. If it is not possible to wait 24 hours, wait as long as possible. Ensure 
+safe and 
+correct application
+ of disinfectants and keep disinfectant products away from children.
+Ł Advise sick sta˛ members not to return until they have met CDC™s criteria to 
+discontinue home isolation
+.Maintain healthy operations
+ (Steps 1Œ3)
+Ł Implement ˚exible sick leave and other ˚exible policies and practices, such as telework, if feasible. 
+Ł Monitor absenteeism of employees and create a roster of trained back-up sta˛.
+Ł Designate a sta˛ person to be responsible for responding to COVID-19 concerns. Employees should know 
+
+who this person is and how to contact them.
+Ł Create and test communication systems for employees for self-reporting and noti˜cation of exposures and 
+
+closures.
+Ł Support 
+coping and resilience
+ among employees.
+ClosingSteps 1Œ3
+Ł Check state
+ and local health department notices about transmission in the area daily and adjust operations 
+
+accordingly.
+Ł Be prepared to consider closing for a few days if there is a case of COVID-19 in the establishment and for 
+
+longer if cases increase in the local area.
+ 53INTERIM GUIDANCE FOR MASS TRANSIT ADMINISTRATORS 
+Mass transit is critical for many Americans to commute to and from work and to access essential goods and 
+services. This guidance provides considerations for mass transit administrators to maintain healthy business 
+
+operations and a safe and healthy work environment for employees, while reducing the risk of COVID-19 spread 
+
+for both employees and passengers. Administrators should follow applicable guidance from the 
+CDC and 
+Occupational Safety and Health Administration
+ (OSHA) for reducing workplace exposure. All decisions about 
+following these recommendations should be made in collaboration with 
+local health o˝cials and other state 
+
+and local authorities who can help assess the current level of mitigation needed based on levels of
+COVID-19 community transmission and the capacities of the local public health and healthcare systems. CDC 
+is releasing this interim guidance, laid out in a series of three steps, to inform a gradual scale up of activities 
+
+towards pre-COVID-19 operating practices. The scope and nature of community mitigation suggested decreases 
+
+from Step 1 to Step 3. Some amount of community mitigation is necessary across all steps until a vaccine or 
+
+therapeutic drug becomes widely available. 
+Resuming Full Service
+Ł In all Steps:
+ »Adjust routes between areas experiencing di˛erent levels of transmission (between areas in di˛erent 
+Steps), to the extent possible.
+ »Provide employees from higher transmission areas (earlier Step areas) telework and other options as 
+
+feasible to eliminate travel to workplaces in lower transmission (later Step) areas and vice versa.
+ »Establish and maintain communication with 
+state and local health o˝cials
+ to determine current 
+
+mitigation levels in the communities served. Decisions about how and when to resume full service should 
+
+be based on these levels.
+ »Follow CDC™s guidance on what 
+bus transit operators
+, rail transit operators
+, transit maintenance workers
+, and transit station workers
+ need to know about COVID-19.
+ »Consider assigning workers at 
+high risk of severe illness
+ duties that minimize their contact with passengers 
+
+and other employees
+ »Conduct worksite hazard assessments to identify COVID-19 prevention strategies, such as appropriate use 
+
+of cloth face coverings or personal protective equipment (PPE), and follow the prevention strategies.
+Ł Step 1:
+ Restrict ridership to 
+essential critical infrastructure workers
+ in areas needing signi˜cant mitigation 
+and maintain strict social distancing as much as possible.
+Ł Step 2:
+ Maintain 
+social distancing between transit riders and employees as much as possible.
+Ł Step 3:
+ Encourage 
+social distancing as much as possible.
+Safety Actions
+Promote 
+healthy hygiene practices
+ (Steps 1Œ3)
+Ł Enforce 
+everyday preventive actions
+ such as hand washing
+, covering coughs and sneezes, and use of a cloth 
+face covering by employees when around others, as safety permits. Provide employees with appropriate 
+
+personal protective equipment as necessary and as available. Communicate with the public about the 
+
+importance of hygiene, covering coughs and sneezes, and using cloth face coverings while using mass 
+
+transportations, including posting signs in transit stations and vehicles on how to 
+stop the spread
+ of 
+COVID-19, 
+properly wash hands
+, promote everyday protective measures
+, and properly wear a face covering
+. 54Ł Ensure adequate supplies to support healthy hygiene behaviors for transit operators, employees, and 
+passengers in stations, including soap, hand sanitizer with at least 60 percent alcohol, paper towels, tissues, 
+
+and no-touch trash cans.
+Ł Post signs on how to stop the spread of COVID-19 properly wash hands, promote everyday protective 
+
+measures, and properly wear a face covering.
+Intensify 
+cleaning, disinfection, and ventilation
+ (Steps 1Œ3)
+Ł Clean and disinfect
+ frequently touched surfaces (for example, kiosks, digital interfaces such as touchscreens 
+
+and ˜ngerprint scanners, ticket machines, turnstiles, handrails, restroom surfaces, elevator buttons) at least 
+
+daily or between use as feasible.
+Ł Clean and disinfect
+ the operator area between operator shifts.
+Ł Use touchless payment and no-touch trash cans and doors as much as possible, when available. Ask 
+
+customers and employees to exchange cash or credit cards by placing in a receipt tray or on the counter 
+
+rather than by hand and wipe any pens, counters, or hard surfaces between each use or customer.
+Ł Avoid using or sharing items that are not easily cleaned, sanitized, or disinfected, such as disposable transit 
+
+maps.
+Ł Ensure safe and correct application of disinfectants.
+Ł Use gloves when removing garbage bags or handling and disposing of trash and 
+wash hands afterwards
+.Ł Ensure that ventilation systems operate properly and increase circulation of outdoor air as much as possible 
+
+such as by opening windows and doors. Do not open windows and doors if they pose a safety risk to 
+
+passengers or employees, or other vulnerable individuals.
+Ł Take steps to ensure that all water systems and features (for example, drinking fountains, decorative 
+
+fountains) are safe to use after a prolonged facility shutdown to minimize the risk of 
+Legionnaires™ disease
+ 
+and other diseases associated with water.
+Promote social distancing
+Step 1 and Step 2
+Ł Institute measures to physically separate or create distance of at least 6 feet between all occupants to the 
+
+extent possible. This may include:
+ »Asking bus passengers to enter and exit the bus through rear doors, while allowing exceptions for persons 
+with disabilities.
+ »Closing every other row of seats.
+ »Reducing maximum occupancy of buses and individual subway and train cars and increasing service on 
+
+crowded routes as appropriate.
+Ł Provide physical guides to ensure that customers remain at least 6 feet apart while on vehicles and at transit 
+stations and stops. For example, ˚oor decals, colored tape, or signs to indicate where passengers should not 
+
+sit or stand can be used to guide passengers.
+Ł Install physical barriers, such as sneeze guards and partitions at sta˛ed kiosks and on transit vehicles to the 
+
+extent practicable.
+Ł Close communal spaces, such as break rooms, if possible; otherwise, stagger use and clean and disinfect in 
+
+between uses.
+ 55Step 3
+Ł Consider or continue instituting measures to physically separate or create distance between occupants.
+Ł Provide physical guides to help customers maintain physical distance while on vehicles and at transit stations 
+and stops. For example, ˚oor decals, colored tape, or signs to indicate where passengers should not sit or 
+
+stand can be used to guide passengers.
+Ł Install or maintain physical barriers, such as sneeze guards and partitions at sta˛ed kiosks and on transit 
+
+vehicles to the extent practicable.
+Train employees
+ (Steps 1Œ3)
+Ł Train all employees in the above safety actions while maintaining social distancing during training.
+Monitoring and Preparing
+Checking for 
+signs and symptoms
+ (Steps 1Œ3)
+Ł Consider conducting daily health checks (e.g., temperature screening and/or 
+symptom checking
+) of all 
+employees.
+Ł If implementing health checks, conduct them safely and respectfully, and in accordance with any applicable 
+
+privacy laws and regulations. Con˜dentiality should be respected. Employers may use examples of screening 
+
+methods in CDC™s General Business FAQs
+ as a guide.
+Ł Encourage sta˛ who are sick to stay at home.
+Plan for when an employee becomes sick
+ (Steps 1Œ3)
+Ł Employees with 
+symptoms
+ of COVID-19 (fever, cough, or shortness of breath) at work should immediately be 
+
+sent home.
+Ł Inform those who have had 
+close contact
+ to a person diagnosed with COVID-19 to stay home and self-monitor 
+
+for symptoms, and to follow 
+CDC guidance
+ if symptoms develop. If a person does not have symptoms follow 
+
+appropriate CDC guidance for 
+home isolation
+.Ł Establish procedures for safely transporting anyone sick to their home or to a healthcare facility.
+Ł Notify local health o˝cials, sta˛, and customers (if possible) immediately of any possible case of COVID-19 
+
+while maintaining con˜dentiality consistent with the 
+Americans with Disabilities Act
+ (ADA) and other appli
+-
+cable federal and state privacy laws.
+Ł Close o˛ areas used by a sick person and do not use until after cleaning and disinfection. Wait 24 hours 
+
+before 
+cleaning and disinfecting
+. If 24 hours is not feasible, wait as long as possible. Ensure 
+safe and correct 
+application of disinfectants
+ and keep disinfectant products away from children. A˛ected vehicles can be used 
+
+immediately after cleaning and disinfection.
+Ł Advise sick sta˛ members not to return until they have met CDC™s 
+criteria to discontinue home isolation
+.Ł Implement 
+safety practices
+ for critical infrastructure workers who may have had exposure to a person with 
+
+suspected or con˜rmed COVID-19.
+Maintain healthy operations
+ (Steps 1Œ3)
+Ł Implement ˚exible sick leave and other ˚exible policies and practices, if feasible.
+Ł Monitor absenteeism of employees and create a roster of trained back-up sta˛.
+ 56Ł Designate a sta˛ person to be responsible for responding to COVID-19 concerns. Employees and customers 
+should know who this person is and how to contact them.
+Ł Create and test communication systems for employees and customers for self-reporting of symptoms and 
+
+noti˜cation of exposures and closures.
+Ł Support coping and resilience among employees.
+Adjusting Service
+Steps 1Œ3
+Ł Coordinate with state and local health department o˝cials about transmission in the area as frequently as 
+
+possible and adjust operations accordingly.
+Ł Be prepared to consider adjusting services as appropriate if the community mitigation level increases in the 
+
+local area. 
+Ł Continue communication with sta˛ and the public about decision-making.
+  CS317670-A
+ June 16, 2020 2:25 PMcdc.gov/coronavirus
+ 

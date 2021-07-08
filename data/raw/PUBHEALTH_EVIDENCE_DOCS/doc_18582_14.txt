@@ -1,0 +1,239 @@
+e‐mail: eskenazi@uclink4.berkeley.edu  
+   Search for other works by this author on:
+    Oxford Academic   PubMed   Google Scholar      A.J.
+ Wyrobek,     
+  A.J.
+ Wyrobek, E. Sloter, S.A. Kidd, L. Moore, S. Young, D. Moore, The association of age and semen quality in healthy men, Human Reproduction, Volume 18, Issue 2, February 2003, Pages 447–454, https://doi.org/10.1093/humrep/deg107      Select Format  Select format .ris (Mendeley, Papers, Zotero) .enw (EndNote) .bibtex (BibTex) .txt (Medlars, RefWorks)  Download citation   Close         Permissions Icon 
+    Permissions
+           Share      Email Twitter Facebook More           Navbar Search Filter   This issueAll Human Reproduction   All ESHRE JournalsAll Journals   Mobile Microsite Search Term  Search        
+      
+ Sign In              
+        Imperial College London Library
+                    Register            Close   search filter   This issue All Human Reproduction   All ESHRE Journals All Journals   search input  Search   Advanced Search  Search Menu             Abstract BACKGROUND: Although the effect of maternal age on fertility is well known, it is unclear whether paternal age also affects fertility.
+ This cross‐sectional study sought to characterize the association between age and semen quality, a well‐known proxy of fertility status.
+ METHODS: A convenience sample of 97 non‐smoking men (aged 22–80 years) without known fertility problems was recruited from a national government laboratory.
+ The men provided semen samples and information relating to lifestyle, diet, medical and occupational details.
+ Semen volume (ml), sperm concentration (×106/ml), total sperm count (×106), motility (%), progressive motility (%) and total progressively motile sperm count (×106) were measured.
+ There was a suggested decrease in sperm concentration and count.
+ The proportion of men with abnormal volume, concentration and motility was significantly increased across the age decades.
+ CONCLUSIONS: In a convenience sample of healthy men from a non‐clinical setting, semen volume and sperm motility decreased continuously between 22–80 years of age, with no evidence of a threshold.
+ Key words: age/semen volume/sperm concentration/sperm motility/total sperm count Introduction Approximately 15% of couples of reproductive age experience infertility, and more than a quarter of infertility cases may be attributed to male factors (Templeton, 1995).
+ It is well known that maternal age is a significant contributor to human infertility (Joffe and Li, 1994), due primarily to the precipitous loss of functional oocytes in women by their late thirties (Tietze, 1957; Lansac, 1995).
+ Human spermatogenesis, on the other hand, continues well into advanced ages, allowing men to reproduce during senescence.
+ Although very little is known about the topic, paternal age may also contribute to human infertility.Understanding the effect of male age on fertility has become increasingly important in public health because a growing number of men are choosing to father children at older ages (Ventura et al., 1997).
+ In the United States, for example, there has been a 24% increase in the birth rate for fathers aged 35 to 54 years since 1980.
+ However, advanced male age has been associated with significant reductions in pregnancy rates, increased time‐to‐pregnancy and increased subfecundity (Kidd et al., 2001).
+ In a recent study of 8515 planned pregnancies (of greater than 24 weeks gestation), men older than 35 years had half the chance of fathering a child within 12 months compared with men aged less than 25 years, after controlling for women’s age and other factors (Ford et al., 2000).Semen quality is generally considered to be a proxy measure of male fertility, and changes in semen quality can occur after exposure to toxic agents (Wyrobek et al., 1983; Wyrobek, 1993) or from host factor effects such as age (Kidd et al., 2001).
+ The weight of evidence primarily from clinical studies (see Kidd et al., 2001 for a review) suggests that age is associated with diminished semen volume, sperm motility and/or sperm morphology, but that sperm concentration is affected little by age (Schwartz et al., 1983; Wang et al., 1985; Abramsson, 1988; Carlsen et al., 1992; Berling and Wolner‐Hanssen, 1997; Lemcke et al., 1997; Spandorfer et al., 1998).
+ However, it is unclear whether these observations are applicable to the general population of healthy men.
+ Also, men at older ages (e.g.
+ &gt;50 years) were under‐represented in many of these clinical studies, which limited statistical power and prevented the determination of the shape of the relationship between age and semen quality.
+ In addition, potential confounders that might explain changes with age, such as smoking history or duration of abstinence, were seldom controlled.The purpose of the current research was to examine the magnitude and the shape of the relationships between age and semen volume, sperm concentration and sperm motility in a non‐clinical group of men selected to span across a wide range of age, from their 20s to their 80s.
+ These men provided extensive information on medical, lifestyle and occupational exposure factors that could affect semen quality.
+ Materials and methods Subjects The study population of the Age and Genetic Effects on Sperm (AGES) Study consisted of a convenience sample of 97 male volunteers employed or retired from the Lawrence Livermore National Laboratory (LLNL) located in Livermore, California.
+ LLNL was used as the recruitment site because the workforce is relatively homogeneous and because it was the site of the semen analysis laboratory.
+ The AGES Study was approved by the Institutional Review Boards of the participating institutions and all subjects gave written informed consent.Male workers and retirees were recruited between October 1997 and July 1998 from advertisements posted at the LLNL, e‐mail listings, and in newsletters.
+ Preliminary screening over the telephone excluded men who had smoked cigarettes in the last 6 months; had a vasectomy or a history of an undescended testicle or prostate cancer; had ever received chemotherapy or radiation treatments; had current fertility or reproductive problems (men were included who claimed their wives had a fertility problem); or had a previous semen analysis with zero sperm count.
+ At least 15 men were recruited from each age decade from age 20 to age 70 years; additional men above age 70 were also enrolled.Eligible men were mailed a questionnaire, a semen collection container, and a small foam‐insulated vacuum container (Aladdin Industries Inc., Nashville, TN, USA).
+ The men were instructed to provide a semen sample by masturbation into the collection container after abstaining from ejaculating for 2–7 days, and to deliver it inside the insulated container to a drop box at LLNL.
+ The questionnaire gathered information on medical history, reproductive history (e.g.
+ fatherhood history), sociodemographic characteristics (age, race, education) and lifestyle habits (e.g.
+ diet, alcohol, cigarette and caffeine consumption).
+ Completed questionnaires were mailed to the University of California at Berkeley.
+ The completed questionnaires were reviewed with the participant over the telephone.
+ Semen analysis All semen samples were delivered within 2 h of collection.
+ One laboratory technician performed all the analyses, and was blinded to the age and identity of the donors.
+ Semen analysis was performed immediately upon receipt of the sample, averaging about 45 min after its production (range 5–120 min).
+ Duplicate samples were requested from donors if the sample exhibited any of the following: volume 10% difference was found between the two analyses of the same sample, the sample was re‐analysed.
+ All cell counting was performed on a Macintosh computer using a modified version of CytoScore© developed at LLNL.
+ Statistical analysis All analyses were conducted using STATA 7.0 (Stata Statistical Software, 1999).
+ Total sperm count was calculated by multiplying semen volume by sperm concentration.
+ Total progressively motile sperm was defined as the product of total sperm count and percent progressive motility.
+ Volume and motility appeared to be normally distributed, while sperm progressive motility, concentration, total count, and total progressively motile sperm were log‐transformed to achieve normality.
+ Zero values for semen parameters were re‐coded to half of the lowest measured value before transformation.
+ All count and concentration analyses were performed with and without four subjects with azoospermia; all motility analyses were performed without these men.Separate multiple linear regression models were used to examine the relationship of age with each semen parameter controlling for the following potential confounding factors: duration of abstinence; average ejaculation frequency (last 3 months); time from sample collection to sample processing; season; time worked at LLNL; body mass index; ethnicity; years of education; potential occupational exposures (last 3 months); dosimetry records; time spent sitting; medication use; alcohol and caffeine intake; history of tobacco use; history of chronic disease (e.g.
+ high blood pressure, heart problems or diabetes); history of genitourinary disease (e.g.
+ urinary tract or other genitourinary infection, sexually transmitted disease or past history of infertility); and fatherhood history.
+ Both percent motile and percent progressively motile sperm were lower in men who had ever had a urinary tract infection.
+ Total number of progressively motile sperm was lower in men who had ever had high blood pressure.
+ This number is converted from the antilog of the regression coefficient (β) of the log‐linear model [(antilog(β) – 1)×100].
+ This number is converted from the antilog of the regression coefficient (β) of the log‐linear model [(antilog(β) – 1)×100].
+ Scand.
+ J. Urol.
+ Nephrol.
+ Suppl., 113, 7–47.Andolz, P., Bielsa, M.A.
+ and Vila, J.
+ (1999) Evolution of semen quality in North‐eastern Spain: a study in 22,759 infertile men over a 36 year period.
+ Hum.
+ Reprod., 14, 731–735.Auger, J., Kunstmann, J.M., Czyglik, F. and Jouannet, P. (1995) Decline in semen quality among fertile men in Paris during the past 20 years [see comments].
+ N. Engl.
+ J.
+ Med., 332, 281–285.Bacon, D. and Watts, D. (1971) Estimating the transition between two intersecting straight lines.
+ Biometrika, 58, 525–534.Berling, S. and Wolner‐Hanssen, P. (1997) No evidence of deteriorating semen quality among men in infertile relationships during the last decade: a study of males from Southern Sweden.
+ Hum.
+ Reprod., 12, 1002–1005.Bishop, M.W.
+ (1970) Ageing and reproduction in the male.
+ J. Reprod.
+ Fertil.
+ Suppl., 12, 65–87.Bostofte, E. (1987) Prognostic parameters in predicting pregnancy.
+ A twenty‐year follow‐up study comprising semen analysis in 765 men of infertile couples evaluated by the Cox regression model.
+ Acta Obstet.
+ Gynecol.
+ Scand., 66, 617–624.Brzechffa, P.R., Daneshmand, S. and Buyalos, R.P.
+ (1998) Sequential clomiphene citrate and human menopausal gonadotrophin with intrauterine insemination: the effect of patient age on clinical outcome.
+ Hum.
+ Reprod., 13, 2110–2114.Bujan, L., Mansat, A., Pontonnier, F. and Mieusset, R. (1996) Time series analysis of sperm concentration in fertile men in Toulouse, France between 1977 and 1992.
+ Br.
+ Med.
+ J., 312, 471–472.Carlsen, E., Giwercman, A., Keiding, N. and Skakkebaek, N.E.
+ (1992) Evidence for decreasing quality of semen during past 50 years [see comments].
+ Br.
+ Med.
+ J., 305, 609–613.Check, J.H., Shanis, B., Bollendorf, A., Adelson, H. and Breen, E. (1989) Semen characteristics and infertility in aging.
+ Arch.
+ Androl., 23, 275–277.Dondero, F., Mazzilli, F., Giovenco, P., Lenzi, A. and Cerasaro, M. (1985) Fertility in older men.
+ J. Endocrinol.
+ Invest., 8, 87–91.Ducot, B., Spira, A., Feneux, D. and Jouannet, P. (1988) Male factors and the likelihood of pregnancy in infertile couples.
+ II.
+ Study of clinical characteristics – practical consequences.
+ Int.
+ J.
+ Androl., 11, 395–404.Fisch, H., Goluboff, E., Olson, J., Feldshuh, J., Broder, S. and Barad, D. (1996) Semen analyses in 1283 men from the United State over a 25‐year period: no decline in quality.
+ Fertil.
+ Steril., 65, 1009–1014.Ford, J., MacCormac, L. and Hiller, J.
+ (1994) PALS (pregnancy and lifestyle study): association between occupational and environmental exposure to chemical and reproductive outcome.
+ Mutat.
+ Res., 313, 153–164.Ford, W.C., North, K., Taylor, H., Farrow, A., Hull, M.G.
+ and Golding, J.
+ (2000) Increasing paternal age is associated with delayed conception in a large population of fertile couples: evidence for declining fecundity in older men.
+ The ALSPAC Study Team (Avon Longitudinal Study of Pregnancy and Childhood).
+ Hum.
+ Reprod., 15, 1703–1708.Friedman, J.
+ (1981) Genetic disease in the offspring of older fathers.
+ Obstet.
+ Gynecol., 57, 745–749.Gallardo, E., Simón, C., Levy, M., Guanes, P., Remohí, J. and Pellicer, A.
+ (1996) Effect of age on sperm fertility potential: oocyte donation as a model.
+ Fertil.
+ Steril., 66, 260–264.Goldman, N. and Montgomery, M. (1989) Fecundability and husband’s age.
+ Soc.
+ Biol., 36, 146–166.Griffin, D., Abruzzo, M., Millie, E., Cheean, L., Feingold, E., Sherman, S. and Hassold, T. (1995) Non‐disjunction in human sperm: evidence for an effect of increasing paternal age.
+ Hum.
+ Mol.
+ Genet., 4, 2227–2232.Haidl, G., Jung, A. and Schill, W.B.
+ (1996) Ageing and sperm function.
+ Hum.
+ Reprod., 11, 558–560.Hamilton, D. and Naftolin, F. (1981) Basic Reproductive Medicine.
+ MIT Press, Cambridge, UK.Homonnai, Z.T., Fainman, N., David, M.P.
+ and Paz, G.F. (1982) Semen quality and sex hormone pattern of 29 middle aged men.
+ Andrologia, 14, 164–170.Irvine, S., Carwood, E., Richardson, D., MacDonald, E. and Aitken, J.
+ (1996) Evidence of deteriorating semen quality in the United Kingdom: birth cohort study in 577 in Scotland over 11 years.
+ Br.
+ Med.
+ J., 312, 467–471.Joffe, M. and Li, Z.
+ (1994) Male and female factors in fertility.
+ Am.
+ J.
+ Epidemiol., 140, 921–929.Johnson, L. (1986) Spermatogenesis and aging in the human.
+ J.
+ Androl., 7, 331–354.Kidd, S.A., Eskenazi, B. and Wyrobek, A.J.
+ (2001) Effects of male age on semen quality and fertility: a review of the literature.
+ Fertil.
+ Steril., 75, 237–248.Lansac, J.
+ (1995) Delayed parenting.
+ Is delayed childbearing a good thing?
+ Hum.
+ Reprod., 10, 1033–1035.Lemcke, B., Behre, H.M. and Nieschlag, E. (1997) Frequently subnormal semen profiles of normal volunteers recruited over 17 years.
+ Int.
+ J.
+ Androl., 20, 144–152.Lowe, X., Collins, B., Allen, J., Holland, N., Breneman, J., van Beek, M., Bishop, J. and Wyrobek, A.
+ (1995) Aneuploidies and micronuclei in the germ cells of male mice of advanced age.
+ Mutat.
+ Res., 338, 59–76.Lowe, X., Eskenazi, B., Nelson, D.O., Kidd, S., Alme, A. and Wyrobek, A.J.
+ (2001) Frequency of XY sperm increases with age in fathers of boys with Klinefelter syndrome.
+ Am.
+ J. Hum.
+ Genet., 69, 1046–1054.MacLeod, J.
+ (1964) Human seminal cytology as a sensitive indicator of the germinal epithelium.
+ Int.
+ J.
+ Fertil., 9, 281–295.Martin, R., Spriggs, E., Ko, E. and Rademaker, A.
+ (1995) The relationship between paternal age, sex ratios, and aneuploidy frequencies in human sperm, as assessed by multicolor FISH.
+ Am.
+ J. Hum.
+ Genet., 57, 1395–1399.Martinez‐Frias, M., Herranz, I., Salvador, J., Prieto, L., Ramos‐Arroyo, M., Rodriguez‐Pinilla, E. and Cordero, J.
+ (1988) Prevalence of dominant mutations in Spain: effect of changes in maternal age distribution.
+ Am.
+ J. Hum.
+ Genet., 31, 845–852.Mathieu, C., Ecochard, R., Bied, V., Lornage, J. and Czyba, J.
+ (1995) Cumulative conception rate following intrauterine artificial insemination with husband’s spermatozoa: influence of husband’s age.
+ Hum.
+ Reprod., 10, 1090–1097.Mladenovic, I.
+ (1994) Sperm morphology and motility in different age populations.
+ Arch.
+ Androl., 32, 197–205.Modell, B. and Kuliev, A.
+ (1990) Changing paternal age distribution and the human mutation rate in Europe.
+ Hum.
+ Genet., 86, 198–202.Nieschlag, E., Lammers, U., Freischem, C., Langer, K. and Wickings, E. (1982) Reproductive functions in young fathers and grandfathers.
+ J. Clin.
+ Endocrinol.
+ Metab., 55, 676–681.Olsen, J.
+ (1990) Subfertility according to the age of the mother and the father.
+ Dan.
+ Med.
+ Bull., 37, 281–282.Paulson, R., Milligan, R. and Sokol, R. (2001) The lack of influence of age on male fertility.
+ Am.
+ J. Obstet.
+ Gynecol., 184, 818–822.Robbins, W., Baulch, J., Moore, D.I., Weire, H.‐U., Blakey, D. and Wyrobek, A.
+ (1995) Three‐probe fluorescence in situ hybridization to assess chromosome X, Y, and 8 aneuploidy in sperm of 14 men from two healthy groups: evidence for a paternal age effect on sperm aneuploidy.
+ Reprod.
+ Fertil.
+ Dev., 7, 799–809.Rolf, C., Behre, H. and Nieschlag, E. (1996) Reproductive parameters of older compared to younger men of infertile couples.
+ Int.
+ J.
+ Androl., 19, 135–142.Schneider, E.L. (1978) The Aging Reproductive System.
+ Raven Press, New York.Schwartz, D., Mayaux, M.‐J., Spira, A., Moscato, M.‐L., Jouannet, P., Czyglik, F. and David, G. (1983) Semen characteristics as a function of age in 833 fertile men.
+ Fertil.
+ Steril., 39, 530–535.Singer, R., Sagiv, M., Levinsky, H. and Allalouf, D. (1990) Andrological parameters in men with high sperm counts and possible correlation with age.
+ Arch.
+ Androl., 24, 107–111.Spandorfer, S.D., Avrech, O.M., Colombero, L.T., Palermo, G.D. and Rosenwaks, Z.
+ (1998) Effect of parental age on fertilization and pregnancy characteristics in couples treated by intracytoplasmic sperm injection.
+ Hum.
+ Reprod., 13, 334–338.Stanwell‐Smith, R. and Hendry, W. (1984) The prognosis of male subfertility: a survey of 1025 men referred to a fertility clinic.
+ Br.
+ J.
+ Urol., 56, 422–428.Stata Statistical Software: Release 7.0 (1999).
+ College Station, TX, Stata Press.Templeton, A.
+ (1995) Infertility‐epidemiology, aetiology and effective management.
+ Health Bull.
+ (Edinb)., 53, 294–298.Tietze, C. (1957) Reproductive span and rate of conception among Hutterite women.
+ Fertil.
+ Steril., 8, 89–97.van der Westerlaken, L., Naaktgeboren, N. and Helmerhorst, F. (1998) Evaluation of pregnancy rates after intrauterine insemination according to indication, age, and sperm parameters.
+ J.
+ Assist.
+ Reprod.
+ Genet., 15, 359–364.Ventura, S., Martin, J., Curtin, S. and Mathews, T. (1997).
+ Report of Final Natality Statistics, 1995.
+ Monthly Vital Statistics Report.
+ Vol.
+ 45, no.
+ 11, suppl.
+ National Center for Health Statistics.
+ Hyattsville, MD.Wang, C., Chan, S., Leung, A., Ng, R., Ng, M., Tang, L., Ma, H., Tsoi, W. and Kwan, M. (1985) Cross‐sectional study of semen parameters in a large group of normal Chinese men.
+ Int.
+ J.
+ Androl., 8, 257–274.World Health Organization (1992) Laboratory Manual for the Examination of Human Semen and Sperm‐Cervical Mucus Interaction.
+ World Health Organization, Cambridge, UK.Wyrobek, A.J.
+ (1983) Methods for evaluating the effects of environmental chemicals on human sperm production.
+ Environ.
+ Health Perspect., 48, 53–59.Wyrobek, A.J.
+ (1993) Methods and concepts in detecting abnormal reproductive outcomes of paternal origin.
+ Reprod.
+ Toxicol., 7, 3–16.Wyrobek, A.J., Gordon, L.A., Burkhart, J.G., Francis, M.W., Kapp, R.W., Jr, Letz, G., Malling, H.V., Topham, J.C. and Whorton, M.D.
+ (1983) An evaluation of human sperm as indicators of chemically induced alterations of spermatogenic function.
+ A report of the U.S. Environmental Protection Agency Gene‐Tox Program.
+ Mutat.
+ Res., 115, 73–148.
+ Reversion of pneumolysin induced executioner caspase activation redirects cells to survival.
+ The slc4a2b gene is required for hair cell development in zebrafish.
+ Diet during early life defines testicular lipid content and sperm quality in adulthood.
+ Close

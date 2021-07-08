@@ -1,0 +1,115 @@
+Skip to content    EpidemioLogical LIFE AND EPIDEMICS || LA VIDA Y EPIDEMIAS    Home Blog  Read Some Stuff Listen to My Rants Vaccine Epi Videos   Photography  Animal Photography General Photography   Comments and Privacy  Recent Comments   Doctoral Dissertation Media Interviews and Appearances About  FAQs        Facebook Flickr Instagram LinkedIn Twitter YouTube GitHub           Directed Acyclic Graphs and the MMR vaccine doesn’t cause autism   on August 24, 2014January 18, 2015   By René F. Najera, DrPH     There seems to be some controversy brewing about a study by one Dr. Brian Hooker, a PhD biochemist, regarding the administration of the MMR vaccine and the development of autism.
+ In his paper, he finds that African-American children who received the MMR vaccine by age 36 months (3 years) have a 3.4 times higher risk of autism than… Than… Well, here’s the deal: Dr. Hooker modeled the study as a cohort study although the data was extracted from a case-control study.
+ In a case-control study, we can say that the cases (autistic children) are more/less likely to have received the MMR than the controls.
+ The way that Dr. Hooker has modeled this, I can’t tell what his reference group is.
+ Is it White boys?
+ Is it White girls?
+ Is it African-American girls?
+ Is it all other groups combined?
+ I can’t tell, and neither can other epidemiologists looking at this.
+ Even Orac, a cancer surgeon who has done plenty of research studies of his own can’t make heads or tails out of the Hooker study.
+ Did the study prove Andrew Wakefield wrong and show that MMR doesn’t cause autism in the subset of 11, or so, children that Wakefield studied for his now-debunked paper?
+ It really is quite the convoluted piece of work.
+ Furthermore, it’s not only the design of the Hooker study that has me confounded.
+ There is also the issue of the statistical analysis that he did.
+ As one commenter on Reuben’s blog put it: “The author is erroneous in calling this a cohort study.
+ Cases were selected and a control group was identified that was similar.
+ Hence, this is a case-control study.
+ Conditional logistic regression, as opposed to plain old logistic regression, is needed when a correlation is created artificially by the study design (eg an individually matched case-control study).
+ If individual matched, not using conditional logistic regression could affect the point estimate and standard error, but it is difficult to say in which direction.
+ With frequency matching though, this association is utterly meaningless, as the artificially created relationships were not accounted for, which doesn’t even begin to touch on confounders that were not frequency-matched.
+ And I love how he states that a Pearson Chi-Square test of association (and then shows a Fisher’s Exact test?)
+ is a conservative approach.
+ Nope, you are just providing a crude association that is rife with confounding.
+ This stinker also loses on style points, as these tables are horrendous and no useful information is shown (population characteristics of any kind?
+ ).” The issue with using those simple statistical analyses is confounding and effect modification.
+ One may give Dr. Hooker a pass because he’s not an epidemiologist nor a biostatistician — and he doesn’t acknowledge consulting anyone on those topics in his paper — but his statements about his findings are quite inflammatory: “When asked if there could be any scientific basis for excluding children born outside of Georgia, Hooker responded, “I know of none, and none has been provided by the authors of the DeStefano study.” He added, “The exclusion is reminiscent of tactics historically used to deprive African-Americans of the vote by requiring valid birth certificates.”” Andrew Wakefield has weighed in on the Hooker study and compared the findings to the Tuskegee study and to the Holocaust.
+ Wakefield and Hooker claim that a previous study by DeStefano et al purposefully hid the findings revealed in the Hooker paper, that African-American boys with autism were far more likely to have the MMR by age 3 than… Than… Again, Hooker doesn’t clarify what his reference group is, and myself and a couple of epidemiologist friends (one of whom is a biostats expert) can’t figure it out and probably won’t since we don’t have access to the dataset.
+ Before starting a study, epidemiologists (and anyone else really) need to look at the existing body of knowledge about the subject.
+ Dr. Hooker gives us a background of why he deemed his study necessary, but he cites studies by Wakefield (a study that has been rebuked and found to be fraudulent) and by Mark and David Geier (a father-son team whose actions in “treating” autism resulted in the father losing his medical license and the son in being charged with practicing medicine without a license).
+ As Reuben stated in his blog, these are red flags.
+ I agree with him that most scientists would not go much further, but the study doesn’t seem to be aimed at the scientists.
+ It seems to be aimed at the anti-vaccine people out there.
+ This seems to be something to give them hope that, as one anti-vaccine leader put it, the US immunization program will be “brought to its knees.” Furthermore, Dr. Brian Hooker is currently involved in litigation over his son’s autism.
+ He claims that vaccines caused his son’s autism, and so he is seeking relief from the vaccine courts.
+ That is another red flag because you can’t start or continue a study if you have such an enormous conflict of interests on the matter.
+ If I were suing a car manufacturer for a design flaw in their braking system, can I be believed if I put out a study that states that that particular brake pad is flawed?
+ Further, Dr. Hooker doesn’t mention anyone else on his paper as having performed the study along with him.
+ (We’ll get to the whistleblower in a moment.)
+ So this is all on him, with shaky background info on the vaccine-autism connection and with a conflict of interests that is huge.
+ I would have felt much better if he mentioned having worked with an epidemiologist and/or a biostatistician.
+ After we epidemiologists gather all of our background information, we look at potential effect modifiers and confounders.
+ These are the things that can change the relationship between the exposure of interest and the outcome of interest.
+ In this case, what can affect whether or not a child gets vaccinated, what age they get vaccinated at, and what they’re vaccinated with?
+ The answers to that are many.
+ Then we have to look at what we know about autism.
+ What is known to cause autism?
+ What is known to affect if and when a child is diagnosed as autistic?
+ And what can modify the age at which an autistic child is diagnosed?
+ Again, the answers to these things are many.
+ To visualize these things, we epidemiologists use what are called “Directed Acyclic Graphs” or DAGs, for short.
+ These are graphs that help in the visualization of the cause and effect association between things that we are studying.
+ A very simple DAG of the question of whether a vaccine causes autism looks like this: The path from vaccines to autism is not that straight, trust me.
+ A whole bunch of things are related to both vaccines and autism.
+ When you take the big picture into account, it all gets really convoluted.
+ As you can see, the DAG turns into spaghetti pretty quickly when you think about it.
+ The “acyclic” nature of these associations kind of gets fuzzy, meaning that you go from A to B and from B to C, and then from C to A, which completes a cycle.
+ In drawing up your study, you want to avoid that cycle, otherwise everything is related to everything else, and any and all associations you’re seeing are dependent on each other and quite hard to figure out by any method.
+ Because of this situation, I’m very skeptical that Dr. Hooker’s simplified statistical approach can be better than DeStefano et al’s approach of conditional logistic regression.
+ Conditional logistic regression has the advantage of being able to control for a multitude of confounders and effect modifiers.
+ All of those lines in that complicated DAG above are controlled for as best as possible, making them less prominent if not downright erasing them so we’re only left with the line between vaccines and autism.
+ As Reuben and others have pointed out, it shouldn’t be a surprise that a stronger association was seen between older children (age 3) and autism than between younger children (18 and 24 months) and autism.
+ Children are usually diagnosed the older they are, when they start missing more milestones.
+ So a younger kid has less of a chance to be diagnosed but, because of recommendations on vaccination, more of a chance of being vaccinated.
+ That is yet another effect modification (or confounder, whichever) that the Hooker paper seems to not have accounted for.
+ In the discussion section of his paper, Dr. Hooker writes the following: “It should be noted that a recent publication has shown that the prevalence of autism in African Americans is nearly 25% higher than that of whites [15].
+ This value was obtained when CDC data were appropriately analyzed based on socioeconomic status.” That “15″ refers to this paper, where it was found that children in higher socioeconomic strata were more likely to be diagnosed with autism.
+ The researchers of that study theorized that this could be because children in lower socioeconomic strata may not have good access to healthcare and, thus, to an early diagnosis of autism.
+ But then Dr. Hooker jumps right into this: “This could be due to issues regarding vitamin D status with African Americans as it has been estimated that vitamin D sufficiency among whites is between 30-60% but is only 5-10% among African Americans [16].” That “16″ is for this paper, where data from a national health survey found the differences in vitamin D sufficiency that Dr. Hooker mentions.
+ But how are 15 and 16 related?
+ Well, that’s the thing, there is no evidence that they are.
+ The “15″ talked about socioeconomic status and diagnoses of autism, but not vitamin D. The “16″ paper talked about race and vitamin D, but not autism.
+ Dr. Hooker talks about a theorized mechanism, but nothing based on experimental or even observational data.
+ There was no study to look at vitamin D levels in neurotypical children and in autistic children and compare the two for statistical significance in any differences noted.
+ It’s all about how serotonin regulates mood, how autistic children often have mood disorders, and how vitamin D influences serotonin production.
+ This is the kind of bait and switch that further increases how skeptical I am of the Hooker paper.
+ Now, what about the “whistleblower”?
+ You should know that there are two versions of the Wakefield video about a whistleblower (the one comparing the DeStefano researchers to Hitler and other mass murderers).
+ In one version, the name is bleeped out and the voice is disguised.
+ That video has since been taken down.
+ In another, the current video, the name is given and the voice is revealed.
+ In both, however, the whistleblower’s statements are incomplete.
+ We only hear bits and pieces of what he had to say.
+ Without the full transcript of the conversation between him and Dr. Brian Hooker, I cannot give any credence to anything they say he said.
+ It’s hearsay, and we can’t draw inferences from that.
+ So let’s wait and see what he has to say and why he might support the findings in the Hooker paper.
+ The issue of vaccination safety is very complex and people get very passionate about it.
+ To some, vaccines are dangerous things that should not be used.
+ To others, vaccines are 100% safe and should be used universally.
+ Then there is the rest of us, people who know of the benefits of vaccines and how their risks are minimal compared to their benefits.
+ The risks are there, yes, but we know from sound scientific studies that said risks are not the horrors some make them out to be.
+ And we know from the same science that not everyone can be vaccinated.
+ The paper by Dr. Brian Hooker is rife with troubling methodology and a big conflict of interest.
+ If it debunks DeStefano et al, it doesn’t debunk all the other studies about the MMR vaccine and autism done all over the world by researchers in and out (with and without affiliation to) the Centers for Disease Control and Prevention.
+ Further, he mentions no assistance in his biostatistical approach, which is a big concern being that nothing in his background points to skills in epidemiology or in biostatistics.
+ Finally, bait-and-switch language is used to justify the findings when there is no biologically plausible way for those findings to be true.
+ Until we know the whole story of what is going on, it’s hard to discredit DeStefano et al’s evidence to support the excellent safety record of the MMR vaccine.
+ All opinions are my own and in no way represent anyone else or any of the organizations for which I work.
+ About History of Vaccines: I am the editor of the History of Vaccines site, a project of the College of Physicians of Philadelphia.
+ Please read the About page on the site for more information.
+ About Epidemiological: I am the sole contributor to Epidemiological, my personal blog to discuss all sorts of issues.
+ It also has an About page you should check out.
+ Posted InBlog    Post navigation Previous Talking Tuesday: Driving Mrs. DeNext Dr. Brian S. Hooker gets the Andrew Wakefield treatment      					2 Comments				     				Pingback: If this is what keeps a CDC researcher up at night, how would they ever keep a huge conspiracy going?
+ | Left Brain Right Brain     				Pingback: Genocidal Fraud by the CDC.
+ Not.
+ | Penumbral Jots     Comments are closed.
+ Search for:    Traduce Esto | 이것을 번역하라 | Übersetze das | Traduis cela | 翻译这个 Public Health NewsHuron County Public Health Services now open - The Morning Journal November 7, 2020Nevada Public Health Training Center raising money for COVID Relief Fund - Nevada Today November 5, 2020Fort Bliss declares public health emergency - ArmyTimes.com November 6, 2020What Is The Future Of Public Health Following 2020 Election?
+ - CBS Pittsburgh November 7, 2020‘Infodemic’ complicates Wisconsin’s public health fight against coronavirus - Minnesota Public Radio News November 6, 2020Follow Blog via Email  Enter your email address to follow this blog and receive notifications of new posts by email.
+ Join 3,464 other followers							    							Email Address:						           	     Follow        Instagram        @EpiRenMy Tweets     Social Media Profiles Facebook Flickr Instagram LinkedIn Twitter YouTube GitHub   Powered by WordPress.com.
+ Email check failed, please try again			  				Sorry, your blog cannot share posts by email.
+ ","no_comment_email":"Please provide an email address to comment.
+ ","no_comment_author":"Please provide your name to comment.
+ ","comment_post_error":"Sorry, but there was an error posting your comment.
+ Please try again later.
+ ","comment_approved":"Your comment was approved.
+ ","comment_unapproved":"Your comment is in moderation.

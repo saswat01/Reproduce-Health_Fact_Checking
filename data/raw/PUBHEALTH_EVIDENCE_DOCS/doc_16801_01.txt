@@ -1,0 +1,3 @@
+Conservative Tribune has moved!
+ Click here to visit Conservative Tribune by The Western Journal.
+ (\/|$)/, 'https://www.westernjournal.com/ct/' );

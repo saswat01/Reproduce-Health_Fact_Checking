@@ -1,0 +1,239 @@
+Basket  Search  More        Search for this keyword           Advanced search                          Latest content Current issue Archive Authors About                Search for this keyword           Advanced search            Close More      Main menu   Latest content Current issue Archive Authors About           Subscribe Log in  More       Log in via InstitutionLog in via OpenAthensLog in via BSG     Log in using your username and password For personal accounts OR managers of institutional accounts   Username *    Password *     Forgot your log in details?Register a new account?Forgot your user name or password?
+ Its inherent risks limit its widespread use.
+ Differential liver DNA methylation of peroxisome proliferator-activated receptor gamma (PPARγ) gene promoter has recently been shown to stratify patients in terms of fibrosis severity but requires access to liver tissue.
+ The aim of this study was to assess whether DNA methylation of circulating DNA could be detected in human plasma and potentially used to stratify liver fibrosis severity in patients with NAFLD.Design Patients with biopsy-proven NAFLD and age-matched controls were recruited from the liver and gastroenterology clinics at the Newcastle upon Tyne Hospitals NHS Foundation Trust.
+ Plasma cell-free circulating DNA methylation of PPARγ was quantitatively assessed by pyrosequencing.
+ Liver DNA methylation was quantitatively assessed by pyrosequencing NAFLD explant tissue, subjected to laser capture microdissection (LCM).
+ Patients with alcoholic liver disease (ALD) were also subjected to plasma DNA and LCM pyrosequencing.Results 26 patients with biopsy-proven NAFLD were included.
+ Quantitative plasma DNA methylation of PPARγ stratified patients into mild (Kleiner 1–2) and severe (Kleiner 3–4) fibrosis (CpG1: 63% vs 86%, p 0.05).
+ Hypermethylation at the PPARγ promoter of plasma DNA correlated with changes in hepatocellular rather than myofibroblast DNA methylation.
+ Similar results were demonstrated in patients with ALD cirrhosis.Conclusions Differential DNA methylation at the PPARγ promoter can be detected within the pool of cell-free DNA of human plasma.
+ With further validation, plasma DNA methylation of PPARγ could potentially be used to non-invasively stratify liver fibrosis severity in patients with NAFLD.
+ Plasma DNA methylation signatures reflect the molecular pathology associated with fibrotic liver disease.NONALCOHOLIC STEATOHEPATITISHEPATIC FIBROSISMOLECULAR GENETICSMOLECULAR PATHOLOGYPPAR GAMMAThis is an Open Access article distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license, which permits others to distribute, remix, adapt and build upon this work, for commercial use, provided the original work is properly cited.
+ In particular, the prevalence of NAFLD is rising, in line with increasing prevalence of obesity and insulin resistance, as lifestyles have become increasingly sedentary and dietary patterns have changed.1 NAFLD is a spectrum of liver disease that includes simple steatosis, fatty infiltration plus inflammation and hepatocellular ballooning degeneration (non-alcoholic steatohepatitis; NASH), fibrosis and ultimately cirrhosis.2 Overall, NAFLD is associated with an increased risk of both cardiovascular disease and liver-related mortality.3 Recent studies indicate that both steatosis and NASH may progress to advanced liver disease4–6 and that the presence and severity of fibrosis is the key histological determinant of long-term prognosis;7 ,8 this subset of patients are more likely to progress to decompensated cirrhosis, portal hypertension, hepatocellular carcinoma (HCC) and death without liver transplantation.
+ Indeed, NAFLD is projected to be the primary indication for liver transplantation in many countries within a decade.9 It is imperative to accurately determine the presence of fibrosis in patients with NAFLD; a liver biopsy remains the gold standard for diagnosing and staging fibrosis, but is seldom performed due to perceived risk of complications.
+ In addition, liver biopsy is subject to sampling error, while the pathology assessment of the degree of liver fibrosis and the stage of disease often suffers from interobserver error.
+ Together, these problems have hampered both routine clinical care and the development of pharmacological treatments for fibrotic liver diseases.
+ Non-invasive scoring systems with high negative predictive value, such as the NAFLD fibrosis score, are used in the clinic to exclude patients with advanced fibrotic disease.10 ,11 However, up to one quarter of patients cannot be classified using this scoring system,10 and so require liver biopsy for histological clarification.
+ Liver stiffness measurement (FibroScan/acoustic radiation force impulse) performs well for the diagnosis of liver fibrosis, but has a low success rate in obese patients with NAFLD.12 Ultimately, there is an urgent and unmet need to develop non-invasive markers that can accurately stratify fibrosis severity in patients, reflect underlying fibrotic processes, and could potentially be used to monitor disease progression and a therapeutic response to emerging antifibrotic medicines.While there is unquestionably a role for gene polymorphisms in the progression of NASH to fibrosis there is also strong evidence for the involvement of lifestyle factors (age, diet, exercise, other comorbidities and so on).1 It is increasingly apparent that the environmental and lifestyle experiences of an individual are important influences on disease susceptibility and outcome.
+ Furthermore, there is increasing awareness that these extrinsic experiences impact on gene expression through numerous epigenetic mechanisms, with the result that the phenotype and behaviour of cells and tissues are modified in a dynamic fashion.
+ There is a steady accumulation of experimental and observational clinic information supporting the concept that epigenetic processes orchestrate the behaviour of liver cells and underpin the pathobiology of most liver diseases including NAFLD.13 DNA methylation is a fundamental epigenetic modification of DNA that occurs at the cytosine base within a cytosine-guanine dinucleotide (often referred to as CpG).14 A long-held biological dogma is that CpG methylation is a stable feature of the genome that is annotated during embryo development and serves to repress gene expression either by inhibiting the binding of transcription factors at gene promoters or by recruiting methyl DNA binding proteins that subsequently assemble gene transcription repression complexes.15 However, the recent discovery of mechanisms that operate to demethylate DNA and the development of next-generation sequencing protocols that allow sequence-specific quantification of DNA methylation have revealed that DNA methylation is not fixed but is highly dynamic and is responsive to cellular and tissue microenvironments.16 ,17 Indeed the epigenetic evolution of cancer is now a well-established concept and can be tracked by monitoring methylome changes during the growth and spread of a tumour and in response to chemotherapy.18 Work in our laboratory has shown that dynamic changes in DNA methylation are mechanistically implicated in the pivotal event of fibrogenesis, the activation (or transdifferentiation) of hepatic stellate cells (HSCs) into matrix-producing myofibroblasts.16 ,19 ,20 Additionally, we have published observational studies using archival human NAFLD and alcoholic liver disease (ALD) biopsy tissues to demonstrate that differential methylation densities at a number of fibrosis-regulating gene loci (peroxisome proliferator-activated receptor gamma (PPARγ), PPARα, tumour growth factor beta and platelet-derived growth factor alpha (PDGFα)) can be employed to stratify fibrosis severity.21 ,22 As an example, the PPARγ is a member of the nuclear hormone receptor family,23 involved in lipid storage and metabolism, glucose homeostasis and adipogenesis.24 ,25 It is also a master negative regulator of HSC activation and liver fibrogenesis.19 Of relevance to the use of DNA methylation as a potential stratification tool, the promoter region of PPARγ undergoes methylation remodelling and becomes hypermethylated as fibrosis severity increases in human NASH liver biopsies.21 However, measurement of methylation at the PPARγ promoter in these studies has relied on access to liver tissue and hence is dependent on a biopsy.The main aim of the present study was to ask if differential DNA methylation at the PPARγ promoter can be detected within the pool of cell-free DNA of human plasma and if so then do levels of methylation at this loci correlate with fibrosis stage in NASH.MethodsNAFLD cohortUse of human tissue was approved by Newcastle and North Tyneside Local Research Ethics (approval number H10/H0906/41).
+ All samples were collected and used subject to patients’ written consent.
+ Patients were identified from a subspecialist tertiary NAFLD clinic at the Freeman Hospital, Newcastle upon Tyne, UK.
+ All liver samples were collected and used subject to patient's written consent prior to the day of surgery.
+ Two patients transplanted for cirrhotic NAFLD from the Freeman Hospital, Newcastle upon Tyne, UK were included in the study.
+ Liver biopsies were performed as part of investigation of abnormal liver function tests, or to stage disease severity, in patients with radiological evidence of NAFLD.
+ Patients with alternate liver diagnoses or evidence of coexistent liver disease (haemochromatosis, viral hepatitis, Wilson's disease, α-1-antitrypsin deficiency or autoimmune liver disease) were excluded.
+ Patients who consumed more than 20 g of alcohol per day for males or more than 10 g per day for females were excluded.
+ Clinical and laboratory data were collected from the time of liver biopsy.
+ Relevant clinical details such as gender, age, weight, height and average current and previous alcohol intake (g/day) were obtained from all patients at the time of liver biopsy.
+ The body mass index was calculated by the formula: weight (kg)/height2 (m2).
+ Patients were identified as having type 2 diabetes if they were receiving dietary, oral hypoglycaemic drug or insulin treatment for diabetes, or had fasting blood glucose &gt;7.0 mmol/L or glucose &gt;11.1 mmol/L following an oral glucose tolerance test.
+ Blood tests taken at the time of liver biopsy were used to calculate the NAFLD fibrosis score as previously described.26 ALD cohortUse of human tissue was approved by Newcastle and North Tyneside Local Research Ethics (approval number H10/H0906/41).
+ Blood was collected at the time of patient identification in the liver clinics at the Freeman Hospital, Newcastle upon Tyne, UK.
+ All liver samples were collected and used subject to patient's written consent prior to the day of surgery.
+ Four patients transplanted for cirrhotic ALD from the Freeman Hospital, Newcastle upon Tyne, UK were included in the study.
+ A diagnosis of ALD was made with abnormal serum transaminases, the presence of excess alcohol intake (&gt;60 g/day for males, &gt;40 g/day for females) and the exclusion of other diagnoses such as viral hepatitis (HBV, HCV and HIV), hereditary hemochromatosis, Wilson's disease, autoimmune hepatitis, α1 antitrypsin deficiency and drug-induced liver injury.Histological assessmentPercutaneous liver biopsies were performed using a Menghini needle or an 18G BioPince liver biopsy system (Medical Devices Technologies, Gainesville, Florida, USA).
+ Liver biopsies were all &gt;15 mm in length and were interpreted by an experienced hepatopathologist (DT).
+ Histological scoring was performed according to the NASH Clinical Research Network criteria.27 The NAFLD activity score was graded from 0 to 8 including scores for steatosis (0–3), lobular inflammation (0–3) and hepatocellular ballooning (0–2).
+ Fibrosis was staged from 0 to 4.Control cohortUse of human tissue was approved by Newcastle and North Tyneside Local Research Ethics (approval number H10/H0906/41).
+ All samples were collected and used subject to patients’ written consent.
+ Age-matched controls were identified from the general gastroenterology clinics and endoscopy services at the Royal Victoria Infirmary, Newcastle upon Tyne, UK.
+ Patients had no signs or symptoms of liver disease, and no history of chronic illnesses.DNA methylation analysisDNA was extracted from 200 μL of plasma using the QIAamp DNA blood mini kit and was bisulfite treated with EZ DNA Methylation Gold Kit (Zymo, USA) according to the manufacturer’s protocol.
+ The bisulfite-treated DNA was eluted in 10 μL elution buffer.Similarly, DNA was extracted from laser capture microdissected tissue (PALM MicroBeam, Zeiss, Germany) using the QIAamp DNA micro kit according to the manufacturer’s protocol and bisulfite treated as above.
+ A detailed method is available in online supplementary documents.Supplemental material [gutjnl-2016-311526supp.pdf] Pyrosequencing analysisMethylation of specific cytosines within CpG dinucleotides was quantified by pyrosequencing using a Pyromark Q96 MD (Qiagen) instrument.
+ PCR and sequencing primers were obtained from a custom-designed assay for PPARγ (Eurofins Genomics, Luxembourg) as previously described.21 Ten microlitres of biotin-labelled PCR product was used in each well and combined by streptavidin-coated sepharose beads, washed in 70% ethanol, denatured in 0.01% sodium azide and washed in a wash buffer (Qiagen, PyroMark Wash Buffer, 979008).
+ Sequencing primers were annealed to DNA product at 80°C.
+ Samples were run in duplicate.
+ Assay efficiency was validated by unmethylated and methylated DNA (Qiagen, EpiTect PCR Control DNA Set, 59695).
+ CpG methylation data were analysed by Pyro Q-CpG software 1.0.6.Statistical analysisAll statistical analyses were performed using SPSS software V.21.0 (SPSS, Chicago, USA).
+ The diagnostic performance of non-invasive tests was assessed by receiver operating characteristic (ROC) curves.
+ The area under the ROC (AUROC) was used as an index to compare the accuracy of tests.
+ The cut-off for diagnosis of advanced fibrosis was taken from the point of maximum combined sensitivity and specificity.
+ The sensitivity and specificity for relevant cut-offs were also displayed.ResultsA total of 26 patients with NAFLD were identified who had a liver biopsy to investigate abnormal liver enzymes or to stage fibrosis in those with imaging evidence of steatosis.
+ Fourteen had mild fibrosis (Kleiner 0–2) and 12 had severe (Kleiner 3–4) fibrosis.
+ The demographic and laboratory characteristics of all patients are shown in table 1.View this table:View inline View popup Table 1 Characteristics of the NAFLD cohortPlasma DNA methylation of PPARγ gene promoter increases with fibrosis severity in NAFLDIn studies analysing DNA methylation in liver tissue, we have previously shown that differential DNA methylation at particular CpG dinucleotides within the human PPARγ gene promoter can be used to stratify fibrosis severity in patients with NAFLD.21 Quantitatively, in mild fibrosis, CpG methylation density was measured at &gt;70% rising to &gt;80% in severe fibrosis, at the two loci examined.
+ In light of these results, it was logical to analyse the quantitative methylation of the same gene promoter region in PPARγ in plasma cell-free circulating DNA.
+ To this end, we collected blood from patients and healthy controls, then isolated cell-free DNA (see online supplementary figure S1A).
+ Using tested and optimised pyrosequencing primers (see online supplementary figure S1B), the amount of DNA methylation at two specific CpG loci within PPARγ promoter was quantitatively measured in all samples (figure 1A–C).
+ We found increases in DNA methylation at both CpG loci in patients with severe versus mild fibrosis and controls (figure 1B, C), reaching high statistical significance between the patients with mild and severe NAFLD in the first CpG loci (figure 1B).Supplementary figures [gutjnl-2016-311526supp_figures.pdf] Download figure Open in new tab Download powerpoint Figure 1 (A) Schematic representation of peroxisome proliferator-activated receptor gamma (PPARγ) gene promoter showing the positions of the differentially methylated CpG 1 and 2.
+ (B and C) Plasma DNA methylation at (B) CpG1 and (C) CpG2 dinucleotide within the human PPARγ gene promoter from patients with mild or severe non-alcoholic fatty liver disease and controls as determined by pyrosequencing.
+ (D and E) Plasma DNA methylation at (D) CpG1 and (E) CpG2 dinucleotide within the human PPARγ gene promoter from patients with cirrhotic alcoholic liver disease (ALD) and controls as determined by pyrosequencing.
+ DNA methylation is quantitatively measured as expressed as a percentage.
+ Error bars represent mean values±SEM.
+ *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001 and ****p&lt;0.0001.Next, we wanted to assess whether increases in plasma DNA methylation at PPARγ gene promoter were fibrosis related or aetiology related.
+ We therefore analysed 13 patients with clinical evidence of cirrhosis due to excessive alcohol consumption (ALD) and compared them with healthy controls, as it was not possible to find patients who had mild ALD.
+ Clinical characteristics of the ALD cohort are shown in table 2.
+ Remarkably, we again found evidence of fibrosis-associated hypermethylation at both CpG loci within the PPARγ promoter in patients with cirrhotic ALD when compared with healthy controls (figure 1D, E).
+ To assess the clinical applicability of this test we assessed its diagnostic performance for advanced NAFLD fibrosis (Kleiner 3–4) using the AUROC analysis (figure 2A).
+ The threshold PPARγ CpG1 methylation value of 81% was the optimum cut-off to differentiate mild from advanced fibrosis.
+ This score compared favourably with the NAFLD fibrosis score, a well-validated, widely used non-invasive fibrosis score (figure 2).
+ The sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV) for PPARγ CpG1 methylation and the NAFLD fibrosis score are shown in figure 2B.Download figure Open in new tab Download powerpoint Figure 2 (A) Receiver operating characteristic (ROC) curves for the non-invasive diagnosis of advanced fibrosis (Kleiner fibrosis stage 3–4) using quantitative DNA methylation data for peroxisome proliferator-activated receptor gamma (PPARγ) CpG1 as compared with non-alcoholic fatty liver disease (NAFLD) fibrosis score.
+ (B) A comparison of the performance of each test for the stratification of mild versus advanced fibrosis in 26 patients with non-alcoholic fatty liver disease (non-alcoholic steatohepatitis).
+ AUROC, area under the ROC.Hypermethylation at the PPARγ promoter of plasma DNA correlates with changes in hepatocellular rather than myofibroblast DNA methylationWe were next interested to determine if the degree of PPARγ promoter hypermethylation detected in plasma DNA reflected cellular changes in the diseased liver.
+ In particular, we wanted to exploit the technology of laser capture microdissection (LCM) to separate myofibroblast-enriched fibrotic tissue from surrounding non-fibrotic hepatic parenchyma in advanced NASH liver explants.
+ NAFLD explants were characterised by an expert histopathologist (DT) (figure 3A), then LCM was used to cut out either hepatocyte-rich regions (figure 3B, left panel) or myofibroblast-rich scar regions (figure 3B, right panel).
+ Once again, the DNA methylation status of the two CpG loci within PPARγ promoter was determined by pyrosequencing using genomic DNA isolated from LCM-obtained tissues (figure 3C,D).
+ Both CpG loci were hypermethylated in the hepatic parenchyma compared with areas enriched for myofibroblasts (figure 3C, D).
+ The average DNA methylation percentages were 79 and 78 for CpG1 and CpG2, respectively, in the captured hepatocyte nodules compared with 63 and 61 in fibrotic tissue.
+ When compared with similar measurements on parenchymal tissue from non-diseased liver tissue (76% and 70% for CpG1 and CpG2, respectively, online supplementary figure S3A), and control peripheral blood mononuclear cells (PBMCs) (68% and 63% for CpG1 and CpG2, respectively, online supplementary figure S3B), our LCM-pyrosequencing data suggest that PPARγ promoter hypermethylation detected in plasma more closely correlates with methylation changes in hepatocytes than in myofibroblasts or PBMCs.
+ To corroborate this finding we carried out similar LCM-pyrosequencing assays using ALD explant tissues (representative images shown in figure 4A), again using LCM to isolate hepatocyte-enriched (figure 4B, left panel) or myofibroblast-enriched regions (figure 4B, right panel).
+ As with NAFLD, we discovered relative hypermethylation of the CpG1 and CpG2 sites in the PPARγ promoter for hepatocyte-enriched versus myofibroblast-enriched tissues (figure 4C, D).
+ Hence, irrespective of the cause of steatotic liver disease, progression to the advanced stage is associated with PPARγ promoter hypermethylation in DNA isolated from plasma and hepatocyte-enriched regenerative nodules.Download figure Open in new tab Download powerpoint Figure 3 (A) Representative images of explanted non-alcoholic fatty liver disease (NAFLD) liver tissue stained with Sirius red and α-smooth muscle actin (αSMA).
+ Blue arrow within Sirius red picture points to hepatocytes, whereas brown arrow within αSMA-stained section shows myofibroblasts in the scar region.
+ Photomicrographs were taken at 10 times magnification.
+ (B) Explanted NAFLD liver tissue was subjected to laser capture microdissection (LCM); areas of hepatocytes were separated from myofibroblast-enriched areas.
+ H&amp;E-stained tissue prior to and after LCM.
+ (C and D) DNA methylation density of (C) CpG1 and (D) CpG2 dinucleotide within the human peroxisome proliferator-activated receptor gamma (PPARγ) gene promoter as determined by pyrosequencing in LCM material from NAFLD.
+ DNA methylation is quantitatively measured and expressed as a percentage.
+ Error bars represent mean values±SEM *p&lt;0.05 and **p&lt;0.01..Download figure Open in new tab Download powerpoint Figure 4 (A) Representative images of explanted alcoholic liver disease (ALD) tissue stained with Masson's trichrome, Sirius red and α-smooth muscle actin (αSMA).
+ Blue arrows point to hepatocytes, whereas brown arrows point to the myofibroblasts in the αSMA stained scar region.
+ Photomicrographs were taken at 10 times magnification.
+ (B) H&amp;E stained explanted ALD liver tissue was subjected to laser capture microdissection (LCM); areas of hepatocytes were separated from myofibroblast-enriched areas.
+ Images show the tissue prior to and after LCM.
+ (C and D) DNA methylation density of (C) CpG1 and (D) CpG2 dinucleotide within the human peroxisome proliferator-activated receptor gamma (PPARγ) gene promoter as determined by pyrosequencing in LCM material from ALD.
+ The positions of the differentially methylated CpGs are shown in the schematic drawing above the graphs.
+ Differences are expressed as a percentage of DNA methylation.
+ Error bars represent mean values±SEM.
+ ****p&lt;0.0001.DiscussionNon-invasive or minimal-invasive biomarkers of disease progression are sorely needed in light of the currently rising liver disease burden.
+ In particular, NAFLD is increasing in incidence, and is projected to be the primary indication for liver transplantation by 2020.9 Recently, the presence of fibrosis has been shown to be the key histological determinant of long-term prognosis.7 ,8 Thus, an accurate determination of the degree of fibrosis is absolutely critical to allow effective management of this disease.
+ The NAFLD fibrosis score is currently widely adopted in routine practice to help rationalise liver biopsy use, but for many patients fails to provide a satisfactory quantitative measure of their disease progression without referral to a liver biopsy.10 Dynamic biomarkers of disease progression that can be detected in patient blood offer the advantage of minimal-invasive regular monitoring of disease progression and if prognostic would be extremely helpful for clinical management and the design of clinical trials in NASH and other major forms of chronic liver disease.Here we show in NAFLD and ALD that sequence-specific quantification of methylation densities at so-called differential DNA methylation regions (DMRs) may be employed to stratify patients according to their disease severity.
+ Specifically, using two CpG sequences previously identified as DMRs in the PPARγ promoter we have shown that hypermethylation at these sequences correlates with advanced fibrosis/cirrhosis.
+ This finding correlates with our previous data demonstrating that hypermethylation at the same PPARγ promoter DMRs in liver biopsy tissues can be used to identify patients who had progressed to Kleiner grade 3–4.21 While our study used only a relatively low number of patient samples (26 NAFLD and 13 ALD), the fact that PPARγ promoter hypermethylation correlated with disease progression across two distinct disease aetiologies is encouraging and supportive of further studies on the diagnostic and prognostic utility of PPARγ DMRs and indeed other genomic DMRs.
+ Equally, our demonstration of differential plasma DNA methylation in two distinct and opposite gene DMRs further strengthens our study.An interesting question is the cellular source of the hypermethylated PPARγ DNA in plasma of liver disease patients.
+ Hepatocyte damage and death are characteristic components of the pathobiology of NASH and ALD and would be expected to result in substantial leakage of cell-free DNA into the circulation.
+ Moreover, a recent paper has reported that the liver contributes significantly to the pool of DNA that circulates freely in the plasma.28 Given the similar degree of PPARγ hypermethylation at CpG1 and CpG2 in plasma and hepatocyte-rich tissue captured by LCM it is tempting to speculate that dying hepatocytes represent the cellular source of hypermethylated plasma DNA.
+ However, at the time of writing we lack sufficient direct evidence to support this idea.An unexpected finding from our LCM-pyrosequencing studies was a higher density of methylation at the CpG1 and CpG2 PPARγ promoter DMRs in hepatocyte-rich tissue compared with myofibroblast-rich fibrotic tissue, and this is observed in both NASH and ALD livers.
+ There is strong association of PPARγ expression with the quiescent non-fibrogenic phenotype of HSC and a need to repress its transcription in order for the cells to adopt a myofibroblast phenotype.29 ,30 We have previously shown that the methyl-CpG binding protein MeCP2 brings about this repression of PPARγ transcription at least in part by associating with methylated regions of the upstream promoter where it recruits chromatin remodelling factors.19 Hence, a higher degree of methylation at the PPARγ promoter would be expected to be a feature of fibrotic tissue in advanced liver disease.
+ However, our comparison of non-fibrotic hepatocyte-rich tissue with fibrotic myofibroblast-rich tissue suggests that DMRs in the PPARγ promoter are more highly methylated in hepatocytes.
+ Noteworthy is a recent cell-specific knockout study reporting that hepatocyte PPARγ1 mRNA is highly suppressed after experimental induction of liver fibrosis in mice.31 Experimentally, the loss of PPARγ expression in hepatocytes has been implicated as a signal for HSC preactivation and accelerated fibrogenesis32; such a process may constitute an important cross-talk mechanism between hepatocytes and HSCs that drives disease progression to fibrosis and cirrhosis.
+ PPARγ has also been shown to have a regulatory role in hepatic regeneration.
+ Mice with hepatocyte-targeted genetic deletion of PPARγ display impaired regeneration within the setting of diet-induced steatosis.33 Thus, hypermethylation of PPARγ in hepatocytes could also reflect impaired regeneration, a major characteristic of advanced liver disease and a driver of fibrosis.34 ,35 There are a number of limitations with the current study.
+ Clearly, the sample size is relatively small, with no independent validation within a separate cohort.
+ Further, our method necessitates the use of prospectively collected fresh plasma samples, precluding the immediate use of archived plasma samples from existing cohorts at other centres.
+ There is no data on the prognosis of patients enrolled in the study, and no longitudinal measurements, especially from interventional trials.
+ Finally, the data does not suggest superiority to existing fibrosis biomarkers, although it performed favourably to the NAFLD fibrosis score in this cohort.
+ However, given the ability to detect significant differential plasma DNA methylation in two separate gene DMRs in this small cohort of patients, patients with NAFLD fibrosis and patients with cirrhotic ALD, further work is warranted to validate these findings in a large cohort of patients with NAFLD, ALD and other fibrotic liver diseases.In light of the limitations in the present study, there are clear directions for further research.
+ First, a validation of the findings in a second independent cohort is required.
+ Second, analysis of patients from an interventional trial with paired biopsies could reveal whether pathway-directed interventions (eg, the PPARα/δ agonist) alter the diagnostic performance of this marker.
+ What we are at present unable to know is the degree to which DNA methylation at PPARγ and other genes carrying DMRs is changing during the disease course in an individual.
+ Thus, the diagnostic relevance and the prognostic value of the biomarker should be assessed.
+ Prediction of disease progression, during long-term follow-up, for early NAFLD stages using the novel technique should be evaluated.
+ Furthermore, our knowledge of HCC-specific epigenomic signatures and its effect on the methylation pattern of PPARγ, when coexisting with NAFLD, should be assessed in future studies.
+ Finally, a key question would be whether PPARγ hypermethylation is a preset feature of patients who are susceptible to disease progression or if it is a more dynamic modification that develops with disease.In summary, our findings suggest that plasma DNA can be detected and potentially used to non-invasively stratify fibrosis risk in NAFLD according to methylation levels at DMRs within the PPARγ gene promoter.
+ With validation, this blood-based biomarker could become an important contributory clinical tool alongside other epigenetic, genetic and biochemical biomarkers, mitigating the future need for biopsy to evaluate fibrosis.AcknowledgmentsTH is the recipient of a Clinical Research Training Fellowship from the Medical Research Council, UK (Project Reference MR/L002094/1).
+ QMA is the recipient of a Clinical Senior Lectureship Award from the Higher Education Funding Council for England (HEFCE).
+ TH, DT, CPD and QMA are members of the EPoS (Elucidating Pathways of Steatohepatitis) consortium funded by the Horizon 2020 Framework Program of the European Union under Grant Agreement 634413.
+ JM is funded by the cross-council Lifelong Health and Wellbeing initiative (managed by Medical Research Council, UK award reference L016354), National Institute on Alcohol Abuse and Alcoholism (NIAAA) (grant AA018663).
+ DAM is funded by Medical Research Council, UK (Grant MR/K001949/1).
+ The authors thank Mrs Lorna Brownlee for help with sample collection.References↵  Anstee QM ,  Day CP  .
+ The genetics of NAFLD.
+ Nat Rev Gastroenterol Hepatol 2013;10:645–55.
+ doi:10.1038/nrgastro.2013.182 OpenUrlCrossRefPubMed↵  Anstee QM ,  Targher G ,  Day CP  .
+ Progression of NAFLD to diabetes mellitus, cardiovascular disease or cirrhosis.
+ Nat Rev Gastroenterol Hepatol 2013;10:330–44.
+ doi:10.1038/nrgastro.2013.41 OpenUrlCrossRefPubMed↵  Ekstedt M ,  Franzén LE ,  Mathiesen UL , et al .
+ Long-term follow-up of patients with NAFLD and elevated liver enzymes.
+ Hepatology 2006;44:865–73.
+ doi:10.1002/hep.21327 OpenUrlCrossRefPubMedWeb of Science↵  McPherson S ,  Hardy T ,  Henderson E , et al .
+ Evidence of NAFLD progression from steatosis to fibrosing-steatohepatitis using paired biopsies: Implications for prognosis and clinical management.
+ J Hepatol 2015;62:1148–55.
+ doi:10.1016/j.jhep.2014.11.034 OpenUrlCrossRefPubMed↵  Singh S ,  Allen AM ,  Wang Z , et al .
+ Fibrosis progression in nonalcoholic fatty liver vs nonalcoholic steatohepatitis: A systematic review and meta-analysis of paired-biopsy studies.
+ Clin Gastroenterol Hepatol 2015;13:643–54.e9.
+ doi:10.1016/j.cgh.2014.04.014 OpenUrlCrossRefPubMed↵  Pais R ,  Charlotte F ,  Fedchuk L , et al .
+ A systematic review of follow-up biopsies reveals disease progression in patients with non-alcoholic fatty liver.
+ J Hepatol 2013;59:550–6.
+ doi:10.1016/j.jhep.2013.04.027 OpenUrlCrossRefPubMed↵  Ekstedt M ,  Hagström H ,  Nasr P , et al .
+ Fibrosis stage is the strongest predictor for disease-specific mortality in NAFLD after up to 33 years of follow-up.
+ Hepatology 2015;61:1547–54.
+ doi:10.1002/hep.27368 OpenUrlCrossRefPubMed↵  Angulo P ,  Kleiner DE ,  Dam-Larsen S , et al .
+ Liver fibrosis, but no other histologic features, is associated with long-term outcomes of patients with nonalcoholic fatty liver disease.
+ Gastroenterology 2015;149:389–97.e10.
+ doi:10.1053/j.gastro.2015.04.043 OpenUrlCrossRefPubMed↵  Baumeister SE ,  Völzke H ,  Marschall P , et al .
+ Impact of fatty liver disease on health care utilization and costs in a general population: a 5-year observation.
+ Gastroenterology 2008;134:85–94.
+ doi:10.1053/j.gastro.2007.10.024 OpenUrlCrossRefPubMedWeb of Science↵  McPherson S ,  Stewart SF ,  Henderson E , et al .
+ Simple non-invasive fibrosis scoring systems can reliably exclude advanced fibrosis in patients with non-alcoholic fatty liver disease.
+ Gut 2010;59:1265–9.
+ doi:10.1136/gut.2010.216077 OpenUrlAbstract/FREE Full Text↵  Dyson JK ,  McPherson S ,  Anstee QM  .
+ Non-alcoholic fatty liver disease: non-invasive investigation and risk stratification.
+ J Clin Pathol 2013;66:1033–45.
+ doi:10.1136/jclinpath-2013-201620 OpenUrlAbstract/FREE Full Text↵  Cassinotto C ,  Boursier J ,  De Ledinghen V , et al .
+ Liver stiffness in nonalcoholic fatty liver disease: a comparison of Supersonic Shear Imaging, FibroScan and ARFI with liver biopsy.
+ Hepatology Published Online First: 22 Jan 2016. doi:10.1002/hep.28394  ↵  Mann DA  .
+ Epigenetics in liver disease.
+ Hepatology 2014;60:1418–25.
+ doi:10.1002/hep.27131 OpenUrlCrossRefPubMed↵  Illingworth RS ,  Bird AP  .
+ CpG islands—‘a rough guide’.
+ FEBS Lett 2009;583:1713–20.
+ doi:10.1016/j.febslet.2009.04.012 OpenUrlCrossRefPubMedWeb of Science↵  Bird A  .
+ DNA methylation patterns and epigenetic memory.
+ Genes Dev 2002;16:6–21.
+ doi:10.1101/gad.947102 OpenUrlFREE Full Text↵  Page A ,  Paoli P ,  Salvador EM , et al .
+ Hepatic stellate cell transdifferentiation involves genome-wide remodeling of the DNA methylation landscape.
+ J Hepatol 2016;64:661–73.
+ doi:10.1016/j.jhep.2015.11.024 OpenUrlCrossRefPubMed↵  Booth MJ ,  Branco MR ,  Ficz G , et al .
+ Quantitative sequencing of 5-methylcytosine and 5-hydroxymethylcytosine at single-base resolution.
+ Science 2012;336:934–7.
+ doi:10.1126/science.1220671 OpenUrlAbstract/FREE Full Text↵  Irizarry RA ,  Ladd-Acosta C ,  Wen B , et al .
+ The human colon cancer methylome shows similar hypo- and hypermethylation at conserved tissue-specific CpG island shores.
+ Nat Genet 2009;41:178–86.
+ doi:10.1038/ng.298 OpenUrlCrossRefPubMedWeb of Science↵  Mann J ,  Chu DC ,  Maxwell A , et al .
+ MeCP2 controls an epigenetic pathway that promotes myofibroblast transdifferentiation and fibrosis.
+ Gastroenterology 2010;138:705–14, 14.e1–4.
+ doi:10.1053/j.gastro.2009.10.002 OpenUrlCrossRefPubMed↵  Mann J ,  Oakley F ,  Akiboye F , et al .
+ Regulation of myofibroblast transdifferentiation by DNA methylation and MeCP2: implications for wound healing and fibrogenesis.
+ Cell Death Differ 2007;14:275–85.
+ doi:10.1038/sj.cdd.4401979 OpenUrlCrossRefPubMedWeb of Science↵  Zeybel M ,  Hardy T ,  Wong YK , et al .
+ Multigenerational epigenetic adaptation of the hepatic wound-healing response.
+ Nat Med 2012;18:1369–77.
+ doi:10.1038/nm.2893 OpenUrlCrossRefPubMed↵  Zeybel M ,  Hardy T ,  Robinson SM , et al .
+ Differential DNA methylation of genes involved in fibrosis progression in non-alcoholic fatty liver disease and alcoholic liver disease.
+ Clin Epigenetics 2015;7:25. doi:10.1186/s13148-015-0056-6 OpenUrlCrossRefPubMed↵  Barak Y ,  Kim S  .
+ Genetic manipulations of PPARs: effects on obesity and metabolic disease.
+ PPAR Res 2007;2007:12781. doi:10.1155/2007/12781 OpenUrlPubMed↵  Chawla A ,  Repa JJ ,  Evans RM , et al .
+ Nuclear receptors and lipid physiology: opening the X-files.
+ Science 2001;294:1866–70.
+ doi:10.1126/science.294.5548.1866 OpenUrlAbstract/FREE Full Text↵  Kersten S ,  Desvergne B ,  Wahli W  .
+ Roles of PPARs in health and disease.
+ Nature 2000;405:421–4.
+ doi:10.1038/35013000 OpenUrlCrossRefPubMedWeb of Science↵  Angulo P ,  Hui JM ,  Marchesini G , et al .
+ The NAFLD fibrosis score: a noninvasive system that identifies liver fibrosis in patients with NAFLD.
+ Hepatology 2007;45:846–54.
+ doi:10.1002/hep.21496 OpenUrlCrossRefPubMedWeb of Science↵  DE Kleiner ,  EM Brunt ,  M Van Natta , et al .
+ Design and validation of a histological scoring system for nonalcoholic fatty liver disease.
+ Hepatology 2005;41:1313–21.
+ doi:10.1073/pnas.1508736112 OpenUrlCrossRefPubMedWeb of Science↵  Sun K ,  Jiang P ,  Chan KC , et al .
+ Plasma DNA tissue mapping by genome-wide methylation sequencing for noninvasive prenatal, cancer, and transplantation assessments.
+ Proc Natl Acad Sci USA 2015;112:E5503–12.
+ doi:10.1073/pnas.1508736112 OpenUrlAbstract/FREE Full Text↵  Miyahara T ,  Schrum L ,  Rippe R , et al .
+ Peroxisome proliferator-activated receptors and hepatic stellate cell activation.
+ J Biol Chem 2000;275:35715–22.
+ doi:10.1074/jbc.M006577200 OpenUrlAbstract/FREE Full Text↵  Hazra S ,  Xiong S ,  Wang J , et al .
+ Peroxisome proliferator-activated receptor gamma induces a phenotypic switch from activated to quiescent hepatic stellate cells.
+ J Biol Chem 2004;279:11392–401.
+ doi:10.1074/jbc.M310284200 OpenUrlAbstract/FREE Full Text↵  Morán-Salvador E ,  Titos E ,  Rius B , et al .
+ Cell-specific PPARgamma deficiency establishes anti-inflammatory and anti-fibrogenic properties for this nuclear receptor in non-parenchymal liver cells.
+ J Hepatol 2013;59:1045–53.
+ doi:10.1016/j.jhep.2013.06.023 OpenUrlCrossRefPubMed↵  Nevzorova YA ,  Hu W ,  Cubero FJ , et al .
+ Overexpression of c-myc in hepatocytes promotes activation of hepatic stellate cells and facilitates the onset of liver fibrosis.
+ Biochim Biophys Acta 2013;1832:1765–75.
+ doi:10.1016/j.bbadis.2013.06.001 OpenUrlCrossRefPubMed↵  Gazit V ,  Huang J ,  Weymann A , et al .
+ Analysis of the role of hepatic PPARγ expression during mouse liver regeneration.
+ Hepatology 2012;56:1489–98.
+ doi:10.1002/hep.25880 OpenUrlCrossRefPubMed↵  Ebrahimkhani MR ,  Oakley F ,  Murphy LB , et al .
+ Stimulating healthy tissue regeneration by targeting the 5-HT2B receptor in chronic liver disease.
+ Nat Med 2011;17:1668–73.
+ doi:10.1038/nm.2490 OpenUrlCrossRefPubMed↵  Angulo P ,  Machado MV ,  Diehl AM  .
+ Fibrosis in nonalcoholic Fatty liver disease: mechanisms and clinical implications.
+ Semin Liver Dis 2015;35:132–45.
+ doi:10.1055/s-0035-1550065 OpenUrlCrossRefPubMedView Abstract     FootnotesQMA and JM share senior authorship.Twitter Follow Dina Tiniakos at @Dina Tiniakos Contributors TH: conception and design of the work; acquisition, analysis and interpretation of data for the work; drafting the work and revising it critically for important intellectual content.
+ MZ, CD, CPD, SM, SMP, EH, DT, SW, JF, DAM: acquisition of data for the work; drafting the work and revising it critically for important intellectual content.
+ QMA, JM: conception and design of the work; analysis and interpretation of data for the work; drafting the work and revising it critically for important intellectual content.Funding National Institute on Alcohol Abuse and Alcoholism (AA018663), Medical Research Council (MR/K001949/1, MR/L002094/1), NIHR Newcastle Biomedical Research Centre, European Union Horizon 2020 Framework Programme (634413), Higher Education Funding Council for England.Competing interests None declared.Ethics approval Newcastle and North Tyneside Local Research Ethics.Provenance and peer review Not commissioned; externally peer reviewed.
+ Request Permissions  If you wish to reuse any or all of this article please use the link below which will take you to the Copyright Clearance Center’s RightsLink service.
+ You will be able to get a quick price and instant permission to reuse the content in many different ways.
+ Copyright information:   Published by the BMJ Publishing Group Limited.
+ For permission to use (where not already granted under a licence) please go to http://www.bmj.com/company/products-services/rights-and-licensing/ This is an Open Access article distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license, which permits others to distribute, remix, adapt and build upon this work, for commercial use, provided the original work is properly cited.
+ See: http://creativecommons.org/licenses/by/4.0/           Read the full text or download the PDF:                  Subscribe          Log in         Log in via InstitutionLog in via OpenAthensLog in via BSG     Log in using your username and password For personal accounts OR managers of institutional accounts   Username *    Password *     Forgot your log in details?Register a new account?Forgot your user name or password?
+ All rights reserved.

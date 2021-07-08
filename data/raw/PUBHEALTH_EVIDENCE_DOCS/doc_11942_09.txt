@@ -1,0 +1,74 @@
+PROVISIONAL COUNTS OF DRUG OVERDOSE DEATHS, as of 8/6/2017
+Drug Type
+Jan-16
+Jan-17
+Jan-16
+Jan-17
+Jan-16
+Jan-17
+Jan-16
+Jan-17
+Jan-16
+Jan-17
+Jan-16
+Jan-17
+Jan-16
+Jan-17
+Jan-16
+Jan-17
+Heroin (T40.1)
+13,219
+15,446
+355040524954418679421595339451323285Natural and semi-synthetic 
+opioids (T40.2)
+12,726
+14,427
+60407687108131394712222337270346272281Methadone (T40.3)
+3,276
+3,314
+1311221534381792001251777370119127Synthetic opioids excluding 
+
+methadone  (T40.4)
+9,945
+20,145
+131047611112083861,222
+15462826369261101Cocaine (T40.5)
+6,986
+10,619
+915171832581543283085371682638682Psychostimulants with abuse 
+
+potential (T43.6)
+5,922
+7,663
+275561812331214849604568316338Quality: % of overdose deaths 
+
+with drug(s) specified
+CDC Ł National Center for Health Statistics Ł National Vital Statistics System
+Page 2 of 2
+Provisional counts for 2016 and 2017 are based on data available for analysis as of the date specified.  Provisional counts should be interpreted with caution and in the context 
+of the data quality.  Provisional counts may be incomplete and causes of death may be pending investigation. Reporting of specific drugs and drug classes varies by jurisdiction 
+and estimates should be interpreted with caution. Deaths are reported by the jurisdiction in which the death occurred.
+Drug overdose deaths involving specific drugs and drug classes, United States and 7 Jurisdictions, 12 month-ending Jan 2016, Jan 2017
+NOTES ON DATA QUALITY: 
+Provisional counts for 12 months-ending are the number of deaths received and processed for the 12 month period ending in the month indicated. 
+Deaths are classified by reporting jurisdiction in which the death occurred. Jurisdictions are selected for inclusion in the report based on two measures of data quality: 1) 
+
+
+
+
+
+
+
+
+mutually exclusive because deaths may involve more than one drug.  Among deaths with an underlying cause of drug overdose, the percent with at least one drug or drug 
+
+class specified were identified through MCODs in the range T36-T50.8.
+Number of deaths for 12 month-ending
+United States
+Maryland
+New York City
+Alaska
+Iowa
+Maine
+Virginia
+Washington

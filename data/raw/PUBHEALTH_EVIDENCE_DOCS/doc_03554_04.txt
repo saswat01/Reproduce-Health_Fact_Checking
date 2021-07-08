@@ -1,0 +1,700 @@
+Forgot your password?
+ Enter your email address below and we will send you the reset instructions     Email*      Cancel    If the address matches an existing account you will receive an email with instructions to reset your password.
+ Close        Request Username  Can't sign in?
+ Forgot your username?
+ Enter your email address below and we will send you your username     Email*       Close    If the address matches an existing account you will receive an email with instructions to retrieve your username        Change Password      Old Password       New Password     Too Short Weak Medium Strong Very Strong Too Long      Password Changed Successfully Your password has been changed       Verify Phone     Enter the verification code      Cancel    Congrats!
+ Several authoritative organizations have issued public health guidelines addressing dietary sugars.Purpose:To systematically review guidelines on sugar intake and assess consistency of recommendations, methodological quality of guidelines, and the quality of evidence supporting each recommendation.Data Sources:MEDLINE, EMBASE, and Web of Science (1995 to September 2016); guideline registries; and gray literature (bibliographies, Google, and experts).Study Selection:Guidelines addressing sugar intake that reported their methods of development and were published in English between 1995 and 2016.Data Extraction:Three reviewers independently assessed guideline quality using the Appraisal of Guidelines for Research and Evaluation, 2nd edition (AGREE II), instrument.
+ To assess evidence quality, articles supporting recommendations were independently reviewed and their quality was determined by using GRADE (Grading of Recommendations Assessment, Development and Evaluation) methods.Data Synthesis:The search identified 9 guidelines that offered 12 recommendations.
+ Each of the reviewed guidelines indicated a suggested decrease in the consumption of foods containing nonintrinsic sugars.
+ The guidelines scored poorly on AGREE II criteria, specifically in rigor of development, applicability, and editorial independence.
+ Seven recommendations provided nonquantitative guidance; 5 recommended less than 25% to less than 5% of total calories from nonintrinsic sugars.
+ Quality of evidence supporting recommendations was low to very low.Limitation:The authors conducted the study independent of the funding source, which is primarily supported by the food and agriculture industry.Conclusion:Guidelines on dietary sugar do not meet criteria for trustworthy recommendations and are based on low-quality evidence.
+ Public health officials (when promulgating these recommendations) and their public audience (when considering dietary behavior) should be aware of these limitations.Primary Funding Source:Technical Committee on Dietary Carbohydrates of the North American branch of the International Life Sciences Institute.
+ Existing evidence of a link between sugar intake and adverse health outcomes has been translated into dietary guidance and recommendations for the general public by authoritative health organizations (2).
+ Dietary guidance addresses the types of sugars, especially sources of nonintrinsic sugars, such as added sugars and free sugars (2).
+ Added sugars consist of monosaccharides and disaccharides added during the production and preparation of foods and beverages and do not include sugars naturally found in milk, fruit, and fruit juice.
+ Free sugars comprise sugars added to products as well as sugars naturally found in fruit, honey, and syrup (3).As research continues to add knowledge, authoritative organizations have issued public health guidance based on the available evidence (2).
+ Recent guidelines have included both qualitative and quantitative recommendations that consistently focus on limiting and reducing sugar consumption, especially sources of nonintrinsic sugars (2).
+ For example, in 2015, the World Health Organization (WHO), the Scientific Advisory Committee on Nutrition (SACN), and the U.S. Department of Agriculture and U.S. Department of Health and Human Services issued public health guidelines (PHGs) with specific recommendations for dietary sugar intake (4–6).
+ Each organization conducted its own review of the available evidence and published its recommendations, including the scientific basis for its conclusions.
+ We conducted a systematic survey and critical appraisal of authoritative PHGs, including an assessment of the quality of evidence supporting recommendations for dietary sugar intake.MethodsWe registered the protocol for this systematic review in the PROSPERO database in November 2015 (registration number CRD42015029182) (7).Data Sources and SearchesUsing a search strategy developed with the help of an experienced librarian, we searched MEDLINE, EMBASE, and Web of Science (1995 to September 2016) using subject terms and keywords.
+ We searched 5 gray literature sources, including Google (Appendix Table 1), as well as bibliographies of included studies.
+ We consulted with 3 experts in the field of carbohydrates (Appendix Table 1) to identify additional guidelines we may have missed.
+ Our search was restricted to English-language guidelines.Appendix Table 1.
+ Additional Data SourcesStudy SelectionOur criteria for inclusion were 1) PHGs, defined as documents developed by a nationally recognized committee, a publicly funded institution, or a medical society that provided recommendations for sugar intake in the general population; 2) inclusion of an explicit methodology section, either within the guideline or in supporting documents (for example, definition of the search strategy, evidence quality assessment, and methods used to create recommendations); 3) the most recent version of publications from an organization; and 4) publication between 1995 and 2016.Our target outcomes of interest were the overall quality of development of the PHGs; the consistency of sugar recommendations, both quantitative and qualitative; the strength of the recommendations; an assessment of the supporting evidence for each recommendation; the use of systematic review methods; explicit links between recommendations and supporting evidence; and the strengths and limitations of the body of evidence.Data Extraction and Quality AssessmentTwo reviewers (B.S.
+ and J.E.)
+ independently screened titles and abstracts, full-text articles, and data extracted from included PHGs by using standardized, pilot-tested forms.
+ We abstracted the following guideline characteristics: title, year, authors, language, organization, whether it was a novel publication or an update, location of development, the recommendations for sugar intake along with the strength of each recommendation, and the authors' assessment of the quality of the supporting evidence.
+ Pairs of reviewers (B.S., J.E., L.L., and B.C.J.)
+ independently identified, extracted, and appraised references to the evidence used to justify each recommendation, including the types of sugars (for example, added, free, or total) referenced in the supporting body of literature.
+ Reviewers resolved disagreements by consensus and, if consensus could not be reached, consulted with senior scientists (B.C.J.
+ and J.S.
+ ).Three reviewers (B.S., J.E., and L.L.)
+ independently appraised guidelines by using the Appraisal of Guidelines for Research and Evaluation, 2nd edition (AGREE II), instrument, comprising 23 items within 6 domains: scope and purpose, stakeholder involvement, rigor of development, clarity of presentation, applicability, and editorial independence (Appendix Table 2) (8).
+ In addition, 2 overall assessments were completed for each PHG: a score of 1 to 7, and whether the reviewer would recommend using the guideline (recommended, recommended with modifications, or not recommended).
+ We conducted a calibration exercise using 2 guidelines to ensure consistency and validity and resolved disagreements by consensus.
+ Item rating differences of 3 points or fewer between reviewers were permitted.
+ Senior scientists (B.C.J.
+ and J.S.)
+ were available for discrepancies but were not needed.Appendix Table 2.
+ AGREE II InstrumentQuality Appraisal of Evidence Used in GuidelinesWe used the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach (9) to independently assess the quality of the evidence underlying each recommendation.
+ For each target outcome linked to a recommendation, GRADE assigns the quality of evidence as high, moderate, low, or very low.
+ Systematic reviews of randomized, controlled trials (RCTs) started with high quality of evidence, whereas systematic reviews of observational studies started with low quality.
+ In instances where only single studies for recommendations were cited, RCTs started with moderate-quality evidence and observational studies started with very-low-quality evidence.
+ For each body of evidence (systematic reviews) and for each citation (single studies), where possible, we considered downgrading the       quality of evidence on the basis of 5 domains: risk of bias, indirectness, imprecision, inconsistency, and publication bias.
+ Subsequently, we considered rating up on the basis of 3 domains: large effect size, dose–response, and an absence of residual or unmeasured confounding.Data Synthesis and AnalysisAgreement for the full-text screening was calculated using the κ statistic and its 95% CI (10).
+ For each guideline, we calculated the AGREE II score for each domain as a percentage of the maximum possible score and standardized range.
+ We considered 60% as a threshold of acceptable quality.
+ Interrater agreement was calculated using the intraclass correlation coefficient with corresponding 95% CIs (11).
+ Agreement of 0.01 to 0.20 was considered poor, 0.21 to 0.40 was considered fair, 0.41 to 0.60 was considered moderate, 0.61 to 0.80 was considered substantial, and 0.81 to 1.00 was considered very good (12).
+ For all AGREE II domains across all PHGs, we calculated the median domain score and the interquartile range (IQR).
+ All analyses were conducted using Excel 2013 (Microsoft).Role of the Funding SourceThis study was supported by the Technical Committee on Dietary Carbohydrates of the North American branch of the International Life Sciences Institute (ILSI North America).
+ ILSI North America is a public, nonprofit foundation that provides a forum to advance understanding of scientific issues related to the nutritional quality and safety of the food supply by sponsoring research programs, educational seminars and workshops, and publications.
+ ILSI North America receives 60% of its financial support from its more than 400 industry members.
+ The authors wrote the protocol, which was reviewed for scope clarifications and approved by ILSI.
+ The funding source had no role in the conduct of the review or the interpretation of data, manuscript review, or publication decisions.ResultsA total of 5315 records were screened, 26 records were considered potentially eligible for full-text screening, and 9 PHGs proved eligible (Figure).
+ Eligible guidelines included 1 global guideline (4), 2 international guidelines (13, 14), and 6 national guidelines (5, 6, 15–18).
+ Guidelines were published from 2002 to 2015 by the following agencies: the U.S. Department of Agriculture and the U.S. Department of Health and Human Services (6), WHO (4), SACN and Public Health England (5), the Ministry of Health of Brazil (15), the Australian National Health and Medical Research Council (18), the      Nordic Council of Ministers (14), the German Nutrition Society (16), the Food Safety Authority of Ireland (17), and the Institute of Medicine (13) (Table 1).Figure.
+ Summary of evidence search and selection.
+ Download figure
+   
+       Download PowerPoint
+      Table 1.
+ Identified Guidelines and Corresponding Sugar RecommendationsRecommendation CharacteristicsThe 9 PHGs provided a total of 12 recommendations on dietary sugar intake.
+ All recommendations advocated for reduced intake of nonintrinsic free or added sugars and/or decreased consumption of foods and beverages high in refined sugars, and 5 recommendations provided specific sugar intake limits (Table 1).
+ For example, 2 guidelines used the term “free sugars” (4, 5), 3 used the term “added sugars” (6, 13, 14), 2 made recommendations on sugar-sweetened beverages (SSBs) (5, 16), and 3 referred to food and beverage sources of refined sugars (15, 17, 18).
+ Quantitative       recommendations ranged from less than 5% of total energy from free sugars (4, 5) to less than 25% of total energy from added sugars (13).
+ The rationale for decreased sugar intake included nutrient displacement, excess energy intake, dental caries, bone health, weight gain, and obesity.
+ Four guidelines assessed the quality of the evidence and used the assessment to develop their recommendations (4, 5, 16, 18), and 5 did not (6, 13, 15, 17, 19).Quality Assessment of Guidelines: AGREE II ResultsScope and PurposeItems in this domain evaluate the overall objectives, related health questions, and the target population of the guideline (20).
+ Across guidelines, the median score for this domain was 81.5% (IQR, 72.2% to 88.0%), indicating that most items were highly rated (Table 2).
+ Eight of the 9 guidelines reached the 60% threshold for reporting.
+ The main limitation across all guidelines was the description of expected benefit, or outcomes, of the guidelines.Table 2.
+ Public Health Guideline Domain Scores on the AGREE II InstrumentStakeholder InvolvementStakeholder involvement criteria focus on the extent of involvement of appropriate participants in the guideline development process and whether it reflects the views of its intended users (20).
+ The median score for this domain was 63.0% (IQR, 38.9% to 77.8%) (Table 2).
+ Four guidelines scored below 60% in this domain (5, 13, 16, 17).
+ Many guidelines did not describe how they sought the views and preferences of their target population (patients or the public), and those that did were vague about the process.Rigor of DevelopmentRigor of development relates to the methods used for gathering and synthesizing the evidence for guideline development, formulation of the recommendations, and the process for updating the guideline (20).
+ The median score for this domain was low, at 47.2% (IQR, 24.0% to 69.4%) (Table 2).
+ Three of the guidelines met the 60% threshold (4, 6, 18).
+ Four guidelines did not use systematic methods to search for evidence (6, 13, 15, 17).
+ Four guidelines assigned strength to their recommendations (4, 6, 16, 18), but only the WHO guideline used the GRADE approach (4).
+ Three of        the guidelines discussed external review by experts before publication (4, 6, 18).
+ Two guidelines appropriately described the process for updating recommendations (4, 6).Clarity of PresentationClarity of presentation relates to whether key recommendations are unambiguous and easily identifiable in the guideline (20).
+ The median score for this domain was 59.3% (IQR, 49.1% to 71.3%), with 4 guidelines meeting the 60% threshold (6, 13, 17, 18) (Table 2).
+ The main limitation in this domain was that the different options for management of the health issue (for example, ways to limit sugar intake) were not clearly presented.ApplicabilityItems in the applicability domain focus on the likely barriers to and facilitators of implementation, strategies to improve uptake, and resource implications of applying the guideline (20).
+ The median score for this domain was low, at 34.7% (IQR, 11.1% to 50.0%) (Table 2).
+ Only 1 guideline met the 60% threshold (18).
+ The most common issue was failing to discuss the facilitators and barriers to the guideline's application and failing to address the resource implications of applying the recommendations.
+ Only 1 guideline (4) presented monitoring and auditing criteria.Editorial IndependenceEditorial independence relates to unbiased formulation of recommendations and competing interests (20).
+ This domain had the lowest median score (33.3% [IQR, 6.9% to 65.3%]), with only 2 guidelines meeting the 60% threshold (Table 2).
+ Most of the guidelines either did not provide a statement about funding and its influence in the process of guideline development or failed to state conflicts of interest of authors or the guideline panel (Appendix Table 3).Appendix Table 3.
+ COI Reporting Across GuidelinesOverall AssessmentOverall guideline quality was moderate (median score, 4.0 [IQR, 3.7 to 4.8]), with only the Australian guideline meeting the 60% threshold for all 6 domains.
+ Scores ranged from 3.3 (German guideline [16]) to 5.3 (Australian guideline [18]) (Table 2).
+ All of the guidelines were categorized as “recommended with modifications.”Quality Assessment of Supporting Evidence for Recommendations: GRADE ResultsThere were a total of 66 unique publications across 9 eligible guidelines supporting the 12 dietary sugar recommendations.
+ Evidence included systematic reviews; RCTs; nonrandomized, controlled trials; prospective cohort studies; case–control studies; national surveys; and cross-sectional studies (Appendix Table 4).
+ The Dietary Guidelines for the Brazilian Population and the 2015–2020 Dietary Guidelines for Americans did not cite any previously published studies as evidence for their recommendations (6, 15), and Public Health England conducted its own systematic reviews for its Carbohydrates and Health report that have not been published in a peer-reviewed journal but were       publicly available (5).Appendix Table 4.
+ Assessment of the Supporting Evidence for Each Recommendation (GRADE)Sixteen systematic reviews were used to inform 7 recommendations across 5 guidelines (4, 5, 14, 16, 18) (Appendix Table 5).
+ Evidence was low to very low for each systematic review.
+ Fourteen reviews (87.5%) were downgraded for inconsistency, 11 (68.8%) were downgraded for imprecision, 2 (14%) were downgraded for publication bias, and 2 (12.5%) were downgraded for indirectness.Appendix Table 5.
+ Assessment of Individual Studies Supporting Recommendations (GRADE)Two large RCTs (21, 22), both on SSBs and body weight, informed 2 recommendations from the German and Australian guidelines (16, 18) (Appendix Table 5).
+ Our independent review indicated that the evidence was of very low quality for both and was downgraded for imprecision (wide CIs and trivial treatment effects based on the lower bound of the 95% CI) and indirectness.
+ Eight small RCTs (&lt;300 events for dichotomous outcomes or &lt;400 participants for continuous outcomes) started at moderate quality and were all downgraded to very low quality due to imprecision and indirectness.Eight large cohort studies (Appendix Table 5), all on SSBs and health outcomes (such as type 2 diabetes and body weight), informed 3 recommendations across the Nordic, German, and Australian guidelines (14, 16, 18).
+ Evidence was considered very low quality for 6 studies (75%) (23–28) and low quality for 2 studies (25%) (29, 30).
+ Three studies were downgraded for indirectness (37.5%), and 2 were downgraded for imprecision (25%).
+ Two studies were rated up for a dose–response (25%) (29, 30).
+ Twenty-eight small cohort studies started at very low quality, and we did not rate up given their       imprecision and indirectness.Although a Dietary Guidelines Advisory Committee drafted an extensive scientific report (31) to inform the 2015–2020 Dietary Guidelines for Americans (6), the guidelines cited food pattern modeling and U.S. national caloric intake data from added sugars to inform recommendations.
+ We planned to use GRADE to evaluate the quality of the evidence used in the model components as well as the accuracy of the modeling procedure; however, these details were not publicly available, and we were unable to assess the quality of the evidence for the recommendations.The WHO guideline was the only one to use the GRADE approach (9).
+ The WHO conducted 2 systematic reviews, one of which included observational studies evaluating effects of free sugars on dental caries (assessed as moderate-quality by the WHO and graded up for large effect size) and the other including RCTs and observational studies evaluating effects of free sugars on body weight (assessed as moderate-quality by the WHO and downgraded for publication bias).
+ Similar discrepancies were found in 5 additional guidelines (Table 1).We independently reviewed the WHO evidence profiles and deemed the quality of evidence on sugars and body weight to be low (with additional downgrading for inconsistency).
+ We also reasoned that the evidence on sugar and dental caries was low (unlike WHO's rationale, we did not rate up for a large effect size).
+ The WHO issued a strong recommendation to reduce free sugars to less than 10% of daily caloric intake based on 5 cohort studies (1200 children) assessing the risk for dental caries and a weak recommendation to reduce free sugars to less than 5% of daily caloric intake based on 3 ecological studies on the risk for dental caries.DiscussionWe identified 9 PHGs containing 12 dietary sugar recommendations.
+ The quality of development of the guidelines (assessed using the AGREE II instrument) was moderate, with 3 of 6 AGREE II domains (rigor of development, applicability, and editorial independence) having major limitations.
+ Seven recommendations were qualitative, whereas 5 were quantitative, ranging from less than 5% to less than 25% of total calories from nonintrinsic sugars per day.
+ Optimal guidelines should be developed with increased rigor, and recommendations should be specific (population, exposure, comparator group, and outcomes critically important to the general public) and transparent (including explicit conflicts of interest and how the body of evidence was considered for developing each recommendation) and should follow GRADE guidance as intended (weak recommendations if the quality of evidence is low, with few exceptions [34]).A PubMed search for reviews of dietary sugar guidelines done within the past 5 years identified only 1 other review.
+ Although Hess and colleagues (2) reviewed dietary sugar recommendations around the world, the search was not systematic and the review did not assess the quality of the guidelines or the supporting evidence.
+ The authors concluded that no clear link exists between added sugar intake and health outcomes.The included guidelines examined the potential health effects of sugars and risk for dental caries, obesity, type 2 diabetes, and cardiovascular disease.
+ The WHO and SACN suggested that a strong correlation exists between overall free sugars and health outcomes (4, 5).
+ This project was funded by ILSI, an organization that is funded primarily by the food and agriculture industry.
+ The authors, having expertise in study methodology (particularly in the development of practice guidelines), wrote the protocol and conducted the study independent of the funding body.
+ However, given our funding source, our study team has a financial conflict of interest and readers should consider our results carefully.We initially sought to assess the quality of the evidence underlying the recommendations by using the Oxford Levels of Evidence, as indicated in our publicly available protocol.
+ Post hoc, we chose to use the GRADE approach, wherein a body of evidence is categorized using intuitive language (high, moderate, low, or very low quality) and each category is accompanied by an explicit definition.
+ In contrast, the Oxford Levels of Evidence uses numbers associated with specific study designs based on the traditional hierarchy of evidence.
+ We believe that the Oxford Levels of Evidence gives a false impression of the evidence (for example, a systematic review of RCTs rated as level 1 evidence despite potentially serious limitations when comprehensively assessed using the GRADE approach).
+ With GRADE methods, the evidence can be rated up or down on the basis of a set of criteria (such      as precision, risk of bias, and publication bias).
+ The criteria are applied using a systematic and explicit approach that includes extensive instructions and transparency with respect to the quality assessment.
+ We believe that the use of GRADE reduces the likelihood of mislabeling the overall certainty of evidence.Only 9 guidelines that explicitly reported their methods were included in this review.
+ Given our focused eligibility criteria, this was not a review of all available dietary sugar recommendations that may influence the beliefs and actions of the public, regulators, and health care practitioners.
+ For example, we identified 4 publications (35–38) containing dietary sugar recommendations written by influential organizations (American Academy of Pediatrics, European Food Safety Authority, American Heart Association, and India National Institute of Nutrition) that were excluded because they lacked a written methodology section.
+ We did not include these reports because a comprehensive understanding of the methods used to develop a PHG is essential to assessing the quality of the development of a guideline and the quality of evidence for recommendations.
+ We also excluded PHGs that were not published in      English.
+ Although our review included guidelines from around the world, it was not a comprehensive review of all potentially available guidelines.Our review also had several strengths.
+ A priori, we documented our eligibility criteria, objectives, and planned methods of analysis as publicly registered on PROSPERO (7).
+ We independently assessed the quality of development of dietary guidelines by using AGREE II and the certainty of evidence for sugar recommendations by using the GRADE framework, which has been endorsed by more than 90 health organizations worldwide (39).
+ Although the overall direction was consistent, the rationale and evidence used to make each recommendation were inconsistent.
+ Each of the quantitative sugar recommendations (except the WHO recommendation) was based on an estimate of how much sugar could be consumed while maintaining a “healthy diet.” For example, the Dietary Reference Intakes and the 2015–2020 Dietary Guidelines for Americans set limits of less than 25% and less than 10% of energy from added sugars, respectively (6, 13), based on diet modeling and intake data.
+ Similarly, the SACN recommendation was based on the desired energy reduction of 100 calories per day for effective population-wide weight loss.
+ An approximated 100 calories of free sugars was subtracted from the previous sugar recommendation to obtain this 100-calorie deficit, resulting in the      specified maximal intake of 5% of total energy from free sugars (5).
+ The method by which the Nordic Council of Ministers determined a limit of 10% of energy from added sugars was not explained in its PHG (14).
+ In contrast, the WHO used 5 cohort studies (moderate quality) and 3 ecological studies (very low quality) on the risk for dental caries to set the limit of intake of free sugars to below 10% and 5% of total energy intake (4).The quality of available evidence to link sugar with health outcomes was generally rated as low to very low.
+ The prevailing concerns with high sugar intake are directed toward excessive calorie consumption and nutrient displacement.
+ Sugar added to products adds considerable calories without any nutritional benefits and may take the place of other nutrient-dense foods in the diet.
+ From a practical standpoint, added sugars are a source of calories that many public health authorities believe can be easily reduced.
+ Doing so at a population level may result in a reduction in caloric intake and a subsequent decrease in the rate of overweight and obesity.
+ At present, there seems to be no reliable evidence indicating that any of the recommended daily caloric thresholds for sugar intake are strongly associated with negative health effects.
+ The results from this review should be used to promote improvement in the development of trustworthy guidelines on sugar intake (40).CorrectionDisclosures from 2 authors (Drs.
+ Johnston and Slavin) were explained in the Disclosures section of the article.
+ The role of the funding source, ILSI, was also clarified in the article and in the Financial Support section.References1.
+ Ruxton CH , 
+      Gardner EJ , and 
+      McNulty HM .
+ Is sugar consumption detrimental to health?
+ A review of the evidence 1995–2006.
+ Crit Rev Food Sci Nutr.
+ 2010;50:1-19.
+ [PMID: 20047137] doi:10.1080/10408390802248569 CrossrefMedlineGoogle Scholar2.
+ Hess J , 
+      Latulippe ME , 
+      Ayoob K , and 
+      Slavin J .
+ The confusing world of dietary sugars: definitions, intakes, food sources and international dietary recommendations.
+ Food Funct.
+ 2012;3:477-86.
+ [PMID: 22402777] doi:10.1039/c2fo10250a CrossrefMedlineGoogle Scholar3.
+ Erickson J  and 
+      Slavin J .
+ Total, added, and free sugars: are restrictive guidelines science-based or achievable?
+ Nutrients.
+ 2015;7:2866-78.
+ [PMID: 25884659] doi:10.3390/nu7042866 CrossrefMedlineGoogle Scholar4.
+ World Health Organization.
+ Guideline: Sugars Intake for Adults and Children.
+ Geneva World Health Organization 2015.
+ Google Scholar5.
+ Public Health England, Scientific Advisory Committee on Nutrition.
+ Carbohydrates and Health.
+ London Public Health England 2015.
+ Google Scholar6.
+ U.S. Department of Agriculture.
+ U.S. Department of Health and Human Services.
+ Dietary Guidelines for Americans, 2015–2020.
+ 8th ed.
+ Washington, DC US Gov Pr Off 2015.
+ Google Scholar7.
+ Sadeghirad B, Erickson J, Lytvyn L, Webber-Adams T, Slavin J, Johnston B.
+ Scientific basis for recommendations on sugars from authoritative health organizations: a systematic review of public health guidelines.
+ PROSPERO: CRD42015029182.
+ Google Scholar8.
+ AGREE Collaboration.
+ Development and validation of an international appraisal instrument for assessing the quality of clinical practice guidelines: the AGREE project.
+ Qual Saf Health Care.
+ 2003;12:18-23.
+ [PMID: 12571340] CrossrefMedlineGoogle Scholar9.
+ Guyatt GH , 
+      Oxman AD , 
+      Vist GE , 
+      Kunz R , 
+      Falck-Ytter Y , 
+      Alonso-Coello P , et al.
+ GRADE Working Group.
+ GRADE: an emerging consensus on rating quality of evidence and strength of recommendations.
+ BMJ.
+ 2008;336:924-6.
+ [PMID: 18436948] doi:10.1136/bmj.39489.470347.AD CrossrefMedlineGoogle Scholar10.
+ Cohen J .
+ Weighted kappa: nominal scale agreement with provision for scaled disagreement or partial credit.
+ Psychol Bull.
+ 1968;70:213-20.
+ [PMID: 19673146] CrossrefMedlineGoogle Scholar11.
+ Koch G .
+ Intraclass correlation coefficient..
+ In: Kotz S, Read C, Balakrishnan N, Vidakovic B, eds.
+ Encyclopedia of Statistical Sciences.
+ 4th ed.
+ New York J Wiley 1982 213-7.
+ Google Scholar12.
+ Kramer MS  and 
+      Feinstein AR .
+ Clinical biostatistics.
+ LIV.
+ The biostatistics of concordance.
+ Clin Pharmacol Ther.
+ 1981;29:111-23.
+ [PMID: 7460469] CrossrefMedlineGoogle Scholar13.
+ Institute of Medicine, Food and Nutrition Board.
+ Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein and Amino Acids.
+ Washington, DC National Academies Pr 2002.
+ Google Scholar14.
+ Nordic Council of Ministers.
+ Nordic Nutrition Recommendations 2012: Integrating Nutrition and Physical Activity.
+ Copenhagen Nordisk Ministerråd 2012.
+ Google Scholar15.
+ Ministry of Health of Brazil, Secretariat of Health Care, Primary Health Care Department.
+ Dietary Guidelines for the Brazilian Population.
+ Brasilia, DF, Brazil Ministry of Health of Brazil 2014.
+ Google Scholar16.
+ Hauner H , 
+      Bechthold A , 
+      Boeing H , 
+      Brönstrup A , 
+      Buyken A , 
+      Leschik-Bonnet E , et al.
+ German Nutrition Society.
+ Evidence-based guideline of the German Nutrition Society: carbohydrate intake and prevention of nutrition-related diseases.
+ Ann Nutr Metab.
+ 2012;60 Suppl 1:1-58.
+ [PMID: 22286913] doi:10.1159/000335326 CrossrefMedlineGoogle Scholar17.
+ Food Safety Authority of Ireland.
+ Scientific Recommendations for Healthy Eating Guidelines in Ireland.
+ Dublin Food Safety Authority of Ireland 2011.
+ Google Scholar18.
+ National Health and Medical Research Council.
+ Australian Dietary Guidelines.
+ Canberra: National Health and Medical Research Council; 2013.
+ Accessed at www.nhmrc.gov.au/guidelines-publications/n55 on 16 November 2016.
+ Google Scholar19.
+ Becker W .
+ Nordic Nutrition Recommendations 2004, based on scientific evidence.
+ Scandinavian Journal of Nutrition.
+ 2005;49:68-71.
+ CrossrefGoogle Scholar20.
+ Brouwers MC , 
+      Kho ME , 
+      Browman GP , 
+      Burgers JS , 
+      Cluzeau F , 
+      Feder G , et al.
+ AGREE Next Steps Consortium.
+ AGREE II: advancing guideline development, reporting and evaluation in health care.
+ CMAJ.
+ 2010;182:E839-42.
+ [PMID: 20603348] doi:10.1503/cmaj.090449 CrossrefMedlineGoogle Scholar21.
+ Chen L , 
+      Appel LJ , 
+      Loria C , 
+      Lin PH , 
+      Champagne CM , 
+      Elmer PJ , et al.
+ Reduction in consumption of sugar-sweetened beverages is associated with weight loss: the PREMIER trial.
+ Am J Clin Nutr.
+ 2009;89:1299-306.
+ [PMID: 19339405] doi:10.3945/ajcn.2008.27240 CrossrefMedlineGoogle Scholar22.
+ Sichieri R , 
+      PaulaTrotte A , 
+      de Souza RA , and 
+      Veiga GV .
+ School randomised trial on prevention of excessive weight gain by discouraging students from drinking sodas.
+ Public Health Nutr.
+ 2009;12:197-202.
+ [PMID: 18559131] doi:10.1017/S1368980008002644 CrossrefMedlineGoogle Scholar23.
+ Tucker KL , 
+      Morita K , 
+      Qiao N , 
+      Hannan MT , 
+      Cupples LA , and 
+      Kiel DP .
+ Colas, but not other carbonated beverages, are associated with low bone mineral density in older women: The Framingham Osteoporosis Study.
+ Am J Clin Nutr.
+ 2006;84:936-42.
+ [PMID: 17023723] CrossrefMedlineGoogle Scholar24.
+ Duffey KJ , 
+      Gordon-Larsen P , 
+      Steffen LM , 
+      Jacobs DR Jr , and 
+      Popkin BM .
+ Drinking caloric beverages increases the risk of adverse cardiometabolic outcomes in the Coronary Artery Risk Development in Young Adults (CARDIA) Study.
+ Am J Clin Nutr.
+ 2010;92:954-9.
+ [PMID: 20702604] doi:10.3945/ajcn.2010.29478 CrossrefMedlineGoogle Scholar25.
+ Cohen L , 
+      Curhan G , and 
+      Forman J .
+ Association of sweetened beverage intake with incident hypertension.
+ J Gen Intern Med.
+ 2012;27:1127-34.
+ [PMID: 22539069] doi:10.1007/s11606-012-2069-6 CrossrefMedlineGoogle Scholar26.
+ Nissinen K , 
+      Mikkilä V , 
+      Männistö S , 
+      Lahti-Koski M , 
+      Räsänen L , 
+      Viikari J , et al.
+ Sweets and sugar-sweetened soft drink intake in childhood in relation to adult BMI and overweight.
+ The Cardiovascular Risk in Young Finns Study.
+ Public Health Nutr.
+ 2009;12:2018-26.
+ [PMID: 19476678] doi:10.1017/S1368980009005849 CrossrefMedlineGoogle Scholar27.
+ Dhingra R , 
+      Sullivan L , 
+      Jacques PF , 
+      Wang TJ , 
+      Fox CS , 
+      Meigs JB , et al.
+ Soft drink consumption and risk of developing cardiometabolic risk factors and the metabolic syndrome in middle-aged adults in the community.
+ Circulation.
+ 2007;116:480-8.
+ [PMID: 17646581] CrossrefMedlineGoogle Scholar28.
+ Paynter NP , 
+      Yeh HC , 
+      Voutilainen S , 
+      Schmidt MI , 
+      Heiss G , 
+      Folsom AR , et al.
+ Coffee and sweetened beverage consumption and the risk of type 2 diabetes mellitus: the Atherosclerosis Risk in Communities Study.
+ Am J Epidemiol.
+ 2006;164:1075-84.
+ [PMID: 16982672] CrossrefMedlineGoogle Scholar29.
+ Palmer JR , 
+      Boggs DA , 
+      Krishnan S , 
+      Hu FB , 
+      Singer M , and 
+      Rosenberg L .
+ Sugar-sweetened beverages and incidence of type 2 diabetes mellitus in African American women.
+ Arch Intern Med.
+ 2008;168:1487-92.
+ [PMID: 18663160] doi:10.1001/archinte.168.14.1487 CrossrefMedlineGoogle Scholar30.
+ Schulze MB , 
+      Manson JE , 
+      Ludwig DS , 
+      Colditz GA , 
+      Stampfer MJ , 
+      Willett WC , et al.
+ Sugar-sweetened beverages, weight gain, and incidence of type 2 diabetes in young and middle-aged women.
+ JAMA.
+ 2004;292:927-34.
+ [PMID: 15328324] CrossrefMedlineGoogle Scholar31.
+ U.S. Department of Agriculture, U.S. Department of Health and Human Services.
+ Scientific Report of the 2015 Dietary Guidelines Advisory Committee.
+ 2015.
+ Google Scholar32.
+ Moynihan PJ  and 
+      Kelly SA .
+ Effect on caries of restricting sugars intake: systematic review to inform WHO guidelines.
+ J Dent Res.
+ 2014;93:8-18.
+ [PMID: 24323509] doi:10.1177/0022034513508954 CrossrefMedlineGoogle Scholar33.
+ Te Morenga L , 
+      Mallard S , and 
+      Mann J .
+ Dietary sugars and body weight: systematic review and meta-analyses of randomised controlled trials and cohort studies.
+ BMJ.
+ 2012;346:e7492.
+ [PMID: 23321486] doi:10.1136/bmj.e7492 CrossrefMedlineGoogle Scholar34.
+ Andrews JC , 
+      Schünemann HJ , 
+      Oxman AD , 
+      Pottie K , 
+      Meerpohl JJ , 
+      Coello PA , et al.
+ GRADE guidelines: 15.
+ Going from evidence to recommendation-determinants of a recommendation's direction and strength.
+ J Clin Epidemiol.
+ 2013;66:726-35.
+ [PMID: 23570745] doi:10.1016/j.jclinepi.2013.02.003 CrossrefMedlineGoogle Scholar35.
+ Council on School Health.
+ Snacks, sweetened beverages, added sugars, and schools.
+ Pediatrics.
+ 2015;135:575-83.
+ [PMID: 25713277] doi:10.1542/peds.2014-3902 CrossrefMedlineGoogle Scholar36.
+ EFSA Panel on Dietetic Products, Nutrition, and Allergies.
+ Scientific opinion on dietary reference values for carbohydrates and dietary fibre.
+ EFSA Journal.
+ 2010;8:1462.
+ Google Scholar37.
+ Johnson RK , 
+      Appel LJ , 
+      Brands M , 
+      Howard BV , 
+      Lefevre M , 
+      Lustig RH , et al.
+ American Heart Association Nutrition Committee of the Council on Nutrition, Physical Activity, and Metabolism and the Council on Epidemiology and Prevention.
+ Dietary sugars intake and cardiovascular health: a scientific statement from the American Heart Association.
+ Circulation.
+ 2009;120:1011-20.
+ [PMID: 19704096] doi:10.1161/CIRCULATIONAHA.109.192627 CrossrefMedlineGoogle Scholar38.
+ National Institute of Nutrition.
+ Dietary Guidelines for Indians: A Manual.
+ 2nd ed.
+ Hyderabad, India National Institute of Nutrition 2011.
+ Google Scholar39.
+ GRADE Working Group Web site.
+ Accessed at http://gradeworkinggroup.org on 19 October 2016.
+ Google Scholar40.
+ Greenfield S , 
+      Steinberg E , 
+      Auerbach A , 
+      Avorn J , 
+      Galvin R , 
+      Gibbons R , et al.
+ Clinical Practice Guidelines We Can Trust.
+ Washington, DC Institute of Medicine 2011.
+ Google Scholar41.
+ Forshee RA , 
+      Anderson PA , and 
+      Storey ML .
+ Sugar-sweetened beverages and body mass index in children and adolescents: a meta-analysis.
+ Am J Clin Nutr.
+ 2008;87:1662-71.
+ [PMID: 18541554] CrossrefMedlineGoogle Scholar42.
+ Gibson S .
+ Sugar-sweetened soft drinks and obesity: a systematic review of the evidence from observational studies and interventions.
+ Nutr Res Rev.
+ 2008;21:134-47.
+ [PMID: 19087367] doi:10.1017/S0954422408110976 CrossrefMedlineGoogle Scholar43.
+ Malik VS , 
+      Schulze MB , and 
+      Hu FB .
+ Intake of sugar-sweetened beverages and weight gain: a systematic review.
+ Am J Clin Nutr.
+ 2006;84:274-88.
+ [PMID: 16895873] CrossrefMedlineGoogle Scholar44.
+ Vartanian LR , 
+      Schwartz MB , and 
+      Brownell KD .
+ Effects of soft drink consumption on nutrition and health: a systematic review and meta-analysis.
+ Am J Public Health.
+ 2007;97:667-75.
+ [PMID: 17329656] CrossrefMedlineGoogle Scholar45.
+ Wolff E  and 
+      Dansinger ML .
+ Soft drinks and weight gain: how strong is the link?
+ Medscape J Med.
+ 2008;10:189.
+ [PMID: 18924641] MedlineGoogle Scholar46.
+ Anderson CA , 
+      Curzon ME , 
+      Van Loveren C , 
+      Tatsi C , and 
+      Duggal MS .
+ Sucrose and dental caries: a review of the evidence.
+ Obes Rev.
+ 2009;10 Suppl 1:41-54.
+ [PMID: 19207535] doi:10.1111/j.1467-789X.2008.00564.x CrossrefMedlineGoogle Scholar47.
+ Sonestedt E , 
+      Overby NC , 
+      Laaksonen DE , and 
+      Birgisdottir BE .
+ Does high sugar consumption exacerbate cardiometabolic risk factors and increase the risk of type 2 diabetes and cardiovascular disease?
+ Food Nutr Res.
+ 2012;56.
+ CrossrefMedlineGoogle Scholar48.
+ Zhang YH , 
+      An T , 
+      Zhang RC , 
+      Zhou Q , 
+      Huang Y , and 
+      Zhang J .
+ Very high fructose intake increases serum LDL-cholesterol and total cholesterol: a meta-analysis of controlled feeding trials.
+ J Nutr.
+ 2013;143:1391-8.
+ [PMID: 23825185] doi:10.3945/jn.113.175323 CrossrefMedlineGoogle Scholar49.
+ Malik VS , 
+      Popkin BM , 
+      Bray GA , 
+      Després JP , 
+      Willett WC , and 
+      Hu FB .
+ Sugar-sweetened beverages and risk of metabolic syndrome and type 2 diabetes: a meta-analysis.
+ Diabetes Care.
+ 2010;33:2477-83.
+ [PMID: 20693348] doi:10.2337/dc10-1079 CrossrefMedlineGoogle Scholar50.
+ Fogelholm M , 
+      Anderssen S , 
+      Gunnarsdottir I , and 
+      Lahti-Koski M .
+ Dietary macronutrients and food consumption as determinants of long-term weight change in adult populations: a systematic literature review.
+ Food Nutr Res.
+ 2012;56.
+ CrossrefGoogle Scholar51.
+ Burt BA  and 
+      Pai S .
+ Sugar consumption and caries risk: a systematic review.
+ J Dent Educ.
+ 2001;65:1017-23.
+ [PMID: 11699972] MedlineGoogle Scholar52.
+ Mattes RD , 
+      Shikany JM , 
+      Kaiser KA , and 
+      Allison DB .
+ Nutritively sweetened beverage consumption and body weight: a systematic review and meta-analysis of randomized experiments.
+ Obes Rev.
+ 2011;12:346-65.
+ [PMID: 20524996] doi:10.1111/j.1467-789X.2010.00755.x CrossrefMedlineGoogle Scholar53.
+ Nutritional Epidemiology Group, University of Leeds.
+ A systematic review of the evidence of the benefits and risks of different dietary carbohydrates on cardio-metabolic health and disease.
+ July 2012.
+ Accessed at www.nutritionsociety.org/sites/www.nutritionsociety.org/files/02%20-%20Cardiometabolic%20Health%20Report%20Introduction.pdf on 16 November 2016.
+ Google ScholarThis article was published at Annals.org on 20 December 2016.
+ * Ms. Erickson and Dr. Sadeghirad contributed equally to this work.
+ Our study was a systematic review of available public health guidelines on sugar intake aimed to assess the methodological quality of the guidelines, and the quality (certainty) of the evidence provided for their recommendations.
+ There is no disagreement that the overconsumption of calories, unhealthy eating habits, and the rise in sedentary lifestyles are the main drivers of the obesity epidemic in children and adults worldwide.
+ However, this issue is quite separate from the quality and trustworthiness of public health guidelines on sugar intake.
+ Our findings did not imply that increased sugar consumption is a good idea.
+ Instead, the message, which seemed to be largely dismissed, was that dietary guidelines need to be developed with a higher degree of rigor, including transparency with respect to the certainty of evidence for chosen sugar thresholds and health outcomes that are important to the public.
+ Dietary guidelines use large swaths of money from the public purse and guideline panels should be encouraged to follow the 2011 Institute of Medicine standards for trustworthy guidelines.
+ For example, Institute of Medicine standards state that guideline recommendations should be based on systematic reviews of the literature and guidelines should closely manage intellectual and financial conflicts of interest.
+ We agree that it is often difficult to conduct randomized trials to address public health nutrition questions (2, 3).
+ We also agree that public health officials may have limited quality evidence (e.g.
+ observational studies, diet modeling) to make recommendations.
+ By adopting the GRADE methodology as intended, including overall risk of bias, imprecision, inconsistency among primary studies, indirectness to the research question, and likelihood of publication bias, it is possible to overcome the problems with existing guidelines that rely largely on low quality evidence and discordantly produce strong recommendations (4).
+ As for the 2015 – 2020 Dietary Guidelines for Americans (5), although an extensive scientific report (6) was published, the guideline cited food pattern modeling and U.S. national caloric intake data from added sugars to inform their recommendations.
+ As we previously indicated in our publication, we intended to evaluate the certainty of the evidence used in the model components as well as the accuracy of the modeling procedure; however, these details were not publicly available.
+ References 1.
+ Erickson J, Sadeghirad B, Lytvyn L, Slavin J, Johnston BC.
+ The Scientific Basis of Guideline Recommendations on Sugar Intake: A Systematic Review.
+ Ann Intern Med.
+ 2017;166(4):257-67.
+ 2.
+ Moher D, Tricco AC.
+ Issues related to the conduct of systematic reviews: a focus on the nutrition field.
+ Am J Clin Nutr.
+ 2008;88.
+ 3.
+ Salam RA, Welch V, Bhutta ZA.
+ Systematic reviews on selected nutrition interventions: descriptive assessment of conduct and methodological challenges.
+ BMC Nutrition.
+ 2015;1:9.
+ 4.
+ Alexander PE, Brito JP, Neumann I, Gionfriddo MR, Bero L, Djulbegovic B, et al.
+ World Health Organization strong recommendations based on low-quality evidence (study quality) are frequent and often inconsistent with GRADE guidance.
+ J Clin Epidemiol.
+ 2016;72:98-106.
+ 5.
+ U.S. Department of Agriculture.
+ Dietary Guidelines for Americans, 2015-2020.
+ 8th ed.
+ Washington, DC: US Gov Pr Off: U.S. Department of Health and Human Services; 2015.
+ 6.
+ U.S. Department of Agriculture.
+ Scientific Report of the 2015 Dietary Guidelines Advisory Committee.
+ U.S. Department of Health and Human Services; 2015.
+ Alain Braillon MD, PhD University Hospital.
+ 80000 Amiens, France28 December 2016 Response My network emailed me the devastating NYT article (http://www.nytimes.com/2016/12/19/well/eat/a-food-industry-study-tries-to-discredit-advice-about-sugar.html) shaming the Journal for its publication about recommendations on sugar intake.
+ (1) At first glance I hardly understood how the Journal published a piece funded by the food and agriculture industry because as a tobacco control advocate I was very happy when several journals banned studies funded by the tobacco industry.
+ However, if industry funded research should be banned, the first should be the pharmaceutical industry, considering its top ranking among the False Claim Act defrauders.
+ (2) However, banning is anti-science, debate is a prerequisite for science and restricting free speech is a very slippery slope.Erickson et al concluded: “Guidelines on dietary sugar do not meet criteria for trustworthy recommendations and are based on low-quality evidence.”(1) Despite I cannot (time and expertise) review their work, I’ll trust them.
+ First, considering studies such as the huge European Prospective Investigation into Cancer and Nutrition (519,978 men and women in 10 European countries between 1992-2000) the robustness is not obvious.
+ Tortures of the data by statistical analyses seem worse that in Guantanamo and the clinical relevance of findings remains to be assessed: investigators refused to indicate the number needed to treat (ie, diet with the highest quartile of consumption of leafy vegetables) during 8 y to avoid one death from myocardial infarction.
+ (3)Second, the production of guidelines has reached epidemic proportions and too many seems unnecessary or conflicted.
+ Eg.
+ WHO clinical practice guidelines have been characterized by strong recommendations based on low or very low confidence estimates for evidence.
+ (4) Last, readers who are experts in the field can send comments.
+ The International Committee of Medical Journal Editors (ICMJE) recommends “Responsible debate, critique and disagreement are important features of science, and journal editors should encourage such discourse ….”(http://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/correspondence.html) The Journal implements this recommendation, whether critical or favourable.
+ The editorial board even accepts to be seriously tackled.
+ (5) I am only uncomfortable with the paragraph about limitations: " The authors conducted the study independent of the funding source, which is primarily supported by the food and agriculture industry.
+ "(1) “Believed having conducted” or “tried to conduct” would be more correct.
+ However, no shame.
+ The limitation is on the abstract and cannot be missed.
+ This is so rare.
+ Abstracts should mention conflicts of interest.
+ The Journal is a beacon for highlighting the potential conflict of interest in the abstract.
+ ICMJE could consider this as a new recommendation.1 Erickson J, Sadeghirad B, Lytvyn L, Slavin J, Johnston BC.
+ The scientific basis of guideline recommendations on sugar intake: A systematic review.
+ Ann Intern Med 2016 Dec 20. doi: 10.7326/M16-2020.
+ 2 Braillon A.
+ Drug industry is now biggest defrauder of US government.
+ BMJ 2012;344:d8219.
+ 3 Braillon A. European Prospective Investigation into Cancer and Nutrition (EPIC): methods and clinical relevance.
+ Am J Clin Nutr 2011;93:1386-7;4 Alexander PE, Brito JP, Neumann I et al.
+ World Health Organization strong recommendations based on low-quality evidence (study quality) are frequent and often inconsistent with GRADE guidance.
+ J Clin Epidemiol 2016;72:98-106.5 Braillon A.
+ Moderate alcohol intake and cardiometabolic risk in adults with type 2 diabetes.
+ Ann Intern Med 2016 ;165:68.
+ Charles Norman ScholfieldNaresuan University6 February 2017 Should promote the sugar interests  Since the study is based mainly on government reports, the AGREE II tool is not an appropriate metric to assess quality of the studies.
+ Although many of the problems with this paper are given in the Editorial, this is not a free download while the offending article is free.
+ Since the article is likely to interest many non-experts, they have no access to a balanced judgement.
+ This is irresponsible publishing   James RechtClinical Asst.
+ ILSI is widely recognized as a corrupt front for the sugared beverage and other less-than-health-promoting industries.
+ Enough!
+ C. Albert Yeung, MPhil, MPH, MMedSciNational Health Service Lanarkshire, Bothwell, Scotland3 January 2017 Sugar Guidelines: Who to believe?
+ What to believe?
+ The systematic review by Erickson et al.
+ (1) challenged recommendations by public health officials for people to cut sugar consumption; saying there was no clear link between consumption of added sugars and health effects.The researchers said that the 2015-2020 Dietary Guidelines for Americans (2) did not cite any previously published studies as evidence for its recommendations.
+ However, an extensive appendix (3) has been posted on the U.S. Department of Health and Human Services website.
+ A 500-page supplementary report (4) was also published.While the methodology of the review is sound, the authors failed to point out when it comes to diet and the impact on health that high-quality evidence has been difficult to find.
+ The gold standard of evidence-based medicine, i.e.
+ randomized controlled trials, are impractical to carry out on large population groups for long periods of time.
+ Public health officials have to work with the available evidence.It is important to consider the validity of the process for developing guidelines separately from the validity of the science linking increased sugar intake with health outcomes.
+ However, it should not be taken as an implication that there is a body of high-quality evidence that contradicts the guidelines.References1.
+ Erickson J, Sadeghirad B, Lytvyn L, Slavin J, Johnston BC.
+ The scientific basis of guideline recommendations on sugar intake.
+ A systematic review.
+ Ann Intern Med.2016 Dec 20.
+ [Epub ahead of print] [PMID: 27992898] doi:10.7236/M16-20202.
+ U.S. Department of Health and Human Services, U.S. Department of Agriculture.
+ 2015-2020 Dietary Guidelines for Americans.
+ 8th Edition.
+ December 2015.
+ Accessed at http://health.gov/dietaryguidelines/2015/guidelines on 3 January 2017.3.
+ U.S. Department of Health and Human Services.
+ 2015 Dietary Guidelines Advisory Report.
+ Accessed at https://health.gov/dietaryguidelines/2015-scientific-report on 3 January 2017.4.
+ U.S. Department of Agriculture.
+ A series of systematic reviews on the relationship between dietary patterns and health outcomes.
+ March 2014.
+ Accessed at http://www.nel.gov/vault/2440/web/files/DietaryPatterns/DPRptFullFinal.pdf on 3 January 2017.
+ Stephen Strum, MDAmerican Board of Internal Medicine20 December 2016 "Scientific Basis" Re Guidelines on Sugar Intake.
+ Reading the entire article Erickson et al was certainly frustrating if the goal in reading any article is to apply the findings to one's clinical practice.
+ It's obvious to anyone's observations that in the USA &amp; increasingly abroad, the population is growing in girth.
+ Individuals with a BMI of ≤ 25 have become rarities.
+ We are amidst an epidemic of over-consumption of calories with excessive high-glycemic carbohydrate consumption a major part of this problem coupled with more sedentary lifestyles.
+ Taking a dietary history of my overweight-obese patients routinely indicates that for a majority, breakfast alone, involves the consumption of over 100 grams of high glycemic carbs.
+ If one were to take a "one size fits all" approach and assume that the typical American eats 3,000 calories a day, then the guideline of &lt; 10% of calories as "added sugars" would amount to 75 grams for the entire day.
+ This amount is frequently exceeded with the typical American breakfast when high-glycemic sugars are considered.
+ It's these carbs that result in prolonged blood glucose levels with glycosylation of protein and lipids over time and the resultant damage to all major systems.
+ What is the value of this review by Ericsson et al when the harsh reality the physician sees with such patients is that they do not assess their caloric intake per meal nor their ingestion of high-glycemic carbohydrates (be they "added" or "intrinsic").
+ Frankly, I do not care about guidelines when they miss the mark insofar as informing either the patient or the physician how I can assess a situation and derive a strategy to alter a particular medical reality.
+ Furthermore, when such guidelines are supported by the food &amp; beverage industry, I wonder why bother to accept such a publication that simply adds another article to the peer-reviewed literature that contributes little to nothing about guiding the "consumer" and physician to improved health.
+ Major parts of the global community over consume, work their bodies less, eat unhealthy "food" while other societies are starving.
+ These are the issues I wish we would focus on and not the pseudoscience or junk science that is the "pablum" being increasingly fed to physicians and patients.
+ Johnston and Slavin take full responsibility for the work as a whole, including the study design, access to data, and the decision to submit and publish the manuscript.Acknowledgment: The authors thank Tamsin Adams-Webber, clinical librarian, for helping to develop our search strategy and Gordon Guyatt, GRADE Working Group Co-Chair, for advice on applying the GRADE methods and for reviewing the manuscript.Financial Support: This project was funded by the Technical Committee on Dietary Carbohydrates of ILSI North America.
+ The authors wrote the protocol, the scope of which was reviewed and approved by ILSI; and conducted the study independently from ILSI.Disclosures: Dr. Slavin served on the 2010 Dietary Guidelines for Americans Advisory Committee (DGAC) where she chaired the carbohydrate committee that reviewed the relationships between added sugar intake and health outcomes.
+ The results of that review were published in the 2010 DGACs, in Nutrition Reviews (Slavin J.
+ Beverages and body weight: challenges in the evidence-based review process of the Carbohydrate Subcommittee from the 2010 Dietary Guidelines Advisory Committee.
+ Nutr Rev.
+ 2012;70 Suppl 2:S111-20.).
+ She has presented widely on her work as chair of the carbohydrate and protein committees for the 2010 DGAC.
+ Most of her research is in the areas of dietary fiber and gut health.
+ As a dietitian, she is interested in dietary patterns and whole foods.
+ Her research funding in the area of dietary sugars is summarized below.
+ She received a grant from ILSI-NA Carbohydrate Committee in 2010 to examine sugar recommendations.
+ That work was       published in 2012 (Hess J, Latulippe ME, Ayoob K, Slavin J.
+ The confusing world of dietary sugars: definitions, intakes, food sources and international dietary recommendations.
+ Food Funct.
+ 2012;3:477-86.).
+ One of the co-authors of that paper was an employee of ILSI-NA at the time.
+ That information is disclosed in the paper.
+ Dr. Slavin and the University of Minnesota received the grant from ILSI-NA to support the current project.
+ Her laboratory also has received contracts for services for analytical services in the areas of dietary fiber, whole grains, legumes, FODMAPS, digestive health, protein needs, carbohydrate needs, and snacking: Besides the companies listed, the laboratory has received funds in the past 3 years from Danone (snacking) and Coca-Cola (fiber).
+ When the work is published, the funding source for all work in the laboratory will be disclosed as outlined by the journal.
+ Dr. Slavin speaks widely on a range of human nutrition topics.
+ Some talks on the topic of interest in this paper: "Fluid Consumption: Caloric Contribution to Weight Gain/Loss and Health: Factors That Influence Satiety" (Second International Conference on hydration and Health, sponsored by the ILSI North America Committee on Hydration, November 2011); "The Confusing World of Dietary Sugars: Views From the 2010 Dietary Guidelines Scientific Advisory Committee" (2012 Nutrition News Forecast,       Academy of Nutrition and Dietetics, April 2012); "Food Is Not a Talisman: Reflections on the Science and Practice of Nutrition" (WO Atwater Lecture at Experimental Biology, April 2015).
+ For full financial disclosure: ILSI meetings do not pay speakers; other scientific meetings also typically do not pay speakers if you are a member of that society.
+ Dr. Slavin serves on the scientific advisory board for Tate and Lyle, Kerry Ingredients, Atkins Nutritionals, and Midwest Dairy Association.
+ She also owns one-third share of the Slavin Sisters Farm LLC, a 119-acre farm in Walworth, Wisconsin, that is currently rented.
+ Crops in 2016 included corn, soybeans, and pumpkins.
+ Dr. Johnston is a member of GRADE, a working group that has developed a common, sensible, and transparent approach to grading quality of evidence and strength of recommendations.
+ In addition to being a methods consultant to ILSI for this project, over the last 5 years, he has held investigator-initiated       grants unrelated to the topic of sugar from BioK+ (a probiotic manufacturer), Genzyme (a manufacturer of enzyme replacement therapy for patients with rare lysosomal storage diseases), and a joint grant funded by Nestle and MITACS Accelerate (a provincially and federally supported not-for-profit organization that works with Canadian universities and companies to build partnerships that support industrial and social innovation in Canada) to assess probiotics for preventing necrotizing enterocolitis.
+ Authors not named here have disclosed no conflicts of interest.
+ Darren B. Taichman, MD, PhD, Executive Deputy Editor, reports that he has no financial relationships or interests to disclose.
+ Cynthia D. Mulrow, MD, MSc, Senior Deputy Editor, reports that she has no relationships or interests to disclose.
+ Deborah Cotton, MD, MPH, Deputy Editor, reports that she has no financial relationships or interest to disclose.
+ Jaya K. Rao, MD, MHS, Deputy Editor, reports that she has stock holdings/options in Eli Lilly and Pfizer.
+ Sankey V. Williams, MD, Deputy Editor, reports that he has no financial relationships or interests to disclose.
+ Statistical code: Not applicable.
+ Data set: See tables and appendices for all relevant data.Corresponding Author: Bradley C. Johnston, PhD, Prevention Lab, Child Health Evaluative Sciences, The Hospital for Sick Children Research Institute, Peter Gilgan Centre for Research and Learning, 686 Bay Street, Room 11.9859 West, Toronto, Ontario M5G 0A4, Canada; e-mail, [email protected].Current Author Addresses: Ms. Erickson and Dr. Slavin: Department of Food Science and Nutrition, University of Minnesota, 1334 Eckles Avenue, St. Paul, MN 55108.Dr.
+ Sadeghirad: Department of Clinical Epidemiology &amp; Biostatistics, McMaster University, 1280 Main Street West, Hamilton, Ontario L8S 4K1, Canada.Ms.
+ Lytvyn and Dr. Johnston: Child Health Evaluative Sciences, The Hospital for Sick Children Research Institute, Peter Gilgan Centre for Research and Learning, 686 Bay Street, Room 11.9859 West, Toronto, Ontario M5G 0A4, Canada.Author Contributions: Conception and design: L. Lytvyn, J. Slavin, B.C.
+ Johnston.Analysis and interpretation of the data: J. Erickson, B. Sadeghirad, L. Lytvyn, J. Slavin, B.C.
+ Johnston.Drafting of the article: J. Erickson, B. Sadeghirad, L. Lytvyn, B.C.
+ Johnston.Critical revision of the article for important intellectual content: J. Erickson, B. Sadeghirad, L. Lytvyn, J. Slavin, B.C.
+ Johnston.Final approval of the article: J. Erickson, B. Sadeghirad, L. Lytvyn, J. Slavin, B.C.
+ Johnston.Provision of study materials or patients: J. Slavin, B.C.
+ Johnston.Statistical expertise: B. Sadeghirad.Obtaining of funding: J. Slavin, B.C.
+ Johnston.Administrative, technical, or logistic support: L. Lytvyn, J. Slavin, B.C.
+ Johnston.Collection and assembly of data: J. Erickson, B. Sadeghirad, L. Lytvyn, B.C.
+ Johnston.
+ Dean Schillinger  and  Cristin Kearns The Scientific Basis of Guideline Recommendations on Sugar Intake C. Albert Yeung The Scientific Basis of Guideline Recommendations on Sugar Intake Stephen Strum The Scientific Basis of Guideline Recommendations on Sugar Intake Behnam Sadeghirad  and  Bradley C. Johnston   Cited ByHealth-Related Values and Preferences Regarding Meat ConsumptionA Mixed-Methods Systematic ReviewClaudia Valli, MSc, Montserrat Rabassa, PhD, Bradley C. Johnston, PhD, Ruben Kuijpers, MSc, Anna Prokop-Dorner, PhD, Joanna Zajac, PhD, Dawid Storman, MD, Monika Storman, MD, Malgorzata M. Bala, MD, PhD, Ivan Solà, MSc, Dena Zeraatkar, MSc, Mi Ah Han, MD, PhD, Robin W.M.
+ Vernooij, PhD, Gordon H. Guyatt, MD, Pablo Alonso-Coello, MD, PhD, The Scientific Basis of Guideline Recommendations on Sugar IntakeC.
+ Comments are moderated.Name (if multiple authors, separate names by comma)Name field is requiredComment TitleTitle field is requiredAffiliation &amp; Institution (max characters: 200)Affiliations field is requiredCommentComment field is requiredPlease disclose any conflicts of interest or leave the box unchecked if you have noneDisclosure of Any Conflicts of InterestCancelSubmit     Back to top           ACP Journals home    Annals of Internal Medicine Print ISSN: 0003-4819 | Online ISSN: 1539-3704  Latest Issues CME/MOC In the Clinic Journal Club Multimedia Information for Readers Subscribe/Renew Submit Authors  About Personae (Cover Photo) Junior Investigator Awards Poetry Prize       ACP Journal Club Archives Print ISSN: 1056-8751 | Online ISSN: 1539-8560  Issues About       RESOURCES  Patient Information Annals in the News Career Connection     INFORMATION FOR  Reviewers Press  Institutions / Libraries / Agencies Advertisers     SERVICES  Reprints &amp; Permissions Contact Us Help Alerts     Copyright © 2020 American College of Physicians.
+ All Rights Reserved.
+ conditions of usePRIVACY POLICY

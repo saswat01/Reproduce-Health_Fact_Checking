@@ -1,0 +1,8 @@
+https://doi.org/10.1200/JCO.2017.76.5966                             Abstract                                 Full Text                         PDF                        Figures and Tables                         Supplements                 AbstractSection:ChooseTop of pageAbstract 6 months from last carboplatin-paclitaxel was required.
+ Patients with recurrent disease may not have received more than three prior chemotherapies.
+ Patients with recurrent disease who achieved a response with an acceptable level of toxicity were permitted to continue treatment with their assigned chemotherapy regimen beyond six cycles after discussion with the study chair.
+ Patients who had received prior doxorubicin or its liposomal encapsulated preparation may not have had ≥ 320 mg/m2 total dose and must have demonstrated a normal left ventricular ejection fraction (ie, ≥ 45%).
+ Granulocyte colony-stimulating factors or erythropoietin were allowed only in the event of persistent neutropenia or anemia.
+ Detailed inclusion criteria and the schemata for treatment modification are provided in the full protocol (Data Supplement).End PointsThe primary study end point was PFS, defined as length of time from random assignment to disease recurrence, disease progression, or death for any reason.
+ Secondary objectives included objective response rate, overall survival (OS), and safety of trastuzumab in patients with USC.
+ PFS was visualized as Kaplan-Meier curves both overall and stratified by disease status and assessed for improvement with trastuzumab using one-sided log rank tests.

@@ -1,0 +1,662 @@
+Forgot your password?
+ Enter your email address below and we will send you the reset instructions     Email*      Cancel    If the address matches an existing account you will receive an email with instructions to reset your password.
+ Close        Request Username  Can't sign in?
+ Forgot your username?
+ Enter your email address below and we will send you your username     Email*       Close    If the address matches an existing account you will receive an email with instructions to retrieve your username        Change Password      Old Password       New Password     Too Short Weak Medium Strong Very Strong Too Long      Password Changed Successfully Your password has been changed       Verify Phone     Enter the verification code      Cancel    Congrats!
+ )Search for more papers by this author, Kristijan Skok, MDHospital Graz II, Academic Teaching Hospital of the Medical University of Graz, Graz, Austria (K.S., P.Z., N.K., C.K., U.B.
+ )Search for more papers by this author, Peter Zechner, MDHospital Graz II, Academic Teaching Hospital of the Medical University of Graz, Graz, Austria (K.S., P.Z., N.K., C.K., U.B.
+ )Search for more papers by this author, Harald H. Kessler, MD, PhDDiagnostic &amp; Research Institute of Hygiene, Microbiology and Environmental Medicine, Medical University of Graz, Graz, Austria (H.H.K.
+ )Search for more papers by this author, Norbert Kaufmann, MDHospital Graz II, Academic Teaching Hospital of the Medical University of Graz, Graz, Austria (K.S., P.Z., N.K., C.K., U.B.
+ )Search for more papers by this author, Camillo Koelblinger, MDHospital Graz II, Academic Teaching Hospital of the Medical University of Graz, Graz, Austria (K.S., P.Z., N.K., C.K., U.B.
+ )Search for more papers by this author, Klaus Vander, MDInstitute of Hospital Hygiene and Microbiology, Styrian Hospital Corporation, Graz, Austria (K.V.
+ )Search for more papers by this author, Ute Bargfrieder, MDHospital Graz II, Academic Teaching Hospital of the Medical University of Graz, Graz, Austria (K.S., P.Z., N.K., C.K., U.B.
+ )Search for more papers by this author, Michael Trauner, MD, PhDMedical University of Vienna, Vienna, Austria (M.T.
+ )Search for more papers by this authorAuthor, Article and Disclosure Informationhttps://doi.org/10.7326/M20-2566 Eligible for CME Point-of-Care         SectionsAboutVisual AbstractAbstractPDF ToolsAdd to favoritesDownload CitationsTrack CitationsPermissions  ShareFacebookTwitterLinked InRedditEmail AbstractBackground:Coronavirus disease 2019 (COVID-19) caused by the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has rapidly become pandemic, with substantial mortality.Objective:To evaluate the pathologic changes of organ systems and the clinicopathologic basis for severe and fatal outcomes.Design:Prospective autopsy study.Setting:Single pathology department.Participants:11 deceased patients with COVID-19 (10 of whom were selected at random for autopsy).Measurements:Systematic macroscopic, histopathologic, and viral analysis (SARS-CoV-2 on real-time polymerase chain reaction assay), with correlation of pathologic and clinical features, including comorbidities, comedication, and laboratory values.Results:Patients' age ranged from 66 to 91 years (mean, 80.5 years; 8 men, 3 women).
+ Ten of the 11 patients received prophylactic anticoagulant therapy; venous thromboembolism was not clinically suspected antemortem in any of the patients.
+ Kupffer cell proliferation was seen in all patients, and chronic hepatic congestion in 8 patients.
+ Other changes in the liver included hepatic steatosis, portal fibrosis, lymphocytic infiltrates and ductular proliferation, lobular cholestasis, and acute liver cell necrosis, together with central vein thrombosis.
+ Additional frequent findings included renal proximal tubular injury, focal pancreatitis,      adrenocortical hyperplasia, and lymphocyte depletion of spleen and lymph nodes.
+ Viral RNA was detectable in pharyngeal, bronchial, and colonic mucosa but not bile.Limitation:The sample was small.Conclusion:COVID-19 predominantly involves the lungs, causing DAD and leading to acute respiratory insufficiency.
+ Death may be caused by the thrombosis observed in segmental and subsegmental pulmonary arterial vessels despite the use of prophylactic anticoagulation.
+ Studies are needed to further understand the thrombotic complications of COVID-19, together with the roles for strict thrombosis prophylaxis, laboratory and imaging studies, and early anticoagulant therapy for suspected pulmonary arterial thrombosis or thromboembolism.Primary Funding Source:None.The pandemic spread of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causing coronavirus disease 2019 (COVID-19) has, within a few months, led to a global health and economic crisis (1–3).
+ COVID-19 is usually characterized by symptoms of acute respiratory infection, such as fever, headache, dry cough, and shortness of breath, but may show further symptoms involving the gastrointestinal tract (gastroenteritis-like, with vomiting and diarrhea, or a hepatitis-like picture) and the central nervous system (most notably anosmia) (4–8).
+ Only a small subset of infected individuals becomes severely ill, requiring intensive care and with risk for death, but this number may increase dramatically through the high transmission rate of the virus (8–10).
+ Although advanced age      and certain comorbid conditions, such as diabetes mellitus and cardiovascular diseases, have been identified as risk factors for adverse outcome and death, the individual clinical course can be highly unpredictable and dynamic, with rapid deterioration of the respiratory and hemodynamic condition (10–14).So far, very little is known about the pathologic findings underlying the clinical presentation of severe COVID-19.
+ Only a few reports on surgical specimens and autopsy cases have been published over the past few months, and detailed information is still limited (15–17) and was in part obtained by postmortem core biopsies (18, 19).
+ More insights from autopsies have become available from the 2003 SARS-CoV-1 epidemic, showing that patients with fatal outcome predominantly had diffuse alveolar damage (DAD) characterized by edema, hyaline membranes, and proliferation of pneumocytes and fibroblasts (20).
+ Nevertheless, the pattern of organ damage caused by SARS-CoV-2 and occurring in patients with COVID-19 is still incompletely understood.
+ In light of the currently limited options for effective antiviral treatment, it may be      critical to better understand the morphologic basis for severe and fatal COVID-19 outcomes (21).The aim of this detailed autopsy study was to unravel the clinicopathologic basis for adverse outcomes in patients with a fatal course of COVID-19 by evaluating the gross and microscopic findings in correlation with their clinical phenotypes.
+ We used a prospectively designed systematic approach to perform the autopsies and to study organ changes macro- and microscopically and relate them to key clinical features.
+ Moreover, we provide a comprehensive and systematic clinicopathologic evaluation of key multiorgan involvement and failure in COVID-19.MethodsCase Selection and Autopsy MaterialThe study was prospectively designed, and all autopsies on patients with COVID-19 in our hospital were done according to the same protocol.The Hospital Graz II is the second largest public and academic teaching hospital in the region of Styria, Austria (1.2 million inhabitants), and was designated the COVID-19 center of the region at the beginning of the outbreak of the pandemic.
+ From 28 February to 14 April 2020, 242 patients with COVID-19 were treated in our hospital, of whom 48 died.
+ Autopsy was performed in 11 of the 48 deceased patients (23%), of whom 10 were selected at random; in 1 case, the treating intensive care specialist requested autopsy.
+ The number of patients randomly selected for autopsy was influenced by the daily number of deceased patients, together with our infrastructural, time, and personnel constraints.
+ There were no medical exclusion criteria.
+ According to federal Austrian hospital law, an autopsy in a public hospital is mandatory without requirement of an informed consent by the relatives when the cause of death is unclear, scientific or public interest is present, or health       authorities or a court order the autopsy.
+ Nevertheless, religious reasons or an explicit wish from the patients' relatives to abstain from autopsy would be respected, if possible.
+ In this study, autopsy was performed in accordance with the law owing to the unknown cause of death, and to both scientific and public interest in a novel disease.
+ No informed consent was obtained from the families.
+ All performed procedures and investigations were in accordance with the ethical standards of the institutional research committee and with the 1964 Declaration of Helsinki and its later amendments.All patients fulfilled the World Health Organization criteria for COVID-19 (www.who.int) and presented with fever and acute respiratory symptoms, including cough, dyspnea, and hypoxia on pulse oximetry.
+ All tested positive for SARS-CoV-2 RNA by polymerase chain reaction (PCR) assay either before or at admission to our hospital.
+ The clinical information was retrieved from the electronic files of the hospital information system (MEDOCS) of the Styrian hospital corporation and was carefully reviewed by 2 of the treating specialists for internal medicine.Swabs were collected by using the Copan ESwab collection system containing 1 mL of transport medium.
+ Samples were tested for SARS-CoV-2 RNA at the Molecular Diagnostics Laboratory, Medical University of Graz, within 12 hours of arrival.
+ Presence of SARS-CoV-2 RNA was determined by real-time PCR using the in vitro diagnostics/Conformité Européenne–labeled Cobas SARS-CoV-2 Test (Roche) for use on the Cobas 6800/8800 Systems (Roche Molecular Diagnostics) (22, 23).
+ Selective amplification of target nucleic acid from the sample was achieved by the use of target-specific forward and reverse primers for ORF1a/b nonstructural region that is unique to SARS-CoV-2.
+ In addition, a conserved region in the structural protein envelope E-gene was chosen for pan-Sarbecovirus detection.
+ The pan-Sarbecovirus detection sets also detect SARS-CoV-2 virus.Autopsy ProcedureTo reduce the probability of transmission of active virus, the autopsies were performed at earliest 48 hours after death.
+ For the autopsies, we used protective measures similar to those used when caring for our patients with COVID-19, according to World Health Organization guidelines (https://app.who.int).
+ The same team carried out all autopsies.
+ The autopsy procedure was consistent for all cases and consisted of removal of the thoracic situs and a modified in situ technique for the abdominal situs.
+ The brain was dissected in only 1 patient, in whom a cerebral insult was suspected.
+ During the autopsy, swabs for SARS-CoV-2 RNA testing were taken from the pharynx and both lungs (bronchial system) as well as the gallbladder and the colon.Tissue Processing for Histopathologic ExaminationThe lungs in total and tissue samples from other organs (heart, kidneys, liver, pancreas, spleen, thyroid, submandibular glands, adrenals, gallbladder, small and large intestine) were fixed in 4% buffered formalin for histopathologic examination.
+ After fixation, the lungs were dissected systematically from the apex to the basis and multiple samples were processed for histopathologic examination (hematoxylin and eosin and special stains).
+ Immunohistochemistry was performed on a Ventana BenchMark Ultra system.Role of the Funding SourceThe study did not receive funding.ResultsClinical FindingsKey clinical findings are summarized in Table 1.
+ The age of the patients undergoing autopsy ranged from 66 to 91 years (median, 81 years; mean, 80.5 years); 8 patients were male, and 3 were female.
+ The duration of COVID-19 disease ranged from 4 to 18 days (mean, 8.5 days).
+ Among coexisting diseases, arterial hypertension (9 patients) and type 2 diabetes mellitus (5 patients) were most common, followed by cerebrovascular disease (history of ischemic stroke in 4 patients) and dementia (4 patients).
+ Chronic obstructive pulmonary disease (COPD), coronary heart disease, history of malignant disease (Hodgkin lymphoma and transitional cell carcinoma of the urinary bladder) were also present; 1 patient had a history of pulmonary embolism.
+ Body mass index (BMI) could only be assessed in 3 of the 11 patients, but nutritional status was routinely assessed during the inspection of the corpse before the autopsy.
+ Two patients were considered obese,       of whom 1 had a BMI of 33 kg/m2; the other 9 were considered in good nutritional status, 2 of whom had a BMI of 27 kg/m2 and 30 kg/m2.Table 1.
+ Clinical and Laboratory CharacteristicsOf the whole group of 48 deceased patients (all of whom were white), 30 were male and 18 female, with a mean age of 81.75 years (range, 66 to 94 years); 14 had a history of a cerebrovascular stroke, 14 had coronary artery disease, 21 had a history of diabetes, 36 had arterial hypertension, 11 had chronic respiratory diseases (COPD), 7 had pulmonary embolism, and 12 had a history of previous malignant diseases.Because of severe comorbidities, 2 of the patients were treated in the intensive care unit, including invasive mechanical ventilation; the others were treated in a dedicated hospital ward for infectious diseases, where they received oxygen and nasal high-flow therapy using the AIRVO 2 system (Fisher &amp; Paykel Healthcare Systems).
+ The selection of patients for intensive care was discussed daily by an institutional review board, including 2 intensivists and the attending physician of the special ward.Clinical laboratory data after admission are shown in Table 1.
+ Frequent findings were lymphopenia; low eosinophil and monocyte values; and reduced erythrocyte count, hemoglobin, and hematocrit.
+ Levels of C-reactive protein, ferritin, procalcitonin, liver enzymes, and lactate dehydrogenase were frequently elevated.
+ Renal function was frequently abnormal.
+ Fibrinogen and D-dimer levels were also frequently elevated, but the Quick value, international normalized ratio, and activated partial thromboplastin time were rarely abnormal.Chest radiography was performed in 9 patients and showed features of bilateral (5 of 8 patients) or unilateral (3 of 8 patients) pneumonia; 1 patient showed no clear pneumonic changes.
+ Echocardiograms were normal or had nonspecific findings; 2 patients had left bundle branch block, and no patient showed signs of cardiac ischemia.
+ Venous thromboembolic disease was not suspected antemortem in any of the patients.Concomitant medication use is shown in Appendix Table 1.
+ Notably, all patients received either anticoagulant or antiaggregant therapy or a combination of both.
+ Two patients received anticoagulant therapy before admission because of history of pulmonary embolism (1 patient) and recent orthopedic surgery (1 patient).
+ Antiaggregant therapy was given in 7 patients before admission because of cardiovascular or cerebrovascular disorders.
+ The anticoagulants received before or after admission were exclusively at prophylactic doses.
+ Individual treatment of preexisting chronic medical illnesses before acquisition of COVID-19 included angiotensin-converting enzyme (ACE) inhibitors or AT1-receptor blockers or sartans, antidiabetic drugs or insulin, statins, and xanthine oxidase inhibitors.
+ Appendix Table 1 also shows the medications patients received during hospitalization on a COVID-19 ward or in the intensive       care unit: antipyretics, antimicrobials (mostly β-lactams, carbapenems, and macrolides, as well as hydroxychloroquine in 3 patients), sedatives or muscle relaxants, and vasopressors, among others.Appendix Table 1.
+ Use of Concomitant and COVID-19–Related MedicationsPathologic FindingsTable 2 shows the key pathologic findings.Table 2.
+ Pathologic FindingsLungsWeight ranged from 420 g to 1460 g (mean, 998 g) for the right lung and from 340 g to 1200 g (mean, 795 g) for the left lung (normal weights for each lung lobe are 180 g ± 57 g, as determined radiologically and postoperatively) (24).
+ Macroscopically, we found a similar appearance in 9 of the patients, showing massive bilateral congestion and hypostasis with reddish-blue surface and cut surface except for the anterior and apical segments as well as parts of the medium lobe and the lingula, which were grayish-red and better ventilated.
+ In the 2 remaining patients, the lungs were well ventilated, except for atelectasis and mild hypostasis in the dorsobasal segments.
+ Moderate emphysematous changes were seen diffusely in all lungs, with severe emphysema in 3 patients.
+ The bronchial system contained in most cases viscous mucus.
+ The pleura was inconspicuous except for fibrous adhesions in 7 patients; pleural effusion was        absent in all but 1 patient which showed 20 mL of serous effusion.
+ The most striking feature was the presence of thrombotic material in branches of the pulmonary arteries in all cases.
+ Vessels of all size were involved, and the thrombotic material was often grossly visible, particularly after formalin fixation of the lung tissue (Figure 1, A and B).Figure 1.
+ Pulmonary thrombosis.A.
+ A cross-section through the lung shows massive thrombosis of medium-sized to large arteries (arrows).
+ B.
+ A peripheral artery and its branches (arrows) are obliterated by thrombosis, and the supplied region is infarcted (asterisks).
+ Note the emphysematous changes in both lungs (formalin-fixed specimens).
+ Download figure
+   
+       Download PowerPoint
+      Histologically, the lungs showed a heterogeneous pattern of changes, with different stages of DAD with edema, hyaline membranes, and proliferation of pneumocytes and fibroblasts (Figure 2, A to C).
+ Hyaline membranes were found in all cases, and in areas of proliferation admixed with proliferated pneumocytes, macrophages, lymphocytes, plasma cells, neutrophils, fibroblasts, and collagen (Figure 2, B and C).
+ The degree of organization was more intense after a longer duration of disease.
+ Extensive corpora amylacea were found in 4 patients (Figure 2, C).
+ Multiple thrombi were present in small to mid-sized pulmonary arteries, and the vessel wall was partially infiltrated by neutrophils (Figure 3, A and B).
+ In 8 patients, the adjacent lung tissue showed hemorrhage        and infarction (Figure 3, C).
+ In 1 of these patients, who was cared for in the intensive care unit, the infarction showed recognizable demarcation on gross examination.
+ Because the thrombotic material filled out the lumen of the affected pulmonary arteries (Figure 1, A and B), it was considered thrombotic rather than embolic.
+ Some of the thrombi were neither fixed to the arterial wall nor histologically organized by macrophages or granulation tissue and, therefore, were no older than a few hours.
+ Others showed reactive neutrophil infiltrates (Figure 3, A and B).
+ Thrombi in small arteries were also found close to or within areas of organization (Figure 3, D).
+ In 1 patient with multiple infarctions, we could not exclude the possibility that the thrombus observed in a branch        of the right pulmonary artery was embolic.
+ We excluded a putative embolic source from the pelvic and large femoral veins but did not dissect the veins of the lower leg.
+ Bronchopneumonia associated with infarction was found in 6 patients, ranging from focal to confluent (Figure 3, C).Figure 2.
+ Stages of diffuse alveolar damage.A.
+ Early, with edema and hyaline membranes (original magnification, × 100).
+ B.
+ Intermediate, with proliferation of pneumocytes admixed with lymphocytes and neutrophils, organizing a residual hyaline membrane (original magnification, × 100).
+ C. Late, with proliferation of fibroblasts (original magnification, × 200).
+ Hematoxylin–eosin staining.
+ Download figure
+   
+       Download PowerPoint
+      Figure 3.
+ Thrombosis of a dilated mid-sized pulmonary artery without subsequent infarction.
+ The surrounding lung tissue is in part edematous (original magnification, × 10).
+ B.
+ A small pulmonary artery is obliterated by a thrombus, which is infiltrated by neutrophils (original magnification, × 100).
+ C. Pulmonary artery with thrombosis and infarction and pneumonia of the surrounding lung tissue (original magnification, × 10; corresponding histology to Figure 1, B).
+ D. Microthrombi of small arteries in areas of diffuse alveolar damage (original magnification, × 100).
+ Hematoxylin–eosin staining.
+ Download figure
+   
+       Download PowerPoint
+      HeartThe weight of the heart ranged from 280 g to 690 g (mean, 483 g; normal weight, 250 to 350 g).
+ All patients had hypertrophy of both ventricles, with predominance of left ventricular hypertrophy, showing a wall thickness measured 1 cm beneath the mitral valve ranging from 14 to 22 mm.
+ The myocardial hypertrophy was reflected histologically by enlargement of myocytes with nuclear polymorphism.
+ In 10 patients, both ventricles were massively dilated.
+ In 1 patient, intraventricular endocardial mural thrombi were found, but without ischemic changes of the adjacent myocardium.
+ Neither acute myocardial necrosis nor inflammatory changes were found, except in 1 patient with a focus of fragmented cardiomyocytes with lymphocytic and granulocytic reaction.
+ Isolated massive cardiac amyloidosis was incidentally found in a 91-year-old man and was confirmed by positive Congo red stain and immunoreactivity        for amyloid P.Peritoneal CavityThe peritoneal cavity was inconspicuous and free of ascites in all patients.
+ The small and large bowel and the gallbladder were also histologically normal.
+ Focal pancreatitis was found in 4 patients, with necrosis of pancreatic parenchyma and adjacent adipose tissue and calcifications.LiverSteatosis was found in all patients, involving 5% to 60% of the hepatocytes, predominantly macrovesicular; in 1 patient, it was microvesicular and predominantly located pericentrally but also periportal.
+ Chronic congestion was detected in 8 patients (73%).
+ Hepatocyte necrosis was massive confluent and panlobular in 1 patient, focal in 2 patients (and associated with central vein thrombosis in 1 patient [Figure 4, A]), and in single cells in 4 patients with a predominant pericentral location.
+ Kupffer cells were activated in all patients and showed nodular proliferation in 70%.
+ Cholestasis with canalicular bile plugs was found in 7 patients.
+ Portal changes were present in 9 patients and included a mild to moderate lymphocytic infiltrate, mild nuclear pleomorphism of cholangiocytes, and ductular proliferation with portal or incomplete septal fibrosis.Figure 4.
+ Other involved organs.A.
+ Thrombosis of a central vein with focal necrosis of liver cells at 6 hours.
+ Macrovesicular steatosis and focal canalicular bile plugs (original magnification, × 100).
+ B.
+ Acute tubular injury showing necrosis and regeneration of the proximal tubules.
+ Some tubules contain proteinaceous material (original magnification, × 200).
+ C. Lymphocyte depletion of a hilar lymph node, with absence of germinal centers and dilated vessels and sinuses (original magnification, × 40).
+ D. The same patient showed adrenocortical hyperplasia with a nodular pattern (original magnification, × 20).
+ Hematoxylin–eosin staining.
+ Download figure
+   
+       Download PowerPoint
+      KidneysThe most frequent findings were alterations of the proximal tubules ranging from swelling of the tubular epithelium to necrosis and regenerating changes with flattened tubular epithelium (Figure 4, B).
+ Focally, the tubules were filled with proteinaceous masses.
+ Benign nephrosclerosis was found in all patients and nodular glomerulosclerosis (Kimmelstiel–Wilson syndrome) in 4 patients, of whom 3 had type 2 diabetes mellitus.Other OrgansThe hilar and posterior mediastinal lymph nodes were enlarged and anthracotic in all cases, but histologically, they showed lymphocyte depletion with complete absence of germinal centers (Figure 4, C).
+ This was associated with dilation of sinuses and vessels and partially with bleeding.
+ The spleen showed white pulp atrophy due to lymphocyte depletion in 10 patients.
+ In addition, areas of hemorrhage with acute or chronic congestion were noted, the latter with fibrosis.
+ The submandibular glands showed a mild to moderate degree of lipomatosis.
+ The thyroid was normal in 8 patients; 3 had nodular goiter.
+ The adrenal cortex, in particular the zona fasciculata, was hyperplastic in 6 patients (86%), of whom 2 showed a slightly nodular pattern (Figure 4, D).
+ The bone marrow showed normal hemopoiesis, with a reactive lymphocytic infiltrate in 1 patient.
+ The brain was analyzed in 1 patient        only and showed atrophy and arteriosclerotic changes but no acute alterations.Microbiological FindingsResults of PCR are shown in Appendix Table 2.
+ Testing detected SARS-CoV-2 RNA on the pharyngeal swabs from 10 patients and on the bronchial system swabs from all patients.
+ In addition, SARS-CoV-2 RNA was found in 1 patient on a swab from the colon mucosa; on 2 other swabs from the colon, the assay was inconclusive owing to assay interference by inhibitors.
+ No SARS-CoV-2 RNA was found in bile obtained from the gallbladder in 4 patients.Appendix Table 2.
+ Postmortem Microbiology: Results of Polymerase Chain Reaction Assay for SARS-CoV-2DiscussionAutopsy rapidly regains its importance when novel diseases arise, but access may by limited during a pandemic (20).
+ In this study, we performed autopsies on 11 of 48 deceased patients with COVID-19, 10 of whom were randomly selected over 5 weeks, and we systematically analyzed the pathologic findings in correlation with the clinical features.
+ The pathologic findings showed a peculiar pattern of distribution, which predominantly affected the lungs but also involved the kidneys, the liver, and the lymphatic system.Human cells are infected by SARS-CoV-2 through angiotensin-converting enzyme-2 (ACE-2) receptors, which are localized in such cell types as alveolar epithelium, renal tubular epithelium, hepatocytes, biliary epithelium, and enterocytes (25–27).
+ A similar mechanism was proposed for SARS-1, which could be detected particularly in lungs, kidneys, and the gastrointestinal tract (28).
+ Of note, the pattern of pathologic changes found in our study includes profound acute changes in lung and kidney but not in the gastrointestinal tract and the heart, which is similar to the findings of SARS-1 studies.
+ Moreover, it is important to distinguish acute pathologic changes (attributed to COVID-19) from chronic underlying changes (potentially predisposing to a fatal course of COVID-19) and nonspecific secondary changes related to hypotension or sepsis.A major acute pathologic finding was bilateral DAD, characterized by alveolar edema, hyaline membranes, and proliferation of pneumocytes and fibroblasts in a heterogeneous distribution.
+ Early changes of DAD were recently reported for COVID-19 (16, 17).
+ Notably, the most striking and unexpected finding was the obstruction of pulmonary arteries by thrombotic material present at both the macroscopic and microscopic level in all cases.
+ In most of the cases, this key finding was associated with lung parenchymal bleeding and hemorrhagic infarction.
+ Pulmonary infarction was complicated by bronchopneumonia in almost one half of the cases, although it was mostly focal.
+ It is very likely that emphysema,      which was found in all patients to some degree, may have aggravated the course of COVID-19.
+ Of note, the combination of both alveolar and vascular changes could explain the rapid and sometimes unpredictable clinical deterioration seen in some severe COVID-19 cases (14).The key finding of thrombosis in small to mid-sized pulmonary arteries was unexpected.
+ On the basis of the occurrence of this finding in all patients, we assume that these thrombotic events were disease-related and were the immediate cause of death, through acute pulmonary hypertension and cessation of pulmonary circulation.
+ Notably, pulmonary thrombosis and thromboembolisms have been reported from autopsies of patients with SARS-1 (29) but, until now, not of patients with COVID-19 (15, 19).
+ A recent autopsy study by Wichmann and colleagues (30) reported a high incidence of venous thrombosis and found pulmonary embolism as the cause of death in one third of the cases.
+ However, we consider our findings to be caused by thrombosis rather than by thromboembolism, because most vessels were completely occluded by thrombotic material and small arteries were      involved, with a diameter less than 1 mm.
+ Our observation became apparent only by careful and systematic dissection of the formalin-fixed lungs and subsequent histologic examination of numerous samples, which might not have been performed by other researchers.
+ Notably, pulmonary microthrombosis was observed in all cases in Wichmann and colleagues' study (30).However, the mechanisms leading to pulmonary arterial thrombosis and coagulopathy in COVID-19 are not yet completely understood.
+ There appears to be a causal relationship with the inflammatory and reparative processes involving DAD, because thrombi are frequently detected in small pulmonary arteries, most likely secondary to endothelial damage (31).
+ The endothelial damage could also be related to direct viral infection of the endothelial cells, which express ACE-2 receptors, or to a host response, as recently proposed (32).
+ Furthermore, the alveolar fibrin deposition in DAD may affect the delicate local balance of fibrinolysis and coagulation (33).
+ A combination of alveolar and endothelial damage of smaller vessels may be followed by microvascular pulmonary thrombosis, which could then extend to larger vessels.
+ Microthrombi in small pulmonary arterioles have been reported in recent      COVID-19 cases, but large-vessel involvement has so far been only reported in rare cases diagnosed radiologically by using computed tomography angiography (13, 34, 35).
+ Elevated D-dimer levels greater than 2500 µg/L were determined to detect all patients with pulmonary embolism and might be a valuable selection criterion for computed tomography angiography to detect thrombosis of segmental or subsegmental pulmonary arteries, leading to efficient treatment (36).
+ Recently, “MicroCLOTS” (microvascular COVID-19 lung vessels obstructive thromboinflammatory syndrome) was proposed as a new name for severe pulmonary COVID-19, but this term does not acknowledge the clinically important feature of mid-sized and larger pulmonary vessel involvement revealed by our study, with all hemodynamic and respiratory consequences (37).Patients with severe COVID-19 can develop COVID-19–associated coagulopathy (CAC), with features of both disseminated intravascular coagulation and thrombotic microangiopathy, resulting in widespread microvascular thrombosis that may involve the liver (as in 1 of our patients) and consumption of coagulation factors (38).
+ Moreover, antiphospholipid antibodies (not tested in our patients) may also contribute to CAC (39).
+ Notably, our patients experienced thrombosis despite prophylactic anticoagulant treatment.Chronic organ changes of the kidneys and the liver may have contributed to fatal outcomes.
+ These were related to preexisting arteriosclerosis and arterial hypertension and included benign nephrosclerosis; diabetes mellitus type 2; and metabolic disorders, such as nodular glomerulosclerosis and hepatic steatosis with and without fibrosis and ductular proliferation.
+ In contrast to previous reports, severe obesity was not characteristic in our cohort (42).
+ Acute renal tubular injury, which was also reported with SARS-1, seems to be related to hypoxia and causal for terminal renal failure rather than viral induced through the high expression of ACE-2 receptors in the epithelium of the tubules (25, 28).
+ Acute hepatocyte necrosis as well as cholestasis should be more likely attributed to hypoxia or sepsis, also caused by central vein thrombosis and systemic inflammation rather than to a      direct viral effect (43).
+ As in the systemic inflammatory response syndrome and sepsis, liver involvement (frequently seen in our patients) could have an independent prognostic role by altering the secretion of acute phase reactant, cytokines or other inflammatory mediators, and coagulation factors and could subsequently contribute to thrombosis of subsegmental and segmental pulmonary arteries (44, 45).The intestine was not altered in our patients, although we detected viral RNA in a swab from normal colonic mucosa.
+ Focal pancreatic involvement appeared without clinical symptoms in about one third of our cases.
+ The frequent depletion of lymphocytes in lymph nodes and spleen as reported in SARS-1 concurs with lymphopenia and may be similar to that in SARS-1, caused at least in part by increased endogenous secretion of cortisol through the hypothalamic–pituitary–adrenal axis, associated with hyperplasia of the adrenal cortex (29, 46).In conclusion, the lungs can be considered the major target organ of severe COVID-19, reacting with DAD and affected by thrombosis in subsegmental and segmental pulmonary arteries.
+ The combination of both of these phenomena could explain the rapid clinical deterioration in severe COVID-19 and may call for more proactive expansion of current anticoagulation strategies that also consider therapeutic doses or even thrombolytic therapy (47–49).
+ Subsequently, these severe pulmonary changes seem to lead to multiorgan failure involving especially the kidneys and, less frequently, the liver.
+ Strict thrombosis prophylaxis, close laboratory and imaging studies, and early anticoagulant therapy for suspected cases of pulmonary arterial thrombosis or venous thromboembolism should be considered.
+ Further studies are needed to confirm these findings and to unravel the detailed mechanisms involved in this broad spectrum of      organ damage caused by SARS-CoV-2.References1.
+ Cunningham CO , 
+      Diaz C , 
+      Slawek DE .
+ COVID-19: the worst days of our careers.
+ Ann Intern Med.
+ 2020. doi:10.7326/M20-1715 LinkGoogle Scholar2.
+ Zhou P , 
+      Yang XL , 
+      Wang XG , et al.
+ A pneumonia outbreak associated with a new coronavirus of probable bat origin.
+ Nature.
+ 2020;579:270-273.
+ [PMID: 32015507] doi:10.1038/s41586-020-2012-7 CrossrefMedlineGoogle Scholar3.
+ Zhu N , 
+      Zhang D , 
+      Wang W , et al.
+ China Novel Coronavirus Investigating and Research Team.
+ A novel coronavirus from patients with pneumonia in China, 2019.
+ N Engl J Med.
+ 2020;382:727-733.
+ [PMID: 31978945] doi:10.1056/NEJMoa2001017 CrossrefMedlineGoogle Scholar4.
+ Jin X , 
+      Lian JS , 
+      Hu JH , et al.
+ Epidemiological, clinical and virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with gastrointestinal symptoms.
+ Gut.
+ 2020;69:1002-1009.
+ [PMID: 32213556] doi:10.1136/gutjnl-2020-320926 CrossrefMedlineGoogle Scholar5.
+ Lin L , 
+      Jiang X , 
+      Zhang Z , et al.
+ Gastrointestinal symptoms of 95 cases with SARS-CoV-2 infection.
+ Gut.
+ 2020;69:997-1001.
+ [PMID: 32241899] doi:10.1136/gutjnl-2020-321013 CrossrefMedlineGoogle Scholar6.
+ Mao L , 
+      Jin H , 
+      Wang M , et al.
+ Neurologic manifestations of hospitalized patients with coronavirus disease 2019 in Wuhan, China.
+ JAMA Neurol.
+ 2020.
+ [PMID: 32275288] doi:10.1001/jamaneurol.2020.1127 CrossrefMedlineGoogle Scholar7.
+ Zhang Y , 
+      Zheng L , 
+      Liu L , et al.
+ Liver impairment in COVID-19 patients: a retrospective analysis of 115 cases from a single centre in Wuhan city, China.
+ Liver Int.
+ 2020.
+ [PMID: 32239796] doi:10.1111/liv.14455 CrossrefMedlineGoogle Scholar8.
+ Zou L , 
+      Ruan F , 
+      Huang M , et al.
+ SARS-CoV-2 viral load in upper respiratory specimens of infected patients [Letter].
+ N Engl J Med.
+ 2020;382:1177-1179.
+ [PMID: 32074444] doi:10.1056/NEJMc2001737 CrossrefMedlineGoogle Scholar9.
+ Matheny Antommaria AH , 
+      Gibb TS , 
+      McGuire AL , et al.
+ for a Task Force of the Association of Bioethics Program Directors.
+ Ventilator triage policies during the COVID-19 pandemic at U.S. hospitals associated with members of the Association of Bioethics Program Directors.
+ Ann Intern Med.
+ 2020. doi:10.7326/M20-1738 LinkGoogle Scholar10.
+ Wu C , 
+      Chen X , 
+      Cai Y , et al.
+ Risk factors associated with acute respiratory distress syndrome and death in patients with coronavirus disease 2019 pneumonia in Wuhan, China.
+ JAMA Intern Med.
+ 2020.
+ [PMID: 32167524] doi:10.1001/jamainternmed.2020.0994 CrossrefMedlineGoogle Scholar11.
+ Phua J , 
+      Weng L , 
+      Ling L , et al.
+ Asian Critical Care Clinical Trials Group.
+ Intensive care management of coronavirus disease 2019 (COVID-19): challenges and recommendations.
+ Lancet Respir Med.
+ 2020;8:506-517.
+ [PMID: 32272080] doi:10.1016/S2213-2600(20)30161-2 CrossrefMedlineGoogle Scholar12.
+ Wolf MS , 
+      Serper M , 
+      Opsasnick L , et al.
+ Awareness, attitudes, and actions related to COVID-19 among adults with chronic conditions at the onset of the U.S. outbreak: a cross-sectional survey.
+ Ann Intern Med.
+ 2020. doi:10.7326/M20-1239 LinkGoogle Scholar13.
+ Xie Y , 
+      Wang X , 
+      Yang P , et al.
+ COVID-19 complicated by acute pulmonary embolism.
+ Radiol Cardiothorac Imaging.
+ 2020. doi:10.1148/ryct.2020200067 CrossrefGoogle Scholar14.
+ Zhou F , 
+      Yu T , 
+      Du R , et al.
+ Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.
+ Lancet.
+ 2020;395:1054-1062.
+ [PMID: 32171076] doi:10.1016/S0140-6736(20)30566-3 CrossrefMedlineGoogle Scholar15.
+ Barton LM , 
+      Duval EJ , 
+      Stroberg E , et al.
+ COVID-19 autopsies, Oklahoma, USA.
+ Am J Clin Pathol.
+ 2020;153:725-733.
+ [PMID: 32275742] doi:10.1093/ajcp/aqaa062 CrossrefMedlineGoogle Scholar16.
+ Tian S , 
+      Hu W , 
+      Niu L , et al.
+ Pulmonary pathology of early-phase 2019 novel coronavirus (COVID-19) pneumonia in two patients with lung cancer.
+ J Thorac Oncol.
+ 2020;15:700-704.
+ [PMID: 32114094] doi:10.1016/j.jtho.2020.02.010 CrossrefMedlineGoogle Scholar17.
+ Xu Z , 
+      Shi L , 
+      Wang Y , et al.
+ Pathological findings of COVID-19 associated with acute respiratory distress syndrome.
+ Lancet Respir Med.
+ 2020;8:420-422.
+ [PMID: 32085846] doi:10.1016/S2213-2600(20)30076-X CrossrefMedlineGoogle Scholar18.
+ Zhang H , 
+      Zhou P , 
+      Wei Y , et al.
+ Histopathologic changes and SARS-CoV-2 immunostaining in the lung of a patient with COVID-19 [Letter].
+ Ann Intern Med.
+ 2020;172:629-632. doi:10.7326/M20-0533 LinkGoogle Scholar19.
+ Tian S , 
+      Xiong Y , 
+      Liu H , et al.
+ Pathological study of the 2019 novel coronavirus disease (COVID-19) through postmortem core biopsies.
+ Mod Pathol.
+ 2020.
+ [PMID: 32291399] doi:10.1038/s41379-020-0536-x CrossrefMedlineGoogle Scholar20.
+ Nicholls JM , 
+      Poon LL , 
+      Lee KC , et al.
+ Lung pathology of fatal severe acute respiratory syndrome.
+ Lancet.
+ 2003;361:1773-8.
+ [PMID: 12781536] CrossrefMedlineGoogle Scholar21.
+ Sanders JM , 
+      Monogue ML , 
+      Jodlowski TZ , et al.
+ Pharmacologic treatments for coronavirus disease 2019 (COVID-19): a review.
+ JAMA.
+ 2020.
+ [PMID: 32282022] doi:10.1001/jama.2020.6019 CrossrefMedlineGoogle Scholar22.
+ Pfefferle S , 
+      Reucher S , 
+      Nörz D , et al.
+ Evaluation of a quantitative RT-PCR assay for the detection of the emerging coronavirus SARS-CoV-2 using a high throughput system.
+ Euro Surveill.
+ 2020;25.
+ [PMID: 32156329] doi:10.2807/1560-7917.ES.2020.25.9.2000152 CrossrefMedlineGoogle Scholar23.
+ Poljak M , 
+      Korva M , 
+      Knap Gašper N , et al.
+ Clinical evaluation of the cobas SARS-CoV-2 test and a diagnostic platform switch during 48 hours in the midst of the COVID-19 pandemic.
+ J Clin Microbiol.
+ 2020.
+ [PMID: 32277022] doi:10.1128/JCM.00599-20 CrossrefMedlineGoogle Scholar24.
+ Sverzellati N , 
+      Kuhnigk JM , 
+      Furia S , et al.
+ CT-based weight assessment of lung lobes: comparison with ex vivo measurements.
+ Diagn Interv Radiol.
+ 2013;19:355-9.
+ [PMID: 23748036] doi:10.5152/dir.2013.149 CrossrefMedlineGoogle Scholar25.
+ Harmer D , 
+      Gilbert M , 
+      Borman R , et al.
+ Quantitative mRNA expression profiling of ACE 2, a novel homologue of angiotensin converting enzyme.
+ FEBS Lett.
+ 2002;532:107-10.
+ [PMID: 12459472] CrossrefMedlineGoogle Scholar26.
+ Hoffmann M , 
+      Kleine-Weber H , 
+      Schroeder S , et al.
+ SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by a clinically proven protease inhibitor.
+ Cell.
+ 2020;181:271-280.e8.
+ [PMID: 32142651] doi:10.1016/j.cell.2020.02.052 CrossrefMedlineGoogle Scholar27.
+ Lu R , 
+      Zhao X , 
+      Li J , et al.
+ Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding.
+ Lancet.
+ 2020;395:565-574.
+ [PMID: 32007145] doi:10.1016/S0140-6736(20)30251-8 CrossrefMedlineGoogle Scholar28.
+ Ding Y , 
+      He L , 
+      Zhang Q , et al.
+ Organ distribution of severe acute respiratory syndrome (SARS) associated coronavirus (SARS-CoV) in SARS patients: implications for pathogenesis and virus transmission pathways.
+ J Pathol.
+ 2004;203:622-30.
+ [PMID: 15141376] CrossrefMedlineGoogle Scholar29.
+ Chong PY , 
+      Chui P , 
+      Ling AE , et al.
+ Analysis of deaths during the severe acute respiratory syndrome (SARS) epidemic in Singapore: challenges in determining a SARS diagnosis.
+ Arch Pathol Lab Med.
+ 2004;128:195-204.
+ [PMID: 14736283] MedlineGoogle Scholar30.
+ Wichmann D , 
+      Sperhake JP , 
+      Lütgehetmann M , et al.
+ Autopsy findings and venous thromboembolism in patients with COVID-19: a prospective cohort study.
+ Ann Intern Med.
+ 2020. doi:10.7326/M20-2003 LinkGoogle Scholar31.
+ Tomashefski JF Jr , 
+      Davies P , 
+      Boggis C , et al.
+ The pulmonary vascular lesions of the adult respiratory distress syndrome.
+ Am J Pathol.
+ 1983;112:112-26.
+ [PMID: 6859225] MedlineGoogle Scholar32.
+ Varga Z , 
+      Flammer AJ , 
+      Steiger P , et al.
+ Endothelial cell infection and endotheliitis in COVID-19 [Letter].
+ Lancet.
+ 2020;395:1417-1418.
+ [PMID: 32325026] doi:10.1016/S0140-6736(20)30937-5 CrossrefMedlineGoogle Scholar33.
+ Idell S .
+ Coagulation, fibrinolysis, and fibrin deposition in acute lung injury.
+ Crit Care Med.
+ 2003;31:S213-20.
+ [PMID: 12682443] CrossrefMedlineGoogle Scholar34.
+ Dolhnikoff M , 
+      Duarte-Neto AN , 
+      de Almeida Monteiro RA , et al.
+ Pathological evidence of pulmonary thrombotic phenomena in severe COVID-19 [Letter].
+ J Thromb Haemost.
+ 2020.
+ [PMID: 32294295] doi:10.1111/jth.14844 CrossrefMedlineGoogle Scholar35.
+ Grillet F , 
+      Behr J , 
+      Calame P , et al.
+ Acute pulmonary embolism associated with COVID-19 pneumonia detected by pulmonary CT angiography.
+ Radiology.
+ 2020:201544.
+ [PMID: 32324103] doi:10.1148/radiol.2020201544 CrossrefMedlineGoogle Scholar36.
+ Leonard-Lorant I , 
+      Delabranche X , 
+      Severac F , et al.
+ Acute pulmonary embolism in COVID-19 patients on CT angiography and relationship to D-dimer levels.
+ Radiology.
+ 2020:201561.
+ [PMID: 32324102] doi:10.1148/radiol.2020201561 CrossrefMedlineGoogle Scholar37.
+ Ciceri F , 
+      Beretta L , 
+      Scandroglio AM , et al.
+ Microvascular COVID-19 lung vessels obstructive thromboinflammatory syndrome (MicroCLOTS): an atypical acute respiratory distress syndrome working hypothesis.
+ Crit Care Resusc.
+ 2020.
+ [PMID: 32294809] MedlineGoogle Scholar38.
+ Thachil J , 
+      Tang N , 
+      Gando S , et al.
+ ISTH interim guidance on recognition and management of coagulopathy in COVID-19.
+ J Thromb Haemost.
+ 2020;18:1023-1026.
+ [PMID: 32338827] doi:10.1111/jth.14810 CrossrefMedlineGoogle Scholar39.
+ Zhang Y , 
+      Xiao M , 
+      Zhang S , et al.
+ Coagulopathy and antiphospholipid antibodies in patients with Covid-19 [Letter].
+ N Engl J Med.
+ 2020;382:e38.
+ [PMID: 32268022] doi:10.1056/NEJMc2007575 CrossrefMedlineGoogle Scholar40.
+ Tang N , 
+      Bai H , 
+      Chen X , et al.
+ Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy.
+ J Thromb Haemost.
+ 2020;18:1094-1099.
+ [PMID: 32220112] doi:10.1111/jth.14817 CrossrefMedlineGoogle Scholar41.
+ Tang N , 
+      Li D , 
+      Wang X , et al.
+ Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia.
+ J Thromb Haemost.
+ 2020;18:844-847.
+ [PMID: 32073213] doi:10.1111/jth.14768 CrossrefMedlineGoogle Scholar42.
+ Simonnet A , 
+      Chetboun M , 
+      Poissy J , et al.
+ Lille Intensive Care COVID-19 and Obesity study group.
+ High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation.
+ Obesity (Silver Spring).
+ 2020.
+ [PMID: 32271993] doi:10.1002/oby.22831 CrossrefMedlineGoogle Scholar43.
+ Horvatits T , 
+      Drolz A , 
+      Trauner M , et al.
+ Liver injury and failure in critical illness.
+ Hepatology.
+ 2019;70:2204-2215.
+ [PMID: 31215660] doi:10.1002/hep.30824 CrossrefMedlineGoogle Scholar44.
+ Jiang X , 
+      Coffee M , 
+      Bari A , et al.
+ Towards an artificial intelligence framework for data-driven prediction of coronavirus clinical severity.
+ CMC: Computers, Materials &amp; Continua.
+ 2020;63:537-51. doi:10.32604/cmc.2020.010691 CrossrefGoogle Scholar45.
+ Sun J , 
+      Aghemo A , 
+      Forner A , et al.
+ COVID-19 and liver disease.
+ Liver Int.
+ 2020.
+ [PMID: 32251539] doi:10.1111/liv.14470 CrossrefMedlineGoogle Scholar46.
+ Panesar NS .
+ What caused lymphopenia in SARS and how reliable is the lymphokine status in glucocorticoid-treated patients?
+ Med Hypotheses.
+ 2008;71:298-301.
+ [PMID: 18448259] doi:10.1016/j.mehy.2008.03.019 CrossrefMedlineGoogle Scholar47.
+ Barrett CD , 
+      Moore HB , 
+      Yaffe MB , et al.
+ ISTH interim guidance on recognition and management of coagulopathy in COVID-19: a comment [Letter].
+ J Thromb Haemost.
+ 2020.
+ [PMID: 32302462] doi:10.1111/jth.14860 CrossrefMedlineGoogle Scholar48.
+ Bikdeli B , 
+      Madhavan MV , 
+      Jimenez D , et al.
+ COVID-19 and thrombotic or thromboembolic disease: implications for prevention, antithrombotic therapy, and follow-up.
+ J Am Coll Cardiol.
+ 2020.
+ [PMID: 32311448] doi:10.1016/j.jacc.2020.04.031 CrossrefMedlineGoogle Scholar49.
+ Wang J , 
+      Hajizadeh N , 
+      Moore EE , et al.
+ Tissue plasminogen activator (tPA) treatment for COVID-19 associated acute respiratory distress syndrome (ARDS): a case series.
+ J Thromb Haemost.
+ 2020.
+ Data on autopsies of people died for COVID-19 are very useful to understand the pathogenesis of a complex disease such as the infection caused by SARS-CoV-2 .
+ Inflammation due to viral and bacterial infections can lead to systemic activation of the coagulation cascade, but the pathological mechanisms of this phenomenon have not been fully clarified.
+ [1,2] The role of antiphospholipid antibodies (not tested in patients of the paper by Lax et al) is not clear, even if in some viral infections could arise it, meaning a primitive endothelial involvement in the pathogenesis of a local thrombosis.
+ Moreover, the correlation between disease severity and pulmonary thromboembolic complications in COVID-19 patients should be demonstrated.
+ This high incidence of VTE [3,4] poses the question whether such patients should receive prophylaxis with EBPM at higher dosages than commonly used.
+ The issue is largely debated, with scientific societies and reference medical centers being on different positions.
+ [5] Given the underlying pathogenetic mechanisms, we believe that COVID-19 patients might benefit from anticoagulation prophylaxis.
+ We think that the choice of dosage of anticoagulants is crucial to achieve the antithrombotic effect avoiding bleeding complications.
+ So, in our opinion, nor standard prophylaxis dosage, neither therapeutic ones could be a right answer.
+ We have developed a multidisciplinary internal guidance on the prophylactic use of low-molecular-weight-heparin (LMWH) based on a thrombotic risk algorithm scored according to the severity of disease.
+ Hospitalized patients without oxygen therapy received LMWH low dose (4000 or 6000 IU/daily according to body weight (BW) 65 kg; all the other patients admitted to non-ICU (intensive care unit) and with need of oxygen therapy received an intensified dosage of LMWH 4000 or 6000 IU twice daily according to BW 65 kg; finally, all the ICU-admitted patients received a therapeutic dosage of LMWH 100 IU/kg twice daily.
+ Many clinical trials are in progress to evaluate the effectiveness of different dosages of heparin in preventing thromboembolism and thus improving the survival of patients with COVID-19.
+ Pending the results of the trials as well as retrospective and prospective cohort studies, our clinical experience suggests to manage patients with COVID-19 with different dosages of heparin according to thrombotic risk, with close monitoring of any bleeding side effects.
+ Andrea Bellieni, MD Fondazione Policinico Universitario Agostino Gemelli IRCCS, Rome, Italy [email protected]  References 1.
+ Huang C, Wang Y, Li X, et al.
+ Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China.
+ Lancet.
+ 2020;395(10223):497-506. doi:10.1016/S0140-6736(20)30183-5 2.
+ Schulman S. Coronavirus Disease 2019, Prothrombotic Factors, and Venous Thromboembolism.
+ Semin Thromb Hemost.
+ May 2020. doi:10.1055/s-0040-1710337 3.
+ Xu J, Wang L, Zhao L, et al.
+ Risk assessment of venous thromboembolism and bleeding in COVID-19 patients.
+ March 2020. doi:10.21203/RS.3.RS-18340/V1 4.
+ Zhang L, Feng X, Zhang D, et al.
+ Deep Vein Thrombosis in Hospitalized Patients with Coronavirus Disease 2019 (COVID-19) in Wuhan, China: Prevalence, Risk Factors, and Outcome.
+ Circulation.
+ May 2020:CIRCULATIONAHA.120.046702.
+ doi:10.1161/CIRCULATIONAHA.120.046702 5.
+ Connors JM, Levy JH.
+ COVID-19 and its implications for thrombosis and anticoagulation.
+ Blood.
+ 2020;135(23):2033-2040. doi:10.1182/blood.2020006000   Sigurd F. Lax1,2, Kristijan Skok1, Peter M. Zechner1, Michael Trauner31 Hospital Graz II, 2Johannes Kepler University Linz, 3Medical University of Vienna, Austria23 May 2020 Response to Dr. Nichols' comment We appreciate the comments by Dr. Nichols raising potential concerns with respect to the nature of the thrombotic material found in the lungs of COVID-19 deceased and the potential therapeutic implications.
+ In our study we critically distinguished thrombi, thrombemboli and postmortem clots.
+ We believe that the observed inflammatory reaction and infarcts clearly indicate that the thrombotic material arose ante mortem.
+ Neutrophil infiltrates in both vessel wall and thrombi (Figs.
+ 3A, B, D) only occur in vivo and clearly speak against postmortem clots.
+ In line, the vessels occluded by thrombosis were found adjacent to or within areas of infarction (Figs.
+ 1B, 3C), an intravital reaction present in 9/11 cases.
+ We suggest that the observed extent of pulmonary thrombosis may be too limited to cause thrombocytopenia.
+ As correctly assumed the laboratory values stated in the manuscript represent values on admission and not at the time of death.
+ Notably elevated D-dimers (present in most of our patients) and not platelet counts and INR have been identified as best predictors of mortality in COVID-19 (1).
+ Dr. Nichols further refers to our discussion of the findings of Wichmann and colleagues who observed microthrombosis in small lung arteries in all 12 reported autopsies (page 6 of the pdf), but thromboemboli only in a third of their cases(2).
+ Microthrombi were reported by another recent study (3) and may be caused by the inflammatory process associated with diffuse alveolar damage and viral endothelitis (4).
+ Thrombosis of larger arteries has been recently described in the skin of COVID-19 patients (5) and in lungs of SARS1 and H1N1 (6).
+ In our study the thrombotic material completely filled out the lumen of small to mid-sized arteries (Figs.
+ 1B, 3C) which would be unusual for thrombemboli and favors our concept of thrombosis.
+ We agree with Dr. Nichols that future clinical studies will have to explore the frequency of pulmonary vascular thromboembolic or thrombotic disease in COVID-19 and how it might best be treated.
+ This was clearly beyond the scope of our study which aimed to evaluate the clinicopathologic basis for severe and fatal outcomes of COVID-19 and had the limitations of a small sample of a single center study.
+ Evidence of pulmonary vessel occlusions, generally interpreted as caused by pulmonary embolism, when computed tomography angiography (CTA) is performed, have recently been reported in nearly one quarter of patients with COVID-19 pneumonia (50% in ICU and 18% in other patients) (7) and filling defects of pulmonary vessels on CTA scans are more reminiscent of pulmonary thrombi rather than emboli(8).
+ Similar rates (20-30%) were recently reported from France, Netherlands and Italy.
+ Other recent studies have highlighted the surprising discrepancy between the frequencies of pulmonary embolism and deep vein thrombosis8, further supporting our concept of pulmonary thrombosis.
+ We further agree with Dr. Nichols that overtreatment needs to be strictly avoided.
+ Higher doses of anticoagulation (e.g.
+ LMWH) may not be necessarily more effective in this setting and could even become dangerous8.
+ Future randomized clinical trials will have to answer this question and should also consider drugs targeting other potential players in thrombo-inflammation and immune-thrombosis.
+ References 1.
+ Barrett CD et al., J Thromb Haemost.
+ 2020; DOI: 10.1111/jth.14860 2.
+ Wichmann D, Ann Intern Med 2020. doi:10.7326/M20-2003 3.
+ Menter T et al., Histopathology 2020, DOI: 10.1111/HIS.14134 4.
+ Varga Z et al., Lancet 2020, DOI: 10.1016/S0140-6736(20)30937-5 5.
+ Magro C et al., Translational Research 2020, DOI:https://doi.org/10.1016/j.trsl.2020.04.007 6.
+ Harms PW et al., Am Clin Pathol 2010, DOI: 10.1309/AJCP35KOZSAVNQZW 27 7.
+ Bompard F et al., European Respiratory Journal 2020; DOI: 10.1183/13993003.01365-2020 8.
+ Cattaneo M et al., Thromb Haemost 2020; DOI https://doi.org/10.1055/s-0040-1712097   Larry Nichols, MDMercer University School of Medicine, Macon, GA17 May 2020 Pulmonary thrombotic and thromboembolic disease in COVID-19 Lax and colleagues (1) have done a great service in their thorough study of 11 patients who died of COVID-19.
+ They may have overreached, however, in concluding that thrombosis was present in small and medium pulmonary arteries in all 11 patients.
+ In some cases, they may have overinterpreted blood in these arteries, clotted after death, as premortem thrombosis in situ.
+ Figure 2C, for instance, purports to show a pulmonary artery with thrombosis, but the blood in the artery has two components, a denser eosinophilic component and a lighter eosinophilic one, which is characteristic of a postmortem thrombus.
+ Figure 2D purports to show microthrombi in small blood vessels, but these could be blood simply stagnated in these vessels at the time of death.If these patients had thrombosed blood vessels throughout most of their lungs and in other organs throughout their bodies, one might expect the patients to have had thrombocytopenia, but only one patient had thrombocytopenia, which was mild.
+ Similarly, one might expect the patients to have had an elevated international normalized ratio (INR), which none of them had.
+ Of course, these may represent only the values on admission and not those at the time of death, but this is not stated.
+ Patients with COVID-19 who had extensive pulmonary thrombosis or thromboembolism could be differentiated from those who did not by clinicopathologic correlation with the clinical course of respiratory function, oxygen saturation by pulse oximetry or arterial blood gases, along with respiratory parameters, including respiratory rates and ventilatory support settings, if the patients were given supplemental oxygen, with or without positive pressure.Lax and colleagues (1) state in their discussion that Wichmann and colleagues (2) found pulmonary microthrombosis in all 12 autopsies of patients who died of COVID-19 in their study, but they found and reported only thromboemboli, not thrombosis in situ.Clearly, some patients with COVID-19 have pulmonary thromboembolism and some may have pulmonary arterial thrombosis in situ, but it is hard to believe that all patients with COVID-19 have such pulmonary vascular disease.
+ The urgent questions for the care of patients with this new pandemic disease is how many have new onset acute pulmonary vascular thromboembolic or thrombotic disease in association with the viral infection, and how it might best be treated in that subset of COVID-19 patients.
+ It would be a great disservice to overtreat COVID-19 patients with anticoagulation that could cause more harm than good.
+ Larry Nichols, MD Mercer University School of Medicine Macon, Georgia References 1.Lax, SF, Skok K, Zechner P, et al.
+ Pulmonary arterial thrombosis in COVID-19 with fatal outcome: results from a prospective, single-center, clinicopathologic case series.
+ Ann Intern Med.
+ 14 May 2020.
+ [Epub ahead of print].
+ doi:10.7326/M20-2566 2.Wichmann D, Sperhake JP, Lütgehetmann M, et al.
+ Autopsy findings and venous thromboembolism in patients with COVID-19: A prospective cohort study.
+ Ann Intern Med.
+ 6 May 2020.
+ [Epub ahead of print].
+ Dr. Koelblinger reports personal fees from CSL Behring and Eumedics outside the submitted work.
+ Authors not named here have disclosed no conflicts of interest.
+ Darren B. Taichman, MD, PhD, Executive Editor, reports that he has no financial relationships or interests to disclose.
+ Cynthia D. Mulrow, MD, MSc, Senior Deputy Editor, reports that she has no relationships or interests to disclose.
+ Eliseo Guallar, MD, MPH, DrPH, Deputy Editor, Statistics, reports that he has no financial relationships or interests to disclose.
+ Jaya K. Rao, MD, MHS, Deputy Editor, reports that she has stock holdings/options in Eli Lilly and Pfizer.
+ Christina C. Wee, MD, MPH, Deputy Editor, reports employment with Beth Israel Deaconess Medical Center.
+ Sankey V. Williams, MD, Deputy Editor, reports that he has no financial relationships or interests to disclose.
+ Yu-Xiao Yang, MD, MSCE, Deputy Editor, reports that he has no financial relationships or interest to disclose.Reproducible Research Statement: Study protocol and statistical code: Not available.
+ Data set: Available from Dr. Lax (e-mail, sigurd.
+ [email protected]at or sigurd.
+ [email protected]at) on reasonable request.Corresponding Author: Sigurd F. Lax, MD, PhD, Department of Pathology, Hospital Graz II, Goestingerstrasse 22, AT-8020 Graz, and Institute of Pathology and Molecular Pathology, Johannes Kepler University, Huemerstrasse 3-5, AT-4020 Linz, Austria; e-mail, sigurd.
+ [email protected]at or sigurd.
+ [email protected]at.Correction: This article was corrected on 28 May 2020 to update the patient age values in the Results section.Current Author Addresses: Drs.
+ Lax, Skok, and Bargfrieder: Department of Pathology, Hospital Graz II, Goestingerstrasse 22, AT-8020 Graz, Austria.Drs.
+ Zechner and Kaufmann: Department of Internal Medicine, Hospital Graz II, Academic Teaching Hospital of the Medical University of Graz, Goestingerstrasse 22, AT-8020 Graz, Austria.Dr.
+ Kessler: Diagnostic &amp; Research Institute of Hygiene, Microbiology and Environmental Medicine, Medical University of Graz, Neue Stiftingtalstrasse 6, AT-8010 Graz, Austria.Dr.
+ Koelblinger: Department of Anesthesiology, Hospital Graz II, Academic Teaching Hospital of the Medical University of Graz, Goestingerstrasse 22, AT-8020 Graz, Austria.Dr.
+ Vander: Institute of Hospital Hygiene and Microbiology, Styrian Hospital Corporation, Stiftingtalstrasse 14, AT-8010 Graz, Austria.Dr.
+ Trauner: Division of Gastroenterology and Hepatology with Intensive Care 13H1, Department of Internal Medicine III, Vienna General Hospital, Medical University of Vienna, Waehringerguertel 18-20, AT-1090 Vienna, Austria.Author Contributions: Conception and design: S.F.
+ Lax, K. Skok, M. Trauner.Analysis and interpretation of the data: S.F.
+ Lax, K. Skok, P.M. Zechner, H.H.
+ Kessler, N. Kaufmann, C. Koelblinger, K. Vander, U. Bargfrieder, M. Trauner.Drafting of the article: S.F.
+ Lax, K. Skok, M. Trauner.Critical revision for important intellectual content: S.F.
+ Lax, P.M. Zechner, M. Trauner.Final approval of the article: S.F.
+ Lax, K. Skok, P.M. Zechner, H.H.
+ Kessler, N. Kaufmann, C. Koelblinger, K. Vander, U. Bargfrieder, M. Trauner.Provision of study materials or patients: S.F.
+ Lax, K. Vander.Administrative, technical, or logistic support: S.F.
+ Lax, K. Skok, P.M. Zechner, H.H.
+ Kessler.Collection and assembly of data: S.F.
+ Lax, K. Skok, P.M. Zechner, N. Kaufmann, C. Koelblinger, U. Bargfrieder, M. Trauner.
+ Charuhas Deshpande   Cited ByMyocarditis is rare in COVID-19 autopsies: cardiovascular findings across 277 postmortem examinationsAngiotensin-converting enzyme 2 (ACE2): COVID 19 gate way to multiple organ failure syndromesThe spectrum of pathological findings in coronavirus disease (COVID-19) and the pathogenesis of SARS-CoV-2Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) and coronavirus disease 19 (COVID-19) – anatomic pathology perspective on current knowledgeNebulised heparin as a treatment for COVID-19: scientific rationale and a call for randomised evidencePulmonary embolism in patients with coronavirus disease-2019 (COVID-19) pneumonia: a narrative reviewAsymptomatic deep vein thrombosis in critically ill COVID-19 patients despite therapeutic levels of anti-Xa activityCOVID-19 and cardiovascular consequences: Is the endothelial dysfunction the hardest challenge?Thrombosis of pulmonary vasculature despite anticoagulation and thrombolysis: The findings from seven autopsiesIn situ pulmonary thrombosis in patients with COVID-19 pneumonia: different phenotypes may existPotential Therapeutic Effect of Traditional Chinese Medicine on Coronavirus Disease 2019: A ReviewCOVID-19-associated coagulopathy and disseminated intravascular coagulationCOVID-19 and Cerebrovascular Diseases: A Systematic Review and Perspectives for Stroke ManagementAnalysis of cardiopulmonary findings in COVID-19 fatalities: High incidence of pulmonary artery thrombi and acute suppurative bronchopneumoniaA Case Series of Devastating Intracranial Hemorrhage During Venovenous Extracorporeal Membrane Oxygenation for COVID-19Primary presentation of COVID-19 solely with gastrointestinal symptoms: a problem for the containment of the diseaseThromboembolic complications of COVID-19: the combined effect of a pro-coagulant pattern and an endothelial thrombo-inflammatory syndromeAutopsies of COVID-19 deceased?
+ Absolutely!What Do We Really Know About Pulmonary Thrombosis in COVID-19 Infection?Letter by Hamilton et al Regarding Article, “Comparison of Venous Thromboembolism Risks Between COVID-19 Pneumonia and Community-Acquired Pneumonia Patients”More than Pneumonia: Distinctive Features of SARS-Cov-2 Infection.
+ From Autopsy Findings to Clinical Implications: A Systematic ReviewPostmortem Swabs in the Severe Acute Respiratory Syndrome Coronavirus 2 Pandemic: Report on 12 Complete Clinical Autopsy CasesCoagulation biomarkers are independent predictors of increased oxygen requirements in COVID‐19COVID‐19 patients exhibit reduced procoagulant platelet responsesAnticoagulant interventions in hospitalized patients with COVID‐19: A scoping review of randomized controlled trials and call for international collaborationEmerging Mechanisms of Pulmonary Vasoconstriction in SARS-CoV-2-Induced Acute Respiratory Distress Syndrome (ARDS) and Potential Therapeutic TargetsEmerging pulmonary histopathological findings in COVID-19 patients - A letter to the editor in response to Grosse et al.
+ 2020Viral presence and immunopathology in patients with lethal COVID-19: a prospective autopsy cohort studyInflammation and thrombosis in COVID-19 pathophysiology: Proteinase-activated and purinergic receptors as drivers and candidate therapeutic targetsVenous Thromboembolism in COVID-19Presenting Characteristics, Treatment Patterns, and Outcomes among Patients with Venous Thromboembolism during Hospitalization for COVID-19Rotational thromboelastometry results are associated with care level in COVID-19Insights into pathogenesis of fatal COVID‐19 pneumonia from histopathology with immunohistochemical and viral RNA studiesEmerging patterns of hypercoagulability associated with critical COVID-19: A reviewDiabetes, obesity and
+     COVID
+     ‐19: A complex interplayDiffuse alveolar damage (DAD) resulting from coronavirus disease 2019 Infection is Morphologically Indistinguishable from Other Causes of DADStroke as a Potential Complication of COVID-19-Associated Coagulopathy: A Narrative and Systematic Review of the LiteraturePostmortale Bildgebung der Lunge bei COVID-19-TodesfällenRadiologische Manifestationen von Lungenerkrankungen bei COVID-19Management Considerations for the COVID-19 Patient with Severe Disease: a Case Scenario and Literature ReviewLoss of Bcl-6-Expressing T Follicular Helper Cells and Germinal Centers in COVID-19Anticoagulation, Bleeding, Mortality, and Pathology in Hospitalized Patients With COVID-19Coronavirus disease 2019 and the pancreasCardiovascular diseases burden in COVID-19: Systematic review and meta-analysisLarge-Scale Multi-omic Analysis of COVID-19 SeverityReply to: ‘NAFLD is a predictor of liver injury in COVID-19 hospitalized patients but not of mortality, disease severity on the presentation or progression-The debate continues’Lung Histopathology in Coronavirus Disease 2019 as Compared With Severe Acute Respiratory Sydrome and H1N1 InfluenzaThe overlooked chamber in coronavirus disease 2019COVID-19 Infection: Viral Macro- and Micro-Vascular Coagulopathy and Thromboembolism/Prophylactic and Therapeutic ManagementThe coagulopathy, endotheliopathy, and vasculitis of COVID-19Increased number of pulmonary megakaryocytes in COVID-19 patients with diffuse alveolar damage: an autopsy study with clinical correlation and review of the literatureCardio‐oncology care in the era of the coronavirus disease 2019 (COVID‐19) pandemic: An International Cardio‐Oncology Society (ICOS) statementVenous thromboembolism in the era of COVID-19Immunothrombosis and thromboinflammation in host defense and diseaseThromboembolic Findings in COVID-19 Autopsies: Pulmonary Thrombosis or Embolism?Charuhas Deshpande, MDPulmonary pathology and COVID-19: lessons from autopsy.
+ Comments are moderated.Name (if multiple authors, separate names by comma)Name field is requiredComment TitleTitle field is requiredAffiliation &amp; Institution (max characters: 200)Affiliations field is requiredCommentComment field is requiredPlease disclose any conflicts of interest or leave the box unchecked if you have noneDisclosure of Any Conflicts of InterestCancelSubmit     Back to top           ACP Journals home    Annals of Internal Medicine Print ISSN: 0003-4819 | Online ISSN: 1539-3704  Latest Issues CME/MOC In the Clinic Journal Club Multimedia Information for Readers Subscribe/Renew Submit Authors  About Personae (Cover Photo) Junior Investigator Awards Poetry Prize       ACP Journal Club Archives Print ISSN: 1056-8751 | Online ISSN: 1539-8560  Issues About       RESOURCES  Patient Information Annals in the News Career Connection     INFORMATION FOR  Reviewers Press  Institutions / Libraries / Agencies Advertisers     SERVICES  Reprints &amp; Permissions Contact Us Help Alerts     Copyright © 2020 American College of Physicians.
+ All Rights Reserved.
+ conditions of usePRIVACY POLICY

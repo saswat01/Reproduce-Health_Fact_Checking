@@ -1,0 +1,130 @@
+Skip NavigationMarketsPre-MarketsU.S.
+ MarketsEurope MarketsChina MarketsAsia MarketsWorld MarketsCurrenciesCryptocurrencyFutures &amp; CommoditiesBondsFunds &amp; ETFsBusinessEconomyFinanceHealth &amp; ScienceMediaReal EstateEnergyTransportationIndustrialsRetailWealthLifeSmall BusinessInvestingInvest In YouPersonal FinanceFintechFinancial AdvisorsTrading NationOptions ActionETF StreetBuffett ArchiveEarningsTrader TalkTechCybersecurityEnterpriseInternetMediaMobileSocial MediaVenture CapitalTech GuidePoliticsWhite HousePolicyDefenseCongress2020 ElectionsEurope PoliticsChina PoliticsAsia PoliticsWorld PoliticsCNBC TVLive AudioLatest VideoTop VideoCEO InterviewsEurope TVAsia TVDigital OriginalsWatchlistPROPRO NewsPRO LiveMenuMake ItSelectUSAINTLSearch quotes, news &amp; videosSIGN INMarketsPre-MarketsU.S.
+ MarketsEurope MarketsChina MarketsAsia MarketsWorld MarketsCurrenciesCryptocurrencyFutures &amp; CommoditiesBondsFunds &amp; ETFsBusinessEconomyFinanceHealth &amp; ScienceMediaReal EstateEnergyTransportationIndustrialsRetailWealthLifeSmall BusinessInvestingInvest In YouPersonal FinanceFintechFinancial AdvisorsTrading NationOptions ActionETF StreetBuffett ArchiveEarningsTrader TalkTechCybersecurityEnterpriseInternetMediaMobileSocial MediaVenture CapitalTech GuidePoliticsWhite HousePolicyDefenseCongress2020 ElectionsEurope PoliticsChina PoliticsAsia PoliticsWorld PoliticsCNBC TVLive AudioLatest VideoTop VideoCEO InterviewsEurope TVAsia TVDigital OriginalsWatchlistPROPRO NewsPRO LiveMenuTechUse of surveillance to fight coronavirus raises concerns about government power after pandemic endsPublished Thu, Mar 26 20207:58 PM EDTUpdated Mon, Mar 30 202012:17 PM EDTArjun KharpalKey PointsChina mobilized its mass surveillance tools, from drones to CCTV cameras, to monitor quarantined people and track the spread of the coronavirus.
+ Other nations like Israel, Singapore and South Korea are also using a combination of location data, video camera footage and credit card information, to track COVID-19 in their countries.But privacy experts raised concerns about how governments were using the data, how it was being stored and the potential for authorities to maintain heightened levels of surveillance — even after the coronavirus pandemic is over.VIDEO2:1502:15Government surveillance is rising globally as the coronavirus crisis unfoldsSquawk Box AsiaFrom Israel to South Korea to China, governments around the world are using technology to track the coronavirus outbreak as they race to stem its spread.
+ But how long will it last and is this an infringement of privacy, rights groups have asked.In China, government-installed CCTV cameras point at the apartment door of those under a 14-day quarantine to ensure they don't leave.
+ Drones tell people to wear their masks.
+ Digital barcodes on mobile apps highlight the health status of individuals.
+ These are just some of the ways the world's second-largest economy has mobilized its surveillance apparatus to help contain the outbreak of the coronavirus.
+ Private individuals who live in China have either provided photographic evidence, or told CNBC in interviews, of the CCTV equipment being installed in front of their homes to enforce quarantines.
+ Those individuals did not wish to be identified by name for this article.While some of China's measures appear extreme, nations around the world have taken the decision to boost their surveillance of individuals in a bid to help them fight the COVID-19 outbreak.Rights organizations argue that with monitoring capabilities ramping up, it may be hard for governments to scale back down.
+ On top of that, experts are worried that surveillance tools like a person's location data may not even be effective and that there may be no timeline on when governments will stop collecting that kind of information.
+ "Coronavirus is pushing us over the edge and ... perhaps institutionalizing these systems and in addition, making general public to become more accepting of these more intrusive measure," Maya Wang, a senior researcher on China at Human Rights Watch, told CNBC.
+ What are countries doing?The technologies employed by governments around the world are aimed at identifying where infected people are and monitoring quarantines.
+ Countries and cities around the world have been locked down, a move that looks to encourage "social distancing" and reduce the transmission between people.
+ In Singapore, the government rolled out an app called TraceTogether.
+ It uses Bluetooth signals between cellphones to see if potential carriers of the coronavirus have been in close contact with other people.
+ Over in Hong Kong, some residents were made to wear a wristband which linked to a smartphone app and could alert authorities if a person left their place of quarantine.
+ In South Korea, the government used records such as credit card transactions, smartphone location data and CCTV video as well as conversations with people, to create a system where confirmed cases were tracked.
+ The result was a map that could tell people whether they had gone near a coronavirus carrier.
+ On Thursday, the South Korean government launched an enhanced tool that it says can help track patients even more closely in near real time, in order to see where the disease was moving.
+ Meanwhile, Israel's security agency Shin Bet is using citizens' cell phone location data to track where they've been so they can enforce quarantine controls and monitor the movements of those infected.
+ Controversially, the data has been collected over the past few years and intended to for counterterrorism purposes, the New York Times reported.
+ The newspaper said this data trove and the collection of it had not been previously reported.We have absolutely no reason to believe that the government agencies that are eager to expand their power in response to COVID-19 will be willing to see those authorities lapse once the virus is eradicated.Albert Fox CahnExecutive director, Surveillance Technology Oversight ProjectSome parts of India were stamping the hands of people arriving at airports telling them how long they had to be quarantined, Reuters reported.
+ Reservation data from airlines and trains were being monitored to make sure those people didn't travel, the report added.
+ In the south Indian state of Kerala, authorities have been using a mixture of telephone call records, surveillance camera footage and phone location data to track down people who may have been in contact with coronavirus patients.In the U.S., the government is talking to Facebook, Google and other tech companies about the possibility of using location and movement data from Americans' smartphones to combat coronavirus.
+ Do they work?
+ World leaders have described the coronavirus pandemic as an extraordinary time, and French President Emmanuel Macron declaring that the country is at "war" against the disease.
+ As such, governments are taking unusual steps to combat the outbreak including the use of surveillance tools.
+ One of the most common tools being employed around the world has been the gathering of location data using smartphones and data from mobile networks.
+ ... governments should not be granted these powers unless they can show the public how these powers would actually help, in a significant manner, to contain COVID-19.Electronic Frontier FoundationBut one of the big problems, according to the Electronic Frontier Foundation (EFF), a nonprofit digital privacy advocacy group, is that collection of certain data like phone location, hasn't been proven to be effective in tracking the spread of the virus.
+ "Because new government dragnet location surveillance powers are such a menace to our digital rights, governments should not be granted these powers unless they can show the public how these powers would actually help, in a significant manner, to contain COVID-19," the EFF said in a blog post earlier this week.The organization argued that even the Global Positioning System, or GPS, on smartphones are only accurate to a 16-foot radius, according to official U.S. government information.
+ Yet the Centers for Disease Control and Prevention (CDC) said the virus can spread between people who are in close contact with one another, which the body estimates is within 6 feet.
+ "These and other technologies like Bluetooth can be combined for better accuracy, but there's no guarantee that a given phone can be located with six-foot precision at a given time," the EFF said.
+ When will they stop?
+ How long will data collection go on and when will it be deleted, if ever?
+ These are two key questions that privacy advocates are asking.
+ They have highlighted the potential for heightened surveillance to go on — even after the coronavirus outbreak is under control.Albert Fox Cahn, executive director of the Surveillance Technology Oversight Project, a nonprofit advocacy group, raised this concern in an interview with CNBC and pointed to the USA Patriot Act which was signed into law after the 9/11 terrorist attacks.
+ The legislation gives federal government broad surveillance powers to aid their counterterrorism efforts.
+ But the law, which was initially due to expire in 2005, was renewed and earlier this month, got another short-term renewal until later this year.
+ "We have absolutely no reason to believe that the government agencies that are eager to expand their power in response to COVID-19 will be willing to see those authorities lapse once the virus is eradicated," Cahn told CNBC.
+ People wearing masks walk past a temperature screening area at Terminal 1 of Changi Airport on March 22, 2020 in Singapore.
+ Singapore is one nation that has launched an app to help track the spread of the coronavirus.Ore Huiying | Getty ImagesFor their part, some governments have laid out clearly what data they are collecting and the time limit on how long they will hold the information, though not all have put specific dates forward.
+ Singapore said its TraceTogether app does not record location data or access the phone user's contact list.
+ Data logs are stored on phones in encrypted form, according to the government.
+ South Korea said its information collection efforts will end when the coronavirus outbreak is over and that all personal data will be deleted.Privacy-focused solution?
+ Some of the surveillance tools to battle COVID-19 currently being used involve sharing some of the data collected with other government agencies, such as law enforcement.
+ Cahn suggested that any solution that is being used now should have a "complete ban" on doing that.Academics have offered alternatives to such tools being pushed by governments.VIDEO7:2407:24What does the coronavirus mean for China's economy?CNBC ExplainsThe Massachusetts Institute of Technology has developed an app called "Private Kit: Safe Paths."
+ The idea is that users can update information about themselves on the app and then declare if they have the coronavirus or not.Their location and movement is logged.
+ However, it is stored on the phone in encrypted form and not shared with third parties without consent.
+ People can get notifications about if they have been near someone with coronavirus but it won't give a user the exact name or identity of individuals, unlike some current government-led solutions.But the app will require widespread use for it to be effective.
+ With global cases rising rapidly and deaths continuing to mount, governments need to move quickly to control the situation, or the risks will be even higher.
+ The key, for privacy groups, is balancing the need for the use of technology and data for the public good versus protecting privacy.
+ If that is not done, they say, the consequences after the dust has settled could be big.
+ "I don't think the fact this is an urgent public health crisis is an excuse for governments to not act quickly to find solutions to protect human rights," Wang from Human Rights Watch said.
+ "Otherwise, we fall into this dependency such that later on, we become more intrusive in the use of these technologies which can also produce harm."
+ Related TagsCoronavirusData privacyPrivacyGlobal positioning systemsCOVID-19Subscribe to CNBC PROLicensing &amp; ReprintsCNBC CouncilsSupply Chain ValuesCNBC on PeacockAdvertise With UsJoin the CNBC PanelDigital ProductsNews ReleasesClosed CaptioningCorrectionsAbout CNBCInternshipsSite MapAd ChoicesCareersHelpContactNews TipsGot a confidential news tip?
+ We want to hear from you.Get In TouchCNBC NewslettersSign up for free newsletters and get more CNBC delivered to your inboxSign Up NowGet this delivered to your inbox, and more info about our products and services.
+ Privacy Policy|Do Not Sell My Personal Information|CA Notice|Terms of Service© 2020 CNBC LLC.
+ All Rights Reserved.
+ A Division of NBCUniversalData is a real-time snapshot *Data is delayed at least 15 minutes.
+ Singapore is one nation that has launched an app to help track the spread of the coronavirus.
+ But how long will it last and is this an infringement of privacy, rights groups have asked.
+ Drones tell people to wear their masks.
+ Digital barcodes on mobile apps highlight the health status of individuals.
+ Those individuals did not wish to be identified by name for this article.
+ On top of that, experts are worried that surveillance tools like a person's location data may not even be effective and that there may be no timeline on when governments will stop collecting that kind of information.
+ It uses Bluetooth signals between cellphones to see if potential carriers of the coronavirus have been in close contact with other people.
+ The newspaper said this data trove and the collection of it had not been previously reported.
+ Reservation data from airlines and trains were being monitored to make sure those people didn't travel, the report added.
+ In the south Indian state of Kerala, authorities have been using a mixture of telephone call records, surveillance camera footage and phone location data to track down people who may have been in contact with coronavirus patients.
+ One of the most common tools being employed around the world has been the gathering of location data using smartphones and data from mobile networks.
+ Yet the Centers for Disease Control and Prevention (CDC) said the virus can spread between people who are in close contact with one another, which the body estimates is within 6 feet.
+ These are two key questions that privacy advocates are asking.
+ They have highlighted the potential for heightened surveillance to go on — even after the coronavirus outbreak is under control.
+ But the law, which was initially due to expire in 2005, was renewed and earlier this month, got another short-term renewal until later this year.
+ Singapore is one nation that has launched an app to help track the spread of the coronavirus.
+ Data logs are stored on phones in encrypted form, according to the government.
+ South Korea said its information collection efforts will end when the coronavirus outbreak is over and that all personal data will be deleted.
+ ","title":"What does the coronavirus mean for China's economy?
+ ","url":"https:\u002F\u002Fwww.cnbc.com\u002Fvideo\u002F2020\u002F02\u002F24\u002Fwhat-does-the-coronavirus-mean-for-chinas-economy.html","show":"CNBC Explains","description":"An outbreak of a novel coronavirus originating from Wuhan, China has gripped the world, as the death toll and infection count grow by the day.
+ So, what happens when a completely unforeseen event shocks the world's second largest economy?
+ CNBC's Uptin Saiidi explains some of the early economic impact.
+ ","seoTitle":"What does the coronavirus mean for China's economy?
+ ","premium":false,"native":false,"headline":"What does the coronavirus mean for China's economy?
+ ","shorterHeadline":"What does the coronavirus mean for China's economy?
+ ","tagName":null,"tagNameFormatted":"NA","tagNameFormattedFull":"NA","slug":"200224 Uptin Saiidi Coronavirus China EU","url":"https:\u002F\u002Fwww.cnbc.com\u002Fvideo\u002F2020\u002F02\u002F24\u002Fwhat-does-the-coronavirus-mean-for-chinas-economy.html","description":"An outbreak of a novel coronavirus originating from Wuhan, China has gripped the world, as the death toll and infection count grow by the day.
+ So, what happens when a completely unforeseen event shocks the world's second largest economy?
+ CNBC's Uptin Saiidi explains some of the early economic impact.
+ However, it is stored on the phone in encrypted form and not shared with third parties without consent.
+ People can get notifications about if they have been near someone with coronavirus but it won't give a user the exact name or identity of individuals, unlike some current government-led solutions.
+ The key, for privacy groups, is balancing the need for the use of technology and data for the public good versus protecting privacy.
+ If that is not done, they say, the consequences after the dust has settled could be big.
+ Set.
+ Grow.
+ ","label":"Invest in You: Ready.
+ Set.
+ Grow.
+ Singapore is one nation that has launched an app to help track the spread of the coronavirus.
+ But how long will it last and is this an infringement of privacy, rights groups have asked.
+ Drones tell people to wear their masks.
+ Digital barcodes on mobile apps highlight the health status of individuals.
+ Those individuals did not wish to be identified by name for this article.
+ On top of that, experts are worried that surveillance tools like a person's location data may not even be effective and that there may be no timeline on when governments will stop collecting that kind of information.
+ It uses Bluetooth signals between cellphones to see if potential carriers of the coronavirus have been in close contact with other people.
+ The newspaper said this data trove and the collection of it had not been previously reported.
+ Reservation data from airlines and trains were being monitored to make sure those people didn't travel, the report added.
+ In the south Indian state of Kerala, authorities have been using a mixture of telephone call records, surveillance camera footage and phone location data to track down people who may have been in contact with coronavirus patients.
+ One of the most common tools being employed around the world has been the gathering of location data using smartphones and data from mobile networks.
+ Yet the Centers for Disease Control and Prevention (CDC) said the virus can spread between people who are in close contact with one another, which the body estimates is within 6 feet.
+ These are two key questions that privacy advocates are asking.
+ They have highlighted the potential for heightened surveillance to go on — even after the coronavirus outbreak is under control.
+ But the law, which was initially due to expire in 2005, was renewed and earlier this month, got another short-term renewal until later this year.
+ Singapore is one nation that has launched an app to help track the spread of the coronavirus.
+ Data logs are stored on phones in encrypted form, according to the government.
+ South Korea said its information collection efforts will end when the coronavirus outbreak is over and that all personal data will be deleted.
+ ","title":"What does the coronavirus mean for China's economy?
+ ","url":"https:\u002F\u002Fwww.cnbc.com\u002Fvideo\u002F2020\u002F02\u002F24\u002Fwhat-does-the-coronavirus-mean-for-chinas-economy.html","show":"CNBC Explains","description":"An outbreak of a novel coronavirus originating from Wuhan, China has gripped the world, as the death toll and infection count grow by the day.
+ So, what happens when a completely unforeseen event shocks the world's second largest economy?
+ CNBC's Uptin Saiidi explains some of the early economic impact.
+ ","seoTitle":"What does the coronavirus mean for China's economy?
+ ","premium":false,"native":false,"headline":"What does the coronavirus mean for China's economy?
+ ","shorterHeadline":"What does the coronavirus mean for China's economy?
+ ","tagName":null,"tagNameFormatted":"NA","tagNameFormattedFull":"NA","slug":"200224 Uptin Saiidi Coronavirus China EU","url":"https:\u002F\u002Fwww.cnbc.com\u002Fvideo\u002F2020\u002F02\u002F24\u002Fwhat-does-the-coronavirus-mean-for-chinas-economy.html","description":"An outbreak of a novel coronavirus originating from Wuhan, China has gripped the world, as the death toll and infection count grow by the day.
+ So, what happens when a completely unforeseen event shocks the world's second largest economy?
+ CNBC's Uptin Saiidi explains some of the early economic impact.
+ However, it is stored on the phone in encrypted form and not shared with third parties without consent.
+ People can get notifications about if they have been near someone with coronavirus but it won't give a user the exact name or identity of individuals, unlike some current government-led solutions.
+ The key, for privacy groups, is balancing the need for the use of technology and data for the public good versus protecting privacy.
+ If that is not done, they say, the consequences after the dust has settled could be big.
+ '?'

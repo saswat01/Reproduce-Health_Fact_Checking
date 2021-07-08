@@ -1,0 +1,100 @@
+This site needs JavaScript to work properly.
+ Please enable it to take advantage of the complete set of features!
+ Clipboard, Search History, and several other advanced features are temporarily unavailable.
+ Get the latest public health information from CDC: https://www.coronavirus.gov.
+ Get the latest research from NIH: https://www.nih.gov/coronavirus.
+ Find NCBI SARS-CoV-2 literature, sequence, and clinical content: https://www.ncbi.nlm.nih.gov/sars-cov-2/.
+ National Institutes of Health National Library of Medicine National Center for Biotechnology Information NCBI homepage   Log in    Show account info      Close Account   						Logged in as: username    Dashboard (My NCBI) Publications (My Bibliography) Account settings Log out         Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation                 Search:   Search       Advanced     Clipboard         User Guide                   Save     Email  Send to      Clipboard     My BibliographyCollectionsCitation manager    Display options      Display options         Format      Abstract PubMed PMID                Save citation to file          Format:     Summary (text) PubMed PMID Abstract (text) CSV        Create file        Cancel             Email citation          Subject:            To:           Format:     Summary Summary (text) Abstract Abstract (text)     MeSH and other data           Send email        Cancel              Add to Collections         Create a new collection    Add to an existing collection          Name your collection:            Name must be less than 100 characters           Choose a collection:          Unable to load your collection due to an error Please try again         Add        Cancel             Add to My Bibliography          My Bibliography        Unable to load your delegates due to an error Please try again       Add        Cancel             Your saved search          Name of saved search:           Search terms:       Test search terms       Would you like email updates of new search results?
+ Saved Search Alert Radio Buttons    Yes    No           Email:      (change)       Frequency:      Monthly Weekly Daily        Which day?
+ The first Sunday The first Monday The first Tuesday The first Wednesday The first Thursday The first Friday The first Saturday The first day The first weekday        Which day?
+ Sunday Monday Tuesday Wednesday Thursday Friday Saturday        Report format:      Summary Summary (text) Abstract Abstract (text) PubMed        Send at most:      1 item 5 items 10 items 20 items 50 items 100 items 200 items         Send even when there aren't any new results           Optional text in email:             Save        Cancel             Create a file for external citation management software           Create file        Cancel             Your RSS Feed          Name of RSS Feed:            Number of items displayed:      5 10 15 20 50 100         Create RSS        Cancel      RSS Link      Copy                    Full text links              American Institute of Physics               Full-text links      ActionsCite     Favorites    Display options   Display options      Format    AbstractPubMedPMID    Share                   Permalink      Copy            Page navigation       Title &amp; authors       Abstract       Similar articles       Cited by       Publication types       MeSH terms       LinkOut - more resources       Title &amp; authors Abstract Similar articles Cited by Publication types MeSH terms LinkOut - more resources             J Acoust Soc Am  Actions     Search in PubMed         Search in NLM Catalog         Add to Search    .
+ 2009 Aug;126(2):634-43.     doi: 10.1121/1.3160293.
+ Response to noise from modern wind farms in The Netherlands           Eja Pedersen      1    , Frits van den Berg, Roel Bakker, Jelte Bouma           Affiliations          Expand           Affiliation      1 Halmstad University and University of Gothenburg, Halmstad University, Halmstad, Sweden.
+ eja.pedersen@hh.se             PMID:     19640029          DOI:        10.1121/1.3160293        Item in Clipboard                   Response to noise from modern wind farms in The Netherlands          Eja Pedersen et al.
+ J Acoust Soc Am.
+ 2009 Aug.        Show details       Display options      Display options         Format      Abstract PubMed PMID             J Acoust Soc Am  Actions     Search in PubMed         Search in NLM Catalog         Add to Search    .
+ 2009 Aug;126(2):634-43.     doi: 10.1121/1.3160293.
+ Authors      Eja Pedersen      1    , Frits van den Berg, Roel Bakker, Jelte Bouma        Affiliation      1 Halmstad University and University of Gothenburg, Halmstad University, Halmstad, Sweden.
+ eja.pedersen@hh.se            PMID:     19640029          DOI:        10.1121/1.3160293        Item in Clipboard         Full-text links   CiteDisplay options   Display options      Format    AbstractPubMedPMID     Abstract               The increasing number and size of wind farms call for more data on human response to wind turbine noise, so that a generalized dose-response relationship can be modeled and possible adverse health effects avoided.
+ This paper reports the results of a 2007 field study in The Netherlands with 725 respondents.
+ A dose-response relationship between calculated A-weighted sound pressure levels and reported perception and annoyance was found.
+ High turbine visibility enhances negative response, and having wind turbines visible from the dwelling significantly increased the risk of annoyance.
+ Annoyance was strongly correlated with a negative attitude toward the visual impact of wind turbines on the landscape.
+ The study further demonstrates that people who benefit economically from wind turbines have a significantly decreased risk of annoyance, despite exposure to similar sound levels.
+ Response to wind turbine noise was similar to that found in Sweden so the dose-response relationship should be generalizable.
+ Similar articles             A comparison between exposure-response relationships for wind turbine annoyance and annoyance due to other noise sources.
+ Janssen SA, Vos H, Eisses AR, Pedersen E. Janssen SA, et al.
+ J Acoust Soc Am.
+ 2011 Dec;130(6):3746-53. doi: 10.1121/1.3653984.
+ J Acoust Soc Am.
+ 2011.
+ PMID: 22225031            Wind turbine noise, annoyance and self-reported health and well-being in different living environments.
+ Pedersen E, Persson Waye K. Pedersen E, et al.
+ Occup Environ Med.
+ 2007 Jul;64(7):480-6. doi: 10.1136/oem.2006.031039.
+ Epub 2007 Mar 1.
+ Occup Environ Med.
+ 2007.
+ PMID: 17332136 Free PMC article.
+ Impact of wind turbine sound on annoyance, self-reported sleep disturbance and psychological distress.
+ Bakker RH, Pedersen E, van den Berg GP, Stewart RE, Lok W, Bouma J. Bakker RH, et al.
+ Sci Total Environ.
+ 2012 May 15;425:42-51. doi: 10.1016/j.scitotenv.2012.03.005.
+ Epub 2012 Apr 3.
+ Sci Total Environ.
+ 2012.
+ PMID: 22481052            Health effects and wind turbines: a review of the literature.
+ Knopper LD, Ollson CA.
+ Knopper LD, et al.
+ Environ Health.
+ 2011 Sep 14;10:78. doi: 10.1186/1476-069X-10-78.
+ Environ Health.
+ 2011.
+ PMID: 21914211 Free PMC article.
+ Review.
+ Health effects of wind turbines on humans in residential settings: Results of a scoping review.
+ Freiberg A, Schefter C, Girbig M, Murta VC, Seidler A. Freiberg A, et al.
+ Environ Res.
+ 2019 Feb;169:446-463. doi: 10.1016/j.envres.2018.11.032.
+ Epub 2018 Nov 25.
+ Environ Res.
+ 2019.
+ PMID: 30530085 Review.
+ Show more similar articles     See all similar articles         Cited by   26 articles           Association Between Long-Term Exposure to Wind Turbine Noise and the Risk of Stroke: Data From the Danish Nurse Cohort.
+ Bräuner EV, Jørgensen JT, Duun-Henriksen AK, Backalarz C, Laursen JE, Pedersen TH, Simonsen MK, Andersen ZJ.
+ Bräuner EV, et al.
+ J Am Heart Assoc.
+ 2019 Jul 16;8(14):e013157.
+ doi: 10.1161/JAHA.119.013157.
+ Epub 2019 Jul 16.
+ J Am Heart Assoc.
+ 2019.
+ PMID: 31310571 Free PMC article.
+ The influence of wind turbine visibility on the health of local residents: a systematic review.
+ Freiberg A, Schefter C, Hegewald J, Seidler A. Freiberg A, et al.
+ Int Arch Occup Environ Health.
+ 2019 Jul;92(5):609-628. doi: 10.1007/s00420-019-01403-w. Epub 2019 Jan 23.
+ Int Arch Occup Environ Health.
+ 2019.
+ PMID: 30673837            Wind Turbine Noise and Sleep: Pilot Studies on the Influence of Noise Characteristics.
+ Ageborg Morsing J, Smith MG, Ögren M, Thorsson P, Pedersen E, Forssén J, Persson Waye K. Ageborg Morsing J, et al.
+ Int J Environ Res Public Health.
+ 2018 Nov 17;15(11):2573. doi: 10.3390/ijerph15112573.
+ Int J Environ Res Public Health.
+ 2018.
+ PMID: 30453618 Free PMC article.
+ Response to Noise Emitted by Wind Farms in People Living in Nearby Areas.
+ Pawlaczyk-Łuszczyńska M, Zaborowski K, Dudarewicz A, Zamojska-Daniszewska M, Waszkowska M. Pawlaczyk-Łuszczyńska M, et al.
+ Int J Environ Res Public Health.
+ 2018 Jul 25;15(8):1575. doi: 10.3390/ijerph15081575.
+ Int J Environ Res Public Health.
+ 2018.
+ PMID: 30044414 Free PMC article.
+ Derivation and application of a composite annoyance reaction construct based on multiple wind turbine features.
+ Michaud DS, Marro L, McNamee J. Michaud DS, et al.
+ Can J Public Health.
+ 2018 Apr;109(2):242-251. doi: 10.17269/s41997-018-0040-y.
+ Epub 2018 Apr 11.
+ Can J Public Health.
+ 2018.
+ PMID: 29981033 Free PMC article.

@@ -1,0 +1,1671 @@
+ 
+ 
+SURVEILLANCE
+ 
+ 
+ 
+Table
+ 
+1
+.
+ 
+Confirmed
+ 
+and suspected
+ 
+cases of 
+COVID
+-
+19
+ 
+acute respirato
+ry disease reported by provinces, regions and 
+cities 
+in China, 
+2
+6
+ 
+February 2020
+ 
+Province/ 
+ 
+Region/ 
+ 
+City
+ 
+Population 
+(10,000s)
+ 
+Daily
+ 
+Cumulative
+ 
+Confirmed 
+cases
+ 
+ 
+Suspected 
+cases
+ 
+ 
+Deaths
+ 
+Confirmed 
+cases
+ 
+Deaths
+ 
+Hubei
+ 
+5917
+ 
+401
+ 
+311
+ 
+52
+ 
+65187
+ 
+2615
+ 
+Guangdong
+ 
+11346
+ 
+0
+ 
+0
+ 
+0
+ 
+1347
+ 
+7
+ 
+Henan
+ 
+9605
+ 
+0
+ 
+1
+ 
+0
+ 
+1271
+ 
+19
+ 
+Zhejiang
+ 
+5737
+ 
+0
+ 
+2
+ 
+0
+ 
+1205
+ 
+1
+ 
+Hunan
+ 
+6899
+ 
+0
+ 
+1
+ 
+0
+ 
+1016
+ 
+4
+ 
+Anhui
+ 
+6324
+ 
+0
+ 
+0
+ 
+0
+ 
+989
+ 
+6
+ 
+Jiangxi
+ 
+4648
+ 
+0
+ 
+0
+ 
+0
+ 
+934
+ 
+1
+ 
+Shandong
+ 
+10047
+ 
+1
+ 
+1
+ 
+0
+ 
+756
+ 
+6
+ 
+Jiangsu
+ 
+8051
+ 
+0
+ 
+0
+ 
+0
+ 
+631
+ 
+0
+ 
+Chongqing
+ 
+3102
+ 
+0
+ 
+9
+ 
+0
+ 
+576
+ 
+6
+ 
+Sichuan
+ 
+8341
+ 
+2
+ 
+7
+ 
+0
+ 
+531
+ 
+3
+ 
+Heilongjiang
+ 
+3773
+ 
+0
+ 
+0
+ 
+0
+ 
+480
+ 
+12
+ 
+Beijing
+ 
+2154
+ 
+0
+ 
+21
+ 
+0
+ 
+400
+ 
+4
+ 
+Shanghai
+ 
+2424
+ 
+1
+ 
+46
+ 
+0
+ 
+336
+ 
+3
+ 
+Hebei
+ 
+7556
+ 
+1
+ 
+0
+ 
+0
+ 
+312
+ 
+6
+ 
+Fujian
+ 
+3941
+ 
+0
+ 
+0
+ 
+0
+ 
+294
+ 
+1
+ 
+Guangxi
+ 
+4926
+ 
+0
+ 
+2
+ 
+0
+ 
+252
+ 
+2
+ 
+Shaanxi
+ 
+3864
+ 
+0
+ 
+0
+ 
+0
+ 
+245
+ 
+1
+ 
+Yunnan
+ 
+4830
+ 
+0
+ 
+7
+ 
+0
+ 
+174
+ 
+2
+ 
+Hainan
+ 
+934
+ 
+0
+ 
+6
+ 
+0
+ 
+168
+ 
+5
+ 
+Guizhou
+ 
+3600
+ 
+0
+ 
+0
+ 
+0
+ 
+146
+ 
+2
+ 
+Tianjin
+ 
+1560
+ 
+0
+ 
+14
+ 
+0
+ 
+135
+ 
+3
+ 
+Shanxi
+ 
+3718
+ 
+0
+ 
+1
+ 
+0
+ 
+133
+ 
+0
+ 
+Liaoning
+ 
+4359
+ 
+0
+ 
+6
+ 
+0
+ 
+121
+ 
+1
+ 
+Jilin
+ 
+2704
+ 
+0
+ 
+2
+ 
+0
+ 
+93
+ 
+1
+ 
+Gansu
+ 
+2637
+ 
+0
+ 
+0
+ 
+0
+ 
+91
+ 
+2
+ 
+Hong Kong SAR
+ 
+745
+ 
+4
+ 
+0
+ 
+0
+ 
+85
+ 
+2
+ 
+Xinjiang
+ 
+2487
+ 
+0
+ 
+0
+ 
+0
+ 
+76
+ 
+2
+ 
+Inner Mongolia
+ 
+2534
+ 
+0
+ 
+0
+ 
+0
+ 
+75
+ 
+0
+ 
+Ningxia
+ 
+688
+ 
+0
+ 
+2
+ 
+0
+ 
+71
+ 
+0
+ 
+Taipei and environs
+ 
+2359
+ 
+2
+ 
+0
+ 
+0
+ 
+32
+ 
+1
+ 
+Qinghai
+ 
+603
+ 
+0
+ 
+0
+ 
+0
+ 
+18
+ 
+0
+ 
+Macao SAR
+ 
+66
+ 
+0
+ 
+0
+ 
+0
+ 
+10
+ 
+0
+ 
+Xizang
+ 
+344
+ 
+0
+ 
+0
+ 
+0
+ 
+1
+ 
+0
+ 
+Total
+ 
+142823
+ 
+412
+ 
+439
+ 
+52
+ 
+78191
+ 
+2718
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Table
+ 
+2
+. Countries, territories or areas 
+outside China 
+with report
+ed 
+laboratory
+-
+confirmed 
+COVID
+-
+19
+ 
+cases 
+and 
+deaths
+. Data as of
+ 
+2
+6
+ 
+February 2020
+ 
+Country/Territory/Area
+ 
+Confirmed
+*
+ 
+cases (new)
+ 
+ 
+Likely place of exposure
+
+ 
+Total cases with site of 
+transmission under 
+investigation (new)
+ 
+Total 
+deaths 
+(new)
+ 
+China 
+(new)
+ 
+Outside 
+reporting 
+country and
+ 
+o
+utside China 
+(new)
+ 
+In 
+reporting 
+country 
+(new)
+ 
+Western Pacific Region
+ 
+Republic of Korea
+ 
+1261 (284)
+ 
+13 (0)
+ 
+4 (0)
+ 
+605 (0)
+ 
+639 (284)
+ 
+12 (2)
+ 
+Japan
+ 
+164 (7)
+ 
+28 (0)
+ 
+8 (1)
+ 
+116 (6)
+ 
+12 (0)
+ 
+1 (0)
+ 
+Singapore
+ 
+91 (1)
+ 
+24 (0)
+ 
+0 (0)
+ 
+67 (1)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Australia
+ 
+23 (1)
+ 
+12 (0)
+ 
+8 (1)
+ 
+3 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Malaysia
+ 
+22 (0)
+ 
+18 (0)
+ 
+2 (0)
+ 
+2 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Viet Nam
+ 
+16 (0)
+ 
+8 (0)
+ 
+0 (0)
+ 
+8 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Philippines
+ 
+3 (0)
+ 
+3 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+1 (0)
+ 
+Cambodia
+ 
+1 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+South
+-
+East Asia Region
+ 
+Thailand
+ 
+40 (3)
+ 
+23 (0)
+ 
+0 (0)
+ 
+7 (0)
+ 
+10 (3)
+ 
+0 (0)
+ 
+India
+ 
+3 (0)
+ 
+3 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Nepal
+ 
+1 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Sri Lanka
+ 
+1 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Region of the Americas
+ 
+United States of America
+ 
+53 (0)
+ 
+14 (0)
+ 
+36 (0)
+ 
+2 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+Canada
+ 
+10 (0)
+ 
+7 (0)
+ 
+1 (0)
+ 
+1 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+European Region
+ 
+Italy
+ 
+322 (93)
+ 
+3 (0)
+ 
+0 (0)
+ 
+121 (0)
+ 
+198 (93)
+ 
+11 (5)
+ 
+Germany
+ 
+18 (2)
+ 
+2 (0)
+ 
+2 (2)
+ 
+14 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+The United Kingdom
+ 
+13 (0)
+ 
+2 (0)
+ 
+10 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+France
+ 
+12 (0)
+ 
+5 (0)
+ 
+0 (0)
+ 
+7 (0)
+ 
+0 (0)
+ 
+1 (0)
+ 
+Austria
+ 
+2 (2)
+ 
+0 (0)
+ 
+2 (2)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Croatia
+ 
+2 (2)
+ 
+0 (0)
+ 
+1 (1)
+ 
+0 (0)
+ 
+1 (1)
+ 
+0 (0)
+ 
+Israel
+ 
+2 (0)
+ 
+0 
+(0)
+ 
+2 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Russian Federation
+ 
+2 (0)
+ 
+2 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Spain
+ 
+2 (0)
+ 
+0 (0)
+ 
+2 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Belgium
+ 
+1 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Finland
+ 
+1 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Sweden
+ 
+1 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 
+(0)
+ 
+0 (0)
+ 
+Switzerland
+ 
+1 (1)
+ 
+0 (0)
+ 
+1 (1)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Eastern Mediterranean Region
+ 
+Iran (Islamic Republic of)
+ 
+95 (34)
+ 
+0 (0)
+ 
+0 (0)
+ 
+28 (0)
+ 
+67 (34)
+ 
+15 (3)
+ 
+Bahrain
+ 
+26 (18)
+ 
+0 (0)
+ 
+26 (18)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+United Arab Emirates
+ 
+13 (0)
+ 
+6 (0)
+ 
+2 (0)
+ 
+5 
+(0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Kuwait
+ 
+12 (4)
+ 
+0 (0)
+ 
+12 (4)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Iraq
+ 
+5 (4)
+ 
+0 (0)
+ 
+5 (4)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Oman
+ 
+4 (2)
+ 
+0 (0)
+ 
+4 (2)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Afghanistan
+ 
+1 (0)
+ 
+0 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Egypt
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+Lebanon
+ 
+1 (0)
+ 
+0 
+(0)
+ 
+1 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+African Region
+ 
+Algeria
+ 
+1 (1)
+ 
+0 (0)
+ 
+1 (1)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+ 
+Subtotal for all regions
+ 
+2227 (459)
+ 
+179 (0)
+ 
+131 (37)
+ 
+988 (7)
+ 
+929 (415)
+ 
+41 (10)
+ 
+International conveyance
+
+ 
+(Diamond Princess)
+ 
+691 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+0 (0)
+ 
+691 (0)
+ 
+3 
+(0)
+ 
+Grand total
+§
+ 
+2918 (459)
+ 
+179 (0)
+ 
+131 (37)
+ 
+988 (7)
+ 
+929 (415)
+ 
+44 (10)
+ 
+*
+Case classifications are
+ 
+based on 
+WHO case 
+definitions
+ 
+for 
+COVID
+-
+19
+.
+ 
+ 
+
+Location of transmission is classified based on WHO analy
+sis of available official 
+data and
+ 
+may be subject to reclassification as additional data become available.
+ 
+
+Cases identified on a cruise ship currently in Japanese territorial waters.
+ 
+§
+217 female/294 male/2407 unknown. 22 healthcare workers (4 female/8 male/ 10 unknown). 
+ 
+  
+ 
+Figure 2.
+ 
+Epidemic curve 
+of 
+COVID
+-
+19
+ 
+cases
+ 
+(n=
+3
+12)
+ 
+identified outside of China,
+ 
+by date of onset 
+of symptoms 
+and 
+likely exposure location
+,
+ 
+2
+6
+ 
+February
+ 
+2020
+ 
+ 
+ 
+ 
+ 
+Note for figure 2: Of the 
+2918
+ 
+cases reported outside China, 
+8
+6
+ 
+were detected while 
+apparently 
+a
+symptomatic. For 
+the remaining 
+2832
+ 
+cases, information on date of onset is available only for the 
+3
+12
+ 
+cases presented in the 
+epidemiologic curve.
+ 
+ 
+ 
+Figure 3.
+ 
+Ep
+idemic curve of 
+COVID
+-
+19
+ 
+cases 
+(n=
+2
+918
+) 
+identified outside of China, by date of report
+ 
+and likely 
+exposure location
+, 
+2
+6
+ 
+February
+ 
+2020
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+PREPAREDNESS AND RESPONSE
+ 
+ 
+
+ 
+To view 
+all 
+technical guidance documents
+ 
+regarding 
+COVID
+-
+19
+, please go to 
+this webpage
+.
+ 
+
+ 
+WHO is working 
+closely 
+with International Air Transport Association (
+IATA) and have jointly developed a 
+guidance document to provide advice to
+ 
+ca
+bin crew
+ 
+and airport workers, based on 
+country queries. The 
+guidance can be found on the 
+IATA webpage
+. 
+ 
+
+ 
+WHO has developed 
+a protocol for the investigation of early 
+cases (
+
+First Few X (FFX) Cases and contact 
+investigation protocol for 2019
+-
+novel coron
+avirus (2019
+-
+nCoV) infection
+
+)
+. The protocol is designed to gain an 
+early understanding of the key clinical, epidemiological and virological characteristics of the first cases of 
+COVID
+-
+19
+ 
+infection detected in 
+any individual country, 
+to inform the devel
+opment and updating of public health 
+guidance to manage cases and reduce potential spread and impact of infection. 
+ 
+
+ 
+WHO
+ 
+has
+ 
+been
+ 
+in
+ 
+regular
+ 
+and
+ 
+direct
+ 
+contact
+ 
+with
+ 
+Member
+ 
+States
+ 
+where
+ 
+cases
+ 
+have
+ 
+been
+ 
+reported.
+ 
+WHO is also 
+informing other countries about th
+e situation and providing support as requested.
+ 
+
+ 
+WHO has d
+eveloped interim guidance for
+ 
+laboratory diagnosis
+, 
+advice on the use of masks during home care and 
+in health care settings in the context of the novel coronavirus (2019
+-
+nCoV) outbreak,
+ 
+clinical management
+,
+ 
+infection prevention and control in health care settings,
+ 
+home care for patients with suspected novel 
+coronavirus
+,
+ 
+risk communication and community engagement
+ 
+and 
+Global Surveillance for human infection with 
+novel coronavirus (2019
+-
+nCoV)
+.
+ 
+
+ 
+WHO has p
+repared 
+disease commodity package
+ 
+that includes an essential list of biomedical equipment, 
+medicines and supplies necessary to care for patients with 2019
+-
+nCoV.
+ 
+ 
+
+ 
+WHO has p
+rovided recommendations to reduce risk of 
+transmission from animals to huma
+ns
+.
+ 
+
+ 
+WHO has published an 
+updated advice for international traffic in relation to the outbreak of the novel 
+coronavirus 2019
+-
+nCoV
+.
+ 
+
+ 
+WHO has a
+ctivat
+ed
+ 
+of R&D blueprint to accelerate diagnostics, vaccines, and therapeutics.
+ 
+
+ 
+WHO has developed 
+online courses on the following topics: 
+ 
+A general introduction to emerging respiratory 
+viruses,
+ 
+including novel coronaviruses (available in 
+French
+, 
+Chinese
+, and 
+Spanish
+);  
+Critical Care of Severe Acute 
+Respiratory
+ 
+Infections
+; and 
+Health and safety briefing for respiratory diseases 
+-
+ 
+ePROTECT
+ 
+
+ 
+WHO is providing guidance on early investigations, which are critical to carry out early in an
+ 
+outbreak of a new 
+virus. The data collected from the protocols can be used to refine recommendations for surveillance
+ 
+and case 
+STRATEGIC OBJECTIVES
+ 
+ 
+
+o
+:
+ 
+ 
+
+ 
+Limit human
+-
+to
+-
+human 
+transmission including reducing secondary infections among close contacts and 
+health care workers, preventing transmission amplification events, and preventing further international 
+spread from China*;
+ 
+ 
+
+ 
+Identify, isolate and care for patients early, includ
+ing providing optimized care for infected patients;
+ 
+
+ 
+Identify and reduce transmission from the animal source;
+ 
+
+ 
+Address crucial unknowns regarding clinical severity, extent of transmission and infection, treatment 
+options, and accelerate the development of di
+agnostics, therapeutics and vaccines;
+ 
+
+ 
+Communicate critical risk and event information to all communities and counter misinformation;
+ 
+
+ 
+Minimize social and economic impact through multisectoral partnerships.
+ 
+ 
+*
+This can be achieved through a combination of pub
+lic health measures, such as rapid identification, diagnosis 
+and management of the cases, identification and follow up of the contacts, infection prevention and control in 
+health
+ 
+care settings, implementation of health measures for travelers, awareness
+-
+rai
+sing in the population
+ 
+and 
+risk communication.
+ 
+  
+ 
+definitions, to characterize the key epidemiological transmission features of 
+COVID
+-
+19,
+ 
+help understand spread, 
+severity, spectr
+um of disease, impact on the community and to
+ 
+inform operational models for implementation of 
+countermeasures such as case isolation, contact
+ 
+tracing and isolation.
+ 
+Several protocols are available here: 
+https://www.who.int/emergencies/diseases/novel
+-
+coronavirus
+-
+2019/technical
+-
+guidance/early
+-
+investigations
+ 
+ 
+
+ 
+WHO is working with its networks of researchers and other experts to coordinate global work on surveillance, 
+epidemiology, modelling, diagnostics, clin
+ical care and treatment, and other ways to identify, manage the 
+disease and limit onward transmission. WHO has issued interim guidance for countries, 
+which are 
+updated 
+regularly
+.
+ 
+
+ 
+WHO is working with 
+global expert networks and partnerships for laboratory, i
+nfection prevention and control, 
+clinical management and mathematical modelling.
+ 
+ 
+RECOMMENDATIONS AND ADVICE
+ 
+FOR THE PUBLIC
+ 
+ 
+If you are not in an area where COVID
+-
+19 is spreading, or if you have not travelled from one of those areas or have 
+not been in clo
+se contact with someone who has and is feeling unwell, your chances of getting it are currently low. 
+
+facts to help you accurately determine
+ 
+your risks so that you can take reasonable precautions. (See 
+Frequently Asked 
+Questions
+) Your healthcare provider, your national public health authority and your employer are all potential 
+sources of accurate information on COVID
+-
+19 and whether it is in your area. It is important to be informed of the 
+situation where you live and take approp
+riate measures to protect yourself. (See  
+Protection measures for 
+everyone
+).
+ 
+If you are in an area where there is an outbreak of COVID
+-
+19 you need to take the risk of infection seriously. Follow 
+the advice issued
+ 
+by national and local health authorities. Although for most people COVID
+-
+19 causes only mild 
+illness, it can make some people very ill. More rarely, the disease can be fatal. Older people, and those with pre
+-
+existing medical conditions (such as high blood
+ 
+pressure, heart problems or diabetes) appear to be more vulnerable. 
+(See 
+Protection measures for persons who are in or have recently visited (past 14 days) areas where COVID
+-
+19 is 
+spreading
+).
+ 
+ 
+ 

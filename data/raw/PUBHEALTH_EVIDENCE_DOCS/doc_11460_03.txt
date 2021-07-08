@@ -1,0 +1,1884 @@
+Chem.All Publications/WebsiteOR SEARCH CITATIONSJournal of Medicinal ChemistryAccounts of Chemical ResearchAccounts of Materials ResearchACS Agricultural Science &amp; TechnologyACS Applied Bio MaterialsACS Applied Electronic MaterialsACS Applied Energy MaterialsACS Applied Materials &amp; InterfacesACS Applied Nano MaterialsACS Applied Polymer MaterialsACS Biomaterials Science &amp; EngineeringACS CatalysisACS Central ScienceACS Chemical BiologyACS Chemical Health &amp; SafetyACS Chemical NeuroscienceACS Combinatorial ScienceACS Earth and Space ChemistryACS Energy LettersACS ES&T; EngineeringACS ES&T; WaterACS Food Science &amp; TechnologyACS Infectious DiseasesACS Macro LettersACS Materials LettersACS Medicinal Chemistry LettersACS NanoACS OmegaACS Pharmacology &amp; Translational ScienceACS PhotonicsACS SensorsACS Sustainable Chemistry &amp; EngineeringACS Synthetic BiologyAnalytical ChemistryBiochemistryBioconjugate ChemistryBiomacromoleculesBiotechnology ProgressC&EN; Global EnterpriseChemical &amp; Engineering News ArchiveChemical Health &amp; SafetyChemical Research in ToxicologyChemical ReviewsChemistry of MaterialsCrystal Growth &amp; DesignEnergy &amp; FuelsEnvironmental Science &amp; TechnologyEnvironmental Science &amp; Technology LettersI&EC; Product Research and DevelopmentIndustrial &amp; Engineering ChemistryIndustrial &amp; Engineering Chemistry Analytical EditionIndustrial &amp; Engineering Chemistry Chemical &amp; Engineering Data SeriesIndustrial &amp; Engineering Chemistry FundamentalsIndustrial &amp; Engineering Chemistry Process Design and DevelopmentIndustrial &amp; Engineering Chemistry Product Research and DevelopmentIndustrial &amp; Engineering Chemistry ResearchIndustrial and Engineering Chemistry, News EditionInorganic ChemistryJACS AuJournal of the American Chemical SocietyJournal of Agricultural and Food ChemistryJournal of Chemical &amp; Engineering DataJournal of Chemical DocumentationJournal of Chemical EducationJournal of Chemical Health &amp; SafetyJournal of Chemical Information and Computer SciencesJournal of Chemical Information and ModelingJournal of Chemical Theory and ComputationJournal of Combinatorial ChemistryJournal of Industrial &amp; Engineering ChemistryJournal of Medicinal and Pharmaceutical ChemistryJournal of Natural ProductsThe Journal of Organic ChemistryThe Journal of Physical ChemistryThe Journal of Physical ChemistryThe Journal of Physical Chemistry AThe Journal of Physical Chemistry BThe Journal of Physical Chemistry CThe Journal of Physical Chemistry LettersJournal of Proteome ResearchJournal of the American Society for Mass SpectrometryLangmuirMacromoleculesMolecular PharmaceuticsNano LettersNews Edition, American Chemical SocietyOrganic LettersOrganic Process Research &amp; DevelopmentOrganometallicsProduct R&D;SciMeetingsThe Journal of Physical and Colloid Chemistry  My Activity Recently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+ Chem.
+ E-mail: [email protected]Cite this: J. Med.
+ Chem.
+ 2017, 60, 5, 1620–1637Publication Date (Web):January 11, 2017Publication History Received1 July 2016Published online11 January 2017Published inissue 9 March 2017https://doi.org/10.1021/acs.jmedchem.6b00975Copyright © 2017 American Chemical SocietyRIGHTS &amp; PERMISSIONSACS Editors' Choice with CC-BY-NC-ND licenseArticle Views103476Altmetric-Citations521LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals.
+ These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily.
+ Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online.
+ Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article.
+ Find more information on the Altmetric Attention Score and how the score is calculated.
+ Interest in the therapeutic use of turmeric and the relative ease of isolation of curcuminoids has led to their extensive investigation.
+ Curcumin has recently been classified as both a PAINS (pan-assay interference compounds) and an IMPS (invalid metabolic panaceas) candidate.
+ The likely false activity of curcumin in vitro and in vivo has resulted in &gt;120 clinical trials of curcuminoids against several diseases.
+ No double-blinded, placebo controlled clinical trial of curcumin has been successful.
+ This manuscript reviews the essential medicinal chemistry of curcumin and provides evidence that curcumin is an unstable, reactive, nonbioavailable compound and, therefore, a highly improbable lead.
+ On the basis of this in-depth evaluation, potential new directions for research on curcuminoids are discussed.Supporting InformationARTICLE SECTIONSJump ToThe Supporting Information is available free of charge on the ACS Publications website at DOI: 10.1021/acs.jmedchem.6b00975.Supplemental Tables 1, 2, and 3 of assays, half-lives, and activities, along with a discussion of covalent protein modification by 1 (PDF)jm6b00975_si_001.pdf (183.29 kb)      Terms &amp; Conditions     Electronic Supporting Information files are available without a subscription to ACS Web Editions.
+ The American Chemical Society holds a copyright ownership interest in any copyrightable Supporting Information.
+ Files available from the ACS website may be downloaded for personal use only.
+ Users are not otherwise permitted to reproduce, republish, redistribute, or sell any Supporting Information from the ACS website, either in whole or in part, in either machine-readable form or any other form without permission from the American Chemical Society.
+ For permission to reproduce, republish and redistribute this material, requesters must process their own requests via the RightsLink permission system.
+ Information about how to use the RightsLink permission system can be found at http://pubs.acs.org/page/copyright/permissions.html.
+ Cited By
+       This article is cited by
+        521 publications.
+ Yizhe Dai, Victor Terskikh, Andreas Brinmkmann, Gang Wu.
+ Solid-State 1H, 13C, and 17O NMR Characterization of the Two Uncommon Polymorphs of Curcumin.
+ Crystal Growth &amp; Design 2020, 20 
+          (11)
+           , 7484-7491. https://doi.org/10.1021/acs.cgd.0c01164Jakob C. Green, Yuqi Jiang, Liu He, Yiming Xu, Dong Sun, Timothy Keoprasert, Christopher Nelson, Unsong Oh, Edward J. Lesnefsky, Glen E. Kellogg, Qun Chen, Shijun Zhang.
+ Characterization and Discovery of a Selective Small-Molecule Modulator of Mitochondrial Complex I Targeting a Unique Binding Site.
+ Journal of Medicinal Chemistry 2020, 63 
+          (20)
+           , 11819-11830. https://doi.org/10.1021/acs.jmedchem.0c01021Saed Abbasi, Yusuke Sato, Kazuaki Kajimoto, Hideyoshi Harashima.
+ New Design Strategies for Controlling the Rate of Hydrophobic Drug Release from Nanoemulsions in Blood Circulation.
+ Molecular Pharmaceutics 2020, 17 
+          (10)
+           , 3773-3782. https://doi.org/10.1021/acs.molpharmaceut.0c00542Kathryn M. Nelson, Jonathan Bisson, Gurpreet Singh, James G. Graham, Shao-Nong Chen, J. Brent Friesen, Jayme L. Dahlin, Matthias Niemitz, Michael A. Walters, Guido F. Pauli.
+ The Essential Medicinal Chemistry of Cannabidiol (CBD).
+ Journal of Medicinal Chemistry 2020, Article ASAP.Rita Maria Concetta Di Martino, Letizia Pruccoli, Alessandra Bisi, Silvia Gobbi, Angela Rampa, Ana Martinez, Concepción Pérez, Loreto Martinez-Gonzalez, Maria Paglione, Elia Di Schiavi, Francesca Seghetti, Andrea Tarozzi, Federica Belluti.
+ Novel Curcumin-Diethyl Fumarate Hybrid as a Dualistic GSK-3β Inhibitor/Nrf2 Inducer for the Treatment of Parkinson’s Disease.
+ ACS Chemical Neuroscience 2020, 11 
+          (17)
+           , 2728-2740. https://doi.org/10.1021/acschemneuro.0c00363Zolaikha Rasouli, Raouf Ghavami.
+ Facile Approach to Fabricate a Chemical Sensor Array Based on Nanocurcumin–Metal Ions Aggregates: Detection and Identification of DNA Nucleobases.
+ ACS Omega 2020, 5 
+          (31)
+           , 19331-19341. https://doi.org/10.1021/acsomega.0c00593Wenjie Liu, Xiaochun Hu, Lulu Zhou, Ying Tu, Shuo Shi, Tianming Yao.
+ Orientation-Inspired Perspective on Molecular Inhibitor of Tau Aggregation by Curcumin Conjugated with Ruthenium(II) Complex Scaffold.
+ The Journal of Physical Chemistry B 2020, 124 
+          (12)
+           , 2343-2353. https://doi.org/10.1021/acs.jpcb.9b11705Lucie Peterková, Eva Kmoníčková, Tomáš Ruml, Silvie Rimpelová.
+ Sarco/Endoplasmic Reticulum Calcium ATPase Inhibitors: Beyond Anticancer Perspective.
+ Journal of Medicinal Chemistry 2020, 63 
+          (5)
+           , 1937-1963. https://doi.org/10.1021/acs.jmedchem.9b01509Kathryn M. Nelson.
+ A Curiously Linear Path to Academic Drug Discovery.
+ ACS Medicinal Chemistry Letters 2020, 11 
+          (3)
+           , 217-220. https://doi.org/10.1021/acsmedchemlett.9b00459Kemal Duric, Yang Liu, Shao-Nong Chen, David C. Lankin, Dejan Nikolic, James B. McAlpine, J. Brent Friesen, Guido F. Pauli.
+ Studying Mass Balance and the Stability of (Z)-Ligustilide from Angelica sinensis Helps to Bridge a Botanical Instability–Bioactivity Chasm.
+ Journal of Natural Products 2019, 82 
+          (9)
+           , 2400-2408. https://doi.org/10.1021/acs.jnatprod.8b00962Eliška Procházková, Cheng Cao, Aditya Rawal, Martin Dračínský, Saroj Bhattacharyya, Ivana Císařová, James M. Hook, Martina H. Stenzel.
+ Polymorphic Transformation of Drugs Induced by Glycopolymeric Vesicles Designed for Anticancer Therapy Probed by Solid-State NMR Spectroscopy.
+ ACS Applied Materials &amp; Interfaces 2019, 11 
+          (31)
+           , 28278-28288. https://doi.org/10.1021/acsami.9b05514Katarina Kores, Samo Lešnik, Urban Bren, Dušanka Janežič, Janez Konc.
+ Discovery of Novel Potential Human Targets of Resveratrol by Inverse Molecular Docking.
+ Journal of Chemical Information and Modeling 2019, 59 
+          (5)
+           , 2467-2478. https://doi.org/10.1021/acs.jcim.8b00981Naboneeta Sarkar, Susmita Bose.
+ Liposome-Encapsulated Curcumin-Loaded 3D Printed Scaffold for Bone Tissue Engineering.
+ ACS Applied Materials &amp; Interfaces 2019, 11 
+          (19)
+           , 17184-17192. https://doi.org/10.1021/acsami.9b01218J.
+ Brent Friesen, Yang Liu, Shao-Nong Chen, James B. McAlpine, Guido F. Pauli.
+ Selective Depletion and Enrichment of Constituents in “Curcumin” and Other Curcuma longa Preparations.
+ Journal of Natural Products 2019, 82 
+          (3)
+           , 621-630. https://doi.org/10.1021/acs.jnatprod.9b00020Federica Bisceglia, Francesca Seghetti, Massimo Serra, Morena Zusso, Silvia Gervasoni, Laura Verga, Giulio Vistoli, Cristina Lanni, Michele Catanzaro, Ersilia De Lorenzi, Federica Belluti.
+ Prenylated Curcumin Analogues as Multipotent Tools To Tackle Alzheimer’s Disease.
+ ACS Chemical Neuroscience 2019, 10 
+          (3)
+           , 1420-1433. https://doi.org/10.1021/acschemneuro.8b00463Erik Gilberg, Jürgen Bajorath.
+ Recent Progress in Structure-Based Evaluation of Compound Promiscuity.
+ ACS Omega 2019, 4 
+          (2)
+           , 2758-2765. https://doi.org/10.1021/acsomega.8b03639Swarit Jasial, Erik Gilberg, Thomas Blaschke, Jürgen Bajorath.
+ Machine Learning Distinguishes with High Accuracy between Pan-Assay Interference Compounds That Are Promiscuous or Represent Dark Chemical Matter.
+ Journal of Medicinal Chemistry 2018, 61 
+          (22)
+           , 10255-10264. https://doi.org/10.1021/acs.jmedchem.8b01404Rajpreet Kaur, Poonam Khullar, Aabroo Mahal, Anita Gupta, Narpinder Singh, Gurinder Kaur Ahluwalia, Mandeep Singh Bakshi.
+ Keto–Enol Tautomerism of Temperature and pH Sensitive Hydrated Curcumin Nanoparticles: Their Role as Nanoreactors and Compatibility with Blood Cells.
+ Journal of Agricultural and Food Chemistry 2018, 66 
+          (45)
+           , 11974-11980. https://doi.org/10.1021/acs.jafc.8b03893Wei Hu, Xu-Sheng Huang, Ji-Feng Wu, Liang Yang, Yong-Tang Zheng, Yue-Mao Shen, Zhi-Yu Li, Xun Li.
+ Discovery of Novel Topoisomerase II Inhibitors by Medicinal Chemistry Approaches.
+ Journal of Medicinal Chemistry 2018, 61 
+          (20)
+           , 8947-8980. https://doi.org/10.1021/acs.jmedchem.7b01202Jakub Stefaniak, Andrew M. Lewis, Daniel Conole, Sébastien
+ R. G. Galan, Carole J. R. Bataille, Graham M. Wynne, M. Paola Castaldi, Thomas Lundbäck, Angela J. Russell, Kilian V. M. Huber.
+ Chemical Instability and Promiscuity of Arylmethylidenepyrazolinone-Based MDMX Inhibitors.
+ ACS Chemical Biology 2018, 13 
+          (10)
+           , 2849-2854. https://doi.org/10.1021/acschembio.8b00665Ruyao Chen, Jeremy E. Wulff, Matthew G. Moffitt.
+ Microfluidic Processing Approach to Controlling Drug Delivery Properties of Curcumin-Loaded Block Copolymer Nanoparticles.
+ Molecular Pharmaceutics 2018, 15 
+          (10)
+           , 4517-4528. https://doi.org/10.1021/acs.molpharmaceut.8b00529Wen Cao, Faheem Muhammad, Yuan Cheng, Min Zhou, Qian Wang, Zhangping Lou, Zhe Li, Hui Wei.
+ Acid Susceptible Ultrathin Mesoporous Silica Coated on Layered Double Hydroxide Nanoplates for pH Responsive Cancer Therapy.
+ ACS Applied Bio Materials 2018, 1 
+          (3)
+           , 928-935. https://doi.org/10.1021/acsabm.8b00343Palash Sanphui, Geetha Bolla.
+ Curcumin, a Biological Wonder Molecule: A Crystal Engineering Point of View.
+ Crystal Growth &amp; Design 2018, 18 
+          (9)
+           , 5690-5711. https://doi.org/10.1021/acs.cgd.8b00646Si Nga Wong, Shenye Hu, Wai Wing Ng, Xiaoyan Xu, Ka Lun Lai, Wai Yip Thomas Lee, Albert Hee Lum Chow, Changquan Calvin Sun, Shing Fung Chow.
+ Cocrystallization of Curcumin with Benzenediols and Benzenetriols via Rapid Solvent Removal.
+ Crystal Growth &amp; Design 2018, 18 
+          (9)
+           , 5534-5546. https://doi.org/10.1021/acs.cgd.8b00849Maria
+ A. Matlinska, Roderick E. Wasylishen, Guy M. Bernard, Victor V. Terskikh, Andreas Brinkmann, Vladimir K. Michaelis.
+ Capturing Elusive Polymorphs of Curcumin: A Structural Characterization and Computational Study.
+ Crystal Growth &amp; Design 2018, 18 
+          (9)
+           , 5556-5563. https://doi.org/10.1021/acs.cgd.8b00859Matthew
+ K. Matlock, Tyler B. Hughes, Jayme L. Dahlin, S. Joshua Swamidass.
+ Modeling Small-Molecule Reactivity Identifies Promiscuous Bioactive Compounds.
+ Journal of Chemical Information and Modeling 2018, 58 
+          (8)
+           , 1483-1500. https://doi.org/10.1021/acs.jcim.8b00104Abhijit Nag, Papri Chakraborty, Ganapati Natarajan, Ananya Baksi, Sathish Kumar Mudedla, Venkatesan Subramanian, Thalappil Pradeep.
+ Bent Keto Form of Curcumin, Preferential Stabilization of Enol by Piperine, and Isomers of Curcumin∩Cyclodextrin Complexes: Insights from Ion Mobility Mass Spectrometry.
+ Analytical Chemistry 2018, 90 
+          (15)
+           , 8776-8784. https://doi.org/10.1021/acs.analchem.7b05231Shubhashis Datta, Annamária Jutková, Petra Šrámková, Lenka Lenkavská, Veronika Huntošová, Dušan Chorvát, Pavol Miškovský, Daniel Jancura, Juraj Kronek.
+ Unravelling the Excellent Chemical Stability and Bioavailability of Solvent Responsive Curcumin-Loaded 2-Ethyl-2-oxazoline-grad-2-(4-dodecyloxyphenyl)-2-oxazoline Copolymer Nanoparticles for Drug Delivery.
+ Biomacromolecules 2018, 19 
+          (7)
+           , 2459-2471. https://doi.org/10.1021/acs.biomac.8b00057Jianping He, Jianzhuang Chen, Shaoliang Lin, Dechao Niu, Jina Hao, Xiaobo Jia, Nan Li, Jinlou Gu, Yongsheng Li, Jianlin Shi.
+ Synthesis of a Pillar[5]arene-Based Polyrotaxane for Enhancing the Drug Loading Capacity of PCL-Based Supramolecular Amphiphile as an Excellent Drug Delivery Platform.
+ Biomacromolecules 2018, 19 
+          (7)
+           , 2923-2930. https://doi.org/10.1021/acs.biomac.8b00488Aaron D. Lammer, Grégory Thiabaud, James T. Brewster II, Julie Alaniz, Jon A. Bender, Jonathan L. Sessler.
+ Lanthanide Texaphyrins as Photocatalysts.
+ Inorganic Chemistry 2018, 57 
+          (6)
+           , 3458-3464. https://doi.org/10.1021/acs.inorgchem.8b00248Federica Prati, Giovanni Bottegoni, Maria Laura Bolognesi, and Andrea Cavalli .
+ BACE-1 Inhibitors: From Recent Single-Target Molecules to Multitarget Compounds for Alzheimer’s Disease.
+ Journal of Medicinal Chemistry 2018, 61 
+          (3)
+           , 619-637. https://doi.org/10.1021/acs.jmedchem.7b00393Liu He, Yuqi Jiang, Kai Liu, Victoria Gomez-Murcia, Xiaopin Ma, Alejandro Torrecillas, Qun Chen, Xiongwei Zhu, Edward Lesnefsky, Juan C. Gomez-Fernandez, Bin Xu, and Shijun Zhang .
+ Insights into the Impact of a Membrane-Anchoring Moiety on the Biological Activities of Bivalent Compounds As Potential Neuroprotectants for Alzheimer’s Disease.
+ Journal of Medicinal Chemistry 2018, 61 
+          (3)
+           , 777-790. https://doi.org/10.1021/acs.jmedchem.7b01284Erik Gilberg, Michael Gütschow, and Jürgen Bajorath .
+ X-ray Structures of Target–Ligand Complexes Containing Compounds with Assay Interference Potential.
+ Journal of Medicinal Chemistry 2018, 61 
+          (3)
+           , 1276-1284. https://doi.org/10.1021/acs.jmedchem.7b01780Takanori Tsuda .
+ Curcumin: An Effective or Deceptive Dietary Factor?
+ Challenges for Functional Food Scientists.
+ Journal of Agricultural and Food Chemistry 2018, 66 
+          (5)
+           , 1059-1060. https://doi.org/10.1021/acs.jafc.7b05878John J. Irwin, Garrett Gaskins, Teague Sterling, Michael M. Mysinger, and Michael J. Keiser .
+ Predicted Biological Activity of Purchasable Chemical Space.
+ Journal of Chemical Information and Modeling 2018, 58 
+          (1)
+           , 148-164. https://doi.org/10.1021/acs.jcim.7b00316Peter W. Kenny .
+ Comment on The Ecstasy and Agony of Assay Interference Compounds.
+ Journal of Chemical Information and Modeling 2017, 57 
+          (11)
+           , 2640-2645. https://doi.org/10.1021/acs.jcim.7b00313Ian Diner, Jeromy Dooyema, Marla Gearing, Lary C. Walker, and Nicholas T. Seyfried .
+ Generation of Clickable Pittsburgh Compound B for the Detection and Capture of β-Amyloid in Alzheimer’s Disease Brain.
+ Curcumin “Drug” Stabilized in Oxidovanadium(IV)-BODIPY Conjugates for Mitochondria-Targeted Photocytotoxicity.
+ Inorganic Chemistry 2017, 56 
+          (20)
+           , 12457-12468. https://doi.org/10.1021/acs.inorgchem.7b01924Laura Pandolfi, Michela Bellini, Renzo Vanna, Carlo Morasso, Andrea Zago, Sofia Carcano, Svetlana Avvakumova, Jessica Armida Bertolini, Maria Antonietta Rizzuto, Miriam Colombo, and Davide Prosperi .
+ H-Ferritin Enriches the Curcumin Uptake and Improves the Therapeutic Efficacy in Triple Negative Breast Cancer Cells.
+ Biomacromolecules 2017, 18 
+          (10)
+           , 3318-3330. https://doi.org/10.1021/acs.biomac.7b00974Fatemeh Bahadori and Mutlu Demiray .
+ A Realistic View on “The Essential Medicinal Chemistry of Curcumin”.
+ ACS Medicinal Chemistry Letters 2017, 8 
+          (9)
+           , 893-896. https://doi.org/10.1021/acsmedchemlett.7b00284Swarit Jasial, Ye Hu, and Jürgen Bajorath .
+ How Frequently Are Pan-Assay Interference Compounds Active?
+ Large-Scale Analysis of Screening Data Reveals Diverse Activity Profiles, Low Global Hit Frequency, and Many Consistently Inactive Compounds.
+ Journal of Medicinal Chemistry 2017, 60 
+          (9)
+           , 3879-3886. https://doi.org/10.1021/acs.jmedchem.7b00154Kathryn M. Nelson, Jayme L. Dahlin, Jonathan Bisson, James Graham, Guido F. Pauli, and Michael A. Walters .
+ Curcumin May (Not) Defy Science.
+ ACS Medicinal Chemistry Letters 2017, 8 
+          (5)
+           , 467-470. https://doi.org/10.1021/acsmedchemlett.7b00139Anna Vuorinen, Roger T. Engeli, Susanne Leugger, Fabio Bachmann, Muhammad Akram, Atanas G. Atanasov, Birgit Waltenberger, Veronika Temml, Hermann Stuppner, Liselotte Krenn, Sylvin B. Ateba, Dieudonné Njamen, Rohan A. Davis, Alex Odermatt, and Daniela Schuster .
+ Potential Antiosteoporotic Natural Product Lead Compounds That Inhibit 17β-Hydroxysteroid Dehydrogenase Type 2.
+ Journal of Natural Products 2017, 80 
+          (4)
+           , 965-974. https://doi.org/10.1021/acs.jnatprod.6b00950Govindarajan Padmanaban and Viswanathan A. Nagaraj .
+ Curcumin May Defy Medicinal Chemists.
+ ACS Medicinal Chemistry Letters 2017, 8 
+          (3)
+           , 274-274. https://doi.org/10.1021/acsmedchemlett.7b00051Pierre Degot, Verena Huber, Evamaria Hofmann, Maximilian Hahn, Didier Touraud, Werner Kunz.
+ Solubilization and extraction of curcumin from Curcuma Longa using green, sustainable, and food-approved surfactant-free microemulsions.
+ Food Chemistry 2021, 336 , 127660. https://doi.org/10.1016/j.foodchem.2020.127660Yurii B. Tsaplev, Viktoria A. Lapina, Aleksei V. Trofimov.
+ Fluorescence of curcumin in alkaline dimethyl sulfoxide and the effects of alkali metal cations on it.
+ Journal of Photochemistry and Photobiology A: Chemistry 2021, 405 , 112967. https://doi.org/10.1016/j.jphotochem.2020.112967Tao Cheng, Zhiheng Zhang, Hua Shen, Ziying Jian, Junsheng Li, Yujun Chen, Yi Shen, Xinyi Dai.
+ Topically applicated curcumin/gelatin-blended nanofibrous mat inhibits pancreatic adenocarcinoma by increasing ROS production and endoplasmic reticulum stress mediated apoptosis.
+ Journal of Nanobiotechnology 2020, 18 
+          (1)
+           https://doi.org/10.1186/s12951-020-00687-2Maurizio Dattilo.
+ The role of host defences in Covid 19 and treatments thereof.
+ Molecular Medicine 2020, 26 
+          (1)
+           https://doi.org/10.1186/s10020-020-00216-9Simin Feng, Yuxin Sun, Dan Wang, Peilong Sun, Ping Shao.
+ Effect of adjusting pH and chondroitin sulfate on the formation of curcumin-zein nanoparticles: Synthesis, characterization and morphology.
+ Carbohydrate Polymers 2020, 250 , 116970. https://doi.org/10.1016/j.carbpol.2020.116970Neda Jamali, Mohsen Adib-Hajbaghery, Alireza Soleimani.
+ The effect of curcumin ointment on knee pain in older adults with osteoarthritis: a randomized placebo trial.
+ BMC Complementary Medicine and Therapies 2020, 20 
+          (1)
+           https://doi.org/10.1186/s12906-020-03105-0José L. Quiles, Lorenzo Rivas-García, Alfonso Varela-López, Juan Llopis, Maurizio Battino, Cristina Sánchez-González.
+ Do nutrients and other bioactive molecules from foods have anything to say in the treatment against COVID-19?.
+ Environmental Research 2020, 191 , 110053. https://doi.org/10.1016/j.envres.2020.110053Shivananda Kandagalla, Sharath Belenahalli Shekarappa, Hrvoje Rimac, Maria A. Grishina, Vladimir A. Potemkin, Manjunatha Hanumanthappa.
+ Computational insights into the binding mode of curcumin analogues against EP300 HAT domain as potent acetyltransferase inhibitors.
+ Journal of Molecular Graphics and Modelling 2020, 101 , 107756. https://doi.org/10.1016/j.jmgm.2020.107756Mayumi Hotsumi, Misato Tajiri, Koki Makabe, Hiroyuki Konno.
+ Design, synthesis and evaluation of diaryl γ-dihydropyrone derivatives as cyclocurcumin mimetics and inhibitors of the aggregation of amyloid β. Bioorganic Chemistry 2020, 104 , 104302. https://doi.org/10.1016/j.bioorg.2020.104302Sadaf Akbari, Elnaz Kariznavi, Mahdi Jannati, Sepideh Elyasi, Zahra Tayarani-Najaran.
+ Curcumin as a preventive or therapeutic measure for chemotherapy and radiotherapy induced adverse reaction: A comprehensive review.
+ Food and Chemical Toxicology 2020, 145 , 111699. https://doi.org/10.1016/j.fct.2020.111699Hindu Kalluru, Satish S. Kondaveeti, Srivani Telapolu, Mangathayaru Kalachaveedu.
+ Turmeric supplementation improves the quality of life and hematological parameters in breast cancer patients on paclitaxel chemotherapy: A case series.
+ Complementary Therapies in Clinical Practice 2020, 41 , 101247. https://doi.org/10.1016/j.ctcp.2020.101247Marianna Pauletto, Mery Giantin, Roberta Tolosi, Irene Bassan, Andrea Barbarossa, Anna Zaghini, Mauro Dacasto.
+ Curcumin Mitigates AFB1-Induced Hepatic Toxicity by Triggering Cattle Antioxidant and Anti-inflammatory Pathways: A Whole Transcriptomic In Vitro Study.
+ Antioxidants 2020, 9 
+          (11)
+           , 1059. https://doi.org/10.3390/antiox9111059Morgan R. Jennings, Robin J.
+ Parks.
+ Curcumin as an Antiviral Agent.
+ Viruses 2020, 12 
+          (11)
+           , 1242. https://doi.org/10.3390/v12111242Lina A. Al-Ani, Farkaad A. Kadir, Najihah M. Hashim, Nurhidayatullaili M. Julkapli, Ali Seyfoddin, Jun Lu, Mohammed A. AlSaadi, Wageeh A. Yehye.
+ The impact of curcumin-graphene based nanoformulation on cellular interaction and redox-activated apoptosis: An in vitro colon cancer study.
+ Heliyon 2020, 6 
+          (11)
+           , e05360.
+ Identification of proteasome inhibitors using analysis of gene expression profiles.
+ European Journal of Pharmacology 2020, , 173709. https://doi.org/10.1016/j.ejphar.2020.173709Ajda Coker-Gurkan, Buse Ozakaltun, Berre-Serra Akdeniz, Berfin Ergen, Pınar Obakan-Yerlikaya, Tunc Akkoc, Elif-Damla Arisan.
+ Proinflammatory cytokine profile is critical in autocrine GH-triggered curcumin resistance engulf by atiprimod cotreatment in MCF-7 and MDA-MB-231 breast cancer cells.
+ Molecular Biology Reports 2020, 101 https://doi.org/10.1007/s11033-020-05928-zPeter Sminia, Jaap van den Berg, Arthur van Kootwijk, Eline Hageman, Ben J. Slotman, Wilko F. A. R. Verbakel.
+ Experimental and clinical studies on radiation and curcumin in human glioma.
+ Journal of Cancer Research and Clinical Oncology 2020, 309 https://doi.org/10.1007/s00432-020-03432-2Guannan Wang, Saraswati Sukumar.
+ Characteristics and antitumor activity of polysorbate 80 curcumin micelles preparation by cloud point cooling.
+ Journal of Drug Delivery Science and Technology 2020, 59 , 101871. https://doi.org/10.1016/j.jddst.2020.101871Jiayue Guo, Peilong Li, Lingyan Kong, Baojun Xu.
+ Microencapsulation of curcumin by spray drying and freeze drying.
+ LWT 2020, 132 , 109892. https://doi.org/10.1016/j.lwt.2020.109892Ying-Tao Mu, Huan-Huan Feng, Jin-Qiang Yu, Zhen-Kai Liu, Yan Wang, Jie Shao, Ran-Hui Li, De-Kun Li.
+ Curcumin suppressed proliferation and migration of human retinoblastoma cells through modulating NF-κB pathway.
+ International Ophthalmology 2020, 40 
+          (10)
+           , 2435-2440. https://doi.org/10.1007/s10792-020-01406-4Milad Ashrafizadeh, Ali Zarrabi, Maryam Hashemipour, Massoud Vosough, Masoud Najafi, Md Shahinozzaman, Kiavash Hushmandi, Haroon Khan, Hamed Mirzaei.
+ Sensing the scent of death: Modulation of microRNAs by Curcumin in gastrointestinal cancers.
+ Pharmacological Research 2020, 160 , 105199. https://doi.org/10.1016/j.phrs.2020.105199Hyunsung Kim, Insu Ban, Yohan Choi, Seungmin Yu, So Jung Youn, Moo-Yeol Baik, Hyungjae Lee, Wooki Kim.
+ Puffing of Turmeric (Curcuma longa L.) Enhances its Anti-Inflammatory Effects by Upregulating Macrophage Oxidative Phosphorylation.
+ Antioxidants 2020, 9 
+          (10)
+           , 931. https://doi.org/10.3390/antiox9100931Giuliana Gorrasi, Raffaele Longo, Gianluca Viscusi.
+ Fabrication and Characterization of Electrospun Membranes Based on “Poly(ε-caprolactone)”, “Poly(3-hydroxybutyrate)” and Their Blend for Tunable Drug Delivery of Curcumin.
+ Polymers 2020, 12 
+          (10)
+           , 2239. https://doi.org/10.3390/polym12102239Lara G. Freidus, Pradeep Kumar, Thashree Marimuthu, Priyamvada Pradeep, Viness Pillay, Yahya E. Choonara.
+ Molecules 2020, 25 
+          (19)
+           , 4471. https://doi.org/10.3390/molecules25194471Vladimir I. Muronetz, Kseniya Barinova, Sofia Kudryavtseva, Maria Medvedeva, Aleksandra Melnikova, Irina Sevostyanova, Pavel Semenyuk, Yulia Stroylova, Matej Sova.
+ Natural and Synthetic Derivatives of Hydroxycinnamic Acid Modulating the Pathological Transformation of Amyloidogenic Proteins.
+ Molecules 2020, 25 
+          (20)
+           , 4647. https://doi.org/10.3390/molecules25204647Pascal Crenn.
+ Bénéfices et risques des compléments alimentaires.
+ Nutrition Clinique et Métabolisme 2020, 34 
+          (3)
+           , 201-206. https://doi.org/10.1016/j.nupar.2020.04.006K.
+ Ghazvini, M. Keikha.
+ Can Curcumin be used as a therapeutic agent to eradicate Helicobacter pylori infection?
+ Evidence from human clinical trials.
+ Le Pharmacien Hospitalier et Clinicien 2020, https://doi.org/10.1016/j.phclin.2020.09.006Thanh-Diep Ly, Anika Kleine, Bastian Fischer, Vanessa Schmidt, Doris Hendig, Joachim Kuhn, Cornelius Knabbe, Isabel Faust.
+ Identification of Putative Non-Substrate-Based XT-I Inhibitors by Natural Product Library Screening.
+ Biomolecules 2020, 10 
+          (10)
+           , 1467. https://doi.org/10.3390/biom10101467Gabriela M. Galli, Tiago G. Petrolli, Edemar Aniecevski, Alícia D. Santo, Felipe Leite, Luiz G. Griss, Vanessa Dazuk, Marcel M. Boiago, Hélio V. dos Santos, Claudia A.D.P.
+ Simões, Roger Wagner, Bianca F. Bissacotti, Maria Rosa Schentiger, Aleksandro S. Da Silva.
+ Phytogenic blend protective effects against microbes but affects health and production in broilers.
+ Microbial Pathogenesis 2020, , 104590. https://doi.org/10.1016/j.micpath.2020.104590Martial Caillaud, Yu Aung Myo, Bryan McKiver, Urszula Osinska Warncke, Danielle Thompson, Jared Mann, Egidio Del Fabbro, Alexis Desmoulière, Fabrice Billet, M. Damaj.
+ Key Developments in the Potential of Curcumin for the Treatment of Peripheral Neuropathies.
+ Antioxidants 2020, 9 
+          (10)
+           , 950. https://doi.org/10.3390/antiox9100950Locke Davenport Huyer, Simon Pascual‐Gil, Yufeng Wang, Serena Mandla, Bess Yee, Milica Radisic.
+ Advanced Strategies for Modulation of the Material–Macrophage Interface.
+ Advanced Functional Materials 2020, 30 
+          (44)
+           , 1909331. https://doi.org/10.1002/adfm.201909331Junmin Zhang, Dongzhu Duan, Zi‐Long Song, Tianyu Liu, Yanan Hou, Jianguo Fang.
+ Small molecules regulating reactive oxygen species homeostasis for cancer therapy.
+ Medicinal Research Reviews 2020, 7 https://doi.org/10.1002/med.21734Javad Sharifi-Rad, Youssef El Rayess, Alain Abi Rizk, Carmen Sadaka, Raviella Zgheib, Wissam Zam, Simona Sestito, Simona Rapposelli, Katarzyna Neffe-Skocińska, Dorota Zielińska, Bahare Salehi, William N. Setzer, Noura S. Dosoky, Yasaman Taheri, Marc El Beyrouthy, Miquel Martorell, Elise Adrian Ostrander, Hafiz Ansar Rasul Suleria, William C. Cho, Alfred Maroyi, Natália Martins.
+ Turmeric and Its Major Compound Curcumin on Health: Bioactive Effects and Safety Profiles for Food, Pharmaceutical, Biotechnological and Medicinal Applications.
+ Frontiers in Pharmacology 2020, 11 https://doi.org/10.3389/fphar.2020.01021Sawsan A. Noureddin, Reda M. El-Shishtawy, Khalid O. Al-Footy.
+ Synthesis of new symmetric cyclic and acyclic halocurcumin analogues typical precursors for hybridization.
+ Research on Chemical Intermediates 2020, 19 https://doi.org/10.1007/s11164-020-04264-yChenlin Xu, Zijian Xiao, Heng Wu, Guijuan Zhou, Duanqun He, Yunqian Chang, Yihui Li, Gang Wang, Ming Xie.
+ BDMC protects AD in vitro via AMPK and SIRT1.
+ Translational Neuroscience 2020, 11 
+          (1)
+           , 319-327. https://doi.org/10.1515/tnsci-2020-0140Zi-Yi Yang, Zhi-Jiang Yang, Ai-Ping Lu, Ting-Jun Hou, Dong-Sheng Cao.
+ Scopy: an integrated negative design python library for desirable HTS/VS database design.
+ Briefings in Bioinformatics 2020, 3 https://doi.org/10.1093/bib/bbaa194Ke Luo, Hazzel Joy Adra, Young-Rok Kim.
+ Preparation of starch-based drug delivery system through the self-assembly of short chain glucans and control of its release property.
+ Carbohydrate Polymers 2020, 243 , 116385. https://doi.org/10.1016/j.carbpol.2020.116385Thiago Setti, Miguel Gustavo Luz Arab, Gabriel Silva Santos, Natasha Alkass, Marco Antonio Percope Andrade, José Fábio Santos Duarte Lana.
+ The protective role of glutathione in osteoarthritis.
+ Journal of Clinical Orthopaedics and Trauma 2020, https://doi.org/10.1016/j.jcot.2020.09.006Pan Li, Liqin Ding, Shijie Cao, Xinchi Feng, Qiang Zhang, Yuwei Chen, Nan Zhang, Feng Qiu.
+ Curcumin metabolites contribute to the effect of curcumin on ameliorating insulin sensitivity in high-glucose-induced insulin-resistant HepG2 cells.
+ Journal of Ethnopharmacology 2020, 259 , 113015. https://doi.org/10.1016/j.jep.2020.113015Jennifer Machado Soares, Natalia Mayumi Inada, Vanderlei Salvador Bagnato, Kate Cristina Blanco.
+ Evolution of surviving Streptoccocus pyogenes from pharyngotonsillitis patients submit to multiple cycles of antimicrobial photodynamic therapy.
+ Journal of Photochemistry and Photobiology B: Biology 2020, 210 , 111985. https://doi.org/10.1016/j.jphotobiol.2020.111985Lili Song, Fang Zhang, Jinshen Yu, Chunlei Wei, Qiming Han, Xianghong Meng.
+ Antifungal effect and possible mechanism of curcumin mediated photodynamic technology against Penicillium expansum.
+ Postharvest Biology and Technology 2020, 167 , 111234. https://doi.org/10.1016/j.postharvbio.2020.111234Kambiz Hassanzadeh, Lucia Buccarello, Jessica Dragotto, Asadollah Mohammadi, Massimo Corbo, Marco Feligioni.
+ Obstacles against the Marketing of Curcumin as a Drug.
+ International Journal of Molecular Sciences 2020, 21 
+          (18)
+           , 6619. https://doi.org/10.3390/ijms21186619Robert Keith Wallace.
+ The Microbiome in Health and Disease from the Perspective of Modern Medicine and Ayurveda.
+ Medicina 2020, 56 
+          (9)
+           , 462. https://doi.org/10.3390/medicina56090462Sarinee Leksiri, Hasriadi Hasriadi, Peththa Wadu Dasuni Wasana, Opa Vajragupta, Pornchai Rojsitthisak, Pasarapa Towiwat.
+ Co-administration of Pregabalin and Curcumin Synergistically Decreases Pain-Like Behaviors in Acute Nociceptive Pain Murine Models.
+ Molecules 2020, 25 
+          (18)
+           , 4172. https://doi.org/10.3390/molecules25184172Assmaa Anter, Mohamed Abd El-Ghany, Marwa Abou El Dahab, Noha Mahana.
+ Does Curcumin Have a Role in the Interaction between Gut Microbiota and Schistosoma mansoni in Mice?.
+ Pathogens 2020, 9 
+          (9)
+           , 767. https://doi.org/10.3390/pathogens9090767Chuanbin Yang, Wei Zhang, Xiaoduo Dong, Chunjin Fu, Jimin Yuan, Menglong Xu, Zhen Liang, Chen Qiu, Chengchao Xu.
+ A natural product solution to aging and aging-associated diseases.
+ Pharmacology &amp; Therapeutics 2020, , 107673. https://doi.org/10.1016/j.pharmthera.2020.107673Fisayo Olotu, Clement Agoni, Opeyemi Soremekun, Mahmoud E. S. Soliman.
+ An Update on the Pharmacological Usage of Curcumin: Has it Failed in the Drug Discovery Pipeline?.
+ Cell Biochemistry and Biophysics 2020, 78 
+          (3)
+           , 267-289. https://doi.org/10.1007/s12013-020-00922-5Tianzheng Yu, Jacob Dohl, Li Wang, Yifan Chen, Heath G Gasier, Patricia A Deuster.
+ Curcumin Ameliorates Heat-Induced Injury through NADPH Oxidase–Dependent Redox Signaling and Mitochondrial Preservation in C2C12 Myoblasts and Mouse Skeletal Muscle.
+ The Journal of Nutrition 2020, 150 
+          (9)
+           , 2257-2267. https://doi.org/10.1093/jn/nxaa201Mehdi Sadeghian, Sepideh Rahmani, Tannaz Jamialahmadi, Thomas P. Johnston, Amirhossein Sahebkar.
+ The effect of oral curcumin supplementation on health-related quality of life: A systematic review and meta-analysis of randomized controlled trials.
+ Journal of Affective Disorders 2020, https://doi.org/10.1016/j.jad.2020.09.091Fatma Semina Kapar, Gülay Ciftci.
+ The effects of curcumin and Lactobacillus acidophilus on certain hormones and insulin resistance in rats with metabolic syndrome.
+ Journal of Diabetes &amp; Metabolic Disorders 2020, 7 https://doi.org/10.1007/s40200-020-00578-1Qichen Yang, Samantha Antonio Leong, Kwok Ping Chan, Xiang‐Ling Yuan, Tsz Kin Ng.
+ Complex effect of continuous curcumin exposure on human bone marrow‐derived mesenchymal stem cell regenerative properties through matrix metalloproteinase regulation.
+ Basic &amp; Clinical Pharmacology &amp; Toxicology 2020, 9 https://doi.org/10.1111/bcpt.13477Afsane Bahrami, Gordon A.
+ Ferns.
+ Effect of Curcumin and Its Derivates on Gastric Cancer: Molecular Mechanisms.
+ Nutrition and Cancer 2020, 66 , 1-17. https://doi.org/10.1080/01635581.2020.1808232Sergi Herve Akone, Fidele Ntie-Kang, Fabian Stuhldreier, Monique Bassomo Ewonkem, Alexandre Mboene Noah, Simon Eitel Misse Mouelle, Rolf Müller.
+ Natural Products Impacting DNA Methyltransferases and Histone Deacetylases.
+ Frontiers in Pharmacology 2020, 11 https://doi.org/10.3389/fphar.2020.00992Francesco Fiorentino, Antonello Mai, Dante Rotili.
+ Lysine Acetyltransferase Inhibitors From Natural Sources.
+ Frontiers in Pharmacology 2020, 11 https://doi.org/10.3389/fphar.2020.01243Dulal Musib, Mrityunjoy Pal, Md Kausar Raza, Mithun Roy.
+ Photo-physical, theoretical and photo-cytotoxic evaluation of a new class of lanthanide(
+     iii
+     )–curcumin/diketone complexes for PDT application.
+ Dalton Transactions 2020, 49 
+          (31)
+           , 10786-10798. https://doi.org/10.1039/D0DT02082FKenneth K. Laali, Angela T. Zwarycz, Nicholas Beck, Gabriela L. Borosky, Manabu Nukaya, Gregory D. Kennedy.
+ Curcumin Conjugates of Non‐steroidal Anti‐Inflammatory Drugs: Synthesis, Structures, Anti‐proliferative Assays, Computational Docking, and Inflammatory Response.
+ ChemistryOpen 2020, 9 
+          (8)
+           , 822-834. https://doi.org/10.1002/open.202000173Simin Sharifi, Nazanin Fathi, Mohammad Yousef Memar, Seyed Mahdi Hosseiniyan Khatibi, Rovshan Khalilov, Ramin Negahdari, Sepideh Zununi Vahed, Solmaz Maleki Dizaj.
+ Anti‐microbial activity of curcumin nanoformulations: New trends and future perspectives.
+ Phytotherapy Research 2020, 34 
+          (8)
+           , 1926-1946. https://doi.org/10.1002/ptr.6658Prince Kumar, Deepak Sharma.
+ Ameliorative effect of curcumin on altered expression of CACNA1A and GABRD in the pathogenesis of FeCl3-induced epilepsy.
+ Molecular Biology Reports 2020, 47 
+          (8)
+           , 5699-5710. https://doi.org/10.1007/s11033-020-05538-9Lucia Buccarello, Jessica Dragotto, Federico Iorio, Kambiz Hassanzadeh, Massimo Corbo, Marco Feligioni.
+ The pivotal role of SUMO-1-JNK-Tau axis in an in vitro model of oxidative stress counteracted by the protective effect of curcumin.
+ Biochemical Pharmacology 2020, 178 , 114066. https://doi.org/10.1016/j.bcp.2020.114066Anwesha Sarkar, Alan R. Mackie.
+ Engineering oral delivery of hydrophobic bioactives in real-world scenarios.
+ Current Opinion in Colloid &amp; Interface Science 2020, 48 , 40-52. https://doi.org/10.1016/j.cocis.2020.03.009Mohammad Mirza-Aghazadeh-Attari, Elyad Mohammadi Ekrami, Seyyed Ali Mousavi Aghdas, Ainaz Mihanfar, Shahin Hallaj, Bahman Yousefi, Amin Safa, Maryam Majidinia.
+ Targeting PI3K/Akt/mTOR signaling pathway by polyphenols: Implication for cancer therapy.
+ Life Sciences 2020, 255 , 117481. https://doi.org/10.1016/j.lfs.2020.117481Ih-Jen Su, Hong-Yi Chang, Hui-Chen Wang, Kuen-Jer Tsai.
+ A Curcumin Analog Exhibits Multiple Biologic Effects on the Pathogenesis of Alzheimer’s Disease and Improves Behavior, Inflammation, and β-Amyloid Accumulation in a Mouse Model.
+ International Journal of Molecular Sciences 2020, 21 
+          (15)
+           , 5459. https://doi.org/10.3390/ijms21155459Shuli Man, Jingwen Yao, Panpan Lv, Yu Liu, Li Yang, Long Ma.
+ Curcumin-enhanced antitumor effects of sorafenib
+     via
+     regulating the metabolism and tumor microenvironment.
+ Food &amp; Function 2020, 11 
+          (7)
+           , 6422-6432. https://doi.org/10.1039/C9FO01901DNathan Earl Rainey, Aoula Moustapha, Patrice Xavier Petit.
+ Curcumin, a Multifaceted Hormetic Agent, Mediates an Intricate Crosstalk between Mitochondrial Turnover, Autophagy, and Apoptosis.
+ Oxidative Medicine and Cellular Longevity 2020, 2020 , 1-23. https://doi.org/10.1155/2020/3656419Shuang Li, Gang Xu, Yuhua Zhu, Jian Zhao, Shaohua Gou.
+ Bifunctional ruthenium(
+     ii
+     ) polypyridyl complexes of curcumin as potential anticancer agents.
+ Dalton Transactions 2020, 49 
+          (27)
+           , 9454-9463. https://doi.org/10.1039/D0DT01040ERiley D. Metcalfe, Tracy L. Putoczki, Michael D. W. Griffin.
+ Structural Understanding of Interleukin 6 Family Cytokine Signaling and Targeted Therapies: Focus on Interleukin 11.
+ Curcumin downregulates the
+     PI3K–AKT–mTOR
+     pathway and inhibits growth and progression in head and neck cancer cells.
+ Phytotherapy Research 2020, 33 https://doi.org/10.1002/ptr.6780Andrew G. Kunihiro, Paula B. Luis, Jennifer B. Frye, Wade Chew, H. H. Chow, Claus Schneider, Janet L. Funk.
+ Bone‐Specific Metabolism of Dietary Polyphenols in Resorptive Bone Diseases.
+ Molecular Nutrition &amp; Food Research 2020, 64 
+          (14)
+           , 2000072. https://doi.org/10.1002/mnfr.202000072Zhifeng Han, Jingzhe Zhang, Kun Zhang, Yinghao Zhao.
+ Curcumin inhibits cell viability, migration, and invasion of thymic carcinoma cells via downregulation of microRNA‐27a.
+ Phytotherapy Research 2020, 34 
+          (7)
+           , 1629-1637. https://doi.org/10.1002/ptr.6629Yue Sun, Zhong-Fei Gao, Wei-Bin Yan, Bin-Rong Yao, Wen-Yu Xin, Chun-Hua Wang, Qing-Guo Meng, Gui-Ge Hou.
+ Discovery of novel NF-кB inhibitor based on scaffold hopping: 1,4,5,6,7,8-hexahydropyrido[4,3-d]pyrimidine.
+ European Journal of Medicinal Chemistry 2020, 198 , 112366. https://doi.org/10.1016/j.ejmech.2020.112366Yue Li, Ahmad M. N. Alhendi, Mei-Chun Yeh, Mina Elahy, Fernando S. Santiago, Nandan P. Deshpande, Ben Wu, Enoch Chan, Shafqat Inam, Leonel Prado-Lourenco, Jessica Marchand, Rohan D. Joyce, Lorna E. Wilkinson-White, Mark J. Raftery, Meidong Zhu, Samuel J. Adamson, François Barnat, Karen Viaud-Quentric, Jim Sockler, Joel P. Mackay, Andrew Chang, Paul Mitchell, Sebastian M. Marcuccio, Levon M. Khachigian.
+ Thermostable small-molecule inhibitor of angiogenesis and vascular permeability that suppresses a pERK-FosB/ΔFosB–VCAM-1 axis.
+ Science Advances 2020, 6 
+          (31)
+           , eaaz7815.
+ https://doi.org/10.1126/sciadv.aaz7815Francesca Seghetti, Rita Maria Concetta Di Martino, Elena Catanzaro, Alessandra Bisi, Silvia Gobbi, Angela Rampa, Barbara Canonico, Mariele Montanari, Dmitri V. Krysko, Stefano Papa, Carmela Fimognari, Federica Belluti.
+ Curcumin-1,2,3-Triazole Conjugation for Targeting the Cancer Apoptosis Machinery.
+ Molecules 2020, 25 
+          (13)
+           , 3066. https://doi.org/10.3390/molecules25133066Jeffry Adiwidjaja, Alan V Boddy, Andrew J McLachlan.
+ Physiologically-Based Pharmacokinetic Predictions of the Effect of Curcumin on Metabolism of Imatinib and Bosutinib: In Vitro and In Vivo Disconnect.
+ Pharmaceutical Research 2020, 37 
+          (7)
+           https://doi.org/10.1007/s11095-020-02834-8Si Chen, Shuhua Yang, Mingyang Wang, Jia Chen, Sheng Huang, Zhen Wei, Ziyang Cheng, Hanli Wang, Miao Long, Peng Li.
+ Curcumin inhibits zearalenone-induced apoptosis and oxidative stress in Leydig cells via modulation of the PTEN/Nrf2/Bip signaling pathway.
+ Food and Chemical Toxicology 2020, 141 , 111385. https://doi.org/10.1016/j.fct.2020.111385Li-Xia Zhang, Yun Hou.
+ Crystal structure and anti-inflammatory activity of (3E,5E)-1-((4-chlorophenyl)sulfonyl)-3,5-bis(4-fluorobenzylidene)piperidin-4-one-dichloromethane (1/1), C26H20Cl3F2NO3S.
+ Zeitschrift für Kristallographie - New Crystal Structures 2020, 235 
+          (4)
+           , 891-893. https://doi.org/10.1515/ncrs-2020-0085Wei-Bin Yan, Yong-Jun Liu, Gui-Ge Hou, Wei Cong, Qing-Guo Meng.
+ Crystal structure and anti-inflammatory activity of (3E,5E)-3,5-bis(4-fluorobenzylidene)-1-((4-fluorophenyl)sulfonyl)piperidin-4-one-dichloromethane (1/1), C26H20Cl2F3NO3S.
+ Zeitschrift für Kristallographie - New Crystal Structures 2020, 235 
+          (4)
+           , 947-949. https://doi.org/10.1515/ncrs-2020-0116Donna D. Zhang, Eli Chapman.
+ The role of natural products in revealing NRF2 function.
+ Natural Product Reports 2020, 37 
+          (6)
+           , 797-826. https://doi.org/10.1039/C9NP00061E.
+ Structural Alerts for Toxicity.
+ 2020,,, 305-379. https://doi.org/10.1002/9781119607311.ch5Leila Shirmohammadi, Majid Ghayour-Mobarhan, Maryam Saberi-Karimian, Mehrdad Iranshahi, Shima Tavallaie, Marzieh Emamian, Amirhossein Sahebkar.
+ Effect of Curcumin on Serum Cathepsin D in Patients with Metabolic Syndrome.
+ Cardiovascular &amp; Hematological Disorders-Drug Targets 2020, 20 
+          (2)
+           , 116-121. https://doi.org/10.2174/1871529X19666190919110652K.
+ Kaye, F. Paprottka, R. Escudero, G. Casabona, J. Montes, R. Fakin, L. Moke, T. Stasch, D. Richter, J. Benito-Ruiz.
+ Elective, Non-urgent Procedures and Aesthetic Surgery in the Wake of SARS–COVID-19: Considerations Regarding Safety, Feasibility and Impact on Clinical Management.
+ Aesthetic Plastic Surgery 2020, 44 
+          (3)
+           , 1014-1042. https://doi.org/10.1007/s00266-020-01752-9Yuan Fang, Chao Yang, Zhiqiang Yu, Xiaochuan Li, Qingchun Mu, Guochao Liao, Bin Yu.
+ Natural products as LSD1 inhibitors for cancer therapy.
+ Acta Pharmaceutica Sinica B 2020, https://doi.org/10.1016/j.apsb.2020.06.007Gilles Bommelaer, David Laharie, Stéphane Nancey, Xavier Hebuterne, Xavier Roblin, Maria Nachury, Laurent Peyrin-Biroulet, Mathurin Fumery, Damien Richard, Bruno Pereira, Marion Goutte, Anthony Buisson, Dilek Coban, Marie Dodel, Félix Goutorbe, Christophe Allimant, Maud Reymond, Michel Dapoigny, Olivier Rouquette, Emilie Vazeille, Florian Poullenot, Pauline Riviere, Gilles Boschetti, Jérôme Filippi, Emilie Del Tedesco, Pauline Veyrard, Benjamin Pariente, Pauline Wils, Camille Zallot, Clara Yzet, Franck Brazier.
+ Oral Curcumin No More Effective Than Placebo in Preventing Recurrence of Crohn's Disease After Surgery in a Randomized Controlled Trial.
+ Clinical Gastroenterology and Hepatology 2020, 18 
+          (7)
+           , 1553-1560.e1.
+ https://doi.org/10.1016/j.cgh.2019.08.041Yurii B. Tsaplev, Viktoria A. Lapina, Aleksei V. Trofimov.
+ Curcumin in dimethyl sulfoxide: Stability, spectral, luminescent and acid-base properties.
+ Dyes and Pigments 2020, 177 , 108327. https://doi.org/10.1016/j.dyepig.2020.108327Gagandeep, Prince Kumar, Shamseer Kulangara Kandi, Kasturi Mukhopadhyay, Diwan S. Rawat.
+ Synthesis of novel monocarbonyl curcuminoids, evaluation of their efficacy against MRSA, including ex vivo infection model and their mechanistic studies.
+ European Journal of Medicinal Chemistry 2020, 195 , 112276. https://doi.org/10.1016/j.ejmech.2020.112276Abhinav R Saxena, Zoran Ilic, Veda Sripada, Dana R. Crawford.
+ Lower concentrations of curcumin inhibit Her2-Akt pathway components in human breast cancer cells, and other dietary botanicals potentiate this and lapatinib inhibition.
+ Nutrition Research 2020, 78 , 93-104. https://doi.org/10.1016/j.nutres.2020.05.007Vincent Goëlo, Michael Chaumun, Antónia Gonçalves, Berta N. Estevinho, Fernando Rocha.
+ Polysaccharide-based delivery systems for curcumin and turmeric powder encapsulation using a spray-drying process.
+ Powder Technology 2020, 370 , 137-146. https://doi.org/10.1016/j.powtec.2020.05.016, Vasileios Bampidis, Giovanna Azimonti, Maria de Lourdes Bastos, Henrik Christensen, Mojca Kos Durjava, Maryline Kouba, Marta López‐Alonso, Secundino López Puente, Francesca Marcon, Baltasar Mayo, Alena Pechová, Mariana Petkova, Fernando Ramos, Yolanda Sanz, Roberto Edoardo Villa, Ruud Woutersen, Paul Brantom, Andrew Chesson, Johannes Westendorf, Lucilla Gregoretti, Paola Manini, Birgit Dusemund.
+ Safety and efficacy of turmeric extract, turmeric oil, turmeric oleoresin and turmeric tincture from Curcuma longa L. rhizome when used as sensory additives in feed for all animal species.
+ EFSA Journal 2020, 18 
+          (6)
+           https://doi.org/10.2903/j.efsa.2020.6146Taisiia Shemiakova, Ekaterina Ivanova, Andrey V. Grechko, Elena V. Gerasimova, Igor A. Sobenin, Alexander N. Orekhov.
+ Mitochondrial Dysfunction and DNA Damage in the Context of Pathogenesis of Atherosclerosis.
+ Biomedicines 2020, 8 
+          (6)
+           , 166. https://doi.org/10.3390/biomedicines8060166Jochen Rutz, Andrea Janicova, Katja Woidacki, Felix K.-H. Chun, Roman A. Blaheta, Borna Relja.
+ Curcumin—A Viable Agent for Better Bladder Cancer Treatment.
+ International Journal of Molecular Sciences 2020, 21 
+          (11)
+           , 3761. https://doi.org/10.3390/ijms21113761Wei-Hsun Wang, Chao-Yu Shen, Yi-Chun Chien, Wen-Shin Chang, Chia-Wen Tsai, Yi-Hsien Lin, Jeng-Jong Hwang.
+ Validation of Enhancing Effects of Curcumin on Radiotherapy with F98/FGT Glioblastoma-Bearing Rat Model.
+ International Journal of Molecular Sciences 2020, 21 
+          (12)
+           , 4385. https://doi.org/10.3390/ijms21124385Bingjing Zheng, David Julian McClements.
+ Formulation of More Efficacious Curcumin Delivery Systems Using Colloid Science: Enhanced Solubility, Stability, and Bioavailability.
+ Molecules 2020, 25 
+          (12)
+           , 2791. https://doi.org/10.3390/molecules25122791Piotr Maj, Mattia Mori, Justyna Sobich, Joanna Markowicz, Łukasz Uram, Zbigniew Zieliński, Deborah Quaglio, Andrea Calcaterra, Ylenia Cau, Bruno Botta, Wojciech Rode.
+ Alvaxanthone, a Thymidylate Synthase Inhibitor with Nematocidal and Tumoricidal Activities.
+ Molecules 2020, 25 
+          (12)
+           , 2894. https://doi.org/10.3390/molecules25122894ISAAC R. RUKUNDO, MARY-GRACE C. DANAO.
+ Identifying Turmeric Powder by Source and Metanil Yellow Adulteration Levels Using Near-Infrared Spectra and PCA-SIMCA Modeling.
+ Journal of Food Protection 2020, 83 
+          (6)
+           , 968-974. https://doi.org/10.4315/JFP-19-515Mingxiang Chang, Meimei Wu, Hanmin Li.
+ Antitumor Effects of Curcumin and Glycyrrhetinic Acid-Modified Curcumin-Loaded Cationic Liposome by Intratumoral Administration.
+ Evidence-Based Complementary and Alternative Medicine 2020, 2020 , 1-14. https://doi.org/10.1155/2020/4504936Alejandro Correa-Sáez, Rafael Jiménez-Izquierdo, Martín Garrido-Rodríguez, Rosario Morrugares, Eduardo Muñoz, Marco A. Calzado.
+ Updating dual-specificity tyrosine-phosphorylation-regulated kinase 2 (DYRK2): molecular basis, functions and role in diseases.
+ Cellular and Molecular Life Sciences 2020, 25 https://doi.org/10.1007/s00018-020-03556-1Kunal Pratap, Aya C. Taki, Elecia B. Johnston, Andreas L. Lopata, Sandip D. Kamath.
+ A Comprehensive Review on Natural Bioactive Compounds and Probiotics as Potential Therapeutics in Food Allergy Treatment.
+ Frontiers in Immunology 2020, 11 https://doi.org/10.3389/fimmu.2020.00996Suchart Siengchin, Pawinee Boonyasopon, Vajja Sadanand, Anumakonda Varada Rajulu.
+ Nanocomposite cellulose fabrics with in situ generated silver nanoparticles by bioreduction method.
+ Journal of Industrial Textiles 2020, 29 , 152808372092473. https://doi.org/10.1177/1528083720924731Xinrui Li, Jing Su, Zul Kamal, Pengcheng Guo, Xinyi Wu, Lina Lu, Hongbing Wu, Mingfeng Qiu.
+ Odorranalectin modified PEG–PLGA/PEG–PBLG curcumin-loaded nanoparticle for intranasal administration.
+ Drug Development and Industrial Pharmacy 2020, 4 , 1-11. https://doi.org/10.1080/03639045.2020.1762202Saeed Mohammadian Haftcheshmeh, Mohammad R. Karimzadeh, Sara Azhdari, Parviz Vahedi, Elham Abdollahi, Amir A. Momtazi‐Borojeni.
+ Modulatory effects of curcumin on the atherogenic activities of inflammatory monocytes: Evidence from in vitro and animal models of human atherosclerosis.
+ BioFactors 2020, 46 
+          (3)
+           , 341-355. https://doi.org/10.1002/biof.1603Cormac Hally, Pietro Delcanale, Santi Nonell, Cristiano Viappiani, Stefania Abbruzzetti.
+ Photosensitizing proteins for antibacterial photodynamic inactivation.
+ Translational Biophotonics 2020, 2 
+          (1-2)
+           https://doi.org/10.1002/tbio.201900031Debanjan Kundu, Kumari Prerna, Rahul Chaurasia, Manoj Kumar Bharty, Vikash Kumar Dubey.
+ Advances in protein misfolding, amyloidosis and its correlation with human diseases.
+ 3 Biotech 2020, 10 
+          (5)
+           https://doi.org/10.1007/s13205-020-2166-xAlbert Min-Shan Ko, Chien-Hung Lee, Ying-Chin Ko.
+ Betel quid–associated cancer: Prevention strategies and targeted treatment.
+ Cancer Letters 2020, 477 , 60-69. https://doi.org/10.1016/j.canlet.2020.02.030Fuquan Jin, Xueqin Chen, Hao Yan, Zhifei Xu, Bo Yang, Peihua Luo, Qiaojun He.
+ Bisdemethoxycurcumin attenuates cisplatin-induced renal injury through anti-apoptosis, anti-oxidant and anti-inflammatory.
+ European Journal of Pharmacology 2020, 874 , 173026. https://doi.org/10.1016/j.ejphar.2020.173026Giorgio Cozza, Francesca Zonta, Andrea Dalle Vedove, Andrea Venerando, Stefano Dall'Acqua, Roberto Battistutta, Maria Ruzzene, Graziano Lolli.
+ Biochemical and cellular mechanism of protein kinase CK2 inhibition by deceptive curcumin.
+ The FEBS Journal 2020, 287 
+          (9)
+           , 1850-1864. https://doi.org/10.1111/febs.15111Hatasu Kobayashi, Mariko Murata, Shosuke Kawanishi, Shinji Oikawa.
+ Polyphenols with Anti-Amyloid β Aggregation Show Potential Risk of Toxicity Via Pro-Oxidant Properties.
+ International Journal of Molecular Sciences 2020, 21 
+          (10)
+           , 3561. https://doi.org/10.3390/ijms21103561Maria Pia Adorni, Francesca Zimetti, Maria Giovanna Lupo, Massimiliano Ruscica, Nicola Ferri.
+ Naturally Occurring PCSK9 Inhibitors.
+ Nutrients 2020, 12 
+          (5)
+           , 1440. https://doi.org/10.3390/nu12051440Mohammad Moniruzzaman, Taesun Min.
+ Curcumin, Curcumin Nanoparticles and Curcumin Nanospheres: A Review on Their Pharmacodynamics Based on Monogastric Farm Animal, Poultry and Fish Nutrition.
+ Pharmaceutics 2020, 12 
+          (5)
+           , 447. https://doi.org/10.3390/pharmaceutics12050447Jia-Jing Zhang, Dian-Xing Chen, Liang-Yan Lv, Cong-Hui Qi, Wei-Cheng Xu, Gui-Ge Hou.
+ Crystal structure and anti-inflammatory activity of (3E,5E)-3,5-bis(2-fluorobenzylidene)-1-((4-fluorophenyl)sulfonyl)piperidin-4-one, C25H18F3NO3S.
+ Zeitschrift für Kristallographie - New Crystal Structures , Article ASAP.Saroj K. Basak, Alakesh Bera, Alexander J. Yoon, Marco Morselli, Chan Jeong, Anela Tosevska, Tien S. Dong, Michael Eklund, Eric Russ, Hassan Nasser, Venu Lagishetty, Rong Guo, Dipti Sajed, Sharmila Mudgal, Parag Mehta, Luis Avila, Meera Srivastava, Kym Faull, Jonathan Jacobs, Matteo Pellegrini, Daniel Sanghoon Shin, Eri S. Srivatsan, Marilene B. Wang.
+ A randomized, phase 1, placebo‐controlled trial of APG‐157 in oral cancer demonstrates systemic absorption and an inhibitory effect on cytokines and tumor‐associated microbes.
+ Cancer 2020, 126 
+          (8)
+           , 1668-1682. https://doi.org/10.1002/cncr.32644Lara Gomes Suhett, Rodrigo de Miranda Monteiro Santos, Brenda Kelly Souza Silveira, Arieta Carla Gualandi Leal, Alice Divina Melo de Brito, Juliana Farias de Novaes, Ceres Mattos Della Lucia.
+ Effects of curcumin supplementation on sport and physical exercise: a systematic review.
+ Critical Reviews in Food Science and Nutrition 2020, 16 , 1-13. https://doi.org/10.1080/10408398.2020.1749025Madhuri Basak, Tarun Mahata, Sreemoyee Chakraborti, Pranesh Kumar, Bolay Bhattacharya, Sandip Kumar Bandyopadhyay, Madhusudan Das, Adele Stewart, Sudipta Saha, Biswanath Maity.
+ Malabaricone C Attenuates Nonsteroidal Anti-Inflammatory Drug-Induced Gastric Ulceration by Decreasing Oxidative/Nitrative Stress and Inflammation and Promoting Angiogenic Autohealing.
+ Antioxidants &amp; Redox Signaling 2020, 32 
+          (11)
+           , 766-784. https://doi.org/10.1089/ars.2019.7781Zolaikha Rasouli, Raouf Ghavami.
+ Simultaneous optical detection of human serum albumin and transferrin in body fluids.
+ Microchimica Acta 2020, 187 
+          (4)
+           https://doi.org/10.1007/s00604-020-4178-yJiaxin Zhang, Yuge Zhao, Tianling Hou, Hairong Zeng, Dipika Kalambhe, Bing Wang, Xiaoyan Shen, Yongzhuo Huang.
+ Macrophage-based nanotherapeutic strategies in ulcerative colitis.
+ Journal of Controlled Release 2020, 320 , 363-380. https://doi.org/10.1016/j.jconrel.2020.01.047Isaac R Rukundo, Mary-Grace C Danao, Curtis L Weller, Randy L Wehling, Kent M Eskridge.
+ Use of a handheld near infrared spectrometer and partial least squares regression to quantify metanil yellow adulteration in turmeric powder.
+ Journal of Near Infrared Spectroscopy 2020, 28 
+          (2)
+           , 81-92. https://doi.org/10.1177/0967033519898889Laura Toma, Gabriela Maria Sanda, Loredan Stefan Niculescu, Mariana Deleanu, Anca Volumnia Sima, Camelia Sorina Stancu.
+ Phenolic Compounds Exerting Lipid-Regulatory, Anti-Inflammatory and Epigenetic Effects as Complementary Treatments in Cardiovascular Diseases.
+ Biomolecules 2020, 10 
+          (4)
+           , 641. https://doi.org/10.3390/biom10040641Nurjanah Nurjanah, Endang Saepudin.
+ Synthesis, Characterization, and Antibacterial Evaluation of Curcumin-Sulfanilamide Compound.
+ Key Engineering Materials 2020, 840 , 265-269. https://doi.org/10.4028/www.scientific.net/KEM.840.265Paraskevi Zagana, Spyridon Mourtas, Anastasia Basta, Sophia G. Antimisiaris.
+ Preparation, Physicochemical Properties, and In Vitro Toxicity towards Cancer Cells of Novel Types of Arsonoliposomes.
+ Pharmaceutics 2020, 12 
+          (4)
+           , 327. https://doi.org/10.3390/pharmaceutics12040327T.
+ I. Kushnir, N. E. Arnotskaya, I.
+ A. Kudryavtsev, V. E. Shevchenko.
+ The therapeutic potential of curcumin for the treatment of glioblastoma multiforme.
+ Advances in Molecular Oncology 2020, 7 
+          (1)
+           , 8-16. https://doi.org/10.17650/2313-805X-2020-7-1-8-16Lorenzo Biancalana, Martyna Gruchała, Lucinda K. Batchelor, Andrzej Błauż, Andrea Monti, Guido Pampaloni, Błażej Rychlik, Paul J. Dyson, Fabio Marchetti.
+ Conjugating Biotin to Ruthenium(II) Arene Units via Phosphine Ligand Functionalization.
+ European Journal of Inorganic Chemistry 2020, 2020 
+          (11-12)
+           , 1061-1072. https://doi.org/10.1002/ejic.201900922Yi Zhang, Liangping Tu, Lingling Lu, Yuxiao Li, Linjiang Song, Qingrong Qi, Hang Song, Zicheng Li, Wencai Huang.
+ Screening and application of boron difluoride complexes of curcumin as colorimetric and ratiometric fluorescent probes for bisulfite.
+ Analytical Methods 2020, 12 
+          (11)
+           , 1514-1521. https://doi.org/10.1039/D0AY00173BRicardo Raúl Robles-Rivera, José Alberto Castellanos-González, Cecilia Olvera-Montaño, Raúl Alonso Flores-Martin, Ana Karen López-Contreras, Diana Esperanza Arevalo-Simental, Ernesto Germán Cardona-Muñoz, Luis Miguel Roman-Pintos, Adolfo Daniel Rodríguez-Carrizalez.
+ Adjuvant Therapies in Diabetic Retinopathy as an Early Approach to Delay Its Progression: The Importance of Oxidative Stress and Inflammation.
+ Oxidative Medicine and Cellular Longevity 2020, 2020 , 1-23. https://doi.org/10.1155/2020/3096470Florian Traxler, Johann Schinnerl, Lothar Brecker.
+ Spectroscopic studies on the molecular interactions of curcumin and piperine.
+ Monatshefte für Chemie - Chemical Monthly 2020, 151 
+          (3)
+           , 325-330. https://doi.org/10.1007/s00706-020-02563-zY.
+ Emre Bulbul, Mujgan Okur, Funda Demirtas-Korkmaz, Nursel Dilsiz.
+ Development of PCL/PEO electrospun fibrous membranes blended with silane-modified halloysite nanotube as a curcumin release system.
+ Applied Clay Science 2020, 186 , 105430. https://doi.org/10.1016/j.clay.2019.105430Andy Wai Kan Yeung, Michael Heinrich, Anake Kijjoa, Nikolay T. Tzvetkov, Atanas G. Atanasov.
+ The ethnopharmacological literature: An analysis of the scientific landscape.
+ Journal of Ethnopharmacology 2020, 250 , 112414. https://doi.org/10.1016/j.jep.2019.112414William R. Swindell, Krzysztof Bojanowski, Ratan K. Chaudhuri.
+ A Zingerone Analog, Acetyl Zingerone, Bolsters Matrisome Synthesis, Inhibits Matrix Metallopeptidases, and Represses IL-17A Target Gene Expression.
+ Journal of Investigative Dermatology 2020, 140 
+          (3)
+           , 602-614.e15.
+ https://doi.org/10.1016/j.jid.2019.07.715Lan Zhang, Yi Liu, Xiting Wang, Cheng Li, Mengmeng Shen, Liming Di, Shuangshuang He, Yu Li.
+ Curcumin alleviates TGF-β1-induced fibrosis in NRK-49F cells via suppression of miR-21 expression, and regulation of the TGF-β1/smad3 signaling pathway.
+ Journal of Traditional Chinese Medical Sciences 2020, 7 
+          (1)
+           , 68-74. https://doi.org/10.1016/j.jtcms.2020.01.001Manoj Paul, Kurnegala Manikanta, Mahadevappa Hemshekhar, Mahalingam S. Sundaram, Shivanna Naveen, Thimmasandra Narayan Ramesh, Kempaiah Kemparaju, Kesturu S. Girish.
+ Bisdemethoxycurcumin promotes apoptosis in human platelets via activation of ERK signaling pathway.
+ Toxicology in Vitro 2020, 63 , 104743. https://doi.org/10.1016/j.tiv.2019.104743Yue Sun, Yin-Kai Liu, Jia-Dong Li, Qing-Guo Meng, Gui-Ge Hou.
+ Crystal structure and anti-inflammatory activity of (3E,5E)-3-(2-fluorobenzylidene)-1-((4-fluorophenyl)sulfonyl)-5-(pyridin-3-ylmethylene)piperidin-4-one, C24H18F2N2O3S.
+ Zeitschrift für Kristallographie - New Crystal Structures 2020, 235 
+          (2)
+           , 377-379. https://doi.org/10.1515/ncrs-2019-0683An-Qi Wang, Ru-Ning Gao, Qing-Hao Luan, Ze-Ping Wang, Xiao-Ming Li, Gui-Ge Hou.
+ Crystal structure and anti-inflammatory activity of (3E,5E)-3-(2-fluorobenzylidene)-1-((4-acetamidophenyl)sulfonyl)-5-(pyridin-3-ylmethylene)piperidin-4-one-methanol-hydrate (2/1/1), C53H50F2N6O10S2.
+ Zeitschrift für Kristallographie - New Crystal Structures 2020, 235 
+          (2)
+           , 381-384. https://doi.org/10.1515/ncrs-2019-0686Xian-Yong Bai, Qing-Guo Meng, Gui-Ge Hou, Yun Hou.
+ Crystal structure and anti-inflammatory activity of (3E,5E)-1-((4-bromophenyl)sulfonyl)-3-(pyridin-4-ylmethylene)-5-(2-(trifluoromethyl)benzylidene)piperidin-4-one, C25H18BrF3N2O3S.
+ Zeitschrift für Kristallographie - New Crystal Structures 2020, 235 
+          (2)
+           , 407-409. https://doi.org/10.1515/ncrs-2019-0715Yan-Qiu Zhou, Gui-Ge Hou, Qing-Guo Meng, Yun Hou.
+ Crystal structure and anti-inflammatory activity of (3E,5E)-1-((4-chlorophenyl)sulfonyl)-3-(pyridin-4-ylmethylene)-5-(2-(trifluoromethyl)benzylidene)piperidin-4-one, C25H18ClF3N2O3S.
+ Zeitschrift für Kristallographie - New Crystal Structures 2020, 235 
+          (2)
+           , 411-413. https://doi.org/10.1515/ncrs-2019-0716Ruihao Pan, Yuan Zeng, Guoqiang Liu, Yen Wei, Yanshuang Xu, Lei Tao.
+ Curcumin–polymer conjugates with dynamic boronic acid ester linkages for selective killing of cancer cells.
+ Polymer Chemistry 2020, 11 
+          (7)
+           , 1321-1326. https://doi.org/10.1039/C9PY01596EZeynep Busra Bolat, Zeynep Islek, Bilun Nas Demir, Elif Nur Yilmaz, Fikrettin Sahin, Mehmet Hikmet Ucisik.
+ Curcumin- and Piperine-Loaded Emulsomes as Combinational Treatment Approach Enhance the Anticancer Activity of Curcumin on HCT116 Colorectal Cancer Model.
+ Frontiers in Bioengineering and Biotechnology 2020, 8 https://doi.org/10.3389/fbioe.2020.00050Amol A. Nagargoje, Satish V. Akolkar, Madiha M. Siddiqui, Dnyaneshwar D. Subhedar, Jaiprakash N. Sangshetti, Vijay M. Khedkar, Bapurao B. Shingate.
+ Quinoline Based Monocarbonyl Curcumin Analogs as Potential Antifungal and Antioxidant Agents: Synthesis, Bioevaluation and Molecular Docking Study.
+ Chemistry &amp; Biodiversity 2020, 17 
+          (2)
+           https://doi.org/10.1002/cbdv.201900624Goutam Brahmachari, Mullicka Mandal.
+ One‐pot multicomponent synthesis of a new series of curcumin‐derived 4
+     H
+     ‐pyrans under ambient conditions.
+ Journal of Heterocyclic Chemistry 2020, 57 
+          (2)
+           , 744-750. https://doi.org/10.1002/jhet.3814Virginia Campani, Lorena Scotti, Teresa Silvestri, Marco Biondi, Giuseppe De Rosa.
+ Skin permeation and thermodynamic features of curcumin-loaded liposomes.
+ Journal of Materials Science: Materials in Medicine 2020, 31 
+          (2)
+           https://doi.org/10.1007/s10856-019-6351-6Chi-Hsien Liu, Guan-Wei Lee, Wei-Chi Wu, Chun-Chao Wang.
+ Encapsulating curcumin in ethylene diamine-β-cyclodextrin nanoparticle improves topical cornea delivery.
+ Colloids and Surfaces B: Biointerfaces 2020, 186 , 110726. https://doi.org/10.1016/j.colsurfb.2019.110726Qiuyao Huang, Yan Zhong, Hui Dong, Qiyao Zheng, Shuo Shi, Kai Zhu, Xinming Qu, Wenhao Hu, Xiaolei Zhang, Yuanxiang Wang.
+ Revisiting signal transducer and activator of transcription 3 (STAT3) as an anticancer target and its inhibitor discovery: Where are we and where should we go?.
+ European Journal of Medicinal Chemistry 2020, 187 , 111922. https://doi.org/10.1016/j.ejmech.2019.111922Zahra Shabaninejad, Mohammad Hossein Pourhanifeh, Ahmad Movahedpour, Reza Mottaghi, Ali Nickdasti, Erfan Mortezapour, Alimohammad Shafiee, Sarah Hajighadimi, Sanaz Moradizarmehri, Mohammad Sadeghian, Seyed Mojtaba Mousavi, Hamed Mirzaei.
+ Therapeutic potentials of curcumin in the treatment of glioblstoma.
+ European Journal of Medicinal Chemistry 2020, 188 , 112040. https://doi.org/10.1016/j.ejmech.2020.112040Kedong Tai, Michael Rappolt, Like Mao, Yanxiang Gao, Xin Li, Fang Yuan.
+ The stabilization and release performances of curcumin-loaded liposomes coated by high and low molecular weight chitosan.
+ Food Hydrocolloids 2020, 99 , 105355. https://doi.org/10.1016/j.foodhyd.2019.105355Li Ming Lim, Kunn Hadinoto.
+ Enhancing the stability of amorphous drug-polyelectrolyte nanoparticle complex using a secondary small-molecule drug as the stabilizer: A case study of ibuprofen-stabilized curcumin-chitosan nanoplex.
+ International Journal of Pharmaceutics 2020, 575 , 119007. https://doi.org/10.1016/j.ijpharm.2019.119007P Arun, A Sagayaraj, S M Azeem Mohiyuddin, D Santosh.
+ Role of turmeric extract in minimising mucositis in patients receiving radiotherapy for head and neck squamous cell cancer: a randomised, placebo-controlled trial.
+ The Journal of Laryngology &amp; Otology 2020, 134 
+          (2)
+           , 159-164. https://doi.org/10.1017/S0022215120000316Der-Yen Lee, Yu-Chi Hou, Jai-Sing Yang, Hui-Yi Lin, Tsu-Yuan Chang, Kuo-Hsiung Lee, Sheng-Chu Kuo, Min-Tsang Hsieh.
+ Synthesis, Anticancer Activity, and Preliminary Pharmacokinetic Evaluation of 4,4-Disubstituted Curcuminoid 2,2-bis(Hydroxymethyl)Propionate Derivatives.
+ Molecules 2020, 25 
+          (3)
+           , 479. https://doi.org/10.3390/molecules25030479Ziling Li, Yousheng Huang, Shengfeng Peng, Xing Chen, Liqiang Zou, Wei Liu, Chengmei Liu.
+ Liposomes consisting of pluronic F127 and phospholipid: Effect of matrix on morphology, stability and curcumin delivery.
+ Journal of Dispersion Science and Technology 2020, 41 
+          (2)
+           , 207-213. https://doi.org/10.1080/01932691.2018.1562353Ali Sadeghianmaryan, Zahra Yazdanpanah, Younes Afzal Soltani, Hamed Alizadeh Sardroud, Mohammad Hossein Nasirtabrizi, Xiongbiao Chen.
+ Curcumin‐loaded electrospun polycaprolactone/montmorillonite nanocomposite: wound dressing application with anti‐bacterial and low cell toxicity properties.
+ Journal of Biomaterials Science, Polymer Edition 2020, 31 
+          (2)
+           , 169-187. https://doi.org/10.1080/09205063.2019.1680928Shaima S.A. Miraj, Naima Parveen, Sangita A. Chaudhari.
+ In the Back Drop of Overuse of Synthetic Drugs, can Botanicals be One of the Answers: A Pilot Study on the Medicinal Use of Chlorophytum and Curcuma by Tribals of Central India.
+ Current Traditional Medicine 2020, 6 
+          (1)
+           , 75-83. https://doi.org/10.2174/2215083805666190612143120Sovan Lal Banerjee, Sarthik Samanta, Shrabana Sarkar, Nikhil K. Singha.
+ A self-healable and antifouling hydrogel based on PDMS centered ABA tri-block copolymer polymersomes: a potential material for therapeutic contact lenses.
+ Journal of Materials Chemistry B 2020, 8 
+          (2)
+           , 226-243. https://doi.org/10.1039/C9TB00949CMonika Chaudhary, Neeraj Kumar, Ashish Baldi, Ramesh Chandra, M. Arockia Babu, Jitender Madan.
+ Chloro and bromo-pyrazole curcumin Knoevenagel condensates augmented anticancer activity against human cervical cancer cells: design, synthesis,
+     in silico
+     docking and
+     in vitro
+     cytotoxicity analysis.
+ Journal of Biomolecular Structure and Dynamics 2020, 38 
+          (1)
+           , 200-218. https://doi.org/10.1080/07391102.2019.1578264Clara Bik-San Lau, Grace Gar-Lee Yue.
+ Adjuvant Value of Turmeric Extract (Containing Curcumin) in Colorectal Cancer Management.
+ 2020,,, 209-239. https://doi.org/10.1007/978-3-030-39855-2_7Cristian Camilo Villa Zabala.
+ Starch-Based Nanomateriales as Carriers in Drug and Nutrient Delivery.
+ Nanotechnologies in Food Science: Applications, Recent Trends, and Future Perspectives.
+ Nano-Micro Letters 2020, 12 
+          (1)
+           https://doi.org/10.1007/s40820-020-0383-9Kamal Niaz, Fazlullah Khan.
+ Analysis of polyphenolics.
+ 2020,,, 39-197. https://doi.org/10.1016/B978-0-12-816455-6.00003-2Ana Henriques Mota, Alexandra Sousa, Mariana Figueira, Mariana Amaral, Bruno Sousa, João Rocha, Elias Fattal, António José Almeida, Catarina Pinto Reis.
+ Natural-based consumer health nanoproducts: medicines, cosmetics, and food supplements.
+ 2020,,, 527-578. https://doi.org/10.1016/B978-0-12-816787-8.00019-3Sant Kumar Verma, Suresh Thareja.
+ An overview on chemistry of natural aldose reductase inhibitors for the management of diabetic complications.
+ 2020,,, 381-429. https://doi.org/10.1016/B978-0-12-817905-5.00011-1Magisetty Obulesu.
+ α-Synuclein-targeted nanoparticles.
+ 2020,,, 103-114. https://doi.org/10.1016/B978-0-12-819882-7.00009-XJason K. Cullen, Jacinta L. Simmons, Peter G. Parsons, Glen M. Boyle.
+ Topical treatments for skin cancer.
+ Advanced Drug Delivery Reviews 2020, 153 , 54-64. https://doi.org/10.1016/j.addr.2019.11.002Katiúscia Vieira Jardim, Joseilma Luciana Neves Siqueira, Sônia Nair Báo, Marcelo Henrique Sousa, Alexandre Luis Parize.
+ The role of the lecithin addition in the properties and cytotoxic activity of chitosan and chondroitin sulfate nanoparticles containing curcumin.
+ Carbohydrate Polymers 2020, 227 , 115351. https://doi.org/10.1016/j.carbpol.2019.115351Gregorio Peron, Stefania Sut, Simone Dal Ben, Dario Voinovich, Stefano Dall'Acqua.
+ Untargeted UPLC-MS metabolomics reveals multiple changes of urine composition in healthy adult volunteers after consumption of curcuma longa L. extract.
+ Food Research International 2020, 127 , 108730. https://doi.org/10.1016/j.foodres.2019.108730Nancy M. Elbaz, Andrew Owen, Steve Rannard, Tom O. McDonald.
+ Controlled synthesis of calcium carbonate nanoparticles and stimuli-responsive multi-layered nanocapsules for oral drug delivery.
+ International Journal of Pharmaceutics 2020, 574 , 118866. https://doi.org/10.1016/j.ijpharm.2019.118866Barbara C. Sorkin, Adam J. Kuszak, Gregory Bloss, Naomi K. Fukagawa, Freddie Ann Hoffman, Mahtab Jafari, Bruce Barrett, Paula N. Brown, Frederic D. Bushman, Steven J. Casper, Floyd H. Chilton, Christopher S. Coffey, Mario G. Ferruzzi, D. Craig Hopp, Mairead Kiely, Daniel Lakens, John B. MacMillan, David O. Meltzer, Marco Pahor, Jeffrey Paul, Kathleen Pritchett‐Corning, Sara K. Quinney, Barbara Rehermann, Kenneth D. R. Setchell, Nisha S. Sipes, Jacqueline M. Stephens, D. Lansing Taylor, Hervé Tiriac, Michael A. Walters, Dan Xi, Giovanna Zappalá, Guido F. Pauli.
+ Improving natural product research translation: From source to clinical trial.
+ The FASEB Journal 2020, 34 
+          (1)
+           , 41-65. https://doi.org/10.1096/fj.201902143RDe-Biao Xiang, Kai-Qiang Zhang, Ya-Ling Zeng, Qing-Zi Yan, Zhe Shi, Qin-Hui Tuo, Li-Mei Lin, Bo-Hou Xia, Ping Wu, Duan-Fang Liao.
+ Curcumin.
+ Medicine 2020, 99 
+          (2)
+           , e18467.
+ https://doi.org/10.1097/MD.0000000000018467Dhaneshwar Shep, Chitra Khanwelkar, Prakashchandra Gade, Satyanand Karad.
+ Efficacy and safety of combination of curcuminoid complex and diclofenac versus diclofenac in knee osteoarthritis.
+ Medicine 2020, 99 
+          (16)
+           , e19723.
+ https://doi.org/10.1097/MD.0000000000019723Keith Singletary.
+ Turmeric.
+ Nutrition Today 2020, 55 
+          (1)
+           , 45-56. https://doi.org/10.1097/NT.0000000000000392Xiaoqian Liu, David J.
+ Hunter, Jillian Eyles, Andrew J. McLachlan, Jeffry Adiwidjaja, Shane K. Eagles, XiaoSuo Wang.
+ Pharmacokinetic assessment of constituents of
+     Boswellia serrata
+     , pine bark extracts, curcumin in combination including methylsulfonylmethane in healthy volunteers.
+ Journal of Pharmacy and Pharmacology 2020, 72 
+          (1)
+           , 121-131. https://doi.org/10.1111/jphp.13184Jadileyg G. León, G. M. Estrada-Villegas, Roberto Olayo, Efrén de Jesús Muñoz, J. Morales-Corona, Roberto Olayo-Valles, Roberto C. Martinez-Hernandez.
+ CARACTERIZACIÓN Y ESTUDIO DE LIBERACIÓN DE CURCUMINA CARGADA EN MICROFIBRAS DE ACIDO POLILACTICO.
+ Revista de la Facultad de Ciencias 2020, 9 
+          (1)
+           , 125-141. https://doi.org/10.15446/rev.fac.cienc.v9n1.81966A.
+ B. Katasonov.
+ Curcumin as an ajuvant treatment of depression: mechanisms of action and application prospects.
+ Zhurnal nevrologii i psikhiatrii im.
+ S.S. Korsakova 2020, 120 
+          (2)
+           , 125. https://doi.org/10.17116/jnevro2020120021125Chengjiang Qiu, Kairui Liu, Sheng Zhang, Simin Gao, Weirun Chen, Dateng Li, Youxing Huang.
+ Bisdemethoxycurcumin Inhibits Hepatocellular Carcinoma Proliferation Through Akt Inactivation via CYLD-Mediated Deubiquitination .
+ Drug Design, Development and Therapy 2020, Volume 14 , 993-1001. https://doi.org/10.2147/DDDT.S231814Zhenli Min, Yue Zhu, Xing Hong, Zhijun Yu, Min Ye, Qiong Yuan, Xiamin Hu.
+ Synthesis and Biological Evaluations of Monocarbonyl Curcumin Inspired Pyrazole Analogues as Potential Anti-Colon Cancer Agent .
+ Drug Design, Development and Therapy 2020, Volume 14 , 2517-2534. https://doi.org/10.2147/DDDT.S244865Chong Huang, Fen Chen, Ling Zhang, Yue Yang, Xinggang Yang, Weisan Pan.
+ .
+ International Journal of Nanomedicine 2020,,, 2987. https://doi.org/10.2147/IJN.S242490Christina Schmitt, Anna Lechanteur, François Cossais, Coralie Bellefroid, Philipp Arnold, Ralph Lucius, Janka Held-Feindt, Geraldine Piel, Kirsten Hattermann.
+ .
+ International Journal of Nanomedicine 2020,,, 3649. https://doi.org/10.2147/IJN.S245300Adhimoolam Karthikeyan, Natesan Senthil, Taesun Min.
+ .
+ Frontiers in Pharmacology 2020,,https://doi.org/10.3389/fphar.2020.00487Daniel López-Malo, Carlos Alberto Villarón-Casares, Jorge Alarcón-Jiménez, Maria Miranda, Manuel Díaz-Llopis, Francisco J. Romero, Vincent M. Villar.
+ Curcumin as a Therapeutic Option in Retinal Diseases.
+ Antioxidants 2020, 9 
+          (1)
+           , 48. https://doi.org/10.3390/antiox9010048Erika Cione, Chiara La Torre, Roberto Cannataro, Maria Cristina Caroleo, Pierluigi Plastina, Luca Gallelli.
+ Quercetin, Epigallocatechin Gallate, Curcumin, and Resveratrol: From Dietary Sources to Human MicroRNA Modulation.
+ Molecules 2020, 25 
+          (1)
+           , 63. https://doi.org/10.3390/molecules25010063Dietmar Steverding.
+ On the Reversible and Irreversible Inhibition of Rhodesain by Curcumin.
+ Molecules 2020, 25 
+          (1)
+           , 143. https://doi.org/10.3390/molecules25010143Anuradha Singh.
+ Pharmacological Properties of Curcumin.
+ 2020,,, 235-248. https://doi.org/10.4018/978-1-7998-2094-9.ch012Hong Xie, Chun-Yan Shen, Jian-Guo Jiang.
+ The sources of salidroside and its targeting for multiple chronic diseases.
+ Journal of Functional Foods 2020, 64 , 103648. https://doi.org/10.1016/j.jff.2019.103648Lian Deng, Xiongjie Zhu, Zhongjian Yu, Ying Li, Lingyu Qin, Zhile Liu, Longbao Feng, Rui Guo, Yanfang Zheng.
+ Novel T7-Modified pH-Responsive Targeted Nanosystem for Co-Delivery of Docetaxel and Curcumin in the Treatment of Esophageal Cancer .
+ International Journal of Nanomedicine 2020, Volume 15 , 7745-7762. https://doi.org/10.2147/IJN.S257312Anna Barattucci, Tania M. G. Salerno, Franz H. Kohnke, Teresa Papalia, Fausto Puntoriero, Paola Bonaccorsi.
+ Curcumin-based sulfenic acid as a light switch for the binding of biothiols.
+ Photocytotoxic cancer cell-targeting platinum(
+     ii
+     ) complexes of glucose-appended curcumin and biotinylated 1,10-phenanthroline.
+ Dalton Transactions 2019, 48 
+          (47)
+           , 17556-17565. https://doi.org/10.1039/C9DT03490KSourav Banerjee, Tiantian Wei, Jue Wang, Jenna J. Lee, Haydee L. Gutierrez, Owen Chapman, Sandra E. Wiley, Joshua E. Mayfield, Vasudha Tandon, Edwin F. Juarez, Lukas Chavez, Ruqi Liang, Robert L. Sah, Caitlin Costello, Jill P. Mesirov, Laureano de la Vega, Kimberly L. Cooper, Jack E. Dixon, Junyu Xiao, Xiaoguang Lei.
+ Inhibition of dual-specificity tyrosine phosphorylation-regulated kinase 2 perturbs 26S proteasome-addicted neoplastic progression.
+ Proceedings of the National Academy of Sciences 2019, 116 
+          (49)
+           , 24881-24891. https://doi.org/10.1073/pnas.1912033116Tim Van de Walle, Atiruj Theppawong, Charlotte Grootaert, Steven De Jonghe, Leentje Persoons, Dirk Daelemans, Kristof Van Hecke, John Van Camp, Matthias D’hooghe.
+ Synthesis and cytotoxic evaluation of monocarbonyl curcuminoids and their pyrazoline derivatives.
+ Monatshefte für Chemie - Chemical Monthly 2019, 150 
+          (12)
+           , 2045-2051. https://doi.org/10.1007/s00706-019-02516-1Venkata Subba Rao Kotra, Laishram Satyabanta, Tridib Kumar Goswami.
+ A critical review of analytical methods for determination of curcuminoids in turmeric.
+ Journal of Food Science and Technology 2019, 56 
+          (12)
+           , 5153-5166. https://doi.org/10.1007/s13197-019-03986-1Shadab Faham, Hamed Golmohammadi, Raouf Ghavami, Gholamreza Khayatian.
+ A nanocellulose-based colorimetric assay kit for smartphone sensing of iron and iron-chelating deferoxamine drug in biofluids.
+ Analytica Chimica Acta 2019, 1087 , 104-112. https://doi.org/10.1016/j.aca.2019.08.056Emanuele Azzi, Diego Alberti, Stefano Parisotto, Alberto Oppedisano, Nicoletta Protti, Saverio Altieri, Simonetta Geninatti-Crich, Annamaria Deagostino.
+ Design, synthesis and preliminary in-vitro studies of novel boronated monocarbonyl analogues of Curcumin (BMAC) for antitumor and β-amiloyd disaggregation activity.
+ Bioorganic Chemistry 2019, 93 , 103324. https://doi.org/10.1016/j.bioorg.2019.103324Poh Yen Khor, Mohd Fadhlizil Fasihi Mohd Aluwi, Kamal Rullah, Kok Wai Lam.
+ Insights on the synthesis of asymmetric curcumin derivatives and their biological activities.
+ Cytotoxic unsaturated electrophilic compounds commonly target the ubiquitin proteasome system.
+ Scientific Reports 2019, 9 
+          (1)
+           https://doi.org/10.1038/s41598-019-46168-xAlexandre Vallée, Yves Lecarpentier, Jean-Noël Vallée.
+ Curcumin: a therapeutic strategy in cancers by inhibiting the canonical WNT/β-catenin pathway.
+ Journal of Experimental &amp; Clinical Cancer Research 2019, 38 
+          (1)
+           https://doi.org/10.1186/s13046-019-1320-yMichele Atlan, Josh Neman.
+ Targeted Transdermal Delivery of Curcumin for Breast Cancer Prevention.
+ International Journal of Environmental Research and Public Health 2019, 16 
+          (24)
+           , 4949. https://doi.org/10.3390/ijerph16244949Berwin Singh Swami Vetha, Eun-Mi Kim, Phil-Sun Oh, Suhn Hee Kim, Seok Tae Lim, Myung-Hee Sohn, Hwan-Jeong Jeong.
+ Curcumin Encapsulated Micellar Nanoplatform for Blue Light Emitting Diode Induced Apoptosis as a New Class of Cancer Therapy.
+ Macromolecular Research 2019, 27 
+          (12)
+           , 1179-1184. https://doi.org/10.1007/s13233-019-7168-3Beni Lestari, Ikuko Nakamae, Noriko Yoneda-Kato, Tsumoru Morimoto, Shigehiko Kanaya, Takashi Yokoyama, Masafumi Shionyu, Tsuyoshi Shirai, Edy Meiyanto, Jun-ya Kato.
+ Pentagamavunon-1 (PGV-1) inhibits ROS metabolic enzymes and suppresses tumor cell growth by inducing M phase (prometaphase) arrest and cell senescence.
+ Scientific Reports 2019, 9 
+          (1)
+           https://doi.org/10.1038/s41598-019-51244-3Zahra Rafiee, Mohammad Nejatian, Marjan Daeihamed, Seid Mahdi Jafari.
+ Application of different nanocarriers for encapsulation of curcumin.
+ Critical Reviews in Food Science and Nutrition 2019, 59 
+          (21)
+           , 3468-3497. https://doi.org/10.1080/10408398.2018.1495174Qin Zhao, Dong Lin, Yun Hou, Gui-Ge Hou.
+ Crystal structure of (3E,5E)-1-((4-fluorophenyl)sulfonyl)-3,5-bis(3-nitrobenzylidene)piperidin-4-one — dichloromethane (2/1), C51H38Cl2F2N6O14S2.
+ Zeitschrift für Kristallographie - New Crystal Structures 2019, 234 
+          (6)
+           , 1245-1247. https://doi.org/10.1515/ncrs-2019-0369Nesa Rafati, Ali Zarrabi, Fabrizio Caldera, Francesco Trotta, Narges Ghias.
+ Pyromellitic dianhydride crosslinked cyclodextrin nanosponges for curcumin controlled release; formulation, physicochemical characterization and cytotoxicity investigations.
+ Journal of Microencapsulation 2019, 36 
+          (8)
+           , 715-727. https://doi.org/10.1080/02652048.2019.1669728Fang-Chun Wu, Jian-Guo Jiang.
+ Effects of diosgenin and its derivatives on atherosclerosis.
+ Food &amp; Function 2019, 10 
+          (11)
+           , 7022-7036. https://doi.org/10.1039/C9FO00749KXueqing Zhang, Ya Ma, Lijun Ma, Menghang Zu, Heliang Song, Bo Xiao.
+ Oral administration of chondroitin sulfate-functionalized nanoparticles for colonic macrophage-targeted drug delivery.
+ Carbohydrate Polymers 2019, 223 , 115126. https://doi.org/10.1016/j.carbpol.2019.115126A.
+ Golonko, H. Lewandowska, R. Świsłocka, U.T.
+ Jasińska, W. Priebe, W. Lewandowski.
+ Curcumin as tyrosine kinase inhibitor in cancer treatment.
+ European Journal of Medicinal Chemistry 2019, 181 , 111512. https://doi.org/10.1016/j.ejmech.2019.07.015Sawsan A. Noureddin, Reda M. El-Shishtawy, Khalid O. Al-Footy.
+ Curcumin analogues and their hybrid molecules as multifunctional drugs.
+ European Journal of Medicinal Chemistry 2019, 182 , 111631. https://doi.org/10.1016/j.ejmech.2019.111631Uttpal Anand, Nadia Jacobo-Herrera, Ammar Altemimi, Naoufal Lakhssassi.
+ A Comprehensive Review on Medicinal Plants as Antimicrobial Therapeutics: Potential Avenues of Biocompatible Drug Discovery.
+ Metabolites 2019, 9 
+          (11)
+           , 258. https://doi.org/10.3390/metabo9110258Saurabh Loharch, Raman Parkesh.
+ Epigenetic drug discovery: systematic assessment of chemical space.
+ Future Medicinal Chemistry 2019, 11 
+          (21)
+           , 2803-2819. https://doi.org/10.4155/fmc-2019-0096Shadab Faham, Raouf Ghavami, Hamed Golmohammadi, Gholamreza Khayatian.
+ Spectrophotometric and visual determination of zoledronic acid by using a bacterial cell-derived nanopaper doped with curcumin.
+ Microchimica Acta 2019, 186 
+          (11)
+           https://doi.org/10.1007/s00604-019-3815-9Francesco Lai, Michele Schlich, Rosa Pireddu, Anna Maria Fadda, Chiara Sinico.
+ Nanocrystals as Effective Delivery Systems of Poorly Water-soluble Natural Molecules.
+ Current Medicinal Chemistry 2019, 26 
+          (24)
+           , 4657-4680. https://doi.org/10.2174/0929867326666181213095809Gulcemal Yildiz, Zeynep Aydoğmuş, Filiz Senkal, Gulcin Turan.
+ Investigation of Curcumin Water Solubility Through Emulsifying with Biocompatible Polyethylene Glycol–Based Polymers.
+ Food Analytical Methods 2019, 12 
+          (10)
+           , 2129-2138. https://doi.org/10.1007/s12161-019-01555-yShijie Zhao, Chao Pi, Yun Ye, Ling Zhao, Yumeng Wei.
+ Recent advances of analogues of curcumin for treatment of cancer.
+ European Journal of Medicinal Chemistry 2019, 180 , 524-535. https://doi.org/10.1016/j.ejmech.2019.07.034Fanny Pojero, Paola Poma, Virginia Spanò, Alessandra Montalbano, Paola Barraja, Monica Notarbartolo.
+ Targeting multiple myeloma with natural polyphenols.
+ Effect of substitution on the excited state photophysical and spectral properties of boron difluoride curcumin complex dye and their derivatives: A time dependent-DFT study.
+ Journal of Photochemistry and Photobiology B: Biology 2019, 199 , 111595. https://doi.org/10.1016/j.jphotobiol.2019.111595Aulia Sukma Hutama, Hendra Huang, Yehezkiel Steven Kurniawan.
+ Investigation of the chemical and optical properties of halogen-substituted N-methyl-4-piperidone curcumin analogs by density functional theory calculations.
+ Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 2019, 221 , 117152. https://doi.org/10.1016/j.saa.2019.117152Yan Wu, Hong Liu, Zhihua Li, Dongye Huang, Lizheng Nong, Zhengxing Ning, Zhizhong Hu, Chunping Xu, Jing-Kun Yan.
+ Pectin-decorated selenium nanoparticles as a nanocarrier of curcumin to achieve enhanced physicochemical and biological properties.
+ IET Nanobiotechnology 2019, 13 
+          (8)
+           , 880-886. https://doi.org/10.1049/iet-nbt.2019.0144Di Meo, Margarucci, Galderisi, Crispi, Peluso.
+ Curcumin, Gut Microbiota, and Neuroprotection.
+ Nutrients 2019, 11 
+          (10)
+           , 2426. https://doi.org/10.3390/nu11102426Stefan Wiesler, Michael A. Bau, Thomas Niepel, Sara L. Younas, Hieu-Trinh Luu, Jan Streuff.
+ Synthesis of α,ω-Bis-Enones by the Double Addition of Alkenyl Grignard Reagents to Diacid Weinreb Amides.
+ European Journal of Organic Chemistry 2019, 2019 
+          (36)
+           , 6246-6260. https://doi.org/10.1002/ejoc.201901043Lialy Khadeja, Irena Grigoriants, Michal Halperin‐Sternfeld, Aviv Yona, Lihi Adler‐Abramovich.
+ Sonochemical Functionalization of Cotton and Non‐Woven Fabrics with Bio‐Inspired Self‐Assembled Nanostructures.
+ Israel Journal of Chemistry 2019, 33 https://doi.org/10.1002/ijch.201900053Andreas Y. Troumbis, Maria Hatziantoniou, Georgios K. Vasios.
+ Nutritional Culturomics and Big Data: Macroscopic Patterns of Change in Food, Nutrition and Diet Choices.
+ Current Pharmaceutical Biotechnology 2019, 20 
+          (10)
+           , 895-908. https://doi.org/10.2174/1389201020666190211125550Yue Sun, Shu-Xia Wang, Gui-Ge Hou.
+ Crystal structure of (3E,5E)-3,5-bis(3-nitrobenzylidene)-1-((4-(trifluoromethyl)phenyl)sulfonyl)piperidin-4-one — dichloromethane (2/1), C53H38Cl2F6N6O14S2.
+ Zeitschrift für Kristallographie - New Crystal Structures 2019, 234 
+          (5)
+           , 1047-1049. https://doi.org/10.1515/ncrs-2019-0253Ryan Galea, Hendrik J. Nel, Meghna Talekar, Xiao Liu, Joshua D. Ooi, Megan Huynh, Sara Hadjigol, Kate J. Robson, Yi Tian Ting, Suzanne Cole, Karyn Cochlin, Shannon Hitchcock, Bijun Zeng, Suman Yekollu, Martine Boks, Natalie Goh, Helen Roberts, Jamie Rossjohn, Hugh H. Reid, Ben J. Boyd, Ravi Malaviya, David J. Shealy, Daniel G. Baker, Loui Madakamutil, A. Richard Kitching, Brendan J. O’Sullivan, Ranjeny Thomas.
+ PD-L1– and calcitriol-dependent liposomal antigen-specific regulation of systemic inflammatory autoimmune disease.
+ Photocytotoxic Activity of Copper(II) and Zinc(II) Complexes of Curcumin and (Acridinyl)dipyridophenazine.
+ ChemistrySelect 2019, 4 
+          (33)
+           , 9647-9658. https://doi.org/10.1002/slct.201902281Zohreh Poursina, Asadollah Mohammadi, Shadi Zamanian Yazdi, Ian Humpson, Veda Vakili, Reza Boostani, Houshang Rafatpanah.
+ Curcumin increased the expression of c‐FLIP in HTLV‐1‐associated myelopathy/tropical spastic paraparesis (HAM/TSP) patients.
+ Journal of Cellular Biochemistry 2019, 120 
+          (9)
+           , 15740-15745. https://doi.org/10.1002/jcb.28843Alessandra Durazzo, Massimo Lucarini, Eliana B. Souto, Carla Cicala, Elisabetta Caiazzo, Angelo A. Izzo, Ettore Novellino, Antonello Santini.
+ Polyphenols: A concise overview on the chemistry, occurrence, and human health.
+ Phytotherapy Research 2019, 33 
+          (9)
+           , 2221-2243. https://doi.org/10.1002/ptr.6419Carlos R. Polaquini, Luana G. Morão, Ana C. Nazaré, Guilherme S. Torrezan, Guilherme Dilarri, Lúcia B. Cavalca, Débora L. Campos, Isabel C. Silva, Jessé A. Pereira, Dirk-Jan Scheffers, Cristiane Duque, Fernando R. Pavan, Henrique Ferreira, Luis O. Regasini.
+ Antibacterial activity of 3,3′-dihydroxycurcumin (DHC) is associated with membrane perturbation.
+ Bioorganic Chemistry 2019, 90 , 103031. https://doi.org/10.1016/j.bioorg.2019.103031Kanyasiri Rakariyatham, Zheyuan Du, Biao Yuan, Zili Gao, Mingyue Song, Che Pan, Yanhui Han, Xian Wu, Zhonghai Tang, Guodong Zhang, Hang Xiao.
+ Inhibitory effects of 7,7′-bromo-curcumin on 12-O-tetradecanoylphorbol-13-acetate-induced skin inflammation.
+ European Journal of Pharmacology 2019, 858 , 172479. https://doi.org/10.1016/j.ejphar.2019.172479Marco Cozzolino, Pietro Delcanale, Chiara Montali, Massimiliano Tognolini, Carmine Giorgio, Miriam Corrado, Luigi Cavanna, Paolo Bianchini, Alberto Diaspro, Stefania Abbruzzetti, Cristiano Viappiani.
+ Enhanced photosensitizing properties of protein bound curcumin.
+ Life Sciences 2019, 233 , 116710. https://doi.org/10.1016/j.lfs.2019.116710Harrison J. VanDolah, Brent A. Bauer, Karen F. Mauck.
+ Clinicians’ Guide to Cannabidiol and Hemp Oils.
+ Mayo Clinic Proceedings 2019, 94 
+          (9)
+           , 1840-1851. https://doi.org/10.1016/j.mayocp.2019.01.003S D Marliyana, F R Wibowo, M W Wartono, G Munasah.
+ Evaluation of antibacterial activity of sesquiterpene Ar- Turmerone from
+     Curcuma soloensis
+     Val.
+ rhizomes.
+ IOP Conference Series: Materials Science and Engineering 2019, 578 , 012060. https://doi.org/10.1088/1757-899X/578/1/012060Rana Essa, Ahmed M. El Sadek, Marine E. Baset, Mohamed A. Rawash, Diana G. Sami, Marwa T. Badawy, Maha E. Mansour, Hamdino Attia, Mona K. Saadeldin, Ahmed Abdellatif.
+ Effects of Turmeric (
+     Curcuma longa)
+     Extract in streptozocin‐induced diabetic model.
+ Journal of Food Biochemistry 2019, 43 
+          (9)
+           https://doi.org/10.1111/jfbc.12988Yatian Cheng, Jian Zhang, Yan Shao, Yixiang Xu, Haixia Ge, Boyang Yu, Weiwei Wang.
+ Enzyme-Catalyzed Glycosylation of Curcumin and Its Analogues by Glycosyltransferases from Bacillus subtilis ATCC 6633.
+ Catalysts 2019, 9 
+          (9)
+           , 734. https://doi.org/10.3390/catal9090734Michele Dei Cas, Riccardo Ghidoni.
+ Dietary Curcumin: Correlation between Bioavailability and Health Potential.
+ Nutrients 2019, 11 
+          (9)
+           , 2147. https://doi.org/10.3390/nu11092147Dhananjay Das, Atrayee Banaspati, Namisha Das, Bidisha Bora, Md Kausar Raza, Tridib K. Goswami.
+ Visible light-induced cytotoxicity studies on Co(
+     ii
+     ) complexes having an anthracene-based curcuminoid ligand.
+ Dalton Transactions 2019, 48 
+          (34)
+           , 12933-12942. https://doi.org/10.1039/C9DT01576KNehmedo G. Fawzy, Siva S. Panda, Walid Fayad, May A. El-Manawaty, Aladdin M. Srour, Adel S. Girgis.
+ Novel Curcumin Inspired Antineoplastic 1-Sulfonyl-4-Piperidones: Design, Synthesis and Molecular Modeling Studies.
+ Anti-Cancer Agents in Medicinal Chemistry 2019, 19 
+          (8)
+           , 1069-1078. https://doi.org/10.2174/1871520619666190408131639Evgeniy Panzhinskiy, Raza Bashir, Debasis Bagchi, Sreejayan Nair.
+ Effect of Curcumin and α-Lipoic Acid in Attenuating Weight Gain and Adiposity.
+ Journal of the American College of Nutrition 2019, 38 
+          (6)
+           , 493-498. https://doi.org/10.1080/07315724.2018.1557572Noha Ahmed Nasef, Simon M. Loveday, Matt Golding, Ralph N. Martins, Tejal M. Shah, Michael Clarke, Jane Coad, Paul J. Moughan, Manohar L. Garg, Harjinder Singh.
+ Food matrix and co-presence of turmeric compounds influence bioavailability of curcumin in healthy humans.
+ Food &amp; Function 2019, 10 
+          (8)
+           , 4584-4592. https://doi.org/10.1039/C9FO01063GKarol Wolosewicz, Katarzyna Podgorska, Ewelina Rutkowska, Ryszard Lazny.
+ Synthesis of Dicarbonyl Curcumin Analogues Containing the Tropane Scaffold.
+ European Journal of Organic Chemistry 2019, 2019 
+          (29)
+           , 4662-4674. https://doi.org/10.1002/ejoc.201900416Bo-Zong Shao, Shu-Ling Wang, Peng Pan, Jun Yao, Kai Wu, Zhao-Shen Li, Yu Bai, En-Qiang Linghu.
+ Targeting NLRP3 Inflammasome in Inflammatory Bowel Disease: Putting out the Fire of Inflammation.
+ Inflammation 2019, 42 
+          (4)
+           , 1147-1159. https://doi.org/10.1007/s10753-019-01008-yShuangquan Gou, Yamei Huang, Ying Wan, Ya Ma, Xin Zhou, Xiaoling Tong, Jin Huang, Yuejun Kang, Guoqing Pan, Fangyin Dai, Bo Xiao.
+ Multi-bioresponsive silk fibroin-based nanoparticles with on-demand cytoplasmic drug release capacity for CD44-targeted alleviation of ulcerative colitis.
+ Biomaterials 2019, 212 , 39-54. https://doi.org/10.1016/j.biomaterials.2019.05.012Mohammad Qneibi, Othman Hamed, Oswa Fares, Nidal Jaradat, Abdel-Razzak Natsheh, Qais AbuHasan, Nour Emwas, Rana Al-Kerm, Rola Al-Kerm.
+ The inhibitory role of curcumin derivatives on AMPA receptor subunits and their effect on the gating biophysical properties.
+ European Journal of Pharmaceutical Sciences 2019, 136 , 104951. https://doi.org/10.1016/j.ejps.2019.06.005Banzeer Ahsan Abbasi, Javed Iqbal, Riaz Ahmad, Sitara Bibi, Tariq Mahmood, Sobia Kanwal, Sheeza Bashir, Farhat Gul, Safia Hameed.
+ Potential phytochemicals in the prevention and treatment of esophagus cancer: A green therapeutic approach.
+ Pharmacological Reports 2019, 71 
+          (4)
+           , 644-652. https://doi.org/10.1016/j.pharep.2019.03.001Bahman Khameneh, Milad Iranshahy, Nasser Vahdati-Mashhadian, Amirhossein Sahebkar, Bibi Sedigheh Fazly Bazzaz.
+ Non-antibiotic adjunctive therapy: A promising approach to fight tuberculosis.
+ Pharmacological Research 2019, 146 , 104289. https://doi.org/10.1016/j.phrs.2019.104289Beatrice Bachmeier, Dieter Melchart.
+ Therapeutic Effects of Curcumin—From Traditional Past to Present and Future Clinical Applications.
+ International Journal of Molecular Sciences 2019, 20 
+          (15)
+           , 3757. https://doi.org/10.3390/ijms20153757Raghavendhar R. Kotha, Devanand L. Luthria.
+ Curcumin: Biological, Pharmaceutical, Nutraceutical, and Analytical Aspects.
+ Molecules 2019, 24 
+          (16)
+           , 2930. https://doi.org/10.3390/molecules24162930Garvey Liu, Vidhi Khanna, Ameya Kirtane, Alex Grill, Jayanth Panyam.
+ Chemopreventive efficacy of oral curcumin: a prodrug hypothesis.
+ The FASEB Journal 2019, 33 
+          (8)
+           , 9453-9465. https://doi.org/10.1096/fj.201900166RMohammad A. Altamimi, Mohsin Kazi, Mshaan Hadi Albgomi, Abdul Ahad, Mohammad Raish.
+ Development and optimization of self-nanoemulsifying drug delivery systems (SNEDDS) for curcumin transdermal delivery: an anti-inflammatory exposure.
+ Drug Development and Industrial Pharmacy 2019, 45 
+          (7)
+           , 1073-1078. https://doi.org/10.1080/03639045.2019.1593440He Li, Canrong Zhong, Qian Wang, Weikang Chen, Yan Yuan.
+ Curcumin is an APE1 redox inhibitor and exhibits an antiviral activity against KSHV replication and pathogenesis.
+ Antiviral Research 2019, 167 , 98-103. https://doi.org/10.1016/j.antiviral.2019.04.011Bianka Siewert, Hermann Stuppner.
+ The photoactivity of natural products – An overlooked potential of phytomedicines?.
+ Phytomedicine 2019, 60 , 152985. https://doi.org/10.1016/j.phymed.2019.152985Ryan du Preez, Jessica Pahl, Meenakshi Arora, M. N. V. Ravi Kumar, Lindsay Brown, Sunil K. Panchal.
+ Low-Dose Curcumin Nanoparticles Normalise Blood Pressure in Male Wistar Rats with Diet-Induced Metabolic Syndrome.
+ Nutrients 2019, 11 
+          (7)
+           , 1542. https://doi.org/10.3390/nu11071542Ralf Jäger, Martin Purpura, Chad M. Kerksick.
+ Eight Weeks of a High Dose of Curcumin Supplementation May Attenuate Performance Decrements Following Muscle-Damaging Exercise.
+ Nutrients 2019, 11 
+          (7)
+           , 1692. https://doi.org/10.3390/nu11071692Xiao-Yan Li, Qing-Guo Meng, Gui-Ge Hou.
+ Crystal structure of (3E,5E)-3,5-bis(4-cyanobenzylidene)-1-((4-fluorophenyl)sulfonyl)piperidin-4-one, C27H18FN3O3S.
+ Zeitschrift für Kristallographie - New Crystal Structures 2019, 234 
+          (4)
+           , 771-773. https://doi.org/10.1515/ncrs-2019-0097Zi-Yuan Zhou, Jing Yuan, Qing Pan, Xiao-Mei Mo, Yong-Li Xie, Feng Yin, Zigang Li, Nai-Kei Wong.
+ Computational elucidation of the binding mechanisms of curcumin analogues as bacterial RecA inhibitors.
+ RSC Advances 2019, 9 
+          (34)
+           , 19869-19881. https://doi.org/10.1039/C9RA00064JMaithaa Mohammed Al Jabri, Iman Humaid Al Hosni, Raya Suleiman Al- Battashi, Marya Abdullah Al- Mamari, Sharifa Yousuf Al- Bulushi, Tanveer Alam, Maksood Ali, Shah Alam Khan.
+ Comparison of Curcuminoids Content, in vitro Anti-oxidant and Anti-diabetic Activity of Curcuma longa Collected from Four Different Countries.
+ Asian Journal of Biological Sciences 2019, 12 
+          (3)
+           , 577-582. https://doi.org/10.3923/ajbs.2019.577.582Chia-Liang Yen, Yi-Chu Liao, Ru-Fen Chen, Ya-Fang Huang, Wan-Chen Chung, Pei-Chi Lo, Chuan-Fa Chang, Ping-Ching Wu, Dar-Bin Shieh, Si-Tse Jiang, Chi-Chang Shieh.
+ Targeted Delivery of Curcumin Rescues Endoplasmic Reticulum–Retained Mutant NOX2 Protein and Avoids Leukocyte Apoptosis.
+ The Journal of Immunology 2019, 202 
+          (12)
+           , 3394-3403. https://doi.org/10.4049/jimmunol.1801599Wen-jing Shi, Fu-de Ren.
+ Cooperativity effect of the π⋯π interaction between drug and DNA on intercalative binding induced by H-bonds: a QM/QTAIM investigation of the curcumin⋯adenine⋯H
+     2
+     O model system.
+ Physical Chemistry Chemical Physics 2019, 21 
+          (22)
+           , 11871-11882. https://doi.org/10.1039/C9CP01667HAlejandro I. Lorenzo-Pouso, Pablo Castelo-Baz, Mario Pérez-Sayáns, Jason Lim, Yago Leira.
+ Autophagy in periodontal disease: Evidence from a literature review.
+ Archives of Oral Biology 2019, 102 , 55-64. https://doi.org/10.1016/j.archoralbio.2019.03.029Michael M. Lübtow, Lena C. Nelke, Julia Seifert, Johanna Kühnemundt, Gaurav Sahay, Gudrun Dandekar, Sarah L. Nietzer, Robert Luxenhofer.
+ Drug induced micellization into ultra-high capacity and stable curcumin nanoformulations: Physico-chemical characterization and evaluation in 2D and 3D in vitro models.
+ Journal of Controlled Release 2019, 303 , 162-180. https://doi.org/10.1016/j.jconrel.2019.04.014János P. Mészáros, Jelena M. Poljarevic, G. Tamás Gál, Nóra V. May, Gabriella Spengler, Éva A. Enyedy.
+ Comparative solution and structural studies of half-sandwich rhodium and ruthenium complexes bearing curcumin and acetylacetone.
+ Journal of Inorganic Biochemistry 2019, 195 , 91-100. https://doi.org/10.1016/j.jinorgbio.2019.02.015Prince George, Ravi Kiran Das, Pradip Chowdhury.
+ Facile microwave synthesis of Ca-BDC metal organic framework for adsorption and controlled release of Curcumin.
+ Microporous and Mesoporous Materials 2019, 281 , 161-171. https://doi.org/10.1016/j.micromeso.2019.02.028Aleksandra Tarasiuk, Jakub Fichna.
+ Effectiveness and therapeutic value of phytochemicals in acute pancreatitis: A review.
+ Pancreatology 2019, 19 
+          (4)
+           , 481-487. https://doi.org/10.1016/j.pan.2019.04.010Mayuko Itaya, Taiki Miyazawa, Jean-Marc Zingg, Takahiro Eitsuka, Angelo Azzi, Mohsen Meydani, Teruo Miyazawa, Kiyotaka Nakagawa.
+ The differential cellular uptake of curcuminoids in vitro depends dominantly on albumin interaction.
+ Phytomedicine 2019, 59 , 152902. https://doi.org/10.1016/j.phymed.2019.152902Zahra Rafiee, Mohammad Nejatian, Marjan Daeihamed, Seid Mahdi Jafari.
+ Application of curcumin-loaded nanocarriers for food, drug and cosmetic purposes.
+ Trends in Food Science &amp; Technology 2019, 88 , 445-458. https://doi.org/10.1016/j.tifs.2019.04.017Chittaranjan Behera, Mohit Chauhan, Asit Kumar Sikary.
+ Body Coloration Artifacts Encountered at Medicolegal Autopsy in India.
+ The American Journal of Forensic Medicine and Pathology 2019, 40 
+          (2)
+           , 129-135. https://doi.org/10.1097/PAF.0000000000000468Aravinda Ganapathy, Uthayashanker Ezekiel.
+ Phytochemical Modulation of MiRNAs in Colorectal Cancer.
+ Medicines 2019, 6 
+          (2)
+           , 48. https://doi.org/10.3390/medicines6020048Kazuma Murakami, Kazuhiro Irie.
+ Three Structural Features of Functional Food Components and Herbal Medicine with Amyloid β42 Anti-Aggregation Properties.
+ Molecules 2019, 24 
+          (11)
+           , 2125. https://doi.org/10.3390/molecules24112125Aviram Trachtenberg, Suchismita Muduli, Katarzyna Sidoryk, Marcin Cybulski, Michael Danilenko.
+ Synergistic Cytotoxicity of Methyl 4-Hydroxycinnamate and Carnosic Acid to Acute Myeloid Leukemia Cells via Calcium-Dependent Apoptosis Induction.
+ Frontiers in Pharmacology 2019, 10 https://doi.org/10.3389/fphar.2019.00507Chaitany Jayprakash Raorane, Jin-Hyung Lee, Yong-Guy Kim, Satish Kumar Rajasekharan, Rodolfo García-Contreras, Jintae Lee.
+ Antibiofilm and Antivirulence Efficacies of Flavonoids and Curcumin Against Acinetobacter baumannii.
+ Frontiers in Microbiology 2019, 10 https://doi.org/10.3389/fmicb.2019.00990Emanuel Vamanu.
+ Polyphenolic Nutraceuticals to Combat Oxidative Stress Through Microbiota Modulation.
+ Frontiers in Pharmacology 2019, 10 https://doi.org/10.3389/fphar.2019.00492Maryam Azhdari, Majid Karandish, Anahita Mansoori.
+ Metabolic benefits of curcumin supplementation in patients with metabolic syndrome: A systematic review and meta‐analysis of randomized controlled trials.
+ Phytotherapy Research 2019, 33 
+          (5)
+           , 1289-1301. https://doi.org/10.1002/ptr.6323Yash Pal Singh, Amruta Pandey, Swati Vishwakarma, Gyan Modi.
+ A review on iron chelators as potential therapeutic agents for the treatment of Alzheimer’s and Parkinson’s diseases.
+ Molecular Diversity 2019, 23 
+          (2)
+           , 509-526. https://doi.org/10.1007/s11030-018-9878-4Shobha Ghosh.
+ Curcumin as a potential therapeutic option for NAFLD and other metabolic diseases: need for establishing the underlying mechanism(s) of action.
+ Hepatology International 2019, 13 
+          (3)
+           , 245-247. https://doi.org/10.1007/s12072-019-09942-7Bart I. Roman.
+ Essay: Avoiding unfounded health claims on small molecules in scientific literature.
+ Bioorganic Chemistry 2019, 86 , 273-276. https://doi.org/10.1016/j.bioorg.2019.02.002Shameemah Abrahams, William L. Haylett, Glynis Johnson, Jonathan A. Carr, Soraya Bardien.
+ Antioxidant effects of curcumin in models of neurodegeneration, aging, oxidative and nitrosative stress: A review.
+ The role of the South African Journal of Botany as a vehicle to promote medicinal plant research– A bibliometric appraisal.
+ South African Journal of Botany 2019, 122 , 3-10. https://doi.org/10.1016/j.sajb.2018.07.024Daniel Reker, Gonçalo J. L. Bernardes, Tiago Rodrigues.
+ Computational advances in combating colloidal aggregation in drug discovery.
+ Nature Chemistry 2019, 11 
+          (5)
+           , 402-418. https://doi.org/10.1038/s41557-019-0234-9Luana G. Morão, Carlos R. Polaquini, Malgorzata Kopacz, Guilherme S. Torrezan, Gabriela M. Ayusso, Guilherme Dilarri, Lúcia B. Cavalca, Aleksandra Zielińska, Dirk‐Jan Scheffers, Luis O. Regasini, Henrique Ferreira.
+ A simplified curcumin targets the membrane of
+     Bacillus subtilis.
+ MicrobiologyOpen 2019, 8 
+          (4)
+           , e00683.
+ https://doi.org/10.1002/mbo3.683Bin-Rong Yao, Yue Sun, Shuang-Long Chen, Hao-Dong Suo, Yu-Long Zhang, Hao Wei, Chun-Hua Wang, Feng Zhao, Wei Cong, Wen-Yu Xin, Gui-Ge Hou.
+ Dissymmetric pyridyl-substituted 3,5-bis(arylidene)-4-piperidones as anti-hepatoma agents by inhibiting NF-κB pathway activation.
+ European Journal of Medicinal Chemistry 2019, 167 , 187-199. https://doi.org/10.1016/j.ejmech.2019.02.020Ella Willenbacher, Shah Khan, Sara Mujica, Dario Trapani, Sadaqat Hussain, Dominik Wolf, Wolfgang Willenbacher, Gilbert Spizzo, Andreas Seeber.
+ Curcumin: New Insights into an Ancient Ingredient against Cancer.
+ International Journal of Molecular Sciences 2019, 20 
+          (8)
+           , 1808. https://doi.org/10.3390/ijms20081808Emanuel Vamanu, Florentina Gatea, Ionela Sârbu, Diana Pelinescu.
+ An In Vitro Study of the Influence of Curcuma longa Extracts on the Microbiota Modulation Process, In Patients with Hypertension.
+ Pharmaceutics 2019, 11 
+          (4)
+           , 191. https://doi.org/10.3390/pharmaceutics11040191Mohamed A. Salem, Shahira M. Ezzat.
+ Nanoemulsions in Food Industry.
+ 2019,,https://doi.org/10.5772/intechopen.79447Carolina Veronez Garbúggio Sanches, Janaina de Cássia Orlandi Sardi, Raquel Sano Suga Terada, Josy Goldoni Lazarini, Irlan Almeida Freires, Carlos Roberto Polaquini, Guilherme Silva Torrezan, Luis Octavio Regasini, Mitsue Fujimaki, Pedro Luiz Rosalen.
+ Diacetylcurcumin: a new photosensitizer for antimicrobial photodynamic therapy in
+     Streptococcus mutans
+     biofilms.
+ Biofouling 2019, 35 
+          (3)
+           , 340-349. https://doi.org/10.1080/08927014.2019.1606907Kar En Wong, Siew Ching Ngai, Kok-Gan Chan, Learn-Han Lee, Bey-Hing Goh, Lay-Hong Chuah.
+ Curcumin Nanoformulations for Colorectal Cancer: A Review.
+ Frontiers in Pharmacology 2019, 10 https://doi.org/10.3389/fphar.2019.00152Renata Carolina Alves, Richard Perosa Fernandes, Bruno Fonseca-Santos, Francesca Damiani Victorelli, Marlus Chorilli.
+ A Critical Review of the Properties and Analytical Methods for the Determination of Curcumin in Biological and Pharmaceutical Matrices.
+ Critical Reviews in Analytical Chemistry 2019, 49 
+          (2)
+           , 138-149. https://doi.org/10.1080/10408347.2018.1489216Ehtesham Shamsher, Benjamin M. Davis, Timothy E. Yap, Li Guo, Maria Francesca Cordeiro.
+ Neuroprotection in glaucoma: old concepts, new ideas.
+ Expert Review of Ophthalmology 2019, 14 
+          (2)
+           , 101-113. https://doi.org/10.1080/17469899.2019.1604222Caroline Carapina da Silva, Bruna Silveira Pacheco, Raquel Nascimento das Neves, Mirna Samara Dié Alves, Ângela Sena-Lopes, Sidnei Moura, Sibele Borsuk, Claudio Martin Pereira de Pereira.
+ Antiparasitic activity of synthetic curcumin monocarbonyl analogues against Trichomonas vaginalis.
+ Biomedicine &amp; Pharmacotherapy 2019, 111 , 367-377. https://doi.org/10.1016/j.biopha.2018.12.058Fuquan Jin, Ying Jin, Jiangxia Du, Liyu Jiang, Ying Zhang, Ziying Zhao, Bo Yang, Peihua Luo, Qiaojun He.
+ Bisdemethoxycurcumin protects against renal fibrosis via activation of fibroblast apoptosis.
+ European Journal of Pharmacology 2019, 847 , 26-31. https://doi.org/10.1016/j.ejphar.2019.01.012Carla I. Nieto, M. Pilar Cornago, M. Pilar Cabildo, Dionisia Sanz, Rosa M. Claramunt, M. Carmen Torralba, José Elguero.
+ Synthesis, structure and NMR study of fluorinated isoxazoles derived from hemi-curcuminoids.
+ Journal of Fluorine Chemistry 2019, 219 , 39-49. https://doi.org/10.1016/j.jfluchem.2018.12.012D.
+ Allan Butterfield, Barry Halliwell.
+ Oxidative stress, dysfunctional glucose metabolism and Alzheimer disease.
+ Nature Reviews Neuroscience 2019, 20 
+          (3)
+           , 148-160. https://doi.org/10.1038/s41583-019-0132-6Troy D. Hubbard, Jui-Hua Hsieh, Cynthia V. Rider, Nisha S. Sipes, Alexander Sedykh, Bradley J. Collins, Scott S. Auerbach, Menghang Xia, Ruili Huang, Nigel J. Walker, Michael J. DeVito.
+ Using Tox21 High-Throughput Screening Assays for the Evaluation of Botanical and Dietary Supplements.
+ Applied In Vitro Toxicology 2019, 5 
+          (1)
+           , 10-25. https://doi.org/10.1089/aivt.2018.0020Bahare Salehi, Pia Lopez-Jornet, Eduardo Pons-Fuster López, Daniela Calina, Mehdi Sharifi-Rad, Karina Ramírez-Alarcón, Katherine Forman, Marcos Fernández, Miquel Martorell, William Setzer, Natália Martins, Célia Rodrigues, Javad Sharifi-Rad.
+ Plant-Derived Bioactives in Oral Mucosal Lesions: A Key Emphasis to Curcumin, Lycopene, Chamomile, Aloe vera, Green Tea and Coffee Properties.
+ Biomolecules 2019, 9 
+          (3)
+           , 106. https://doi.org/10.3390/biom9030106Anna Bielak-Zmijewska, Wioleta Grabowska, Agata Ciolko, Agnieszka Bojko, Grażyna Mosieniak, Łukasz Bijoch, Ewa Sikora.
+ The Role of Curcumin in the Modulation of Ageing.
+ International Journal of Molecular Sciences 2019, 20 
+          (5)
+           , 1239. https://doi.org/10.3390/ijms20051239Yanka D. Karamalakova, Galina D. Nikolova, Tzvetelin K. Georgiev, Veselina G. Gadjeva, Anna N. Tolekova.
+ Hepatoprotective properties of Curcuma longa L. extract in bleomycin-induced chronic hepatotoxicity.
+ Drug Discoveries &amp; Therapeutics 2019, 13 
+          (1)
+           , 9-16. https://doi.org/10.5582/ddt.2018.01081Gianluca Sbardella.
+ Histone Acetyltransferases: Targets and Inhibitors.
+ 2019,,, 297-345. https://doi.org/10.1002/9783527809257.ch12Atiruj Theppawong, Tim Van de Walle, Charlotte Grootaert, Kristof Van Hecke, Nathalie Catry, Tom Desmet, John Van Camp, Matthias D'hooghe.
+ Synthesis of Non‐Symmetrical Nitrogen‐Containing Curcuminoids in the Pursuit of New Anticancer Candidates.
+ ChemistryOpen 2019, 8 
+          (2)
+           , 236-247. https://doi.org/10.1002/open.201800287Afshin Saadipoor, Abolfazl Razzaghdoust, Nasser Simforoosh, Arash Mahdavi, Mohsen Bakhshandeh, Maryam Moghadam, Hamid Abdollahi, Bahram Mofid.
+ Randomized, double-blind, placebo-controlled phase II trial of nanocurcumin in prostate cancer patients undergoing radiotherapy.
+ Phytotherapy Research 2019, 33 
+          (2)
+           , 370-378. https://doi.org/10.1002/ptr.6230Ajda Coker-Gurkan, Derya Bulut, Recep Genc, Elif-Damla Arisan, Pınar Obakan-Yerlikaya, Narcin Palavan-Unsal.
+ Curcumin prevented human autocrine growth hormone (GH) signaling mediated NF-κB activation and miR-183-96-182 cluster stimulated epithelial mesenchymal transition in T47D breast cancer cells.
+ Molecular Biology Reports 2019, 46 
+          (1)
+           , 355-369. https://doi.org/10.1007/s11033-018-4479-yVikas Kumar, Chandra Prakash, Rameshwar Singh, Deepak Sharma.
+ Curcumin’s antiepileptic effect, and alterations in Nav1.1 and Nav1.6 expression in iron-induced epilepsy.
+ Epilepsy Research 2019, 150 , 7-16. https://doi.org/10.1016/j.eplepsyres.2018.12.007Swami Vetha Berwin Singh, Eunkyeong Jung, Joungyoun Noh, Donghyuck Yoo, Changsun Kang, Hyejin Hyeon, Gi-Wook Kim, Gilson Khang, Dongwon Lee.
+ Hydrogen peroxide-activatable polymeric prodrug of curcumin for ultrasound imaging and therapy of acute liver failure.
+ Nanomedicine: Nanotechnology, Biology and Medicine 2019, 16 , 45-55. https://doi.org/10.1016/j.nano.2018.11.003Giulia Orteca, Federica Pisaneschi, Sara Rubagotti, Tracy Liu, Giacomo Biagiotti, David Piwnica-Worms, Michele Iori, Pier Capponi, Erika Ferrari, Mattia Asti.
+ Development of a Potential Gallium-68-Labelled Radiotracer Based on DOTA-Curcumin for Colon-Rectal Carcinoma: From Synthesis to In Vivo Studies.
+ Molecules 2019, 24 
+          (3)
+           , 644. https://doi.org/10.3390/molecules24030644Roberta Ettari, Santo Previti, Santina Maiorana, Alessandro Allegra, Tanja Schirmeister, Silvana Grasso, Maria Zappalà.
+ Evaluation of curcumin irreversibility.
+ Natural Product Research 2019, 76 , 1-4. https://doi.org/10.1080/14786419.2018.1557658Alexander V. Zholos, Olesia F. Moroz, Maksim V. Storozhuk.
+ Curcuminoids and Novel Opportunities for the Treatment of Alzheimer's Disease: Which Molecules are Actually Effective?.
+ Current Molecular Pharmacology 2019, 12 
+          (1)
+           , 12-26. https://doi.org/10.2174/1874467211666181012150847Sandra Tuyaerts, Klara Rombauts, Tina Everaert, An M. T. Van Nuffel, Frédéric Amant.
+ A Phase 2 Study to Assess the Immunomodulatory Capacity of a Lecithin-based Delivery System of Curcumin in Endometrial Cancer.
+ Frontiers in Nutrition 2019, 5 https://doi.org/10.3389/fnut.2018.00138Sven Marcel Stefan, Michael Wiese.
+ Small-molecule inhibitors of multidrug resistance-associated protein 1 and related processes: A historic approach and recent advances.
+ Medicinal Research Reviews 2019, 39 
+          (1)
+           , 176-264. https://doi.org/10.1002/med.21510Daniela Trisciuoglio, Dante Rotili.
+ Histone Acetyltransferase Enzymes: From Biological Implications to Most Relevant Inhibitors.
+ 2019,,, 93-122. https://doi.org/10.1007/7355_2019_71Ramesh C. Gupta, Rajiv Lall, Anita Sinha, Ajay Srivastava.
+ Nutraceuticals for Diabetes in Dogs and Cats.
+ 2019,,, 523-539. https://doi.org/10.1007/978-3-030-04624-8_35David Julian McClements.
+ Nutraceuticals: Superfoods or Superfads?.
+ 2019,,, 167-201. https://doi.org/10.1007/978-3-030-12995-8_6Fernando D. Prieto-Martínez, Ulf Norinder, José L. Medina-Franco.
+ Cheminformatics Explorations of Natural Products.
+ 2019,,, 1-35. https://doi.org/10.1007/978-3-030-14632-0_1Cristian C. Villa, Leidy T. Sanchez, N. David Rodriguez-Marin.
+ Starch Nanoparticles and Nanocrystals as Bioactive Molecule Carriers.
+ 2019,,, 91-98. https://doi.org/10.1007/978-3-030-19416-1_6Jonathan Howard.
+ Illusionary Correlation, False Causation, and Clustering Illusion.
+ 2019,,, 265-283. https://doi.org/10.1007/978-3-319-93224-8_15Puneet Khandelwal.
+ Curcumin in Therapeutics: From Molecule to Nanomaterials.
+ 2019,,, 161-177. https://doi.org/10.1007/978-981-15-0202-6_13Nathan J. Dupper, Yingsheng Zhou, Jérôme Govin, Charles E. McKenna.
+ Bromodomain Inhibition and Its Application to Human Disease.
+ 2019,,, 475-492. https://doi.org/10.1016/B978-0-12-813939-4.00011-5Touqeer Ahmed, Maheen Nawaz, Waqar Iqbal.
+ Pharmacological Effects of Curcuminoids in Neurological Disorders.
+ 2019,,, 129-154. https://doi.org/10.1016/B978-0-12-815461-8.00007-4Erika Ferrari.
+ Curcumin Derivatives as Metal-Chelating Agents: Implications for Potential Therapeutic Agents for Neurological Disorders.
+ 2019,,, 275-299. https://doi.org/10.1016/B978-0-12-815461-8.00015-3Undurti N. Das.
+ Molecular Mechanisms of Action of Curcumin and Its Relevance to Some Clinical Conditions.
+ 2019,,, 325-332. https://doi.org/10.1016/B978-0-12-815461-8.00017-7Munibah Qureshi, Ebtesam Al-Suhaimi, Adeeb Shehzad.
+ Curcumin Impact on Multiple Sclerosis.
+ 2019,,, 365-380. https://doi.org/10.1016/B978-0-12-815461-8.00020-7Rajat Sandhir, Harpreet Kaur.
+ Potential Therapeutic Impacts of Curcumin in Treating Epilepsy.
+ 2019,,, 381-399. https://doi.org/10.1016/B978-0-12-815461-8.00021-9Carlos Fernández-Moriano, Elena González-Burgos, M. Pilar Gómez-Serranillos.
+ Curcumin.
+ 2019,,, 7-59. https://doi.org/10.1016/B978-0-12-816992-6.00002-4Satarupa Deb, Muhammed Khairujjaman Mazumder, Ankumoni Dutta, Banashree Chetia Phukan, Pallab Bhattacharya, Rajib Paul, Anupom Borah.
+ Therapeutic implications of anti-inflammatory natural products in Alzheimer’s disease.
+ 2019,,, 241-258. https://doi.org/10.1016/B978-0-12-816992-6.00008-5Kimberly M. Jackson, Monica C. Frazier, Marisela D. Mancia, Renee N. Shaw.
+ Recent advances in the licorice root constituent dibenzoylmethane as a potential therapeutic option for cancer.
+ 2019,,, 1-19. https://doi.org/10.1016/B978-0-12-817901-7.00001-0Ram W. Sabnis.
+ Patents on Natural Products for Diagnosing/Preventing/Treating Alzheimer's Disease.
+ 2019,,, 85-141. https://doi.org/10.1016/B978-0-444-64183-0.00003-8Seung-Yong Seo, Timothy W. Corson.
+ Small molecule target identification using photo-affinity chromatography.
+ 2019,,, 347-374. https://doi.org/10.1016/bs.mie.2019.02.028Alexandre Bordat, Tanguy Boissenot, Julien Nicolas, Nicolas Tsapis.
+ Thermoresponsive polymer nanocarriers for biomedical applications.
+ Advanced Drug Delivery Reviews 2019, 138 , 167-192. https://doi.org/10.1016/j.addr.2018.10.005S.
+ Ezrahi, A. Aserin, N. Garti.
+ Basic principles of drug delivery systems – the case of paclitaxel.
+ Advances in Colloid and Interface Science 2019, 263 , 95-130. https://doi.org/10.1016/j.cis.2018.11.004Shengtao Xu, Shanshan Luo, Zheying Zhu, Jinyi Xu.
+ Small molecules as inhibitors of PCSK9: Current status and future challenges.
+ European Journal of Medicinal Chemistry 2019, 162 , 212-233. https://doi.org/10.1016/j.ejmech.2018.11.011Lianshuang Zhang, Qin Chen, Guige Hou, Wei Zhao, Yun Hou.
+ Hydroxyl-substituted double Schiff-base condensed 4-piperidone/cyclohexanones as potential anticancer agents with biological evaluation.
+ Journal of Enzyme Inhibition and Medicinal Chemistry 2019, 34 
+          (1)
+           , 264-271. https://doi.org/10.1080/14756366.2018.1501042Chang-Ming Su, Gui-Ge Hou, Chun-Hua Wang, Hong-Qin Zhang, Cheng Yang, Mei Liu, Yun Hou.
+ Potential multifunctional agents with anti-hepatoma and anti-inflammation properties by inhibiting NF-кB activation.
+ Journal of Enzyme Inhibition and Medicinal Chemistry 2019, 34 
+          (1)
+           , 1287-1297. https://doi.org/10.1080/14756366.2019.1635124Silvia Belluti, Giulia Orteca, Valentina Semeghini, Giovanna Rigillo, Francesca Parenti, Erika Ferrari, Carol Imbriano.
+ Potent Anti-Cancer Properties of Phthalimide-Based Curcumin Derivatives on Prostate Tumor Cells.
+ International Journal of Molecular Sciences 2019, 20 
+          (1)
+           , 28. https://doi.org/10.3390/ijms20010028Dik-Lung Ma, Chun Wu, Sha-Sha Cheng, Fu-Wa Lee, Quan-Bin Han, Chung-Hang Leung.
+ Development of Natural Product-Conjugated Metal Complexes as Cancer Therapies.
+ International Journal of Molecular Sciences 2019, 20 
+          (2)
+           , 341. https://doi.org/10.3390/ijms20020341Lucas Dias, Ana Batista de Carvalho, Sara Pinto, Gilberto Aquino, Mário Calvete, Liane Rossi, M. Marques, Mariette Pereira.
+ Bioinspired-Metalloporphyrin Magnetic Nanocomposite as a Reusable Catalyst for Synthesis of Diastereomeric (−)-Isopulegol Epoxide: Anticancer Activity Against Human Osteosarcoma Cells (MG-63).
+ Molecules 2019, 24 
+          (1)
+           , 52. https://doi.org/10.3390/molecules24010052Hong Li, Haiyan Du, Guangxian Zhang, Yingya Wu, Pengxiang Qiu, Jingjing Liu, Jing Guo, Xijuan Liu, Lingling Sun, Biaoyan Du, Yuhui Tan.
+ Curcumin plays a synergistic role in combination with HSV-TK/GCV in inhibiting growth of murine B16 melanoma cells and melanoma xenografts.
+ PeerJ 2019, 7 , e7760.
+ https://doi.org/10.7717/peerj.7760Yongxin Li, Qianli Zou, Chengqian Yuan, Shukun Li, Ruirui Xing, Xuehai Yan.
+ Amino Acid Coordination Driven Self-Assembly for Enhancing both the Biological Stability and Tumor Accumulation of Curcumin.
+ Angewandte Chemie 2018, 130 
+          (52)
+           , 17330-17334. https://doi.org/10.1002/ange.201810087Yongxin Li, Qianli Zou, Chengqian Yuan, Shukun Li, Ruirui Xing, Xuehai Yan.
+ Amino Acid Coordination Driven Self-Assembly for Enhancing both the Biological Stability and Tumor Accumulation of Curcumin.
+ Angewandte Chemie International Edition 2018, 57 
+          (52)
+           , 17084-17088. https://doi.org/10.1002/anie.201810087Monrawat Rauytanapanit, Thanyada Sukmanee, Kanet Wongravee, Thanit Praneenararat.
+ Paper-based chemical reaction arrays as an effective tool for geographical indication of turmerics.
+ A new family of fullerene derivatives: fullerene-curcumin conjugates for biological and photovoltaic applications.
+ RSC Advances 2018, 8 
+          (73)
+           , 41692-41698. https://doi.org/10.1039/C8RA08334GEnzo R. Russo, Inalda Facincani, Katia C. Nakazato, Terezila M. Coimbra, Eduardo J. Crevelin, Ana Maria S. Pereira, Fabio Carmona.
+ Oral administration of powdered dried rhizomes of
+     Curcuma longa
+     L. (turmeric, Zingiberaceae) is effective in the treatment of doxorubicin-induced kidney injury in rats.
+ Phytotherapy Research 2018, 32 
+          (12)
+           , 2408-2416. https://doi.org/10.1002/ptr.6176Santiago Lascano, Marie Lopez, Paola B. Arimondo.
+ Natural Products and Chemical Biology Tools: Alternatives to Target Epigenetic Mechanisms in Cancers.
+ The Chemical Record 2018, 18 
+          (12)
+           , 1854-1876. https://doi.org/10.1002/tcr.201800133Roman S. Pavelyev, Oksana V. Bondar, Thi N.T.
+ Nguyen, Alisa A. Ziganshina, Mohammad Al Farroukh, Rawdah Karwt, Gulnaz D. Alekbaeva, Mikhail V. Pugachev, Zilya R. Yamaleeva, Olga N. Kataeva, Konstantin V. Balakin, Yurii G. Shtyrlin.
+ Synthesis and in vitro antitumor activity of novel alkenyl derivatives of pyridoxine, bioisosteric analogs of feruloyl methane.
+ Bioorganic &amp; Medicinal Chemistry 2018, 26 
+          (22)
+           , 5824-5837. https://doi.org/10.1016/j.bmc.2018.10.031Taki Sato, Mayumi Hotsumi, Koki Makabe, Hiroyuki Konno.
+ Design, synthesis and evaluation of curcumin-based fluorescent probes to detect Aβ fibrils.
+ Bioorganic &amp; Medicinal Chemistry Letters 2018, 28 
+          (22)
+           , 3520-3525. https://doi.org/10.1016/j.bmcl.2018.10.002Mohammad Asadpour, Fatemeh Namazi, Seyed Mostafa Razavi, Saeed Nazifi.
+ Curcumin: A promising treatment for Cryptosporidium parvum infection in immunosuppressed BALB/c mice.
+ Experimental Parasitology 2018, 195 , 59-65. https://doi.org/10.1016/j.exppara.2018.10.008Saed Abbasi, Kazuaki Kajimoto, Hideyoshi Harashima.
+ Critical parameters dictating efficiency of membrane-mediated drug transfer using nanoparticles.
+ International Journal of Pharmaceutics 2018, 553 
+          (1-2)
+           , 398-407. https://doi.org/10.1016/j.ijpharm.2018.10.042Susana Rivera-Mancía, Joyce Trujillo, José Pedraza Chaverri.
+ Utility of curcumin for the treatment of diabetes mellitus: Evidence from preclinical and clinical studies.
+ Journal of Nutrition &amp; Intermediary Metabolism 2018, 14 , 29-41. https://doi.org/10.1016/j.jnim.2018.05.001Gerard Drewes, Stefan Knapp.
+ Chemoproteomics and Chemical Probes for Target Discovery.
+ Trends in Biotechnology 2018, 36 
+          (12)
+           , 1275-1286. https://doi.org/10.1016/j.tibtech.2018.06.008Yonika Arum Larasati, Noriko Yoneda-Kato, Ikuko Nakamae, Takashi Yokoyama, Edy Meiyanto, Jun-ya Kato.
+ Curcumin targets multiple enzymes involved in the ROS metabolic pathway to suppress tumor cell growth.
+ Scientific Reports 2018, 8 
+          (1)
+           https://doi.org/10.1038/s41598-018-20179-6Farid Ahmad Siddiqui, Gopinath Prakasam, Shilpi Chattopadhyay, Asad Ur Rehman, Rayees Ahmad Padder, Mohammad Afaque Ansari, Rasha Irshad, Kailash Mangalhara, Rameshwar N. K. Bamezai, Mohammad Husain, Syed Mansoor Ali, Mohammad Askandar Iqbal.
+ Curcumin decreases Warburg effect in cancer cells by down-regulating pyruvate kinase M2 via mTOR-HIF1α inhibition.
+ Scientific Reports 2018, 8 
+          (1)
+           https://doi.org/10.1038/s41598-018-25524-3Masuko Kobori, Yumiko Takahashi, Hiroaki Takeda, Masatomo Takahashi, Yoshihiro Izumi, Yukari Akimoto, Mutsumi Sakurai, Hideaki Oike, Toshiyuki Nakagawa, Masanori Itoh, Takeshi Bamba, Toshiyuki Kimura.
+ Dietary Intake of Curcumin Improves eIF2 Signaling and Reduces Lipid Levels in the White Adipose Tissue of Obese Mice.
+ Scientific Reports 2018, 8 
+          (1)
+           https://doi.org/10.1038/s41598-018-27105-wRui Yang, Yan Zheng, Qingjun Wang, Liang Zhao.
+ Curcumin-loaded chitosan–bovine serum albumin nanoparticles potentially enhanced Aβ 42 phagocytosis and modulated macrophage polarization in Alzheimer’s disease.
+ Nanoscale Research Letters 2018, 13 
+          (1)
+           https://doi.org/10.1186/s11671-018-2759-zDaniella Silva, Danilo M. dos Santos, Andreia Almeida, Leonardo Marchiori, Sérgio Campana-Filho, Sidney Ribeiro, Bruno Sarmento.
+ N-(2-Hydroxy)-propyl-3-trimethylammonium, O-Mysristoyl Chitosan Enhances the Solubility and Intestinal Permeability of Anticancer Curcumin.
+ Pharmaceutics 2018, 10 
+          (4)
+           , 245. https://doi.org/10.3390/pharmaceutics10040245Lian-Dong Liu, Shu-Lian Liu, Gui-Ge Hou.
+ Crystal structure of 4-((E)-((E)-5-(2-fluorobenzylidene)-1-((4-fluorophenyl)sulfonyl)-4-oxopiperidin-3-ylidene)methyl)benzonitrile, C26H18F2N2O3S.
+ Zeitschrift für Kristallographie - New Crystal Structures 2018, 233 
+          (6)
+           , 1063-1065. https://doi.org/10.1515/ncrs-2018-0174Jarinya Khoontawad, Kitti Intuyod, Rucksak Rucksaken, Nuttanan Hongsrichan, Chawalit Pairojkul, Porntip Pinlaor, Thidarut Boonmars, Chaisiri Wongkham, Alun Jones, Jordan Plieskatt, Jeremy Potriquet, Jeffrey M. Bethony, Jason Mulvenna, Somchai Pinlaor, .
+ Discovering proteins for chemoprevention and chemotherapy by curcumin in liver fluke infection-induced bile duct cancer.
+ PLOS ONE 2018, 13 
+          (11)
+           , e0207405.
+ Evaluation of a novel biocompatible magnetic nanomedicine based on beta-cyclodextrin, loaded doxorubicin-curcumin for overcoming chemoresistance in breast cancer.
+ Artificial Cells, Nanomedicine, and Biotechnology 2018, 46 
+          (sup2)
+           , 207-216. https://doi.org/10.1080/21691401.2018.1453829Natália B. Leite, Danúbia B. Martins, Vinicius E. Fazani, Maira R. Vieira, Marcia P. dos Santos Cabrera.
+ Cholesterol modulates curcumin partitioning and membrane effects.
+ Mitochondria localizing high-spin iron complexes of curcumin for photo-induced drug release.
+ Inorganica Chimica Acta 2018, 483 , 571-578. https://doi.org/10.1016/j.ica.2018.09.008Yuzhen Hu, Miao Li, Mengmeng Zhang, Yiguang Jin.
+ Inhalation treatment of idiopathic pulmonary fibrosis with curcumin large porous microparticles.
+ International Journal of Pharmaceutics 2018, 551 
+          (1-2)
+           , 212-222. https://doi.org/10.1016/j.ijpharm.2018.09.031Katiúscia Vieira Jardim, Abraham Francisco Palomec-Garfias, Bárbara Yasmin Garcia Andrade, Juliano Alexandre Chaker, Sônia Nair Báo, César Márquez-Beltrán, Sergio Enrique Moya, Alexandre Luis Parize, Marcelo Henrique Sousa.
+ Novel magneto-responsive nanoplatforms based on MnFe2O4 nanoparticles layer-by-layer functionalized with chitosan and sodium alginate for magnetic controlled release of curcumin.
+ Materials Science and Engineering: C 2018, 92 , 184-195. https://doi.org/10.1016/j.msec.2018.06.039Rita S. Elias, Qusay M.A.
+ Hassan, H.A.
+ Sultan, Ahmed S. Al-Asadi, Bahjat A. Saeed, C.A.
+ Emshary.
+ Thermal nonlinearities for three curcuminoids measured by diffraction ring patterns and Z-scan under visible CW laser illumination.
+ Optics &amp; Laser Technology 2018, 107 , 131-141. https://doi.org/10.1016/j.optlastec.2018.05.012Seung Seo, Kyoung-jin Min, Seon Woo, Ji Seo, Taeg Kwon.
+ HSP70 Acetylation Prevents Combined mTORC1/2 Inhibitor and Curcumin Treatment-Induced Apoptosis.
+ Molecules 2018, 23 
+          (11)
+           , 2755. https://doi.org/10.3390/molecules23112755Michele Catanzaro, Emanuela Corsini, Michela Rosini, Marco Racchi, Cristina Lanni.
+ Immunomodulators Inspired by Nature: A Review on Curcumin and Echinacea.
+ Molecules 2018, 23 
+          (11)
+           , 2778. https://doi.org/10.3390/molecules23112778D.
+ Prasath, K. Kandiannan, N.K.
+ Leela, S. Aarthi, B. Sasikumar, K. Nirmal Babu.
+ Turmeric.
+ 2018,,, 99-184. https://doi.org/10.1002/9781119521082.ch3Richard Bedlack, .
+ ALSUntangled 44: curcumin.
+ Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration 2018, 19 
+          (7-8)
+           , 623-629. https://doi.org/10.1080/21678421.2018.1440738Toni El Khawand, Arnaud Courtois, Josep Valls, Tristan Richard, Stéphanie Krisa.
+ A review of dietary stilbenes: sources and bioavailability.
+ Phytochemistry Reviews 2018, 17 
+          (5)
+           , 1007-1029. https://doi.org/10.1007/s11101-018-9578-9Marion M. Chan, Rensa Chen, Dunne Fong.
+ Targeting cancer stem cells with dietary phytochemical - Repositioned drug combinations.
+ Cancer Letters 2018, 433 , 53-64. https://doi.org/10.1016/j.canlet.2018.06.034Ning Li, Xianyong Bai, Lianshuang Zhang, Yun Hou.
+ Synthesis, crystal structures and anti-inflammatory activity of four 3,5-bis(arylidene)-
+     N
+     -benzenesulfonyl-4-piperidone derivatives.
+ Acta Crystallographica Section C Structural Chemistry 2018, 74 
+          (10)
+           , 1171-1179. https://doi.org/10.1107/S2053229618013232Jonathan Stone, John Mitrofanis, Daniel M. Johnstone, Benedetto Falsini, Silvia Bisti, Paul Adam, Arturo Bravo Nuevo, Mindy George-Weinstein, Rebecca Mason, Janis Eells.
+ Acquired Resilience: An Evolved System of Tissue Protection in Mammals.
+ Dose-Response 2018, 16 
+          (4)
+           , 155932581880342. https://doi.org/10.1177/1559325818803428Xiao-Yu Xu, Xiao Meng, Sha Li, Ren-You Gan, Ya Li, Hua-Bin Li.
+ Bioactivity, Health Benefits, and Related Molecular Mechanisms of Curcumin: Current Progress, Challenges, and Perspectives.
+ Nutrients 2018, 10 
+          (10)
+           , 1553. https://doi.org/10.3390/nu10101553Giovanna Bianchi, Silvia Ravera, Chiara Traverso, Adriana Amaro, Francesca Piaggio, Laura Emionite, Tiziana Bachetti, Ulrich Pfeffer, Lizzia Raffaghello.
+ Curcumin induces a fatal energetic impairment in tumor cells in vitro and in vivo by inhibiting ATP-synthase activity.
+ Carcinogenesis 2018, 39 
+          (9)
+           , 1141-1150. https://doi.org/10.1093/carcin/bgy076Srinivasa Reddy Bonam, Yuan Seng Wu, Lakshmi Tunki, Ranjithkumar Chellian, Mahabalarao Sampath Kumar Halmuthur, Sylviane Muller, Vijayapandi Pandy.
+ What Has Come out from Phytomedicines and Herbal Edibles for the Treatment of Cancer?.
+ ChemMedChem 2018, 13 
+          (18)
+           , 1854-1872. https://doi.org/10.1002/cmdc.201800343Son Tung Ngo, Xuan-Cuong Luu, Nguyen Thanh Nguyen, Van Van Vu, Huong Thi Thu Phung, .
+ Etersalate prevents the formations of 6Aβ16-22 oligomer: An in silico study.
+ PLOS ONE 2018, 13 
+          (9)
+           , e0204026.
+ https://doi.org/10.1371/journal.pone.0204026Naveen A. Mallangada, Joselin M. Vargas, Swaroopa Thomas, Matthew G. DiGiovanni, Brandon M. Vaeth, Matthew D. Nemesure, Ruixue Wang, Joseph F. LaComb, Jennie L. Williams, Lorne M. Golub, Francis Johnson, Gerardo G. Mackenzie.
+ A novel tricarbonylmethane agent (CMC2.24) reduces human pancreatic tumor growth in mice by targeting Ras.
+ Molecular Carcinogenesis 2018, 57 
+          (9)
+           , 1130-1143. https://doi.org/10.1002/mc.22830Bastian Bohnenkamp, Jan-Hendrik Linnemann, Irén Juhász Junger, Eva Schwenzfeier-Hellkamp, Andrea Ehrmann.
+ Influence of dyes and dying process parameters on the electrical properties of dye-sensitized solar cells.
+ Optik 2018, 168 , 282-286. https://doi.org/10.1016/j.ijleo.2018.04.103Jia Sun, Fei Chen, Cody Braun, Ya-Qun Zhou, Heike Rittner, Yu-Ke Tian, Xiu-Yu Cai, Da-Wei Ye.
+ Role of curcumin in the management of pathological pain.
+ Phytomedicine 2018, 48 , 129-140. https://doi.org/10.1016/j.phymed.2018.04.045Dr.
+ Piyali Basak, Tathagata Adhikary, Pratik Das, Shreya Biswas.
+ Phytochemical analysis and comparative study of antibacterial effect of turmeric extracts using different solvent.. IOP Conference Series: Materials Science and Engineering 2018, 410 , 012018. https://doi.org/10.1088/1757-899X/410/1/012018T.
+ Maulina, H. Diana, A. Cahyanto, A. Amaliya.
+ The efficacy of curcumin in managing acute inflammation pain on the post-surgical removal of impacted third molars patients: A randomised controlled trial.
+ Journal of Oral Rehabilitation 2018, 45 
+          (9)
+           , 677-683. https://doi.org/10.1111/joor.12679Anna Pawełczyk, Katarzyna Sowa-Kasprzak, Dorota Olender, Lucjusz Zaprutko.
+ Microwave (MW), Ultrasound (US) and Combined Synergic MW-US Strategies for Rapid Functionalization of Pharmaceutical Use Phenols.
+ Molecules 2018, 23 
+          (9)
+           , 2360. https://doi.org/10.3390/molecules23092360Riccardo Pettinari, Fabio Marchetti, Corrado Di Nicola, Claudio Pettinari.
+ Half-Sandwich Metal Complexes with β-Diketone-Like Ligands and Their Anticancer Activity.
+ European Journal of Inorganic Chemistry 2018, 2018 
+          (31)
+           , 3521-3536. https://doi.org/10.1002/ejic.201800400Tracy Murray-Stewart, Matthew Dunworth, Yuan Lui, Francis M. Giardiello, Patrick M. Woster, Robert A. Casero, .
+ Curcumin mediates polyamine metabolism and sensitizes gastrointestinal cancer cells to antitumor polyamine-targeted therapies.
+ PLOS ONE 2018, 13 
+          (8)
+           , e0202677.
+ https://doi.org/10.1371/journal.pone.0202677Sourav Banerjee, Chenggong Ji, Joshua E. Mayfield, Apollina Goel, Junyu Xiao, Jack E. Dixon, Xing Guo.
+ Ancient drug curcumin impedes 26S proteasome activity by direct inhibition of dual-specificity tyrosine-regulated kinase 2.
+ Proceedings of the National Academy of Sciences 2018, 115 
+          (32)
+           , 8155-8160. https://doi.org/10.1073/pnas.1806797115Ken Shimada, Kentaro Ushijima, Chisato Suzuki, Michiko Horiguchi, Hitoshi Ando, Tomomi Akita, Mizuki Shimamura, Junki Fujii, Chikamasa Yamashita, Akio Fujimura.
+ Pulmonary administration of curcumin inhibits B16F10 melanoma lung metastasis and invasion in mice.
+ Cancer Chemotherapy and Pharmacology 2018, 82 
+          (2)
+           , 265-273. https://doi.org/10.1007/s00280-018-3616-6Ajda Coker-Gurkan, Merve Celik, Merve Ugur, Elif-Damla Arisan, Pinar Obakan-Yerlikaya, Zeynep Begum Durdu, Narcin Palavan-Unsal.
+ Curcumin inhibits autocrine growth hormone-mediated invasion and metastasis by targeting NF-κB signaling and polyamine metabolism in breast cancer cells.
+ Amino Acids 2018, 50 
+          (8)
+           , 1045-1069. https://doi.org/10.1007/s00726-018-2581-zCinzia Mallozzi, Mariacristina Parravano, Lucia Gaddini, Marika Villa, Flavia Pricci, Fiorella Malchiodi-Albedi, Andrea Matteucci.
+ Curcumin Modulates the NMDA Receptor Subunit Composition Through a Mechanism Involving CaMKII and Ser/Thr Protein Phosphatases.
+ Cellular and Molecular Neurobiology 2018, 38 
+          (6)
+           , 1315-1320. https://doi.org/10.1007/s10571-018-0595-4Giulia Orteca, Francesco Tavanti, Zuzana Bednarikova, Zuzana Gazova, Giovanna Rigillo, Carol Imbriano, Valentina Basile, Mattia Asti, Luca Rigamonti, Monica Saladini, Erika Ferrari, Maria Cristina Menziani.
+ Curcumin derivatives and Aβ-fibrillar aggregates: An interactions’ study for diagnostic/therapeutic purposes in neurodegenerative diseases.
+ Bioorganic &amp; Medicinal Chemistry 2018, 26 
+          (14)
+           , 4288-4300. https://doi.org/10.1016/j.bmc.2018.07.027Wenjie Zhang, Heyuan Bai, Liqiang Han, Han Zhang, Bo Xu, Jingrong Cui, Xin Wang, Zemei Ge, Runtao Li.
+ Synthesis and biological evaluation of curcumin derivatives modified with α-amino boronic acid as proteasome inhibitors.
+ Bioorganic &amp; Medicinal Chemistry Letters 2018, 28 
+          (14)
+           , 2459-2464. https://doi.org/10.1016/j.bmcl.2018.06.004Meghan E Breen, Anna K Mapp.
+ Modulating the masters: chemical tools to dissect CBP and p300 function.
+ Current Opinion in Chemical Biology 2018, 45 , 195-203. https://doi.org/10.1016/j.cbpa.2018.06.005Chengxin Wu, Wei Wang, Feifei Quan, Pengfei Chen, Jiali Qian, Lei Zhou, Qiaosheng Pu.
+ Sensitive analysis of curcuminoids via micellar electrokinetic chromatography with laser-induced native fluorescence detection and mixed micelles-induced fluorescence synergism.
+ Journal of Chromatography A 2018, 1564 , 207-213. https://doi.org/10.1016/j.chroma.2018.06.012Carla Nieto, María Cornago, María Cabildo, Dionisia Sanz, Rosa Claramunt, María Torralba, María Torres, Diana Martínez Casanova, Yaiza Sánchez-Alegre, Esther Escudero, José Lavandera.
+ Evaluation of the Antioxidant and Neuroprotectant Activities of New Asymmetrical 1,3-Diketones.
+ Molecules 2018, 23 
+          (8)
+           , 1837. https://doi.org/10.3390/molecules23081837Lingyan Xu, Wenjun Zhao, Dongmei Wang, Xinran Ma.
+ Chinese Medicine in the Battle Against Obesity and Metabolic Diseases.
+ Frontiers in Physiology 2018, 9 https://doi.org/10.3389/fphys.2018.00850Sen Lin, Peiling Xie, Mengmeng Luo, Qing Li, Ling Li, Jinzhao Zhang, Qinxiang Zheng, Hao Chen, Kaihui Nan.
+ Efficiency against multidrug resistance by co-delivery of doxorubicin and curcumin with a legumain-sensitive nanocarrier.
+ Nano Research 2018, 11 
+          (7)
+           , 3619-3635. https://doi.org/10.1007/s12274-017-1928-1Jie Ying, Miaomiao Zhang, Xiaoyan Qiu, Yu Lu.
+ The potential of herb medicines in the treatment of esophageal cancer.
+ Biomedicine &amp; Pharmacotherapy 2018, 103 , 381-390. https://doi.org/10.1016/j.biopha.2018.04.088Debnath Bhuniya, Sandeep Bhosale, Satyanarayana B. Reddy, Sudharshan N. Reddy.
+ Isoxazole-tethered diarylheptanoid analogs: Discovery of a new drug-like PAR2 antagonist.
+ Bioorganic &amp; Medicinal Chemistry Letters 2018, 28 
+          (13)
+           , 2285-2288. https://doi.org/10.1016/j.bmcl.2018.05.032Ning Li, Wen-Yu Xin, Bin-Rong Yao, Wei Cong, Chun-Hua Wang, Gui-Ge Hou.
+ N-phenylsulfonyl-3,5-bis(arylidene)-4-piperidone derivatives as activation NF-κB inhibitors in hepatic carcinoma cell lines.
+ European Journal of Medicinal Chemistry 2018, 155 , 531-544. https://doi.org/10.1016/j.ejmech.2018.06.027Richard K. Plemper, Robert M. Cox, .
+ Biology must develop herd immunity against bad-actor molecules.
+ PLOS Pathogens 2018, 14 
+          (6)
+           , e1007038.
+ https://doi.org/10.1371/journal.ppat.1007038Jinghua Peng.
+ The Pharmacological Targets and Clinical Evidence of Natural Products With Anti-hepatic Inflammatory Properties.
+ Frontiers in Pharmacology 2018, 9 https://doi.org/10.3389/fphar.2018.00455Hongbing Fu, Changming Wang, Dejun Yang, Ziran Wei, Jiapeng Xu, Zunqi Hu, Yu Zhang, Weimin Wang, Ronglin Yan, Qingping Cai.
+ Curcumin regulates proliferation, autophagy, and apoptosis in gastric cancer cells by affecting PI3K and P53 signaling.
+ Journal of Cellular Physiology 2018, 233 
+          (6)
+           , 4634-4642. https://doi.org/10.1002/jcp.26190Jiaqing Wang, Taotao Xiong, Jie Zhou, Hongjian He, Dongdong Wu, Xuewen Du, Xingyi Li, Bing Xu.
+ Enzymatic formation of curcumin in vitro and in vivo.
+ Nano Research 2018, 11 
+          (6)
+           , 3453-3461. https://doi.org/10.1007/s12274-018-1994-zLingfeng Chen, Weitao Fu, Lulu Zheng, Yi Wang, Guang Liang.
+ Recent progress in the discovery of myeloid differentiation 2 (MD2) modulators for inflammatory diseases.
+ Drug Discovery Today 2018, 23 
+          (6)
+           , 1187-1202. https://doi.org/10.1016/j.drudis.2018.01.015Yang Liu, Yu Zhang, Shao-Nong Chen, J. Brent Friesen, Dejan Nikolić, Mary P. Choules, James B. McAlpine, David C. Lankin, Richard A. Gemeinhart, Guido F. Pauli.
+ The influence of natural deep eutectic solvents on bioactive natural products: studying interactions between a hydrogel model and Schisandra chinensis metabolites.
+ Fitoterapia 2018, 127 , 212-219. https://doi.org/10.1016/j.fitote.2018.02.024R.
+ Pushpalatha, S. Selvamuthukumar, D. Kilimozhi.
+ Cross-linked, cyclodextrin-based nanosponges for curcumin delivery - Physicochemical characterization, drug release, stability and cytotoxicity.
+ Journal of Drug Delivery Science and Technology 2018, 45 , 45-53. https://doi.org/10.1016/j.jddst.2018.03.004Linda Saxe Einbond, Fabiana Manservisi, Hsan-au Wu, Michael Balick, Victoria Antonetti, Andrea Vornoli, Ilaria Menghetti, Fiorella Belpoggi, Stephen Redenti, Alan Roter.
+ A transcriptomic analysis of turmeric: Curcumin represses the expression of cholesterol biosynthetic genes and synergizes with simvastatin.
+ Pharmacological Research 2018, 132 , 176-187. https://doi.org/10.1016/j.phrs.2018.01.023Tu T Ho, Quy TN Tran, Christina LL Chai.
+ The polypharmacology of natural products.
+ Future Medicinal Chemistry 2018, 10 
+          (11)
+           , 1361-1368. https://doi.org/10.4155/fmc-2017-0294Jia Zheng, Jing Cheng, Sheng Zheng, Qianyun Feng, Xinhua Xiao.
+ Curcumin, A Polyphenolic Curcuminoid With Its Protective Effects and Molecular Mechanisms in Diabetes and Diabetic Cardiomyopathy.
+ Frontiers in Pharmacology 2018, 9 https://doi.org/10.3389/fphar.2018.00472Atiruj Theppawong, Tim Van de Walle, Charlotte Grootaert, Margot Bultinck, Tom Desmet, John Van Camp, Matthias D'hooghe.
+ Synthesis of Novel Aza-aromatic Curcuminoids with Improved Biological Activities towards Various Cancer Cell Lines.
+ ChemistryOpen 2018, 7 
+          (5)
+           , 381-392. https://doi.org/10.1002/open.201800029Tongtong Zhang, Yanming Chen, Yuanyuan Ge, Yuzhen Hu, Miao Li, Yiguang Jin.
+ Inhalation treatment of primary lung cancer using liposomal curcumin dry powder inhalers.
+ Acta Pharmaceutica Sinica B 2018, 8 
+          (3)
+           , 440-448. https://doi.org/10.1016/j.apsb.2018.03.004Sadiya Khwaja, Kaneez Fatima, Mohammad Hasanain, Chittaranjan Behera, Avneet Kour, Arjun Singh, Suaib Luqman, Jayanta Sarkar, Debabrata Chanda, Karuna Shanker, A.K.
+ Gupta, D.M.
+ Mondhe, Arvind S. Negi.
+ Antiproliferative efficacy of curcumin mimics through microtubule destabilization.
+ Development of native and modified banana starch nanoparticles as vehicles for curcumin.
+ International Journal of Biological Macromolecules 2018, 111 , 498-504. https://doi.org/10.1016/j.ijbiomac.2018.01.063Yongqiang Liu, Melissa Siard, Amanda Adams, Michael L. Keowen, Travis K. Miller, Frank Garza, Jr., Frank M. Andrews, Navindra P. Seeram.
+ Simultaneous quantification of free curcuminoids and their metabolites in equine plasma by LC-ESI–MS/MS.
+ Journal of Pharmaceutical and Biomedical Analysis 2018, 154 , 31-39. https://doi.org/10.1016/j.jpba.2018.03.014Tian-ru Jin.
+ Curcumin and dietary polyphenol research: beyond drug discovery.
+ Acta Pharmacologica Sinica 2018, 39 
+          (5)
+           , 779-786. https://doi.org/10.1038/aps.2017.179J.A.
+ Green, M. Von Euler, L.B.
+ Abrahmsen.
+ Restoration of conformation of mutant p53.
+ Annals of Oncology 2018, 29 
+          (5)
+           , 1325-1328. https://doi.org/10.1093/annonc/mdy057Francesco Fiorentino, Antonello Mai, Dante Rotili.
+ Lysine acetyltransferase inhibitors: structure–activity relationships and potential therapeutic implications.
+ Future Medicinal Chemistry 2018, 10 
+          (9)
+           , 1067-1091. https://doi.org/10.4155/fmc-2017-0244Shreena J. Desai, Ben Prickril, Avraham Rasooly.
+ Mechanisms of Phytonutrient Modulation of Cyclooxygenase-2 (COX-2) and Inflammation Related to Cancer.
+ Nutrition and Cancer 2018, 70 
+          (3)
+           , 350-375. https://doi.org/10.1080/01635581.2018.1446091Harry Robberecht, Tess De Bruyne, Nina Hermans.
+ Biomarkers of the metabolic syndrome: influence of selected foodstuffs, containing bioactive components.
+ Phytochemistry Reviews 2018, 17 
+          (2)
+           , 351-377. https://doi.org/10.1007/s11101-017-9538-9Yung-Yi Cheng, Chen-Hsi Hsieh, Tung-Hu Tsai.
+ Concurrent administration of anticancer chemotherapy drug and herbal medicine on the perspective of pharmacokinetics.
+ Journal of Food and Drug Analysis 2018, 26 
+          (2)
+           , S88-S95.
+ https://doi.org/10.1016/j.jfda.2018.01.003Anita Umerska, Caroline Gaucher, Felipe Oyarzun-Ampuero, Isabelle Fries-Raeth, Florence Colin, María Villamizar-Sarmiento, Philippe Maincent, Anne Sapin-Minet.
+ Polymeric Nanoparticles for Increasing Oral Bioavailability of Curcumin.
+ Antioxidants 2018, 7 
+          (4)
+           , 46. https://doi.org/10.3390/antiox7040046Rohini Agrawal, Virendra Nath, Harish Kumar, Vipin Kumar.
+ Deciphering PPARγ activation in cardiometabolic syndrome: studies by
+     in silico
+     and
+     in vivo
+     experimental assessment.
+ Journal of Receptors and Signal Transduction 2018, 38 
+          (2)
+           , 122-132. https://doi.org/10.1080/10799893.2018.1436560Jeena John, Sudha Devi Rugmini, Balachandran Sreedharan Nair.
+ Kinetics and Mechanism of the Thermal and Hydrolytic Decomposition Reaction of Rosocyanin.
+ International Journal of Chemical Kinetics 2018, 50 
+          (3)
+           , 164-177. https://doi.org/10.1002/kin.21148Eun Seo Choi, Yoon Young Kang, Hyejung Mok.
+ Evaluation of the Enhanced Antioxidant Activity of Curcumin within Exosomes by Fluorescence Monitoring.
+ Biotechnology and Bioprocess Engineering 2018, 23 
+          (2)
+           , 150-157. https://doi.org/10.1007/s12257-018-0058-2Naoto Fujiwara, Scott L. Friedman, Nicolas Goossens, Yujin Hoshida.
+ Risk factors and prevention of hepatocellular carcinoma in the era of precision medicine.
+ Journal of Hepatology 2018, 68 
+          (3)
+           , 526-549. https://doi.org/10.1016/j.jhep.2017.09.016Xiao-Yuan Mao, Ming-Zhu Jin, Jin-Fei Chen, Hong-Hao Zhou, Wei-Lin Jin.
+ Live or let die: Neuroprotective and anti-cancer effects of nutraceutical antioxidants.
+ Pharmacology &amp; Therapeutics 2018, 183 , 137-151. https://doi.org/10.1016/j.pharmthera.2017.10.012Liang Zhao, Le Kang, Yan Chen, Gang Li, Lan Wang, Chun Hu, Peng Yang.
+ Spectral study on conformation switchable cationic calix[4]carbazole serving as curcumin container, stabilizer and sustained-delivery carrier.
+ Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 2018, 193 , 276-282. https://doi.org/10.1016/j.saa.2017.12.037E Rudyatmi, S H Bintari, R S Iswari.
+ Journal of Physics: Conference Series 2018, 983 , 012187. https://doi.org/10.1088/1742-6596/983/1/012187Peter Dobranowski, Fuqiang Ban, Alberto Contreras-Sanz, Artem Cherkasov, Peter C. Black.
+ Perspectives on the discovery of NOTCH2-specific inhibitors.
+ Chemical Biology &amp; Drug Design 2018, 91 
+          (3)
+           , 691-706. https://doi.org/10.1111/cbdd.13132Tianru Jin, Zhuolun Song, Jianping Weng, I. George Fantus.
+ Curcumin and other dietary polyphenols: potential mechanisms of metabolic actions and therapy for diabetes and obesity.
+ American Journal of Physiology-Endocrinology and Metabolism 2018, 314 
+          (3)
+           , E201-E205.
+ https://doi.org/10.1152/ajpendo.00285.2017Farid Rahimi.
+ Aptamers Selected for Recognizing Amyloid β-Protein—A Case for Cautious Optimism.
+ International Journal of Molecular Sciences 2018, 19 
+          (3)
+           , 668. https://doi.org/10.3390/ijms19030668Dagmar Stumpfe, Erik Gilberg, Jürgen Bajorath.
+ Series of screening compounds with high hit rates for the exploration of multi-target activities and assay interference.
+ Future Science OA 2018, 4 
+          (3)
+           , FSO279.
+ https://doi.org/10.4155/fsoa-2017-0137Jianjun Huang, Xuping Yao, Guobin Weng, Honggang Qi, Xiaolei Ye.
+ Protective effect of curcumin against cyclosporine A‑induced rat nephrotoxicity.
+ Molecular Medicine Reports 2018, https://doi.org/10.3892/mmr.2018.8591Munibah Qureshi, Ebtesam A. Al-Suhaimi, Fazli Wahid, Omer Shehzad, Adeeb Shehzad.
+ Therapeutic potential of curcumin for multiple sclerosis.
+ Neurological Sciences 2018, 39 
+          (2)
+           , 207-214. https://doi.org/10.1007/s10072-017-3149-5Ok Park, Chae Hwa Kim, Yoon Jin Kim, Hee Sun Jung, Tae Hee Kim, Hyejung Mok.
+ Curcumin-Incorporated Polymeric Scaffolds and Their Potential for the Detection of Radical Molecules.
+ Macromolecular Research 2018, 26 
+          (2)
+           , 145-150. https://doi.org/10.1007/s13233-018-6025-0Richard D. McLane, Léon Le Cozannet-Laidin, Maxwell S. Boyle, Lindsey Lanzillotta, Zachary L. Taylor, Sarah R. Anthony, Michael Tranter, Amber J. Onorato.
+ Synthesis and PGE2 inhibitory activity of novel diarylheptanoids.
+ Bioorganic &amp; Medicinal Chemistry Letters 2018, 28 
+          (3)
+           , 334-338. https://doi.org/10.1016/j.bmcl.2017.12.046Claudia Ferri, Kirsten West, Karla Otero, Yoon Hang Kim.
+ Effectiveness of Curcumin for Treating Cancer During Chemotherapy.
+ Alternative and Complementary Therapies 2018, 24 
+          (1)
+           , 13-18. https://doi.org/10.1089/act.2017.29147.yhkJames W. Larrick, Jasmine W. Larrick, Andrew R. Mendelsohn.
+ ATP Synthase, a Target for Dementia and Aging?.
+ Rejuvenation Research 2018, 21 
+          (1)
+           , 61-66. https://doi.org/10.1089/rej.2018.2056Changting Meng, Chunmei Bai, Thomas D. Brown, Leroy E. Hood, Qiang Tian.
+ Human Gut Microbiota and Gastrointestinal Cancer.
+ Genomics, Proteomics &amp; Bioinformatics 2018, 16 
+          (1)
+           , 33-49. https://doi.org/10.1016/j.gpb.2017.06.002Siddhartha S. Ghosh, Hongliang He, Jing Wang, Todd W. Gehr, Shobha Ghosh.
+ Curcumin-mediated regulation of intestinal barrier function: The mechanism underlying its beneficial effects.
+ Tissue Barriers 2018, 6 
+          (1)
+           , e1425085.
+ https://doi.org/10.1080/21688370.2018.1425085T.
+ John Zachariah, N. K. Leela.
+ Spices: Secondary Metabolites and Medicinal Properties.
+ 2018,,, 277-316. https://doi.org/10.1007/978-3-319-75016-3_10Shweta Agarwal, Ritu Mishra, Anil Kumar Gupta, Atul Gupta.
+ Turmeric: isolation and synthesis of important biological molecules.
+ 2018,,, 105-125. https://doi.org/10.1016/B978-0-08-102071-5.00005-2Govindarajan Padmanaban, Viswanathan Arun Nagaraj.
+ Curcumin From Turmeric as an Adjunct Drug?.
+ 2018,,, 179-202. https://doi.org/10.1016/B978-0-444-64057-4.00006-5Tahereh Arablou, Roya Kolahdouz-Mohammadi.
+ Curcumin and endometriosis: Review on potential roles and molecular mechanisms.
+ Biomedicine &amp; Pharmacotherapy 2018, 97 , 91-97. https://doi.org/10.1016/j.biopha.2017.10.119Hongping Xiang, Lanyue Zhang, Lu Xi, Yan Yang, Xiaowei Wang, Dehua Lei, Xi Zheng, Xiaoxuan Liu.
+ Phytochemical profiles and bioactivities of essential oils extracted from seven Curcuma herbs.
+ Industrial Crops and Products 2018, 111 , 298-305. https://doi.org/10.1016/j.indcrop.2017.10.035James A. McCubrey, Stephen L. Abrams, Kvin Lertpiriyapong, Lucio Cocco, Stefano Ratti, Alberto M. Martelli, Saverio Candido, Massimo Libra, Ramiro M. Murata, Pedro L. Rosalen, Paolo Lombardi, Giuseppe Montalto, Melchiorre Cervello, Agnieszka Gizak, Dariusz Rakus, Linda S. Steelman.
+ Effects of berberine, curcumin, resveratrol alone and in combination with chemotherapeutic drugs and signal transduction inhibitors on cancer cells—Power of nutraceuticals.
+ Advances in Biological Regulation 2018, 67 , 190-211. https://doi.org/10.1016/j.jbior.2017.09.012Ágnes Alberti, Eszter Riethmüller, Szabolcs Béni.
+ Characterization of diarylheptanoids: An emerging class of bioactive natural products.
+ Journal of Pharmaceutical and Biomedical Analysis 2018, 147 , 13-34. https://doi.org/10.1016/j.jpba.2017.08.051Takanori Tsuda.
+ Curcumin as a functional food-derived factor: degradation products, metabolites, bioactivity, and future perspectives.
+ Food &amp; Function 2018, 9 
+          (2)
+           , 705-714. https://doi.org/10.1039/C7FO01242JJigna R. Bhamore, Balaji Deshmukh, Varun Haran, Sanjay Jha, Rakesh Kumar Singhal, Nibedita Lenka, Suresh Kumar Kailasa, Z. V. P. Murthy.
+ One-step eco-friendly approach for the fabrication of synergistically engineered fluorescent copper nanoclusters: sensing of Hg
+     2+
+     ion and cellular uptake and bioimaging properties.
+ New Journal of Chemistry 2018, 42 
+          (2)
+           , 1510-1520. https://doi.org/10.1039/C7NJ04031HSankarasekaran Shanmugaraju, Bjørn la Cour Poulsen, Tobi Arisa, Deivasigamani Umadevi, Hannah L. Dalton, Chris S. Hawes, Sandra Estalayo-Adrián, Aramballi J. Savyasachi, Graeme W. Watson, D. Clive Williams, Thorfinnur Gunnlaugsson.
+ Synthesis, structural characterisation and antiproliferative activity of a new fluorescent 4-amino-1,8-naphthalimide Tröger's base–Ru(
+     ii
+     )–curcumin organometallic conjugate.
+ Chemical Communications 2018, 54 
+          (33)
+           , 4120-4123. https://doi.org/10.1039/C8CC01584HKuthuru Suresh, Ashwini Nangia.
+ Curcumin: pharmaceutical solids as a platform to improve solubility and bioavailability.
+ CrystEngComm 2018, 20 
+          (24)
+           , 3277-3296. https://doi.org/10.1039/C8CE00469BLuca Rigamonti, Giulia Orteca, Mattia Asti, Valentina Basile, Carol Imbriano, Monica Saladini, Erika Ferrari.
+ New curcumin-derived ligands and their affinity towards Ga
+     3+
+     , Fe
+     3+
+     and Cu
+     2+
+     : spectroscopic studies on complex formation and stability in solution.
+ New Journal of Chemistry 2018, 42 
+          (10)
+           , 7680-7690. https://doi.org/10.1039/C8NJ00535DMohammad Mubeen, Abhay D. Deshmukh, S. J. Dhoble.
+ Green light emitting curcumin dye in organic solvents.
+ 2018,,, 080032. https://doi.org/10.1063/1.5032838Adrian L Lopresti.
+ The Problem of Curcumin and Its Bioavailability: Could Its Gastrointestinal Influence Contribute to Its Overall Health-Enhancing Effects?.
+ Advances in Nutrition 2018, 9 
+          (1)
+           , 41-50. https://doi.org/10.1093/advances/nmx011Maksim Koptelov, Albrecht Zimmermann, Pascal Bonnet, Ronan Bureau, Bruno Crémilleux.
+ PrePeP.
+ 2018,,, 462-471. https://doi.org/10.1145/3219819.3219849Nicholas E. Buglak, Elena V. Batrakova, Roberto Mota, Edward S. M. Bahnson.
+ Insights on Localized and Systemic Delivery of Redox-Based Therapeutics.
+ Oxidative Medicine and Cellular Longevity 2018, 2018 , 1-23. https://doi.org/10.1155/2018/2468457Monica Molteni, Annalisa Bosi, Carlo Rossetti.
+ Natural Products with Toll-Like Receptor 4 Antagonist Activity.
+ International Journal of Inflammation 2018, 2018 , 1-9. https://doi.org/10.1155/2018/2859135Yoko Aniya.
+ Development of bioresources in Okinawa: understanding the multiple targeted actions of antioxidant phytochemicals.
+ Journal of Toxicologic Pathology 2018, 31 
+          (4)
+           , 241-253. https://doi.org/10.1293/tox.2018-0041Kengo KAWASAKI, Koutarou MUROYAMA, Shinji MUROSAKI.
+ Effect of a water extract of Curcuma longa on emotional states in healthy participants.
+ Bioscience of Microbiota, Food and Health 2018, 37 
+          (2)
+           , 25-29. https://doi.org/10.12938/bmfh.17-020Aniket Limaye, Roch-Chui Yu, Cheng-Chun Chou, Je-Ruei Liu, Kuan-Chen Cheng.
+ Protective and Detoxifying Effects Conferred by Dietary Selenium and Curcumin against AFB1-Mediated Toxicity in Livestock: A Review.
+ Toxins 2018, 10 
+          (1)
+           , 25. https://doi.org/10.3390/toxins10010025Danylo Kaminskyy, Anna Kryshchyshyn, Roman Lesyk.
+ Recent developments with rhodanine as a scaffold for drug discovery.
+ Expert Opinion on Drug Discovery 2017, 12 
+          (12)
+           , 1233-1252. https://doi.org/10.1080/17460441.2017.1388370Ahmed Mahal, Ping Wu, Zi-Hua Jiang, Xiaoyi Wei.
+ Synthesis and Cytotoxic Activity of Novel Tetrahydrocurcumin Derivatives Bearing Pyrazole Moiety.
+ Natural Products and Bioprospecting 2017, 7 
+          (6)
+           , 461-469. https://doi.org/10.1007/s13659-017-0143-9Jayme L. Dahlin, Kathryn M. Nelson, Jessica M. Strasser, Dalia Barsyte-Lovejoy, Magdalena M. Szewczyk, Shawna Organ, Matthew Cuellar, Gurpreet Singh, Jonathan H. Shrimp, Nghi Nguyen, Jordan L. Meier, Cheryl H. Arrowsmith, Peter J.
+ Brown, Jonathan B. Baell, Michael A. Walters.
+ Assay interference and off-target liabilities of reported histone acetyltransferase inhibitors.
+ Nature Communications 2017, 8 
+          (1)
+           https://doi.org/10.1038/s41467-017-01657-3Tracy Murray-Stewart, Robert Casero.
+ Regulation of Polyamine Metabolism by Curcumin for Cancer Prevention and Therapy.
+ Medical Sciences 2017, 5 
+          (4)
+           , 38. https://doi.org/10.3390/medsci5040038Maryam Ghazimoradi, Maryam Saberi-Karimian, Farzane Mohammadi, Amirhossein Sahebkar, Shima Tavallaie, Hamideh Safarian, Gordon A.
+ Ferns, Majid Ghayour-Mobarhan, Mohsen Moohebati, Habibollah Esmaeili, Malihe Ahmadinejad.
+ The Effects of Curcumin and Curcumin-Phospholipid Complex on the Serum Pro-oxidant-Antioxidant Balance in Subjects with Metabolic Syndrome.
+ Phytotherapy Research 2017, 31 
+          (11)
+           , 1715-1721. https://doi.org/10.1002/ptr.5899Colm Atkins, Alexander N Freiberg.
+ Recent advances in the development of antiviral therapeutics for Rift Valley fever virus infection.
+ Future Virology 2017, 12 
+          (11)
+           , 651-665. https://doi.org/10.2217/fvl-2017-0060Annika Frank, Saleh Abu-Lafi, Azmi Adawi, Johannes S. Schwed, Holger Stark, Anwar Rayan.
+ From medicinal plant extracts to defined chemical compounds targeting the histamine H4 receptor: Curcuma longa in the treatment of inflammation.
+ Inflammation Research 2017, 66 
+          (10)
+           , 923-929. https://doi.org/10.1007/s00011-017-1075-xDeana M. Apple, Rene Solano-Fonseca, Erzsebet Kokovay.
+ Neurogenesis in the aging brain.
+ Biochemical Pharmacology 2017, 141 , 77-85. https://doi.org/10.1016/j.bcp.2017.06.116Marianna Nalli, Giorgio Ortar, Aniello Schiano Moriello, Vincenzo Di Marzo, Luciano De Petrocellis.
+ Effects of curcumin and curcumin analogues on TRP channels.
+ Fitoterapia 2017, 122 , 126-131. https://doi.org/10.1016/j.fitote.2017.09.007Laura G. Gómez-Mascaraque, Caroline Casagrande Sipoli, Lucimara Gaziola de La Torre, Amparo López-Rubio.
+ Microencapsulation structures based on protein-coated liposomes obtained through electrospraying for the stabilization and improved bioaccessibility of curcumin.
+ Food Chemistry 2017, 233 , 343-350. https://doi.org/10.1016/j.foodchem.2017.04.133Melania Maria Serafini, Michele Catanzaro, Michela Rosini, Marco Racchi, Cristina Lanni.
+ Curcumin in Alzheimer’s disease: Can we think to new strategies and perspectives for this molecule?.
+ Pharmacological Research 2017, 124 , 146-155. https://doi.org/10.1016/j.phrs.2017.08.004Seung Un Seo, Tae Hwan Kim, Dong Eun Kim, Kyoung-jin Min, Taeg Kyu Kwon.
+ NOX4-mediated ROS production induces apoptotic cell death via down-regulation of c-FLIP and Mcl-1 expression in combined treatment with thioridazine and curcumin.
+ Redox Biology 2017, 13 , 608-622. https://doi.org/10.1016/j.redox.2017.07.017Lukasz Huminiecki, Jarosław Horbańczuk, Atanas G. Atanasov.
+ The functional genomic studies of curcumin.
+ Seminars in Cancer Biology 2017, 46 , 107-118. https://doi.org/10.1016/j.semcancer.2017.04.002David Julian McClements, Hang Xiao.
+ Designing food structure and composition to enhance nutraceutical bioactivity to support cancer inhibition.
+ Seminars in Cancer Biology 2017, 46 , 215-226. https://doi.org/10.1016/j.semcancer.2017.06.003Jeffry Adiwidjaja, Andrew J. McLachlan, Alan V. Boddy.
+ Curcumin as a clinically-promising anti-cancer agent: pharmacokinetics and drug interactions.
+ Expert Opinion on Drug Metabolism &amp; Toxicology 2017, 13 
+          (9)
+           , 953-972. https://doi.org/10.1080/17425255.2017.1360279Paul Velander, Ling Wu, Frances Henderson, Shijun Zhang, David R. Bevan, Bin Xu.
+ Natural product-based amyloid inhibitors.
+ Biochemical Pharmacology 2017, 139 , 40-55. https://doi.org/10.1016/j.bcp.2017.04.004Michael Spedding, Valerie Schini-Kerth, Cherry L. Wainwright, Guanhua Du.
+ I9 IUPHAR: Immunology, metabolism and natural products.
+ Biochemical Pharmacology 2017, 139 , 107. https://doi.org/10.1016/j.bcp.2017.06.055Joyce L.S.
+ Gonçalves, Silvano R. Valandro, Alessandra L. Poli, Carla C. Schmitt.
+ Influence of clay minerals on curcumin properties: Stability and singlet oxygen generation.
+ Journal of Molecular Structure 2017, 1143 , 1-7. https://doi.org/10.1016/j.molstruc.2017.04.073Adeeb Shehzad, Munibah Qureshi, Muhammad Nabeel Anwar, Young Sup Lee.
+ Multifunctional Curcumin Mediate Multitherapeutic Effects.
+ Journal of Food Science 2017, 82 
+          (9)
+           , 2006-2015. https://doi.org/10.1111/1750-3841.13793Michael A Clegg, Nicholas CO Tomkinson, Rab K Prinjha, Philip G Humphreys.
+ Small molecules and their role in effective preclinical target validation.
+ Future Medicinal Chemistry 2017, 9 
+          (14)
+           , 1579-1582. https://doi.org/10.4155/fmc-2017-0121Asha Jaja-Chimedza, Brittany L. Graf, Charlotte Simmler, Youjin Kim, Peter Kuhn, Guido F. Pauli, Ilya Raskin, .
+ Biochemical characterization and anti-inflammatory properties of an isothiocyanate-enriched moringa (Moringa oleifera) seed extract.
+ PLOS ONE 2017, 12 
+          (8)
+           , e0182658.
+ https://doi.org/10.1371/journal.pone.0182658James A. McCubrey, Kvin Lertpiriyapong, Linda S. Steelman, Steve L. Abrams, Li V. Yang, Ramiro M. Murata, Pedro L. Rosalen, Aurora Scalisi, Luca M. Neri, Lucio Cocco, Stefano Ratti, Alberto M. Martelli, Piotr Laidler, Joanna Dulińska-Litewka, Dariusz Rakus, Agnieszka Gizak, Paolo Lombardi, Ferdinando Nicoletti, Saverio Candido, Massimo Libra, Giuseppe Montalto, Melchiorre Cervello.
+ Effects of resveratrol, curcumin, berberine and other nutraceuticals on aging, cancer development, cancer stem cells and microRNAs.
+ Aging 2017, 9 
+          (6)
+           , 1477-1536. https://doi.org/10.18632/aging.101250Mengxi Tang, Changiz Taghibiglou, .
+ The Mechanisms of Action of Curcumin in Alzheimer’s Disease.
+ Journal of Alzheimer's Disease 2017, 58 
+          (4)
+           , 1003-1016. https://doi.org/10.3233/JAD-170188Shani Dahan, Yahel Segal, Yehuda Shoenfeld.
+ Dietary factors in rheumatic autoimmune diseases: a recipe for therapy?.
+ Nature Reviews Rheumatology 2017, 13 
+          (6)
+           , 348-358. https://doi.org/10.1038/nrrheum.2017.42H.
+ Gibson-Moore, A. Spiro.
+ Can turmeric really prevent cancer?.
+ Nutrition Bulletin 2017, 42 
+          (2)
+           , 141-147. https://doi.org/10.1111/nbu.12262Sandra Gunesch, Simon Schramm, Michael Decker.
+ Natural antioxidants in hybrids for the treatment of neurodegenerative diseases: a successful strategy?.
+ Future Medicinal Chemistry 2017, 9 
+          (8)
+           , 711-713. https://doi.org/10.4155/fmc-2017-0073Jiansong Fang, Chuang Liu, Qi Wang, Ping Lin, Feixiong Cheng.
+ In silico polypharmacology of natural products.
+ Briefings in Bioinformatics 2017, 14 https://doi.org/10.1093/bib/bbx045Thazin Aung, Zhipeng Qu, R. Kortschak, David Adelson.
+ Understanding the Effectiveness of Natural Compound Mixtures in Cancer through Their Molecular Mode of Action.
+ International Journal of Molecular Sciences 2017, 18 
+          (3)
+           , 656. https://doi.org/10.3390/ijms18030656Geoffrey P. Webb.
+ Dietary Supplements—A Classification and Overview of Uses and Efficacy.
+ 2017,,https://doi.org/10.1016/B978-0-12-409547-2.13971-XMasoumeh Alem, Aliakbar Tarlani, Hamid Reza Aghabozorg.
+ Synthesis of nanostructured alumina with ultrahigh pore volume for pH-dependent release of curcumin.
+ RSC Advances 2017, 7 
+          (62)
+           , 38935-38944. https://doi.org/10.1039/C7RA03231ENursyamirah Abd Razak, M. Nadeem Akhtar, Nadiah Abu, Wan Yong Ho, Sheau Wei Tan, Seema Zareen, Saiful Nizam bin Taj-ud-din, Kamariah Long, Noorjahan Banu Alitheen, Swee Keong Yeap.
+ The in vivo anti-tumor effect of curcumin derivative (2E,6E)-2,6-bis(4-hydroxy-3-methoxybenzylidene)cyclohexanone (BHMC) on 4T1 breast cancer cells.
+ RSC Advances 2017, 7 
+          (57)
+           , 36185-36192. https://doi.org/10.1039/C7RA06580AErik Gilberg, Dagmar Stumpfe, Jürgen Bajorath.
+ Activity profiles of analog series containing pan assay interference compounds.
+ RSC Advances 2017, 7 
+          (57)
+           , 35638-35647. https://doi.org/10.1039/C7RA06736DElena Gabriele, Dario Brambilla, Chiara Ricci, Luca Regazzoni, Kyoko Taguchi, Nicola Ferri, Akira Asai, Anna Sparatore.
+ New sulfurated derivatives of cinnamic acids and rosmaricine as inhibitors of STAT3 and NF-κB transcription factors.
+ Journal of Enzyme Inhibition and Medicinal Chemistry 2017, 32 
+          (1)
+           , 1012-1028. https://doi.org/10.1080/14756366.2017.1350658Maya Ben Yehuda Greenwald, Marina Frušić-Zlotkin, Yoram Soroka, Shmuel Ben Sasson, Ronit Bitton, Havazelet Bianco-Peled, Ron Kohen.
+ Curcumin Protects Skin against UVB-Induced Cytotoxicity via the Keap1-Nrf2 Pathway: The Use of a Microemulsion Delivery System.
+ Oxidative Medicine and Cellular Longevity 2017, 2017 , 1-17. https://doi.org/10.1155/2017/5205471Erik Gilberg, Dagmar Stumpfe, Jürgen Bajorath.
+ Towards a systematic assessment of assay interference: Identification of extensively tested compounds with high assay promiscuity.
+ F1000Research 2017, 6 , 1505. https://doi.org/10.12688/f1000research.12370.2        						Partners 					                                                         				1155 Sixteenth Street N.W.
+ Washington, DC 20036 			    				Copyright © 2020 				American Chemical Society 			      About  About ACS Publications ACS &amp; Open Access ACS Membership   Resources and Information  Journals A-Z Books and Reference Advertising Media Kit Institutional Sales ACS Publishing Center Privacy Policy Terms of Use   Support &amp; Contact  Help Live Chat FAQ      Connect with ACS Publications                                Pair your accounts.
+ Export articles to Mendeley Get article recommendations from ACS based on references in your Mendeley library.
+ Pair your accounts.
+ Export articles to Mendeley Get article recommendations from ACS based on references in your Mendeley library.
+ You’ve supercharged your research process with ACS and Mendeley!
+ ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+ Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+ Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+ addSize([320, 400], [320, 50]).
+ addSize([320, 700], [320, 50]).
+ addSize([750, 200], [728, 90]).
+ addSize([980, 600], [728, 90]).
+ addSize([1024, 600], [728, 90]).
+ addSize([320, 400], [[1, 1], [320, 50]]).
+ addSize([320, 700], [[1, 1], [320, 50]]).
+ addSize([750, 200], [[1, 1], [728, 90]]).
+ addSize([980, 600], [[1, 1], [728, 90]]).
+ addSize([1024, 600], [[1, 1], [728, 90]]).
+ addSize([320, 400], [[1, 1], [320, 50]]).
+ addSize([320, 700], [[1, 1], [320, 50]]).
+ addSize([750, 200], [[1, 1], [320, 50]]).
+ addSize([980, 600], [[1, 1], [320, 50]]).
+ addSize([1024, 600], [[1, 1], [728, 90]]).
+ setTargeting("location", "rectangle1").
+ setTargeting("ntvPlacement", ["1100168"]).
+ setTargeting("location", "sponsor1").
+ setTargeting("ntvPlacement", ["1101382"]).
+ addService(googletag.pubads());    googletag.defineSlot("/8868/pubs/search",    [1, 1], "dfp-pubs-search-sponsor-2").
+ setTargeting("location", "sponsor2").
+ setTargeting("ntvPlacement", ["1101383"]).
+ defineSizeMapping(mappingLeaderArticleList).
+ setTargeting("location", "sponsor1").
+ setTargeting("ntvPlacement", ["1100169"]).
+ addService(googletag.pubads());    googletag.defineSlot("/8868/pubs/editorschoice",    [[1, 1], [728, 90]], "dfp-pubs-editorschoice-sponsor-2").
+ defineSizeMapping(mappingLeaderArticleList).
+ setTargeting("location", "sponsor2").
+ setTargeting("ntvPlacement", ["1100170"]).
+ defineSizeMapping(mappingLeaderCEN).
+ setTargeting("pos", "Journals_HR").
+ addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    [728, 90], "dfp-journal-hp-leaderboard").
+ defineSizeMapping(mappingLeaderCEN).
+ setTargeting("location", "leaderboard1").
+ addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    [1, 1], "dfp-journal-hp-rectangle-1").
+ setTargeting("ntvPlacement", ["1100648"]).
+ setTargeting("location", "rectangle1").
+ addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    [1, 1], "dfp-journal-hp-rectangle-2").
+ setTargeting("ntvPlacement", ["1100649"]).
+ setTargeting("location", "rectangle2").
+ addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    [[1, 1], [300, 250]] , "dfp-journal-hp-rectangle-3").
+ setTargeting("ntvPlacement", ["1100651"]).
+ setTargeting("location", "rectangle3").
+ setTargeting("pos", "Journals_HR").
+ addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage", [728, 90], "dfp-journal-hp-leaderboard").
+ defineSizeMapping(mappingLeader).
+ setTargeting("location", "leaderboard1").
+ addService(googletag.pubads());    // googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    // [[1, 1], [300, 250]], "dfp-journal-hp-rectangle-1").
+ // setTargeting("ntvPlacement", ["1100164"]).
+ // setTargeting("location", "rectangle1").
+ // addService(googletag.pubads());    // googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    // [[1, 1], [300, 250]], "dfp-journal-hp-rectangle-2").
+ // setTargeting("ntvPlacement", ["1100165"]).
+ // setTargeting("location", "rectangle2").
+ // addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    [[1, 1], [300, 250]], "dfp-journal-hp-rectangle-3").
+ setTargeting("ntvPlacement", ["1100166"]).
+ setTargeting("location", "rectangle3").
+ addService(googletag.pubads());    // googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    // [1, 1], "dfp-journal-hp-rectangle-4").
+ // setTargeting("ntvPlacement", ["1100167"]).
+ // setTargeting("location", "rectangle4").
+ // addService(googletag.pubads());    // googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    // [1, 1], "dfp-journal-hp-rectangle-5").
+ // setTargeting("ntvPlacement", ["1100303"]).
+ // setTargeting("location", "rectangle5").
+ // addService(googletag.pubads());    // googletag.defineSlot("/8868/journal/medicinal_chemistry/homepage",    // [[1, 1], [300, 250]], "dfp-journal-hp-rectangle-6").
+ // setTargeting("ntvPlacement", ["1100304"]).
+ // setTargeting("location", "rectangle6").
+ setTargeting("location", "rectangle1").
+ defineSizeMapping(mappingLeaderArticleList).
+ setTargeting("location", "sponsor1").
+ setTargeting("ntvPlacement", ["1101380"]).
+ addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/all_toc/toc",    [[1, 1], [728, 90]], "dfp-journal-toc-sponsor-2").
+ defineSizeMapping(mappingLeaderArticleList).
+ setTargeting("location", "sponsor2").
+ setTargeting("ntvPlacement", ["1101381"]).
+ defineSizeMapping(mappingLeaderArticleList).
+ setTargeting("location", "sponsor1").
+ setTargeting("ntvPlacement", ["1101380"]).
+ addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/all_toc/asap",    [[1, 1], [728, 90]], "dfp-journal-asap-sponsor-2").
+ defineSizeMapping(mappingLeaderArticleList).
+ setTargeting("location", "sponsor2").
+ setTargeting("ntvPlacement", ["1101381"]).
+ defineSizeMapping(mappingLeaderArticleList).
+ setTargeting("location", "sponsor1").
+ setTargeting("ntvPlacement", ["1101380"]).
+ addService(googletag.pubads());    googletag.defineSlot("/8868/journal/medicinal_chemistry/all_toc/jams",    [[1, 1], [728, 90]], "dfp-journal-jams-sponsor-2").
+ defineSizeMapping(mappingLeaderArticleList).
+ setTargeting("location", "sponsor2").
+ setTargeting("ntvPlacement", ["1101381"]).
+ setTargeting("inst",dartInstitutionType).
+ addSize([320, 400], [320, 50]).
+ addSize([320, 700], [320, 50]).
+ addSize([750, 200], [728, 90]).
+ addSize([980, 690], [728, 90]).
+ addSize([1024, 768], [728, 90]).
+ By continuing to use the site, you are accepting our use of cookies.
+ Read the ACS privacy policy.
+ CONTINUE      "use strict" //Script checks gdpr cookie and submits form 	/*  	Create an in-page pop-up message, only for the InfoCentral homepage, that will gather email registrants for the library marketing list.

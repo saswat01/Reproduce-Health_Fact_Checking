@@ -1,0 +1,171 @@
+Now he’ll need to put the country back together, Franklin Foer writes.
+ Close Icon  Health Immunology Is Where Intuition Goes to Die Which is too bad because we really need to understand how the immune system reacts to the coronavirus.
+ Find the collection here.
+ Updated at 10:36 a.m.
+ ET on August 5, 2020.There’s a joke about immunology, which Jessica Metcalf of Princeton recently told me.
+ An immunologist and a cardiologist are kidnapped.
+ The kidnappers threaten to shoot one of them, but promise to spare whoever has made the greater contribution to humanity.
+ The cardiologist says, “Well, I’ve identified drugs that have saved the lives of millions of people.” Impressed, the kidnappers turn to the immunologist.
+ “What have you done?” they ask.
+ The immunologist says, “The thing is, the immune system is very complicated …” And the cardiologist says, “Just shoot me now.”To hear more feature stories, get the Audm iPhone app.
+ The thing is, the immune system is very complicated.
+ Arguably the most complex part of the human body outside the brain, it’s an absurdly intricate network of cells and molecules that protect us from dangerous viruses and other microbes.
+ These components summon, amplify, rile, calm, and transform one another: Picture a thousand Rube Goldberg machines, some of which are aggressively smashing things to pieces.
+ Now imagine that their components are labeled with what looks like a string of highly secure passwords: CD8+, IL-1β, IFN-γ.
+ Immunology confuses even biology professors who aren’t immunologists—hence Metcalf’s joke.
+ Even the word immunity creates confusion.
+ When immunologists use it, they simply mean that the immune system has responded to a pathogen—for example, by producing antibodies or mustering defensive cells.
+ When everyone else uses the term, they mean (and hope) that they are protected from infection—that they are immune.
+ But, annoyingly, an immune response doesn’t necessarily provide immunity in this colloquial sense.
+ It all depends on how effective, numerous, and durable those antibodies and cells are.From the September 2020 issue: How the pandemic defeated AmericaImmunity, then, is usually a matter of degrees, not absolutes.
+ And it lies at the heart of many of the COVID-19 pandemic’s biggest questions.
+ Why do some people become extremely ill and others don’t?
+ Can infected people ever be sickened by the same virus again?
+ How will the pandemic play out over the next months and years?
+ Will vaccination work?To answer these questions, we must first understand how the immune system reacts to SARS-CoV-2 coronavirus.
+ Which is unfortunate because, you see, the immune system is very complicated.It works, roughly, like this.The first of three phases involves detecting a threat, summoning help, and launching the counterattack.
+ It begins as soon as a virus drifts into your airways, and infiltrates the cells that line them.When cells sense molecules common to pathogens and uncommon to humans, they produce proteins called cytokines.
+ Some act like alarms, summoning and activating a diverse squad of white blood cells that go to town on the intruding viruses—swallowing and digesting them, bombarding them with destructive chemicals, and releasing yet more cytokines.
+ Some also directly prevent viruses from reproducing (and are delightfully called interferons).
+ These aggressive acts lead to inflammation.
+ Redness, heat, swelling, soreness—these are all signs of the immune system working as intended.Read: Why some people get sicker than others This initial set of events is part of what’s called the innate immune system.
+ It’s quick, occurring within minutes of the virus’s entry.
+ It’s ancient, using components that are shared among most animals.
+ It’s generic, acting in much the same way in everyone.
+ And it’s broad, lashing out at anything that seems both nonhuman and dangerous, without much caring about which specific pathogen is afoot.
+ What the innate immune system lacks in precision, it makes up for in speed.
+ Its job is to shut down an infection as soon as possible.
+ Failing that, it buys time for the second phase of the immune response: bringing in the specialists.Amid all the fighting in your airways, messenger cells grab small fragments of virus and carry these to the lymph nodes, where highly specialized white blood cells—T-cells—are waiting.
+ The T-cells are selective and preprogrammed defenders.
+ Each is built a little differently, and comes ready-made to attack just a few of the zillion pathogens that could possibly exist.
+ For any new virus, you probably have a T-cell somewhere that could theoretically fight it.
+ Your body just has to find and mobilize that cell.
+ Picture the lymph nodes as bars full of grizzled T-cell mercenaries, each of which has just one type of target they’re prepared to fight.
+ The messenger cell bursts in with a grainy photo, showing it to each mercenary in turn, asking: Is this your guy?
+ When a match is found, the relevant merc arms up and clones itself into an entire battalion, which marches off to the airways.
+ Some T-cells are killers, which blow up the infected respiratory cells in which viruses are hiding.
+ Others are helpers, which boost the rest of the immune system.
+ Among their beneficiaries, these helper T-cells activate the B-cells that produce antibodies—small molecules that can neutralize viruses by gumming up the structures they use to latch on to their hosts.
+ Roughly speaking—and this will be important later—antibodies mop up the viruses that are floating around outside our cells, while T-cells kill the ones that have already worked their way inside.
+ T-cells do demolition; antibodies do cleanup.Both T-cells and antibodies are part of the adaptive immune system.
+ This branch is more precise than the innate branch, but much slower: Finding and activating the right cells can take several days.
+ It’s also long-lasting: Unlike the innate branch of the immune system, the adaptive one has memory.Read: A vaccine reality checkAfter the virus is cleared, most of the mobilized T-cell and B-cell forces stand down and die off.
+ But a small fraction remain on retainer—veterans of the COVID-19 war of 2020, bunkered within your organs and patrolling your bloodstream.
+ This is the third and final phase of the immune response: Keep a few of the specialists on tap.
+ If the same virus attacks again, these “memory cells” can spring into action and launch the adaptive branch of the immune system without the usual days-long delay.
+ Memory is the basis of immunity as we colloquially know it—a lasting defense against whatever has previously ailed us.This account is what should happen when the new coronavirus enters the body, based on general knowledge about the immune system and how it reacts to other respiratory viruses.
+ But what actually happens?
+ Well … sigh … the thing is, the immune system is very complicated.In general, the immune system’s reaction to SARS-CoV-2 is “what I would expect if you told me there was a new respiratory infection,” says Shane Crotty from the La Jolla Institute of Immunology.
+ The innate immune system switches on first, and the adaptive immune system follows suit.
+ In several studies, most people who are infected develop reasonable levels of coronavirus-specific T-cells and antibodies.
+ “The bottom line is that there are no big surprises,” says Sarah Cobey, an epidemiologist from the University of Chicago.Still, “any virus that can make people sick has to have at least one good trick for evading the immune system,” Crotty says.
+ The new coronavirus seems to rely on early stealth, somehow delaying the launch of the innate immune system, and inhibiting the production of interferons—those molecules that initially block viral replication.
+ “I believe this [delay] is really the key in determining good versus bad outcomes,” says Akiko Iwasaki, an immunologist at Yale.
+ It creates a brief time window in which the virus can replicate unnoticed before the alarm bells start sounding.
+ Those delays cascade: If the innate branch is slow to mobilize, the adaptive branch will also lag.
+ Many infected people still clear the virus after a few weeks of nasty symptoms.
+ But others don’t.
+ Maybe they initially inhaled a large dose of virus.
+ Maybe their innate immune systems were already weakened through old age or chronic disease.
+ In some cases, the adaptive immune system also underperforms: T-cells mobilize, but their levels recede before the virus is vanquished, “almost causing an immunosuppressed state,” Iwasaki says.
+ This dual failure might allow the virus to migrate deeper into the body, toward the vulnerable cells of the lungs, and to other organs including the kidneys, blood vessels, and the gastrointestinal and nervous systems.
+ The immune system can’t constrain it, but doesn’t stop trying.
+ And that’s also a problem.
+ Immune responses are inherently violent.
+ Cells are destroyed.
+ Harmful chemicals are unleashed.
+ Ideally, that violence is targeted and restrained; as Metcalf puts it, “Half of the immune system is designed to turn the other half off.” But if an infection is allowed to run amok, the immune system might do the same, causing a lot of collateral damage in its prolonged and flailing attempts to control the virus.This is apparently what happens in severe cases of COVID-19.
+ “If you can’t clear the virus quickly enough, you’re susceptible to damage from the virus and the immune system,” says Donna Farber, a microbiologist at Columbia.
+ Many people in intensive-care units seem to succumb to the ravages of their own immune cells, even if they eventually beat the virus.
+ Others suffer from lasting lung and heart problems, long after they are discharged.
+ Such immune overreactions also happen in extreme cases of influenza, but they wreak greater damage in COVID-19.There’s a further twist.
+ Normally, the immune system mobilizes different groups of cells and molecules when fighting three broad groups of pathogens: viruses and microbes that invade cells, bacteria and fungi that stay outside cells, and parasitic worms.
+ Only the first of these programs should activate during a viral infection.
+ But Iwasaki’s team recently showed that all three activate in severe COVID-19 cases.
+ “It seems completely random,” she says.
+ In the worst cases, “the immune system almost seems confused as to what it’s supposed to be making.”No one yet knows why this happens, and only in some people.
+ It’s still unclear, for example, why so many “long-haulers” have endured months of debilitating symptoms.
+ Many of them have never been hospitalized, and so aren’t represented in existing studies that have measured antibody and T-cell responses.
+ David Putrino of Mount Sinai tells me that he surveyed 700 long-haulers and a third had tested negative for antibodies, despite having symptoms consistent with COVID-19.
+ It’s unclear if their immune systems are doing anything differently when confronted with the coronavirus.We should expect such mysteries to build.
+ The immune system’s reaction to the virus is a matter of biology, but the range of reactions we actually see is also influenced by politics.
+ In other words, the worse the pandemic gets, the weirder it will get.A few patterns offer easier possible explanations.
+ “Kids have very trigger-happy innate immune systems,” says Florian Krammer of Mount Sinai’s Icahn School of Medicine, which might explain why they rarely suffer severe infections.
+ Elderly people are less fortunate.
+ They also have smaller standing pools of T-cells to draw from, as if the mercenary-filled bar from the earlier metaphor is only sparsely packed.
+ “It takes longer for the adaptive response to mobilize,” Farber says.
+ Paging Dr. Hamblin: Are kids really spared from the coronavirus?
+ There are also preliminary hints that some people might have a degree of preexisting immunity against the new coronavirus.
+ Four independent groups of scientists—based in the U.S., Germany, the Netherlands, and Singapore—have now found that 20 to 50 percent of people who were never exposed to SARS-CoV-2 nonetheless have significant numbers of T-cells that can recognize it.
+ These “cross-reactive” cells likely emerged when their owners were infected by other, related coronaviruses, including the four mild ones that cause a third of common colds, and the many that infect other animals.But Farber cautions that having these cross-reactive T-cells “tells you absolutely nothing about protection.” It’s intuitive to think they would be protective, but immunology is where intuition goes to die.
+ The T-cells might do nothing.
+ There’s an outside chance that they could predispose people to more severe disease.
+ We can’t know for sure without recruiting lots of volunteers, checking their T-cell levels, and following them over a long period of time to see who gets infected—and how badly.Even if the cross-reactive cells are beneficial, remember that T-cells act by blowing up infected cells.
+ As such, they’re unlikely to stop people from getting infected in the first place, but might reduce the severity of those infections.
+ Could this help to explain why, politics aside, some countries had an easier time with COVID-19 than others?
+ Could it explain why some people incur only mild symptoms?
+ “You can go pretty crazy pretty quickly with the speculations,” says Crotty, who co-led one of the studies that identified these cross-reactive cells.
+ “A lot of people have latched onto this and said it could explain everything.
+ Yes, it could!
+ Or it could explain nothing.
+ It’s a really frustrating situation to be in.”“I wish it wasn’t,” he adds, “but the immune system is really complicated.”One of the most pressing mysteries is what happens after you’re infected—and whether you could be again.
+ Crucially, researchers still don’t know how much protection the leftover antibodies, T-cells, and memory cells might offer against COVID-19, or even how to measure that.In July, a team of British researchers released a study showing that many COVID-19 patients lose substantial levels of their coronavirus-neutralizing antibodies after a few months.
+ An earlier Chinese study, published in June, found similar results.
+ Both prompted cascades of alarming headlines, which raised concerns that people could be infected repeatedly, or even that a vaccine—many of which work by readying neutralizing antibodies—won’t provide long-term protection.
+ But many of the immunologists I spoke with weren’t too concerned, because—and reassuringly this time—the immune system is really complicated.
+ First, declines are expected.
+ During an infection, antibodies are produced by two different groups of B-cells.
+ The first group is fast and short-lived, and quickly unleashes a huge antibody tsunami before dying off.
+ The second group is slower but long-lasting, and produces gentler antibody swells that continuously wash over the body.
+ The transition from the first group to the second means that antibody levels usually decline over the course of an infection.
+ “There’s nothing scary about it,” Krammer says.Taia Wang of Stanford is a little less sanguine.
+ She tells me several studies, including upcoming ones, consistently show that many people seem to lose their neutralizing antibodies after a couple of months.
+ “If you asked me to guess six months ago, I would have thought that they would last longer,” she says.
+ “The durability is not what we’d like.”But “the fact that you don’t have measurable antibodies doesn’t mean that you aren’t immune,” Iwasaki says.
+ T-cells could continue to provide adaptive immunity even if the antibodies tap out.
+ Memory B-cells, if they persist, could quickly replenish antibody levels even if the current stocks are low.
+ And, crucially, we still don’t know how many neutralizing antibodies you need to be protected against COVID-19.Read: We need to talk about ventilationWang agrees: “There’s a common notion that antibody quantity is all that matters, but it’s more complicated than that,” she says.
+ “The quality of the antibody is as important.” Quality might be defined by which part of the virus the antibodies stick to, or how well they stick.
+ Indeed, many people who recover from COVID-19 have low levels of neutralizing antibodies overall, but some of them neutralize very well.
+ “Quantity is easier to measure,” Wang adds.
+ “There are more ways to characterize quality and we don’t know which ones are relevant.” (This problem is even worse for T-cells, which are much harder than antibodies to isolate and analyze.)
+ These uncertainties strengthen the need for large, careful vaccine trials: Right now it’s hard to know whether the promising signs in early trials will actually lead to substantial protection in practice.
+ (Developing and deploying vaccines is a subject for another piece, which my colleague Sarah Zhang has written.)
+ Scientists are trying to work out how to measure COVID-19 immunity by studying large groups of people who have either been infected naturally or taken part in a vaccine trial.
+ Researchers will repeatedly measure and analyze the volunteers’ antibodies and T-cells over time, noting if any of them become infected again.
+ Krammer expects that results will take a few months, or possibly until the end of the year.
+ “There’s no way to speed that up,” he says.
+ Because … well, you know.In the meantime, anecdotal reports have described alleged reinfections—people who apparently catch COVID-19 a second time, and who test positive for the coronavirus again after months of better health.
+ Such cases are concerning, but hard to interpret.
+ Viral RNA—the genetic material that diagnostic tests detect—can stick around for a long time, and people can test positive for months after they’ve cleared the actual virus.
+ If someone like that caught the flu and went to their doctor, they might get tested for coronavirus again, get a positive result, and be mistakenly treated as a case of reinfection.
+ “It’s really hard to prove reinfection unless you sequence the genes of the virus” both times, Iwasaki says.
+ “No one has that data, and it’s unreasonable to expect.”  Immunity lasts a lifetime for some diseases—chickenpox, measles—but eventually wears off for many others.
+ As the pandemic drags on, we should expect at least a few instances in which people who’ve beaten COVID-19 must beat it again.
+ So far, the fact that reinfections are still the subject of smattered anecdotes suggests that “it’s happening at a very low rate, if at all,” Cobey says.
+ But remember: A bigger pandemic is a weirder pandemic.
+ When there are almost 5 million confirmed cases, something that occurs just 0.1 percent of the time will still affect 5,000 people.Read: COVID-19 can last for several months If people endure a second bout with COVID-19, the outcome is again hard to call.
+ For some diseases, like dengue, an antibody response to one infection can counterintuitively make the next infection more severe.
+ So far, there’s no evidence this happens with SARS-CoV-2, says Krammer, who expects that any reinfections would be milder than the first ones.
+ That’s because the coronavirus has a longer incubation time—a wider window between infection and symptoms—than, say, the flu.
+ That could conceivably provide more time for memory cells to mobilize a new force of antibodies and T-cells.
+ “Even if there’s some immunity loss in the future, it’s not that we’d have to go through this pandemic again,” Cobey says.What will determine our future with the virus is how long protective immunity lasts.
+ For severe coronaviruses like MERS and the original SARS, it persists for at least a couple of years.
+ For the milder coronaviruses that cause common colds, it disappears within a year.
+ “Everyone wants to know,” says Nina Le Bert from the Duke-NUS in Singapore.
+ “We don’t have the answer.”Most people still haven’t been infected a first time, let alone a second.
+ The immediate uncertainty around our pandemic future “doesn’t stem from the immune response,” Cobey says, but from “policies that are enacted, and whether people will distance or wear masks.” But for next year and beyond, modeling studies have shown that the precise details of the immune system’s reactions to the virus, and to a future vaccine, will radically affect our lives.
+ The virus could cause annual outbreaks.
+ It might sweep the world until enough people are vaccinated or infected, and then disappear.
+ It could lie low for years and then suddenly bounce back.
+ All of these scenarios are possible, but the range of possibilities will narrow the more we learn about the immune system.That system may be vexingly complex, but it is also both efficient and resilient in a way that our society could take lessons from.
+ It prepares in advance, and learns from its past.
+ It has many redundancies in case any one defense fails.
+ It acts fast, but has checks and balances to prevent overreactions.
+ And, in the main, it just works.
+ Despite the multitude of infectious threats that constantly surround us, most people spend most of the time not being sick.“It’s a complicated system,” Iwasaki says.
+ “I think it’s beautiful.” We want to hear what you think about this article.
+ Submit a letter to the editor or write to letters@theatlantic.com.
+ Ed Yong is a staff writer at The Atlantic, where he covers science.
+ Connect Twitter    AboutOur HistoryStaffCareersContactHelp CenterContact UsAtlantic Brand PartnersPressPodcastsSocial Distance™FloodlinesThe Ticket: Politics from The AtlanticCrazy/GeniusSubscriptionPurchaseGive a GiftManage SubscriptionDownload iOS AppNewslettersFollowPrivacy PolicyDo Not Sell My Personal InformationAdvertising GuidelinesTerms ConditionsResponsible Disclosure Site MapTheAtlantic.com Copyright (c) 2020 by The Atlantic Monthly Group.
+ All Rights Reserved.

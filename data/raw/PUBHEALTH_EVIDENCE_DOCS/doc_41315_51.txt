@@ -1,0 +1,49 @@
+It is the most widely-used preservative for vaccines.
+ There is no evidence to suggest that the amount of thiomersal used in vaccines poses a health risk.
+ Preservatives are a component of some of the vaccines provided to countries in multi-dose vials.
+ Multi-dose vials are used by countries across the world.
+ Multi-dose vials require less cold-chain space than single-dose vials, can be used in subsequent immunization sessions, and result in significantly reduced programme costs.
+ Overview  Thiomersal is a compound used to prevent bacterial and fungal growth in some inactivated (in which the virus has been killed) vaccines provided to countries in multi-dose vials.
+ It contains very small amounts of organic mercury.
+ It is also used during production of some vaccines, notably to inactivate certain organisms and toxins.
+ Thiomersal has been used since the 1930s in the manufacture of some vaccines and other medicinal products.
+ Thiomersal-containing vaccines  Vaccines that contain thiomersal include those against diphtheria, tetanus and pertussis (DTP), hepatitis B, Haemophilus influenzae type b (Hib), rabies, influenza and meningococcal diseases.
+ Thiomersal-containing vaccines are the most commonly used form of vaccine presentation and are used widely across the world.
+ Many products containing thiomersal have been assessed by WHO as meeting international standards for assured quality, safety and efficacy and are distributed to countries through United Nations procurement agencies.
+ Safety of thiomersal   Initial theoretical concerns raised in the late 1990s about the safety of thiomersal were based on the calculation that the cumulative amount of mercury in infant immunization schedules potentially exceeded the recommended threshold for methyl mercury set by a U.S. government agency.
+ Thiomersal, however, contains ethyl mercury, not methyl mercury, and ethyl and methyl mercury are quite different.
+ In particular, ethyl mercury decomposes much more quickly than methyl mercury and does not accumulate in the body.
+ WHO has closely monitored scientific evidence relating to the use of thiomersal as a vaccine preservative and inactivating agent for over 10 years, in particular through its independent expert advisory group, the Global Advisory Committee on Vaccine Safety.
+ The Committee has consistently reached the same conclusion: there is no evidence to suggest that the amount of thiomersal used in vaccines poses a health risk.
+ Other expert groups (the U.S. Institute of Medicine, the American Academy of Pediatrics, the United Kingdom Committee on Safety of Medicines, and the European Agency for the Evaluation of Medicinal Products), have reached similar conclusions.
+ Alternative vaccine preservatives  There are two vaccine preservatives approved for use in addition to thiomersal.
+ These are 2-phenoxyethanol (used for inactivated polio vaccine), and phenol (used for typhoid vaccine).
+ Several studies have been done to compare the effectiveness of the different preservatives but the data are limited and inconclusive.
+ Substituting preservatives in vaccines has the potential of modifying efficacy and safety and therefore requires an extensive development process.
+ This is not justified given the lack of evidence indicating a problem with the safety of thiomersal in vaccines.
+ Replacing multi-dose vials with single-dose vials   The majority of industrialized countries now use single-dose vials for routine immunization.
+ However they continue to use vaccines containing preservatives, including thiomersal, in instances where vaccines need to be administered to large numbers of people in a short space of time, such as in epidemic or pandemic situations.
+ Meeting the vaccine needs of all countries in a preservative-free single-dose format, as opposed to multi-dose presentations, would require a significant increase in manufacturers' filling capacity.
+ This would be time consuming and expensive to implement and it may not be possible to produce sufficient single-dose product to ensure uninterrupted global supply.
+ In addition, single-dose vials require significantly more cold storage space as well as increased transport capacity, which is currently not feasible for the majority of countries.
+ Current WHO estimates suggest that the vaccine storage requirements would at least double if single-dose presentations only were used.
+ There would also be environmental costs if all multi-dose vials were replaced with single-dose vials.
+ Such a switch would involve more raw materials, more energy for manufacturing processes and transport, and more waste.
+ WHO response  Since 2000, WHO's Global Advisory Committee on Vaccine Safety (GACVS), responsible for advising WHO on vaccine safety issues of potential global importance, has periodically reviewed available information on thiomersal in humans (including low birthweight infants) and in monkeys.
+ It has assessed the validity of animal models in studying hypothetical associations between thiomersal and neuro-developmental disorders (such as autism) in humans.
+ The Committee has concluded that there is no reason on grounds of safety to change current immunization practices with thiomersal-containing vaccines, as the alleged risks are unproven.
+ The Committee continues to review relevant scientific studies concerning the safety of thiomersal as they become available.
+ WHO continues to work with countries to help meet the logistical challenges of ensuring that the increasing numbers of life-saving vaccines available reach all the people who need them in an environmentally-friendly, cost-effective and sustainable way.
+ WHO supports continued use of thiomersal as an inactivating agent and preservative for vaccines.
+ since there is no evidence to suggest a risk to human health, and multi-dose vials limit required storage capacity and waste, and help reduce vaccine costs.
+ Related links   Reports of WHO's Global Advisory Committee on Vaccine Safety on thiomersal   WHO policy statement - The use of opened multi-dose vials of vaccine in subsequent immunization sessions   Vaccine management and logistics              You are here:   Immunization, Vaccines and Biologicals   Newsroom                What we do   Countries   Programmes   Frequently asked questions   Employment   Procurement     Regions   Africa   Americas   South-East Asia   Europe   Eastern Mediterranean   Western Pacific     About us   Director-General   World Health Assembly   Executive Board   Member States   Ethics   Permissions and licensing   Cyber security         Subscribe to our newsletters              Privacy Legal Notice        
+         ©
+        
+ 
+        2020
+ 
+        
+ 
+ 
+ 
+  WHO        fixMenu();

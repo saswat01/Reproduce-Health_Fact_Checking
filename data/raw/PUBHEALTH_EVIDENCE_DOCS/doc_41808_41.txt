@@ -1,0 +1,62 @@
+Overview of Analytic Studies    print all   Prev Next   1    |   2    |   3    |   4    |   5    |   6          ContentsEpi_Tools.XLSXAll Modules     Case-Control Studies  Cohort studies have an intuitive logic to them, but they can be very problematic when:  The outcomes being investigated are rare; There is a long time period between the exposure of interest and the development of the disease; or It is expensive or very difficult to obtain exposure information from a cohort.
+ In the first case, the rarity of the disease requires enrollment of very large numbers of people.
+ In the second case, the long period of follow-up requires efforts to keep contact with and collect outcome information from individuals.
+ In all three situations, cost and feasibility become an important concern.
+ A case-control design offers an alternative that is much more efficient.
+ The goal of a case-control study is the same as that of cohort studies, i.e.
+ to estimate the magnitude of association between an exposure and an outcome.
+ However, case-control studies employ a different sampling strategy that gives them greater efficiency.
+ As with a cohort study, a case-control study attempts to identify all people who have developed the disease of interest in the defined population.
+ This is not because they are inherently more important to estimating an association, but because they are almost always rarer than non-diseased individuals, and one of the requirements of accurate estimation of the association is that there are reasonable numbers of people in both the numerators (cases) and denominators (people or person-time) in the measures of disease frequency for both exposed and reference groups.
+ However, because most of the denominator is made up of people who do not develop disease, the case-control design avoids the need to collect information on the entire population by selecting a sample of the underlying population.
+ Rothman describes the case-control strategy as follows:       "Case-control studies are best understood by considering as the starting point a source population, which represents a hypothetical study population in which a cohort study might have been conducted.
+ The source population is the population that gives rise to the cases included in the study.
+ If a cohort study were undertaken, we would define the exposed and unexposed cohorts (or several cohorts) and from these populations obtain denominators for the incidence rates or risks that would be calculated for each cohort.
+ We would then identify the number of cases occurring in each cohort and calculate the risk or incidence rate for each.
+ In a case-control study the same cases are identified and classified as to whether they belong to the exposed or unexposed cohort.
+ Instead of obtaining the denominators for the rates or risks, however, a control group is sampled from the entire source population that gives rise to the cases.
+ Individuals in the control group are then classified into exposed and unexposed categories.
+ The purpose of the control group is to determine the relative size of the exposed and unexposed components of the source population."
+ To illustrate this consider the following hypothetical scenario in which the source population is Plymouth County in Massachusetts, which has a total population of 6,647 (hypothetical).
+ Thirteen people in the county have been diagnosed with an unusual disease and seven of them have a particular exposure that is suspected of being an important contributing factor.
+ The chief problem here is that the disease is quite rare.
+ This is a strong association.
+ In this hypothetical example, I had data on all 6,647 people in the source population, and I could compute the probability of disease (i.e., the risk or incidence) in both the exposed group and the non-exposed group, because I had the denominators for both the exposed and non-exposed groups.
+ The problem, of course, is that I usually don't have the resources to get the data on all subjects in the population.
+ If I took a random sample of even 5-10% of the population, I might not have any diseased people in my sample.
+ An alternative approach would be to use surveillance databases or administrative databases to find most or all 13 of the cases in the source population and determine their exposure status.
+ However, instead of enrolling all of the other 5,634 residents, suppose I were to just take a sample of the non-diseased population.
+ In fact, suppose I only took a sample of 1% of the non-diseased people and I then determined their exposure status.
+ The data might look something like this:        Diseased   Non-diseased   Total     Exposed   7   10   unknown     Non-exposed   6   56   unknown    With this sampling approach I can no longer compute the probability of disease in each exposure group, because I no longer have the denominators in the last column.
+ In other words, I don't know the exposure distribution for the entire source population.
+ However, the small control sample of non-diseased subjects gives me a way to estimate the exposure distribution in the source population.
+ So, I can't compute the probability of disease in each exposure group, but I can compute the odds of disease in each group.
+ The Odds Ratio The odds of disease in the exposed group are 7/10, and the odds of disease in the non-exposed group are 6/56.
+ We will consider odds ratios and case-control studies in much greater depth in a later module.
+ However, for the time being the key things to remember are that:  The sampling strategy for a case-control study is very different from that of cohort studies, despite the fact that both have the goal of estimating the magnitude of association between the exposure and the outcome.
+ In a case-control study there is no "follow-up" period.
+ One starts by identifying diseased subjects and determines their exposure distribution; one then takes a sample of the source population that produced those cases in order to estimate the exposure distribution in the overall source population that produced the cases.
+ [In cohort studies none of the subjects have the outcome at the beginning of the follow-up period.]
+ In a case-control study, you cannot measure incidence, because you start with diseased people and non-diseased people, so you cannot calculate relative risk.
+ The case-control design is very efficient.
+ In the example above the case-control study of only 79 subjects produced an odds ratio (6.56) that was a very close approximation to the risk ratio (6.52) that was obtained from the data in the entire population.
+ Case-control studies are particularly useful when the outcome is rare is uncommon in both exposed and non-exposed people.
+ The Difference Between "Probability" and "Odds"?
+ The probability that an event will occur is the fraction of times you expect to see that event in many trials.
+ Probabilities always range between 0 and 1.
+ The odds are defined as the probability that the event will occur divided by the probability that the event will not occur.
+ If the probability of an event occurring is Y, then the probability of the event not occurring is 1-Y.
+ The odds of an event represent the ratio of the (probability that the event will occur) / (probability that the event will not occur).
+ NOTE that when the probability is low, the odds and the probability are very similar.
+ On Sept. 8, 2011 the New York Times ran an article on the economy in which the writer began by saying "If history is a guide, the odds that the American economy is falling into a double-dip recession have risen sharply in recent weeks and may even have reached 50 percent."
+ Further down in the article the author quoted the economist who had been interviewed for the story.
+ What the economist had actually said was, "Whether we reach the technical definition [of a double-dip recession] I think is probably close to 50-50."
+ Question: Was the author correct in saying that the "odds" of a double-dip recession may have reached 50 percent?
+ ANSWER       Key Concept: In a study that is designed and conducted as a case-control study, you cannot calculate incidence.
+ Therefore, you cannot calculate risk ratio or risk difference.
+ You can only calculate an odds ratio.
+ However, in certain situations a case-control study is the only feasible study design.
+ return to top | previous page | next page    
+ Content ©2017.
+ All Rights Reserved.
+ Date last modified: July 19, 2017.

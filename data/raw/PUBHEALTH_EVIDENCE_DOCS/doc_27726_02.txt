@@ -1,0 +1,5 @@
+Error 504  Ray ID: 5ef3910dc0c12c72 • 2020-11-09 00:56:09 UTC Gateway time-out          You Browser Working       London Cloudflare Working       www.thedailybeast.com Host Error        What happened?
+ The web server reported a gateway time-out error.
+ What can I do?
+ Please try again in a few minutes.
+ Cloudflare Ray ID: 5ef3910dc0c12c72 • Your IP: 2a0c:5bc0:40:11a8:a556:b8a3:f05:5d45 • Performance &amp; security by Cloudflare

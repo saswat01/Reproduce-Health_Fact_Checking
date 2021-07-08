@@ -1,0 +1,2029 @@
+  
+       
+  
+   
+   
+   
+   
+   
+   
+     
+   
+  
+    
+  
+   
+     
+  
+   
+    
+  
+   
+  
+  
+  Table of Contents 
+List of Tables
+
+...3List of Figures
+
+
+4List of Abbreviations
+
+.. 6
+
+7State Mortality Data Project
+
+9Project Cost
+
+
+11Project Status
+
+11Reliability and Validity of Veteran Identifiers
+
+14Limitations of Existing Data
+
+15Suicide among Veterans 
+As Reported on Death Certificates
+
+15Veteran Status and Demographic Characteristics among Suicide Decedents
+21Suicide Prevention Applications Network/Suicide Behavior Reports
+
+26Prevalence and Characteristics of Non-Fatal Suicide Events
+27Veterans Crisis Line
+
+34Prevalence and Characteristics of Calls to the Veterans Crisis Line
+35
+51Appendix A: Veteran Status on Death Certificate by State and Year .
+55Appendix B: Timeframe for Updated to Mortality Data by State
+
+56Appendix C: Non-Fatal Event Rates by Age Group and Gender (per 100,000
+Users)
+... 57Appendix D: 12-Month Re-Event Prevalence by Age Group and Gender
+..58Reference List
+
+592    
+       
+  
+   
+   
+   
+  
+  
+   
+ 12345678List of Tables 
+Table . Status of Data Request/Availabi
+
+13Table . Estimated Number of Veteran Suicides and Co
+
+18Table . Percentage of Suicides by Age and Ve
+
+22Table . Percentage of Suicides by Age and Ve
+
+23Table . Percentage of Suicides by Age and Vet
+
+24Table . Percentage of Suicides by Marital and Veteran Status
+
+... 24Table . Percentage of Suicides by Race/Ethnicit
+
+25Table . Percentage of Suicides by Education 
+
+253    
+       
+  
+   
+  
+   
+   
+  
+      
+  
+  
+   
+  
+  
+    
+   
+  
+   
+    
+    
+  
+   
+  
+   
+   
+   
+    
+  
+   
+   
+List of Figures 
+Figure 1. Suicide Rates Among VHA Users by Sex and Fiscal Yea
+
+.9
+Figure 2. Percentage of Suicides Identified as Veteran by Year (1999-
+
+17Figure 3. Estimated Number of Veteran S
+
+18Figure 4. Percentage of Male Veterans in 21 States and among Those Who Died from
+
+20Figure 5. Percentage of Female Veterans in 21 States and among Those Who Died from
+
+20Figure 6. Percentage of Suicides Identified as 
+
+21Figure 7. Number of Reported Suicide Events 
+
+27Figure 8. Number of Reported Suicide Events and 
+
+29Figure 9. Rate of Non-Fatal Suicide Events by 
+
+30Figure 10. Rate of Non-Fatal Suicide Events by A
+
+31
+Figure 11. 12 Month Re-Event Prevalence by S
+
+31
+Figure 12. Prevalence of Non-Fatal Events by Time 
+
+32Figure 13. Prevalence of Last Point of Care Prior to a N
+on-
+33Figure 14. Prevalence of Method Indicated in Non-Fatal Event, FY2009-
+
+34Figure 15. VCL Calls by Mo
+
+35Figure 16. Percentage of Repeat Call
+
+36Figure 17. Percentage of Callers by S
+
+37Figure 18. Percentage of Callers by Ag
+
+37Figure 19. Percentage of Callers Age by Age Gr
+
+38Figure 20
+
+39Figure 21. Percentage of Repeat Call
+
+41Figure 22. Percentage of Callers Thinking abo
+
+424    
+    
+  
+    
+    
+  
+  
+  
+  
+  
+
+  
+  
+   
+  
+Figure 23. Number and Percentage of 
+
+43Figure 24. Percentage of Callers Receiving a 
+
+43Figure 25. Percentage of Callers Receiving a Referral with Previous VHA Service Use by
+
+44Figure 26
+
+45Figure 27. Service Use Before and After Receivi
+
+46Figure 28. Service Use Before and After Receivi
+
+46Figure 29. Service Use Before and After Receivi
+
+47Figure 30. Service Use Before and After 
+
+48Figure 31. Service Use Before and After 
+
+48Figure 32. Service Use Before and After 
+
+49Figure 33. 12 Month Suicide 
+Re-Event Prevalence among Those Receiving a Referral or 
+
+505    
+         
+   
+    
+  List of Abbreviations 
+VA = Department of Veterans Affairs 
+NDI = National Death Index 
+VHA = Veterans Health Administration 
+DoD = Department of Defense 
+VCL = Veterans Crisis Li
+ne SPAN = Suicide Prevention and Application Network 
+
+6    
+          
+  
+  
+         
+     
+              
+           
+  
+   
+     Introduction 
+In 2007, the Department of Veterans Affairs began an intensive effort to reduce suicide among 
+Veterans. This effort had its roots in the Mental Health staffing expansion and the Joshu
+a Omvig Bill, and it included both attention to Veterans in crisis as well as those determined to 
+
+be at high risk for suicide. The effort also included the development of data systems to 
+
+increase understanding of suicide among Veterans and inform both the VA and other suicide 
+
+prevention programs. Information on the characteristics and outcomes of Veterans at risk for 
+suicide is critical to the development of improved suicide prevention programs. 
+In 2008, 
+
+system based on reports of suicide and suicide events (i.e. non-fatal attempts, serious suicide 
+ideation, suicide plan) submitted by Suicide Prevention Coordinators located at each VA 
+
+Medical Center and large outpatient facility. In addition to information obtained from suicide 
+behavior reports, data on the characteristics and outcomes of callers to the national toll-free 
+Veterans Crisis Line 
+a universally available crisis intervention resource 
+are available. In 
+2010, the VA also began an intensive effort to shorten delays associated with access to NDI 
+
+data and increase understanding of suicide among all Veterans by developing data sharing 
+
+agreements with all 50 U.S. states. The integration of information collected through the NDI, 
+
+
+
+electronic medical records contribute to an increased understanding of suicide and risk 
+management by identifying gaps in existing knowledge, opportunities for intervention and the 
+impact of VA-sponsored suicide prevention programs. 
+7    
+         
+     
+              
+    
+    
+   All of these data collection systems have matured to the point where they can now begin to 
+provide VA with information that can be used to both determine if the current suicide 
+prevention program is having an effect, where gaps may occur, and provide direction for the 
+
+future. This reports is an initial attempt to look at all of this information together in orde
+r to provide an overall picture of Veteran suicide to drive suicide prevention program development 
+
+and improve outcomes for Veterans at risk for suicide. It is expected that reporting will be 
+
+refined as time goes on and more data become available. This report contains a systematic 
+
+overview of data obtained from the State Mortality Project, Suicide Behavior Reports for fiscal 
+years 2009 
+2012, and Veterans Crisis Line. 
+8    
+        
+   
+    
+                  
+       
+  State Mortality Data Project 
+Up to this point the primary source for Veteran suicide information has been limited to those 
+Veterans who receive care in VA. Information on the rate and characteristics of suicide among 
+
+those who used VHA services is available for the fiscal years 2001
+2009 based on 
+information from analyses of mortality data obtained through the National Death Index. Using 
+
+this information we have identified a decrease in the age-adjusted rate of suicide (per 100,000 
+
+person years) between the fiscal years 2001
+--2003 and relative stability in suicide rates during 
+recent years (Figure 1). 
+While data obtained from NDI provide a reliable mechanism for identifying suicides among 
+
+some Veterans, these data often encounter lengthy delays and require a population list to 
+
+identify cause of death information. The Department of Veterans Affairs believes that a 
+
+comprehensive suicide prevention program requires timely and accurate information beyond 
+
+that acquired from its internal patient population. 
+9    
+     
+   
+     
+       
+  
+       
+   
+  
+       
+       
+     
+    
+   
+      It was determined that additional data on Veterans with and without history of VHA service 
+use, among those who have accessed crisis services, and for those with report of non-fatal 
+suicide events are needed to overcome delays associated in acquisition of mortality data, 
+
+improve understanding of suicide among all Veterans, and identify changes in outcomes 
+
+among those who use receive care from the VHA. The need for comprehensive information led 
+
+to the decision to seek support from state governments for a collaborative effort to improve 
+
+current understanding of suicide among Veterans among Veterans with and without history of 
+
+VHA service use. In 2010, Secretary Shinseki engaged Governors of all U.S. states requesting 
+support and collaboration to improve the timeliness and utility of suicide mortality reporting. 
+
+h state to designate a point of contact who would work with 
+the VISN 2 Center of Excellence for Suicide Prevention to develop data use agreements for 
+
+the purpose of sharing identified mortality data for all known suicides. The time frame for the 
+
+original request for data included all known suicides reported between January 1, 1999 and 
+
+December 31, 2004. However, following discussion of developing program needs, the time 
+frame was extended for each data request including existing and pending data use 
+agreements that share individually identifiable data through December 31, 2015. Data obtained 
+
+from states is currently being used to assess the reliability and validity of Veteran information 
+
+collected during mortality reporting, fulfill requirements of PL111.163 to determine the number 
+
+of Veterans who have died from suicide (1999-2009), and to identify opportunities to improve 
+
+the timeliness and utility of suicide reporting. Currently, all 50 U.S. states include some 
+
+military service. A complete listing of Veteran 
+identifiers by state and project year has been provided as Appendix A. 
+10    
+        
+         
+     
+    
+  
+    
+  
+         
+   
+   
+     
+  
+       
+     
+   
+       Project Cost 
+The cumulative cost of the State Mortality Data Project has been $46,771.29 as of 11/16/2012
+; including FY12 expenditures of $35,094.23 and FY13 expenditures of $11,677.06. All costs 
+associated with the State Mortality Data Project are related to state fees for processing and 
+delivery of mortality data. 
+Project Status 
+As of November 2012, data have been received from 
+34 states and data use agreements have 
+been approved by an additional eight states. Data will be received from these states once the 
+terms of individual data use and financial arrangements are finalized.  An additional 11 states 
+
+and territories have not made a decision regarding our request or are in the process of 
+developing Data Use Agreements for VA review. A total of five states and territories have 
+
+requested modifications to the initial request for data sharing or have been unable to identify 
+
+an internal point of contact to support this program. Efforts to address initial concerns and/or 
+
+identify appropriate contacts within non-participating areas are ongoing. While the State 
+Mortality Project has not finalized contributions from all states, evaluation of existing data 
+determined that the pilot effort has reached a point of statistical significance allowing for 
+
+analysis of available data. Availability of data by state is listed in Table 1 and an estimated 
+
+schedule for updates to the existing data has been provided as Appendix B.  Recently, efforts 
+
+to obtain information on deaths from suicide for Veterans have expanded to several U.S. 
+
+territories including Guam, Puerto Rico, US Virgin Islands, Commonwealth of Northern 
+Mariana Islands, and American Samoa as well as the Philippines, due to the presence of a VA 
+facility 
+and a large population of US Military Veterans in these regions. The Department of 
+State has also been approached about obtaining information on suicide deaths among 
+Americans living in foreign territories. Data availability and the status of each data request are 
+11    
+     
+  
+  
+      
+              summarized in Table 1. To date, data from twenty-one (21) states have been cleaned and 
+entered into a single integrated file containing information on more than 147,000 suicides and 
+27,062 reported Veterans. 
+In addition to the issues identified above, barriers to full project implementation include 
+inconsistent availability of requested information in all states
+, barriers to providing non-resident 
+data and sending preference to provide 
+de-identified data due to conflicting interpretations of 
+Social Security laws. Negotiations with states are continuing as we begin requesting more 
+
+ing or revising previously completed Data Use Agreements. 
+12    
+                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                               
+       Table 1: Status of Data Request/Availability by State 
+State/Area 
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 Alabama 
+I I I I I I I I I I I I P Alaska 
+I I I I I I I I I I I I P American Samoa 
+R R R R R R R R R R R R R Arizona 
+R R R R R R R R R R R R R Arkansas 
+A A A A A A A A A A A A A California 
+P P P P P P P P P P P P P Commonwealth N. 
+Mariana Islands 
+R R R R R R R R R R R R R Colorado 
+K K K K K K K K K K K K P Connecticut 
+P P A A A A A A A A A P P Delaware 
+R R R R R R R R R R R R R Florid
+a I I I I I I I I I I I I I Georgia 
+P P P P P I I I I I I I I Guam 
+R R R R R R R R R R R R R Hawaii 
+A A A A A A A A A A A A P Idaho 
+I I I I I I I I I I I I P Illinois 
+R R R R R R R R R R R R R Indiana 
+C C C C C C C C C C C C C Iowa 
+P P P P P P P P P P P P P Kansas 
+I I I I I I I I I I I I P Kentucky 
+R R R R R R R R R R R R R Louisiana 
+A A A A A A A A A A A A P Maine 
+I I I I I I I I I I I P P Maryland 
+R R R R R R R R R R R R R Massachusetts 
+I I I I I I I I I I P P P Michigan 
+I I I I I I I I I I I I P Minnesota 
+I I I I I I I I I I I I P Mississippi 
+P P P P P P P P P P P P P Missouri 
+I I I I I I I I I I I P P Montana 
+A A A A A A A A A A A A P Nebraska 
+I I I I I I I I I I I I P Nevada 
+I I I I I I I I I I I I P New Hampshire 
+P P P P P P P P P P P P P New Jersey 
+I I I I I I I I I I I I P New Mexico 
+P P P P P P P P P P P P P New York 
+I I I I I I I I I I I I P New York City 
+I I I I I I I I I I I I P North Carolina 
+I I I I I I I I I I I I I North Dakota 
+A A A A A A A A A A A A P Ohio 
+K K K K K K K K K K K K K Oklahoma 
+I I I I I I I I I I I P P Oregon 
+A A A A A A A A A A A A P Pennsylvania 
+I I I I I I I I I I I I P Philippines 
+R R R R R R R R R R R R R Puerto Rico 
+R R R R R R R R R R R R R Rhode Island 
+R R R R R R R R R R R R R South Ca
+rolina 
+C C C C C C C C C C C C C South Dakota 
+P P P P P P P P P P P P P State Department 
+R R R R R R R R R R R R R Tennessee 
+R R R R R R R R R R R R R Texas 
+K K K K K K K K K K K K P Utah 
+A A A A A A A A A A A A A Vermont 
+I I I I I I I I I I I I P Virgin Islands 
+R R R R R R R R R R R R R Virginia 
+K K K K K K K K K K K A A Washington 
+I I I I I I I I I I I I I Washington D.C. 
+P P P P P P P P P P P P P West Virginia 
+I I I I I I I I I I I I P Wisconsin 
+A P A A A A A A A A A A P Wyoming 
+P P P P P P P P P P P P P I= data included in report, A= available for future analysis, P= pending state approval/processing
+, R = requested but not received, C
+= being processed, K = provided partial information 
+13    
+           
+      
+      
+  
+          
+    
+    
+   
+   
+    
+       
+         
+   
+  Reliability and Validity of Veteran Identifiers 
+A previous assessment of Veteran identifiers on Colorado death certificates suggested that the 
+reliability of Veteran identifiers on state death certificates is acceptable.(1) The state mortality 
+project offers a unique opportunity to more directly quantify the misclassification of Veteran 
+
+status as indicated on death certificates for suicide. A preliminary assessment of data collected 
+
+from 
+Washington State (Washington initially provided data from 1999-2008) 
+as part of this 
+project supports conclusions of acceptable reliability reported in previous assessments and 
+demonstrates the utility of using VA administrative data for confirming service history. 
+Comparing the death certificate indicator in Washington to VA and DOD records, 5% 
+misclassification was observed overall, suggesting that death certificate reporting is a 
+reasonable indicator of Veteran status among suicide deaths that could be used to track the 
+
+overall rate of Veteran suicides.  However, misclassification was considerably higher among 
+
+validated Veterans with 11% of true Veterans classified as non-Veterans on the death 
+certificate. Only 2% of true non-Veterans were misclassified as Veterans on the death 
+certificate. The ability of death certificates to fully capture female Veterans was particularly low; 
+
+only 67% of true female Veterans were identified. Younger or unmarried Veterans and those 
+
+with lower levels of education were also more likely to be missed on the death certificate.  This 
+
+decreased sensitivity in specific subgroups can affect both suicide surveillance and research 
+
+efforts that utilize Veteran status on the death certificate. From a surveillance standpoint, the 
+rate of Veteran suicides will be underestimated in these groups. From a research standpoint, 
+the generalizability of study findings for specific subgroups may be limited. This preliminary 
+
+analysis demonstrates the value of linking information from state mortality record obtained 
+through data sharing agreements and VA and DoD administrative files. 
+Main Finding: Continued research on the reliability and validity of Veteran identifiers is needed. 
+14    
+       
+       
+  
+    
+  
+                      
+   
+       
+   
+  
+      
+ Limitations of Existing Data 
+Currently available data include information on suicide mortality among the population of 
+residents in 21 states. Veteran status in each of these areas is determined by a single question 
+
+asking about history of U.S. military service. Information about history of military service is 
+
+routinely obtained from family members and collected by funeral home staff and has not be
+en validated using information from the DoD or 
+VA. Further, Veteran status was not collected by 
+each state during each year of the project period. Appendix B provides a listing of the 
+availability of Veteran identifiers by state and year. 
+Further, this report contains information from the first 21 states to contribute data for this 
+project and does not include some states, such as California and Texas, with larger Veteran 
+
+populations. Information from these states has been received and will be included in future 
+reports. 
+Suicide among Veterans 
+As Reported on Death Certificates 
+Of the 147,763 suicides reported in 21 states, 27,062 (18.3%) were identified as having history 
+of U.S. military service on death certificates. However, Veteran status was unknown or not 
+
+reported for more than 23% (n=34,027) of all suicides during the project period. Without 
+
+linking to 
+VA or DoD resources to validate history of U.S. military service, it is necessary to 
+remove those without information on history of military service from estimates of Veteran 
+status among suicide decedents. Among cases where history of U.S. military service was 
+reported, Veterans comprised approximately 22.2% of all suicides reported during the project 
+
+period. If this prevalence estimate 
+is assumed to be constant across all U.S. states, an 
+estimated 22 Veterans will have died from suicide each day in the calendar year 2010. As 
+15    
+     
+  
+     
+    
+       
+                   
+       
+  
+    
+  
+         
+       
+  Veteran status on death certificates is verified in on-going work the overall percentage remains 
+comparable. As shown in Appendix C, preliminary data for the 2012 calendar year will be 
+available from a limited number of participating states within the next 12 months. It is important 
+
+to note that estimates of the number of Veterans who died from suicide are based on 
+
+information reported on state death certificates and may be subject to reporting error. It is 
+
+recommended that the estimated number of Veterans be interpreted with caution due to the 
+
+use of data from a sample of states and existing evidence of uncertainty in Veteran identifiers 
+
+on U.S. death certificates. 
+It is important to note that 
+both 
+Veteran populations and those who 
+die by suicide are significantly more likely to be male
+. According to data provided by the United 
+States Census Bureau, 93% of all Veterans are male and 21% of all males aged 18 years and 
+
+older have history of U.S. military service. Further, history of U.S. military service increases 
+
+with age, with the highest percentage of Veterans aged 55 years and older.(2) Information 
+
+reported on state death certificates indicates that the ages 50-59 years is also an important 
+
+group for addressing risk for suicide. Between 1999 and 2010 the average age of male 
+Veterans who died from suicide was 59.6 years among Veterans identified on state death 
+certificates and 54.5 years among those who could be validated using VA administrative 
+
+records. The average age of male Veterans who died from suicide was considerably older 
+
+than the average age of male suicide decedents who were not identified as Veterans (43.1 
+
+years).  For example, according to data provided by the Centers for Disease Control and 
+
+Prevention (2010), approximately 79% of all suicides among adults aged 18 years and older 
+were male and approximately 44% of all male suicides were among those aged 50 years of 
+age and older
+. (3) It is therefore possible that epidemiologic characteristic of suicide in the 
+general population (i.e. higher rates of suicide among older adult males) may contribute to a 
+comparatively high prevalence of Veterans among those who die from suicide. 
+16    
+    
+     
+           
+   
+   
+  
+    
+            
+        Figure 2: Percentage of Suicides Identified as Veteran by Year (1999-
+2010 Veteran Status Missing from Death Certificate 
+Maine, North Carolina, Massachusetts, West Virginia,
+Oklahoma (1999-2003), Nebraska (1999-2004), Minnesota (2010)
+Main Finding: While the percentage of all suicides reported as Veteran has decreased, the number of 
+suicides has increased. 
+As shown in Figure 2, the percentage of all suicides identified as Veteran declined between the 
+years 1999-2003 and has remained comparatively constant over recent years
+. However, the 
+number of deaths by suicide has increased. Between 2007 and 2010, the number of deaths 
+from suicide in the U.S. increased by nearly 11% and the rate of suicide increased by over 8%. 
+17    
+    
+       
+      
+        
+   
+  
+                                                          Figure 3: Estimated Number of Veteran Suicides per day by Year 
+Estimates that the number of suicides among Veterans each day has increased, are based on 
+information provided by 21 states and may not be generalizable to the larger Veteran 
+population. To account for uncertainty in the estimated number of Veterans who have died 
+from suicide each year, confidence intervals were calculated using variability in the percentage 
+
+of Veterans reported among all suicides in participating states. Information on the estimated 
+count and lower and upper limits for the estimate for each year has been provided in Table 2. 
+Table 2: Estimated Number of Veteran Suicides and Confidence Intervals by Year 
+Year 
+Estimated 
+Count 
+Lower Limit 
+Upper Limit 
+1999 20 19 20 2000 20 19 20 2001 19 19 19 2002 20 19 20 2003 19 19 19 2004 19 18 19 2005 19 18 19 2006 19 18 19 2007 18 17 18 2008 21 20 21 2009 22 21 22 2010 22 21 22 18    
+      
+   
+  
+       
+        
+      
+                   
+       
+  
+  
+    
+          The estimated number of Veterans who died from suicide each day was calculated as the 
+percentage of all suicides identified as Veterans multiplied by the number of suicides in the 
+U.S. 
+and divided by the number of days in a year. The estimated number of Veterans who 
+
+have died from suicide is based on data obtained from 21 states and has been calculated 
+
+using service history as reported on death certificates. An assessment of Veteran status on 
+
+Washington State death certificates identified a measureable amount of error among those 
+
+with history of U.S. military service. Therefore, estimates of the number of Veterans who have 
+
+died from suicide each day based on proxy report of history of U.S. military service should be 
+interpreted with caution.. 
+It is also possible to estimate the excess burden of suicide among Veterans by comparing the 
+percentages of Veterans in the general population and the percentage of Veterans among 
+
+those who have died from suicide. Figures 4 & 5 show the percentage of Veterans living in the 
+first 21 states to contribute to this project and the estimated prevalence of Veterans among 
+suicide decedents in those same areas for males and females respectively. As shown in 
+
+Figures 4 & 5, difference in the population percentage of male Veterans in 21 participating 
+
+states and the percentage of Veterans among males who died from suicide in those same 
+
+areas is highest among younger Veterans and decreases with age. However, the difference 
+
+between the population percentage of female Veterans and female Veterans who died from 
+
+suicide in those same areas is greater than it is for males and does not decrease with age. 
+(Please note that these two Figures use different scales. The two populations are very 
+different in regards to numbers and different scales are needed to demonstrate the differences 
+in each.) 
+19    
+     
+  
+      
+  
+    
+     
+  
+ Figure 4: Percentage of Male Veterans in 21 States and among Those Who Died from Suicide 
+Figure 5: Percentage of Female Veterans in 21 States and among Those Who Died from
+Suicide
+An important assumption underlying current estimates of the number of Veteran suicides in the 
+total population is stability in the percentage of Veterans among suicides reported in each 
+20    
+    
+  
+     
+     
+           
+     
+         
+   state. As shown Figur
+e 6, there is variability in this percentage of Veterans among all suicides 
+across states during the project period; with the percentage of Veteran suicides ranging from a 
+low of just over 7% to more than 26% of all suicides
+. Available data prevent any firm 
+conclusions about correlates or causes of difference in the prevalence of Veteran suicides in 
+
+each area. However, the observed variability in the percentage of all suicides reported as 
+
+Veteran across states suggests that this number is not constant across areas. It is possible 
+
+that differences in demographic composition and service availability contribute to variability in 
+
+Veteran suicide across geographic regions. Additional study of the causes and correlates of 
+variability in Veteran suicide across communities is recommended. 
+Figure 6: Percentage of Suicides Identified as Veteran by State* 
+*Among states reporting Veteran status 
+Veteran Status and Demographic Characteristics among Suicide Decedents 
+Table 
+3 shows the percentage of suicides across 10-year age groups for all Veterans, 
+Veterans with history of VHA service use, and those without report of military service (non-
+Veterans). As shown in Table 3, those identified as Veterans of U.S. military service were 
+more likely to be aged 50 years and older than those without report of military service. 
+21    
+            
+            
+   
+   
+  -      
+   
+            
+        
+         
+       
+          
+      
+    
+       
+             
+               
+          
+              
+         
+  
+        
+             
+          
+  
+          
+            
+          
+    
+   
+   
+  
+           
+          
+ Specifically, more than 69% of all Veteran suicides were among those aged 50 years and 
+older, compared to approximately 37% among those who were not identified as Veterans. The 
+final two columns in Table 
+3 list the Chi-Square values and p-statistics comparing the age 
+distributions of non-Veterans, Veterans, and Veterans with history of VHA service use in the 
+
+year before their death. These comparisons suggest that those identified as Veterans were 
+
+significantly more likely to be age 50 years and older when compared to those without 
+
+indication of military service. Further, those with history of VHA service use were more likely 
+than other Veterans to be between the ages of 50 
+79 years. 
+Table 3: Percentage of Suicides by Age and Veteran Status 
+Age Group 
+Non 
+Veteran 
+Veteran 
+VHA 
+Veteran 
+, p (1) 
+, p (2) 
+29 years and 
+younger 
+21.6% 
+6.0% 3.0% 3902.36, 
+<.0001 
+83.38, 
+<.0001 
+30  39 years 
+19.3% 
+9.1% 5.2% 1386.39, 
+<.00
+01 110.38, 
+<.0001 
+40  49 years 
+24.5% 
+15.6% 
+14.0% 
+833.21, 
+<.0001 
+12.34, 
+0.01 50  59 years 
+18.2% 
+20.0% 
+23.4% 
+63.54, 
+<.0001 
+48.00, 
+<.0001 
+60  69 years 
+8.1% 16.5% 
+19.6% 
+1655.55, 
+<.0001 
+43.23, 
+<.0001 
+70  79 years 
+4.6% 18.6% 
+20.0% 
+5592.63, 
+<.0001 
+6.64, 
+0.01 80 years and older 
+3.7% 14.2% 
+14.8% 
+3980.27, 
+<.0001 
+0.21, 0.65 
+(1) 
+Veteran (as indicated on death certificate) compared to non-Veteran 
+(2) 
+Veteran with VHA service use compared to general population of Veterans (as indicated on death 
+certificate) 
+Main Finding: More than 69% of Veteran suicides are among those age 50 years and older. 
+There is evidence of differences in gender composition among Veterans who have died from 
+suicide when compared to those without history of military service. Specifically, males 
+
+accounted for more than 97% of all suicides among those identified as Veterans, compared to 
+
+approximately 74% among 
+non-Veteran suicide decedents (Table 4)
+. Differences in the 
+22    
+                        
+  
+   
+   -      
+   
+          
+     
+             
+      
+       
+             
+        
+     
+        
+           
+     
+      
+        
+          
+         
+          
+         
+              
+         
+    
+         
+    
+   
+   
+  
+          
+     distribution of age between males with and without report of military service are consistent with 
+trends identified in the larger population of suicide decedents. 
+As shown in Table 5, females accounted for less than 3% of all suicides among reported 
+Veterans, compared to more than 26% among suicide decedents without 
+a reported history of 
+military service. Overall, there were few differences in the age distribution of suicide decedents 
+
+with and without report of military service. 
+Table 4: Percentage of Suicides by Age and Veteran Status among Males 
+Age Group 
+Non 
+Veteran 
+Veteran 
+VHA 
+Veteran 
+, p (1) 
+, p (2) 
+29 years and younger 
+24.4% 
+5.8% 2.9% 4654.56, 
+<.0001 
+79.60, 
+<.0001 
+30  39 years 
+20.0% 
+8.9% 4.9% 1525.62, 
+<.0001 
+109.07, 
+<.0001 
+40  49 years 
+23.5% 
+15.0% 
+13.2% 
+709.62, 
+<.0001 
+15.59, 
+<.0001 
+50  59 years 
+16.9% 
+20.0% 
+23.4% 
+146.26, 
+<.0001 
+46.65, 
+<.0001 
+60  69 years 
+7.4% 16.8% 
+20.0% 
+1889.43, 
+<.0001 
+43.92, 
+<.0001 
+70  79 years 
+4.2% 19.0% 
+20.5% 
+5261.07, 
+<.0001 
+7.14, 
+0.01 80 years and older 
+3.6% 14.5% 
+15.1% 
+3579.83, 
+<.0001 
+0.11, 
+0.74 
+(1) 
+Veteran (as indicated on death certificate) compared to non-Veteran 
+(2) 
+Veteran with VHA service use compared to general population of Veterans (as indicated on death 
+certificate) 
+Additional information available from mortality records may help identify systematic differences 
+
+among suicide decedents who were and were not identified as Veterans. Tables 6 
+8 show 
+results from comparisons of non-Veterans, Veterans, and Veterans with history of VHA service 
+use by marital status, race ethnicity, and educational attainment. Results from these 
+comparisons are consistent with previous analyses of the characteristics of Veteran groups. 
+
+Overall, suicide decedents identified as Veterans were more likely to have been 
+23    
+          
+  
+   
+  
+ -      
+   
+         
+    
+             
+      
+            
+     
+              
+     
+           
+        
+      
+       
+           
+      
+             
+        
+     
+       
+             
+     
+  
+ -      
+   
+         
+      
+         
+     
+          
+          
+         
+     
+           
+           
+     
+    
+   
+   
+  
+         married/widowed/divorced, be identified as non-Hispanic whites, and have comparatively 
+higher levels of academic achievement. 
+Main Finding: Male Veterans who die by suicide are older than non-Veteran males
+. Table 5: Percentage of Suicides by Age and Veteran Status among Females 
+Age Group 
+Non 
+Veteran 
+Veteran 
+VHA Veteran 
+, p (1) 
+, p (2) 
+29 yea
+rs and 
+younger 
+13.8% 
+12.9% 
+7.5% 3.31, 
+0.07 3.81, 0.06 30  39 years 
+17.3% 
+18.9% 
+13.5% 
+1.90, 0.17 2.13, 0.14 40  49 years 
+27.3% 
+34.1% 
+40.6% 
+19.78, 
+<.0001 
+2.60, 0.11 50  59 years 
+21.7% 
+19.4% 
+24.1% 
+1.46, 
+0.23 1.45, 0.23 60  69 years 
+10.3% 
+7.1% 6.8% 7.77, 0.01 0.02, 
+0.90 
+70  79 years 
+5.6% 4.1% 2.3% 2.67, 0.10 1.47, 0.23 80 years and older 
+4.0% 3.5% 5.3% 0.41, 
+0.52 1.51, 
+0.22 
+(1)
+ Veteran (as indicated on death certificate) compared to non-Veteran 
+(2)
+ Veteran with VHA service use compared to general population of Veterans (as indicated on death certificate) 
+Main Finding: The age distribution of female Veterans and non-Veterans is similar. 
+Table 6: Percentage of Suicides by Marital and Veteran Status 
+Age Group 
+Non 
+Veteran 
+Veteran 
+VHA Veteran 
+, p (1) 
+, p (2) 
+Married/Separated 
+27.9% 
+38.6% 
+37.1% 
+1091.35, 
+<.0001 
+65.96, 
+<.0001 
+Widowed 
+4.8% 10.8% 
+11.1% 
+1225.35, 
+<.0001 
+3.28, 0.07 Divorc
+ed 19.2% 
+22.1% 
+29.9% 
+105.31, 
+<.0001 
+113.14, 
+<.0001 
+Single 
+29.5% 
+11.5% 
+11.2% 
+3467.13, 
+<.0001 
+7.97, 0.01 Unknown 
+18.6% 
+17.0% 
+10.7% 
+31.64 
+<.0001 
+11.24, 
+0.01 
+(1) 
+Veteran (as indicated on death certificate) compared to non-Veteran 
+(2) 
+Veteran with VHA service use compared to general population of Veterans (as indicated on death 
+certificate) 
+Main Finding: Veterans who died from suicide were more likely to be married, widowed, or divorced. 
+24    
+      
+  
+    
+ -           
+        
+        
+           
+          
+        
+           
+          
+          
+     
+    
+  -      
+       
+         
+    
+       
+           
+           
+        
+    
+   
+       
+        
+         Table 7: Percentage of Suicides by Race/Ethnicity and Veteran Status 
+Age Group 
+Non 
+Veteran 
+Veteran 
+, p Race 
+White 
+87.7% 
+92.6% 
+472.13, 
+<.0001 
+African
+-American 
+6.4% 4.5% 128.55, 
+<.0001 
+Indian/Native 
+Alaskan 
+1.6% 0.7% 122.17, 
+<.0001 
+Asian/Pacific 
+Islander 
+1.6% 0.4% 226.34, 
+<.0001 
+Other 
+0.7% 0.2% 89.39, 
+<.0001 
+Unknown 
+2.0% 1.6% 10.01, 
+0.01 Ethnicity 
+Hispanic 
+5.4% 1.6% 676.81, 
+<.0001 
+Non
+-Hispanic 
+87.2% 
+91.4% 
+351.21, 
+<.0001 
+Unknown 
+7.4% 7.0% 6.61, 
+0.05 Table 8: Percentage of Suicides by Education and Veteran Status 
+Age Group 
+Non 
+Veteran 
+Veteran 
+, p Less than High 
+School 
+17.2% 
+10.3% 
+735.37, 
+<.0001 
+High School 
+30.8% 
+35.1% 
+174.36, 
+<.0001 
+1 Year of College or 
+Less 6.8% 7.9% 33.15, 
+<.0001 
+2 Years of College 
+5.9% 7.0% 42.24, 
+<.0001 
+3 Years of College 
+3.3% 3.5% 1.15, 
+0.28 4 Years of College 
+7.5% 8.9% 56.24, 
+<.0001 
+5+ Years of College 
+4.2% 5.1% 42.10, 
+<.0001 
+Unknown 
+24.3% 
+22.2% 
+46.23, 
+<.0001 
+Main Finding: The demographic characteristics of Veterans who have died from suicide are similar 
+among those with and without history of VHA service use. 
+25    
+                 
+         
+  
+   
+      
+            
+Suicide Prevention Applications Network/Suicide Behavior Reports 
+The VHA Strategic Plan for Suicide Prevention is grounded in a public health framework 
+encompassing three major components: surveillance, identification of risk and protective 
+factors, and development of effective prevention interventions. In accordance with the first 
+
+component of this plan, surveillance, the VA has mandated since 2008 that health system 
+
+facilities track attempted and completed suicides in a national database, the Suicide 
+
+Prevention and Application Network (SPAN).  Together, SPAN and the Department of 
+
+he same standardized 
+
+-time suicide surveillance systems. 
+SPAN is coordinated and maintained by the Mental Health Program Director, Suicide 
+Prevention and Community Engagement. The SPAN database compiles individual-level case 
+
+reports for all suicide events and deaths known to VHA providers and Suicide Prevention 
+
+Coordinators from each VHA medical facility using standard processes and a Suicide Behavior 
+Report developed by national-level management and suicide prevention experts. VA policy 
+requires that Suicide Prevention Coordinators complete a Suicide Behavior Report for all 
+
+known suicides, suicide attempts, and some serious suicide ideation (i.e. suicide ideation 
+
+involving a firearm).  Therefore, reports of non-fatal suicide events may include suicide, suicide 
+
+attempts and serious suicide ideation resulting in preventive action. In 2010, electronic 
+reporting of suicide events was implemented. 
+The SPAN database provides the capacity for ongoing surveillance of suicide events among 
+Veterans. Each month in FY2012, SPAN received approximately 1,400 suicide events 
+
+nationwide, 95% of which are for non-fatal events. Although SPAN contains approximately 
+40% of suicide deaths among Veterans receiving VHA services, the State Mortality Data 
+Project and annual all-cause National Death Index searches conducted for VHA users are 
+26    
+      
+       
+             
+   
+better suited for tracking suicide deaths in the Veteran population.  In contrast, SPAN is 
+uniquely suited to capture information on the incidence and characteristics of non-fatal events. 
+Furthermore, because SPAN is an internal data collection system, the SPAN system primarily 
+
+contains suicide events for VHA utilizing Veterans; each year less than 10% of non-fatal 
+
+suicide events reported to SPAN are for Veterans who are not recent VHA users.  (VHA 
+
+usually does not know about events for non-users).This report therefore focuses on non-fatal 
+
+suicide events for VHA users defined as Veterans who have utilized any VHA services within 
+
+one year preceding the event. 
+Prevalence and Characteristics of Non-Fatal Suicide Events 
+Figure 7
+: Number of Reported Suicide Events by Fiscal Year 
+As shown in Figure 7, the absolute number of monthly 
+non-fatal suicide events has increased 
+since SPAN was implemented in 2008. However, early increases were likely due to a 
+27    
+        
+  
+  
+  
+    
+     
+     
+        
+        
+        
+    
+  
+  
+     
+  
+ 
+ 
+   
+ 
+ 
+ 
+   
+ transitional period during which facilities were adapting to this new program and reporting 
+procedures. The second period of the observed increase between December 2009 to July 
+2010 is likely due, in a large part, to the initiation of electronic submission of Suicide Behavior 
+
+Reports, which streamlined the reporting process and potentially increased program 
+
+compliance. There also appears to be a seasonal trend with more suicide events in the spring 
+
+and summer months noted in 2010 and 2011. In the fall of 2011, the number of reported 
+
+events again began to decrease, but the expected seasonal increase for the spring of 2012 
+
+was not observed. Thus, although findings are preliminary at this time, the number of non-fatal 
+events appears to be decreasing. This observed decrease may represent a true decline in 
+Veteran suicide behaviors, but could also be due, in part, to reporting lag or systematic policy 
+
+changes regarding the types and number of events reported. This decrease is also observed 
+
+when considering overall annual trends (Figure 8). In 2012, non-fatal suicide events were 
+
+reported for almost 11,000 VHA users. As some VHA utilizing Veterans experience multiple 
+
+reported events, this corresponds to nearly 15,000 suicide suicide events reported in FY2012 
+compared to more than 16,000 in FY2011. This is unique data and cannot be compared to 
+non-veteran data since population level non-fatal event data on the general population does 
+not exist. 
+28    
+         
+        
+    
+     
+   
+    
+  
+ 
+   
+ Figure 8
+: Number of Reported Suicide Events and VHA Users by Fiscal Year 
+Main finding:  Preliminary evidence suggests that the number of non-fatal suicide event
+s for VHA utilizing 
+Veterans has been decreasing since September, 2011. 
+Considering unique individuals with one or more non-fatal suicide events(s), the suicide event 
+rate increased slightly from 2009 to 2011 and decreased slightly in 2012 parallel to that 
+
+observed for the absolute number of events in figures 9 and 10
+. As shown in Figure 9
+, clear 
+gender differences are apparent with more females than males with report of a suicide event 
+
+each year, yet the annual trends are the same for both genders. Furthermore, the gender gap 
+appears to be closing. 
+29    
+        
+  
+   
+          
+    
+      
+  Figure 9
+: Rate of Non-Fatal Suicide Events by Sex and Fiscal Year 
+Main Finding: Although gender differences exist, they appear to be decreasing. 
+Age-specific event rates clearly differ with a consistent patern emerging for 2009-2012. Rates 
+are highest among younger Veterans and appear to decrease consistently with increasing age. 
+
+Suicide event rates for Veterans 60 and older have remained comparatively stable since 2009, 
+
+but fluctuations have been observed for younger Veterans. When considering rates by age 
+group, we again see an increase from 2009-2010 for those less than 60 years of age, but a 
+clear decline is noted beginning in 2011 and continuing in 2012. When considering Veterans of 
+all ages, this decline was not apparent until 2012. This trend may be due to the fact that 
+although rates are lower among older Veterans, there is a larger number of older Veterans 
+
+utilizing VHA services and this group. Therefore, patterns in suicide event reports among older 
+
+adults may disproportionately influence obseved trends in overall frequencies and suicide 
+event rates. Among the older Veterans, no change in suicide event rates was observed 
+between 2010 and 2011. Non-fatal event rates by age group and gender have been provided 
+as Appendix C. 
+30    
+             
+    
+    
+      Figure 10
+: Rate of Non-Fatal Suicide Events by Age Group and Fiscal Year 
+Main Finding:  Rates of non-fatal suicide events decrease with age. 
+Figure 11
+: 12 Month 
+Re-Event Prevalence by Sex and Fiscal Year 
+Main Finding: The 12 month 
+re-event prevalence decreased in FY2012
+. Repeat report of an addiitonal suicide event within 12 months of a 
+non-fatal sucide event 
+occurs in approximately 15% of cases for both males and females. Although we cannot yet 
+report on 2012 reattempt rates, it does appear that the 12 month repeat report prevalence 
+
+decreased slightly from 2010 to 2011. Repeat report prevalence by age group and gender 
+
+have been provided in Appendix D. 
+31    
+                 
+            
+     
+Figure 12
+: Prevalence of Non-Fatal Events by Time since Last Service Use 
+Main Finding: Among those at risk, the first four weeks following service require intensive monitoring 
+and case management. 
+Figure 12 clearly demonstrates that the majority (80%) of non-fatal events occur within four 
+weeks of recieving VHA services. An additional 10% of events occur in the second month 
+
+following last VHA service visit. These findings have important implications for treatment and 
+
+prevention efforts as the majority of those with report of a suicide event are active, recent VHA 
+users. 
+Furthermore, nearly 50% of the individuals with a VHA service visit in the year preeceeding th
+e suicide event were last seen in the outpatient primary care setting (Figure 
+13). This implies that 
+primary care should be an integral component of VHA suicide prevention programs and 
+primary care clinicians should continue to receive support and training on the identification and 
+management of those experiencing distress. Another 40% of those with report of one or more 
+32    
+                  
+  
+    
+  
+   
+    
+  
+  
+   
+       suicide events were last seen for mental health services indicating a need for continued 
+assessment and risk management following use of VHA services among those with known risk 
+factors (i.e. mental health diagnosis). 
+Figure 13
+: Prevalence of Last Point of Care Prior to a Non-Fatal Event 
+Main Finding: The majority of Veterans who have a suicide event were last seen in an outpatient setting. 
+The majority of nonfatal events were the result of an overdose or intentional poisoning. 
+However, nearly 11% of non-fatal attempts were made with a firearm. Additional research on 
+the characteristics and outcomes among this group is needed. However, it is important to note 
+that this number may include both Veterans who held a loaded gun but never discharged the 
+
+firearm and those who suffered a non-fatal injury
+.  Given the high case-fatality for firearm 
+events in general, this finding highlights an opportunity and need to understand more about 
+this group including risk factors, future suicide event rates and re-attempt methods in order to 
+direct effective prevention and treatment services. 
+33    
+    
+      
+      
+   
+       
+          
+  
+  
+   
+   
+    
+  
+     
+  
+Figure 
+14: Prevalence of Method Indicated in Non-Fatal Event, FY2009-FY2012 
+Main Finding: A majority of non-fatal events were the result or overdose or other intentional poisoning. 
+Veterans Crisis Line 
+The Veteran Crisis Line application collects information related to calls from Veterans, their 
+families and their friends in need. Calls are mainly received from callers to the National 
+
+Lifeline (1-800-273-
+
+The Veteran 
+Crisis Line is staffed 24 hours a day, 7 days a week by trained Veteran Affairs employees with 
+
+backgrounds in mental health services
+. The information collected during each call includes 
+date and time of call, history of suicidal ideation and events, access to means, substance use, 
+social support, and perceived intent of suicide event. The majority of information is based on 
+the flow of the call, and the number of mandatory fields is kept at a minimum. Most callers are 
+
+anonymous (i.e. they do not provide identifying information) 
+and do not result in a 
+rescue. Information on outcome of the call and referrals for VHA services are collected and, 
+34    
+        
+  
+    
+  
+   
+   
+  
+   
+    
+   when available, can be used to identify outcomes among callers to the Veterans Crisis Line 
+(VCL). 
+Prevalence and Characteristics of Calls to the Veterans Crisis Line 
+
+Since 2009, calls to the Veterans Crisis Line have continued to increase with a noticeable 
+spike in call volume beginning in or around May 
+2011 (Figure 15). Around this same time, the 
+VA re-
+
+
+to Veterans and their family and friends. The evaluation of this campaign highlights this type of 
+messaging as a viable method to encourage help seeking and promote the use of VA mental 
+health services to Veteran populations. However, in order to support and sustain help seeking 
+behaviors and maintain an upward trend in call volume the continuation of messaging activities 
+should be considered. 
+Figure 15: VCL Calls by Month 
+Main Finding: Calls to the Veterans Crisis Line continue to increase and this increase may be associated 
+with efforts to enhance awareness of VHA services through public education campaigns. 
+35    
+        
+  
+  
+    
+                       
+The percentage of repeat callers (i.e., callers from a single phone number or who have 
+received a referral/rescue within 30 days of another call) has consistently increased over the 
+
+past four years. For some, the Veterans Crisis Line may be instrumental in providing support 
+and care and prompt individuals to access it more than once. As shown in Figure 
+16 below, the 
+percentage of repeat callers has steadily increased over time from 17.25% in FY 2009 to 
+almost 19.6% reported in FY 2012. These numbers may reflect change in the type of help 
+
+individuals are seeking (e.g. rather than calling in crisis, calls may be for help with symptoms 
+such as insomnia) or are indicative of the expansive role the Veterans Crisis Line may play in 
+the provision of care to Veterans. 
+Figure 16: Percentage of Repeat Callers by Year 
+Females accounted for approximately 20% of calls each month (Figure 17), however, the 
+majority of callers to the Veterans Crisis Line were male (almost 80% per month). Despite 
+identification as a group less willing to seek psychological help, males more often connected t
+o the Veterans Crisis Line, a trend that was relatively stable between 2009 and 2012. 
+36    
+     
+          
+ Figure 17: Percentage of Callers by Sex and Month 
+Main Finding: The majority of all callers to the Veterans Crisis Line are male. 
+Figure 18: Percentage of Callers by 
+Age Group and Month 
+Main Finding: The majority of callers to the Veterans Crisis Line are between the ages of 50-59. 
+37    
+        
+   
+                      
+  
+      Although people of all ages utilize the Veterans Crisis Line, the largest percentage of calls 
+each month to the Veterans Crisis Line were made by individuals between the ages 
+50-59 years old (approximately 30% of all calls each month). Rates of suicide among middle-age 
+men in the general population have increased during the past three years. Therefore, use of 
+
+the Veterans Crisis Line may be particularly important for members of this group. As shown in 
+
+Figure 18
+, the comparatively high prevalence of callers between the ages 50-59 years was 
+sustained over time and suggests that the Veterans Crisis Line may provide a resource and 
+
+access to care for those belonging to high-risk subgroups of the larger population. Overall, the 
+percentage of calls to the Veterans Crisis Line from adults aged 40 years and younger and 60
+-69 years is similar, with a comparatively small percentage (less than 10%) of calls among 
+those aged 
+70 years and older. 
+Figure 19: Percentage of Callers 
+by Age Group, Gender, and Month 
+Main Finding: Age composition of callers to the VCL is distinct between genders. 
+38    
+    
+
+    
+              
+     
+        
+ Further analysis of monthly calls made to the Veterans Crisis Line reveal that the composition 
+
+ages of 50-59 with the fewest calls made by those ages 70 and older. However, among female 
+
+callers, the pattern is less distinct as trends in calls to the crisis line fluctuate over time with 
+
+several age groups making the majority of calls (primarily those 59 and younger), and older 
+females (70 and older) contributing less than 10% to calls per month. 
+A majority of all callers to the Veterans Crisis Line identified as Veterans (Figure 20). Overall, 
+approximately 80% of all callers to the Veterans Crisis Line identify as Veterans and the 
+remainder of other callers (including friends, family members, and all non-military others) 
+contributed to less than 20% of total call volume each year. 
+Figure 20
+: Relationship to Caller by Month 
+Main Finding: Approximately 80% of callers to the Veterans Crisis Line identify as Veterans. 
+39    
+        
+        
+    
+                  
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ The percentage of Veteran callers to the Veterans Crisis Line has remained comparatively 
+constant since the first quarter of 2010. The sudden rise in Veteran callers from 60% in early 
+2009 to more than 80% in February 2010 may be attributable to a rebranding of the Veterans 
+
+Crisis Line and the introduction of the Military Crisis Line in FY2011. While the Veterans Crisis 
+
+Line is identified to active duty personnel as the Military Crisis Line, the percentage of active 
+
+duty callers has remained constant since February 2009 at just over 1%. It is possible that 
+some active duty personnel may be identifying themselves as Veterans. 
+The percentage of repeat callers to the VCL has largely been relatively consistent across the 
+past four fiscal years. (Figure 
+21) However, a notable drop in the percentage of repeat callers 
+is observable in early 2009, with the number of repeat callers falling from approximately 19% 
+
+to 13%. Since then, the percentage of repeat callers has continued to steadily increase back to 
+approximately 19%, where is has remained fairly constant since the second quarter of 2011. 
+40    
+     
+         
+     
+      
+         Figure 
+21: Percentage of Repeat Callers by Month 
+Main Finding: Approximately 19% of calls to the Veterans Crisis Line call more than once each month. 
+Based on the prevalence of callers reporting thoughts of suicide at the time of the call, there 
+currently seems to be a slight downward trend in the percentage of callers thinking of suicide 
+(Figure 
+22). A sharp drop was first noted in early 2009, where this number fell from more than 
+40% to approximately 30%. However, it is possible that this decrease was associated with 
+
+implementation of the Veterans Crisis Line and characteristics of early adopters of this service. 
+
+This drop was then followed by a steady increase which peaked in the third quarter of 2010 at 
+
+approximately 35%. This number has again decreased, with the percentage of callers thinking 
+of suicide presently approximating to the same prevalence observed in 2009. Research is 
+recommended to determine possible causes and differences in caller characteristics or 
+outcomes associated with this change. 
+41    
+        
+  
+    
+     
+   
+     
+ 
+ 
+ 
+ 
+   
+ Figure 
+22: Percentage of Callers Thinking about Suicide by Month 
+Main Finding: The percentage of callers to the Veterans Crisis Line who are currently thinking of suicide 
+has decreased. 
+The number and percentage of rescues performed each month has also progressively 
+declined (Figure 
+23). Following a sharp drop in early 2009, this percentage of all calls resulting 
+in a rescue increased to approximately 7% in June 2010 and has consistently decreased, now 
+
+totaling approximately 3% of all calls. This change may be indicative of fewer callers 
+
+presenting with crisis states making them at imminent risk of suicide as well as more callers 
+presenting with a greater diversity of problems. 
+42    
+     
+             Figure 
+23: Number and Percentage of Rescues by Month 
+Main Finding: The percentage of all calls resulting in a rescue has decreased. 
+Figure 
+24: Percentage of Callers Receiving a Referral by Month 
+Main Finding: The percentage of callers receiving a referral for follow-up care 
+is increasing. 
+43    
+       
+                    
+      
+   
+  
+  
+             
+ The percentage of callers receiving a referral has been steadily increasing from approximately 
+31% in early 2009 to more than 40% in FY2012 (Figure 
+24). This increase may be due to 
+callers to the VCL presenting more distally in the risk continuum or a shift in caller preferences, 
+with more callers demonstrating willingness to accept referrals for clinical services. 
+Figure 
+25: Percentage of Callers Receiving a Referral with Previous VHA Service Use by
+Month
+Main Finding: Approximately 93% of all Veterans Crisis Line referrals are made to callers with a history of 
+VHA service use in the past 12 months. 
+The percentage of callers receiving a referral with history of VHA service in the 12 months 
+preceding a referral rose from approximately 92.5% in FY2009 to just over 93% in FY2010 
+
+(Figure 
+25). This number then slightly dropped in FY2011, only to return to just over 93% in 
+FY2012. 
+Callers who receive more than one referral in a fiscal year have consistently between FY2009 
+FY2012; with approximately 3% of all callers to the Veterans Crisis Line receiving more than 
+one referral for care in FY2012 (Figure 
+26). 44    
+        
+     
+     
+          
+      
+     Figure 
+26: Percentage of Callers with Repeat Referrals by Year 
+Main Finding: Slightly more than 3% of callers receive more than one referral each year. 
+Figures 
+27-29 demonstrate patterns of VHA service use before and following a referral for 
+service and are largely consistent across years. Between 61-90 days before the referral
+, mental health residential/domiciliary stays averaged 20 days per stay, decreasing to 
+approximately 15 days per stay at 0-30 days after a referral. The length of a stay for residential 
+and domiciliary care then increases to 22-23 days per stay at 
+61-90 days post-referral. In 
+contrast, inpatient mental health stays averaged 7-8 days per stay at 
+61-90 days before and 
+after a referral. Other inpatient stays slightly increased at 90 days following a referral, from 
+approximately 5 days in FY2009 to 6-7 days in FY2010-FY2011. Other inpatient stays would 
+
+then decrease to approximately 5 days per stay around the time of the referral, rising to 6-
+7 days per stay at 
+61-90 days after a referral. Overall, there was an average of 4 outpatient 
+mental health encounters between 31-
+60 days after a referral, rising to an average of 
+5 encounters between 61-90 days following a referral. 
+45    
+         
+ 
+   
+ Figure 
+27: Service Use Before and After Receiving a Referral, FY2009 
+Figure 28
+: Service Use Before and After Receiving a Referral, FY2010 
+46    
+        
+       
+    
+   
+     
+      
+  
+Figure 29
+: Service Use Before and After Receiving a Referral, FY2011 
+Main Finding: Service use continues to increase following a referral for care. 
+Patterns of service use among Veterans with history of VHA services that were rescued 
+following a call to the Veterans Crisis Line were consistent with increases noted following a 
+
+referral. Overall, mental health residential/domiciliary stays showed little variability between 
+
+FY2010-FY2011, ranging from approximately 20 days per stay at 
+61-90 days before the 
+rescue to 15 days per stay around the time of the rescue, rising to 21-22 days per stay at 
+61-90 days following a rescue (Figures 
+30-32). The number of inpatient days and encounters 
+varies from FY2009, where these stays rose to 25 days per stay at 1-30 days before a rescue, 
+falling to 15 days in the 0-
+30 days following a rescue, rising to 20 days per stay at 
+61-90 days 
+after the event. Between FY2009-FY2011, inpatient mental health stays averaged 8 days per 
+stay at 30-90 days before the rescue, rising approximately 25% to about 10 inpatient days 
+31-90 days after the rescue. Other inpatient stays averaged 6 days per stay at 31-90 days before 
+47    
+     
+    
+   
+        and after the rescue in FY2009 and FY2011. In FY2010, other inpatient stays averaged 6 days 
+per stay at 
+31-90 days before a rescue and rose to an average of 
+8 inpatient days between 61
+-90 days after a rescue. 
+Figure 
+30: Service Use Before and After a Rescue, FY2009 
+Figure 
+31: Service Use Before and After a Rescue, FY2010 
+48    
+       
+     
+      
+      
+      
+  
+  Figure 
+32: Service Use Before and After a Rescue, FY2011 
+Main finding: Between FY2009 
+ FY2011, use of inpatient and outpatient services increased following a 
+rescue. 
+Callers to the Veterans Crisis Line who receive a referral for follow-up care or who result in a 
+rescue represent two groups that may be at increased risk for suicide. Increased risk for repeat 
+suicide attempts has been identified among those who survive an initial suicide event and, 
+among callers to the Veterans Crisis Line, may be greatest among Veterans who have 
+
+attempted suicide before the time of their first referral or rescue resulting for a call to the 
+
+Veterans Crisis Line. The suicide reattempt prevalence rate in FY2009 was approximately 19, 
+
+increasing to 20 in FY2010, and decreasing to 18 in FY2011. (Figure 
+33) This change in 12
+-month reattempt prevalence rates may be due to a decrease in the number of non-fatal suicide 
+attempters who call the Veterans Crisis Line as well as a sign of effective identification and 
+management of risk following a rescue or referral. 
+49    
+     
+     Figure 
+33: 12 Month Suicide Re-event Prevalence among Those Receiving a Referral or 
+Rescue 
+Main finding: The 12 month re-event prevalence has decreased among those who have been rescued or 
+received a referral for follow-up care. 
+50    
+             
+  
+      
+  
+       
+    
+                                 
+     
+     Conclusions 
+The report contains prevalence data and characteristics of suicide among Veterans and 
+evidence of change in outcomes among Veterans at risk for suicide. Included in this report are 
+
+an overview and analysis of information collected through collaborative data sharing 
+
+agreements with U.S. states, reports of non-fatal suicide events among Veterans using VHA 
+
+services and analysis of data obtained from the Veterans Crisis Line.  Data collected through 
+
+
+support and development of new prevention programs.  Major findings of the report include: 
+While the percentage of all suicides reported as Veterans has decreased, the number of 
+suicides has increased 
+A majority of Veteran suicides are among those age 50 years and older.  Male Veterans 
+who die by suicide are older than non-Veteran males who die by suicide. 
+The age distribution of Veteran and non-Veteran women who have died from suicide is 
+similar. 
+The demographic characteristics of Veterans who have died from suicide are similar 
+among those with and without a history of VHA service use. 
+Among those at risk, the first 4 weeks following service require intensive monitoring and 
+case management (which verifies the importance of the Enhanced Care Package for 
+those at high risk). 
+There is preliminary evidence in 2012 indicating a decrease in the rate of non-fatal 
+
+suicide events for VHA utilizing Veterans. 
+Decreasing rates of non-fatal suicide events are associated with increasing age. 
+The data show a decrease in the 12 month re-event prevalence in fiscal year (FY) 2012
+. The majority of Veterans who have a suicide event were last seen in an outpatient 
+setting.  A high prevalence of non-fatal suicide events result from overdose or other 
+
+intentional poisoning. 
+Continued increases in calls to the Veterans Crisis Line may be associated with efforts 
+
+to enhance awareness of VHA services through public education campaigns. 
+51    
+     
+   
+          
+         
+      
+                      
+      
+                   
+      The majority of callers to the Veterans Crisis Line are male and between the ages of 50
+-59. Differences in the age composition of callers to the Veterans Crisis Line are associated
+with gender.
+A large percentage of callers to the Veterans Crisis Line are identified as Veterans.
+
+Approximately 19 percent of callers to the Veterans Crisis Line call more than once
+each month. 
+The percentage of callers to the Veterans Crisis Line who are currently thinking of 
+suicide has decreased. 
+The percentage of all calls resulting in a rescue has decreased, indicating that the calls 
+are less emergent and callers are using the Crisis Line earlier.
+The percentage of callers receiving a referral for follow-up care is increasing.
+
+Approximately 93 percent of all Veterans Crisis Line referrals are made to callers with a
+history of VHA service use in the past 12 months.
+Service use continues to increase following a referral for care.
+Between FY 2009 
+FY 2011, use of inpatient and outpatient services increased
+following a rescue. 
+The 12 month re-event prevalence has decreased among those who have been 
+rescued or received a referral for follow-up care. 
+Although this was not a research-based analysis and there are significant limitations in the 
+data that are available, as described in the report, this first attempt at a comprehensive review 
+
+of Veteran suicide does provide us with valuable information for future directions in care and 
+
+program development. While the numbers of Veterans who die from suicide each day has 
+remained relatively stable over the past 12 years (varying from 18 -22 per day), the percentage 
+of people who die by suicide in America who are Veterans has decreased slightly.  At the 
+
+same time, the number of Americans who die by suicide each day has increased. This 
+provides preliminary evidence that the programs initiated by VA are improving outcomes.  VA 
+52    
+          
+          
+     
+  
+     
+  
+     
+   
+  
+    
+        must continue to provide a high level of care, and recognize that there is still much more work 
+to do. As long as Veterans die by suicide, we must continue to improve and provide even 
+better services and care. This report provides us with valuable information about opportunities 
+
+to do even better work.  
+A taskforce designed to provide recommendations for innovating Mental Health care in VA has 
+been established and will be given this report to help guide its work. A report from this inter-
+
+agency group will be forth-coming to the inter-agency task force developed to implement the 
+Mental Health Executive Order which is highly focused on suicide prevention. The work of this 
+group includes developing action plans to address risk in a broader sense for all patients in 
+
+both mental health and 
+non-mental health settings.  This includes reassessing the value of 
+traditional suicide risk assessments and screening (which is done now extensively in VA), and 
+
+adding ways to identify life stressors and concerns earlier. Improving risk identification through 
+
+these alternative approaches and increasing the numbers of Veterans who are engaged in the 
+enhanced follow-up program may address that identified sensitive time period following VA 
+contact as an outpatient as well as for inpatients. 
+Population groups indentified in the report that require additional interventions and 
+engagement include women Veterans and Vietnam Era Veterans. Additional VA training 
+
+programs will be developed targeting providers of these groups of patients and Suicide 
+Prevention Coo
+
+awareness and risk assessment for all staff. 
+Outreach remains critically important. Knowing that 
+VA treatment strategies are effective 
+provides an impetus to get more Veterans involved in treatment programs earlier. Maintaining 
+53    
+       
+    
+   
+    
+
+      
+   
+   
+    
+ 
+   
+the availability of the Veterans Crisis Line to address all areas of concern for Veterans is 
+valuable. Our communication and outreach strategies appear to be effective in this area 
+we 
+should continue our work and expand in this area. 
+VA recognizes its role and responsibility in maintaining the safety and well-being of our 
+
+
+interventions for those Veterans at risk for suicide and those suffering from mental health 
+
+related concerns through research and practice using all available information and data. We 
+will continue to add to this information base as data continues to become available and provide 
+updates to this on-going report. 
+54    
+    
+               
+  Appendix A: Veteran Status on Death Certificate by State and Year 
+A=asked, NA=not asked, K=keyed, NK=not keyed 
+55    
+      Appendix B: Timeframe for Updated to Mortality Data by State 
+56    
+         Appendix C: Non-Fatal Event Rates by Age Group and Gender (per 100,000 Users) 
+57    
+    58    
+        
+       
+     
+   
+     Reference List 
+(1) Bahraini N, Gutierrez P, Harwood J et al. The Colorado Violent Death Reporting System 
+(CVDRS): validity and utility of the Veteran status variable. Public Health Reports 2012; 
+
+127(3):304-309. 
+(2) Census. SEX BY AGE BY VETERAN STATUS FOR THE CIVILIAN POPULATION 18 
+
+YEARS AND OVER.  2012.  United States Census Bureau. 12-
+17-0012. 
+Ref Type: Report 
+(3) CDC. WISQARS. Web Based Interactive Statistical Query and Reporting System . 12-
+17-0012. 12-
+17-0012. 
+Ref Type: Electronic Citation 
+59 

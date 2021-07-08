@@ -1,0 +1,186 @@
+This page uses javascripts, but your browser is not currently supporting java scripts.
+ Please turn ON scripting in your web browser.
+ September 4, 2014     Substance Use and Mental Health Estimates from the 2013 National Survey on Drug Use and Health: Overview of Findings  In Brief     An estimated 24.6 million individuals aged 12 or older were current illicit drug users in 2013, including 2.2 million adolescents aged 12 to 17.
+ In 2013, 60.1 million individuals aged 12 or older were past month binge drinkers, including 1.6 million adolescents.
+ Of the estimated 22.7 million individuals aged 12 or older in 2013 who needed treatment for an illicit drug or alcohol use problem, 2.5 million received treatment at a specialty facility.
+ In 2013, about 1 in 10 adolescents (10.7 percent) had a major depressive episode (MDE) in the past year.
+ Among adolescents with MDE, 38.1 percent received treatment or counseling for depression in the past year.
+ In 2013, nearly 1 in 5 adults aged 18 or older (18.5 percent) had a mental illness (i.e., "any mental illness," or AMI) in the past year; 4.2 percent had a serious mental illness (SMI); and 3.9 percent had serious thoughts of suicide in the past year.
+ In 2013, 1.4 percent of adolescents had co-occurring MDE and substance use disorder (SUD); 3.2 percent of adults had co-occurring AMI and SUD; and 1.0 percent of adults had co-occurring SMI and SUD.
+ Substance use and mental health issues (i.e., "behavioral health issues") affect millions of adolescents and adults in the United States.
+ Behavioral health problems, particularly depression, contribute to the burden of disease worldwide.1 The Substance Abuse and Mental Health Services Administration (SAMHSA) supports preventing behavioral health problems and finding the pathway to recovery for those with behavioral health conditions.
+ SAMHSA's message is that behavioral health is essential to overall health, prevention works, treatment is effective, and people can and do recover.
+ Recovery support is one of the strategic initiatives identified by SAMHSA to improve the nation's behavioral health, reduce the burden of substance use disorders and mental illness in the United States, and help those with behavioral health conditions reclaim their lives.
+ Knowing the percentage of people with substance use disorders and mental health issues in the United States is an important starting point for promoting the prevention of behavioral health problems and supporting recovery for those with behavioral health problems.
+ Data from the 2013 National Survey on Drug Use and Health (NSDUH) provide a recent look at behavioral health in the United States.
+ This issue of The NSDUH Report contains the first release of 2013 NSDUH estimates; it focuses on the percentage of individuals with behavioral health problems in the United States, as well as on the percentage receiving treatment or counseling for behavioral health problems.
+ Survey Background  NSDUH is an annual survey of the civilian, noninstitutionalized population of the United States aged 12 years old or older.
+ Data from NSDUH provide information on illicit drug use, alcohol use, substance use disorder (SUD), substance use treatment, reasons for not receiving substance use treatment, mental health issues (including mental health service use), and co-occurring SUD and mental health issues.
+ Estimates of substance use are presented for individuals aged 12 or older, adolescents, and adults.
+ Estimates of substance use treatment and reasons for not receiving substance use treatment also are presented for individuals aged 12 or older.
+ With one exception, estimates are based on 2013 NSDUH data.
+ Estimates of reasons for not receiving substance use treatment are based on combined 2010 to 2013 NSDUH data to increase precision.
+ Illicit Drug Use  NSDUH asks respondents aged 12 or older about their illicit drug use in the 30 days before the interview (i.e., current use).
+ Illicit drugs include marijuana/hashish, cocaine (including crack), inhalants, hallucinogens, heroin, or prescription-type drugs (i.e., pain relievers, tranquilizers, stimulants, or sedatives) that were used nonmedically.
+ Nonmedical use is defined as the use of prescription-type drugs that were not prescribed for the respondent or use only for the experience or feeling they caused.
+ Nonmedical use of any prescription-type drug does not include over-the-counter drugs.
+ Nonmedical use of stimulants and of any prescription-type drug includes methamphetamine use.
+ In 2013, an estimated 24.6 million Americans aged 12 or older were current (past month) illicit drug users.
+ This represents 9.4 percent of the population aged 12 or older (Table 1).
+ Marijuana was the most commonly used illicit drug, with 19.8 million current users aged 12 or older (7.5 percent).
+ There were 6.5 million nonmedical users of prescription-type drugs (2.5 percent), including 4.5 million nonmedical users of prescription pain relievers (1.7 percent).
+ There were 1.5 million current cocaine users aged 12 or older, or 0.6 percent of the population.
+ An estimated 1.3 million individuals aged 12 or older in 2013 (0.5 percent) used hallucinogens in the past month.
+ An estimated 496,000 individuals aged 12 or older were current inhalant users, which represents 0.2 percent of the population.
+ There were about 289,000 current heroin users aged 12 or older, or 0.1 percent of the population.
+ In 2013, there were 2.2 million adolescents aged 12 to 17 who were current illicit drug users.
+ This represents 8.8 percent of adolescents.
+ In 2013, 7.1 percent of adolescents were current users of marijuana, 2.2 percent were current nonmedical users of prescription-type drugs (including 1.7 percent who were current nonmedical users of pain relievers), 0.6 percent were current users of hallucinogens, 0.5 percent were current users of inhalants, 0.2 percent were current users of cocaine, and 0.1 percent were current users of heroin.
+ There were 22.4 million adults aged 18 or older who currently used illicit drugs in 2013.
+ This represents 9.4 percent of adults.
+ In 2013, 7.6 percent of adults were current users of marijuana, 2.5 percent were current nonmedical users of prescription-type drugs (including 1.7 percent who were current nonmedical users of pain relievers), 0.5 percent were current users of hallucinogens, 0.6 percent were current users of cocaine, 0.2 percent were current users of inhalants, and 0.1 percent were current users of heroin.
+ Table 1.
+ Illicit drug use in the past month among individuals aged 12 or older: 2013   Substance Aged 12 or older Aged 12 to 17 Aged 18 or older   Number(in thousands) Percent Number(in thousands) Percent Number(in thousands) Percent     Illicit drug use 24,573 9.4% 2,197 8.8% 22,376 9.4%   Marijuana and hashish 19,810 7.5% 1,762 7.1% 18,048 7.6%   Cocaine   1,549 0.6%      43 0.2%   1,505 0.6%   Inhalants      496 0.2%    121 0.5%      375 0.2%   Hallucinogens   1,333 0.5%    154 0.6%   1,179 0.5%   Heroin      289 0.1%      13 0.1%      277 0.1%   Nonmedical use of prescription-type drugs   6,484 2.5%    549 2.2%   5,935 2.5%   Pain relievers   4,521 1.7%    425 1.7%   4,096 1.7%       NOTE: Numbers and percentages do not sum to the illicit drug use estimate as individuals may have used more than one illicit drug.
+ Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health (NSDUH), 2013.
+ Alcohol Use  NSDUH asks respondents aged 12 or older about their alcohol use in the 30 days before the interview.
+ Current alcohol use is defined as any use of alcoholic beverages such as beer, wine, liquor, brandy, or mixed drinks and cocktails in the past 30 days.
+ Occasions when the respondent only had a sip or two from an alcoholic beverage are not included.
+ Binge alcohol use is defined here as drinking five or more drinks on the same occasion on at least 1 day in the past 30 days.
+ Heavy alcohol use is defined as drinking five or more drinks on the same occasion on 5 or more days in the past 30 days.
+ Slightly more than half (52.2 percent) of Americans aged 12 or older were current alcohol users, which translates to an estimated 136.9 million current drinkers in 2013.
+ Nearly one quarter (22.9 percent) of individuals aged 12 or older in 2013 were binge alcohol users.
+ This translates to about 60.1 million people.
+ In 2013, heavy drinking was reported by 6.3 percent of the population aged 12 or older, or 16.5 million people (Figure 1).
+ In 2013, 11.6 percent of adolescents aged 12 to 17 were current alcohol users, representing 2.9 million adolescents.
+ Many of these adolescents reported past month binge drinking (6.2 percent or 1.6 million adolescents) and 1.2 percent (293,000 adolescents) were heavy alcohol users.
+ In 2013, 56.4 percent of adults aged 18 or older were current drinkers of alcohol, which translates to an estimated 134 million current adult drinkers.
+ Nearly one quarter (24.6 percent) of adults aged 18 or older in 2013 (58.5 million adults) were binge alcohol users.
+ The percentage of adults engaging in heavy drinking was 6.8 percent (16.2 million adults).
+ Figure 1.
+ Alcohol use in the past month among individuals aged 12 or older: 2013       Figure 1 Table.
+ Alcohol use in the past month among individuals aged 12 or older: 2013   Age Heavy use Binge use Current use   Percent Numberof adults Percent Numberof adults Percent Numberof adults     Aged 12 or older 6.3% 16.5 million 22.9% 60.1 million 52.2% 136.9 million   Aged 12 to 17* 1.2%      293,000   6.2%   1.6 million 11.6%     2.9 million   Aged 18 or older 6.8% 16.2 million 24.6% 58.5 million 56.4% 134.0 million       * The percentage and estimated number of adolescents aged 12 to 17 who were heavy alcohol users were 1.2 percent and 293,000 adolescents.
+ Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health (NSDUH), 2013.
+ Substance Use Disorder  NSDUH includes a series of questions to assess dependence on or abuse of alcohol or illicit drugs in the past year.
+ These questions are designed to measure dependence and abuse based on criteria specified in the fourth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).2 Individuals with alcohol or illicit drug dependence or abuse are defined as having an SUD.
+ In 2013, an estimated 21.6 million individuals aged 12 or older had an SUD in the past year (8.2 percent of the population aged 12 or older) (Figure 2).
+ An estimated 1.3 million adolescents aged 12 to 17 had an SUD in 2013 (5.2 percent of adolescents).
+ An estimated 20.3 million adults aged 18 or older in 2013 had a past year substance use disorder, which translates to 8.5 percent of adults.
+ Figure 2.
+ Substance use disorder (SUD) in the past year among individuals aged 12 or older: 2013       Figure 2 Table.
+ Substance use disorder (SUD) in the past year among individuals aged 12 or older: 2013   Age Percent Number(in millions)     Aged 12 or older 8.2% 21.6   Aged 12 to 17 5.2%   1.3   Aged 18 or older 8.5% 20.3       Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health (NSDUH), 2013.
+ Substance Use Treatment  NSDUH collects information about the receipt of substance use treatment at a specialty facility,3 the need for substance use treatment, and the receipt of services among those who needed treatment.
+ NSDUH classifies respondents as needing substance use treatment if they met the criteria for SUD or if they received substance use treatment at a specialty facility in the past year.
+ In 2013, an estimated 22.7 million individuals aged 12 or older in 2013 needed treatment for an illicit drug or alcohol use problem (8.6 percent of the population aged 12 or older).
+ Among the 22.7 million individuals 12 or older who needed treatment for an illicit drug or alcohol use problem, an estimated 2.5 million received treatment at a specialty facility for an illicit drug or alcohol problem.
+ This means that 20.2 million individuals needed treatment for an illicit drug or alcohol use problem but did not receive treatment at a specialty facility in the past year.
+ Need for and Barriers to Substance Use Treatment  NSDUH includes questions that ask respondents about their perceived need for substance use treatment (i.e., whether they felt they needed substance use treatment or counseling for illicit drug use or alcohol use).
+ In this report, estimates for perceived need for substance use treatment are discussed only for individuals who were classified as needing treatment (based on DSM-IV criteria)4 but did not receive treatment at a specialty facility.
+ Individuals who perceived a need for treatment but did not receive treatment at a specialty facility also were asked their reasons for not receiving illicit drug or alcohol use treatment.5  Among the 20.2 million individuals aged 12 or older in 2013 who were classified as needing substance use treatment but who did not receive treatment at a specialty facility in the past year, 908,000 (4.5 percent) reported that they perceived a need for treatment for their illicit drug or alcohol use problem.
+ Of the 908,000 individuals in 2013 who felt they needed treatment but did not receive treatment at a specialty facility, 316,000 (34.8 percent) reported that they made an effort to get treatment, and 592,000 (65.2 percent) reported making no effort to get treatment.
+ Based on 2010-2013 combined data, commonly reported reasons for not receiving treatment among individuals aged 12 or older who needed but did not receive illicit drug or alcohol use treatment, felt a need for treatment, and made an effort to receive treatment, were (1) no health coverage/could not afford cost (37.3 percent), (2) not ready to stop using (24.5 percent), (3) did not know where to go for treatment (9.0 percent), (4) had health coverage but it did not cover treatment or did not cover cost (8.2 percent), and (5) no transportation or inconvenient hours (8.0 percent) (Table 2).
+ Table 2.
+ Most common reasons for not receiving treatment among individuals aged 12 or older who needed and made an effort to receive treatment but did not receive treatment and felt a need for treatment: annual averages, 2010 to 2013   Reason Percent     No health coverage/could not afford 37.3%   Not ready to stop using 24.5%   Did not know where to go for treatment   9.0%   Had health coverage but did not cover treatment or cover costs   8.2%   No transportation/inconvenient   8.0%       Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health (NSDUH), 2010 to 2013.
+ Mental Health Issues among Adolescents  Although NSDUH does not contain an overall indicator of mental health among adolescents aged 12 to 17, NSDUH provides estimates of having a past year major depressive episode (MDE) for this age group.
+ MDE is defined using the diagnostic criteria from DSM-IV.
+ Adolescents were defined as having MDE if they had a period of 2 weeks or longer in the past 12 months when they experienced a depressed mood or loss of interest or pleasure in daily activities, and they had at least four of seven additional symptoms, such as problems with sleep, eating, energy, concentration, and self-worth.6 Adolescents were defined as having MDE with severe impairment if their depression caused severe problems with their ability to do chores at home, do well at work or school, get along with their family, or have a social life.
+ In 2013, approximately 1 in 10 adolescents aged 12 to 17 in the United States (10.7 percent) had MDE in the past year.
+ This represents 2.6 million adolescents in this country.
+ An estimated 7.7 percent of adolescents aged 12 to 17 (1.9 million adolescents) had past year MDE with severe impairment.
+ Mental Health Issues among Adults  NSDUH provides estimates of any mental illness (AMI) and serious mental illness (SMI) for adults aged 18 or older.
+ AMI is defined as an individual having any mental, behavioral, or emotional disorder in the past year that met DSM-IV criteria4 (excluding developmental and substance use disorders).
+ Adults were defined as having SMI if they had any mental, behavioral, or emotional disorder that substantially interfered with or limited one or more major life activities.7 Adult respondents were also asked whether they had thought seriously about trying to kill themselves at any time during the past 12 months; those who reported having had serious thoughts of suicide were then asked whether, in the past 12 months, they had made any plans to kill themselves and whether they had tried to kill themselves.
+ In 2013, an estimated 43.8 million adults aged 18 or older in the United States had AMI in the past year.
+ This represents nearly one in five adults in this country (18.5 percent of all adults) (Figure 3).
+ There were an estimated 10.0 million adults aged 18 or older with SMI in the past year.
+ This represented 4.2 percent of all adults in this country.
+ An estimated 9.3 million adults (3.9 percent) aged 18 or older in 2013 had serious thoughts of suicide in the past year.
+ In 2013, 2.7 million adults aged 18 or older (1.1 percent) made suicide plans in the past year, and 1.3 million adults (0.6 percent) attempted suicide in the past year (Table 3).
+ Figure 3.
+ Mental health issues in the past year among adolescents aged 12 to 17 and adults aged 18 or older: 2013       Figure 3 Table.
+ Mental health issues in the past year among adolescents aged 12 to 17 and adults aged 18 or older: 2013   Age Mental Health Issue Percent Number(in millions)     Aged 12 to 17 Major depressive episode 10.7%   2.6   Major depressive episode with severe impairment   7.7%   1.9   Aged 18 or older Any mental illness 18.5% 43.8   Serious mental illness   4.2% 10.0       Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health (NSDUH), 2013.
+ Table 3.
+ Suicidal thoughts and behavior in the past year among adults aged 18 or older: 2013   Type of suicidalthoughts or behavior Number(in millions) Percent     Serious thoughts of suicide 9.3 3.9%   Made suicide plan 2.7 1.1%   Attempted suicide 1.3 0.6%       Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health (NSDUH), 2013.
+ Mental Health Care  NSDUH includes questions that ask respondents if they received help for their mental health issues.
+ Adolescents who have MDE are asked about receipt of treatment for depression, which is defined as seeing or talking to a medical doctor or other professional or using prescription medication for depression in the past year.
+ All adult respondents are asked whether they received treatment or counseling for any problem with emotions, "nerves," or mental health in any inpatient or outpatient setting or whether they used prescription medication in the past year.
+ These questions excluded treatment for the use of alcohol or illicit drugs.
+ Of the 2.6 million adolescents in 2013 with past year MDE, 977,000 received treatment for depression (Figure 4).
+ This represented 38.1 percent of adolescents with past year MDE.
+ Among adolescents in 2013 who had past year MDE with severe impairment in carrying out responsibilities, 45.0 percent (832,000) received treatment for depression.
+ In 2013, 34.6 million adults aged 18 or older (14.6 percent of the population aged 18 or older) received mental health care during the past 12 months (data not shown).
+ Figure 4.
+ Treatment for depression in the past year among adolescents aged 12 to 17 with major depressive episode (MDE): 2013       Figure 4 Table.
+ Treatment for depression in the past year among adolescents aged 12 to 17 with major depressive episode (MDE): 2013   Past Year Treatment Percent Number     Major depressive episode 38.1% 977,000   Major depressive episode with severe impairment 45.0% 832,000       Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health (NSDUH), 2013.
+ Co-occurring Substance Use Disorders and Mental Health Issues among Adolescents and Adults  Individuals with both SUD and a mental health issue are defined as having a co-occurring mental health issue and SUD.
+ This section presents estimates of past year co-occurring SUD and MDE among adolescents aged 12 to 17.
+ It also includes estimates of past year co-occurring SUD and mental health issues among adults aged 18 or older.
+ In 2013, 1.4 percent of adolescents aged 12 to 17 (359,000 adolescents) in the United States had both SUD and MDE in the past year (Figure 5).
+ In 2013, 3.2 percent of all adults aged 18 or older (7.7 million adults) had both SUD and AMI.
+ In 2013, 1.0 percent of all adults aged 18 or older (2.3 million adults) had co-occuring SUD and SMI.
+ Figure 5.
+ Co-occurring substance use disorder (SUD) and mental issues among adolescents aged 12 to 17 and adults aged 18 or older: 2013       Figure 5 Table.
+ Co-occurring substance use disorder (SUD) and mental issues among adolescents aged 12 to 17 and adults aged 18 or older: 2013   Age SUD and Mental Issue Percent Number     Aged 12 to 17 SUD and major depressive episode 1.4%    359,000   Aged 18 or older SUD and any mental illness 3.2% 7.7 million   SUD and serious mental illness 1.0% 2.3 million       Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health (NSDUH), 2013.
+ Discussion  As recovery support is part of SAMHSA's strategic initiatives, it is essential to SAMHSA's mission to understand the magnitude of substance use and mental health issues in the United States.
+ This report indicates that in 2013, an estimated 24.6 million Americans aged 12 or older were current illicit drug users, 60.1 million were binge alcohol users, and 21.6 million had a past year SUD.
+ An estimated 43.8 million adults aged 18 or older had AMI in the past year, and 10.0 million had SMI.
+ An estimated 2.6 million adolescents aged 12 to 17 had MDE during the past year, including 1.9 million who had past year MDE with severe impairment.
+ For many, behavioral health treatment is an important component of recovery and is one of multiple strategies to facilitate recovery.8,9 Treatment or counseling can also decrease risk of relapse and promote recovery and remission of mental disorders.10 According to 2013 NSDUH data, 34.6 million adults aged 18 or older received treatment or counseling for mental health issues during the past 12 months.
+ With regards to adolescents, 38.1 percent of adolescents with a past year MDE and 45.0 percent of those who had MDE with severe impairment received treatment or counseling for depression.
+ Also, 22.7 million individuals aged 12 or older needed treatment for an illicit drug or alcohol use problem.
+ However, 20.2 million individuals in this group did not receive treatment at a specialty facility in the past year.
+ Based on combined 2010 to 2013 NSDUH data, individuals who felt the need for substance use treatment but did not receive it despite making an effort to obtain treatment reported they did not receive treatment because they did not have health coverage and could not afford cost (37.3 percent) or they were not ready to stop using (24.5 percent).
+ Resources to help parents, teachers, and caregivers recognize the signs and symptoms of mental health issues and locate mental health services are available from http://www.mentalhealth.gov/.
+ Information on locating substance use treatment is available from http://findtreatment.samhsa.gov/TreatmentLocator/faces/quickSearch.jspx.
+ Resources and information on the societal benefits of prevention, treatment, and recovery for mental health issues and substance use disorders is also available on SAMHSA's Recovery Month Web site: http://www.recoverymonth.gov/.
+ End Notes  1 Mathers, C., Fat, D. M., &amp; Boerma, J.
+ (2008).
+ The global burden of disease: 2004 update.
+ Geneva, Switzerland: World Health Organization.
+ 2 NSDUH defines dependence on or abuse of alcohol or illicit drugs using criteria in the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), which include such symptoms as withdrawal, tolerance, use in dangerous situations, trouble with the law, and interference with major obligations at work, school, or home during the past year.
+ For details, see American Psychiatric Association.
+ (1994).
+ Diagnostic and statistical manual of mental disorders (4th ed.).
+ Washington, DC: Author.
+ 3 Substance use treatment at a specialty facility is defined as treatment received at drug or alcohol rehabilitation facilities (inpatient or outpatient), hospitals (inpatient services only), and mental health centers; it excludes treatment received in an emergency room, private doctor's office, self-help group, prison or jail, or hospital as an outpatient.
+ 4 See End Note 2 for reference to American Psychiatric Association (1994).
+ 5 Because respondents could give multiple reasons for not receiving treatment, percentages may add to more than 100 percent.
+ 6 Adolescents were first asked about having an MDE in their lifetime, including whether they had at least five of nine symptoms in the same 2-week period in their lifetime; at least one of the symptoms needed to be having a depressed mood or loss of interest or pleasure in daily activities.
+ Those who had lifetime MDE were asked if they had a period of time in the past 12 months when they felt depressed or lost interest or pleasure in daily activities for 2 weeks or longer, and they reported that they had some of their other lifetime MDE symptoms in the past 12 months.
+ These adolescents were defined as having past year MDE.
+ 7 In order to generate estimates of AMI and SMI in the United States, SAMHSA designed and implemented the Mental Health Surveillance Study (MHSS).
+ Over the 5-year period from 2008 to 2012, a subsample of adults was selected from the main study to participate in a follow-up telephone interview that obtained a detailed mental health assessment administered by trained mental health clinicians.
+ The MHSS interview uses the Structured Clinical Interview for DSM-IV-TR Axis I Disorders, Research Version, Non-patient Edition (SCID-I/NP) (First, Spitzer, Gibbon, &amp; Williams, 2002).
+ A prediction model created from clinical interview data that were collected from 2008 to 2012 was applied to data from the 2008 to 2013 NSDUH to produce estimates of AMI for the entire NSDUH adult sample in these years.
+ First, M.B., Spitzer, R.L., Gibbon, M., &amp; Williams, J.B.W.
+ (2002).
+ Structured Clinical Interview for DSM-IV-TR Axis I Disorders, Research Version, Non-patient Edition (SCID/NP).
+ New York, NY: New York State Psychiatric Institute, Biometrics Research.
+ 8 Substance Abuse and Mental Health Services Administration.
+ (2012).
+ SAMHSA's working definition of recovery.
+ Retrieved from http://store.samhsa.gov/product/SAMHSA-s-Working-Definition-of-Recovery/PEP12-RECDEF 9 Gagne, C., White, W., &amp; Anthony, W. A.
+ (2007).
+ Recovery: A common vision for the fields of mental health and addictions.
+ Psychiatric Rehabilitation Journal, 31(1), 32-37.
+ 10 Emsley, R., Chiliza, B., Asmal, L., &amp; Lehloenya, K. (2011).
+ The concepts of remission and recovery in schizophrenia.
+ Current Opinions in Psychiatry, 24(2), 114-121.
+ Suggested Citation  Substance Abuse and Mental Health Services Administration, Center for Behavioral Health Statistics and Quality.
+ (September 4, 2014).
+ The NSDUH Report: Substance Use and Mental Health Estimates from the 2013 National Survey on Drug Use and Health: Overview of Findings.
+ Rockville, MD.
+ The Substance Abuse and Mental Health Services Administration (SAMHSA) is the agency within the U.S. Department of Health and Human Services that leads public health efforts to advance the behavioral health of the nation.
+ SAMHSA's mission is to reduce the impact of substance abuse and mental illness on America's communities.
+ The National Survey on Drug Use and Health (NSDUH) is an annual survey sponsored by the Substance Abuse and Mental Health Services Administration (SAMHSA).
+ The 2013 data used in this report are based on information obtained from 67,838 individuals aged 12 or older, including 22,494 adolescents aged 12 to 17 and 45,344 adults aged 18 or older.
+ The combined 2010 to 2013 data are based on information obtained from 274,060 individuals aged 12 or older.
+ The survey collects data by administering questionnaires to a representative sample of the population through face-to-face interviews at their place of residence.
+ The NSDUH Report is prepared by the Center for Behavioral Health Statistics and Quality (CBHSQ), SAMHSA, and by RTI International in Research Triangle Park, North Carolina.
+ (RTI International is a trade name of Research Triangle Institute.)
+ Information on the most recent NSDUH is available in the following publication:  Center for Behavioral Health Statistics and Quality.
+ (2014).
+ Results from the 2013 National Survey on Drug Use and Health: Summary of national findings (HHS Publication No.
+ 14-4863, NSDUH Series H-48).
+ Rockville MD: Substance Abuse and Mental Health Services Administration.
+ Also available online: http://www.samhsa.gov/data/.
+ NSDUH_200

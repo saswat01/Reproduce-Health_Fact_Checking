@@ -1,0 +1,23 @@
+2, 2017It is important for users of UCR data to remember that the FBI’s primary objective is to generate a reliable set of crime statistics for use in law enforcement administration, operation, and management, as the data has become a social indicator for monitoring and evaluating policies as well as regulating staffing levels.
+ The FBI provides alphabetical tabulations of states, metropolitan statistical areas, cities, metropolitan and nonmetropolitan counties, colleges and universities, and state, tribal, and other agencies.
+ Steve FischerFBI Spokesman  Stephen G. Fischer Jr.Chief - Multimedia ProductionsFBI - CJIS DivisionFrom: Selby, Gardner (CMG-Austin)Sent: Tuesday, August 15, 2017 5:08 PMTo: Fischer, Stephen G. (CJIS) (FBI)Subject: Fresh query Thanks.
+ From the FBI, I pulled down MSA crime-rate figures for 2015 and wanted to double-check that the crime rates listed are for the MSAs and not each region’s largest city alone.
+ ?
+ g.8:08 a.m.Aug.
+ 16, 2017Correct, the rates are for the MSA, not the largest agency.
+ Stephen G. Fischer Jr.Chief - Multimedia ProductionsFBI - CJIS Division From: Selby, Gardner (CMG-Austin) Sent: Wednesday, August 16, 2017 11:09 AMTo: Fischer, Stephen G. (CJIS) (FBI)Subject: RE: Fresh query Thanks.
+ I just left a phone message because the methodology elaboration posted here isn’t explicit about the rates speaking to the MSAs.
+ Also, I tried to compute the violent crime rate for the Beaumont MSA by way of example and, drawing from the chart data, couldn’t reach the figure presented.
+ g.11:21 a.m.I'm not the one to speak to as I know just enough about UCR to be dangerous.
+ I'll ask my UCR sensei, Loretta Simmons, to give you a call.
+ Stephen G. Fischer Jr.Chief - Multimedia ProductionsFBI - CJIS Division12:43 p.m.See below.............Loretta asked me to send this to you first to see if it will help.
+ Stephen G. Fischer Jr.Chief - Multimedia ProductionsFBI - CJIS Division... Table 6           Crime in the United Statesby Metropolitan Statistical Area, 2015          Metropolitan Statistical AreaCounties/principal citiesPopulationViolentcrimeMurder andnonnegligentmanslaughterRape1RobberyAggravatedassaultPropertycrimeBurglaryLarceny-theftMotorvehicletheftBeaumont-Port Arthur, TX M.S.A.406,743Includes Hardin, Jefferson, Newton, and Orange CountiesCity of Beaumont117,6351,08816922986824,8401,2953,308237City of Port Arthur54,557328527852112,4347941,518122Total area actually reporting99.9%2,123281734921,43011,4493,1857,579685Estimated total100.0%2,124281734921,43111,4623,1877,589686Rate per 100,000 inhabitants522.26.942.5121.0351.82,818.0783.51,865.8168.7   Individuals using FBI UCR Program tabulations are cautioned against drawing conclusions by making direct comparisons between cities.
+ Comparisons lead to simplistic and/or incomplete analyses that often create misleading perceptions adversely affecting communities and their residents.
+ Valid assessments are possible only with careful study and analysis of the range of unique conditions affecting each local law enforcement jurisdiction.
+ It is important to remember that crime is a social problem and, therefore, a concern of the entire community.
+ The efforts of law enforcement are limited to factors within its control.
+ Crime rates are indicators of reported crime activity standardized by population.
+ They are more refined indicators for comparative purposes than are volume figures.
+ A crime rate, defined as the number of offenses per 100,000 population, is derived by first dividing a jurisdiction’s population by 100,000 and then dividing the number of offenses by the resulting figure.
+ :MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(Sa)return/WebKit\/(\S+)/.exec(a);if(Oa)return/(?
+ :Version)[ \/]?

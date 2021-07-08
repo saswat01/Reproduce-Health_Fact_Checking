@@ -1,0 +1,49 @@
+Celebrate Journalism with Us 				          Donate   The Craig Newmark Center IFCN MediaWise NewsU PolitiFact       Login | Register                            			     	November 7, 2020		     	                                 News  Reporting &amp; Editing Fact-Checking Ethics &amp; Trust Tech &amp; Tools Business &amp; Work Locally Educators &amp; Students   Training  E-Learning NewsU Custom Training On Poynt Regional Programs Webinars In-Person Training For ACES Members For Educators   Ethics &amp; Leadership  Ethics &amp; Trust What We Do Connect   Fact-Checking  IFCN Code of Principles FactChat CoronaVirusFacts Alliance CoronaVirusFacts Database Teen Fact-Checking Network PolitiFact   Media Literacy  MediaWise For Gen Z Voter Project (#MVP) For Seniors MediaWise Resources MediaWise Ambassadors MediaWise in the News   Events                                           Login | Register          News Training Ethics &amp; Leadership Fact-Checking Media Literacy Events The Craig Newmark Center IFCN MediaWise NewsU PolitiFact Donate   Media News Reporting &amp; Editing Fact-Checking Ethics &amp; Trust Tech &amp; Tools Business &amp; Work Locally Educators &amp; Students   Training Home E-Learning NewsU Custom Training On Poynt Regional Programs Webinars In-Person Training For ACES Members For Educators   Ethics &amp; Leadership Ethics &amp; Trust Articles What We Do Connect   Fact-Checking Articles IFCN Code of Principles FactChat CoronaVirusFacts Alliance CoronaVirusFacts Database Teen Fact-Checking Network PolitiFact   MediaWise For Gen Z Voter Project (#MVP) For Seniors MediaWise Resources MediaWise Ambassadors MediaWise in the News             Home   Fact-Checking  The future of the deepfake — and what it means for fact-checkers             Fact-Checking      						The future of the deepfake — and what it means for fact-checkers					             This image made from video of a fake video featuring former President Barack Obama shows elements of facial mapping used in new technology that lets anyone make videos of real people appearing to say things they've never said.
+ There is rising concern that U.S. adversaries will use new technology to make authentic-looking videos to influence political campaigns or jeopardize national security.
+ As tactics of spreading disinformation are exposed and countered, perpetrators continuously innovate new ways of distributing falsehoods and distorted narratives.
+ Fact-checkers must contend with finding efficient ways of verifying information in the present, while actively preparing for the information environment of the future.
+ In this vein, “deepfakes” — the use of recent breakthroughs in artificial intelligence to create believable fakes in images, audio, and video — have raised concerns throughout the past year.
+ This has been driven in part by a number of striking demonstrations that illustrate just how far the technology has come, from unsettling reproductions of presidential voices and the substitution of faces to create fake porn to the seamless deletion of objects in video.
+ Policymakers and researchers, in turn, have worried that this technology will be applied to manipulate political discourse and for other harmful purposes.
+ The editing of images and video for deceptive effect is nothing new, of course.
+ Doctored images and video have a long history of being shared and believed, and deepfakes only offers a new route by which to engage in an old method of deceit.
+ On that count, the potential threat posed by deepfakes is less around introducing a new kind of disinformation, and more around influencing quality and cost.
+ Deepfakes seem to offer would-be creators of disinformation access to Hollywood-level movie magic without needing the massive resources or staff of a professional special effects team.
+ So, the relevant questions for the fact-checking community are: How will deepfake techniques be used?
+ By whom and when?
+ Predicting the future is always challenging, but we have a few hints of where things may be going based on how the research around these technologies is progressing.
+ For one, it is worth noting that the prerequisites to create a highly believable deepfakes still remains relatively high.
+ Machine learning, the subfield of artificial intelligence which has driven much of the latest advances in the technology, relies on large amounts of data with which to “train” the system.
+ Imitating Obama’s facial movements requires lots of existing video of Obama’s face.
+ Simulating Donald Trump’s voice requires lots of audio of Donald Trump speaking.
+ The more data similar to what is being faked, the better.
+ RELATED ARTICLE: We tried to create a deepfake of Mark Zuckerberg and Alex Jones  and failed.
+ Here’s what happened.
+ This means that deepfakes are likely to make an appearance in circumstances where a significant amount of data of the person or thing to be faked is available.
+ Public figures may be more “fakeable” through this method than private ones.
+ Visually routine situations, like a press conference, are more likely to be faked than entirely novel ones.
+ Beyond data, there are additional requirements.
+ Machine learning is a computationally intensive process — you need lots of computers in order to pull it off in a reasonable timeframe.
+ Creating a customized, high-fidelity deepfake also requires specialized machine learning expertise.
+ At the time of writing, it is still far from being a technology that anyone can easily pick up and use.
+ The upshot of all this is that we are not likely to be awash in deepfakes anytime soon.
+ This technology will remain, for the near-term, a narrow technique likely to be leveraged by states and other well-resourced actors.
+ That’s particularly true in a world where there are significantly cheaper and equally effective means of spreading disinformation.
+ Simply taking an existing image and asserting that it is something that it is not, for instance, might achieve the same impact as a deepfake with none of the hurdles of data, computing power and expertise.
+ Crude, rough-and-ready deception will remain the norm.
+ Finally, it is also worth noting that while machine learning might generate strikingly realistic video and audio, it still relies on fallible humans to create believable context.
+ Machine learning cannot yet write a believable script for a fake Donald Trump, nor magically stage the video in a likely time and place.
+ This means that while deepfakes might render certain fact-checking techniques that look at the doctoring of media less effective, it still remains vulnerable to investigative work that looks at context.
+ Finding eyewitnesses, looking for inconsistencies, and assessing corroborating facts have been core to the work of fact-checking, and will remain the key tool even in a world of deepfakes.
+ Read the rest of our predictions   Support high-integrity, independent journalism that serves democracy.
+ Make a gift to Poynter today.
+ The Poynter Institute is a nonpartisan, nonprofit organization, and your gift helps us make good journalism better.
+ Donate   		Tags: Fact Checking, The Future of Facts            Tim Hwang  More by Tim Hwang         More News                TFCN Roundup: Did Trump call to stop counts where he leads, but not where Biden does?
+ This week, the Teen Fact Checking Network took on seven claims, focusing hard on the 2020 Presidential Election, President Donald Trump and former Vic   November 6, 2020  Jake Sheridan                The art of the concession speech The most important part isn't if the candidate accepts defeat, one historian found, but if his or her followers do   November 6, 2020  Al Tompkins                Vox.com, working with Decision Desk HQ, was one of the first news outlets to call the election Few outlets have followed, but Vox’s Washington editor said she feels good about the call, which came before 9 a.m. Eastern.
+ November 6, 2020  Ren LaForme                What would it take to send the election to the Supreme Court?
+ Plus, a definition of ballot curing, a psychological look at unifying the U.S., why polling wasn't as bad as you think, and more.
+ November 6, 2020  Al Tompkins                Why a lengthy vote count is a fact-checker’s nightmare This is the November 5, 2020 edition of Factually   November 6, 2020  Harrison Mantas       Back to News                Start your day informed and inspired.
+ Subscribe Get the Poynter newsletter that's right for you.
+ Search Media Jobs Advertise a job 
+ 	Featured Jobs
+    The Job NetworkInteractive Learning Producer (Entry Level) - Saint Petersburg, FLTeaching Project Manager - Saint Petersburg, FLSenior Producer - Saint Petersburg, FL                                          Support responsible news and fact-based information today!

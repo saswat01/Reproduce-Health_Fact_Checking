@@ -1,0 +1,186 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListHHS Author ManuscriptsPMC2951271        Perspect Sex Reprod Health.
+ Author manuscript; available in PMC 2011 Sep 1.Published in final edited form as:Perspect Sex Reprod Health.
+ 2010 Sep; 42(3): 168–175.
+ doi: 10.1363/4216810PMCID: PMC2951271NIHMSID: NIHMS221908PMID: 20887286Parental Consent for Abortion and the Judicial Bypass Option in Arkansas: Effects and CorrelatesTed JoyceAuthor information Copyright and License information DisclaimerAuthor contact: ude.ynuc.hcurab@ecyoj.erodoehtCopyright notice The publisher's final edited version of this article is available at Perspect Sex Reprod HealthSee other articles in PMC that cite the published article.AbstractCONTEXTIn 2005, Arkansas changed its parental notification requirement for minors seeking an abortion to a parental consent law, under which a minor can obtain an abortion without consent after obtaining a judicial waiver.METHODSUsing state Department of Health data on 7,463 abortions among 15–19-year-olds over the period 2001–2007, an analysis of abortion and second-trimester abortion rates among Arkansas minors relative to rates among older teenagers evaluated the influence of the 2005 change in the law.
+ Linear and logistic regression analyses estimated the changes in rates among different age-groups, and assessed the likelihood of minors’ using the bypass procedure or having a second-trimester abortion.RESULTSNo association was found between the change in the law and either the abortion rate or the second-trimester abortion rate among minors in the state.
+ Ten percent of all abortions among minors were obtained through the judicial bypass procedure, and minors aged 15 or younger who had an abortion were less likely than those aged 17 to get a waiver (odds ratio, 0.2).
+ Minors who used the bypass option were less likely than those who obtained parental consent to have a second-trimester abortion (0.5), and they terminated the pregnancy 1.1 weeks earlier, on average, than did minors who had gotten such consent.CONCLUSIONSStates that convert a parental notification statute to a parental consent statute are unlikely to experience a decrease in abortions among minors.Almost all states in the middle and southern parts of the United States require that before a physician performs an abortion on a minor, he or she must notify or obtain consent from at least one of the minor’s parents (Figure 1).1 In some states—Florida, for example—minors who want to obtain an abortion without parental involvement must travel hundreds of miles to a state that does not have one of these restrictive laws.
+ The implications of this legal environment on the reproductive outcomes of minors are not well understood.
+ Most research on parental involvement laws pertains to an earlier period, when interstate travel by minors to avoid compliance with a law was more common.2 Studies that used data on abortion by state of occurrence often found that implementation of parental involvement laws was associated with substantial decreases in teenage abortion rates.3–6 The few studies that were able to measure abortion by minors’ state of residence generally showed a small, if any, association.7–9 In a series of studies, researchers analyzed a parental involvement law under circumstances consistent with the current distribution of laws: Implementation of the Texas parental notification law in 2000 was associated with a decline in abortion rates, a rise in birthrates and an elevated likelihood of minors’ obtaining an abortion after 12 weeks’ gestation.10–12Open in a separate windowFIGURE 1Parental involvement laws regarding minors’ access to abortion in the United States, 2009Although the national map of parental involvement laws is unlikely to change appreciably in the near future, since 2003, four states—Arizona, Arkansas, Texas and Virginia—have converted their parental notification statutes to laws that require parental consent.
+ *1,13 Such changes are motivated by a belief that a notice requirement is easier to circumvent than a consent statute, and that a stricter law will lead to fewer abortions.
+ As Texas State Representative Phil King, who sponsored the change in his state, commented, “I think it will do what [parental notification] intended to do by bringing parents into the decision-making process, and when that happens, we’ll see a reduction in abortion and in teenage pregnancy.”14Despite this belief by some politicians, only three studies have analyzed whether laws that require parental consent have a greater impact on the behavior of minors than laws that require parental notification, and they report widely disparate estimates and have major methodological weaknesses.6,15,16 Tomal analyzed county-level rates of abortions and births among minors and older teenagers in 11 states in 1995, and found that parental notification laws had a stronger negative association with minors’ abortion rate than did parental consent laws.15 Moreover, both types of law were associated with the abortion rates and birthrates of adolescents aged 18–19, which calls into question the association with minors’ rates.
+ Medoff analyzed minors’ abortion rates—which he defined as abortions per 1,000 pregnancies—from 50 states at three points in time (1982, 1992 and 2000).16 Like Tomal, he found that notification laws were associated with a greater decline in abortions for minors than were parental consent laws.
+ However, it is extremely difficult to distinguish ongoing trends in abortion rates from the influence of changes in the law that may have occurred 8–10 years earlier.
+ Finally, New used a pool time-series cross section of state abortion rates from 1985 to 1999 based on the states that reported abortion to the Centers for Disease Control and Prevention.6 He found that parental consent laws were associated with substantially greater declines in minors’ abortion rate than were parental notification requirements.
+ Yet despite the methodological sophistication of his analysis, the results are questionable.
+ Because New examined abortions by state of occurrence, he could not determine whether the negative association represented a real decline in minors’ abortion rate or simply a change in where abortions were performed.
+ Given the inconsistent findings and questionable designs of these studies, whether parental consent laws have a greater influence than notification requirements on the reproductive outcomes of minors remains an open question.Cross-state travel by minors to avoid compliance with a law has become more difficult for those residing in the central and southern parts of the United States.
+ The Texas study, for instance, found little evidence that minors left the state to obtain an abortion in the period after the parental notification law took effect, since most of the surrounding states also enforced a parental involvement law.10 Because of minors’ lack of access to abortion services in states that require parental involvement, the only practical option for those who do not want to involve their parents is to seek a court waiver based on a judge’s assessment of their maturity or whether parental involvement would not be in their best interest.
+ Despite the potential importance of the judicial bypass system, no population-based studies have examined the characteristics of minors who obtain an abortion through a court waiver, or whether minors who use this option terminate later in pregnancy than those whose parents are involved in their abortion decision.
+ Existing data, from surveys at selected abortion clinics or at a referral organization for pregnant minors, describe minors who went to court for a waiver, but three of these four surveys were conducted more than 25 years ago.17–20This study draws on unique data on induced terminations from Arkansas and addresses three questions.
+ First, was the state’s change from a notification statute to a consent statute in 2005 associated with a decrease in the abortion rate and an increase in the rate of second-trimester abortions among minors relative to rates among older teenagers?
+ Analysis of changes in a law within the same state, as opposed to a comparison of the effect of laws in different states, offers a useful way to control for hard-to-measure differences between legal jurisdictions.
+ Second, do minors who obtain an abortion through a court bypass differ in age, race or ethnicity, or other demographic characteristics from minors who obtain parental consent for abortion?
+ Finally, do minors who use a judicial bypass have the abortion later in pregnancy than minors who have parental consent?
+ This study is possible because the Arkansas law requires that all abortion providers report to the state health department whether the minor obtained parental consent or received a judicial waiver of consent for the abortion.
+ This is the first effort to analyze these data.BACKGROUND AND METHODSThe LawOn March 3, 2005, Gov.
+ Mike Huckabee signed into law House Bill 1033, which states that no person may perform an abortion on an unemancipated minor without the written consent of a parent or legal guardian.
+ The note providing parental consent must be notarized if the parent is not present; if the parent is present, a valid photo identification is required.
+ Photocopies of the note and identification must be maintained by the provider for five years.
+ The consent requirement can be waived if a judge determines that the minor is mature or that an abortion without parental consent is in her best interest.
+ Consent can also be waived if the attending physician certifies that a medical emergency exists and there is insufficient time to obtain parental consent.
+ The law amended a parental notification statute that had been in effect since 1989.21Data and AnalysisThe study used de-identified records of abortions performed in Arkansas between 2001 and 2007.
+ These records contain information on age, race and ethnicity, education level, state of residence, previous live births, previous induced abortions and the gestational age of the fetus.
+ Starting in April 2005, the files indicate whether a minor had parental consent or had obtained a waiver of consent through a judicial bypass.
+ The Guttmacher Institute, whose periodic survey of abortion providers is widely considered to have the most complete count of abortions by state, reported that 5,540 abortions were performed in the state in 2000, and 4,710 were performed in 2005.22 The numbers collected by the Arkansas Department of Health and reported to the Centers for Disease Control and Prevention were 5,501 and 4,685, respectively.23,24Data on 7,463 abortions among women aged 15–19 were analyzed to assess changes in abortion and second-trimester abortion rates from 2001 to 2007.
+ Rates per 1,000 women were examined for the age-groups 15–17 (minors) and 18–19 (older teenagers); second-trimester abortions were defined as those performed after 12 weeks’ gestation.
+ Rates among 17-year-olds and 18-year-olds were also compared in an effort to account for the baseline differences and improve the internal validity of the comparison.
+ Population estimates are from the Surveillance Epidemiology and End Result registry.25Linear regression analyses were used to estimate the changes in the annual abortion rate and the rate of second-trimester abortions among minors and older teenagers associated with the shift from a parental notification to a consent statute.
+ Each model included an indicator for age (minors vs. older teenagers, or 17- vs. 18-year-olds), an indicator for the years in which the consent requirement was in effect (2005–2007 vs. 2001–2004), an interaction of minor and the consent indicator, and a linear trend term.
+ The coefficient on the interaction term measured the change in the abortion rate among minors relative to that among older adolescents in the period after parental consent was required relative to before the requirement.Pearson chi-square tests assessed differences between selected characteristics of minors who obtained parental consent and those of minors who obtained the abortion through a judicial bypass.
+ Logistic regressions estimated differences among subgroups of teenagers in the likelihood of having used a judicial bypass and of having had a second-trimester abortion, and linear regressions estimated differences in mean gestation at termination; these models adjusted for teenagers’ background characteristics and the year in which the abortion occurred.RESULTSRate ChangesIf the change from a parental notification to a parental consent requirement is associated with a decline in abortions, then the abortion rate among minors will drop relative to that among older adolescents following implementation of a new law.
+ Arkansas minors’ abortion rate did decline between 2004 and 2005, but so did the rate among 18–19-year-olds (Figure 2).
+ Moreover, these declines appear to be part of downward trends that began in 2001.
+ In addition, the groups showed a similar pattern in abortion rates for 2006 and 2007.Open in a separate windowFIGURE 2Abortion and second-trimester abortion rates among teenagers, by age, Arkansas, 2001–2007If a consent statute is more burdensome than a notice requirement, and if more minors use the judicial bypass procedure as a result, then the rate of second-trimester abortions might increase after a law changes.
+ However, like the abortion rate, the rate of second-trimester abortions declined between 2004 and 2005 among all age-groups.
+ The rate also rose between 2005 and 2006, but the increase was greater among older adolescents than among minors, contrary to expectations.
+ Hence, the consent statute does not appear to have been associated with a differential change in the incidence or timing of abortion among minors.Regression estimates largely confirm the foregoing evidence: The change in the law had no statistically robust association with the incidence or timing of abortion among minors (Table 1).
+ The one exception was that the rate of second-trimester abortions rose 0.59 per 1,000 more among minors than among older adolescents in the period after the consent statute was implemented.
+ However, the coefficient in the model using the natural logarithm of the rate, although not statistically significant, suggests a 3% decline in the rate.
+ In the regression models comparing abortion rates between 17- and 18-year-olds, none of the coefficients were statistically significant.
+ The lack of consistent association suggests that the change from a notification to a consent statute had no effect on either the rate or the timing of abortion among minors.TABLE 1Coefficients from linear regression analyses assessing changes in measures of abortion among teenagers associated with implementation of a parental consent statute, Arkansas, 2001–2007MeasureMinors vs. older teenagers†17- vs.18-year-oldsAll abortionsRate1.59 (−2.13 to 5.32)0.94 (−3.24 to 5.13)Log of rate0.02 (−0.28 to 0.32)0.02 (−0.37 to 0.41)Second-trimester abortionsRate0.59 (0.03–1.16)*0.02 (−0.76 to 0.80)Log of rate−0.03 (−0.46 to 0.41)−0.11 (−0.70 to 0.47)Open in a separate window*p .2.
+ Dennis A, et al.
+ The Impact of Laws Requiring Parental Involvement for Abortion: A Literature Review.
+ New York: Guttmacher Institute; 2009.
+ [accessed Nov. 3, 2009].
+ .
+ [Google Scholar]3.
+ Rogers JL, et al.
+ Impact of the Minnesota parental notification law on abortion and birth.
+ American Journal of Public Health.
+ 1991;81(3):294–298.
+ [PMC free article] [PubMed] [Google Scholar]4.
+ Haas-Wilson D. The impact of state abortion restrictions on minors’ demand for abortions.
+ Journal of Human Resources.
+ 1996;31(1):140–158.
+ [PubMed] [Google Scholar]5.
+ Haas-Wilson D. The economic impact of state restrictions on abortion: parental consent and notification laws and Medicaid funding restrictions.
+ Journal of Policy Analysis and Management.
+ 1993;12(3):498–511.
+ [PubMed] [Google Scholar]6.
+ New MJ.
+ Washington, DC: Family Research Council; 2008.
+ [accessed Oct. 30, 2009].
+ The Effect of Parental Involvement Laws on the Incidence of Abortion Among Minors.
+ .
+ [Google Scholar]7.
+ Ellertson C. Mandatory parental involvement in minors’ abortions: effects of the laws in Minnesota, Missouri, and Indiana, American Journal of Public Health.
+ 1997;87(8):1367–1374.
+ [PMC free article] [PubMed] [Google Scholar]8.
+ Cartoof VG, Klerman LV.
+ Parental consent for abortion: impact of the Massachusetts law.
+ American Journal of Public Health.
+ 1986;76(4):397–400.
+ [PMC free article] [PubMed] [Google Scholar]9.
+ Henshaw SK.
+ The impact of requirements for parental consent on minors’ abortions in Mississippi.
+ Family Planning Perspectives.
+ 1995;27(3):120–122.
+ [PubMed] [Google Scholar]10.
+ Joyce T, Kaestner R, Colman S. Changes in abortions and births and the Texas parental notification law.
+ New England Journal of Medicine.
+ 2006;354(10):1031–1038.
+ [PubMed] [Google Scholar]11.
+ Colman S, Joyce T, Kaestner R. Misclassification bias and the estimated effect of parental involvement laws on adolescents’ reproductive outcomes.
+ American Journal of Public Health.
+ 2008;98(10):1881–1885.
+ [PMC free article] [PubMed] [Google Scholar]12.
+ Colman S, Joyce T. Minors’ behavioral responses to parental involvement laws: delaying abortion until age 18.
+ Perspectives on Sexual and Reproductive Health.
+ 2009;41(4):119–126.
+ [PubMed] [Google Scholar]13.
+ Merz JF, Jackson CA, Klerman JA.
+ A review of abortion policy: legality, Medicaid funding, and parental involvement, 1967–1994.
+ Women’s Rights Law Reporter.
+ 1995;17(1):1–61.
+ [PubMed] [Google Scholar]14.
+ Associated Press.
+ Parental consent urged for abortions: proposal would require girls under 18 to get approval.
+ Houston Chronicle.
+ Feb 182005.
+ [accessed Nov. 3, 2009].
+ .15.
+ Tomal A. Parental involvement laws and minor and non-minor teen abortion and birth rates.
+ Journal of Family and Economic Issues.
+ 1999;20(2):149–162.
+ [Google Scholar]16.
+ Medoff MH.
+ Price restriction and abortion demand.
+ Journal of Family and Economic Issues.
+ 2007;28(4):583–599.
+ [Google Scholar]17.
+ Clary F. Minor women obtaining abortions: a study of parental notification in a metropolitan area.
+ American Journal of Public Health.
+ 1982;72(3):283–285.
+ [PMC free article] [PubMed] [Google Scholar]18.
+ Donovan P. Judging teenagers: how minors fare when they seek court-authorized abortions.
+ Family Planning Perspectives.
+ 1983;15(6):259–267.
+ [PubMed] [Google Scholar]19.
+ Blum RW, Resnick MD, Stark TA.
+ The impact of a parental notification law on adolescent abortion decision-making.
+ American Journal of Public Health.
+ 1987;77(5):619–620.
+ [PMC free article] [PubMed] [Google Scholar]20.
+ Ehrlich JS.
+ Grounded in the reality of their lives: listening to teens who make the abortion decision without involving their parents.
+ Berkeley Women’s Law Journal.
+ 2003;18:61–180.
+ [PubMed] [Google Scholar]21.
+ Arkansas General Assembly, Act 537.
+ 2005.
+ [accessed June 23, 2009].
+ .22.
+ Jones RK, et al.
+ Abortion in the United States: incidence and access to services, 2005.
+ Perspectives on Sexual and Reproductive Health.
+ 2008;40(1):6–16.
+ [PubMed] [Google Scholar]23.
+ Centers for Disease Control and Prevention (CDC) Abortion surveillance—United States.
+ Morbidity and Mortality Weekly Report, 2003.
+ 2000;52:SS-12.
+ [PubMed] [Google Scholar]24.
+ CDC.
+ Abortion surveillance—United States.
+ Morbidity and Mortality Weekly Report, 2008.
+ 2005;57:SS-13.
+ [PubMed] [Google Scholar]25.
+ National Cancer Institute.
+ Single year of age county population estimates.
+ 1969–2007.
+ [accessed Nov. 8, 2009].
+ .26.
+ Henshaw S, Kost K. Parental involvement in minors’ abortion decisions.
+ Family Planning Perspectives.
+ 1992;24(5):196–207.
+ [PubMed] [Google Scholar]27.
+ Guttmacher Institute.
+ US Teenage Pregnancy Statistics: National and State Trends and Trends by Race and Ethnicity.
+ New York: Guttmacher Institute; 2006.
+ [Google Scholar]28.
+ Silverstein H. Girls on the Stand.
+ New York: New York University Press; 2007.
+ [Google Scholar]29.
+ Meyer BD.
+ Natural and quasi-experiments in economics.
+ Journal of Business and Economics Statistics.
+ 1995;13(2):151–161.
+ [Google Scholar]30.
+ Guttmacher Institute.
+ State policies in brief: Parental involvement in minors’ abortions.
+ 2010.
+ [accessed June 23, 2010].
+ .
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact
