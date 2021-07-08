@@ -1,0 +1,52 @@
+Jump to main content        US EPA United States Environmental Protection Agency   Search  Search         IRIS    Contact Us         Ethylene oxideCASRN 75-21-8 | DTXSID0020600   Toxicological Review (PDF) (228 pp, 1.85 M) IRIS Executive Summary (PDF) (9 pp, 207 K)   Background, History, and Other Supporting Documents (including Appendices)            Key IRISValues ChemicalDocuments Other EPAInformation     Noncancer Assessment    Reference Dose for Oral Exposure (RfD) (PDF) (9 pp, 207 K) Not assessed under the IRIS Program.
+ Reference Concentration for Inhalation Exposure (RfC) (PDF) (9 pp, 207 K) Not assessed under the IRIS Program.
+ Cancer Assessment    Weight of Evidence for Cancer (PDF) (9 pp, 207 K) Last Updated: 12/16/2016        WOE Characterization Framework for WOE Characterization     Carcinogenic to humans (Inhalation route)  Guidelines for Carcinogen Risk Assessment (U.S. EPA, 2005)   Basis:  Under the Guidelines for Carcinogen Risk Assessment (U.S. EPA, 2005), ethylene oxide is "carcinogenic to humans" by the inhalation route of exposure, based on (1) strong, but less than conclusive on its own, epidemiological evidence of lymphohematopoietic cancers and breast cancer in EtO exposed workers, (2) extensive evidence of carcinogenicity in laboratory animals, including lymphohematopoietic cancers in rats and mice and mammary carcinomas in mice following inhalation exposure, (3) clear evidence that EtO is genotoxic and sufficient weight of evidence to support a mutagenic mode of action for EtO carcinogenicity, and (4) strong evidence that the key precursor events are anticipated to occur in humans and progress to tumors, including evidence of chromosome damage in humans exposed to EtO.
+ This may be a synopsis of the full weight-of-evidence narrative.
+ Quantitative Estimate of Carcinogenic Risk from Oral Exposure (PDF) (9 pp, 207 K) 
+ 							
+ 								Not Assessed under the IRIS Program.
+ Quantitative Estimate of Carcinogenic Risk from Inhalation Exposure (PDF) (9 pp, 207 K)  Inhalation Unit Risk:
+ 									3 x 10 -3 per µg/m3  Extrapolation Method:
+ 					 					Linear extrapolation.
+ Two-piece linear spline model with knot at 1,600 ppm × days for lymphoid cancer.
+ Two-piece linear spline model with knot at 5,750 ppm × days for breast cancer incidence in females.
+ POD of 1% extra risk was used for both cancer types.
+ Tumor site(s): Reproductive, Immune Tumor type(s): Lymphoid cancer, (female) breast cancer (Steenland et al., 2003, 2004) Note: ADAF -- EPA has concluded that ethylene oxide is carcinogenic by a mutagenic mode of action.
+ Application of age-dependent adjustment factors (ADAFs) to the inhalation unit risk is recommended in combination with appropriate exposure data when assessing risk associated with early-life exposure.
+ Additional EPA toxicity information may be available by visiting the following sites:
+ 	  Human Health Benchmarks for Pesticides (HHBP).
+ This database provides human
+ 		 health benchmarks for pesticides that may be present in drinking water.
+ Office of Pesticide Programs Pesticide Chemical Search.
+ This database provides 
+ 		 links to health effects information and registration status for pesticides.
+ Chemistry Dashboard.
+ This database provides information on chemical structures, experimental and predicted 
+ 	 		physicochemical, and toxicity data.
+ Dec 2016: 
+ 		Evaluation of the Inhalation Carcinogenicity of Ethylene Oxide (Final Report) (Report)  
+ 		Oct 2016: 
+ 		Evaluation of the Inhalation Carcinogenicity of Ethylene Oxide (2016 Interagency Science Discussion Draft) (Report)  
+ 		Aug 2014: 
+ 		Evaluation of the Inhalation Carcinogenicity of Ethylene Oxide (Revised August 2014 External Review Draft) (SAB Review Draft) (Report)  
+ 		Jul 2013: 
+ 		Evaluation of the Inhalation Carcinogenicity of Ethylene Oxide (Revised July 2013 External Review Draft) (Public Comment Draft) (Report)  
+ 		Jul 2011: 
+ 		Evaluation of the Inhalation Carcinogenicity of Ethylene Oxide (2011 Interagency Science Discussion Draft) (Report)  
+ 		Sep 2006: 
+ 		Evaluation of the Carcinogenicity of Ethylene Oxide (2006 External Review Draft) (Report)  
+ 		Jun 1985: 
+ 		Health Assessment Document for Ethylene Oxide (Report)  
+ 		Apr 1984: 
+ 		Health Assessment Document for Ethylene Oxide (External Review Draft) (Report)     
+ 	$( "#tabs" ).tabs();
+ 	$("#tabs ul").removeClass("ui-widget-header");
+ 	 You will need Adobe Reader to view some of the files on this page.
+ See EPA’s PDF page to learn more.
+ Related Links   EPA Chemicals Dashboard - Ethylene oxide       Tumor Sites    Immune    Reproductive 
+ 				
+ 				       Chemical Structure forEthylene oxide        Synonyms   AETHYLENOXID (GERMAN) AI3-26263 ALPHA,BETA-OXIDOETHANE ANPROLENE Amprolene  more synonyms         Synonyms  AETHYLENOXID (GERMAN) AI3-26263 ALPHA,BETA-OXIDOETHANE ANPROLENE Amprolene Anproline Caswell no 443 DIHYDROOXIRENE DIMETHYLENE OXIDE E O ENT-26263 EPA pesticide chemical code 042301 ETO ETYLENU TLENEK (POLISH) Epoxyethane Ethene oxide Ethox Ethylene Oxide Fema no 2433 NCI-C50088 OXACYCLOPROPANE OXANE OXIDOETHANE OXIRAAN (DUTCH) OXIRAN OXIRANE OXIRENE, DIHYDRO- OXYFUME OXYFUME 12 T-GAS USEPA/OPP Pesticide Code: 042301 1,2-EPOXYETHANE 75-21-8                 Contact Us to ask a question, provide feedback or report a problem.
+ IRIS  IRIS Home About IRIS IRIS Recent Additions IRIS Calendar IRIS Assessments Advanced Search IRIS Program Materials Contact Us         Main menu  Environmental Topics Laws &amp; Regulations About EPA          Discover.
+ Accessibility EPA Administrator Budget &amp; Performance Contracting Grants No FEAR Act Data Privacy and Security    Connect.
+ Data.gov Inspector General Jobs Newsroom Open Government Regulations.gov Subscribe USA.gov White House    Ask.
+ Contact Us Hotlines FOIA Requests Frequent Questions  Follow.

@@ -1,0 +1,325 @@
+Action to Control Cardiovascular Risk in Diabetes (ACCORD)/ACCORD Follow-On Study (ACCORDION) CONSORT Diagram View LargeDownload In the ACCORD study, eligible participants underwent 2 sequential randomizations, the first to intensive vs standard glycemia therapy followed by a second randomization to intensive vs standard blood pressure or lipid treatment in a double 2 × 2 factorial design.
+ In the ACCORD lipid trial, participants were randomized to either fenofibrate or placebo on a background of statin therapy.
+ Following completion of ACCORD, a total of 4644 surviving Lipid trial participants agreed to extended passive (nontreatment) follow-up in ACCORDION.
+ Rates of occurrence of cardiovascular end points during the original study and during extended follow-up were assessed in all study participants with censoring for the last date of follow-up.Figure 2.
+ Kaplan-Meier Analyses of the Primary Outcome, Expanded Macrovascular Outcome, and Death View LargeDownload The cumulative incidence of the primary outcome (nonfatal myocardial infarction, nonfatal stroke, or death from cardiovascular causes) (A), the expanded macrovascular outcome (a combination of the primary outcome plus revascularization or hospitalization for congestive heart failure) (B), and death from any cause (C) or from cardiovascular causes (D) during follow-up.Figure 3.
+ Hazard Ratios for the Primary Outcome in Prespecified Subgroups View LargeDownload The horizontal bars represent 95% confidence intervals, and the vertical dashed line indicates the overall hazard ratio.
+ P values are for tests for interaction.
+ HDL-C indicates high-density lipoprotein and LDL-C indicates low-density lipoprotein cholesterol.To convert the values for cholesterol to millimoles per liter, multiply by 0.02586.
+ To convert the values for triglycerides to millimoles per liter, multiply by 0.0112.
+ Table 1.
+ Comparison of ACCORD Baseline Characteristics Between Those Who Consented for Post-ACCORD Follow-up and Those Who Did Not Consent View LargeDownload Table 2.
+ Prespecified Primary and Secondary Outcomes by Original Treatment Assignment During ACCORDION Extended Follow-up vs During ACCORD Double-Blind Treatment Phase View LargeDownload           Supplement 1.List of ACCORD/ACCORDION Study Group Members.
+ Supplement 2.Trial Protocol.
+ Supplement 3.eTable 1.
+ Comparison of Investigator Reported Outcomes in ACCORD Versus Adjudicated Outcomes Reported by the Endpoints Committee.eTable 2.
+ Comparison of CVD Outcomes in Pre-specified Subgroups Sex and Dyslipidemia in ACCORD and With Addition of Extended Follow-up in ACCORDION.eFigure 1.
+ Lipid Levels By ACCORD Treatment Arm from Randomization through the End of ACCORDION.eFigure 2.
+ Lipid Response to Fenofibrate in Hypertriglyceridemic/Low HDL-C Subgroup vs all others in ACCORD: HDL-C and Triglyceride.eFigure 3.
+ Lipid Response to Fenofibrate in Hypertriglyceridemic/Low HDL-C Subgroup vs all others in ACCORD: LDL-C and Non-HDLC.
+ 1.Almdal
+    T, Scharling
+    H, Jensen
+    JS, Vestergaard
+    H.  The independent effect of type 2 diabetes mellitus on ischemic heart disease, stroke, and death: a population-based study of 13,000 men and women with 20 years of follow-up.
+ Arch Intern Med.
+ 2004;164(13):1422-1426.PubMedGoogle ScholarCrossref 2.Stamler
+    J, Vaccaro
+    O, Neaton
+    JD, Wentworth
+    D.  Diabetes, other risk factors, and 12-yr cardiovascular mortality for men screened in the Multiple Risk Factor Intervention Trial.
+ Diabetes Care.
+ 1993;16(2):434-444.PubMedGoogle ScholarCrossref 3.Haffner
+    SM, Lehto
+    S, Rönnemaa
+    T, Pyörälä
+    K, Laakso
+    M.  Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and without prior myocardial infarction.
+ N Engl J Med.
+ 1998;339(4):229-234.PubMedGoogle ScholarCrossref 4.Miettinen
+    H, Lehto
+    S, Salomaa
+    V, 
+   et al; The FINMONICA Myocardial Infarction Register Study Group.
+ Impact of diabetes on mortality after the first myocardial infarction.
+ Diabetes Care.
+ 1998;21(1):69-75.PubMedGoogle ScholarCrossref 5.Chahil
+    TJ, Ginsberg
+    HN.
+ Diabetic dyslipidemia.
+ Endocrinol Metab Clin North Am.
+ 2006;35(3):491-510, vii-viii.PubMedGoogle ScholarCrossref 6.Turner
+    RC, Millns
+    H, Neil
+    HA, 
+   et al.
+ Risk factors for coronary artery disease in non-insulin dependent diabetes mellitus: United Kingdom Prospective Diabetes Study (UKPDS: 23).
+ BMJ.
+ 1998;316(7134):823-828.PubMedGoogle ScholarCrossref 7.Buse
+    JB, Bigger
+    JT, Byington
+    RP, 
+   et al; ACCORD Study Group.
+ Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial: design and methods.
+ Am J Cardiol.
+ 2007;99(12A):21i-33i.PubMedGoogle ScholarCrossref 8.Miller
+    M, Stone
+    NJ, Ballantyne
+    C, 
+   et al; American Heart Association Clinical Lipidology, Thrombosis, and Prevention Committee of the Council on Nutrition, Physical Activity, and Metabolism; Council on Arteriosclerosis, Thrombosis and Vascular Biology; Council on Cardiovascular Nursing; Council on the Kidney in Cardiovascular Disease.
+ Triglycerides and cardiovascular disease: a scientific statement from the American Heart Association.
+ Circulation.
+ 2011;123(20):2292-2333.PubMedGoogle ScholarCrossref 9.Ginsberg
+    HN, Elam
+    MB, Lovato
+    LC, 
+   et al; ACCORD Study Group.
+ Effects of combination lipid therapy in type 2 diabetes mellitus.
+ N Engl J Med.
+ 2010;362(17):1563-1574.PubMedGoogle ScholarCrossref 10.Gerstein
+    HC, Miller
+    ME, Byington
+    RP, 
+   et al; Action to Control Cardiovascular Risk in Diabetes Study Group.
+ Effects of intensive glucose lowering in type 2 diabetes.
+ N Engl J Med.
+ 2008;358(24):2545-2559.PubMedGoogle ScholarCrossref 11.Cushman
+    WC, Evans
+    GW, Byington
+    RP, 
+   et al; ACCORD Study Group.
+ Effects of intensive blood-pressure control in type 2 diabetes mellitus.
+ N Engl J Med.
+ 2010;362(17):1575-1585.PubMedGoogle ScholarCrossref 12.Gerstein
+    HC, Miller
+    ME, Genuth
+    S, 
+   et al; ACCORD Study Group.
+ Long-term effects of intensive glucose lowering on cardiovascular outcomes.
+ N Engl J Med.
+ 2011;364(9):818-828.PubMedGoogle ScholarCrossref 13.ACCORD Study Group.
+ Nine-year effects of 3.7 years of intensive glycemic control on cardiovascular outcomes.
+ Diabetes Care.
+ 2016;39(5):701-770.
+ PubMedGoogle ScholarCrossref 14.Goff
+    DC
+    Jr, Gerstein
+    HC, Ginsberg
+    HN, 
+   et al; ACCORD Study Group.
+ Prevention of cardiovascular disease in persons with type 2 diabetes mellitus: current knowledge and rationale for the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial.
+ Am J Cardiol.
+ 2007;99(12A):4i-20i.PubMedGoogle ScholarCrossref 15.Ginsberg
+    HN, Bonds
+    DE, Lovato
+    LC, 
+   et al; ACCORD Study Group.
+ Evolution of the lipid trial protocol of the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial.
+ Am J Cardiol.
+ 2007;99(12A):56i-67i.PubMedGoogle ScholarCrossref 16.Harmonised Tripartite Guideline
+    ICH.
+ ICH Harmonised Tripartite Guideline.
+ Statistical principles for clinical trials.
+ International Conference on Harmonisation E9 Expert Working Group.
+ Stat Med.
+ 1999;18(15):1905-1942.PubMedGoogle Scholar17.Grundy
+    SM, Cleeman
+    JI, Merz
+    CN, 
+   et al; National Heart, Lung, and Blood Institute; American College of Cardiology Foundation; American Heart Association.
+ Implications of recent clinical trials for the National Cholesterol Education Program Adult Treatment Panel III guidelines.
+ Circulation.
+ 2004;110(2):227-239.PubMedGoogle ScholarCrossref 18.Chew
+    EY, Ambrosius
+    WT, Davis
+    MD, 
+   et al; ACCORD Study Group; ACCORD Eye Study Group.
+ Effects of medical therapies on retinopathy progression in type 2 diabetes.
+ N Engl J Med.
+ 2010;363(3):233-244.PubMedGoogle ScholarCrossref 19.Resnick
+    HE, Foster
+    GL, Bardsley
+    J, Ratner
+    RE.
+ Achievement of American Diabetes Association clinical practice recommendations among U.S. adults with diabetes, 1999-2002: the National Health and Nutrition Examination Survey.
+ Diabetes Care.
+ 2006;29(3):531-537.PubMedGoogle ScholarCrossref 20.
+ Clofibrate and niacin in coronary heart disease.
+ JAMA.
+ 1975;231(4):360-381.PubMedGoogle ScholarCrossref 21.Rubins
+    HB, Robins
+    SJ, Collins
+    D, 
+   et al; Veterans Affairs High-Density Lipoprotein Cholesterol Intervention Trial Study Group.
+ Gemfibrozil for the secondary prevention of coronary heart disease in men with low levels of high-density lipoprotein cholesterol.
+ N Engl J Med.
+ 1999;341(6):410-418.PubMedGoogle ScholarCrossref 22.Frick
+    MH, Elo
+    O, Haapa
+    K, 
+   et al.
+ Helsinki Heart Study: primary-prevention trial with gemfibrozil in middle-aged men with dyslipidemia.
+ Safety of treatment, changes in risk factors, and incidence of coronary heart disease.
+ N Engl J Med.
+ 1987;317(20):1237-1245.PubMedGoogle ScholarCrossref 23.Bezafibrate Infarction Prevention (BIP) study.
+ Secondary prevention by raising HDL cholesterol and reducing triglycerides in patients with coronary artery disease.
+ Circulation.
+ 2000;102(1):21-27.PubMedGoogle ScholarCrossref 24.Keech
+    A, Simes
+    RJ, Barter
+    P, 
+   et al; FIELD study investigators.
+ Effects of long-term fenofibrate therapy on cardiovascular events in 9795 people with type 2 diabetes mellitus (the FIELD study): randomised controlled trial.
+ Lancet.
+ 2005;366(9500):1849-1861.PubMedGoogle ScholarCrossref 25.Schwartz
+    GG, Olsson
+    AG, Abt
+    M, 
+   et al; dal-OUTCOMES Investigators.
+ Effects of dalcetrapib in patients with a recent acute coronary syndrome.
+ N Engl J Med.
+ 2012;367(22):2089-2099.PubMedGoogle ScholarCrossref 26.Boden
+    WE, Probstfield
+    JL, Anderson
+    T, 
+   et al; AIM-HIGH Investigators.
+ Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy.
+ N Engl J Med.
+ 2011;365(24):2255-2267.PubMedGoogle ScholarCrossref 27.Landray
+    MJ, Haynes
+    R, Hopewell
+    JC, 
+   et al; HPS2-THRIVE Collaborative Group.
+ Effects of extended-release niacin with laropiprant in high-risk patients.
+ N Engl J Med.
+ 2014;371(3):203-212.PubMedGoogle ScholarCrossref 28.Barter
+    PJ, Caulfield
+    M, Eriksson
+    M, 
+   et al; ILLUMINATE Investigators.
+ Effects of torcetrapib in patients at high risk for coronary events.
+ N Engl J Med.
+ 2007;357(21):2109-2122.PubMedGoogle ScholarCrossref 29.Stone
+    NJ, Robinson
+    JG, Lichtenstein
+    AH, 
+   et al; American College of Cardiology/American Heart Association Task Force on Practice Guidelines.
+ 2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.
+ Circulation.
+ 2014;129(25)(suppl 2):S1-S45.PubMedGoogle ScholarCrossref 30.Canner
+    PL, Berge
+    KG, Wenger
+    NK, 
+   et al.
+ Fifteen year mortality in Coronary Drug Project patients: long-term benefit with niacin.
+ J Am Coll Cardiol.
+ 1986;8(6):1245-1255.PubMedGoogle ScholarCrossref 31.Hayward
+    RA, Reaven
+    PD, Wiitala
+    WL, 
+   et al; VADT Investigators.
+ Follow-up of glycemic control and cardiovascular outcomes in type 2 diabetes.
+ N Engl J Med.
+ 2015;372(23):2197-2206.PubMedGoogle ScholarCrossref 32.Holman
+    RR, Paul
+    SK, Bethel
+    MA, Matthews
+    DR, Neil
+    HA.
+ 10-year follow-up of intensive glucose control in type 2 diabetes.
+ N Engl J Med.
+ 2008;359(15):1577-1589.PubMedGoogle ScholarCrossref 33.Scott
+    R, O’Brien
+    R, Fulcher
+    G, 
+   et al; Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) Study Investigators.
+ Diabetes Care.
+ 2009;32(3):493-498.PubMedGoogle ScholarCrossref 34.Manninen
+    V, Elo
+    MO, Frick
+    MH, 
+   et al.
+ Lipid alterations and decline in the incidence of coronary heart disease in the Helsinki Heart Study.
+ JAMA.
+ 1988;260(5):641-651.PubMedGoogle ScholarCrossref 35.Robins
+    SJ, Collins
+    D, Wittes
+    JT, 
+   et al; VA-HIT Study Group.
+ Veterans Affairs High-Density Lipoprotein Intervention Trial.
+ Relation of gemfibrozil treatment and lipid levels with major coronary events: VA-HIT: a randomized controlled trial.
+ JAMA.
+ 2001;285(12):1585-1591.PubMedGoogle ScholarCrossref 36.d’Emden
+    MC, Jenkins
+    AJ, Li
+    L, 
+   et al; FIELD Study Investigators.
+ Favourable effects of fenofibrate on lipids and cardiovascular disease in women with type 2 diabetes: results from the Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study.
+ Diabetologia.
+ 2014;57(11):2296-2303.PubMedGoogle ScholarCrossref 37.Jones
+    PH, Davidson
+    MH.
+ Reporting rate of rhabdomyolysis with fenofibrate + statin versus gemfibrozil + any statin.
+ Am J Cardiol.
+ 2005;95(1):120-122.PubMedGoogle ScholarCrossref 38.Prueksaritanont
+    T, Tang
+    C, Qiu
+    Y, Mu
+    L, Subramanian
+    R, Lin
+    JH.
+ Effects of fibrates on metabolism of statins in human hepatocytes.
+ Drug Metab Dispos.
+ 2002;30(11):1280-1287.PubMedGoogle ScholarCrossref 39.Mychaleckyj
+    JC, Craven
+    T, Nayak
+    U, 
+   et al.
+ Reversibility of fenofibrate therapy-induced renal function impairment in ACCORD type 2 diabetic participants.
+ Diabetes Care.
+ 2012;35(5):1008-1014.PubMedGoogle ScholarCrossref 40.Linz
+    PE, Lovato
+    LC, Byington
+    RP, 
+   et al.
+ Paradoxical reduction in HDL-C with fenofibrate and thiazolidinedione therapy in type 2 diabetes: the ACCORD Lipid Trial.
+ Diabetes Care.
+ 2014;37(3):686-693.PubMedGoogle ScholarCrossref 41.Gerstein
+    HC, Miller
+    ME, Byington
+    RP, 
+   et al; Action to Control Cardiovascular Risk in Diabetes Study Group.
+ Effects of intensive glucose lowering in type 2 diabetes.
+ N Engl J Med.
+ Acid Base, Electrolytes, Fluids Allergy Allergy and Clinical Immunology Anesthesiology Anticoagulation Art of the JAMA Network Bleeding and Transfusion Cardiology Caring for the Critically Ill Patient Challenges in Clinical Electrocardiography Clinical Challenge Clinical Decision Support Clinical Implications of Basic Neuroscience Clinical Pharmacy and Pharmacology Complementary and Alternative Medicine Consensus Statements Coronavirus (COVID19) Critical Care Medicine Dental Medicine Dermatology Diabetes and Endocrinology Drug Development Electronic Health Records Emergency Medicine End of Life Environmental Health Ethics Facial Plastic Surgery Foodborne Illness Gastroenterology and Hepatology Genetics and Genomics Genomics and Precision Health Geriatrics Global Health Guide to Statistics and Medicine Guidelines Hair Disorders Health Care Delivery Models Health Care Economics, Insurance, Payment Health Care Policy Health Care Quality Health Care Reform Health Care Safety Health Care Workforce Health Disparities Health Informatics Health Policy Hematology History of Medicine Humanities Hypertension Images in Neurology Imaging Immunology Implementation Science Infectious Diseases Innovations in Health Care Delivery JAMA Infographic Law and Medicine Leading Change Less is More Lifestyle Behaviors Medical Coding Medical Devices and Equipment Medical Education Medical Education and Training Medical Journals and Publishing Melanoma Mobile Health and Telemedicine Narrative Medicine Nephrology Neurology Neuroscience and Psychiatry Notable Notes Nursing Nutrition Nutrition, Obesity, Exercise Obesity Obstetrics and Gynecology Occupational Health Oncology Ophthalmic Images Ophthalmology Orthopedics Otolaryngology Pain Medicine Pathology and Laboratory Medicine Patient Care Patient Information Pediatrics Performance Improvement Performance Measures Perioperative Care and Consultation Pharmacoeconomics Pharmacoepidemiology Pharmacogenetics Pharmacy and Clinical Pharmacology Physical Medicine and Rehabilitation Physical Therapy Physician Leadership Poetry Population Health Professional Well-being Professionalism Psychiatry Public Health Pulmonary Medicine Radiology Regulatory Agencies Research, Methods, Statistics Resuscitation Rheumatology Scientific Discovery and the Future of Medicine Shared Decision Making and Communication Sleep Medicine Sports Medicine Statistics and Research Methods Stem Cell Transplantation Substance Use and Addiction Surgery Surgical Innovation Surgical Pearls Teachable Moment Technology and Finance The Rational Clinical Examination Tobacco and e-Cigarettes Toxicology Trauma and Injury Treatment Adherence United States Preventive Services Task Force Urology Users' Guide to the Medical Literature Vaccination Venous Thromboembolism Veterans Health Violence Women's Health Workflow and Process Wound Care, Infection, Healing     Save Preferences    Privacy Policy | Terms of Use     
+    Others Also Liked
+                  View Correction     This Issue       Views 13,103    Citations 51           View Metrics       Download PDF     Twitter Facebook More  Email LinkedIn       Cite This   Citation Elam MB, Ginsberg HN, Lovato LC, et al.
+ Association of Fenofibrate Therapy With Long-term Cardiovascular Risk in Statin-Treated Patients With Type 2 Diabetes.
+ JAMA Cardiol.
+ 2017;2(4):370–380.
+ doi:10.1001/jamacardio.2016.4828 Download citation file:  Ris (Zotero) EndNote BibTex Medlars ProCite RefWorks Reference Manager Mendeley  © 2020        Permissions                  Original Investigation   December 28, 2016  Association of Fenofibrate Therapy With Long-term Cardiovascular Risk in Statin-Treated Patients With Type 2 Diabetes   Marshall B. Elam, PhD, MD1; Henry N. Ginsberg, MD2; Laura C. Lovato, MS3; et al Marshall Corson, MD4; Joseph Largay, PA-C5; Lawrence A. Leiter, MD6; Carlos Lopez, MD, MS2; Patrick J. O’Connor, MD, MPH7; Mary Ellen Sweeney, MD8; Daniel Weiss, MD9; William T. Friedewald, MD2; John B. Buse, MD, PhD5; Hertzel C. Gerstein, MD10; Jeffrey Probstfield, MD4; Richard Grimm, MD, PhD11; Faramarz Ismail-Beigi, MD, PhD12; David C. Goff Jr, MD, PhD13; Jerome L. Fleg, MD14; Yves Rosenberg, MD14; Robert P. Byington, PhD3; for the ACCORDION Study Investigators   Author Affiliations Article Information    1Memphis Veterans Affairs Medical Center and University of Tennessee Health Sciences Center, Memphis   2Columbia University College of Physicians and Surgeons, New York, New York   3Wake Forest School of Medicine, Wake Forest, North Carolina   4University of Washington, Seattle   5University of North Carolina, Chapel Hill   6Li Ka Shing Knowledge Institute and Keenan Research Centre for Biomedical Science, St. Michael's Hospital, University of Toronto, Ontario, Canada   7HealthPartners Institute, Minneapolis, Minnesota   8Atlanta Veterans Affairs Medical Center, Atlanta, Georgia   9Diabetes Endocrine Nutrition Group, Mentor, Ohio   10McMaster Medical Center, Hamilton, Ontario, Canada   11Berman Center for Outcomes and Clinical Research, Minneapolis, Minnesota   12Cleveland Veterans Affairs Medical Center, Cleveland, Ohio   13Colorado School of Public Health, Aurora, Colorado   14National Heart, Lung, and Blood Institute, Division of Cardiovascular Sciences, Bethesda, Maryland      JAMA Cardiol.
+ 2017;2(4):370-380. doi:10.1001/jamacardio.2016.4828         visual abstract icon Visual Abstract   editorial comment icon Editorial Comment   related articles icon Related Articles   author interview icon Interviews   multimedia icon Multimedia                 Correction Omitted Sentences in Conclusions and Relevance                       Key PointsQuestion 
+  Does fenofibrate reduce cardiovascular disease risk in statin-treated patients with type 2 diabetes?Findings 
+  In this posttrial follow-up of the Action to Control Cardiovascular Risk in Diabetes Lipid Study, fenofibrate therapy was associated with reduced cardiovascular disease in study participants with dyslipidemia, defined as triglyceride levels greater than 204 mg/dL and high-density lipoprotein cholesterol levels less than 34 mg/dL.Meaning 
+  Extended follow-up of ACCORD-lipid trial participants confirms the original neutral effect of fenofibrate in the overall study cohort; the continued observation of heterogeneity of treatment response by baseline lipids suggests that fenofibrate therapy may reduce CVD in patients with diabetes with hypertriglyceridemia and low high-density lipoprotein cholesterol.
+ Abstract
+          Importance 
+  Patients with type 2 diabetes are at high risk of cardiovascular disease (CVD) in part owing to hypertriglyceridemia and low high-density lipoprotein cholesterol.
+ It is unknown whether adding triglyceride-lowering treatment to statin reduces this risk.Objective 
+  To determine whether fenofibrate reduces CVD risk in statin-treated patients with type 2 diabetes.Design, Setting, and Participants 
+  Posttrial follow-up of the Action to Control Cardiovascular Risk in Diabetes (ACCORD) Lipid Study between July 2009 and October 2014; 5 years of follow-up were completed for a total of 9.7 years at general community and academic outpatient research clinics in the United States and Canada.
+ 'small' : App.isTablet ?
+ 'small' : App.isTablet ?
+ !scmByClass('pg_issue').length || !
+ !scmByClass('pg_newonline').length || !
+ !scmByClass('pg_currentissue').length || !
+ All Rights Reserved.
+ Terms of Use| Privacy Policy| Accessibility Statement          .
+ ×     Sign in to access your subscriptions   Sign in to your personal account 
+ 	     Create a free personal account to download free article PDFs,
+ 		 sign up for alerts, and more     Purchase access Subscribe to the journal Buy this article and get unlimited access and a printable PDF ($30.00) - Sign in or create a free account Rent this article for read-only access ($8.99)     Sign in to download free article PDFs  Sign in to access your subscriptions   Sign in to your personal account 
+ 	     Create a free personal account to download free article PDFs,
+ 		 sign up for alerts, and more        Get free access to newly published articles Create a personal account or sign in to:  Register for email alerts with links to free full-text articles Access PDFs of free articles Manage your interests Save searches and receive search alerts           Sign in to access your subscriptions   Sign in to your personal account 
+              Get free access to newly published articles.
+ Create a personal account to register for email alerts with links to free full-text articles.
+ By continuing to use our site, or clicking "Continue," you are agreeing to our Cookie Policy | Continue

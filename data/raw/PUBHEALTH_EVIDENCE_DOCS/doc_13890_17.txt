@@ -1,0 +1,151 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link        Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People                  Search        × Search NCHS  Search NCHS All CDC    Submit      For a full list of topics: A-Z Index   
+ 					Advanced Search
+ 				    
+ 				Advanced Search
+ 			                 National Center for Health Statistics            Section Navigation         CDC Home                    Facebook Twitter LinkedIn Syndicate                          Increase in Suicide in the United States, 1999–2014     Minus     Related Pages       On This Page  Key findingsSuicide rates increased from 1999 through 2014, with greater annual percent increases after 2006.Suicide rates for females were higher in 2014 than in 1999 for all age groups under 75 years.Suicide rates for males were higher in 2014 than in 1999 for all age groups under 75 years.Percentages of suicides involving firearms and poisoning declined from 1999 through 2014, while suicides involving suffocation increased.SummaryData sources and methodsAbout the authorsReferencesSuggested citation   NCHS Data Brief No.
+ 241, April 2016 Sally C. Curtin, M.A., Margaret Warner, Ph.D., and Holly Hedegaard, M.D., M.S.P.H.
+ Key findings Data from the National Vital Statistics System, Mortality  From 1999 through 2014, the age-adjusted suicide rate in the United States increased 24%, from 10.5 to 13.0 per 100,000 population, with the pace of increase greater after 2006.
+ Suicide rates increased from 1999 through 2014 for both males and females and for all ages 10–74.
+ The percent increase in suicide rates for females was greatest for those aged 10–14, and for males, those aged 45–64.
+ The most frequent suicide method in 2014 for males involved the use of firearms (55.4%), while poisoning was the most frequent method for females (34.1%).
+ Percentages of suicides attributable to suffocation increased for both sexes between 1999 and 2014.
+ Suicide is an important public health issue involving psychological, biological, and societal factors (1,2).
+ After a period of nearly consistent decline in suicide rates in the United States from 1986 through 1999 (3), suicide rates have increased almost steadily from 1999 through 2014.
+ While suicide among adolescents and young adults is increasing and among the leading causes of death for those demographic groups (4), suicide among middle-aged adults is also rising (5).
+ This report presents an overview of suicide mortality in the United States from 1999 through 2014.
+ Suicide rates in 1999 are compared with 2014 for both females and males across age groups, and percentages are compared by method (firearms, poisoning, suffocation, and other means).
+ Keywords: death certificates, underlying cause of death, intentional self-harm, National Vital Statistics System   Suicide rates increased from 1999 through 2014, with greater annual percent increases after 2006.
+ The age-adjusted suicide rate in 2014, 13.0 per 100,000 population, was 24% higher than the rate in 1999 (10.5) (Figure 1).
+ The average annual percent increase in the age-adjusted suicide rate was about 1% per year from 1999 through 2006 but increased to 2% per year from 2006 through 2014.
+ In 2014, the age-adjusted rate for males (20.7) was more than three times that for females (5.8).
+ From 1999 through 2014, the percent increase in the age-adjusted suicide rate was greater for females (45% increase) than males (16% increase), resulting in a narrowing of the gender gap in suicide rates (as measured by rate ratios).
+ The ratio of male to female suicide rates was lower in 2014 (3.6) than in 1999 (4.5).
+ Figure 1.
+ Age-adjusted suicide rates, by sex: United States, 1999–2014 image icon NOTES: Suicide deaths are identified with codes U03, X60–X84, and Y87.0 from the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision.
+ Access data table for Figure 1pdf icon.
+ SOURCE: NCHS, National Vital Statistics System, Mortality.
+ Suicide rates for females were higher in 2014 than in 1999 for all age groups under 75 years.
+ Suicide rates for females were highest for those aged 45–64 in both 1999 (6.0 per 100,000) and 2014 (9.8) (Figure 2).
+ This age group also had the second-largest percent increase (63%) since 1999.
+ Although based on a small number of suicides compared with other age groups (150 in 2014), the suicide rate for females aged 10–14 had the largest percent increase (200%) during the time period, tripling from 0.5 per 100,000 in 1999 to 1.5 in 2014.
+ Percent increases in suicide rates since 1999 for females aged 15–24, 25–44, and 65–74 ranged between 31% and 53%.
+ In contrast to other age groups, the suicide rate for women aged 75 and over decreased by 11% from 1999 through 2014, declining from 4.5 to 4.0 per 100,000.
+ Figure 2.
+ Suicide rates for females, by age: United States, 1999 and 2014 image icon 1Significantly higher than rates for all other age groups (p &lt; 0.05).
+ NOTES: For all age groups, the difference in rates between 1999 and 2014 is significant (p &lt; 0.05).
+ Suicides are identified with codes U03, X60–X84, and Y87.0 from the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision.
+ Access data table for Figure 2pdf icon.
+ SOURCE: NCHS, National Vital Statistics System, Mortality.
+ Suicide rates for males were higher in 2014 than in 1999 for all age groups under 75 years.
+ In both 1999 and 2014, suicide rates were highest among men aged 75 and over (Figure 3).
+ In contrast to other age groups, the suicide rate for this demographic group decreased by 8%, from 42.4 per 100,000 in 1999 to 38.8 in 2014.
+ Men aged 45–64 had the second-highest suicide rate for males in 2014 and the largest percent increase (43%) in rates, increasing from 20.8 in 1999 to 29.7 in 2014.
+ While males aged 10–14 had the lowest suicide rate of all age groups, this group experienced the second-largest percent increase (37%) from 1999 through 2014 (from 1.9 to 2.6).
+ Figure 3.
+ Suicide rates for males, by age: United States, 1999 and 2014 image icon 1Significantly lower than rates for all other age groups (p &lt; 0.05).
+ 2Significantly higher than rates for all other age groups except 75 and over (p &lt; 0.05).
+ 3Significantly higher than rates for all other age groups (p &lt; 0.05).
+ NOTES: For all age groups, the difference in rates between 1999 and 2014 is significant (p &lt; 0.05).
+ Suicides are identified with codes U03, X60–X84, and Y87.0 from the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision.
+ Access data table for Figure 3pdf icon.
+ SOURCE: NCHS, National Vital Statistics System, Mortality.
+ Percentages of suicides involving firearms and poisoning declined from 1999 through 2014, while suicides involving suffocation increased.
+ For both females and males, about one in four suicides in 2014 were attributable to suffocation (includes hanging, strangulation, and suffocation), an increase from 1999, when fewer than one in five were by this method (Figure 4).
+ The percentages of suicides attributable to firearms and poisoning were lower in 2014 than in 1999 for both females and males.
+ Poisoning was the most common method of suicide for females in 2014, accounting for about one-third (34.1%) of all female suicides.
+ This was a change from 1999, when firearms were the most common suicide method for women (36.9%), slightly more likely than poisoning (36.0%).
+ More than one-half of male suicides (55.4%) in 2014 were firearm-related, although the percentage of suicides by this method was lower than in 1999 (61.7%).
+ The most frequent “other” suicide methods in 2014 (not shown separately) for females were falls (2.8%) and drowning (1.4%).
+ For males, the most frequent “other” methods were falls (2.2%) and cutting or piercing (1.9%).
+ Figure 4.
+ Suicide deaths, by method and sex: United States, 1999 and 2014 image icon NOTES: Except for Male-Other, all differences in percentages between 1999 and 2014 were significant at the 0.05 level.
+ Suicide deaths are those with International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD–10) underlying cause-of-death codes U03, X60–84, and Y87.0.
+ Suicide methods are identified with codes X72–X74 for firearm, X60–X69 for poisoning, and X70 for suffocation.
+ “Other” includes: Cut/Pierce; Drowning; Falls; Fire/Flame; Other land transport; Struck by or against; Other specified, classifiable Injury; Other specified, not elsewhere classified Injury; and Unspecified Injury, as classified by ICD–10.
+ Access data table for Figure 4pdf icon.
+ SOURCE: NCHS, National Vital Statistics System, Mortality.
+ Summary Suicide is increasing against the backdrop of generally declining mortality, and is currently one of the 10 leading causes of death overall and within each age group 10–64 (4).
+ This report highlights increases in suicide mortality from 1999 through 2014 and shows that while the rate increased almost steadily over the period, the average annual percent increase was greater for the second half of this period (2006–2014) than for the first half (1999–2006).
+ Increases in suicide rates occurred for both males and females in all but the oldest age group (75 and over).
+ Percent increases in rates were greatest for females aged 10–14 and for males, those aged 45–64.
+ The male-female disparity in suicide rates (as measured by rate ratios) narrowed slightly over the period.
+ Poisoning was the most common suicide method for females in 2014, and firearms were the most frequent for males, but both sexes showed increases since 1999 in the percentage of suicides attributable to suffocation.
+ Suicide numbers and rates for females and males by Hispanic origin and race for 1999 and 2014 are also available.
+ Data sources and methods Mortality and population data are from the Centers for Disease Control and Prevention’s (CDC) National Center for Health Statistics 1999–2014 multiple cause-of-death mortality files (6).
+ Suicide deaths are those classified with the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD–10) underlying cause-of-death codes U03, X60–X84, and Y87.0 (7).
+ Suicide deaths are categorized by method of injury using the following ICD–10 codes: firearm (X72–X74), suffocation (X70), poisoning (X60–X69), and other methods (U03, X71, X75–X84, and Y87.0).
+ Age-adjusted death rates were calculated using the direct method and the 2000 standard population (8).
+ Demographic information comes from death certificates.
+ Population data for 2000 and 2010 are April 1 bridged-race census counts, and for 1999, 2001–2009, and 2011–2014 are July 1 bridged-race estimates from the vintage 2014 postcensal series.
+ Trends in age-adjusted death rates were evaluated using the Joinpoint Regression Program (9).
+ The small number of suicides during 1999–2014 for persons aged 5–9 years (79) were included in the total age-adjusted rates and in the percentages by method.
+ Male-female differences in suicide rates were based on rate ratios calculated as male age-adjusted rate divided by female age-adjusted rate.
+ About the authors Sally C. Curtin and Margaret Warner are with CDC’s National Center for Health Statistics (NCHS), Division of Vital Statistics.
+ Holly Hedegaard is with NCHS’ Office of Analysis and Epidemiology.
+ References   CDC.
+ Preventing suicide.
+ U.S.
+ Surgeon General, National Action Alliance for Suicide Prevention.
+ 2012 National strategy for suicide prevention: Goals and objectives for action.
+ 2012.
+ Hu G, Wilcox HC, Wissow L, Baker SP.
+ Mid-life suicide: an increasing problem in U.S. whites, 1999–2005.
+ Am J Prev Med 37(6):579.
+ 2009.
+ Heron M. Deaths: Leading causes for 2013 pdf icon[PDF – 3 MB].
+ National vital statistics reports; vol 65 no 2.
+ Hyattsville, MD: National Center for Health Statistics.
+ 2016.
+ Hempstead KA, Phillips JA.
+ Rising suicide among adults aged 40–64 years: The role of job and financial circumstances.
+ Am J Prev Med 48(5):491–500.
+ 2015.
+ National Center for Health Statistics.
+ About underlying cause of death, 1999–2014 .
+ CDC WONDERonline database.
+ 2016.  WHO.
+ International statistical classification of diseases and related health problems, tenth revision (ICD–10).
+ 2008 ed.
+ Geneva, Switzerland.
+ 2009.
+ Xu JQ, Murphy SL, Kochanek KD, Bastian BA.
+ Deaths: Final data for 2013 pdf icon[PDF – 10 MB].
+ National vital statistics reports; vol 64 no 2.
+ Hyattsville, MD: National Center for Health Statistics.
+ 2016.
+ National Cancer Institute.
+ Joinpoint Regression Program (Version 3.4.3.)
+ [computer software].
+ 2010.
+ Suggested citation Curtin SC, Warner M, Hedegaard H. Increase in suicide in the United States, 1999–2014.
+ NCHS data brief, no 241.
+ Hyattsville, MD: National Center for Health Statistics.
+ 2016.
+ Copyright information All material appearing in this report is in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated.
+ National Center for Health Statistics Charles J. Rothwell, M.S., M.B.A., Director Nathaniel Schenker, Ph.D., Deputy Director Jennifer H. Madans, Ph.D., Associate Director for Science Division of Vital Statistics Delton Atkinson, M.P.H., M.P.H., P.M.P., Director Hanyu Ni, Ph.D., M.P.H., Associate Director for Science Office of Analysis and Epidemiology Irma E. Arispe, Ph.D., Director Makram Talih, Ph.D., Associate Director for Science    View Page In:pdf icon pdf icon        
+ 						Page last reviewed: April 22, 2016 Content source: 	CDC/National Center for Health Statistics          home Publications and Information Products   Data Briefs Health E-Stats Health, United States Life Tables National Health Statistics Reports  National Vital Statistics Reports expand  NVSR Monthly Provisional Reports    Vital and Health Statistics Series expand  Series 1.
+ Programs and Collection Procedures Series 2.
+ Data Evaluation and Methods Research Series 3.
+ Analytical and Epidemiological Studies Series 4.
+ Documents and Committee Reports Series 5. International Vital and Health Statistics Reports Series 6.
+ Cognition and Survey Measurement Series 10.
+ Data From the National Health Interview Survey Series 11.
+ Data From the National Health Examination Survey, the National Health and Nutrition Examination Surveys, and the Hispanic Health and Nutrition Examination Survey Series 12.
+ Data From Health Records Survey Series 13.
+ Data on Health Resources Utilization Series 14.
+ Data on Health Resources Series 15.
+ Data From Special Surveys Series 16.
+ Compilations of Advance Data From Vital and Health Statistics Series 20.
+ Data on Mortality Series 21.
+ Data on Natality, Marriage, and Divorce Series 22.
+ Data from the National Natality and Mortality Surveys Series 23.
+ Data From the National Survey of Family Growth Series 24.
+ Compilations of Data on Natality, Mortality, Marriage, and Divorce    Other Publications expand  Advance Data From Vital and Health Statistics Healthy People Publications Monthly Vital Statistics Reports Public Health Service Publications  Vital Statistics of the United States expand  Vital Statistics of the United States: 1980-2003 Vital Statistics of the United States: 1965-1979 Vital Statistics of the United States: 1939-1964 Vital Statistics of the United States: 1890-1938 Technical Appendices    Miscellaneous Publications expand  Atlas of United States Mortality   National Conference on Health Statistics National Committee on Vital and Health Statistics Annual Reports Health Survey Research Methods Conference Reports from the National Medical Care Utilization and Expenditure Survey Clearinghouse on Health Indexes Statistical Notes for Health Planners   Bibliographies Available on the NCHS Website Citations for NCHS Publications and Electronic Media Errata List Listservs Ordering Printed Publications     Related Sites   Get E-mail Updates Data Visualization Gallery FastStats NHIS Early Release Program MMWR QuickStats Government Printing Office Bookstore             HAVE QUESTIONS?
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ Cancel Continue

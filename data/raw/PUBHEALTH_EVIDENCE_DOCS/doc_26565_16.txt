@@ -1,0 +1,25 @@
+The Biomedical Advanced Research and Development Authority (BARDA), part of the HHS Office of the Assistant Secretary for Preparedness and Response (ASPR), will support non-clinical studies and a Phase 1 clinical trial of Janssen’s COVID-19 investigational vaccine, Ad26 SARS-CoV-2.
+ This clinical trial will examine the vaccine’s safety in healthy adult volunteers and its ability to induce an immune response in the recipients.
+ The Phase 1 clinical trial is set to begin no later than fall of 2020 with the goal of making COVID-19 vaccine available for emergency use in the United States in early 2021.
+ Janssen began developing its vaccine in February with BARDA support using the same vaccine platform used to develop an investigational vaccine rapidly for Ebola.
+ In parallel to initial clinical evaluation, BARDA also will work with Janssen to accelerate advanced clinical trials, regulatory support, and large-scale manufacturing to produce up to 300 million doses of vaccine in the United States each year.
+ At the same time, BARDA will collaborate with Moderna to prepare now for Phase 2 and 3 clinical trials of a vaccine known as SARS-CoV-2 mRNA-1273, being developed by Moderna and the National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health.
+ These later clinical trials require enrolling hundreds, and potentially thousands of people to determine the investigational vaccine’s safety and effectiveness.
+ BARDA support includes expertise and funding to expand manufacturing in order to produce thousands of doses of the investigational vaccine for these studies.
+ Collaborating on clinical trial preparation now means the later clinical trial phases can begin immediately upon successful completion of the Phase 1 clinical trial currently underway.
+ Working in parallel instead of taking the traditional sequential approach to vaccine development potentially shaves months off the timeline for vaccine development.
+ The Moderna vaccine becomes the latest emergency medical product to transition from the NIAID to BARDA for late-stage development with the ultimate goal of U.S. Food and Drug Administration (FDA) licensure.
+ “Vaccines are essential to saving lives,” said BARDA Director Rick Bright, Ph.D. “Delivering a safe and effective vaccine for a rapidly spreading disease like COVID-19 requires accelerated action with parallel development streams.
+ The rapid progress we are making with industry partners clearly demonstrates a commitment to protecting people at home and abroad.” BARDA and the companies will work with the FDA to streamline the development and regulatory processes in order to make a safe and effective vaccine available as quickly as possible.
+ There are currently no FDA-approved vaccines or treatments for COVID-19.
+ FDA has provided emergency use authorization for 20 diagnotic tests.
+ However, in addition to taking steps to speed vaccine development, last week BARDA also awarded contracts to New York University for obtaining specimens to support medical countermeasure development and to Cue Inc., Luminex, and Vela Diagnostics USA, Inc. to support development of additional COVID-19 diagnostic tests.
+ HHS continues to seek partners for COVID-19 medical countermeasures, and offers multiple ways to submit proposals for potential new products or technologies.
+ About HHS, ASPR, and BARDA HHS works to enhance and protect the health and well-being of all Americans, providing for effective health and human services and fostering advances in medicine, public health, and social services.
+ The mission of ASPR is to save lives and protect Americans from 21st century health security threats.
+ Within ASPR, BARDA invests in the innovation, advanced research and development, acquisition, and manufacturing of medical countermeasures – vaccines, drugs, therapeutics, diagnostic tools, and non-pharmaceutical products needed to combat health security threats.
+ To date, 54 BARDA-supported products have achieved regulatory approval, licensure or clearance.
+ Email         HHS Headquarters U.S. Department of Health &amp; Human Services 						200 Independence Avenue, S.W.
+ It defaults to 1 (100%) 		 *				y - float values to test against, as a decimal 		 *     value of how much of the element's height 		 *     must be visible for the method to return 		 *     true.
+ It defaults to 1 (100%) 		 * 		 * Description: This function determines if an element is within 		 *    the viewport based on the parameters and returns 		 *    a boolean value.
+ Value dependent on ThemeKey module.

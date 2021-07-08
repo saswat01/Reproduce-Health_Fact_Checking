@@ -1,0 +1,309 @@
+2
+ 
+ 
+Census definitions require a person to be counted
+ 
+as an inhabitant of his/her usual place 
+of residence, which is generally construed to mean the place where he/she lives and 
+
+residence.  A household is the person or 
+group of people occupying a housing unit; by 
+definition, the number of occupied housing units is the same as the number of 
+households.  Households refer solely to permanent residents and a housing unit is 
+classified as vacant even when it is continuously o
+ccupied, 
+if 
+all the occupants are 
+temporary residents staying only for a few days, weeks, or months.  
+ 
+ 
+BEBR uses three different data sources to estimate the number of households in Florida.  
+The first is residential building permits, as collected and dis
+tributed by
+ 
+the U.S. 
+Department of Commerce.  The housing inventory in 201
+5
+ 
+for a city or county that issues 
+building permits can be estimated by adding permits issued since 2010 to the units 
+counted in the 2010 census and subtracting units lost to destruction, demolition, or 
+conversion to other uses.  The time lag between the is
+suance of a permit and the 
+completion of a unit is assumed to be three months for single
+-
+family units and fifteen 
+months for multifamily units.  Building permits are not issued for mobile homes, but 
+proxies can be derived from records of shipments to mobil
+e home dealers in Florida.  
+Creating a housing inventory for an entire county requires complete permit data for every 
+permitting agency within the county.  Although such data are not always available, 
+coverage is sufficient in most Florida cities and count
+ies to provide useful information. 
+ 
+ 
+There are no readily available data sources providing comprehensive up
+-
+to
+-
+date 
+information on occupancy rates.  Accurate information can be obtained through special 
+censuses or large sample surveys, but in most instance
+s these methods are too expensive 
+to be feasible.  A common solution is to use the occupancy rates reported in the most 
+recent census.  This is the procedure we follow in most places, but in some places we 
+make adjustments to account for factors reflecting
+ 
+changes in occupancy rates over time 
+(e.g., changes in the seasonal population).
+ 
+ 
+The product of the inventory figure and the occupancy rate provides an estimate of the 
+number of households.  There are several potential problems with this estimate.  Time 
+lags between the issuance of permits and the completion of units may vary from place to 
+place and from year to year.  The proportion of permits resulting in completed units is 
+usually unknown.  Data on demolitions and conversions are incomplete and data on
+ 
+mobile homes must be estimated indirectly.  Reliable estimates of changes in occupancy 
+rates are generally unavailable.  Certificate
+-
+of
+-
+occupancy data can eliminate problems 
+related to completion rates and time lags but not those related to occupancy rate
+s, 
+demolitions, and conversions.  Although these problems limit the usefulness of the data 
+in some places, building permit data often provide reasonably accurate estimates of 
+households.
+ 
+ 
+Our second data source
+ 
+is active residential electric customers.  We
+ 
+collect these data 
+
+constructing a ratio of households to active residential electric customers using data from 
+the most recent census year (e.g., 2010) and multiplying
+ 
+that ratio times the number of 
+ 3
+ 
+ 
+active residential customers in some later year (e.g., 201
+5
+).  This procedure assumes that 
+no changes have occurred in electric company bookkeeping practices or in the proportion 
+of customers who are permanent residents.  Al
+though changes do occur, they are 
+generally fairly small.  In some places we adjust the household/electric customer ratio to 
+account for likely changes in the proportion of housing units occupied by permanent 
+residents.  Previous research on BEBR populatio
+n estimates has shown that household 
+estimates based on electric customer data are
+
+on average
+
+more accurate than those 
+based on building permit data.  
+ 
+ 
+We will 
+continue
+ 
+to
+ 
+use 
+a different type 
+of 
+electric customer data this year
+; namely, data 
+in which lim
+ited use customers 
+are
+ 
+excluded
+. 
+Limited use customers are those us
+ing
+ 
+less 
+than a specified amount of electricity during certain months of the year. We believe these 
+customers represent seasonal or other part
+-
+time residents and excluding them may give a 
+m
+ore accurate measure of permanent residents. These data are not available for all areas 
+of the state
+,
+ 
+but we will
+ 
+consider
+ 
+us
+ing
+ 
+them in conjunction with other data sources in 
+places in which the data are available and appear to be reliable.
+ 
+ 
+We 
+use
+ 
+a thir
+d data source
+ 
+for estimates at the county level:
+ 
+the number of homestead 
+exemptions reported by the Florida Department of Revenue.  Households can be 
+estimated by constructing a ratio of households to exemptions using data from the most 
+recent census year 
+(e.g., 2010) and multiplying that ratio times the number of exemptions 
+in some later year (e.g., 201
+5
+).
+ 
+ 
+An important advantage of these data is that they cover 
+only housing units occupied by permanent residents, thereby excluding the impact of 
+seasonal an
+d other non
+-
+permanent residents.  The primary disadvantage is that the data do 
+not include households occupied by renters or other non
+-
+homeowners.  
+H
+omestead 
+exemption data 
+are not available 
+at the 
+sub
+county level.
+ 
+ 
+Building permit
+, electric customer
+, and 
+homestead exemption data all provide useful 
+information regarding changes in households.  We use our professional judgment to 
+decide which data source(s) to use in each specific county and subcounty area.  In many 
+instances, we use averages of estimates fr
+om two or even all three data sources.  
+ 
+ 
+Persons per Household
+ 
+ 
+The second component of the housing unit method is the average number of persons per 
+
+then leveled off, r
+emaining constant between 1990 and 2000 before rising to 2.48 in 
+2010.  There is a substantial amount of variation among local areas
+ 
+in Florida, with 
+values in 2010 ranging from 2.1 to 3.1 for counties and from less than 1.5 to more than 
+4.0 for subcounty 
+areas.  PPH values have risen over time in some cities and counties and 
+declined in others.  
+ 
+ 
+For each county and subcounty area, we base our PPH estimates on the local PPH value 
+in the most recent census (e.g., 2010), the state
+-
+level change in PPH since 
+that census (as 
+measured by the American Community Survey), and the local change in the mix of 
+single
+-
+family, multifamily, and mobile home units since that census.  
+For this year, we 
+ 4
+ 
+ 
+will also be
+ 
+investigating whether 
+the American Community Survey can prov
+ide 
+guidance regarding changes in PPH at the county level.  
+In some instances, we use 
+indirect indicators of changes in PPH to adjust the estimates (e.g., changes in racial 
+composition).  
+Again, we use our professional judgment to decide which data sources
+ 
+and 
+techniques to use in each county and subcounty area.  
+ 
+ 
+Group 
+Q
+uarters 
+P
+opulation
+ 
+ 
+The household population is calculated as the product of households and PPH.  To obtain 
+an estimate of the total population, we must add an estimate of the group quarte
+rs 
+population.  In most places, we estimate the group quarters population by assuming that it 
+accounts for the same proportion of total population in 201
+5
+ 
+as it did in 2010.  For 
+example, if the group quarters population accounted for 2% of the total popul
+ation in 
+2010, we assume that it accounted for 2% in 201
+5
+.  In places where the group quarters 
+population represents a substantial proportion of the total population, we collect data 
+directly from the administrators of 
+the major
+ 
+group quarters facilit
+ies
+.  Inmates in state 
+and federal institutions are accounted for separately in all local areas; these data are 
+available from the 
+F
+ederal 
+Bureau of Prisons
+, the Florida Department of Corrections, 
+the 
+Florida Department of Veteran Affairs, the Florida Agency 
+for Persons with Disabilities, 
+the Florida Department of Health, the Florida Department of Juvenile Justice 
+and the 
+Florida Department of Children and Families.  The total population estimate is made by 
+adding the estimate of the group quarters population 
+to the estimate of the household 
+population.  
+ 
+ 
+Conclusion
+ 
+ 
+The population estimates produced by BEBR are calculated by multiplying the number of 
+households by the average number of persons per household and adding the number of 
+persons living in group 
+quarters. This methodology is conceptually simple but effective. It 
+utilizes data that are available for all local areas, its components respond rapidly to 
+population movements, and it can be applied systematically and uniformly everywhere in 
+the state. A 
+comparison of population estimates with census results for 1980, 1990, 2000, 
+and 2010 showed the BEBR estimates to be quite accurate
+, especially when compared to 
+other sets of estimates
+. We believe the HU method is the most effective method for making 
+city
+ 
+and county population estimates in Florida and that it produces reliable estimates that 
+provide a solid foundation for budgeting, planning, and analysis. 
+ 
+ 
+ 
+ 
+ 
+ 

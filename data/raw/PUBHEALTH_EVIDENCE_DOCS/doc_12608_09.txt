@@ -1,0 +1,976 @@
+2  National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016
+in its ability to classify the speci˜c drugs. In ICDŒ10, drugs are often grouped into broad categories, making it dif˜cult to identify 
+deaths involving a speci˜c drug. For example, oxycodone and 
+
+morphine are both classi˜ed in the same category of Natural and 
+
+semisynthetic opioid analgesics (ICDŒ10 code T40.2) (5).To better understand the contribution of speci˜c drugs to 
+drug overdose deaths, researchers have turned to the literal 
+
+text on death certi˜cates (6,7). The literal text is the written 
+information provided by the medical certi˜er, usually a medical 
+
+examiner or coroner in the case of drug overdose deaths (8,9), that describes the cause of death as well as other factors or 
+circumstances that contributed to the death. The literal text has been used in other studies to investigate sudden unexplained 
+infant deaths, cancer, and in˚uenza 
+(10Œ13).  The National Center for Health Statistics (NCHS) and the U.S. Food and Drug Administration (FDA) collaboratively developed 
+a method to analyze the death certi˜cate literal text to identify 
+speci˜c drugs involved in deaths. Details of this method are 
+described elsewhere (14). In this report, the method was applied 
+to provide a more in-depth understanding of the national picture 
+of the drugs involved in drug overdose deaths.  This report highlights the ˜ndings for the speci˜c drugs most frequently mentioned as being involved in drug overdose 
+deaths from 2010 through 2014. Methods
+Data source and study population
+This descriptive analysis was conducted using data from 
+NVSSŒM from 2010 through 2014. NVSSŒM contains cause of 
+death, demographic, and geographic information extracted from 
+
+death certi˜cates (15). The study population was limited to U.S. 
+residents with an underlying cause of death of drug overdose 
+(ICDŒ10 codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14). Drug 
+overdose deaths included all intents (i.e., unintentional, suicide, 
+homicide, and undetermined), as there is variation in the intent 
+reported across states 
+(16). This code set limits the deaths to 
+acute intoxication from drugs (i.e., drug overdose) as opposed to 
+chronic exposure leading to death (e.g., liver toxicity) or adverse 
+
+effects experienced from therapeutic or prophylactic dosages of 
+drugs. Use of this code set is consistent with other NCHS and 
+Centers for Disease Control and Prevention publications on drug 
+overdose deaths and facilitates comparability with other analyses 
+using the ICDŒ10-coded data (1Œ4).  NVSSŒM ˜les were linked to electronic ˜les containing literal text data that were also extracted from death certi˜cates 
+(15). Drug mentions (described below) were identi˜ed using 
+the literal text data from three ˜elds of the death certi˜cate: 
+(1) the cause of death from Part I, (2) signi˜cant conditions 
+contributing to death from Part II, and (3) a description of how 
+the injury occurred from Box 43 
+(17). For some deaths, the literal 
+text was uninformative, because 
+(1) the ˜elds only contained 
+information about the status of the investigation (e.g., mentions 
+of ﬁPENDINGﬂ or ﬁUNDER INVESTIGATIONﬂ) or 
+(2) the literal text 
+was not available (i.e., no text in the three literal text ˜elds) (14).Identifying drugs involved 
+For this report, drugs of interest included pharmaceutical and nonpharmaceutical drugs, including speci˜c drugs, classes of drugs, and nonspeci˜c references to exposures to drugs (e.g., 
+words such as ﬁDRUG,ﬂ ﬁMULTIDRUG,ﬂ and ﬁPOLYPHARMACYﬂ). 
+
+Substances that were excluded from consideration as a drug 
+included alcohols (e.g., ethanol and isopropyl alcohol), nicotine, 
+food and food additives (e.g., starch), excipients, gases (e.g., 
+
+helium and carbon monoxide), airborne contaminants (e.g., 
+soot), industrial chemicals (e.g., ethylene glycol), periodic table 
+elements (e.g., lithium and iodine), and substances with no 
+known industrial, pharmaceutical, or abuse application. Mention 
+of alcohol was noted only when the death also included mention 
+of a drug on the death certi˜cate.The method used to characterize the drugs involved in deaths using the literal text was recently developed and is described in a 
+separate companion report (14). This method searches the literal 
+
+text ˜elds for mentions of drugs as well as for terms that provide 
+context about drug involvement. Software programs (referred to 
+as the Drug Mentioned with Involvement [DMI] programs) were 
+developed using SAS Version 9.3 to automate the process 
+(18). The DMI programs automate the identi˜cation of mentions of drugs within the literal text using various search terms. Search 
+
+terms included generic drug names or other variants (e.g., 
+brand names, common usage or street names, abbreviations, 
+metabolites, misspellings, and variants not otherwise speci˜ed 
+
+[NOS]). Search terms were categorized by whether they referred 
+
+to speci˜c drugs (e.g., methadone), classes of drugs (e.g., 
+
+opioids), or exposures NOS (e.g., pharmaceutical). Each search 
+
+term was mapped to a principal variant, usually the generic drug 
+name, thus enabling aggregate counts for all search terms that 
+
+referred to the same drug. The DMI programs also identi˜ed combinations of words adjacent to each search term to provide context, and for the 
+
+purposes of this study, to identify instances when the drug was 
+
+not involved in the death. For example, the phrase ﬁMETHICILLIN 
+RESISTANT STAPHYLOCOCCUS AUREUS INFECTIONﬂ does 
+
+not suggest drug involvement in mortality, but rather a type of 
+
+bacterial infection. Similarly, the phrase ﬁNOT DRUG RELATEDﬂ 
+
+clearly indicates that the death did not involve drugs, even though 
+ﬁDRUGﬂ is mentioned in the phrase. Unless the contextual 
+information indicated otherwise, drugs mentioned in the literal 
+
+text were assumed to be involved in the death. The DMI programs enabled the identi˜cation of concomitant drug mentions (i.e., mentions of multiple drugs involved in the 
+death) as well as the identi˜cation of concomitant mentions of 
+
+drugs and alcohol within the literal text.Analysis
+Results were reported as numbers, percentages, or rates 
+for each drug of interest, referred to as the referent drug. Age-adjusted death rates were calculated using the direct method 
+and the 2000 standard U.S. population (15). Trends in death 
+
+rates and number of deaths were evaluated using the JoinPoint 
+Regression Program (19). Any mention of an average percent 
+
+change (APC) in this report indicates a statistically signi˜cant  National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016 3trend. Comparisons of rates between years were tested for 
+statistical signi˜cance using methods described elsewhere 
+(15). A statement that a given death rate is higher or lower than 
+another rate indicates that the change in rates was statistically 
+signi˜cant at an alpha level of 0.05.Analyses of other drugs involved in death along with the referent drug, referred to as concomitant drugs, were also 
+conducted. Only deaths with at least two speci˜c drugs (i.e., 
+the referent drug and at least one concomitant drug) involved 
+in death were included in these analyses. For deaths with two 
+
+or more speci˜c drugs involved in death, the average number of 
+
+drugs other than the referent drug was calculated.Results
+ From 2010 through 2014, the number of drug overdose deaths per year increased 23%, from 38,329 in 2010 to 47,055 in 2014 (
+Table A
+). During this same 
+time period, the speci˜city 
+of drug information in the literal text ˜elds of the death certi˜cate 
+improved. There was a steady increase in the percentage of drug 
+
+overdose deaths involving at least one speci˜c drug, from 67% 
+in 2010 to 78% in 2014. There was a decline in the percentage 
+
+of deaths involving only a drug class (e.g., ﬁOPIOIDﬂ) but not a 
+speci˜c drug (from 4% of drug overdose deaths in 2010 to 3% in 
+2014). A review of the literal text for these deaths indicated that 
+the mentioned class was either an opioid or opiate (ranging from 
+69% in 2014 to 74% in 2011). There were also steady declines 
+in the percentage of deaths without mention of a speci˜c drug 
+
+or drug class, from 29% of drug overdose deaths in 2010 to 
+19% in 2014. These deaths frequently involved multiple drugs (e.g., mentions of ﬁPO
+LYPHARMACY,ﬂ ﬁMU
+LTIDRUG,ﬂ and ﬁDRUGSﬂ), 
+ranging from 40% in 2010 to 51% in 2014. Drug overd
+ose deaths with mention of at least 
+one specific drug
+Tables BŒE and 
+Figures 1Œ5 present information on the specific drugs involved in the deaths where at least one specific 
+drug was mentioned on the death certificate (Tables 1Œ5). The drug overdose death rate involving any particular drug in any 
+
+particular year should be considered the minimum rate, as there 
+may be additional deaths in which the drug was involved but 
+not speci˜ed in the literal text. Moreover, these results should 
+
+be interpreted in light of the improved reporting of speci˜c 
+drugs in the literal text. For instance, the relative increase in the 
+deaths involving a speci˜c d
+rug over time could re˚ect either 
+improvements in reporting of that speci˜c drug, an increase in 
+
+drug overdose deaths involving that drug, or both. In addition, 
+
+the rankings of the drugs might also be impacted if the reported 
+drugs are distributed in a different way than unreported drugs.  
+Table B shows the ranking of the top 10 drugs involved in drug overdose deaths for each year from 2010 through 2014. 
+
+These top 10 drugs belong to three drug classes: opioids (heroin, 
+oxycodone, methadone, morphine, hydrocodone, and fentanyl), 
+
+benzodiazepines (alprazolam and diazepam), and stimulants 
+
+(cocaine and methamphetamine). While the ranking changed 
+from year to year, the top 10 drugs involved in drug overdose 
+
+deaths remained consistent throughout the 5-year period.     ŁOxycodone ranked ˜rst in 2010 and 2011 among drugoverdose deaths. Heroin ranked ˜rst from 2012 through
+2014. ŁThe number of drug overdose deaths that involved heroin
+
+more than tripled, from 3,020 deaths, or 8% of all drug
+overdose deaths in 2010, to 10,863 deaths, or 23% of all
+drug overdose deaths in 2014. ŁEach year, cocaine ranked second or third among drugs
+
+involved in drug overdose deaths. ŁFrom 2010 through 2012, fentanyl was involved in
+approximately 1,600 drug overdose deaths each year.
+
+Fentanyl involvement increased to 1,905 deaths in 2013 and
+to 4,200 deaths in 2014. ŁThe number of drug overdose deaths that involved
+
+methadone decreased, from 4,408 in 2010 to 3,495 in 2014.
+ ŁThe number of drug overdose deaths that involved
+
+methamphetamine increased, from 1,388 in 2010 to 3,728
+in 2014.Figures 1Œ3 and Tables 1Œ3
+ show the trends from 2010through 2014 in the age-adjusted rates of drug overdose deaths involving the top 10 mentioned drugs on death certi˜cates. 
+
+The improvements in reporting should be considered when 
+
+interpreting these trends.  ŁFrom 2010 through 2014, the age-adjusted rate of all
+drug overdose deathsŠwhether or not a speci˜c drug
+was involvedŠincreased, from 12.3 to 14.7 per 100,000
+population with an estimated APC of 4.1%. ŁAmong deaths with at least one drug speci˜ed on the death
+certi˜cate, there was also an increase in the age-adjusted
+mortality rate, from 8.2 per 100,000 population in 2010 to
+11.5 per 100,000 in 2014 (APC = 7.9%). ŁFrom 2010 through 2014, the age-adjusted rate of drug
+overdose deaths involving heroin more than tripled, from
+1.0 per 100,000 population to 3.5 per 100,000
+(APC = 36.3%) (Figure 1, Table 1
+). ŁThe age-adjusted rate of drug overdose deaths involving
+morphine also increased, from 0.9 per 100,00 population
+in 2010 to 1.2 per 100,000 in 2014 (APC = 7.9%)
+(Figure 1, Table 1
+). ŁThe age-adjusted rate of drug overdose deaths involving
+methadone decreased, from 1.5 per 100,000 population in
+2011 to 1.1 per 100,000 in 2014 (APC = ˛6.8%)
+(Figure 1, Table 1
+). ŁFrom 2013 through 2014, the age-adjusted rate of drug
+overdose deaths involving fentanyl increased, from 0.6
+per 100,000 population to 1.3 per 100,000 in a single year
+(Figure 1, Table 1
+). ŁFrom 2010 through 2014, the age-adjusted rate of drug
+overdose deaths involving cocaine steadily increased, from
+1.4 per 100,000 population to 1.8 per 100,000 (APC = 5.8%) 
+
+(Figure 3, Table 3
+). ŁThe age-adjusted rate of drug overdose deaths involving
+
+methamphetamine more than doubled, from 0.5 per
+100,000 population in 2010 to 1.2 per 100,000 in 2014
+
+(APC = 25.4 %) (Figure 3, Table 3
+). 4  
+National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016Table A. Number and percentage of drug overdose deaths with mention of a specific drug, with mention of only a drug class, and with no mention of a drug class or 
+specific drug: United States, 2010Œ2014201020112012201320142010Œ2014NumberPercent
+NumberPercent
+NumberPercent
+NumberPercent
+NumberPercent
+NumberPercent
+All drug overdose deaths . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38,329100.041,340 100.0 41,502 100.0 43,982 100.0 47,055 100.0 212,208 100.0 Drug overdose deaths with mention of at least one speci˜c drug 
+. . . . . . . . . . . . . 25,65166.929,04970.329,87572.032,50273.936,66777.9153,74472.4Drug overdose deaths with mention of only a drug class . . . . . . . . . . . . . . . . . . . 1,6124.21,9024.61,9004.61,7033.91,4483.18,5654.0Drug overdose deaths without mention of a drug class or speci˜c drug1  . . . . . . 11,06628.910,38925.19,72723.49,77722.28,94019.049,89923.51Category includes drug overdose deaths with mentions of drug exposures not otherwise specified (e.g., mention of ﬁPOLYPHARMACYﬂ or ﬁDRUGﬂ), uninformative text, and drug overdose deaths with no drug mentions identified (e.g., text stating 
+ﬁOVERDOSEﬂ with no mention of a drug). NOTES: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Numbers may not add to 100 due to rounding.
+
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+Table B. Top 10 drugs involved in drug overdose deaths: United States, 2010Œ2014
+20102011201220132014Rank1Referent drugNumber of deathsPercent
+Referent drugNumber of deathsPercent
+Referent drugNumber of deathsPercent
+Referent drugNumber of deathsPercent
+Referent drugNumber of deathsPercent
+(n = 38,329)(n = 41,340)(n = 41,502)(n = 43,982)(n = 47,055)1Oxycodone5,25613.7Oxycodone5,57413.5Heroin6,15114.8Heroin8,41219.1Heroin10,86323.12Methadone4,40811.5Cocaine5,03512.2Oxycodone5,16912.5Cocaine5,28912.0Cocaine5,85612.43Cocaine4,31211.2Heroin4,56311.0Cocaine4,75911.5Oxycodone4,95411.3Oxycodone5,41711.54Alprazolam3,6779.6Methadone4,54011.0Methadone4,0819.8Morphine3,7718.6Alprazolam4,2179.05Heroin3,0207.9Alprazolam4,0439.8Alprazolam3,7859.1Alprazolam3,6968.4Fentanyl4,2008.96Morphine2,9417.7Morphine3,2908.0Morphine3,5088.5Methadone3,6938.4Morphine4,0228.57Hydrocodone2,8447.4Hydrocodone3,1967.7Hydrocodone3,0237.3Methamphetamine3,1857.2Methamphetamine3,7287.98Fentanyl1,6454.3Methamphetamine1,8844.6Methamphetamine2,2625.5Hydrocodone3,1057.1Methadone3,4957.49Diazepam1,4483.8Diazepam1,6954.1Fentanyl1,6053.9Fentanyl1,9054.3Hydrocodone3,2747.010Methamphetamine1,3883.6Fentanyl1,6564.0Diazepam1,5673.8Diazepam1,6013.6Diazepam1,7293.71Ranks were not tested for statistical significance.NOTES: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition to the referent drug (i.e., the one listed). Deaths involving more than one drug 
+(e.g., a death involving both heroin and cocaine) are counted in both totals. Caution should be used when comparing numbers across years. The reporting of at least one specific drug in the literal text improved, from 67% of drug overdose deaths in 
+
+2010 to 78% of drug overdose deaths in 2014.  SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+ National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016  
+5Drug overdose deaths involving multiple drugs
+Figure 4 shows the number of drug overdose deaths in 2014 by the number of  speci˜c drugs involved in the death (Table 4
+). Of the 36,667 drug overdose deaths with at least one mention of a speci˜c drug, 52% mentioned only one speci˜c drug (18,931 
+deaths), 26% mentioned two (9,351 deaths), 12% mentioned 
+three (4,521 deaths), 6% mentioned four (2,041 deaths), and 5% 
+mentioned ˜ve or more (1,823 deaths). Among drug overdose 
+deaths with at least one mention of a speci˜c drug, the average 
+number of speci˜c drugs mentioned was 1.9.  Table C
+ shows the percentage of drug overdose deaths with 
+concomitant drugs for drug overdose deaths involving the top 10 
+drugs in 2014. The percentage of deaths involving concomitant 
+
+drugs varied by referent drug. For example, the majority of 
+the drug overdose deaths involving methamphetamine did 
+not involve other drugs.  In contrast, among deaths involving 
+alprazolam and diazepam, more than 95% involved other drugs. 
+The average number of concomitant drugs involved (excluding 
+
+the referent drug) also varied among the top 10 drugs involved 
+in drug overdose deaths. For example, drug overdose deaths 
+involving diazepam or alprazolam had on average more than 
+two additional drugs involved in death. Drug overdose deaths 
+involving fentanyl, heroin, cocaine, or methamphetamine had on 
+average fewer than two additional drugs involved in death. Figure 5 shows the percent distribution of the number 
+of concomitant drugs for overdose deaths involving the top 
+10 drugs in 2014 (Table 5
+). For example, for drug overdose deaths involving methamphetamine, 55% had no concomitant 
+
+mentions, 25% mentioned one other drug, 18% mentioned two 
+to four other drugs, and 1% mentioned ˜ve or more drugs. In 
+contrast, for drug overdose deaths involving diazepam, 3% had * Increasing or decreasing trend is statistically significant.ƒ Increase from 2013 to 2014 is statistically significant.
+NOTES: Drug overdose deaths are identified using underlying cause-of-death codes 
+X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition to 
+
+the referent drug (i.e., the one listed). Deaths involving more than one drug (e.g., a
+
+death involving both heroin and cocaine) are counted in both totals. Caution should be 
+used when comparing numbers across years. The reporting of at least one specific drug
+
+in the literal text improved, from 67% of drug overdose deaths in 2010 to 78% of drug 
+overdose deaths in 2014. 
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death 
+
+certificate literal text. Deaths per 100,000 population0.00.51.0
+1.5
+2.0
+2.5
+3.0
+3.54.0HydrocodoneMethadone*OxycodoneMorphine*Heroin*Fentanylƒ2014201320122011
+2010Figure 1. Age-adjusted rates for drug overdose deaths 
+ involving selected opioids: United States, 2010Œ2014
+NOTES: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition 
+
+to the referent drug (i.e., the one listed). Deaths involving more than one drug (e.g., a 
+death involving both heroin and cocaine) are counted in both totals. Caution should 
+be used when comparing numbers across years. The reporting of at least one specific 
+
+drug in the literal text improved, from 67% of drug overdose deaths in 2010 to 78% of 
+drug overdose deaths in 2014. 
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death 
+
+certificate literal text. Deaths per 100,000 population0.01.02.03.04.0DiazepamAlprazolam2014201320122011
+2010Figure 2. Age-adjusted rates for drug overdose deaths 
+involving selected benzodiazepines: United States, 
+
+2010Œ2014
+Figure 3. Age-adjusted rates for drug overdose deaths 
+
+involving selected stimulants: United States, 
+ 2010Œ2014
+* Increasing trend is statistically significant.NOTES: Drug overdose deaths are identified using underlying cause-of-death codes 
+X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition 
+
+to the referent drug (i.e., the one listed). Deaths involving more than one drug (e.g., a 
+death involving both heroin and cocaine) are counted in both totals. Caution should 
+be used when comparing numbers across years. The reporting of at least one specific 
+
+drug in the literal text improved, from 67% of drug overdose deaths in 2010 to 78% of 
+drug overdose deaths in 2014. 
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death 
+
+certificate literal text.Deaths per 100,000 population0.01.02.03.0
+4.0Methamphetamine* Cocaine* 2014201320122011
+2010 6  
+National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016no concomitant mentions, 22% mentioned one other drug, 62% 
+mentioned two to four other drugs, and 13% mentioned ˜ve or 
+more other drugs.Table D
+ shows the most frequent concomitant drugs for each 
+of the top 10 drugs involved in drug overdose deaths in 2014. ŁOne in ˜ve drug overdose deaths involving heroin also 
+involved cocaine.  ŁAlprazolam was involved in 26% of the drug overdose 
+deaths involving hydrocodone, 23% of the deaths involving 
+oxycodone, and 18% of the deaths involving methadone.  ŁMore than one-third (37%) of the drug overdose deaths 
+
+involving cocaine also involved heroin. ŁNearly 20% of the overdose deaths involving methamphetamine 
+
+also involved heroin.Alcohol involvement in drug overdose deaths
+In 2014, alcohols, including ethanol and isopropyl alcohol, were involved in 15% of all drug overdose deaths and 17% of the 
+drug overdose deaths that mentioned involvement of at least one 
+speci˜c drug. Table E
+ shows the frequency of alcohol involvement among drug overdose deaths involving speci˜c drugs.  ŁAlcohol involvement was mentioned in 12%Œ22% of the drug 
+
+overdose deaths involving fentanyl, heroin, hydrocodone, 
+morphine, oxycodone, alprazolam, diazepam, or cocaine.  ŁAlcohol involvement was mentioned in less than 10% 
+
+of the drug overdose deaths involving methadone and 
+
+methamphetamine.Discussion
+Study findings
+The number of drug overdose deaths in the United States 
+has increased substantially over the past two decades (1,20). 
+From 2010 through 2014, the number of drug overdose deaths 
+
+increased by 23%, from 38,329 in 2010 to 47,055 in 2014. 
+The most frequently mentioned drugs involved in these deaths 
+
+were the opioids: heroin, oxycodone, methadone, morphine, 
+hydrocodone, and fentanyl; the benzodiazepines: alprazolam and 
+
+diazepam; and the stimulants: cocaine and methamphetamine.  
+Reporting of specific drugs
+The reporting of speci˜c drugs on death certi˜cates improved during the study period. In 2010, 67% of drug 
+
+overdose deaths included mentions of speci˜c drugs compared 
+with 78% in 2014. Drug overdose deaths that did not mention a 
+
+speci˜c drug fall into two groupsŠthose in which only a drug 
+class was mentioned (3%Œ4% of all drug overdose deaths), Figure 4. Number of drug overdose deaths, by the number of specific drugs involved: United States, 2014
+NOTES: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14, and at least one specific drug mentioned on the death certificate. 
+In 2014, at least one specific drug was mentioned in 78% of drug overdose deaths. 
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text. 
+Number of deaths (thousands)
+0510
+1520More than five Five FourThreeTwo 
+One Specific drug(s) National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016  
+7NOTES: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition to the referent drug 
+(i.e., the one listed). Deaths involving more than one drug (e.g., a death involving both heroin and cocaine) are counted in both totals. 
+
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+Percent02040
+60
+80100Five or moreother drugsTwo to fourother drugsOne
+other drugNo
+concomitant
+mentionsMethamphetamineCocaineDiazepamAlprazolamOxycodoneMorphineMethadoneHydrocodoneHeroinFentanylFigure 5. Percent distribution of deaths involving concomitant drugs for the top 10 drugs involved in drug overdose 
+deaths: United States, 2014 
+Table C. Percentage of deaths with concomitant drug involvement and average number of concomitant drugs for drug overdose 
+deaths involving the top 10 drugs: United States, 2014Referent drugNumber of drug overdose deathsinvolving referent drugPercentage of drug overdose
+deaths involving referent drugand concomitant drugsAverage number of
+concomitant drugs involved1OpioidsFentanyl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4,20063.91.9Heroin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10,86351.61.6Hydrocodone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3,27480.42.4Methadone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3,49563.52.0Morphine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4,02272.22.1Oxycodone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5,41776.22.3BenzodiazepinesAlprazolam . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,21795.52.3Diazepam . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,72996.72.8StimulantsCocaine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5,85666.11.7Methamphetamine. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3,72845.01.81Deaths involving referent drug and at least one concomitant drug were included in the analysis. Results show average number of other drugs involved (i.e., average does not include referent 
+drug).NOTE: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14.
+
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+ 8  
+National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016Table D. Most frequent concomitant drugs for drug overdose deaths involving the top 10 drugs: United States, 2014
+Most frequent concomitant drugSecond most frequent concomitant drugNumber of deaths involving referent drugConcomitant drugDeaths involving both drugsConcomitant drugDeaths involving both drugsReferent drugNumberPercentage
+1NumberPercentage
+1OpioidsFentanyl . . . . . . . . . . . . . . . . . . .4,200Heroin95422.7Cocaine61414.6Heroin . . . . . . . . . . . . . . . . . . . . .10,863Cocaine2,18120.0Fentanyl9548.7Hydrocodone . . . . . . . . . . . . . . .3,274Alprazolam83625.5Oxycodone52015.8Methadone . . . . . . . . . . . . . . . . .3,495Alprazolam63418.1Oxycodone35210.0Morphine . . . . . . . . . . . . . . . . . .4,022Oxycodone57214.2Heroin51812.8Oxycodone . . . . . . . . . . . . . . . . .5,417Alprazolam1,25223.1Morphine57210.5BenzodiazepinesAlprazolam . . . . . . . . . . . . . . . . .4,217Oxycodone1,25229.6Heroin83919.8Diazepam . . . . . . . . . . . . . . . . . .1,729Oxycodone56632.7Hydrocodone32418.7StimulantsCocaine . . . . . . . . . . . . . . . . . . . .5,856Heroin2,18137.2Fentanyl61410.4Methamphetamine. . . . . . . . . . .3,728Heroin73419.6Morphine3008.0Third most frequent concomitant drugFourth most frequent concomitant drugFifth most frequent concomitant drugConcomitant drugDeaths involving both drugsConcomitant drugDeaths involving both drugsConcomitant drug Deaths involving both drugsReferent drugNumberPercentage
+1NumberPercentage 
+1NumberPercentage
+1OpioidsFentanyl . . . . . . . . . . . . . . . . . . . Oxycodone 
+42310.0Alprazolam4029.5Morphine3588.5Heroin . . . . . . . . . . . . . . . . . . . . . Alprazolam 8397.7Methamphetamine7346.7Morphine5184.7Hydrocodone . . . . . . . . . . . . . . . Diazepam 3249.8Morphine3099.4Heroin2577.8Methadone . . . . . . . . . . . . . . . . . Cocaine 3379.6Heroin3148.9Diazepam2326.6Morphine . . . . . . . . . . . . . . . . . . Alprazolam 48712.1Cocaine47011.6Fentanyl3588.9Oxycodone . . . . . . . . . . . . . . . . .
+ Diazepam 56610.4Hydrocodone5209.5Heroin4277.8BenzodiazepinesAlprazolam . . . . . . . . . . . . . . . . .Hydrocodone83619.8Methadone63415.0Morphine48711.5Diazepam . . . . . . . . . . . . . . . . . . Alprazolam 31418.1Heroin30217.4Morphine28316.3StimulantsCocaine . . . . . . . . . . . . . . . . . . . .
+ Morphine 4708.0Alprazolam4407.5Oxycodone4187.1Methamphetamine. . . . . . . . . . . Cocaine 
+2416.4Amphetamine1814.8Alprazolam1514.01Percentage of deaths involving concomitant drug among deaths involving referent drugs. Deaths may involve more than one concomitant drug in addition to referent drug. Deaths involving more than one drug (e.g., a death involving both heroin and 
+cocaine) are included in both totals (i.e., as a referent drug and concomitant drug).NOTE: Deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. 
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+ National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016 9Table E. Percentage of deaths with concomitant alcohol 
+involvement for drug overdose deaths involving the top 10 
+drugs: United States, 2014Referent drugNumber of drug overdose deaths involving referent drugDrug overdose deaths with concomitant alcohol involvementNumberPercentage
+OpioidsFentanyl . . . . . . . . . . . . . . . . 4,20051312.2Heroin . . . . . . . . . . . . . . . . . . 10,8632,25220.7Hydrocodone . . . . . . . . . . . . 3,27456217.2Methadone . . . . . . . . . . . . . . 3,4953429.8Morphine . . . . . . . . . . . . . . . 4,02252213.0Oxycodone . . . . . . . . . . . . . . 5,41790516.7BenzodiazepinesAlprazolam . . . . . . . . . . . . . . 4,21765215.5Diazepam . . . . . . . . . . . . . . . 1,72937421.6StimulantsCocaine . . . . . . . . . . . . . . . . . 5,8561,21020.7Methamphetamine. . . . . . . . 3,7282576.9NOTES: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition to 
+the referent drug (i.e., the one listed). Alcohol involvement included mentions of ethanol, 
+isopropyl alcohol, and a nonspecific reference to alcohol.SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.and those with no mention of involvement of a speci˜c drug or drug class (19%Œ30% of all drug overdose deaths). Of the 
+
+deaths with only a drug class mentioned, more than two-thirds 
+involved either opioids or opiates. Of the deaths with no mention 
+of involvement of a speci˜c drug or drug class, nearly 50% had 
+some indication that the deaths involved multiple drugs (e.g., 
+
+mentions of ﬁPOLYPHARMACY,ﬂ or ﬁMULTIDRUGﬂ) 
+(14).   The reporting of speci˜c drugs on the death certi˜cate has 
+been previously examined using ICDŒ10 coded data (16,21). In 
+an analysis using 2008Œ2010 mortality data, drug speci˜city 
+ranged across different states. For example, in one state, about 
+one-third of drug overdose deaths had the drugs speci˜ed on the 
+death certi˜cate, whereas in several other states, more than 95% 
+of the deaths had the drugs speci˜ed. In the past 5 years, there 
+have been many activities to engage stakeholders to improve 
+reporting (22).The ˜ndings in this report should be interpreted in light of the improvements in the quality of the data during the study 
+period. For example, some of the observed increases in the 
+
+rates of drug overdose deaths involving the top 10 drugs is likely 
+attributable to improvements in reporting.Findings for specific drugs
+The analyses of trends showed that, for some drugs, the  age-adjusted rate of drug overdose deaths increased considerably 
+
+within a relatively short time frame. For example, during the 
+5-year period, the rate of drug overdose deaths involving heroin
+more than tripled, and the rate of drug overdose deaths involving
+
+methamphetamine more than doubled. The rate of drug overdose deaths involving fentanyl more than doubled in a single year 
+
+(from 2013 to 2014). Among the drugs discussed in this report, 
+only methadone showed a decreasing drug overdose death rate, 
+from 1.5 per 100,000 population in 2011 to 1.1 in 2014. In light 
+of the improvements in the reporting of speci˜c drugs involved 
+in drug overdose deaths, decreases in the rates of drug overdose 
+deaths involving methadone are likely to be at least in part due 
+to real decreases.The results from the literal text analysis highlight the 
+involvement of multiple drugs in many drug overdose deaths. 
+
+In 2014, of the 36,667 drug overdose deaths that mentioned at 
+
+least one speci˜c drug involved in death, almost one-half (48%) 
+
+mentioned the involvement of more than one speci˜c drug on 
+
+the death certi˜cate. A small percentage of deaths (5%) involved 
+
+˜ve or more speci˜c drugs. For the top 10 drugs involved in drug 
+
+overdose deaths in 2014, the proportion of deaths that involved 
+
+at least one other drug ranged from 45% to 97%. The average 
+
+number of other drugs involved varied by drug. For example, 
+
+more than 95% of drug overdose deaths involving diazepam 
+
+or alprazolam also involved other drugs, with an average of 
+
+two other drugs being mentioned as involved in the death. In 
+
+contrast, 52% and 45% of drug overdose deaths involving heroin 
+
+or methamphetamine, respectively, involved other drugs, with an 
+
+average of fewer than two additional drugs mentioned.     
+The combinations of drugs in drug overdose deaths are important to consider when interpreting the study ˜ndings. 
+Importantly, the most frequently mentioned drugs involved in 
+
+drug overdose deaths were often mentioned with each other. 
+
+For example, heroin and cocaine were involved concomitantly 
+in more than 2,000 deaths. Another pair, oxycodone and 
+
+alprazolam, were involved concomitantly in more than 1,000 
+deaths. Studies using the NVSS ICDŒ10-coded data have shown 
+that benzodiazepines were involved in more than 30% of drug 
+overdose deaths involving opioid analgesics (3). Recently, FDA 
+
+started requiring its strongest warning to the drug labeling of 
+prescription opioid pain and prescription opioid cough medicines 
+
+and benzodiazepines after a review found that the growing 
+combined use of opioid medicines with benzodiazepines or other 
+drugs that depress the central nervous system have resulted in 
+
+serious side effects, including slowed or dif˜cult breathing and 
+deaths (23).  The most frequently mentioned concomitant drug often belonged in another drug class than the referent drug. However, 
+
+in some instances, the most frequently mentioned drug was in 
+the same class as the referent drug, and was assigned the same 
+ICDŒ10 code. For example, hydrocodone and oxycodone are 
+classi˜ed to the same ICDŒ10 codeŠNatural and semi-synthetic 
+opioid analgesic (T40.2)Šand there were more than 500 deaths 
+in 2014 involving both hydrocodone and oxycodone.  In 2014, 6,976 (15%) drug overdose deaths also involved alcohols. Alcohol involvement in drug overdose deaths may have 
+been underestimated. Other analyses on the reporting of alcohol 
+involvement on death certi˜cates have shown that alcohol was 
+frequently underreported (24,25). 10  
+National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016Using the literal text 
+Currently, data from NVSS are used to quantify the size 
+and scope of fatal drug overdoses in the United States and to track national trends (1). NVSS mortality data are an important 
+source of information on drug overdose deaths as it has been 
+
+collected using a consistent method over a long period of time. 
+In addition, the NVSS mortality data have other strengths, such 
+as coverage of all deaths to residents in the United States, 
+including those occurring in rural areas or outside of a health 
+care setting. Although analysis of the NVSS mortality data have 
+
+provided valuable information on drug overdose deaths, the 
+current classi˜cation system, ICDŒ10, is limited in its ability to 
+
+describe the speci˜c drugs involved.  For example, of the top 
+10 drugs involved in drug overdose deaths, only heroin (T40.1), 
+methadone (T40.3), and cocaine (T40.5) have separate ICDŒ10 
+
+codes.This report demonstrates the utility of supplementing the ICDŒ10-coded data in NVSS with information on the speci˜c 
+drugs involved in deaths using information from the death 
+certi˜cate literal text. All of the data in the NVSS mortality ˜les 
+are based solely on information captured on the death certi˜cate. 
+
+The cause-of-death information is coded according to ICDŒ10 
+(5). Historically, the ICDŒ10 codes are used to classify the drugs 
+
+and chemicals involved in the deaths. In this study, the speci˜c 
+
+drugs involved were extracted from the death certi˜cate literal 
+text using a new method (14).  Using this new method, it is possible to identify the speci˜c drugs involved in drug overdose deaths, which is an 
+enhancement to the traditional method of identifying drugs 
+using broad ICDŒ10 drug categories. Most importantly, the 
+
+new method allows for the identi˜cation of drugs that are not 
+identi˜ed separately in ICDŒ10. For example, from 2010 through 
+2014, oxycodone, hydrocodone, and morphine were among 
+the top 10 drugs involved in drug overdose deaths, but all were 
+classi˜ed to Natural and semi-synthetic opioid analgesic  (T40.2) 
+in ICDŒ10 (26).Data from the literal text could potentially be used to detect 
+emerging trends. For instance, the methods could be modi˜ed to 
+identify deaths involving newly approved prescription drugs and 
+new substances of abuse. In order to detect emerging trends, 
+
+periodically updating the text search capabilities is critical. 
+Data quality and other study limitations
+The ˜ndings in this report must be interpreted with the 
+potential variation in death investigation and reporting practices 
+in mind. In most instances, drug overdose deaths are investigated 
+and certi˜ed by a medical examiner or coroner, as these deaths 
+
+are generally sudden and unexpected (27), and more than three-
+quarters occur outside of a health care setting (28). Medical 
+examiners and coroners use forensic autopsy, toxicological 
+
+tests, death scene information, medical history, as well as other 
+
+ancillary tests and reports to determine the cause of death as 
+
+well as the drugs involved (9,29). While there are recommendations on methods for investigation 
+and certi˜cation of drug-related deaths (8,9), variation in death 
+investigation practice and reporting may occur and impact the 
+measurement of overdose death rates overall as well as rates 
+involving speci˜c drugs. For instance, at autopsy, toxicological 
+
+tests may or may not be performed to determine the type of 
+
+drugs present. The substances tested for, and the circumstances 
+
+under which the tests are performed, may vary by jurisdiction, 
+
+decedent, and over time.Toxicology plays an important role in the detection of 
+speci˜c drugs; however, interpretation of toxicology results for 
+ drug-related deaths is not straightforward. The interpretation 
+depends on what tests were ordered, characteristics of the causative agents, characteristics of metabolites, and other 
+information gathered during the investigation and examination.While there are standard panels of assays to test for drugs, not all drugs are covered by these panels, and speci˜c tests 
+must be ordered during the death investigation 
+(9). In addition, as exempli˜ed by the recent increase in deaths involving 
+
+fentanyl analogs, these panels must be kept up to date with the 
+latest pro˜les (30). The ˜ndings from toxicological tests and 
+death scene investigation are not always able to distinguish 
+
+subtle differences in the possible causative agents in drug 
+overdose deaths. For example, the synthetic opioid fentanyl is 
+
+manufactured both for pharmaceutical purposes and also illicitly, 
+
+and it is not always possible to distinguish postmortem whether 
+the drug was manufactured pharmaceutically or illicitly (31).  Some drugs have the same metabolites or are metabolites of 
+other drugs, potentially resulting in misattribution of the speci˜c 
+drugs involved in death. For example, in this report, mentions 
+
+of morphine may actually refer to heroin, because morphine is 
+a metabolite of heroin (9). In some cases toxicological markers 
+are present, such as 6-monacetylemorphine (6-MAM), which 
+indicate that the morphine was metabolized from heroin (9). This 
+report found 518 concomitant mentions of heroin and morphine 
+in 2014, suggesting that the medical examiner or coroner might 
+not have been able to determine the speci˜c drug contributing 
+to the overdose. 
+A review of some of these cases revealed that 
+the word ﬁPROBABLEﬂ sometimes appeared before the word 
+ﬁHEROIN.ﬂ In this analysis, heroin and morphine were considered 
+as mutually exclusive drugs. This could potentially result in 
+some underestimation of the number of deaths involving heroin 
+and some overestimation of the number of deaths involving 
+morphine.  Medical examiners and coroners also take into account 
+death scene information when investigating drug overdose 
+
+deaths (9,29). For example, drug paraphernalia may suggest 
+
+illicit use. Multiple pills found in gastric contents could also 
+
+indicate suicidal intention. Drugs found at the scene may also 
+
+give some indication of whether the drugs were taken together 
+
+(e.g., heroin laced with fentanyl) and provide more information 
+
+about the source of the drug, which may be dif˜cult to determine 
+
+based on postmortem toxicological analysis (9).During death investigations, medical examiners and coroners may use medical history, such as prescription history 
+
+obtained from Prescription Drug Monitoring Programs (PDMP) 
+
+(32). However, in many states, medical examiners and coroners 
+
+do not have access to PDMP data (33). Once the medical examiners and coroners have investigated 
+the death, they will complete the death certi˜cate. When  National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016  
+11determining the drugs to report on the death certi˜cate, some medical certi˜ers focus on a single lethal drug rather than listing 
+multiple drugs involved in the death. Alternatively, some may 
+
+choose to list a variety of drugs. Sometimes they use vague 
+
+terms such as ﬁPOLYPHARMACYﬂ and ﬁMULTIDRUG.ﬂ    
+In other cases, when no drug is speci˜ed, the certi˜er might not know the drugs involved in death. This can occur if 
+
+the decedent is hospitalized for a period of time before death. 
+Hospitals retain the blood specimen for a limited time. In 
+other cases, there may not be an adequate sample for forensic 
+toxicology, as may be the case if the body is not recovered for an 
+
+extended period of time after the death occurred.Conclusions
+In summary, this report provides a picture of the most 
+frequent drugs involved in drug overdose deaths in the United 
+States, and highlights the frequency of deaths involving multiple 
+drugs. The report also demonstrates the ability of a new method 
+for abstracting data from the death certi˜cate to enhance 
+national monitoring of drug overdose deaths, and it emphasizes 
+
+the need to include speci˜c drugs involved in the death on the 
+death certi˜cate. References
+1. Rudd RA, Aleshire N, Aleshire JE, Gladden M. Increases in drug 
+and opioid overdose deathsŠUnited States, 2000Œ2014. MMWR 
+Morb Mortal Wkly Rep 64(50Œ51):1378Œ82. 2016. Available from: 
+
+http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6450a3.htm
+.2. Hedegaard H, Chen LH, Warner M. Drug-poisoning deaths involving 
+
+heroin: United States, 2000Œ2013. NCHS data brief, no 190. 
+
+Hyattsville, MD: National Center for Health Statistics. 2015. Available 
+
+from: http://www.cdc.gov/nchs/products/databriefs/db190.htm
+. 3. Chen LH, Hedegaard H, Warner M. Drug-poisoning deaths involving 
+
+opioid analgesics: United States, 1999Œ2011. NCHS data brief, no 166. 
+
+Hyattsville, MD: National Center for Health Statistics. 2014. Available 
+
+from: http://www.cdc.gov/nchs/products/databriefs/db166.htm
+.4. Mack KA, Jones CM, Paulozzi LJ. Vital signs: Overdoses of prescription 
+
+opioid pain relievers and other drugs among womenŠUnited States, 
+
+1999Œ2010. MMWR Morb Mortal Wkly Rep 62(26):537Œ42. 2013. 
+
+Available from: 
+http://www.cdc.gov/mmwr/preview/mmwrhtml/
+mm6226a3.htm.5. World Health Organization. International statistical classi˜cation 
+
+of diseases and related health problems, 10th revision (ICDŒ10). 
+1st ed. Geneva, Switzerland. 1992.6. Ossiander EM. Using textual cause-of-death data to study drug 
+
+poisoning deaths. Am J Epidemiol 179(7):884Œ94. 2014.7. Davis J, Sabel J, Wright D, Slavova S. Epi tool to analyze overdose 
+death data. Council of State and Territorial Epidemiologists. 2015. 
+
+Available from: 
+http://www.cste.org/blogpost/1084057/211072/
+
+Epi-Tool-to-Analyze-Overdose-Death-Data
+.8. National Center for Health Statistics. Medical examiners' and coroners' 
+
+handbook on death registration and fetal death reporting. Hyattsville, 
+
+MD: National Center for Health Statistics. 2003. Available from: 
+ http://www.cdc.gov/nchs/data/misc/hb_me.pdf
+.9. Davis GG. National Association of Medical Examiners position 
+
+paper: Recommendations for the investigation, diagnosis, and 
+certi˜cation of deaths related to opioid drugs. Acad Forensic 
+
+Pathol 3(1):77Œ83. 2013.10. Shapiro-Mendoza CK, Kim SY, Chu SY, Kahn E, Anderson RN. Using 
+
+death certi˜cates to characterize sudden infant death syndrome 
+
+(SIDS): Opportunities and limitations. J Pediatr 156(1):38Œ43. 2010.11. Koopman B, Zuccon G, Nguyen A, Bergheim A, Grayson N. Automatic 
+
+ICDŒ10 classi˜cation of cancers from free-text death certi˜cates. Int 
+
+J Med Inform 84(11):956Œ65. 2015.12. Kim SY, Shapiro-Mendoza CK, Chu SY, Camperlengo LT, Anderson 
+
+RN. Differentiating cause-of-death terminology for deaths coded 
+as sudden infant death syndrome, accidental suffocation, and 
+unknown cause: An investigation using US death certi˜cates, 
+2003Œ2004. J Forensic Sci 57(2):364Œ9. 2012.13. Davis K, Staes C, Duncan J, Igo S, Facelli J. Identi˜cation of pneumonia 
+
+and in˚uenza deaths using the death certi˜cate pipeline. BMC Med 
+
+Inform Decis Mak 12:37. 2012.14. Trinidad J, Warner M, Bastian B, et al. Using literal text from the 
+
+death certi˜cate to enhance mortality statistics: Characterizing 
+
+drug involvement in deaths. National vital statistics reports; vol 65 
+no 9. Hyattsville, MD: National Center for Health Statistics. 2016.15. Kochanek KD, Murphy SL, Xu JQ, Tejada-Vera B. Deaths: Final data 
+
+for 2014. National vital statistics reports; vol 65 no 4. Hyattsville, 
+MD: National Center for Health Statistics. 2016. Available from: 
+
+http://www.cdc.gov/nchs/data/nvsr/nvsr65/nvsr65_04.pdf
+.16. Warner M, Paulozzi LJ, Nolte KB, Davis GG, Nelson LS. State 
+
+variation in certifying manner of death and drugs involved in drug 
+intoxication deaths. Acad Forensic Pathol 3(2):231Œ7. 2013.17. National Center for Health Statistics. 2003 revision of the U.S. 
+Standard Certi˜cate of Death. Available from: 
+http://www.cdc.gov/
+nchs/data/dvs/death11-03˜nal-acc.pdf.18. SAS Institute Inc., (SAS 9.3) Cary, NC. [computer software]. 2012.
+19. National Cancer Institute. Joinpoint Regression Program (Version 
+
+3.4.3.) [computer software].  2010.20. Warner M, Chen LH, Makuc DM, et al. Drug poisoning deaths in 
+
+the United States, 1980Œ2008. NCHS data brief, no 81. Hyattsville, 
+MD: National Center for Health Statistics. 2011. Available from:  
+
+https://www.cdc.gov/nchs/data/databriefs/db81.pdf
+. 21. National Center for Health Statistics. Health policy data special 
+request tables: Percent of drug poisoning deaths that mention 
+
+the type of drug(s) involved, by state: 2013Œ2014. Hyattsville, 
+
+MD: National Center for Health Statistics. 2015. Available from: 
+ http://www.cdc.gov/nchs/health_policy/mortality.htm
+.22. Sabel J, Poel A, Tuazon E, Paone D, Slavova S, Bunn T, et al. 
+
+Recommendations and lessons learned from improved reporting 
+of drug overdose deaths on death certi˜cates. Atlanta, GA: Council 
+of State and Territorial Epidemiologists. 2016. Available from: 
+
+http://c.ymcdn.com/sites/www.cste.org/resource/resmgr/PDFs/
+
+PDFs2/4_25_2016_FINAL-Drug_Overdos.pdf.23. U.S. Food and Drug Administraion. FDA drug safety 
+
+communication: FDA warns about serious risks and death when 
+combining opioid pain or cough medicines with benzodiazepines; 
+requires its strongest warning. 2016. Available from:
+ 
+http://www.fda.gov/Drugs/DrugSafety/ucm518473.htm
+. 24. Slater ME, Castle IJ, Logan BK, Hingson RW. Differences in state 
+
+drug testing and reporting by driver type in U.S. fatal traf˜c 
+
+crashes. Accid Anal Prev 92:122Œ9. 2016.25. Castle IJ, Yi HY, Hingson RW, White AM. State variation in 
+
+underreporting of alcohol involvement on death certi˜cates: Motor 
+
+vehicle traf˜c crash fatalities as an example. J Stud Alcohol Drugs 
+
+75(2):299Œ312. 2014.   
+26. World Health Organization. International statitistical classi˜cation 
+
+of diseases and related health problems, tenth revision (ICDŒ10). 
+3rd ed., Section III, table of drugs and chemicals. Geneva, 
+
+Switzerland. 2011. 12 National Vital Statistics Reports, Vol. 65, No. 10, December 20, 201627.National Research Council of the National Academies. Strengthening
+forensic science in the United States: A path forward. Washington,
+
+DC: National Academies Press. 2009. Available from:
+
+https://www.nap.edu/catalog/12589/strengthening-forensic-
+
+science-in-the-united-states-a-path-forward
+.28.National Center for Health Statistics. QuickStats: Percentage of injury 
+
+deaths* for which death was pronounced outside of a hospital,
+by leading mechanism of injury deathŠUnited States, 2005.
+
+MMWR Morb Mortal Wkly Rep 57(41):1130. 2008. Available from:
+http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5741a4.htm
+.29.Harruff RC, FJ Couper, CJ Banta-Green. Tracking the opioid drug
+overdose epidemic in King County, Washington using an improved 
+
+methodology for certifying heroin related deaths. Acad Forensic
+
+Pathol 5(3):499Œ506. 2015.30.Centers for Disease Control and Prevention. In˚ux of fentanyl-laced
+counterfeit pills and toxic fentanyl-related compounds further increases
+
+risk of fentanyl-related overdose and fatalities. Health Alert Network
+Health Advisory. 2016. Available from: 
+https://emergency.cdc.gov/
+han/han00395.asp.31. Gladden RM, Martinez P, Seth P. Fentanyl law enforcement submissions
+
+and increases in synthetic opioid-involved overdose deathsŠ27
+
+states, 2013Œ2014. MMWR Morb Mortal Wkly Rep 65(33):837Œ43.
+2016. Available from: 
+http://www.cdc.gov/mmwr/volumes/65/wr/
+mm6533a2.htm.32.Prescription Drug Monitoring Program Training and Technical
+
+Assistance Center at Brandeis University. Drug related deaths in
+
+Virginia: Medical examiner use of PMP data. 2011. Available from:
+
+http://www.pdmpassist.org/content/drug-related-deaths-virginia-
+
+medical-examiner-use-pmp-data
+.33.Prescription Drug Monitoring Program Training and Technical
+
+Assistance Center at Brandeis University. PDMPs authorized
+
+and engaged in sending solicited and unsolicited reports to law
+enforcement entities. 2016. Available from:
+http://www.pdmpassist.org/pdf/Law_Enforcement_Entity_Table.
+pdf.List of Detailed Tables
+1.Crude and age-adjusted rates for drug overdose deaths
+
+involving selected opioids: United States, 2010Œ2014 ...... 132.Crude and age-adjusted rates for drug overdose deaths
+
+involving selected benzodiazepines: United States, 2010Œ2014  133.Crude and age-adjusted rates for drug overdose deaths
+
+involving selected stimulants: United States, 2010Œ2014 .... 134.Number of drug overdose deaths, by the number of literal text 
+
+mentions of speci˜c drugs involved: United States, 2014 ... 145.Percent distribution of deaths involving concomitant
+
+drugs for top 10 drugs involved in drug overdose deaths:
+
+United States, 2014 ................................ 14 National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016  
+13Table 1. Crude and age-adjusted rates for drug overdose deaths involving selected opioids: United States, 2010Œ2014
+OpioidCrude death rateAge-adjusted death rate2010201120122013201420102011201220132014Fentanyl . . . . . . . . . . . . . . . . . . . . . . 0.50.50.50.61.30.50.50.50.61.3Heroin . . . . . . . . . . . . . . . . . . . . . . . . 1.01.52.02.73.41.01.52.02.73.5Hydrocodone . . . . . . . . . . . . . . . . . . 0.91.01.01.01.00.91.00.91.01.0Methadone . . . . . . . . . . . . . . . . . . . . 1.41.51.31.21.11.41.51.31.21.1Morphine . . . . . . . . . . . . . . . . . . . . . 1.01.11.11.21.30.91.01.11.21.2Oxycodone . . . . . . . . . . . . . . . . . . . . 1.71.81.61.61.71.71.81.71.61.7NOTES: Drug-poisoning deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition to the opioid listed. 
+Deaths involving more than one drug (e.g., a death involving both heroin and cocaine) are counted in both rates. Caution should be used when comparing numbers across years. The reporting 
+
+of at least one specific drug in the literal text improved, from 67% of drug overdose deaths in 2010 to 78% of drug overdose deaths in 2014.
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+Table 2. Crude and age-adjusted rates for drug overdose deaths involving selected benzodiazepines: United States, 2010Œ2014
+BenzodiazepineCrude death rateAge-adjusted death rate2010201120122013201420102011201220132014Alprazolam . . . . . . . . . . . . . . . . . . . . 1.21.31.21.21.31.21.31.21.21.3Diazepam . . . . . . . . . . . . . . . . . . . . . 0.50.50.50.50.50.50.50.50.50.5NOTES: Drug-poisoning deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition to the benzodiazepine 
+listed. Deaths involving more than one drug (e.g., a death involving both heroin and cocaine) are counted in both rates. Caution should be used when comparing numbers across years. The 
+
+reporting of at least one specific drug in the literal text improved, from 67% of drug overdose deaths in 2010 to 78% of drug overdose deaths in 2014.
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+Table 3. Crude and age-adjusted rates for drug overdose deaths involving selected stimulants: United States, 2010Œ2014
+StimulantCrude death rateAge-adjusted death rate2010201120122013201420102011201220132014Cocaine . . . . . . . . . . . . . . . . . . . . . . . 1.41.61.51.71.81.41.61.51.71.8Methamphetamine . . . . . . . . . . . . . . 0.40.60.71.01.20.50.60.71.01.2NOTES: Drug-poisoning deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition to the stimulant 
+listed. Deaths involving more than one drug (e.g., a death involving both heroin and cocaine) are counted in both rates. Caution should be used when comparing numbers across years. The 
+
+reporting of at least one specific drug in the literal text improved, from 67% of drug overdose deaths in 2010 to 78% of drug overdose deaths in 2014.
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+ 14  
+National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016Table 5. Percent distribution of deaths involving concomitant drugs for top 10 drugs involved in drug overdose deaths: 
+ United States, 2014Referent drugTotal number
+ of drug overdose deaths involving referent drugNumber of drug overdose deaths involving referent drug:Percentage
+ of drug overdose deaths involving referent drug onlyPercentage of drug overdose deaths
+ involving referent drug:No other drug Plus one other drug Plus two to four other drugsPlus ˜ve or more other drugsPlus one other drug Plus two to four other drugsPlus ˜ve or more other drugsOpioids Fentanyl . . . . . . . . . . . . . . .4,2001,5171,4161,13912836.133.727.13.0Heroin . . . . . . . . . . . . . . . . .10,8635,2613,5511,93411748.432.717.81.1Hydrocodone . . . . . . . . . . .3,2746439321,41728219.628.543.38.6Methadone . . . . . . . . . . . . .3,4951,2759841,12411236.528.232.23.2Morphine . . . . . . . . . . . . . .4,0221,1201,2541,45419427.831.236.24.8Oxycodone . . . . . . . . . . . . .5,4171,2881,5922,21032723.829.440.86.0Benzodiazepines Alprazolam . . . . . . . . . . . . .4,2171881,3482,3573244.532.055.97.7Diazepam . . . . . . . . . . . . . .1,729573721,0722283.321.562.013.2Stimulants Cocaine . . . . . . . . . . . . . . . .5,8561,9842,2141,55610233.937.826.61.7Methamphetamine . . . . . . .3,7282,0499296915955.024.918.51.6NOTES: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14. Deaths may involve other drugs in addition to the referent drug 
+(i.e., the one listed). Deaths involving more than one drug (e.g., a death involving both heroin and cocaine) are counted in both totals (i.e., as a referent drug and as an "other" drug).
+SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text.
+Table 4. Number of drug overdose deaths, by the number of literal text mentions of specific drugs involved: United States, 2014
+Number of speci˜c drugs involved in deathNumber of drug overdose deathsPercent
+At least one . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  36,667  100.0 One . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18,931 
+ 51.6 
+Two
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9,351 
+ 25.5 
+Three . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4,521 
+ 12.3 
+Four . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2,041 
+ 5.6 
+Five . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  962 
+ 2.6 
+Six or more . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  861 
+ 2.3 
+NOTES: Drug overdose deaths are identified using underlying cause-of-death codes X40ŒX44, X60ŒX64, X85, and Y10ŒY14, and at least one specific drug mentioned on the death certificate. 
+In 2014, at least one specific drug was mentioned in 78% of drug overdose deaths.SOURCE: NCHS, National Vital Statistics System, Mortality files linked with death certificate literal text. 
+ FIRST CLASS MAIL 
+POSTAGE & FEES PAID 
+CDC/NCHS 
+PERMIT NO. G-284
+U.S. DEPARTMENT OF 
+HEALTH & HUMAN SERVICES
+Centers for Disease Control and Prevention 
+National Center for Health Statistics 
+
+3311 Toledo Road, Room 4551
+ Hyattsville, MD 20782Œ2064OFFICIAL BUSINESS  
+PENALTY FOR PRIVATE USE, $300
+For more NCHS NVSRs, visit: http://www.cdc.gov/nchs/products/nvsr.htm
+.National Vital Statistics Reports, Vol. 65, No. 10, December 20, 2016For e-mail updates on NCHS publication releases, subscribe online at: 
+http://www.cdc.gov/nchs/govdelivery.htm
+. For questions or general information about NCHS: Tel: 1Œ800ŒCDCŒINFO (1Œ800Œ232Œ4636) 
+Ł TTY: 1Œ888Œ232Œ6348 
+Internet: 
+http://www.cdc.gov/nchs
+ Ł Online request form: 
+http://www.cdc.gov/info
+ DHHS Publication No. 2017Œ1120 
+Ł CS272543Suggested citation
+Warner M, Trinidad JP, Bastian BA, et al. Drugs 
+most frequently involved in drug overdose 
+
+deaths: United States, 2010Œ2014. National vital 
+
+statistics reports; vol 65 no 10. Hyattsville, MD: 
+
+National Center for Health Statistics. 2016.
+Copyright information
+All material appearing in this report is in 
+the public domain and may be reproduced 
+
+or copied without permission; citation as to 
+
+source, however, is appreciated.
+National Center for Health Statistics 
+Charles J. Rothwell, M.S., M.B.A., 
+Director
+ Jennifer H. Madans, Ph.D., 
+Associate Director 
+for Science
+Division of Vital Statistics 
+Delton Atkinson, M.P.H., M.P.H., P.M.P., 
+Director
+ Hanyu Ni, Ph.D., M.P.H., 
+Associate Director
+ for Science
+ContentsAbstract .......................................................1
+Introduction ....................................................1
+Methods .......................................................2Data source and study population
+ .................................2Identifying drugs involved .......................................2Analysis .....................................................2Results  .......................................................3Drug overdose deaths with mention of at least one specific drug .........3Drug overdose deaths involving multiple drugs .......................5
+Alcohol involvement in drug overdose deaths ........................6Discussion .....................................................6Study findings ................................................6Reporting of specific drugs ......................................6Findings for specific drugs .......................................9
+Using the literal text ...........................................10Data quality and other study limitations ............................10Conclusions  ..................................................11References ....................................................11
+List of Detailed Tables
+ ...........................................12AcknowledgmentsThis report presents findings from a joint project between the National Center for 
+
+Health Statistics and the Office of Surveillance and Epidemiology within the Center 
+
+for Drug Evaluation and Research of the U.S. Food and Drug Administration.

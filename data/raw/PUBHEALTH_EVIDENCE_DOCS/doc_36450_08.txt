@@ -1,0 +1,26 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop     addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape     addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical)     addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical)     addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape     addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ More common causes of malar   rash include erysipelas, cellulitis, systemic lupus erythematosus, and rosacea.
+ ReferencesStulberg D.L.
+ Penrod M.A.
+ Blatny R.A. Common bacterial skin infections.Am Fam Physician.
+ 2002; 66: 119-124View       in Article       PubMed Google ScholarBonnetblanc J.-M. Bedane C. Erysipelas recognition and management.Am J Clin Dermatol.
+ 2003; 4: 157-163View       in Article       Scopus (97) PubMed Crossref Google ScholarCelestin R. Brown J. Kihiczak G. Schwartz R.A. Erysipelas: a common potentially dangerous infection.Acta Dermatovenerol Alp Panonica Adriat.
+ 2007; 16: 123-127View       in Article       PubMed Google ScholarBernard P. Management of common bacterial infections of the skin.Curr Opin Infect Dis.
+ 2008; 21: 122-128View       in Article       Scopus (80) PubMed Crossref Google ScholarGill J.M.
+ Quisel A.M. Rocca P.V.
+ Walters D.T.
+ Diagnosis of systemic lupus erythematosus.Am Fam Physician.
+ 2003; 68: 2179-2186View       in Article       PubMed Google ScholarBlount B.W.
+ Pelletier A.L.
+ Rosacea: a common, yet commonly overlooked, condition.Am Fam Physician.
+ 2002; 66: 435-440View       in Article       PubMed Google ScholarArticle InfoFootnotesThomas J. Marrie, MD, Section EditorFunding: There are no funding sources.Conflict of Interest: There are no conflicts of interest.Authorship: Both authors had access to this data and participated in the writing of this article.IdentificationDOI: https://doi.org/10.1016/j.amjmed.2009.09.036Copyright© 2010 Elsevier Inc.
+ By continuing you agree to the Use of Cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

@@ -1,0 +1,4 @@
+)[;|$]'))   return match ?
+ Changes should only be  made when instructed to do so by your account manager.
+ ActivityMap  allows you to view data overlays on your links and content to understand how  users engage with your web site.
+ If you do not intend to use ActivityMap, you  can remove the following block of code from your AppMeasurement.js file.

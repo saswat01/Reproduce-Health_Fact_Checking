@@ -1,0 +1,2552 @@
+Department of Health and Social Care
+ Statistical Bulletinv0
+-00  2   Main points
+ Since NHS Test and Trace launc
+hed
+ (28th May 
+Œ 9th
+ September
+):  18,371
+ new people tested
+1 positive for Coronavirus (CO
+VID-19) in England 
+between 
+03 September
+ and 09 September
+, a substantial
+ increase of 
+167% compared to the 
+end of August
+. Positive c
+ases have been rising since the start of 
+July and are now 
+double
+ the
+ number 
+recorded
+ when Test an
+d Trace launched
+.    The number of people newly tested
+ had a notable increase of 27% in the most 
+recent week compared to the previous wee
+k, after remaining at consistent numbers
+ between the end of July and 
+the end of August
+.    Turnaround times for 
+pillar 2 (swab testing for the wide population) have
+ become 
+longer
+ for in
+-person test
+s2 compared to the previous week
+. In the most recent week,
+ 64.7
+% of in
+-person tests results were received the next day after the test was taken
+. Turnaround times for satel
+lite/home tests 
+also 
+continue
+d to get longer
+ overall
+.    15,526
+ people were transferred to the contract tracing system
+ between 
+03 
+September
+ and 
+09 September
+, a substantial increase of 74% compared to the 
+previous week
+. The
+ number of people 
+transferred has
+ been
+ notably
+ increas
+ing
+ since the beginning of August
+ with 
+over three times as many people
+ being
+ transferred in the most recent week compared to the beginning of August.
+    Of those
+ transferred to the contact tracing system
+ between 
+03 Septem
+ber and 
+09 September
+, 82.6% were reached and asked to provide information about their 
+contacts
+. This proportion is similar to the previous
+ two
+ week
+s but an increase from 
+73.4% in the w
+eek Test and Trace launched
+   61,790
+ people were identified as coming into close contact with someone who had 
+tested positive between 
+03 September
+ and 0
+9 September.
+ The number of contacts 
+identified has substantially increased 
+by 2
+55% since
+ the beginning of August
+. For 
+those
+ where communicat
+ion details were 
+available
+, 83.9
+% were reached and asked 
+to 
+self
+-isolate
+. Taking into account
+ all contacts identified, 
+73.9
+% were reached. The 
+percentage reached for both complex and non
+-complex contacts has stayed 
+roughly the same since 
+mid-July
+.   1 For information on how people newly tested and newly testing positive is measured see the 
+NHS Te
+st and 
+Trace statistics methodology.
+  2 Based on the median turnaround time for in
+-person tests. 
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00  3   For 
+Coronavirus (COVID
+-19) testing in the UK:
+  Testing capacity 
+across all pillars
+ between 
+03 September
+ and 
+09 September
+ was at 
+2,525,243
+ tests
+, continuing the
+ slight
+ upward trend since mid
+-August
+. Testing 
+capacity for pillar 1 and pillar 2 
+was at 1,612,543 tes
+ts, a 12% increase since mid
+-August.
+   1,160,953
+, tests were sent out across the UK within pillar 2 in the latest week
+, continuing the upward trend since mid
+-August
+.   1,407,430
+ tests were processed in the UK, across all pillars, 
+in the week from 
+03 September
+ to 
+09 September
+, continuing the upward trend since mid
+-August
+.1,254,066 tests were processed within pillar 1 and pillar 2
+.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00  4   Introduction
+ The Department for Health and Social 
+Care publishes weekly statistics on NHS Test and 
+Trace (England) and Coronavirus (COVID
+-19) 
+testing 
+in the UK,
+ across all four testing 
+pillar
+s. The purpose of this 
+publication 
+is to provide a weekly update on the implementation 
+and performance of NHS Test 
+and Trace in England and Testing in the UK.
+  For NHS Test and Trace (England), this includes:
+ Testing
+  People tested for coronavirus (COVID
+-19), England
+  People testing positive for coronavirus (COVID
+-19), England
+  Time taken for test results to become availa
+ble, England
+ Contact Tracing
+  People transferred to the contact tracing system, and the time taken for them to be 
+reached, England
+  Close contacts identified for complex and non
+-complex cases, and the time taken 
+for them to be reached, England
+  For 
+Coronavirus (COVID
+-19) testing in the UK, this includes:
+  Lab testing 
+capacity, UK
+  Number of tests sent out, UK
+  Number of tests processed, UK
+ Data collected for 
+NHS Test and 
+Trace is primarily for operational purposes and was not 
+designed to track the sprea
+d of the virus. Studies into the spread of the virus in the UK are 
+carried out by the Office for National Statistics (ONS). 
+A list of data sources relating to the 
+coronavirus pandemic in the UK can be found at 
+Coronavirus (COVID
+-19) statistics and 
+analysis.
+ A breakdown of all available testing and contact tracing data in the UK can be 
+found at 
+Testing and contact tracing in the UK: summary of data
+ A full explanation of the data sources and methods used to produce these statistics can be 
+found in the additional methodology document for 
+NHS 
+Test and Trace
+ statistics
+.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 5  Revisio
+ns to 
+figur
+es previously published
+  Figures 
+given in previous releases 
+are routinely revised for people tested
+ for coronavirus,
+ people testing positive for coronavirus
+, pillar 2 testing turnaround times
+, contact tracing 
+and cumulative figures for 
+Coronavirus testing in the UK
+. Figures for pillar 1 testing 
+turnaround times are not routinely revised as only minor changes occur to pa
+st weeks post 
+publication. Figures are only revised when substantial changes occur.
+ More detail on 
+routine revisions is given in the quality section. 
+       Department of Health and Social Care
+ Statistical Bulletinv0
+-00  6   1. NHS Test and Trace
+  NHS Test and Trace was launched 
+in England
+ on 28
+th May and ensures that anyone who 
+develops symptoms of coronavirus (COVID
+-19) can quickly be tested to find out if they 
+have the virus. It then helps trace recent close contacts of anyone who tests positives for 
+coronavirus and, if necessary, notifies them 
+that they must self 
+-isolate at home to help 
+stop the spread of the virus. The flow of how people move through the NHS Test and 
+Trace service is shown in Figure 1. More information about NHS Test and Trace can be 
+found at 
+NHS Test and Trace: How it Works.
+   1.1 
+Testing
+ in England
+ NHS Test and Trace starts with an individual taking a
+n antigen
+ test, either in 
+pillar
+ 1 (testing in hospitals and outbreak locations
+), pillar
+ 2 (nationa
+l swab testing
+) or 
+pillar 4
+ (prevalence
+ studies
+). Those who go on to test positive will have their case transferred to 
+NHS Test and Trace for contact tracing.
+  NHS Test and Trace is for England only, therefore the figures in this section are given for 
+England. Figures for UK testing are given in 
+Section 2
+ and information on contract tra
+cing 
+in Scotland, Wales and Northern Ireland can be found directly from 
+Public Health Scotland, 
+the Welsh government and the Northern Ireland Public Health Agency
+.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 7   Figure 1: Flowchart showing how people move through the NHS Test and Trace service
+   Department of Health and Social Care
+ Statistical Bulletinv0
+-00  8  People tested
+, England
+ Between 
+03 September 
+Œ 09 September
+, 571,400
+ people 
+were 
+newly 
+tested 
+for 
+coronavirus (
+COVID
+-19) an increase of 27% compared to the 
+previous week
+. Since Test and Trace launched 
+5,877,250
+ people have 
+been tested at least once
+1. 
+ There was a nota
+ble increase 
+of 27%
+ in the number of people tested compared to the 
+previous week
+. This
+ comprised of a 30% increase in the number of people tested under 
+pillar 2 and a 20% increase in pillar 1
+. The number of people tested gradually increased 
+from mid
+-June t
+o the beginning of August but
+ then
+ level
+ed off 
+until the end of August
+. In 
+the most recent week, 
+over twice as many people were tested compared to mid
+-June.
+ Since Test and Trace launched
+ at the end of 
+May, 5,877,250
+ people have been tested
+, of 
+which 
+67.9% were tested under 
+pillar
+ 2 (national swab testing
+) and 
+32.1% under 
+pillar
+ 1 (testing in hospitals and outbreak locations
+).  Figure 
+2: Number of people newly tested for COVID
+-19 by Pillar, England
+  The data for the most recent weeks can be found in the Annex, 
+Table 
+1.   Department of Health and Social Care
+ Statistical Bulletinv0
+-00 9  Between 
+03 September
+ and 0
+9 September, 
+18,
+371
+ new people had a 
+positive result
+, continuing the sharp upward trend in positive cases 
+seen in the previous week. From the end of August t
+here has been 
+a substantial
+ increase of 
+167
+%. The number of positive cases 
+between 03 September and 09 September
+ saw 
+a substantial
+ increase
+ of 75%
+ compared to the previous week
+. This continues the sharp 
+upwards trend
+ in positive cases first seen between th
+e end of August and the beginning of 
+September, where there was an increase
+ of 52%
+ in positive cases
+.  The number of positive cases declined each week between the end of May and the start of 
+July before starting to gradually increase
+ until the end of Augus
+t. The number of positive 
+cases in the most recent week 
+is 108% higher than the 8,852 cases recorded at the end of 
+May when Test and Trace launched.
+  Since Test and 
+Trace
+ launched
+, 102,394
+ people newly tested positive for 
+COVID
+-193, 82.9% of these 
+positive
+ cases were tested under 
+pillar
+ 2 in comparison to 
+17.1% under 
+pillar
+ 14. Between 
+03 September
+ and 
+09 September
+, the number of positive cases under 
+pillar 1 
+has 
+increased by 
+145% compared to the 
+end of August
+. There
+ was
+ a 169% increase in the number of positive cases under pillar 2
+ over the same period. 
+  3 Includes a small number of people who had a test under 
+pillar 4 (serology and swab testing for national surveillance).
+ 4 Note that these figures 
+may not always
+ align with other published figures for people tested and people tested positive 
+for COVID
+-19 under 
+pillars 1 and 2
+ due to the timing of data cuts.
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 10 Figure 3: Number of people 
+newly 
+testing positive 
+for 
+COVID
+-19 by pillar, England
+   The data for the most recent weeks can be found in the Annex, 
+Table 
+1.  Pillar 1 
+testing turnaround times
+, England
+  Some 
+pillar
+ 1 tests are conducted in a hospital setting, and it is therefore not practical for 
+those administering the tests to record the exact time that a test was taken. 
+Therefore
+, the 
+time taken to receive a coronavir
+us (COVID
+-19) test result is measured from the time that 
+a test is received by a laboratory for processing to the time when the results are published 
+to the Laboratory Information Management System (LIMS).
+  The total tests given in figures for 
+pillar
+ 1 turnaround times is not the same as the number 
+of tests processed in 
+pillar
+ 1 as 
+study samples and 
+tests from private 
+laboratories
+ do not 
+report data on turnaround times.
+ This data is only available from
+ 9 July
+. More details can 
+be found in the 
+NHS Test and Trace statistics methodology.
+  Almost 
+9 out of 10 
+pillar
+ 1 test
+ results were made available within 24 
+hours
+ of the laboratory receiving the test
+. This proportion has remained 
+similar since reporting began 
+on 
+9 July
+. Between 
+03 September
+ and 09 September, 
+88.8
+% of
+ pillar 1 test results were made
+ available within 24 hours. 
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 11 Figure 4: Number of 
+pillar 1 test results by whether they were made available within 24 
+hours of the laboratory receiving the test, England
+  The data for the most recent weeks can be found in the Annex, 
+Table 2
+.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 12 Pillar 2 testing turnaround times
+, England
+ There are 
+various
+ routes for 
+getting tested within 
+pillar
+ 2 (national swab testing
+). Data on 
+the time taken to receive a COVID
+-19 test 
+result 
+for 
+pillar
+ 2 is split up to reflect this
+, as 
+this
+ impacts on the 
+turnaround times
+5. These routes 
+include:
+ o Regional Test Sites
+, which includes drive
+-through testing centres with limited 
+walk
+-up facilities. 
+ o Local Test Sites
+6, which are similar to 
+regional test sites but specifically for 
+walk ups.
+ o Mobile Testing Units
+, which travel around the UK to increase access to 
+COVID
+-19 testing. They respond to need, travelling to test people at specific 
+sites including care homes, police stations and prisons.
+ o Satellite Test Centres
+, which includes test kits provided directly to ‚satellite™ 
+centres at places like hospitals or care homes that have a particularly urgent 
+or significant need.
+ o Home Test Kits
+, which are delivered to someone™s door so they can test 
+themselves and their family without leaving the house.
+ Turnaround times are 
+measured 
+and reported in 
+two
+ ways, 
+time taken from booking a test 
+and from taking a test to receiving a test result. More information on these definitions is in 
+the 
+terminology
+ section
+. Both measure
+s are 
+now 
+reported as the median turnaround time, 
+in addition to the usual turnaround time windows
+, such as within 24 hours.
+ All these 
+measures are available in full in the accompanying data tables, however only time from 
+taking a tes
+t is discussed below.
+ The total tests 
+reported
+ for 
+pillar
+ 2 turnaround times is not the same as the number of tests 
+processed in 
+pillar
+ 2 as 
+test processed is available for the UK (rather than for England
+ only
+). In addition, 
+they are reporting on the numbe
+r of
+ tests 
+at different stages in the 
+process. 
+Further
+ detail is given in the 
+NHS Test and Tra
+ce statistics m
+ethodology.
+  After someone takes a test
+, it
+ is transported to a laboratory for processing. There are 
+normal fluctuations in this operational process which can sometimes cause the time taken 
+to receive a test result to go over 24 hours, but still be turned around the next day. Where 
+appropriate ther
+efore we also provide the number of tests turned around the day after a 
+test was taken.
+ Satellite tests are predominantly used by care homes who need greater control and 
+flexibility over when test kits are collected. For example, tests may be conducted over 
+ 5 For all measures of time taken to receive a COVID
+-19 test result, th
+ere are a number of tests that were not completed. 
+This covers any test where the results were not communicated, which may be because communication details (for 
+example, phone number or email address) were not provided or were incorrect, or because the tes
+t was cancelled or 
+abandoned, or no result was available.
+ It also includes some tests 
+which are still being processed.
+ 6 Previously Local Test Sites were included together with Regional Test Site
+s but 
+from 17 September have
+ been split out 
+as a separate group 
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 13 multiple days with a collection scheduled a few days later. Home test kits take time t
+o be 
+posted to a person and be couriered back to the lab. Consequently, a low proportion of 
+Home and Satellite test results will be available within 24 hours of the test being taken.
+  The 
+median time to receive a test result after taking a test 
+has
+ increas
+ed for in
+-person 
+tests
+ in the latest week
+. In the first month of Test and Trace, 
+there was an initial reduction in the median
+ time taken 
+to receive a test result 
+for 
+in-person tests (Regional Test Sites
+, Local Test Sites
+ and 
+Mobile Testing Units
+). This beg
+an to gradually trend back up from the start of July 
+until the 
+end of August
+.  Between 03 September and 09 September 
+Regional Test Sites 
+increased
+ to 27 hours
+ from 
+20 hours
+ in the
+ previous
+ week
+. Local Test Sites increased to 35 hours up from 24 hours 
+whilst 
+Mobile Testing Units
+ increased to
+ 26 
+hours 
+from
+ 19 hours during th
+e same
+ period. 
+The 
+total 
+number of test results 
+processed
+ increased by 
+13% compared to the previous 
+week
+.  Since the start of J
+uly, the median time taken to receive a test result 
+after taking a test has 
+gradually
+ increased for both Home Testing 
+Kits/Satellite Test 
+Centres. 
+ In the first month of Test and Trace, 
+Home testing Kits and Satellite test 
+Centres
+ also 
+saw 
+an initial
+ reduction in the
+ median
+ time taken to receive a test result
+. However,
+ since the 
+end of July, 
+the median time has 
+seen a notable increase for both these routes. 
+ The median time taken
+ to receive
+ a test result from
+ Satellite Test Centres 
+has continue
+d to 
+increase
+ from a low of 
+26 hours in mid
+-June to 
+97 hours in the latest week.
+ The median 
+time for Home Testing Kits has 
+increased from a low of 
+35 hours at the beginning of July to
+ 82 hours in the most recent week
+. In the most recent week,
+ the number
+ of test results 
+processed
+ for these routes 
+is 
+more 
+than
+ double
+ the amount 
+sent out
+ in the beginning of July
+.  .  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 14 Figure 
+5: Median time 
+(hours)
+ from taking a test to receiving 
+test results by route, England
+   The data for the most recent weeks can be found in the Annex, 
+Table
+ 3.  The 
+percentage
+ of test results received within 24 hours for in person 
+tests 
+notably
+ decreased
+ from 
+the previous week
+. 
+The 
+number received 
+within 48 ho
+urs for 
+Home 
+Test
+ing
+ Kits 
+and 
+Satellite 
+Test
+ Centres
+ also
+ de
+creased
+, in the same time period. 
+  In the most recent week, for in person tests (
+Local Test Sites, 
+Mobile Testing Units and 
+Regional Test 
+Sites
+), 
+33.3% were received within 24 hours compared to 
+66.5% in the 
+previous week. 
+5.7% of test results were received within 48 hours for 
+Home 
+Test
+ Kits and 
+Satellite
+ Test Centres
+, compared
+ to 11.5% in the previous week.
+ For all routes 
+combined
+5, 14.3
+% of tests from all test sites were received within 24 hours of 
+a test being taken compared to 
+32.0
+% in the previous week. 
+ If we consider the day the 
+test was taken, 
+64.7
+% of in
+-person tests results were received the next day after the test 
+was taken and 
+28.2
+% for all routes combined.
+   Department of Health and Social Care
+ Statistical Bulletinv0
+-00 15 Table 
+1: Percentage of results received within 24 hours (in
+-person tests) or within 48 hours 
+(home/satellite tests), by route, England
+  27 August 
+Œ 02 September: 
+Number of tests  
+ 03 September 
+Œ 09 September: 
+Number of tests  
+ Since Test and Trace 
+launched. 28 May 
+Œ 09 September: 
+Number of tests  
+ Regional Test Sites within 24 hours
+ 66.6%
+ 37.9%
+ 63.3%
+ Local Test Sites within 24 hours
+ 53.2%
+ 20.4%
+ 39.5%
+ Mobile testing Units 
+within 24 hours
+ 72.5%
+ 38.4%
+ 61.7%
+ Satellite Test Centres within 48 hours
+ 8.7%
+ 4.0% 29.5%
+ Home Testing Kits within 48 hours
+ 18.4%
+ 9.3%
+ 37.9%
+  The data for the
+ total number of tests across the
+ most recent weeks can be found in the 
+Annex, 
+Table 4.
+   Department of Health and Social Care
+ Statistical Bulletinv0
+-00 16 1.2 
+Contact Tracing
+ in England
+ Once a person has a confirmed positive test result for coronavirus
+7, this person is 
+transferred to NHS Test and Trace and a case is opened for them. 
+The number of positive 
+cases transferred to the contact
+ tracing system may not always align with the number of 
+people testing positive for COVID
+-19. There are several reasons f
+or this which are outlined 
+in the 
+information for users
+ document.
+ Positive cases transferred to NHS Test and Trace are handled in different ways depending 
+on their complexity. Positive cases linked to potential outbreaks in specific settings are 
+handled by PHE Local Health Protection Teams, these are termed complex cases
+, whereas those managed more generally by online and call centre capacity are termed 
+non-complex cases. 
+Further information is available 
+in the 
+NHS Test and Trace statistics 
+methodology
+.  Positive cases transferred to NHS Test and Trace
+ The number of people transferred to the contact tracing system 
+increased by 74% compared to the previous week
+, a sharp increase in 
+the upward trend seen from the beginning of August. 
+ Between 
+03 September 
+and 09 September
+, 15,526
+ people were transferred to the contract 
+tracing system
+. The number of people transferred has been notably increasing since the 
+beginnin
+g of August with 
+an increase of 223% 
+in the most recent week compared to the 
+beginning of August
+ and 92% higher than
+ when Test and Trace launched at the end of 
+May.
+ The number of people transferred gradually 
+increase
+d between the beginning of July and 
+the 
+beginning of August
+. Since the beginning of 
+August,
+ the number of people transferred 
+has had a steep upward trend
+ with a substantial spike in the most recent week
+. This aligns 
+with the increase in the number of people testing positive for COVID
+-19 during the same 
+time period.
+  7 All positive test results under 
+pillar 1 and 
+pillar 2 should be transferred. In addition, all positive 
+swab 
+test results as part 
+of prevalence studies (
+pillar 4) are also transferred to Test and Trace
+. People tested under 
+pillar
+ 3 (serology testing to 
+show if people have antibodies from having had COVID
+-19) do not have their cases transferred to NHS Test and Trace.
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 17 Between 
+03 September
+ and 
+09
+ September
+, more than
+ 4 in every 
+5 people
+ transferred to the contact tracing system were reached and 
+asked to provi
+de information about their contacts
+. Out of the 
+15,526
+ people transferred to the contact tracing system in 
+the latest week
+, 12,831
+ (82.6%) were reached, 
+2,424
+ (15.6
+%) were not reached and 
+271 (1.7%) had no 
+communication details.
+ The proportion of people reached 
+in the latest week is 
+similar to 
+the previous 
+two weeks
+ but 
+has increased compared to the first week of Test and Trace 
+when 73.4% of people were reached.
+ In the latest week
+, 566 people
+, who were reached and asked to provide
+ details of close 
+contacts
+, were classified as complex
+ cases
+ whereas
+ 12,265
+ people were classified as 
+non-complex
+. For more information on 
+the different categories of cases
+ and 
+the outcomes 
+of contact tracing see the 
+terminology
+ section.
+ Figure 6: Number o
+f people transferred to the contact tracing system and number of 
+people transferred who were reached and asked to provide details of recent close 
+contacts (includes complex and non
+-complex cases), England
+    Department of Health and Social Care
+ Statistical Bulletinv0
+-00 18  Table 2: People transferred to the 
+contact tracing system (includes complex and non
+-complex cases) by whether they were reached and asked to provide contact details, 
+England
+8.   27 August 
+Œ 02 September: Number 
+of people 
+(Percentage) 
+ 03 September 
+Œ 09 September: 
+Number of people 
+(Percentage) 
+ Since Test and 
+Trace launched. 28 
+May Œ 09 
+September: Number 
+of people 
+(Percentage) 
+ People who were reached and 
+asked to provide details of 
+recent close contacts 
+  7,468 
+(83.8%) 
+  12,831 
+(82.6%)
+   77,858 
+(79.8%)
+  People classified as non
+-complex
+  7,108 
+  12,265 
+  69,308 
+ People classified as complex
+  360   566   8,550 
+ People who were not reached  
+  1,340 
+(15
+.0%)
+   2,424 
+(15.6%)
+   17,534 
+(18
+.0%)
+  People whose communication 
+details were not provided 
+  100 (1.1%)
+   271 (1.7%)
+   2,123 
+(2.2%)
+  Total 
+  8,908 
+  15,526 
+  97,515
+       8 If NHS test and trace is not able to reach an individual testing positive or if no commu
+nication details are available, then 
+it is not always possible to know if the case is complex or non
+-complex. Therefore, these breakdowns are not available.
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00  19  Proportion of p
+eople transferred 
+to the contact tracing system 
+who were reached
+ by 
+upper tier local 
+authority
+ (UTLA)
+ Figure 
+7: Percentage of cases reached and asked to 
+provide details of recent close contacts by UTLA
+ since Test and Trace began
+.              
+ This data is available to download as a csv on the 
+weekly 
+publication collection page
+9. 9 Th
+e regional
+ data uses a different data cut 
+to the main publication 
+therefore
+ cumulative
+ totals will not exactly match
+.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00  20  In 
+the latest week
+ more than
+ 4 in every 
+5 people who were reached and 
+asked to provide information about their contacts, provided one or more 
+close contacts
+. Out of the 
+12,831
+ people reached 
+between 
+03 September
+ and 
+09 September
+, 10,693
+ (83.3%) provided details of one or more close contacts.
+ Ther
+e has been an upward trend 
+in the proportion of people providing 
+one or 
+more contact since mid
+-August.
+ The number who were not able to give any recent close contacts refers to people who 
+were successfully reached by NHS 
+Test and 
+Trace
+, but 
+either
+ had no recent close 
+contacts or
+ could not provide details of close recent contacts to pass on for further contac
+t tracing (for example, recent close contact with strangers on the bus).
+ In the most recent week, the median number of complex contacts provided per case 
+has increased to 8 compared to 4 in the previous week
+. For
+ non-complex cases the median 
+was 
+3. This ha
+s been approximately constant since the start of 
+Test and 
+Trace. 
+ Figure 
+8: Proportion of people transferred to the contact tracing system (includes complex 
+and non-complex cases) who were reached and asked to provide details of recent close 
+contacts by 
+whether they provided details for contacts or not
+, England
+   The data for the most recent weeks can be found in the Annex, 
+Table 
+5.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 21 For non
+-complex cases
+, most people continued to be successfully 
+reached and asked to provide details about recent close contacts within 
+24 hours of their case 
+being transferred to contact tracing
+.  Between 
+03 September
+ and 09 September
+, 77.5% of people 
+(9,506
+) were reached within 
+24 hours
+. Since Test and Trace launched
+ on 28 May
+, 73.6% of people 
+(51,007
+) have been 
+reached within 24 hours.
+ Figure 9: 
+Proportion of people who were reached and asked to provide details about recent 
+close contacts by time taken to re
+ach them, England, this excludes complex cases
+  The data for the most recent weeks can be found in the Annex, 
+Table 
+6.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 22 Close contacts identified by NHS Test and Trace
+ The number of recent close contacts identified
+ has 
+steeply increased
+ since
+ the beginning of August
+. The number of contacts identified is 89% 
+higher in the most recent week compared to the previous week
+.  Between 
+03 September
+ and 09 September
+, 61,790 
+people were iden
+tified as recent close 
+contacts
+, of which 
+43,849
+ (71.0%)
+ were no
+n-complex 
+and 
+17,941
+ (29.0%)
+ were complex.
+ The steep increase
+ seen since the beginning of August
+ in the number of contacts 
+identified has been 
+mainly 
+driven by 
+an increase
+ of 300%
+ in non
+-complex
+ contacts 
+identified
+. The number of complex contacts identified has increased by 179% 
+over the 
+same time period.
+ The total number of 
+complex 
+close contacts identified 
+had a steep decline between the 
+start of co
+ntact tracing and the end of June in comparison to the number of 
+non-complex 
+contacts which remained 
+broadly 
+consistent over the same time period.
+ At the beginning of 
+May complex contacts were 81.7% of contacts identified compared to only 29.0% in the 
+most 
+recent week. 
+ As non
+-complex cases have a higher proportion of con
+tacts who are unable to be reached, 
+this has contributed to the reduction in the overall percentage of contacts who were 
+reached and asked to self
+-isolate
+ since Test and Trace launched
+, from 
+91.1% to 
+73.9% in
+ the latest week
+. Considering only the contacts 
+where 
+communication
+ details were provided, 
+83.9% were 
+reached and asked to self
+-isolate
+ in the most recent week
+. Since Test and Trace 
+launched, this is
+ 86.6%. 
+   Department of Health and Social Care
+ Statistical Bulletinv0
+-00 23 Figure 
+10: Number of people identified as recent close contacts
+, England
+  The data for the most recent weeks can be found in the Annex, 
+Table 
+7. The 
+percentage of non
+-complex contacts who were reached and asked 
+to self
+-isolate ha
+s increased 
+from 52.
+5% to 
+63.7% since the start of Test 
+and Trace.
+ Between 
+03 
+September
+ and 09 September
+, 43,849
+ non
+-complex close contacts were 
+identified of which 
+27,913
+ (63.7%) were reached and asked to self
+-isolate
+. This 
+percentage 
+saw
+ a steady
+ increase 
+at the start of contact tracing 
+but has stayed roughly the 
+same since mid
+-July.
+ In 
+the lates
+t week
+, 8,549
+ (19.5%) 
+non
+-complex contacts
+ were not reached and 
+7,387
+ (16.8%) 
+people 
+had no communication details.
+  For more information on the different 
+outcomes of contact tracing see the 
+terminology
+ section.
+ Almost all complex contacts continue to be reached and asked to self
+-isolate.
+ Between 
+03 September
+ and 09 September
+, 17,941
+ complex close contacts were identified 
+of which 
+17,740
+ (98.9
+%) were reached and asked to self
+-isolate and 
+201
+ (1.1
+%) were not 
+reached. The proportion of complex close contacts successfully reached has 
+remained 
+ Department of Health and Social Care
+ Statistical Bulletinv0
+-00 24 similar 
+since the end of July.
+ Since Test and
+ Trace launched 97.
+7% of all complex 
+contacts have been successfully reached.
+ Figure
+ 11: Proportion of contacts reached and asked to self
+-isolate
+, England
+     The data for the most recent weeks can be found in the Annex, 
+Table 
+7.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00  25  Proportion of 
+non
+-complex 
+close contacts identified 
+who were reached
+ and asked to self
+-isolate
+ by 
+upper tier local authority
+ Figure
+ 12: Percentage of 
+non-complex contacts 
+reached and asked to provide details of recent close contacts by UTLA since Test 
+and Trace began
+.                    
+ This data is available to download as a csv on the
+ weekly 
+publication collection page.
+10 10
+ Th
+e regional
+ data uses a different data cut 
+to the main publication 
+therefore
+ cumulative
+ totals will not exactly match
+.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00  26   In the most recent 
+week,
+ around
+ 3 out of 
+5 non-complex contacts were 
+from the same household as the case 
+they were identified from.
+ The proportion of 
+non
+-complex 
+close contacts from the same household as the case they 
+were identified from has been steadily declining since Test and Trace launched
+. Between
+ 03 September 
+and 
+09 September
+, 57.1
+% of non
+-complex con
+tacts were household 
+contacts
+ compared to 
+74.8%
+ at the start of Test and Trace.
+ In the same period, 
+60.3
+% of these household contacts were successfully reached and 
+asked to self
+-isolate. This is in comparison to 
+68.1
+% for non
+-complex contacts who were 
+from a different household to the case from which they were identified. 
+ It is likely that cases often advise 
+their household members to self
+-isolate in advance of 
+these contacts being directly contacted by contact tracers. 
+This results in these contacts 
+not being recorded as reached and asked to self
+-isolate,
+ which may be a contributing 
+factor to a lower proporti
+on of household contacts being reached in comparison to non
+-household contacts
+. Figure 1
+3: Proportion of recent close non
+-complex contacts by whether they were from the 
+same household as the case that they were identified from, England
+   The data for the 
+most recent weeks can be found in the Annex, 
+Table 
+8.   Department of Health and Social Care
+ Statistical Bulletinv0
+-00 27 For non
+-complex contacts who were advised to self
+-isolate
+, 
+more than 
+4 out of 
+5 were reached within 24 hours of being ident
+ified
+11.  Betw
+een 
+03 September
+ and 09 September
+, 82.8% of non
+-complex contacts that were 
+advised to self
+-isolate were reached within 24 hours of being identified. 
+This 
+proportion 
+has remained similar since Test and Trace launched.
+ Overall,
+ since
+ Test and Trace 
+launched
+, 82.0
+% of all non
+-complex contacts 
+have
+ been
+ reached and
+ advised 
+to self
+-isolate 
+within 24 hours.
+ For non
+-complex contacts who were advised to self
+-isolate, 
+almost 3 
+out 5
+ were reached within 24 hours of 
+the case that report
+ed them 
+being 
+transferred to the contact tracing system
+.  Between 
+03 September
+ and 09 September
+, 16,057
+ (57.9%) non
+-complex contacts were 
+reached and
+ advised to self
+-isolate within 24 hours of the case
+ that reported them being 
+transferred to the contact tracing syste
+m. This has seen an overall decline from 
+a peak
+ of 
+67.3% 
+at the beginning of June
+ but there has been an upward trend in the last 
+three
+ weeks.
+ This measure gives a sense of the end
+-to-end journey time through the 
+Test and 
+Trace 
+system from when an individual testing positive was reported to 
+Test and 
+Trace, to when 
+their close contacts were reached and advised to self
+-isolate.
+  11 Timing data does not include non
+-complex contacts which were subsequently escalated to co
+mplex.
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 28 Figure 1
+4: Proportion of recent close contacts who were advised to self
+-isolate within 24 
+hours, England
+   The data for the most recent weeks can be found in the Annex, 
+Table 
+9 and 1
+0.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 29 2. Coronavirus (COVID 
+- 19) 
+testing
+ in the UK
+ Statistics on 
+Coronavirus testing in the UK, across all four testing 
+pillars
+ are
+ also included 
+in this 
+release
+. This includes details on 
+lab
+oratory
+ testing 
+capacity
+ (lab capacity)
+, number 
+of 
+tests sent out and 
+number of 
+tests processed since the start of testing in the 
+UK. Definitions of the testing 
+pillar
+s can be found in the 
+terminology
+ section.
+ Information about
+ the government™s testing strategy
+ testing 
+can be found
+ in 
+Coronavirus (COVID
+-19): scaling 
+up testing programmes.
+ A historic timeseries of weekly lab capacity
+, tests sent out
+ and tests processed is available
+ on the collection page for this 
+release. Daily
+ figures for tests processed and lab capacity 
+are available on the PHE dashboard
+ This data was previous published 
+on daily statistics on coronavirus cases in the UK
+. DHSC 
+are consolidating where COVID
+-19 testing statistics are published to make it easier to find 
+the latest data. Th
+is daily
+ page will no longer be updated
+ after Thursday 20 August
+, however historic UK testi
+ng statistics 
+and t
+he accompanying  
+COVID
+-19 testing data 
+methodology note
+ are 
+still available. 
+Statistics on tests and testing capacity will be 
+published weekly in the NHS Test and Trace publication and will also available on the
+ Coronavirus in the UK
+ dashboard
+. Statistics on positive cases will continue to be published 
+daily on th
+e dashboard and weekly in the NHS Test and Trace publication.  
+ 2.1 
+Testing capacity in the UK, 
+pillar
+s 1 Œ 4  Coronavirus tests are processed in several separate labs. Projected lab capacity is an 
+estimate of each lab™s constrained capacity each day based
+ on the staff, chemical 
+reagents and other resources it has available. These estimates are made locally by the 
+labs themselves. Further information on the 
+method
+s for determining
+ capacity
+ is available 
+in the 
+NHS Test and Trace statistics methodology
+. Testing capacity between 
+03 September
+ to 
+09 September
+ was 
+2,525,243
+ tests, 
+similar to 
+the 
+previous week
+ but continuing the upward trend seen since mid
+-August
+. Testing 
+capacity gradually increased from around 45,000 tests at the end of March to over 
+2,400,000 in mid
+-July when capacity levelled off until mid
+-August.
+    Department of Health and Social Care
+ Statistical Bulletinv0
+-00 30 Table 
+3: Weekly lab testing 
+capacity, 
+Pillar
+s 1-4, U
+K12  27 August 
+- 02 September: 
+Number of tests
+    03 September 
+- 09 September: 
+Number of tests
+    Pillar 1   
+     
+575,381   
+                                   
+575,043 
+  Pillar 2   
+  1,001,500   
+                                
+1,037,500 
+  Pillar 3   
+     
+840,000   
+                                   
+840,000 
+  Pillar 4   
+       
+82,700   
+                                     
+72,700 
+  UK Total 
+    2,499,581  
+                                
+2,525,243
+  2.2 
+Number of tests sent out in the UK, pillar 2 and 
+pillar 4
+ Tests can be administered in different ways 
+Œ tests taken at a hospital, mobile testing unit, 
+regional testing sites or tests sent out to 
+individuals at home or satellite locations. Tests 
+sent out are only available as part of
+ pillar 2 (antigen testing) and pillar 4 (antigen and 
+antibody testing
+). Not all tests sent out will be returned.
+ It is not currently possible to compare the total numb
+er of tests sent out with the total 
+number of tests processed in pillar 2 and pillar 4, as given in Table 7. This is because tests 
+sent out includes only tests sent to individuals at home or to satellite testing locations, 
+while tests processed includes al
+l tests that have remained within the control of the 
+programme (and were counted at the time at which processed in labs) and those that have 
+been sent out and subsequently returned to be processed in a lab.
+ Further information is 
+available in the 
+NHS Test and Trace statistics methodology
+. 1,160,953
+ tests
+ were sent out across the UK within pillar 2 between 
+03 September
+ and 
+09 September
+, continuing the upward trend since mid
+-August
+. During the same period no 
+tests were sent out under pillar 4.
+ The number of tests sent out has overall seen an 
+upward trend si
+nce mid
+-April when there were less than 1,000 tests sent out compare
+d to 
+over 1 million in the latest week. 
+ Table 4: Number of tests sent out, pillars 2 and 4, UK
+  27 August 
+- 02 
+September: Number 
+of tests
+   03 September 
+- 09 
+September: Number of 
+tests
+    Total since data 
+collection began: 
+Number of tests
+    Pillar 2  
+       
+1,082,056  
+ 1,160,953 
+ 10,740,323 
+ Pillar 4  
+            
+33,391  
+ -   
+ 1,261,202 
+ UK Total
+         
+1,115,447  
+ 1,160,953 
+ 12,001,525
+  12
+ Pillar
+ 3 figures are for England only.
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 31  2.3 
+Number of tests processed in the UK, 
+pillar
+s 1 Œ 4 The number of tests processed counts all tests that have remained within the control of the 
+programme (and were counted at the time at which processed in labs) and those that have 
+been sent out and subsequ
+ently returned to be processed in a laboratory. 
+They are 
+counted at the time 
+at which
+ they were processed.
+ This measure shows how many tests 
+have been proce
+ssed
+, including both antigen testing (
+pillar
+ 1, pillar
+ 2 and partial 
+pillar
+ 4) 
+and antibody testing (
+pillar
+s 3 and 4). 
+ Further details are available
+ in the
+ NHS Test and 
+Trace statistics methodology
+. For 
+pillar
+s 1 and 2
+, the number of tests processed in a laboratory is different to the number 
+of test results received
+ which is reported as part of the Test and Trace testing turnaround 
+times for England. 
+This is
+ because they are 
+reporting on
+ the 
+number of 
+tests at different 
+stages in the process
+ as well as reporting different geographies (UK and England) and 
+because some tests are excluded from the turnaround time counts. 
+ Between 
+03 September
+ and 09 September
+, 1,407,430
+ tests were processed in total 
+across 
+pillar
+s 1 
+Œ 4, continuing the upward trend since mid
+-August
+. The number of tests 
+processed has gradually increased from around 13,000 at the 
+end of March
+ to over 
+1,400,000 in the most recent week.
+ Table 
+5: Number of tests processed, 
+pillar
+s 1-4, UK
+12  27 August 
+- 02 
+September: 
+Number of tests
+   03 September 
+- 09 
+September: 
+Number of tests
+   Total 
+since data 
+collection began: 
+Number of tests
+   Pillar 1
+                   
+341,217 
+ 393,336 
+ 6,411,254 
+ Pillar 2
+                   
+850,488 
+ 860,730 
+ 9,523,615 
+ Pillar 3
+                     
+28,501 
+ 33,481 
+ 1,580,356 
+ Pillar 4
+                   
+112,452 
+ 119,883 
+ 1,545,280 
+ UK Total
+                
+1,332,658 
+ 1,407,430 
+ 19,060,505
+     Department of Health and Social Care
+ Statistical Bulletinv0
+-00 32 3. 
+Terminology
+ 3.1 
+Testing
+  Pillar
+ 1 testing
+: swab
+ (antigen)
+ testing in Public Health England (PHE) labs, NHS 
+hospitals for those with a clinical need, and health and care workers
+.  Pillar
+ 2 testing
+: swab
+ (antigen)
+ testing for the wider population, through 
+commercial partnerships
+13, carried out through several differ
+ent routes:
+ o Regional Test Sites
+, which includes drive
+-through testing centres.  
+ o Local Test Sites
+14, which are similar to regional test sites but specifically 
+for walk ups.
+ o Mobile Testing Units
+, which travel around the UK to increase access to 
+COVID
+-19 testing. They respond to need, travelling to test people at 
+specific sites including care homes, police stations and prisons.
+ o Satellite Test Centres
+, which includes test kits provided directly to 
+‚satellite™ centres at places like hospitals or car
+e homes that have a 
+particularly urgent or significant need.
+ o Home Test Kits
+, which are delivered to someone™s door so they can test 
+themselves and their family without leaving the house.
+  Pillar 3 testing:
+ serology testing to show if people have antibodies 
+from having had 
+coronavirus
+.  Pillar 4 testing:
+ blood and swab testing for national surveillance support by PHE, 
+ONS
+ and research, academic and scientific partners to learn more about the 
+prevalence and spread of the virus and for other testing research pur
+poses
+.  People tested:
+ refers to people who have newly been tested for COVID
+-19 and 
+does not re
+-count people who have been tested more than once in either 
+pillar 1 or 
+pillar 2.
+  People testing positive:
+ refers only to people who have newly tested positive for 
+COVID
+-19 and does not include people who have had more than one positive test.
+ For 
+pillar 2, there are two measures of the time taken to receive a 
+coronavirus (COVID
+-19) 
+test result:
+  The time taken 
+to receive a 
+COVID
+-19 test result from time of booking
+ is 
+measured from the time that a person books an appointment on the website to the 
+time when the person receives a notification of their test result via an email or an 
+SMS. This data is only available 
+for Regional Test Sites and Mobile Testing Units, 
+ 13 See more
+ detail 
+in 
+Scaling up our testing
+ programmes
+   14
+ Previously Local Test Sites were included together with Regional Test Site
+s but 
+from 17 September have
+ been split 
+out 
+as a separate group 
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 33 as test booking and registration processes for Home Testing and Satellite Test 
+Centres are currently undertaken on different systems.
+  The time taken to receive a 
+COVID
+-19 test result from time of test
+ is me
+asured 
+from the time a person completes a test registration (or the time a person indicates 
+their test was taken for Home Testing kits) until the time that they receive a 
+notification of the result of their test via an email or an SMS.
+ 3.2 
+Tracing
+ NHS Test
+ and Trace has two ways of handling cases depending on their complexity:
+  Complex cases and contacts
+ - PHE Local Health Protection Teams manage 
+cases linked to outbreaks, examples include someone who works or has recently 
+visited:
+  a health or care setting, 
+such as a hospital or care home
+  a prison or other secure setting
+  a school for people with special needs
+  critical national infrastructure or areas vital for national security
+  Non
+-complex cases and contacts 
+- Wider online and other call centre capacity for 
+less complex cases.
+ When a case is transferred to NHS Test and Trace contact tracers will attempt to contact 
+the individual which results in one the following three outcomes:
+  Reached and provided information about recent close contacts 
+Œ contact 
+tracers successfully reached the individual and asked them to provide details for 
+recent close contacts
+  No communication details provided
+ - people who had no communication details 
+provi
+ded are those who were transferred to NHS Test and Trace but did not have 
+any associated contact details (e.g. phone number or email address).
+  Not reached 
+- The number of people who were not reached includes those people 
+who the service has been unable to 
+reach because there has been no response to 
+text, email and call reminders.
+ It also includes people who were reached but 
+declined to give details of close contacts. There may also be a small number of 
+people who have not been reached but where contact trac
+ers are still in the process 
+of trying to make contact.
+ 4. 
+Measuring the data
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 34 4.1 
+How the data were collected
+ UK level testing data is 
+collated centrally by DHSC from multiple sources across the 
+different nations and 
+pillar
+s. Further details can be found i
+n the
+ NHS Test and Trace 
+statistics methodology
+. Testing data for 
+pillar
+s 1 and 2 
+for
+ England are provided by PHE
+, NHS and commercial 
+partners
+. Contact tracing 
+data are collected from management information from the NHS 
+Test and Trace service.
+ Details about 
+the
+ data
+ sources 
+used can be found 
+in the 
+NHS Test 
+and Trace statistics m
+ethodology
+ document
+. 4.2 
+Future development
+ We have integrated these data with those from other parts of
+ NHS Test and Trace, 
+particularly testing, to provide an end
+-to-end view of the service that follows the user 
+journey. So far, 
+UK level testing data, 
+testing dat
+a for 
+pillar
+s 1 and 2
+ in England
+ and the
+ir turnaround times have been added. Further breakdowns
+ for contact tracing continue to be 
+incorporated, including complex and non
+-complex breakdowns
+, geographical breakdowns
+ and household information. 
+ To support user needs and data transparency, additional releases have been published 
+alongside the weekly Te
+st and Trace publication including care home statistics up to 8 
+July
+, people tested for coronavirus 
+(COVID
+-19) 
+between 30 January and 27 May
+, weekly 
+UK testing 
+statistics since the start of testing
+ and Demographic data for coronavirus testing 
+in England between
+ 28 May 
+and
+ 26 August
+. NHS Test and Trace continues to provide information for local authorities and their 
+partners so that they have the information they need to help contain any outbreaks.
+ In 
+tim
+e, NHS Test and Trace intends to publish detailed data from across the program to 
+support secondary analysis, for example in academic institutions. Over the coming 
+months, we intend to make the following available: 
+ Expected 
+Autumn
+ 2020
+  Details of 
+close contacts who go on to test 
+positive
+  High Level UK Test and Trace figures
+  The UK Statistical Authority has published a 
+rapid revie
+w of the Test and Trace statistics. 
+This includes recommendations on how the publication should develop it order to adhere 
+fully to the Code of Practice. These recommendations continue to influence the 
+development of the publication in the coming weeks and
+ months.
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 35 4.3 
+Strengths and limitations
+ Given the importance of this service and the commitment of NHS Test and Trace to be 
+open and transparent with the public it serves, these data are being released at the 
+earliest possible opportunity. 
+However, new IT s
+ystems and statistical outputs often take a 
+period of time to bed in. 
+These data should therefore be 
+treated with caution 
+as the system 
+and understanding of the data develops.
+ 4.4 
+Quality
+ These statistics have been put together by NHS Test and Trace 
+and DHSC 
+with advice 
+from the Office for National Statistics. 
+ Revisions to figures previous published
+ Figures for people tested and people testing positive for coronavirus (COVID
+-19) in 
+previous releases have been revised. These revisions are because:
+  The
+re are sometimes delays in laboratories submitting data to PHE.
+  Quality checks are conducted on the data to refine figures over time.
+  Figures for pillar 2 testing turnaround times in previous releases have been revised.
+ These 
+revisions are because:
+  There has been a change in methodology for how the location of home tests and 
+satellite tests is assigned. The new methodology uses the individuals home address 
+instead of the address of the laboratory. This has resulted in an
+ increase in the 
+number of tests in England as a large number of tests from England were being 
+processed in laboratories outside of England. 
+  The figures presented are based on a data
+-cut several days after the end of the 
+reporting period. Some tests may c
+ontinue to be being processed after this period 
+and therefore data may need to be revised over time.
+  Figures for contact tracing in previous releases have been revised. These revisions are 
+because
+:  The figures presented are based on a data cut several day
+s after the end of the 
+reporting period, to give time for cases reported towards the end of the 7
+-day 
+period to have an outcome. Some cases may continue to be in progress after this 
+period, and therefore data may need to be revised over time. 
+  Typicall
+y, one week after initial publication the number of 
+cases reached and 
+consequently
+ the number of contacts 
+identified 
+is expected to increase. 
+Similarly
+, the number of cases and contacts reached within 72 hours is 
+likely to increase. 
+  Cumulative figures for 
+coronavirus (COVID
+-19) testing in the UK have been revised. These 
+revisions are because:
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 36  For te
+sts processed and tests sent out, weekly totals reflect the sum of actual daily 
+counts reported for the previous week. Each week there may be corrections to 
+prev
+iously reported figures, for example, where labs (or studies under pillar 4) 
+returned the results late or duplicates were identified and removed. 
+These 
+corrections are reflected in the cumulative figures. This means that previously 
+published weekly counts 
+will not necessarily sum to the latest cumulative figure. It 
+also means that the latest cumulative count may not match the previous week™s 
+cumulative count plus this week™s weekly count.
+  Historic data for 
+tests sent out in pillar 2 has been revised due to 
+more accurate 
+data collection and reporting processes being adopted. Tests which were sent out 
+on behalf of another channel were identified and consequently more tests have 
+been sent to NHS Trusts and care homes than originally reported.
+  More information 
+on quality and how this publication adheres to the Code of Practice for 
+statistics is available in the 
+Statement of Compliance
+.  4.5 
+Feedback
+ For questions about the release please refer to the 
+Information for Users document
+ initially.
+ For feedback and any further questions, please contact 
+statistics@dhsc.gov.uk
+.  Department of Health and Social Care
+ Statistical Bulletinv0
+-00  37  Annex A: Tables
+ Annex 
+Table 
+1: People newly tested for COVID
+-19 under 
+pillar
+s 1 and 2, England
+.  27 August 
+Œ 02 September: Number 
+of people 
+ 03 September 
+Œ 09 September: Number 
+of people 
+ Since Test and Trace 
+launched. 28 May 
+Œ 09 
+September: Number of 
+people 
+ Pillar 1 
+  134,817 
+  161,167 
+  1,887,043 
+ Tested Positive
+  825   1,563 
+  17,557 
+ Pillar 2 
+  315,956 
+  410,233 
+  3,990,207 
+ Tested Positive
+  9,664 
+  16,808 
+  84,837 
+ Total 
+  450,773 
+  571,400 
+  5,877,250 
+ Tested Positive
+  10,489 
+  18,371 
+  102,394
+  Annex 
+Table 
+2: Time taken from receipt of the test by a laboratory to the time the 
+result is published, 
+pillar 1, 
+England.
+   27 August 
+Œ 02 
+September: 
+Number of people 
+(Percentage)  
+  03 September 
+Œ 09 September: Number 
+of people 
+(Percentage)  
+ 09 July 
+Œ 09 September: 
+Number of tests 
+(Percentage) 
+ Total tests conducted in Pillar 1
+  283,561 
+  335,673 
+  2,633,681 
+ Number of tests completed within 24 
+hours turnaround
+ 260,856 (92
+.0%)
+ 298,110 (88.8%)
+ 2,356
+,692 
+(89.5%)
+ Number of tests exceeding 24 hours 
+turnaround
+ 22,705 
+(8.0%)
+ 37,563 
+(11.2%)
+ 276,989 (10.5%)
+  Annex 
+Table 
+3: Median
+ time
+ from taking a test to receiving 
+test 
+results, 
+pillar
+ 2 by 
+route
+, England
+.  27 August 
+Œ 02 September: 
+Median 
+time (hours)
+   03 September 
+Œ 09 September: 
+Median 
+time (hours)
+ Since Test and Trace 
+launched. 28 May 
+Œ 09 September: 
+Median time (hours)
+ Regional Test Sites
+  20   27   21  Local Test Sites
+  24   35   26  Mobile Testing Units
+  19   26   20  Satellite Test Centres
+  91   97   62  Home Testing Kits
+  79   82   55   Department of Health and Social Care
+ Statistical Bulletinv0
+-00 38 Annex Table 4:
+ Total number of te
+sts in pillar 2
+15, by route, England
+.  27 August 
+Œ 02 September: 
+Number of tests  
+ 03 September 
+Œ 09 September: Number 
+of tests  
+ Since Test and Trace 
+launched. 28 May 
+Œ 09 September: 
+Number of tests  
+ Regional Test Sites
+  144,167 
+  115,118 
+  1,699,941 
+ Local Test Sites
+  55,119 
+  99,758 
+  298,640 
+ Mobile testing Units
+  119,998 
+  145,618 
+  1,239,288 
+ Satellite Test Centres
+  257,385 
+  343,523 
+  2,307,164 
+ Home Testing Kits
+  106,739 
+  172,886 
+  1,451,562 
+ All routes
+  683,408 
+  876,903 
+  6,996,595
+  Annex 
+Table 
+5: People transferred to the contact tracing system who 
+were reached 
+and asked to provide details of recent close contacts, by whether they provided 
+details for contacts or not, England
+. Includes both complex and non
+-complex cases.
+   27 August 
+Œ 02 
+September: Number 
+of people 
+(Percentage)  
+  03 September 
+Œ 09 September: 
+Number of people 
+(Percentage)  
+  Since Test and Trace 
+launched. 28 May 
+Œ 09 September: 
+Number of people 
+(Percentage)  
+ People who provided details 
+of one or more close contacts 
+  6,102 
+(81.7%)
+   10,693 
+(83.3%)
+   59,042 
+(75.8%)
+  People who were not able to 
+give any recent close contacts 
+  1,366 
+(18.3%)
+   2,138 
+(16.7%)
+   18,816 
+(24.2%)
+  Total 
+  7,468 
+  12,831 
+  77,858
+  Annex 
+Table 
+6: People who were reached and asked to provide details about recent 
+close contacts by time taken from case being transferred, England
+. Excludes 
+complex cases
+.   27 August 
+Œ 02 
+September: Number 
+of people 
+(Percentage)  
+  03 September 
+Œ 09 September: Number 
+of people 
+(Percentage)  
+  Since Test and 
+Trace launched. 28 
+May Œ 09 September: 
+Number of people 
+(Percentage)  
+ Within 24 hours 
+ 5,365 
+(75.5%)
+ 9,506 
+(77.5%)
+ 51,007 
+(73.6%)
+ Between 24 and 48 hours 
+ 1,267 
+(17.8%)
+ 2,113 
+(17.2%)
+ 12,708 
+(18.3%)
+ Between 48 and 72 hours 
+ 220 (3.1%)
+ 347 (2.8%)
+ 2,672 
+(3.9%)
+ After 72 hours 
+ 256 (3.6%)
+ 299 (2.4%)
+ 2,921 
+(4.2%)
+ Total 
+  7,108 
+  12,265 
+  69,308
+  15 Please note the number of 
+tests sent out
+ is not the same as the number of people tested, because people may be 
+tested more than once.
+   Department of Health and Social Care
+ Statistical Bulletinv0
+-00 39  Annex 
+Table 
+7: Number of people identified as recent close contacts by whether 
+they were 
+reached and asked to self
+-isolate, England. Includes both complex and 
+non-complex contacts.
+   27 August 
+Œ 02 
+September: Number 
+of people 
+(Percentage)  
+  03 September 
+Œ 09 September: 
+Number of people 
+(Percentage)  
+  Since Test and 
+Trace launched. 28 
+May Œ 09 September: 
+Number of people 
+(Percentage)  
+ Total number of close contacts 
+identified
+  32,705 
+  61,790 
+  434,612 
+ Close contacts reached and 
+asked to self
+-isolate
+  22,729 
+(69.5%)
+   45,653 
+(73.9%)
+   339,438 
+(78.1%)
+  Close contacts not reached 
+  9,976 
+(30.5%)
+   16,137 
+(26.1%)
+   95,174 
+(21.9%)
+  Total number of close contacts 
+identified from non
+-complex 
+cases
+  25,163 
+  43,849 
+  222,115 
+ Close contacts reached and 
+asked to self
+-isolate
+  15,438 
+(61.4%)
+   27,913 
+(63.7%)
+   131,888 
+(59.4%)
+  Close contacts not reached 
+  5,570 
+(22.1%)
+   8,549 
+(19.5%)
+   47,706 
+(21.5%)
+  Communication details not 
+provided
+  4,155 
+(16.5%)
+   7,387 
+(16.8%)
+   42,521 
+(19.1%)
+  Total number of complex close 
+contacts
+  7,542 
+  17,941 
+  212,497 
+ Close contacts reached and 
+asked to self
+-isolate
+  7,291 
+(96.7%)
+   17,740 
+(98.9%)
+   207,550 
+(97.7%)
+  Close contacts not reached 
+  251 (3.3%)
+   201 (1.1%)
+   4,947 
+(2.3%)
+ Annex 
+Table 
+8: Number of recent close non
+-complex contacts by 
+whether they were 
+from the same household as the case that they were identified from, England
+.  27 August 
+Œ 02 September: 
+Number of people 
+(Percentage) 
+ 03 September 
+Œ 09 September: 
+Number of people 
+(Percentage) 
+ Since Test and 
+Trace launched. 
+28 May 
+Œ 09 September: 
+Number of people 
+(Percentage) 
+ Total number non
+-complex 
+household contacts
+  14,703 
+  25,051 
+  141,954 
+ Close contacts reached and asked to 
+self
+-isolate
+  8,556 
+(58.2%)
+   15,108 
+(60.3%)
+   79,436 
+(56
+.0%)
+  Close contacts not reached 
+  6,147 
+(41.8%)
+   9,943 
+(39.7%)
+   62,518 
+(44
+.0%)
+  Total number non
+-complex not 
+household contacts
+  10,460 
+  18,798 
+  80,161 
+ Close contacts reached and asked to 
+self
+-isolate
+  6,882 
+(65.8%)
+   12,805 
+(68.1%)
+   52,452 
+(65.4%)
+  Close contacts not reached 
+  3,578 
+(34.2%)
+   5,993 
+(31.9%)
+   27,709 
+(34.6%)
+  Department of Health and Social Care
+ Statistical Bulletinv0
+-00 40  Annex 
+Table 
+9: Number of close contacts
+ who were advised to self
+-isolate by time 
+taken to reach them England. This excludes complex contacts.
+   27 August 
+Œ 02 
+September: 
+Number of people 
+(Percentage)  
+  03 September 
+Œ 09 September: 
+Number of people 
+(Percentage)  
+  Since Test and Trace 
+launched.
+ 28 May 
+Œ 09 
+September: Number of 
+people (Percentage)  
+ Within 24 hours 
+ 12,673 
+(82.1%)
+ 23,117 
+(82.8%)
+ 108,117 (82
+.0%)
+ Between 24 and 48 hours 
+ 2,264 
+(14.7%)
+ 3,972 
+(14.2%)
+ 18,724 
+(14.2%)
+ Between 48 and 72 hours 
+ 374 (2.4%)
+ 628 (2.2%)
+ 3,530 
+(2.7%)
+ After 72 hours 
+ 126 (0.8%)
+ 195 (0.7%)
+ 1,440 
+(1.1%)
+ Total 
+  15,437 
+  27,912 
+  131,811
+  Annex 
+Table 
+10: Number of close contacts who were advised to self
+-isolate by time 
+taken from the case that reports them being transferred to the contact tracing 
+system England. This excludes complex contacts
+16.   27 August 
+Œ 02 
+September: 
+Number of 
+people 
+(Percentage)  
+  03 September 
+Œ 09 September: 
+Number of 
+people 
+(Percentage)  
+  Since Test and 
+Trace launched. 28 
+May Œ 09 September: 
+Number of people 
+(Percentage)  
+ Within 24 hours 
+ 8,458 
+(55.1%)
+ 16,057 
+(57.9%)
+ 70,544 
+(53.9%)
+ Between 24 and 48 hours 
+ 4,161 
+(27.1%)
+ 7,883 
+(28.4%)
+ 37,128 
+(28.4%)
+ Between 48 and 72 hours 
+ 1,404 
+(9.1%)
+ 2,368 
+(8.5%)
+ 13,147 
+(10
+.0%)
+ After 72 hours 
+ 1,323 
+(8.6%)
+ 1,423 
+(5.1%)
+ 10,084 
+(7.7%)
+ Total 
+  15,346 
+  27,731 
+  130,903
+     16
+ This information is only available for non
+-complex contacts, although there are a small number of non
+-complex contacts where the time that their positive case 
+was transferred is not available.
+ 

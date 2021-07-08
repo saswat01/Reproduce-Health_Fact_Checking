@@ -1,0 +1,5 @@
+https://www.ucrdatatool.gov/ https://ucr.fbi.gov/ucr-publications Rates and volume numbers can be verified from the UCR Data Tool to 2014, 2015 and 2016 can be created from the data resident in the publication.
+ An offense rate, defined as the number of offenses per 100,000 population, is derived by first dividing a jurisdiction’s population by 100,000 and then dividing the number of offenses by the resulting figure.Example:a.
+ Population for jurisdiction, 75,000b.
+ :MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(Sa)return/WebKit\/(\S+)/.exec(a);if(Oa)return/(?
+ :Version)[ \/]?

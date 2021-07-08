@@ -1,0 +1,24 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop     addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape     addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical)     addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical)     addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape     addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ The objective was to investigate a possible relation between a stock market crash and cardiac death in a large population within the United States.
+ We obtained daily stock market data (Dow Jones Industrial Average Index), death certificate data for daily deaths in Los Angeles County (LA), and annual LA population estimates for 2005 through 2008.
+ The 4 years death rate curves (2005 through 2008) were averaged into a single curve to illustrate annual trends.
+ Data were “deseasonalized” by subtracting from the daily observed value the average value for that day of year.
+ Even in the mild LA climate, death rates were higher in winter versus summer including total death (+17%), circulatory death (+24%), coronary heart disease death (+28%), and myocardial infarction death (+38%) rates (p ), and daily death certificate data from the LA Department of Health Services Data Collection and Analysis Unit.
+ We analyzed separately all deaths (total deaths from all causes) and 3 groups of cardiac deaths based on the International Classification of Diseases, Tenth Revision (ICD-10) codes for all circulatory deaths (ICD-10 codes I00 through I99), coronary heart disease deaths (ICD-10 codes I20 through I25), and acute myocardial infarction deaths (ICD-10 codes I21).
+ All deaths of LA residents are reported to the Department of Health Services Data Collection and Analysis Unit and are included in the dataset.
+ Causes of death are coded by the attending physician or coroner.Assuming a constant population change per year, daily deaths were converted to daily death rates per a 100,000 population.
+ The death rate data were “smoothed” by converting daily rates into 11-day centered moving averages (mean of daily rates over 11 days including the observed day and the 5 days before and after).
+ The 4 years smoothed curves (2005 through 2008) were averaged into a single curve to illustrate an average seasonal behavior in death rates (i.e., day x on the average seasonal behavior curve was the median of the 4 [2005 through 2008] 11-day average values centered on day x).
+ The data were then “deseasonalized” by subtracting from each daily value on the smoothed curve the average value for that day of year, specifically looking for large deviations during the stock market crash.
+ Deseasonalization uncovers observed death rates that deviated from average seasonal behavior.
+ Raw daily death rates were also compared to average seasonal behavior.Raw daily death rates were compared in winter (December and January) versus summer (June through September) using nonparametric Wilcoxon 2-sample tests.10The Wilcoxon two sample test Web pages that perform statistical calculations!
+ By continuing you agree to the Use of Cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

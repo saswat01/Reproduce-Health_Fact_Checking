@@ -1,0 +1,115 @@
+This site needs JavaScript to work properly.
+ Please enable it to take advantage of the complete set of features!
+ Clipboard, Search History, and several other advanced features are temporarily unavailable.
+ Get the latest public health information from CDC: https://www.coronavirus.gov.
+ Get the latest research from NIH: https://www.nih.gov/coronavirus.
+ Find NCBI SARS-CoV-2 literature, sequence, and clinical content: https://www.ncbi.nlm.nih.gov/sars-cov-2/.
+ National Institutes of Health National Library of Medicine National Center for Biotechnology Information NCBI homepage   Log in    Show account info      Close Account   						Logged in as: username    Dashboard (My NCBI) Publications (My Bibliography) Account settings Log out         Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation                 Search:   Search       Advanced     Clipboard         User Guide                   Save     Email  Send to      Clipboard     My BibliographyCollectionsCitation manager    Display options      Display options         Format      Abstract PubMed PMID                Save citation to file          Format:     Summary (text) PubMed PMID Abstract (text) CSV        Create file        Cancel             Email citation          Subject:            To:           Format:     Summary Summary (text) Abstract Abstract (text)     MeSH and other data           Send email        Cancel              Add to Collections         Create a new collection    Add to an existing collection          Name your collection:            Name must be less than 100 characters           Choose a collection:          Unable to load your collection due to an error Please try again         Add        Cancel             Add to My Bibliography          My Bibliography        Unable to load your delegates due to an error Please try again       Add        Cancel             Your saved search          Name of saved search:           Search terms:       Test search terms       Would you like email updates of new search results?
+ Saved Search Alert Radio Buttons    Yes    No           Email:      (change)       Frequency:      Monthly Weekly Daily        Which day?
+ The first Sunday The first Monday The first Tuesday The first Wednesday The first Thursday The first Friday The first Saturday The first day The first weekday        Which day?
+ Sunday Monday Tuesday Wednesday Thursday Friday Saturday        Report format:      Summary Summary (text) Abstract Abstract (text) PubMed        Send at most:      1 item 5 items 10 items 20 items 50 items 100 items 200 items         Send even when there aren't any new results           Optional text in email:             Save        Cancel             Create a file for external citation management software           Create file        Cancel             Your RSS Feed          Name of RSS Feed:            Number of items displayed:      5 10 15 20 50 100         Create RSS        Cancel      RSS Link      Copy                    Full text links              Elsevier Science               Full-text links      ActionsCite     Favorites    Display options   Display options      Format    AbstractPubMedPMID    Share                   Permalink      Copy            Page navigation       Title &amp; authors       Abstract       Similar articles       Cited by       Publication types       MeSH terms       Related information       LinkOut - more resources       Title &amp; authors Abstract Similar articles Cited by Publication types MeSH terms Related information LinkOut - more resources             J Heart Lung Transplant  Actions     Search in PubMed         Search in NLM Catalog         Add to Search    .
+ 2011 Jan;30(1):45-53.     doi: 10.1016/j.healun.2010.07.003.
+ Insurance status is an independent predictor of long-term survival after lung transplantation in the United States           Jeremiah G Allen      1    , George J Arnaoutakis, Jonathan B Orens, John McDyer, John V Conte, Ashish S Shah, Christian A Merlo           Affiliations          Expand           Affiliation      1 Department of Surgery, Division of Cardiac Surgery, The Johns Hopkins Hospital, Baltimore, Maryland, USA.
+ PMID:     20869264          DOI:        10.1016/j.healun.2010.07.003        Item in Clipboard                   Insurance status is an independent predictor of long-term survival after lung transplantation in the United States          Jeremiah G Allen et al.
+ J Heart Lung Transplant.
+ 2011 Jan.        Show details       Display options      Display options         Format      Abstract PubMed PMID             J Heart Lung Transplant  Actions     Search in PubMed         Search in NLM Catalog         Add to Search    .
+ 2011 Jan;30(1):45-53.     doi: 10.1016/j.healun.2010.07.003.
+ Authors      Jeremiah G Allen      1    , George J Arnaoutakis, Jonathan B Orens, John McDyer, John V Conte, Ashish S Shah, Christian A Merlo        Affiliation      1 Department of Surgery, Division of Cardiac Surgery, The Johns Hopkins Hospital, Baltimore, Maryland, USA.
+ PMID:     20869264          DOI:        10.1016/j.healun.2010.07.003        Item in Clipboard         Full-text links   CiteDisplay options   Display options      Format    AbstractPubMedPMID     Abstract           Background:           Socioeconomic factors such as education, health insurance, and race are known to affect health outcomes.
+ The United Network for Organ Sharing (UNOS) database provides a large cohort of lung transplant (LTx) recipients in which to evaluate the effect of insurance on survival.
+ Methods:           We retrospectively reviewed UNOS data for 11,385 adult primary LTx patients (1998-2008).
+ Patients were stratified by insurance (private/self-pay, Medicare, Medicaid, and other type).
+ The Kaplan-Meier method was used to model survival after LTx.
+ Results:           Of 11,385 recipients, 7,100 (62.4%) had private insurance/self-pay; 2,966 (26.1%) had Medicare; 815 (7.2%) had Medicaid; and 504 (4.4%) had other type insurance.
+ During the study, 4,943 patients (43.4%) died.
+ Medicare and Medicaid patients had 7.0% and 8.1% lower 10-year survival than did private insurance/self-pay patients, respectively.
+ Insurance did not affect 30-day, 90-day, or 1-year survival.
+ Medicare and Medicaid patients had decreased survival at 3 years and longer.
+ When deaths in the first year were excluded, survival differences persisted.
+ Conclusions:           This study represents the largest cohort evaluating the effect of insurance on post-LTx survival.
+ Medicare and Medicaid patients have worse survival after LTx compared with private insurance/self-paying patients.
+ Copyright © 2011 International Society for Heart and Lung Transplantation.
+ Published by Elsevier Inc. All rights reserved.
+ Similar articles             Insurance and education predict long-term survival after orthotopic heart transplantation in the United States.
+ Allen JG, Weiss ES, Arnaoutakis GJ, Russell SD, Baumgartner WA, Shah AS, Conte JV.
+ Allen JG, et al.
+ J Heart Lung Transplant.
+ 2012 Jan;31(1):52-60. doi: 10.1016/j.healun.2011.07.019.
+ Epub 2011 Oct 1.
+ J Heart Lung Transplant.
+ 2012.
+ PMID: 21959122            Gender differences in predictors of late-life health insurance knowledge.
+ Jacobs-Lawson JM, Schumacher MM, Webb A. Jacobs-Lawson JM, et al.
+ J Women Aging.
+ 2007;19(3-4):121-36. doi: 10.1300/J074v19n03_09.
+ J Women Aging.
+ 2007.
+ PMID: 18032257            Outcome of liver transplantation in adult recipients: influence of neighborhood income, education, and insurance.
+ Yoo HY, Thuluvath PJ.
+ Yoo HY, et al.
+ Liver Transpl.
+ 2004 Feb;10(2):235-43. doi: 10.1002/lt.20069.
+ Liver Transpl.
+ 2004.
+ PMID: 14762861            Insurance status and racial differences in uterine cancer survival: a study of patients in the National Cancer Database.
+ Fedewa SA, Lerro C, Chase D, Ward EM.
+ Fedewa SA, et al.
+ Gynecol Oncol.
+ 2011 Jul;122(1):63-8. doi: 10.1016/j.ygyno.2011.03.010.
+ Epub 2011 Apr 3.
+ Gynecol Oncol.
+ 2011.
+ PMID: 21463888            Understanding Financial Hardship Among Cancer Survivors in the United States: Strategies for Prevention and Mitigation.
+ Yabroff KR, Bradley C, Shih YT.
+ Yabroff KR, et al.
+ J Clin Oncol.
+ 2020 Feb 1;38(4):292-301. doi: 10.1200/JCO.19.01564.
+ Epub 2019 Dec 5.
+ J Clin Oncol.
+ 2020.
+ PMID: 31804869 Review.
+ No abstract available.
+ Show more similar articles     See all similar articles         Cited by   11 articles           The impact of insurance type on listing status and wait-list mortality of patients with left ventricular assist devices as bridge to transplantation.
+ ESC Heart Fail.
+ 2020 Jun;7(3):804-810. doi: 10.1002/ehf2.12655.
+ Epub 2020 Mar 5.
+ ESC Heart Fail.
+ 2020.
+ PMID: 32135039 Free PMC article.
+ Impact of insurance status on heart transplant wait-list mortality for patients with left ventricular assist devices.
+ Emani S, Tumin D, Foraker RE, Hayes D Jr, Smith SA.
+ Emani S, et al.
+ Clin Transplant.
+ 2017 Feb;31(2):10.1111/ctr.12875.
+ doi: 10.1111/ctr.12875.
+ Epub 2016 Dec 19.
+ Clin Transplant.
+ 2017.
+ PMID: 27862317 Free PMC article.
+ Impact of Socioeconomic Status on Patients Supported With a Left Ventricular Assist Device: An Analysis of the UNOS Database (United Network for Organ Sharing).
+ Clerkin KJ, Garan AR, Wayda B, Givens RC, Yuzefpolskaya M, Nakagawa S, Takeda K, Takayama H, Naka Y, Mancini DM, Colombo PC, Topkara VK.
+ Clerkin KJ, et al.
+ Circ Heart Fail.
+ 2016 Oct;9(10):e003215.
+ doi: 10.1161/CIRCHEARTFAILURE.116.003215.
+ Circ Heart Fail.
+ 2016.
+ PMID: 27758810 Free PMC article.
+ Increased Mortality in Adult Cystic Fibrosis Patients with Medicaid Insurance Awaiting Lung Transplantation.
+ Krivchenia K, Tumin D, Tobias JD, Hayes D Jr. Krivchenia K, et al.
+ Lung.
+ 2016 Oct;194(5):799-806. doi: 10.1007/s00408-016-9927-7.
+ Epub 2016 Aug 10.
+ Lung.
+ 2016.
+ PMID: 27510183            Insurance Type and Solid Organ Transplantation Outcomes: A Historical Perspective on How Medicaid Expansion Might Impact Transplantation Outcomes.
+ DuBay DA, MacLennan PA, Reed RD, Shelton BA, Redden DT, Fouad M, Martin MY, Gray SH, White JA, Eckhoff DE, Locke JE.
+ DuBay DA, et al.
+ J Am Coll Surg.
+ 2016 Oct;223(4):611-620.e4.
+ doi: 10.1016/j.jamcollsurg.2016.07.004.
+ Epub 2016 Jul 25.
+ J Am Coll Surg.
+ 2016.
+ PMID: 27457252 Free PMC article.
+ Show more "Cited by" articles     See all "Cited by" articles         Publication types       Research Support, U.S. Gov't, Non-P.H.S.

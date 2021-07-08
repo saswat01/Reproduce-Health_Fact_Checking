@@ -1,0 +1,258 @@
+Trends in 1-Year Mortality Among Nonelderly Adults Initiating Dialysis, by State Medicaid Expansion Status View LargeDownload Mortality rates were measured from the 91st day following dialysis initiation for all patients who started dialysis during the specified half-year periods.
+ For each half-year period, the population ranged from a maximum of 11 260 patients to a minimum of 9547 patients for expansion states and from a maximum of 7592 patients to a minimum of 6191 patients for nonexpansion states.
+ Expansion states were restricted to those that expanded Medicaid beginning January 1, 2014.
+ Error bars indicate 95% CIs.Figure 2.
+ Trends in Insurance Coverage Among Nonelderly Adults Initiating Dialysis, by State Medicaid Expansion Status View LargeDownload The figure shows time trends in the proportion of nonelderly end-stage renal disease patients (A) with Medicaid coverage or (B) who were uninsured at the time of initiating dialysis in expansion and nonexpansion states.
+ For each half-year period, the population sizes ranged from a maximum of 12 362 patients to a minimum of 10 722 patients for expansion states and from a maximum of 8142 patients to a minimum of 6630 patients for nonexpansion states.
+ Expansion states were restricted to those that expanded Medicaid beginning January 1, 2014.
+ Error bars indicate 95% CIs.
+ Table 1.
+ Characteristics of Nonelderly Patients Initiating Dialysis by State Medicaid Expansion Statusa View LargeDownload Table 2.
+ Changes in Insurance Coverage, Nephrology Care, and Mortality Among Nonelderly Adults Initiating Dialysis After the Affordable Care Act Medicaid Expansiona View LargeDownload Table 3.
+ Changes in 1-Year Mortality Among Nonelderly Adults Initiating Dialysis After the Affordable Care Act Medicaid Expansion, by Age, Race/Ethnicity, and Area-Level Poverty Rate View LargeDownload           Supplement.eAppendix.
+ Supplementary Methods and ResultseFigure 1.
+ Study Population FlowcharteFigure 2.
+ Trends in One-Year Mortality in Expansion and Nonexpansion States, by Age, Race, and Area-Level PovertyeFigure 3.
+ Trends in Nephrology Care by State Medicaid Expansion Status Difference-in-Difference Estimates, by State and Expansion StatuseFigure 4.
+ State-Level Changes in 1-Year Mortality and Medicaid CoverageeFigure 5.
+ Trends in Insurance Coverage, Access to Nephrologist, Dialysis Access Type, and Mortality After Excluding Early Expansion StateseFigure 6.
+ Annual Number of Patients Initiating Dialysis in Expansion and Nonexpansion StateseTable 1.
+ Number of Patients in the Study Population, by StateeTable 2.
+ Sensitivity Analyses of Changes in Insurance Coverage, Access to Nephrologist, Presence of Arteriovenous Fistula or Graft, and 1-Year Mortality Following Medicaid ExpansioneTable 3.
+ Changes in Insurance Coverage and Nephrology Care Following Medicaid Expansion, by Age, Race and Ethnicity, and PovertyeTable 4.
+ Parallel Trends AssumptioneTable 5.
+ Changes in Health Care Amenable and Not Health Care Amenable Mortality Following Medicaid ExpansioneTable 6.
+ Changes in the Number of Incident Patients, Proportion Initiating Peritoneal Dialysis, Glomerular Filtration Rate, and Prevalence of Comorbidities Following Medicaid ExpansioneTable 7.
+ Changes in One-Year Mortality and Nephrology Care Following Medicaid Expansion, Among Patients With Medicare/VA, Dual Medicare-Medicaid CoverageeReferences        1.Kaiser Family Foundation.
+ Current status of states Medicaid expansion decisions.
+ https://www.kff.org/health-reform/slide/current-status-of-the-medicaid-expansion-decision/.
+ Accessed September 13, 2018.2.Sommers
+    BD, Gawande
+    AA, Baicker
+    K.  Health insurance coverage and health—what the recent evidence tells Us.
+ N Engl J Med.
+ 2017;377(6):586-593. doi:10.1056/NEJMsb1706645PubMedGoogle ScholarCrossref 3.Miller
+    S, Wherry
+    LR.
+ Health and access to care during the first 2 years of the ACA Medicaid expansions.
+ N Engl J Med.
+ 2017;376(10):947-956. doi:10.1056/NEJMsa1612890PubMedGoogle ScholarCrossref 4.Sommers
+    BD, Gunja
+    MZ, Finegold
+    K, Musco
+    T.  Changes in self-reported insurance coverage, access to care, and health under the Affordable Care Act.
+ JAMA.
+ 2015;314(4):366-374. doi:10.1001/jama.2015.8421PubMedGoogle ScholarCrossref 5.Cole
+    MB, Galárraga
+    O, Wilson
+    IB, Wright
+    B, Trivedi
+    AN.
+ At federally funded health centers, Medicaid expansion was associated with improved quality of care.
+ Health Aff (Millwood).
+ 2017;36(1):40-48. doi:10.1377/hlthaff.2016.0804PubMedGoogle ScholarCrossref 6.Baicker
+    K, Taubman
+    SL, Allen
+    HL, 
+   et al; Oregon Health Study Group.
+ The Oregon experiment—effects of Medicaid on clinical outcomes.
+ N Engl J Med.
+ 2013;368(18):1713-1722. doi:10.1056/NEJMsa1212321PubMedGoogle ScholarCrossref 7.Sommers
+    BD, Baicker
+    K, Epstein
+    AM.
+ Mortality and access to care among adults after state Medicaid expansions.
+ N Engl J Med.
+ 2012;367(11):1025-1034. doi:10.1056/NEJMsa1202099PubMedGoogle ScholarCrossref 8.Sommers
+    BD, Long
+    SK, Baicker
+    K.  Changes in mortality after Massachusetts health care reform: a quasi-experimental study.
+ Ann Intern Med.
+ 2014;160(9):585-593. doi:10.7326/M13-2275PubMedGoogle ScholarCrossref 9.Douthat
+    R. Is Obamacare a lifesaver?
+ New York Times.
+ March 29, 2017. https://www.nytimes.com/2017/03/29/opinion/is-obamacare-a-lifesaver.html.
+ Accessed June 18, 2018.10.US Renal Data System.
+ 2017 United States Renal Data System (USRDS) Annual Data Report: Epidemiology of Kidney Disease in the United States.
+ Bethesda, MD: National Institute of Diabetes and Digestive and Kidney Diseases; 2017.11.Winkelmayer
+    WC, Owen
+    WF
+    Jr, Levin
+    R, Avorn
+    J.
+ A propensity analysis of late versus early nephrologist referral and mortality on dialysis.
+ J Am Soc Nephrol.
+ 2003;14(2):486-492. doi:10.1097/01.ASN.0000046047.66958.C3PubMedGoogle ScholarCrossref 12.Trivedi
+    AN, Sommers
+    BD.
+ The Affordable Care Act, Medicaid expansion, and disparities in kidney disease.
+ Clin J Am Soc Nephrol.
+ 2018;13(3):480-482. doi:10.2215/CJN.10520917PubMedGoogle ScholarCrossref 13.Kurella-Tamura
+    M, Goldstein
+    BA, Hall
+    YN, Mitani
+    AA, Winkelmayer
+    WC.
+ State Medicaid coverage, ESRD incidence, and access to care.
+ J Am Soc Nephrol.
+ 2014;25(6):1321-1329. doi:10.1681/ASN.2013060658PubMedGoogle ScholarCrossref 14.Wilper
+    AP, Woolhandler
+    S, Lasser
+    KE, McCormick
+    D, Bor
+    DH, Himmelstein
+    DU.
+ Hypertension, diabetes, and elevated cholesterol among insured and uninsured US adults.
+ Health Aff (Millwood).
+ 2009;28(6):w1151-w1159.
+ doi:10.1377/hlthaff.28.6.w1151PubMedGoogle ScholarCrossref 15.Institute of Medicine.
+ Care Without Coverage: Too Little, Too Late.
+ Washington, DC: National Academy Press; 2002.16.US Renal Data System.
+ 2017 Researcher’s Guide to the USRDS Database.
+ https://www.usrds.org/2017/rg/2017_USRDS_Researcher_Guide.pdf.
+ Accessed September 13, 2018.17.Foley
+    RN, Chen
+    SC, Solid
+    CA, Gilbertson
+    DT, Collins
+    AJ.
+ Early mortality in patients starting dialysis appears to go unregistered.
+ Kidney Int.
+ 2014;86(2):392-398. doi:10.1038/ki.2014.15PubMedGoogle ScholarCrossref 18.Bertrand
+    M, Duflo
+    E, Mullainathan
+    S.  How much should we trust differences-in-differences estimates?
+ Q J Econ.
+ 2004;119:249-275. doi:10.1162/003355304772839588Google ScholarCrossref 19.Perez
+    JJ, Zhao
+    B, Qureshi
+    S, Winkelmayer
+    WC, Erickson
+    KF.
+ Health insurance and the use of peritoneal dialysis in the United States.
+ Am J Kidney Dis.
+ 2018;71(4):479-487. doi:10.1053/j.ajkd.2017.09.024PubMedGoogle ScholarCrossref 20.Sommers
+    BD.
+ State Medicaid expansions and mortality, revisited: a cost-benefit analysis.
+ Am J Health Econ.
+ 2017;3(3):392-421. doi:10.1162/ajhe_a_00080Google ScholarCrossref 21.Polkinghorne
+    KR, McDonald
+    SP, Atkins
+    RC, Kerr
+    PG.
+ Vascular access and all-cause mortality: a propensity score analysis.
+ J Am Soc Nephrol.
+ 2004;15(2):477-486. doi:10.1097/01.ASN.0000109668.05157.05PubMedGoogle ScholarCrossref 22.Kucirka
+    LM, Grams
+    ME, Lessler
+    J, 
+   et al.
+ Association of race and age with survival among patients undergoing dialysis.
+ JAMA.
+ 2011;306(6):620-626. doi:10.1001/jama.2011.1127PubMedGoogle ScholarCrossref 23.Ghosh
+    A, Sommers
+    B, Simon
+    K. The effect of state Medicaid expansions on prescription drug use: evidence from the Affordable Care Act.
+ http://www.nber.org/papers/w23044.
+ Accessed June 16, 2018.24.Harhay
+    MN, McKenna
+    RM, Boyle
+    SM, 
+   et al.
+ Association between Medicaid expansion under the Affordable Care Act and preemptive listings for kidney transplantation.
+ Clin J Am Soc Nephrol.
+ 2018;13(7):1069-1078.PubMedGoogle Scholar25.Kim
+    JP, Desai
+    M, Chertow
+    GM, Winkelmayer
+    WC.
+ Validation of reported predialysis nephrology care of older patients initiating dialysis.
+ J Am Soc Nephrol.
+ 2012;23(6):1078-1085. doi:10.1681/ASN.2011080871PubMedGoogle ScholarCrossref 26.Solid
+    CA, Collins
+    AJ, Ebben
+    JP, 
+   et al.
+ Agreement of reported vascular access on the medical evidence report and on Medicare claims at hemodialysis initiation.
+ BMC Nephrol.
+ Acid Base, Electrolytes, Fluids Allergy Allergy and Clinical Immunology Anesthesiology Anticoagulation Art of the JAMA Network Bleeding and Transfusion Cardiology Caring for the Critically Ill Patient Challenges in Clinical Electrocardiography Clinical Challenge Clinical Decision Support Clinical Implications of Basic Neuroscience Clinical Pharmacy and Pharmacology Complementary and Alternative Medicine Consensus Statements Coronavirus (COVID19) Critical Care Medicine Dental Medicine Dermatology Diabetes and Endocrinology Drug Development Electronic Health Records Emergency Medicine End of Life Environmental Health Ethics Facial Plastic Surgery Foodborne Illness Gastroenterology and Hepatology Genetics and Genomics Genomics and Precision Health Geriatrics Global Health Guide to Statistics and Medicine Guidelines Hair Disorders Health Care Delivery Models Health Care Economics, Insurance, Payment Health Care Policy Health Care Quality Health Care Reform Health Care Safety Health Care Workforce Health Disparities Health Informatics Health Policy Hematology History of Medicine Humanities Hypertension Images in Neurology Imaging Immunology Implementation Science Infectious Diseases Innovations in Health Care Delivery JAMA Infographic Law and Medicine Leading Change Less is More Lifestyle Behaviors Medical Coding Medical Devices and Equipment Medical Education Medical Education and Training Medical Journals and Publishing Melanoma Mobile Health and Telemedicine Narrative Medicine Nephrology Neurology Neuroscience and Psychiatry Notable Notes Nursing Nutrition Nutrition, Obesity, Exercise Obesity Obstetrics and Gynecology Occupational Health Oncology Ophthalmic Images Ophthalmology Orthopedics Otolaryngology Pain Medicine Pathology and Laboratory Medicine Patient Care Patient Information Pediatrics Performance Improvement Performance Measures Perioperative Care and Consultation Pharmacoeconomics Pharmacoepidemiology Pharmacogenetics Pharmacy and Clinical Pharmacology Physical Medicine and Rehabilitation Physical Therapy Physician Leadership Poetry Population Health Professional Well-being Professionalism Psychiatry Public Health Pulmonary Medicine Radiology Regulatory Agencies Research, Methods, Statistics Resuscitation Rheumatology Scientific Discovery and the Future of Medicine Shared Decision Making and Communication Sleep Medicine Sports Medicine Statistics and Research Methods Stem Cell Transplantation Substance Use and Addiction Surgery Surgical Innovation Surgical Pearls Teachable Moment Technology and Finance The Rational Clinical Examination Tobacco and e-Cigarettes Toxicology Trauma and Injury Treatment Adherence United States Preventive Services Task Force Urology Users' Guide to the Medical Literature Vaccination Venous Thromboembolism Veterans Health Violence Women's Health Workflow and Process Wound Care, Infection, Healing     Save Preferences    Privacy Policy | Terms of Use     
+    Others Also Liked
+                  This Issue       Views 11,060    Citations 22           View Metrics       Download PDF     Twitter Facebook More  Email LinkedIn       Cite This   Citation Swaminathan S, Sommers BD, Thorsness R, Mehrotra R, Lee Y, Trivedi AN.
+ Association of Medicaid Expansion With 1-Year Mortality Among Patients With End-Stage Renal Disease.
+ JAMA.
+ 2018;320(21):2242–2250.
+ 2018;320(21):2242-2250. doi:10.1001/jama.2018.16504         visual abstract icon Visual Abstract   editorial comment icon Editorial Comment   related articles icon Related Articles   author interview icon Interviews   multimedia icon Multimedia             Editorial Medicaid Expansion and Mortality Among Patients Initiating Dialysis for Irreversible Kidney Failure  Kevin F. Erickson, MD, MS; Vivian Ho, PhD; Wolfgang C. Winkelmayer, MD, ScD                         Key PointsQuestion 
+  Was the expansion of Medicaid under the Affordable Care Act (ACA) associated with lower mortality for persons with end-stage renal disease?Findings 
+  In this observational study of 236 246 nonelderly patients with end-stage renal disease initiating dialysis comparing mortality between the preexpansion period and the postexpansion period, the change in 1-year mortality among patients in Medicaid expansion states compared with those in nonexpansion states was −0.8% vs −0.2%, a difference that was statistically significant.Meaning 
+  Among patients with end-stage renal disease initiating dialysis, the ACA Medicaid expansion was associated with significant improvements in 1-year survival.
+ Abstract
+          Importance 
+  The Affordable Care Act Medicaid expansion may be associated with reduced mortality, but evidence to date is limited.
+ Patients with end-stage renal disease (ESRD) are a high-risk group that may be particularly affected by Medicaid expansion.Objective 
+  To examine the association of Medicaid expansion with 1-year mortality among nonelderly patients with ESRD initiating dialysis.Design, Setting, and Participants 
+  Difference-in-differences analysis of nonelderly patients initiating dialysis in Medicaid expansion and nonexpansion states from January 2011 to March 2017.Exposure 
+  Living in a Medicaid expansion state.Main Outcomes and Measures 
+  The primary outcome was 1-year mortality.
+ Secondary outcomes were insurance, predialysis nephrology care, and type of vascular access for hemodialysis.Results 
+  A total of 142 724 patients in expansion states (mean age, 50.2 years; 40.2% women) and 93 522 patients in nonexpansion states (mean age, 49.7; 42.4% women) were included.
+ In Medicaid expansion states, 1-year mortality following dialysis initiation declined from 6.9% in the preexpansion period to 6.1% after expansion (change, −0.8 percentage points; 95% CI, −1.1 to −0.5).
+ In nonexpansion states, mortality rates were 7.0% before expansion and 6.8% after expansion (change, −0.2 percentage points; 95% CI, −0.5 to 0.2), yielding an adjusted absolute reduction in mortality in expansion states of −0.6 percentage points (95% CI, −1.0 to −0.2).
+ Expansion was associated with a 10.5-percentage-point (95% CI, 7.7-13.2) increase in Medicaid coverage at dialysis initiation, a −4.2-percentage-point (95% CI, −6.0 to −2.3) decrease in being uninsured, and a 2.3-percentage-point (95% CI, 0.6-4.1) increase in the presence of an arteriovenous fistula or graft.
+ Changes in predialysis nephrology care were not significant.Conclusions and Relevance 
+  Among patients with ESRD initiating dialysis, living in a state that expanded Medicaid under the Affordable Care Act was associated with lower 1-year mortality.
+ If this association is causal, further research is needed to understand what factors may have contributed to this finding.
+ Introduction
+           The Affordable Care Act (ACA) expanded Medicaid eligibility to nonelderly citizens and permanent residents with incomes below 138% of the federal poverty level in participating states.
+ As of September 2018, 33 states and Washington, DC, had adopted Medicaid expansion, while 17 states had not.1 These expansions have been associated with improved coverage, access to care, preventive care, and in some studies, self-rated health.2-5  Research examining Medicaid’s effects on physical health outcomes has yielded conflicting findings.
+ A randomized trial of Medicaid coverage in Oregon failed to detect statistically significant 2-year changes in glycosylated hemoglobin, blood pressure, or cholesterol levels,6 while 2 studies reported significant declines in mortality following Medicaid expansions in the early 2000s and Massachusetts health reform in 2006.7,8 Some policy observers have cited uncertainty about the effects of insurance to claim that the ACA could be scaled back without serious health consequences.9 Most studies on the ACA have focused on population-wide changes in health outcomes; however, expanded coverage may disproportionately affect populations with serious chronic illnesses.
+ Compared with the general population, persons with end-stage renal disease (ESRD) experience increased morbidity and mortality, lost productivity, and impaired quality of life.10 Access to effective predialysis care can improve survival, but many patients receive little or no nephrology care before starting dialysis.10,11 Furthermore, although Medicare provides insurance to most patients requiring dialysis, coverage does not typically begin until the fourth month of dialysis.12 Prior to Medicaid expansion, up to one-fifth of nonelderly patients lacked insurance coverage when initiating dialysis.10,13 Being uninsured is associated with inadequate access to recommended predialysis care, underdiagnosis of diabetes and hypertension (the 2 leading causes of ESRD), and undertreatment of cardiovascular disease.13-15  This study examined the association of the ACA Medicaid expansions with mortality, insurance coverage, and predialysis nephrology care for patients with ESRD initiating dialysis.
+ Methods
+            
+         Study Design
+           Brown University’s institutional review board and the Centers for Medicare &amp; Medicaid Services (CMS) Privacy Board approved the study protocol and waived the need for informed consent.
+ We conducted a difference-in-differences study that examined changes in outcomes among new dialysis patients in states that expanded Medicaid eligibility under the ACA compared with changes among patients in nonexpansion states.
+ The study period extended from January 1, 2011, to March 31, 2017.
+ We defined the postexpansion period for each state based on its own implementation date (eAppendix in the Supplement).
+ Data Sources and Study Population
+           We obtained data from the CMS Renal Management Information System (REMIS).
+ Incident patients were identified from the ESRD Medical Evidence Form (CMS 2728), which is included in the REMIS data (eAppendix in the Supplement) The CMS 2728 form provides evidence of a diagnosis of ESRD for Medicare eligibility and “demographic and diagnostic information for all new ESRD patients regardless of Medicare entitlement.”16 CMS requires the form to be completed for all newly diagnosed patients with ESRD at the time of receiving the first maintenance dialysis treatment or transplant, including those who do not have current Medicare coverage and those who do not anticipate applying for future Medicare coverage.
+ The form is not collected for patients with acute kidney injury who are treated with dialysis.
+ Information on timing and cause of death was obtained from the ESRD Death Notification (CMS 2746).
+ CMS requires that the dialysis facility last responsible for a patient’s maintenance dialysis submit the form within 2 weeks of the date of death.
+ The study population included all US patients aged 19 to 64 years who initiated dialysis (either hemodialysis or peritoneal dialysis) during the study period, with the exception of 69 529 patients with Medicare coverage (without Medicaid), 40 758 patients with dual Medicare-Medicaid coverage, and 4125 patients with Veterans Affairs (VA) coverage without Medicare.
+ Sensitivity analyses included those with Medicare and VA coverage.
+ Further descriptions of the outcomes and number of patients for secondary outcomes are provided in the eAppendix, eFigure 1, and eTable 1 in the Supplement.
+ Measures
+           The primary outcome was whether a patient died during a 1-year period beginning with the 91st day following the initiation of dialysis.
+ This approach is consistent with that used by the US Renal Data System because deaths among incident patients are not reliably reported within the first 90 days following dialysis initiation.10,16,17  Four secondary outcomes were Medicaid coverage, being uninsured, predialysis receipt of care from a nephrologist, and presence of an arteriovenous fistula or graft (either viable or maturing) during the first outpatient treatment session.
+ Analyses of the presence of an arteriovenous fistula or graft were limited to patients starting hemodialysis.
+ The dialysis facility collected and reported information on race/ethnicity using fixed categories in the CMS 2728 form.
+ Race/ethnicity was included in the study to adjust for changes in the demographic composition of states over time and to conduct stratified analyses of the association of expansion with health outcomes.
+ To obtain information on area-level poverty, patients’ residential addresses were geocoded to census tracts using ArcGIS spatial mapping software, version 10.5.1 (ESRI).
+ The 2009-2013 American Community Survey provided the poverty rate in each patient’s census tract.
+ For 13.2% of patients who could not be geocoded to a census tract but for whom zip codes were available, we used zip code–level poverty as measured in the 2010 US Census.
+ Further descriptions of the regression specification and alternative approaches to handling missing data are described in the eAppendix in the Supplement.
+ Exploratory subgroup analyses by age, race/ethnicity, and area-level poverty rates tested the significance of 3-way interactions among expansion status, postexpansion time period, and each aforementioned subgroup.
+ Similarly, interactions between state and postexpansion time period yielded state-level adjusted changes.
+ The number needed to treat (NNT), defined as the absolute change in insurance coverage divided by the absolute change in 1-year mortality, was calculated.
+ Sensitivity Analyses
+           The following analyses assessed the validity of the difference-in-differences study design and tested the sensitivity of the estimates to alternative study populations and time periods.
+ First, an analysis confirmed that pre-ACA outcomes were parallel in expansion and nonexpansion states by testing the significance of an expansion-by-time indicator for the pre-2014 data.
+ Second, to examine whether the composition of patients with end-stage renal disease changed differentially after expansion (ie, whether coverage expansion was associated with a change in which patients initiated dialysis, and how far along in their disease trajectory), additional difference-in-differences models estimated the following outcomes: the log of the number of incident patients, prevalence of comorbid conditions, peritoneal dialysis rates,19 and estimated glomerular filtration rate, a measure of kidney function, at dialysis initiation.
+ Third, we excluded states that had expanded Medicaid to many nonelderly adults prior to 2014, following previous research.3 Fourth, because deaths among patients initiating dialysis are particularly undercounted in the first 42 days, an analysis of 1-year mortality beginning on the 43rd day after dialysis initiation was conducted.17 Fifth, observations for 15 months before and 6 months after expansion were excluded, treating them as transitional periods.
+ Sixth, an analysis examined deaths for conditions amenable and not amenable to health care.7,8 Seventh, we examined changes for nonelderly persons with Medicare, dual Medicare-Medicaid, and VA coverage, who should not have been affected by the ACA Medicaid expansions.
+ 'small' : App.isTablet ?
+ 'small' : App.isTablet ?
+ !scmByClass('pg_issue').length || !
+ !scmByClass('pg_newonline').length || !
+ !scmByClass('pg_currentissue').length || !
+ All Rights Reserved.
+ Terms of Use| Privacy Policy| Accessibility Statement          .
+ ×     Sign in to access your subscriptions   Sign in to your personal account 
+ 	     Create a free personal account to download free article PDFs,
+ 		 sign up for alerts, and more     Purchase access Subscribe to the journal Buy this article and get unlimited access and a printable PDF ($30.00) - Sign in or create a free account Rent this article for read-only access ($8.99)     Sign in to download free article PDFs  Sign in to access your subscriptions   Sign in to your personal account 
+ 	     Create a free personal account to download free article PDFs,
+ 		 sign up for alerts, and more        Get free access to newly published articles Create a personal account or sign in to:  Register for email alerts with links to free full-text articles Access PDFs of free articles Manage your interests Save searches and receive search alerts           Sign in to access your subscriptions   Sign in to your personal account 
+              Get free access to newly published articles.
+ Create a personal account to register for email alerts with links to free full-text articles.
+ By continuing to use our site, or clicking "Continue," you are agreeing to our Cookie Policy | Continue

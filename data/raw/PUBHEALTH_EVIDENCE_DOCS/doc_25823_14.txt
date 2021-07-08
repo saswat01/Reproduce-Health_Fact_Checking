@@ -1,0 +1,108 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link        Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ During June 17–20, an overnight camp in Georgia (camp A) held orientation for 138 trainees and 120 staff members; staff members remained for the first camp session, scheduled during June 21–27, and were joined by 363 campers and three senior staff members on June 21.
+ Camp A adhered to the measures in Georgia’s Executive Order* that allowed overnight camps to operate beginning on May 31, including requiring all trainees, staff members, and campers to provide documentation of a negative viral SARS-CoV-2 test ≤12 days before arriving.
+ Camp A adopted most† components of CDC’s Suggestions for Youth and Summer Camps§ to minimize the risk for SARS-CoV-2 introduction and transmission.
+ Measures not implemented were cloth masks for campers and opening windows and doors for increased ventilation in buildings.
+ Cloth masks were required for staff members.
+ On June 23, a teenage staff member left camp A after developing chills the previous evening.
+ The staff member was tested and reported a positive test result for SARS-CoV-2 the following day (June 24).
+ Camp A officials began sending campers home on June 24 and closed the camp on June 27.
+ On June 25, the Georgia Department of Public Health (DPH) was notified and initiated an investigation.
+ DPH recommended that all attendees be tested and self-quarantine, and isolate if they had a positive test result.
+ A line list of all attendees was obtained and matched to laboratory results from the State Electronic Notifiable Disease Surveillance System¶ and data from DPH case investigations.
+ A COVID-19 case associated with the camp A outbreak was defined as a positive viral SARS-CoV-2 test** in a camp A attendee from a specimen collected or reported to DPH from the first day at camp A (June 17 for staff members and trainees; June 21 for campers) through 14 days after leaving camp A (trainees left on June 21; staff members and campers left during June 24–June 27).
+ Out-of-state attendees (27) were excluded from this preliminary analysis.
+ Attack rates were calculated by dividing the number of persons with positive test results by the total number of Georgia attendees, including those who did not have testing results, because negative test results are not consistently reported in Georgia.
+ A total of 597 Georgia residents attended camp A.
+ Test results were available for 344 (58%) attendees; among these, 260 (76%) were positive.
+ The overall attack rate was 44% (260 of 597), 51% among those aged 6–10 years, 44% among those aged 11–17 years, and 33% among those aged 18–21 years (Table).
+ Attack rates increased with increasing length of time spent at the camp, with staff members having the highest attack rate (56%).
+ Among 136 cases with available symptom data, 36 (26%) patients reported no symptoms; among 100 (74%) who reported symptoms, those most commonly reported were subjective or documented fever (65%), headache (61%), and sore throat (46%).
+ The findings in this report are subject to at least three limitations.
+ First, attack rates presented are likely an underestimate because cases might have been missed among persons not tested or whose test results were not reported.
+ Second, given the increasing incidence of COVID-19 in Georgia in June and July, some cases might have resulted from transmission occurring before or after camp attendance.†† Finally, it was not possible to assess individual adherence to COVID-19 prevention measures at camp A, including physical distancing between, and within, cabin cohorts and use of cloth masks, which were not required for campers.
+ These findings demonstrate that SARS-CoV-2 spread efficiently in a youth-centric overnight setting, resulting in high attack rates among persons in all age groups, despite efforts by camp officials to implement most recommended strategies to prevent transmission.
+ Asymptomatic infection was common and potentially contributed to undetected transmission, as has been previously reported (1–4).
+ This investigation adds to the body of evidence demonstrating that children of all ages are susceptible to SARS-CoV-2 infection (1–3) and, contrary to early reports (5,6), might play an important role in transmission (7,8).
+ The multiple measures adopted by the camp were not sufficient to prevent an outbreak in the context of substantial community transmission.
+ Relatively large cohorts sleeping in the same cabin and engaging in regular singing and cheering likely contributed to transmission (9).
+ Use of cloth masks, which has been shown to reduce the risk for infection (10), was not universal.
+ An ongoing investigation will further characterize specific exposures associated with infection, illness course, and any secondary transmission to household members.
+ Physical distancing and consistent and correct use of cloth masks should be emphasized as important strategies for mitigating transmission in congregate settings.
+ TopAcknowledgments Pamela Logan, Tom Campbell, Alicia Dunajcik, Amit Eichenbaum, Amanda Mohammed, Stephanie O’Conner, Zoe Schneider, Brandon Shih, Kat Topf, Stacy Thorne, Ramika Archibald, Elizabeth Dietrich, Robert Slaughter, Aron Hall, Alicia Fry, Jill Shugart, Carolina Luna-Pinto, Chastity Walker, Jennifer Fuld, Nadia Oussayef, Julie Villanueva, Dale Rose, Margaret A. Honein, CDC COVID-19 Response Team.
+ TopCorresponding author: Christine M. Szablewski, christine.szablewski@dph.ga.gov.
+ Top1Georgia Department of Public Health; 2CDC COVID-19 Response Team; 3Epidemic Intelligence Service, CDC.
+ Top All authors have completed and submitted the International Committee of Medical Journal Editors form for disclosure of potential conflicts of interest.
+ No potential conflicts of interest were disclosed.
+ Top * https://gov.georgia.gov/document/2020-executive-order/06112001/downloadexternal icon.
+ † Notable adopted measures included cohorting of attendees by cabin (≤26 persons), staggering of cohorts for use of communal spaces, physical distancing outside of cabin cohorts, and enhanced cleaning and disinfection, especially of shared equipment and spaces.
+ § https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/summer-camps.html.
+ ¶ http://sendss.state.ga.us/external icon.
+ ** CDC defines a viral test as one that detects SARS-CoV-2 nucleic acids (e.g., polymerase chain reaction) or antigens.
+ https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html.
+ †† https://dph.georgia.gov/covid-19-daily-status-reportexternal icon.
+ TopReferences  Bialek S, Gierke R, Hughes M, McNamara LA, Pilishvili T, Skoff T; CDC COVID-19 Response Team.
+ Coronavirus disease 2019 in children—United States, February 12–April 2, 2020.
+ MMWR Morb Mortal Wkly Rep 2020;69:422–6.
+ CrossRefexternal icon PubMedexternal icon Dong Y, Mo X, Hu Y, et al.
+ Epidemiology of COVID-19 among children in China.
+ Pediatrics 2020;145:e20200702.
+ CrossRefexternal icon PubMedexternal icon Götzinger F, Santiago-García B, Noguera-Julián A, et al.
+ ; ptbnet COVID-19 Study Group.
+ COVID-19 in children and adolescents in Europe: a multinational, multicentre cohort study.
+ Lancet Child Adolesc Health 2020;S2352-4642(20):30177–2.
+ CrossRefexternal icon PubMedexternal icon Huang L, Zhang X, Zhang X, et al.
+ Rapid asymptomatic transmission of COVID-19 during the incubation period demonstrating strong infectivity in a cluster of youngsters aged 16-23 years outside Wuhan and characteristics of young patients with COVID-19: A prospective contact-tracing study.
+ J Infect 2020;80:e1–13.
+ CrossRefexternal icon PubMedexternal icon Heavey L, Casey G, Kelly C, Kelly D, McDarby G. No evidence of secondary transmission of COVID-19 from children attending school in Ireland, 2020.
+ Euro Surveill 2020;25:2000903.
+ CrossRefexternal icon PubMedexternal icon Ludvigsson JF.
+ Children are unlikely to be the main drivers of the COVID-19 pandemic—a systematic review.
+ Acta Paediatr 2020;109:1525–30.
+ CrossRefexternal icon PubMedexternal icon Park YJ, Choe YJ, Park O, et al.
+ ; COVID-19 National Emergency Response Center, Epidemiology and Case Management Team.
+ Contact tracing during coronavirus disease outbreak, South Korea, 2020.
+ Emerg Infect Dis 2020;26.
+ CrossRefexternal icon PubMedexternal icon Stein-Zamir C, Abramson N, Shoob H, et al.
+ A large COVID-19 outbreak in a high school 10 days after schools’ reopening, Israel, May 2020.
+ Euro Surveill 2020;25.
+ Epub July 23, 2020.
+ CrossRefexternal icon Hamner L, Dubbel P, Capron I, et al.
+ High SARS-CoV-2 attack rate following exposure at a choir practice—Skagit County, Washington, March 2020.
+ MMWR Morb Mortal Wkly Rep 2020;69:606–10.
+ CrossRefexternal icon PubMedexternal icon Hendrix MJ, Walde C, Findley K, Trotman R. Absence of apparent transmission of SARS-CoV-2 from two stylists after exposure at a hair salon with a universal face covering policy—Springfield, Missouri, May 2020.
+ MMWR Morb Mortal Wkly Rep 2020;69:930–2.
+ CrossRefexternal icon PubMedexternal icon  Top   TABLE.
+ SARS-CoV-2 attack rates*,† among attendees of an overnight camp, by selected characteristics ― Georgia, June 2020    Characteristic No.§ No.
+ positive Attack rate, %     Total 597 260 44   Sex   Male 267 123 46   Female 330 137 42   Age group, yrs   6–10 100 51 51   11–17 409 180 44   18–21 81 27 33   22–59 7 2 29   Type of attendee (dates attended camp)   Trainee (June 17–21) 134 26 19   Staff member (June 17–27¶,**) 117 66 56   Camper (June 21–27¶) 346 168 49   Cabin size during camp†† (no.
+ * Although positive and negative test results for Georgia residents are reportable in the state of Georgia, negative results are not consistently reported.
+ TopSuggested citation for this article: Szablewski CM, Chang KT, Brown MM, et al.
+ SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020.
+ MMWR Morb Mortal Wkly Rep 2020;69:1023–1025.
+ DOI: http://dx.doi.org/10.15585/mmwr.mm6931e1external icon.
+ MMWR and Morbidity and Mortality Weekly Report are service marks of the U.S. Department of Health and Human Services.
+ Use of trade names and commercial sources is for identification only and does not imply endorsement by the U.S. Department of 
+ Health and Human Services.
+ References to non-CDC sites on the Internet are 
+ provided as a service to MMWR readers and do not constitute or imply 
+ endorsement of these organizations or their programs by CDC or the U.S. 
+ Department of Health and Human Services.
+ CDC is not responsible for the content 
+ of pages found at these sites.
+ URL addresses listed in MMWR were current as of 
+ the date of publication.
+ All HTML versions of MMWR articles are generated from final proofs through an automated process.
+ This conversion might result in character translation or format errors in the HTML version.
+ Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+ and/or the original MMWR paper copy for printable versions of official text, figures, and tables.
+ Questions or messages regarding errors in formatting should be addressed to 
+ mmwrq@cdc.gov.
+ View Page In:pdf icon PDF [146K]       
+ 					Page last reviewed: August 6, 2020 Content source: 	Centers for Disease Control and Prevention         homeMMWR  Early Release Publicationsplus icon  Weekly Reportplus icon  Past Volumes (1982-2019)   Recommendations and Reportsplus icon  Past Volumes (1990-2019)   Surveillance Summariesplus icon  Past Volumes (1983-2019)   Supplementsplus icon  Past Volumes (1985-2016)   Notifiable Infectious Diseases Notifiable Noninfectious Conditions   For Authors About   MMWRplus icon  Staff Editorial Board   Subscriptionsplus icon  MMWR Paper Subscription   Free Continuing Education Additional  MMWR   Resources Visual Abstracts Contact Us               HAVE QUESTIONS?
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ Cancel Continue

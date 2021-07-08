@@ -1,0 +1,33 @@
+The poverty thresholds are the original version of the federal poverty measure.
+ They are updated each year by the Census Bureau.
+ The thresholds are used mainly for statistical purposes — for instance, preparing estimates of the number of Americans in poverty each year.
+ (In other words, all official poverty population figures are calculated using the poverty thresholds, not the guidelines.)
+ Poverty thresholds since 1973 (and for selected earlier years) and weighted average poverty thresholds since 1959 are available on the Census Bureau’s Web site.
+ For an example of how the Census Bureau applies the thresholds to a family’s income to determine its poverty status, see “How the Census Bureau Measures Poverty” on the Census Bureau’s web site.
+ The poverty guidelines are the other version of the federal poverty measure.
+ They are issued each year in the  Federal Register by the Department of Health and Human Services (HHS).
+ The guidelines are a simplification of the poverty thresholds for use for administrative purposes — for instance, determining financial eligibility for certain federal programs.
+ The  Federal Register  notice of the 2015 poverty guidelines is available.
+ The poverty guidelines are sometimes loosely referred to as the “federal poverty level” (FPL), but that phrase is ambiguous and should be avoided, especially in situations (e.g., legislative or administrative) where precision is important.
+ Key differences between poverty thresholds and poverty guidelines are outlined in a table under Frequently Asked Questions (FAQs).
+ See also the discussion of this topic on the Institute for Research on Poverty’s web site.
+ The following figures are the 2015 HHS poverty guidelines which are scheduled to be published in the Federal Register on January 22, 2015.
+ (Additional information will be posted after the guidelines are published.)
+ 2015 POVERTY GUIDELINES FOR THE 48 CONTIGUOUS STATES AND THE DISTRICT OF COLUMBIA    Persons in family/household Poverty guideline     For families/households with more than 8 persons, add $4,160 for each additional person.
+ 1 $11,770   2 $15,930   3 $20,090   4 $24,250   5 $28,410   6 $32,570   7 $36,730   8 $40,890    2015 POVERTY GUIDELINES FOR ALASKA    Persons in family/household Poverty guideline     For families/households with more than 8 persons, add $5,200 for each additional person.
+ 1 $14,720   2 $19,920   3 $25,120   4 $30,320   5 $35,520   6 $40,720   7 $45,920   8 $51,120    2015 POVERTY GUIDELINES FOR HAWAII    Persons in family/household Poverty guideline     For families/households with more than 8 persons, add $4,780 for each additional person.
+ 1 $13,550   2 $18,330   3 $23,110   4 $27,890   5 $32,670   6 $37,450   7 $42,230   8 $47,010    The separate poverty guidelines for Alaska and Hawaii reflect Office of Economic Opportunity administrative practice beginning in the 1966-1970 period.
+ Note that the poverty thresholds — the original version of the poverty measure — have never had separate figures for Alaska and Hawaii.
+ The poverty guidelines are not defined for Puerto Rico, the U.S. Virgin Islands, American Samoa, Guam, the Republic of the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, and Palau.
+ In cases in which a Federal program using the poverty guidelines serves any of those jurisdictions, the Federal office which administers the program is responsible for deciding whether to use the contiguous-states-and-D.C. guidelines for those jurisdictions or to follow some other procedure.
+ The poverty guidelines apply to both aged and non-aged units.
+ The guidelines have never had an aged/non-aged distinction; only the Census Bureau (statistical) poverty thresholds have separate figures for aged and non-aged one-person and two-person units.
+ Programs using the guidelines (or percentage multiples of the guidelines — for instance, 125 percent or 185 percent of the guidelines) in determining eligibility include Head Start, the Supplemental Nutition Assistance Program (SNAP), the National School Lunch Program, the Low-Income Home Energy Assistance Program, and the Children’s Health Insurance Program.
+ Note that in general, cash public assistance programs (Temporary Assistance for Needy Families and Supplemental Security Income) do NOT use the poverty guidelines in determining eligibility.
+ The Earned Income Tax Credit program also does NOT use the poverty guidelines to determine eligibility.
+ For a more detailed list of programs that do and don’t use the guidelines, see the Frequently Asked Questions(FAQs).
+ The poverty guidelines (unlike the poverty thresholds) are designated by the year in which they are issued.
+ For instance, the guidelines issued in January 2015 are designated the 2015 poverty guidelines.
+ However, the 2015 HHS poverty guidelines only reflect price changes through calendar year 2014; accordingly, they are approximately equal to the Census Bureau poverty thresholds for calendar year 2014.
+ (The 2014 thresholds are expected to be issued in final form in September 2015; a preliminary version of the 2014 thresholds is now available from the Census Bureau.)
+ The poverty guidelines may be formally referenced as “the poverty guidelines updated periodically in the  Federal Register by the U.S. Department of Health and Human Services under the authority of 42 U.S.C.

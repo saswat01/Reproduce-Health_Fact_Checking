@@ -1,0 +1,133 @@
+document.body.className + ' js-enabled' : 'js-enabled');   Skip to main content        Tell us whether you accept cookies We use cookies to collect information about how you use GOV.UK.
+ We use this information to make the website work as well as possible and improve government services.
+ Accept all cookies   Set cookie preferences       You’ve accepted all cookies.
+ You can change your cookie settings at any time.
+ Hide                     GOV.UK         Show or hide search      Search on GOV.UK      Search                         Coronavirus (COVID-19)         National restrictions in England from 5 November              The UK and EU transition         Take action now for new rules in 2021             Home   Entering and staying in the UK   Border control   Immigration Statistics, year ending September 2018           Home Office           National Statistics     How many people do we grant asylum or protection to?
+ Published 29 November 2018        Contents    1.
+ Asylum and protection   2.
+ Support provided to asylum seekers   3.
+ About the statistics   4.
+ Data tables     Print this page          © Crown copyright 2018    This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+ To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+ Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+ This publication is available at https://www.gov.uk/government/publications/immigration-statistics-year-ending-september-2018/how-many-people-do-we-grant-asylum-or-protection-to         We welcome your feedback The content and format of the quarterly release and associated data tables are currently being reviewed.
+ This means the release may be subject to change in the future.
+ If you have any comments, or suggestions for the development of this report, please provide feedback by emailing MigrationStatsEnquiries@homeoffice.gov.uk.
+ Please include the words ‘PUBLICATION FEEDBACK’ in the subject of your email.
+ See section 6 of the ‘About this release’ section for more details.
+ Data relate to the year ending September 2018 and all comparisons are with the year ending September 2017, unless indicated otherwise.
+ This section contains data on:  asylum applications and initial decisions, including unaccompanied asylum seeking children (UASC) resettlement Family reunion visas granted asylum support  We provide a more detailed commentary on an annual basis.
+ This is included in ‘Immigration statistics, year ending June 2018’.
+ As part of this release, the Home Office published ‘Experimental statistics: asylum claims on the basis of sexual orientation’.
+ These statistics are published annually, with the next planned update in August 2019.
+ 1.
+ Asylum and protection There were 27,966 asylum applications in the UK from main applicants in the year ending September 2018, 4% more than the previous year.
+ However, this remains lower than levels seen in 2015 and 2016 during the European migration crisis.
+ The total number of asylum applications to the EU in the year ending September 2018 was an estimated 613,200, down 16% from the previous year.
+ This represents a continued, but reduced, downward trend following a 51% fall in the preceding year.
+ The UK had the 6th highest number of applications within the EU.
+ There were particularly notable changes in asylum applications to the UK from:  Eritrean nationals, up 804 (72%) to 1,917 Bangladeshi nationals, down 390 (22%) to 1,374  Despite the rise in total asylum applications, the number of applications from unaccompanied asylum seeking children (UASC) fell by 10% to 2,635.
+ These accounted for 9% of total applications, compared to 11% in the previous year.
+ Figure 1: Asylum applications in the UK, year ending September 2009 to 20181   Source: Asylum table as 01 q (volume 1) Chart note:  Includes main applicants only.
+ In the year ending September 2018, 30% of initial decisions on asylum applications were grants of asylum or alternative forms of protection (such as humanitarian protection, or discretionary leave), down from 34% in the previous year.
+ Data from our ‘cohort’ analysis, published annually in table as_06, suggest that the final grant rate increases to around 50% following appeal.
+ In the year ending September 2018, the UK offered protection to 15,170 people (down 3%), in the form of grants of asylum, alternative forms of protection and resettlement (42% or 6,394 of whom were children).
+ The total number of people offered protection per year has been around this level since early 2015.
+ This comprised:  6,904 grants of asylum (down 1,250 or 15%), driven predominantly by falls in grants to Eritrean (down 988), Iranian (down 560) and Sudanese (down 458) nationals 2,272 grants of an alternative form of protection (more than doubled), driven predominantly by an increase of 742 grants of humanitarian protection to Libyan nationals 5,994 people provided protection under resettlement schemes (6% fewer than the previous year)  Figure 2: Grants of asylum, resettlement1 and other forms of protection, year ending September 2009 to 20182   Sources: Table as 02 q, Asylum tables, volume 2 and Table as 19 q, Asylum tables, volume 4 Chart notes:  Resettlement data prior to 2013 are only available annually.
+ Data for individual quarters in this period have been estimated by taking 25% of the annual total.
+ Includes main applicants and dependants.
+ The Vulnerable Person Resettlement Scheme (VPRS) accounted for three-quarters (4,567) of those resettled in the UK in the year ending September 2018.
+ Since it began in 2014, 13,961 people have now been resettled under the scheme.
+ A further 663 were resettled under the Vulnerable Children Resettlement Scheme (VCRS) over the last year.
+ Of those resettled under the VPRS and VCRS in the year ending September 2018, 96 refugees were resettled in the UK through the Community Sponsorship scheme.
+ Since the scheme began in July 2016, 159 refugees have been resettled by community sponsor groups.
+ Details of the scheme can be found in the ‘About the statistics’ section.
+ Additionally, 6,007 Family reunion visas were issued to partners and children of those granted asylum or humanitarian protection in the UK (up 18%).
+ 2.
+ Support provided to asylum seekers As at the end of September 2018, 43,383 asylum seekers in the UK were in receipt of support under Section 95 of the Immigration and Asylum Act 1999, up 10% from the previous year.
+ Of these, 40,481 (93%) were in receipt of both accommodation and subsistence, and 2,902 (7%) in receipt of subsistence only.
+ The majority (82%) were located in England, with smaller supported populations in Scotland (9%), Wales (6%) and Northern Ireland (2%).
+ A further 4,064 individuals were in receipt of support under Section 4 of the Immigration and Asylum Act 1999, up 4% from the previous year.
+ 3.
+ About the statistics This section provides information on those applying for and granted protection in the UK through both asylum and resettlement routes, as well as information on the numbers in receipt of asylum support.
+ The data are used to assess the trends in numbers of people seeking and being granted protection, the impact of policy changes, and to understand the demographics of those coming to the UK to claim protection.
+ Data on resettlement and support, broken down by local authority (LA), can help LAs understand the demands on their services and resources to aid with planning.
+ 3.1 Asylum and protection Data on asylum applications relate to the period in which the application was lodged, and initial decisions relate to the period in which the decision was made.
+ Initial decisions may, therefore, relate to an application made in an earlier period, and thus the two are not directly comparable.
+ Data on initial decisions will not reflect the total number of people granted protection through asylum routes as some initial decisions may be overturned following appeal.
+ Data on the number of appeals lodged, and their outcomes, are published in Asylum tables, volume 4.
+ UASC data includes those treated as an unaccompanied minor for at least one day between the date of application and the date of initial decision.
+ Some UASC applicants may subsequently be found to be an adult following clarification of an age-dispute.
+ Data on age disputes are published in Asylum tables, volume 3.
+ Figures on international asylum applications are based on data supplied by the individual countries to the Intergovernmental Consultations on Migration, Asylum and Refugees (IGC), United Nations High Commissioner for Refugees (UNHCR) and Eurostat.
+ These may include some estimated figures.
+ Eurostat also publishes a range of asylum statistics which can be used for comparisons across the EU.
+ The methodology used to compile Eurostat data differs from that used in this release.
+ Further details can be found in the user guide.
+ The UK Community Sponsorship scheme was launched on 19 July 2016.
+ The scheme allows community groups to support refugee families directly, and aims to help them become self-sufficient and integrated members of the community.
+ These figures are a subset of those published in under the VPRS and VCRS, and are not in addition to those resettled under these schemes.
+ Further details can be found on the GOV.UK page, Community sponsorship scheme launched for refugees in the UK.
+ Family reunion visas are a subset of the ‘Family: other’ visa category, published in the visa tables, of which around 99% relate to Family reunion visas.
+ Data on Family reunion visas come from a different administrative system to other visa data so are not directly comparable.
+ Further details can be found in the user guide.
+ 3.2 Support provided to asylum seekers Section 95 support is provided to destitute asylum seekers until their claim is finally determined, and may encompass either accommodation or subsistence, or both.
+ Section 4 provides support for individuals whose claim has been refused, and who have exhausted their appeal rights, but who are destitute, and are temporarily unable to leave the UK.
+ The data show the number of people in receipt of support on a given day, but do not show the length of time for which someone receives support, or the amount of support they receive.
+ 4.
+ Data tables Data referred to here can be found in the following tables: Asylum tables volume 1 Asylum tables volume 2 Asylum tables volume 3 Asylum tables volume 4 Asylum tables volume 5 Experimental statistics: Asylum claims on the basis of sexual orientation           Contents    Print this page         Is this page useful?
+ Maybe         Yes this page is useful        No this page is not useful       Thank you for your feedback       There is something wrong with this page        Close       Help us improve GOV.UK Don’t include personal or financial information like your National Insurance number or credit card details.
+ What were you doing?
+ What went wrong?
+ Send       Close        Help us improve GOV.UK To help us improve GOV.UK, we’d like to know more about your visit today.
+ We’ll send you a link to a feedback form.
+ It will take only 2 minutes to fill in.
+ Don’t worry we won’t send you spam or share your email address with anyone.
+ However, this remains lower than levels seen in 2015 and 2016 during the European migration crisis.
+ The total number of asylum applications to the EU in the year ending September 2018 was an estimated 613,200, down 16% from the previous year.
+ This represents a continued, but reduced, downward trend following a 51% fall in the preceding year.
+ The UK had the 6th highest number of applications within the EU.
+ There were particularly notable changes in asylum applications to the UK from: \n Eritrean nationals, up 804 (72%) to 1,917 \n Bangladeshi nationals, down 390 (22%) to 1,374 \n Despite the rise in total asylum applications, the number of applications from unaccompanied asylum seeking children (UASC) fell by 10% to 2,635.
+ These accounted for 9% of total applications, compared to 11% in the previous year.
+ Figure 1: Asylum applications in the UK, year ending September 2009 to 2018 1 \n  Source: Asylum table as 01 q (volume 1) Chart note: \n Includes main applicants only.
+ \n In the year ending September 2018, 30% of initial decisions on asylum applications were grants of asylum or alternative forms of protection (such as humanitarian protection, or discretionary leave), down from 34% in the previous year.
+ Data from our ‘cohort’ analysis, published annually in table as_06 , suggest that the final grant rate increases to around 50% following appeal.
+ In the year ending September 2018, the UK offered protection to 15,170 people (down 3%), in the form of grants of asylum, alternative forms of protection and resettlement (42% or 6,394 of whom were children).
+ The total number of people offered protection per year has been around this level since early 2015.
+ This comprised: \n 6,904 grants of asylum (down 1,250 or 15%), driven predominantly by falls in grants to Eritrean (down 988), Iranian (down 560) and Sudanese (down 458) nationals \n 2,272 grants of an alternative form of protection (more than doubled), driven predominantly by an increase of 742 grants of humanitarian protection to Libyan nationals \n 5,994 people provided protection under resettlement schemes (6% fewer than the previous year) \n Figure 2: Grants of asylum, resettlement 1 and other forms of protection, year ending September 2009 to 2018 2 \n  Sources: Table as 02 q, Asylum tables, volume 2 and Table as 19 q, Asylum tables, volume 4 Chart notes: \n Resettlement data prior to 2013 are only available annually.
+ Data for individual quarters in this period have been estimated by taking 25% of the annual total.
+ \n Includes main applicants and dependants.
+ \n The Vulnerable Person Resettlement Scheme (VPRS) accounted for three-quarters (4,567) of those resettled in the UK in the year ending September 2018.
+ Since it began in 2014, 13,961 people have now been resettled under the scheme.
+ A further 663 were resettled under the Vulnerable Children Resettlement Scheme (VCRS) over the last year.
+ Of those resettled under the VPRS and VCRS in the year ending September 2018, 96 refugees were resettled in the UK through the Community Sponsorship scheme.
+ Since the scheme began in July 2016, 159 refugees have been resettled by community sponsor groups.
+ Details of the scheme can be found in the ‘About the statistics’ section.
+ Additionally, 6,007 Family reunion visas were issued to partners and children of those granted asylum or humanitarian protection in the UK (up 18%). "
+ Of these, 40,481 (93%) were in receipt of both accommodation and subsistence, and 2,902 (7%) in receipt of subsistence only.
+ The majority (82%) were located in England, with smaller supported populations in Scotland (9%), Wales (6%) and Northern Ireland (2%).
+ A further 4,064 individuals were in receipt of support under Section 4 of the Immigration and Asylum Act 1999, up 4% from the previous year. "
+ The data are used to assess the trends in numbers of people seeking and being granted protection, the impact of policy changes, and to understand the demographics of those coming to the UK to claim protection.
+ Data on resettlement and support, broken down by local authority (LA), can help LAs understand the demands on their services and resources to aid with planning.
+ \n 3.1 Asylum and protection Data on asylum applications relate to the period in which the application was lodged, and initial decisions relate to the period in which the decision was made.
+ Initial decisions may, therefore, relate to an application made in an earlier period, and thus the two are not directly comparable.
+ Data on initial decisions will not reflect the total number of people granted protection through asylum routes as some initial decisions may be overturned following appeal.
+ Data on the number of appeals lodged, and their outcomes, are published in Asylum tables, volume 4 .
+ UASC data includes those treated as an unaccompanied minor for at least one day between the date of application and the date of initial decision.
+ Some UASC applicants may subsequently be found to be an adult following clarification of an age-dispute.
+ Data on age disputes are published in Asylum tables, volume 3 .
+ Figures on international asylum applications are based on data supplied by the individual countries to the Intergovernmental Consultations on Migration, Asylum and Refugees (IGC), United Nations High Commissioner for Refugees (UNHCR) and Eurostat.
+ These may include some estimated figures.
+ Eurostat also publishes a range of asylum statistics which can be used for comparisons across the EU.
+ The methodology used to compile Eurostat data differs from that used in this release.
+ Further details can be found in the user guide .
+ The UK Community Sponsorship scheme was launched on 19 July 2016.
+ The scheme allows community groups to support refugee families directly, and aims to help them become self-sufficient and integrated members of the community.
+ These figures are a subset of those published in under the VPRS and VCRS, and are not in addition to those resettled under these schemes.
+ Further details can be found on the GOV.UK page, Community sponsorship scheme launched for refugees in the UK .
+ Family reunion visas are a subset of the ‘Family: other’ visa category, published in the visa tables, of which around 99% relate to Family reunion visas.
+ Data on Family reunion visas come from a different administrative system to other visa data so are not directly comparable.
+ Further details can be found in the user guide .
+ \n 3.2 Support provided to asylum seekers Section 95 support is provided to destitute asylum seekers until their claim is finally determined, and may encompass either accommodation or subsistence, or both.
+ Section 4 provides support for individuals whose claim has been refused, and who have exhausted their appeal rights, but who are destitute, and are temporarily unable to leave the UK.
+ The data show the number of people in receipt of support on a given day, but do not show the length of time for which someone receives support, or the amount of support they receive. "

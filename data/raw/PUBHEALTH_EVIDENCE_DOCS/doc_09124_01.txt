@@ -1,0 +1,99 @@
+Accuracy in Speech Understanding in Noise From Unaided to Aided With PSAPs and a Hearing Aid Among 42 Older Adults With Mild to Moderate Hearing Lossa View LargeDownload           1.National Academies of Sciences, Engineering, and Medicine.
+ Hearing health care for adults: priorities for improving access and affordability.
+ http://www.nationalacademies.org/hmd/Reports/2016/Hearing-Health-Care-for-Adults.aspx.
+ Accessed March 1, 2017.2.President’s Council of Advisors on Science and Technology.
+ Letter to the president, October 2015. https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/pcast_hearing_tech_letterreport_final.pdf.
+ Accessed March 1, 2017.3.Warren
+    E, Grassley
+    C.  Over-the-counter hearing aids: the path forward [published online March 3, 2017].
+ JAMA Intern Med.
+ 2017;177(5):609-610.PubMedGoogle ScholarCrossref 4.Chien
+    W, Lin
+    FR.
+ Prevalence of hearing aid use among older adults in the United States.
+ Arch Intern Med.
+ 2012;172(3):292-293.PubMedGoogle ScholarCrossref 5.Spahr
+    AJ, Dorman
+    MF, Litvak
+    LM, 
+   et al.
+ Development and validation of the AzBio sentence lists.
+ Ear Hear.
+ Acid Base, Electrolytes, Fluids Allergy Allergy and Clinical Immunology Anesthesiology Anticoagulation Art of the JAMA Network Bleeding and Transfusion Cardiology Caring for the Critically Ill Patient Challenges in Clinical Electrocardiography Clinical Challenge Clinical Decision Support Clinical Implications of Basic Neuroscience Clinical Pharmacy and Pharmacology Complementary and Alternative Medicine Consensus Statements Coronavirus (COVID19) Critical Care Medicine Dental Medicine Dermatology Diabetes and Endocrinology Drug Development Electronic Health Records Emergency Medicine End of Life Environmental Health Ethics Facial Plastic Surgery Foodborne Illness Gastroenterology and Hepatology Genetics and Genomics Genomics and Precision Health Geriatrics Global Health Guide to Statistics and Medicine Guidelines Hair Disorders Health Care Delivery Models Health Care Economics, Insurance, Payment Health Care Policy Health Care Quality Health Care Reform Health Care Safety Health Care Workforce Health Disparities Health Informatics Health Policy Hematology History of Medicine Humanities Hypertension Images in Neurology Imaging Immunology Implementation Science Infectious Diseases Innovations in Health Care Delivery JAMA Infographic Law and Medicine Leading Change Less is More Lifestyle Behaviors Medical Coding Medical Devices and Equipment Medical Education Medical Education and Training Medical Journals and Publishing Melanoma Mobile Health and Telemedicine Narrative Medicine Nephrology Neurology Neuroscience and Psychiatry Notable Notes Nursing Nutrition Nutrition, Obesity, Exercise Obesity Obstetrics and Gynecology Occupational Health Oncology Ophthalmic Images Ophthalmology Orthopedics Otolaryngology Pain Medicine Pathology and Laboratory Medicine Patient Care Patient Information Pediatrics Performance Improvement Performance Measures Perioperative Care and Consultation Pharmacoeconomics Pharmacoepidemiology Pharmacogenetics Pharmacy and Clinical Pharmacology Physical Medicine and Rehabilitation Physical Therapy Physician Leadership Poetry Population Health Professional Well-being Professionalism Psychiatry Public Health Pulmonary Medicine Radiology Regulatory Agencies Research, Methods, Statistics Resuscitation Rheumatology Scientific Discovery and the Future of Medicine Shared Decision Making and Communication Sleep Medicine Sports Medicine Statistics and Research Methods Stem Cell Transplantation Substance Use and Addiction Surgery Surgical Innovation Surgical Pearls Teachable Moment Technology and Finance The Rational Clinical Examination Tobacco and e-Cigarettes Toxicology Trauma and Injury Treatment Adherence United States Preventive Services Task Force Urology Users' Guide to the Medical Literature Vaccination Venous Thromboembolism Veterans Health Violence Women's Health Workflow and Process Wound Care, Infection, Healing     Save Preferences    Privacy Policy | Terms of Use     
+    Others Also Liked
+                  This Issue       Views 22,050    Citations 31           View Metrics       Download PDF     Twitter Facebook More  Email LinkedIn       Cite This   Citation Reed NS, Betz J, Kendig N, Korczak M, Lin FR.
+ Personal Sound Amplification Products vs a Conventional Hearing Aid for Speech Understanding in Noise.
+ JAMA.
+ 2017;318(1):89–90.
+ doi:10.1001/jama.2017.6905 Download citation file:  Ris (Zotero) EndNote BibTex Medlars ProCite RefWorks Reference Manager Mendeley  © 2020        Permissions                  Research Letter   July 4, 2017  Personal Sound Amplification Products vs a Conventional Hearing Aid for Speech Understanding in Noise   Nicholas S. Reed, AuD1; Joshua Betz, MS2; Nicole Kendig, AuD3; et al Margaret Korczak, MS, PhD3; Frank R. Lin, MD, PhD1   Author Affiliations Article Information    1Department of Otolaryngology—Head and Neck Surgery, Johns Hopkins School of Medicine, Baltimore, Maryland   2Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland   3Department of Audiology, Speech-Language Pathology, and Deaf Studies, Towson University, Towson, Maryland      JAMA.
+ 2017;318(1):89-90. doi:10.1001/jama.2017.6905         visual abstract icon Visual Abstract   editorial comment icon Editorial Comment   related articles icon Related Articles   author interview icon Interviews   multimedia icon Multimedia                 Comment &amp; Response Personal Sound Amplification Products for Hearing Loss  Manuele Casale, MD, PhD; Lorenzo Sabatino, MD; Fabrizio Salvinelli, MD    Comment &amp; Response Personal Sound Amplification Products for Hearing Loss—Reply  Nicholas S. Reed, AuD; Frank R. Lin, MD, PhD                     Presently, hearing aids can only be purchased in the United States through a licensed professional, with a mean cost of $4700 for 2 hearing aids (uncovered by Medicare).1-3 According to nationally representative estimates based on 2605 adults from 1999 through 2006, less than 20% of adults with hearing loss report hearing aid use.4 Personal sound amplification products (PSAPs) are less-expensive, over-the-counter devices not specifically labeled for hearing loss treatment, but some are technologically comparable with hearing aids and may be appropriate for mild to moderate hearing loss.1 We compared a sample of these devices with a conventional hearing aid among individuals with mild to moderate hearing loss.
+ Methods
+           This study protocol was approved by the institutional review board at Towson University and Johns Hopkins, and written informed consent was obtained from each participant.
+ From April 2016 through January 2017, we screened adults aged 60 to 85 years at a university audiology clinic to recruit a convenience sample for a randomized study.
+ Inclusion criteria included mild to moderate hearing loss (20-55 dB HL; pure-tone average, 500-4000 Hz), no prior amplification use, and no cognitive impairment (Mini Mental State Examination score, &gt;24).
+ Participants completed the AZBio sentence-in-noise task,5 a routinely used measure of speech understanding to assess functional hearing.
+ Participants repeated sentences in the presence of background noise under 7 conditions: unaided, with a hearing aid, and with 5 PSAPs.
+ To control for order effects, sentence lists and devices were randomly ordered using a Latin square design balancing first-order carryover effects.
+ Accuracy (percentage of words repeated correctly; range, 0%-100%) was recorded for each condition (20 sentences per condition).
+ All testing was completed in a calibrated sound booth by an audiologist.
+ To simulate a moderately difficult listening environment, sentences were presented via a speaker at a 0° azimuth (ie, directly in front of the participant) at 35 dB HL while speech babble noise was concurrently presented at a 180° azimuth (ie, directly behind) at 30 dB HL.
+ A sample of 9 of the most-sold PSAPs via a large e-commerce retailer was assembled and tested for electroacoustic properties.
+ Of the 9, the 4 PSAPs with the most favorable electroacoustic properties and 1 PSAP available in retail pharmacies were chosen and compared with 1 hearing aid commonly dispensed in a university audiology clinic.
+ The same units were tested in each participant, unilaterally fit and adjusted to each participant’s hearing in their better-hearing ear using best-practice verification methods by an audiologist.
+ Linear mixed-effects regression models were used to model the within-participant change in performance with each device.
+ Analyses were performed using R (R Foundation), version 3.3.2.
+ Results
+           Of 63 adults screened, 42 met inclusion criteria (mean age, 71.6 years; women, 67%).
+ The hearing aid and 4 of the PSAPs improved speech understanding from the unaided condition.
+ The mean unaided accuracy was 76.5%.
+ The hearing aid improved speech understanding accuracy to 88.4% for an absolute improvement difference of 11.9 percentage points (95% CI, 9.8 to 14.0).
+ Three of the PSAPs demonstrated an improvement that was within 5 percentage points of the hearing aid (Sound World Solutions CS50+: accuracy, 87.4%, difference, 11.0 percentage points [95% CI, 8.8 to 13.1]; Soundhawk: accuracy, 86.7%, difference, 10.2 percentage points [95% CI, 8.0 to 12.3]; Etymotic BEAN: accuracy, 84.1%, difference, 7.7 percentage points [95% CI, 5.5 to 9.8]).
+ For 1 PSAP, mean aided speech understanding was worse than the unaided condition (MSA 30X: accuracy, 65.3%, difference, −11.2 percentage points [95% CI, −15.2 to −7.3]).
+ Discussion
+           Select PSAPs were associated with improvements in speech understanding for individuals with hearing loss that were similar to results obtained with a hearing aid, whereas 1 demonstrated little improvement and 1 degraded speech understanding.
+ The study was limited by a modest number of participants, sampled by convenience, who were tested in a controlled audiological setting under unilaterally aided conditions and with only a limited sample of currently available hearing technologies.
+ Whether similar results would have been obtained with other devices or if the user self-programmed the device is unknown.
+ Results lend support to current national initiatives from the National Academies,1 White House,2 and bipartisan legislation3 requesting that the US Food and Drug Administration create a new regulatory classification for hearing devices meeting appropriate specifications to be available over the counter.
+ Section Editor: Jody W. Zylke, MD, Deputy Editor.
+ Back to top 
+         Article Information
+          Accepted for Publication: May 10, 2017.Corresponding Author: Nicholas S. Reed, AuD, Johns Hopkins Center on Aging and Health, Department of Otolaryngology—Head and Neck Surgery, Johns Hopkins School of Medicine, 2024 E Monument St, Ste 2-700, Baltimore, MD 21205 (nreed9@jhmi.edu).Author Contributions: Dr Reed had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.Concept and design: All authors.Acquisition, analysis, or interpretation of data: Reed, Betz, Kendig, Korczak.Drafting of the manuscript: All authors.Critical revision of the manuscript for important intellectual content: Reed, Betz, Lin.Statistical analysis: Reed, Betz, Kendig, Lin.Obtained funding: Lin.Administrative, technical, or material support: Reed, Betz, Lin.Supervision: Korczak.Conflict of Interest Disclosures: All authors have completed and submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest and none were reported.
+ Dr Lin reports being a consultant to Cochlear and receiving speaker honoraria from Amplifon.Funding/Support: This study was funded in part by the Eleanor Schwartz Charitable Foundation and supported by grants NIH R33DC015062 (Dr Lin) and NIH KL2TR001077 (Dr Reed) from the National Institutes of Health.
+ Role of the Funder/Sponsor: The Eleanor Schwartz Charitable Foundation, National Institutes of Health, and Department of Health and Human Services had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+ References
+          1.National Academies of Sciences, Engineering, and Medicine.
+ Hearing health care for adults: priorities for improving access and affordability.
+ http://www.nationalacademies.org/hmd/Reports/2016/Hearing-Health-Care-for-Adults.aspx.
+ Accessed March 1, 2017.2.President’s Council of Advisors on Science and Technology.
+ Letter to the president, October 2015. https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/PCAST/pcast_hearing_tech_letterreport_final.pdf.
+ Accessed March 1, 2017.3.Warren
+    E, Grassley
+    C.  Over-the-counter hearing aids: the path forward [published online March 3, 2017].
+ JAMA Intern Med.
+ 2017;177(5):609-610.PubMedGoogle ScholarCrossref 4.Chien
+    W, Lin
+    FR.
+ Prevalence of hearing aid use among older adults in the United States.
+ Arch Intern Med.
+ 2012;172(3):292-293.PubMedGoogle ScholarCrossref 5.Spahr
+    AJ, Dorman
+    MF, Litvak
+    LM, 
+   et al.
+ Development and validation of the AzBio sentence lists.
+ Ear Hear.
+ 'small' : App.isTablet ?
+ 'small' : App.isTablet ?
+ !scmByClass('pg_issue').length || !
+ !scmByClass('pg_newonline').length || !
+ !scmByClass('pg_currentissue').length || !
+ All Rights Reserved.
+ Terms of Use| Privacy Policy| Accessibility Statement          .
+ ×     Sign in to access your subscriptions   Sign in to your personal account 
+ 	     Create a free personal account to download free article PDFs,
+ 		 sign up for alerts, and more     Purchase access Subscribe to the journal Buy this article and get unlimited access and a printable PDF ($30.00) - Sign in or create a free account Rent this article for read-only access ($8.99)     Sign in to download free article PDFs  Sign in to access your subscriptions   Sign in to your personal account 
+ 	     Create a free personal account to download free article PDFs,
+ 		 sign up for alerts, and more        Get free access to newly published articles Create a personal account or sign in to:  Register for email alerts with links to free full-text articles Access PDFs of free articles Manage your interests Save searches and receive search alerts           Sign in to access your subscriptions   Sign in to your personal account 
+              Get free access to newly published articles.
+ Create a personal account to register for email alerts with links to free full-text articles.
+ By continuing to use our site, or clicking "Continue," you are agreeing to our Cookie Policy | Continue

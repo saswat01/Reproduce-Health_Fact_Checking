@@ -1,0 +1,148 @@
+Become a Member   Submit a Topic   Contact Us   Shop Snopes   What's New   Hot 50   Fact Checks   News   Videos   Archive   About Us   Randomizer    Become a Member              				Help Snopes.
+ Become a Founding Member!
+ Alex Kasprak   Jordan Liles       Published 12 November 2019   Updated 20 November 2019                          				smg.ads.load( 'post-featured-1' ); 			     Last month, Snopes exposed a media outlet named The BL — short for “The Beauty of Life” — as being directly connected to the controversial Falun Gong-linked newspaper The Epoch Times.
+ The Epoch Times, which has effectively served as an arm of the Donald Trump campaign since 2016, has been banned from buying Facebook ads since August 2019 as a result of violations of the platform’s advertising policy.
+ The BL’s pages stopped running ads then, as well.
+ Despite our reporting that linked the two organizations, which included as just one piece of evidence a YouTube video of the exact office listed as The BL’s operation center in which two people who have written for the Epoch Times are introduced, The BL continues to deny any link whatsoever.
+ After this story was originally published, Epoch Times publisher Stephen Gregory disputed our characterization of links between The BL and The Epoch Times, telling us “no current Epoch Times staff member works for the BL, nor does Epoch Times have any business affiliation or business communications with the BL.” In this investigation, we report that The BL’s haphazard brand of deception is not limited to its undisclosed links to existing media companies.
+ Instead, its Facebook empire appears to be built on unambiguously inauthentic or fraudulent tactics, including the mass creation of fake American Facebook profiles and the creation of faux “pro-America” groups — all of which are run by The BL without disclosure, and many of which have their origins in Vietnam or other foreign countries.
+ These activities, we show, are part of a coordinated strategy that serves to amplify the reach of The BL’s own content and inflate the perceived size of their audience, all while avoiding the burdensome rules associated with advertising.
+ A cornerstone of both The Epoch Times’ and The BL’s Facebook strategy had been to purchase massive numbers of Facebook ads that ostensibly promoted their organizations but were largely indistinguishable from Trump campaign ads.
+ Our previous report showed that at least 1,929 ads created by The BL, representing around a half million dollars in money paid to Facebook, were removed for violating Facebook’s ad policies.
+ The combination of advertising-policy violations and clearly inauthentic behavior — on top of The BL’s unwillingness to admit its connection to The Epoch Times — raises a serious question: What does it take for Facebook to consider a “media company” a bad actor on its platform?
+ We reached out to Facebook with a detailed list of questions regarding The BL and its tactics.
+ : Vague Groups and Fake Administrators In our original story, we reported that The BL Facebook pages, as well as accounts tied to The BL’s staff members, appeared to be gaining control of and/or creating several pages and groups with no obvious link to The BL, gaining control of their followers, and in some cases adding links to a BL website.
+ Additional reporting from Sarah Thompson, a social media influence researcher and blogger, independently confirmed this widespread practice in a Nov. 1, 2019, post on the website SecJuice, documenting “275 profiles … used for spamming [The BL’s] content and administration of their groups.” Here, we describe our identification of over 300 fake personal Facebook accounts, many that are running — or have run — these BL-linked groups or pages and list those accounts, and most of which appear to have been created between June 2019 and October 2019: Database: Fake Facebook Profiles Tied to The BL The groups “administered” by these fake profiles appear geared toward attracting conservative Americans who would be receptive to The BL’s explicitly pro-Trump editorial strategy.
+ Those running the groups employ tactics that seek to increase engagement on their pages.
+ As an example, many pages have a pinned post with a picture of Ivanka Trump or other Trump figures and an exhortation to type the word “beautiful” below it, something that improves engagement numbers for the group.
+ Representative group names include “Make America Great Again – PRESIDENT TRUMP”; “PRESIDENT TRUMP MAGA #2020”; “Support President Trump KAG 2020”; “USA for President Trump 2020”; and “WE SUPPORT PRESIDENT TRUMP #KAG 2020.” Whatever the group name, though, the content is the same: pro-Trump memes and links to TheBL.com.
+ By following groups linked to official BL pages, tracking administrators shared between multiple BL-linked groups, and using Facebook’s own recommended groups algorithm, we have now identified at least 102 groups linked to The BL.
+ Here, we present those groups and associated pages: Database: Groups and Pages Linked to The BL The BL’s modus operandi appears to go something like this: create a group using one of the over 300 fake accounts or over 73 pages at The BL’s disposal and fill it with a large number of fake BL profiles.
+ Operators of the scheme then shift that group around the BL network, pairing it at times with other official BL pages in order to catch new members.
+ The BL’s Best Videos Facebook page, for example, has served as an admin in at least 25 pro-Trump Facebook Groups, right alongside other BL employees who also act as admins.
+ Ultimately, the group-growing game is one of attrition.
+ Not all of the groups thrive, but the ones that do are usually cut off from having any obvious link to The BL — left to roam free in a meme-polluted wasteland while serving as a broadcast antenna for The BL, their content, prompts to sign up for text-message alerts, and their political agenda.
+ smg.ads.load( 'post-body-2' ); 			   To feed The BL’s insatiable need for groups, and presumably to make it slightly harder for Facebook to detect the coordination, The BL requires what appears to be actual, unique humans to administer those groups.
+ Faced perhaps with a dearth of actual humans interested in that role, The BL seems to have adopted several strategies to create fake profiles.
+ The BL’s strategies in this regard appear neither subtle nor clearly thought-through.
+ The primary approaches seem to include either acquiring and converting defunct foreign accounts and/or using stock photos of celebrities to create profiles of Americans.
+ The BL Guide to Making Easily Detectable Fake Facebook Profiles  Do: Use Repurposed Foreign Profiles As discussed in our earlier reporting, The BL has myriad ties to Vietnamese branches of the Falun Gong media empire, a diffuse group of related entities that includes The Epoch Times.
+ The BL’s founder and director, Trung Vu, was once the CEO of the Vietnamese edition of The Epoch Times and later worked for NTD TV, another Falun Gong-associated property.
+ One of the many items linking The BL to The Epoch Times is the fact that an IP server used by The BL is actually registered to Epoch Times Vietnam.
+ This Vietnamese influence can also be seen in many of the fake profiles controlled by The BL.
+ We suspect at least some of these profiles stem from the purchase or acquisition of existing pages in Vietnam that are then altered to become the profiles of fake Americans.
+ Many profiles that now have American-sounding names have as their profile URL completely unrelated Vietnamese-appearing names.
+ A Facebook profile currently named “Robert Henry” has “duc.liem.77” as the name contained within the URL, likely a reference to the actual name used when the account was created.
+ A profile named “Madison Elijah,” as another example, appears to have once belonged to someone named Parmar Jayanti.
+ A profile for “James Roscoe”, which still lists as its interests primarily Vietnam-specific items, has the name “luc.van.18294053” in its url.
+ Do: Use (And Reuse) Stock Images      				smg.ads.load( 'post-body-3' ); 			   Speaking of James Roscoe, that profile picture is a stock image from the free photo website Unsplash.com (a recurring theme in many of the fake profiles is the repeated use of photographs found on that website).
+ Occasionally, operators at The BL appear to use the same photo for different Facebook profiles with different names.
+ Roscoe’s fake visage also happens to be used for another fake BL profile, this one bearing the name “James Anderson”:  In another example, alleged Los Angeles resident “David Strong” and alleged real human “Anthony Vu” both use the same stock photo as their profile picture.
+ The profile of Vu, as was the case in other repurposed Facebook pages described above, still retains references to Vietnamese popular culture:  Do: Use Celebrities As Profile Images Though we can think of no strategic benefit to using easily recognizable public figures as the profile photos of what are meant to be covert fake Facebook profiles, this is a tactic that The BL has employed on multiple occasions.
+ Purported administrators of BL-linked groups have used the images of actors Glenn Close, Helen Mirren, and Julie Walters as their Facebook profile pictures, for example:  All three alleged celebrity doppelgängers, at the time of this reporting, are administrators in the BL-linked group “WE SUPPORT PRESIDENT TRUMP # MAGA.” among others:      				smg.ads.load( 'post-body-4' ); 			    Don’t: Put Too Much Thought or Effort into the Profile’s Details An abnormally high number of the fake BL profiles list their locations as towns that sound like something a coffee-starved intern with a limited knowledge of United States geography might come up with: Texas City, Texas, and California City, California, for example.
+ These are indeed real towns, but the abnormally high concentration of BL-associated profiles in these low-population areas is suspect.
+ In some cases, other details are even harder to swallow.
+ Take the aforementioned stock photo profile of James Anderson.
+ An alleged resident of Texas City, Texas, he lists his employer as the Texas Rangers baseball team, an Arlington-based organization five hours from Texas City, Texas.
+ Another profile of an alleged Los Angeles resident named Anderson Charles lists the more geographically-plausible Los Angeles Lakers basketball team on his Facebook ‘About’ page.
+ Unfortunately for that profile’s credibility, though, it lists the Lakers as a school, not as an employer:  Is The BL Actually Responsible for this Activity?
+ While many of the BL-linked administrators of these myriad pro-Trump groups come from the fake profiles discussed above, these groups often start off being explicitly administered by the actual profiles of real staff members of The BL.
+ By tracking the formation and evolution of several BL groups from their inception, we observed a recurring pattern.
+ BL staffers in general, and The BL’s on-camera host Matt Tullar in particular, are sometimes among the first individuals to join these groups after their formation but prior to their being filled with a flood of fake profiles.
+ After those staff members join these groups, they often soon afterwards become administrators of them:       				smg.ads.load( 'post-body-5' ); 			   Tullar, as discussed in our previous investigation, lists his current job on LinkedIn as sales and marketing director for the Orange County edition of The Epoch Times.
+ Gregory, the Epoch Times publisher, told us “Tullar stopped working for The Epoch Times in October 2016.
+ The Orange County edition of The Epoch Times closed years ago.” He is now a video personality for The BL.
+ His videos, among other things, espouse climate change denial, amplify anti-vaccine rhetoric, and push racist tropes.
+ In one video, Tullar argued that Michael Brown, the unarmed black teen whose death launched nationwide protests, was “likely justifiably shot” by a Ferguson police officer.
+ Tullar described Brown as an “extremely aggressive, 6ft 4in, 295 pound 18-year-old.” In that same video, he suggested in thinly-veiled language that black people have a higher propensity toward violence: “We are not all the same and we do not all have the same propensity for criminal behavior,” Tullar argued, while discussing “black-on-black crime.” In addition to writing and hosting these videos, Tullar also appears to be integral to the The BL’s group-creation scheme.
+ As a recent example, Tullar’s profile was among the first who joined a series of groups created on Oct. 13, 2019: “TRUMP TRAIN 2020 – 2024!”; “PRESIDENT TRUMP 2020-2024!”; “WE SUPPORT PRESIDENT TRUMP #KAG 2020”; and “WE STAND WITH TRUMP &amp; PENCE!” Tullar is not the only BL staff member who seems to be a founding member of many BL-linked groups, either.
+ A Facebook account bearing the same name as The BL’s managing editor, Orysia McCabe, also appears in these several of these groups directly following their formation.
+ This recurring pattern — in which a group is formed, followed soon afterwards in several cases by BL staff joining and becoming administrators of it, and then filling it with fake profiles — may have multiple operations underlying the process.
+ These would include the acquisition of old Facebook profiles, the creation of fake profiles and vague groups, and the messaging and social media manipulation taking place inside those groups.
+ The BL itself is run out of Middletown, New York — the location Tullar lists as his home.
+ Based on some of the geographic or spelling gaffes and leftover details found in the fake profiles or group names, it seems that portions of the operation are likely based abroad.
+ Recently, we messaged a BL-associated profile — one that has made several appearances in multiple BL groups and pages — to ask what region it was from.
+ Despite a profile that claimed to belong an Arizona resident, the person operating the profile replied that it was in India:  Later, this user contacted us again to change the answer to Kenya:  He then told us that he has five Facebook profiles.
+ One of them said he lives in Thailand.
+ Facebook “Will Take Action” If They “Find Violating Activity” Though Facebook did not respond to questions asking if it had banned The BL from purchasing ads as it did with The Epoch Times, the social media company appears to be at least tolerant of The BL’s activity on Facebook in general.
+ The BL’s official, branded pages, for example, are and remain Facebook-verified.
+ It’s hard to make any rational argument, though, that The BL and its social media practices are compliant with Facebook’s own descriptions of terms of service.
+ For one thing, an unambiguous record of Facebook violations — 1,929 of them — already exists.
+ That’s how many BL ads, based on Facebook’s own ad-transparency tool, ended up being removed for violating Facebook’s advertising policy.
+ Far from being a media outlet with a sterling Facebook reputation, The BL is already — even without reference to anything discussed in our investigation — a literal repeat offender of Facebook’s advertising policies.
+ Nevertheless, advertising violations are not the only Facebook rule The BL, as a media organization, is violating.
+ No matter how you examine it, The BL is practicing what Facebook describes as inauthentic behavior.
+ According to Facebook’s community guidelines, Facebook does not “allow people to misrepresent themselves on Facebook, use fake accounts, artificially boost the popularity of content, or engage in behaviors designed to enable other violations under our Community Standards.” The BL is engaged in every one of those behaviors that Facebook claims violates their guidelines.
+ The BL misrepresents itself in many ways.
+ As our earlier reporting demonstrated, it misrepresents its independence from The Epoch Times.
+ And as this report shows, by not disclosing that these spammy groups are built to benefit a media outlet, each of The BL’s generically-named groups is a misrepresentation as well.
+ That misrepresentation is enabled, in no small part, by the use of fake accounts — another unambiguous Facebook violation.
+ Finally, the constant creation of groups whose role is to spam members with BL-specific content is a practice designed to, as Facebook describes, “artificially boost the popularity of content.” The BL is far from the first outlet to find ways to game Facebook to inflate the popularity of its content.
+ Facebook recently came under fire when reporter Judd Legum demonstrated that The Daily Wire, a conservative outlet founded by Ben Shaprio which consistently ranks as the most-shared media outlet on the platform, had been creating undisclosed pages whose primary purpose was sharing Daily Wire content.
+ Facebook, in that case, took no action against The Daily Wire.
+ It remains to be seen what action, if any, Facebook will take against The BL’s clearly inauthentic Facebook empire.
+ Taking down fake profiles, something that appears to have been occurring during the time we have observed The BL, is less than a slap on the wrist for an outlet that seems to have a disposable inventory of fake profiles and the ability to create more in minutes if need be.
+ Facebook groups similarly seem to be another tricky area for Facebook regulation.
+ Based on our previous reporting, Facebook appears less eager to take any action on a group (as opposed to a page).
+ In our original report on The BL, we identified 69 Facebook pages, of which 22 with small followings were subsequently taken down following our publication.
+ Conversely, our original reporting identified 91 Facebook groups, but all 91 of the groups we identified in that report are still active at the time of this reporting.
+ Similarly, a separate investigation by Snopes in October 2019 identified several “American” pages run out of Ukraine.
+ Facebook removed the pages we identified, but in at least one case a group administered by one of those removed pages remains online.
+ “We Do Not Allow Posts Shared From Other Facebook Pages or Groups” Still, perhaps something Facebook is doing is getting in the way of The BL’s strategy.
+ On Nov. 6, 2019, a Facebook profile with the name “Josephson Magnolia,” populated with a stock photo from Unsplash.com, informed members of the BL-Linked group “Trump For America’s President” that “due to Facebook’s escalation of fake news control [and] to ensure the smooth operation of our group.” members were not allowed to share posts from other Facebook pages except those belonging to The BL:  On the other hand, controlling Facebook groups that share links only to The BL’s content appears to have been the vision of this whole operation from the start.
+ Snopes.com   Since 1994     Help Supercharge Snopes For 2020  				We have big plans.
+ We need your help.
+ Become a member!
+ Update [20 November 2019]: Updated to include Stephen Gregory's statements regarding links between the BL and the Epoch Times.
+ Last Updated 20 November 2019   Published 12 November 2019   By   Alex Kasprak   Jordan Liles       Sources        Zadrozny, Brandy and Ben Collins.
+ “Trump, QAnon and an Impending Judgment Day: Behind the Facebook-fueled Rise of The Epoch Times.”     NBC News.
+ 20 August 2019.
+ Zadrozny, Brandy and Ben Collins.
+ “Facebook bans ads from The Epoch Times after huge pro-Trump buy.”     NBC News.
+ 22 August 2019.
+ Thompson, Sarah.
+ “The Coordinated Inauthentic Behavior of TheBL Network on Facebook.”     SecJuice.
+ 1 November 2019.
+ The BL.
+ “Climate Change – P2: Lying Sincerely With Science.”     22 October 2019.
+ The BL.
+ “What Do You Think About Mandated Vaccinations?”     26 June 2019.
+ The BL.
+ “The American Race Industry – Part 1 of 3.”     12 August 2019.
+ Facebook.com.
+ “23.
+ Inauthentic Behavior.”     Accessed 11 November 2019.
+ Legum, Judd.
+ “Facebook Allows Prominent Right-wing Website to Break the Rules .”     Popular Information.
+ 28 October 2019.                  				smg.ads.load( 'post-footer-1' ); 			    Editors' Picks         Was a Moving Van Parked Outside White House After Election Day?
+ 4 November 2020													  							Fact Check						   Filler footage from C-SPAN went viral.
+ Did DHS Secretly Watermark Ballots in an Election Fraud Sting Against Dems?
+ 6 November 2020													  							Fact Check						   Discussing election mechanics is easier when you actually know how elections work.
+ Can State Legislatures Override the Choice of Presidential Electors?
+ 6 November 2020													  							Fact Check						   The electoral college is a unique system for indirectly electing the president of the United States.
+ Has Starbucks Sold a ‘Christmas Blend’ Since 1984?
+ 6 November 2020													  							Fact Check						   Since at least 2015, the popular coffee chain has faced accusations of being "anti-Christmas."
+ Snopes Fact-Checks the 2020 US Election, Live    															5 November 2020													  							Collections						   Lies don't wait — and neither does Snopes.
+ 14 August 2020													  							Fact Check						   Harris long ago distanced herself from the relationship.
+ Did DHS Secretly Watermark Ballots in an Election Fraud Sting Against Dems?
+ 6 November 2020													  							Fact Check						   Discussing election mechanics is easier when you actually know how elections work.
+ Does Your Food Contain Beaver Anal Secretions?
+ 5 February 2013													  							Fact Check						   Alarmist warnings about beaver-derived castoreum are overblown: its use is now exceedingly rare, and the typical consumer is unlikely to ever encounter castoreum in food.
+ Was a Moving Van Parked Outside White House After Election Day?
+ 4 November 2020													  							Fact Check						   Filler footage from C-SPAN went viral.
+ Was a Pornhub Logo Accidentally Displayed on CNN?
+ 6 November 2020													  							Fact Check						   This video has racked up more than 7 million views.
+ View all        				smg.ads.load( 'side-2' ); 			     Snopes.com needs your help.Become a member today.
+ Learn How          				smg.ads.load( 'side-3' ); 			            				smg.ads.load( 'footer-1' ); 			            Navigate   Home   Search   Archive   Store   FAQ   Submit a Topic     Sections   What's New   Hot 50   Fact Checks   News   Randomizer     Company   About Us   Support Us   Careers   Terms of Use   Privacy Policy   Cookie Policy   Don't Sell My Info   Consent Preferences   Ad Preferences      © 1995 - 2020 by Snopes Media Group Inc.
+ This material may not be reproduced without permission.
+ Snopes and the Snopes.com logo are registered service marks of Snopes.com              	 No results for:  	   	   		 Your search did not yield any results.
+ Your search terms may need to be revised, or we have not written an article on that topic.
+ One of the best tips for locating articles on our site is to avoid the use of searches that are too lengthy or specific.
+ Therefore, the optimal search strategy is to avoid pasting specific phrases from items (such as subject lines and opening sentences) into our search engine and instead focus on selecting a few distinctive words or names to use as search terms.
+ If you still don't find the item you're looking for, please use our Submission Form to send it to us.
+ We can't write about it if we don't know about it!
+ The maximum query length is 500 characters.
+ See the whole collection.
+ Support Us       					You rely on Snopes, and we rely on you.
+ Help preserve this vital resource.
+ Give with PayPal Give with GoFundMe           				smg.ads.load( 'sticky-1' );

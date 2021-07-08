@@ -1,0 +1,63 @@
+Call 1-800-TRY-CHOP           Children's Hospital of Philadelphia   Menu Search     I want to  Request Appointment Get Driving Directions MyCHOP Patient Portal Refer a Patient to CHOP Make a Donation Pay a Bill Request Medical Records Find Clinical Trials Volunteer Sign up for Newsletters Provide Feedback About My Hospital Visit     Main menu mobile navigation Find A Doctor Departments Conditions Locations Your Visit Make a Gift    Utility menu mobile navigation Ways to Give Research International Healthcare Professionals Careers      Find A Doctor Departments Conditions Locations Your Visit Make a Gift      Search                                     Vaccine Ingredients — DNA                                                 Contact Us    Vaccine Education Center                Contact Us Online                  Some people wonder whether the vaccines made using human embryo cells (chickenpox, rubella, hepatitis A, and one version of the rabies vaccine) could cause harm if the DNA from the embryo cells “mixes” with the vaccine recipient’s DNA.
+ This is not likely to happen:  Stability of DNA - Because DNA is not stable when exposed to certain chemicals, much of it is destroyed in the process of making the vaccine.
+ Therefore, the amount of human DNA in the final vaccine preparation is minimal (trillionths of a gram) and highly fragmented.
+ Because the DNA is fragmented, it cannot possibly create a whole protein that could be harmful.
+ Opportunity – DNA from the vaccine is not able to incorporate itself into cellular DNA.
+ In fact, if this could be accomplished, gene therapy would be much easier than it has been.
+ Read more about the use of human embryo cells.
+ References Yang H, Wei Z, Schenerman M. A statistical approach to determining criticality of residual host cell DNA.
+ J Biopharm Stat 2015;25:234-246.
+ The authors proposed a method for determining the quantity of residual host cell DNA regarding oncogenicity and infectivity.
+ The authors created an equation to estimate the risk and applied that equation to a cell-based influenza vaccine manufactured using Madin Darby Canine Kidney (MDCK) cells.
+ The calculated probability of having one cancer-causing or infective event based on the WHO/FDA limits is less than 10-15.
+ If using limits of 800 base pairs and 40 ng DNA/dose, the risk is estimated to be 4.6 x 10-7.
+ Yang H. Establishing acceptable limits of residual DNA.
+ PDA J Pharm Sci Technol 2013; 67(2):155-163.
+ The author conducted a risk assessment on the WHO and FDA guidelines that recommended 10 ng/dose and 200 base pairs as the limits of residual DNA in the final biological product.
+ The safety margin is defined as the number of doses needed to induce a cancer-causing or infective event in recipients.
+ The author suggested that current safety margin estimates do not take into account DNA fractionation or DNA enzymatic inactivation.
+ By incorporating the number of unfragmented potential cancer genes and accounting for DNA enzymatic inactivation, the author suggests that a more accurate safety margin can be calculated and that higher DNA content or base pair size would be acceptable.
+ Yang H, Zhang L, Galinski M. A probabilistic model for risk assessment of residual host cell DNA in biological products.
+ Vaccine 2010;28:3308-3311.
+ The authors assessed the cancer-causing and infective potential of residual DNA from a cell-based live, attenuated influenza vaccine that is manufactured in Madin Darby Canine Kidney (MDCK) cells.
+ They determined that 230 billion doses of vaccine would need to be administered before a potential cancer gene dosage equivalent would be reached, and 83 trillion doses would need to be administered to induce an infective event.
+ Knezevic I, Stacey G, Petricciani J, et al.
+ WHO Study Group on cell substrates for production of biologicals, Geneva, Switzerland, 11-12 June 2007.
+ Biologicals 2008;36:203-211.
+ The WHO Expert Committee on Biological Standardization adopted requirements for the use of animal cells as substrates for the production of vaccines and other biologicals in 1996.
+ In 2006, a WHO Study Group on Cell Substrates was formed to initiate revision of WHO requirements.
+ In 2007, the Study Group agreed that data generated on the possibility of cancer or an infection caused by DNA in vaccines were important in defining potential risk for vaccine recipients.
+ It was considered highly likely that reduction of DNA fragment size reduced the risk from DNA and increased the safety margin, as the smaller the DNA fragments, the lower the probability that intact oncogenes and other functional sequences would be present.
+ Studies performed at the Center for Biological Evaluation and Research (CBER) suggest that DNA fragments smaller than 200 base pairs will give substantial safety margins for products that meet the 10 ng/dose limit.
+ Therefore, the margin of safety for vaccines can be found in the high fragmentation, and therefore very small size, of DNA.
+ WHO requirements for the use of animal cells as in vitro substrates for the production of biologicals.
+ Biologicals 1998;26:175-193.
+ Cell lines of human (e.g., WI-38, MRC-5) or monkey (FRhL-2) origin are non-tumorigenic and residual cellular DNA derived from these cells has not been, and is not, considered to pose any risk.
+ Continuous cell line (CCL) substrates of human origin such as HeLa cells (derived from cervical cancer cells) or Namalva cells (derived from Burkett’s lymphoma) could have the potential to confer the capacity for unregulated cell growth or tumorigenic activity upon other cells.
+ Risk assessment based on an animal oncogene model suggested that in vivo exposure to 1 ng (one-billionth of a gram) of cellular DNA —where 100 copies of an activated cancer gene were present in the genome — could give rise to a cancer-causing event 1 per 1 billion recipients.
+ The risk associated with residual CCL DNA in a product is negligible when the amount of such DNA is 100 pg (a picogram is one-trillionth of a gram), which is the current maximal amount of CCL DNA allowed by the FDA.
+ Wierenga DE, Cogan J, Petricciani JC.
+ Administration of tumor cell chromatin to immunosuppressed and non-immunosuppressed non-human primates.
+ Biologicals 1995;23:221-224.
+ The authors addressed the issue of how risky DNA may be as a residual impurity by injecting both normal and immunosuppressed monkeys with 100 million genome equivalents of DNA from a human tumor cell line that is one million times the DNA (1 mg) allowed by WHO in a single dose of biological product (100 pg).
+ DNA from a human tumor, saline, or cyclosporine doses were administered intravenously, intramuscularly, or intracerebrally on either a daily, weekly or one-time basis.
+ Animals were observed for 8 years, none of which showed any evidence of tumor formation.
+ Lower J.
+ Risk of tumor induction in vivo residual cellular DNA: quantitative considerations.
+ J Med Virol 1990;31:50-53.
+ In 1987, the WHO Study Group compiled a list of experiments in which DNA of tumor viruses or DNA of the corresponding cancer genes were injected into experimental animals to determine the amount required to induce tumors in half of those tested.
+ In this study, the author compared that information with the recommended residual cellular DNA limits (100 pg) in CCL biological products.
+ The author determined that the number of cancer genes in 100 picograms cellular DNA is less than one-billionth of the amount needed to induce tumors in experimental animals.
+ Temin HM.
+ Overview of biological effects of addition of DNA molecules to cells.
+ J Med Virol 1990;31:13-17.
+ A maximum cumulative probability of having a harmful effect is calculated to be less than 10-16 to 10-19 per DNA molecule from a cell without activated precursor cancer genes or active viral cancer genes.
+ Reviewed by Paul A. Offit, MD on July 13, 2020      Next Steps        Contact Us     Vaccine Education Center                 Contact Us Online               Materials in this section are updated as new information and vaccines become available.
+ The Vaccine Education Center staff regularly reviews materials for accuracy.You should not consider the information in this site to be specific, professional medical advice for your personal health or for your family's personal health.
+ You should not use it to replace any relationship with a physician or other qualified healthcare professional.
+ For medical concerns, including decisions about vaccinations, medications and other treatments, you should always consult your physician or, in serious cases, seek immediate assistance from emergency personnel.
+ Contact Us    Vaccine Education Center                Contact Us Online              Vaccine Education Center  VEC Main Menu  VEC Home A Look at Each VaccineAbout this Section Anthrax Vaccine Cholera Vaccine Diphtheria, Tetanus and Pertussis Vaccines Haemophilus influenzae type B (Hib) Vaccine Hepatitis A Vaccine Hepatitis B Vaccine Human Papillomavirus Vaccine Influenza Vaccine Japanese Encephalitis Virus (JEV) Vaccine Measles, Mumps and Rubella Vaccine Meningococcal Vaccine Pneumococcal Vaccine Polio Vaccine Rabies Vaccine Rotavirus Vaccine Shingles Vaccine Smallpox Vaccine Tuberculosis Vaccine Typhoid Vaccine Varicella Vaccine Yellow Fever Vaccine  ResourcesAbout this Section Vaccine- and Vaccine Safety-Related Q&amp;A Sheets “Special Topics” Online Series Q&amp;A Sheets Booklets, Posters and Other Materials International Materials Videos and DVDs Mobile App Vaccine Trivia Game Classroom Materials Books Websites Presentations and Interviews Kids and Teens Vaccine Safety References  Vaccine SafetyAbout this Section Are Vaccines Safe?
+ Dosing Safety Fever and vaccines Immune System and Health Blood-brain barrier and vaccines  Vaccine IngredientsAbout this Section Aluminum Antibiotics Corn and Peanut Oils DNA Egg Products Fetal Tissues Formaldehyde Gelatin Human Proteins SV40 Thimerosal Yeast  Vaccines and Other ConditionsAbout this Section ADD/ADHD Arthritis Asthma or Allergies Autism Autoimmune/Inflammatory Syndrome Induced by Adjuvants Diabetes Guillain-Barré Syndrome Mad-Cow Disease Multiple Sclerosis Shaken Baby Syndrome Sudden Infant Death Syndrome (SIDS)  Vaccine ScheduleAbout this Section Timetable Altering the Schedule Considerations during COVID-19 Other Schedule Issues  Vaccine Considerations for Specific GroupsAbout this Section Vaccine Considerations for New and Expectant Moms  Vaccines by Age GroupAbout this Section Birth to 2 Years 4 to 6 Years Adolescents Teens/College Adults  Vaccine ScienceAbout this Section Vaccines and the Immune System Evaluating Scientific Information and Studies  Making VaccinesAbout this Section How Are Vaccines Made?
+ Licensure, Recommendations and Requirements Process of Vaccine Development Animals and Vaccines COVID-19 Vaccine Answers  Vaccine HistoryAbout this Section Developments by Year Vaccine Availability Timeline Scientists - In Memoriam  Human Immune SystemAbout this section Types of Immunity Parts of the immune system Development of the immune system How the immune system works What Happens When the Immune System Does Not Work Properly?
+ Rash Information Global ImmunizationAbout this Section Worldwide Disease Incidence Controlling the Spread of Disease Vaccine Coverage is Variable Neglected Tropical Disease  Parents PACK Vaccine Update News and Updates About VEC Our Team          Footer Navigation      3401 Civic Center Blvd.
+ Philadelphia, PA 19104   Twitter  Instagram  Facebook  YouTube         Directory   Main Hospital 1-800-879-2467 Foundation 267-426-6500 Research 215-590-3800 Referring Physicians 1-800-879-2467      Explore Conditions &amp; Diseases Doctors Locations Departments &amp; Services      Our Organization About CHOP News Room Giving Research Quality and Patient Safety For Healthcare Professionals Careers Financial Assistance Policy      I want to Request Appointment Get Driving Directions MyCHOP Patient Portal Refer a Patient to CHOP Make a Donation Pay a Bill Request Medical Records Find Clinical Trials Volunteer Sign up for Newsletters Provide Feedback About My Hospital Visit       ©2020 The Children’s Hospital of Philadelphia Terms of Use Privacy Policy HIPAA Notice of Privacy Practices Ethics &amp; Compliance Questions and Feedback  Children’s Hospital of Philadelphia is a charitable 501(c)(3) nonprofit organization.

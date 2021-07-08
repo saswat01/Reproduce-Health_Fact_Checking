@@ -1,0 +1,40 @@
+Publisher Gary Schwitzer and other contributors may post new articles periodically.
+ But all of the 6,000+ articles we have published contain lessons to help you improve your critical thinking about health care interventions.
+ And those will be still be alive on the site for a couple of years.
+ Story Reviews News Release Review Blog Posts    6151 Posts 2616 Story Reviews 606 News Release Reviews 2929 Blog Posts   Home Story Reviews News Release Reviews Blog Podcasts About Us Editorial Team What We Review and How Review Criteria How Is the Star Score Determined?
+ Our Comments Policy Accolades for HealthNewsReview.org Talks, Workshops &amp; Presentations Toolkit Tips for Analyzing Studies &amp; Health Care Claims Just for Journalists: Writing Tips Stories of Patient Harm from Misleading Media Pre-publication News Release Review Health News Watchdog podcasts News Sites &amp; Blogs We Like List of Industry-Independent Experts Links to Other Resources Contact    Menu               May 11, 2017Why we should all be wary when PR machines promote phase 2 studies   Posted By  Categories  Business of health, Cancer, health care marketing Tags  big pharmaJoy Victory is deputy managing editor of HealthNewsReview.org.
+ She tweets as @thejoyvictory These two graphs illustrate why people–including journalists–should view the results of phase 2 studies with abundant caution (click to enlarge):  These charts are showing, on the left, the performance of an experimental cancer drug called selumetinib in a phase 2 trial for a certain type of lung cancer.
+ The phase 3 trial results are on the right.
+ As you can see by just glancing, the phase 2 trial hints that selumetinib (pink line) is better at keeping cancer patients alive than placebo treatment (blue line).
+ But that gap narrows dramatically for the phase 3 trial (green and orange lines), which reported no statistically significant difference between the two when it came to a marker known as progression-free survival.
+ As oncologist Vinay Prasad said via Twitter, it’s another great example of why we will always need phase 3 trials in oncology.
+ Why?
+ Phase 2 trials are primarily designed to monitor the safety profile of a drug before it’s used on a larger group of people.
+ Phase 3 tests, meanwhile, measure if there’s a benefit to the drug.
+ (For a primer on trial phases, as dictated by the FDA, go here.)
+ Promotion of preliminary results by drug makers and researchers However, this doesn’t stop drug companies and associated organizations from promoting the positive results of phase 2 trials–even though they’re often fraught with statistical weaknesses when it comes to measuring effectiveness.
+ In this case, the Dana-Farber Cancer Institute dubbed the results a “success” in a news release about the trial after it was published in The Lancet Oncology.
+ Yet phase 2 trials, as explained by the FDA, “aren’t large enough to show whether the drug will be beneficial.” This over-promotion of preliminary results–while putting a nice shine on the image of institutions that conduct the research–often leads to disappointment.
+ As explained in a recent Healio.com HemOncToday piece, oncologists were widely anticipating that the phase 3 trial results would be just as positive as the phase 2 trials, and will now be left “seeking an explanation.”  I’m sure there are patients and patient advocates out there feeling likewise.
+ By no means a solitary example  Even though the results are often reversed by larger trials, phase 2 trial results are frequently promoted to journalists by PR and marketing departments.
+ So too are phase 1 trials, which are even more preliminary and basically incapable of showing any efficacy whatsoever.
+ Examples: Here are but a few news releases we’ve reviewed recently on phase 1 and 2 trials, all of which scored 3 stars or less from reviewers:  MD Anderson Cancer Center, phase 2 trial for anal cancer drug Northwestern University, phase 2 trial for psoriasis drug University of Colorado, phase 1 trial for breast cancer drug Rutgers University, phase 1 trial for thyroid cancer drug  Not long after we started this blog post, we caught wind from another tweeting oncologist, Dr. Bishal Gyawali, that Tecentriq, a bladder cancer drug, had similarly disappointing results in a phase 3 trial.
+ Add this to the list of P3 reversing hypes from P2.
+ #immunotherapy #BladderCancer https://t.co/g3mQqbz0Zw @VinayPrasad82 @JackWestMD — Bishal Gyawali (@oncology_bg) May 10, 2017  Yet, troublingly, Tecentriq is already FDA approved, because the FDA granted Genentech, the drugmaker, “breakthrough status,” allowing it to be rushed to market based on small, preliminary trial results.
+ This breakthrough approval was covered by the New York Times, Reuters, and others.
+ We also reviewed the news release, warning readers “it is unknown whether the treatment makes a difference in survival.”  And now, we know: It doesn’t.
+ The pharma and biotech trade press has written a few pieces on these new negative outcomes.
+ But will the latest findings of selumetinib and Tecentriq generate as many PR promotions and general news stories as the positive phase 2 results did?
+ Considering how infrequently the mainstream news media report on negative results, it’s not likely.
+ It also remains to be seen if the FDA will revoke the approval of Tecentriq.
+ This STAT piece on the problem of early drug approvals indicates it could happen–but it’s rare.
+ Knowing that the newly confirmed director, Scott Gottlieb, has reaped millions from the drug industry, I’m not holding my breath.
+ Update: After this post was published, it came to our attention that in January the FDA put together a report on this very topic–entitled 22 Case Studies Where Phase 2 and Phase 3 Trials Had Divergent Results.
+ The FDA concluded several important points:  “Phase 3 studies did not confirm phase 2 findings of effectiveness in 14 cases, safety in one case, and both safety and effectiveness in seven cases.
+ Both safety and efficacy failures occurred even when the phase 2 studies were relatively large, and even when the product was already approved for another condition.
+ In some cases, the phase 3 study revealed that short-term results found in the phase 2 study were not associated with a long-term benefit or that the product had toxicity that was not uncovered in the phase 2 study.”   You might also like   Six tips for writing accurately about cancer immunotherapy drugs Booze balderdash: alcohol, cancer and another nonexistent study Hibernation for cancer: 'You wake up the patients and they are cured.'
+ Say what now?
+ Comments (1) Please note, comments are no longer published through this website.
+ All previously made comments are still archived and available for viewing through select posts.
+ Diana Yates May 15, 2017 at 8:57 am Thank you for this story.
+ I write very rarely about clinical trials, and this gives very helpful insights into the process of drug development and testing.

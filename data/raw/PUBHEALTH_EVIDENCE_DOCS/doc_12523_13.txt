@@ -1,0 +1,236 @@
+Page 2 of 11
+TABLE OF CONTENTS
+Background3FQHC Patient Services3Certifying as an FQHC4FQHC Visits
+4FQHC Payments5Cost Reports8Resources9Helpful Websites
+1111 .................................................................................................................................................................................................................................................................. ........................................................................................................................ .......................................................................................................................................... .................................................................................................................................. ........................................................................................................................................ ............................................................................................................................................ ................................................................................................................................. ..................................................................................... Background FQHC services Certifying as an FQHC FQHC visits FQHC payments Cost reports Resources Note: The information in this publication may not apply to 
+Grandfathered Tribal FQHCs
+. Page 3 of 11
+BACKGROUND
+ provides additional Medicare payments to FQHCs. FQHCs are safety net providers that provide services typically given in an outpatient clinic. Community health centers Migrant health centers Health care for the homeless health centers Public housing primary care centers Health center program ﬁlook-alikesﬂ Outpatient health programs or facilities operated by a tribe or tribal organization or by an urban Indian organization
+ FQHC practitioner.
+FQHC PATIENT SERVICES
+ Physician services Services and supplies ﬁincident toﬂ physician services 
+
+ 
+ Medicare Part B-covered drugs given ﬁincident toﬂ FQHC practitioner services Visiting nurse services to the homebound in an area where the Centers for Medicare and Medicaid 
+
+ 
+
+when provided in a one-on-one, face-to-face visit 
+
+ Certain virtual communication services such as communications-based technology and remote evaluation services Page 4 of 11
+CERTIFYING AS AN FQHC
+To qualify as an FQHC, an entity must meet 
+one 42 United States Code  Not 
+
+
+ Treated by the Secretary of HHS as a comprehensive Federally funded health center as of 
+
+January 1, 1990, for purposes of Medicare Part B Operating as an outpatient health program or facility of a tribe or tribal organization under the 
+
+
+Indian Health Care Improvement Act as of October 1991
+all  Provide comprehensive services and have an ongoing quality assurance program including an 
+annual review Meet all health and safety requirements Not concurrently approved as a Rural Health Clinic Meet all 
+ Offer a sliding fee scale to persons with incomes below 200 percent of the Federal 
+ poverty guidelinesGoverned by a board of directors, where the majority of members get care at the FQHCFQHC VISITSFQHC visits must Be medically necessary 
+
+
+ In certain limited situations, include a registered nurse or a licensed practical nurse visit to a 
+homebound patient FQHC meets the relevant program requirements to provide these services 
+FQHC visits may  In the FQHC At the patient™s home, including an assisted living facility
+ 
+ At the scene of an accidentFQHC visits cannot  An inpatient or outpatient hospital department, including a Critical Access Hospital
+ 
+FQHC PAYMENTS
+Medicare FQHC PPS
+ established the FQHC PPS for cost reporting periods beginning October 1, 2014.  FQHCs must include an FQHC payment code on their claim. Medicare pays claims at 80 percent of the lesser of the FQHC charges based on their payment codes 
+ CMS annually updates the FQHC PPS base payment rate using the FQHC market basket. For 
+calendar year 2019, the market basket update under the FQHC PPS is 1.9 percent and the  FQHC PPS base payment rate is $169.77. 
+
+ Medicare waives Part B coinsurance and deductible for the U.S. Preventive Services Task 
+
+Force-recommended grade A or B preventive services, such as the Initial Preventive Physical 
+
+
+FQHC 
+Preventive Services Chart and learn about preventive services, including coinsurance and deductible requirements.  telehealth services. Page 6 of 11
+Per-Diem Payment and ExceptionsMore than one visit with an FQHC practitioner on the same day, or multiple visits with the same 
+
+ The patient suffers an illness or injury that requires additional diagnosis or treatment on the same 
+
+
+
+later in the day falls and returns to the FQHC. 
+ A patient has an IPPE and a separate medical and/or mental health visit on the same day.
+Payment Adjustments FQHC Geographic Adjustment Factor
+ New patient adjustment 
+FQHCs set their own charges for their services and determine which services to include with each 
+FQHC G code. Patient charges must be uniform.For more information about FQHC payment codes when submitting claims under the PPS and a list of billable visits, refer to the FQHC webpage.
+
+and the technical component of billable visits separately. Medicare includes procedures in the 
+
+
+January 1, 2016ŒDecember 31, 2017: Medicare paid CCM or general BHI services based on the PFS national average non-facility payment rate 
+January 1, 2018ŒDecember 31, 2018: Medicare pays CCM or general BHI services at the average 
+is on an FQHC claim, either alone or with other payable services.CPT only copyright 2019 American Medical Association. All rights reserved.
+ Page 7 of 11
+January 1, 2019, and after: Medicare pays CCM or general BHI services at the national non-facility PFS payment rate
+
+
+payable services.Coinsurance for care management services is 20 percent of lesser of submitted charges or the 
+
+report and do not determine the FQHC PPS rate.
+at least 20 minutes of general BHI services and your services meet all other requirements. The FQHC 
+
+
+elements toward the 20 minute minimum for billing general care management services and does not include administrative activities such as transcription or translation services.
+
+
+
+
+
+
+reasonable cost through the cost report. The cost is included in the cost report and no visit is billed. 
+
+FQHCs must include these charges on the claim if they are part of a visit. If the vaccine administration 
+
+
+
+Medicare includes the HBV and its administration in the FQHC visit. They are not separately billable. 
+
+If a qualifying FQHC visit given on the same day as the HBV, report the charges for the vaccine and 
+
+related administration on a separate line item to ensure that coinsurance is not applied.
+FQHCs can serve as telehealth services originating sites if they are in a qualifying area. An originating 
+
+site is where an eligible Medicare patient is during the telehealth service. FQHCs that serve as 
+originating sites for telehealth services get an originating site facility fee. Although FQHC services 
+
+are not subject to deductible, you must apply the deductible when an FQHC bills for the telehealth 
+originating site facility fee. This fee is not considered an FQHC service.
+CPT only copyright 2019 American Medical Association. All rights reserved.
+ Page 8 of 11
+FQHCs are not authorized to serve as a distant site for telehealth consultations. A distant site is 
+where the practitioner is during the time of the telehealth service. The cost of a visit may not be billed 
+or included on the cost report.Virtual Communication Services
+Starting January 1, 2019, Medicare pays FQHCs for Virtual Communication Services when an FQHC 
+
+
+remote evaluation service. The patient must have had a billable visit within the previous year, and the 
+
+services must meet  The patient did not get any FQHC-related services within the previous 7 days of the virtual medical 
+
+discussion or remote evaluation 
+Medicare requires FQHCs submit Virtual Communication Services claims for HCPCS code G2012 
+
+
+when the virtual communication HCPCS code, G0071, is on an FQHC claim, either alone or with 
+other payable services.
+FQHC face-to-face requirements and applies the coinsurance. For more information, refer to the 
+Virtual Communication Services Frequently Asked Questions
+.COST REPORTSForm CMS-224-14
+Report, to determine their payment rate and reconcile interim payments, including payment for graduate 
+
+Provider-based FQHCs must complete the appropriate worksheet for FQHC services within 
+Provider 
+Reimbursement Manual Œ Part 2. Page 9 of 11
+RESOURCESTable 1. Resources
+For More Information About–
+ResourceCare Management Services in Rural Health 
+
+CMS.gov/Medicare/Medicare-Fee-for-Service-
+
+FAQs.pdf
+CCM ServicesCMS.gov/Outreach-and-Education/Medicare-
+Learning-Network-MLN/MLNMattersArticles/
+CMS.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNProducts/MLN-
+Publications-Items/ICN909188.html
+
+
+Go.CMS.gov/ccmFQHCsCMS.gov/Center/Provider-Type/Federally-
+
+
+CMS.gov/Regulations-and-Guidance/Guidance/CMS.gov/Regulations-and-Guidance/Guidance/FQHC PPSCMS.gov/Medicare/Medicare-Fee-for-Service-
+Payment/FQHCPPSFQHC PPS UpdateCMS.gov/Outreach-and-Education/Medicare-
+Learning-Network-MLN/MLNMattersArticles/
+ Page 10 of 11
+Table 2. Hyperlink Table
+Embedded HyperlinkComplete URL
+
+
+FQHC Preventive Services Chart
+
+
+FQHC-Preventive-Services.pdfForm CMS-224-14
+
+
+Listing-Items/CMS-224-14.html
+
+
+
+Center.html
+Grandfathered Tribal FQHCs
+
+
+for-Service-Payment/FQHCPPS/Grandfathered-
+Tribal-FQHCs.html
+Provider Reimbursement Manual Œ Part 2
+
+Guidance/Manuals/Paper-Based-Manuals-Items/
+
+
+
+title18/1834.htm
+
+
+title18/1861.htmVirtual Communication Services Frequently 
+
+Asked Questions Virtual Communication
+
+
+VCS-FAQs.pdf
+ Page 11 of 11
+HELPFUL WEBSITES
+American Hospital Association Rural 
+ 
+Critical Access Hospitals Center
+
+
+Critical-Access-Hospitals-Center.html
+
+
+Service-Payment/AcuteInpatientPPS/dsh.html
+
+
+
+Center.html
+
+Administration
+Hospital Center
+
+Hospital-Center.html
+Medicare Learning Network®National Association of Community 
+ 
+
+
+
+
+
+Rural-Health-Clinics-Center.html
+
+Swing Bed Providers
+
+for-Service-Payment/SNFPPS/SwingBed.html
+
+
+General-Information/Telehealth
+
+
+U.S. Census Bureau
+REGIONAL OFFICE RURAL HEALTH COORDINATORS
+
+
+policy, and operational help on rural health issues, refer to 
+CMS.gov/Outreach-and-Education/.
+

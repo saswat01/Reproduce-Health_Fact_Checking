@@ -1,0 +1,72 @@
+Now, official counts of coronavirus deaths are being challenged, too.
+ In Colorado, for example, a Republican state legislator has accused the state’s public health department of falsely inflating COVID-19 deaths; in Florida, local media have objected to the State Department of Health’s refusal to release medical examiner data to the public, alleging that the state may be underreporting deaths.
+ The reality is that assigning a cause of death is not always straightforward, even pre-pandemic, and a patchwork of local rules and regulations makes getting valid national data challenging.
+ However, data on excess deaths in the United States over the past several months suggest that COVID-19 deaths are probably being undercounted rather than overcounted.
+ Cause of death Death certificates can be signed by a physician who was responsible for a patient who died in a hospital, which accounts for many COVID-19 deaths.
+ They can also be signed by medical examiners or coroners, who are independent officials who work for individual counties or cities.
+ Many COVID-19 death certificates are being handled by physicians unless the death occurred outside of the hospital, in which case a medical examiner or coroner would step in, said Dr. Sally Aiken, the president of the National Association of Medical Examiners (NAME).
+ In some jurisdictions, including cities such as Chicago and Milwaukee, medical examiners are involved in determining the cause of death for every suspected COVID-19 case.
+ In those jurisdictions, medical examiners review medical records even of patients who die in hospitals to ensure that the symptoms and any testing indicate that the patient did indeed die of COVID-19.
+ Having medical examiners confirm COVID-19 deaths can create more uniformity and clearer documentation, Aiken told Live Science.
+ On a death certificate, there are spaces to list an immediate cause of death, as well as the chain of events that led to that final disease or incident.
+ There are also spaces for adding contributing factors.
+ For COVID-19, the immediate cause of death might be listed as respiratory distress, with the second line reading “due to COVID-19.” Contributing factors such as heart disease, diabetes or high blood pressure would then be listed further down.
+ This has led to some confusion by people arguing that the “real” cause of death was heart disease or diabetes, Aiken said, but that’s not the case.
+ “Without the COVID19 being the last straw or the thing that led to the chain of events that led to death, they probably wouldn’t have died,” she said.
+ Detecting COVID-19 How hard it is to accurately determine whether COVID-19 was truly that last straw depends on the situation.
+ Most COVID-19 deaths seen at Mount Sinai Health System in New York are in people who have comorbid (or co-occurring) conditions such as coronary artery disease or kidney disease, said Dr. Mary Fowkes, the chief of autopsy services at Mount Sinai.
+ But it’s not typically difficult to tell what killed them.
+ “Most of the cases are pretty straightforward,” Fowkes told Live Science.
+ “The lungs are usually so severely involved with pathology, so they are two to three times or more the normal weight of a normal lung.” (The excess weight is due to fluid and cell detritus from damaged lung tissues.)
+ In some cases, particularly those where someone dies at home or quickly perishes after entering an emergency room, the determination can be a little more fuzzy, said Dr. Jeremy Faust, an emergency physician at Brigham and Women’s Hospital in Massachusetts.
+ “The challenge is knowing who died of COVID-19 versus who died with the virus that causes COVID-19,” Faust told Live Science.
+ Autopsies can help answer that question, but autopsy rates were low even pre-pandemic, Fowkes said.
+ Even at Mount Sinai, a rare medical system that offers every family a chance to have their loved one autopsied for free, the rate of autopsy was only about 20% prior to the pandemic.
+ According to NAME, there is an ongoing shortage of forensic pathologists working in the United States, with about 500 currently employed and a need for 1,200.
+ Autopsies for COVID-19 can also be dangerous due to the infectious nature of the disease and ongoing shortages of personal protective equipment for pathologists.
+ Another complication for assigning a cause of death for COVID-19 is that some younger people have died of strokes and heart attacks and then tested positive for COVID-19 without any history of respiratory symptoms.
+ The virus is now known to cause blood clots, suggesting that COVID-19 was the killer in these cases, too.
+ Fowkes and her colleagues conducted a microscopic inspection of the brains of 20 COVID-19 victims in her hospital system and found that six of them contained tiny blood clots that had caused small strokes before death.
+ “We’re seeing it in younger patients than you would expect, and we’re seeing it in a distribution that you wouldn’t expect, so we think it’s related to the COVID,” Fowkes said.
+ The Centers for Disease Control and Prevention (CDC) has issued guidelines for how to attribute a death to COVID-19.
+ The guidelines urge using information from COVID-19 testing, where possible, but also allow for deaths to be listed as “presumed” or “probable” COVID-19 based on symptoms and the best clinical judgment of the person filling out the death certificate.
+ A medical examiner trying to determine a cause of death in the absence of testing would comb medical records and query family and loved ones about the person’s symptoms before they died, Aiken said.
+ Postmortem COVID-19 tests may be possible, depending on the jurisdiction.
+ Underreporting or overreporting?
+ All of the inconsistencies of cause-of-death reporting precede the COVID-19 pandemic, says Jay Wolfson, a professor of public health at the University of South Florida (USF).
+ But getting good data about deaths is now extremely pressing, he told Live Science.
+ Death certificates are often used by epidemiologists and public health officials to detect strange clusters of deaths or to link certain risk factors to certain causes of death.
+ But because different states and localities have different rules about recording and reporting causes of death, the cumulative data is always messy.
+ “I think some states are reluctant to open their databases up, knowing they have validity problems or knowing the data might be misused,” Wolfson said.
+ But public health officials need access, he said, and they need to figure out ways to dig into the data and standardize them.
+ Wolfson and other researchers at USF are already working with state officials to see what kind of data the state can legally release, he said.
+ Meanwhile, as the political debate over the response to the virus heats up, some have argued that death reports are being deliberately skewed.
+ Aiken rejected the notion of a vast conspiracy by medical examiners; medical examiners are designed to be independent entities, she said, and they run the political gamut from conservative to liberal.
+ “It always cracks me up,” she said.
+ “Medical examiners and coroners aren’t organized enough to have a conspiracy.” In Colorado, the discrepancy over people dying with COVID-19 versus of COVID-19 is due to federal reporting guidelines requiring the health department to report any COVID-positive death to the CDC, even if COVID-19 wasn’t thought to cause the death, Gov.
+ Jared Polis said in a news conference Friday (May 15).
+ The health department has been instructed not to report those deaths as being caused by COVID-19 to the public, Polis said.
+ In Florida, state law prevents the release of death certificate data, Wolfson said, but it may be possible to get public release of death certificates with identifying information removed, or of cumulative datasets.
+ Both undercounts and overcounts of COVID-19 deaths are possible, Wolfson said, but it’s not yet clear which is more likely, or whether they might simply balance each other out.
+ Fowkes said that based on her experience, it’s more likely that COVID-19 deaths are being missed than overcounted.
+ That’s because New York is among several cities that show spikes in deaths at home, and these anomalous spikes could be due to untested, untreated COVID-19.
+ Perhaps, the best clue as to whether COVID-19 deaths have been undercounted or overcounted is excess mortality data.
+ Excess mortality is deaths above and beyond what would normally be expected in a given population in a given year.
+ CDC data shows a spike of excess mortality in early 2020, adding up to tens of thousands of deaths.
+ Some argue that many of these excess deaths are related to COVID-19 lockdowns, not COVID-19 themselves, Faust said, because people fear catching the disease if they go to the hospital for other reasons.
+ A study in the Journal of the American College of Cardiology did find that nine major hospitals saw a 38% drop in emergency visits for a particular kind of heart attack in March.
+ That suggests that people really are delaying or avoiding medical care, which could mean that some of them die of preventable causes.
+ But non-COVID conditions probably don’t explain most excess deaths, Faust said.
+ Only a portion of heart attack visits would have represented lives saved, he said, because doctors must treat perhaps 10 patients to save one life.
+ And other causes of death—such as motor vehicle accidents—are down.
+ This could change with time, Faust cautioned.
+ For example, if cancer patients forego their treatments for a year, rather than a few months, the impact on their death rates is much more likely to be noticeable in the population-wide data.
+ But for now, he said, “it’s unlikely that the coronavirus deaths are being overcounted by a magnitude that explains our observation that something very unusual is going on.” Copyright 2020 LiveScience.com, a Future company.
+ All rights reserved.
+ This material may not be published, broadcast, rewritten or redistributed.
+ Read more about the coronavirus outbreak from Scientific American here.
+ And read coverage from our international network of magazines here.
+ ABOUT THE AUTHOR(S)Stephanie PappasRecent ArticlesEarthquake Sounds Could Reveal How Quickly the Ocean Is WarmingSalamanders and Frogs Light Up with Secret SuperpowerA Tiny Leak Led to a Massive, Unexpected Collapse at Kilauea VolcanoLiveScienceRecent ArticlesMystery of Interstellar Visitor 'Oumuamua Gets TrickierAfter Being Swallowed Alive, Water Beetle Stages 'Backdoor' Escape from Frog's GutThe Universe's Clock Might Have Bigger Ticks Than We ImagineRead This NextPublic HealthCOVID-19: What the Autopsies RevealApril 23, 2020 — W. Wayt Gibbs and Steve MirskyPublic HealthComparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to OrangesApril 28, 2020 — Jeremy Samuel Faust | OpinionPublic HealthFrom Headaches to 'COVID Toes,' Coronavirus Symptoms Are a Bizarre MixMay 18, 2020 — Diana KwonPublic HealthVirus Mutations Reveal How COVID-19 Really SpreadJune 1, 2020 — Mark Fischetti and Martin KrzywinskiAdvertisement NewsletterGet smart.
+ Sign up for our email newsletter.Sign UpSupport Science JournalismDiscover world-changing science.
+ Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners.Subscribe Now!Follow us instagram soundcloud youtube twitter facebook rssScientific american arabicالعربية  Return &amp; Refund Policy About Press Room     FAQs Contact Us Site Map     Advertise SA Custom Media Terms of Use     Privacy Policy California Consumer Privacy Statement Use of cookies/Do not sell my data International Editions  Scientific American is part of Springer Nature, which owns or has commercial relations with thousands of scientific publications (many of them can be found at www.springernature.com/us).
+ Sign in.Subscribers get more award-winning coverage of advances in science &amp; technology.Sign InSee Subscription Options

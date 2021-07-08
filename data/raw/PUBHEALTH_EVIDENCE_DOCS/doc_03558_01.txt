@@ -1,0 +1,193 @@
+Dietary intakes were collected using repeated 24 hour dietary records (5.7 for each participant on average), designed to register participants’ usual consumption of 3300 food items.
+ SH, PG, MT, CJ, and EK-G conducted the research.
+ BS performed the statistical analysis.
+ BS drafted the manuscript.
+ MT supervised the writing.
+ BS, LKF, EK-G, BA, CM, RA, EC, MD, SH, PG, CAM, CJ, and MT contributed to the data interpretation and revised each draft for important intellectual content.
+ All authors read and approved the final manuscript.
+ MT had primary responsibility for the final content and is the guarantor.
+ The corresponding author (BS) attests that all listed authors meet authorship criteria and that no others meeting the criteria have been omitted.Funding: The NutriNet-Santé study was supported by the Ministère de la Santé, Santé Publique France, Institut National de la Santé et de la Recherche Médicale (INSERM), Institut National de la Recherche Agronomique (INRA), Conservatoire National des Arts et Métiers (CNAM), and Université Paris 13.
+ BS was funded by the French National Cancer Institute (grant No INCa_8085) and Fondation de France.
+ Researchers were independent from funders.
+ Funders had no role in the study design, the collection, analysis, and interpretation of data, the writing of the report, and the decision to submit the article for publication.Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare no support from any organisation for the submitted work; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work.Ethical approval: The NutriNet-Santé study is conducted according to the Declaration of Helsinki guidelines and was approved by the institutional review board of the French Institute for Health and Medical Research (IRB Inserm 0000388FWA00005831) and the “Commission Nationale de l’Informatique et des Libertés” (CNIL 908450/909216).Transparency: The manuscript’s guarantor (MT) affirms that the manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned have been explained.Data sharing: No additional data available.This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial.
+ See: http://creativecommons.org/licenses/by-nc/4.0/.References↵World Health Organization.
+ Cardiovascular diseases (CVDs) fact sheet.
+ WHO.
+ [cited 2018 Jun 1].
+ www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)↵Mozaffarian D. Dietary and Policy Priorities for Cardiovascular Disease, Diabetes, and Obesity: A Comprehensive Review.
+ Circulation2016;133:187-225. doi:10.1161/CIRCULATIONAHA.115.018585 pmid:26746178OpenUrlAbstract/FREE Full Text↵Wilkins E, Wilson L, Wickramasinghe K, et al.
+ European Cardiovascular Disease Statistics 2017.
+ European Heart Network, Brussels.
+ [cited 2018 Jun 1].
+ www.ehnheart.org/cvd-statistics/cvd-statistics-2017.html↵Perk J, De Backer G, Gohlke H, et al., European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR), ESC Committee for Practice Guidelines (CPG).
+ European Guidelines on cardiovascular disease prevention in clinical practice (version 2012).
+ The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts).
+ Eur Heart J2012;33:1635-701. doi:10.1093/eurheartj/ehs092 pmid:22555213OpenUrlCrossRefPubMedWeb of Science↵Eckel RH, Jakicic JM, Ard JD, et al., American College of Cardiology/American Heart Association Task Force on Practice Guidelines.
+ 2013 AHA/ACC guideline on lifestyle management to reduce cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.
+ Circulation2014;129(Suppl 2):S76-99.
+ doi:10.1161/01.cir.0000437740.48606.d1 pmid:24222015OpenUrlFREE Full Text↵Monteiro CA, Moubarac JC, Cannon G, Ng SW, Popkin B. Ultra-processed products are becoming dominant in the global food system.
+ Obes Rev2013;14(Suppl 2):21-8. doi:10.1111/obr.12107 pmid:24102801OpenUrlCrossRefPubMed↵Moodie R, Stuckler D, Monteiro C, et al., Lancet NCD Action Group.
+ Profits and pandemics: prevention of harmful effects of tobacco, alcohol, and ultra-processed food and drink industries.
+ Lancet2013;381:670-9. doi:10.1016/S0140-6736(12)62089-3 pmid:23410611OpenUrlCrossRefPubMedWeb of Science↵Moubarac JC, Batal M, Martins AP, et al.
+ Processed and ultra-processed food products: consumption trends in Canada from 1938 to 2011.
+ Can J Diet Pract Res2014;75:15-21. doi:10.3148/75.1.2014.15 pmid:24606955OpenUrlCrossRefPubMed↵Martins AP, Levy RB, Claro RM, Moubarac JC, Monteiro CA.
+ Increased contribution of ultra-processed food products in the Brazilian diet (1987-2009).
+ Rev Saude Publica2013;47:656-65. doi:10.1590/S0034-8910.2013047004968 pmid:24346675OpenUrlCrossRefPubMed↵Juul F, Hemmingsson E. Trends in consumption of ultra-processed foods and obesity in Sweden between 1960 and 2010.
+ Public Health Nutr2015;18:3096-107. doi:10.1017/S1368980015000506 pmid:25804833OpenUrlCrossRefPubMed↵PAHO.
+ Ultra-processed food and drink products in Latin America: Trends, impact on obesity, policy implications.
+ Ultra-processed foods have the worst nutrient profile, yet they are the most available packaged products in a sample of New Zealand supermarkets--CORRIGENDUM.
+ Public Health Nutr2016;19:539. doi:10.1017/S1368980015002840 pmid:26419699OpenUrlCrossRefPubMed↵Adams J, White M. Characterisation of UK diets according to degree of food processing and associations with socio-demographics and obesity: cross-sectional analysis of UK National Diet and Nutrition Survey (2008-12).
+ Int J Behav Nutr Phys Act2015;12:160. doi:10.1186/s12966-015-0317-y pmid:26684833OpenUrlCrossRefPubMed↵Cediel G, Reyes M, da Costa Louzada ML, et al.
+ Ultra-processed foods and added sugars in the Chilean diet (2010).
+ Public Health Nutr2018;21:125-33.pmid:28625223OpenUrlCrossRefPubMed↵Costa Louzada ML, Martins AP, Canella DS, et al.
+ Ultra-processed foods and the nutritional dietary profile in Brazil.
+ Rev Saude Publica2015;49:38.pmid:26176747OpenUrlPubMed↵Martínez Steele E, Baraldi LG, Louzada ML, Moubarac JC, Mozaffarian D, Monteiro CA.
+ Ultra-processed foods and added sugars in the US diet: evidence from a nationally representative cross-sectional study.
+ BMJ Open2016;6:e009892.
+ doi:10.1136/bmjopen-2015-009892 pmid:26962035OpenUrlAbstract/FREE Full Text↵Moubarac JC, Batal M, Louzada ML, Martinez Steele E, Monteiro CA.
+ Consumption of ultra-processed foods predicts diet quality in Canada.
+ Appetite2017;108:512-20. doi:10.1016/j.appet.2016.11.006 pmid:27825941OpenUrlCrossRefPubMed↵Moubarac JC, Martins AP, Claro RM, Levy RB, Cannon G, Monteiro CA, Evidence from Canada.
+ Consumption of ultra-processed foods and likely impact on human health.
+ Public Health Nutr2013;16:2240-8. doi:10.1017/S1368980012005009 pmid:23171687OpenUrlCrossRefPubMed↵Poti JM, Mendez MA, Ng SW, Popkin BM.
+ Is the degree of food processing and convenience linked with the nutritional quality of foods purchased by US households?Am J Clin Nutr2015;101:1251-62. doi:10.3945/ajcn.114.100925 pmid:25948666OpenUrlAbstract/FREE Full Text↵Slimani N, Deharveng G, Southgate DA, et al.
+ Contribution of highly industrially processed foods to the nutrient intakes and patterns of middle-aged populations in the European Prospective Investigation into Cancer and Nutrition study.
+ Eur J Clin Nutr2009;63(Suppl 4):S206-25.
+ doi:10.1038/ejcn.2009.82 pmid:19888275OpenUrlCrossRefPubMed↵Marrón-Ponce JA, Sánchez-Pimienta TG, Louzada MLDC, Batis C. Energy contribution of NOVA food groups and sociodemographic determinants of ultra-processed food consumption in the Mexican population.
+ Public Health Nutr2018;21:87-93. doi:10.1017/S1368980017002129 pmid:28937354OpenUrlCrossRefPubMed↵Baraldi LG, Martinez Steele E, Canella DS, Monteiro CA.
+ Consumption of ultra-processed foods and associated sociodemographic factors in the USA between 2007 and 2012: evidence from a nationally representative cross-sectional study.
+ BMJ Open2018;8:e020574.
+ doi:10.1136/bmjopen-2017-020574 pmid:29525772OpenUrlAbstract/FREE Full Text↵Rauber F, da Costa Louzada ML, Steele EM, Millett C, Monteiro CA, Levy RB.
+ Ultra-Processed Food Consumption and Chronic Non-Communicable Diseases-Related Dietary Nutrient Profile in the UK (2008−2014).
+ Nutrients2018;10:587. doi:10.3390/nu10050587 pmid:29747447OpenUrlCrossRefPubMed↵Monteiro CA, Cannon G, Moubarac JC, Levy RB, Louzada ML, Jaime PC.
+ The UN Decade of Nutrition, the NOVA food classification and the trouble with ultra-processing.
+ Public Health Nutr2018;21:5-17.pmid:28322183OpenUrlCrossRefPubMed↵Louzada ML, Martins AP, Canella DS, et al.
+ Impact of ultra-processed foods on micronutrient content in the Brazilian diet.
+ Rev Saude Publica2015;49:45.pmid:26270019OpenUrlPubMed↵Fardet A. Minimally processed foods are more satiating and less hyperglycemic than ultra-processed foods: a preliminary study with 98 ready-to-eat foods.
+ Food Funct2016;7:2338-46. doi:10.1039/C6FO00107F pmid:27125637OpenUrlCrossRefPubMed↵Zinöcker MK, Lindseth IA.
+ The Western Diet-Microbiome-Host Interaction and Its Role in Metabolic Disease.
+ Nutrients2018;10:E365.
+ doi:10.3390/nu10030365 pmid:29562591OpenUrlCrossRefPubMed↵Zhang Y, Huang M, Zhuang P, et al.
+ Exposure to acrylamide and the risk of cardiovascular diseases in the National Health and Nutrition Examination Survey 2003-2006.
+ Environ Int2018;117:154-63. doi:10.1016/j.envint.2018.04.047 pmid:29753146OpenUrlCrossRefPubMed↵DeJarnett N, Conklin DJ, Riggs DW, et al.
+ Acrolein exposure is associated with increased cardiovascular disease risk.
+ J Am Heart Assoc2014;3:e000934.
+ doi:10.1161/JAHA.114.000934 pmid:25099132OpenUrlAbstract/FREE Full Text↵Rancière F, Lyons JG, Loh VHY, et al.
+ Bisphenol A and the risk of cardiometabolic disorders: a systematic review with meta-analysis of the epidemiological evidence.
+ Environ Health2015;14:46. doi:10.1186/s12940-015-0036-5 pmid:26026606OpenUrlCrossRefPubMed↵Singh K, Ahluwalia P. Effect of monosodium glutamate on lipid peroxidation and certain antioxidant enzymes in cardiac tissue of alcoholic adult male mice.
+ J Cardiovasc Dis Res2012;3:12-8. doi:10.4103/0975-3583.91595 pmid:22346139OpenUrlCrossRefPubMed↵Chassaing B, Koren O, Goodrich JK, et al.
+ Dietary emulsifiers impact the mouse gut microbiota promoting colitis and metabolic syndrome.
+ Nature2015;519:92-6. doi:10.1038/nature14232 pmid:25731162OpenUrlCrossRefPubMed↵Zhang Q, Bai Y, Yang Z, Tian J, Meng Z.
+ The molecular mechanisms of sodium metabisulfite on the expression of K ATP and L-Ca2+ channels in rat hearts.
+ Regul Toxicol Pharmacol2015;72:440-6. doi:10.1016/j.yrtph.2015.05.021 pmid:26015265OpenUrlCrossRefPubMed↵Bhattacharyya S, O-Sullivan I, Katyal S, Unterman T, Tobacman JK.
+ Exposure to the common food additive carrageenan leads to glucose intolerance, insulin resistance and inhibition of insulin signalling in HepG2 cells and C57BL/6J mice.
+ Diabetologia2012;55:194-203. doi:10.1007/s00125-011-2333-z pmid:22011715OpenUrlCrossRefPubMed↵Louzada ML, Baraldi LG, Steele EM, et al.
+ Consumption of ultra-processed foods and obesity in Brazilian adolescents and adults.
+ Prev Med2015;81:9-15. doi:10.1016/j.ypmed.2015.07.018 pmid:26231112OpenUrlCrossRefPubMed↵Canella DS, Levy RB, Martins AP, et al.
+ Ultra-processed food products and obesity in Brazilian households (2008-2009).
+ PLoS One2014;9:e92752.
+ doi:10.1371/journal.pone.0092752 pmid:24667658OpenUrlCrossRefPubMed↵Schnabel L, Buscail C, Sabate J-M, et al.
+ Association Between Ultra-Processed Food Consumption and Functional Gastrointestinal Disorders: Results From the French NutriNet-Santé Cohort.
+ Relationship between ultra-processed foods and metabolic syndrome in adolescents from a Brazilian Family Doctor Program.
+ Public Health Nutr2012;15:82-7. doi:10.1017/S1368980011001571 pmid:21752314OpenUrlCrossRefPubMed↵Juul F, Martinez-Steele E, Parekh N, Monteiro CA, Chang VW.
+ Ultra-processed food consumption and excess weight among US adults.
+ Br J Nutr2018;120:90-100. doi:10.1017/S0007114518001046 pmid:29729673OpenUrlCrossRefPubMed↵Rauber F, Campagnolo PD, Hoffman DJ, Vitolo MR.
+ Consumption of ultra-processed food products and its effects on children’s lipid profiles: a longitudinal study.
+ Nutr Metab Cardiovasc Dis2015;25:116-22. doi:10.1016/j.numecd.2014.08.001 pmid:25240690OpenUrlCrossRefPubMed↵Mendonça RD, Pimenta AM, Gea A, et al.
+ Am J Hypertens2017;30:358-66.pmid:27927627OpenUrlPubMed↵Fiolet T, Srour B, Sellem L, et al.
+ Consumption of ultra-processed foods and cancer risk: results from NutriNet-Santé prospective cohort.
+ BMJ2018;360:k322.
+ doi:10.1136/bmj.k322 pmid:29444771OpenUrlAbstract/FREE Full Text↵Hercberg S, Castetbon K, Czernichow S, et al.
+ The Nutrinet-Santé Study: a web-based prospective study on the relationship between nutrition and health and determinants of dietary patterns and nutritional status.
+ BMC Public Health2010;10:242. doi:10.1186/1471-2458-10-242 pmid:20459807OpenUrlCrossRefPubMed↵Vergnaud AC, Touvier M, Méjean C, et al.
+ Agreement between web-based and paper versions of a socio-demographic questionnaire in the NutriNet-Santé study.
+ Int J Public Health2011;56:407-17. doi:10.1007/s00038-011-0257-5 pmid:21538094OpenUrlCrossRefPubMedWeb of Science↵Lassale C, Péneau S, Touvier M, et al.
+ Validity of web-based self-reported weight and height: results of the Nutrinet-Santé study.
+ J Med Internet Res2013;15:e152.
+ doi:10.2196/jmir.2575 pmid:23928492OpenUrlCrossRefPubMed↵Touvier M, Méjean C, Kesse-Guyot E, et al.
+ Comparison between web-based and paper versions of a self-administered anthropometric questionnaire.
+ Eur J Epidemiol2010;25:287-96. doi:10.1007/s10654-010-9433-9 pmid:20191377OpenUrlCrossRefPubMedWeb of Science↵Craig CL, Marshall AL, Sjöström M, et al.
+ International physical activity questionnaire: 12-country reliability and validity.
+ Med Sci Sports Exerc2003;35:1381-95. doi:10.1249/01.MSS.0000078924.61453.FB pmid:12900694OpenUrlCrossRefPubMedWeb of Science↵Touvier M, Kesse-Guyot E, Méjean C, et al.
+ Comparison between an interactive web-based self-administered 24 h dietary record and an interview by a dietitian for large-scale epidemiological studies.
+ Br J Nutr2011;105:1055-64. doi:10.1017/S0007114510004617 pmid:21080983OpenUrlCrossRefPubMed↵Lassale C, Castetbon K, Laporte F, et al.
+ Correlations between Fruit, Vegetables, Fish, Vitamins, and Fatty Acids Estimated by Web-Based Nonconsecutive Dietary Records and Respective Biomarkers of Nutritional Status.
+ J Acad Nutr Diet2016;116:427-438.e5.
+ doi:10.1016/j.jand.2015.09.017 pmid:26522988OpenUrlCrossRefPubMed↵Lassale C, Castetbon K, Laporte F, et al.
+ Validation of a Web-based, self-administered, non-consecutive-day dietary record tool against urinary biomarkers.
+ Br J Nutr2015;113:953-62. doi:10.1017/S0007114515000057 pmid:25772032OpenUrlCrossRefPubMed↵Le Moulenc N, Deheeger M, Preziozi P, et al.
+ Validation du manuel photo utilisé pour l’enquête alimentaire de l’étude SU.VI.MAX.
+ [Validation of the food portion size booklet used in the SU.VI.MAX study] (in French).↵Black AE.
+ Critical evaluation of energy intake using the Goldberg cut-off for energy intake:basal metabolic rate.
+ A practical guide to its calculation, use and limitations.
+ Int J Obes Relat Metab Disord2000;24:1119-30. doi:10.1038/sj.ijo.0801376 pmid:11033980OpenUrlCrossRefPubMedWeb of Science↵Arnault N, Caillot L, Castetbon K, et al.
+ Table de composition des aliments, Etude NutriNet-Santé.
+ [Food composition table, NutriNet-Santé study] (in French).
+ Paris: Les éditions INSERM/Economica,.
+ 2013;↵Monteiro CA, Cannon G, Levy RB, et al.
+ NOVA.
+ The star shines bright.
+ World Nutr2016;7:28-38.OpenUrl↵Moubarac JC, Parra DC, Cannon G, Monteiro CA.
+ Food Classification Systems Based on Food Processing: Significance and Implications for Policies and Actions: A Systematic Literature Review and Assessment.
+ Curr Obes Rep2014;3:256-72. doi:10.1007/s13679-014-0092-0 pmid:26626606OpenUrlCrossRefPubMed↵Julia C, Martinez L, Alles B, et al.
+ Contribution of ultra-processed foods in the diet of adults from the French NutriNet-Sante study.
+ Public Health Nutr2018;21:27-37.pmid:28703085OpenUrlCrossRefPubMed↵van Buuren S, van BS.
+ Multiple imputation of discrete and continuous data by fully conditional specification.
+ Stat Methods Med Res2007;16:219-42. doi:10.1177/0962280206074463 pmid:17621469OpenUrlCrossRefPubMedWeb of Science↵Sterne JA, White IR, Carlin JB, et al.
+ Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls.
+ BMJ2009;338:b2393.
+ doi:10.1136/bmj.b2393 pmid:19564179OpenUrlFREE Full Text↵Rubin DB.
+ Inference and missing data.
+ Biometrika1976;63:581-92doi:10.1093/biomet/63.3.581.OpenUrlCrossRefWeb of Science↵Rubin DB.
+ Multiple Imputation for Nonresponse in Surveys.John Wiley &amp; Sons, 2004.↵PROC MIANALYZE.
+ The MIANALYZE Procedure: SAS/STAT(R) 9.2 User’s Guide, Second Edition.
+ [cited 2018 Dec 19].
+ https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#mianalyze_toc.htm↵Desquilbet L, Mariotti F. Dose-response analyses using restricted cubic spline functions in public health research.
+ Stat Med2010;29:1037-57.pmid:20087875OpenUrlPubMed↵DiMeglio DP, Mattes RD.
+ Liquid versus solid carbohydrate: effects on food intake and body weight.
+ Int J Obes Relat Metab Disord2000;24:794-800. doi:10.1038/sj.ijo.0801229 pmid:10878689OpenUrlCrossRefPubMedWeb of Science↵Khan SS, Ning H, Wilkins JT, et al.
+ Association of Body Mass Index With Lifetime Risk of Cardiovascular Disease and Compression of Morbidity.
+ JAMA Cardiol2018;3:280-7. doi:10.1001/jamacardio.2018.0022 pmid:29490333OpenUrlCrossRefPubMed↵Takeuchi M, Takino J, Furuno S, et al.
+ PLoS One2015;10:e0118652.
+ doi:10.1371/journal.pone.0118652 pmid:25730321OpenUrlCrossRefPubMed↵Uribarri J, Stirban A, Sander D, et al.
+ Single oral challenge by advanced glycation end products acutely impairs endothelial function in diabetic and nondiabetic subjects.
+ Diabetes Care2007;30:2579-82. doi:10.2337/dc07-0320 pmid:17496238OpenUrlAbstract/FREE Full Text↵World Health Organization (WHO) - Food additives.
+ 2017. www.who.int/mediacentre/factsheets/food-additives/en/↵Shannon M, Green B, Willars G, et al.
+ The endocrine disrupting potential of monosodium glutamate (MSG) on secretion of the glucagon-like peptide-1 (GLP-1) gut hormone and GLP-1 receptor interaction.
+ Toxicol Lett2017;265:97-105. doi:10.1016/j.toxlet.2016.11.015 pmid:27890806OpenUrlCrossRefPubMed↵Jang W, Jeoung NH, Cho K-H.
+ Modified apolipoprotein (apo) A-I by artificial sweetener causes severe premature cellular senescence and atherosclerosis with impairment of functional and structural properties of apoA-I in lipid-free and lipid-bound state.
+ Mol Cells2011;31:461-70. doi:10.1007/s10059-011-1009-3 pmid:21533907OpenUrlCrossRefPubMed↵Pepino MY, Tiemann CD, Patterson BW, Wice BM, Klein S. Sucralose affects glycemic and hormonal responses to an oral glucose load.
+ Diabetes Care2013;36:2530-5.pmid:23633524OpenUrlAbstract/FREE Full Text↵European CHemical Agency (ECHA).
+ Member State Committee support document for identification of 4,4’-isopropylidenediphenol (bisphenol a) as a substance of very high concern because of its toxic for reproduction (Article 57 c) properties.
+ Evaluation and comparison of food records, recalls, and frequencies for energy and protein assessment by using recovery biomarkers.
+ Am J Epidemiol2011;174:591-603. doi:10.1093/aje/kwr140 pmid:21765003OpenUrlCrossRefPubMedWeb of Science↵Zong G, Li Y, Wanders AJ, et al.
+ Intake of individual saturated fatty acids and risk of coronary heart disease in US men and women: two prospective longitudinal cohort studies.
+ BMJ2016;355:i5796.
+ doi:10.1136/bmj.i5796 pmid:27881409OpenUrlAbstract/FREE Full Text↵Bernstein AM, de Koning L, Flint AJ, Rexrode KM, Willett WC.
+ Soda consumption and the risk of stroke in men and women.
+ Am J Clin Nutr2012;95:1190-9. doi:10.3945/ajcn.111.030205 pmid:22492378OpenUrlAbstract/FREE Full Text↵Andreeva VA, Salanave B, Castetbon K, et al.
+ Comparison of the sociodemographic characteristics of the large NutriNet-Santé e-cohort with French Census data: the issue of volunteer bias revisited.
+ J Epidemiol Community Health2015;69:893-8. doi:10.1136/jech-2014-205263 pmid:25832451OpenUrlAbstract/FREE Full Text↵Andreeva VA, Deschamps V, Salanave B, et al.
+ Comparison of Dietary Intakes Between a Large Online Cohort Study (Etude NutriNet-Santé) and a Nationally Representative Cross-Sectional Study (Etude Nationale Nutrition Santé) in France: Addressing the Issue of Generalizability in E-Epidemiology.
+ Am J Epidemiol2016;184:660-9. doi:10.1093/aje/kww016 pmid:27744386OpenUrlCrossRefPubMed↵Santé Publique France.
+ ESTEBAN - A health study on environment, biosurveillance, physical activity and nutrition 2014-2016 (Original title in French: Etude de santé sur l’environnement, la biosurveillance, l’activité physique et la nutrition (Esteban).
+ 2017 [cited 2018 Oct 17].
+ http://invs.santepubliquefrance.fr/Publications-et-outils/Rapports-et-syntheses/Environnement-et-sante/2017/Etude-de-sante-sur-l-environnement-la-biosurveillance-l-activite-physique-et-la-nutrition-Esteban-2014-2016↵Santé Publique France.
+ Prevalence and incidence of diabetes (in French) / Epidemiological data.
+ [cited 2018 Oct 17].
+ http://invs.santepubliquefrance.fr/Dossiers-thematiques/Maladies-chroniques-et-traumatismes/Diabete/Donnees-epidemiologiques/Prevalence-et-incidence-du-diabete↵Santé Publique France DREES.
+ Health situation of the French Population in 2017 (Original title in French: L’état de santé de la population en France, Rapport 2017).
+ [cited 2018 Oct 18].
+ http://invs.santepubliquefrance.fr/publications/etat_sante_2017/ESP2017_Ouvrage_complet_vdef.pdf↵ANSES.
+ (French Agency for Food,Environmental and Occupational Health &amp; Safety).
+ Individual national study for dietary intakes 3 (INCA 3) [Etude individuelle nationale des consommations alimentaires 3 (INCA 3)] (in French).
+ 2017 Jul.
+ www.anses.fr/fr/system/files/NUT2014SA0234Ra.pdf↵Gourd E. Ultra-processed foods might increase cancer risk.
+ Lancet Oncol2018;19:e186.
+ doi:10.1016/S1470-2045(18)30184-0 pmid:29478712OpenUrlCrossRefPubMed↵Ministry of Health of Brazil.
+ Dietary Guidelines for the Brazilian population.
+ 2014. http://189.28.128.100/dab/docs/portaldab/publicacoes/guia_alimentar_populacao_ingles.pdf↵Haut Conseil de la Santé Publique.
+ Avis relatif à la révision des repères alimentaires pour les adultes du futur Programme National Nutrition Santé 2017-2021.
+ Log in or register:      Username *    Password *          Register for alerts  If you have registered for alerts, you should use your registered email address as your username           Citation toolsDownload this article to citation manager      View ORCID ProfileBernard Srour PhD candidate in epidemiology, Léopold K Fezeu assistant professor of nutritional epidemiology, Emmanuelle Kesse-Guyot senior researcher in nutritional epidemiology, Benjamin Allès junior researcher in nutritional epidemiology, Caroline Méjean senior researcher in nutritional epidemiology, Roland M Andrianasolo PhD candidate in epidemiology et al  Srour Bernard, Fezeu Léopold K, Kesse-Guyot Emmanuelle, Allès Benjamin, Méjean Caroline, Andrianasolo Roland M et al.
+ Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé) BMJ 2019; 365 :l1451       BibTeX (win &amp; mac)Download EndNote (tagged)Download EndNote 8 (xml)Download RefWorks Tagged (win &amp; mac)Download RIS (win only)Download MedlarsDownload        Help     If you are unable to import citations, please contact  technical support for your product directly (links go to external sites):  EndNote ProCite Reference  Manager RefWorks Zotero               Request permissions               Author citationArticles by Bernard Srour Articles by Léopold K Fezeu Articles by Emmanuelle Kesse-Guyot Articles by Benjamin Allès Articles by Caroline Méjean Articles by Roland M Andrianasolo Articles by Eloi Chazelas Articles by Mélanie Deschasaux Articles by Serge Hercberg Articles by Pilar Galan Articles by Carlos A Monteiro Articles by Chantal Julia Articles by Mathilde Touvier Add article to BMJ Portfolio      Email to a friendForward this page     Thank you for your interest in spreading the word about The BMJ.NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail.
+ We do not capture any email address.
+ Username *    Your Email *    Send To *    You are going to email the following  Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé)   Your Personal Message               CAPTCHA        This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.

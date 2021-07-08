@@ -1,0 +1,31 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link Skip directly to A-Z link Skip directly to A-Z link           Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People     Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People        Search        ×  Submit      For a full list of topics: A-Z Index                  CDC WONDER FAQ Help Contact Us WONDER Search            Section Navigation           TP Docs Home                    Facebook Twitter LinkedIn Email Syndicate                           CDC WONDER WONDER online databases utilize a rich ad-hoc query system for the analysis of 
+ public health data.
+ Reports and other query systems are also available.
+ Queries in WONDER may be intermittently unavailable November 8 due to maintenance: 
+ 		6 am – Noon EST and
+ 		6 pm – Midnight EST
+ 	       WONDER Systems Topics A-Z Index        WONDER Online Databases   AIDS Public Use Data   Births   Cancer Statistics   Environment   Heat Wave Days May-September    Daily Air Temperatures &amp; Heat Index    Daily Land Surface Temperatures    Daily Fine Particulate Matter    Daily Sunlight    Daily Precipitation    Mortality  Underlying Cause of Death   Detailed Mortality   Compressed Mortality   U.S. - Mexico Border Area Mortality    Multiple cause of death (Detailed Mortality)   Infant Deaths (Linked Birth/Infant Death Records)   Fetal Deaths    Online Tuberculosis Information System   Population   Bridged-Race Population (from NCHS)   Single-Race Population (from Census)   Population Projections (from Census)    Sexually Transmitted Disease Morbidity   Vaccine Adverse Event Reporting      Reports and References  Prevention Guidelines (Archive)  Scientific Data and Documentation (Archive)   Other Query Systems   Healthy People 2010 (Archive)   NNDSS Annual Tables   NNDSS Weekly Tables   122 Cities Weekly Mortality (Archive)    
+ 	Denotes numerical data available to query or download
+                
+ 				
+ 		Page last reviewed: November 05, 2020
+ 		Content source: CDC WONDER           
+ 	WONDER Search
+ 	   Search     
+ 	WONDER Info
+    About CDC WONDER   What is WONDER?
+ Frequently Asked Questions   Data Use Restrictions   Data Collections   Citations   Republishing WONDER Data   What's New?
+ HAVE QUESTIONS?
+ Visit CDC-INFO      Call 800-232-4636      Email CDC-INFO     CDC INFORMATION  About CDC Jobs Funding Policies File Viewers &amp; Players     Privacy FOIA No Fear Act OIG Nondiscrimination Accessibility    CONNECT WITH CDC  Facebook Twitter Youtube Instagram   Syndicate CDC TV RSS Email            U.S. Department of Health &amp; Human Services     USA.gov     CDC Website Exit Disclaimer external icon           Facebook   Twitter   LinkedIn   Email          Exit Notification/Disclaimer Policy  Close       Links with this icon indicate that you are leaving the CDC website.
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ updateVariables(s);
+ 
+ 		// Set the referrer value if passed on the querystring from a CDC page-level redirect.

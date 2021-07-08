@@ -1,0 +1,82 @@
+NCHS Data Brief  No. 82 
+ January 2012
+
+difference in prevalence between men and women at any age. Overall, adults aged 60 and over 
+
+in obesity prevalence by age. Among women, however, 42.3% of those aged 60 and over were 
+obese compared with 31.9% of women aged 20Œ39 (Figure 1).The prevalence of obesity was higher among adolescents than among preschool-aged children 
+(Figure 2). The prevalence of obesity was higher among boys than girls (18.6% of boys and 
+
+15.0% of girls were obese).1Significant increasing linear trend by age (
+p < 0.005).SOURCE: CDC/NCHS, National Health and Nutrition Examination Survey, 2009Œ2010.
+Figure 2. Prevalence of obesity among children and adolescents aged 2Œ19, by sex and age: United States, 2009Œ2010010203040
+5012Œ196Œ11
+2Œ52Œ19Age in years:Girls1BoysAll1Percent16.912.118.018.418.614.420.119.615.09.615.717.1 
+Almost 41 million women and more than 37 million men aged 20 and over were obese in 2009Œ2010 (Figure 3). Among children and adolescents aged 2Œ19, more than 5 million girls and 
+
+approximately 7 million boys were obese.SOURCE: CDC/NCHS, National Health and Nutrition Examination Survey, 2009Œ2010.
+Figure 3. Number of obese individuals: United States, 2009Œ20100204060
+80FemalesMalesChildren and adolescents aged 2Œ19 yearsAdults aged 20 years and overNumber in millions40.637.57.05.5 
+Between 1999Œ2000 and 2009Œ2010, the prevalence of obesity increased among men but not among women.In 1999Œ2000, 27.5% of men were obese, and by 2009Œ2010 the prevalence had increased  
+2009Œ2010 (35.8%). In 1999Œ2000, the prevalence of obesity was higher in women than in men. Between 1999Œ2000 and 2009Œ2010, the difference in the prevalence of obesity between men 
+
+and women decreased so that in 2009Œ2010, the prevalence of obesity in men was virtually equal 
+to that in women (Figure 4
+2007Œ2008 to 2009Œ2010 overall or among men or women.1Significant increasing linear trend 1999Œ2000 to 2009Œ2010 (
+p < 0.0001).NOTE: Estimates were age adjusted by the direct method to the 2000 U.S. Census population using the age groups 20Œ39, 40Œ59, and 60 and over.  
+SOURCE: CDC/NCHS, National Health and Nutrition Examination Survey, 2009Œ2010.
+Figure 4. Trends in the prevalence of obesity among adults aged 20 and over, by sex: United States, 1999Œ201001020
+3040WomenMen12009Œ20102007Œ20082005Œ20062003Œ20042001Œ20021999Œ2000PercentYears
+ 
+The prevalence of obesity among boys increased from 14.0% in 1999Œ2000 to 18.6% in   1999Œ2000 and 15.0% in 2009Œ2010 (Figure 5prevalence from 2007Œ2008 to 2009Œ2010 overall or among boys or girls.1Significant increasing linear trend 1999Œ2000 to 2009Œ2010 (
+p < 0.05).SOURCE: CDC/NCHS, National Health and Nutrition Examination Survey, 2009Œ2010.
+Figure 5. Trends in the prevalence of obesity among children and adolescents aged 2Œ19, by sex: United States, 1999Œ201001020
+30
+40GirlsBoys12009Œ20102007Œ20082005Œ20062003Œ20042001Œ20021999Œ2000PercentYears
+ 
+SummaryThe most recent national data on obesity prevalence among U.S. adults, adolescents, and  children show that more than one-third of adults and almost 17% of children and adolescents were obese in 2009Œ2010. Differences in prevalence between men and women diminished 
+between 1999Œ2000 and 2009Œ2010, with the prevalence of obesity among men reaching the  same level as that among women.Age differences in obesity prevalence varied between men and women. The prevalence of obesity 
+was higher among older women compared with younger women, but there was no difference by 
+age in obesity prevalence among men. Among children and adolescents, the prevalence of obesity 
+was higher among adolescents than among preschool-aged children.There has been no change in obesity prevalence in recent years; however, over the last decade 
+women and girls overall. The Healthy People 2010 goals of 15% obesity among adults and 5% 
+obesity among children were not met (6).Obesityor equal to 30 (1Table
+. percentiles of the 2000 CDC growth charts (7).
+The National Health and Nutrition Examination Surveys (NHANES) conducted from 1999 through 
+
+2010 were used for these analyses. NHANES is a cross-sectional survey designed to monitor the 
+health and nutritional status of the civilian noninstitutionalized U.S. population (8). The survey 
+consists of interviews conducted in participants™ homes, standardized physical examinations 
+conducted in mobile examination centers, and laboratory tests utilizing blood and urine specimens 
+
+provided by participants during the physical examination. 
+The NHANES sample is selected through a complex multistage probability design that includes 
+selection of primary sampling units (counties), household segments within the counties, households 
+
+non-Hispanic black and Hispanic persons, persons with low income, and those aged 60 and over 
+were oversampled in order to obtain reliable estimates of health and nutritional measures for these 
+Each year of data collection is based on a representative sample covering all ages of the civilian 
+ 
+Sample weights, which account for the differential probabilities of selection, nonresponse, and 
+noncoverage, are incorporated into the estimation process. All variance estimates accounted for the 
+complex survey design by using Taylor series linearization. 
+Estimates of the number of obese individuals were calculated using the average Current Population 
+
+CPS.htm).
+Prevalence estimates for the total adult population were age adjusted using the direct method to 
+the 2000 U.S. Census population using the age groups 20Œ39, 40Œ59, and 60 and over. Differences 
+between groups were tested using a univariate t statistic at the p
+made for multiple comparisons. Statistical analyses were conducted using the SAS System for 
+
+Windows (release 9.1; SAS Institute, Cary, N.C.) and SUDAAN (release 9.0; RTI International, 
+Research Triangle Park, N.C.).
+About the authorsCynthia L. Ogden, Margaret D. Carroll, and Brian K. Kit are with the Centers for Disease Control 
+and Prevention™s (CDC) National Center for Health Statistics (NCHS), Division of Health and 
+
+
+1. 51SŒ209S. 1998.2. Flegal KM, Carroll MD, Ogden CL, Johnson CL. Prevalence and trends in obesity among US 3. Ogden CL, Flegal KM, Carroll MD, Johnson CL. Prevalence and trends in overweight among 4. Flegal KM, Carroll MD, Ogden CL, Curtin LR. Prevalence and trends in obesity among US 5. Ogden CL, Carroll MD, Curtin LR, Lamb MM, Flegal KM. Prevalence of high body mass 6. 
+
+.7. Ogden CL, Flegal KM. Changes in terminology for childhood overweight and obesity. 
+2010.8. National Center for Health Statistics. National Health and Nutrition Examination Survey. 
+
+. 

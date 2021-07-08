@@ -1,0 +1,132 @@
+Become a Member   Submit a Topic   Contact Us   Shop Snopes   What's New   Hot 50   Fact Checks   News   Videos   Archive   About Us   Randomizer    Become a Member              				Help Snopes.
+ Become a Founding Member!
+ Did CDC ‘Quietly Update’ COVID-19 Deaths To Say Only 6% Are Legitimate?
+ A rumor downplaying the seriousness of the deadly virus was promoted by a group of people that included U.S. President Donald Trump    Jessica Lee       Published 3 September 2020           													Image via Wiki Commons                  				smg.ads.load( 'post-featured-1' ); 			    Claim  The CDC "quietly updated" its COVID-19 mortality statistics in summer 2020 to show only 6% of previously reported deaths were actually due to the coronavirus, while the remaining 94% died from preexisting health conditions.
+ Rating         False About this rating        Do you rely on Snopes reporting?
+ Become a member today.
+ smg.ads.load( 'rating-1' ); 			    Origin  As governments fight the COVID-19 pandemic, Snopes is fighting an “infodemic” of rumors and misinformation, and you can help.
+ Read our coronavirus fact checks.
+ Submit any questionable rumors and “advice” you encounter.
+ Become a Founding Member to help us hire more fact-checkers.
+ And, please, follow the CDC or WHO for guidance on protecting your community from the disease.
+ In attempt to ring the alarm on supposed deceptive practices by the Centers for Disease Control and Prevention (CDC), hard-line conservatives including U.S. President Donald Trump promoted the idea in August 2020 that the public health agency suddenly changed its methods for reporting COVID-19 mortality statistics.
+ And as a result, viral social media posts alleged, America only tallied about 9,000 COVID-19 fatalities, or roughly 6% of the more than 150,000 deaths widely reported by politicians, scientists, and news reporters.
+ Many believers, including conspiracy theorist Jeff Berwick, dubbed the alleged change by the CDC evidence that people other than his followers were exaggerating the seriousness of the pandemic, and that everyone should be skeptical of rules on social distancing that halt the economy.
+ In a Sept. 1 video, for example, he said: “It’s been proven by the CDC — [the pandemic] is nothing, it was absolutely nothing.
+ Zero.
+ 9,000 people?
+ Several inquiries included a link to the hyperpartisan, junk news website The Gateway Pundit, or a link to another conspiratorial web page that phrased the alleged revelation like this: “The CDC quietly released new covid numbers showing those who solely died from the virus was only 6% (9,210) of the total deaths (153,504).
+ 94% of those who died, did so because they had existing health conditions.” Additionally, The Gateway Pundit page claimed, “the overwhelming majority” of reported COVID-19 deaths were among “very old Americans” — without going into specifics on what age population that meant — and suggested nefarious intentions on the part of the CDC to try to change its guidance without anyone noticing.
+ Versions of this notion circulated widely online in summer 2020, in part because of support from American politicians such as Trump.
+ In two retweets — one by his campaign adviser that linked to the Gateway Pundit page and another by a supporter of the unfounded QAnon conspiracy theory (screenshot below) — Trump endorsed the claim, essentially denigrating scientific evidence by his own health advisers, Dr. Anthony Fauci and Dr. Deborah Birx.
+ However, as of this writing, Twitter had removed the below-displayed post for violating its terms of service.
+ First, to unpack the claim, let’s be clear about how COVID-19 — which is the disease caused by the coronavirus dubbed SARS-CoV-2 — attacks the body and can become deadly.
+ According to an article in the journal Science, a highly credible scientific publication: Once inside, the virus hijacks the cell’s machinery, making myriad copies of itself and invading new cells.
+ As the virus multiplies, an infected person may shed copious amounts of it, especially during the first week or so.
+ Symptoms may be absent at this point.
+ Or the virus’ new victim may develop a fever, dry cough, sore throat, loss of smell and taste, or head and body aches.
+ If the immune system doesn’t beat back SARS-CoV-2 during this initial phase, the virus then marches down the windpipe to attack the lungs, where it can turn deadly.
+ smg.ads.load( 'post-body-2' ); 			   In other words, SARS-CoV-2 attacks lung cells, and that assault on a person’s respiratory system can greatly exacerbate other preexisting conditions.
+ That means COVID-19 patients run the risk of previously manageable health problems turning fatal — including cardiac arrest, liver failure, or lung scarring — after they’re infected with SARS-CoV-2.
+ Put another way, Ryan McNamara, a virologist at the University of North Carolina at Chapel Hill, in a series of tweets compared the SARS-CoV-2 virus with the human immunodeficiency virus, or HIV, which causes AIDS.
+ He wrote: After years of (HIV) virus spread, and in the absence of treatment, a patient infected with HIV will develop AIDS.
+ […] During this state of HIV progression, white blood cells called T-cells are depleted.
+ This can allow co-infecting pathogens to spread unchecked or tumor cells to grow &amp; metastasize.
+ Hence pneumonia &amp; AIDS-associated cancers are leading causes of death in HIV+ patients.
+ Those saying "only 6% die from COVID-19 alone", or some derivation thereof, don't understand how infectious diseases work.
+ Many are not operating in good faith, &amp; are the same people who have downplayed this pandemic since February.
+ (4/4) — Ryan McNamara 🧬 (@Ryan_Mac_Phd) August 31, 2020  Next, we investigated how the CDC compiles COVID-19 death toll data.
+ Since the viral posts did not specify what “numbers” by the CDC to which they were alleging nefariousness, we considered the CDC’s Provisional Death Counts for Coronavirus Disease (COVID-19) web page, which is a compilation of death certificates updated weekly by the National Center for Health Statistics (NCHS).
+ Additionally, we obtained an April 2020 document by the World Health Organization titled, “International Guidelines For Certification and Classification (Coding) of COVID-19 As Cause of Death,” which stated that medical examiners must include as much detail as possible based on records and lab testing when they’re filling out death certificates.
+ For example, a death certification for a patient who was infected with SARS-CoV-2 and afterwards developed pneumonia and fatal respiratory distress would list all three conditions as causes of death (see example below).
+ The document also said death certificates for people who suffered from chronic conditions, such as coronary artery disease or diabetes, before their exposure to the coronavirus would list those conditions in addition to COVID-19.
+ The coronavirus would still be labeled the underlying cause of death — or the disease that “initiated the train of events leading directly to death,” per the WHO’s definition — since the preexisting health issues were likely exacerbated by the initial SARS-CoV-2 infection.
+ smg.ads.load( 'post-body-3' ); 			   Next, we considered the CDC’s process for analyzing those death certificates that list COVID-19.
+ Its website explained: When a person dies, the cause of death is determined by the certifier — the physician, medical examiner, or coroner who reports it on the death certificate.
+ States register all death certificates and send them to [NCHS], where they are used to produce the nation’s official death statistics.
+ […] When COVID-19 is reported as a cause of death on the death certificate, it is coded and counted as a death due to COVID-19.
+ COVID-19 should not be reported on the death certificate if it did not cause or contribute to the death.
+ […] Complete means describing a clear chain of events from the immediate to the underlying cause of death, reporting any other conditions that contributed to death, and providing information that is specific.
+ In short, the CDC compiles mortality statistics that are based on all possible causes of death for one individual.
+ So if a diabetes patient with high blood pressure was infected with COVID-19 — which can target blood vessels — and they die because their blood vessels were already so damaged, the CDC would consider their death related to both the coronavirus and diabetes.
+ (According to the CDC database of death certificate data, that was the case for more than 27,500 people.)
+ As of this writing, the CDC last updated its mortality statistics on Sept. 3, 2020.
+ At that point, the agency said 171,787 death certificates included COVID-19 since the beginning of the U.S. outbreak in February 2020.
+ And alongside the coronavirus, the majority of documents also listed comorbidities, or additional health issues that can either worsen or develop after the initial SARS-CoV-2 infection.
+ For instance, 71,700 included influenza or pneumonia and COVID-19 as potential causes of death.
+ However, fueling the conspiracy theory, the CDC web page stated: “For 6% of the deaths, COVID-19 was the only cause [of death] mentioned.
+ For deaths with conditions or causes in addition to COVID-19, on average, there were 2.6 additional conditions or causes per death.” That meant, yes, medical investigators believed only 6% of COVID-19 patients died from the coronavirus alone.
+ Those patients had no reported comorbidities.
+ However, it was dangerously wrong to misinterpret that fact to mean that the remaining fatalities (or 94 percent) died from health issues other than the coronavirus.
+ Rather, most people’s underlying cause of death was COVID-19 and the virus either intensified or caused other illnesses that contributed to patients’ death.
+ Note: The “6%” claim was not the first attempt by COVID-19 conspiracy theorists to allege without any substantial evidence that the CDC was nefariously compiling data to trick people into thinking the coronavirus was more serious than it actually is.
+ In spring 2020, for instance, they attempted to ring the alarm on the agency supposedly inflating COVID-19 death numbers for political reasons, but in reality the alleged discrepancy was a result of comparing two separate data sources that report different measurements.
+ (See our analysis into that claim here.)
+ smg.ads.load( 'post-body-4' ); 			   The death certification statistics, in short, prove that people with preexisting health problems — such as asthma or hypertension — face higher risk for serious illness, or dying, if they’re infected with COVID-19, according to Bob Anderson, lead mortality statistician at NCHS.
+ He said in a statement to NBC News: “These data are consistent with CDC guidance that those with underlying medical conditions are at greater risk for severe illness and death from COVID-19.” Additionally, Fauci explained the phenomena in a Sept. 1 interview on the ABC program “Good Morning America: The point that the CDC was trying to make was that a certain percentage of [COVID-19 deaths] had nothing else but just COVID.
+ That does not mean that someone who has hypertension or diabetes who dies of COVID didn’t die of COVID-19 — they did.
+ So the numbers that you’ve been hearing — the 180,000-plus deaths — are real deaths from COVID-19.
+ …It’s not 9,000 deaths from COVID-19.
+ Next, we found data to address another aspect of the fringe theory: that the “overwhelming majority” of reported COVID-19 deaths were among people of a “very advanced age.” For the purpose of this report, we considered that group to be people aged 85 or older.
+ And according to the CDC death certificate data, 53,000 documents for that population listed COVID-19 as a potential cause of death, accounting for about one-third of the total, or less than the majority.
+ We should note here: Epidemiologists and health officials have been up front with the fact that COVID-19 patients who are older — as well as those who have underlying health problems — are at greater risk for serious problems.
+ “As you get older, your risk of being hospitalized for COVID-19 increases.
+ Everyone, especially older adults and others at increased risk of severe illness, should take steps to protect themselves from getting COVID-19,” according to the CDC.
+ Eight out of 10 people who have died as a result of COVID-19 in the U.S. were over the age of 65, per the agency’s data.
+ Lastly, we looked for any evidence to confirm or deny that the CDC attempted to “quietly” adjust its mortality statistics under the public’s radar.
+ Bob Anderson, lead mortality statistician at NCHS, told NBC News in a statement the death certificate data does “not represent new information as NCHS has been publishing this same information since the outset when we began posting data on COVID-19 deaths on our web site.”  In sum, considering the way in which the coronavirus impacts the human body, the way the CDC compiles data from death certificates — listing comorbidities that were either developed or exacerbated by COVID-19  — as well as the fact that one-third of COVID-19 fatalities were people aged 85 or older, we rate this claim “False.”      Snopes.com   Since 1994     Help Supercharge Snopes For 2020  				We have big plans.
+ We need your help.
+ Become a member!
+ Published 3 September 2020   By   Jessica Lee     Filed Under   COVID-19       Sources        The Dollar Vigilante.
+ “Shocking Admission: CDC Says Over 90% of Deaths Weren’t COVAIDS19 and 90% of Tests False Positives.”    LBRY.
+ Accessed 2 September 2020.
+ Hoft, Joe.
+ “SHOCK REPORT: This Week CDC Quietly Updated COVID-19 Numbers — Only 9,210 Americans Died From COVID-19 Alone – Rest Had Different Other Serious Illnesses.”    The Gateway Pundit.
+ 29 August 2020.
+ Dale, Daniel, and Gumbrecht, Jamie.
+ “Twitter Removes QAnon Supporter’s False Claims About Coronavirus Death Statistics That Trump Had Retweeted.”    CNN.
+ 31 August 2020.
+ Factba.se.
+ “Donald Trump – Deleted Tweets.”    Accessed 2 September 2020.
+ Saving the Republic.
+ “Updated CDC Covid Numbers Show Only 6% of Total US Deaths Actually Died Solely From Virus.”    Accessed 2 September 2020.
+ ABC News.
+ “Dr.
+ Fauci Weighs in on 6M US Coronavirus Cases, Deaths and CoMorbidity.”    Accessed 2 September 2020.
+ Centers for Disease Control and Prevention.
+ “National Center for Health Statistics,”    Accessed 2 September 2020.
+ Flagg, Anna.
+ “Mounting US Deaths Reveal An Outsize Toll On People Of Color.”    The Associated Press.
+ 21 August 2020.
+ World Health Organization.
+ “Violence And Injury Prevention.”    Accessed September 3 2020.                  				smg.ads.load( 'post-footer-1' ); 			    Editors' Picks         Was a Moving Van Parked Outside White House After Election Day?
+ 4 November 2020													  							Fact Check						   Filler footage from C-SPAN went viral.
+ Did DHS Secretly Watermark Ballots in an Election Fraud Sting Against Dems?
+ 6 November 2020													  							Fact Check						   Discussing election mechanics is easier when you actually know how elections work.
+ Can State Legislatures Override the Choice of Presidential Electors?
+ 6 November 2020													  							Fact Check						   The electoral college is a unique system for indirectly electing the president of the United States.
+ Has Starbucks Sold a ‘Christmas Blend’ Since 1984?
+ 6 November 2020													  							Fact Check						   Since at least 2015, the popular coffee chain has faced accusations of being "anti-Christmas."
+ Snopes Fact-Checks the 2020 US Election, Live    															5 November 2020													  							Collections						   Lies don't wait — and neither does Snopes.
+ Did a Fox 2 Detroit Report Expose Voter Fraud in the 2020 Election?
+ 4 November 2020													  							Fact Check						   An image graphic detailing an assortment of potential election crimes was shared on social media the day after the 2020 presidential election.
+ Was the 2020 U.S. Presidential Election Winner Announced Yet?
+ 7 November 2020													  							Fact Check						   For days, the world waited to see who American voters want to serve as the 46th president of the United States — Donald Trump or Joe Biden.
+ Were Trump Ballots Marked with Sharpies Disqualified in Arizona?
+ 4 November 2020													  							Fact Check						   Arizona was one of several states apparently won by Joe Biden in 2020 that were targeted by election-related conspiracy theories.
+ Was a Moving Van Parked Outside White House After Election Day?
+ 4 November 2020													  							Fact Check						   Filler footage from C-SPAN went viral.
+ View all        				smg.ads.load( 'side-2' ); 			     Snopes.com needs your help.Become a member today.
+ Learn How          				smg.ads.load( 'side-3' ); 			            				smg.ads.load( 'footer-1' ); 			            Navigate   Home   Search   Archive   Store   FAQ   Submit a Topic     Sections   What's New   Hot 50   Fact Checks   News   Randomizer     Company   About Us   Support Us   Careers   Terms of Use   Privacy Policy   Cookie Policy   Don't Sell My Info   Consent Preferences   Ad Preferences      © 1995 - 2020 by Snopes Media Group Inc.
+ This material may not be reproduced without permission.
+ Snopes and the Snopes.com logo are registered service marks of Snopes.com              	 No results for:  	   	   		 Your search did not yield any results.
+ Your search terms may need to be revised, or we have not written an article on that topic.
+ One of the best tips for locating articles on our site is to avoid the use of searches that are too lengthy or specific.
+ Therefore, the optimal search strategy is to avoid pasting specific phrases from items (such as subject lines and opening sentences) into our search engine and instead focus on selecting a few distinctive words or names to use as search terms.
+ If you still don't find the item you're looking for, please use our Submission Form to send it to us.
+ We can't write about it if we don't know about it!
+ The maximum query length is 500 characters.
+ See the whole collection.
+ Support Us       					You rely on Snopes, and we rely on you.
+ Help preserve this vital resource.
+ Give with PayPal Give with GoFundMe           				smg.ads.load( 'sticky-1' );

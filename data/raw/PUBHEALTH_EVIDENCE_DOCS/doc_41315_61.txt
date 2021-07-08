@@ -1,0 +1,343 @@
+A condition more common than IBD is low-grade inflammation, which correlates with altered gut microbiota composition and metabolic syndrome, both present in many cases of colorectal cancer.
+ Recent findings suggest that low-grade inflammation in the intestine is promoted by consumption of dietary emulsifiers, a ubiquitous component of processed foods, which alter the composition of gut microbiota.
+ Here, we demonstrate in a preclinical model of colitis-induced colorectal cancer that regular consumption of dietary emulsifiers, carboxymethylcellulose or polysorbate-80, exacerbated tumor development.
+ Enhanced tumor development was associated with an altered microbiota metagenome characterized by elevated levels of lipopolysaccharide and flagellin.
+ We found that emulsifier-induced alterations in the microbiome were necessary and sufficient to drive alterations in major proliferation and apoptosis signaling pathways thought to govern tumor development.
+ Overall, our findings support the concept that perturbations in host–microbiota interactions that cause low-grade gut inflammation can promote colon carcinogenesis.
+ Cancer Res; 77(1); 27–40.
+ ©2016 AACR.IntroductionColorectal cancer is among the most common human malignancies (1) and has been firmly linked to chronic intestinal inflammation, giving rise to the term “colitis-associated cancer” (2, 3).
+ The development of colitis-associated cancer in patients suffering from inflammatory bowel disease (IBD) is one of the best characterized examples of an association between intestinal inflammation and carcinogenesis (4–7).
+ Among patients with ulcerative colitis, the risk of colon cancer has been found to be as high as 2% at 10 years, 8% at 20 years, and 18% at 30 years after initial diagnosis (4).
+ In contrast, the lifetime risk of sporadic colorectal cancer in the United States is only 5% (8).Gut microbiota is the collective term for the large diverse community of microorganisms that inhabits the intestine.
+ Gut microbiota play an important role in health, particularly in promoting immune system development and aiding metabolism.
+ Alterations in microbiota composition, often referred to as dysbiosis, are thought to play a central role in the pathogenesis of numerous intestinal disorders including inflammatory bowel disease (IBD; ref.
+ 9), and are associated with colorectal cancer (10).
+ However, whether microbial dysbiosis observed in patients with colorectal cancer is a consequence of the pathology or is causal remains unclear.
+ An altered microbiota can play a role in promoting colitis-associated cancer, not only through induction of inflammation, but also through the production of toxins that create a favorable niche for tumor cells (11).
+ Indeed, commensal organisms can have an enormous impact on tumorigenesis through the production of tumor-promoting genotoxins that can induce chromosomal instability (12).
+ For example, certain strains of Escherichia coli harboring the Pks island, involved in the synthesis of the colibactin toxin, are frequently associated with human colorectal tumors.
+ These strains inhibit DNA mismatch repair proteins, and were also reported to have carcinogenic effects in mice (11, 13–16).
+ Besides, treatment of mice with antibiotics confers some degree of protection against colitis-associated cancer, supporting the pivotal role of the gut microbiota during tumorigenesis (17).
+ Moreover, azoxymethane (AOM)-treated germ-free IL10−/− mice failed to develop colitis and colorectal tumors, indicating that the presence of colitogenic bacteria is essential for the development of colitis-associated cancer (18).While gut inflammation is classically defined histopathologically, specifically by the presence of immune cell infiltrates, it is now appreciated that a much more common form of inflammation is “low-grade intestinal inflammation,” which is defined by elevated systemic expression of proinflammatory cytokines in the absence of the classical aggregates of immune cell infiltrates.
+ Alterations in host–microbiota relationship have been associated with and can promote low-grade intestinal inflammation (19).
+ Moreover, it is increasingly appreciated that low-grade chronic inflammation in the gut can promote metabolic disorders such as type II diabetes, atherosclerosis, and obesity, which is itself associated with increased incidence of colon cancer (20, 21).Emulsifiers are detergent-like molecules that are incorporated into most processed foods to improve texture and stability, and we recently demonstrated that emulsifiers disrupted mucus–bacterial interactions, inducing intestinal inflammation (22).
+ In this recent study, we investigated the effect of two commonly used emulsifiers, namely carboxymethylcellulose (CMC) and polysorbate-80 (P80), on the host's intestine.
+ CMC was previously described to promote overgrowth and inflammation of small intestine in genetically susceptible mice (23), and P80 is able to increase bacterial translocation across epithelia in vitro (24, 25).These two emulsifiers are indigestible and mainly excreted in the feces (26–29), and we recently found that both CMC and P80 promoted microbiota encroachment and increased levels of proinflammatory flagellin and lipopolysaccharide (LPS), which correlated with a change in microbiota composition and intestinal inflammation.
+ Such alterations promoted colitis in mice genetically predisposed to this disorder, and induced low-grade inflammation and metabolic syndrome in WT mice.
+ Importantly, such effects were dependent upon the presence of the microbiota (no phenotype observed in germ-free mice), and fecal microbiota transplant from emulsifier-treated mice to germ-free mice, transferred some features of intestinal inflammation and metabolic syndrome (22).In the current study, we hypothesized that emulsifiers could be involved in colorectal cancer development through the promotion of low-grade intestinal inflammation and alterations of the intestinal microbiota.
+ To test this hypothesis, we used the well-established murine model of colitis-associated cancer using the carcinogen AOM, followed by two cycles of dextran sulfate sodium (DSS) in mice subjected to chronic exposures of two commonly used emulsifiers, CMC and P80.
+ We herein report that dietary emulsifying agents created and maintained a proinflammatory environment in the colon, associated with alterations of the proliferation/apoptosis balance that resulted in exacerbated carcinogenesis.
+ These changes were associated with, and dependent upon, alterations in microbiota composition and diversity that created a favorable niche for tumorigeneisis.
+ All mice were bred and housed at Georgia State University, (Atlanta, GA) under institutionally approved protocols (IACUC # A14033).
+ Mice were housed in specific pathogen-free conditions and fed ad libitum with regular chow diet.
+ Animals used in Figs.
+ 1–6 and Supplementary Fig.
+ S1–S10 were housed in Helicobacter positive room, and animals used in Fig.
+ 7 and Supplementary Fig.
+ S11 were housed in Helicobacter negative room.Download figureOpen in new tabDownload powerpointFigure 1.
+ Dietary emulsifiers promote colitis-associated cancer.
+ WT mice were exposed to drinking water containing CMC or P80 (1.0%) for 13 weeks.
+ Mice were then injected intraperitoneally with AOM (10 mg/kg body weight), maintained for 7 days, and then subjected to a two-cycle DSS treatment (each cycle consisted of 7 days of 2.5% DSS and 14 days of H2O).
+ Colon weights (A), colon lengths (B), spleen weights (C), fat-pad mass (D), body weight over time (E), representative colon samples from each experimental group at the end of the AOM/DSS protocol (F), number of tumor per mouse (G), total tumor surface determined using a dissecting microscope fitted with an ocular micrometer (H).
+ Significance was determined using t test (*, P &lt; 0.05) or two-way group ANOVA corrected for multiple comparisons with a Bonferroni test (#, statistical significance).Download figureOpen in new tabDownload powerpointFigure 2.
+ Dietary emulsifiers promote intestinal inflammation and carcinogenesis.
+ Analysis of IL6 (A), CXCL1 (B), CXCL2 (C), IL22 (D), and TNFα mRNA expression (E) by qRT-PCR in the colon following emulsifier treatment and following the induction of colonic neoplasia.
+ F, Analysis of serum CXCL1 level by ELISA following emulsifier treatment and following the induction of colonic neoplasia.
+ Significance was determined using t test (*, P &lt; 0.05).Download figureOpen in new tabDownload powerpointFigure 3.
+ Dietary emulsifiers favor a proinflammatory microbiota.
+ Colonic MPO levels (A), fecal Lcn2 concentration at day 141 (B), and bioactive levels of fecal flagellin (FliC; C–E) and LPS (F–H) assayed with TLR5 and TLR4 reporter cells, respectively, at day 0 (C, F), day 63 (D, G), and day 126 (E, H).
+ Significance was determined using t test (*, P &lt; 0.05).Download figureOpen in new tabDownload powerpointFigure 4.
+ Profound metagenome alteration following CMC and P80 consumption.
+ WT mice were exposed to drinking water containing CMC or P80 (1.0%) for 13 weeks.
+ PICRUSt (Phylogenetic Investigation of Communities by Reconstruction of Unobserved States) was used to predict the metagenomes, subsequently analyzed by principal coordinates analysis of the beta diversity using binary Jaccard method at day 0 (A and B) and day 63 (C and D).
+ E, KEGG pathways were visualized on a volcano plot.
+ From left to right, water-treated versus CMC-treated at day 0; water-treated versus CMC-treated at day 63; water-treated versus P80-treated at day 0; water-treated versus P80-treated at day 63.
+ For each KEGG identifier, the difference in abundance between the two groups is indicated in log2 fold change on x-axis (with positive values corresponding to an increase in emulsifier-treated group compared with water-treated group, and negative values corresponding to a decrease in emulsifier-treated group compared with water-treated group), and significance between the two groups is indicated by log10 P value on the y-axis.
+ Red dots correspond to KEGG identifiers with a P value &lt;0.05 between emulsifier-treated and water-treated groups.
+ Orange dots correspond to KEGG identifiers with at least a 2-fold decreased or increased abundance in emulsifier-treated group compared with water-treated group.
+ Green dots correspond to KEGG identifiers with at least a 2-fold decreased or increased abundance in emulsifier-treated group compared with water-treated group and with a P value &lt;0.05.
+ F and G, Predicted metagenomes were categorized at level 3 of the KEGG pathways, and pathways involved in LPS biosynthesis, secretion system synthesis, and motility were graphed.
+ Significance was determined using t test (*, P &lt; 0.05).Download figureOpen in new tabDownload powerpointFigure 5.
+ Dietary emulsifiers alter epithelial cell proliferation and apoptosis during colitis-associated cancer development.
+ A and B, Epithelial cell proliferation was analyzed by IHC using the proliferation marker Ki67 in colonic tissue sections.
+ A, Representative images of Ki67 staining.
+ Scale bar, 200 μm.
+ B, Ki67+ cells were counted and averaged per crypt.
+ C and D, Epithelial cell apoptosis was analyzed by TUNEL assay.
+ C, Representative confocal images of TUNEL assay.
+ TUNEL, green; DNA, blue.
+ Scale bar, 25 μm.
+ D, TUNEL+ DAPI+ cells were counted and averaged per crypt.
+ Significance was determined using t test (*, P &lt; 0.05).Download figureOpen in new tabDownload powerpointFigure 6.
+ Dietary emulsifiers alter epithelial cell proliferation and apoptosis in a microbiota-dependent manner.
+ Conventional and germfree Swiss-Webster WT mice were exposed to drinking water containing CMC or P80 (1.0%) for 13 weeks.
+ Intestinal microbiota from conventional Swiss-Webster WT mice exposed to drinking water containing CMC or P80 (1.0%) for 13 weeks were transplanted to germfree Swiss-Webster WT mice.
+ Analysis of cyclin D1 (A and G), cyclin D2 (B and H), Ki67 (C and I), BCL2 (D and J), BAD (E and K), and VEGFA mRNA expression (F and L) by qRT-PCR in the colon following emulsifier treatment under germ-free conditions (A–F) and following microbiota transplantation (G–L).Emulsifier agent treatmentMice were exposed to CMC or P80 diluted in the drinking water (1.0%).
+ The same water (reverse-osmosis treated Atlanta city water) was used for the water-treated (control) group.
+ These solutions were changed every week.
+ Body weights were measured every week and expressed as percentages of the initial body weight (day 0 defined as 100%) to study emulsifier effect on body weight gain.
+ Fresh feces were collected every week for downstream analysis.Colitis-associated cancer modelColitis-associated cancer was induced as previously described with some modifications (30).
+ As schematized in Supplementary Fig.
+ S1, after 13 weeks (91 days) of emulsifier administration, mice were intraperitoneally injected with AOM (10 mg/kg body weight; Sigma-Aldrich) diluted in PBS and maintained on regular chow diet and water or emulsifier-supplemented water for 5 days.
+ Mice were then subjected to two cycles of DSS treatment (MP Biomedicals), in which each cycle consisted of 2.5% DSS for 7 days followed by a 14-day recovery period with regular water or emulsifier-supplemented water.
+ After treatment, mice were fasted for 5 hours, at which time blood was collected by retrobulbar intraorbital capillary plexus.
+ Hemolysis-free serum was generated by centrifugation of blood using serum separator tubes (Becton Dickinson).
+ After colitis-associated cancer protocol, mice were euthanized, and colon length, colon weight, spleen weight, and adipose weight were measured.
+ Organs and blood were collected for downstream analysis.
+ Colonic tumors were counted and surface measured using a dissecting microscope.
+ The total area of tumors for each colon was determined.As schematized in Supplementary Fig.
+ S11, emulsifier-treated animals were also weekly treated with AOM (10 mg/kg body weight) diluted in PBS.
+ At the end of the experiment, mice were fasted for 15 hours, colonoscopy procedure was performed (Karl Storz Endoskope) and mice were euthanized and organs collected as previously described.Germ-free experimentsGerm-free Swiss Webster mice were kept under germfree conditions in a Park Bioservices isolator in our germ-free facility.
+ CMC and P80 were diluted to 1% in water and then autoclaved for germ-free purpose.
+ The same water was used for the water-treated (control) group.
+ Conventional age-matched and sex-matched Swiss Webster mice were used in parallel.
+ After 3 months of emulsifier agent treatment, terminal analyses were performed.Microbiota transplantationCecal contents from Swiss Webster detergent-treated mice were suspended in 30% glycerol diluted in PBS (1.0 mL) and stocked at −80°C until analysis.
+ Germ-free Swiss Webster mice (4 weeks old) were removed from the isolator and were orally administered 200 μL of fecal suspension made using glycerol stocks.
+ Transplanted mice were monitored for 3 months before terminal analysis.Colonic myeloperoxidase assay, quantification of fecal Lcn-2 and serum CXCL-1 and IL6 by ELISAFor details, see Supplementary Methods section.Fecal flagellin and LPS load quantificationWe quantified flagellin and LPS as previously described (31) using human embryonic kidney (HEK)-Blue-mTLR5 and HEK-BluemTLR4 cells, respectively (Invivogen).
+ We resuspended fecal material in PBS to a final concentration of 100 mg/mL and homogenized using a Mini-Beadbeater-24 without the addition of beads to avoid bacteria disruption.
+ Supernatants were serially diluted and applied to mammalian cells.
+ Purified E. coli flagellin and LPS (Sigma) were used for standard curve determination.
+ After 24 hours of stimulation, we applied cell culture supernatant to QUANTI-Blue medium (Invivogen) and measured alkaline phosphatase activity at 620 nm after 30 minutes.RNA extraction, real-time RT-PCR, and bacterial quantification by qPCRFor details, see Supplementary Methods section and Supplementary Table S1.Fecal microbiota analysis by 16S rRNA gene sequencing using Illumina technology and metagenome prediction16S rRNA gene sequencing was performed as previously described (22), with data deposited in the European Nucleotide Archive under accession number PRJEB8035.
+ For details, please see Supplementary Methods.Ki67 immunohistochemistryMouse proximal colon devoid of tumor were fixed in 10% buffered formalin for 24 hours at room temperature and subsequently embedded in paraffin.
+ Tissues were sectioned at 5-μm thickness and deparaffinized.
+ Sections were incubated in sodium citrate buffer and cooked in a pressure cooker for 10 minutes for antigen retrieval.
+ Sections were then blocked with 5% goat serum in TBS followed by one hour incubation with anti-Ki67 (1:100, Vector Laboratories) at 37°C.
+ After washing with TBS, sections were treated with biotinylated secondary antibodies for 30 minutes at 37°C, and color development was performed using the Vectastain ABC kit (Vector Laboratories).
+ Sections were then counterstained with hematoxylin, dehydrated, and coverslipped.
+ Ki67-positive cells were counted per crypt.Terminal deoxynucleotidyl transferase deoxyuridine triphosphate nick-end labeling assayTo quantitate the number of apoptotic cells in colonic epithelial cells, mouse proximal colon devoid of tumor were fixed in 10% buffered formalin for 24 hours at room temperature, embedded in paraffin, sectioned at 5-μm thickness, deparaffinized, and stained for apoptotic nuclei according to the manufacturer's instructions using the In Situ Cell Death Detection Kit (Roche Diagnostics).
+ Terminal deoxynucleotidyl transferase deoxyuridine triphosphate nick-end labeling (TUNEL)-positive cells overlapping with DAPI nuclear staining were counted per crypt.Statistical analysisData are presented as means ± SEM.
+ Significance was determined using t tests, with each treatment group compared with the control group.
+ Two-way group ANOVA corrected for multiple comparisons using Bonferroni posttest was used for body weight over time and alpha diversity analysis (GraphPad Prism software, version 6.01).
+ * and # indicate statistically significant differences.ResultsDietary emulsifying agents induce low-grade intestinal inflammation associated with metabolic syndromeMultiple mouse litters were equally split at weaning into three groups that received either water, CMC, or P80 in drinking water (1.0% w/v or v/v, respectively) for 13 weeks, as reported previously (Supplementary Fig.
+ S1; ref.
+ 22).
+ In accord with our previous work, emulsifier consumption resulted in features of chronic low-grade intestinal inflammation, including shortened colons and splenomegaly (Supplementary Fig.
+ S2).
+ Fecal lipocalin-2 (Lcn2), which is a sensitive and broadly dynamic marker of intestinal inflammation in mice (32), was used to quantify the intestinal inflammation, and showed that emulsifier-treated mice exhibited elevated fecal Lcn2 levels after 9 weeks of dietary emulsifier consumption (day 63; Supplementary Fig.
+ S2A–S2C), confirming the induction of low-grade inflammation.
+ As expected, both CMC and P80 induced a modest but statistically significant increase in body mass (Supplementary Fig.
+ S2D).
+ Emulsifier treatment also impaired glycemic control as assessed by fasting blood glucose concentration (Supplementary Fig.
+ S2E), and was associated with increased food consumption (Supplementary Fig.
+ S2F), confirming our previous observation that emulsifiers induce low-grade intestinal inflammation and impair glucose metabolism (22).Emulsifier consumption exacerbates carcinogenesis in a colitis-associated cancer modelIn an effort to investigate whether low-grade intestinal inflammation induced by emulsifier consumption might predispose to the development of colitis-associated carcinogenesis, mice that had consumed emulsifiers for 90 days were subsequently administered AOM and DSS while maintaining emulsifier consumption except during DSS administration (Supplementary Fig.
+ S1).
+ All groups of AOM/DSS-treated mice displayed acute weight loss during DSS treatment and, when euthanized, exhibited gross features of inflammation, including increased colon and spleen weights (Fig.
+ 1A–E).
+ While emulsifier treatment, by itself, induced some indicators of inflammation such as colon shortening and mild splenomegaly, the extent of inflammatory changes induced by AOM/DSS treatment (i.e., fold change induced by AOM/DSS treatment) was not greater in mice that had consumed emulsifiers.
+ However, emulsifier consumption increased tumor development in response to AOM/DSS compared with AOM/DSS control animals, as assessed by number and size of tumors (Fig.
+ 1F–H).
+ Histologic examination revealed the presence of larger adenomas and increased areas of inflammatory cell infiltration in emulsifier/AOM/DSS-treated animals compared with the water/AOM/DSS group (Supplementary Fig.
+ S3).
+ Histologically, no gross difference between water-treated and emulsifier-treated mice was observed in the absence of AOM/DSS (Supplementary Fig.
+ S3).
+ We next examined the expression of proinflammatory cytokines by qRT-PCR using mRNA extracted from whole distal colon devoid of tumor.
+ mRNAs were thus isolated from a mixture of epithelial cells, immune cells, and other colonic cells, allowing the analysis of global molecular alterations of the colon.
+ Emulsifier consumption by itself resulted in increased expression of the proinflammatory cytokine CXCL1, confirming that emulsifiers induce the development of low-grade intestinal inflammation (Fig.
+ 2A–E).
+ AOM/DSS significantly increased the expression levels of all the tested cytokines/chemokines (IL6, CXCL1, CXCL2, IL22, and TNFα) compared with the corresponding control groups (Fig.
+ 2A–E), as were the levels of circulating CXCL1 (Fig.
+ 2F).
+ After AOM/DSS-induced carcinogenesis, both CXCL1 and CXCL2 were significantly increased in emulsifier-treated group compared with water-treated group (Fig.
+ 2B and C), supporting the previous observation that AOM/DSS-induced tumors were infiltrated by inflammatory cells.
+ Importantly, we noted that mice receiving P80 exhibited the highest tumor and a greater increase of the CXCL1 and CXCL2 compared with CMC (Fig.
+ 2B and C).
+ As a further readout of the inflammatory state of the intestine, we next examined colonic myeloperoxidase (MPO) activity and fecal Lcn2 level following AOM/DSS treatment (Fig.
+ 3A and B).
+ These analyses confirmed the observation that emulsifier's consumption per se was sufficient to drive intestinal inflammation, as revealed by a moderate but nonetheless significant increase in MPO in emulsifier-only treated groups compared with water-only treated group (Fig.
+ 3A).
+ Furthermore, emulsifiers led to an exacerbation of the intestinal inflammation observed after AOM/DSS, as revealed by both MPO and Lcn2 measurements at day 141 (Fig.
+ 3A and B).Dietary emulsifying agents alter the intestinal microbiota composition, leading to a proinflammatory intestinal environmentWe next considered the possibility that emulsifier-induced alterations of the gut microbiota might underlie its tumor-promoting effects.
+ Microbiota composition analysis were previously performed on CMC- and P80-treated animals and revealed a strong clustering following treatment irrespective of cage grouping, thus confirming our observation that emulsifiers alter microbiota composition (22).
+ The quantification of γ-Proteobacteria, Enterobacteriaceae, Escherichia coli, or ClbB encoding gene (colibactin polyketide synthesis system) revealed that none of these phylotypes were significantly altered following emulsifier consumption (day 0, day 21, and day 63) or after tumorigenesis induction (day 141), suggesting that colibactin-producing bacteria were not involved in the aforementioned emulsifier-induced exacerbation of tumorigenesis (Supplementary Fig.
+ S4).
+ We next performed a more in-depth analysis of the intestinal microbiota after emulsifier treatment, and found that both CMC and P80 led to a significant reduction of microbiota diversity after 9 weeks (day 63) of treatment (Supplementary Fig.
+ S5A and S5B), as well as profound alteration of the bacterial community at the phylum, class, and order levels (Supplementary Fig.
+ S5C–S5E).
+ Such alterations were characterized by an increase in Bacteroidales and a decrease in Clostridiales orders upon CMC or P80 consumption (Supplementary Fig.
+ S5C–S5E).
+ LEfSe (LDA effect size), used to identify the most differentially abundant taxons and OTUs between water and emulsifier-treated groups, revealed a decrease of numerous Firmicutes members, such as Lactobacillus, upon emulsifier consumption, together with an increase of Bacteroidetes members (Supplementary Fig.
+ S6).We next wanted to investigate whether such alterations of the microbiota were associated with any modification of its inherent ability to induce proinflammatory gene expression in the host.
+ Hence, we measured the capacity of feces from control and emulsifier-treated mice to activate proinflammatory gene expression via the LPS and flagellin receptors Toll-like receptor 4 (TLR4) and TLR5, respectively.
+ As previously reported, at day 63, exposure to emulsifiers increased levels of bioactive fecal LPS and flagellin (Fig.
+ 3C–H).
+ Elevated fecal flagellin and LPS were not associated with an elevation in the total fecal bacterial load (Supplementary Fig.
+ S7), indicating that this increase in microbiota proinflammatory potential was independent of bacterial load and, rather likely a consequence of altered species composition.
+ The induction of tumorigenesis by AOM/DSS was found to further increase the proinflammatory potential of the microbiota, in both water and emulsifier-treated groups (Fig.
+ 3E and H).
+ The analysis of the predicted metagenome indicated the presence of an altered metagenome in emulsifier-treated animals compared with water-only treated animals (Fig.
+ 4; Supplementary Figs.
+ S8 and S9; ref.
+ 34).
+ 4C and D), while predicted metagenomes of all groups were similar at day 0 (Fig.
+ 4A and B).
+ This was further confirmed using Volcano plots of Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways abundance, demonstrating a drastic alteration in microbiota metagenomes following emulsifier consumption at day 63 (Fig.
+ 4E).
+ Such alterations were characterized, in emulsifier-treated animals, by a decrease in the richness of signaling pathways, in accord with the observed decrease in bacterial community richness (Supplementary Fig.
+ S5).
+ Moreover, the analysis of significantly altered metabolic pathways revealed that emulsifier consumption led to an increased proportion of bacterial genes involved in LPS biosynthesis, bacterial motility, and secretion systems (Fig.
+ 4F and G; Supplementary Figs.
+ S8 and S9), correlating with the observation of an increased proinflammatory microbiota under emulsifier consumption.
+ Altogether, these data demonstrate that emulsifier consumption drastically altered the intestinal microbiota composition, resulting in a basal low-grade proinflammatory environment in the intestine that predisposed to subsequent tumorigenesis.Dietary emulsifying agents disturb the proliferation/apoptosis balance of epithelial cellsThe increased tumor burden observed in emulsifier-treated animals suggested the possibility of increased cell proliferation in those animals.
+ Hence, proliferation of colonic epithelial cells was analyzed by Ki67 staining, which revealed that the consumption of emulsifiers by itself (i.e., no AOM/DSS) resulted in increased cell proliferation relative to the water-treated control group (Fig.
+ 5).
+ AOM/DSS treatment increased the number of Ki67-positive cells in all groups of mice, but the proliferation level remained significantly higher in AOM/DSS-treated mice that had consumed emulsifiers, in accord with the notion that emulsifier promotion of tumorigeneis involves increased cell proliferation (Fig.
+ 5).
+ To further address the role of cell turnover in this process, we performed TUNEL-based quantification of apoptosis in colonic sections from emulsifier-treated mice.
+ Analogous to our results for cell proliferation, we observed that consumption of emulsifiers, alone, increased the basal level of TUNEL+ cells.
+ Moreover, this difference between the water and emulsifier-consuming groups was further increased in response to AOM/DSS treatment.
+ For both proliferative and apoptotic cells counts, similar results were obtained when subdividing the crypts (top/middle/bottom, data not shown).
+ Together, these results indicate that emulsifier consumption upregulates both apoptosis/proliferation in the intestinal epithelium, resulting in an increased cell turnover, and creating an opportune milieu for the tumorigenesis.Dietary emulsifiers alter epithelial cell proliferation and apoptosis in a microbiota-dependent mannerTo further investigate how emulsifier consumption impacted proliferation/apoptosis, we next analyzed by qRT-PCR the expression levels of genes that control proliferation (cyclin D1, D2, Ki67), apoptosis (BCL2 and BAD), and angiogenesis (VEGFA).
+ As shown in Fig.
+ 7, we observed that, following dietary emulsifier consumption, the expression of cyclin D1, cyclin D2, and Ki67-encoding genes were significantly deregulated (Fig.
+ 7A–C), while the β-catenin pathway were found unaltered (Supplementary Fig.
+ S10).
+ In the AOM/DSS-treated groups, the expression levels of these genes were further deregulated, without any difference observed between water- and emulsifier-treated groups (data not shown).
+ The anti- and proapoptotic encoding genes Bcl2 and Bad (Fig.
+ 7D and E) and the marker of angiogenesis VEGFA (Fig.
+ 7F) remained unaltered under emulsifier's consumption.Download figureOpen in new tabDownload powerpointFigure 7.
+ Dietary emulsifiers promote intestinal inflammation and carcinogenesis in the absence of DSS.
+ WT mice were exposed to drinking water containing CMC or P80 (1.0%) for 12 weeks.
+ Mice were injected intraperitoneally with AOM (10 mg/kg body weight) weekly for a total of 7 injections.
+ Colon weights (A), colon lengths (B), spleen weights (C), and fat-pad mass (D).
+ E–I, Analysis of IL6 (E), CXCL1 (F), CXCL2 (G), IL22 (H), and TNFα mRNA expression (I) by qRT-PCR in colons of emulsifier-AOM–treated mice.
+ J–L, Fecal Lcn2 concentration at day 0 (J), 56 (K), and 84 (L).
+ M, Representative colonoscopy from each experimental group at the end of the protocol.
+ N and O, Number of tumor per mouse (N) and total tumor surface (O) determined using a dissecting microscope fitted with an ocular micrometer.
+ P–R, Analysis of cyclin D1 (P), cyclin D2 (Q), and Ki67 mRNA expression (R) by qRT-PCR in colons of emulsifier-AOM–treated mice.
+ Significance was determined using t test (*, P &lt; 0.05).We next sought to investigate whether the unbalanced proliferation/apoptosis and the molecular alterations observed in emulsifier-treated mice were driven by alterations in gut microbiota.
+ We therefore analyzed the expression of the same genes in germ-free animals treated with dietary emulsifiers, and importantly found that none of those genes have an altered expression under germ-free conditions (Fig.
+ 7A–F), thus indicating that the presence of an altered microbiota is a prerequisite for subsequent perturbations in proliferation and apoptosis processes.
+ Finally, we investigated whether the altered microbiota driven by emulsifier consumption was sufficient to alter intestinal expression of genes involved in the proliferative/apoptosis balance.
+ As presented in Fig.
+ 7G–L, we found that transfer of microbiota from emulsifier-consuming mice to germ-free mice, that were not fed emulsifiers, recapitulated perturbations of cyclin D1 and D2 expression, thus suggesting that emulsifier-induced alterations of intestinal microbiota composition plays a central and direct role in the promotion of carcinogenesis.Dietary emulsifiers induce carcinogenesis in AOM-treated animalsWe next sought to investigate whether emulsifier consumption may be sufficient to drive colonic carcinogenesis in animals treated with AOM but without exogenously induced severe intestinal inflammation.
+ For this purpose, WT mice were exposed to drinking water containing CMC or P80 (1.0%) for 12 weeks, and were injected intraperitoneally with AOM (10 mg/kg body weight) weekly, for a total of seven injections.
+ The combination of AOM injections and emulsifier consumption leads to substantial intestinal inflammation, as characterized by increase in colon and spleen weights and by increased proinflammatory cytokine expressions and fecal Lcn2 levels (Fig.
+ 7A–L).
+ Importantly, CMC-induced intestinal inflammation was sufficient to induce carcinogenesis in a subset of animals, that was associated with alterations of proliferative pathways (Fig.
+ 7M–R), suggesting that, at least in presence of some mutagens, emulsifier-induced low grade inflammation and/or alteration of proliferation pathways is sufficient to drive colon carcinogenesis.DiscussionMounting evidence implicates alteration of the gut microbiota, that is, dysbiosis, as an important determinant of colon cancer.
+ A major tenet in this indictment is that the microbial dysbiosis is a major driver of gut inflammation, which, when occurring chronically, is strongly associated with an increased incidence of colon cancer.
+ More recently, it has been shown that the microbiota composition can influence tumor development beyond merely driving inflammation (11, 14, 33, 35).
+ Herein, we add to this body of knowledge in several ways thus providing new insights into factors that may drive microbial dysbiosis in the first place and, moreover, elucidate how an altered microbiota can result in increased tumor development.
+ Specifically, we report that, in mice, consumption of dietary emulsifiers resulted in an altered gut microbiota composition associated with increased levels of flagellin and LPS, hence creating a low-grade proinflammatory environment.
+ The latter was associated with altered rates of proliferation/apoptosis that predisposed animals to exacerbated tumor development when subjected to a chemical-induced model of colitis-associated cancer.
+ In addition, emulsifier consumption was sufficient to drive development of colonic tumors in some animals treated with AOM (without DSS) and was associated with altered proliferation.
+ The level of exposure used herein in mice is intended to approximately model the case of humans who eat large amounts of processed foods, many of which contain CMC, P80, and/or other emulsifiers exceeding 2% of the product by weight (23).While human studies of microbial dysbiosis, inflammation, and cancer are primarily limited to associations, that germ-free mice are protected against colonic carcinogenesis supports the notion that dysbiosis is not purely a consequence of disease but, rather, also plays a role in driving the development of colorectal cancer (9, 36–38).
+ Moreover, in this study, we demonstrated that microbiota dysbiosis that precedes the initiation of colonic tumorigenesis was sufficient to promote cancer development.
+ Importantly, the induction of colonic tumorigenesis similarly induced intestinal inflammation in emulsifier- and water-treated groups, showing that the observed phenotypes were not only due to an exacerbation of inflammation during DSS, but that the low-grade intestinal inflammation that precedes the initiation of carcinogenesis was playing a central role.
+ While, in mice, emulsifier consumption promotes increased food consumption and adiposity and, in humans, obesity itself is associated with colon cancer, we speculate that the link between emulsifiers and cancer is not obesity per se but rather low-grade inflammation.
+ Accordingly, emulsifiers increased food consumption in AOM/DSS-treated mice without a corresponding increase in weight, likely reflecting increased energy demand, suggest that inflammation and associated increases in cell turnover are more germane.
+ However, it is possible that emulsifier-induced alterations in microbiota can cause increased energy intake that might promote carcinogenesis irrespective of adiposity.One mechanism by which microbiota was previously reported to promote colorectal cancer is via a transient contact between colibactin-producing E. coli and epithelial cells that subsequently became malignant (11, 14, 33, 35).
+ We thus hypothesized that colibactin-producing E. coli could be involved in the emulsifier-induced exacerbation of tumorigenesis.
+ However, the quantification of Proteobacteria, Enterobacteriaceae, Escherichia coli, and ClbB-encoding gene negated this possibility.
+ Indeed, upon emulsifier's exposure, the diversity of microbiota was decreased and the abundance of some phyla, class, and orders was altered (decrease of Firmicutes, notably Clostridiales class and Lactobacillus member, and increase of Bacteroidetes).
+ Lactobacilli have been associated with protection against colonic carcinogenesis via antioxidant, antiproliferation properties and immunomodulatory and antitumor effects (39–41).
+ We observed a greater abundance of bacteroidetes in both CMC- and P80-treated mice, correlating with the observation that intestinal mucosal surface of patients with adenoma displayed increased abundance of Bacteroidetes (42).
+ However, this same study reported higher abundance of Firmicutes in adenoma patients while we observed a decrease of this phylum upon emulsifier's consumption (42).
+ While little is known about how emulsifiers impact microbiota, the findings of our current study, in conjunction with previous reports, suggest that the consumption of emulsifiers induce a shift of the gut microbial population creating a favorable environment for colonic carcinogenesis (22, 23).
+ We quantified the proinflammatory potential of the microbiota associated with the consumption of CMC or P80 and showed increased level of bioactive flagellin and LPS.
+ It was recently reported that in humans, serum anti-flagellin and anti-LPS antibody concentrations positively correlate with colorectal cancer risk (43).
+ Importantly, TLR4-deficient mice, unable to recognize bacterial LPS, are protected from colon carcinogenesis (44), further highlighting the central role played by increased fecal flagellin and/or LPS loads in the carcinogenesis initiation and promotion.Comparative metagenomes analyses of CMC- or P80-treated mice and water control mice showed that the shift of bacteria was accompanied by alterations of several metabolic pathways, with a decrease in overall metabolic pathway richness and an increased proportion of bacterial genes involved in LPS biosynthesis, as well as bacterial motility and secretion systems.
+ These observations were correlating with the increased proinflammatory ability of microbiota measured under emulsifier consumption.
+ Importantly, in addition of promoting and maintaining low-grade intestinal inflammation, we observed in the current study that the consumption of dietary emulsifiers also induced alterations of some major proliferation and apoptosis actors in a microbiota-dependent manner.
+ The observation that such disruptions were efficiently transferred to mice receiving fecal microbiota of emulsifier-treated donors revealed that emulsifier-induced alteration of microbiota composition plays a central role in the promotion of carcinogenesis.
+ The previous observation that genetically engineered animals that develop intestinal inflammation, such as TLR5KO and NLRP3 mice, are not necessarily predisposed to colonic carcinogenesis (unpublished data and ref.
+ 45, respectively) highlights the concept that alterations of proliferation and apoptosis pathways in a microbiota-dependent manner may be the central mechanism that mediates the emulsifier-dependent increase of carcinogenesis.An important distinction between this study and others examining microbiota, inflammation, and cancer, is that emulsifier consumption does not induce histopathologically evident (i.e., classic) inflammation, but rather induces only low-grade inflammation.
+ Such low-grade inflammation is associated with and may cause obesity and its interrelated metabolic diseases, that is, metabolic syndrome.
+ Hence, the mechanisms described herein may be relevant not only to the potential promotion of colon cancer by one class of food additive, emulsifiers, but may be a broad mechanism whereby any inducer of low-grade inflammation, including obesity itself, may increase potential for cancer development.
+ While the increased risk of cancer development in obese are modestly less than that of IBD patients (46), given the very high and increasing prevalence of obesity in all developed countries, low-grade inflammation may prove to be a major factor that underlies the increasing incidence of colon cancer.
+ Hence, we propose that numerous factors that induce low-grade inflammation, including consumption of dietary emulsifiers, may promote a hostile environment in the colon by modifying the microbiota composition, leading to low-grade intestinal inflammation and alterations in the colonic proliferation/apoptosis balance, therefore creating a favorable niche for colonic tumorigenesis.Disclosure of Potential Conflicts of InterestNo potential conflicts of interest were disclosed.Authors' ContributionsConception and design: E. Viennois, D. Merlin, A.T. Gewirtz, B. ChassaingDevelopment of methodology: E. Viennois, B. ChassaingAcquisition of data (provided animals, acquired and managed patients, provided facilities, etc.
+ ): E. Viennois, B. ChassaingAnalysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis): E. Viennois, B. ChassaingWriting, review, and/or revision of the manuscript: E. Viennois, D. Merlin, A.T. Gewirtz, B. ChassaingStudy supervision: B. ChassaingGrant SupportThis work was supported by NIH grants DK099071 and DK083890 (A.T. Gewirtz).
+ B. Chassaing is a recipient of the Career Development Award from the Crohn's and Colitis Foundation of America (CCFA).
+ E. Viennois is a recipient of the Research Fellowship Award from the CCFA.
+ D. Merlin is a recipient of a Research Career Scientist Award from the Department of Veterans Affairs.The costs of publication of this article were defrayed in part by the payment of page charges.
+ This article must therefore be hereby marked advertisement in accordance with 18 U.S.C.
+ Section 1734 solely to indicate this fact.FootnotesNote: Supplementary data for this article are available at Cancer Research Online (http://cancerres.aacrjournals.org/).Received May 13, 2016.Revision received October 25, 2016.Accepted October 26, 2016.©2016 American Association for Cancer Research.References1.↵Weir HK, Thun MJ, Hankey BF, Ries LA, Howe HL, Wingo PA, et al.
+ Annual report to the nation on the status of cancer, 1975–2000, featuring the uses of surveillance data for cancer prevention and control.
+ J Natl Cancer Inst 2003;95:1276–99.OpenUrlAbstract/FREE Full Text2.↵Merlin D, Si-Tahar M, Sitaraman SV, Eastburn K, Williams I, Liu X, et al.
+ Colonic epithelial hPepT1 expression occurs in inflammatory bowel disease: transport of bacterial peptides influences expression of MHC class 1 molecules.
+ Gastroenterology 2001;120:1666–79.OpenUrlCrossRefPubMed3.↵Wojtal KA, Eloranta JJ, Hruz P, Gutmann H, Drewe J, Staumann A, et al.
+ Changes in mRNA expression levels of solute carrier transporters in inflammatory bowel disease patients.
+ Drug Metab Dispos 2009;37:1871–7.OpenUrlAbstract/FREE Full Text4.↵Eaden JA, Abrams KR, Mayberry JF.
+ The risk of colorectal cancer in ulcerative colitis: a meta-analysis.
+ Gut 2001;48:526–35.OpenUrlAbstract/FREE Full Text5.↵Ahmadi A, Polyak S, Draganov PV.
+ Colorectal cancer surveillance in inflammatory bowel disease: the search continues.
+ World J Gastroenterol 2009;15:61–6.OpenUrlCrossRefPubMed6.↵Ekbom A, Helmick C, Zack M, Adami HO.
+ Increased risk of large-bowel cancer in Crohn's disease with colonic involvement.
+ Lancet 1990;336:357–9.OpenUrlCrossRefPubMed7.↵Jess T, Gamborg M, Matzen P, Munkholm P, Sorensen TI.
+ Increased risk of intestinal cancer in Crohn's disease: a meta-analysis of population-based cohort studies.
+ Am J Gastroenterol 2005;100:2724–9.OpenUrlCrossRefPubMed8.↵Thorsteinsdottir S, Gudjonsson T, Nielsen OH, Vainer B, Seidelin JB.
+ Pathogenesis and biomarkers of carcinogenesis in ulcerative colitis.
+ Nat Rev Gastroenterol Hepatol 2011;8:395–404.OpenUrlCrossRefPubMed9.↵Chassaing B, Darfeuille-Michaud A.
+ The commensal microbiota and enteropathogens in the pathogenesis of inflammatory bowel diseases.
+ Gastroenterology 2011;140:1720–28.OpenUrlCrossRefPubMed10.↵Arthur JC, Jobin C. The complex interplay between inflammation, the microbiota and colorectal cancer.
+ Gut Microbes 2013;4:253–8.OpenUrlPubMed11.↵Arthur JC, Perez-Chanona E, Muhlbauer M, Tomkovich S, Uronis JM, Fan TJ, et al.
+ Intestinal inflammation targets cancer-inducing activity of the microbiota.
+ Science 2012;338:120–3.OpenUrlAbstract/FREE Full Text12.↵Wang X, Huycke MM.
+ Extracellular superoxide production by Enterococcus faecalis promotes chromosomal instability in mammalian cells.
+ Gastroenterology 2007;132:551–61.OpenUrlCrossRefPubMed13.↵Maddocks OD, Short AJ, Donnenberg MS, Bader S, Harrison DJ.
+ Attaching and effacing Escherichia coli downregulate DNA mismatch repair protein in vitro and are associated with colorectal adenocarcinomas in humans.
+ PLoS One 2009;4:e5517.OpenUrlCrossRefPubMed14.↵Nougayrede JP, Homburg S, Taieb F, Boury M, Brzuszkiewicz E, Gottschalk G, et al.
+ Escherichia coli induces DNA double-strand breaks in eukaryotic cells.
+ Science 2006;313:848–51.OpenUrlAbstract/FREE Full Text15.↵Buc E, Dubois D, Sauvanet P, Raisch J, Delmas J, Darfeuille-Michaud A, et al.
+ High prevalence of mucosa-associated E. coli producing cyclomodulin and genotoxin in colon cancer.
+ PLoS One 2013;8:e56964.OpenUrlCrossRefPubMed16.↵Prorok-Hamon M, Friswell MK, Alswied A, Roberts CL, Song F, Flanagan PK, et al.
+ Colonic mucosa-associated diffusely adherent afaC+ Escherichia coli expressing lpfA and pks are increased in inflammatory bowel disease and colon cancer.
+ Gut 2014;63:761–70.OpenUrlAbstract/FREE Full Text17.↵Klimesova K, Kverka M, Zakostelska Z, Hudcovic T, Hrncir T, Stepankova R, et al.
+ Altered gut microbiota promotes colitis-associated cancer in IL-1 receptor-associated kinase M-deficient mice.
+ Inflamm Bowel Dis 2013;19:1266–77.OpenUrlCrossRefPubMed18.↵Uronis JM, Muhlbauer M, Herfarth HH, Rubinas TC, Jones GS, Jobin C. Modulation of the intestinal microbiota alters colitis-associated colorectal cancer susceptibility.
+ PLoS One 2009;4:e6026.OpenUrlCrossRefPubMed19.↵Chassaing B, Gewirtz AT.
+ Gut microbiota, low-grade inflammation, and metabolic syndrome.
+ Toxicol Pathol 2014;42:49–53.OpenUrlAbstract/FREE Full Text20.↵Vijay-Kumar M, Aitken JD, Carvalho FA, Cullender TC, Mwangi S, Srinivasan S, et al.
+ Metabolic syndrome and altered gut microbiota in mice lacking Toll-like receptor 5.
+ Science 2010;328:228–31.OpenUrlAbstract/FREE Full Text21.↵Gregor MF, Hotamisligil GS.
+ Inflammatory mechanisms in obesity.
+ Annu Rev Immunol 2011;29:415–45.OpenUrlCrossRefPubMed22.↵Chassaing B, Koren O, Goodrich JK, Poole AC, Srinivasan S, Ley RE, et al.
+ Dietary emulsifiers impact the mouse gut microbiota promoting colitis and metabolic syndrome.
+ Nature 2015;519:92–6.OpenUrlCrossRefPubMed23.↵Swidsinski A, Ung V, Sydora BC, Loening-Baucke V, Doerffel Y, Verstraelen H, et al.
+ Bacterial overgrowth and inflammation of small intestine after carboxymethylcellulose ingestion in genetically susceptible mice.
+ Inflamm Bowel Dis 2009;15:359–64.OpenUrlCrossRefPubMed24.↵Roberts CL, Keita AV, Duncan SH, O'Kennedy N, Soderholm JD, Rhodes JM, et al.
+ Translocation of Crohn's disease Escherichiacoli across M-cells: contrasting effects of soluble plant fibres and emulsifiers.
+ Gut 2010;59:1331–9.OpenUrlAbstract/FREE Full Text25.↵Roberts CL, Rushworth SL, Richman E, Rhodes JM.
+ Hypothesis: Increased consumption of emulsifiers as an explanation for the rising incidence of Crohn's disease.
+ J Crohns Colitis 2013;7:338–41.OpenUrlAbstract/FREE Full Text26.↵Bar A, Van Ommen B, Timonen M. Metabolic disposition in rats of regular and enzymatically depolymerized sodium carboxymethylcellulose.
+ Food Chem Toxicol 1995;33:901–7.OpenUrlCrossRefPubMed27.↵Food and Agriculture Organization of the United Nations.
+ Food Additives Series.
+ Safety evaluation of certain food additives; 1999.
+ Geneva, Switzerland: World Health Organization.
+ Available from: http://www.inchem.org/pages/jecfa.html.28.↵Food Safety Commission of Japan.
+ Available from: https://www.fsc.go.jp/english/evaluationreports/foodadditive/polysorbate_report.pdf.29.↵Treon J, Gongwer L, Nelson M, Kirschman J. Chemistry, physics, and application of surface active substances.
+ New York, NY: Gordon and Breach; 1967.30.↵Greten FR, Eckmann L, Greten TF, Park JM, Li ZW, Egan LJ, et al.
+ IKKbeta links inflammation and tumorigenesis in a mouse model of colitis-associated cancer.
+ Cell 2004;118:285–96.OpenUrlCrossRefPubMed31.↵Chassaing B, Koren O, Carvalho FA, Ley RE, Gewirtz AT.
+ AIEC pathobiont instigates chronic colitis in susceptible hosts by altering microbiota composition.
+ Gut 2014;63:1069–80.OpenUrlAbstract/FREE Full Text32.↵Chassaing B, Srinivasan G, Delgado MA, Young AN, Gewirtz AT, Vijay-Kumar M. Fecal lipocalin 2, a sensitive and broadly dynamic non-invasive biomarker for intestinal inflammation.
+ PLoS One 2012;7:e44328.OpenUrlCrossRefPubMed33.↵Cougnoux A, Dalmasso G, Martinez R, Buc E, Delmas J, Gibold L, et al.
+ Bacterial genotoxin colibactin promotes colon tumour growth by inducing a senescence-associated secretory phenotype.
+ Gut 2014;63:1932–42.OpenUrlAbstract/FREE Full Text34.↵Langille MG, Zaneveld J, Caporaso JG, McDonald D, Knights D, Reyes JA, et al.
+ Predictive functional profiling of microbial communities using 16S rRNA marker gene sequences.
+ Nat Biotechnol 2013;31:814–21.OpenUrlCrossRefPubMed35.↵Chassaing B, Gewirtz AT.
+ Pathobiont hypnotises enterocytes to promote tumour development.
+ Gut 2014;63:1837–8.OpenUrlFREE Full Text36.↵Sears CL, Garrett WS.
+ Microbes, microbiota, and colon cancer.
+ Cell Host Microbe 2014;15:317–28.OpenUrlCrossRefPubMed37.↵Engle SJ, Ormsby I, Pawlowski S, Boivin GP, Croft J, Balish E, et al.
+ Elimination of colon cancer in germ-free transforming growth factor beta 1-deficient mice.
+ Cancer Res 2002;62:6362–6.OpenUrlAbstract/FREE Full Text38.↵Laqueur GL, Matsumoto H, Yamamoto RS.
+ Comparison of the carcinogenicity of methylazoxymethanol-beta-D-glucosiduronic acid in conventional and germfree Sprague-Dawley rats.
+ J Natl Cancer Inst 1981;67:1053–5.OpenUrlAbstract/FREE Full Text39.↵Zhong L, Zhang X, Covasa M. Emerging roles of lactic acid bacteria in protection against colorectal cancer.
+ World J Gastroenterol 2014;20:7878–86.OpenUrl40.↵Matsuzaki T, Yokokura T, Mutai M. Antitumor effect of intrapleural administration of Lactobacilluscasei in mice.
+ Cancer Immunol Immunother 1988;26:209–14.OpenUrlPubMed41.↵Thirabunyanon M, Hongwittayakorn P. Potential probiotic lactic acid bacteria of human origin induce antiproliferation of colon cancer cells via synergic actions in adhesion to cancer cells and short-chain fatty acid bioproduction.
+ Appl Biochem Biotechnol 2013;169:511–25.OpenUrl42.↵Sanapareddy N, Legge RM, Jovov B, McCoy A, Burcal L, Araujo-Perez F, et al.
+ Increased rectal microbial richness is associated with the presence of colorectal adenomas in humans.
+ ISME J 2012;6:1858–68.OpenUrlCrossRefPubMed43.↵Kong SY, Tran HQ, Gewirtz AT, McKeown-Eyssen G, Fedirko V, Romieu I, et al.
+ Serum endotoxins and flagellin and risk of colorectal cancer in the European Prospective Investigation into Cancer and Nutrition (EPIC) Cohort.
+ Cancer Epidemiol Biomarkers Prev 2016;25:291–301.OpenUrlAbstract/FREE Full Text44.↵Fukata M, Chen A, Vamadevan AS, Cohen J, Breglio K, Krishnareddy S, et al.
+ Toll-like receptor-4 promotes the development of colitis-associated colorectal tumors.
+ Gastroenterology 2007;133:1869–81.OpenUrlCrossRefPubMed45.↵Chow MT, Sceneay J, Paget C, Wong CS, Duret H, Tschopp J, et al.
+ NLRP3 suppresses NK cell-mediated responses to carcinogen-induced tumors and metastases.
+ Cancer Res 2012;72:5721–32.OpenUrlCrossRefPubMed46.↵Berger NA.
+ Obesity and cancer pathogenesis.
+ Ann N Y Acad Sci 2014;1311:57–76.OpenUrlCrossRefPubMedView Abstract            PreviousNext      Back to top                                January 2017 Volume 77, Issue 1     Table of ContentsTable of Contents (PDF)About the CoverEditorial Board (PDF)              Search for this keyword           Sign up for alerts                                  View this article with LENS                          Open full page PDF      Article Alerts     User Name *    Password *   Sign In to Email Alerts with your Email Address Email *                  Email Article     Thank you for sharing this Cancer Research article.NOTE: We request your email address only to inform the recipient that it was you who recommended this article, and that it is not junk mail.
+ We do not retain these email addresses.
+ Your Email *    Your Name *    Send To *  Enter multiple addresses on separate lines or separate them with commas.
+ You are going to email the following  Dietary Emulsifier–Induced Low-Grade Inflammation Promotes Colon Carcinogenesis   Message Subject   (Your Name) has forwarded a page to you from Cancer Research   Message Body   (Your Name) thought you would be interested in this article in Cancer Research.
+ Your Personal Message         CAPTCHAThis question is for testing whether or not you are a human visitor and to prevent automated spam submissions.

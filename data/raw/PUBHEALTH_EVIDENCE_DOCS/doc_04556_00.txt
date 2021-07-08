@@ -1,0 +1,81 @@
+Keep me logged in                   New User             Create a new account    Email                  Returning user           Can't sign in?
+ Forgot your password?
+ Enter your email address below and we will send you the reset instructions     Email      Cancel    If the address matches an existing account you will receive an email with instructions to reset your password.
+ Close        Request Username  Can't sign in?
+ Forgot your username?
+ Enter your email address below and we will send you your username     Email       Close    If the address matches an existing account you will receive an email with instructions to retrieve your username        Change Password      Old Password       New Password     Too Short Weak Medium Strong Very Strong Too Long      Password Changed Successfully Your password has been changed               IMPERIAL COLLEGE LONDON  Donate   Subscribe/Renew  For Authors      0 Cart         Sign in        HomeTopicsJournalAhead of PrintCurrent IssueArchiveArticle SeriesAging &amp; HealthConsidering Health SpendingDataGraphicDataWatchEntryPointEye On Health ReformGrantWatchLeading To HealthNarrative MattersOverviewPolicy InsightResearch ArticleThe Practice Of MedicineMore ...BlogArchiveBlog SeriesConsidering Health Spending[email protected] AffairsFollowing the ACAGlobal Health PolicyGrantWatchOnce In A WeilWorkforce In The CommunityMore...Briefs  SearchSearchADVANCED SEARCH                         Advertisement                  Health Affairs Blog      Related Topics: 							 Prescription drug costs Premiums Medicare savings programs Prescription drugs Pharmaceuticals Medicare Part D Out-of-pocket expenses Cost sharing Medicare Advantage Drug cost sharing      Assessing The Redesigned Medicare Plan Finder Tool: Room For Improvement      
+ 				Brian E. McGarry
+ 			     
+ 				Nicole Maestas
+ 			     
+ 				David C. Grabowski
+ 			         November 8, 2019    Doi: 10.1377/hblog20191106.803045                 Sections               Add to favorites         Share       Facebook      Twitter      Linked In      Reddit      Email            October 15 marked the start of another Medicare open enrollment period when Medicare’s roughly 60 million beneficiaries have the opportunity to make changes to their Medicare coverage.
+ Beneficiaries can switch between traditional fee-for-service Medicare coverage and privately administered Medicare Advantage, they can switch between Medicare Advantage plans, and they can change prescription drug (Part D) plans.
+ These coverage choices are consequential.
+ They determine the providers patients can see, the types of services and prescription drugs that are covered, and the amount beneficiaries pay out of pocket.
+ New for this year, the Centers for Medicare and Medicaid Services (CMS) has redesigned the Medicare Plan Finder tool.
+ This web-based decision support tool is intended to be the way most Medicare beneficiaries acquire information about their coverage options, obtain personalized cost estimates to help them compare options, and directly enroll in plans.
+ The previous version of this tool was faulted for being confusing, difficult to use, and for containing inaccurate plan information, especially for prescription drug plans.
+ For those looking to revisit their prescription drug plan options, many of the changes made to the Plan Finder this year are clear improvements.
+ But other changes are not clearly beneficial and may, in fact, steer users away from low-cost options.
+ Furthermore, a number of other deficiencies were not addressed by the redesign.
+ Redesign Improvements The Medicare Plan Finder tool now has a mobile version, meaning that it can more easily be used on a smartphone or tablet, in addition to the standard desktop version.
+ The plan menu itself has been simplified, with fewer potentially distracting plan details being shown on the main choice menu.
+ In particular, the current tool no longer lists drug copayment and coinsurance ranges, which were of limited value in determining likely out-of-pocket costs.
+ The tool also now allows users to make comparisons across Medicare products.
+ Beneficiaries can compare expected drug costs in standalone Part D plans to Medicare Advantage plans with drug coverage, thereby allowing them to find the best fit for their budgets and needs across more of Medicare’s coverage options.
+ Finally, the tool is now equipped to autoload a beneficiary’s current prescription drug list (if they are an existing Medicare beneficiary and if they provide their Medicare ID number).
+ This information is critical to producing accurate personalized cost estimates for each available plan.
+ In the past, consumers needed to enter this information by hand.
+ Because Part D enrollees fill an average of 4.5 prescriptions a month, this task was likely an important barrier to effective Plan Finder use.
+ Redesign Problems: Placing A Premium On Premiums The new Plan Finder explicitly emphasizes the monthly plan premium over arguably more relevant information—estimated total drug costs—which also account for expected out-of-pocket costs.
+ Monthly premiums are now displayed in the left-most column in very large font (exhibit 1), while total drug costs are displayed in a small font amidst other information.
+ Even worse, the plan menu defaults to sorting plans by their monthly premium, placing the plans with the lowest premiums at the top of the list, rather than by total annual drug costs (as the previous version of Plan Finder did).
+ A large literature stresses the power of choice architecture and defaults—such as the ordering of options in a menu—in driving individuals’ choices.
+ This new default of sorting plans by their premium should be expected to steer users toward plans with low premiums, some of which may be undesirable for a number of reasons.
+ Exhibit 1: Redesigned Medicare Plan Finder tool     Source: Authors’ screenshot of medicare.gov/plan-compare.
+ Several studies on Part D choices have established that consumers often spend more than necessary on their total drug costs for the year because they place too much emphasis on finding a plan with a low premium relative to other plan attributes (that is, total expected out-of-pocket costs).
+ Indeed, plan formularies (the list of drugs that a plan covers) and cost-sharing structures for the particular bundle of drugs an individual takes are key determinants of one’s total drug costs within a given plan.
+ Unless the user is diligent about viewing all available plans (typically more than 20) or savvy enough to sort by total cost, these low-cost coverage options may never enter into consideration.
+ This feature is particularly troubling because the tool does not automatically filter out, or even identify on the main menu, plans that do not include all of a user’s current drugs on their formularies.
+ CMS recently added a prompt to the Plan Finder menu to encourage users to sort plans by total cost (exhibit 2), but this seems like a missed opportunity to leverage the power of defaults to help consumers identify their lowest-cost plans.
+ Exhibit 2: Medicare Plan Finder tool: prompt to sort plans by total cost     Source: Authors’ screenshot of medicare.gov/plan-compare.
+ Suggestions For Further Improvement CMS should revert to the prior default sorting rule—placing the plans with the lowest total cost at the top of the plan menu.
+ The most valuable output of the Plan Finder tool is this total cost estimate, which produces a single number that accounts for each plan’s premium, formulary, deductible, and cost-sharing design, as well as the interaction of these plan attributes with a user’s current drug list.
+ As a starting point for drug plan shopping, consumers are advised to focus on this number.
+ Our recent research demonstrated that displaying total cost estimates without additional financial details (that is, plan premiums and deductibles) helped tool users in an experimental setting to focus on total cost and ultimately select lower-cost plans.
+ Alternatively, displaying total costs alongside its two primary components, premiums and total estimated out-of-pocket costs, was also effective in helping users identify low-cost plans.
+ The decision to highlight plan premiums and display plan deductibles on the main menu misses a chance to help simplify users’ initial review of plan offerings.
+ Other research has demonstrated that providing machine-based plan recommendations (based on a plan’s total cost estimate and its five-star quality score) encourages more Part D enrollees to switch plans and improves their satisfaction with the decision-making process.
+ Placing the lowest total cost plans at the top of the choice menu implicitly makes a similar recommendation.
+ CMS could make this potential match between a beneficiary and a plan more explicit by highlighting plans that are both low cost (for a particular user) and high quality.
+ If CMS is reluctant to explicitly call out particular plans, it could enhance the default sorting mechanism by taking more than one plan characteristic into account when ordering the plan menu.
+ For example, it could place lower-cost and higher-quality plans at the top of the menu, while placing plans that don’t include all of an individual’s drugs on their formulary at the bottom of the list.
+ Users of the Plan Finder would also greatly benefit from an additional piece of plan information: degree of risk protection.
+ The total cost estimate is ideally designed to help users understand how much they will spend under each plan on the drugs they currently take (or entered into their drug list).
+ However, a key component of any insurance product is protection against unexpected costs—drugs one might need to start taking in the coming year due to a change in health status or unexpected health event.
+ Currently, there is no easy way to compare plans on how generous they are in terms of protecting against these types of costs.
+ Risk protection measures are inherently more complicated to create, and there is a lack of empirical evidence on how best to convey this information to consumers; but still, CMS could experiment with alternative forms that could be meaningful to consumers.
+ For instance, some health plan decision support tools provide an estimate of total costs “in a bad year,” which can be calculated by examining the out-of-pocket expenses for the most expensive (for example, top decile) enrollees in a plan the previous year.
+ Alternatively, detailing how many of the 100 most popular Medicare drugs are contained in a plan’s formulary could help shoppers get a sense of plan generosity.
+ Finally, future versions of the Plan Finder would be improved by allowing users to search for plans and pharmacies at the same time.
+ Often, users are unaware that this is the case.
+ Currently, the tool asks users to select up to three pharmacies (including a mail order option) to consider when calculating total cost estimates.
+ The plan menu then displays total costs at the cheapest of the selected pharmacies for that plan.
+ This approach may work for individuals with strong preferences for a particular pharmacy or with a small number of nearby pharmacies to choose from.
+ But for beneficiaries with many local pharmacy options and flexible preferences on which one to use, the sequential nature of the tool’s current design may obscure plan-pharmacy combinations that could provide the lowest total cost.
+ Allowing users to select more than three pharmacies or an option to see each plan’s total cost estimate at the cheapest pharmacy within a particular mile radius would help to alleviate this constraint.
+ Conclusion This update to the Plan Finder has been long overdue.
+ Some of its new features have helped to modernize the tool and improve the user experience.
+ However, more work is needed to ensure that it can effectively support consumers with the complex task of shopping for a drug plan.
+ Encouragingly, the redesign appears to be ongoing as CMS has identified a number of changes it intends to make in the near future.
+ Implementing machine-based recommendations, developing a measure of plan risk protection, and allowing users to search for plans and pharmacies simultaneously are important additions that could be added in the years to come.
+ In the short term, however, reducing the current emphasis on plan premiums while doing more to highlight personalized total cost estimates should be a top priority.
+ It is a critical modification that could help millions of Medicare beneficiaries save money on their prescription drugs in the coming year.
+ Authors’ Note David Grabowski serves as a paid consultant to Precision Health Economics and Med1 Healthcare, and he also serves as a paid member of the Scientific Advisory Board at NaviHealth.
+ /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ Related     Content        										Medicare 									        Topics        									Prescription drug costs 								      									Premiums 								      									Medicare savings programs 								      									Prescription drugs 								      									Pharmaceuticals 								      									Medicare Part D 								      									Out-of-pocket expenses 								      									Cost sharing 								      									Medicare Advantage 								      									Drug cost sharing 								      Cite As    “Assessing The Redesigned Medicare Plan Finder Tool: Room For Improvement, " Health Affairs Blog, November 8, 2019.
+ DOI: 10.1377/hblog20191106.803045                                                 Caption                    7500 Old Georgetown Road, Suite 600 Bethesda, Maryland 20814 T 301 656 7401 F 301 654 2845[email protected]     Topics  Access &amp; Use Costs &amp; Spending COVID-19 Health Equity Health Reform Leading To Health More Topics    Content  Journal Blog Briefs Events Podcasts    Information For  Authors Request For Abstracts Reviewers Subscribers Advertisers Media News Room Funders Event Attendees    Services &amp; Resources  Submit Content Subscribe/Renew Manage My Account Purchase Content Permissions Alerts Newsletter Sign Up Advertising Kit    Health Affairs  About Terms &amp; Conditions Privacy Policy Jobs At Health Affairs Contact Us         Terms and conditions Privacy Project HOPE   Health Affairs is pleased to offer Free Access for low-income countries, and is a signatory to the DC principles for Free Access to Science.
+ Health Affairs gratefully acknowledges the support of many funders.
+ Project HOPE is a global health and humanitarian relief organization that places power in the hands of local health care workers to save lives across the globe.
+ Project HOPE has published Health Affairs since 1981.

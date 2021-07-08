@@ -1,0 +1,10 @@
+FRC Action    Become a Member Donate Now            						The Legislative Affiliate of Family Research Council           Toggle navigation        Become a Member Donate Now  Issues   Life Marriage &amp; Family Religious Liberty    Get Involved   Take Action Contact Officials State Orgs    Voting Resources   Voter Registration Voter Guide Party Platforms Scorecard Trump Accomplishments Recursos Españoles    Endorsements   2020 Endorsements    News   Events FRC Action Blog FRC Action in the News Press Releases   About            Advanced Search     Not able to find what you're looking for?
+ Use the search bar for specific content or feel free to contact us for further assistance.
+ collection: "frcaction-org", // Set this to your collection.
+ pipeline: "website",  // Set the search pipeline.
+ instantPipeline: "autocomplete", // Set the instant pipeline.
+ attachOverlay: document.getElementById("results-overlay"), // DOM element to render search box.
+ inputPlaceholder: "Search", // Placeholder text for the search box.
+ inputAutoFocus: false, // Focus the input element on render.
+ maxSuggestions: 5, // Maximum number of suggestions to show.
+ collection: "frcaction-org", // Set this to your collection.

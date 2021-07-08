@@ -1,0 +1,33 @@
+addSize([4000, 0], [728, 90]).
+ addSize([3000, 0], [728, 90]).
+ addSize([2000, 0], [728, 90]).
+ addSize([1000, 0], [728, 90]).
+ addSize([750, 0], [728, 90]).
+ addSize([700, 0], [[300, 250],[336, 280]]).
+ addSize([530, 0], [[300, 250],[336, 280]]).
+ addSize([336, 0], [[300, 250],[336, 280]]).
+ addSize([320, 0], [300, 250]).
+ addSize([4000, 0], [728, 90]).
+ addSize([3000, 0], [728, 90]).
+ addSize([2000, 0], [728, 90]).
+ addSize([1000, 0], [728, 90]).
+ addSize([750, 0], [728, 90]).
+ addSize([700, 0], [300, 250]).
+ addSize([530, 0], [300, 250]).
+ addSize([430, 0], [300, 250]).
+ addSize([320, 0], [300, 250]).
+ India Today Anti Fake News War Room (AFWA) has found that the claim is misleading and the photo being shared is not a vaccine to cure Covid-19, but a testing kit developed by South Korea.Researchers all over the world are working to develop a vaccine for the deadly coronavirus that has already claimed more than 14,000 people and infected over 3 lakh globally.
+ However, if some social media users are to be believed, American scientists have already developed a cure for Covid-19.Facebook user "Tooro Television" posted a photo of a few sachets on which is written SGTI-flex COVID-19 IgM/IgG.
+ The claim along with the picture says, "#Great news!
+ Carona virus vaccine ready.
+ Able to cure patient within 3 hours after injection.
+ Hats off to US Scientists.
+ Trump announced that Roche Medical Company will launch the vaccine next Sunday, and millions of doses are ready from it!"
+ This site has shared the news on Instagram as well as on Twitter.
+ The archived version can be seen here.
+ India Today Anti Fake News War Room (AFWA) has found that the claim is misleading and the photo being shared is not a vaccine to cure Covid-19, but a testing kit developed by South Korea.
+ The viral photo does have the name Sugentech on the sachets.According to news reports, this company is among seven major pharma firms of South Korea which are trying to get their Covid-19 diagnostic kits authorised by USA and Europe so they can export.Is there a Covid-19 vaccine?A few days ago, many social media users claimed that United States President Donald Trump had announced a medical company named Roche will launch a vaccine on one of these Sundays and millions of doses are ready to fight the Covid-19 outbreak.
+ AFWA has already debunked this claim.Scientists around the world have been working to develop a vaccine against Covid-19 since January 10, the day scientists in China made public the genetic sequence of the virus online.
+ But according to media reports , this process will take some time.
+ In the meantime, medicines to cure Covid-19 are also being researched.
+ As of now there is no vaccine that can cure a coronavirus patient in three hours.Therefore, the viral claim on social media that the coronavirus vaccine is ready and can cure a patient within three hours is not true.Also read: Fact Check: Fake WHO's warning of lockdown in India goes viralALSO WATCH| We need to practice social distancing: Health ministry

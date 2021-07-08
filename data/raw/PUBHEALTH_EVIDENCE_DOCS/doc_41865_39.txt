@@ -1,0 +1,473 @@
+˜Environmental regulations, state-level portfolio standards, new methods for accessing 
+natural gas reserves and aging power plants are opening opportunities for new electricity 
+generation from renewable resources and natural gas. Advances in efficiency and smart grid 
+technologies also have the potential to change historical demand curves. New renewable 
+generation technology costs, including solar and wind, continue to fall, and installations are 
+increasing. NREL works within these currents of change, and helps shape them to enhance our 
+energy and environmental security. We help utilities, policymakers, investors, regulators, and 
+industrial leaders around the world understand and navigate these currents. Our analysis, data 
+sets, and tools illuminate choices and future impacts of choices on power system reliability, 
+greenhouse gas emissions, economics, and energy security. Our work is redefining what™s 
+possible for renewable energy on the grid and supporting the transition to power systems that 
+are cleaner and more reliable than ever before.
+ELECTRIC POWER SYSTEMS ARE PROFOUNDLY CHANGING
+APRIL 2015
+ANALYSIS INSIGHTS
+Figure 1.
+ Flexibility can help accommodate higher levels of variable renewable generation on the grid. Sources of additional system 
+˜exibility can be organized around the three main domains of power marketsŠcapacity, energy, and ancillary servicesŠthat support 
+balancing the electricity grid at multiple timescalesŠthrough regulation, load-following, daily/hourly scheduling, and planning.
+ ˚Leveraging Our Expertise to 
+ Inform International RE Roadmaps
+Mexico is expanding renewable energy as a key strategy 
+to reduce greenhouse gas emissions from its electricity 
+sector. One of the key challenges to meeting the renewable 
+goalŠ35% renewable energy by 2024Šis integrating 
+variable wind and solar resources into the existing grid. 
+Through the U.S. government™s Enhancing Capacity for Low 
+Emission Development Strategies (EC-LEDS) program, NREL 
+is collaborating with Mexico™s ministry of energy, power 
+system operators, research institutions, and policymakers 
+to set and meet technically achievable annual renewable 
+energy targets to support Mexico™s renewable energy goal. 
+NREL and its Mexico partners developed the 
+Renewable 
+Electricity Grid Integration Road Map for Mexico
+, which 
+outlines technical priorities and recommendations for the 
+integration of renewable energy technologies at large scale, 
+and the steps energy institutions need to take to determine 
+how the electricity infrastructure and systems must change 
+to accommodate high levels of renewables. The roadmap 
+focuses on analysis methodologiesŠincluding grid expansion 
+modeling, resource characterization, forecasting, and grid 
+operational practicesŠto evaluate the infrastructure and 
+operational impacts of increasing levels of renewables. The 
+roadmap gives policymakers a basis for assessing potential 
+challenges, solutions, and economic impacts of increasing the 
+level of variable RE penetration on the grid and gives system 
+operators confidence that reliability concerns can be met.
+Regional and National Grid 
+Integration Studies Consistently 
+Show Higher Levels of Renewables 
+are Possible
+Through groundbreaking modeling and analysis of the 
+operational, economic, and environmental impacts of 
+increasing renewables on the nation™s electricity grid, NREL 
+has shown that a more flexible electric grid can achieve much 
+higher levels of renewable penetration than we have today. 
+Operational changes and improved transmission access can 
+help increase overall flexibility of the power system. Flexibility 
+helps balance the increased variability and uncertainty 
+associated with wind and solar generation. Some physical 
+solutions to accommodate increase power system flexibility 
+are already underway. The institutional, legislative, and market 
+options to increase flexibility are relatively more complex, but 
+are essential to allow power systems to develop and integrate 
+technology advances, new operating procedures, evolved 
+business models, and new market rules.
+CostSystem OperationMarketsResponsive LoadFlexible GenerationNetworksStorageFigure 2.
+ Relative Economics of Integration Options. Today, 
+storage is a relatively expensive integration option. Actual 
+option costs are system-dependent and evolving over time.
+ Adapted from: 
+Flexibility in 21st Century Power Systems  
+ http://www.nrel.gov/docs/fy14osti/61721.pdf
+COMPUTING CENTER ENABLES FASTER,
+ MORE DETAILED ANALYSIS 
+Thanks to the High Performance Computing Center in 
+the Energy Systems Integration Facility, DOE™s newest 
+user facility at NREL, NREL is modeling the impacts of 
+increased penetration of variable generation on grid 
+system operations, emissions, and reliability in ways 
+that are faster and more detailed than previously 
+possible. The complex models supporting NREL™s 
+Eastern Renewable Generation Integration Study now 
+need just 3 days to run, down from 67. Learn more at 
+www.nrel.gov/esi
+. ˛APRIL 2015
+ANALYSIS INSIGHTS
+Operational Changes are Enhancing System Flexibility
+Sub-hourly Scheduling and Dispatch
+Grid integration studies show that sub-hourly scheduling and 
+dispatch of generators (5- or 15-minute intervals) improves 
+system efficiency, reduces the amount of reserves required 
+to balance the system, and enables systems to integrate 
+higher penetrations of variable renewable energy generation. 
+Faster dispatch can enable the system to access reserves from 
+existing units at little or no extra cost. It can also reduce the 
+need for regulation reserves, which are the most expensive 
+types of reserves, because there are fewer minute-to-minute 
+deviations between load and generation when the system is 
+re-dispatched frequently. For example, the 
+Western Wind and 
+Solar Integration Study
+, indicates that sub-hourly scheduling 
+is important for minimizing regulation requirements on the 
+system. Scheduling resources every 5 or 15 minutes, rather 
+than every hour, reduces the need to ramp units that provide 
+load following. The study also found that wind and solar 
+variability has a lesser impact on regulation requirements than 
+hourly scheduling of generating units.
+Expanded Balancing Footprint
+Our studies have shown that increasing cooperation between 
+balancing areas can reduce fluctuations in supply and demand 
+and make it easier to maintain system balance. In addition, 
+expanded balancing footprints can enhance the benefits of 
+faster dispatch, reducing required regulation reserves and 
+associated costs. The benefits of sub-hourly scheduling 
+between balancing areas are greater with higher levels of 
+variable renewable generation. Particularly where transmission 
+constraints exist, faster scheduling across areas can allow 
+variable generation to be more efficiently integrated through 
+faster and coordinated dispatch with a neighboring market. 
+Figure 3.
+ NREL has found that increased dispatch frequency and shorter forecast horizons reduce the amount of required 
+regulation reserves. Larger balancing areas enhance these bene˚ts, further reducing regulation reserve requirements.
+For source data and analysis, see 
+Flexibility Reserve Reductions from an Energy Imbalance Market with High Levels of Wind Energy in the Western
+ Interconnection
+ http://www.nrel.gov/docs/fy12osti/52330.pdf
+ 9000010000080000700006000050000
+400003000020000100000Average Total Regulation (MW)SMALL28 balancing areas (BA)MEDIUM3 multi-BA regionsLARGE1 multi-regioninterconnect-wide footprintSpeed of Dispatch and Forecasts (Faster        ) ˝Advanced Variable Generation Forecasting
+Improved forecasting is considered to be a key means of 
+integrating wind and solar power efficiently and reliably. 
+VG forecasts are more accurate the closer they are to real 
+time, and many utilities have adopted practices that allow 
+forecasts to be updated on a 5-minute basis. VG forecast 
+costs are dropping and system operators are becoming 
+more confident in the forecasts, according to a 2014 survey 
+of system operators in the Western Interconnection. Other 
+survey highlights include:
+ Many system operators now regard VG forecasting as 
+a cost effective mechanism for maintaining electric 
+reliability and scheduling resources efficiently. Several 
+said the system savings are so great and the cost minimal 
+enough that formal cost-benefit analysis is not needed. 
+ Nearly all system operators surveyedŠregardless of size, 
+proportion of renewables, or average monthly loadŠuse 
+their wind forecasts for day-ahead unit commitment. 
+Intra-day unit commitment and reserves planning are the 
+next most common uses. 
+ Wind forecasting accuracy continues to improve thanks 
+to advanced forecasting techniques and models, 
+seasoned vendors, and growing portfolio size. Wind 
+forecast errors typically range from 3% to 6% of rated 
+capacity one hour ahead and 6% to 8% a day ahead on 
+a regional basis. For comparison, load forecast errors 
+typically range from 1% to 3% day-ahead.
+1 Solar forecasting is still in its infancy, but several system 
+operators have recently begun working on in-house solar 
+forecasts and at least one company is beginning to track 
+solar forecast accuracy.
+ Increased Coal Plant Flexibility Can Improve Renewables Integration
+Flexible Generation
+Increasing wind and solar penetration also increases 
+opportunity for savings associated with improved coal 
+flexibility. Using a commercial production cost model, NREL 
+estimated the impact of generator flexibility on the integration 
+of wind and solar generators, at penetrations between 15% 
+and 60%. Increased flexibility was simulated by reducing the 
+minimum generation level of the coal fleet from 60% to 40% 
+of nameplate capacity. Minimizing generation levels can allow 
+plants to stay online during periods of low energy prices, such 
+as at night, and minimize the need for and impacts of cycling. 
+In the more flexible system, fuel costs and CO
+2 emissions are 
+lower, as are variable operations and maintenance costs. 
+Coal plant flexibility can be increased through retrofits 
+and operational practices that enable lower turndowns, 
+faster starts and stops, and faster ramping between load 
+set-points. One North American coal generating station 
+accommodates significant cycling thanks to key hardware 
+modifications and operational changesŠe.g. monitoring and 
+managing temperature ramp rates, implementing inspection 
+programs for affected equipment, and continual operator 
+training. These changes have minimized potential damage 
+and minimized the cycling-related cost of maintenance at 
+the plant.
+System-wide flexibility can be enhanced by retrofitting just 
+a portion of conventional generators within a power system. 
+NREL investigated the costs and benefits of retrofitting ~25% 
+of coal and natural gas plant fleet capacity for improved 
+operational flexibility. The study showed that retrofits that 
+improve the turndown level of gas-fueled and coal-fueled 
+power plants have a net-benefit to the system, although there 
+may or may not be a benefit at plant level. Additional analysis 
+could help determine the system-level costs and benefits of 
+faster ramp rates and faster and less expensive starts.
+1. 
+ [Source: 
+http://www.nrel.gov/docs/fy13osti/60451.pdf
+ ]SHARING DATA, ADVANCING SCIENCE
+Electric sector stakeholders use NREL™s high-resolution 
+wind and solar datasets to model and plan for 
+operating power systems with more variable resources. 
+Learn More: 
+http://maps.nrel.gov/wind_prospector
+ http://www.nrel.gov/electricity/transmission/solar_
+integration_methodology.html
+ ˙APRIL 2015
+ANALYSIS INSIGHTS
+Flexible Load Œ Demand Response Resources
+Demand response (DR) is a load management practice of 
+deliberately reducing or adding load to balance the system 
+during periods of peak demand or high market prices. 
+DR resources represent a potentially large and relatively 
+untapped resource for supplying flexibility to the grid 
+systems. NREL is working with other national laboratories 
+to estimate the economic value of DR resourcesŠincluding 
+water heating, space heating and cooling, and water and 
+wastewater pumpingŠfor the Western United States. The 
+value is calculated in terms of reduced system production 
+costs and potential revenue streams. Because some DR 
+resources are more flexible or better correlated with system 
+requirements, revenue from energy or grid services provided 
+can vary significantly. 
+Flexible Storage 
+Electricity storage technologiesŠsuch as pumped hydro, 
+batteries, flywheels, and compressed airŠhave had limited 
+deployment in the U.S. power grid, but could potentially 
+allow greater use of variable renewables by matching energy 
+dispatch to periods of high demand, providing flexible load 
+during periods of high RE output, and providing a variety of 
+high-value ancillary services. One of the challenges faced 
+by storage developers is quantifying the value of storage, 
+particularly benefits that may not be fully captured within 
+U.S. electricity markets. 
+The operational value of storage is expected to increase with 
+increasing penetration of variable wind and solar generation. 
+For storage applications involving time-shifting of generation 
+(i.e., load-leveling), variable generation tends to suppress 
+off-peak prices more than on-peak prices, increasing price 
+differentials for energy storage. Additional operating 
+reserves required with higher levels of variable generation, 
+also increase the potential value of storage when providing 
+these reserves. Significant charging from renewables, and 
+the associated net reduction in carbon emissions, does not 
+occur until VG penetration is in the range of 40%-50%. Other 
+sources of storage value, such as the ability to replace or defer 
+generation, transmission, and distribution investments may 
+also be impacted by the deployment of VG resources.
+Figure 4.
+ Value of Demand Response Resources for Energy and Grid Services. This chart shows the average annual revenue (left 
+axis) from the day-ahead market per annual availability factor (right axis) for each type of demand response resource. Across all 
+DR resources evaluated, 80% of revenue came from grid services, primarily from the regulation reserve market. Only 20% of the 
+revenue came from the energy market.
+ Source: DR Resources for Energy and Ancillary Services in the West 
+75604530150100806040200ResidentialCommercialMunicipalNon-industrial ManufacturingRevenue per Enabled Capacity ($/kW-year)Availability Factor (%)FlexibilityContingencyRegulationEnergy Revenue Due to Relaxed ConstraintsEnergyAvailability FactorCoolingWater HeatingCoolingLightingVentilationHeatingMunicipalPumpingWastewaterPumpingOutdoorLightingRefridgeratedWarehouseAgriculturalPumpingData Center ˆWell-designed Wholesale Electricity Markets Support System Flexibility
+Market design largely determines the operational mechanisms 
+available to maintain long-term and short-term power system 
+reliability. For systems with high levels of variable generation, 
+well-designed electricity markets drive efficient solutions to 
+meet reliability needs in a least-cost manner, and they can 
+facilitate access to a range of options that increase system 
+flexibility. Table 1 summarizes current and emerging market 
+design approaches and best practices for incentivizing and 
+accessing flexibility. In collaboration with the electric power 
+community, NREL continues to lead analysis on best practices 
+in market design. 
+Table 1.
+ Market Approaches and Best Practices for Incentivizing and Accessing Flexibility. 
+ Ancillary Services Market
+Energy Market
+Capacity Adequacy Market
+Dynamic system reserve requirements
+, which vary by time of day and system 
+conditions on an hourly basis, could 
+better target high-risk periods of 
+signi˚cant change in the wind resource 
+and reduce integration costs. Market 
+participants would plan ahead to 
+understand what the ancillary services 
+demand might be, similarly to how 
+they anticipate the load demand. 
+Co-optimization of energy and 
+ancillary service markets
+ has improved 
+the e˛ciency of scheduling and 
+dispatching resources. 
+Primary frequency response
+ is an autonomous generator response 
+that stabilizes the system frequency. 
+Explicit compensation for this service 
+(which is typically provided by 
+conventional generators as a part of 
+interconnection) through cost-based 
+measures or market designs could help 
+ensure system reliability with high VG.
+Dispatch resolution
+ of 5- to 15-minutes 
+improves system ˜exibility by more 
+closely matching the changes in 
+variable generation and load (net load) 
+economically and reducing use of 
+regulating reservesŠcost-e˝ectively 
+optimizing generation. 
+Integrating Advanced, Centralized 
+Forecasts
+ into market operations could 
+increase market e˛ciency and provide 
+additional opportunities for wind 
+and solar resources to participate in 
+electricity markets. 
+More frequent (Intraday) markets
+ could enable participation from power 
+plants with intermediate lead/start-up 
+times and help reduce the relatively 
+high cost of balancing resources on 
+the minutes timescale. The current 
+two-step market with unit commitment 
+in the day-ahead timescale leaves 
+signi˚cant forecast errors to be 
+resolved during real-time balancing. 
+Flexible ramp products
+ could help 
+address operational needs in real-time 
+by maintaining dispatchable ˜exibility 
+in terms of ramping capability.
+Scarcity pricing
+ sends price signals 
+in the real-time market when there is 
+a system wide shortage of power to 
+meet demand and provide su˛cient 
+backup reserves. Scarcity pricing can 
+be designed to encourage investments 
+in ˜exible response, such as storage 
+and price-responsive load, because 
+these resources can respond quickly to 
+brief periods of scarcity.
+Capacity markets
+ ensure that new 
+generation is developed on time to 
+meet resource adequacy targets and 
+help these resources recover their 
+capital costs. Capacity markets can 
+help address concerns about declining 
+wholesale electricity prices and ensure 
+system ˜exibility with increased VG. 
+Capabilities markets
+ have been 
+proposed as a mechanism to create 
+investment incentives for the right mix 
+of generation, demand-side resources, 
+storage and other grid resources to 
+deliver ˜exibility and other attributes 
+necessary to cost-e˛ciently balance 
+systems where there is an increasing 
+proportion of renewable power. 
+ 2014 FIRST QUARTER
+ANALYSIS INSIGHTS
+APRIL 2015
+ANALYSIS INSIGHTS
+National Renewable Energy Laboratory
+15013 Denver West Parkway, Golden, CO 80401
+ 303-275-ww.nrel.gov
+NREL is a national laboratory of the U.S. Department of Energy, O˜ce of Energy E˜ciency 
+and Renewable Energy, operated by the Alliance for Sustainable Energy, LLC
+Front page photo by Warren Gretz, NREL 080-6A20-633615
+NREL prints on paper that contains recycled content.
+Moving Toward Cleaner, More Reliable, and More Resilient Power Systems 
+NREL is leading a worldwide conversation about energy systems integration and spearheading innovations that optimize our 
+entire energy system. Our energy analysis capabilities complement our science and technology work in this area. NREL works 
+with utilities, policymakers, and investors to explore options and future impacts of today™s energy choicesŠon grid reliability, 
+GHG emissions, economics, and energy security. See how NREL research and analysis are redefining what™s possible for 
+renewable energy on the grid at 
+http://youtu.be/XtV574KBEbU
+.Learn More
+National and Regional Grid Integration Studies
+Western Wind and Solar Integration Study
+ Phase 3
+. (2014) Examined the large-scale stability and frequency 
+response with high wind and solar penetration in the Western United 
+States. 
+http://www.nrel.gov/electricity/transmission/western_wind.html
+  Phase 2
+. (2013 ) Assessed impacts of cycling fossil-fueled power 
+plants on emission and wear-and-tear costs. 
+http://www.nrel.gov/
+electricity/transmission/western_wind.html
+  Phase 1
+. (2010) Investigated integration of large amounts of wind 
+and solar energy into the electric power system of the Western 
+Interconnection. 
+http://www.nrel.gov/electricity/transmission/
+western_wind.html
+Renewable Electricity Futures Study
+ (2012) Explored implications and 
+challenges of very high renewable electricity generation levelsŠfrom 
+30% up to 90% of all U.S. electricity generationŠin 2050. 
+http://www.
+nrel.gov/analysis/re_futures/
+ Eastern Wind Integration and Transmission Study
+ (2010) Examined 
+the operational impact of 20%Œ30% wind energy penetration on the 
+power system of the Eastern Interconnect of the United States. 
+http://
+www.nrel.gov/electricity/transmission/eastern_renewable.html#ewits
+ 20% Wind Energy by 2030: Increasing Wind Energy™s Contribution 
+to U.S. Electricity Supply
+ (2008) Examined costs, challenges, and key 
+impacts of generating 20% of the nation™s electricity from wind energy 
+in 2030. 
+http://www.nrel.gov/docs/fy08osti/41869.pdf
+ System Flexibility
+A Review of Variable Generation Forecasting in the West: July 2013 Œ 
+March 2014
+ (2014) Industry survey on VG forecasting practices, lessons 
+learned, and priorities. 
+http://www.nrel.gov/docs/fy14osti/61035.pdf
+ Integrating Variable Renewable Energy: Challenges and Solutions
+ (2013) Explored renewable energy integration mitigation strategies 
+that have been implemented in the United States and internationally. 
+http://www.nrel.gov/docs/fy13osti/60451.pdf
+Resource Flexibility
+Impact of Generator Flexibility on Electric System Costs and 
+Integration of Renewable Energy
+ (2014) Estimated the impact of 
+generator flexibility on the integration of wind and solar generators for 
+wind and solar penetrations between 15% and 60%. 
+http://www.nrel.
+gov/docs/fy14osti/62275.pdf
+Flexible Coal: Evolution from Baseload to Peaking Plant
+ (2013) 
+21st Century Power Partnership. Looked at a coal plant that cost-
+effectively operates as a flexible resource. 
+http://www.nrel.gov/docs/
+fy14osti/60575.pdf
+Cost-Benefit Analysis of Flexibility Retrofits for Coal and Gas-Fueled 
+Power Plants: August 2012 Œ December 2013
+ (2014) Studied the 
+costs and benefits of retrofitting fossil units for improved operational 
+flexibility. 
+http://www.nrel.gov/docs/fy14osti/60862.pdf
+ Value of Demand Response: Quantities from Production Cost 
+Modeling (Presentation)
+ (2014) Discussed the value of co-optimized 
+DR resources to provide energy and ancillary services. 
+http://www.nrel.
+gov/docs/fy14osti/61815.pdf
+ Impact of Wind and Solar on the Value of Energy Storage
+ (2013) 
+Evaluated how the value of energy storage changes when adding 
+variable renewable generation to the grid. 
+http://www.nrel.gov/docs/
+fy14osti/60568.pdf
+Market Design
+Evolution of Wholesale Electricity Market Design with Increasing 
+Levels of Renewable Generation
+ (2014) Reviewed market design 
+approaches focused on revenue sufficiency for long-term reliability. 
+http://www.nrel.gov/docs/fy14osti/61765.pdf
+Integrating Variable Renewable Energy in Electric Power Markets: Best 
+Practices from International Experience
+ (2012) Documented diverse 
+approaches to effective integration of variable renewable energy among 
+six countries. 
+http://www.nrel.gov/docs/fy12osti/53732.pdf
+Market Evolution: Wholesale Electricity Market Design for 21st 
+Century Power Systems
+ (2013) Reviewed wholesale power market 
+designs that help ensure adequacy, security, and flexibility. 
+http://www.
+nrel.gov/docs/fy14osti/57477.pdf

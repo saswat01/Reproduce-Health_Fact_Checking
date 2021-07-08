@@ -1,0 +1,11 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop 				addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape 				addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical) 				addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical) 				addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape 				addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ By continuing you agree to the use of cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

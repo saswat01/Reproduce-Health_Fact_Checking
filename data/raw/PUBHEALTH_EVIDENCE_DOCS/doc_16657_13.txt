@@ -1,0 +1,15421 @@
+ 
+1
+ 
+ 
+1. INTRODUCTION
+ 
+Medical marijuana laws (hereafter MMLs) remove state
+-
+level 
+penalties for using, 
+possessing
+ 
+and 
+cultivating medical marijuana.  
+Patients are required to obtain approval or 
+certification from a doctor, and doctors who recommend marijuana to their patients are
+ 
+immune 
+from prosecution.  
+MMLs allow patients to designate caregivers 
+who 
+can obtain
+ 
+marijuana on
+ 
+their behalf.
+ 
+On June 1, 2012 Connecticut became the 17
+th state, along 
+with the District of Columbia, 
+to enact a MML.  
+More than a 
+dozen 
+state legislatures, 
+including those of 
+Illinois, 
+New York, 
+and Pennsylvania 
+have recently considered medical marijuana bills.  If these bills are eventually 
+signed into law,
+ 
+the majority of 
+Americans 
+will live in states that permit the use of medical 
+marijuana.
+ 
+ 
+Opponents of medical marijuana tend to 
+focus 
+on the 
+social issues
+ 
+surrounding substance 
+use.
+  
+They 
+argue that marijuana is addictive, serves as a gateway 
+drug,
+ 
+has little 
+medicinal va
+lue,
+ 
+and 
+leads to criminal 
+activity
+ 
+(Adams 2008; Blankstein 
+2010).  
+Proponents
+ 
+argue 
+that
+ 
+marijuana 
+is both efficacious and safe
+,
+ 
+and can be used to treat the side effects of chemotherapy as well as 
+the symptoms of AIDS, multiple sclerosis, epilepsy, 
+glaucoma and
+ 
+other serious illnesses.  
+They
+ 
+cite clinical research showing that marijuana relieves chronic pain, nausea, muscle spasms and 
+appetite loss (Eddy 2010; Marmor 1998; Watson et al. 2000), and note that neither the link 
+between medical
+ 
+marijuana 
+and 
+the use of 
+other substances
+, nor
+ 
+t
+he link
+ 
+between medical 
+marijuana and
+ 
+criminal activity, has been substantiated (Belville 2011; Corry et al. 2009; Hoeffel 
+2011; Lamoureux 2011).
+ 
+This study beg
+ins by exploring the effect of MMLs 
+on the 
+market for 
+marijuana u
+sing 
+price data 
+collected 
+from 
+back 
+issues
+ 
+of
+ 
+High Times
+, 
+the 
+leading 
+cannabis
+-
+related
+ 
+magazine in 
+  
+2
+ 
+ 
+the United States
+.  
+Our results are consistent with 
+anecdotal evidence 
+that 
+MMLs 
+have le
+d to a 
+substantial 
+increa
+se in the supply of high
+-
+grade
+ 
+marijuana
+ 
+(Montgomery 2010)
+.  In 
+contrast, 
+the 
+impact 
+of MMLs on 
+the market for 
+low
+-
+quality marijuana
+ 
+appears to be
+ 
+modest
+. 
+ 
+Next, we turn our attention to MMLs and traffic fatalities, the primary relationship of 
+interest.
+  
+T
+raffic fatalities
+ 
+are the lead
+ing cause of
+ 
+death among Americans 
+ages 5 through 34
+ 
+(Centers for Disease Control and Prevention 2010).  To
+ 
+our knowledge, there has been no 
+previous examination of this relationship.  Data on traffic fatalities at the state level are obtained 
+from the Fatality Analysis Reporting System (FARS)
+ 
+for the years 
+1990
+-
+2010
+.
+  
+Fourteen
+ 
+states 
+and the District of Columb
+ia 
+enacted a MML during this period.
+  
+FARS includes the time of day 
+the traffic fatality occurred, the day of the week it occurred, and whether alcohol was involved.  
+Using this information, we contribute to the long
+-
+standing debate on whether marijuana an
+d 
+alcohol are substitutes or complements.
+ 
+ 
+The 
+first full 
+year after coming into effect, 
+the legalization of
+ 
+medical marijuana is 
+associated with an 8 
+to 11 
+percent decrease in traffic fatalities
+.
+  
+However, the effect of MMLs on 
+traffic fatalities involvin
+g alcohol 
+is larger and estimated with more precision
+ 
+than the effect of 
+MMLs
+ 
+on traffic fatalities that do 
+not involve 
+alcohol.
+  
+In addition
+, we find
+ 
+that the estimated
+ 
+effects of MMLs on fatalities at night and on 
+weekends (when alcohol consumption 
+rises)
+ 
+are 
+larger, and are more precise, than the estimated effects of MMLs on fatalities during the day and 
+on weekdays.
+ 
+ 
+Finally, the relationship between MMLs and more direct measures of alcohol 
+consumption is examined.  
+Using 
+individual
+-
+level 
+data from
+ 
+the Behavioral Risk Factor 
+Surveillance System (BRFSS)
+ 
+for the 
+period 1993
+-
+2010
+, we find
+ 
+that MMLs are associated with 
+  
+3
+ 
+ 
+decreases in the 
+probability of having 
+c
+onsumed alcohol in the past month
+, 
+binge
+ 
+drinking
+ 
+and 
+the number of drinks consumed
+.
+  
+ 
+We c
+onclude that alcohol is the
+ 
+likely mechanism through which the legalization of 
+medical 
+marijuana reduces traffic fatalities.
+  
+However, this conclusion does not necessarily imply 
+that driving under the influence of marijuana is safer than 
+driving under the 
+influence of 
+alcohol
+.
+ 
+ 
+Alcohol is often consumed in restaurants and bars, while many states prohibit the use of 
+medical marijuana in public.
+ 
+ 
+If marijuana consumpti
+on typically takes place at home or other 
+private locations
+, 
+then legalization could reduce traffic 
+fatalities 
+simply 
+because
+ 
+marijuana users 
+are less likely to drive while impaired.
+ 
+ 
+ 
+2. BACKGROUND
+ 
+ 
+2.1. A brief history of medical marijuana 
+ 
+ 
+Marijuana was introduced in the United States in the 
+early
+-
+1600s by James
+town settlers 
+who used the plant in hemp productio
+n;
+ 
+hemp cultivation remained a prominent industry until 
+the mid
+-
+1800s (Deitch 2003).  
+During the census of 1850, the United States recorded over 8,000 
+cannabis plantations of at least 2,000 acres 
+(
+U.
+K. Cannabis Campaign 2011).  Throughout this 
+period, marijuana was commonly used by physicians and pharmacists to treat a broad spectrum 
+of ailments (Pacula et al. 2002).  From 1850 to 1942, marijuana was included in the 
+United 
+States Pharmacopoeia
+, the of
+ficial list of recognized medicinal drugs (Bilz 1992).  
+ 
+ 
+In 1913, California passed the first marijuana prohibition law aimed at recreational use 
+(Gieringer 1999); by 1936, the remaining 47 states had follow
+ed suit (Eddy 2010).  In 
+1937, t
+he
+ 
+Marihuana Tax
+ 
+Act effectively discontinued the use of marijuana for medicinal purposes (Bilz 
+  
+4
+ 
+ 
+1992), and marijuana was classified as a Schedule I drug in 1970.
+1
+  
+According to the Controlled 
+
+
+currently accepted medical use in treatment in the United 
+
+ 
+ 
+ 
+In 1996, California passed the Compassionate Use Act, which removed criminal 
+penalties for using, possessing
+ 
+and cultivating medical marijuana.  It also
+ 
+provided immunity 
+from prosecution to physicians who recommended the use of medical marijuana to their patients.  
+Before 1996, a number of states allowed doctors to prescribe marijuana, but this had little 
+practical effect because of federal restrictions.
+2
+  
+Since 
+1996, 
+16
+ 
+other states
+ 
+and the District of 
+Columbia have joined California in legalizing th
+e use of medical 
+marijuana (
+Table 1),
+ 
+although 
+it is still classified as a Schedule I drug by the Federal government.
+3
+  
+ 
+ 
+ 
+2.2. 
+Studies on substance use and driving  
+ 
+ 
+ 
+Laboratory studies have shown that cannabis use impairs driving
+-
+related functions such 
+as distance perception, reaction time, and hand
+-
+eye coordination (Kelly et al. 2004; Sewell et al. 
+2009).
+  
+However, neither simu
+lator nor driving
+-
+course studies provide consistent evidence that 
+these impairments to driving
+-
+related functions lead to an increased risk of collision (Kelly et al. 
+2004; Sewell et al. 
+2009) 
+perhaps because
+ 
+d
+rivers under the influence of tetrahydrocannabinol 
+                                        
+                  
+ 
+1
+ 
+The Marihuana Tax Act imposed a registration tax and required extensive record
+-
+keeping, increasing the cost of 
+prescribing marijuana as compa
+red to other drugs (Bilz 1992).
+ 
+ 
+2
+ 
+Federal regulations prohibit doctors from writing prescriptions for marijuana. 
+ 
+In addition, even if a doctor were to 
+illegally prescribe marijuana, it would be against federal law for pharmacies to distribute it.  Doctors in states that 
+have legalized medical marijuana avoid violating federal law 
+by recommending marijuana to their p
+atients rather 
+than prescribing its use.  
+ 
+ 
+3
+ 
+Information
+ 
+on when MMLs were passed was obtained from a recent Congressional Research Services Report by 
+Eddy (
+2010).
+  
+Although the New Jersey medical marijuana law came into effect on October 1, 2010, impleme
+ntation 
+has been delayed (Brittain 2012). Coding New Jersey as a non
+-
+medical marijuana state in 2010 has no appreciable 
+impact on the results presented below.
+ 
+ 
+  
+5
+ 
+ 
+(THC), the primary psychoactive substance in marijuana, 
+engage in compensatory behaviors 
+such as reducing
+ 
+their velocity, avoid
+ing
+ 
+risky maneuvers, and 
+incr
+easing
+ 
+
+distances
+
+ 
+(Kelly et al. 
+2004; Sewell et al. 2009).
+  
+ 
+Like 
+marijuana, alcohol impairs driving
+-
+related functions such as reaction time and hand
+-
+eye coordination (Kelly et al. 2004; Sewell et al. 2009
+).  Moreover,
+ 
+simulator and driving
+-
+course 
+studies provide unequivocal evidence tha
+t 
+alcohol consumption
+ 
+leads to an increased risk of 
+collision (Kelly et al. 2004; Sewell et al. 2009).  Even at low doses
+, drivers under the influence 
+of alcohol tend to underestimate the degree to which they are impaired (MacDonald et al. 2008; 
+Marczinski
+ 
+
+and take more risks (Burian et al. 2002; Ronen et al. 2008; Sewell et al. 2009).  
+When used in 
+
+
+on driving
+-
+related 
+functions (Sewell et al. 2009, p. 186), although 
+chronic 
+marijuana users
+ 
+may 
+be 
+less impaired by alcohol than infrequent users (Jones and Stone 1970; Marks and MacAvoy
+ 
+1989; Wright
+ 
+and Terry 2002).
+4
+ 
+ 
+ 
+2.3. The 
+relationship between m
+arijuana and alcohol 
+ 
+ 
+ 
+Although THC has not been linked to an increased risk of collision
+ 
+in simulator and 
+driving
+-
+course studies, MMLs could impact traffic fatalities 
+through 
+the consumption of 
+alcohol.
+  
+While a 
+number of studies 
+have found evidence of complementarity between marijuana and 
+alcohol (Pacula 1998; Farrelly et al. 1999; Williams e
+t al. 2004
+), others l
+end support to the 
+hypothesis that marijuana and alcohol are substitutes.
+  
+For instance, Chaloupka and Laixuthai 
+                                        
+                  
+ 
+4
+ 
+A large body of research in epidemiology
+ 
+attempt
+s to assess the effects of substance use based
+ 
+on observed THC 
+and alcohol levels in the blood of
+ 
+drivers who have been in 
+accidents.  For marijuana, the results have been mixed, 
+while the likelihood of an accident occurring clearly increases with BAC levels (Sewell et al. 2009).  
+ 
+ 
+  
+6
+ 
+ 
+(1997) 
+and Saffer and Chaloupka (1999) found that marijuana
+ 
+decriminalization led to decreased 
+alcohol consumption
+, while DiNardo and Lemieux (2001) found that increases in the minimum 
+legal drinking age were positively associated with the use of marijuana
+.
+ 
+ 
+Two 
+recent studies used a regression discontinuity approach to examine the effect of the 
+minimum legal drinking age on marijuana use, but came to different conclu
+sions.  
+Crost and 
+Guerrero (2012)
+ 
+analyzed 
+data from the
+ 
+National Survey on Drug Use and Health (
+N
+SDUH)
+.
+  
+They
+ 
+found that
+ 
+marijuana use decreased 
+sharply 
+at 
+21 years of age
+, evidence consistent with 
+substitutability between alcohol and marijuana
+.  In contrast, Yörük and Yörük (2011), who drew 
+on data from the National Longitudinal Survey of Youth 1997 (NLSY97), concluded that 
+alcohol 
+and marijuana
+ 
+were complements.  However, 
+the
+se
+ 
+authors
+ 
+appear to have inadvertently 
+conditioned on having used ma
+rijuana 
+at least once
+ 
+since the last interview
+. 
+ 
+When 
+Crost and 
+Rees 
+(
+forthcoming
+) applied
+ 
+
+research design 
+to the NLSY97 data 
+without conditioning on having used marijuana
+ 
+since the last interview
+, 
+they found no evidence 
+that 
+alcohol and marijuana were complements.
+ 
+ 
+3. MEDICAL MARIJUNA LAWS 
+AND 
+THE 
+MARIJUANA
+ 
+MARKET
+ 
+MMLs 
+should
+, in theory, increas
+e both the supply of 
+marijuana 
+and 
+the 
+demand for
+ 
+marijuana
+,
+ 
+unambiguously 
+leading to an increase in consumption 
+(Pacula et al. 2010)
+.
+ 
+ 
+They 
+afford 
+suppliers some
+ 
+protection against prosecution, and allow patients to buy medical 
+marijuana
+ 
+without fear of being arrested or fined
+, lowering the full cost of obtaining marijuana
+.
+5
+ 
+ 
+                                        
+                  
+ 
+5
+ 
+The majority of MMLs allow patients to register based on medical conditions that cannot be objectively confirmed 
+(e.g. chronic pain and nausea
+).  In fact, chronic
+ 
+pain is the most common medical condition among 
+patients seeking 
+treatment (Appendix Table 1
+).
+  
+According to recent Arizona registry data, only 7 out of 11,186 applications for 
+
+-
+in, quick
+-
+
+provide recommendations for a nominal fee.  Cochran (2010)
+ 
+reported on doctors who provide medical marijuana 
+recommendations to patients 
+via brief web interviews on Skype.
+ 
+ 
+  
+7
+ 
+ 
+Because it is prohibitively expensive for the government to e
+nsure that all 
+medicinal 
+marijuana 
+ends up in the hands of registered patients
+ 
+(especially in states that permit home cultivation),
+ 
+diversion to non
+-
+patients 
+almost certainly occurs
+.
+6
+  
+ 
+ 
+The NSDUH is the best source of information on marijuana consumption by adults living 
+in the United States.  
+However
+, the NSDUH does not provide individual
+-
+level data with state 
+identifiers to researchers, and did not publish state
+-
+level estimates of marij
+uana use prior to 
+1999.
+7
+  
+Because 5 states (including 
+California, Oregon and Washington) legalized medical 
+marijuana
+ 
+during the period 1996 
+-
+1999
+, 
+we turn to back issues of 
+High Times 
+magazine in order 
+to gauge the impact of legalization on the marijuana market.  
+Begun
+ 
+in 1975, 
+High Times
+ 
+i
+s 
+published mont
+hly and covers topics ranging from marijuana c
+ultivation 
+to politics
+.
+  
+Each issue
+ 
+also contains a section entitled 
+
+ 
+Quotations
+
+marijuana prices from across the country.  
+In addition to price, a
+ 
+typical entry includes 
+information about wher
+e the marijuana was purchased
+, its 
+strain
+ 
+and its quality
+. 
+ 
+We collected price infor
+mation 
+from 
+High Times
+ 
+for the period 1990 through 2011.
+ 
+ 
+Jacobson (2004)
+, who collected information on the price 
+of marijuana
+ 
+from 
+High Times
+ 
+for the 
+                                        
+                  
+ 
+6
+ 
+Aside from Washington D.C. and New Jersey, all MMLs enacted during the period 1990
+-
+2010 allowed for home 
+cultivation, and 8 out of 15 allow
+ed patients or caregivers to cultivate 
+collectively (Appendix Table 2).
+ 
+ 
+A recent
+ 
+investigation concluded that thousands of pounds of medical marijuana grown in Colorado are diverted annually to
+ 
+the recreational market (Wirfs
+-
+Brock et al. 2010).  See also 
+Thurstone et al. (2011) who interviewed 80 adolescents 
+(15 through 19 years of age) undergoing outpatient substance abuse treatment in Denver.  Thirty
+-
+nine of the 80 
+reported having obtained marijuana from someone with a medical marijuana license.  Florio 
+(2011) described
+ 
+the 
+story of 4
+ 
+8th
+-
+graders in Montana who received marijuana
+-
+laced cookies from a registered medical marijuana 
+patient.
+ 
+ 
+7
+ 
+Using these estimates, Wall et al. (2011) found that rates of marijuana use among 12
+-
+ 
+through 17
+-
+year
+-
+olds were
+ 
+
+
+legalized medical marijuan
+a.  Using NSDUH data for the years 2002 through 2009, Harper et al. (
+2012) found that 
+legalization was associated with a small 
+reduction
+ 
+in the rate of marijuana use among 12
+-
+ 
+through 17
+-
+year
+-
+olds.  
+Using data for the period 1995
+
+2002 from Denver, Los Ange
+les, Portland, San Diego and San Jose, Gorman and 
+Huber Jr. (2007) found little evidence that marijuana consumption increased among adult arrestees as a result of 
+legalization.
+ 
+ 
+  
+8
+ 
+ 
+period
+ 
+1975 through 2000
+, 
+ 
+distinguished between high
+-
+quality (a category that included 
+
+and low
+-
+quality mar
+ijuana (a category that included
+ 
+
+8
+  
+Following Jacobson (2004), 
+we 
+classified 
+marijuana 
+purchases 
+by quality
+,
+ 
+and calculated 
+the median
+ 
+per
+-
+ounce 
+price 
+by state and 
+year.
+9
+  
+Table 2
+A presents 
+estimates of the 
+following equation:
+ 
+ 
+ 
+ 
+ 
+(1)
+ 
+ln(
+Price
+ 
+High
+-
+Quality Marijuana
+st
+) =
+  
+
+0 
++ 
+
+1
+MML
+st
+ 
++ 
+X
+st
+
+2
+ 
++ 
+v
+s
+ 
++ 
+w
+t
+ 
++ 
+
+st
+,
+ 
+ 
+ 
+ 
+where 
+s
+ 
+indexes states and 
+t 
+indexes years.  The variable 
+MML
+st
+ 
+indica
+tes whether medical 
+marijuana was legal 
+in state 
+s
+ 
+and year 
+t
+, and 
+
+1
+ 
+represents
+ 
+the estimated relationship between 
+legalization and the per
+-
+ounce price of high
+-
+quality marijuana.
+  
+The vector 
+X
+st
+ 
+includes controls 
+for the
+ 
+mean age
+ 
+in state 
+s
+ 
+and year 
+t
+, the
+ 
+unemployment rate, per capita income
+,
+ 
+whether the 
+state had a marijuana decriminalization law in place
+,
+ 
+and the beer tax.  
+State fixed effects, 
+                                        
+                  
+ 
+8
+ 
+Plant variety (i.e., strain), which part of the plan is used, method of stor
+age, and cultivation techniques are all 
+important determinants of quality/potency (McLaren et al. 2008).  In recent decades there has been a marked trend 
+towards indoor cultivation and higher potency in the United States (McLaren et al. 2008).
+  
+Jacobson (2
+004) argued 
+that, ideally, prices would be 
+deflated by a measure of potency.  Unfortunately, information on potency is not 
+available in the 
+High Times
+ 
+data.
+  
+ 
+ 
+9
+ 
+A total of 8,271 purchases were coded.  Of these, 7,029 were classified as high
+-
+quality and 1,242 were classified as 
+low
+-
+quality.  Prior to 2004,
+ 
+information on the seller was occasionally included in the Trans High Market Quotations 
+section of 
+High Times
+.  Although dispensaries were never mentioned, they are a relatively recent phenomenon.  The 
+number of dispensaries in California expanded rapidly after 2004 (Jacobson 2011), and the number of dispensaries 
+in Colorado and Montana expanded rapidly after 200
+8 (Smith 2011; Smith 2012).  We compared 
+High Times
+ 
+price
+ 
+data from 2011
+-
+2012 with price data posted on the internet by 84 dispensaries located in 7 states.  In 4 out of the 7 
+states (California, Michigan, Nevada and Washington) prices charged by dispensar
+ies were statistically 
+indistinguishable from the prices provided by 
+High Times
+ 
+readers.  In Arizona, Colorado and Oregon, prices charged 
+by dispensaries were significantly lower than prices provided by 
+High Times
+ 
+readers; however, these differences 
+were g
+enerally not large in magnitude.  The greatest difference was in Colorado, where dispensaries, on average, 
+charged 24.4 percent less per ounce ($72.8) than the prices provided by 
+High Times
+ 
+readers.  In Arizona, 
+dispensaries, on average, charged 10.3 perce
+nt less per ounce ($36.6) than the prices provided by 
+High Times
+ 
+readers; in Oregon, dispensaries
+, on average, charged 14.9 percent less per ounce ($37.2) than the prices provided by 
+High Times
+ 
+readers.  Dispensary price data are available at:  
+www.legalmarijuanadispensary.com
+. 
+ 
+ 
+   
+ 
+  
+9
+ 
+ 
+represented by 
+v
+s
+, control for time
+-
+invariant un
+observables at the state level; y
+ear fixed effects, 
+represented by 
+w
+t
+, control for common s
+hocks to the price of 
+high
+-
+quality 
+marijuana
+.
+10
+ 
+ 
+ 
+The 
+baseline estimate, in column 
+(1) 
+of Table 
+2
+A
+, 
+su
+ggest
+s
+ 
+that the supply response to
+ 
+le
+galization 
+is larger than the demand response
+.  
+Specifically
+, l
+egalization is associ
+ated with 
+a 
+26.2 percent (e
+-
+0.304 
+
+ 
+1 = 
+-
+0.262)
+ 
+decrease in the price of high
+-
+quality marijuana
+.  
+When 
+we 
+include 
+st
+ate
+-
+specific linear time trends, 
+intended to control for omitted variables at the state 
+level that evolve
+ 
+at a constant rate
+, 
+le
+galization
+ 
+is associated with a
+ 
+9.8
+ 
+percent decrease in the 
+price of high
+-
+quality marijuana
+.  
+ 
+Lagging the MML 
+indicator 
+provides 
+evidence
+ 
+that 
+the 
+effect 
+of 
+legalization 
+on the price 
+of high
+-
+quality marijuana 
+is not immediate
+.  
+C
+ontrolling for state
+-
+specific linear time trends
+, the 
+estimated 
+coefficients of 
+the 
+MML
+ 
+indicator 
+lagged 1
+-
+3 years are negative, but not statistically 
+significant.  
+T
+here is a statistically significant 
+24.6
+ 
+percent reduction in the price of high
+-
+quality 
+marijuana
+ 
+the fourth full year after legalization
+.
+  
+This
+ 
+pattern of results is consistent with state 
+registry data from Colorado, Montana, and Rhode Island showing that patient numbers increased 
+slowly in the years immediately after legalization
+.
+11
+ 
+ 
+A
+dding leads to the model 
+with state
+-
+                                        
+                  
+ 
+10
+ 
+Standard errors are corrected for clustering at the state level (Bertrand et al. 2004).  Descriptive statistics a
+re 
+presented in 
+Appendix Table 3.  Mean
+ 
+age in state 
+s
+ 
+and year 
+t
+ 
+was calculated using Census data.  Data on beer taxes 
+are from the 
+Brewers Almanac
+, an annual
+ 
+publication produced by the Beer Institute.  The unemployment and 
+income data are from the Bureau of Labor Statistics and the Bureau of Economic Analy
+sis, respec
+tively. 
+Data on 
+decriminalization laws are from Model (1993) 
+and Scott (2010).  During the period under
+ 
+study,
+ 
+the 
+decriminalization indicator 
+only captures two policy changes:  
+Nevada and Massachusetts decriminalized the use of 
+marijuana in 200
+1 and 2010, respectively. The majority of decriminalization laws were passed prior to 1990.  
+Following Jacobson (2004), the estimates presented in Tables 2A and 2B are unweighted. When the regressions are 
+weighted by the number of observations used to calc
+ulate median price and state
+-
+specific linear time trends are 
+included on the right
+-
+hand side, estimates of the relationship between legalization and price are smaller and less 
+precise.  Nevertheless, they continue to show that legalization is associated wi
+th a statistically significant reduction 
+in the price of high
+-
+quality marijuana after 4 years. When the regressions
+ 
+are weighted by the number of 
+observations used to calculate median price but state
+-
+specific linear time trends are not included on the righ
+t
+-
+hand 
+side, estimates of relationship between legalization and price are almost identical to those reported in Tables 2A and 
+2B.
+  
+ 
+ 
+ 
+11
+ 
+Appendix Table 1 presents registry information by state.  Montana legalized medical marijuana in November 
+2004.  Two yea
+rs later, only 287 patients were registered; seven years later, 30,036 patients were registered.  The 
+  
+10
+ 
+ 
+specific linear time trends 
+produces no 
+evidence that legalization was systematically preceded by 
+changes in tastes or policies related to the market for high
+-
+quality marijuana. 
+ 
+Estimates of the relationship between legalization and the price of low
+-
+quali
+ty marijuana 
+are presented in Table 
+2
+B.  
+The majority of these estimates are negative.  However, with 
+two
+ 
+exception
+s,
+ 
+they 
+are 
+statistically insignificant
+.  G
+iven that much of the 
+medicinal 
+crop is grown 
+indoors under ultraviolet lights, an
+d that high
+-
+potency 
+and high
+-
+quality 
+strains such as 
+
+Northern 
+Lights
+
+ 
+and 
+
+Super Silver Haze
+
+ 
+are
+ 
+favored by medical marijuana cultivators
+, this imprecision 
+is not surprising
+.
+ 
+ 
+ 
+4. MEDICAL MARIJUNA LAWS AND TRAFFIC FATALITIES 
+ 
+The estimates discussed 
+above suggest that legalization leads to a substantial decrease in 
+the price of high
+-
+quality marijuana and, presumably, a correspondingly
+-
+large increase in 
+consumption.
+12
+  
+In this section, we test whether the impact of legalization extends to traffic 
+fatali
+ties.
+ 
+ 
+ 
+4.1. Data on traffic fatalities
+ 
+ 
+As noted above, we use
+ 
+data from 
+the 
+Fatal Accident Report System (FARS) 
+for the 
+period 1990
+-
+2010
+ 
+to
+ 
+examine the relationship between MMLs and traffic fatalities.  These data 
+                                        
+                                        
+                                        
+                                        
+                          
+ 
+number of registered patients in Colorado increased from 5,051 in January 2009 to 128,698 in June 2011.  Patient 
+numbers also appear to be growing rapidly
+ 
+in Arizona, which passed the Arizona Medical Marijuana Act on 
+November 2, 2010.  Eleven thousand one hundred and thirty
+-
+three patient applications had been approved as of 
+August 29, 2011; 40,463 patient applications had been approved by June 30, 2012.
+ 
+ 
+ 
+12
+ 
+If we assume, conservatively, that legalization has a negligible impact on demand, then the change in marijuana 
+consumption is equal to the elasticity of demand multiplied by the percent change in price.
+  
+Only a handful of papers 
+have estimated the price 
+elasticity of demand for marijuana.  Using data on UCLA undergraduates, Nisbet and Vakil 
+(1972) estimated a price elasticity of demand between 
+-
+1.01 and 
+-
+1.51; using data from Monitoring the Future on 
+high school seniors, Pacula et al. (2001) estimated a 3
+0
+-
+day participation elasticity between 
+-
+0.002 and 
+-
+0.69; using 
+data from the Harvard College Alcohol Study, Williams et al. (2004) estimated a 30
+-
+day participation elasticity of    
+-
+0.24.
+ 
+  
+11
+ 
+ 
+are collected by the National Highway 
+Traffic Safety Administration, and represent an annual 
+census
+ 
+of all fatal injuries suffered in motor vehicle accidents in the 
+United States.  
+I
+nformation 
+on the circumstances of each crash and the persons and vehicles involved 
+is obtained from a 
+variety o
+f sources
+, including
+ 
+police crash reports, driver licensing
+ 
+files, vehicle registration files, 
+state highway department data, emergency medical services records, medical examiner reports, 
+toxicology reports, and death certificates.  
+ 
+ 
+Table 
+3
+ 
+presents
+ 
+descriptive statistics and definitions for our outcome measures.  
+Fatalities Total
+st
+ 
+is equal
+ 
+to the number of traffic fatalities 
+per 100,000 
+population 
+of 
+state 
+s 
+in
+ 
+year 
+t
+.
+13
+  
+The 
+variables 
+Fatalities
+ 
+(BAC > 0)
+st
+ 
+and 
+Fatalities
+ 
+
+st
+ 
+allow us
+ 
+to examine 
+the effects of legalization 
+by alcohol involvement.  
+Fatalities
+ 
+(BAC > 0)
+st
+ 
+is equal
+ 
+to the number 
+of 
+traffic 
+fatalities
+ 
+per 100,000 
+population
+ 
+resulting from accidents 
+in which 
+at least one driver
+ 
+had 
+a positive 
+blood alcohol concentration
+.
+  
+Fatalities
+ 
+
+st
+ 
+is defined analogously, but 
+at least one driver had
+ 
+to have a blood alcohol 
+concentration 
+greater
+ 
+than or equal to 0.10.  
+Fatalities
+ 
+(No Alcohol)
+st
+ 
+is equal to the numbe
+r of fatalities
+ 
+per 
+100,000 population 
+in which
+ 
+alcohol invol
+vement was not 
+reported.
+14
+  
+A
+lcohol involvement
+ 
+is likely measured with error 
+(Eisenberg 
+2003), and 
+the 
+possibility
+ 
+exists
+ 
+that some states collected information on BAC levels 
+more diligently than others
+.
+15
+  
+Focusing on
+ 
+nighttime and weekend fatal crashes can provide 
+                                        
+                  
+ 
+ 
+13
+ 
+Population data come from the National Cancer Institute and are available at:  
+http://seer.cancer.gov/popdata/index.html
+.
+ 
+According to Eisenberg (2003), traffic fatalities in FARS are measured
+ 
+with
+ 
+little to no error.  We experimented with scaling traffic fatalities by the population of licensed drivers and by 
+the number of miles driven in state 
+s 
+and year 
+t 
+rather than by the state population.  These estimates, which are 
+similar in terms of magnitu
+de and precision to those presented below, are available upon request.
+ 
+ 
+14
+ 
+The numerator for 
+Fatalities (No Alcohol)
+st
+ 
+was determined from two sources in the FARS.  First, all drivers 
+involved had to have either registered a BAC = 0 or, if BAC information was missing, the police had to report that 
+alcohol was not involved.  
+ 
+ 
+15
+ 
+We also experimented with calculating the alc
+ohol
+-
+related fatality rates based on the imputed BAC levels 
+available in the FARS data.  These estimates, which are similar in terms of magnitude and precision to those 
+  
+1
+2
+ 
+ 
+additional insight into the role o
+f alcohol and help address the measurement error issue.
+  
+As 
+noted by Dee (1999), a substantial proportion of fatal crashes on weekends and at night 
+involve 
+alcohol.
+ 
+ 
+Accordi
+ng
+ 
+to state registry data, 7
+5 percen
+t of patients in 
+Arizona, and 69
+ 
+percent of 
+patients in Colorado, are male.  There is also evidence that many medical marijuana patients are 
+below the age of 40.  Forty
+-
+eight percent of registered patients in Montana, and 42 percent of 
+registered patients in Arizona, are between the ages
+ 
+of 18 and 40; the average age of regis
+tered 
+patients in Colorado is 40
+.
+16
+  
+To the extent that registered patients below the age of 40 are more 
+likely to use medical 
+marijuana recreationally, heterogeneous 
+eff
+ects across the age distribution
+ 
+might be expect
+ed
+.
+  
+ 
+Figure
+s
+ 
+1
+-
+3
+ 
+compare pre
+-
+ 
+and post
+-
+legalization traffic fatality trends by age group.  The 
+solid line represents the average traffic fatality rate for the treated states (those that legalized 
+medical marijuana).  The dashed line represents the average
+ 
+fatality rate for the control states 
+(those that did not legalize medical marijuana).  Year 0 on the horizontal axis represents the year 
+in which legalization took place.  Control states were randomly assigned a year of legalization 
+between 
+1996
+ 
+and 2010.  
+ 
+Among
+ 
+teenagers (ages 15 through 19), 
+young adults
+ 
+(ages 20 through 39) and older 
+adults (ages 40 and above)
+,
+ 
+average 
+traffic fatality rates
+ 
+in the treated states closely follow those 
+in the control states through year 
+-
+1.  This finding is imp
+ortant because it suggests that 
+legalization was not preceded by, for 
+instance, 
+new 
+anti
+-
+drunk driving
+ 
+policies, 
+increased 
+spending on law enforcement
+,
+ 
+or hig
+hway improvements.  
+In the years immediately
+ 
+after 
+                                        
+                                        
+                                        
+                                        
+                          
+ 
+presented below, are available upon request.  See Adams et al. (2012) for a discussion 
+of the BAC imputation 
+method.
+ 
+ 
+16
+ 
+Links to state registry data are available at:  
+http://norml.org/index.cfm?Group_ID=3391
+.  
+ 
+ 
+  
+13
+ 
+ 
+legalization
+, 
+average 
+t
+raffic fatality rates 
+in MML states 
+fall faster 
+than average traffic fatality 
+rates in 
+the 
+control states.
+  
+This divergence is most pronounced among 
+20 through 39 year olds
+.  
+Among teenagers and older adults, 
+average traffic 
+fatality 
+rates
+ 
+in MML states converge with 
+average tr
+affic fatality rates 
+in the control states 
+4 to 5 years after legalization
+.
+ 
+ 
+4.2. The empirical model
+ 
+ 
+ 
+To further 
+explore
+ 
+the relationship between legalization and traffic fatalities
+,
+ 
+we estimate 
+the following
+ 
+baseline equation
+:
+ 
+ 
+(2
+)
+ 
+ 
+ln(
+Fatalities Total
+st
+) =  
+
+0 
++ 
+
+1
+MML
+st
+ 
++ 
+X
+st
+
+2
+ 
++ 
+v
+s
+ 
++ 
+w
+t
+ 
++ 
+
+st
+,
+ 
+ 
+ 
+ 
+ 
+where 
+s
+ 
+indexes states and 
+t 
+indexes years.  
+T
+he coefficient of interest, 
+
+1
+, 
+represen
+ts the 
+effect of 
+legalizing medical marijuana.
+17
+  
+In alternative specifications we replace 
+Fatalities 
+Total
+st
+ 
+with
+ 
+the remaining 
+outcomes 
+listed in Table 
+3
+.
+ 
+The vector 
+X
+st 
+is composed of the controls described in Table
+ 
+4
+, and
+ 
+v
+s 
+and 
+w
+t
+ 
+are state 
+and year fixed effects, respectively.  Previous studies provide evidence that a variety of state
+-
+level policies can impact traffic fatalities.  For instance, graduated driver licensing regulations 
+and stricter seatbelt laws are associated with f
+ewer traffic fatalities (Cohen and Einav 2003; Dee 
+et al. 2005; 
+Freeman 2007; Carpenter and Stehr 2008).  Other studies have examined the effects 
+of speed limits (Ledolter and Chan 1996; Farmer et al. 1999; Greenstone 2002; Dee and Sela 
+2003), 
+administrati
+ve license revocation laws (Freeman 2007), 
+BAC laws
+ 
+(Dee 2001; Eisenberg 
+2003
+; Young and Bielinska
+-
+Kwapisz 2006; Freeman 2007
+),
+ 
+Zero Tolerance
+ 
+Laws (Carpenter 
+                                        
+                  
+ 
+17
+ 
+This specification is based on Dee (2001), who examined the relationshi
+p between BAC 0.08 laws and traffic 
+fatalities.
+ 
+  
+14
+ 
+ 
+2004; Liang and Huang 2008; Grant 2010)
+, and 
+cell
+phone bans (Kolko 2009)
+.  The relationship 
+betwe
+en
+ 
+beer taxes and traffic fatalities has also received 
+attention from economists (Chaloupka 
+et al. 1991; Ruhm 1996; Dee 1999; Young and Likens 2000; Young and Bielinska
+-
+Kwapisz 
+2006).
+18
+  
+In addition
+ 
+to these polices, we include
+ 
+mean age
+ 
+in state 
+s
+ 
+and year 
+t
+, the
+ 
+unemploymen
+t rate, real per capita income,
+ 
+vehicle miles driven per licensed driver, 
+and 
+indicator
+s
+ 
+for marijuana decriminalization
+ 
+and 
+whether 
+a drug per se law
+ 
+was in place
+.
+19
+ 
+  
+ 
+ 
+4.3. The 
+relationship between MMLs and traffic fatalities
+ 
+ 
+Table 
+5
+ 
+presents
+ 
+OLS estimates of the relationship between MMLs and traffic fatalities.  
+The regressions are weighted by the population 
+of 
+state 
+s
+ 
+in
+ 
+year 
+t
+, and the standard errors are 
+correc
+ted for clustering at the state 
+level (Bertrand et al. 2004).
+  
+The base
+line estimate
+, in column
+ 
+(1)
+,
+ 
+suggests that legalization leads to 
+a 10.4
+ 
+percent decrease in the fatality rate.
+20
+ 
+ 
+When
+ 
+we 
+include state
+-
+specific linear time trends, the estimate 
+of
+ 
+
+1
+ 
+retains its 
+magnitude
+ 
+but
+ 
+is no 
+longer 
+statistically 
+significant
+ 
+at conventional levels (p
+-
+value = 
+0.139
+).  
+ 
+                                        
+                  
+ 
+18
+ 
+Information on graduated driver licensing laws and seatbelt requirements is available from Dee et al. (2005), 
+Cohen and Einav (2003), and the Insurance Institute for Highway Safety (iihs.org).  Information on administrative 
+license revocation laws and BAC
+ 
+limits is available from Freeman (2007).  The FARS accident files were used to 
+construct the variable 
+Speed 70
+.  Data on beer taxes are from the 
+Brewers Almanac
+, an annual publication produced 
+by the Beer Institute.  Data on whether texting while driving 
+was banned and whether using a handheld cellphone 
+while driving was banned are from 
+www.handsfreeinfo.com
+. 
+ 
+ 
+19
+ 
+Mean age in state
+ 
+s 
+and year 
+t
+ 
+was calculated using 
+U.S. Census data
+.
+ 
+ 
+Information on vehicle
+ 
+miles 
+driven per 
+licensed driver is from 
+Highway Statistics
+, an annual publication produced by the U.S. Department of 
+Transportation.  We recognize that legalization of medical marijuana could have a direct impact on miles driven, but 
+follow previous research on
+ 
+traffic fatalities by including it as a control variable (Dills 2010; Eisenberg 2003; Young 
+and Likens 2000).  The unemployment and income data are from the Bureau of Labor Statistics and the Bureau of 
+Economic 
+Analysis, 
+respectively.  Data on decriminali
+zation laws are from Model (1993) and Scott (2010).  Data on 
+drug per se laws,
+ 
+which prohibit the operation of a motor vehicle with drugs (or drug metabolites) in the system,
+ 
+are
+ 
+from the National Highway Traffic Safety Administration (2010).
+ 
+ 
+ 
+20
+ 
+Controlling for ec
+onomic conditions and policies (
+such as whether a primary seatbelt law was in effect or whether 
+a state had a 0.08 
+BAC law) has only a small impact on our estimate of 
+
+1
+.  In fact, when the covariates listed in 
+Table 5 are excluded from t
+he regression, the estimated coefficient reported in the first column of Table 5 
+changes
+ 
+from 
+-
+0.110 to 
+-
+0.118.
+ 
+  
+15
+ 
+ 
+In columns (3)
+ 
+through (5
+), we lag the MML indicator
+.  
+T
+he MML lags are jointly 
+significant and 
+are, without exception, negative.  However, 
+there is evidence that the i
+mpact of 
+legalization
+ 
+eventually
+ 
+wanes.  
+The 
+first full 
+year after coming into effect, legalization is 
+associated with an 8 to 11 percent 
+reduction in the 
+fatality rate.
+21
+ 
+ 
+The estimated
+ 
+coefficients 
+increase in absolute magnitude until the fourth full year after legalization, when there is a 10 to 
+13 percent reduction in the fatality rate.  
+ 
+After 5 
+years
+, 
+the 
+reduction is
+ 
+between 
+4 
+and
+ 
+10 per
+cent 
+an
+d only significant when the 
+state
+-
+specific linear time trends are omitted
+.  
+In the final 
+column of 
+Table 5
+, 
+we add a series of
+ 
+MML leads to the model.  Consistent with the graphical evidence in 
+Figures 1
+-
+3, t
+he
+ir
+ 
+estimated coefficients 
+are small
+ 
+and jointly 
+insignificant.
+ 
+ 
+In Table 
+6
+, w
+e 
+replace
+ 
+Fatalities Total
+st
+ 
+with 
+Fatalities (No Alcohol)
+st
+,
+ 
+Fatalities
+ 
+(BAC > 
+0)
+st
+, 
+and 
+Fatalities
+ 
+
+st
+.
+  
+The results 
+suggest 
+that MMLs are related to traffic fatalities 
+through 
+the consumption of 
+alcohol
+.  The estimate of 
+
+1
+ 
+is negative when 
+fatalities
+ 
+not involving 
+alcohol are considered, but it is relatively small and statisticall
+y indistinguishable from zero.  
+In 
+contrast, the legalization of medical marijuana
+ 
+is ass
+ociated with a 13.2
+ 
+percent decrease in 
+fatal
+ities
+ 
+involving alcohol
+, 
+and a 15.5
+ 
+percent 
+decrease in fatal
+ities
+ 
+resulting from accidents in 
+which at least one driver
+ 
+had a BAC over 0.10
+.
+  
+Lagging the MML indicator produc
+es a similar 
+                                        
+                  
+ 
+21
+ 
+In comparison, Dee (1999) found that increasing the minimum legal drinking age (MLDA) to 21 reduced traffic 
+fatalities by at least 9 percent 
+a
+mong 18
+-
+ 
+through 20
+-
+year
+-
+olds. Kaestner and Yarnoff (2011) analyzed the long
+-
+term 
+effects of MLDA laws.  They found that raising the MLDA to 21 was associated with a 10 percent reduction in 
+traffic fatalities among adult males.
+ 
+Carpenter and Stehr (2008) f
+ound that mandatory seatbelt laws decreased traffic 
+fatalities among 14
+-
+ 
+through 18
+-
+year
+-
+olds by approximately 8 percent; Dee et al. (2005) found that graduated driver 
+licensing laws decreased traffic fatalities among 15
+-
+ 
+through 17
+-
+year
+-
+olds by nearly 6 p
+ercent.  Because all states 
+raised their MLDA to 21 prior to 1990, we do not include it as a control. However, our estimates suggest that 
+mandatory seatbelt laws decrease traffic fatalities among 15
+-
+ 
+through 19
+-
+year
+-
+olds by approximately 11 percent, and 
+gr
+aduated driver licensing laws decrease traffic fatalities among 15
+-
+ 
+through 19
+-
+year
+-
+olds by approximately 6 
+percent.  While the estimated relationship between 0.08 BAC laws and traffic fatalities is generally negative and 
+often large, it is never statistic
+ally significant at conventional levels.  This is consistent with the results of Young and 
+Bielinska
+-
+Kwapisz (2006) and Freeman (2007) who found little evidence that 0.08 BAC laws reduced traffic 
+fatalities. Finally, consistent with the results of Grant (2
+010), we find little evidence that Zero Tolerance laws reduce 
+traffic fatalities.
+ 
+ 
+  
+16
+ 
+ 
+pattern of 
+results
+: 
+ 
+t
+he MML lags
+ 
+jointly predict crashes involving alcohol, but are insignificant 
+in the 
+Fatalities
+ 
+(No Alcohol)
+st
+ 
+equation.
+22
+ 
+ 
+ 
+Table 
+7
+ 
+provides additional evidence 
+with regard to 
+the role 
+of 
+alcohol
+ 
+consumption
+.  T
+he 
+first two columns of Table 7
+ 
+show the relationship between MMLs and traffic fatalities occurring 
+on weekdays as compared to the weekend, when the consumption of alcohol rises (Haines et al. 
+2003).  Legal
+ization is associated 
+with an 8.0
+ 
+percent decrease
+ 
+in the weekday traffic fatalit
+y 
+rate; in comparison
+, it is associated with 
+a 10
+.9 
+percent decrease in the weekend traffic fatality 
+rate.  The former estimate is not significant at conventional levels, while the latter i
+s significant 
+at the 10 percent
+ 
+level.
+23
+ 
+ 
+ 
+The remaining 
+columns
+ 
+of Table 
+7
+ 
+show the relationship between MMLs and traffic 
+fatalities occurring during the day as compared to at night, when fatal crashes are more likely to 
+involve alcohol (Dee 1999).  Legal
+ization is associated with a 
+7.3
+ 
+percent decrease in the 
+daytime
+ 
+traffic fatality rate; in comparison
+, it is associated with an 11.0
+ 
+percent decrease in the 
+nighttime traffic fatality rate.  The former estimate is not significant at 
+conventional levels, while
+ 
+the l
+atter is significant at the 10 percent
+ 
+level.
+24
+ 
+Table 
+8
+ 
+presents estima
+tes of the relationship between MMLs and traffic fatalities by age. 
+A
+mong 
+15
+-
+ 
+through 19
+-
+year
+-
+olds
+, the estimate of 
+
+1 
+is negative, but is small in magnitude and 
+statistically insignificant.  
+However, l
+egalization is associated
+ 
+with a 16.7
+ 
+percent decrease in the 
+                                        
+                  
+ 
+22
+ 
+Restricting our attention to crashes in which at least one driver had a BAC greater than 0, legalization is 
+associated with a (statistically insignificant) 11.6 percent de
+crease in fatalities among drunk drivers (BAC > 0) and 
+their passengers.  This estimate is similar in magnitude to the estimate in column (3) of Table 6.  Nonetheless, we 
+find evidence of third
+-
+part
+y
+ 
+effects: 
+ 
+legalization is associated with a 23.4 percent
+ 
+reduction in fatalities among sober 
+drivers and their passengers, and a 19.9 percent reduction in fatalities among pedestrians, cyclists and individuals in 
+other types of non
+-
+motorized vehicles.
+ 
+23
+ 
+The hypothesis that these estimates are equal can be rejected at the 10 percent level
+.
+   
+ 
+ 
+24
+ 
+It should be noted, however, that we cannot formally reject the hypothesis that these estimates are equal.
+ 
+ 
+ 
+ 
+  
+17
+ 
+ 
+fatality rate of 20
+-
+ 
+through 29 year
+-
+olds, 
+and 
+a 
+16.1
+ 
+percent decrease in the fatality rate of 30
+-
+ 
+through 39
+-
+year
+-
+olds.  Although registry data indicate that many medical marijuana pa
+tients are 
+over the age of 
+40
+, estimates of 
+
+1
+ 
+are smaller and statistically insignificant among 40
+-
+ 
+through 
+49
+-
+year
+-
+olds, 50
+-
+ 
+through 59
+-
+year
+-
+olds, and 
+individuals over the age of 60.
+ 
+ 
+  
+Table 
+9
+ 
+presents estimates of the relationship between MMLs and traffic fatalities by 
+gender.  They provide some evidence that MMLs have a greater impact on fatalities among 
+males.  Specifically, legali
+zat
+ion is associated with a 
+10.8
+ 
+percent
+ 
+decrease in the male
+ 
+traffic 
+fatality rate as 
+compared to a 
+6.9
+ 
+percent decrease in the female fatality rate.
+  
+The former 
+estimate is significant at the 10 percent level, while the latter is not significant at conventional 
+levels.
+25
+  
+This pattern of results is con
+sistent with 
+registry data 
+show
+ing that
+ 
+the
+ 
+majority of 
+medical marijuana patients are male.
+26
+ 
+ 
+4.4
+. Tests of 
+Endogeneity
+ 
+ 
+U
+ntil this point
+ 
+in the analysis
+, we have addressed the possibility that legalization went 
+han
+d in hand with other 
+behaviors or policies 
+related to traffic fatalities by 
+employing 
+a rich set 
+of controls
+.  
+Table 10
+ 
+presents
+ 
+o
+u
+r attempts to tackle the endogeneity issue head on.  
+ 
+                                        
+                  
+ 
+25
+ 
+The hypothesis that these estimates 
+are equal can 
+be 
+rejected at the 5 p
+ercent level
+.  Appendix Tables 4A and 4B
+ 
+present estimates of 
+
+1
+ 
+by age and gender.  The estimated effect of legalization on traffic fatalities is largest among 
+20
+-
+ 
+through 29
+-
+year
+-
+old males and 30
+-
+ 
+through 39
+-
+year
+-
+old females.  There
+ 
+is evidence
+ 
+that legalization leads to 
+reduced traffic fatalities among males over the age of 59.
+ 
+ 
+26
+ 
+Roughly half of the states that have legalized medical marijuana permit collective cultivation, also known as 
+
+aska, Hawaii, Maine, New Jersey, New Mexico and Vermont limit 
+caregivers to one patient, prohibit collective cultivation by caregivers, or prohibit home cultivation altogether 
+(Appendix Table 2).  In these states, possession limits are easier to enforce, a
+nd illegal suppliers are easier to 
+identify (Selecky 2008).  Estimates available upon request suggest that the relationship between legalization and 
+traffic fatalities is strongest when collective cultivation is permitted. Although negative, the estimated 
+effect of 
+legalization on traffic fatalities is smaller and statistically insignificant among states that prohibit collective 
+cultivation.
+  
+ 
+  
+18
+ 
+ 
+First, we 
+ra
+n
+ 
+a se
+ries of
+ 
+regressio
+ns 
+in which placebo 
+MML
+s were
+ 
+randomly 
+assigned 
+to 
+control states
+.
+27
+ 
+ 
+Because 14
+ 
+states 
+and the District of Columbia 
+legalized medical 
+marijuana 
+during the period 1990
+ 
+through 2010
+, we 
+assign
+ed
+ 
+1
+5
+ 
+placebos 
+per trial
+.
+ 
+ 
+T
+he estimated 
+c
+oefficient of the placebo MML wa
+s
+ 
+negative and statistically significant at the 
+10 percent level 
+only 
+10
+ 
+times
+ 
+out of 300
+ 
+trials
+.  
+ 
+ 
+ 
+Next
+, 
+we 
+estimated 
+the relationship between MMLs
+ 
+and traffic fatalities in which 
+either 
+tire
+ 
+or wheel failure 
+was 
+cited 
+as a potential cause of the crash
+.  Although 
+road 
+improvements, 
+increased spending on road 
+maintenance
+, 
+and increased
+ 
+commercial vehicle inspections 
+could
+ 
+reduce 
+tire/wheel failure
+,
+ 
+we fou
+nd 
+litt
+le evidence of a relationship between legalization and 
+this 
+outcome.
+  
+In fact, the estimated coefficient of 
+the 
+MML
+ 
+indicator 
+was
+ 
+positive
+.
+ 
+ 
+ 
+W
+e 
+also
+ 
+examine
+d
+ 
+the relationship between MMLs and 
+three 
+vari
+ables that could 
+have 
+potentially 
+influence
+d
+ 
+traffic fatalities:
+ 
+per capita police expenditures, per capita highway law 
+enforcement expenditures, 
+and per capita 
+highway 
+service and 
+maintenance
+ 
+expenditures
+.
+28
+  
+Again, the results provide
+d
+ 
+little 
+evidence of policy endogeneity: 
+ 
+t
+he estimated coefficient of the 
+MML
+ 
+ind
+icator was
+ 
+small and insignificant in all three 
+of these 
+regressions
+.  
+ 
+Finally
+, 
+we examined whether 
+the 
+policy 
+variable
+s
+ 
+included in the vector 
+X
+st
+ 
+predict the 
+passage of MMLs
+.  
+The re
+sults
+ 
+are reported in Table 11.
+  
+I
+n column (2
+) of Table 11,
+ 
+we focus on 
+alcohol
+-
+related policies, such as the beer tax and whether
+ 
+a 0.08 BAC limit was in effect.
+ 
+ 
+In 
+column (3) we include marijuana decriminalization and 
+drug 
+per se la
+ws,
+ 
+which prohibit the 
+                                        
+                  
+ 
+27
+ 
+This approach is similar that of 
+Luallen (2006), who 
+examined the relationship between teacher strike days and 
+ju
+venile crime.  Assignment of the placebo MML was based on random numbers drawn from the uniform 
+distribution.
+  
+ 
+28
+ 
+The data on per capita police expenditures are from the Bureau of Justice Statistics.  The data on per capita 
+highway law enforcement expenditures and per capita highway service and maintenance expenditures are from 
+Highway Statistics
+, an annual publicati
+on produced by the U.S. Department of Transportation.  Data on police 
+expenditures are not available for the years 2001, 2003, and 2010; data on highway expenditures are not available 
+for the District of Columbia.
+ 
+  
+19
+ 
+ 
+operation of a motor vehicle with drugs (or drug metabolites)
+ 
+in the system
+.  
+Neither
+ 
+the alcohol
+-
+ 
+nor drug
+-
+related 
+policies predict the legalization of medical m
+arijuana.  
+However, when the full 
+set of policy variables is 
+included
+,
+ 
+we find evidence of a negative relationship between 
+banning 
+the use of handheld cell
+ 
+ph
+ones while
+ 
+driving and 
+the probability of legalizing medical marijuana
+ 
+(column 4)
+.  This result 
+raises t
+he 
+possibility that other, more 
+difficult
+-
+to
+-
+measure, polices 
+affecting traffic fatalities 
+may be related to legalization
+.
+   
+ 
+ 
+5. MEDICAL MARIJUNA LAWS AND 
+ALCOHOL CONSUMPTION
+ 
+ 
+5.1. Evidence from the BRFSS
+ 
+In this section, 
+we use 
+individual
+-
+level
+ 
+data from the Behavioral Risk Factor Surveillance 
+System (BRFSS) to examine the effects of MMLs on direct measures of alcohol consumption.  
+Begun in 1984 and a
+dministered
+ 
+by state health departments in collaboration with the Centers for 
+Disease Control, th
+
+population (18 years of 
+age or older). 
+ 
+In 
+1993
+,
+ 
+the 
+BR
+FSS 
+was expanded to include all 50 states.  
+As part of the core questionnaire, 
+BRFSS 
+respondents are 
+asked
+:
+ 
+ 
+1.
+ 
+Have you had any 
+beer, wine, wine coolers, cocktails, or liquor during the past          
+month?
+ 
+ 
+2.
+ 
+During the past month, how many days per week or per month did you drink any 
+alcoholic beverages, on the average?
+ 
+3.
+ 
+On days when you drink, about how many drinks do you drink on 
+average?
+ 
+ 
+Using the answers to 
+these questions, we constructed 
+a
+ 
+variety of 
+outcome variables
+, including
+: 
+Drank
+ 
+> 0
+, 
+an indicator for whether the respondent consumed alcohol in the past mont
+h; 
+30
+ 
++ 
+Drinks
+, an indicator for whether the respondent 
+had 30
+ 
+or more drinks in the past month
+; 
+6
+0
+ 
++
+ 
+Drinks
+, an indicator f
+or whether the respondent had 6
+0
+ 
+o
+r more drinks in the past month
+; 
+and
+ 
+  
+20
+ 
+ 
+Number of Drinks
+,
+ 
+equal to the number of drinks consumed in the past month conditional on 
+drinking.
+ 
+ 
+ 
+ 
+Table
+ 
+12
+ 
+present
+s
+ 
+estimates
+ 
+of the following equation
+ 
+by age group 
+for the period 1993
+-
+2010
+:
+ 
+ 
+(3
+)
+ 
+      
+Y
+is
+t
+ 
+= 
+
+0
+ 
++ 
+
+1
+MML
+is
+t
+ 
++ 
+X
+s
+t
+
+2
+ 
++ 
+Z
+ist
+
+3
+ 
++ 
+v
+s
+ 
++ 
+w
+t
+ 
++ 
+
+s 
+
+ 
+t 
+
+is
+t
+,
+ 
+ 
+where 
+Y
+ist
+ 
+measures 
+alcohol consumption
+,
+ 
+X
+st
+ 
+ 
+is a 
+vector of 
+state
+-
+level controls, 
+Z
+ist
+ 
+is a vector of 
+individual
+-
+level controls, 
+and 
+state
+-
+specific linear trends are represented by 
+
+s
+ 
+
+ 
+t
+.
+29
+  
+ 
+The estimates 
+in 
+Table 12
+ 
+offer
+ 
+additional 
+support for the hypothesis that 
+legalization 
+reduces traffic fatalities through
+ 
+its impact on alcohol consumption
+.  
+T
+hey are uniformly negative 
+and often statistically significant 
+at conventional levels.  Moreover, 
+t
+he relationship between 
+legalization 
+and alcohol consumption 
+appears to be 
+strongest among 
+young adults
+, the group for 
+whom the relationship between legalization and traffic fatalities was 
+strongest
+.  
+ 
+For instance, a
+mong
+ 
+20
+-
+ 
+through 29
+-
+year
+-
+olds
+, 
+legali
+zation is associated with a 5.3 
+percent 
+(.031/.589
+) reduction
+ 
+in the probability 
+of 
+having consumed
+ 
+alcohol
+ 
+in the past month,
+ 
+a 
+19.6 percent (.011/.056) reduction in the probability of having 
+consumed 60+ drinks
+, 
+and
+ 
+a 
+10.6 
+percent 
+(2.40/22.71
+) reduction in the 
+number of drinks consumed
+ 
+(
+conditional on having had at 
+least one 
+drink
+)
+.
+30
+  
+During the period
+ 
+1990
+-
+2010, 
+a
+lmost one fourth of 
+individu
+als killed in traffic
+ 
+                                        
+                  
+ 
+29
+ 
+The vector 
+X
+st
+ 
+includes per capita incom
+e, the state unemployment rate, the beer t
+ax, an indicator for whether a 
+Zero T
+olerance drunk driving law was in effect, and an indicator for whether a 0.08 BAC law was in effect.  The 
+vector 
+Z
+ist
+ 
+includes indicators for race, ethnicity, educational attain
+ment, marital status, employment status, and the 
+season in which the BRFSS interview took place.
+ 
+ 
+30
+ 
+Descriptive statistics for the drinking outcomes are presented
+ 
+in 
+Appendix Table 5.
+ 
+ 
+  
+21
+ 
+ 
+accidents, and more than one third of individuals killed in traffic accidents involving alcohol, 
+were
+ 
+between the ages of 20 and 
+29
+.
+31
+  
+ 
+BRFSS 
+respondents 
+are also asked 
+how many times in the 
+past month they binge drank, 
+defined as having
+ 
+5 or more alcoholic beverages on an occasion
+.
+32
+  
+The estimates 
+in Table 12
+ 
+suggest that 
+the 
+legalization of medical marijuana leads to sharp reducti
+ons in binge drinking, a 
+form of alcohol abuse 
+considered 
+to have 
+
+ 
+
+al. 
+2003, 
+p. 70). 
+ 
+Among 18
+-
+ 
+and 19
+-
+year
+-
+olds, legalization is associated with a 9.4 percent 
+(.018/.192) reduction in the probability of binge drinking in the past month; among 40
+-
+ 
+through 
+49
+-
+year
+-
+olds, legalization is associated with an 8.8 percent (.013/.147) reduction in this 
+probability.  
+A
+mong 20
+-
+ 
+through 29
+-
+year
+-
+olds, legalization is associated with 
+a 7.4 percent 
+(.012/.163) reduction in the probability of binge drinking at least twice in
+ 
+the past month
+.
+ 
+ 
+ 
+5.2. Evidence from 
+alcohol sales
+ 
+Information on alcohol sales 
+is collected by the Beer Institute and published annually in
+ 
+the 
+Brewers Almanac. 
+ 
+D
+ata on per
+-
+capita beer s
+ales (in gallons) are available 
+for the
+ 
+period 
+1990
+-
+2010. 
+ 
+Data on 
+per
+-
+capita wine and spirits sales (in gallons) are available for the period 
+1994
+-
+2010.
+ 
+ 
+We use t
+hese data 
+to 
+estimate the relationship between legalization 
+and alcohol 
+consumptio
+n
+ 
+at the state level
+.  
+ 
+                                        
+                  
+ 
+31
+ 
+Using data on 19
+-
+ 
+through 22
+-
+year
+-
+olds and a regression discontinuity design, Carpenter and Dobkin (2009) found 
+that reaching the minimum legal drinking age was associated with a 21 percent increase in the number of days on 
+which alcohol is consumed and a
+ 
+15 percent increase in traffic fatalities.  The implied elasticity from these estimates 
+is 0.71 (i.e., 0.15/0.21).  Restricting our sample to 19
+-
+ 
+through 22
+-
+year
+-
+olds, we find that the legalization of medical 
+marijuana is associated with a 15.0 percent de
+crease in drinks consumed (p
+-
+value = 0.17) and a 12.2 percent 
+decrease in traffic fatalities (p
+-
+value = 0.16), for an implied elasticity of 0.81 (i.e., 0.122/0.150).
+  
+ 
+ 
+32
+ 
+In 2006, the BRFSS began asking female respondents whether they had had 4 or more dri
+nks on an occasion.  
+Male respondents were asked whether they had had 5 or more drinks on an occasion throughout the period under 
+study (1993
+-
+2010).
+ 
+  
+22
+ 
+ 
+The results, presented in the top panel of Table 13, 
+are consistent with the hypothesis that 
+marijuana and 
+beer 
+are substitutes.  
+Specifically
+, legalization is associated with a
+n almost 5 
+percent 
+i
+ncrease in 
+the consumption of 
+beer, 
+the most popular beverage among 18
+-
+ 
+through 29
+-
+year
+-
+olds (Jones 2008)
+.
+33
+  
+Legalization is negatively related 
+to wine
+ 
+sales,
+ 
+and
+ 
+positively related 
+to
+ 
+spirit
+s
+ 
+sales
+, but
+ 
+the
+se
+ 
+estimates are not statistically si
+gnificant.
+  
+ 
+E
+stimates of the 
+relationship 
+between
+ 
+beer 
+consumption 
+and traffic fatalities 
+using 
+MML
+ 
+as an instrument
+ 
+are
+ 
+present
+ed in 
+the bottom panel of 
+Table 13.
+34
+ 
+ 
+A 
+10 percent
+ 
+increase in 
+per
+-
+capita 
+beer sales 
+is 
+asso
+c
+ia
+ted with 
+a 
+17 
+percen
+t
+ 
+increase in total fatalities
+.
+ 
+ 
+ 
+In comparison, using 
+alcohol excise taxes 
+as instruments, Young and Bielinska
+-
+Kwapisz (2006) found that a 10 
+percent increase in per
+-
+capita ethanol consumption led to an 11 percent increase in traffic 
+fatalities.  
+T
+he difference in these 
+estimates
+ 
+could 
+reflect 
+who, in effect, 
+is 
+being treated
+.  O
+ur 
+analysis of the BRFSS data suggests that the relationship between le
+galization 
+and alcohol 
+consumption i
+s strongest among young adults
+ 
+(
+a group 
+prone to heavy drinking and 
+responsible 
+for a disproportionate
+ 
+share of traffic fatalities
+), while 
+there is e
+vidence 
+that light and moderate 
+drinkers are more responsive to increases in the price of alcohol than heavy drinkers 
+(Manning et 
+al. 1995)
+.  
+A 10 percent increase in per
+-
+capita beer sales is associated 
+with a
+ 
+24
+ 
+percen
+t
+ 
+increase 
+in 
+fatalities
+ 
+involving alcohol
+ 
+and a 32 
+percent increase in fatalit
+ies resulting from accidents in 
+which at least one driver had a BAC greater than or equal to
+ 
+0.10
+.
+ 
+  
+ 
+ 
+ 
+                                        
+                  
+ 
+33
+ 
+These results help explain why t
+he California Beer &
+ 
+Beverage Distributors donated $10,000 to Public Safety 
+First, a committee organized to oppose a recent California initiative legalizing marijuana (Grim 2010). 
+ 
+ 
+34
+ 
+This empirical strategy is based on the assumption that legalization is related to traffic f
+atalities exclusively 
+through beer consumption. Because the first
+-
+stage F
+-
+statistic for the null hypothesis that legalization is unrelated to 
+beer consumption is less than 10, the standard proposed by Staiger and Stock (1997), the second
+-
+stage estimates 
+sh
+ould be interpreted cautiously.
+ 
+  
+23
+ 
+ 
+6. CONCLUSION
+ 
+ 
+To date, 
+17
+ 
+states
+ 
+and the District of Columbia have legalized medical marijuana.  
+Others are likely to follow.  A recent Gallup poll found that 70 percent of Americans are in favor 
+
+
+ 
+Despite intense public interest, medical
+ 
+marijuana laws
+ 
+have 
+received little attention
+ 
+fro
+m 
+researchers.  In fact, next to nothing is known about their impact on outcomes of interest to 
+policymakers, social
+ 
+scientists, advocates
+, and opponents.   
+ 
+The current study draws on data from a variety of sources to explore the effects of 
+legalizing
+ 
+medical marijuana.  Using information collected from back issues of
+ 
+High Times
+, a 
+monthly magazine that advocates for the legalization of 
+marijuana, we
+ 
+find that MMLs lead to a 
+substantial decrease in the price of 
+high
+-
+quality marijuana
+.  
+Using data from the Fatality Analysis 
+Reporting System
+ 
+(FARS) for the period 1990
+-
+2010
+, 
+we find 
+that tra
+ffic fatalities fall by 8
+ 
+to 11 
+percent 
+the first f
+ull 
+year after 
+legalization
+.  Although
+ 
+registry data from Arizona and Montana 
+suggest that more than half of medical marijuana patients are over the age of 40, the estimated 
+relationship between legalization and traffic fatalities is strongest among young 
+adults.  
+ 
+Why does legalizing medical marijuana reduce traffic fatalities?  Alcohol consumption 
+appears to play a key role. The legalization of medical ma
+rijuana is associated with 
+a 7.2
+ 
+percent 
+decrease in 
+traffic 
+fatal
+ities in which there was no reported
+ 
+alcohol involvement,
+ 
+but this estimate 
+is not statistically significant at conventional levels.  In comparison, the legalization of medical 
+marijua
+na is associated with a 13.2 percent decrease in fatalities in which at least one driver 
+involved had a posi
+tive BAC level.  
+ 
+  
+24
+ 
+ 
+The negative relationship between 
+the 
+legalization of medical marijuana and traffic 
+fatalities involving alcoh
+ol
+ 
+lends support
+ 
+to 
+the hypothesis that marijuana and alcohol are 
+substitutes.  In order to explore this hypothesis further, we 
+examine the relationship between 
+medical marijuana laws and alcohol 
+consumption.  We find 
+that 
+the
+ 
+legalization of medical 
+marijuana is associated with 
+reduced alcohol consumption
+,
+ 
+especially 
+among
+ 
+young adults
+.
+  
+ 
+Evidence 
+from simulator and driving c
+ourse studies 
+provides a potential 
+explanation for
+ 
+why 
+substituting marijuana for a
+lcohol 
+could lead
+ 
+to fewer traffic fatalities.  These studies show that 
+alcohol consumption leads to
+ 
+an increased risk of collision (Kelly et al. 2004; Sewell et al. 2009).  
+Even at low doses, drivers under the influence of alcohol tend to underestimate the degree to 
+
+on 
+1993; Sewell et al. 2009), drive at faster speeds, and take more risks (Burian et al. 2002; Ronen 
+et al. 2008; Sewell et al. 2009).  In contrast, simulator and driving course studies provide only 
+limited evidence that driving under the influence of mari
+juana leads to an increased risk of 
+collision, perhaps as a result of compensatory driver behavior (Kelly et al. 2004; Sewell et al. 
+2009).  
+ 
+However, because other mechanisms cannot be ruled out, the negative relationship 
+between medical marijuana 
+laws an
+d alcohol
+-
+related traffic fatalities 
+does not necessarily 
+imply 
+that driving under the influence of marijuana is safer than driving under the influence of alcohol.  
+For instance, i
+t is possible that legalizing medical marijuana reduces 
+traffic fatalities t
+h
+r
+ough its 
+effect on substance use in public.  Alcohol is often consumed in restaurants and bars, while many 
+states prohibit the use of medical marijuana in public.
+35
+ 
+ 
+Even where it is not explicitly 
+                                        
+                  
+ 
+35
+ 
+
+is prohibited; in Connecticut, the smoking of marijuana is 
+
+
+;
+ 
+
+
+
+  
+25
+ 
+ 
+prohibited, anecdotal evidence suggests 
+that 
+public use o
+f medical marijuana can be 
+controversial.
+36
+  
+If marijuana consumption typically takes place at home,
+ 
+then designating a 
+driver for the trip back 
+from a restaurant or bar becomes unnecessary, and legalization could 
+reduce traffic fatalities even if driving u
+nder the influence of marijuana is every bit as dangerous 
+as driving under the influence of alcohol.
+   
+ 
+ 
+ 
+Acknowledgements
+ 
+ 
+We would like 
+to thank
+ 
+Dean
+ 
+Anderson, 
+Brian Cadena, 
+Christopher Carpenter, 
+Chad 
+Cotti, 
+Scott Cunningham, Benjamin Crost, 
+Brian Duncan, 
+Andrew Friedson, 
+Darren Grant, Mike 
+Hanlon, Rosalie Pacula, Henri Pellerin, Claus P
+
+rtner, 
+Randy Rucker, 
+Doug Young and seminar 
+participants at 
+Clemson University, 
+Colorado State University
+, 
+Cornell University, 
+and the 
+2012 
+NBER 
+Spring Health Economics 
+Program 
+Meeting
+ 
+for comments and suggestions
+.
+ 
+ 
+ 
+7. REFERENCES
+ 
+ 
+
+ 
+
+Chicago Tribune.  
+18 August. Available at:  
+http://www.chicagotribune.com/health/la
+-
+he
+-
+marijuana
+-
+adams18
+-
+2008aug18,0,2023647.story
+. 
+ 
+ 
+
+Oregon Man Tests Whether Medical Marijuana Users Can Carry it in 
+
+EWTV.COM, March 16. Available at: 
+http://www.klewtv.com/news/87968832.html
+. 
+ 
+ 
+
+-
+ 
+ 
+
+Review of Economics and 
+ 
+ 
+Statistics
+.
+ 
+ 
+                                        
+                                        
+                                        
+                                        
+                          
+ 
+law p
+rohibits the use of medical marijuana in parks, schools, public beaches and correctional facilities, it does not 
+explicitly prohibit its use in other public places.
+ 
+ 
+ 
+36
+ 
+See, for instance, Whitnell (2008), Adams (2010), Moore (2010), and Ricker (2010).
+ 
+  
+26
+ 
+ 
+
+ 
+
+Examiner.  
+6 June.  Available at:  
+ 
+http://www.examiner.com/medical
+-
+marijuana
+-
+dispensaries
+-
+in
+-
+portland/oregon
+-
+s
+-
+workplaces
+-
+safest
+-
+ever
+-
+de
+spite
+-
+40
+-
+000
+-
+medical
+-
+marijuana
+-
+patients
+. 
+ 
+ 
+Bertrand, Marianne; 
+Duflo,
+ 
+Esther
+ 
+
+ 
+ 
+Trust Differences
+-
+in
+-
+Differences Estimates? 
+Quarterly Journal of Economics
+ 
+119: 249
+-
+ 
+ 
+276.
+ 
+ 
+
+
+Hamline 
+ 
+ 
+Journal of Public Law and Policy
+ 
+13: 117
+-
+135.
+ 
+ 
+
+ 
+
+Los Angeles Times.  
+1 July.  Available at:  
+http://articles.latimes.com/2010/jul/01/local/la
+-
+me
+-
+pot
+-
+shooting
+-
+20100701
+. 
+ 
+ 
+Burian, Scott; Liguori,
+ 
+Anthony
+ 
+
+-
+Taking
+ 
+ 
+
+Human Psychopharmacology
+ 
+17: 141
+-
+150.
+ 
+ 
+
+ 
+The Star Ledger
+, March 23. Available at: 
+http://www.nj.com/news/index.ssf/2012/03/medicial_marijuana_boss_gov_ch.html
+ 
+ 
+
+Journ
+al
+ 
+ 
+of Health Economics
+ 
+23:  61
+-
+83.
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+American Economic Journal: Applied Economics
+ 
+1: 164
+-
+182.
+ 
+ 
+
+ 
+ 
+Seatbelt Use, Motor Vehicle Fatalities, and Crash
+-
+
+ 
+ 
+Journal of Health Economics
+ 
+27: 642
+-
+662.
+ 
+ 
+Centers for Disease Control
+ 
+and Prevention. 2010. Web
+-
+based Injury Statistics Query and 
+ 
+ 
+Reporting System. Atlanta, GA: U.S. Department of Health and Human Services, CDC.
+ 
+ 
+Available at:  
+http://www.cdc.gov/injury/wisqars
+.
+ 
+ 
+Chaloupka
+, Frank; 
+Saffer,
+ 
+Henry
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Some Econometric Evidence
+
+Eastern Economic Journal
+ 
+23:  253
+-
+275.
+ 
+ 
+
+Billings 
+ 
+ 
+Gazette. 
+21 August.  Available at:  
+ 
+ 
+  
+27
+ 
+ 
+ 
+http://billingsgazette.com/article_873a0ad2
+-
+adaf
+-
+11df
+-
+8799
+-
+001cc4c002e0.html
+. 
+ 
+ 
+
+Driving
+ 
+ 
+
+Review of Economics and Statistics
+ 
+85: 828
+-
+843.
+ 
+ 
+Corry, Jessica; 
+Davis,
+ 
+Lauren; 
+Corry, Jr.,
+ 
+Robert
+ 
+
+ 
+ 
+
+Denver Post
+,
+ 
+19 December. Avai
+lable
+ 
+ 
+at:  
+http://www.denverpost.com/headlines/ci_14027740
+. 
+ 
+ 
+Crombie, Noelle
+.
+ 
+
+The 
+ 
+Oregonian
+.
+ 
+21 April
+.  Available at
+: 
+ 
+http://www.oregonlive.com/health/index.ssf/2012/04/cracks_in_oregons_medical_mari.ht
+ 
+ml
+.
+ 
+ 
+ 
+Crost, Benjamin and Santia
+go Guerrero. 2012
+
+f Alcohol Availability on 
+ 
+Marijuana Use:  Evidence from the Minimum Legal
+ 
+
+Journal of Health 
+Economics
+ 
+31
+: 
+112
+-
+121
+.
+ 
+ 
+Crost, B
+enjamin and Daniel I. 
+Rees.  Forthcoming
+
+The Minimum Legal Drinking Age and
+ 
+Marijuana Use: New Estimates from the 
+
+ 
+Journal of Health Economics
+.
+ 
+ 
+
+Journal of
+ 
+ 
+Public Economics 
+72: 289
+-
+315.
+ 
+ 
+
+Journal 
+ 
+ 
+of Policy Analysis and Management 
+20: 111
+-
+128.
+ 
+ 
+
+ 
+ 
+
+Economics Letters
+ 
+79: 401
+-
+408.
+ 
+ 
+
+ 
+ 
+
+Journal of Health Economics
+ 
+24: 571
+-
+589.
+ 
+ 
+Deitch, Robert. 2003. 
+Hemp 
+
+ 
+American History Revisited.  
+New York, NY: Algora 
+ 
+ 
+Publishing.
+ 
+ 
+ 
+D
+
+-
+Driving 
+ 
+ 
+
+Journal of Health Economics 
+29:  241
+-
+249.
+ 
+ 
+
+ 
+ 
+Unintended Consequences of
+ 
+
+Journal of Health Economics
+ 
+ 
+ 
+20:  991
+-
+1010.
+ 
+ 
+
+
+ 
+Congressional Research Service Report for Congress.  Available at:  
+http://www.fas.org/sgp/crs/misc/RL33211.pdf
+. 
+ 
+  
+28
+ 
+ 
+ 
+
+ 
+ 
+Journal of Policy Analysis and Management 
+22: 249
+-
+274.
+ 
+ 
+
+ 
+ 
+
+Accident Analysis and
+ 
+ 
+Prevention
+ 
+31: 537
+-
+543.
+ 
+ 
+Farrelly, Matthew; Bray, Jeremy; Zarkin, Gary; Wendling,
+ 
+Brett and Rosalie Pacula.  1999.  
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+Missoulian
+. 27 March. Available at:
+ 
+ 
+ 
+http://missoulian.com/news/local/article_fe14a69c
+-
+5833
+-
+11e0
+-
+9593
+-
+001cc4c002e0.html
+.
+ 
+ 
+ 
+
+ 
+ 
+
+Contemporary Economic Policy 
+25: 293
+-
+308.
+ 
+ 
+
+ 
+ 
+Contemporary Drug P
+roblems
+ 
+26: 237
+-
+288.
+ 
+ 
+
+ 
+ 
+
+International Journal of Drug Policy 
+18:160
+-
+167.
+ 
+ 
+
+Economic 
+Inquiry
+ 
+ 
+48: 756
+-
+770.
+ 
+ 
+
+ 
+ 
+65
+-
+
+Economic Inquiry
+ 
+40: 271
+-
+278.
+ 
+ 
+
+California Pot Initiative Opposed By Beer Industry
+
+The Huffington Post
+.  
+21 September.  Available at:  
+ 
+ 
+http://www.huffingtonpost.com/2010/09/21/this
+-
+buds
+-
+not
+-
+for
+-
+you
+-
+bee_n_732901.html
+.
+ 
+ 
+ 
+Haines, Pamela; 
+Hama, 
+Mary; 
+Guilkey,
+ 
+David
+ 
+and Barry M. Popkin. 2003. 
+
+Weekend 
+Eating in 
+the United States is Linked with Greate
+
+ 
+Obesity 
+Research
+ 
+11: 945
+
+949.
+ 
+Harper, Sam; 
+Strumpf
+, Erin
+ 
+
+
+Annals of Epidemiology
+ 
+22: 207
+-
+212
+.
+ 
+
+Less
+ 
+
+Los Angeles
+ 
+Times
+, 21 September. Available at: 
+ 
+http://articles.latimes.com/
+2011/sep/21/local/la
+-
+me
+-
+0928
+-
+marijuana
+-
+dispensaries
+-
+20110921
+.
+ 
+ 
+ 
+  
+29
+ 
+ 
+
+ 
+United States, 1975
+-
+
+ 
+Quarterly Journal of Economics 
+119: 1481
+-
+1512.
+ 
+ 
+Jacobson, Mireille
+; 
+Chang,
+ 
+Tom;
+ 
+Anderson,
+ 
+James; 
+MacDonald,
+ 
+John; 
+Bluthenthal,
+ 
+Ricky and
+ 
+Scott
+ 
+Ashwood. 2011. 
+
+: 
+An Overview with 
+
+ 
+ 
+
+Double
+-
+Digit Lead Over Wine as Favored
+ 
+
+  
+Gallup.  
+25 July.  Available at: 
+http://www.gallup.com/poll/109066/beer
+-
+back
+-
+doubledigit
+-
+lead
+-
+ov
+er
+-
+wine
+-
+favored
+-
+drink.aspx 
+ 
+ 
+ 
+
+ 
+ 
+
+Psychopharmacologia 
+18: 108
+-
+117.
+ 
+ 
+
+-
+Term Effects of Minimum Drinking Age
+ 
+ 
+Laws on
+ 
+
+Journal of Law and Economics
+ 
+54:
+ 
+ 
+365
+-
+388.
+ 
+ 
+
+ 
+ 
+
+Drug and Alcohol
+ 
+ 
+Review
+ 
+23: 319
+-
+344.
+ 
+ 
+
+-
+
+ 
+ 
+B.E. Journal of Economic Analysis and Policy (Contributions)
+ 
+9: 1
+-
+26.
+ 
+ 
+
+sed Teen 
+ 
+ 
+
+ 
+http://www.cdscenters.com/blog/2011/07/03/state
+-
+medical
+-
+marijuana
+-
+laws
+-
+have
+-
+not
+-
+increased
+-
+teen
+-
+marijuana
+-
+use/
+. 
+ 
+ 
+
+ 
+ 
+
+American 
+Statistician
+ 
+50:  79
+-
+85.
+ 
+ 
+
+ 
+Alcohol Use and Drinking and Driving Patterns
+ 
+
+Health 
+ 
+Economics
+ 
+17:  1261
+-
+1275.
+ 
+ 
+
+
+-
+Risk Y
+ouths and 
+ 
+Teac
+her Strikes
+
+ 
+Jo
+urnal of Urban Economics
+ 
+59: 75
+
+103
+.
+ 
+ 
+MacDonald, Scott; Mann, Robert; Chipman, Mary; Pakula, Basia; Erickson, Pat; Hathaway, 
+ 
+ 
+
+Behavior Under the Influence of Cannabis
+ 
+ 
+
+Traffic Injury Prevention
+ 
+9: 190
+-
+194.
+ 
+ 
+Manning, Willard; 
+Blumberg,
+ 
+Linda and Lawrence
+ 
+
+ 
+Alcohol:
+ 
+
+ 
+Journal of Health Economics 
+14: 
+123
+-
+1
+4
+8.
+ 
+ 
+  
+30
+ 
+ 
+
+ 
+ 
+
+Alcoholism:
+ 
+ 
+Clinical and Experimental Research
+ 
+32: 1329
+-
+1337.
+ 
+ 
+
+ 
+ 
+Available at: 
+http://www.mpp.org/legislation/state
+-
+by
+-
+state
+-
+medical
+-
+mariju
+ana
+-
+laws.html
+. 
+ 
+ 
+
+ 
+ 
+Users and Non
+-
+
+ 
+ 
+Psychopharmacology
+ 
+99:  397
+-
+401.
+ 
+ 
+
+
+Western Journal of Medicine 
+168: 540
+-
+543
+.
+ 
+ 
+McLaren, Jennifer; 
+Swift,
+ 
+Wendy; 
+Dillon,
+ 
+Paul 
+and Steve Allsop. 2008.
+ 
+
+ 
+
+Addiction
+ 
+103: 100
+-
+1109.
+ 
+ 
+
+Gallup
+, October 28. Available at: 
+ 
+ 
+http://www.gallup.com/poll/1
+44086/New
+-
+High
+-
+Americans
+-
+Support
+-
+Legalizing
+-
+Marijuana.aspx
+.
+ 
+ 
+ 
+ 
+Model
+
+ 
+ 
+Room Drug Episodes:  1975
+-
+
+Journal of the American Statistical Association 
+88:  
+ 
+ 
+737
+-
+747.
+ 
+ 
+Moore, 
+
+
+ 
+Missoulian.
+ 
+ 
+June 1. 
+ 
+Available at: 
+ 
+ 
+http://missoulian.com/news/local/articl
+e_540ae92c
+-
+6d38
+-
+11df
+-
+9db9
+-
+001cc4c03286.html
+.
+ 
+ 
+ 
+
+Prices Create a Panic in California
+
+All
+ 
+Things Considered
+.
+ 
+15 May
+. Available at:
+ 
+http://www.npr.org/templates/story/story.php?storyId=126806429&ps=rs
+. 
+ 
+ 
+Naimi, Timothy; 
+Brewer,
+ 
+Robert; 
+Mokdad,
+ 
+Ali; 
+Denny,
+ 
+Clark; 
+Serdula,
+ 
+Mary and James
+ 
+ 
+
+JAMA 
+289: 70
+-
+75.
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Nisbet, Charles
+ 
+
+e Estimat
+es of the Price and Expenditure
+ 
+
+Review of Economics 
+and Statistics
+ 
+54: 473
+-
+475.
+ 
+ 
+
+ 
+ 
+Journal of 
+Health Economics
+ 
+17:  557
+-
+585.
+ 
+ 
+  
+31
+ 
+ 
+
+ 
+ 
+
+Risky 
+ 
+ 
+Behavior among Youths:  An Economic Analysis.  
+Chicago, IL:  University of Chicago
+ 
+ 
+Press.
+ 
+ 
+Pacula, Rosalie; Chriqui, Jamie; 
+Reichmann,
+ 
+Deborah
+ 
+and Yvonne Terry
+-
+McElrath. 
+2002.
+ 
+ 
+
+ 
+ 
+Journal of Public Health Policy
+ 
+23: 413
+-
+439
+.
+ 
+ 
+
+ 
+ 
+
+B.E. Journal of Economic
+ 
+ 
+Analysis and Policy (Contributions)
+ 
+10:
+ 
+1
+-
+36.
+ 
+ 
+
+ 
+
+Bozeman Daily 
+Chronicle
+, August 25. Available at: 
+http://www.bozemandailychronicle.com/news/article_f6394d6c
+-
+afda
+-
+11df
+-
+ba34
+-
+001cc4c002e0.html
+ 
+ 
+
+ 
+ 
+Washington, D
+.C.: U.S. Department of Transportation, National Highway Traffic Safety 
+ 
+ 
+Administration.
+ 
+ 
+Ronen, Adi; Gershon, Pnina; Drobiner, Hana; Rabinovich, Alex; B
+ar
+-
+Hamburger, Rachel;  
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Accident Analysis and Prevention
+ 
+40: 926
+-
+934.
+ 
+ 
+
+Journal of 
+ 
+ 
+Health Economics
+ 
+15: 435
+-
+454.
+ 
+ 
+
+Economic Inquiry 
+ 
+ 
+37:  401
+-
+411.
+ 
+ 
+Scott, Emilee Mooney. 2010.
+ 
+
+ 
+ 
+Report. Available at: 
+http://www.cga.ct.gov/2010/rpt/2010
+-
+R
+-
+0204.htm
+. 
+ 
+ 
+Sewell, R. Andrew; Poling, James and Mehmet Sofuoglu. 200
+
+ 
+ 
+
+American Journal on Addictions 
+18:185
+-
+193.
+ 
+ 
+Selecky, Mary
+
+ 
+Washington
+ 
+ 
+State Department of Health, Publication Number 631
+-
+001.
+ 
+ 
+ 
+
+Stop the Drug War
+. 
+ 
+ 
+11 May. Available at:
+ 
+ 
+http://stopthedrugwar.org/topics/drug
+_war_issues/intersecting_issues/business?page=1
+.
+ 
+ 
+  
+32
+ 
+ 
+
+Stop the Drug
+ 
+ 
+War. 
+12 January. Available at:
+ 
+ 
+http://stopthedrugwar.org/chronicle/2012/jan/12/feds_threaten_colorado_medical_m
+.  
+ 
+ 
+Staiger
+, Douglas and James
+ 
+Stock
+
+ 
+Regression w
+ith Weak
+ 
+Instruments
+
+Econometrica 
+65: 557
+-
+586.
+ 
+
+San Francisco Chronicle.
+ 
+ 
+6 May.  Available at:  
+ 
+ 
+http://www.sfgate.com/health/article/Dispensing
+-
+medical
+-
+pot
+-
+a
+-
+challenge
+-
+for
+-
+doctors
+-
+ 
+3189737.php
+. 
+ 
+ 
+Toplikar
+
+
+The Las Vegas
+ 
+Sun Times
+.
+ 
+9 July. 
+Available at: 
+ 
+ 
+http://www.lasvegassun.com/news/2012/jul/09/medical
+-
+pot
+-
+issue
+-
+still
+-
+tangled
+-
+courts/
+.
+ 
+ 
+ 
+
+al Marijuana 
+ 
+ 
+
+Drug and 
+ 
+ 
+Alcohol Dependence
+ 
+118: 489
+-
+492.
+ 
+ 
+
+ 
+http://www.ccguide.org/chronol.php
+. 
+ 
+ 
+Wall
+,
+ 
+M
+elani;
+ 
+Poh
+,
+ 
+Ernest; 
+Cerdá M
+agdalena;
+ 
+Keye
+s, Katherine; Galea, Sandro, and
+ 
+ 
+
+Adolescent Marijuana Use
+ 
+from 2002 to 2008: Higher in States 
+ 
+with Medical Marij
+
+ 
+A
+nnals of Epidemiology
+ 
+21:
+ 
+714
+-
+ 
+716.
+ 
+ 
+Watson,
+ 
+Stanley; 
+Benson, Jr.,
+ 
+John
+ 
+
+ 
+ 
+
+Archives of General Psychiatry 
+57: 547
+-
+552.
+ 
+ 
+Wirfs
+-
+Brock, 
+Jordan
+;
+ 
+Seaton
+,
+ 
+Lauren
+ 
+
+Colorado Medical 
+Marijuana Surplus Leaks to Black M
+arket
+
+ 
+Boulder Daily Camera
+.
+ 
+31 July. 
+Available at:
+
+ 
+ 
+http://www.dailycamera.com/news/ci_15644376
+.
+ 
+ 
+ 
+
+
+The Burlington Post
+, February 10. 
+Available at:
+ 
+ 
+ 
+http://www.insidehalton.com/news/article/477905
+--
+human
+-
+rights
+-
+tribunal
+-
+of
+-
+ontario
+-
+to
+-
+decide
+-
+medical
+-
+marijuana
+-
+case
+. 
+ 
+ 
+Williams, Jenny; Pacula, Rosalie; Chaloupka, Frank and Henry Wechsler.  
+
+ 
+ 
+
+ 
+ 
+Health Economics
+ 
+13:  825
+-
+843.
+ 
+ 
+
+-
+Related
+ 
+ 
+Psychomotor Skills by Chroni
+
+Psychopharmacology
+ 
+160:  213
+-
+ 
+  
+33
+ 
+ 
+ 
+219.
+ 
+ 
+
+ 
+ 
+Alcohol Consumption and Marijuana Use: Evidence from a Regression Discontinuity 
+ 
+ 
+Design Using Exact Date
+ 
+
+Journal of Health Economics
+ 
+30:  740
+-
+753.
+ 
+ 
+
+ 
+ 
+International Review of Law and Economics 
+20: 107
+-
+126.
+ 
+ 
+Young, Douglas and Agnie
+szka Bielinska
+-
+Kwapisz. 2006. 
+
+ 
+ 
+
+Southern Economic Journal 
+72:
+ 
+690
+-
+703.
+ 
+  
+ 
+                      
+Table 1.  Medi
+cal Marijuana 
+Laws, 1990
+-
+2010
+ 
+ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Effective date
+ 
+ 
+ 
+Alaska
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 4, 1999
+ 
+California
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 6, 1996
+ 
+Colorado
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 1, 2001
+ 
+District of Columbia
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 27, 2010
+ 
+Hawaii
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 28, 2000
+ 
+Maine
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 
+22, 1999
+ 
+Michigan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 4, 2008
+ 
+Montana 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 2, 2004
+ 
+Nevada
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+October 1, 2001
+ 
+New Jersey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+October 1, 2010
+ 
+New Mexico
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 1, 2007
+ 
+Oregon
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 1998
+ 
+Rhode Island
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 3, 2006
+ 
+Vermont
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 1, 2004
+ 
+Washington
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 3, 1998
+ 
+ 
+Note:  
+Medical marijuana laws came into effect in 
+Arizona, Connecticut
+ 
+and Delaware after 2010.
+  
+ 
+Table 2
+A
+.  Medical Marijuana Laws and the Price of High
+-
+Quality Marijuana, 1990
+-
+2011
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+(1)
+ 
+ 
+ 
+   
+(2)
+ 
+ 
+ 
+   
+(3)
+ 
+ 
+ 
+   
+(4)
+ 
+ 
+  
+ 
+   
+(5)
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+ 
+-
+0.304***
+ 
+ 
+-
+0.103*
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.037)
+ 
+ 
+ 
+(0.058)
+ 
+ 
+ 
+ 
+ 
+ 
+3 years before MML
+ 
+ 
+   
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+0.022
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.074)
+ 
+2 years before MML
+ 
+ 
+   
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+ 
+0.003
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.075)
+ 
+1 year before MML
+ 
+ 
+   
+ 
+   
+
+ 
+ 
+  
+ 
+   
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+-
+0.037
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.076)
+ 
+Year of law change
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+-
+0.117*
+ 
+ 
+ 
+-
+0.059
+ 
+ 
+ 
+-
+0.060
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.061)
+ 
+ 
+ 
+(0.069)
+ 
+ 
+ 
+(0.096)
+ 
+1 year after MML
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+-
+0.156***
+ 
+ 
+-
+0.082
+ 
+ 
+ 
+-
+0.084
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.044)
+ 
+ 
+ 
+(0.070)
+ 
+ 
+ 
+(0.097)
+ 
+2 years after MML 
+ 
+ 
+ 
+  
+ 
+ 
+  
+
+ 
+ 
+   
+ 
+   
+
+ 
+ 
+ 
+-
+0.203***
+ 
+ 
+-
+0.110
+ 
+ 
+ 
+-
+0.113
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.074)
+ 
+ 
+ 
+(0.082)
+ 
+ 
+ 
+(0.120)
+ 
+3 years after MML
+ 
+ 
+  
+ 
+       
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+-
+0.211***
+ 
+ 
+-
+0.128
+ 
+ 
+ 
+-
+0.130
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.062)
+ 
+ 
+ 
+(0.084)
+ 
+ 
+ 
+(0.118)
+ 
+4 years after MML
+ 
+ 
+  
+ 
+       
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+-
+0.387***
+ 
+ 
+-
+0.283**
+ 
+ 
+-
+0.286**
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.123)
+ 
+ 
+ 
+(0.115)
+ 
+ 
+ 
+(0.125)
+ 
+5+ years after MML
+ 
+ 
+ 
+  
+ 
+   
+
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+-
+0.439***
+ 
+ 
+-
+0.257**
+ 
+ 
+-
+0.262*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.048)
+ 
+ 
+ 
+(
+0.116)
+ 
+ 
+ 
+(0.145)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+920
+ 
+ 
+ 
+ 
+920
+ 
+ 
+ 
+ 
+920
+ 
+ 
+ 
+ 
+920
+ 
+ 
+ 
+ 
+920
+ 
+ 
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.224
+ 
+ 
+ 
+0.310
+ 
+ 
+ 
+0.241
+ 
+ 
+ 
+0.315
+ 
+ 
+ 
+0.315
+ 
+ 
+ 
+ 
+Year FEs
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+State FEs 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+State covariates 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+State
+-
+specific trends 
+ 
+ 
+No
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+No
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*S
+tatistically 
+significant at 10% level; **at 5% level; ***
+at 1% level.
+ 
+ 
+Notes:  Each column represents the results from a 
+separate regression.  The dependent variable is equal to the natural 
+l
+og of the median price of marijuana in state 
+s
+ 
+and year 
+t
+.  The 
+covariates are listed in Appendix Table 3
+.  Standard 
+errors, corrected for clustering at the state level, are in parentheses.
+  
+ 
+ 
+ 
+ 
+  
+ 
+Table 2
+B
+.  Medical Marijuana Laws and the Price of
+ 
+Low
+-
+Quality Marijuana, 1990
+-
+2011
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1)
+ 
+ 
+ 
+ 
+(2)
+ 
+ 
+ 
+ 
+(3)
+ 
+ 
+ 
+ 
+(4)
+ 
+ 
+ 
+ 
+(5)
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+ 
+-
+0.096
+ 
+ 
+ 
+-
+0.075
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.105)
+ 
+ 
+ 
+(0.150)
+ 
+ 
+ 
+ 
+ 
+ 
+3 years before MML
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+   
+ 
+  
+
+ 
+ 
+  
+ 
+   
+ 
+  
+
+ 
+ 
+ 
+ 
+0.135
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.197)
+ 
+2 years
+ 
+before MML
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+   
+ 
+  
+
+ 
+ 
+ 
+   
+ 
+  
+
+ 
+ 
+ 
+ 
+0.103
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.108)
+ 
+1 year before MML
+ 
+ 
+ 
+  
+
+ 
+ 
+    
+ 
+ 
+  
+
+ 
+ 
+ 
+   
+ 
+  
+
+ 
+ 
+ 
+   
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.088
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.200)
+ 
+Year of law change
+ 
+ 
+   
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.035
+ 
+ 
+ 
+-
+0.056
+ 
+ 
+ 
+-
+0.013
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.154)
+ 
+ 
+ 
+(0.193)
+ 
+ 
+ 
+(0.196)
+ 
+1 year after MML
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.250*
+ 
+ 
+ 
+-
+0.182
+ 
+ 
+ 
+-
+0.106
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.146)
+ 
+ 
+ 
+(0.176)
+ 
+ 
+ 
+(0.136)
+ 
+2 years after MML
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.058
+ 
+ 
+ 
+-
+0.016
+ 
+ 
+ 
+ 
+0.053
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.176)
+ 
+ 
+ 
+(0.190)
+ 
+ 
+ 
+(0.166)
+ 
+3 years after MML
+ 
+ 
+   
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.244**
+ 
+ 
+-
+0.114
+ 
+ 
+ 
+-
+0.028
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.098)
+ 
+ 
+ 
+(0.141)
+ 
+ 
+ 
+(0.138)
+ 
+4 years after MML
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+0.032
+ 
+ 
+ 
+ 
+0.046
+ 
+ 
+ 
+ 
+0.131
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.403)
+ 
+ 
+ 
+(0.373)
+ 
+ 
+ 
+(0.429)
+ 
+5
++ years after MML
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.038
+ 
+ 
+ 
+ 
+0.271  
+ 
+ 
+ 
+ 
+0.370
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.073)
+ 
+ 
+ 
+(0.335)
+ 
+ 
+ 
+(0.267)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+483
+ 
+ 
+ 
+ 
+483
+ 
+ 
+ 
+ 
+483
+ 
+ 
+ 
+ 
+483
+ 
+ 
+ 
+ 
+483
+ 
+ 
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.720
+ 
+ 
+ 
+0.748
+ 
+ 
+ 
+0.723
+ 
+ 
+ 
+0.751
+ 
+ 
+ 
+0.753
+ 
+ 
+ 
+ 
+Year FEs
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+State FEs 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+State covariates 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+State
+-
+specific trends 
+ 
+ 
+No
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+No
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*S
+tatisticall
+y significant at 10% level; **at 5% level; ***
+at 1% level.
+ 
+ 
+Notes:  Each column represents the results from a 
+separate regression.  The dependent variable is e
+qual to the natural 
+log of the median price of marijuana in state 
+s
+ 
+and year 
+t
+.  The covariates are listed in 
+Appendix Table 3
+.  Standard 
+errors, corrected for clustering at the state level, are in parentheses.
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Table 3
+.  Descriptive 
+Statistics for FARS Analysis (Dependent Variables)
+ 
+ 
+ 
+ 
+Variable
+ 
+ 
+  
+Mean (SD)
+ 
+ 
+                  
+Description
+ 
+ 
+ 
+ 
+ 
+Fatalities Total
+             
+14.58 (5.05
+)
+ 
+            
+Number of fatalities per 100
+,000 population
+                                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities    
+                  
+ 
+9.67 (3.45
+)            
+ 
+Number of fatalities
+ 
+per 100,000 population 
+with no 
+(No Alcohol)
+                                                   
+indication of alcohol involvement
+ 
+ 
+Fatalities
+ 
+             
+ 
+3.97 (1.74
+)
+ 
+ 
+Number of 
+f
+atalities 
+per 100,000 population 
+where 
+(
+BAC > 0)
+ 
+ 
+ 
+ 
+ 
+at least one driver 
+involved had a BAC > 0.00
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities
+ 
+              
+3.13 (1.43
+)
+ 
+ 
+Number of 
+fatalities 
+per 100,000 population 
+where 
+
+ 
+ 
+ 
+ 
+ 
+at least one driver 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                               
+ 
+Variable
+ 
+ 
+  
+Mean (SD)
+ 
+ 
+                  
+Denominator
+ 
+ 
+ 
+ 
+ 
+Fatalities, 
+ 
+ 
+ 
+24.55 (9.75
+)
+ 
+ 
+per 100,000 15
+-
+ 
+through 19
+-
+year
+-
+olds    
+ 
+15
+-
+19 year
+-
+olds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities,
+ 
+             
+23.59 (8.41
+)
+ 
+      
+   
+ 
+per 100,000 20
+-
+ 
+through 29
+-
+year
+-
+olds
+ 
+20
+-
+29 year
+-
+olds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities,
+                     
+15.45 (6.49
+)             
+ 
+per 100,000 30
+-
+ 
+through 39
+-
+year
+-
+olds
+ 
+30
+-
+39 year
+-
+olds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities
+,                     
+14.00
+ 
+(5.63)             
+ 
+per 100,000 4
+0
+-
+ 
+through 49
+-
+year
+-
+olds
+ 
+40
+-
+49 year
+-
+olds
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities,
+            
+ 
+ 
+13.22 (4.93
+)             
+ 
+per 100,000 50
+-
+ 
+through 59
+-
+year
+-
+olds
+ 
+50
+-
+59 year
+-
+olds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities,
+                     
+17.39 (5.28
+)
+ 
+           
+ 
+per 100,000 60
+-
+year
+-
+olds and above
+ 
+60 plus                                                             
+ 
+ 
+Fatalities males
+ 
+ 
+20.48 (7.15
+)
+ 
+ 
+per 100,000 males
+ 
+                                                                      
+ 
+Fatalities females 
+ 
+  
+9.03 (3.29
+)                
+ 
+per 100,000 fem
+ales
+ 
+                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities weekday
+s
+ 
+  
+8.32 (2.88
+)
+ 
+ 
+per 100,000 
+population
+ 
+ 
+ 
+ 
+Fatalities weekend
+s
+ 
+ 
+ 
+6.22 (2.25)
+ 
+ 
+per 100,000 population
+ 
+ 
+Fatalities day
+time
+ 
+ 
+ 
+7
+.
+04 (2.59)
+ 
+ 
+per 100,000 population
+ 
+ 
+Fatalities night
+time
+ 
+  
+7.42 (2
+.6
+0)
+ 
+ 
+per 100,000 population
+ 
+ 
+ 
+ 
+ 
+Note:  Weighted means based on the FARS
+ 
+state
+-
+level panel for 1990
+-
+2010
+. 
+ 
+ 
+ 
+  
+ 
+ 
+Table 4
+.  Descriptive Statistics for FARS Analysis (Independent Variables)
+ 
+ 
+ 
+ 
+Variable
+ 
+ 
+Mean (SD)
+ 
+ 
+Description
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MML
+a
+ 
+ 
+ 
+0.130 (0.334
+)
+ 
+ 
+= 1 if a st
+ate had a medical marijuana law in a given
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+year, = 0 otherwise
+ 
+Mean age
+ 
+ 
+35.90 (1.66)
+ 
+ 
+Mean age of the state population
+ 
+ 
+Unemployment 
+ 
+5.87 (1.87
+)
+ 
+ 
+State unemployment rate
+ 
+Income
+ 
+ 
+ 
+10.27 (0.156
+)
+ 
+ 
+Natural logarithm of state real income per capita 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2000 dollars)
+ 
+Miles driven
+ 
+ 
+14.13
+ 
+(2.05)
+ 
+ 
+Vehicle miles driven per licensed driver
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(thousands of miles)
+ 
+Decriminalized
+a
+ 
+0.330 (0.470
+)
+ 
+ 
+= 1 if a state had a marijuana decriminalization law 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in a given year, = 0 otherwise
+ 
+Drug per se
+ 
+ 
+0.142 (
+0.345)
+ 
+ 
+= 1 if a state had a drug per se law in a given year, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 0 otherwise
+ 
+GDL
+a
+ 
+ 
+ 
+0.522
+ 
+(0.493)
+ 
+ 
+= 1 if a state had a graduated driver licensing law 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+with an intermediate phase in a given year, = 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+otherwise
+ 
+Primary seatbelt
+a
+ 
+0.461 (0.4
+94
+)
+ 
+ 
+= 1 if a state had a primary seatbelt law in a given
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+year, = 0 otherwise
+ 
+Secondary seatbelt
+a
+ 
+0.518 (0.494
+)
+ 
+ 
+= 1 if a state had a secondary seatbelt law in a given
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+year, = 0 otherwise
+ 
+BAC 0.08
+a
+ 
+ 
+0.584 (0.485
+)
+ 
+ 
+= 1 if a state had a .08 BAC l
+aw in a given year, = 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+otherwise
+ 
+ALR
+a
+ 
+ 
+ 
+0.721
+ 
+(
+0.445
+)
+ 
+ 
+= 1 if a state had an administrative license 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+revocation law in a given year, = 0 otherwise
+ 
+Zero Tolerance
+a
+ 
+0.763 (0.417
+)
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+driving law in
+ 
+a given year, = 0 otherwise
+ 
+Beer tax
+ 
+ 
+0.245 (0.207
+)
+ 
+ 
+Real beer tax (2000 dollars)
+ 
+Speed 70
+ 
+ 
+0.462 (0.499
+)
+ 
+ 
+= 1 if a state had a speed limit of 70 mph or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+greater in a given year, = 0 otherwise
+ 
+ 
+ 
+ 
+Texting ban
+ 
+ 
+0.041 (0.185)
+ 
+ 
+= 1 if a state had a cell
+ 
+phone texting ban in a given
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+year, = 0 otherwise
+ 
+Hands Free
+ 
+ 
+0.025 (0.150)
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+given year, = 0 otherwise
+ 
+ 
+ 
+ 
+ 
+a
+T
+akes on 
+fractional values for
+ 
+the years in
+ 
+which laws changed.  
+ 
+ 
+Note:  Weighted 
+using state populations
+.
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Table 5
+.  
+Medical Marijuana Laws and Traffic Fatalities
+, 1990
+-
+2010
+__________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+(1)             
+ 
+    
+(2)                 
+ 
+(3)                    (4)                 
+ 
+ 
+(5)
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+     
+Fatalities 
+ 
+  
+   
+Fatalities 
+ 
+ 
+   
+Fatalities  
+ 
+  
+   
+Fatalities  
+ 
+  
+  
+Fatalities  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total
+ 
+ 
+ 
+ 
+Total
+ 
+ 
+      
+Total
+ 
+ 
+ 
+ 
+Total
+ 
+ 
+     
+ 
+Total
+ 
+ 
+     
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+ 
+-
+0.110***
+ 
+ 
+-
+0.098
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.030)
+ 
+     
+ 
+ 
+(0.065)
+ 
+ 
+ 
+ 
+ 
+ 
+3 years before
+ 
+MML
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+   
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.004
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.018)
+ 
+2 years before MML
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.001
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.030)
+ 
+1 year before MML
+ 
+ 
+  
+ 
+  
+
+ 
+ 
+  
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.024)
+ 
+Year of law change
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.049**
+ 
+ 
+ 
+-
+0.026
+ 
+ 
+ 
+-
+0.029
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.023)
+ 
+ 
+ 
+(0.029)
+ 
+ 
+ 
+(0.028)
+ 
+1 year after MML
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.115***
+ 
+ 
+-
+0.087*
+ 
+ 
+ 
+-
+0.090*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.036)
+ 
+ 
+ 
+(0.051)
+ 
+ 
+ 
+(0.048)
+ 
+2 years after MML 
+ 
+ 
+  
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.125**
+ 
+ 
+ 
+-
+0.095
+ 
+ 
+ 
+-
+0.099
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.059)
+ 
+ 
+ 
+(0.080)
+ 
+ 
+ 
+(0.074)
+ 
+3 years after MML
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.137***
+ 
+ 
+-
+0.107
+ 
+ 
+ 
+-
+0.111*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.051)
+ 
+ 
+ 
+(0.071)
+ 
+ 
+ 
+(0.065)
+ 
+4 years after MML
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.138***
+ 
+ 
+-
+0.108*
+ 
+ 
+ 
+-
+0.112*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.038)
+ 
+ 
+ 
+(0.063)
+ 
+ 
+ 
+(0.058)
+ 
+5
++ years after MML
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+-
+0.102***
+ 
+ 
+-
+0.042
+ 
+ 
+ 
+-
+0.047
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.026)
+ 
+ 
+ 
+(0.062)
+ 
+ 
+ 
+(0.059)
+ 
+ 
+p
+-
+value: joint significance of lags
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.000***
+ 
+ 
+0.089
+*
+ 
+ 
+ 
+0.060*
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.969
+ 
+ 
+ 
+0.
+979
+ 
+ 
+ 
+0.969
+ 
+ 
+ 
+0.979
+ 
+ 
+ 
+0.979
+ 
+ 
+ 
+ 
+Year FEs
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+State FEs
+ 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+State covariates 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+State
+-
+specific trends 
+ 
+ 
+ 
+No
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+No
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*S
+tatisticall
+y
+ 
+significant at 10% level; **at 5% level; ***
+at 1% level.
+ 
+ 
+Notes:  Each column represents the results from a separate regression.  The dependent variable is equal to the natural 
+log of total fatalities per 100,000 popula
+tion and
+ 
+the 
+covariates are listed i
+n Table 4
+.  Regressions
+ 
+are weighted using 
+state populations.  Standard errors, corrected for clustering at the state level, are in parentheses.
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+Table 6
+.  
+Medical Marijuana Laws and Traffic Fatalities
+: The Role of Alcohol
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+(1) 
+ 
+ 
+     
+(2)                   (3)                   (4)                   (5)                    (6)
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities
+ 
+Fatalities
+ 
+Fatalities
+ 
+ 
+Fatalities
+ 
+Fatalities
+ 
+Fatalities
+ 
+                       
+ 
+    
+ 
+   
+ 
+         
+No Alcohol
+    
+  
+No Alcohol
+    
+     
+BAC > 0
+       
+  
+ 
+BAC > 0
+  
+    
+ 
+BAC 
+
+ 
+0.10
+  
+    
+BAC 
+
+ 
+0.10
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+-
+0.075
+ 
+ 
+   
+
+ 
+-
+0.1
+4
+1
+*
+ 
+   
+
+ 
+ 
+-
+0.16
+8
+*
+*
+ 
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+(0.062
+)
+ 
+ 
+ 
+ 
+(0.077)
+ 
+ 
+ 
+ 
+(0.082
+)
+ 
+Y
+ear of law change
+ 
+ 
+ 
+   
+
+ 
+ 
+-
+0.026
+ 
+ 
+   
+
+ 
+ 
+ 
+-
+0.011
+ 
+ 
+   
+
+ 
+ 
+-
+0.041
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.031)
+ 
+ 
+ 
+ 
+(0.040
+)
+ 
+ 
+ 
+ 
+(0.051
+)
+ 
+1 year after MML
+ 
+ 
+ 
+   
+
+ 
+ 
+-
+0.071
+ 
+ 
+   
+
+ 
+ 
+-
+0.103
+ 
+ 
+   
+
+ 
+ 
+-
+0.124
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.047
+)
+ 
+ 
+ 
+ 
+(0.068)
+ 
+ 
+ 
+ 
+(0.086
+)
+ 
+2 years after MML
+ 
+ 
+ 
+   
+
+ 
+ 
+-
+0.085
+ 
+ 
+   
+
+ 
+ 
+-
+0.091
+ 
+ 
+   
+
+ 
+ 
+-
+0.11
+7
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.079)
+ 
+ 
+ 
+ 
+(0.083
+)
+ 
+ 
+ 
+ 
+(0.081)
+ 
+3 years after MML
+ 
+ 
+ 
+   
+
+ 
+ 
+-
+0.065
+ 
+ 
+   
+
+ 
+ 
+-
+0.237
+***
+ 
+   
+
+ 
+ 
+-
+0.292
+***
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.077)
+ 
+ 
+ 
+ 
+(0.083
+)
+ 
+ 
+ 
+ 
+(0.100
+)
+ 
+4 years after 
+MML
+ 
+ 
+ 
+   
+
+ 
+ 
+-
+0.076
+ 
+ 
+   
+
+ 
+ 
+-
+0.223
+**
+ 
+   
+
+ 
+ 
+-
+0.256
+**
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.063)
+ 
+ 
+ 
+ 
+(0.092
+)
+ 
+ 
+ 
+ 
+(0.10
+5
+)
+ 
+5
++ years after MML
+ 
+ 
+ 
+   
+
+ 
+ 
+-
+0.024
+ 
+ 
+   
+
+ 
+ 
+-
+0.138*
+ 
+   
+
+ 
+ 
+-
+0.197*
+*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.062)
+ 
+ 
+ 
+ 
+(0.081
+)
+ 
+ 
+ 
+ 
+(0.090
+)
+ 
+ 
+p
+-
+value: joi
+nt significance of lags 
+ 
+ 
+ 
+0.244
+ 
+ 
+ 
+ 
+0.002
+***
+ 
+ 
+ 
+0.082
+*
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+1071
+ 
+ 
+1071
+ 
+ 
+1071
+ 
+ 
+1071
+ 
+ 
+1071
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+0.964
+ 
+ 
+0.964
+ 
+ 
+0.905
+ 
+ 
+0.906
+ 
+ 
+0.906
+ 
+ 
+0.
+906
+ 
+ 
+Year FE
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+State FE
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+Covariates
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+State
+-
+specific trends
+ 
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*
+S
+tatistically significant at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  Each column represents the results from a separate regression.  The dependent variable is equa
+l to the natu
+ral log of fatalities
+ 
+per 100,000 population and 
+the covariates are 
+listed in Table 4
+.  Re
+gressions are weighted using
+ 
+state populations.  Standard errors, corrected for clustering at the state level, are in 
+parentheses.
+ 
+  
+ 
+                
+Table 7
+.  
+Medical Marijuana Laws and 
+Traffic Fatalities
+ 
+by Day and Time
+ 
+ 
+ 
+      
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fatalities
+ 
+ 
+ 
+Fatalities
+ 
+ 
+ 
+Fatalities
+ 
+ 
+ 
+Fatalities
+ 
+  
+ 
+ 
+ 
+                  
+    
+ 
+ 
+weekdays
+ 
+   
+ 
+ 
+weekend    
+ 
+ 
+ 
+ 
+daytime     
+ 
+ 
+nighttime
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+0.083
+ 
+ 
+ 
+ 
+ 
+-
+0.115*
+ 
+ 
+ 
+ 
+-
+0.076
+     
+ 
+ 
+ 
+ 
+-
+0.117
+*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.069)
+ 
+ 
+ 
+ 
+(0.061)
+ 
+ 
+ 
+ 
+(0.066)        
+ 
+ 
+ 
+(0.069)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.970
+ 
+ 
+ 
+ 
+ 
+0.961
+ 
+ 
+ 
+ 
+ 
+0.968                 
+ 
+ 
+0.966
+ 
+ 
+Year FE
+ 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+State FE
+ 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+Covariates
+ 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+   
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+State
+-
+specific trends
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*Statistically significant at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  Each column repre
+sents the results from a separate regression.  The dependent variable is equal to the natural 
+log of fatalities per 100,000 populati
+on and
+ 
+the covariates are 
+listed in Table 4
+.  Reg
+ressions are weighted using 
+state 
+populations.  Standard errors, corrected 
+for clustering at the state level, are in parentheses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+                          
+ 
+               
+Table 8
+.  
+Medical Marijuana Laws and 
+Traffic 
+Fatalities
+ 
+by Age
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+                                 
+  
+Fatalities 15
+-
+19
+ 
+Fatalities 20
+-
+29    Fatalities 30
+-
+39     
+Fatalities 40
+-
+49
+ 
+Fatalities 50
+-
+59    
+Fatalities 60+
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+      
+-
+0.022
+ 
+ 
+ 
+      
+-
+0.183
+**
+ 
+            
+-
+0.175
+*
+ 
+ 
+ 
+-
+0.094
+ 
+ 
+ 
+      
+-
+0.038
+ 
+ 
+ 
+      
+-
+0.048
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.083)
+ 
+ 
+ 
+ 
+(0.073)
+ 
+ 
+ 
+ 
+(0.096
+)
+ 
+ 
+ 
+ 
+(0.070)
+ 
+ 
+ 
+ 
+(0.056)
+ 
+ 
+ 
+ 
+(0.048
+)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.915
+ 
+ 
+ 
+ 
+0.940
+ 
+ 
+ 
+ 
+0.943
+ 
+ 
+ 
+ 
+0.939
+ 
+ 
+ 
+ 
+0.874
+ 
+ 
+ 
+ 
+0.921
+ 
+ 
+Year FE
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+State FE
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+Covariat
+es
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+State
+-
+specific trends
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*Statistically significant at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  Each column represents the results from a separate regression.  
+The dependent variable is equal to the natural log of fat
+alities per 100,000 population and 
+the 
+covariates are listed in Table 4
+.  Regressions are weighted using the relevant state
+-
+by
+-
+age populations.  Standard errors, corrected for clustering at the state
+ 
+level, are in parentheses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Table 9
+. 
+Medical Marijuana Laws and Traffic Fatalities 
+by Sex
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        
+Fatalities males
+ 
+ 
+    
+Fatalities females
+ 
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+          
+-
+0.114*
+ 
+ 
+         
+ 
+          
+-
+0.072
+ 
+ 
+ 
+ 
+ 
+          
+(0.065
+)
+ 
+ 
+ 
+          
+(0.073
+)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+0.974
+ 
+ 
+ 
+ 
+0.960
+ 
+ 
+Year FE
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+State FE
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+Covariates
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+State
+-
+specific trends
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+*Statistically significant at 10% level; **at
+ 
+5% level; ***at 1% level.
+ 
+ 
+Notes:  Each column represents the results from a separate regression.  The dependent variable is equal to the natural 
+ 
+log of fat
+alities per 100,000 population and 
+the 
+covariates are listed in Table 4
+.  Regressions are weighted
+ 
+using the 
+ 
+relevant state
+-
+by
+-
+sex populations.  Standard errors, corrected for clustering at the state level, are in parentheses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 10
+.  Tests of Endogeneity
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+   
+Falsification
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+                  
+Placebo MML
+ 
+ 
+              
+  
+  
+ 
+      
+ 
+ 
+Test
+ 
+      
+ 
+   
+ 
+Spending 
+on Enforcement and Highway Service
+s
+    
+  
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+       
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Fatalities
+ 
+           
+   
+ 
+ 
+  
+     
+Highway
+ 
+Law
+ 
+   
+  
+Highway              
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+   
+Fatalities
+ 
+         
+ 
+Fatalities
+ 
+ 
+    
+Fatalities       
+ 
+Tire or Wheel
+ 
+ 
+    
+ 
+Police
+       
+   
+Enforcement     M
+aintenance
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+Total
+ 
+ 
+  
+ 
+BAC > 0
+ 
+ 
+  
+
+   
+ 
+Failure
+ 
+a Factor
+   
+Expenditures
+ 
+ 
+ 
+Expenditures    Expenditures
+ 
+ 
+  
+  
+                           
+                            
+ 
+ 
+Average 
+Placebo MML
+ 
+estimate
+ 
+0.003
+ 
+ 
+ 
+0.011
+ 
+ 
+ 
+0.012
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+...
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+ 
+0.0
+1
+8
+ 
+ 
+ 
+-
+0.009
+ 
+ 
+ 
+-
+0.004
+ 
+ 
+ 
+-
+0.092
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+(0.147
+)
+ 
+ 
+ 
+(0.020)
+ 
+ 
+ 
+(0.051)
+ 
+ 
+ 
+(0.068)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1020
+ 
+ 
+ 
+  
+919
+ 
+ 
+ 
+ 
+1050
+ 
+ 
+ 
+ 
+1050
+ 
+ 
+Number of trials
+ 
+ 
+ 
+ 
+ 
+100
+ 
+ 
+ 
+ 
+100
+ 
+ 
+ 
+ 
+100
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+Placebo Coefficient < 0
+                   
+ 
+ 
+42
+ 
+ 
+ 
+ 
+ 
+44
+ 
+ 
+ 
+ 
+ 
+42
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+Placebo Coefficient < 0
+ 
+              
+ 
+ 
+2
+ 
+ 
+ 
+ 
+ 
+3
+ 
+ 
+ 
+ 
+ 
+3
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+and sig. 
+at 5% level
+ 
+ 
+Placebo Coefficient < 0
+ 
+               
+ 
+2
+ 
+ 
+ 
+ 
+ 
+4
+ 
+ 
+ 
+ 
+ 
+4
+ 
+and sig. at 
+10
+% level 
+ 
+ 
+Year FE
+ 
+ 
+ 
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+       
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+Yes
+ 
+State FE
+ 
+ 
+ 
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+Yes
+ 
+Covariates
+ 
+ 
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+      
+ 
+Yes
+ 
+ 
+ 
+   
+ 
+ 
+Yes
+ 
+ 
+ 
+Yes
+ 
+State
+-
+specific trends
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+Yes
+ 
+ 
+ 
+      
+ 
+Yes
+ 
+ 
+ 
+      
+ 
+Yes
+ 
+ 
+ 
+        
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+*Statistically significant at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  The first three columns 
+represent
+ 
+the results fro
+m a series of regressions in which the 
+dependent variable is equal
+ 
+to the natural log of
+ 
+fatal
+ities
+ 
+per 
+100,000 population and 
+the 
+covariates are listed in Table 4
+.  Reg
+ressions are w
+eighted using 
+state population
+s
+ 
+and standard err
+ors are corrected for clustering at 
+the state level
+.  
+In the fourth column, the 
+dependent variable is equal 
+to the natural log of
+ 
+fatalities per 100,000 population from
+ 
+crashes 
+in which tire or wheel 
+failure
+ 
+was cited as a
+ 
+potential 
+contributing factor
+ 
+to 
+the accident
+.  C
+ovariates are listed 
+in Table 4
+, the regression 
+is weighted using 
+state populations
+, and the 
+standard error, corrected for clustering at the state
+-
+level, is in parentheses.  
+The remaining columns represent the results from separate regressi
+ons in which the 
+dependent variable is equal to the natural log 
+of the indicated spending measure.  The covariates are the state unemployment rate and 
+income per capita.  
+Reg
+ressions are weighted using 
+state population
+s
+, and s
+tandard errors, corrected for 
+clustering at the state level, are in parentheses.
+    
+ 
+  
+ 
+ 
+           
+Table 11.  Medical Marijuana Laws and State
+-
+Level Covariates
+_____________
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+(1)
+ 
+ 
+ 
+ 
+   
+(2)
+ 
+ 
+ 
+ 
+   
+(3)
+ 
+ 
+ 
+ 
+   
+(4)
+ 
+ 
+ 
+ 
+                                 
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+Mean age
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.035
+ 
+ 
+ 
+ 
+ 
+0.035
+ 
+ 
+ 
+ 
+ 
+0.041
+ 
+ 
+ 
+ 
+0.037
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.131)
+ 
+ 
+ 
+ 
+(0.148)
+ 
+ 
+ 
+ 
+(0.152)
+ 
+ 
+ 
+(0.139
+)
+ 
+Unemployment
+ 
+ 
+ 
+ 
+ 
+-
+0.011
+ 
+ 
+ 
+ 
+-
+0.015
+ 
+ 
+ 
+ 
+-
+0.014
+ 
+ 
+ 
+ 
+0.007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.037)
+ 
+ 
+ 
+ 
+(0.039)
+ 
+ 
+ 
+ 
+(0.039)
+ 
+ 
+ 
+(0.027
+)
+ 
+Income
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.231
+ 
+ 
+ 
+ 
+ 
+0.187
+ 
+ 
+ 
+ 
+ 
+0.241
+ 
+ 
+ 
+ 
+0.255
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.362)
+ 
+ 
+ 
+ 
+(0.359)
+ 
+ 
+ 
+ 
+(0.348)
+ 
+ 
+ 
+(0.363
+)
+ 
+Miles driven
+ 
+ 
+ 
+ 
+ 
+ 
+0.004
+ 
+ 
+ 
+ 
+ 
+0.006
+ 
+ 
+ 
+ 
+ 
+0.005
+ 
+ 
+ 
+ 
+0.015
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.008)
+ 
+ 
+ 
+ 
+(0.009)
+ 
+ 
+ 
+ 
+(0.009)
+ 
+ 
+ 
+(0.013)
+ 
+BAC 0.08
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+0.062
+ 
+ 
+ 
+ 
+ 
+0.052
+ 
+ 
+ 
+ 
+0.061
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.047)
+ 
+ 
+ 
+ 
+(0.045)
+ 
+ 
+ 
+(0.048
+)
+ 
+ALR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+-
+0.034
+ 
+ 
+ 
+ 
+-
+0.027
+ 
+ 
+ 
+-
+0.027
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.063)
+ 
+ 
+ 
+ 
+(0.061)
+ 
+ 
+ 
+(0.069
+)
+ 
+Zero Tolerance
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+-
+0.091
+ 
+ 
+ 
+ 
+-
+0.090
+ 
+ 
+ 
+-
+0.075
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.066)
+ 
+ 
+ 
+ 
+(0.065)
+ 
+ 
+ 
+(0.053
+)
+ 
+Beer tax
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+ 
+0.375
+ 
+ 
+ 
+ 
+ 
+0.364
+ 
+ 
+ 
+ 
+0.119
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.643)
+ 
+ 
+ 
+ 
+(0.636)
+ 
+ 
+ 
+(0.286
+)
+ 
+Decriminalized
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+ 
+0.212
+ 
+ 
+ 
+ 
+0.180
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.245)
+ 
+ 
+ 
+(0.282
+)
+ 
+Drug per se
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+ 
+0.035
+ 
+ 
+ 
+ 
+0.015
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.049)
+ 
+ 
+ 
+(0.039
+)
+ 
+GDL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+0.035
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.031)
+ 
+Primary seatbelt
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+0.010
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.057)
+ 
+Secondary seatbelt
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+0.020
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.040)
+ 
+Speed 70
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+0.060
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.066
+)
+ 
+Texting ban
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+0.013
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.049
+)
+ 
+Hands Free
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+     
+ 
+ 
+   
+
+ 
+ 
+ 
+     
+-
+0.348
+**
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.164
+)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.869
+ 
+ 
+ 
+ 
+ 
+0.873
+ 
+ 
+ 
+ 
+ 
+0.874
+ 
+ 
+ 
+ 
+0.884
+ 
+ 
+ 
+State
+-
+l
+evel characteristics
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+Alcohol policies
+ 
+ 
+ 
+ 
+  
+No
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+Drug policies
+ 
+ 
+ 
+ 
+ 
+  
+No
+ 
+ 
+ 
+ 
+  
+No
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+Other traffic policies
+ 
+ 
+ 
+  
+No
+ 
+ 
+ 
+ 
+  
+No
+ 
+ 
+ 
+ 
+  
+No
+ 
+ 
+ 
+ 
+Yes
+ 
+Year FE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+State FE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+State
+-
+specific trends
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*Statistically significant at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  Each column represents the results from a separate regression.  Regressions are 
+weighted using state 
+populations.  Standard errors, corrected for clustering at the state level, are in parentheses.
+ 
+  
+ 
+Table 12
+.  Medical Marijuana Laws and Alcohol Consumption 
+in the 
+Past 
+30 Days: Evidence from the BRFSS
+ 
+ 
+ 
+ 
+ 
+A
+l
+l
+ 
+r
+espondents
+ 
+ 
+18
+-
+19 
+ 
+year
+s
+ 
+of age
+ 
+ 
+20
+-
+29
+ 
+ 
+years of age
+ 
+ 
+30
+-
+39
+ 
+ 
+years of age
+ 
+ 
+40
+-
+49
+ 
+ 
+year
+s
+ 
+of age
+ 
+ 
+50
+-
+59
+ 
+ 
+year
+s
+ 
+of age
+ 
+ 
+60 +
+ 
+ 
+year
+s
+ 
+of age
+ 
+ 
+Drank > 0
+ 
+ 
+ 
+ 
+ 
+ 
+  
+-
+0
+.019*
+ 
+(
+0
+.010
+)
+ 
+[
+3884082
+]
+ 
+ 
+  
+-
+0
+.051
+**
+ 
+(
+0
+.020
+)
+ 
+[542
+96]
+ 
+ 
+  
+-
+0
+.031*
+ 
+(
+0
+.017)
+ 
+[378058]
+ 
+ 
+       
+-
+0
+.022
+ 
+(
+0
+.014)
+ 
+[614541]
+ 
+ 
+      
+ 
+ 
+-
+0
+.017
+ 
+(
+0
+.012)
+ 
+[739094]
+ 
+ 
+       
+-
+0
+.016*
+ 
+(
+0
+.009)
+ 
+[760147]
+ 
+ 
+       
+ 
+-
+0
+.012
+ 
+(
+0
+.008)
+ 
+[1337946
+]
+ 
+ 
+15 + D
+rinks
+ 
+ 
+ 
+ 
+ 
+ 
+-
+0
+.01
+0*
+ 
+(
+0
+.006
+)
+ 
+[3884082
+]
+ 
+ 
+-
+0
+.022*
+ 
+(
+0
+.011
+)
+ 
+[54296
+]
+ 
+ 
+-
+0
+.015
+ 
+(
+0
+.011)
+ 
+[378058]
+ 
+ 
+-
+0
+.015**
+ 
+(
+0
+.008)
+ 
+[614541]
+ 
+ 
+-
+0
+.009
+ 
+(
+0
+.006)
+ 
+[739094]
+ 
+ 
+-
+0
+.014**
+ 
+(
+0
+.005)
+ 
+[760147]
+ 
+ 
+-
+0
+.004
+ 
+(
+0
+.005)
+ 
+[1337946
+]
+ 
+ 
+30 + D
+rinks
+ 
+ 
+ 
+ 
+ 
+ 
+-
+0
+.009*
+ 
+(
+0
+.005
+)
+ 
+[3884082
+]
+ 
+ 
+-
+0
+.017**
+ 
+(
+0
+.008
+)
+ 
+[54296
+]
+ 
+ 
+-
+0
+.018*
+ 
+(
+0
+.009)
+ 
+[378058]
+ 
+ 
+-
+0
+.008
+ 
+(
+0
+.007)
+ 
+[614541]
+ 
+ 
+-
+0
+.010*
+ 
+(
+0
+.006)
+ 
+[739094]
+ 
+ 
+-
+0
+.009**
+ 
+(
+0
+.004)
+ 
+[760147]
+ 
+ 
+-
+0
+.003
+ 
+(
+0
+.004)
+ 
+[1337946
+]
+ 
+ 
+60 + D
+rinks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+0
+.004
+ 
+(
+0
+.003
+)
+ 
+[388
+4082
+]
+ 
+ 
+-
+0
+.008
+ 
+(
+0
+.007
+)
+ 
+[54296
+]
+ 
+ 
+-
+0
+.011**
+ 
+(
+0
+.005)
+ 
+[378058]
+ 
+ 
+-
+0
+.003
+ 
+(
+0
+.005)
+ 
+[614541]
+ 
+ 
+-
+0
+.005
+ 
+(
+0
+.003)
+ 
+[739094]
+ 
+ 
+-
+0
+.003
+ 
+(
+0
+.003)
+ 
+[760147]
+ 
+ 
+-
+0
+.002
+ 
+(
+0
+.002)
+ 
+[1337946
+]
+ 
+ 
+Binge D
+rank
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+0
+.007*
+ 
+(
+0
+.003
+)
+ 
+[3928524
+]
+ 
+ 
+-
+0
+.018*
+ 
+(
+0
+.009)
+ 
+[55426
+]
+ 
+ 
+-
+0
+.012
+ 
+(
+0
+.010
+)
+ 
+[383970]
+ 
+ 
+-
+0
+.007
+ 
+(
+0
+.006)
+ 
+[621722]
+ 
+ 
+-
+0
+.013
+**
+ 
+(
+0
+.005)
+ 
+[746974]
+ 
+ 
+-
+0
+.007*
+ 
+(
+0
+.004)
+ 
+[767567]
+ 
+ 
+-
+0
+.002
+ 
+(
+0
+.002)
+ 
+[1352865
+]
+ 
+ 
+2+  Binges
+ 
+ 
+ 
+ 
+ 
+-
+0
+.004
+*
+ 
+(
+0
+.002
+)
+ 
+[3928524]
+ 
+ 
+-
+0
+.010
+ 
+(
+0
+.011
+)
+ 
+[55426]
+ 
+ 
+-
+0
+.012
+*
+ 
+(
+0
+.007
+)
+ 
+[383970]
+ 
+ 
+-
+0
+.002
+ 
+(
+0
+.004
+)
+ 
+[621722]
+ 
+ 
+-
+0
+.006
+*
+ 
+(
+0
+.003
+)
+ 
+[746974]
+ 
+ 
+-
+0
+.005
+ 
+(
+0
+.003
+)
+ 
+[767567]
+ 
+ 
+-
+0
+.001
+ 
+(
+0
+.002)
+ 
+[1352865]
+ 
+ 
+Number of drinks
+ 
+conditional on 
+drinking
+ 
+ 
+ 
+ 
+ 
+-
+0.84
+ 
+       
+(0.66
+)
+ 
+[1900760
+]
+ 
+ 
+-
+1.38
+ 
+(1.83)
+ 
+[19944
+]
+ 
+ 
+-
+2
+.40
+**
+ 
+      
+(0.97
+)
+ 
+[222500]
+ 
+ 
+-
+0.70
+ 
+(0.95)
+ 
+[350855]
+ 
+ 
+-
+0.66
+ 
+ 
+(0.57)
+ 
+[414093]
+ 
+ 
+-
+0.93
+ 
+ 
+(0.57)
+ 
+[386371]
+ 
+ 
+-
+0.44
+ 
+ 
+(0.75)
+ 
+[50699
+7]
+ 
+*Statistically significant at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  Based on information collected from the Behavioral Risk Factor Surveillance System (BRFSS) for the period 1993
+-
+2010.  Each cell represents 
+the
+ 
+results
+ 
+from a separate regression.  
+The covariates include indicators for race, ethnicity, sex, marital 
+status, employment status and educational attainment, 
+state fixed effects, year fixed effects, state
+-
+specific linear time trends, the unemployment rate, per capita income, the state beer tax, and indicators for 
+marijuana decriminalization, BAC 0.08 and Zer
+o Tolerance.  
+Indicators for age group are included when using all BRFSS respondents
+.  Standard errors, 
+corrected for clustering at the state level, are in parentheses.
+  
+Sample sizes are in brackets.
+ 
+  
+ 
+ 
+       
+Table 13.  
+Per
+-
+Capita Alcohol 
+Sales, Medical Marijuana Laws and Traffic Fatalities
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+First
+-
+stage 
+regression
+ 
+s
+                    
+ 
+                                              
+ 
+ln(
+beer sales)
+               
+ln(
+wine sales)
+              
+ln(
+spirits sales
+)
+_____
+             
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+    
+-
+0.049**
+ 
+ 
+      
+-
+0.008
+ 
+ 
+         
+0.002
+ 
+ 
+ 
+ 
+ 
+     
+(0.022)
+ 
+ 
+      
+(0.013)
+ 
+ 
+        
+(0.011)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+      
+1071
+ 
+ 
+         
+867
+ 
+ 
+           
+867
+ 
+R
+2
+ 
+ 
+ 
+ 
+      
+0.981
+ 
+ 
+        
+0.990
+ 
+ 
+          
+0.990
+ 
+ 
+F
+-
+test on instrument
+ 
+ 
+       
+4.8
+ 
+ 
+         
+0.36
+ 
+ 
+          
+ 
+0.03
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Second
+-
+stage regression
+s
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Fatalities
+ 
+ 
+  
+  
+Fatalities
+ 
+ 
+       
+Fatalities
+ 
+ 
+ 
+      
+ 
+ 
+      
+Total
+ 
+ 
+     
+BAC > 0
+ 
+ 
+     
+
+ 
+ 
+ 
+ 
+Ln(beer sales)
+ 
+ 
+ 
+    
+ 
+ 
+1.68***
+ 
+ 
+    
+ 
+  
+2.40***
+ 
+ 
+      
+ 
+  
+3.16***
+ 
+               
+ 
+ 
+     
+ 
+    
+(0.484)
+ 
+ 
+   
+  
+(0.764)
+ 
+ 
+  
+     
+(0.841)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+      
+1071
+ 
+ 
+       
+1071
+ 
+ 
+         
+1071
+ 
+R
+2
+ 
+ 
+ 
+ 
+      
+0.976
+ 
+ 
+       
+0.900             
+ 
+         
+0.897
+ 
+ 
+Year FE
+ 
+ 
+ 
+       
+Yes
+ 
+ 
+        
+Yes
+ 
+ 
+          
+Yes
+ 
+State FE
+ 
+ 
+ 
+       
+Yes
+ 
+ 
+        
+Yes
+ 
+ 
+          
+Yes
+ 
+Covariates
+ 
+ 
+ 
+       
+Y
+es
+ 
+ 
+        
+Yes
+ 
+ 
+          
+Yes
+ 
+State
+-
+specific trends
+ 
+ 
+       
+Yes
+ 
+ 
+        
+Yes
+ 
+ 
+          
+Yes
+ 
+ 
+ 
+*Statistically significant at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  The 
+dependent variable in the first
+-
+stage regressions is 
+equal to the natural lo
+g of per
+-
+capita sales 
+in state 
+s 
+and year 
+t 
+(measured in gallons) and is based on data from the 
+Brewers Almanac
+.  
+Beer sales data are for the period 
+1990
+-
+2010.  Wine and spirits s
+ales data are 
+for the period 199
+4
+-
+2010.
+  
+The d
+ependent variable in the 
+second
+-
+stage 
+regressions is equal to the natural log of 
+traffic 
+fatalities per 100,000 population.  
+Controls include the state 
+unemployment rate, per capita income, the state beer tax, and indicators for marijuana decriminalization, BAC 0.08, 
+adm
+inistrativ
+e license revocation, 
+and Zero Tolerance.  Regressions are 
+weighted using state populations.  Standard 
+errors, 
+correc
+ted for clustering at the state level, are in parentheses. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+          
+Appendix Table 1.  Available Registry Information by 
+State, 2011
+ 
+ 
+                   
+ 
+ 
+ 
+ 
+Number of 
+ 
+ 
+ 
+ 
+registered
+ 
+Chronic
+ 
+ 
+       
+Average
+ 
+           
+18
+-
+40 years
+ 
+ 
+ 
+ 
+patients
+ 
+pain (%)
+ 
+Male (%) 
+ 
+age
+ 
+ 
+of age (%)
+ 
+ 
+Alaska
+ 
+ 
+ 
+380
+a
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+Arizona
+ 
+ 
+11,133
+ 
+ 
+86
+ 
+ 
+75
+ 
+ 
+
+ 
+ 
+42
+ 
+ 
+California
+ 
+ 
+1,250,000
+b
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Colorado
+ 
+ 
+128,698
+ 
+94
+ 
+ 
+69
+ 
+ 
+40
+ 
+ 
+
+ 
+ 
+Hawaii
+ 
+ 
+ 
+8,000
+c
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Maine
+ 
+ 
+ 
+796
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Michigan
+ 
+ 
+105,458
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Montana 
+ 
+ 
+30,036
+ 
+ 
+86
+ 
+ 
+
+ 
+ 
+41
+ 
+ 
+48
+ 
+ 
+New Mexico
+ 
+ 
+3,981
+ 
+ 
+24
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Oregon
+ 
+ 
+49,220
+ 
+ 
+65
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Rhode Island
+ 
+ 
+3,073
+ 
+ 
+20
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Vermont
+ 
+ 
+349
+d
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Washington
+ 
+ 
+100,000
+e
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+                   
+ 
+a
+Based on a communication between NORML and the 
+Alaska Bureau of Vital Statistics.
+ 
+b
+Estimated by NORML.
+ 
+c
+Estimated by the 
+Drug Policy Forum of Hawaii.
+ 
+d
+Based on a communication between NORML and the 
+Vermont Criminal Information Center.
+ 
+e
+Estimated by NORML.
+ 
+ 
+ 
+Notes: Unless otherwise indicated, the information in this table was obtained from official state registry data.  Links 
+to state registry data 
+are available at:  
+http://norml.org/index.cfm?Group_ID=3391
+  
+ 
+Appendix Table 2.  Summary
+ 
+of Medical Marijuana Laws by State
+ 
+ 
+ 
+Caregivers can have multiple patients or collective growing by 
+patients is allowed 
+ 
+ 
+Caregivers limited to one patient or collective growing by 
+caregivers is prohibited
+ 
+ 
+ 
+California
+ 
+ 
+Caregivers can have multiple patients.  Home 
+cultivation and collectives/cooperatives allowed. 
+ 
+ 
+ 
+    
+Alaska 
+ 
+ 
+ 
+ 
+Caregivers limited to one patient (unless a 
+relative of more than one patient).  Home 
+cultivation allowed but dispensaries
+ 
+prohibited.
+ 
+ 
+ 
+Colorado 
+ 
+ 
+ 
+Caregivers can have multiple patients.  Home 
+cultivation and dispensaries allowed.
+ 
+ 
+   
+District of 
+ 
+   
+Columbia
+ 
+    
+ 
+ 
+ 
+Caregivers limited to one patient.   Home 
+cultivation prohibited.  Five licensed 
+dispensaries and 10 cultivation facilities.
+ 
+ 
+ 
+Michigan and Montana
+ 
+ 
+ 
+Caregivers can have multiple patients.  Home 
+cultivation allowed.
+ 
+ 
+    
+Hawaii
+ 
+    
+ 
+ 
+ 
+Caregivers limited to one patient.   Home 
+cultivation allowed but dispensaries prohibited.
+ 
+ 
+ 
+Nevada
+ 
+ 
+ 
+Caregivers can have multiple patients.
+ 
+Home cultivation allowed.  Dispensaries are 
+prohibited.
+ 
+ 
+   
+Maine
+ 
+ 
+ 
+Caregivers can have multiple patients but are 
+prohibited from cultivating collectively.  Home 
+cultivation and a limited number of licensed, 
+non
+-
+profit dispensaries are allowed.
+ 
+ 
+ 
+Oregon
+ 
+ 
+ 
+Caregivers can have multiple patients.  Home 
+cultivation for multiple patients allowed.  
+ 
+Dispensaries are prohibited but collectives/ 
+cooperatives are allowed. 
+ 
+ 
+    
+New Jersey  
+ 
+ 
+Caregivers limited to one patient.  Home 
+cultivation prohibited.  Ten licensed nonprofit 
+dispensaries/cultivation centers. 
+ 
+ 
+ 
+Rhode Island
+ 
+ 
+ 
+Caregivers can have multiple patients.  Home 
+cultivation and up to 3 licensed, non
+-
+profit 
+compassion centers 
+allowed.
+ 
+ 
+ 
+    
+New Mexico
+ 
+ 
+Caregivers can have multiple patients but are 
+prohibited from cultivating.  Home cultivation 
+allowed with license.  Limited number of 
+licensed, non
+-
+profit producers.
+ 
+ 
+ 
+Washington                    
+ 
+ 
+Caregivers limited to one patient, but home 
+cultivation and collective cultivation by patients 
+allowed. 
+ 
+ 
+ 
+ 
+    
+Vermont
+ 
+ 
+ 
+Caregivers limited to one patient.   Home 
+cultivation allowed.  Four licensed, nonprofit 
+dispensaries.
+ 
+ 
+Notes:  Based on information 
+from the Marijuana Policy Project (
+www.mpp.org
+) and Jacobson et al. (2011). 
+ 
+  
+ 
+ 
+Appendix Table 3
+.
+  
+Descriptive Statistics for 
+High Times
+ 
+Analysis
+, 1990
+-
+2011
+ 
+ 
+ 
+ 
+Dependent Variable
+ 
+       
+Mean (SD)
+ 
+ 
+                  
+Description
+ 
+ 
+ 
+ 
+Price High
+-
+Quality 
+ 
+    
+313.25 (88.13)
+ 
+Median 
+per
+-
+ounce price
+ 
+of high quality marijuana
+ 
+ 
+Marijuana
+ 
+ 
+ 
+ 
+ 
+(2000 dollars)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Price Low
+-
+Quality
+ 
+    
+128.70 (64.24)
+ 
+Median 
+per
+-
+ounce price
+ 
+of low quality marijuana 
+ 
+Marijuana
+                 
+ 
+ 
+ 
+ 
+(2000 dollars)
+ 
+                                                      
+ 
+ 
+Independent Variable        Mean (SD)
+ 
+ 
+                  
+Description
+ 
+ 
+ 
+ 
+MML
+a
+ 
+ 
+ 
+    
+0.135 (0.338)
+ 
+= 1 if a state had a medical marijuana law in a given
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+year, =
+ 
+0 otherwise
+ 
+ 
+Mean age
+ 
+ 
+    
+36.08 (1.78)
+ 
+ 
+Mean age of the state population
+ 
+ 
+Unemployment 
+ 
+    
+5.70 (1.92)
+ 
+ 
+State unemployment rate
+ 
+ 
+Income
+ 
+ 
+ 
+    
+10.25 (0.173)
+ 
+Natural logarithm of state real income per capita 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2000 dollars)
+ 
+ 
+Decriminalized
+a
+ 
+    
+0.25
+0 (0.433)
+ 
+= 1 if a state had a marijuana decriminalization law 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in a given year, = 0 otherwise
+ 
+ 
+ 
+ 
+ 
+Beer tax
+ 
+ 
+    
+0.259 (0.230)
+ 
+Real beer tax (2000 dollars)
+ 
+ 
+ 
+ 
+ 
+a
+Take
+s on fractional 
+values for 
+the years
+ 
+in which laws changed.  
+ 
+ 
+Note:  
+Price data are 
+based on information from 8,271 purchases recorded in the
+ 
+Trans High Market Quotations 
+section of 
+High Times
+.  
+Of these, 7,029
+ 
+were classified as high
+-
+quality and 1,242
+ 
+were clas
+sified as low
+-
+quality
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Appendix Table 4
+A.
+  
+Traffic Fatalities and Medical Marijuana Laws by Age and Gender (Males)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                   
+ 
+Fatalities 15
+-
+19
+ 
+Fatalities 20
+-
+29    Fatalities 30
+-
+39
+    
+ 
+Fatalities 40
+-
+49
+ 
+ 
+Fatalities 50
+-
+59    
+Fatalities 60
++
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+      
+-
+0.071
+ 
+ 
+ 
+ 
+-
+0.189**
+ 
+ 
+ 
+-
+0.158*
+ 
+ 
+ 
+-
+0.095
+ 
+ 
+ 
+ 
+-
+0.040
+ 
+ 
+ 
+ 
+-
+0.087
+*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.067
+)
+ 
+ 
+ 
+ 
+(0.080
+)
+ 
+ 
+ 
+ 
+(0.089
+)
+ 
+ 
+ 
+ 
+(0.074)
+ 
+ 
+ 
+ 
+(0.059
+)
+ 
+ 
+ 
+ 
+(0.046
+)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.884
+ 
+ 
+ 
+ 
+0.924
+ 
+ 
+ 
+ 
+0.920
+ 
+ 
+ 
+ 
+0.909
+ 
+ 
+ 
+ 
+0.842
+ 
+ 
+ 
+ 
+0.892
+ 
+ 
+Year FE
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+State FE
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+Covariates
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+State
+-
+specific trends
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*Statistically significant 
+at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  Each column represents the results from a separate regression.  The dependent variable is equal to the natural log of
+ 
+fa
+talities per 100,000 population and
+ 
+the 
+covariates are listed in Table 4
+.  Regress
+ions are weighted using the relevant state
+-
+by
+-
+age populations.  Standard errors, corrected for clustering at the state 
+level, are in parentheses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+     
+ 
+        
+ 
+Appendix Table 4
+B.  
+Medical
+ 
+Marijuana Laws and Traffic Fatalities 
+by Age and 
+Gender (Females)
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+                                   
+Fatalities 15
+-
+19
+ 
+Fatalities 20
+-
+29    Fatalities 30
+-
+39     Fatalities 40
+-
+49
+ 
+ 
+Fatalities 50
+-
+59
+   
+ 
+Fatalities 60+
+ 
+ 
+ 
+ 
+ 
+MML
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.037
+ 
+ 
+ 
+ 
+-
+0.159***
+ 
+ 
+ 
+-
+0.221*
+ 
+ 
+ 
+-
+0.076
+ 
+ 
+ 
+ 
+-
+0
+.040
+ 
+ 
+ 
+ 
+ 
+0.019
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.123)
+ 
+ 
+ 
+ 
+(0.058
+)
+ 
+ 
+ 
+ 
+(0.127)
+ 
+ 
+ 
+ 
+(0.080)
+ 
+ 
+ 
+ 
+(0.079)
+ 
+ 
+ 
+ 
+(0.059
+)
+ 
+ 
+N
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+ 
+ 
+ 
+1071
+ 
+R
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.789
+ 
+ 
+ 
+ 
+0.861
+ 
+ 
+ 
+ 
+0.833
+ 
+ 
+ 
+ 
+0.824
+ 
+ 
+ 
+ 
+0.703
+ 
+ 
+ 
+ 
+0.838
+ 
+ 
+Year FE
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+State
+ 
+FE
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+Covariates
+ 
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+State
+-
+specific trends
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+Yes
+ 
+ 
+ 
+ 
+*Statistically significant at 10% level; **at 5% level; ***at 1% level.
+ 
+ 
+Notes:  Each colu
+mn represents the results from a separate regression.  The dependent variable is equal to the natural log of fa
+talities per 100,000 population and
+ 
+the 
+covariates are listed in Table 4
+.  Regressions are weighted using the relevant state
+-
+by
+-
+age populations. 
+ 
+Standard errors, corrected for clustering at the state 
+level, are in parentheses.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Appendix Table 
+5
+.
+  
+Alcohol Consumption in the Past 30 Days: 
+Variable 
+Means 
+ 
+ 
+ 
+ 
+ 
+All
+ 
+BRFSS
+ 
+respondents
+ 
+ 
+18
+-
+19 
+ 
+years of age
+ 
+ 
+20
+-
+29
+ 
+ 
+years of age
+ 
+ 
+30
+-
+39
+ 
+ 
+years
+ 
+of age
+ 
+ 
+40
+-
+49
+ 
+ 
+years of age
+ 
+ 
+50
+-
+59
+ 
+ 
+years of age
+ 
+ 
+60 +
+ 
+ 
+years of age
+ 
+ 
+Drank > 0
+ 
+ 
+ 
+ 
+ 
+ 
+  
+0
+.489
+ 
+ 
+[3884082]
+ 
+ 
+  
+0
+.367
+ 
+[54296]
+ 
+ 
+ 
+0
+.589
+ 
+[378058]
+ 
+ 
+       
+ 
+0
+.571
+ 
+[614541]
+ 
+ 
+       
+ 
+0
+.560
+ 
+[739094]
+ 
+ 
+       
+ 
+ 
+0
+.508
+ 
+ 
+[760147]
+ 
+ 
+        
+ 
+0
+.379
+ 
+ 
+[1337946]
+ 
+ 
+15 + D
+rinks
+ 
+ 
+ 
+ 
+ 
+ 
+0
+.188
+ 
+ 
+[3884082]
+ 
+ 
+0
+.147
+ 
+[54296]
+ 
+ 
+0
+.237
+ 
+     
+[378058]
+ 
+ 
+0
+.200
+ 
+[614541]
+ 
+ 
+0
+.210
+ 
+[739094]
+ 
+ 
+0
+.196
+ 
+ 
+[760147]
+ 
+ 
+0
+.154
+ 
+ 
+[1337946]
+ 
+ 
+30 + D
+rinks
+ 
+ 
+ 
+ 
+ 
+ 
+0
+.106
+ 
+ 
+[3884082]
+ 
+ 
+0
+.091
+ 
+[54296]
+ 
+ 
+0
+.129
+ 
+[378058]
+ 
+ 
+0
+.100
+ 
+[614541]
+ 
+ 
+0
+.110
+ 
+ 
+[739094]
+ 
+ 
+0
+.111
+ 
+[760147]
+ 
+ 
+0
+.097
+ 
+ 
+[1337946]
+ 
+ 
+60 + D
+rinks
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+.
+04
+4
+ 
+[3884082]
+ 
+ 
+0
+.047
+ 
+[54296]
+ 
+ 
+0
+.056
+ 
+ 
+[378058]
+ 
+ 
+0
+.0
+3
+8
+ 
+[614541]
+ 
+ 
+0
+.
+0
+4
+5
+ 
+ 
+[739094]
+ 
+ 
+0
+.048
+ 
+ 
+[760147]
+ 
+ 
+0
+.041
+ 
+[1337946]
+ 
+ 
+Binge D
+rank
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+.118
+ 
+[3928524]
+ 
+ 
+0
+.192
+ 
+[55426]
+ 
+ 
+0
+.
+2
+58
+ 
+ 
+[383970]
+ 
+ 
+0
+.180
+ 
+[621722]
+ 
+ 
+0
+.147
+ 
+[746974]
+ 
+ 
+0
+.102
+ 
+[767567]
+ 
+ 
+0
+.040
+ 
+[1352865]
+ 
+ 
+2+ Binges
+ 
+ 
+ 
+ 
+ 
+ 
+0
+.073
+ 
+[3928524]
+ 
+ 
+0
+.
+131
+ 
+[55426]
+ 
+ 
+0
+.163
+ 
+ 
+[383970]
+ 
+ 
+0
+.105
+ 
+[621722]
+ 
+ 
+0
+.090
+ 
+[746974]
+ 
+ 
+0
+.065
+ 
+[767567]
+ 
+ 
+0
+.026
+ 
+[1352865]
+ 
+ 
+Number of drinks
+ 
+conditional on 
+drinking
+ 
+ 
+ 
+ 
+ 
+20.26
+ 
+       
+(35.28
+)
+ 
+[1900760]
+ 
+ 
+26.91
+ 
+(51.03
+)
+ 
+[19944]
+ 
+ 
+22.71
+ 
+      
+(40.56
+)
+ 
+[222500]
+ 
+ 
+18.32
+ 
+(33.05
+)
+ 
+[350855]
+ 
+ 
+19.74
+ 
+ 
+(35.16
+)
+ 
+[414093]
+ 
+ 
+20.39
+ 
+ 
+34.87
+ 
+[386371]
+ 
+ 
+20.61
+ 
+ 
+(33.80
+)
+ 
+[506997]
+ 
+Notes:  Based on information collected from the Behavioral Risk Factor Surveillance System (BRFSS) for the period 1993
+-
+2010.  Standard 
+deviations are in 
+parentheses and s
+ample sizes are in brackets.
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 

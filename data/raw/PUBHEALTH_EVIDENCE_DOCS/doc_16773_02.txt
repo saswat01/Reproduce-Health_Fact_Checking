@@ -1,0 +1,2048 @@
+SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED 
+ i PURPOSE, SCOPE, AND METHODOLOGY 
+
+  This inspection was conducted in accordance with the Quality Standards for Inspection 
+and Evaluation, as issued in 2012
+ by the Council of 
+the Inspectors General on Integrity and 
+Efficiency, and the Inspect
+
+U.S. Department of State (Department) and the Broadcasting Board of Governors (BBG). 
+ PURPOSE AND SCOPE 
+ The Office of Inspections provides the Secretary of State, the Chairman of the BBG, 
+and 
+Congress with systematic and independent evaluations of the operations of the Department and 
+the BBG. Inspections cover three broad areas, consistent with Section 209 of the Foreign Service 
+
+Act of 1980: 
+  Policy Implementation:  whether policy goals and objectives are being effectively 
+achieved; whether U.S. interests are being accurately and effectively represented; and 
+
+whether all elements of an office or mission are being adequately coordinated. 
+  Resource Management:  whether resources are being used and managed with maximum 
+efficiency, effectiveness, and economy and whether financial transactions and accounts 
+are properly conducted, maintained, and reported. 
+  Management Controls:  
+whether the administration of activities and operations meets the 
+requirements of applicable laws and regulations; whether internal management controls 
+have been instituted to ensure quality of performance and reduce the likelihood of 
+
+mismanagement; whether instances of fraud, waste, or abuse exist; and whether adequate 
+
+steps for detection, correction, and prevention have been taken. 
+ METHODOLOGY 
+ In conducting this inspection, the inspectors: reviewed pertinent records; as appropriate, 
+circulated, reviewed, and compiled the results of survey instruments; conducted on-site interviews; 
+and reviewed the substance of the report and its findings and recommendations with offices, 
+
+individuals, organizations, and activities affected by this review. 
+ 
+ 
+    SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED 
+ ii   United States Department of State 
+  and the Broadcasting Board of Governors 
+ Office of Inspector General 
+PREFACE 
+  This report was prepared by the Office of Inspector General (OIG) pursuant to the 
+Inspector General Act of 1978, as amended, and Section 209 of the Foreign Service Act of 1980, 
+as amended. It is one of a series of audit, inspection, investigative, and special reports prepared 
+
+by OIG periodically as part of its responsibility to promote effective management, 
+
+accountability, and positive change in the Department of State and the Broadcasting Board of 
+
+Governors. 
+
+ This report is the result of an assessment of the strengths and weaknesses of the office, 
+post, or function under review. It is based on interviews with employees and officials of relevant 
+
+agencies and institutions, direct observation, and a review of applicable documents. 
+ 
+The recommendations therein have been developed on the basis of the best knowledge 
+available to the OIG and, as appropriate, have been discussed in draft with those responsible for 
+
+implementation. It is my hope that these recommendations will result in more effective, efficient, 
+and/or economical operations. 
+ 
+I express my appreciation to all of those who contributed to the preparation of this report. 
+    
+ 
+                                                                   
+                                                 
+ 
+                                                     
+ 
+ 
+      Robe
+rt B. Peterson 
+Assistant Inspector General for Inspections
+       SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED 
+ iii Table of Contents 
+ Key Findings 
+1 Context 
+2 Leadership 
+4 Morale 
+4 Program Implementation 
+6 
+ 7 Journalistic Standards 
+8 Relations and Coordination with Voice of America Latin America Division,                            
+U.S. Interests Section in Havana, and other Federal Agencies 
+9 Resource Management 
+10 Contracting 
+10 
+ 11 Financial Management 
+12 Property Management 
+13 Human Resources 
+14 Technology and Information Management 
+15 Facilities 
+15 Management Controls 
+17 Unliquidated Obligations 
+17 Travel Arrangement for Acting General Manager 
+17 Property Management Records and Procedures 
+19 Security 
+22 Office of Cuba Broadcasting, Marathon Transmitting Station,                                                
+and Naval Air Station in Key West 
+22 Security Officer Duties 
+22 23 23 a[Red
+cted] (b) (5), [Redacted] (b) (7)(F)23 24 Security Committee 
+24 Visitor Access List and Secure Telephone Equipment 
+25 List of Recommendations 
+26 Principal Officials 
+28 Abbreviations 
+29   SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 1 Key Findings 
+  The Office of Cuba Broadcasting has focused its programming on subjects, such as news, 
+sports, and entertainment that are generally censored by the Cuban Government. Besides 
+radio (shortwave and mediumwave) and television platforms, the entity has made its digital 
+platforms more robust, going beyond the news Web site by making available and distributing 
+its programming in Cuba through innovative programs.    
+  The Office of Cuba Broadcasting is implementing successfully the Broadcasting Board of 
+
+-year strategic plan for 2012 through 2016, 
+Impact through Innovation and 
+Integration,
+ and its own programming goals.  
+  Employee morale is a concern. Office of Cuba Broadcasting staff expressed that the current 
+management does not communicate effectively and the decisionmaking processes lack 
+transparency. Many employees expressed fear of reprisal by management if they raise 
+concerns. 
+
+  Several administrative functions require greater oversight from administrative staff in the 
+Office of Cuba Broadcasting and the International Broadcasting Bureau support offices, 
+including the Office of Contracts, the Office of the Chief Financial Officer, and the Office of 
+Property Management.   
+  The Office of Cuba Broadcasting has several administrative weaknesses in the areas of 
+contracting, human resources, financial reviews of unliquidated obligations, property 
+management, and travel.  
+  Two contracting issues require closer oversight:  contract administration procedures and 
+
+   The security program requires attention, especially in the area of emergency preparedness 
+
+and physical security at the Miami office. 
+  All findings and recommendations in this report 
+are based on conditions 
+observed during the on-
+site review and the standards and policies then in effect. The report does 
+not comment at length 
+on areas where the OIG team did not identify problems that need to be corrected. 
+ The inspection survey took place in Washington, DC, between September 11 and 30, 2013, and 
+October 17 and 31, 2013, and at the Office of Cuba Broadcasting in Miami, Florida, between 
+November 4 and 20, 2013, including site visits to the transmitting station in Marathon, Florida, 
+
+and the Naval Air Station in Key West, Florida. Ambassador John M. Jones (team leader), 
+Robert Torres (deputy team leader), Rich Astor, and Pasquale Capriglione conducted the 
+inspection. The inspection was interrupted by the U.S. Government shutdown in the first part of 
+October 2013. 
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 2 Context  
+  The Office of Cuba Broadcasting (OCB), which is funded by the U.S. Government 
+through the presidentially appointed Broadcasting Board of Governors 
+(BBG), was established in 
+1990 to oversee the operations of Radio and TV Martí, two broadcast services that provide 
+
+Spanish-language news, features, and entertainment programs to Cuba. In addition to radio and 
+
+television, OCB has an Internet site (www.martinoticias.com), all of which are known 
+
+collectively as the Martís. 
+
+  The 
+1983 Radio Broadcasting to Cuba Act
+1 requires Radio Martí to follow Voice of 
+America (V
+OA) journalistic standards and guidelines for presenting a variety of news and 
+information in an accurate and objective manner. The first transmission to Cuba began in 1984.
+ OCB 
+has the following legislated mission: 
+ 
+ 1.
+ Support the right of the people of Cuba to seek, receive, and impart information 
+and ideas through any media, regardless of borders;  
+ 2.
+ Be effective in furthering open communication of information and ideas through 
+use of Radio Martí and Television Martí programming to Cuba;  
+ 3.
+ Serve as a consistently reliable and authoritative source of accurate, objective, and 
+comprehensive news; and 
+ 4.
+ Provide news, commentary, and other information about events in Cuba and 
+elsewhere to promote the cause of freedom in Cuba. 
+ 
+ The mission of the 
+Martís 
+under the current leadership is to o
+pen up the Internet in Cuba; 
+engage and empower Cubans with relevant information 
+and news, as well as tools to circumvent 
+censorship; b
+ring an open social network to Cuba; and allow Cubans to connect, converse, and 
+spread the word, free from government control.
+ OCB today produces more content than any 
+other BBG language service. It broadcasts television and radio programming 
+24 hours 
+per day 
+and
+ runs an 18
+-hour digital media operation. Specifically, TV Martí programming includes  
+4.5 hours of daily newscasts, as well as programs about public affairs, culture, music, sports, and 
+entertainment. In 2013
+, OCB establish
+ed multiple networks 
+of independent journalists who are 
+providing unbiased reporting 
+from Cuba.   
+ 
+ Radio Martí broadcasts 
+on mediumwave 
+and shortwave. It also broadcasts via satellite 
+and
+ via 
+purchased
+ air time on 
+a South Florida private television station. 
+Both of these broadcasts 
+can be seen in Cuba. At the time of the inspection, OCB was testing placement of its 
+
+programming on an FM station from Key West. 
+
+ 
+ OCB and 
+the VOA Latin America Division 
+broadcast in the Western Hemisphere.
+ Although the Cuba-focused mission of the OCB differs from that of the VOA Latin America 
+
+Division, a 
+2011 Government Accountability Office 
+(GAO) 
+report addressed the need for 
+collaboration and an analysis of possible cost savings from sharing resources between the two 
+                                                 1 Television broadcasting to Cuba (the Television Broadcasting to Cuba Act) comes under part D of title II (sections 
+241-248) of Pub. L. 101
+246, Feb. 16, 1990, 104 Stat. 58, as amended (part of Foreign Relations Authorization Act, 
+Fiscal Years 1990 and 1991). 
+  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 3 2entities. 
+Cooperation between OCB and the VOA Latin America Division is one of the tactical 
+steps toward reaching 
+
+-year strategic plan.  
+  
+ Cuba is one of the most politically and geographically isolated societies in the world. It is 
+not possible for BBG to conduct nationally representative audience surveys in Cuba because of 
+the highly restrictive political and media environment, though BBG is able to conduct some 
+focus groups with recent immigrants from the island. Given these circumstances, OCB measures 
+performance on 
+the basis of daily interaction with the audience and a host of impact criteria, 
+including jamming and government responses to news coverage. 
+                                                    2 GAO Followup report to the House of Representatives Committee on Appropriations, Subcommittee on State, 
+Foreign Operations, and Related Programs, 
+Broadcasting Board of Governors Should Provide Additional 
+Information to Congress Regarding Broadcasting to Cuba,
+ GAO-12-234R, December 2011
+. 
+  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 4 Leadership 
+  The 
+effective operation of any broadcasting entity depends, at lea
+st in part
+, on the executive direction of its senior management. The OCB 
+director is responsible for the strategic 
+planning of TV Martí; 
+Radio Martí; 
+and 
+digital and social media platforms, 
+including 
+www.martinoticias.com. T
+he OCB 
+senior staff comprises the acting general manager, the 
+director of administration,
+ and the staff director.
+ The general manager has the responsibility for 
+day-
+to-day operations 
+of radio, TV,
+ and digital platforms. 
+The director of administration and the 
+staff director have oversight responsibilities for administrative functions. The acting general 
+manager, an employee from the International Broadcasting Bureau (IBB) Office of Performance 
+Review 
+and former reviewer of OCB annual program review process, 
+was on temporary duty 
+(TDY) 
+status from April to September 2013 
+and now is on a temporary promotion 
+as acting 
+general manager 
+for 120 days 
+until January 2014.   
+  The director started in November 2010. 
+He has refocus
+ed the needs and interests of the 
+Cuban people with a vision of moving forward and 
+not looking backward 
+by putting more 
+emphasis on the digital platform. 
+
+pro
+gramming and the relaunch of 
+www.martinoticias.com.
+ Officials 
+from BBG and the 
+Department 
+of State (Department
+) have a favorable view of the director 
+for transforming OCB 
+into a multimedia 
+news hub.  
+  
+Although the director holds frequent town hall meetings to communicate with staff, the 
+
+-
+or questions are not allowed. The director maintains that he encourages questions at these 
+meetings and has an open door policy,
+ but many of the employees 
+said 
+the director 
+does not 
+communicate how their concerns are being addressed.
+ Others feel that that they are not consulted 
+as part of the decisionmaking 
+process. 
+The inspection team counseled the director
+ on this and 
+other managerial issues and suggested remedial actions. 
+
+ 
+ The acting general manager has instituted a weekly meeting schedule with managers to 
+
+discuss programming 
+issues. He attends 
+weekly editorial board meetings and, according to 
+his own assessment, holds managers accountable. According to the OCB director, the acting general 
+
+
+fessionalize functions at OCB 
+
+ However, 
+in OIG personal questionnaires and interviews with OCB 
+employees 
+staff 
+indicated that the acting general manager
+
+ negatively 
+affected operations. He is viewed by many employees 
+as being 
+a micromanager.
+ Many managers 
+told the inspection team that they are not empowered to make decisions, just to follow orders. 
+
+The inspection team brought these perceptions to the attention of the acting general manager and 
+
+the director. 
+ Morale 
+  In responding to the OIG personal questionnaires and in interviews, many of the OCB 
+employees rated their morale as low.
+ Some of the reasons cited for low morale included the lack 
+of transparency in decisionmaking,
+ the 
+inability to offer suggestions, and the lack of effective 
+communication. Others were concerned about raising 
+any issues to the inspection team because 
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 5 of fear of retaliation by management. OCB management was surprised by 
+
+assessment on morale because in the 2013 
+
+Viewpoint Survey, OCB employees gave high scores in categories of work experience, 
+
+leadership, and supervisors. 
+
+  The inspection concluded that 
+employee morale is a concern and senior management 
+needs to take additional steps to allow employees to offer suggestions and communicate with 
+them effectively without fear of reprisal or intimidation.
+ It is important for OCB management to 
+make employees part of the decisionmaking 
+process. The inspection team also determined that 
+
+questions about morale, but rather asked participants to rate their satisfaction in general 
+categories like work experience, leadership,
+ and supervisors.
+ The inspection team suggested that 
+OCB management form an employee working group to generate solutions for management on 
+addressing employees concerns. Low m
+orale was an issue addressed in the 2007 OIG inspection 
+3report 
+on OCB and the 2009 GAO report 
+on OCB broadcasting operations.  
+                                                   3 OIG
+ Inspection of Cuba Broadcasting
+, Report No. ISP-
+IB-07-35, June 2007, and G
+AO report
+, Broadcasting to 
+Cuba: Actions Are Needed to Improve Strategy and Operations
+, GAO-
+09-127, June 2009. 
+  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 6 Program Implementation  
+ OCB 
+radio and television programs seek to represent the best of U.S. media, providing a 
+contrast 
+to Cuban state media. It increasingly tailors its products,
+ realizing that consumption of 
+Martí media is against the law in Cuba. 
+Recent Radio Martí 
+programs added to the schedule 
+include a morning news magazine 
+
+, lighter programming at 
+midday to reach casual listeners for shorter or longer 
+periods, and coverage of
+ Major League 
+Baseball and other sports unavailable 
+to Cuban audiences.
+ Television programs have paid more 
+attention to graphics and presentation style to provide a greater contrast with Cuban state media, 
+which still uses 
+outdated
+ technology.
+ TV Martí 
+products include nightly uncensored newscasts, 
+weekly specials that frequently highlight voices banned on the island, and a weekly program of 
+films produced in Cuba. 
+ According to OCB, between early 2011 and spring 2012, the number of daily visitors to 
+www.martinoticias.com increased.
+ In FY 2013, Web traffic averaged
+ between 180,000 and 
+200,000 visitors per month. Beyond these multimedia efforts, OCB has also engaged in an 
+
+aggressive campaign to distribute weekly its television programming content via broadcast, 
+Internet, and even hand-
+to-hand, via digital video disks (
+DVD) and flash drives. One of the most 
+successful new strategies is short message service (SMS) text messaging and emails. Cuban 
+citizens are able to contact the Martí newsroom directly to report news in the making and abuses 
+
+perpetrated by the Cuban Government or to provide valuable feedback. 
+  The inspection team reviewed documentation 
+of OCB innovative programs in the digital 
+platform. 
+To distribute 
+Martí 
+programming, OCB is delivering to Cuba 1,000 DVDs weekly.
+ It is 
+estimated that each DVD will be viewed in 50 households.
+ Using the latest, cutting-edge 
+technology, OCB is distributing flash drives made of paper,
+ with a small electronic interface. 
+This flash drive can share electronic data and digitally connect with other devices. Taking 
+
+advantage of the increasing use of mobile telephones o
+n the island, OCB launched Piramideo,
+ which is an SMS-based social network that makes it easier for people inside Cuba to share 
+information and connect with one an
+other; this tool operates outside Cuban Government control. 
+OCB also launched El Pitirre, a biweekly newsletter that is sent to more than 
+75,000 email 
+addresses in Cuba. 
+ OCB began using Aero Martí, 
+a leased aircraft-based television broadcast system 
+targeting Cuba for transmission of TV Martí programming in October 2006.
+ Over the years, the 
+Cuban Government has jammed Aero 
+
+. The cost of this program from FYs 2006
+2013 was $35,677,660. During the inspection, Aero Martí 
+was currently inactive, with storage 
+temporarily funded at $79,524 per year. Because of sequestration cuts, no funding was 
+appropriated for fuel expenses.
+ OCB views the a
+
+suited for 
+broadcasting, should the Cuban Government stop jamming its signal.
+ BBG has unsuccessfully 
+proposed ending 
+the use of Aero 
+Martí in its FYs 
+2013 and 2014 Congressional Budget 
+Requests, stating that Aero Martí should be eliminated because of decreases in its cost-
+4effectiveness and increased fuel-related costs. In 2013, the Aero Martí 
+program was halted as a 
+                                                 4 Broadcasting Board of Governors Fiscal Year 2014 Congressional Budget Request, April 2013.  
+  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 7 result of sequestration.
+ With the approval 
+by Congress 
+of 
+
+ FY 2014 budget, the program 
+officially ended in April 2014. 
+ 
+Strategic Plan 
+  
+ 
+s 5-year strategic plan are also activities that
+ OCB is very much engaged in, including #3: 
+Seize Targeted Growth Opportunities
+, which 
+OCB 
+does by engaging with younger audiences through all digital initiatives; 
+#4: Prioritize Support 
+for Democracy and Countering Pockets of Extremism
+, which OCB supports 
+by interviewing 
+leaders of the dissident movement in Cuba,
+ such as Yoani Sánchez, Berta Soler, Antonio 
+Rodiles, Eliecer Avila, Guillermo Fariñas and others; #5: 
+Rationalize Program Delivery
+; 
+#6: Combat Internet Censorship and Jamming
+; 
+#7: Elevate and Expand Social Media Innovation
+; 
+#8: Employ Leading-Edge Communication Techniques and Technologies
+; 
+and #11: 
+Spur Development through Targeted Media Initiatives and Training
+. OCB addresses all of these 
+through the new emphasis on digital and social media and Internet anticensorship activities.  
+  The director noted that OCB has a long-term strategic plan,
+ which is 
+reviewed 
+every 6
+ months.
+ According to the director, b
+
+long-term strategic plan for Cuba broadcasting 
+
+-
+adjusts its programming quickly to take advantage of changes that occur on the island.
+ The 
+inspection team 
+
+information on how 
+BBG resources and assets might best be deployed to engage with Cuban 
+audiences. If Cuba allows OCB to be present on the island, 
+it will have significant resource 
+requirements. 
+OCB management stated that it intends to redirect existing resources from Miami 
+to Cuba in the event this occurs, just as it is already directing more resources to journalists 
+
+reporting from the island. 
+             SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 8 Journalistic Standards 
+  Credibility is essential in any news organization, and 
+OCB 
+must earn and sustain 
+credibility with its audience. As stated before, the 1983 Radio Broadcasting to Cuba Act requires 
+Radio Martí to follow Voice of America journalistic standards and guidelines for presenting a 
+
+variety of news and information in an accurate and objective manner. In additio
+
+
+ editorial guidelines are provided to employees as they make day-
+to-day editorial decisions 
+such as balance, proper sourcing,
+ and tone. The 
+director agrees 
+that OCB 
+should engage Cubans and empower them with relevant information and news 
+and 
+not provide a propaganda counterweight to the Cuban G
+
+efforts. 
+ 
+ In the past, the IBB Office of Performance Review has recommended that 
+OCB improve 
+its adherence to certain aspects of journalistic standards. This issue was raised
+ in the 2007 OIG 
+inspection report and in the 2009 GAO report.
+ However, in the past 2 years, according to the IBB 
+Office of Performance Review reports, OCB has made dramatic changes to ensure that 
+
+journalistic standards are met.
+ Managers assured the inspection team that journalistic codes are 
+enforced through reminders at editorial meetings as well as by direct supervision by program 
+
+chiefs. The 
+inspection team commended OCB for ensuring that journalistic standards are 
+followed. 
+
+ 
+    SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 9 Relations and Coordination with Voice of America Latin 
+America Division
+, U.S. Interests Section in Havana, and 
+other Federal Agencies 
+ OCB maintains good 
+working relationships 
+with various U.S. Federal agencies,
+ including 
+the Department; 
+the U.S. Agency for International Development; 
+and 
+the Department of 
+Defense, U.S. Southern Command. The 
+inspection 
+team interviewed representatives of these 
+agencies, all of whom 
+have a favorable impression of current OCB operations.  
+  OCB also maintains a professional working relationship with all BBG broadcasting 
+entities,
+ including the VOA Latin America Division.
+ As stated
+ in the OIG inspection report 
+of 
+the VOA Latin America Division,
+5 relations between OCB and the VOA Latin America Division 
+are collegial and collaboration between them is growing. OCB has used the Spanish Service
+ radio content for many years and shares its own radio content with VOA. OCB provides the use 
+of 
+its Miami television studio for 
+
+s Foro Interamericano
+ program 
+
+to Washington. The two have 
+collaborated in covering special events; for example, the Spanish Service reporters are 
+featured 
+live on Radio Martí 
+
+www.marti
+
+site, www.voanoticias
+.com, which 
+ha
+   Regarding 
+the collaboration of 
+the two entities, the OIG inspection report for the 
+VOA Latin America Division 
+includes 
+a recommendation 
+to direct OCB and 
+the VOA Latin America 
+Division 
+to implement specific collaborative actions respectful of their different missions, as 
+outlined in the 
+
+-year strategic plan.
+ At the time of the inspection,
+ some progress had
+ been made 
+in implementing this OIG recommendation. 
+ OCB has regular contact with the U.S. Interests Section in Havana and maintains 
+appropriate working relations. 
+OCB has been instrumental in the production of public service 
+campaigns used by the Department, such as an antigang initiative now underway.
+ The public 
+affairs section 
+keeps OCB journalists 
+aware 
+of mission events and activities. 
+                                                       5 Inspection of Voice of America Latin American Division
+, Report No. ISP-
+IB-13-49, September 2013. 
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 10 Resource Management 
+                  Funding 
+Source
+ Employees (actual)
+ General 
+Operating 
+Expenses
+ Salary
+ Total 
+ FY 2014 
+President's 
+Budget 
+Request
+ Direct 
+Hires
+ Purchase 
+Order 
+Vendors
+ Stringers
+ $10,856,757 $12,947,243 $23,804,000 111 67 16 Source: OCB as of 12/05/2013 
+  The OCB FY 2014 funding is 
+estimated at $23.8 million, 
+as published in the BBG  
+FY 2014 Congressional Budget Request. As of December 2013, OCB had 111
+ full-time direct-
+hire employees,
+ supplemented by 83
+ purchase o
+rder v
+endors and stringers.
+  
+  
+ Contracting 
+  The IBB 
+Office of Contracts has contracting officers 
+who have 
+a warrant for OCB 
+contracts for more than 
+$100,000 
+and three OCB 
+contracting officers 
+with a warrant for less than 
+$100,000. Thirteen 
+service contracts were awarded 
+for FYs 
+2012 and 2013 worth a total of 
+$3,272,083 and $2,738,288, respectively. In FY 2012, purchase order vendor contracts numbered 
+106, at a cost of $2,397,108; 
+and in FY 2013, these 
+contracts numbered 8
+2, at a cost of 
+$2,347,268. These contracts provide support services to OCB programs,
+ including 
+radio and TV 
+production.    
+  The OIG preliminary audit in August 2013 had
+ findings about the IBB Office of 
+Contracts acquisition process.
+6 The 
+OIG auditors selected 
+34 contracts, one of which was an 
+
+the Federal Acquisition Regulation (FAR) 
+in carrying out the acquisition process. 
+This inspection also performed a limited review of OCB 
+contracts. The 
+inspection team found some of the same noncompliance with the FAR during the 
+presolicitation, preaward, and contract administration phases 
+For example, during the 
+presolicitation and precontract award phases, the inspectors did not find documentation to 
+support the performance of acquisition planning and market research, as required by FAR 7.102 
+
+and FAR 10.001(a), respectively. The 
+
+ revealed no 
+evidence that the IBB Office of Contracts has provided the contracting officers 
+with contract 
+administration procedures. 
+ 
+ During the contract administration phase, the contracting officers 
+did not always 
+document involvement in contract administration, as stated in FAR1.602-2
+. For all three of the 
+above acquisition phases, the contract files did not always have adequate documentation in 
+
+accordance with FAR 4.801(b) and FAR 4.802(a)(1) 
+and (2),
+ especially for official contract files 
+located in the IBB Office of Contracts.
+ Not adhering to contracting requirements 
+lead
+s 
+to major 
+financial vulnerabilities. 
+                                                 6 OIG Outline for Action: Management Attention Needed to Improve BBG Acquisition Functions. 
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 11 Recommendation 1:
+ The International Broadcasting Bureau, in coordination with 
+the Office of 
+Cuba Broadcasting,
+ should implement oversight and contract administration procedures for 
+Office of Cuba Broadcasting contracts,
+ in accordance with the Federal Acquisition Regulation.
+ (Action: IBB,
+ in coordination with OCB) 
+ 
+   
+contracting officer
+ representatives (COR) were not appointed in a timely 
+manner.
+ One 
+COR, who was appointed for four OCB contracts,
+ did not have a COR 
+formal 
+designation 
+for 1
+ year.
+ In other instances, it took up to 
+2 months for a COR to receive a 
+designation letter 
+from the IBB Office of Contracts.
+ A COR should be officially designated when 
+any contract is awarded. A COR 
+designation letter 
+should be in writing,
+ in accordance with the 
+FAR 1.602-2(d). Furthermore, FAR 1.603-3(a) states
+ that appointments 
+of CORs shall be 
+maintained in the contract files. 
+Such designation letters were 
+not included in 
+most 
+contracts 
+reviewed.
+ In the 
+few contract files that had designation 
+letters, the letters 
+were not always signed 
+and dated to confirm C
+OR duties and responsibilities 
+as stated in FAR 1.604(a). 
+The IBB Office 
+of Contracts 
+and the OCB Administrative Directorate share responsibility for the lack of 
+enforcement of COR procedures.
+ This oversight deficiency resulted in 
+OCB having 
+an 
+unauthorized commitment 
+for $10,534 
+in early 2013. The IBB Office of Contracts 
+ratified 
+this 
+unauthorized commitment promptly. 
+ Recommendation 2:
+ The International Broadcasting Bureau, in coordination with the Office of 
+Cuba Broadcasting should officially designate 
+in writing 
+
+Office of Cuba Broadcasting contracts, confirm 
+that the designation letters are signed and dated, 
+and include the designation letter in the contracting files, in accordance with the Federal 
+Acquisition Regulation.
+ (Action: IBB,
+ in coordination with OCB) 
+  
+  The inspectors
+ also reviewed the CORs 
+administrative 
+procedures 
+and found weaknesses. 
+Most CORs have other program and management duties. The 
+contracts for purchase order 
+vendors have many program deliverables that must be verified and accepted by the CORs 
+before 
+being approved for payment.
+ CORs have other 
+contract administration requirements stated in the 
+designation letter,
+ including those relating to maintaining files on all government actions 
+pertaining to the contract, interaction with the contractor, all contractor invoices, and progress 
+reports.   
+  The CORs were generally aware of the purchase order vendor 
+contract deliverables,
+ but contract administration and documentation did not keep pace.
+ If the responsibilities cannot be 
+fully carried out in a timely and effective manner, the contracting officer 
+should appoint a 
+contracting o
+fficer
+ technical representative to assist the COR. None of the CORs completed the 
+contractor performance evaluation for submission to the contracting officer upon completion of 
+the purchase order vendor 
+contract.
+ At the con
+clusion of the inspection, OCB agreed to 
+emphasi
+ze the requirement for contractor 
+performance evaluations. 
+Not enforcing the CORs to 
+follow their administrative 
+tasks may lead OCB to pay for services that have not been verified. 
+ Recommendation 3:
+ The Office of Cuba Broadcasting,
+ in coordination with the International 
+Broadcasting Bureau, should require that contracting o
+fficer
+epresentatives for purchase order 
+vendor contracts comply with contract administration requirements outlined in designation letters 
+and complete the contractor performance evaluation. (Action: OCB,
+ in coordination with IBB)  
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 12 Blanket Purchase Agreement 
+  In accordance with FAR 13.303-1
+, a blanket p
+urchase agreement (BPA
+) is a simplified 
+method of filling anticipated repetitive needs for supplies or service. The IBB Office of 
+Contracts 
+has considered obtaining purchase order vendor 
+services through the use of purchase 
+orders in lieu 
+of BPAs
+. An OIG audit report found that the IBB Office of Contracts entered into 
+hundreds of personal services contracts without statutory authority and that contractors regularly 
+worked without valid contracts in place.
+7 The 
+contracts in question are for purchase order 
+vendors. The 
+inspectors questioned the appropriateness of using BPAs for OCB purchase order 
+vendor 
+contracts 
+and purchase orders to obtain purchase order vendor 
+services.
+ According to a 
+senior officer in the 
+
+the [Federal Procurement 
+Data System
+Next Generation]
+8 
+ The same officer stated 
+that, with 
+fewer orders to administer and close out,
+ replacing BPAs with purchase orders could 
+reduce accounting errors, decrease unliquidated obligations, and reduce administrative 
+
+operations.
+ The inspection team concluded that 
+BPAs and 
+purchase orders 
+are 
+not the appropriate 
+mechanisms 
+for obtaining services from individuals who have an employer and employee 
+relationship.
+ Using 
+a personal services contract is the proper mechanism.  
+ Recommendation 4:
+ The International Broadcasting Bureau, in coordination with the Office of 
+Cuba Broadcasting,
+ should stop using 
+blanket purchase agreements 
+and purchase orders for 
+purchase order vendor contracts 
+and obtain 
+personal services contract authority for all purchase 
+order vendor contracts.
+ (Action: IBB,
+ in coordination with OCB) 
+ Purchase Card 
+  In reviewing the OCB purchase card program, the inspection team identified instances 
+where not all sources of supply were reviewed and 
+documented before obtaining the item 
+through a local vendor or through an Internet 
+vendor.
+ Although 
+some purchases were deemed to 
+be time 
+critical, others,
+ such as computers,
+ were not.
+ The BBG purchase card manual requires 
+obtaining items through Federal sources,
+ such as the General Services Administration, as stated 
+in FAR 8.002 (1).
+ The inspection team counseled the purchase card program coordinator at the 
+IBB Office of Contracts to remind purchase card holders, especially those at OCB,
+ to obtain
+ to the extent possible 
+supplies and services from the Federal supply sources. 
+ Financial Management  
+  The 
+BBG
+ chief financial officer 
+provides effective support to OCB. The office 
+
+administrative staff regarding ongoing financial operations, 
+
+director of 
+administration, and provides information 
+on current budgetary issues.
+  
+                                                   7 OIG Outline for Action: Management Attention Needed to Improve BBG Acquisition Functions. 
+8 The Federal Procurement Data System 
+ Next Generation reports OCB contract spending to USASpending.gov 
+and is accessible to the public. 
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 13 Usage of U.S. Government Travel Cards 
+ The inspection team reviewed the FY 2013 travel authorization and vouchers 
+for the top 
+five travelers at OCB. The 
+review revealed that that two
+ of the five 
+travelers did not have a U.S. 
+Government travel card.
+ One of these travelers was the OCB d
+irector
+, who took 
+20 trips during 
+FY 2013. When the inspection team brought up the travel card issue to the OCB d
+irector, he 
+agreed to apply for a U.S. 
+Government travel card.  
+ 
+The review also revealed that one OCB 
+employee, who does not travel often, has a travel 
+card,
+ and another employee who has a travel card chose not to use it for the three 
+trips taken 
+during FY 2013. In accordance with the Broadcasting Administrative Manual (BAM) 
+4-665.1, 
+Use of Travel Card, one important purpose of using the travel card is to reduce the need for 
+
+travel advances. During the course of the 
+inspection, the
+ Office of Chief Financial Officer 
+started 
+reviewing all OCB travel card 
+
+ to determine whether a travel card is needed. 
+However, the inspectors concluded 
+that OCB 
+also 
+shares oversight responsibilities for the travel 
+program.
+ Failure to perform periodic reviews 
+of 
+travel cards may lead to employees 
+inappropriately using the cards.   
+ Recommendation 5:
+ The International Broadcasting Bureau, in coordination with the Office of 
+Cuba Broadcasting
+
+usage. 
+(Action: IBB,
+ in coordination with OCB) 
+  
+Property Management 
+  OCB uses the Property Inventory Processing System to track real 
+property,
+9 nonexpendable property,
+10 and all capitalized real and personal property in its Property Inventory 
+Processing System. 
+OCB 
+also uses the Property Inventory Processing System 
+to track 
+noncapitalized property.
+ The inspection team identified several property management 
+weaknesses. They are described in the Management Controls section of this report. 
+ As part of 
+the requisition process to purchase equipment, a 
+requesting office identifies 
+equipment as accountable property.
+ An accountable item is any equipment worth less than 
+$5,000 or sensitive property (i.e.,
+ a laptop).
+ A review of items on purchase order logs found that 
+some equipment items 
+were erroneously identified to be accountable 
+by the requesting office.
+ It 
+appears that some requesting offices did not have an understanding of what makes 
+an 
+accountable item.
+ The inspection team suggested that OCB review the accuracy of accountable 
+property and remind requesting offices about the definition of an accountable item.
+  The inspection team reviewed items 
+valued at more than 
+$10,000 in the 
+OCB inventory.
+ The review included items in the OCB 
+warehouse, the Miami office, the Marathon Transmitting 
+                                                  9 Real property assets primarily consist of administrative and transmitting facilities, including land, used for the 
+mission of BBG. The major classes of real property are land, buildings, and structures. 
+10 Nonexpendable, noncapitalized property has an acquisition value between $5,000 and $25,000. Capitalized 
+property is over $25,000. Other sensitive items less than $5,000 are controlled by OCB, including laptop computers, 
+iPads and tablets, cameras, wireless microphones transmitters and receivers, camcorders, VCRs, and mini digital 
+video equipment and monitors. 
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 14 site, and the Naval Air Station 
+in Key West.
+ Most items were located and appeared to be in good 
+condition, but others were difficult to find.
+ For example, three items were listed as being located 
+in the Miami office but were in the warehouse,
+ pending disposal as excess property.
+ One item 
+listed in Marathon was found at the OCB warehouse. The 
+issue of management controls in the 
+OCB property management program is discussed under the Management Controls 
+section of this 
+report. 
+ Human 
+Resources 
+ The IBB Office of Human Resources provides adequate support to OCB.
+ Because of 
+budget constraints, at the time of the inspection the human resources 
+specialist position had
+ been 
+vacant for 9 
+months,
+ with 
+no plan for 
+filling 
+it. As a result, OCB has assigned human resources 
+functions to different administrative personnel. The 
+inspection team did not receive any concerns 
+from employees about 
+human resources support.  
+ Performance Evaluatio
+ns  The performance evaluation process needs attention 
+from all OCB managers.
+ At the time 
+of the inspection, for the 2011
+2012 rating period, two performance evaluations 
+were still 
+delinquent.
+ For 2012
+2013, OCB management told the IBB 
+Office of Human Resources,
+ as well 
+as the inspection team,
+ that most performance 
+evaluations were 
+delayed because of construction 
+in the office and difficulty accessing files and documents.
+ A few 
+managers asserted they were in 
+the process of completing the performance evaluations 
+by the end of November 2013.   
+ Several 
+employees 
+reported 
+that the employee evaluation process was perfunctory.
+ Although most employees get informal feedback about their performance, some said that they 
+
+were just given a competed performance evaluation form to sign and were discouraged from 
+
+reviewing it or adding to it. In accordance with the Manual of Operations and Administration 5-
+
+450, Performance Management, it is the responsibility of the rating officer to prepare a timely 
+
+performance evaluation and use the document to discuss with the subordinate the 
+duties and 
+performance requirements of the position, as well as the employee
+s performance.
+ This process 
+also provides an opportunity for supervisors and employees to identify the employee
+s strengths 
+and areas in which performance could be improved or supervisory assistance is required.  
+ Recommendation 6:
+ The Office of Cuba Broadcasting 
+should finalize the 
+20112012 and 
+20122013 annual performance evaluations for all employees. (Action: OCB) 
+ 
+Position Descriptions 
+  A review of position descriptions 
+revealed inconsistencies in the designation of 
+supervisory responsibilities. Some position descriptions did not reflect current responsibilities. 
+
+According to the IBB 
+Office of Human Resources, 
+all position descriptions were updated 
+between 2009 and 2010.
+ In addition, OCB 
+managers were asked to review the position 
+descriptions 
+of all employees in 2012.
+ As a result, the position descriptions 
+were unchanged from 
+the earlier review and no updates were necessary. The 
+supervisor indicated changes needed to be 
+made in only a few cases. The IBB 
+Office of Human Resources has been working with OCB 
+to resolve 
+this issue 
+but 
+has made 
+little progress. 
+  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 15  Employees expressed to the inspection team that some of their duties have changed 
+dramatically 
+as 
+a result of being moved to other functions within OCB. 
+They attested
+ that their 
+responsibilities have changed but were 
+not reflected in their position descriptions. 
+Given that the 
+IBB Office of Human Resources 
+is in the process of updating some OCB position descriptions, 
+the inspection team suggested that 
+OCB ask all managers to review the position descriptions 
+of 
+their employees. 
+
+ Training 
+ OCB has a dedicated employee 
+who is responsible for identifying and enrolling staff in 
+training courses. Although 
+most employees said they receive training from time to time, 
+no one 
+keep
+s track of the 
+
+ training courses or the training courses that employees 
+need to 
+take for professional development. A 
+more systematic approach would help OCB 
+to have a better 
+
+. The inspection team suggested that OCB implement 
+a training plan for all employees. 
+ Equal Employment Opportunity 
+
+  
+ Employees indicated 
+that they were aware of the Equal Employment Opportunity (EEO
+) program, 
+the Office of Civil Rights,
+ and
+ the Office of Ombudsman. The inspection team noted 
+that the office does not have a dedicated EEO bulletin board. The 
+EEO and sexual harassment 
+information posted at the entrance of the facility dates
+ from 1999. The 
+inspector
+s 
+asked OCB 
+management to take down 
+
+ The IBB Office of Civil Rights staff visited OCB in early 2014. 
+ Technology and Information Management 
+ The OCB computer services division meets the needs of the OCB users as demonstrated 
+in the OIG questionnaires, in which most respondents expressed high satisfaction 
+with information technology support.
+ With the assistance of 
+the BBG Information Technology 
+Management 
+Division, the OCB computer services division has 
+an action and milestones p
+lan that lists the significant issues associat
+ed with the information technology systems.
+ OCB updates 
+the 
+plan 
+often 
+to show progress in correcting and mitigating the issues 
+listed on the plan. 
+ Facilities 
+ Fire 
+and Construction Implications 
+  
+ On April 21, 2013, OCB had
+ fire 
+damages to 
+an exterior 
+wall. 
+The smoke and the 
+sprinklers damaged 10,000 square feet of office space, which represents 20 percent of the 
+
+
+floor space. The Dade County Fire Department Investigation Report concluded that 
+the fire was accidental. A
+s a result of the damage inside the building,
+ 50 OCB employees were 
+displaced and took temporary quarters in other offices and on long tables throughout the 
+
+building.
+ OCB staff expressed to the inspection team 
+health concerns 
+from the initial smoke 
+inside the building. 
+OCB management contacted 
+an independent environmental testing firm to 
+measure the air quality in the building in the weeks following the fire. According to OCB, 
+
+additional air quality testing was conducted in March 2014, which confirmed that the air quality 
+
+in the building was safe.  
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 16  The building renovation and reoccupancy by OCB staff has been much slower than 
+anticipated.
+ This delay has been reportedly due to the building owner and the insurance company 
+being at odds over the insurance claim. 
+BBG and OCB 
+officials 
+repeatedly 
+asked 
+the 
+General 
+Services Administration to issue a cure notice to the landlord for failure to diligently proceed 
+
+with fire repairs.  
+  After weeks of appeals to various General Services 
+Administration officials, the notice 
+was issued. At the time of the inspection, construction to damaged areas was underway. 
+The 
+acting general manager proposed changes to two renovation and construction projects that OCB 
+management 
+had previously approved 
+and 
+were in progress. 
+First, proposed changes 
+to the 
+newsroom floor 
+plan and furniture configuration would have required additional desktops for 
+cubicles 
+and new frames, panels, and electrical equipment. Also, the furniture installer had been 
+scheduled under the prior configuration and other contractors also had been scheduled to provide 
+
+services for the renovation and transition of personnel back to normal operations.   
+
+ 
+ The inspection team requested a cost and schedule impact if the acting general manag
+
+proposed changes were carried out. The 
+building owner emphatically stated that he had paid for 
+interior renovations, such as new carpeting and electrical and fiber optic cabling,
+ and 
+that he 
+would not pay for having to redo much of this work. 
+After the inspection team inquired 
+about the 
+issue, the acting general manager agreed to use the original newsroom configuration plan.   
+ Safety 
+  The use of the automated external defibrillator (AED), combined with knowledge of 
+
+
+OCB claims that 
+18 employees in the Miami 
+office 
+were trained on the use of the AEDs in September 2013. 
+According to OCB, employees at the Marathon transmitting station have been trained by the Red 
+
+Cross
+ in the past 
+and will receive 
+refresher training later in 2014.
+ The inspection team did not 
+identify 
+the 18 employees allegedly trained in September 2013, either i
+n the use of the AED or 
+how to perform 
+cardiopulmonary resuscitation.
+ In addition, the inspectors did not receive 
+specific information regarding when the AED 
+training will take place for employees in the 
+Marathon transmitting station.    
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 17 Management Controls 
+ The inspection team identified several 
+management control weaknesses 
+in administrative 
+operations,
+ including 
+lack of financial management review for unliquidated obligations, 
+anomalies in the travel of the acting general manager, and lack of contracting oversight and 
+property management 
+procedures.
+  
+ 
+Unliquidated Obligations 
+
+ As of September 3, 2013, 
+prior to the on-site inspection, 
+OCB had approximately  
+$2.2 million 
+in unliquidated obligations 
+for FY 2013.
+ The BBG Office of Chief Financial Officer 
+generates a monthly status of unliquidated obligations 
+report.
+11 These reports are sent to BBG 
+offices, including OCB, for review. OCB 
+asserts that it reviews monthly unliquidated obligations 
+reports 
+received from the Office of Chief Financial Officer and deobligates items that are 
+determined to be no longer valid. 
+However, given the large amount of unliquidated obligations in 
+FY 2013, it leads the inspection team to determine that OCB has not been periodically reviewing 
+
+obligations and certifying 
+whether they are still valid or 
+whether funds or available balances can 
+be deobligated.  
+ 
+The BBG Office of Chief Financial Officer sent a memo, dated July 8, 2013, that requires 
+
+that are now expired before 
+
+OCB 
+had reduced the total unliquidated obligations to $1,611,312. Despite this effort, 
+unliquidated 
+obligations totaling $188,015 
+from FYs 2009
+2012 
+still remain. Unliquidated obligations 
+in the amount of 
+$40,632 have no-year budget authority. These funds in particular can be 
+reprogrammed for other OCB programming use.  
+ Recommendation 7:
+ The Office of Cuba Broadcasting should 
+deobligate $188,015
+ in unliquidated obligations for 
+FYs 20092012, reprogram $40,63
+2 in unliquidated obligations that 
+have no-year budget authority,
+ and implement a review system for future 
+unliquidated 
+obligations for potential deobligation. (Action: OCB) 
+  OCB is continuing to reduce the unliquidated obligations from prior years.
+ Since the time 
+of the on
+-site 
+inspection 
+in November 2013, the unliquidated obligations have been reduced. 
+At this time, OCB holds only $47,718 in unliquidated obligations 
+for FYs 2009
+2012. The 
+inspection team commends such action and encourages the continuing 
+reduction of the other 
+unliquidated amounts cited in this report. 
+ Travel Arrangement
+ for Acting General Manager 
+ The 
+acting general manager has a unique 
+travel arrangement. 
+On June 19, 2013, 
+about 2 
+months after the temporary detail started,
+ OCB, the IBB Office of Performance Review,
+ and 
+the Office of the Chief Financial Officer entered into an 
+informal travel arrangement 
+that describes 
+                                                 11 A recorded obligation reduces by the amount of payments made on bills received. The obligated balance still 
+owed is the unliquidated balance. When all services or goods have been received and paid for, the obligation is 
+considered liquidated, and any remaining balance should be deobligated to make the funds available for other uses.
+  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 18 the travel support for the OCB acting general manager. 
+On the basis of 
+the needs of OCB and 
+the Office of Performance Review, the acting general manager, who is an employee with the IBB 
+Office of Performance Review based in Washington, 
+DC, is on extended detail and TDYs 
+between Washington,
+ DC, (permanent duty station) and Miami (TDY location). 
+Directors of 
+both OCB and 
+the Office of Performance Review have agreed to let the employee commute as 
+need
+ed between his permanent duty station, TDY location, and his home in Los Angeles (his 
+second residence). 
+The extended TDY began in early April,
+ with no foreseeable end date.  
+  For trips made from April to June 2013, the Office of the Chief Financial Officer 
+coordinated and made travel arrangements for 
+the acting general manager, 
+including 
+the nonofficial travel segments to his Los Angeles home or other locations on the West Coast. 
+Airfare cost is capped at the constructed roundtrip fare or a Government refundable fare between 
+Washington, 
+DC, and Miami roundtrip, whichever is lower. The inspection team has evidence 
+that in April 2013 the IBB Office of Performance Review 
+did a constructive travel a
+nalysis to 
+show the preliminary cost savings (inclusive of hotels and car rentals) that may be achieved from 
+
+these weekly weekend returns as compared to biweekly returns. However, 
+the IBB Office of 
+Performance Review 
+did n
+ot do an 
+additional constructive travel 
+analysis in May or June.  
+  
+ After June 24, 2013, a new travel arrangement 
+started because of the acting general 
+
+to and 
+from 
+locations other than official travel 
+points, last-minute changes 
+in reservations, and resource constraints in the IBB travel office. 
+The 
+travel o
+ffice agreed to continue making travel arrangements only for the official segments,
+ and
+ the acting general manager will arrange the personal portion 
+on his own. For example, if the trip 
+involves two segments
+between Washington, 
+DC, and Miami, which is official business,
+ and 
+between Miami and Los Angeles, which is nonofficial
+the travel o
+ffice will be responsible for 
+the trip approval and ticketing within the E2 travel management system for the Washington, 
+DC, and Miami segment only. 
+
+ On September 
+22, 
+-time 
+TDY 
+to a 120-day temporary promotion to OCB on a full-
+time basis.
+ OCB and the IBB Office of 
+Performance Review agreed at the beginning of the temporary promotion that the IBB Office of 
+
+Performance Review would continue to pay the 
+
+promotion period and that OCB would pay for all per diem and related travel expenses while he 
+is working in Miami.   
+ The inspection team reviewed information that suggested BBG can pay for 
+the acting 
+
+, as long as it is less than the cost of housing and per diem for 
+the same days
+
+sonal travel is greater than housing and per 
+diem, OCB 
+should be paid for it. A 
+BBG official reviewing this situation stated
+
+he U.S. 
+Government can pay for travel only if it is work related. There is no legal authorization that 
+would enable a Federal ag
+
+savings. That would not be appropriate and neither is using taxpayer funds for unauthorized, 
+
+non-work related travel.
+
+  A review of t
+he acting general manager
+
+ work 
+schedule 
+showed 
+that he works 3
+ days a week 
+in the Miami office and 
+teleworks 2
+ days from 
+California or Washington State.
+ OCB management supports this arrangement because the acting general manager has applied 
+
+corrective actions 
+that he 
+recommended when he reviewed 
+the OCB operations as an analyst for 
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 19 the IBB Office of Performance Review.
+ 
+difference in salaries between 
+[that] 
+of the acting general manager and the former manager 
+almost solely make up for the TDY costs the acting general manager has incurred during the 
+TDY.
+ In the absence of constructive travel or any official cost-saving information, the 
+inspection team only used available travel vouchers to arrive a
+t the conclusion that this 
+arrangement is costly. 
+ 
+Between April and October 2013, BBG paid about $20,000 in travel costs. 
+The inspection 
+team supports the idea of having a permanent full-time employee serving as general manager 
+
+instead of paying travel costs for the current acting general manager.
+ To the acting general 
+
+, but no one has been chosen 
+for the job.
+ With decreased funding for travel costs, paying 
+for someone to serve in a position in 
+a different duty station 
+needs to be resolved.  
+ 
+Recommendation 8:
+ The Office of Cuba Broadcasting, in coordination with the International 
+Broadcasting Bureau, should terminate the current travel agreement of the acting general 
+
+manager 
+immediately and fill 
+the general manager position with a full-time permanent employee.
+ (Action: OCB,
+ in coordination with IBB) 
+  
+Property Management Records and Procedures 
+  The OCB property management program had significant management control 
+deficiencies because,
+ in accordance with BAM 12-107
+ Accounting for Nonexpendable Property 
+and Sensitive Equipment and Capitalized Property,
+ the accountable property officer, under the 
+supervision of the property control officer, is responsible for ensuring that all nonexpendable 
+property and sensitive equipment is properly received and processed,
+ including creating property 
+records in the Property Inventory Processing System 
+and placing a BBG barcode that shall 
+remain affixed to the property from when it is received until it is disposed of. 
+
+ 
+ OCB management was not keeping property records current nor was 
+it enforcing internal 
+controls 
+for several reasons.
+ One reason is that the OCB property control officer is also the 
+facilities and telecommunications 
+manager; he also provides engineering assistance. The 
+inspectors also found that the IBB Property 
+Management Office in Washington has not asked 
+OCB for updated property records. As a result, no OCB inventories 
+were performed during 
+FYs 
+2012 and 2013.
+ According to OCB equipment purchase
+ records from January through September 
+2013, 25 equipment purchases worth 
+$5,000 or more 
+were not reflected in the OCB property 
+records.
+ Lack of accurate property records can lead to waste of property 
+and vulnerabilities in 
+BBG financial statements.
+  
+Recommendation 9:
+ The Office of Cuba Broadcasting should conduct and update 
+inventory 
+records, provide updated reports 
+to the International Broadcasting Bureau,
+ Property Management 
+Office,
+ and implement property internal controls 
+procedures.
+ (Action: OCB) 
+ 
+ In November 2012, OCB disposed of 
+166 items.
+ Most of these items were computers and 
+laptops that were donated to a computer recycling company. An additional 37 
+items were 
+identified for disposal,
+ but OCB had not 
+disposed of them 
+at the time of the inspection. The 
+inspection team was not able to determine why OCB did not have a regular disposal schedule or 
+
+why it donated the laptops to a recycling company. According to BAM 12-111.1
+, Property 
+ SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 20 Disposal Procedures (to include Property Transfers Outside of Agency),
+ excess property should 
+be either transferred to another Federal agency or disposed of through the General Services 
+Administration. 
+  
+Recommendation 10:
+ The Office of Cuba Broadcasting should stop using its current disposal 
+practice and transfer all excess property to another Federal agency or dispose of 
+it through the 
+General Services Administration. (Action: OCB) 
+
+ 
+ OCB has not provided accurate capitalized property reports to the IBB Property 
+
+Management Office, as required by BAM 12-114.2,
+ Reporting on Property. For 2012, 13 of the 
+37 items 
+marked for disposal 
+are capitalized property. The items may still be depreciated,
+ even 
+though the equipment is not in use and has been moved to the OCB warehouse.
+  
+ For 2013, 
+capitalized property reports 
+showed 
+property locations that were not clear.
+ In 
+addition, the 
+capitalized p
+roperty reports had material discrepancies in reporting. For example, a 
+UHF TV broadcasting system for Aero Martí 
+was listed 
+for $3,160,621
+ in the 2011 capitalized 
+propert
+y report
+. In 
+the 2012 report,
+ the same item was listed as $4,578,714, 
+without explanation. 
+In 2013, the item had a value of $4,578,711
+. Th
+ese 
+discrepancies 
+may be attributable
+ to the 
+former accountable property officer, since retired, who purchased 
+new equipment that was added 
+to the UHF system,
+ thereby increasing total system costs by about $1.4 million,
+ instead of 
+separately reporting the equipment. Capitalized property is an area that auditors address in 
+
+
+
+  Recommendation 11:
+ The Office of Cuba Broadcasting should perform an 
+accurate capitalized 
+property 
+inventory 
+and provide the report
+ to the International 
+Broadcasting Bureau,
+ Property 
+Management Office. (Action: OCB) 
+
+ 
+ OCB has items, such as portable video cameras,
+ that are routinely removed for usage 
+without any hand receipts or property passes,
+ as required by BAM 12-107.4,
+ Hand Receipts, and 
+BAM 12-108
+, Removal of Property Non-Expendable Property. In June 2013, an OCB 
+video camera and related equipment valued at $25,154 were 
+stolen from an OCB vehicle. The 
+inspection team found no evidence that a hand receipt was assigned to an employee or 
+employees. Currently, the p
+roperty control o
+fficer does not follow a process to comply with 
+BAM 12-112
+, Reporting Lost, Stolen, Damaged, or Destroyed Property. This lack of 
+accountability and documented process in place may result in loss or theft of high
+-value items. 
+ Recommendation 12:
+ The Office of Cuba Broadcasting should implement issuance property 
+management procedures for all nonexpendable and sensitive property.
+ (Action: OCB) 
+  
+procedures for maintaining 
+official records 
+are 
+not current.
+ At the OCB 
+warehouse, the inspection team found about 200 unmarked boxes stacked on the warehouse 
+floor. The OCB property control officer had no records detailing the age or contents of the boxes 
+
+but believed that they may be old radio and TV program files. According to interviews with 
+some employees, 
+the 
+radio and TV offices performed 
+a 
+of documents a few years 
+
+ OCB officials said that the reason why the 
+records management function is not current is because of the newsroom fire in 2013,
+ which 
+resulted in the displacement of employees and records. In accordance with BAM 3-500,
+  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 21 Communications and Records,
+ public or sensitive recor
+ds should be identified, maintained,
+ and 
+disposed of accordingly.
+    Recommendation 13:
+ The Office of Cuba Broadcasting should 
+implement procedures for 
+maintaining and retiring official records.
+ (Action: OCB) 
+    SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 22 Security 
+ Office of Cuba Broadcasting, Marathon Transmitting Station, and Naval Air Station in 
+Key West  
+  The inspection team identified some security deficiencies in OCB facilities, mostly at the 
+
+Miami office. The Federal Protective Service, through private security guards, has around-the-
+clock oversight responsibility. 
+[Redacted] (b) (5), [Redacted] (b) (7)(F)      
+ The Marathon Transmitting Station has 
+[Redacted] (b) (5), [Redacted] (b) (7)(F)     
+ The U.S. Navy controls the security program at the Naval Air Station in Key West, and 
+
+OCB provides proper security support for its building within the grounds. It has an office at the 
+Naval Air Station in order to manage the now-grounded transmitting plane from the Aero Martí 
+program. Currently,
+[Redacted] (b) (5)    Prior to the on-site inspection of OCB, the IBB Office of Securi
+ty provided to the 
+inspection team the security assessment trip reports from 2009 to 2013. The 2012 and 2013 IBB 
+
+security assessment reports were similar in describing minor security issues. The inspection team 
+
+concluded that some of the vulnerabilities identified during the course of the inspection could 
+
+have been identified in the IBB security assessments trip reports. The OIG team counseled the 
+
+IBB 
+Office of Security senior staff on the need to conduct robust security assessments of BBG 
+facilities. 
+ Security Officer Duties 
+  The OCB security officer has collateral administrative and security duties. Besides the 
+
+security portfolio, she is responsible for administrative actions, which include 
+
+five 
+vehicles, preparing travel authorizations and vouchers, serving as training officer, and 
+addressing personnel actions. Considering the high-profile and controversial nature of OCB
+ work and the number of employees who work at the facility,
+[Redacted] (b) (5), [Redacted] (b) (7)(F)  The issue was raised in the 2007 OIG inspection report, which 
+recommended that OCB create a full-time security officer.   
+ 
+ In compliance correspondence between OIG and BBG, BBG indicated that a security 
+officer had been hired.
+ [Redacted] (b) (5), [Redacted] (b) (7)(F)  He worked exclusively on emergency 
+plans for 2 months in 2009, and 
+[Redacted] (b)  (5), [Redacted] (b) (7)(F)[Redacted] (b) (5), [Redacted] (b) (7)(F)  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 23   [Redacted] (b) (5), [Redacted] (b) (7)(F)[Redacted] (b) (5), [Redacted] (b) (7)(F)Emergency Preparedness 
+  The inspection team did not find any evidence that employees have participated in 
+
+regular fire drills or intruder drills in the Miami office or at the Marathon Transmitting Station. 
+
+These emergency drills are not considered top priorities. The OCB security officer has not 
+
+designated safe rooms where employees would assemble during an intruder attack or evacuation 
+
+meeting points in case of 
+a fire. In the event of a fire or intruder crisis, valuable time would be 
+lost giving directions to employees or placing all employees in safe locations. Sound security 
+practices dictate that routine emergency drills are critical to a successful response in crises.  
+ 
+Rec
+ommendation 15:
+ The Office of Cuban Broadcasting should conduct and document routine 
+fire and intruder drills and identify safe rooms. (Action: OCB) 
+[Redacted] (b) (5), [Redacted] (b) (7)(F) SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 24  Security Committee 
+  The 2010 Federal Interagency Security Committee Standards state that 
+a Facility Security 
+Committee should be in place to oversee security, life safety, and emergency plans at a Federal 
+facility. OCB does not have a Facility Security Committee. The OCB security officer was not 
+aware of this requirement. With a committee in place, acceptance and understanding of security 
+
+policies would be better understood throughout OCB.  
+[Redacted] (b) (5), [Redacted] (b) (7)(F) SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 25 Recommendation 19:
+ The Office of Cuba Broadcasting should establish a Facility Security 
+Comm
+ittee. (Action: OCB) 
+ Visitor Access List and Secure Telephone Equipment  
+  OCB doe
+s not have a visitor access policy or a formalized system for tracking visitors. 
+Curre
+ntly, guests often arrive at the facility without proper notification to the guards. In these 
+case
+s the guard at Post Three has to radio the guard at Post One, who then needs to get 
+authoriza
+tion from the receiving employee. This process is inefficient and diverts the security 
+
+
+verbal authorization. Good security practice mandates a formalized policy and procedure to 
+receive visitors at a Federal facility. The inspection team made a suggestion that OCB 
+
+manage
+ment implement a visitor access process. 
+  
+ In reviewing the storage of classified equipment,
+  [Redacted] (b) (5), [Redacted] (b) (7)(F)      SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 26 List of Recommendations 
+ Recommendation 1:
+ The International Broadcasting Bureau, in coordination with the Office 
+of Cuba Broadcasting, should implement oversight and contract administration procedures for 
+Office of Cuba Broadcasting contracts, in accordance with the Federal Acquisition Regulation. 
+
+(Action: IBB, in coordination with OCB)
+ Recommendation 2:
+ The International Broadcasting Bureau, in coordination with the Office 
+
+
+for Office of Cuba Broadcasting contracts, confirm that the designation letters are signed 
+and 
+dated, and include the designation letter in the contracting files, in accordance with the Federal 
+Acquisition Regulation. (Action: IBB, in coordination with OCB)
+ Recommendation 3:
+ The Office of Cuba Broadcasting, in coordination with the Internationa
+l 
+vendor contracts comply with contract administration requirements outlined in designation letters 
+
+and complete the contractor performance evaluation. (Action: OCB, in coordination with IBB)
+ Recommendation 4:
+ The International Broadcasting Bureau, in coordination with the Office 
+of Cuba Broadcasting, should stop using blanket purchase agreements and purchase orders for 
+
+purchase order vendor contracts and obtain personal services contract authority for all purchase 
+
+order vendor contracts. (Action: IBB, in coordination with OCB)
+ Recommendation 5:
+ The International Broadcasting Bureau, in coordination with the Office 
+of Cuba Broadcasting, should review periodicall
+
+usage. (Action: IBB, in coordination with OCB)
+ Recommendation 6:
+ The Office of Cuba Broadcasting should finalize the 2011
+2012 and 
+20122013 annual performance evaluations for all employees. (Action: OCB)
+ Recommendation 7:
+ The Office of Cuba Broadcasting should deobligate $188,015 in 
+unliquidated obligations for FYs 2009
+2012, reprogram $40,632 in unliquidated obligations that 
+have no-year budget authority, and implement a review system for future unliquidated 
+obligations for potential deobligation. (Action: OCB)
+ Recommendation 8:
+ The Office of Cuba Broadcasting, in coordination with the International 
+Broadcasting Bureau, should terminate the current travel agreement of the acting general 
+manager immediately and fill the general manager position with a full-time permanent employee. 
+
+(Action: OCB, in coordination with IBB)
+ Recommendation 9:
+ The Office of Cuba Broadcasting should conduct and update inventory 
+records, provide updated reports to the International Broadcasting Bureau, Property Management 
+
+Office, and implement property internal controls procedures. (Action: OCB)
+ Recommendation 10:
+ The Office of Cuba Broadcasting should stop using its current disposal 
+practice and transfer all excess property to another Federal agency or dispose of it through the 
+
+General Services Administration. (Action: OCB)
+  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 27 Recommendation 11:
+ The Office of Cuba Broadcasting should perform an accurate 
+capitalized property inventory and provide the report to the International Broadcasting Bureau, 
+Propert
+y Management Office. (Action: OCB)
+ Recommendation 12:
+ The Office of Cuba Broadcasting should implement issuance property 
+management procedures for all nonexpendable and sensitive property. (Action: OCB)
+ Recommendation 13:
+ The Office of Cuba Broadcasting should implement procedures for 
+maintaining and retiring official records. (Action: OCB)
+ [Redacted] (b) (5), [Redacted] (b) (7)(F)Rec
+ommendation 15:
+ The Office of Cuban Broadcasting should conduct and document 
+routine fire and intruder drills and identify safe rooms. (Action: OCB)
+ Recommendation 16:
+ The Office of Cuba Broadcasting, in coordination with the International 
+Broadcasting Bureau, should replace the emergency intercom at Post One with a modern system 
+
+that includes automated voice instructions and alert sounds. (Action: OCB, in coordination with 
+
+IBB)
+ [Redacted] (b) (5), [Redacted] (b) (7)(F)Rec
+ommendation 19:
+ The Office of Cuba Broadcasting should establish a Facility Security 
+Commit
+tee. (Action: OCB)
+    SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 28 Principal Officials 
+  Name
+ Arrival 
+Date
+ Director
+ Carlos A.
+ Garcia
+-Perez
+ 11/10 General Manager (Acting)
+ John Lippman
+ 04/13 Director for Administration
+ Irvin Rubenstein
+ 05/85 Staff Director
+ Emilio Vasquez
+ 11/10  SENSITIVE BUT UNCLASSIFIED
+  SENSITIVE BUT UNCLASSIFIED
+ 29 Abbreviations 
+ AED  
+Automated external defibrillator  
+BAM   
+Broadcasting Administrative Manual  
+BPA   
+Blanket purchase agreement  
+COR   
+
+ Department  
+U.S. Department of State  
+DVD  Digital video disk  
+EEO   
+Equal Employment Opportunity  
+FAR   
+Federal Acquisition Regulation  
+GAO   
+Government Accountability Office  
+IBB   
+International Broadcasting Bureau  
+OCB   
+Office of Cuba Broadcasting  
+OIG  
+Office of Inspector General 
+ SMS  
+Short message service  
+TDY   
+Temporary duty  
+VOA  Voice of America  
+  17  
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 14 12 11 4 6 16 10 2 4 2 ii 6 4 2  SENSITIVE BUT UNCLASSIFIED 
+SENSITIVE BUT UNCLASSIFIED 
+   FRAUD, WASTE, ABUSE,
+ OR MISMANAGEMENT
+ OF FEDERAL PROGRAMS 
+HURTS EVERYONE. 
+ CONTACT THE 
+OFFICE OF INSPECTOR GENERAL 
+HOTLINE 
+TO REPORT ILLEGAL 
+OR WASTEFUL ACTIVITIES: 
+ 202-647-3320 
+800-409-9926 
+oighotline@state.gov 
+oig.state.gov
+  Office of Inspector General 
+U.S. Department of State 
+P.O. Box 9778 
+Arlington, VA 22219 
+ 

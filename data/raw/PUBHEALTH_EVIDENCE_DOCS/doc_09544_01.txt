@@ -1,0 +1,56 @@
+Skip to Article Content Skip to Article Information             Working off-campus?
+ Clinical sites and personnel are shown in the online version of the article.
+ Trial Registration: : clinicaltrials.gov Identifier: NCT00017953         Funding agencies:: Department of Health and Human Services through the following cooperative agreements from the National Institutes of Health: DK57136, DK57149, DK56990, DK57177, DK57171, DK57151, DK57182, DK57131, DK57002, DK57078, DK57154, DK57178, DK57219, DK57008, DK57135, and DK56992.
+ The following federal agencies have contributed support: National Institute of Diabetes and Digestive and Kidney Diseases; National Heart, Lung, and Blood Institute; National Institute of Nursing Research; National Center on Minority Health and Health Disparities; NIH Office of Research on Women's Health; and the Centers for Disease Control and Prevention.
+ This research was supported in part by the Intramural Research Program of the National Institute of Diabetes and Digestive and Kidney Diseases.
+ The Indian Health Service (I.H.S.)
+ provided personnel, medical oversight, and use of facilities.
+ The opinions expressed in this paper are those of the authors and do not necessarily reflect the views of the I.H.S.
+ or other funding sources.
+ Additional support was received from The Johns Hopkins Medical Institutions Bayview General Clinical Research Center (M01RR02719); the Massachusetts General Hospital Mallinckrodt General Clinical Research Center and the Massachusetts Institute of Technology General Clinical Research Center (M01RR01066); the University of Colorado Health Sciences Center General Clinical Research Center (M01RR00051) and Clinical Nutrition Research Unit (P30 DK48520); the University of Tennessee at Memphis General Clinical Research Center (M01RR0021140); the University of Pittsburgh General Clinical Research Center (GCRC) (M01RR000056), the Clinical Translational Research Center (CTRC) funded by the Clinical &amp; Translational Science Award (UL1 RR 024153) and NIH grant (DK 046204); the VA Puget Sound Health Care System Medical Research Service, Department of Veterans Affairs; and the Frederic C. Bartter General Clinical Research Center (M01RR01346).
+ Some of the information contained herein was derived from data provided by the Bureau of Vital Statistics, New York City Department of Health and Mental Hygiene.
+ Disclosure:: Author disclosures are provided in Supplementary Online Appendix II.
+ Author Contributions:: Study concept and design: All authors.
+ Acquisition of data: All authors.
+ Analysis and interpretation of data: MPW, TAW, ESH JMJ, WCK, FXP, DSW, RRW, and SZY.
+ Drafting of the manuscript: TAW, ESH, JMJ, WCK, FXP, MPW, DSW, RRW, and SZY.
+ Critical revision of the manuscript for important intellectual content: All authors.
+ Statistical analysis: MPW.
+ AboutSectionsPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues.
+ Design and Methods Look AHEAD assessed the effects of intentional weight loss on cardiovascular morbidity and mortality in 5,145 overweight/obese adults with type 2 diabetes, randomly assigned to ILI or usual care (i.e., diabetes support and education [DSE]).
+ The ILI provided comprehensive behavioral weight loss counseling over 8 years; DSE participants received periodic group education only.
+ Results All participants had the opportunity to complete 8 years of intervention before Look AHEAD was halted in September 2012; ≥88% of both groups completed the 8‐year outcomes assessment.
+ ILI and DSE participants lost (mean ± SE) 4.7% ± 0.2% and 2.1 ± 0.2% of initial weight, respectively (P 23 kg/m2), or reverse weight gain.
+ All were encouraged to continue to use meal replacements (at no charge) to replace one meal or snack per day, to exercise ≥200 minutes/week, and to monitor weight weekly or more often.
+ During years 2‐8, all sites offered a monthly group meeting at which members weighed‐in, reviewed diet and activity records, and participated in a lifestyle modification session.
+ Each year sites also offered at least one Refresher Group and one National Campaign, as used in the DPP (21).
+ Refresher Groups typically lasted 6‐8 weeks and were organized around a weight loss and/or physical activity theme (19).
+ National Campaigns were similar in providing a group experience for 8‐10 weeks but challenged participants to meet a specific goal (e.g., losing 5 lb), for which they received a small prize.
+ Interventionists included registered dietitians, psychologists, and exercise specialists, all of whom were certified annually.
+ In addition to cognitive behavioral therapy, they incorporated elements of problem solving, motivational interviewing, and cultural tailoring in their counseling (23-25).
+ They also could select more intensive interventions from a toolbox, described previously (18, 19).
+ DSE For the first 4 years, DSE participants were provided three 1‐hour group meetings per year that discussed diet, physical activity, and social support, respectively (20).
+ These sessions offered information but not specific behavioral strategies for adhering to the diet and physical activity recommendations.
+ Years 5 to 8 provided one such session per year.
+ Persons who desired more help with weight loss were referred to their PCPs, who were free to recommend whatever interventions they considered appropriate.
+ Assessments Weight was measured at baseline and annually thereafter with a digital scale (model BWB‐800; Tanita, Willobrook, IL), by certified staff who were masked to intervention assignment.
+ Physical activity was assessed at baseline and years 1, 4, and 8 by the Paffenbarger Activity Questionnaire (PAQ) (26), which provides an estimate of weekly energy expenditure from moderate intensity physical activity (e.g., climbing stairs, walking, and other fitness, sport, and recreational activities).
+ At baseline and years 1 and 4, only participants at eight centers (i.e., the same each year) completed the questionnaire; in year 8, participants at all sites completed it.
+ All participants also reported at baseline and years 1‐4, as well as at year 8, the number of weeks in the prior year that they engaged in behaviors previously determined to be associated with long‐term weight control: a) increasing physical activity (27-29); b) monitoring body weight (30, 31); c) reducing calorie and fat intake (32, 33); and d) using meal replacements (33).
+ These items were included in a questionnaire developed by study investigators (available on request).
+ Statistical analyses The present analyses focused on the first 8 years of intervention, which all participants had the opportunity to complete before the trial was halted in September 2012.
+ (Weight data reported in the primary endpoint paper included participants at different stages of intervention, ranging from 8.2 to 11 years.)
+ The analyses followed the intention‐to‐treat principle in which participants were grouped according to intervention assignment, regardless of adherence, and all follow‐up data were included.
+ The percentage of participants in each group who met different categorical weight losses (e.g., ≥5% or ≥10% loss) at years 1 and 8 were compared using generalized estimating equations (GEE).
+ All statistical analyses were performed using SAS version 9.2 (SAS Institute, Cary, NC).
+ Body weight data for participants who died during the 8‐year trial were included in the analyses until censored at the time of death.
+ In addition, all analyses were conducted with and without censoring weights of participants (in both groups) who underwent bariatric surgery.
+ In year 1, 5 ILI and 10 DSE participants had surgery, which increased by year 8 to a total of 76 and 84, respectively (the latter values representing 3.0% and 3.3% of participants randomized to ILI and DSE, respectively).
+ The two sets of analyses yielded the same statistical conclusions concerning differences between groups.
+ Mean weight losses for both sets of analyses are reported; however, we focus primarily on weight changes in which bariatric surgery patients were censored (at the time of surgery) to provide the most accurate estimate of the efficacy of the lifestyle intervention.
+ For the ILI participants only, weight loss trajectories over the 8 years were determined for participants who at year 1 had lost ≥10% of initial weight, 5% to                   INSTITUTIONAL LOGIN &gt;             Change Password        Old Password       New Password     Too Short Weak Medium Strong Very Strong Too Long       Password Changed Successfully Your password has been changed           Create a new account      Email or Customer ID                    Returning user                 Forgot your password?
+ Enter your email address below.
+ Email or Customer ID           Please check your email for instructions on resetting your password.
+ If you do not receive an email within 10 minutes, your email address may not be registered,      and you may need to create a new Wiley Online Library account.
+ Request Username  Can't sign in?
+ Forgot your username?

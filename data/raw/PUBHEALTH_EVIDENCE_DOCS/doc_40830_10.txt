@@ -1,0 +1,16 @@
+Skip to main content      Internet explorer is no longer supported          We have detected that you are using Internet Explorer to visit this website.
+ Internet Explorer is now being phased out by Microsoft.
+ As a result, NHS Digital no longer supports any version of Internet Explorer for our web-based products, as it involves considerable extra effort and expense, which cannot be justified from public funds.
+ Some features on this site will not work.
+ You should use a modern browser such as Edge, Chrome, Firefox, or Safari.
+ If you have difficulty installing or accessing a different browser, contact your IT support team.
+ Access and extract information to meet your own needs - make selections, view comparisons, create tables and generate graphs.
+ Page contents    Top of page   About iView   iView is being replaced by iViewPlus   Further information                 Visit the iView data tool        Visit the iViewPlus data tool       Becoming a user is quick and easy but there are some restrictions on who can access some of the data.
+ If you don&apos;t already use the NHS Digital single sign-on system you&apos;ll have to register for an account.
+ About iView  iView is an online service that provides health and social care data to authorised users.
+ A wide range of health and social care datasets are scheduled to be introduced to the system in the future so that customers can take advantage of the enhanced functionality provided by iViewPlus.
+ The following data areas are currently available on the iView platform:  Clinical Commissioning Group (CCG) prescribing  Dental Activity Data Estates and facilities  National Bowel Cancer Audit NHS Diagnostic Imaging Data PCT Prescribing Social Care (NASCIS) Workforce Annual Census Data Workforce General Practitioners Quarterly Data Workforce Monthly Data  Further information about data areas is available on iView.
+ The following data areas are awaiting migration to the new iViewPlus platform:  Workforce monthly data Innovation Scorecard Children and Young People&apos;s Health Services (CYPHS)  eMED3 (fit notes)  National Adult Social Care Intelligence Service (NASCIS)  HES Estates and facilities  Clinical Commissioning Group (CCG) prescribing  Workforce GP Quarterly  Diagnostic imaging  Metadata   Data areas currently available on iViewPlus:  Mental health services Maternity services     Further information    internal iViewPlus user guide Guidance on using the new iViewPlus tool, from creating and running a query to sharing dashboards with other users.
+ internal iViewPlus terms and conditions Terms and conditions apply to both published and unpublished data unless otherwise stated.
+ The right of access cannot be transferred to anyone else.
+ internal Advice for new iViewPlus users and those wishing to register iViewPlus is a free to use interactive data visualisation tool which is being developed by NHS Digital to allow users quick and easy access to health and social care data.

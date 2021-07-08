@@ -1,0 +1,437 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListSleepv.39(1); PMC4678357        Sleep.
+ 2016 Jan 1; 39(1): 97–109.
+ Published online 2016 Jan 1. doi: 10.5665/sleep.5326PMCID: PMC4678357PMID: 26518593Effects of Wind Turbine Noise on Self-Reported and Objective Measures of SleepDavid S. Michaud, PhD,1 Katya Feder, PhD,1 Stephen E. Keith, PhD,1 Sonia A. Voicescu, MSc,1 Leonora Marro, MSc,2 John Than, MSc,2 Mireille Guay, MSc,2 Allison Denning, MES,3 Brian J. Murray, MD, FRCP(C)D, ABSM,4 Shelly K. Weiss, MD, FRCPC,5 Paul J. Villeneuve, PhD,6 Frits van den Berg, PhD,7 and Tara Bower, MSc8David S. Michaud1Health Canada, Environmental and Radiation Health Sciences Directorate, Consumer &amp; Clinical Radiation Protection Bureau, Ottawa, Ontario, CanadaFind articles by David S. MichaudKatya Feder1Health Canada, Environmental and Radiation Health Sciences Directorate, Consumer &amp; Clinical Radiation Protection Bureau, Ottawa, Ontario, CanadaFind articles by Katya FederStephen E. Keith1Health Canada, Environmental and Radiation Health Sciences Directorate, Consumer &amp; Clinical Radiation Protection Bureau, Ottawa, Ontario, CanadaFind articles by Stephen E. KeithSonia A. Voicescu1Health Canada, Environmental and Radiation Health Sciences Directorate, Consumer &amp; Clinical Radiation Protection Bureau, Ottawa, Ontario, CanadaFind articles by Sonia A. VoicescuLeonora Marro2Health Canada, Population Studies Division, Biostatistics Section, Tunney's Pasture, Ottawa, Ontario, CanadaFind articles by Leonora MarroJohn Than2Health Canada, Population Studies Division, Biostatistics Section, Tunney's Pasture, Ottawa, Ontario, CanadaFind articles by John ThanMireille Guay2Health Canada, Population Studies Division, Biostatistics Section, Tunney's Pasture, Ottawa, Ontario, CanadaFind articles by Mireille GuayAllison Denning3Health Canada, Environmental Health Program, Health Programs Branch, Regions and Programs Bureau, Halifax, Nova Scotia, CanadaFind articles by Allison DenningBrian J. Murray4Division of Neurology, Department of Medicine, Sunnybrook Health Sciences Center, University of Toronto, Toronto, Ontario, CanadaFind articles by Brian J. MurrayShelly K. Weiss5Division of Neurology, Department of Pediatrics, Hospital for Sick Children, University of TorontoFind articles by Shelly K. WeissPaul J. Villeneuve6Department of Health Sciences, Carleton University, Ottawa, Ontario, CanadaFind articles by Paul J. VilleneuveFrits van den Berg7GGD Amsterdam Public Health Service, Environmental Health Department, Amsterdam, The NetherlandsFind articles by Frits van den BergTara Bower8Health Canada, Environmental and Radiation Health Sciences Directorate, Office of Science Policy, Liaison and Coordination, Ottawa, Ontario, CanadaFind articles by Tara BowerAuthor information Article notes Copyright and License information Disclaimer1Health Canada, Environmental and Radiation Health Sciences Directorate, Consumer &amp; Clinical Radiation Protection Bureau, Ottawa, Ontario, Canada2Health Canada, Population Studies Division, Biostatistics Section, Tunney's Pasture, Ottawa, Ontario, Canada3Health Canada, Environmental Health Program, Health Programs Branch, Regions and Programs Bureau, Halifax, Nova Scotia, Canada4Division of Neurology, Department of Medicine, Sunnybrook Health Sciences Center, University of Toronto, Toronto, Ontario, Canada5Division of Neurology, Department of Pediatrics, Hospital for Sick Children, University of Toronto6Department of Health Sciences, Carleton University, Ottawa, Ontario, Canada7GGD Amsterdam Public Health Service, Environmental Health Department, Amsterdam, The Netherlands8Health Canada, Environmental and Radiation Health Sciences Directorate, Office of Science Policy, Liaison and Coordination, Ottawa, Ontario, CanadaAddress correspondence to: David S. Michaud, PhD, Health Canada, Environmental and Radiation Health Sciences Directorate, Consumer and Clinical Radiation Protection Bureau, 775 Brookfield Road, Ottawa, Ontario, Canada, K1A 1C1Phone: (613) 954-6670Fax: (613) 941-1734, ac.adanac@duahcim.divadReceived 2015 Feb; Revised 2015 Aug; Accepted 2015 Aug.Copyright © 2016 Associated Professional Sleep Societies, LLC.This article has been corrected.
+ See Sleep.
+ 2018 May; 41(5): zsy037.This article has been cited by other articles in PMC.Associated DataSupplementary Materialsaasm.39.1.97s1.pdf (635K)GUID: 473C8146-6765-4F03-8991-0DFDF2426FF2AbstractStudy Objectives:To investigate the association between self-reported and objective measures of sleep and wind turbine noise (WTN) exposure.Methods:The Community Noise and Health Study, a cross-sectional epidemiological study, included an in-house computer-assisted interview and sleep pattern monitoring over a 7 d period.
+ Outdoor WTN levels were calculated following international standards for conditions that typically approximate the highest long-term average levels at each dwelling.
+ Study data were collected between May and September 2013 from adults, aged 18–79 y (606 males, 632 females) randomly selected from each household and living between 0.25 and 11.22 kilometers from operational wind turbines in two Canadian provinces.
+ Self-reported sleep quality over the past 30 d was assessed using the Pittsburgh Sleep Quality Index.
+ Additional questions assessed the prevalence of diagnosed sleep disorders and the magnitude of sleep disturbance over the previous year.
+ Objective measures for sleep latency, sleep efficiency, total sleep time, rate of awakening bouts, and wake duration after sleep onset were recorded using the wrist worn Actiwatch2® from a subsample of 654 participants (289 males, 365 females) for a total of 3,772 sleep nights.Results:Participant response rate for the interview was 78.9%.
+ Outdoor WTN levels reached 46 dB(A) with an arithmetic mean of 35.6 and a standard deviation of 7.4.
+ Self-reported and objectively measured sleep outcomes consistently revealed no apparent pattern or statistically significant relationship to WTN levels.
+ However, sleep was significantly influenced by other factors, including, but not limited to, the use of sleep medication, other health conditions (including sleep disorders), caffeine consumption, and annoyance with blinking lights on wind turbines.Conclusions:Study results do not support an association between exposure to outdoor WTN up to 46 dB(A) and an increase in the prevalence of disturbed sleep.
+ Conclusions are based on WTN levels averaged over 1 y and, in some cases, may be strengthened with an analysis that examines sleep quality in relation to WTN levels calculated during the precise sleep period time.Citation:Michaud DS, Feder K, Keith SE, Voicescu SA, Marro L, Than J, Guay M, Denning A, Murray BJ, Weiss SK, Villeneuve PJ, van den Berg F, Bower T. Effects of wind turbine noise on self-reported and objective measures of sleep.
+ SLEEP 2016;39(1):97–109.Keywords: actigraphy, annoyance, multiple regression models, PSQI, sleep, wind turbine noiseSignificanceThis study provides the most comprehensive assessment to date of the potential association between exposure to wind turbine noise (WTN) and sleep.
+ As the only study to include both subjective and objective measures of sleep, the results provide a level of insight that was previously unavailable.
+ The absence of an effect of WTN on sleep is based on an analysis of self-reported and objectively measured outcomes in relation to long term outdoor average sound levels.
+ Sleep disorders such as insomnia and obstructive sleep apnea are associated with an increased incidence of hypertension, heart failure, and stroke.6,7Sleep can clearly be disrupted with noise.8 It has long been recognized that electroencephalography (EEG) arousals can be induced with external environmental stimuli, but are modulated by sleep state.9 The World Health Organization (WHO) Guidelines for Community Noise recommend that, for continuous noise, an indoor sound level of 30 dB(A) should not be exceeded during the sleep period time to avoid sleep disturbance.10 More recently, the WHO's Night Noise Guidelines for Europe11 suggest an annual average outdoor level of 40dB(A) to reduce negative health outcomes from sleep disturbance even among the most vulnerable groups.Sleep can be measured by subjective and objective means12 although due to the fundamental nature of unconsciousness in this state, people are unable to introspect on their sleep state.
+ As such, an individual may surmise the quality of his or her sleep, with descriptions of what his or her presumed sleep was like, periods of awakening, and consequences of the state.
+ However, sleep state misperception is a common clinical phenomenon, whereby patients with some degree of insomnia may report much worse quality of sleep than what actually occurred.13 Subjective interpretation of sleep state is thus subject to biased reporting from the individual and therefore subjective and objective measures of sleep are frequently discordant.
+ Therefore, objective physiological measures of sleep can provide a more accurate reflection of what actually happened during an individual's sleep and form the basis of an unprejudiced understanding of the actual biological effect of factors such as noise on sleep.Although the current study is the first to include objective measures in the assessment of sleep quality in the context of wind turbine noise (WTN) exposure, the psychological experience of the individual must be considered, though this factor may be more prone to subjective interpretation.
+ Numerous subjective scales of sleep have been devised.
+ The Pittsburgh Sleep Quality Index (PSQI)14 is a measure of the subjective experience of sleep that has had detailed psychometric assessment,15 validation in numerous populations,16–18 and is one of the most common subjective methodologies used in sleep research.The PSQI has been administered in a study to compare subjective sleep quality among 79 subjects living near two different wind farms wherein it was reported that sleep quality was worse among the group living closer to the wind turbines.19 Pedersen20 found that self-reported sleep disturbance for any reason from any source was inconsistently related to the level of WTN.
+ Bakker et al.21 showed that self-reported sleep disturbance was correlated to WTN level, but when noise annoyance from wind turbines was brought into a multiple regression, sleep disturbance appeared to be highly correlated to the annoyance, but not to WTN level and only annoyance was statistically correlated to WTN level.
+ This is consistent with the study by van den Berg et al.22 wherein noise annoyance was reported as a better predictor of self-reported sleep disturbance than noise level for transportation, industrial, and neighbor noise.Several studies have provided objectively measured assessments of transportation noise-induced sleep disturbance.23–26 Although it is clear that noise is among the many factors that contribute to sleep disturbance23,24,27,28 there has been no study to date that has provided an assessment of sleep disturbance in the context of WTN exposures using objective measures such as actigraphy.The current study was designed to objectively measure sleep in relation to WTN exposure using actigraphy, which has emerged as a widely accepted tool for tracking sleep and wake behavior.29,30 The objective measures of sleep, when considered together with self-report, provide a more comprehensive evaluation of the potential effect that WTN may have on sleep.This study was approved by the Health Canada and Public Health Agency of Canada Review Ethics Board (Protocol #2012-0065 and #2012-0072).METHODSample DesignTarget population, sample size, and sampling frame strategySeveral factors influenced the determination of the final sample size, including having adequate statistical power to assess the study objectives, and adequate time allocation for collection of data, influenced by the length of the personal in-dwelling interview and the time needed to collect the physical measures.
+ Overall statistical power for the study was based on the study's primary objective to assess WTN-associated effects on sleep quality.
+ Based on an initial sample size of 2,000 potential dwellings, it was estimated that there would be 1,120 completed survey responses.
+ For 1,120 survey responses there should be sufficient statistical power to detect at least a 7% difference in the prevalence of sleep disturbances with 80% power and a 5% false positive rate (Type I error).
+ There was uncertainty in the power assessment because the current Community Noise and Health Study, was the first to implement objectively measured endpoints to study the possible effects of WTN on sleep.
+ How these power calculations applied to actigraphy-measured sleep was also unknown.
+ In the absence of comparative studies, a conservative baseline prevalence for reported sleep disturbance of 10% was used.31,32 Sample size calculation also incorporated the following assumptions: (1) approximately 20% to 25% of the targeted dwellings would not be valid dwellings (i.e., demolished, unoccupied seasonal, vacant for unknown reasons, under construction, institutions, etc.
+ ); and (2) of the remaining dwellings, there would be a 70% participation rate.
+ These assumptions were validated (see response rates and sample characteristics related to sleep).Study locations were drawn from areas in southwestern Ontario (ON) and Prince Edward Island (PEI) where there were a sufficient number of dwellings within the vicinity of wind turbine installations.
+ The ON and PEI sampling regions included 315 and 84 wind turbines, respectively.
+ The wind turbine electrical power outputs ranged between 660 kW to 3 MW (average 2.0 ± 0.4 MW).
+ All turbines were modern monopole tower design with three pitch-controlled rotor blades (∼80 m diameter) upwind of the tower and most had 80 m hub heights.
+ All identified dwellings within approximately 600 m from a wind turbine and a random selection of dwellings between 600 m and 11.22 km were selected from which one person per household between the ages of 18 and 79 y was randomly selected to participate.
+ The final sample size in ON and PEI was 1,011 and 227, respectively.
+ Participants were not compensated in any way for their participation.Wind turbine sound pressure levels at dwellingsOutdoor sound pressure levels were estimated at each dwelling using both ISO 9613-133 and ISO 9613-234 as incorporated in the commercial software CadnaA version 4.4.35 The resulting calculations represent long-term (1 y) A-weighted equivalent continuous outdoor sound pressure levels (LAeq).
+ Therefore, calculated sound pressure levels can only approximate with a certain degree of uncertainty the sound pressure level at the dwelling during the reference time periods that are captured by each measure of sleep.
+ The time reference period ranges from 1–7 d (actigraphy), to 30 d for the PSQI and the previous year for the assessment of the percentage highly sleep disturbed.
+ Van den Berg36 has shown that, in the Dutch temperate climate, the long-term average WTN level for outdoor conditions is 1.7 ± 1.5 dB(A) below the sound pressure level at 8 m/sec wind speed.
+ Accordingly, a best estimate for the average nighttime WTN level is approximately 2 dB(A) below the calculated levels reported in this study.Calculations included all wind turbines within a radius of 10 km, and were based on manufacturers' octave band sound power spectra at a standardized wind speed of 8 m/sec and favorable sound propagation conditions.
+ Favorable conditions assume the dwelling is located downwind of the noise source, a stable atmosphere, and a moderate ground-based temperature inversion.
+ The manufacturers' data were verified for consistency using on-site measurements of wind turbine sound power.
+ The standard deviation in sound levels was estimated to be 4 dB(A) up to 1 km, and at 10 km the uncertainty was estimated to be between 10 dB(A) and 26 dB(A).
+ Although calculations based on predictions of WTN levels reduces the risk of misclassification compared to direct measurements, the risk remains to some extent.
+ The calculated levels in the current study represent reasonable worst-case estimates expected to yield outdoor WTN levels that typically approximate the highest long-term average levels at each dwelling and thereby optimize the chances of detecting WTN-induced sleep disturbance.
+ The few dwellings beyond 10 km were assigned the same calculated WTN value as dwellings at 10 km.
+ Unless otherwise stated, all decibel references are A-weighted.
+ A-weighting filters out low frequencies in a sound that the human auditory system is less sensitive to at low sound pressure levels.In the current study, low-frequency noise was estimated by calculating C-weighted sound pressure levels.
+ No additional benefit was observed in assessing low frequency noise because C- and A-weighted levels were so highly correlated.
+ Estimates are based on dwelling density per quarter section, which represents an area with a 451 m radius and distance to heavily travelled roads or rail lines.
+ When modeled in accordance with these regulations, estimated levels can range from 35 dB(A) to 51 dB(A).
+ The possibility that exposure to high levels of road traffic noise may create a background sound pressure level higher than that estimated using the Alberta regulations was considered.
+ In ON, road noise for the six-lane concrete Highway 401 was calculated using the United States Federal Highway Administration (FHWA) Traffic Noise Model43 module in the CadnaA software.35 This value was used when it exceeded the Alberta noise estimate, making it possible to have levels above 51 dB(A).Data CollectionQuestionnaire administration and refusal conversion strategiesThe questionnaire instrument included modules on basic demographics, noise annoyance, health effects, quality of life, sleep quality, sleep disorders, perceived stress, lifestyle behaviors, and prevalence of chronic disease.
+ To avoid bias, the true intent of the study, which was to assess the community response to wind turbines, was masked.
+ Throughout the data collection, the study's official title was: Community Noise and Health Study.
+ This approach is commonly used to avoid a disproportionate contribution from any group that may have distinct views toward wind turbines.
+ Data collection took place through in-person interviews between May and September 2013 in southwestern ON and PEI.
+ After a roster of all adults aged 18 to 79 y living in the dwelling was compiled, a computerized method was used to randomly select one adult from each household.
+ If the individual refused to participate, they were then contacted a second time by either the senior interviewer or another interviewer.
+ If, after a second contact, respondents refused to participate, the case was coded as a final refusal.Self-reported sleep assessmentLong-term self-reported sleep disturbance included an assessment of the magnitude of sleep disturbance experienced at home (of any type for any reason) over the past year.
+ Participants were requested to describe their level of sleep disturbance at home over the past year using one of the following categories: “not at all,” “slightly,” “moderately,” “very” or “extremely,” where the top two categories were collapsed and considered to reflect “highly sleep disturbed.” For the purposes of this analysis the bottom three categories reflect “low sleep disturbance.” These categories and the classification of “highly sleep disturbed” is consistent with the approach adopted for annoyance44 and facilitates comparisons to self-reported sleep disturbance functions developed for transportation noise sources.45 Data were collected on prevalence of diagnosed sleep disorders.
+ In addition, participants completed the PSQI, which provided an assessment of sleep quality over the previous 30 d. The seven components of the PSQI are scored on a scale from 0 (better) to 3 (worse); therefore the global PSQI is a score ranging between 0–21, where a value of greater than 5 is thought to represent poor sleep quality.14,16–18Objectively measured sleepAn Actiwatch2® (Philips Healthcare, Andover, MA, USA) sleep watch was given to all consenting and eligible participants aged 18 to 79 y who were expected to sleep at their current address for a minimum of 3 of the 7 nights following the interview.
+ There were 450 devices at hand that were cycled throughout the study.
+ In order to receive the device, respondents also needed to have full mobility in the arm on which the watch was to be worn.
+ Respondents were asked to wear the device on their wrist during all hours of the day and night for the 7 d following their interview.
+ The Actiwatch2® provides key information on sleep patterns (based on movement), including timing and duration of sleep as well as awakenings, and has been compared with polysomnography in some patient samples,46 but does not replace polysomnography due to imperfect sensitivity and specificity for detecting wake periods.
+ However, this tool can provide reasonable estimates for assessing subjects objectively for more prolonged periods of time than conventional assessment tools, with minimal participant burden.47 The devices were configured to continuously record a data point every 60 sec for the entire 7 d period.
+ Data analysis was conducted using Actiware® Version 5.148 with the software set to default settings (i.e., sensitivity setting of medium and a minimum minor rest interval size of 40 min).
+ With these settings an epoch of 40 counts (i.e., accelerometer activity above threshold) or less is considered sleep and epochs above 40 counts are considered wake.
+ However, any given epoch is scored using a 5-epoch weighting scheme.
+ This procedure weighs the 2 epochs adjacent to the epoch in question.
+ The 5-epoch weighting is achieved by multiplying the number of counts in each respective epoch by the following: 1/25, 1/5, 1, 1/5, 1/25, whereby an average above 40 indicates “awake” for the central epoch.
+ The sleep start parameter was automatically calculated by the Actiware® software determined by the first 10 min period in which no more than one 60 sec epoch was scored as mobile.
+ An epoch is scored as mobile if the number of activity counts recorded in the epoch is greater than or equal to the epoch length in 15 sec intervals (i.e., in a 60 sec epoch an activity value of 4 or higher).
+ Endpoints of interest from wrist actigraphy included sleep efficiency (total sleep time divided by measured time in bed), sleep latency (how long it took to fall asleep), wake after sleep onset (WASO) (the total duration of awakenings), total sleep time, and the number of awakening bouts (WABT) (during a sleep period).
+ The WABT data was analysed as the rate of awakening bouts per 60 min in bed.To help interpret the measured data, respondents were asked to complete a basic sleep log each night of the study.
+ The log contained information about whether the respondent slept at home or not, presence of windows in the room where they slept, and whether or not the windows were open.
+ After the 7 d collection period, respondents were asked to return the completed sleep log with the actigraph in a prepaid package.Statistical MethodologyThe analysis follows the description in Michaud et al.,49 which provides a summary of the study design and objectives, as well as a proposed data analysis.
+ Briefly, the Cochran Mantel-Haenszel chi-square test was used to detect associations between self-reported magnitude or contributing sources of sleep disturbance and WTN exposure groups while controlling for province.
+ To develop the best model to predict each endpoint of interest, the stepwise method, which guards against issues of multicollinearity, was used for multiple regression models.The stepwise regression was carried out in three different ways wherein the base model included: (1) WTN exposure category and province; (2) WTN exposure category, province, and an adjustment for individuals who reported receiving personal benefit from having wind turbines in the area; and (3) WTN category and province, stratified for those who received no personal benefit.For the analysis of PSQI, multiple logistic regression models were developed using the stepwise method with a 20% significance entry criterion and a 10% significance criterion to remain in the model.
+ Therefore, the base model for the multiple GEE regression models included only WTN category, province, and day of the week.
+ The same stepwise methodology that was applied to build the PSQI models was used to develop multiple GEE regression models for each actigraphy endpoint.
+ The within-subjects correlations were examined with different working correlation matrix structures (unstructured, compound symmetry, and autoregressive of first order).
+ Therefore, to analyze awakening bouts a Poisson distribution was assumed.
+ The number of awakening bouts was analyzed with respect to the total time spent in bed and is reported as a rate of awakening bouts per 60 min in bed.
+ Because back-transformation was not possible for some endpoints, the arithmetic mean (least squares mean [LSM]) is presented for all endpoints.All regression models for PSQI and actigraphy endpoints were adjusted for provincial differences.
+ Province was initially assessed as an effect modifier.
+ Because the interaction was not statistically significant for any of the multiple regression models, province was treated as a confounder in the models with associated adjustments, as required.
+ Statistical analysis was performed using SAS version 9.2.
+ A 5% statistical significance level was implemented throughout unless otherwise stated and Tukey corrections were applied to account for all pairwise comparisons to ensure that the overall Type I (false positive) error rate was less than 0.05.Actigraphy Data ScreeningThe sleep actigraphy file consisted of 4,742 nights of actigraphy measured sleep (i.e., sleep nights) data from 781 participants.
+ Removal of these data supported the objective to relate sleep behavior to noise exposure from wind turbines at the participants' dwelling.
+ One participant was removed where there appeared to be a watch malfunction (i.e., indicated nearly constant sleep).
+ The final sample size consisted of 3,772 sleep nights and 654 participants.
+ Any sleep that started after midnight, but before 05:00 was re-coded and considered as sleep for the previous night to avoid having two sleep observations for the same night.
+ For the remaining data, all available data was used whether the person wore the watch for 1 d or for the maximum 7 d.RESULTSWind Turbine Sound Pressure Levels at DwellingsCalculated outdoor sound pressure levels at the dwellings determined by ISO 9613-133 and ISO 9613-234 reached levels as high as 46 dB(A).
+ Results are considered to have an uncertainty of ± 4 dB(A) within distances that would have the strongest effect on sleep (i.e., ∼600 m).
+ Figure 1 illustrates the distribution of participants as a function of WTN levels and identifies the number of participants who reported wind turbines were visible from anywhere on their property (panel A) and audible (panel B) while they were either outside or inside their dwelling.Open in a separate windowFigure 1Histogram showing the distribution of participants as a function of calculated outdoor A-weighted wind turbine noise levels.
+ (A) The number of participants who self-reported on the questionnaire that wind turbines were visible from anywhere on their property.
+ (B) The number of participants who self-reported that wind turbines were audible from inside or outside their home.Background Nighttime Sound Pressure LevelsModeled background nighttime sound (BNTS) levels ranged between 35 and 61 dB(A) in the sample.
+ The final models for the three approaches to stepwise regression as listed in the Statistical Methods section produced nearly identical results to one another.
+ Using stepwise regression, the predictive strength of the final model was 37%.
+ Participants who stated that closing their window did not improve sleep quality had higher odds of poor sleep in comparison with both those who had improved sleep quality after closing windows and those who did not need to close windows (P ≤ 0.0006, in both cases).
+ Unemployed individuals had higher odds of poor sleep compared with those who were employed (OR [95% CI]: 1.55 [1.12, 2.15]).Long-term sleep disturbance (of any type by any source) was included in the study because dose-response relationships have been published for this measure in relation to other community noise sources45 and this endpoint provides a longer time reference period than the previous 30 d assessed using the PSQI.
+ Those who reported a very or extremely high level of sleep disturbance (i.e., percentage highly sleep disturbed) by any source while at home had 6 times higher odds of poor sleep assessed with the PSQI (OR [95%CI]: 6.28 [3.46, 11.40]) when compared to those with no, slight, or moderate reported sleep disturbance.
+ The frequency across the days of the week was equally distributed (data not shown).
+ Although mean values appear stable between one sleep night to the next within an endpoint, the standard deviation is observed to fluctuate between sleep nights (data not shown).
+ The observed correlations between the PSQI and the actigraphy endpoints are presented as supplemental material.Table 5Summary of Actiwatch2® data.Open in a separate windowMultiple GEE Regression Models for ActigraphyMultiple regression models for the five sleep actigraphy endpoints were developed.
+ Variables that were associated with each endpoint (i.e., significant at the 10% level) are summarized in Table 3.
+ Table 6 presents the LSM and the P values for the exposure of interest, the WTN exposure categories, obtained from the GEE regression models for the sleep actigraphy endpoints.
+ Unadjusted results reflect the base model (including WTN, province, day of the week, and the interaction between WTN and day of the week) whereas adjusted results come from the multiple regression models obtained through the stepwise method and take into account factors beyond the base model.
+ There was an inconsistent association found between WASO and WTN exposure where there was a statistically significant reduction in WASO time observed in areas where WTN levels were 25–30 dB(A), in comparison with &lt; 25 dB(A) and 40–46 dB(A) WTN categories.
+ This was because of a higher mean WASO time among participants from PEI living in areas where WTN levels were less than 25 dB(A) (data not shown).Table 6Generalized estimating equations regression models for sleep actigraphy endpoints.Open in a separate windowDISCUSSIONThe effects on health and well-being associated with accumulated sleep debt have been well documented.1–5,57 The sound pressure levels from wind turbines can exceed the WHO recommended annual average nighttime limit of 40 dB(A) for preventing health effects from noise-induced sleep disturbance.11 The calculated outdoor A-weighted WTN levels in this study reached a maximum of 46 dB(A), with 19% of dwellings found to exceed 40 dB(A).
+ Within an uncertainty of approximately 4 dB(A), the calculated A-weighted levels in the current study can be compared to the WHO outdoor nighttime annual average threshold of 40 dB(A).11,58 With the average façade attenuation with windows completely opened of 14 ± 2 dB(A),58 the average bedroom level at the highest façade level, 46 dB(A), will be 32 ± 2 dB(A), which is close to the 30 dB(A) indoor threshold in the WHO's Guidelines for Community Noise.10 Considering the uncertainty in the calculation model and input data, only dwellings in the highest WTN category are expected to have indoor levels above 30 dB(A) and thus sensitivity to sleep disturbance.
+ However, with windows closed, indoor outdoor level difference is approximately 26 dB, which should result in an indoor level around 20 dB(A) in the current study.Factors including, but not limited to, medication use, other health effects (including sleep disorders), caffeine consumption, and annoyance with blinking lights on wind turbines were found to statistically influence reported and/or acti-graphically measured sleep outcomes.
+ However, there was no evidence for any form of sleep disturbance found in relation to WTN levels.
+ Studies published to date have been inconsistent in terms of self-reported evidence that WTN disrupts sleep,59,60 and none of these studies assessed sleep using an objectively measured method.
+ These inconsistent findings are not entirely surprising considering that sleep disturbance reported as a result of transportation noise exposure occurs at sound pressure levels that exceed WTN levels calculated in the current study.27,28,45 Study results concur with those of Bakker et al.,21 with outdoor WTN levels up to 54 dB(A), wherein it was concluded that there was no association between the levels of WTN and sleep disturbance when noise annoyance was taken into account.The current study employed a wide range of self-reported and objectively measured endpoints related to sleep to provide a comprehensive assessment of the potential effects that WTN exposure may have on sleep.
+ Self-reported diagnosed sleep disorders37 and self-reported highly sleep disturbed for any reason were factors found to be unrelated to WTN exposure.
+ Furthermore, taking medication at least once per week was more commonly reported among participants living in areas where WTN levels were below 30 dB(A).
+ Scores on the PSQI, either analyzed as a proportion above 5, or as a mean score, were also unrelated to WTN level.
+ Actigraphy-measured sleep latency, sleep efficiency, the rate of awakening bouts, and total sleep time were all found to be unrelated to WTN exposure.
+ The only statistically significant finding found between WTN level and actigraphy was a reduced wake time after sleep onset among participants living in areas where WTN levels were 25–30 dB(A) and this was because of a higher WASO time at the lowest WTN category among PEI participants.
+ The results of the current study do not support conclusions that exposure to WTN up to 46 dB(A) has any statistically significant effect on self-reported or objectively measured sleep.
+ However, annoyance with blinking lights on wind turbines (used as aircraft warning signals) may be related to a higher rate of awakening bouts and reduced total sleep time.This study has some important limitations.
+ Objective measures of sleep were assessed for up to 7 d, whereas the PSQI and the reported highly sleep disturbed outcomes represent time periods of 30 d and 1 y, respectively.
+ The concern is that 7 d of actigraphy may not represent long-term average sleep patterns.
+ However, the selected time frame for actigraphy measures is typical, and supported in the literature and considered more than adequate for evaluating sleep in a nonclinical study sample.30,61 If there were situational factors (e.g.
+ an ill child) that made sleep worse in the actigraphy-assessed week, it would not be expected to bias against the effect of wind turbines on sleep, and in fact, would overstate the effect of recent situational events as compared to the long-term theoretical concern about WTN-induced sleep disturbance.
+ As previously discussed, the analysis of actigraphy results was based on nightly average sleep patterns in relation to long-term WTN levels.
+ Similarly, an analysis based on long-term average sound level does not fully account for transient deviations in WTN levels that could potentially interfere with sleep.
+ These limitations extend to the fact that fluctuations in indoor sound levels during sleep remain unknown.The possibility that wind turbine operators may have intentionally altered the output of their turbines in order to reduce potential WTN effects on sleep has been one of the concerns raised during the external peer review of this paper.
+ When the Community Noise and Health Study was originally announced several months preceding data collection the study locations were unknown.
+ Although awareness of the precise study locations would have become greater as data collection commenced, the deployment of the sleep watches took place over several months among a subsample of participants across the entire study sample.
+ Furthermore, the reference period time for self-reported sleep disturbance was over the previous year and previous 30 d (PSQI).
+ Finally, the subsets of sound power measurements were consistent with manufacturer-supplied data.
+ In the authors' opinion, there is no evidence to suggest that wind turbine operators intentionally altered the output of their turbines to minimize potential effects on sleep at any point in the study.CONCLUSIONSThe potential association between WTN levels and sleep quality was assessed over the previous 30 d using the PSQI, the previous year using percentage highly sleep disturbed, together with an assessment of diagnosed sleep disorders.
+ These self-reported measures were considered in addition to several objective measures including total sleep time, sleep onset latency, awakenings, and sleep efficiency.
+ In all cases, in the final analysis there was no consistent pattern observed between any of the self-reported or actigraphy-measured endpoints and WTN levels up to 46 dB(A).
+ Given the lack of an association between WTN levels and sleep, it should be considered that the study design may not have been sensitive enough to reveal effects on sleep.
+ However, in the current study it was demonstrated that the factors that influence sleep quality (e.g.
+ age, body mass index, caffeine, health conditions) were related to one or more self-reported and objective measures of sleep.
+ This demonstrated sensitivity, together with the observation that there was consistency between multiple measures of self-reported sleep disturbance and among some of the self-reported and actigraphy measures, lends strength to the robustness of the conclusion that WTN levels up to 46 dB(A) had no statistically significant effect on any measure of sleep quality.The WHO's11 health-based limit for protecting against sleep disturbance is an annual average outdoor level of 40 dB(A).
+ This level was exceeded in 19% of the cases, but by no more than 6 dB(A) and as such represents a limit to detecting a potential effect on sleep.
+ It is therefore important to acknowledge that no inferences can be drawn from the current results to areas where WTN levels exceed 46 dB(A).
+ Likewise, assuming a baseline prevalence of 10%, the study was designed so that the statistical power would be sufficient to detect at least a 7% difference in the prevalence of self-reported sleep disturbance.
+ A larger sample size would be required to detect smaller differences.
+ The statistical power of a study design is a limitation that applies to all epidemiological studies.Although it may be tempting to generalize the current study findings to other areas, this would have required random selection of study locations from all communities living near wind turbines in Canada.
+ Despite the fact that participants in the study were randomly selected, the locations were not and for this reason the level of confidence one has in generalizing the results to other areas can only be based on a certain level of scientific judgment regarding the level of exposure and the similarity between the current study sample and others.
+ Despite limitations in generalizing the results of this analysis beyond the study sample, the current study is the largest and most comprehensive analysis of both self-reported and objectively measured sleep disturbance in relation to WTN levels published to date.DISCLOSURE STATEMENTThis was not an industry supported study.
+ The study was funded by Health Canada.
+ The authors have indicated no financial conflicts of interest.ACKNOWLEDGMENTSThe authors acknowledge the support they received throughout the study from Serge Legault and Suki Abeysekera at Statistics Canada, and are especially grateful to the volunteers who participated in this study.Click here to view.
+ (635K, pdf)REFERENCES1.
+ Zaharna M, Guilleminault C. Sleep, noise and health: review.
+ Noise Health.
+ 2010;12:64–9.
+ [PubMed] [Google Scholar]2.
+ Schwartz SW, Cornoni-Huntley J, Cole SR, Hays JC, Blazer DG, Schocken D. Are sleep complaints an independent risk factor for myocardial infarction?
+ Ann Epidemiol.
+ 1998;8:384–92.
+ [PubMed] [Google Scholar]3.
+ Orzeł-Gryglewska J.
+ Consequences of sleep deprivation.
+ Int J Occ Med Environ Health.
+ 2010;23:95–114.
+ [PubMed] [Google Scholar]4.
+ Pilcher JJ, Huffcutt AI.
+ Effects of sleep deprivation on performance: a meta-analysis.
+ Sleep.
+ 1996;19:318–26.
+ [PubMed] [Google Scholar]5.
+ George CF.
+ Sleep apnea, alertness, and motor vehicle crashes.
+ Am J Respir Crit Care Med.
+ 2007;176:954–6.
+ [PubMed] [Google Scholar]6.
+ Young T, Peppard PE, Gottlieb DJ.
+ Epidemiology of obstructive sleep apnea: a population health perspective.
+ Am J Respir Crit Care Med.
+ 2002;165:1217–39.
+ [PubMed] [Google Scholar]7.
+ Grandner MA, Perlis ML.
+ Short sleep duration and insomnia associated with hypertension incidence.
+ Hypertens Res.
+ 2013;36:932–3.
+ [PMC free article] [PubMed] [Google Scholar]8.
+ Hume KI, Brink M, Basner M. Effects of environmental noise on sleep.
+ Noise Health.
+ 2012;14:297–302.
+ [PubMed] [Google Scholar]9.
+ Dang-Vu TT, Bonjean M, Schabus M, et al.
+ Interplay between spontaneous and induced brain activity during human non-rapid eye movement sleep.
+ Proc Nat Acad Sci U S A.
+ 2011;108:15438–43.
+ [PMC free article] [PubMed] [Google Scholar]10.
+ Berglund B, Lindvall T, Schwela DH, editors.
+ World Health Organization (WHO) Guidelines for Community Noise.
+ Geneva: World Health Organization; 1999. http://www.who.int/docstore/peh/noise/guidelines2.html.
+ [Google Scholar]11.
+ Hurtley C, editor.
+ WHO.
+ Night Noise Guidelines for Europe.
+ Copenhagen Denmark: WHO Regional Office for Europe; 2009. http://www.euro.who.int/data/assets/pdf_file/0017/43316/E92845.pdf.
+ [Google Scholar]12.
+ Kirsch DB.
+ A neurologist's guide to common subjective and objective sleep assessments.
+ Neurol Clin.
+ 2012;30:987–1006.
+ [PubMed] [Google Scholar]13.
+ McCall WV, Edinger JD.
+ Subjective total insomnia: an example of sleep state misperception.
+ Sleep.
+ 1992;15:71–3.
+ [PubMed] [Google Scholar]14.
+ Buysse DJ, Reynolds CF, Monk TH, Berman SR, Kupfer DJ.
+ The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.
+ Psych Res.
+ 1989;28:193–213.
+ [PubMed] [Google Scholar]15.
+ Carpenter JS, Andrykowski MA.
+ Psychometric evaluation of the Pittsburgh Sleep Quality Index.
+ J Psychosom Res.
+ 1998;45:5–13.
+ [PubMed] [Google Scholar]16.
+ Backhaus J, Junghanns K, Broocks A, Riemann D, Hohagen F. Test-retest reliability and validity of the Pittsburgh Sleep Quality Index in primary insomnia.
+ J Psychosom Res.
+ 2002;53:737–40.
+ [PubMed] [Google Scholar]17.
+ Smyth CA.
+ Evaluating sleep quality in older adults: the Pittsburgh Sleep Quality Index can be used to detect sleep disturbances or deficits.
+ Am J Nurs.
+ 2008;108:42–50.
+ quiz 50–1.
+ [PubMed] [Google Scholar]18.
+ Spira AP, Beaudreau SA, Stone KL, et al.
+ Reliability and validity of the Pittsburgh Sleep Quality Index and the Epworth Sleepiness Scale in older men.
+ J Gerontol A Biol Sci Med Sci.
+ 2012;67:433–9.
+ [PMC free article] [PubMed] [Google Scholar]19.
+ Nissenbaum MA, Aramini JJ, Hanning CD.
+ Effects of industrial wind turbine noise on sleep and health.
+ Noise Health.
+ 2012;14:237–43.
+ [PubMed] [Google Scholar]20.
+ Pedersen E. Health aspects associated with wind turbine noise: results from three field studies.
+ Noise Control Eng J.
+ 2011;59:47–53.
+ [Google Scholar]21.
+ Bakker RH, Pedersen E, van den Berg GP, Stewart RE, Lok W, Bouma J.
+ Impact of wind turbine sound on annoyance, self-reported sleep disturbance and psychological distress.
+ Sci Total Environ.
+ 2012;425:42–51.
+ [PubMed] [Google Scholar]22. van den Berg F, Verhagen C, Uitenbroek D. The relation between scores on noise annoyance and noise disturbed sleep in a public health survey.
+ Int J Environ Res Public Health.
+ 2014;11:2314–27.
+ [PMC free article] [PubMed] [Google Scholar]23.
+ Horne JA, Pankhurst FL, Reyner LA, Hume K, Diamond ID.
+ A field study of sleep disturbance: effects of aircraft noise and other factors on 5,742 nights of actimetrically monitored sleep in a large subject sample.
+ Sleep.
+ 1994;17:146–59.
+ [PubMed] [Google Scholar]24.
+ Öhrström E, Hadzibajramovic E, Holmes M, Svensson H. Effects of road traffic noise on sleep: studies on children and adults.
+ J Environ Psychol.
+ 2006;26:116–26.
+ [Google Scholar]25.
+ Muzet A.
+ Environmental noise, sleep and health.
+ Sleep Med Rev.
+ 2007;11:135–42.
+ [PubMed] [Google Scholar]26.
+ Fyhri A, Aasvang GM.
+ Noise, sleep and poor health: modeling the relationship between road traffic noise and cardiovascular problems.
+ Sci Total Environ.
+ 2010;408:4935–42.
+ [PubMed] [Google Scholar]27.
+ Fidell S, Pearsons K, Tabachnick BG, Howe R. Effects on sleep disturbance of changes in aircraft noise near three airports.
+ J Acoust Soc Am.
+ 2000;107:2535–47.
+ [PubMed] [Google Scholar]28.
+ Michaud DS, Fidell S, Pearsons K, Campbell KC, Keith SE.
+ Review of field studies of aircraft noise-induced sleep disturbance.
+ J Acoust Soc Am.
+ 2007;121:32–41.
+ [PubMed] [Google Scholar]29.
+ Ancoli-Israel S, Cole R, Alessi C, Chambers M, Moorcroft W, Pollak CP.
+ The role of actigraphy in the study of sleep and circadian rhythms.
+ Sleep.
+ 2003;26:342–92.
+ [PubMed] [Google Scholar]30.
+ Sadeh A.
+ The role and validity of actigraphy in sleep medicine: an update.
+ Sleep Med Rev.
+ 2011;15:259–67.
+ [PubMed] [Google Scholar]31.
+ Riemann D, Spiegelhalder K, Espie C, et al.
+ Chronic insomnia: clinical and research challenges -- an agenda.
+ Pharmacopsychiatry.
+ 2011;44:1–14.
+ [PubMed] [Google Scholar]32.
+ Tjepkema M. Insomnia.
+ Vol.
+ 17.
+ Toronto: Statistics Canada; 2005. pp.
+ 9–25.
+ Catalogue 82-003 Health Reports.
+ http://www.statcan.gc.ca/pub/82-003-x/2005001/article/8707-eng.pdf.
+ [PubMed] [Google Scholar]33. International Organization for Standardization (ISO) Geneva: International Organization for Standardization; 1993.
+ ISO 9613-1 -Acoustics.
+ Attenuation of sound during propagation outdoors.
+ Part 1: calculation of the absorption of sound by the atmosphere.
+ [Google Scholar]34.
+ ISO.
+ ISO-9613-2 - Acoustics.
+ Geneva: International Organization for Standardization; 1996.
+ Attenuation of sound during propagation outdoors.
+ Part 2: general method of calculation.
+ [Google Scholar]35.
+ DataKustik GmbH® CadnaA version 4.4.
+ Software for Immission Protection.
+ 2014. www.datakustik.com.36.
+ Van den Berg F. Criteria for wind farm Noise: Lmax and Lden.
+ Proc.
+ Acoustics '08, Paris, June 29-July 4 2008. http://docs.wind-watch.org/vandenberg-wind-farm-noise-Lmax-Lden.pdf.37.
+ Michaud DS.
+ San Francisco, CA: Internoise, INCE USA; 2015.
+ Aug 9–12, Self-reported and objectively measured outcomes assessed in the Health Canada wind turbine noise and health study: results support an increase in community annoyance.
+ [Google Scholar]38.
+ Pedersen E, van den Berg F, Bakker R, Bouma J.
+ Can road traffic mask sound from wind turbines?
+ Response to wind turbine sound at different levels of road traffic sound.
+ Energ Pol.
+ 2010;38:2520–7.
+ [Google Scholar]39.
+ Pedersen E, van den Berg F. Lisbon, Portugal: Internoise; 2010.
+ Jun 13–16, Why is wind turbine noise so poorly masked by road traffic noise?
+ [Google Scholar]40. van den Berg F. The effects of wind turbine noise on people.
+ In: Bowdler R, Leventhall G, editors.
+ Wind turbine noise.
+ Brentwood, UK: Multi-Science; 2011. pp.
+ 129–52.
+ [Google Scholar]41. van den Berg F. Victor Harbor, Australia: Proceedings of Acoustics; 2013.
+ Nov 17–20, Wind turbine noise: an overview of acoustical performance and effects on residents.
+ [Google Scholar]42.
+ Alberta Utilities Commission (AUC) Rule 012-Noise Control.
+ 2013. http://www.auc.ab.ca/acts-regulations-and-auc-rules/rules/Pages/Rule012.aspx.43.
+ United States Department of Transportation.
+ Washington D.C.: Federal Highway Administration; 1998.
+ FHWA Traffic Noise Model®.
+ Technical Manual.
+ [Google Scholar]44.
+ ISO.
+ Geneva: International Organization for Standardization; 2003.
+ ISO/TS-15666 - Acoustics - Assessment of noise annoyance by means of social and socio-acoustic surveys.
+ [Google Scholar]45.
+ Miedema HM, Vos H. Associations between self-reported sleep disturbance and environmental noise based on reanalyses of pooled data from 24 studies.
+ Behav Sleep Med.
+ 2007;5:1–20.
+ [PubMed] [Google Scholar]46.
+ Alsaadi SM, McAuley JH, Hush JM, et al.
+ Assessing sleep disturbance in low back pain: the validity of portable instruments.
+ PLOS One.
+ 2014;9:e95824.
+ [PMC free article] [PubMed] [Google Scholar]47.
+ Martin JL, Hakim AD.
+ Wrist actigraphy.
+ Chest.
+ 2011;139:1514–27.
+ [PMC free article] [PubMed] [Google Scholar]48.
+ Philips Respironics.
+ Actiware® and Actiware CT® Software Manual: Actiwatch® Communication and Sleep Analysis Software Version 5.1.
+ 2008:3–47.
+ [Google Scholar]49.
+ Michaud DS, Keith SE, Feder K, et al.
+ Self-reported and objectively measured health indicators among a sample of Canadians living within the vicinity of industrial wind turbines: social survey and sound level modeling methodology.
+ Noise News Int.
+ 2013;21:14–27.
+ [Google Scholar]50.
+ SAS Institute Inc. Cary, NC: SAS Institute Inc.; 2014.
+ SAS (Statistical Analysis System) Software package Version 9.2. www.sas.com.
+ [Google Scholar]51.
+ Liang KY, Zeger SL.
+ Longitudinal data analysis using generalized linear models.
+ Biometrika.
+ 1986;73:13–22.
+ [Google Scholar]52.
+ Stokes ME, Davis CS, Koch GG.
+ Second Edition.
+ Cary, NC: SAS Institute Inc.; 2000.
+ Categorical data analysis using the SAS System.
+ [Google Scholar]53.
+ Sokal RR, Rohlf JF.
+ 2nd edition.
+ San Francisco, CA: W H Freeman and Company; 1981.
+ Biometry: the principles and practice of statistics in biological research; p. 859.
+ [Google Scholar]54.
+ Snedecor GW, Cochran WG.
+ 8th edition.
+ Ames, IA: Iowa State University Press; 1989.
+ Statistical Methods.
+ [Google Scholar]55.
+ Rao PV.
+ Pacific Grove, CA: Duxbury Press; 1998.
+ Statistical research methods in the life sciences.
+ [Google Scholar]56.
+ Feder K, Michaud DS, Marro L, et al.
+ Impacts on quality of life associated with exposure to wind turbine noise.
+ Environ Res.
+ 2015;142:227–38.
+ [PubMed] [Google Scholar]57.
+ Lim AS, Kowgier M, Yu L, Buchman AS, Bennett DA.
+ Sleep fragmentation and the risk of incident Alzheimer's disease and cognitive decline in older persons.
+ Sleep.
+ 2013;36:1027–32.
+ [PMC free article] [PubMed] [Google Scholar]58.
+ Health Canada.
+ Ottawa: Health Canada; 2014.
+ Nov, Wind Turbine Noise and Health Study: Summary of Results.
+ http://www.hc-sc.gc.ca/ewh-semt/noise-bruit/turbine-eoliennes/summary-resume-eng.php.
+ [Google Scholar]59.
+ Knopper LD, Ollson CA.
+ Health effects and wind turbines: a review of the literature.
+ Environ Health.
+ 2011;10:78.
+ [PMC free article] [PubMed] [Google Scholar]60.
+ McCunney R, Mundt KA, Colby WD, Dobie R, Kaliski K, Blais K. Wind turbines and health: a critical review of the scientific literature.
+ J Occ Environ Med.
+ 2014;56:e108–30.
+ [PubMed] [Google Scholar]61.
+ Littner M, Kushida CA, Anderson WM, et al.
+ Practice parameters for the role of actigraphy in the study of sleep and circadian rhythms: an update for 2002.
+ Sleep.
+ 2003;26:337–41.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

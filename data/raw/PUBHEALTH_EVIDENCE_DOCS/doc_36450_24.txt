@@ -1,0 +1,241 @@
+2009 Mar 1;79(5):383-390.
+ Patient information: See related handout on strep throat, written by the author of this article.
+ Abstract        Diagnosis of Streptococcal PharyngitisTreatment of GABHS PharyngitisGuidelines for TreatmentManagement of Recurrent GABHS PharyngitisChronic Pharyngeal CarriageTonsillectomyReferencesArticle Sections             Abstract            Diagnosis of Streptococcal PharyngitisTreatment of GABHS PharyngitisGuidelines for TreatmentManagement of Recurrent GABHS PharyngitisChronic Pharyngeal CarriageTonsillectomyReferencesCommon signs and symptoms of streptococcal pharyngitis include sore throat, temperature greater than 100.4°F (38°C), tonsillar exudates, and cervical adenopathy.
+ Cough, coryza, and diarrhea are more common with viral pharyngitis.
+ Available diagnostic tests include throat culture and rapid antigen detection testing.
+ Throat culture is considered the diagnostic standard, although the sensitivity and specificity of rapid antigen detection testing have improved significantly.
+ The modified Centor score can be used to help physicians decide which patients need no testing, throat culture/rapid antigen detection testing, or empiric antibiotic therapy.
+ Penicillin (10 days of oral therapy or one injection of intramuscular benzathine penicillin) is the treatment of choice because of cost, narrow spectrum of activity, and effectiveness.
+ Amoxicillin is equally effective and more palatable.
+ Erythromycin and first-generation cephalosporins are options in patients with penicillin allergy.
+ Increased group A beta-hemolytic streptococcus (GABHS) treatment failure with penicillin has been reported.
+ Although current guidelines recommend first-generation cephalosporins for persons with penicillin allergy, some advocate the use of cephalosporins in all nonallergic patients because of better GABHS eradication and effectiveness against chronic GABHS carriage.
+ Chronic GABHS colonization is common despite appropriate use of antibiotic therapy.
+ Chronic carriers are at low risk of transmitting disease or developing invasive GABHS infections, and there is generally no need to treat carriers.
+ Whether tonsillectomy or adenoidectomy decreases the incidence of GABHS pharyngitis is poorly understood.
+ At this time, the benefits are too small to outweigh the associated costs and surgical risks.
+ Pharyngitis is diagnosed in 11 million patients in U.S. emergency departments and ambulatory settings annually.1 Most episodes are viral.
+ Group A beta-hemolytic streptococcus (GABHS), the most common bacterial etiology, accounts for 15 to 30 percent of cases of acute pharyngitis in children and 5 to 20 percent in adults.2 Among school-aged children, the incidences of acute sore throat, swab-positive GABHS, and serologically confirmed GABHS infection are 33, 13, and eight per 100 child-years, respectively.3 Thus, about one in four children with acute sore throat has serologically confirmed GABHS pharyngitis.
+ Forty-three percent of families with an index case of GABHS pharyngitis have a secondary case.3 Late winter and early spring are peak GABHS seasons.
+ For information about the SORT evidence rating system, go to https://www.aafp.org/afpsort.xml.Diagnosis of Streptococcal PharyngitisJump to section +          Abstract         Diagnosis of Streptococcal PharyngitisTreatment of GABHS PharyngitisGuidelines for TreatmentManagement of Recurrent GABHS PharyngitisChronic Pharyngeal CarriageTonsillectomyReferencesCLINICAL DIAGNOSISBecause the signs and symptoms of GABHS pharyngitis overlap extensively with other infectious causes, making a diagnosis based solely on clinical findings is difficult.
+ In patients with acute febrile respiratory illness, physicians accurately differentiate bacterial from viral infections using only the history and physical findings about one half of the time.4 No single element of the patient’s history or physical examination reliably confirms or excludes GABHS pharyngitis.5 Sore throat, fever with sudden onset (temperature greater than 100.4° F [38° C]), and exposure to Streptococcus within the preceding two weeks suggest GABHS infection.
+ Cervical node lymphadenopathy and pharyngeal or tonsillar inflammation or exudates are common signs.
+ Palatal petechiae and scarlatiniform rash are highly specific but uncommon; a swollen uvula is sometimes noted.
+ Cough, coryza, conjunctivitis, and diarrhea are more common with viral pharyngitis.
+ Does this patient have strep throat?
+ JAMA.
+ Does this patient have strep throat?
+ JAMA.
+ 2000;284(22):2915.CLINICAL DECISION RULESThe original Centor score uses four signs and symptoms to estimate the probability of acute streptococcal pharyngitis in adults with a sore throat.6 The score was later modified by adding age and validated in 600 adults and children.7,8 The cumulative score determines the likelihood of streptococcal pharyngitis and the need for antibiotics (Figure 19).
+ Patients with a score of zero or 1 are at very low risk for streptococcal pharyngitis and do not require testing (i.e., throat culture or rapid antigen detection testing [RADT]) or antibiotic therapy.
+ Patients with a score of 2 or 3 should be tested using RADT or throat culture; positive results warrant antibiotic therapy.
+ Patients with a score of 4 or higher are at high risk of streptococcal pharyngitis, and empiric treatment may be considered.View/Print FigureClinical Decision Rule for Management of Sore ThroatFigure 1.Modified Centor score and management options using clinical decision rule.
+ Other factors should be considered (e.g., a score of 1, but recent family contact with documented streptococcal infection).
+ )Adapted with permission from McIsaac WJ, White D, Tannenbaum D, Low DE.
+ A clinical score to reduce unnecessary antibiotic use in patients with sore throat.
+ CMAJ.
+ 1998;158(1):79.Clinical Decision Rule for Management of Sore ThroatFigure 1.Modified Centor score and management options using clinical decision rule.
+ Other factors should be considered (e.g., a score of 1, but recent family contact with documented streptococcal infection).
+ )Adapted with permission from McIsaac WJ, White D, Tannenbaum D, Low DE.
+ A clinical score to reduce unnecessary antibiotic use in patients with sore throat.
+ CMAJ.
+ 1998;158(1):79.LABORATORY DIAGNOSISWith correct sampling and plating techniques, a single-swab throat culture is 90 to 95 percent sensitive.10 RADT allows for earlier treatment, symptom improvement, and reduced disease spread.
+ RADT specificity ranges from 90 to 99 percent.
+ Sensitivity depends on the commercial RADT kit used and was approximately 70 percent with older latex agglutination assays.11,12 Newer enzyme-linked immunosorbent assays, optical immunoassays, and chemiluminescent DNA probes are 90 to 99 percent sensitive.11,12 However, newer tests may be more expensive, and not all tests are waived by the Clinical Laboratory Improvement Act of 1988.Whether negative RADT results in children and adolescents require confirmatory throat culture is controversial.
+ The American Academy of Pediatrics (AAP) recommends that negative RADT results in children be confirmed using throat culture unless physicians can guarantee that RADT sensitivity is similar to that of throat culture in their practice.13 False-negative RADT results may lead to misdiagnosis and GABHS spread and, very rarely, to increased suppurative and nonsuppurative complications.
+ Other studies suggest that the sensitivity of newer optical immunoas-says approaches that of single-plate throat culture, obviating the need for back-up culture.14,15 In many clinical practices, confirmatory throat culture is not performed in children at low risk for GABHS infection.
+ The precipitous drop in rheumatic fever in the United States, significant costs of additional testing and follow-up, and concerns about inappropriate antibiotic use are valid reasons why back-up cultures are not routinely performed.16Streptococcal antibody titers are not useful for diagnosing streptococcal pharyngitis and are not routinely recommended.
+ They may be indicated to confirm previous infection in persons with suspected acute poststreptococcal glomerulonephritis or rheumatic fever.
+ Fusobacterium necrophorum causes endemic acute pharyngitis, peritonsillar abscess, and persistent sore throat.
+ Untreated Fusobacterium infections may lead to Lemierre syndrome, an internal jugular vein thrombus caused by inflammation.
+ Complications occur when septic plaques break loose and embolize.
+ Empiric antibiotic therapy may reduce the incidence of complications.ANTIBIOTIC SELECTIONEffectiveness, spectrum of activity, safety, dosing schedule, cost, and compliance issues all require consideration.
+ Penicillin, penicillin congeners (ampicillin or amoxicillin), clindamycin (Cleocin), and certain cephalosporins and macrolides are effective against GABHS.
+ Based on cost, narrow spectrum of activity, safety, and effectiveness, penicillin is recommended by the American Academy of Family Physicians (AAFP),18 the AAP,19 the American Heart Association,20 the Infectious Diseases Society of America (IDSA),2 and the World Health Organization for the treatment of streptococcal pharyngitis.25  Options for penicillin dosing are listed in Table 3.2,17-20,28-34 When patients are unlikely to complete the entire course of antibiotics, a single intramuscular dose of penicillin G benzathine (Bicillin L-A) is an option.
+ A premixed penicillin G benzathine/procaine injection (Bicillin C-R) lessens injection-associated discomfort.
+ Over the past 50 years, no increase in minimal inhibitory concentration or resistance to GABHS has been documented for penicillins or cephalosporins.28Oral amoxicillin suspension is often substituted for penicillin because it tastes better.
+ The medication is also available as chewable tablets.
+ Five of eight trials (1966 to 2000) showed greater than 85 percent GABHS eradication with the use of amoxicillin.29 [ corrected] Ten days of therapy is standard; common dosages are provided in Table 3.2,17-20,28-34 Amoxicillin taken once per day is likely as effective as a regimen of three times per day.
+ One randomized controlled trial (RCT) demonstrated comparable symptom relief with once-daily dosing, although like almost all studies of pharyngitis treatment, the trial was not powered to detect nonsuppurative complications.30 A recent study of children three to 18 years of age showed that once-daily dosing of amoxicillin was not inferior to twice-daily dosing; both regimens had failure rates of about 20 percent.31 It should be noted that once-daily therapy is not approved by the U.S. Food and Drug Administration (FDA).View/Print TableTable 3.Antibiotic Options for GABHS PharyngitisDrugClass of antimicrobialRoute of administrationDosageDuration of therapyCost*Primary treatment (recommended by current guidelines)Penicillin V (Veetids; brand no longer available in the United States)PenicillinOralChildren: 250 mg two to three times per day10 days$4Adolescents and adults: 250 mg three to four times per dayor500 mg two times per dayAmoxicillinPenicillin (broad spectrum)OralChildren (mild to moderate GABHS pharyngitis):10 days$412.25 mg per kg two times per dayor10 mg per kg three times per dayChildren (severe GABHS pharyngitis): 22.5 mg per kg two times per dayor13.3 mg per kg three times per dayor750 mg (not FDA approved) once per day†Adults (mild to moderate GABHS pharyngitis):250 mg three times per dayor500 mg two times per dayAdults (severe GABHS pharyngitis): 875 mg two times per dayPenicillin G benzathine (Bicillin L-A)PenicillinIntramuscularChildren: &gt;                Purchase Access:See My OptionscloseAlready a member or subscriber?
+ Log in Best Value!Get Full AccessFrom $140SubscribeIncludes:Immediate, unlimited access to all AFP contentMore than 130 CME credits per yearAccess to the AFP appPrint delivery option Access This Issue$39.95 Includes:Immediate access to this issue  CME credits in this issue    $(".ui-dialog.ui-widget.ui-widget-content.ui-corner-all.subscriptionmodal.ui-draggable").addClass("dept");                Access This Article$20.95            Includes:Immediate access to this article                            To see the full article, log in or purchase access.The Authorshow all author infoBETH A. CHOBY, MD, FAAFP, is a board-certified family physician and director of research and procedural training in the Department of Family Medicine, University of Tennessee–Chattanooga.
+ She received her medical degree from West Virginia University School of Medicine in Morgantown, and completed a family medicine residency at the University of Tennessee–Memphis, and a fellowship in advanced women’s health and obstetrics at the University of Tennessee–St.
+ Francis Hospital, Memphis.
+ She also completed a faculty development fellowship at the Waco (Tex.)
+ Faculty Development Center....Address correspondence to Beth A. Choby, MD, FAAFP, UT Family Practice Center, 1100 E. 3rd St., Chattanooga, TN 37403 (e-mail: beth.choby@erlanger.org).
+ Reprints are not available from the author.Author disclosure: Dr. Choby is an assistant editor of The Core Content Review of Family Medicine.REFERENCESshow all references1.
+ Hing E,   Cherry DK,   Woodwell DA.
+ National Ambulatory Medical Care Survey: 2003 Summary.
+ Adv Data.
+ 2005;365:1–48....2.
+ Bisno AL,   Gerber MA,   Gwaltney JM Jr,   Kaplan EL,   Schwartz RH,    for the Infectious Diseases Society of America.
+ Practice guidelines for the diagnosis and management of group A streptococcal pharyngitis.
+ Clin Infect Dis.
+ 2002;35:(2):113–125.3.
+ Danchin MH,   Rogers S,   Kelpie L,       et al.
+ Burden of acute sore throat and group A streptococcal pharyngitis in school-aged children and their families in Australia.
+ Pediatrics.
+ 2007;120(5):950–957.4.
+ Br J Gen Pract.
+ 2001;51(473):998–1000.5.
+ Ebell MH,   Smith MA,   Barry HC,   Ives K,   Carey M.    The rational clinical examination.
+ Does this patient have strep throat?
+ JAMA.
+ 2000;284(22):2912–2918.6.
+ Centor RM,   Witherspoon JM,   Dalton HP,   Brody CE,   Link K.    The diagnosis of strep throat in adults in the emergency room.
+ Med Decis Making.
+ 1981;1(3):239–246.7.
+ McIsaac WJ,   Goel V,   To T,   Low DE.
+ The validity of a sore throat score in family practice.
+ CMAJ.
+ 2000;163(7):811–815.8.
+ Ebell MH.
+ Making decisions at the point of care: sore throat.
+ Fam Pract Manag.
+ 2003;10(8):68–69.9.
+ McIsaac WJ,   White D,   Tannenbaum D,   Low DE.
+ A clinical score to reduce unnecessary antibiotic use in patients with sore throat.
+ CMAJ.
+ 1998;158(1):75–83.10.
+ Gerber MA.
+ Comparison of throat cultures and rapid strep tests for diagnosis of streptococcal pharyngitis.
+ Pediatr Infect Dis J.
+ 1989;8(11):820–824.11.
+ Ezike EN,   Rongkavilit C,   Fairfax MR,   Thomas RL,   Asmar BI.
+ Effect of using 2 throat swabs vs 1 throat swab on detection of group A streptococcus by a rapid antigen detection test.
+ Arch Pediatr Adolesc Med.
+ 2005;159(5)486–490.12.
+ Neuner JM,   Hamel MB,   Phillips RS,   Bona K,   Aronson MD.
+ Diagnosis and management of adults with pharyngitis.
+ A cost-effectiveness analysis.
+ Ann Intern Med.
+ 2003;139(2)113–122.13.
+ Mirza A,   Wludyka P,   Chiu TT,   Rathore MH.
+ Throat culture is necessary after negative rapid antigen detection tests.
+ Clin Pediatr (Phila).
+ 2007;46(3)241–246.14.
+ Gerber MA,   Tanz RR,   Kabat W,       et al.
+ Optical immunoassay test for group A beta-hemolytic streptococcal pharyngitis.
+ An office-based, multicenter investigation.
+ JAMA.
+ 1997;277(11)899–903.15.
+ Van Howe RS,   Kusnier LP II.
+ Diagnosis and management of pharyngitis in a pediatric population based on cost-effectiveness and projected health outcomes.
+ Pediatrics.
+ 2006;117(3)609–619.16.
+ Fischer P.    Defending the real standard of care.
+ Fam Pract Manag.
+ 2008;15(2):48. https://www.aafp.org/fpm/20080200/48defe.html.
+ Accessed September 24, 2008.17.
+ Shulman ST,   Gerber MA.
+ So what’s wrong with penicillin for strep throat?
+ Pediatrics.
+ 2004;113(6)1816–1819.18.
+ Cooper RJ,   Hoffman JR,   Bartlett JG,        et al.,    for the American Academy of Family Physicians, American College of Physicians, American Society of Internal Medicine, Centers for Disease Control and Prevention.
+ Principles of appropriate antibiotic use for acute pharyngitis in adults: background.
+ Ann Intern Med.
+ 2001;134(6)509–517.19.
+ American Academy of Pediatrics, Committee on Infectious Diseases.
+ Red Book.
+ 26th ed.
+ Elk Grove Village, Ill.: American Academy of Pediatrics; 2003:578–580.20.
+ Dajani A,   Taubert K,   Ferrieri P,   Peter G,   Shulman S.    Treatment of acute streptococcal pharyngitis and prevention of rheumatic fever: a statement for health professionals.
+ Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, the American Heart Association.
+ Pediatrics.
+ 1995;96(4 pt 1)758–764.21.
+ Centor RM,   Allison JJ,   Cohen S.    Pharyngitis management: defining the controversy.
+ J Gen Intern Med.
+ 2007;22(1)127–130.22.
+ Del Mar CB,   Glasziou PP,   Spinks AB.
+ Antibiotics for sore throat.
+ Cochrane Database Syst Rev.
+ 2006;(4):CD000023.23.
+ Merrill B,   Kelsberg G,   Jankowski TA,   Danis P.    Clinical inquiries.
+ What is the most effective diagnostic evaluation of streptococcal pharyngitis?
+ J Fam Pract.
+ 2004;53(9)734–740.24.
+ Cooper RJ,   Hoffman JR,   Bartlett JG,        et al.,    for the Centers for Disease Control and Prevention.
+ Principles of appropriate antibiotic use for acute pharyngitis in adults: background.
+ Ann Emerg Med.
+ 2001;37(6)711–719.25.
+ Rimoin AW,   Hamza HS,   Vince A,       et al.
+ Evaluation of the WHO clinical decision rule for streptococcal pharyngitis.
+ Arch Dis Child.
+ 2005;90(10)1066–1070.26.
+ Sharland M,   Kendall H,   Yeates D,       et al.
+ Antibiotic prescribing in general practice and hospital admissions for peritonsillar abscess, mastoiditis, and rheumatic fever in children: time trend analysis.
+ BMJ.
+ 2005;331(7512)328–329.27.
+ Snellman LW,   Stang HJ,   Stang JM,   Johnson DR,   Kaplan EL.
+ Duration of positive throat cultures for group A streptococci after initiation of antibiotic therapy.
+ Pediatrics.
+ 1993;91(6)1166–1170.28.
+ Kaplan EL,   Johnson DR,   Del Rosario MC,   Horn DL.
+ Susceptibility of group A beta-hemolytic streptococci to thirteen antibiotics: examination of 301 strains isolated in the United States between 1994 and 1997.
+ Pediatr Infect Dis J.
+ 1999;18(12)1069–1072.29.
+ Casey JR.
+ Selecting the optimal antibiotic in the treatment of group A beta-hemolytic streptococci pharyngitis.
+ Clin Pediatr (Phila).
+ 2007;46(suppl 1)25S–35S.30.
+ Feder HM Jr,   Gerber MA,   Randolph MF,   Stelmach PS,   Kaplan EL.
+ Once-daily therapy for streptococcal pharyngitis with amoxicillin.
+ Pediatrics.
+ 1999;103(1)47–51.31.
+ Clegg HW,   Ryan AG,   Dallas SD,       et al.
+ Treatment of streptococcal pharyngitis with once-daily compared with twice-daily amoxicillin: a non-inferiority trial.
+ Pediatr Infect Dis J.
+ 2006;25(9)761–767.32.
+ Martin JM,   Green M,   Barbadora KA,   Wald ER.
+ Erythromycin-resistant group A streptococci in schoolchildren in Pittsburgh.
+ N Engl J Med.
+ 2002;346(16)1200–1206.33.
+ Marcy SM.
+ Treatment options for streptococcal pharyngitis.
+ Clin Pediatr (Phila).
+ 2007;46(suppl 1)36S–45S.34.
+ Casey JR,   Pichichero ME.
+ Meta-analysis of cephalosporin versus penicillin treatment of group A streptococcal tonsillopharyngitis in children.
+ Pediatrics.
+ 2004;113(4)866–882.35.
+ Linder JA,   Chan JC,   Bates DW.
+ Evaluation and treatment of pharyngitis in primary care practice: the difference between guidelines is largely academic.
+ Arch Intern Med.
+ 2006;166(13)1374–1379.36.
+ Bisno AL.
+ Diagnosing strep throat in the adult patient: do clinical criteria really suffice?
+ Ann Intern Med.
+ 2003;139(2)150–151.37.
+ McIsaac WJ,   Kellner JD,   Aufricht P,   Vanjaka A,   Low DE.
+ Empirical validation of guidelines for the management of pharyngitis in children and adults [published correction appears in JAMA.
+ 2005;294(21):2700].
+ JAMA.
+ 2004;291(13)1587–1595.38.
+ Sheeler RD,   Houston MS,   Radke S,   Dale JC,   Adamson SC.
+ Accuracy of rapid strep testing in patients who have had recent streptococcal pharyngitis.
+ J Am Board Fam Pract.
+ 2002;15(4)261–265.39.
+ Tanz RR,   Shulman ST.
+ Chronic pharyngeal carriage of group A streptococci.
+ Pediatr Infect Dis J.
+ 2007;26(2)175–176.40.
+ Paradise JL,   Bluestone CD,   Colborn DK,   Bernard BS,   Rockette HE,   Kurs-Lasky M.    Tonsillectomy and adenotonsillectomy for recurrent throat infection in moderately affected children.
+ Pediatrics.
+ 2002;110(1 pt 1)7–15.41.
+ Burton MJ,   Towler B,   Glasziou P.    Tonsillectomy versus non-surgical treatment for chronic/recurrent acute tonsillitis.
+ Cochrane Database Syst Rev.
+ 1999;(3):CD001802.42.
+ Orvidas LJ,   St Sauver JL,   Weaver AL.
+ Efficacy of tonsillectomy in treatment of recurrent group A beta-hemolytic streptococcal pharyngitis.
+ Laryngoscope.
+ This content is owned by the AAFP.
+ A person viewing it online may make one printout of the material and may use that printout only for his or her personal, non-commercial reference.
+ This material may not otherwise be downloaded, copied, printed, stored, transmitted or reproduced in any medium, whether now known or later invented, except as authorized in writing by the AAFP.
+ Contact      afpserv@aafp.org for copyright questions and/or permission requests.
+ Sign up for the free AFP email table of contents.
+ 79/No.
+ 5(March 1, 2009) / 
+  
+   Diagnosis and Treatment of Streptococcal Pharyngitis
+  
+           AFP Home       Issues       AFP By Topic       Collections       CME Quiz       Blog       Multimedia         Authors       Reviewers       Subscribers       Advertisers         Subscribe/Renew       Manage Subscription       AFP By Email       Contact AFP       Careers       Using AAFP Content       Back Issues         About AFP       Publication Ethics in AFP       AFP Podcast       AFP Digital       EBM Toolkit       FAQs       Copyright © 2020 American Academy of Family Physicians.
+ All rights Reserved.

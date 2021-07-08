@@ -1,0 +1,598 @@
+Skip to main contentNewsletterStory SavedTo revisit this article, select My⁠ ⁠Account, then View saved stories.Close AlertCloseSign InSearchSearchNewsBooks &amp; CultureFiction &amp; PoetryHumor &amp; CartoonsMagazineCrosswordVideoPodcastsArchiveGoings OnOpen Navigation MenuMenuStory SavedTo revisit this article, visit My Profile, then View saved stories.Close AlertCloseThe LatestTreatment and TestingEconomic ImpactWhat to Do at HomeF.A.Q.sNews DeskWhat Went Wrong with Coronavirus Testing in the U.S.By Robert P. BairdMarch 16, 2020FacebookTwitterEmailPrintSave StorySave this story for later.In February, as a first set of COVID-19 test kits sent out by the Centers for Disease Control failed to work properly, labs around the country scrambled to fill the void.Photograph Courtesy the C.D.C.FacebookTwitterEmailPrintSave StorySave this story for later.On February 5th, sixteen days after a Seattle resident who had visited relatives in Wuhan, China, was diagnosed as having the first confirmed case of COVID-19 in the United States, the Centers for Disease Control, in Atlanta, began sending diagnostic tests to a network of about a hundred state, city, and county public-health laboratories⁠.
+ Up to that point, all testing for COVID-19 in the U.S. had been done at the C.D.C.
+ ; of some five hundred suspected cases⁠ tested at the Centers, twelve had confirmed positive.
+ The new test kits would allow about fifty thousand patients to be tested, and they would also make testing much faster, as patient specimens would no longer have to be sent to Atlanta to be evaluated.The kits were shipped in small white cardboard boxes.
+ Inside each box were four vials, packed in stiff gray foam⁠, which held the necessary materials, known as reagents, to run tests on about three hundred⁠ people.
+ Before a state or local lab could use the C.D.C.-developed tests on actual patients, however, it had to insure that they worked the same way they had in Atlanta, a process known as verification.
+ The first batch of kits, sent to more than fifty state and local public-health labs⁠, arrived on February 7th.
+ Of the labs that received tests, around six to eight were able to verify that they worked as intended.
+ But a larger number, about thirty-six of them, received inconclusive⁠ results from one of the reagents.
+ Another five, including the New York City and New York State labs, had problems with two reagents.
+ On February 8th, several labs reported their problems to the C.D.C.
+ In a briefing a few days later, Nancy Messonnier, the director of the National Center for Immunization and Respiratory Diseases, said that although “we hoped that everything would go smoothly as we rushed through this,” the verification problems were “part of the normal procedures⁠.” In the meantime, she said, until new reagents could be manufactured, all COVID-19 testing in the United States would continue to take place exclusively at the C.D.C⁠.The public-health-laboratory network was never intended to provide widespread testing in the event of a pandemic.
+ To offer tests to anyone who wanted them, as President Trump did, on March 6th, was always going to require commercial testing facilities to come on line.
+ Still, the three-week delay caused by the C.D.C.’s failure to get working test kits into the hands of the public-health labs came at a crucial time.
+ In the early stages of an outbreak, contact tracing, isolation, and individual quarantines are regularly deployed to contain the spread of a disease.
+ But these tools are useless if suspected cases of a disease cannot be tested.
+ The void created by the C.D.C.’s faulty tests made it impossible for public-health authorities to get an accurate picture of how far and how fast the disease was spreading.
+ In hotspots like Seattle, and probably elsewhere, COVID-19 spread undetected for several weeks, which in turn only multiplied the need for more tests.
+ “Once you’re behind the eight ball, it’s very hard to catch up,” Alberto Gutierrez, the former head of the F.D.A.
+ Office of In Vitro Diagnostics and Radiological Health, which regulates tests, told me.
+ “The problem was that containment was not done very well.
+ At this point, we’re looking at exponential growth, and we need to figure out how to meet an exponential demand.”Read The New Yorker’s complete news coverage and analysis of the coronavirus pandemic.The COVID-19 tests use polymerase chain reaction, or PCR, a technology for whose invention the biochemist Kary Mullis won the Nobel Prize, in 1993.
+ PCR is highly sensitive to contamination and other faults, which is why the verification step is necessary to insure accurate results.
+ And yet while the reagent problems were, in their way, a fairly ordinary technical hiccup—Messonnier, at the C.D.C., was not spinning the situation—the cascading effects that they’ve had on the country’s COVID-19 preparations suggest a much larger problem with the way the United States has structured its pandemic response.
+ That problem was exacerbated by a President who has simultaneously underplayed the severity of the outbreak and overpromised the means available to fight it.The problems with COVID-19 testing in the United States have obscured what was, near the start of the pandemic, a triumph of modern medical science.
+ On January 10th, three days after Chinese government officials announced that a novel coronavirus, now known as SARS-CoV-2, was responsible for an upsurge of pneumonia cases in Wuhan, China, a team of Chinese scientists uploaded a copy of the virus’s genome to an online repository⁠, and virologists around the world set to work to develop diagnostic tests for the new disease.
+ On January 21st, a team in Berlin, led by Christian Drosten, one of the scientists who discovered the original SARS virus, in 2003, submitted the first paper to describe a protocol for testing for SARS-CoV-2.
+ (That protocol would form the basis for a test disseminated, early on, by the World Health Organization.
+ )⁠ That same day, Messonnier announced that the C.D.C.
+ had finalized its own test⁠, which it used to confirm the first known case of COVID-19 in the U.S.In Seattle, a team at the University of Washington Virology Lab debated whether it was worth developing their own test.
+ “I’ll be honest.
+ I didn’t think that this virus was going to do everything it’s done,” Keith Jerome, the lab’s director, told me.
+ “I didn’t think it would be a major health issue for the United States.” Still, he said, “the last thing we wanted to do was to be caught flat-footed.” The U.W.
+ virology lab is subject to strict regulatory oversight, but, thanks to a peculiar feature of U.S. law, it did not initially require any special clearance from the federal government to produce its COVID-19 test.
+ “We started, probably in earnest in mid-January, to prepare what we call a laboratory-developed test,⁠” Jerome said.
+ It took a team at the lab, working under the direction of Alex Greninger, about two weeks to develop a working version.
+ But, as soon as Alex Azar, the Secretary of Health and Human Services, declared a public-health emergency, on February 4th, a new regulatory regime took effect.
+ From that point on, any lab that wanted to conduct its own tests for the new coronavirus would first need to secure something called an Emergency Use Authorization from the F.D.A.
+ (The C.D.C., which had been working closely with the F.D.A., received the first E.U.A.
+ for a COVID-19 test on the same day as Azar’s declaration.
+ )This shift in the regulations sounds perverse, since it restricts the use of new tests at precisely the moment they’re most needed.
+ But Joshua Sharfstein, a former principal deputy commissioner of the F.D.A., told me that the change is meant to protect the public.
+ “You certainly wouldn’t want to say, ‘Any lab can advertise a coronavirus test.’ Because then it’s going to be chaos.
+ There are a lot of people who will sell things that may or may not work.” Sharfstein said that the E.U.A.
+ law was designed to offer the F.D.A.
+ a way to cut through red tape in the case of emergencies.
+ He signed the very first E.U.A, in 2009, during the H1N1-flu epidemic, after the C.D.C.
+ requested approval for diagnostic tests.
+ “I met with the lawyers to explain to me the E.U.A.
+ process, and they basically said, ‘It’s whatever we think it is.
+ We can make it up to fit the time.’ If you tell me I’ve got twelve hours, I could get some very smart people on the phone to do our best to figure out something that’s going to work.
+ The E.U.A.
+ process is supremely flexible.”Yet flexibility was not what Jerome and his lab found when they tried to get an E.U.A.
+ for their COVID-19 test.
+ “From the point of view of the academic labs, we look at it, like, when there’s any run-of-the-mill virus that people are used to, they trust us to make a test,” he said.
+ “But when there’s a big emergency and we feel like we should really do something, it gets hard.
+ It’s a little frustrating.
+ We’ve got a lot of scientists and doctors and laboratory personnel who are incredibly good at making assays.
+ What we’re not so good at is figuring out all the forms and working with the bureaucracy of the federal government.” Jerome said that Greninger had to call and e-mail the F.D.A.
+ multiple times to figure out what they needed to secure an E.U.A.
+ “At one point, he was very frustrated because he’d e-mailed them what we were doing so they could review it,” Jerome said.
+ “But legally you also had to mail a physical copy.
+ Here we are in this SARS-CoV-2 crisis, and you have to send them something through the United States Postal Service.
+ It’s just shocking.” (The F.D.A.
+ has since dropped the requirement to send a CD-ROM or USB drive with a copy of the application.)
+ Despite these difficulties, Jerome said, the F.D.A.
+ ultimately proved responsive to the lab’s entreaties.
+ “They had good and substantive feedback that made our testing better, and the response time was typically just a couple of days.”While they waited for authorization from the F.D.A., Jerome and his colleagues had to decide whether it was worth increasing their testing capacity.
+ “If you start thinking about ramping up volumes, you’re talking about spending real money to do so,” Jerome said.
+ But, though the restrictions that accompanied Azar’s emergency declaration meant that the U.W.
+ virology lab could not conduct clinical tests for COVID-19, they did not mean that the lab had to stop testing for the new disease entirely.
+ Thanks to another regulatory quirk, the lab was allowed to repurpose specimens it had received for other tests, such as the flu, and test them for SARS-CoV-2.
+ Jerome said that the lab tested specimens from about three hundred people through the second half of February.
+ “We didn’t find anything on those three hundred until, I believe it was, February 29th,” he said.
+ “And then we got a specimen from one of the people who were the two original cases in Washington.”The E.U.A.
+ regulations, however, prohibited the lab from reporting the results to the doctors who had ordered the tests for their patients.
+ To work around the prohibition, Jerome’s lab⁠ called officials at the state lab and told them, “You’ve got to get this patient and test.” (As it happened, the patient’s specimen was already being studied for COVID-19.)
+ In effect, Jerome said, the lab was able to perform at least some surveillance of the outbreak, despite the lack of tests from the C.D.C.
+ “If we’d been able to test a thousand people or two thousand people, maybe we would have found something sooner,” he told me.
+ “But it does show that it wasn’t like everyone had it through those last two weeks of February.”Academic labs like Jerome’s were not the only institutions to attempt to fill the void left by the C.D.C.’s faulty tests.
+ Scott Becker is the C.E.O.
+ of the Association of Public Health Laboratories, a nonprofit organization based in Silver Spring, Maryland, that represents and coördinates a hundred and fifty state, county, and city public-health laboratories.
+ Scientists at the public-health labs, Becker told me, tend to be eager for action.
+ “They’re the first ones out of the gate.
+ They know their role.” But Becker’s network was set up to administer diagnostic tests, not produce them.
+ “We figured out surge, we figured out all sorts of other components, but the assumption has always been that there would be a test,” he said.
+ When the problems with its kits were first discovered, the C.D.C.
+ told the labs not to proceed with any tests until new kits could be manufactured, but it refused to say when those would be ready.
+ “You’re just thinking, any day it’s going to show up,” Becker said.
+ “We really felt this enormous pressure to begin testing any way we could.” He corrected himself: “Not only pressure, but responsibility.”The C.D.C.
+ notified the F.D.A.
+ about the reagent problems on February 10th.
+ According to an agency official, the C.D.C.
+ told the F.D.A.
+ that the contractor who had manufactured the faulty test kits would soon have a new batch of reagents ready for a suite of enhanced quality-control measures.
+ If the reagents worked, then testing at the public-health labs would be able to begin in a few days.
+ By Friday, February 21st, however, Nancy Messonnier, at the C.D.C., told reporters that the problems with the test kits were still not resolved.
+ “We are working with the F.D.A., who have oversight over us, under the E.U.A., on redoing some of the kits,” she said.
+ “We obviously would not want to use anything but the most perfect possible kits, since we’re making determinations about whether people have COVID-19 or not.”Two days later, Becker called the A.P.H.L.’s director of infectious diseases, Kelly Wroblewski, and told her, “I have a crazy idea.” Becker said that he wanted to ask the F.D.A.
+ to allow his network of public-health laboratories to create their own COVID-19 tests.
+ Wroblewski said that she had been thinking along similar lines.
+ “So it’s not crazy, right?” Becker asked Wroblewski.
+ He called the president of his organization to pitch the idea, and then he called the directors of the New York State and New York City labs.
+ “They were, like, ‘We could do this.
+ We should go for this,’ ” Becker said.
+ “So then I just started calling all my board members, and there wasn’t a person that said no.”The next morning, Monday, February 24th, Becker and the A.P.H.L.’s president, Grace Kubin, sent a letter to the F.D.A.
+ Citing “the gravity of the current COVID-19 situation across the globe,” they asked the F.D.A.
+ commissioner to allow the A.P.H.L.’s member laboratories to “create and implement a laboratory developed test (LDT) for the detection of SARS-CoV-2 (COVID-19).” The letter went on: “While we appreciate the many efforts underway at CDC .
+ .
+ .
+ we are now many weeks into the response with still no diagnostic or surveillance tests available outside of CDC for the vast majority of our member laboratories.” By that night, Becker had still received no acknowledgement to his letter.
+ “I checked in with them to say, ‘Did you receive it?’ And I got an e-mail that said, ‘Yes, the commissioner’s office is working up a response.’ I reported that to my staff the next morning.
+ I said, ‘O.K., so that’s the bureaucratic death knell.
+ We tried.
+ We did the best we can.
+ It was a bit of a Hail Mary, but no harm in asking.’ ”Becker was certain that was the end of it.
+ But, on Wednesday, February 26th, a half hour before a weekly conference call that the A.P.H.L.
+ used to coördinate its COVID-19 response, which included representatives of the C.D.C.
+ and the F.D.A., he received an e-mailed letter from the F.D.A.
+ commissioner.
+ “In the context of a public health emergency,” the letter said, “false diagnostic tests can lead to significant adverse health consequences—not only serious implications for individual patient care but also serious implications for the analyses of disease progression and for public health decision making.” But then it went on to state that the Emergency Use Authorization law—the same one that kept the U.W.
+ virology lab from conducting clinical tests—gave the F.D.A.
+ the ability to authorize “unapproved products .
+ .
+ .
+ including diagnostic tests” if “the known and potential benefits of the product .
+ .
+ .
+ outweigh the known and potential risks of the product.” The F.D.A.
+ was willing to consider an E.U.A.
+ that would cover all of the labs in the A.P.H.L.’s network, and it included a template to “streamline the process to facilitate the protocol that you propose⁠.” Becker was stunned at the good news.
+ “We didn’t know about the E.U.A.
+ process,” he said.
+ “I didn’t really know that we could do such a thing.”AdvertisementBecker said that he barely had time to read the letter out loud to his staff before the conference call with the A.P.H.L.’s members began.
+ But the news, for his members, was about to get better.
+ On the call, the representatives from the C.D.C.
+ and F.D.A.
+ announced that one of the reagents—one of the four vials sent with the original test kits—should no longer be used⁠.
+ Any labs that had been able to verify the results with the other reagents, about forty-five of the original fifty or so, were henceforth allowed to resume testing.
+ By the next day, Becker said, “I felt like the lights were coming on across the country, and we were going to be able to do the job that we were set up to do.”Among the laboratories that were not able to verify the C.D.C.
+ test kits, even after the contaminated reagent was dropped, were New York City’s and New York State’s.
+ This had been a point of frustration especially for Andrew Cuomo, who knew that the Wadsworth Center, the state public-health laboratory, had developed its own working COVID-19 test based on the C.D.C.
+ protocol.
+ With the A.P.H.L.’s newfound appreciation of the E.U.A.
+ process in hand, the state filed an E.U.A.
+ application on Friday, February 28th⁠.
+ The next day, the F.D.A.
+ approved the test for use by both the city and the state⁠.
+ A week and a half later, at the request of New York State, the F.D.A.
+ expanded the E.U.A.
+ to allow the Wadsworth Center to do its own authorizations of laboratories that sought to use its test.On February 29th, the same day that the F.D.A.
+ first approved the New York tests, the agency also issued a new policy guidance that allowed any facility that had been certified to handle so-called high-complexity testing to run its own COVID-19 tests.
+ According to Becker, about five thousand virology labs in the country, including the one at the University of Washington, met the criterion.
+ For the first time since February 4th, Keith Jerome and his colleagues were allowed to conduct clinical COVID-19 tests.
+ “That changed everything,” Jerome said.
+ “We didn’t have to wait to get the forms in and then wait for the response.”On Monday, March 2nd, the lab at U.W.
+ ran its first clinical tests, on a hundred specimens, but its capacity grew quickly.
+ This past Saturday, it ran more than twenty-three hundred, and Jerome hopes that number will reach three thousand next week.
+ Since the outbreak began, the lab has increased its staff from around fifty to ninety people, and it is now operating seven days a week, twenty-four hours a day.
+ (He was quick to note that his own heroes are people like Rohit Shankar, a medical scientist who, during the first weekend after the F.D.A.
+ authorization came through, worked till two in the morning, went home and slept three hours, and was back at the lab at seven.)
+ Just last week, after a forty-minute negotiation, Jerome secured a lease that will allow him to add five thousand square feet to the ten thousand that the lab already has.
+ He has purchased new instruments, too, which, when they arrive, should bring the lab’s capacity to close to eight thousand tests per day.
+ “I started to realize that all my life was preparing for this moment,” Jerome told me.
+ “I think everyone in the group feels that way.”On Friday, during a Rose Garden press conference, President Trump declared a national emergency, and announced that commercial firms were finally ready to start testing for COVID-19.
+ The night before, Roche, the Swiss pharmaceutical manufacturer, had received an E.U.A.
+ to produce COVID-19 for the company’s PCR machines.
+ (On Friday, Thermo Fisher, an American company, received an E.U.A.
+ as well.)
+ According to Paul Brown, the head of Roche’s Molecular Solutions division, the company had been working on a test since February 1st.
+ The new tests, he said, which are mostly automated, can make it possible for large testing companies such as Quest and LabCorp to test for COVID-19; the highest-capacity tests will run nearly a thousand samples per machine over an eight-hour shift.After his prepared remarks, Trump was asked by a reporter whether he felt any responsibility for the persistent lags in the nation’s testing capacity.
+ “Yeah, no, I don’t take responsibility at all,” he said.
+ “We were given a set of circumstances and we were given rules, regulations, and specifications from a different time.
+ It wasn’t meant for this kind of an event with the kind of numbers that we’re talking about.” He was also asked about the dismantling, in 2018, of a National Security Council directorate dedicated to pandemic and bioterrorism planning.
+ The directorate was established by the Obama Administration after the Ebola epidemic four years earlier, as a means to anticipate and coördinate the government’s response to biological disasters.
+ “I just think it’s a nasty question,” the President replied.
+ “I don’t know anything about it.”The same day he castigated the C.D.C.
+ on Twitter.
+ “For decades the @CDCgov looked at, and studied its testing system, but did nothing about it.
+ It would always be inadequate and slow for a large scale pandemic, but a pandemic would never happen, they hoped.
+ President Obama made changes that only complicated things further.” Alberto Gutierrez, the former F.D.A.
+ official, had little patience for Trump’s tweets and comments.
+ “That’s not fair,” he said.
+ “If a general who’s lost a war says, ‘I don’t take responsibility because the army that was built for me was an army for a different area’?
+ No.
+ It is part of the obligation of the government to figure out what is needed, and what’s changing, and how to change to meet those demands.” (The C.D.C.
+ did not respond to requests for comment.
+ )Becker, for his part, insisted that Trump’s repeated assertions, since the epidemic began, that any American who wanted a COVID-19 test would be able to get one represented a fundamental misunderstanding about the role the C.D.C.
+ and the public-health laboratories are expected to play in an epidemic.
+ “That immediately changed the game,” he said.
+ “Instead of handling this from a surveillance and containment perspective, now we have to be in the mass-testing business.
+ The laboratory system in this country is not set up to do that.”As for the delay in scaling up COVID-19 testing capacity during those crucial weeks in February, Jerome told me that the underlying problem had far less to do with the faulty tests produced by the C.D.C.
+ than it did with a system that could not contemplate, let alone manage, the possibility that the C.D.C.
+ might end up producing faulty tests.
+ The F.D.A.’s exclusive authorization to the C.D.C.
+ to conduct COVID-19 tests ended up creating “what you’d think of as an agriculture monoculture.
+ If something went wrong, it was going to shut everything down, and that’s what happened.” Jerome said that his lab has taken its own steps to mitigate this problem.
+ “We’ve built three completely independent testing pathways in our laboratory, so that if there’s a shortage of a reagent or a bit of plastic, we have other ways to do the testing.”Sharfstein, too, thinks that it’s fair to criticize the federal government for not recognizing that its pandemic plans had a single point of failure.
+ The C.D.C.
+ quickly developed a working test, and it was understandable, at some level, that people at the Centers thought that fixing the faulty reagents for the public-health labs would be faster than shifting to an entirely different protocol.
+ Nevertheless, Sharfstein said, “Why are we relying only on the C.D.C.?
+ What the F.D.A.
+ could have done, and eventually did do, is say, ‘You can use other approaches.’ ” Even so, he said, “I don’t think it’s quite fair to totally blame the F.D.A.
+ for this.
+ The F.D.A.
+ can design an approach to support the public-health strategy, but someone has to tell F.D.A.
+ the public-health goal.” The delay in clearly establishing those goals, he said, shows why the decision to shut down the N.S.C.
+ directorate was so consequential.
+ “People talk about, like, why does it matter that they closed the White House office on pandemic preparedness?
+ This is one reason.”More Medical DispatchesSurviving a severe coronavirus infection is hard.
+ So is recovering.Some hospitals have postponed cancer surgeries because of the coronavirus crisis.
+ How do doctors assess urgency during a pandemic?It is not too late to go on the offense against the coronavirus.
+ This five-part public-health plan may be the key.The loneliness and solidarity of treating coronavirus patients in New York.To fill the vacuum left by the federal government, doctors are relying on informal networks to get the information and support they need.Conflict and confusion reign at New York hospitals over how to handle childbirth during the pandemic.In countries where the rate of infection threatens to outstrip the capacity of the health system, doctors are confronting ethical quandaries for which nothing in their training prepared them.Robert Baird was a member of The New Yorker’s editorial staff from 2012 to 2014.More:CoronavirusTestingDonald TrumpCenters for Disease ControlFood and Drug AdministrationPandemicsVirusesCoronavirus Treatment and TestingThe DailySign up for our daily newsletter and get the best of The New Yorker in your in-box.Enter your e-mail addressSign upWill be used in accordance with our Privacy Policy.Read MoreCoronavirusThe Hard Fight for a Coronavirus Spending Bill in the HouseAfter days of debate over paid sick leave, more funding for unemployment benefits, and free testing, Nancy Pelosi secured a commitment from President Trump that he would tweet his support for the emergency package.By Elisabeth ZerofskyCoronavirusTrump, Truth, and the Mishandling of the Coronavirus CrisisThe President has squandered the most valuable resource in a pandemic: time.By David RemnickVideoHow Astrology Evolved, From Mesopotamia to InstagramMillennials who see no contradiction between using astrology and believing in science are fuelling a resurgence of the practice through social media and apps like Co-Star.SectionsNewsBooks &amp; CultureFiction &amp; PoetryHumor &amp; CartoonsMagazineCrosswordVideoPodcastsArchiveGoings OnMoreCustomer CareBuy Covers and CartoonsDigital AccessNewslettersJigsaw PuzzleRSSSite MapAboutCareersContactFAQMedia KitPressAccessibility HelpCondé Nast Spotlight© 2020 Condé Nast.
+ All rights reserved.
+ Use of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Your California Privacy Rights.
+ The New Yorker may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers.
+ The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+ Sign up for This Week’s Issue and get an e-mail every week with the stories you have to read.
+ Sign up now!
+ Sign up for the Books &amp; Fiction newsletter.
+ Sign up to be notified via e-mail when a new puzzle is published.
+ Subscribe to our newsletter for a weekly roundup of the latest \u003Ci\u003ENew Yorker\u003C\u002Fi\u003E podcasts.
+ ","head.keywords":"news desk,coronavirus,medical dispatch,testing,donald trump,centers for disease control,food and drug administration,pandemics,viruses,coronavirus treatment and testing,web","head.og.type":"article","head.robots":"index, follow, max-image-preview:large","head.title":"What Went Wrong with Coronavirus Testing in the U.S. | The New Yorker","tenant":"the-new-yorker","head.social.title":"What Went Wrong with Coronavirus Testing in the U.S.","head.social.description":"During three crucial weeks in February, as a first set of test kits sent out by the C.D.C.
+ failed to work properly, labs across the country scrambled to fill the void.
+ ","head.promo.dek":"During three crucial weeks in February, as a first set of test kits sent out by the C.D.C.
+ failed to work properly, labs across the country scrambled to fill the void.
+ ; of some five hundred suspected cases⁠ tested at the Centers, twelve had confirmed positive.
+ The new test kits would allow about fifty thousand patients to be tested, and they would also make testing much faster, as patient specimens would no longer have to be sent to Atlanta to be evaluated.\n\n+++\n\nThe kits were shipped in small white cardboard boxes.
+ Inside each box were four vials, packed in stiff gray foam⁠, which held the necessary materials, known as reagents, to run tests on about three hundred⁠ people.
+ Before a state or local lab could use the C.D.C.-developed tests on actual patients, however, it had to insure that they worked the same way they had in Atlanta, a process known as verification.
+ The first batch of kits, sent to more than fifty state and local public-health labs⁠, arrived on February 7th.
+ Of the labs that received tests, around six to eight were able to verify that they worked as intended.
+ But a larger number, about thirty-six of them, received inconclusive⁠ results from one of the reagents.
+ Another five, including the New York City and New York State labs, had problems with two reagents.
+ On February 8th, several labs reported their problems to the C.D.C.
+ To offer tests to anyone who wanted them, as [President Trump](https:\u002F\u002Fwww.newyorker.com\u002Ftag\u002Fdonald-trump) did, on March 6th, was always going to require commercial testing facilities to come on line.
+ Still, the three-week delay caused by the C.D.C.’s failure to get working test kits into the hands of the public-health labs came at a crucial time.
+ In the early stages of an outbreak, contact tracing, isolation, and individual quarantines are regularly deployed to contain the spread of a disease.
+ But these tools are useless if suspected cases of a disease cannot be tested.
+ The void created by the C.D.C.’s faulty tests made it impossible for public-health authorities to get an accurate picture of how far and how fast the disease was spreading.
+ “Once you’re behind the eight ball, it’s very hard to catch up,” Alberto Gutierrez, the former head of the F.D.A.
+ Office of In Vitro Diagnostics and Radiological Health, which regulates tests, told me.
+ “The problem was that containment was not done very well.
+ PCR is highly sensitive to contamination and other faults, which is why the verification step is necessary to insure accurate results.
+ (That protocol would form the basis for a test disseminated, early on, by the World Health Organization.
+ )⁠ That same day, Messonnier announced that the C.D.C.
+ “I’ll be honest.
+ I didn’t think that this virus was going to do everything it’s done,” Keith Jerome, the lab’s director, told me.
+ “I didn’t think it would be a major health issue for the United States.” Still, he said, “the last thing we wanted to do was to be caught flat-footed.” The U.W.
+ “We started, probably in earnest in mid-January, to prepare what we call a laboratory-developed test,⁠” Jerome said.
+ It took a team at the lab, working under the direction of Alex Greninger, about two weeks to develop a working version.
+ But, as soon as Alex Azar, the Secretary of Health and Human Services, declared a public-health emergency, on February 4th, a new regulatory regime took effect.
+ From that point on, any lab that wanted to conduct its own tests for the new coronavirus would first need to secure something called an Emergency Use Authorization from the F.D.A.
+ (The C.D.C., which had been working closely with the F.D.A., received the first E.U.A.
+ )\n\nThis shift in the regulations sounds perverse, since it restricts the use of new tests at precisely the moment they’re most needed.
+ But Joshua Sharfstein, a former principal deputy commissioner of the F.D.A., told me that the change is meant to protect the public.
+ “You certainly wouldn’t want to say, ‘Any lab can advertise a coronavirus test.’ Because then it’s going to be chaos.
+ There are a lot of people who will sell things that may or may not work.” Sharfstein said that the E.U.A.
+ law was designed to offer the F.D.A.
+ a way to cut through red tape in the case of emergencies.
+ He signed the very first E.U.A, in 2009, during the H1N1-flu epidemic, after the C.D.C.
+ requested approval for diagnostic tests.
+ “I met with the lawyers to explain to me the E.U.A.
+ process, and they basically said, ‘It’s whatever we think it is.
+ We can make it up to fit the time.’ If you tell me I’ve got twelve hours, I could get some very smart people on the phone to do our best to figure out something that’s going to work.
+ The E.U.A.
+ process is supremely flexible.”\n\nYet flexibility was not what Jerome and his lab found when they tried to get an E.U.A.
+ “From the point of view of the academic labs, we look at it, like, when there’s any run-of-the-mill virus that people are used to, they trust us to make a test,” he said.
+ “But when there’s a big emergency and we feel like we should really do something, it gets hard.
+ It’s a little frustrating.
+ We’ve got a lot of scientists and doctors and laboratory personnel who are incredibly good at making assays.
+ What we’re not so good at is figuring out all the forms and working with the bureaucracy of the federal government.” Jerome said that Greninger had to call and e-mail the F.D.A.
+ multiple times to figure out what they needed to secure an E.U.A.
+ “At one point, he was very frustrated because he’d e-mailed them what we were doing so they could review it,” Jerome said.
+ “But legally you also had to mail a physical copy.
+ It’s just shocking.” (The F.D.A.
+ Despite these difficulties, Jerome said, the F.D.A.
+ ultimately proved responsive to the lab’s entreaties.
+ “They had good and substantive feedback that made our testing better, and the response time was typically just a couple of days.”\n\nWhile they waited for authorization from the F.D.A., Jerome and his colleagues had to decide whether it was worth increasing their testing capacity.
+ “If you start thinking about ramping up volumes, you’re talking about spending real money to do so,” Jerome said.
+ But, though the restrictions that accompanied Azar’s emergency declaration meant that the U.W.
+ Jerome said that the lab tested specimens from about three hundred people through the second half of February.
+ “We didn’t find anything on those three hundred until, I believe it was, February 29th,” he said.
+ “And then we got a specimen from one of the people who were the two original cases in Washington.”\n\nThe E.U.A.
+ regulations, however, prohibited the lab from reporting the results to the doctors who had ordered the tests for their patients.
+ In effect, Jerome said, the lab was able to perform at least some surveillance of the outbreak, despite the lack of tests from the C.D.C.
+ “If we’d been able to test a thousand people or two thousand people, maybe we would have found something sooner,” he told me.
+ “But it does show that it wasn’t like everyone had it through those last two weeks of February.”\n\n+++dropcap\n\nAcademic labs like Jerome’s were not the only institutions to attempt to fill the void left by the C.D.C.’s faulty tests.
+ Scott Becker is the C.E.O.
+ of the Association of Public Health Laboratories, a nonprofit organization based in Silver Spring, Maryland, that represents and coördinates a hundred and fifty state, county, and city public-health laboratories.
+ Scientists at the public-health labs, Becker told me, tend to be eager for action.
+ “They’re the first ones out of the gate.
+ They know their role.” But Becker’s network was set up to administer diagnostic tests, not produce them.
+ “We figured out surge, we figured out all sorts of other components, but the assumption has always been that there would be a test,” he said.
+ When the problems with its kits were first discovered, the C.D.C.
+ told the labs not to proceed with any tests until new kits could be manufactured, but it refused to say when those would be ready.
+ “You’re just thinking, any day it’s going to show up,” Becker said.
+ “We really felt this enormous pressure to begin testing any way we could.” He corrected himself: “Not only pressure, but responsibility.”\n\n+++\n\nThe C.D.C.
+ notified the F.D.A.
+ about the reagent problems on February 10th.
+ According to an agency official, the C.D.C.
+ told the F.D.A.
+ that the contractor who had manufactured the faulty test kits would soon have a new batch of reagents ready for a suite of enhanced quality-control measures.
+ If the reagents worked, then testing at the public-health labs would be able to begin in a few days.
+ By Friday, February 21st, however, Nancy Messonnier, at the C.D.C., told reporters that the problems with the test kits were still not resolved.
+ “We are working with the F.D.A., who have oversight over us, under the E.U.A., on redoing some of the kits,” she said.
+ Wroblewski said that she had been thinking along similar lines.
+ “So it’s not crazy, right?” Becker asked Wroblewski.
+ He called the president of his organization to pitch the idea, and then he called the directors of the New York State and New York City labs.
+ “They were, like, ‘We could do this.
+ We should go for this,’ ” Becker said.
+ “So then I just started calling all my board members, and there wasn’t a person that said no.”\n\nThe next morning, Monday, February 24th, Becker and the A.P.H.L.’s president, Grace Kubin, sent a letter to the F.D.A.
+ Citing “the gravity of the current COVID-19 situation across the globe,” they asked the F.D.A.
+ commissioner to allow the A.P.H.L.’s member laboratories to “create and implement a laboratory developed test (LDT) for the detection of SARS-CoV-2 (COVID-19).” The letter went on: “While we appreciate the many efforts underway at CDC .
+ .
+ .
+ we are now many weeks into the response with still no diagnostic or surveillance tests available outside of CDC for the vast majority of our member laboratories.” By that night, Becker had still received no acknowledgement to his letter.
+ “I checked in with them to say, ‘Did you receive it?’ And I got an e-mail that said, ‘Yes, the commissioner’s office is working up a response.’ I reported that to my staff the next morning.
+ I said, ‘O.K., so that’s the bureaucratic death knell.
+ We tried.
+ We did the best we can.
+ It was a bit of a Hail Mary, but no harm in asking.’ ”\n\nBecker was certain that was the end of it.
+ But, on Wednesday, February 26th, a half hour before a weekly conference call that the A.P.H.L.
+ and the F.D.A., he received an e-mailed letter from the F.D.A.
+ commissioner.
+ “In the context of a public health emergency,” the letter said, “false diagnostic tests can lead to significant adverse health consequences—not only serious implications for individual patient care but also serious implications for the analyses of disease progression and for public health decision making.” But then it went on to state that the Emergency Use Authorization law—the same one that kept the U.W.
+ virology lab from conducting clinical tests—gave the F.D.A.
+ the ability to authorize “unapproved products .
+ .
+ .
+ including diagnostic tests” if “the known and potential benefits of the product .
+ .
+ .
+ outweigh the known and potential risks of the product.” The F.D.A.
+ was willing to consider an E.U.A.
+ that would cover all of the labs in the A.P.H.L.’s network, and it included a template to “streamline the process to facilitate the protocol that you propose⁠.” Becker was stunned at the good news.
+ “We didn’t know about the E.U.A.
+ process,” he said.
+ “I didn’t really know that we could do such a thing.”\n\nBecker said that he barely had time to read the letter out loud to his staff before the conference call with the A.P.H.L.’s members began.
+ But the news, for his members, was about to get better.
+ On the call, the representatives from the C.D.C.
+ and F.D.A.
+ announced that one of the reagents—one of the four vials sent with the original test kits—should no longer be used⁠.
+ Any labs that had been able to verify the results with the other reagents, about forty-five of the original fifty or so, were henceforth allowed to resume testing.
+ By the next day, Becker said, “I felt like the lights were coming on across the country, and we were going to be able to do the job that we were set up to do.”\n\nAmong the laboratories that were not able to verify the C.D.C.
+ test kits, even after the contaminated reagent was dropped, were New York City’s and New York State’s.
+ protocol.
+ With the A.P.H.L.’s newfound appreciation of the E.U.A.
+ process in hand, the state filed an E.U.A.
+ application on Friday, February 28th⁠.
+ The next day, the F.D.A.
+ approved the test for use by both the city and the state⁠.
+ A week and a half later, at the request of New York State, the F.D.A.
+ expanded the E.U.A.
+ to allow the Wadsworth Center to do its own authorizations of laboratories that sought to use its test.\n\nOn February 29th, the same day that the F.D.A.
+ According to Becker, about five thousand virology labs in the country, including the one at the University of Washington, met the criterion.
+ “That changed everything,” Jerome said.
+ “We didn’t have to wait to get the forms in and then wait for the response.”\n\nOn Monday, March 2nd, the lab at U.W.
+ ran its first clinical tests, on a hundred specimens, but its capacity grew quickly.
+ This past Saturday, it ran more than twenty-three hundred, and Jerome hopes that number will reach three thousand next week.
+ Since the outbreak began, the lab has increased its staff from around fifty to ninety people, and it is now operating seven days a week, twenty-four hours a day.
+ (He was quick to note that his own heroes are people like Rohit Shankar, a medical scientist who, during the first weekend after the F.D.A.
+ authorization came through, worked till two in the morning, went home and slept three hours, and was back at the lab at seven.)
+ Just last week, after a forty-minute negotiation, Jerome secured a lease that will allow him to add five thousand square feet to the ten thousand that the lab already has.
+ He has purchased new instruments, too, which, when they arrive, should bring the lab’s capacity to close to eight thousand tests per day.
+ “I started to realize that all my life was preparing for this moment,” Jerome told me.
+ The night before, Roche, the Swiss pharmaceutical manufacturer, had received an E.U.A.
+ (On Friday, Thermo Fisher, an American company, received an E.U.A.
+ as well.)
+ According to Paul Brown, the head of Roche’s Molecular Solutions division, the company had been working on a test since February 1st.
+ “Yeah, no, I don’t take responsibility at all,” he said.
+ “We were given a set of circumstances and we were given rules, regulations, and specifications from a different time.
+ It wasn’t meant for this kind of an event with the kind of numbers that we’re talking about.” He was also asked about the dismantling, in 2018, of a National Security Council directorate dedicated to pandemic and bioterrorism planning.
+ The directorate was established by the Obama Administration after the Ebola epidemic four years earlier, as a means to anticipate and coördinate the government’s response to biological disasters.
+ “I just think it’s a nasty question,” the President replied.
+ “I don’t know anything about it.”\n\nThe same day he castigated the C.D.C.
+ on Twitter.
+ “For decades the @CDCgov looked at, and studied its testing system, but did nothing about it.
+ It would always be inadequate and slow for a large scale pandemic, but a pandemic would never happen, they hoped.
+ President Obama made changes that only complicated things further.” Alberto Gutierrez, the former F.D.A.
+ official, had little patience for Trump’s tweets and comments.
+ “That’s not fair,” he said.
+ “If a general who’s lost a war says, ‘I don’t take responsibility because the army that was built for me was an army for a different area’?
+ No.
+ It is part of the obligation of the government to figure out what is needed, and what’s changing, and how to change to meet those demands.” (The C.D.C.
+ did not respond to requests for comment.
+ and the public-health laboratories are expected to play in an epidemic.
+ “That immediately changed the game,” he said.
+ “Instead of handling this from a surveillance and containment perspective, now we have to be in the mass-testing business.
+ than it did with a system that could not contemplate, let alone manage, the possibility that the C.D.C.
+ might end up producing faulty tests.
+ The F.D.A.’s exclusive authorization to the C.D.C.
+ If something went wrong, it was going to shut everything down, and that’s what happened.” Jerome said that his lab has taken its own steps to mitigate this problem.
+ “We’ve built three completely independent testing pathways in our laboratory, so that if there’s a shortage of a reagent or a bit of plastic, we have other ways to do the testing.”\n\nSharfstein, too, thinks that it’s fair to criticize the federal government for not recognizing that its pandemic plans had a single point of failure.
+ The C.D.C.
+ quickly developed a working test, and it was understandable, at some level, that people at the Centers thought that fixing the faulty reagents for the public-health labs would be faster than shifting to an entirely different protocol.
+ Nevertheless, Sharfstein said, “Why are we relying only on the C.D.C.?
+ What the F.D.A.
+ could have done, and eventually did do, is say, ‘You can use other approaches.’ ” Even so, he said, “I don’t think it’s quite fair to totally blame the F.D.A.
+ for this.
+ The F.D.A.
+ can design an approach to support the public-health strategy, but someone has to tell F.D.A.
+ the public-health goal.” The delay in clearly establishing those goals, he said, shows why the decision to shut down the N.S.C.
+ directorate was so consequential.
+ “People talk about, like, why does it matter that they closed the White House office on pandemic preparedness?
+ This is one reason.”\n\n***\n## More Medical Dispatches\n- Surviving a severe coronavirus infection is hard.
+ ","description":"Robert P. Baird writes on initial issues with the C.D.C.’s coronavirus test and the role of the F.D.A., on statements by Donald Trump, and on efforts by labs across the country to fill the testing void.
+ The stories that matter.
+ Her recent work has focussed on illiberalism in democracies and geographic inequalities.
+ She has written for \u003Cem\u003EThe New Yorker\u003C\u002Fem\u003E, the \u003Cem\u003ETimes Magazine\u003C\u002Fem\u003E, the \u003Cem\u003ETimes Book Review\u003C\u002Fem\u003E, \u003Cem\u003EHarper’s\u003C\u002Fem\u003E, and the \u003Cem\u003EWall Street Journal\u003C\u002Fem\u003E, among other publications.
+ ; of some five hundred suspected cases⁠ tested at the Centers, twelve had confirmed positive.
+ The new test kits would allow about fifty thousand patients to be tested, and they would also make testing much faster, as patient specimens would no longer have to be sent to Atlanta to be evaluated.
+ "]],["p","The kits were shipped in small white cardboard boxes.
+ Inside each box were four vials, packed in stiff gray foam⁠, which held the necessary materials, known as reagents, to run tests on about three hundred⁠ people.
+ Before a state or local lab could use the C.D.C.-developed tests on actual patients, however, it had to insure that they worked the same way they had in Atlanta, a process known as verification.
+ The first batch of kits, sent to more than fifty state and local public-health labs⁠, arrived on February 7th.
+ Of the labs that received tests, around six to eight were able to verify that they worked as intended.
+ But a larger number, about thirty-six of them, received inconclusive⁠ results from one of the reagents.
+ Another five, including the New York City and New York State labs, had problems with two reagents.
+ On February 8th, several labs reported their problems to the C.D.C.
+ "],["p","The public-health-laboratory network was never intended to provide widespread testing in the event of a pandemic.
+ Still, the three-week delay caused by the C.D.C.’s failure to get working test kits into the hands of the public-health labs came at a crucial time.
+ In the early stages of an outbreak, contact tracing, isolation, and individual quarantines are regularly deployed to contain the spread of a disease.
+ But these tools are useless if suspected cases of a disease cannot be tested.
+ The void created by the C.D.C.’s faulty tests made it impossible for public-health authorities to get an accurate picture of how far and how fast the disease was spreading.
+ “Once you’re behind the eight ball, it’s very hard to catch up,” Alberto Gutierrez, the former head of the F.D.A.
+ Office of In Vitro Diagnostics and Radiological Health, which regulates tests, told me.
+ “The problem was that containment was not done very well.
+ PCR is highly sensitive to contamination and other faults, which is why the verification step is necessary to insure accurate results.
+ That problem was exacerbated by a President who has simultaneously underplayed the severity of the outbreak and overpromised the means available to fight it.
+ (That protocol would form the basis for a test disseminated, early on, by the World Health Organization.
+ )⁠ That same day, Messonnier announced that the C.D.C.
+ “I’ll be honest.
+ I didn’t think that this virus was going to do everything it’s done,” Keith Jerome, the lab’s director, told me.
+ “I didn’t think it would be a major health issue for the United States.” Still, he said, “the last thing we wanted to do was to be caught flat-footed.” The U.W.
+ “We started, probably in earnest in mid-January, to prepare what we call a laboratory-developed test,⁠” Jerome said.
+ It took a team at the lab, working under the direction of Alex Greninger, about two weeks to develop a working version.
+ But, as soon as Alex Azar, the Secretary of Health and Human Services, declared a public-health emergency, on February 4th, a new regulatory regime took effect.
+ From that point on, any lab that wanted to conduct its own tests for the new coronavirus would first need to secure something called an Emergency Use Authorization from the F.D.A.
+ (The C.D.C., which had been working closely with the F.D.A., received the first E.U.A.
+ )"],["cm-unit"],["p","This shift in the regulations sounds perverse, since it restricts the use of new tests at precisely the moment they’re most needed.
+ But Joshua Sharfstein, a former principal deputy commissioner of the F.D.A., told me that the change is meant to protect the public.
+ “You certainly wouldn’t want to say, ‘Any lab can advertise a coronavirus test.’ Because then it’s going to be chaos.
+ There are a lot of people who will sell things that may or may not work.” Sharfstein said that the E.U.A.
+ law was designed to offer the F.D.A.
+ a way to cut through red tape in the case of emergencies.
+ He signed the very first E.U.A, in 2009, during the H1N1-flu epidemic, after the C.D.C.
+ requested approval for diagnostic tests.
+ “I met with the lawyers to explain to me the E.U.A.
+ process, and they basically said, ‘It’s whatever we think it is.
+ We can make it up to fit the time.’ If you tell me I’ve got twelve hours, I could get some very smart people on the phone to do our best to figure out something that’s going to work.
+ The E.U.A.
+ “From the point of view of the academic labs, we look at it, like, when there’s any run-of-the-mill virus that people are used to, they trust us to make a test,” he said.
+ “But when there’s a big emergency and we feel like we should really do something, it gets hard.
+ It’s a little frustrating.
+ We’ve got a lot of scientists and doctors and laboratory personnel who are incredibly good at making assays.
+ What we’re not so good at is figuring out all the forms and working with the bureaucracy of the federal government.” Jerome said that Greninger had to call and e-mail the F.D.A.
+ multiple times to figure out what they needed to secure an E.U.A.
+ “At one point, he was very frustrated because he’d e-mailed them what we were doing so they could review it,” Jerome said.
+ “But legally you also had to mail a physical copy.
+ It’s just shocking.” (The F.D.A.
+ Despite these difficulties, Jerome said, the F.D.A.
+ ultimately proved responsive to the lab’s entreaties.
+ “They had good and substantive feedback that made our testing better, and the response time was typically just a couple of days.”"],["p","While they waited for authorization from the F.D.A., Jerome and his colleagues had to decide whether it was worth increasing their testing capacity.
+ “If you start thinking about ramping up volumes, you’re talking about spending real money to do so,” Jerome said.
+ But, though the restrictions that accompanied Azar’s emergency declaration meant that the U.W.
+ Jerome said that the lab tested specimens from about three hundred people through the second half of February.
+ “We didn’t find anything on those three hundred until, I believe it was, February 29th,” he said.
+ “And then we got a specimen from one of the people who were the two original cases in Washington.”"],["p","The E.U.A.
+ regulations, however, prohibited the lab from reporting the results to the doctors who had ordered the tests for their patients.
+ In effect, Jerome said, the lab was able to perform at least some surveillance of the outbreak, despite the lack of tests from the C.D.C.
+ “If we’d been able to test a thousand people or two thousand people, maybe we would have found something sooner,” he told me.
+ Scott Becker is the C.E.O.
+ of the Association of Public Health Laboratories, a nonprofit organization based in Silver Spring, Maryland, that represents and coördinates a hundred and fifty state, county, and city public-health laboratories.
+ Scientists at the public-health labs, Becker told me, tend to be eager for action.
+ “They’re the first ones out of the gate.
+ They know their role.” But Becker’s network was set up to administer diagnostic tests, not produce them.
+ “We figured out surge, we figured out all sorts of other components, but the assumption has always been that there would be a test,” he said.
+ When the problems with its kits were first discovered, the C.D.C.
+ told the labs not to proceed with any tests until new kits could be manufactured, but it refused to say when those would be ready.
+ “You’re just thinking, any day it’s going to show up,” Becker said.
+ notified the F.D.A.
+ about the reagent problems on February 10th.
+ According to an agency official, the C.D.C.
+ told the F.D.A.
+ that the contractor who had manufactured the faulty test kits would soon have a new batch of reagents ready for a suite of enhanced quality-control measures.
+ If the reagents worked, then testing at the public-health labs would be able to begin in a few days.
+ By Friday, February 21st, however, Nancy Messonnier, at the C.D.C., told reporters that the problems with the test kits were still not resolved.
+ “We are working with the F.D.A., who have oversight over us, under the E.U.A., on redoing some of the kits,” she said.
+ Wroblewski said that she had been thinking along similar lines.
+ “So it’s not crazy, right?” Becker asked Wroblewski.
+ He called the president of his organization to pitch the idea, and then he called the directors of the New York State and New York City labs.
+ “They were, like, ‘We could do this.
+ We should go for this,’ ” Becker said.
+ “So then I just started calling all my board members, and there wasn’t a person that said no.”"],["p","The next morning, Monday, February 24th, Becker and the A.P.H.L.’s president, Grace Kubin, sent a letter to the F.D.A.
+ Citing “the gravity of the current COVID-19 situation across the globe,” they asked the F.D.A.
+ commissioner to allow the A.P.H.L.’s member laboratories to “create and implement a laboratory developed test (LDT) for the detection of SARS-CoV-2 (COVID-19).” The letter went on: “While we appreciate the many efforts underway at CDC .
+ .
+ .
+ we are now many weeks into the response with still no diagnostic or surveillance tests available outside of CDC for the vast majority of our member laboratories.” By that night, Becker had still received no acknowledgement to his letter.
+ “I checked in with them to say, ‘Did you receive it?’ And I got an e-mail that said, ‘Yes, the commissioner’s office is working up a response.’ I reported that to my staff the next morning.
+ I said, ‘O.K., so that’s the bureaucratic death knell.
+ We tried.
+ We did the best we can.
+ It was a bit of a Hail Mary, but no harm in asking.’ ”"],["p","Becker was certain that was the end of it.
+ But, on Wednesday, February 26th, a half hour before a weekly conference call that the A.P.H.L.
+ and the F.D.A., he received an e-mailed letter from the F.D.A.
+ commissioner.
+ “In the context of a public health emergency,” the letter said, “false diagnostic tests can lead to significant adverse health consequences—not only serious implications for individual patient care but also serious implications for the analyses of disease progression and for public health decision making.” But then it went on to state that the Emergency Use Authorization law—the same one that kept the U.W.
+ virology lab from conducting clinical tests—gave the F.D.A.
+ the ability to authorize “unapproved products .
+ .
+ .
+ including diagnostic tests” if “the known and potential benefits of the product .
+ .
+ .
+ outweigh the known and potential risks of the product.” The F.D.A.
+ was willing to consider an E.U.A.
+ that would cover all of the labs in the A.P.H.L.’s network, and it included a template to “streamline the process to facilitate the protocol that you propose⁠.” Becker was stunned at the good news.
+ “We didn’t know about the E.U.A.
+ process,” he said.
+ But the news, for his members, was about to get better.
+ On the call, the representatives from the C.D.C.
+ and F.D.A.
+ announced that one of the reagents—one of the four vials sent with the original test kits—should no longer be used⁠.
+ Any labs that had been able to verify the results with the other reagents, about forty-five of the original fifty or so, were henceforth allowed to resume testing.
+ By the next day, Becker said, “I felt like the lights were coming on across the country, and we were going to be able to do the job that we were set up to do.”"],["p","Among the laboratories that were not able to verify the C.D.C.
+ test kits, even after the contaminated reagent was dropped, were New York City’s and New York State’s.
+ protocol.
+ With the A.P.H.L.’s newfound appreciation of the E.U.A.
+ process in hand, the state filed an E.U.A.
+ application on Friday, February 28th⁠.
+ The next day, the F.D.A.
+ approved the test for use by both the city and the state⁠.
+ A week and a half later, at the request of New York State, the F.D.A.
+ expanded the E.U.A.
+ to allow the Wadsworth Center to do its own authorizations of laboratories that sought to use its test.
+ "],["p","On February 29th, the same day that the F.D.A.
+ According to Becker, about five thousand virology labs in the country, including the one at the University of Washington, met the criterion.
+ “That changed everything,” Jerome said.
+ “We didn’t have to wait to get the forms in and then wait for the response.”"],["p","On Monday, March 2nd, the lab at U.W.
+ ran its first clinical tests, on a hundred specimens, but its capacity grew quickly.
+ This past Saturday, it ran more than twenty-three hundred, and Jerome hopes that number will reach three thousand next week.
+ Since the outbreak began, the lab has increased its staff from around fifty to ninety people, and it is now operating seven days a week, twenty-four hours a day.
+ (He was quick to note that his own heroes are people like Rohit Shankar, a medical scientist who, during the first weekend after the F.D.A.
+ authorization came through, worked till two in the morning, went home and slept three hours, and was back at the lab at seven.)
+ Just last week, after a forty-minute negotiation, Jerome secured a lease that will allow him to add five thousand square feet to the ten thousand that the lab already has.
+ He has purchased new instruments, too, which, when they arrive, should bring the lab’s capacity to close to eight thousand tests per day.
+ “I started to realize that all my life was preparing for this moment,” Jerome told me.
+ The night before, Roche, the Swiss pharmaceutical manufacturer, had received an E.U.A.
+ (On Friday, Thermo Fisher, an American company, received an E.U.A.
+ as well.)
+ According to Paul Brown, the head of Roche’s Molecular Solutions division, the company had been working on a test since February 1st.
+ "]],["p","After his prepared remarks, Trump was asked by a reporter whether he felt any responsibility for the persistent lags in the nation’s testing capacity.
+ “Yeah, no, I don’t take responsibility at all,” he said.
+ “We were given a set of circumstances and we were given rules, regulations, and specifications from a different time.
+ It wasn’t meant for this kind of an event with the kind of numbers that we’re talking about.” He was also asked about the dismantling, in 2018, of a National Security Council directorate dedicated to pandemic and bioterrorism planning.
+ The directorate was established by the Obama Administration after the Ebola epidemic four years earlier, as a means to anticipate and coördinate the government’s response to biological disasters.
+ “I just think it’s a nasty question,” the President replied.
+ “I don’t know anything about it.”"],["p","The same day he castigated the C.D.C.
+ on Twitter.
+ “For decades the @CDCgov looked at, and studied its testing system, but did nothing about it.
+ It would always be inadequate and slow for a large scale pandemic, but a pandemic would never happen, they hoped.
+ President Obama made changes that only complicated things further.” Alberto Gutierrez, the former F.D.A.
+ official, had little patience for Trump’s tweets and comments.
+ “That’s not fair,” he said.
+ “If a general who’s lost a war says, ‘I don’t take responsibility because the army that was built for me was an army for a different area’?
+ No.
+ It is part of the obligation of the government to figure out what is needed, and what’s changing, and how to change to meet those demands.” (The C.D.C.
+ did not respond to requests for comment.
+ and the public-health laboratories are expected to play in an epidemic.
+ “That immediately changed the game,” he said.
+ “Instead of handling this from a surveillance and containment perspective, now we have to be in the mass-testing business.
+ than it did with a system that could not contemplate, let alone manage, the possibility that the C.D.C.
+ might end up producing faulty tests.
+ The F.D.A.’s exclusive authorization to the C.D.C.
+ If something went wrong, it was going to shut everything down, and that’s what happened.” Jerome said that his lab has taken its own steps to mitigate this problem.
+ “We’ve built three completely independent testing pathways in our laboratory, so that if there’s a shortage of a reagent or a bit of plastic, we have other ways to do the testing.”"],["p","Sharfstein, too, thinks that it’s fair to criticize the federal government for not recognizing that its pandemic plans had a single point of failure.
+ The C.D.C.
+ quickly developed a working test, and it was understandable, at some level, that people at the Centers thought that fixing the faulty reagents for the public-health labs would be faster than shifting to an entirely different protocol.
+ Nevertheless, Sharfstein said, “Why are we relying only on the C.D.C.?
+ What the F.D.A.
+ could have done, and eventually did do, is say, ‘You can use other approaches.’ ” Even so, he said, “I don’t think it’s quite fair to totally blame the F.D.A.
+ for this.
+ The F.D.A.
+ can design an approach to support the public-health strategy, but someone has to tell F.D.A.
+ the public-health goal.” The delay in clearly establishing those goals, he said, shows why the decision to shut down the N.S.C.
+ directorate was so consequential.
+ “People talk about, like, why does it matter that they closed the White House office on pandemic preparedness?
+ This is one reason.”"],["hr"],["h2","More Medical Dispatches"],["ul",["li","Surviving a severe coronavirus infection is hard.
+ "],["li","Some hospitals have postponed cancer surgeries because of the coronavirus crisis.
+ "],["li","It is not too late to go on the offense against the coronavirus.
+ ","contentType":"photo","credit":"Photograph Courtesy the C.D.C.
+ failed to work properly, labs across the country scrambled to fill the void.
+ ","bio":"Elisabeth Zerofsky writes on politics and society from Europe.
+ Her recent work has focussed on illiberalism in democracies and geographic inequalities.
+ She has written for *The New Yorker*, the *Times Magazine*, the *Times Book Review*, *Harper’s*, and the *Wall Street Journal*, among other publications.
+ She was a 2017 Livingston Award finalist and is currently a fellow with the Robert Bosch Foundation Fellowship Program, based in Berlin.

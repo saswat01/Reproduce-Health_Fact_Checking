@@ -1,0 +1,15 @@
+“As the country continues working together to flatten the curve, following the advice of health experts, the full Senate is not expected to travel back to Washington D.C. sooner than Monday, May 4th.
+ All members will receive at least 24 hours’ notice if this changes.
+ This bipartisan decision reflects consultation with Leader Schumer and my colleagues in Senate leadership.
+ “As Senators continue working together from our home states, we must stay totally focused on fighting this pandemic and strengthening our nation.
+ The coronavirus does not take days off and the United States Senate must not either, wherever we are.
+ “For example, the crucial Paycheck Protection Program (PPP), which is literally saving millions of American jobs, will run dry this week if we do not pass more funding.
+ While other CARES Act programs such as hospital funding and assistance for state governments are just beginning to push out money, 70% of the PPP’s funding has been already allotted in just a week and a half.
+ “President Trump, Secretary Mnuchin, and Senate and House Republicans simply want to add more funding for this job-saving program that both parties designed together.
+ There is no time to insist on sweeping renegotiations or ultimatums about other policies that passed both houses unanimously.
+ “Clean funding for worker pay in a crisis should not be controversial.
+ I hope our Democratic colleagues will let Congress act this week.
+ ]+)/.exec( ua ) || 					/(webkit)[ \/]([\w.
+ ]+)/.exec( ua ) || 					/(opera)(?:.
+ *version|)[ \/]([\w.
+ ]+)/.exec( ua ) || 					/(msie) ([\w.

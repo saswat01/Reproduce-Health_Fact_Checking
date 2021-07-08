@@ -1,0 +1,116 @@
+This site needs JavaScript to work properly.
+ Please enable it to take advantage of the complete set of features!
+ Clipboard, Search History, and several other advanced features are temporarily unavailable.
+ Get the latest public health information from CDC: https://www.coronavirus.gov.
+ Get the latest research from NIH: https://www.nih.gov/coronavirus.
+ Find NCBI SARS-CoV-2 literature, sequence, and clinical content: https://www.ncbi.nlm.nih.gov/sars-cov-2/.
+ National Institutes of Health National Library of Medicine National Center for Biotechnology Information NCBI homepage   Log in    Show account info      Close Account   						Logged in as: username    Dashboard (My NCBI) Publications (My Bibliography) Account settings Log out         Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation                 Search:   Search       Advanced     Clipboard         User Guide                   Save     Email  Send to      Clipboard     My BibliographyCollectionsCitation manager    Display options      Display options         Format      Abstract PubMed PMID                Save citation to file          Format:     Summary (text) PubMed PMID Abstract (text) CSV        Create file        Cancel             Email citation          Subject:            To:           Format:     Summary Summary (text) Abstract Abstract (text)     MeSH and other data           Send email        Cancel              Add to Collections         Create a new collection    Add to an existing collection          Name your collection:            Name must be less than 100 characters           Choose a collection:          Unable to load your collection due to an error Please try again         Add        Cancel             Add to My Bibliography          My Bibliography        Unable to load your delegates due to an error Please try again       Add        Cancel             Your saved search          Name of saved search:           Search terms:       Test search terms       Would you like email updates of new search results?
+ Saved Search Alert Radio Buttons    Yes    No           Email:      (change)       Frequency:      Monthly Weekly Daily        Which day?
+ The first Sunday The first Monday The first Tuesday The first Wednesday The first Thursday The first Friday The first Saturday The first day The first weekday        Which day?
+ Sunday Monday Tuesday Wednesday Thursday Friday Saturday        Report format:      Summary Summary (text) Abstract Abstract (text) PubMed        Send at most:      1 item 5 items 10 items 20 items 50 items 100 items 200 items         Send even when there aren't any new results           Optional text in email:             Save        Cancel             Create a file for external citation management software           Create file        Cancel             Your RSS Feed          Name of RSS Feed:            Number of items displayed:      5 10 15 20 50 100         Create RSS        Cancel      RSS Link      Copy                    Full text links              HighWire               Full-text links      ActionsCite     Favorites    Display options   Display options      Format    AbstractPubMedPMID    Share                   Permalink      Copy            Page navigation       Title &amp; authors       Abstract       Comment in       Similar articles       Cited by       Publication types       MeSH terms       Substances       Related information       Grant support       LinkOut - more resources       Title &amp; authors Abstract Comment in Similar articles Cited by Publication types MeSH terms Substances Related information Grant support LinkOut - more resources             Pediatrics  Actions     Search in PubMed         Search in NLM Catalog         Add to Search    .
+ 2008 Feb;121(2):e208-14.
+ doi: 10.1542/peds.2006-3363.
+ Mercury levels in newborns and infants after receipt of thimerosal-containing vaccines           Michael E Pichichero      1    , Angela Gentile, Norberto Giglio, Veronica Umido, Thomas Clarkson, Elsa Cernichiari, Grazyna Zareba, Carlos Gotelli, Mariano Gotelli, Lihan Yan, John Treanor           Affiliations          Expand           Affiliation      1 Department of Microbiology/Immunology, Pediatrics, and Medicine, University of Rochester, Rochester, New York 14642, USA.
+ michael_pichichero@urmc.rochester.edu             PMID:     18245396          DOI:        10.1542/peds.2006-3363        Item in Clipboard                   Mercury levels in newborns and infants after receipt of thimerosal-containing vaccines          Michael E Pichichero et al.
+ Pediatrics.
+ 2008 Feb.        Show details       Display options      Display options         Format      Abstract PubMed PMID             Pediatrics  Actions     Search in PubMed         Search in NLM Catalog         Add to Search    .
+ 2008 Feb;121(2):e208-14.
+ doi: 10.1542/peds.2006-3363.
+ Authors      Michael E Pichichero      1    , Angela Gentile, Norberto Giglio, Veronica Umido, Thomas Clarkson, Elsa Cernichiari, Grazyna Zareba, Carlos Gotelli, Mariano Gotelli, Lihan Yan, John Treanor        Affiliation      1 Department of Microbiology/Immunology, Pediatrics, and Medicine, University of Rochester, Rochester, New York 14642, USA.
+ michael_pichichero@urmc.rochester.edu            PMID:     18245396          DOI:        10.1542/peds.2006-3363        Item in Clipboard         Full-text links   CiteDisplay options   Display options      Format    AbstractPubMedPMID     Abstract           Objectives:           Thimerosal is a mercurial preservative that was widely used in multidose vaccine vials in the United States and Europe until 2001 and continues to be used in many countries throughout the world.
+ We conducted a pharmacokinetic study to assess blood levels and elimination of ethyl mercury after vaccination of infants with thimerosal-containing vaccines.
+ Methods:           Blood, stool, and urine samples were obtained before vaccination and 12 hours to 30 days after vaccination from 216 healthy children: 72 newborns (group 1), 72 infants aged 2 months (group 2), and 72 infants aged 6 months (group 3).
+ Total mercury levels were measured by atomic absorption.
+ Blood mercury pharmacokinetics were calculated by pooling the data on the group and were based on a 1-compartment first-order pharmacokinetics model.
+ Results:           For groups 1, 2, and 3, respectively, (1) mean +/- SD weights were 3.4 +/- 0.4, 5.1 +/- 0.6, and 7.7 +/- 1.1 kg; (2) maximal mean +/- SD blood mercury levels were 5.0 +/- 1.3, 3.6 +/- 1.5, and 2.8 +/- 0.9 ng/mL occurring at 0.5 to 1 day after vaccination; (3) maximal mean +/- SD stool mercury levels were 19.1 +/- 11.8, 37.0 +/- 27.4, and 44.3 +/- 23.9 ng/g occurring on day 5 after vaccination for all groups; and (4) urine mercury levels were mostly nondetectable.
+ The blood mercury half-life was calculated to be 3.7 days and returned to prevaccination levels by day 30.
+ Conclusions:           The blood half-life of intramuscular ethyl mercury from thimerosal in vaccines in infants is substantially shorter than that of oral methyl mercury in adults.
+ Increased mercury levels were detected in stools after vaccination, suggesting that the gastrointestinal tract is involved in ethyl mercury elimination.
+ Because of the differing pharmacokinetics of ethyl and methyl mercury, exposure guidelines based on oral methyl mercury in adults may not be accurate for risk assessments in children who receive thimerosal-containing vaccines.
+ Comment in             Mercury levels in newborns and infants after receipt of thimerosal-containing vaccines.
+ Rooney JP.
+ Rooney JP.
+ Pediatrics.
+ 2008 Oct;122(4):902; author reply 902-3. doi: 10.1542/peds.2008-1926.
+ Pediatrics.
+ 2008.
+ PMID: 18829819 No abstract available.
+ Similar articles             Mercury levels in premature and low birth weight newborn infants after receipt of thimerosal-containing vaccines.
+ Pichichero ME, Gentile A, Giglio N, Alonso MM, Fernandez Mentaberri MV, Zareba G, Clarkson T, Gotelli C, Gotelli M, Yan L, Treanor J. Pichichero ME, et al.
+ J Pediatr.
+ 2009 Oct;155(4):495-9. doi: 10.1016/j.jpeds.2009.04.011.
+ Epub 2009 Jun 26.
+ J Pediatr.
+ 2009.
+ PMID: 19560158 Free PMC article.
+ Clinical Trial.
+ Mercury levels in newborns and infants after receipt of thimerosal-containing vaccines.
+ Rooney JP.
+ Rooney JP.
+ Pediatrics.
+ 2008 Oct;122(4):902; author reply 902-3. doi: 10.1542/peds.2008-1926.
+ Pediatrics.
+ 2008.
+ PMID: 18829819 No abstract available.
+ Toxicokinetics of mercury after long-term repeated exposure to thimerosal-containing vaccine.
+ Barregard L, Rekić D, Horvat M, Elmberg L, Lundh T, Zachrisson O. Barregard L, et al.
+ Toxicol Sci.
+ 2011 Apr;120(2):499-506. doi: 10.1093/toxsci/kfr009.
+ Epub 2011 Jan 20.
+ Toxicol Sci.
+ 2011.
+ PMID: 21252391            [Mercury in vaccines].
+ Hessel L. Hessel L. Bull Acad Natl Med.
+ 2003;187(8):1501-10.
+ Bull Acad Natl Med.
+ 2003.
+ PMID: 15146581 Review.
+ French.
+ Thimerosal-containing vaccines and autistic spectrum disorder: a critical review of published original data.
+ Parker SK, Schwartz B, Todd J, Pickering LK.
+ Parker SK, et al.
+ Pediatrics.
+ 2004 Sep;114(3):793-804. doi: 10.1542/peds.2004-0434.
+ Pediatrics.
+ 2004.
+ PMID: 15342856 Review.
+ Show more similar articles     See all similar articles         Cited by   27 articles           Blood Mercury Levels in Children with Kawasaki Disease and Disease Outcome.
+ Chang LS, Yan JH, Li JY, Yeter DD, Huang YH, Guo MM, Lo MH, Kuo HC.
+ Chang LS, et al.
+ Int J Environ Res Public Health.
+ 2020 May 25;17(10):3726. doi: 10.3390/ijerph17103726.
+ Int J Environ Res Public Health.
+ 2020.
+ PMID: 32466179 Free PMC article.
+ A Cross-Sectional Study of Blood Ethylmercury Levels and Cognitive Decline Among Older Adults and the Elderly in the United States.
+ Geier DA, Kern JK, Homme KG, Geier MR. Geier DA, et al.
+ J Alzheimers Dis.
+ 2019;72(3):901-910. doi: 10.3233/JAD-190894.
+ J Alzheimers Dis.
+ 2019.
+ PMID: 31658062 Free PMC article.
+ Microbial structure and function in infant and juvenile rhesus macaques are primarily affected by age, not vaccination status.
+ Hasegawa Y, Curtis B, Yutuc V, Rulien M, Morrisroe K, Watkins K, Ferrier C, English C, Hewitson L, Slupsky CM.
+ Hasegawa Y, et al.
+ Sci Rep. 2018 Oct 26;8(1):15867. doi: 10.1038/s41598-018-34019-0.
+ Sci Rep. 2018.
+ PMID: 30367140 Free PMC article.
+ Associations of maternal immune response with MeHg exposure at 28 weeks' gestation in the Seychelles Child Development Study.
+ McSorley EM, Yeates AJ, Mulhern MS, van Wijngaarden E, Grzesik K, Thurston SW, Spence T, Crowe W, Davidson PW, Zareba G, Myers GJ, Watson GE, Shamlaye CF, Strain JJ.
+ McSorley EM, et al.
+ Am J Reprod Immunol.
+ 2018 Nov;80(5):e13046.
+ doi: 10.1111/aji.13046.
+ Epub 2018 Sep 17.
+ Am J Reprod Immunol.
+ 2018.
+ PMID: 30295973 Free PMC article.
+ Blood total mercury and methylmercury among pregnant mothers in Charleston, South Carolina, USA.
+ Donohue A, Wagner CL, Burch JB, Rothenberg SE.
+ Donohue A, et al.
+ J Expo Sci Environ Epidemiol.
+ 2018 Sep;28(5):494-504. doi: 10.1038/s41370-018-0033-1.
+ Epub 2018 Apr 19.
+ J Expo Sci Environ Epidemiol.
+ 2018.
+ PMID: 29670220 Free PMC article.

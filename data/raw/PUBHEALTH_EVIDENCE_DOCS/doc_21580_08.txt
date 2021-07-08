@@ -1,0 +1,31 @@
+Dean P. Foster's home page   Amazon.com in NYC  dean@foster.net    COVID-19:   In mid-March Lyle and I got excited about contact tracing.
+ As a tech person, the natural way of taking on contact tracing is via technology:    A protocol we created.
+ A expository discussion of contact tracing using technology.
+ A letter to push Europe to not give up on privacy.
+ And an App to implement these ideas.
+ I have used these cartons as a basis for a fun little talk.
+ But, it actually is more important to do tracing by hand with tracers talking to infected people instead of by using technology:   A position paper on general contact tracing to get us out of lock down.
+ A letter we wrote targeted to Washington State.
+ Requirements for opening.
+ (And some more mathmatical background on How many tests will it take to open one city.
+ This is a work in progress by mostly Sham Kakade, John Langford and me.)
+ The bottom line is that we need about 120 million fast PCR tests to open up the whole of the USA.
+ They don't have to be very accurate.
+ This requires focusing on those areas that are currently the least infected to get us opened as fast as possible.
+ Looking at deaths over time by state, or infections, it is not obvious that things are going down under lock down.
+ Is there any reason to believe it will decrease with Trace and Testing?
+ I'm worried.
+ Other pages:   I have several a page summarizing my research.
+ rants and raves (which are mostly 10 years or older now)  Mortality: Over the years, I have worked on several mortality calculators:   The newest one works for people over 50.
+ It will tell you your optimal weight.
+ A  phone friendly version of it was put together by Abaris.
+ Eigenwords:  Several of us have started creating a database of eigenwords.
+ Refereeing:  I'm a supporter of open access of science to everyone.
+ Hence I will only referee for journals that are open access (OASPA)     Photos: Some mostly old photos.
+ Seems like we post more on facebook these days.
+ My Dad shot a movie about India called The future for Ram, (youtube).
+ My grandfather "built a lake" in upstate NY (youtube drone footage).
+ Teaching: Old teaching materials are still on line.
+ Recent talks: Covid App,  Falsifiability,  calibration (handout), linear (shorter).
+ randomImg    quote "When enough people share a delusion, it loses its status as a psychosis and gets a religious tax exemption instead."
+ Ronald DeSousa        Last modified: Tue Jun 23 16:45:01 UTC 2020

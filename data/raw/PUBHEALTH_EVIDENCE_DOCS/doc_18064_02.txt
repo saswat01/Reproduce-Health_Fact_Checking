@@ -1,0 +1,69 @@
+DieselNetNewsDirectoryStandardsTechnologyResources Log in | SubscribeEmission Standards     United States: Heavy-Duty Vehicles: GHG Emissions &amp; Fuel Economy  Background CO2 and Fuel Consumption Standards N2O and CH4 Emission Standards Other Provisions   Background  US GHG emissions and fuel efficiency standards for heavy- and medium-duty vehicles have been jointly developed by the Environmental Protection Agency (EPA) and the National Highway Traffic Safety Administration (NHTSA), DOT.
+ The NHTSA developed fuel consumption standards under the authority of the 2007 Energy Independence and Security Act (EISA), while the EPA developed a GHG emissions program under the Clean Air Act.
+ The GHG program includes CO2 emission standards, as well as emission standards for N2O and CH4, and provisions to control hydrofluorocarbon leaks from air conditioning systems.
+ The standards are applicable to all on-road vehicles rated at a GVW≥8,500 lbs, and the engines that power them, except those covered by the GHG emissions and Corporate Average Fuel Economy (CAFE) standards for MY 2012-2016 and MY 2017-2025 light-duty vehicles.
+ The GHG/FE standards were adopted in two phases:   Phase 1 regulation—adopted on August 9, 2011 [2324]—covers model years (MY) 2014-2018, with NHTSA fuel economy standards being voluntary in MY 2014-2015 to satisfy EISA lead time requirements.
+ Phase 2 regulation—published on August 16, 2016 [2918]—applies to MY 2021-2027 vehicles.
+ The Phase 2 rule also introduces new standards for trailers, a category not previously regulated.
+ The EPA trailer standards begin in MY 2018 (for certain trailers), while NHTSA’s standards take effect in MY 2021, with credits available for voluntary participation before then.
+ The Phase 1/2 standards are applicable federally, as well as in California.
+ However, the California Air Resources Board (ARB) deemed the federal Phase 2 program not sufficiently strong to meet California GHG emission reduction goals.
+ The ARB started the development of California Phase 2 GHG emission standards for heavy-duty vehicles that would provide GHG emission reductions beyond those of the federal Phase 2 program.
+ The California Phase 2 standards are expected to be proposed by the end of 2017.
+ Under the Phase 1 and Phase 2 regulations, different CO2 and fuel consumption standards are applicable to different categories of vehicles, including combination tractors, trailers, vocational vehicles, and heavy-duty pickups and vans:   Combination tractors (the semi-trucks that typically pull trailers): Phase 1 engine and vehicle standards begin in MY 2014 and achieve 7-20% reduction in CO2 emissions and fuel consumption by MY 2017 over the 2010 baselines.
+ Phase 2 standards begin in MY 2021 and achieve 15-27% reduction in CO2 emissions by MY 2027 over the 2017 baselines.
+ Trailers: The standards start in MY 2018 and achieve 6-10% reduction in fuel consumption and CO2 emissions by MY 2027 over the 2017 baselines.
+ Vocational vehicles: Phase 1 engine and vehicle standards start in MY 2014 and achieve up to a 10% reduction in fuel consumption and CO2 emissions by MY 2017 over the 2010 baselines.
+ Phase 2 standards start in MY 2021 and require a 10-18% reduction in CO2 emissions from gasoline vehicles and a 12-24% CO2 emission reduction from diesel vehicles by MY 2027 over the 2017 baselines.
+ Heavy-duty pickup trucks and vans: Phase 1 standards phase-in starting in MY 2014 and achieve up to a 10% reduction in CO2 emissions and fuel consumption for gasoline vehicles and 15% reduction for diesel vehicles by MY 2018.
+ Phase 2 standards require a 16% CO2 emissions reduction from MY 2021 to MY 2027.
+ The majority of vehicles covered by the regulations carry payloads of goods or equipment, in addition to passengers.
+ To account for this, the standards have been expressed using two types of metrics:   Gram CO2 per ton-mile (and gallon of fuel per 1,000 ton-mile) standards for vocational vehicles and combination tractors; and  Payload-dependent gram CO2 per mile (and gallon of fuel per 100-mile) standards for pickups and vans.
+ Testing &amp; Compliance Determination.
+ The requirements for tractors and vocational vehicles include both engine and vehicle standards.
+ Engine manufacturers are subject to the engine standards.
+ Testing is conducted over one test cycle:  Tractor engines are tested over the steady-state SET test, Vocational engines are tested over the FTP transient test.
+ The Phase 2 regulation introduced a new set of SET weighting factors, applicable only to GHG measurements (not applicable to pollutant emission measurements).
+ The new weighting factors address the trend towards engine downspeeding.
+ Chassis manufacturers are subject to the vehicle standards.
+ The regulations do not require chassis testing—vehicle standards compliance is typically determined based on a vehicle simulation model, called the Greenhouse gas Emission Model (GEM), developed by the EPA specifically for the GHG/FE regulations.
+ The Phase 2 regulation introduced a number of changes to the GEM model.
+ These characteristics relate to key technologies applicable to a given truck category—including aerodynamic features, weight reductions, tire rolling resistance, the presence of idle-reducing technology, vehicle speed limiters, and other factors.
+ CO2 and Fuel Consumption Standards Combination Tractors  Differentiated standards were adopted for several subcategories of combination tractors based on three attributes: weight class, cab type and roof height.
+ The standards phase in to the 2017 (Phase 1) and 2027 (Phase 2) levels shown in Table 1.
+ Table 1: Final Phase 1 (2017) and Phase 2 (2027) combination tractor standards   CategoryEPA CO2 EmissionsNHTSA Fuel Consumption g/ton-milegal/1,000 ton-mile Low RoofMid RoofHigh RoofLow RoofMid RoofHigh Roof   Final Phase 1 Standards (2017) Day Cab Class 710411512010.211.311.8 Day Cab Class 88086897.88.48.7 Sleeper Cab Class 86673726.57.27.1 Final Phase 2 Standards (2027) Day Cab Class 796.2103.4100.09.4499010.157179.82318 Day Cab Class 873.478.075.77.210227.662087.43615 Sleeper Cab Class 864.169.664.36.296666.836946.31631 Heavy-haul Class 848.34.74460    The regulations also define standards for tractors during the phase-in period: for MY 2014, MY 2021 and MY 2024.
+ In addition to vehicle standards, engine-based standards must be met by heavy-heavy-duty (HHD) and medium-heavy-duty (MHD) diesel engines used in tractors, Table 2.
+ Table 2: Engine standards for engines installed in tractors (SET cycle)   CategoryYearCO2 EmissionsFuel Consumption* g/bhp-hrgallon/100 bhp-hr   MHD Engines20145024.93a  20174874.78  20214734.6464  20244614.5285  20274574.4892 HHD Engines20144754.67a  20174604.52  20214474.3910  20244364.2829  20274324.2436 * Equivalent NHTSA standards based on 10,180 g CO2 per gallon of diesela Voluntary in MY 2014 and MY 2015.
+ CO2 emissions are tested on the same engine that is tested for pollutant emissions—typically the highest rated engine within an engine family.
+ While this is the “worst case” rating for meeting pollutant emission standards, it is typically the rating with the lowest specific CO2 emissions within the engine family.
+ Trailers  The Phase 2 program introduced a new set of standards to promote the efficiency of commercial trailers.
+ The first trailer standards become effective in MY 2018.
+ The final 2027 standards are shown in Table 3.
+ Table 3: Final (MY 2027) standards for full-aero box vans   CategoryEPA CO2 EmissionsNHTSA Fuel Consumption g/ton-milegal/1,000 ton-mile   Dry Van Long75.77.43615  Short119.411.7288 Refrigerated VanLong77.47.60314  Short123.212.10216    The Phase 2 rule also includes CO2/FE standards for partial-aero box vans, as well as design-based standards (tire rolling resistance level and pressure system) for non-box trailers and non-aero box vans.
+ Both sets of standards are phased in over 2018-2021.
+ Vocational Trucks  At Phase 1, this vehicle segment has been divided into three regulatory subcategories—Light Heavy (Class 2b through 5), Medium Heavy (Class 6 and 7), and Heavy Heavy (Class 8)—which is consistent with engine classifications.
+ At Phase 2, the standards were further differentiated depending on engine type (diesel, gasoline) and the duty cycle: urban, multi-purpose and regional.
+ The final Phase 1 (2017) and Phase 2 (2027) vehicle standards are depicted in Table 4 and Table 5, respectively.
+ Table 4: Phase 1 final (MY 2017) vocational vehicle standards   CategoryEPA CO2 EmissionsNHTSA Fuel Consumption g/ton-milegal/1,000 ton-mile   Light Heavy Class 2b-537336.7 Medium Heavy Class 6-722522.1 Heavy Heavy Class 822221.8    Table 5: Phase 2 final (MY 2027) vocational vehicle standards   CategoryEPA CO2 EmissionsNHTSA Fuel Consumption g/ton-milegal/1,000 ton-mile UrbanMulti-purposeRegionalUrbanMulti-purposeRegional   Vehicles with CI engines Light Heavy Class 2b-536733029136.051132.416528.5855 Medium Heavy Class 6-725823521825.343823.084521.4145 Heavy Heavy Class 8 26923018926.424422.593318.5658 Vehicles with SI engines Light Heavy Class 2b-541337231946.472441.858935.8951 Medium Heavy Class 6-729726824733.419630.156427.7934    Engine standards for light heavy-duty (LHD), medium heavy-duty (MHD), heavy heavy-duty (HHD) diesel engines and for heavy-duty gasoline engines are shown in Table 6.
+ Table 6: Engine standards for engines installed in vocational vehicles (FTP cycle)   CategoryYearCO2 EmissionsFuel Consumption* g/bhp-hrgallon/100 bhp-hr  LHD Engines20146005.89a  20175765.66  20215635.5305  20245555.4519  20275525.4224 MHD Engines20146005.89a  20175765.66  20215455.3536  20245385.2849  20275355.2554 HHD Engines20145675.57a  20175555.45  20215135.0393  20245064.9705  20275034.9411 HD Gasoline Engines20166277.06 * Equivalent NHTSA standards based on 10,180 g CO2 per gallon of diesela Voluntary in MY 2014 and MY 2015.
+ Heavy-Duty Pickup Trucks and Vans  The commercial pickup and van category includes those vehicles of GVWR from 8,501 to 14,000 lbs that are not regulated under the light-duty GHG/CAFE vehicle regulations.
+ These vehicles must meet corporate average CO2 and fuel economy standards, in an approach similar to that taken for light-duty vehicles, but with different standards for gasoline and diesel vehicles.
+ The EPA has established CO2 standards in the form of a set of target standard curves, based on a “work factor” that combines a vehicle’s payload, towing capabilities, and whether or not it has 4-wheel drive.
+ The standards phase in with increasing stringency in each model year.
+ The EPA standards include a separate standard to control air conditioning system leakage.
+ NHTSA has set corporate average standards for fuel consumption that are equivalent to EPA‘s standards (though not including the EPA’s air conditioning leakage standard).
+ At Phase 1, manufacturers were provided with two alternative phase-in approaches.
+ One alternative phased in the final standards at 15-20-40-60-100 percent in model years 2014-2015-2016-2017-2018.
+ The other phased in the final standards at 15-20-67-67-67-100 percent in model years 2014-2015-2016-2017-2018-2019.
+ Phase 2 standards are phased in over model years 2021-2027.
+ The standards were designed to cap emissions at the levels circa 2010 to prevent N2O/CH4 emission increases in future engines.
+ Other Provisions  Flexibilities.
+ The regulations include certain flexibilities for vehicle manufacturers.
+ The Phase 1 rule included optional compliance schedules, with more relaxed standards to be met from 2013, and with identical final standards.
+ At Phase 2, optional sets of CO2 and fuel economy standards are available for some vehicle categories, which use different GEM model inputs.
+ A/C Leakage.
+ EPA has adopted standards to assure that low-leakage components are used in air conditioning systems designed for heavy-duty pickup trucks and vans, and semi trucks.
+ The standard for larger A/C systems (capacity above 733 g) is measured in percent total refrigerant leakage per year, while the standard for smaller A/C systems (capacity of 733 g or less) is measured in grams of refrigerant leakage per year.
+ Useful Life.
+ The EPA CO2 emissions must be met over the engine’s and vehicle’s useful life.
+ The useful life definitions for engines and for vehicles that use the respective engine categories are identical to those defined for criteria pollutant standards for MY 2004 and later heavy-duty engines and Tier 2 &amp; Tier 3 standards for light-duty vehicles:  LHDDE—Phase 1: 110,000 miles/10 years; Phase 2: 150,000 miles/15 years MHDDE—185,000 miles/10 years HHDDE—435,000 miles/10 years       United States  Light-Duty: T3 | T2 | T1 Light-Duty: California Heavy-Duty Engines Nonroad Diesel Engines Locomotives Marine Engines  Stationary Engines  SI NSPS | CI NSPS | NESHAP  OBD  California | Federal  Fuel Economy/GHG  Cars GHG+CAFE | CAFE Cars GHG: California Trucks GHG  In-Use Engines  California Diesel Program UBRR Program (1995) Occupational Health    bannerAd()   Home » Emission Standards » USA » Trucks GHG  Revision: 2017.01Copyright © 1997 - 2020 ECOpoint Inc.DieselNet FAQ | Contact Us

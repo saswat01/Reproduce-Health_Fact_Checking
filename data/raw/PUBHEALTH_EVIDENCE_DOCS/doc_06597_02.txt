@@ -1,0 +1,27 @@
+Live Streaming                                Broadcast your events with reliable, high-quality live streaming.
+ Screen Recorder                                Record and instantly share video messages from your browser.
+ Enterprise                                Get your team aligned with all the tools you need on one secure, reliable video platform.
+ This is a callback for the login &amp; join buttons in TopNavBuilder.
+ Live Streaming Broadcast your events with reliable, high-quality live streaming.
+ Screen Recorder Record and instantly share video messages from your browser.
+ Enterprise Get your team aligned with all the tools you need on one secure, reliable video platform.
+ You could also watch one of the videos below instead.
+ Search              VIMEO              Pricing               Upload               Staff Picks               On Demand               Vimeo OTT               Site map            SOLUTIONS              Video Player               Create               Privacy               Collaboration               Distribution &amp; marketing               Monetization               Live Streaming               Analytics               Hosting &amp; management               Enterprise               For Hire               Stock            APPS               Vimeo for macOS                 Vimeo for iOS                 Vimeo for Android                 Vimeo Create for iOS                 Vimeo Create for Android                 Magisto                 Vimeo for Shopify             RESOURCES              Help Center               Blog               Video School               OTT Resources               Developers               Students               Guidelines            UPGRADE              Vimeo Plus               Vimeo PRO               Vimeo Business               Vimeo Premium               Vimeo Enterprise               Refer a friend            COMPANY              About               Jobs           Did you know?
+ Update a video without losing your URL or stats.
+ How?
+ Replace your video file quickly and easily.
+ TM + © 2020 Vimeo, Inc. All rights reserved.
+ Terms             Privacy             CA Privacy             Copyright             Cookies               Made with in NYC.
+ *   * This check allows us to declare in a controller whether or not we   * want to dispatch that preliminary pageview.
+ *   * The property is additive only, as to not affect existing pageviews.
+ */    __fa.push(['trackPageview']);    /**   * Add server side ABLincoln experiments to GTM data layer.
+ ","email_password_mismatch":"Email and password do not match","oops_try_again":"Oops!
+ Something went wrong.
+ Please try again.
+ ","unsaved_changes_generic":"You have unsaved changes, are you sure you wish to leave?
+ ","at_least_one":"There must be at least one user.
+ You cannot post comments on this page.","oops":"Oops!
+ ","player_try_again":"That wasn't supposed to happen.
+ Please try again in a few minutes.
+ ","duration_input_invalid_characters":"0-9 and : are the only acceptable inputs.","close":"Close","expand":"Expand","loading":"Loading...
+ You could also watch one of the videos below instead.

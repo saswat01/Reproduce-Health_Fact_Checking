@@ -1,0 +1,106 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link        Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People                  Search        × Search NCHS  Search NCHS All CDC    Submit      For a full list of topics: A-Z Index   
+ 					Advanced Search
+ 				    
+ 				Advanced Search
+ 			                 National Center for Health Statistics            Section Navigation         CDC Home                    Facebook Twitter LinkedIn Syndicate                            Weekly Updates by Select Demographic and Geographic CharacteristicsProvisional Death Counts for Coronavirus Disease 2019 (COVID-19)    minus icon  Contents  Daily Updates of Totals by Week and StateWeekly Updates by Select Demographic and Geographic CharacteristicsHealth Disparities: Race and Hispanic OriginExcess Deaths Associated with COVID-19Index of Available Data FilesTechnical Notes      Minus     Related Pages        Updated:       alert icon   
+ 					Note: This page will be updated on November 12, 2020, due to Federal offices being closed for Veterans Day on November 11, 2020.				       alert icon   
+ 					Note: Provisional death counts are based on death certificate data received and coded by the National Center for Health Statistics as of November 4, 2020.
+ Death counts are delayed and may differ from other published sources (see Technical Notes).
+ Counts will be updated every Wednesday by 5pm.
+ Additional information will be added to this site as available.
+ List of Topics  Age and sex Race and Hispanic origin Place of death Comorbidities Excess deaths State and county data files  For the Index of Provisional COVID-19 Mortality Surveillance and Ad-hoc Data Files, click here.
+ Age and sex Table 1 has counts of death involving COVID-19 and select causes of death by sex and age group for the United States.
+ For data on sex and age at the state level, Click here to download.
+ For data on sex and age by week, Click here to download.
+ NOTICE TO USERS: The data file for deaths by sex and age at the state level has been updated on September 2, 2020 to include the following age groups in addition to the age groups that are routinely included: 0-17, 18-29, 30-49, and 50-64.
+ The new age groups are consistent with categories used across CDC COVID-19 surveillance pages.
+ When analyzing the file, the user should make sure to select only the desired age groups.
+ Summing across all age categories provided will result in double counting deaths from certain age groups.
+ Data on deaths involving COVID-19 among ages 0–18 are available here: Click here to download.
+ Table 1.
+ Deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to NCHS by sex and age group.
+ United States.
+ Week ending 2/1/2020 to .
+ *  Updated   Coronavirus deaths by sex and age group   NOTE: Number of deaths reported in this table are the total number of deaths received and coded as of the date of analysis and do not represent all deaths that occurred in that period.
+ Counts of death occurring before or after the reporting period are not included in the table.
+ *Data during this period are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes.
+ This delay can range from 1 week to 8 weeks or more, depending on the jurisdiction and cause of death.
+ 1Deaths with confirmed or presumed COVID-19, coded to ICD–10 code U07.1 2Counts of deaths involving pneumonia include pneumonia deaths that also involve COVID-19 and exclude pneumonia deaths involving influenza.
+ 3Counts of deaths involving influenza include deaths with pneumonia or COVID-19 also listed as a cause of death.
+ 4Deaths with confirmed or presumed COVID-19, pneumonia, or influenza, coded to ICD–10 codes U07.1 or J09–18.9.
+ 5Population is based on 2019 postcensal estimates from the U.S. Census Bureau.
+ Race and Hispanic origin Data by race and Hispanic origin are available at the national, state, and county level.
+ Data by race and Hispanic origin is also available by age at the national and state level.
+ Click here to visit the NCHS Health Disparities: Race and Hispanic origin page.
+ Place of death Table 2 presents death counts of COVID-19 and other select causes of death by the place of death.
+ For data on place of death at the state level, Click here to download.
+ For data on place of death by age group, state, and HHS Region, Click here to download.
+ Table 2.
+ Deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to NCHS by place of death, United States.
+ Week ending 2/1/2020 to .
+ *  Updated   Coronavirus deaths by place of death   NOTE: Number of deaths reported in this table are the total number of deaths received and coded as of the date of analysis and do not represent all deaths that occurred in that period.
+ Counts of deaths occurring before or after the reporting period are not included in the table.
+ *Data during this period are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes.
+ This delay can range from 1 week to 8 weeks or more, depending on the jurisdiction and cause of death.
+ 1Deaths with confirmed or presumed COVID-19, coded to ICD–10 code U07.1.
+ 2Counts of deaths involving pneumonia include pneumonia deaths that also involve COVID-19 and exclude pneumonia deaths involving influenza.
+ 3Counts of deaths involving influenza include deaths with pneumonia or COVID-19 also listed as a cause of death.
+ Comorbidities Table 3 shows the types of health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19).
+ For 6% of the deaths, COVID-19 was the only cause mentioned.
+ For deaths with conditions or causes in addition to COVID-19, on average, there were 2.6 additional conditions or causes per death.
+ The number of deaths with each condition or cause is shown for all deaths and by age groups.
+ For data on comorbidities, Click here to download.
+ Table 3.
+ Conditions contributing to deaths involving coronavirus disease 2019 (COVID-19), by age group, United States.
+ Week ending 2/1/2020 to .
+ *  Updated      NOTE: Number of conditions reported in this table are tabulated from deaths received and coded as of the date of analysis and do not represent all deaths that occurred in that period.
+ Data for this table are derived from a cut of the NVSS database taken at a particular time, separate from other surveillance tables on this page which are tabulated on the date of update.
+ As a result, the total number of COVID-19 deaths in this table may not match other surveillance tables on this page.
+ *Data during the period are incomplete because of the lag in time between when the death occurred and when the death certificate is completed, submitted to NCHS and processed for reporting purposes.
+ This delay can range from 1 week to 8 weeks or more.
+ 1Conditions contributing to the death were identified using the International Classification of Diseases, Tenth Revision (ICD–10).
+ Deaths involving more than one condition (e.g., deaths involving both diabetes and respiratory arrest) were counted in both totals.
+ To avoid counting the same death multiple times, the numbers for different conditions should not be summated.
+ 2Deaths with confirmed or presumed COVID-19, coded to ICD–10 code U07.1          Excess deaths See the NCHS Excess Deaths Data Visualization.
+ This data visualization presents data on weekly counts of all-cause mortality by jurisdiction of occurrence.
+ Counts of deaths in the most recent weeks are compared with historical trends to determine whether the number of deaths in recent weeks is significantly higher than expected.
+ State and County Data Files Weekly Counts of Deaths by State and Select Causes  Final data for 2014–2018  – Weekly counts of leading causes of death based on final underlying cause mortality data for years 2014–2018.
+ Provisional data for 2019–2020  – Weekly counts of leading causes of death based on provisional underlying cause mortality data for 2019–2020, updated weekly.
+ Provisional COVID-19 Death Counts in the United States by County   This file includes deaths involving COVID-19 (coded to ICD–10 code U07.1) and total deaths per county.
+ Counties included in this table had 10 or more COVID-19 deaths at the time of analysis.
+ Understanding the Numbers: Provisional Death Counts and COVID-19Provisional death counts deliver the most complete and accurate picture of lives lost to COVID-19.
+ They are based on death certificates, which are the most reliable source of data and contain information not available anywhere else, including comorbid conditions, race and ethnicity, and place of death.
+ How it Works The National Center for Health Statistics (NCHS) uses incoming data from death certificates to produce provisional COVID-19 death counts.
+ These include deaths occurring within the 50 states and the District of Columbia.
+ NCHS also provides summaries that examine deaths in specific categories and in greater geographic detail, such as deaths by county and by race and Hispanic origin.
+ COVID-19 deaths are identified using a new ICD–10 code.
+ When COVID-19 is reported as a cause of death – or when it is listed as a “probable” or “presumed” cause — the death is coded as U07.1.
+ This can include cases with or without laboratory confirmation.
+ Why These Numbers are Different Provisional death counts may not match counts from other sources, such as media reports or numbers from county health departments.
+ Counts by NCHS often track 1–2 weeks behind other data.
+ Death certificates take time to be completed.
+ There are many steps to filling out and submitting a death certificate.
+ Waiting for test results can create additional delays.
+ States report at different rates.
+ It takes extra time to code COVID-19 deaths.
+ While 80% of deaths are electronically processed and coded by NCHS within minutes, most deaths from COVID-19 must be coded by a person, which takes an average of 7 days.
+ Other reporting systems use different definitions or methods for counting deaths.
+ Things to know about the data Provisional counts are not final and are subject to change.
+ Counts from previous weeks are continually revised as more records are received and processed.
+ Provisional data are not yet complete.
+ Counts will not include all deaths that occurred during a given time period, especially for more recent periods.
+ However, we can estimate how complete our numbers are by looking at the average number of deaths reported in previous years.
+ Death counts should not be compared across states.
+ Some states report deaths on a daily basis, while other states report deaths weekly or monthly.
+ State vital record reporting may also be affected or delayed by COVID-19 related response activities.
+ For more detailed technical information, visit the Provisional Death Counts for Coronavirus Disease 2019 (COVID-19) Technical Notes page.
+ Download PDF Version        PrevDaily Updates of ... NextHealth Disparitie...
+ Page last reviewed: November 4, 2020 Content source: 	National Center for Health Statistics        homeCOVID-19 Data from NCHS  COVID-19 Death Data and Resourcesplus icon  Daily Updates of Totals by Week and State Weekly Updates by Select Demographic and Geographic Characteristics Health Disparities: Race and Hispanic Origin Excess Deaths Associated with COVID-19 Index of Available Data Files Technical Notes Coronavirus Disease 2019 (COVID-19) FAQs     Reporting and Coding Deaths Due to COVID-19 COVID-19 Birth Data and Resourcesplus icon  Provisional Estimates for Selected Maternal and Infant Outcomes by Month, 2018-2020   Health Care Access and Mental Healthplus icon  Anxiety and Depression Mental Health Care Health Insurance Coverage Reduced Access to Care   Health Care Access, Telemedicine, and Loss of Work Due to Illnessplus icon  Loss of Work Telemedicine Reduced Access to Care RANDS Webinar   Articles on NCHS Response to COVID-19 Release Schedule E-mail Updates     Related Sites   CDC Coronavirus (COVID-19) National Vital Statistics System                 HAVE QUESTIONS?
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ Cancel Continue

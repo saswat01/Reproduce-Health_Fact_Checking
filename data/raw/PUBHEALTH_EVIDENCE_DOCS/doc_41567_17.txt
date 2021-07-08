@@ -1,0 +1,580 @@
+document.body.className + ' js-enabled' : 'js-enabled');   Skip to main content        Tell us whether you accept cookies We use cookies to collect information about how you use GOV.UK.
+ We use this information to make the website work as well as possible and improve government services.
+ Accept all cookies   Set cookie preferences       You’ve accepted all cookies.
+ You can change your cookie settings at any time.
+ Hide                     GOV.UK         Show or hide search      Search on GOV.UK      Search                         Coronavirus (COVID-19)         National restrictions in England from 5 November              The UK and EU transition         Take action now for new rules in 2021             Home   Coronavirus (COVID-19)   Testing for coronavirus (COVID-19)   NHS Test and Trace statistics (England): methodology           Departmentof Health &amp;Social Care           Guidance     NHS Test and Trace statistics (England): methodology    Updated 5 November 2020        Contents    Introduction   NHS Test and Trace, England   NHS COVID-19 app, England and Wales   Coronavirus (COVID-19) testing in the UK   How the data in this bulletin can be used     Print this page          © Crown copyright 2020    This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+ To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+ Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+ This publication is available at https://www.gov.uk/government/publications/nhs-test-and-trace-statistics-england-methodology/nhs-test-and-trace-statistics-england-methodology        Introduction The Department of Health and Social Care (DHSC) publishes weekly statistics on NHS Test and Trace (England) and coronavirus (COVID-19) testing in the UK.
+ These statistics cover: Section 1: NHS Test and Trace, England:  number of people tested for coronavirus in England number of people who tested positive for coronavirus in England time taken for test results to become available in England distance to take a test in-person in England number of people testing positive for coronavirus in England that were then transferred to the contact-tracing system, and the time taken for them to be reached number of recent close contacts identified, and the time taken for them to be reached  Section 2: NHS COVID-19 app:  number of downloads number of QR posters generated  Section 3: coronavirus (COVID-19) testing in the UK across all 4 testing pillars:  lab testing capacity tests sent out tests processed for the UK  This document primarily sets out information on the data sources and methodology used to generate the statistics for testing and contact tracing in England.
+ DHSC is consolidating where COVID-19 testing statistics are published to make it easier to find the latest data.
+ The daily statistics on coronavirus cases in the UK are no longer updated after Thursday 20 August.
+ Historic UK testing statistics and the accompanying COVID-19 testing data methodology note are still available.
+ Statistics on tests and testing capacity are published weekly in the NHS Test and Trace publication and are also available on the Coronavirus (COVID-19) in the UK dashboard.
+ Statistics on positive cases will continue to be published daily on the dashboard and weekly in the NHS Test and Trace publication.
+ These statistics have been produced quickly in response to developing world events.
+ The Office for Statistics Regulation, on behalf of the UK Statistics Authority, has reviewed them against several important aspects of the Code of Practice for Statistics and regards them as consistent with the code’s 3 pillars of trustworthiness, quality and value.
+ NHS Test and Trace, England NHS Test and Trace in England was launched on 28 May and ensures that anyone who develops symptoms of coronavirus (COVID-19) can quickly be tested to find out if they have the virus.
+ It then helps trace recent close contacts of anyone who tests positives for coronavirus and, if necessary, notifies them that they must self-isolate at home to help stop the spread of the virus.
+ The flow of how people move through the NHS Test and Trace service is shown in figure 1.
+ More information about NHS Test and Trace can be found in the guidance NHS Test and Trace: how it works.
+ DHSC publishes weekly statistics on NHS Test and Trace.
+ The purpose of this data is to provide a weekly update on the implementation and performance of NHS Test and Trace.
+ Data collected for the Test and Trace programme is primarily for operational purposes and was not designed to track the spread of the virus.
+ Studies into the spread of the virus in the UK are carried out by the Office for National Statistics (ONS).
+ Further guidance can be found in comparing methods used in the COVID-19 Infection Survey and NHS Test and Trace, England.
+ A list of data sources relating to the coronavirus pandemic in the UK can be found at coronavirus (COVID-19) statistics and analysis.
+ A breakdown of all available testing and contact-tracing data in the UK can be found at testing and contact tracing in the UK: summary of data.
+ Figure 1: flowchart showing how people move through NHS Test and Trace  The diagram shows the journey a person can take through the NHS Test and Trace service.
+ For pillar 1, this starts with a person having a coronavirus test in hospital.
+ For pillar 2, this starts with a person booking or ordering a coronavirus test.
+ Pillar 2 tests can be either be conducted at a regional test site, local test site or mobile test unit; or a satellite or home test can be conducted.
+ For pillar 4, this starts with a person having a coronavirus test as part of a prevalence study (those who are tested as part of anonymous studies do not get passed on to contact tracing).
+ After tests have been taken, they are sent to a laboratory for processing.
+ Once processed, a person will be emailed or texted their result.
+ If a person has a positive COVID-19 test result, their case is transferred to the NHS Test and Trace service and can be managed in one of 2 ways.
+ First, cases that are not managed by local health protection teams (HPTs) are reached either online or by a call centre.
+ They are then asked to provide details of recent close contacts.
+ These recent close contacts are then reached by the NHS Test and Trace service and advised to self-isolate.
+ In regions with additional local contact-tracing teams, if the national team cannot make contact with a resident within a set period of time, then local public health officials can use the data provided by NHS Test and Trace to follow up.
+ Second, cases that are linked to certain exposure settings are escalated to local HPTs who work to identify and reach recent close contacts and advise them to self-isolate.
+ Additionally, if the person has the app and used the app to book their test, their positive result is updated automatically.
+ If they have the app but booked their test via a different route then they can use a link to add their positive result to the app.
+ Once their positive result is entered into the app, the person is asked if they are willing to share their data and if they say yes, the app identifies other app users who have been in close contact with the person who has tested positive.
+ Close contacts then receive an app notification to self-isolate.
+ Coverage NHS Test and Trace is for England only, therefore the figures in this section are given for England only.
+ Similar programmes are in place in Scotland, Wales and Northern Ireland but this data is not part of the NHS Test and Trace programme and is owned and managed by Public Health Scotland, the Welsh government and the Northern Ireland Public Health Agency respectively.
+ Information is available at their statistics release pages: Test and Protect in Scotland; Test, Trace, Protect in Wales; and Contact tracing in Northern Ireland.
+ Data sources This data is collected from management information generated during the operation of the NHS Test and Trace service.
+ The different data streams are collated centrally by DHSC.
+ Testing data is collected from Public Health England and the time taken to receive a COVID-19 test result is taken from data collected and stored by commercial partners.
+ Timings The weekly contact-tracing data includes all cases transferred to NHS Test and Trace over a period of 7 days.
+ A snapshot of this data is taken for publication several days after the end of the reporting period to give time for cases reported at the end of the 7-day period to have an outcome.
+ Some cases may continue to be in progress after this period, and therefore data may need to be revised over time.
+ Time series Data is released as a time series of weekly contact-tracing data that is updated each week.
+ Historic data may be revised if more accurate information is available later (see Timings, above).
+ This means that individual figures will not necessarily align with what was published earlier on GOV.UK.
+ Where revisions have been made, this will be signposted in the relevant publications.
+ Testing in England NHS Test and Trace starts with an individual taking a swab test, either in pillar 1, pillar 2 or pillar 4.
+ Those who go on to test positive will have their case transferred to NHS Test and Trace for contact tracing.
+ The majority of these are people who were tested under pillar 1 or pillar 2 of the government testing strategy:  pillar 1: swab testing in PHE labs and NHS hospitals for those with a clinical need, and health and care workers pillar 2: swab testing for the wider population, through commercial partnerships 1   It is a legal requirement that all positive cases are reported to PHE, irrespective of pillar.
+ As such, when pillar 4 research studies (for swab testing) identify positive cases, PHE is notified and this data flows into the Surveillance system.
+ This means that currently all positive cases identified by pillar 4 surveillance studies are captured under pillar 1 or 2, and are transferred to NHS Test and Trace.
+ The same applies to those tested as part of the volunteer testing network: they are reported to PHE under pillar 1 and any positive cases are transferred to NHS Test and Trace.
+ Pillar 3 (serology testing to show if people have antibodies from having had COVID-19) are not transferred to NHS Test and Trace.
+ Once conducted, tests are sent to a laboratory to be processed, and the results are sent back to the individual through an email or an SMS.
+ People tested and people testing positive For both pillars 1 and 2, data for England is provided by the NHS and PHE and the number of confirmed cases are collated to give the total number of confirmed cases over the reporting period.
+ More details about the data sources and methodology for pillar 1 and pillar 2 can be found in the section Coronavirus (COVID-19) testing in the UK.
+ From 15 October, the methodology for people tested and people testing positive has changed.
+ Previously, the number of people newly tested and newly testing positive was reported, where the figures were de-duplicated over the entirety of the pandemic so an individual would only appear once.
+ This meant someone tested in March and again in September would only be counted in the March counts.
+ This was progressively becoming less meaningful the longer the duration of the pandemic and meant that it was not appropriate to calculate a positivity rate from this data.
+ Figures are now reported as people tested and people testing positive at least once in the reporting week.
+ People tested or testing positive are only counted once over the 7-day reporting period (Thursday to Wednesday), with a positive test being prioritised over a negative test.
+ A person can be counted within more than one 7-day reporting period.
+ If someone was tested more than once in different reporting weeks, they would be included in the count for all reporting weeks they were tested in.
+ For example, if a person was tested on Thursday and Friday of the same week, they would only be counted once in the reporting week.
+ However, if someone was tested on Tuesday and Friday of the same week, that individual would be counted in 2 reporting periods, as the 2 tests fall into different 7-day reporting periods.
+ If a person is tested under both pillar 1 and pillar 2 in the same reporting week, then only the pillar they were first tested under is counted, unless they were tested in both pillars on the same day, in which case, they are counted under pillar 2.
+ If someone had both a positive and a negative result in the same week, only the positive case would be counted, with the result being counted in pillar associated with the positive result.
+ All previous reporting weeks have been backdated and revised with the new methodology.
+ When de-duplicating within the reporting period, people have been matched using a fuzzy matching process.
+ This involves using a combination of name, NHS number and date of birth to find duplicates and then remove them.
+ Due to the nature of the matching, this will not always be a perfect match and there may sometimes be more people removed than necessary, for example, if someone has the same name and date of birth.
+ However, this should only affect a small number of tests.
+ Demographic data for people tested and people testing positive at least once in the reporting week is available in the weekly collection page.
+ This data has been updated to account for the change in methodology for people tested and people testing positive.
+ Demographic data is collected for age, gender and ethnicity, but currently only age and gender is available weekly.
+ For pillar 1, data is collected by the hospital, and is then enriched using patient records.
+ For pillar 2, this data is collected when people register for a test and is voluntary, which means that people have the option not to provide their information.
+ Note that for age, a person may fall into more than one age group if their age has changed between reporting weeks in which they were tested.
+ The totals provided for people tested and people testing positive in the demographic tables will not always align one age group if their age has changed between reporting weeks in which they were tested.with the total number of people tested and people testing positive given in the main publication.
+ This is due to differences in when the data is taken, which means that one source may be more up to date than the other.
+ The cumulative number of people newly tested and newly testing positive (de-duplicated over the entirety of the pandemic) will continue to be available in the data tables.
+ This gives the total number of people tested and testing positive at least once since the beginning of the pandemic, as well as the proportion of the population that has been tested at least once.
+ Data provided in the release only gives the cumulative number of people who have ever been tested or tested positive since Test and Trace launched, so anyone who was tested prior to the 28 May will not be included.
+ Weekly positivity rate Due to the change in methodology, it is now possible to calculate a weekly positivity rate and this is included in the release.
+ The weekly positivity rate is calculated as the number of people testing positive as a proportion of the number of people tested in each reporting week.
+ However, people tested is still not a random sample and is instead focused on people who may be more likely to have COVID-19, so should therefore not be used as a measure of prevalence for the general public.
+ Additionally, it will not be an accurate measure of prevalence for the general public as some people will be asymptomatic and not all people who experience COVID-19 symptoms will get tested.
+ This means that the people transferred into NHS Test and Trace only make up a proportion of the total population who have COVID-19.
+ More information about the estimated number of people who have COVID-19 at a given time can be found in the PHE Surveillance Report and ONS Coronavirus Infection Survey pilot.
+ This weekly positivity rate is now also available for the different demographic groups in the demographic data tables.
+ Time taken to receive a COVID-19 test result The time taken to receive a COVID-19 test result is included in the weekly NHS Test and Trace publication for both pillar 1 and pillar 2 testing in England.
+ This is important for the implementation and performance of NHS Test and Trace as it ensures that people who have tested positive can notify their contacts as quickly as possible to help prevent the spread of the virus.
+ For both pillar 1 and pillar 2 turnaround times, the total number of test results reported (and the time taken to do so) is not the same as the number of people tested.
+ For clinical reasons, some people are tested more than once.
+ Therefore, the number of tests will be higher than the number of people tested.
+ There are several valid reasons why some individuals may be tested more than once, including:  regular testing of health and care workers individuals who have the virus, test positive, and have a subsequent test to see if they can return to work participation in early trials comparing healthcare professionals administered tests with self-administered tests, resulting in 2 results on the same day participation in research studies conducting routine tests on the same people each month some tests may come back as ‘void’ and a retest would be issued individuals with early symptoms who test negative, develop more symptoms and are retested and found to be positive  The data for the time taken to receive a COVID-19 test result has not been de-duplicated.
+ This means that the time taken to receive a COVID-19 test result is given for all tests that have been taken, including those tests that have been carried out on the same person more than once.
+ Pillar 1 testing turnaround times Pillar 1 testing includes swab testing in PHE labs and NHS hospitals for those with a clinical need, and health and care workers.
+ These tests are conducted in hospitals and outbreak locations.
+ The data is recorded by PHE and NHS labs and covers England only, in line with the tracing data.
+ The location is based on the laboratory site where the test was processed, which is usually an NHS hospital.
+ The time taken to receive a COVID-19 test result through pillar 1 is only available from 9 July 2020 due to differences in the reporting methodologies for NHS and PHE labs.
+ Prior to this, data regarding the time taken to receive a COVID-19 result is not comparable across PHE and NHS labs.
+ For consistency with other government publications, only comparable data has been included in order to give an overall picture for pillar 1.
+ There remain a small number of study samples and tests from private laboratories which are excluded from turnaround time figures as no timing data is available.
+ Generally, these tests make up less than 5% of the tests conducted and so their absence should not greatly affect the overall totals.
+ As some pillar 1 tests are provided to hospital patients, it is not practical for those administering the tests to record the exact time at which the test was taken.
+ Therefore, the time taken to receive a COVID-19 test result is measured from the time that a test is received by a laboratory for processing to the time when the results are published to the Laboratory Information Management System (LIMS).
+ The time taken to receive a COVID-19 test result is given as the number of tests results available within and after 24hrs of the test being received.
+ This definition differs from those used for pillar 2 so the time taken to receive a COVID-19 test result cannot be compared across pillar 1 and pillar 2.
+ The number of tests included in the time taken to receive a COVID-19 test result is consistent with testing data published on the coronavirus (COVID-19) in the UK dashboard.
+ The pillar 1 tests by nation on coronavirus in the UK gives the pillar 1 tests for England daily and the sum of these over the given period will be consistent with the statistics provided here.
+ Data on the time taken to receive a COVID-19 test result for pillar 2 is presented for all routes combined and split up to reflect the different routes, as this impacts on the turnaround times.
+ The routes for taking a test through pillar 2 are:  regional test sites, which includes drive-through testing centres local test sites, which are similar to regional test sites but specifically for walk ups mobile testing units, which travel around the UK to increase access to coronavirus testing.
+ They respond to need, travelling to test people at specific sites including care homes, police stations and prisons satellite test centres, which includes test kits provided directly to ‘satellite’ centres at places like hospitals or care homes that have a particularly urgent or significant need.
+ Approximately 99% of tests from satellite test centers were care home tests home test kits, which are delivered to someone’s door so they can test themselves and their family without leaving the house  Previously, local test sites were included together with regional test sites but from 17 September they have been split out as a separate group.
+ The data for pillar 2 has been taken for England only, in line with the tracing data.
+ There are differences in the way that the location of a test is allocated depending upon the route for taking the test:  for regional test sites, local test sites and mobile testing units, the location of the testing site is used to assign the location of the person being tested.
+ This means that any tests carried out at test sites in England will be included, even though this may include tests of people who were tested in England but live outside of England and may exclude tests of people who live in England but have been tested outside of England for home testing and satellite test centres, people’s home addresses are used to assign the location of the person being tested.
+ Note: this methodology has changed from using the location of the lab that processes the test, which was used until the start of August.
+ Previous figures have been revised to take into account the new methodology  Testing turnaround times data does not include Randox tests, as these are handled through a different system.
+ This will not affect the data for regional test sites, local test sites, mobile testing units or home test kits, but Randox tests made up a significant proportion of the tests conducted in care homes, which form part of the satellite test centres.
+ Until 16 July, Randox tests made up just under 40% of the tests used in care homes.
+ However, their use is being phased out and from 17 July these tests make up less than 5% of the tests conducted in care homes.
+ The number of tests included in the time taken to receive a COVID-19 test result will not be the same as the total number of people tested for COVID-19.
+ In addition to the general reasons stated in the Time taken to receive a COVID-19 test result section, there are a number of reasons for this:  the source for the time taken to receive a COVID-19 test result is different.
+ The number of people tested and testing positive for COVID-19 is taken from PHE, whilst the time taken to receive a COVID-19 test result is taken from commercial partners the data for the time taken to receive a COVID-19 test result has not been de-duplicated.
+ This means that the time taken to receive a COVID-19 test result is given for all tests that have been taken, including those tests that have been carried out on the same person more than once the time taken to receive a COVID-19 test result uses different metrics to segregate data for England from the UK the time taken to receive a COVID-19 test result is reported by the date the test was registered whereas people tested are reported against the specimen date  Turnaround times are measured and reported in 2 ways: time taken from booking a test and from taking a test to receiving a test result.
+ Details are given below.
+ From 27 August, median turnaround times are reported for both measures, in addition to the usual turnaround time windows, such as within 24 hours.
+ For all measures the test is recorded against the date the test was registered.
+ For all measures of time taken to receive a COVID-19 test result, there are a number of test results that were not received.
+ This covers any test where the results were not communicated, which may be because communication details (for example, phone number or email address) were not provided or were incorrect, or because the test was cancelled or abandoned, or no result was available.
+ It also includes some tests that are still being processed.
+ Some of these people may still have been passed into the contact-tracing system, but the data from the pillar 2 test does not show that their tests were complete.
+ From 17 September the number of results not received was split to show those which were unsuccessful and those still in progress.
+ Previously these were reported together.
+ Time taken to receive a COVID-19 test result from time of test The time taken to receive a COVID-19 test result from time of test is measured from the time a person completes a test registration (or the time a person indicates their test was taken for home testing kits) until the time that they receive a notification of the result of their test via an email or an SMS.
+ For home testing kits, the start time is measured from the time a person inputs that they took their test (note that this process changed from the time a test was registered using a barcode scan, from July onwards).
+ When a person registers their test, they are asked to give the time that their test was taken.
+ This measure is self-reported but allows current and previous data to be measured using the same definition and allows for a more accurate end-to-end time to be calculated.
+ For regional test sites, local test sites and mobile testing units, registration is completed before the test in a controlled environment and so for most tests this provides a precise measure of when the test was taken.
+ For satellite test centres, the time of test registration may not exactly align with the time that the test is taken.
+ For example, a care home might complete registrations the night before they administer the tests.
+ However, the start time used is consistent enough to provide comparable data on the time taken to receive a COVID-19 test result from the time of test for all mechanisms of testing.
+ Satellite tests are predominantly used by care homes who need greater control and flexibility over when test kits are collected.
+ For example, tests may be conducted over multiple days with a collection scheduled a few days later.
+ Because of this, a lower proportion of test results will be available within 24 hours of the test being taken.
+ After someone takes a test, their test is transported to a laboratory for processing.
+ There are normal fluctuations in this operational process which can sometimes cause the time taken to receive a test result to go over 24 hours, but still be turned around the next day.
+ Where appropriate, the number of tests turned around the day after a test was taken are provided.
+ Time taken to receive a COVID-19 test result from time of booking The time taken to receive a COVID-19 test result from time of booking is measured from the time that a person books an appointment on the website to the time when the person receives a notification of their test result via an email or an SMS.
+ This data is only available for regional test sites, local test sites and mobile testing units, as test booking and registration processes for home testing and satellite test centres are currently undertaken on different systems.
+ Pillar 2 distance to take an in-person test From 24 September, the distance to take an in-person test has been included for pillar 2 tests.
+ For each person who successfully registered for a test (including those who registered for a test but did not turn up to the test site) under pillar 2 at a regional test site, local test site or mobile testing unit, the distance between their location and their associated testing site is measured as the direct distance (that is, in a straight line ‘as the crow flies’).
+ A person’s home location is calculated as the approximate centre of their postal district (for example, PO15) provided at the time of booking.
+ The centre of the postal district is used instead of the full postcode for data protection reasons and is measured using publicly available ONS census data.
+ These distances are reported as the median and 75th, 90th and 95th percentiles for those who successfully booked a test at regional test sites, local test sites and mobile testing units.
+ Pillar 2 swab tests processed by lower-tier local authority (LTLA) From 1 October, the number of pillar 2 swab tests processed by lower-tier local authority (LTLA) is available on the weekly publication page.
+ The ‘number of tests processed’ counts all tests that have remained within the control of the programme (and were counted at the time at which processed in labs) and those that have been sent out and subsequently returned to be processed in a lab (for more information, see the ‘Coronavirus in the UK’ section of the weekly publication).
+ Data is available for England only and is provided daily from 20 March 2020.
+ These counts are reported by specimen processed date.
+ Figures are taken from the pillar 2 labs’ processed data and matched by NHS Digital to individual records.
+ A person’s postcode is then used to determine their local authority.
+ Therefore, those where a postcode is not available are not assigned a geography.
+ Data for City of London and Hackney have been combined due to their smaller population size.
+ Any figures less than 3 are reported as ‘ The Department of Health and Social Care ( DHSC ) publishes weekly statistics on NHS Test and Trace (England) and coronavirus (COVID-19) testing in the UK.
+ These statistics cover: Section 1: NHS Test and Trace, England: \n number of people tested for coronavirus in England \n number of people who tested positive for coronavirus in England \n time taken for test results to become available in England \n distance to take a test in-person in England \n number of people testing positive for coronavirus in England that were then transferred to the contact-tracing system, and the time taken for them to be reached \n number of recent close contacts identified, and the time taken for them to be reached \n Section 2: NHS COVID-19 app: \n number of downloads \n number of QR posters generated \n Section 3: coronavirus (COVID-19) testing in the UK across all 4 testing pillars: \n lab testing capacity \n tests sent out \n tests processed for the UK \n This document primarily sets out information on the data sources and methodology used to generate the statistics for testing and contact tracing in England.
+ DHSC is consolidating where COVID-19 testing statistics are published to make it easier to find the latest data.
+ The daily statistics on coronavirus cases in the UK are no longer updated after Thursday 20 August.
+ Historic UK testing statistics and the accompanying COVID-19 testing data methodology note are still available.
+ Statistics on tests and testing capacity are published weekly in the NHS Test and Trace publication and are also available on the Coronavirus (COVID-19) in the UK dashboard .
+ Statistics on positive cases will continue to be published daily on the dashboard and weekly in the NHS Test and Trace publication.
+ These statistics have been produced quickly in response to developing world events.
+ The Office for Statistics Regulation, on behalf of the UK Statistics Authority, has reviewed them against several important aspects of the Code of Practice for Statistics and regards them as consistent with the code’s 3 pillars of trustworthiness, quality and value. "
+ It then helps trace recent close contacts of anyone who tests positives for coronavirus and, if necessary, notifies them that they must self-isolate at home to help stop the spread of the virus.
+ The flow of how people move through the NHS Test and Trace service is shown in figure 1 .
+ More information about NHS Test and Trace can be found in the guidance NHS Test and Trace: how it works .
+ DHSC publishes weekly statistics on NHS Test and Trace.
+ The purpose of this data is to provide a weekly update on the implementation and performance of NHS Test and Trace.
+ Data collected for the Test and Trace programme is primarily for operational purposes and was not designed to track the spread of the virus.
+ Studies into the spread of the virus in the UK are carried out by the Office for National Statistics ( ONS ).
+ Further guidance can be found in comparing methods used in the COVID-19 Infection Survey and NHS Test and Trace, England .
+ A list of data sources relating to the coronavirus pandemic in the UK can be found at coronavirus (COVID-19) statistics and analysis .
+ A breakdown of all available testing and contact-tracing data in the UK can be found at testing and contact tracing in the UK: summary of data .
+ Figure 1: flowchart showing how people move through NHS Test and Trace  The diagram shows the journey a person can take through the NHS Test and Trace service.
+ For pillar 1, this starts with a person having a coronavirus test in hospital.
+ For pillar 2, this starts with a person booking or ordering a coronavirus test.
+ Pillar 2 tests can be either be conducted at a regional test site, local test site or mobile test unit; or a satellite or home test can be conducted.
+ For pillar 4, this starts with a person having a coronavirus test as part of a prevalence study (those who are tested as part of anonymous studies do not get passed on to contact tracing).
+ After tests have been taken, they are sent to a laboratory for processing.
+ Once processed, a person will be emailed or texted their result.
+ If a person has a positive COVID-19 test result, their case is transferred to the NHS Test and Trace service and can be managed in one of 2 ways.
+ First, cases that are not managed by local health protection teams ( HPTs ) are reached either online or by a call centre.
+ They are then asked to provide details of recent close contacts.
+ These recent close contacts are then reached by the NHS Test and Trace service and advised to self-isolate.
+ In regions with additional local contact-tracing teams, if the national team cannot make contact with a resident within a set period of time, then local public health officials can use the data provided by NHS Test and Trace to follow up.
+ Second, cases that are linked to certain exposure settings are escalated to local HPTs who work to identify and reach recent close contacts and advise them to self-isolate.
+ Additionally, if the person has the app and used the app to book their test, their positive result is updated automatically.
+ If they have the app but booked their test via a different route then they can use a link to add their positive result to the app.
+ Once their positive result is entered into the app, the person is asked if they are willing to share their data and if they say yes, the app identifies other app users who have been in close contact with the person who has tested positive.
+ Close contacts then receive an app notification to self-isolate.
+ Coverage NHS Test and Trace is for England only, therefore the figures in this section are given for England only.
+ Similar programmes are in place in Scotland, Wales and Northern Ireland but this data is not part of the NHS Test and Trace programme and is owned and managed by Public Health Scotland, the Welsh government and the Northern Ireland Public Health Agency respectively.
+ Information is available at their statistics release pages: Test and Protect in Scotland ; Test, Trace, Protect in Wales ; and Contact tracing in Northern Ireland .
+ Data sources This data is collected from management information generated during the operation of the NHS Test and Trace service.
+ The different data streams are collated centrally by DHSC .
+ Testing data is collected from Public Health England and the time taken to receive a COVID-19 test result is taken from data collected and stored by commercial partners.
+ Timings The weekly contact-tracing data includes all cases transferred to NHS Test and Trace over a period of 7 days.
+ A snapshot of this data is taken for publication several days after the end of the reporting period to give time for cases reported at the end of the 7-day period to have an outcome.
+ Some cases may continue to be in progress after this period, and therefore data may need to be revised over time.
+ Time series Data is released as a time series of weekly contact-tracing data that is updated each week.
+ Historic data may be revised if more accurate information is available later (see Timings , above).
+ This means that individual figures will not necessarily align with what was published earlier on GOV.UK.
+ Where revisions have been made, this will be signposted in the relevant publications.
+ Testing in England NHS Test and Trace starts with an individual taking a swab test, either in pillar 1, pillar 2 or pillar 4.
+ Those who go on to test positive will have their case transferred to NHS Test and Trace for contact tracing.
+ The majority of these are people who were tested under pillar 1 or pillar 2 of the government testing strategy: \n pillar 1: swab testing in PHE labs and NHS hospitals for those with a clinical need, and health and care workers \n pillar 2: swab testing for the wider population, through commercial partnerships 1 \n \n It is a legal requirement that all positive cases are reported to PHE , irrespective of pillar.
+ As such, when pillar 4 research studies (for swab testing) identify positive cases, PHE is notified and this data flows into the Surveillance system.
+ This means that currently all positive cases identified by pillar 4 surveillance studies are captured under pillar 1 or 2, and are transferred to NHS Test and Trace.
+ The same applies to those tested as part of the volunteer testing network: they are reported to PHE under pillar 1 and any positive cases are transferred to NHS Test and Trace.
+ Pillar 3 (serology testing to show if people have antibodies from having had COVID-19) are not transferred to NHS Test and Trace.
+ Once conducted, tests are sent to a laboratory to be processed, and the results are sent back to the individual through an email or an SMS.
+ People tested and people testing positive For both pillars 1 and 2, data for England is provided by the NHS and PHE and the number of confirmed cases are collated to give the total number of confirmed cases over the reporting period.
+ More details about the data sources and methodology for pillar 1 and pillar 2 can be found in the section Coronavirus (COVID-19) testing in the UK .
+ \n From 15 October, the methodology for people tested and people testing positive has changed.
+ \n Previously, the number of people newly tested and newly testing positive was reported, where the figures were de-duplicated over the entirety of the pandemic so an individual would only appear once.
+ This meant someone tested in March and again in September would only be counted in the March counts.
+ This was progressively becoming less meaningful the longer the duration of the pandemic and meant that it was not appropriate to calculate a positivity rate from this data.
+ Figures are now reported as people tested and people testing positive at least once in the reporting week.
+ People tested or testing positive are only counted once over the 7-day reporting period (Thursday to Wednesday), with a positive test being prioritised over a negative test.
+ A person can be counted within more than one 7-day reporting period.
+ If someone was tested more than once in different reporting weeks, they would be included in the count for all reporting weeks they were tested in.
+ For example, if a person was tested on Thursday and Friday of the same week, they would only be counted once in the reporting week.
+ However, if someone was tested on Tuesday and Friday of the same week, that individual would be counted in 2 reporting periods, as the 2 tests fall into different 7-day reporting periods.
+ If a person is tested under both pillar 1 and pillar 2 in the same reporting week, then only the pillar they were first tested under is counted, unless they were tested in both pillars on the same day, in which case, they are counted under pillar 2.
+ If someone had both a positive and a negative result in the same week, only the positive case would be counted, with the result being counted in pillar associated with the positive result.
+ All previous reporting weeks have been backdated and revised with the new methodology.
+ When de-duplicating within the reporting period, people have been matched using a fuzzy matching process.
+ This involves using a combination of name, NHS number and date of birth to find duplicates and then remove them.
+ Due to the nature of the matching, this will not always be a perfect match and there may sometimes be more people removed than necessary, for example, if someone has the same name and date of birth.
+ However, this should only affect a small number of tests.
+ Demographic data for people tested and people testing positive at least once in the reporting week is available in the weekly collection page.
+ This data has been updated to account for the change in methodology for people tested and people testing positive.
+ Demographic data is collected for age, gender and ethnicity, but currently only age and gender is available weekly.
+ For pillar 1, data is collected by the hospital, and is then enriched using patient records.
+ For pillar 2, this data is collected when people register for a test and is voluntary, which means that people have the option not to provide their information.
+ Note that for age, a person may fall into more than one age group if their age has changed between reporting weeks in which they were tested.
+ The totals provided for people tested and people testing positive in the demographic tables will not always align one age group if their age has changed between reporting weeks in which they were tested.with the total number of people tested and people testing positive given in the main publication.
+ This is due to differences in when the data is taken, which means that one source may be more up to date than the other.
+ The cumulative number of people newly tested and newly testing positive (de-duplicated over the entirety of the pandemic) will continue to be available in the data tables.
+ This gives the total number of people tested and testing positive at least once since the beginning of the pandemic, as well as the proportion of the population that has been tested at least once.
+ Data provided in the release only gives the cumulative number of people who have ever been tested or tested positive since Test and Trace launched, so anyone who was tested prior to the 28 May will not be included.
+ Weekly positivity rate Due to the change in methodology, it is now possible to calculate a weekly positivity rate and this is included in the release.
+ The weekly positivity rate is calculated as the number of people testing positive as a proportion of the number of people tested in each reporting week.
+ However, people tested is still not a random sample and is instead focused on people who may be more likely to have COVID-19, so should therefore not be used as a measure of prevalence for the general public.
+ Additionally, it will not be an accurate measure of prevalence for the general public as some people will be asymptomatic and not all people who experience COVID-19 symptoms will get tested.
+ This means that the people transferred into NHS Test and Trace only make up a proportion of the total population who have COVID-19.
+ More information about the estimated number of people who have COVID-19 at a given time can be found in the PHE Surveillance Report and ONS Coronavirus Infection Survey pilot .
+ This weekly positivity rate is now also available for the different demographic groups in the demographic data tables.
+ Time taken to receive a COVID-19 test result The time taken to receive a COVID-19 test result is included in the weekly NHS Test and Trace publication for both pillar 1 and pillar 2 testing in England.
+ This is important for the implementation and performance of NHS Test and Trace as it ensures that people who have tested positive can notify their contacts as quickly as possible to help prevent the spread of the virus.
+ For both pillar 1 and pillar 2 turnaround times, the total number of test results reported (and the time taken to do so) is not the same as the number of people tested.
+ For clinical reasons, some people are tested more than once.
+ Therefore, the number of tests will be higher than the number of people tested.
+ There are several valid reasons why some individuals may be tested more than once, including: \n regular testing of health and care workers \n individuals who have the virus, test positive, and have a subsequent test to see if they can return to work \n participation in early trials comparing healthcare professionals administered tests with self-administered tests, resulting in 2 results on the same day \n participation in research studies conducting routine tests on the same people each month \n some tests may come back as ‘void’ and a retest would be issued \n individuals with early symptoms who test negative, develop more symptoms and are retested and found to be positive \n The data for the time taken to receive a COVID-19 test result has not been de-duplicated.
+ This means that the time taken to receive a COVID-19 test result is given for all tests that have been taken, including those tests that have been carried out on the same person more than once.
+ Pillar 1 testing turnaround times Pillar 1 testing includes swab testing in PHE labs and NHS hospitals for those with a clinical need, and health and care workers.
+ These tests are conducted in hospitals and outbreak locations.
+ The data is recorded by PHE and NHS labs and covers England only, in line with the tracing data.
+ The location is based on the laboratory site where the test was processed, which is usually an NHS hospital.
+ The time taken to receive a COVID-19 test result through pillar 1 is only available from 9 July 2020 due to differences in the reporting methodologies for NHS and PHE labs.
+ Prior to this, data regarding the time taken to receive a COVID-19 result is not comparable across PHE and NHS labs.
+ For consistency with other government publications, only comparable data has been included in order to give an overall picture for pillar 1.
+ There remain a small number of study samples and tests from private laboratories which are excluded from turnaround time figures as no timing data is available.
+ Generally, these tests make up less than 5% of the tests conducted and so their absence should not greatly affect the overall totals.
+ As some pillar 1 tests are provided to hospital patients, it is not practical for those administering the tests to record the exact time at which the test was taken.
+ Therefore, the time taken to receive a COVID-19 test result is measured from the time that a test is received by a laboratory for processing to the time when the results are published to the Laboratory Information Management System (LIMS).
+ The time taken to receive a COVID-19 test result is given as the number of tests results available within and after 24hrs of the test being received.
+ This definition differs from those used for pillar 2 so the time taken to receive a COVID-19 test result cannot be compared across pillar 1 and pillar 2.
+ The number of tests included in the time taken to receive a COVID-19 test result is consistent with testing data published on the coronavirus (COVID-19) in the UK dashboard .
+ The pillar 1 tests by nation on coronavirus in the UK gives the pillar 1 tests for England daily and the sum of these over the given period will be consistent with the statistics provided here.
+ Data on the time taken to receive a COVID-19 test result for pillar 2 is presented for all routes combined and split up to reflect the different routes, as this impacts on the turnaround times.
+ The routes for taking a test through pillar 2 are: \n regional test sites, which includes drive-through testing centres \n local test sites, which are similar to regional test sites but specifically for walk ups \n mobile testing units, which travel around the UK to increase access to coronavirus testing.
+ They respond to need, travelling to test people at specific sites including care homes, police stations and prisons \n satellite test centres, which includes test kits provided directly to ‘satellite’ centres at places like hospitals or care homes that have a particularly urgent or significant need.
+ Approximately 99% of tests from satellite test centers were care home tests \n home test kits, which are delivered to someone’s door so they can test themselves and their family without leaving the house \n Previously, local test sites were included together with regional test sites but from 17 September they have been split out as a separate group.
+ The data for pillar 2 has been taken for England only, in line with the tracing data.
+ There are differences in the way that the location of a test is allocated depending upon the route for taking the test: \n for regional test sites, local test sites and mobile testing units, the location of the testing site is used to assign the location of the person being tested.
+ This means that any tests carried out at test sites in England will be included, even though this may include tests of people who were tested in England but live outside of England and may exclude tests of people who live in England but have been tested outside of England \n for home testing and satellite test centres, people’s home addresses are used to assign the location of the person being tested.
+ Note: this methodology has changed from using the location of the lab that processes the test, which was used until the start of August.
+ Previous figures have been revised to take into account the new methodology \n Testing turnaround times data does not include Randox tests, as these are handled through a different system.
+ This will not affect the data for regional test sites, local test sites, mobile testing units or home test kits, but Randox tests made up a significant proportion of the tests conducted in care homes, which form part of the satellite test centres.
+ Until 16 July, Randox tests made up just under 40% of the tests used in care homes.
+ However, their use is being phased out and from 17 July these tests make up less than 5% of the tests conducted in care homes.
+ The number of tests included in the time taken to receive a COVID-19 test result will not be the same as the total number of people tested for COVID-19.
+ In addition to the general reasons stated in the Time taken to receive a COVID-19 test result section, there are a number of reasons for this: \n the source for the time taken to receive a COVID-19 test result is different.
+ The number of people tested and testing positive for COVID-19 is taken from PHE , whilst the time taken to receive a COVID-19 test result is taken from commercial partners \n the data for the time taken to receive a COVID-19 test result has not been de-duplicated.
+ This means that the time taken to receive a COVID-19 test result is given for all tests that have been taken, including those tests that have been carried out on the same person more than once \n the time taken to receive a COVID-19 test result uses different metrics to segregate data for England from the UK \n the time taken to receive a COVID-19 test result is reported by the date the test was registered whereas people tested are reported against the specimen date \n Turnaround times are measured and reported in 2 ways: time taken from booking a test and from taking a test to receiving a test result.
+ Details are given below.
+ From 27 August, median turnaround times are reported for both measures, in addition to the usual turnaround time windows, such as within 24 hours.
+ For all measures the test is recorded against the date the test was registered.
+ For all measures of time taken to receive a COVID-19 test result, there are a number of test results that were not received.
+ This covers any test where the results were not communicated, which may be because communication details (for example, phone number or email address) were not provided or were incorrect, or because the test was cancelled or abandoned, or no result was available.
+ It also includes some tests that are still being processed.
+ Some of these people may still have been passed into the contact-tracing system, but the data from the pillar 2 test does not show that their tests were complete.
+ From 17 September the number of results not received was split to show those which were unsuccessful and those still in progress.
+ Previously these were reported together.
+ Time taken to receive a COVID-19 test result from time of test The time taken to receive a COVID-19 test result from time of test is measured from the time a person completes a test registration (or the time a person indicates their test was taken for home testing kits) until the time that they receive a notification of the result of their test via an email or an SMS.
+ For home testing kits, the start time is measured from the time a person inputs that they took their test (note that this process changed from the time a test was registered using a barcode scan, from July onwards).
+ When a person registers their test, they are asked to give the time that their test was taken.
+ This measure is self-reported but allows current and previous data to be measured using the same definition and allows for a more accurate end-to-end time to be calculated.
+ For regional test sites, local test sites and mobile testing units, registration is completed before the test in a controlled environment and so for most tests this provides a precise measure of when the test was taken.
+ For satellite test centres, the time of test registration may not exactly align with the time that the test is taken.
+ For example, a care home might complete registrations the night before they administer the tests.
+ However, the start time used is consistent enough to provide comparable data on the time taken to receive a COVID-19 test result from the time of test for all mechanisms of testing.
+ Satellite tests are predominantly used by care homes who need greater control and flexibility over when test kits are collected.
+ For example, tests may be conducted over multiple days with a collection scheduled a few days later.
+ Because of this, a lower proportion of test results will be available within 24 hours of the test being taken.
+ After someone takes a test, their test is transported to a laboratory for processing.
+ There are normal fluctuations in this operational process which can sometimes cause the time taken to receive a test result to go over 24 hours, but still be turned around the next day.
+ Where appropriate, the number of tests turned around the day after a test was taken are provided.
+ Time taken to receive a COVID-19 test result from time of booking The time taken to receive a COVID-19 test result from time of booking is measured from the time that a person books an appointment on the website to the time when the person receives a notification of their test result via an email or an SMS.
+ This data is only available for regional test sites, local test sites and mobile testing units, as test booking and registration processes for home testing and satellite test centres are currently undertaken on different systems.
+ Pillar 2 distance to take an in-person test From 24 September, the distance to take an in-person test has been included for pillar 2 tests.
+ For each person who successfully registered for a test (including those who registered for a test but did not turn up to the test site) under pillar 2 at a regional test site, local test site or mobile testing unit, the distance between their location and their associated testing site is measured as the direct distance (that is, in a straight line ‘as the crow flies’).
+ A person’s home location is calculated as the approximate centre of their postal district (for example, PO15) provided at the time of booking.
+ The centre of the postal district is used instead of the full postcode for data protection reasons and is measured using publicly available ONS census data.
+ These distances are reported as the median and 75th, 90th and 95th percentiles for those who successfully booked a test at regional test sites, local test sites and mobile testing units.
+ Pillar 2 swab tests processed by lower-tier local authority ( LTLA ) From 1 October, the number of pillar 2 swab tests processed by lower-tier local authority ( LTLA ) is available on the weekly publication page.
+ The ‘number of tests processed’ counts all tests that have remained within the control of the programme (and were counted at the time at which processed in labs) and those that have been sent out and subsequently returned to be processed in a lab (for more information, see the ‘Coronavirus in the UK’ section of the weekly publication).
+ Data is available for England only and is provided daily from 20 March 2020.
+ These counts are reported by specimen processed date.
+ Figures are taken from the pillar 2 labs’ processed data and matched by NHS Digital to individual records.
+ A person’s postcode is then used to determine their local authority.
+ Therefore, those where a postcode is not available are not assigned a geography.
+ Data for City of London and Hackney have been combined due to their smaller population size.
+ Any figures less than 3 are reported as ‘&lt;3’ and the totals based on any suppressed figures are rounded to the nearest 5.
+ For this reason, totals may not align with the sum of the date or local authority.
+ These figures are provisional, based on management information for testing provided by NHS Digital.
+ These figures will not align with those published on the coronavirus (COVID-19) in the UK dashboard as they are derived from a different data source with different associated methodology.
+ The reasons for the differences are: \n a cut of the data was taken at different points in time for each source \n NHS Digital reports on the date a test was processed in the laboratory whereas the dashboard reports on the date reported by laboratories \n the LTLA is determined using the postcode of the person tested, while the dashboard data is only available at a national level and this is determined by each of the individual devolved administrations \n daily data on the dashboard is not routinely revised, whereas NHS Digital updates the figures for previous dates when each data cut is taken \n Contact tracing in England Once a person has a confirmed positive test result for coronavirus, this person is transferred to NHS Test and Trace and a case is opened for them.
+ NHS Test and Trace makes an initial decision on how to manage the case based on the exposure settings of the individual, in other words, the place in which the person may have exposed others to the virus.
+ There are a few points when this can happen: \n when a case is first reported there is a check against care home postcodes; \n the data provided by people responding online via the secure website is queried to look for certain exposure settings; \n if call handlers identify a certain exposure setting while speaking to the individual.
+ \n Positive cases transferred to NHS Test and Trace are managed in different ways depending on their exposure settings: \n cases managed by local HPTs (previously known as complex cases): PHE local health protection teams manage cases linked to outbreaks, examples include someone who works or has recently visited:\n  \n  a health or care setting, such as a hospital or care home \n  a prison or other secure setting \n  a school for people with special needs \n  critical national infrastructure or areas vital for national security \n  \n \n cases not managed by local HPTs (previously known as non-complex cases): wider online and other call centre capacity for cases that are not linked to the above exposure settings, plus the use of local teams in certain regions \n For cases managed by local HPTs , contacts are often managed at a situation rather than individual level, with advice being issued to the contact institution (for example in a care home or prison).
+ For those cases not managed by local HPTs , the NHS Test and Trace service will get in contact via a text, email alert or phone call.
+ People are asked to share details of other people with whom they have had close, recent contact and places they have visited.
+ They can respond online via a secure website or by telephone with a contact tracer.
+ On occasion, a person’s case may be handled by the NHS Test and Trace service and later escalated to a local health protection team.
+ From 29 October, the terminology relating to cases has changed in order to more accurately reflect the contact tracing operations.
+ The cases and contacts managed by local HPTs are not necessarily more complex than individual cases and contacts managed by national contact tracers and therefore the terms ‘complex’ and ‘non-complex’ have been removed.
+ Cases and contacts are handled in different ways depending on their exposure setting, with positive cases linked to potential outbreaks in specific settings being handled by PHE local health protection teams ( HPTs ).
+ These cases and contacts are therefore referred to as ‘cases and contacts managed by local HPTs ’ from 29 October.
+ Cases and contacts managed nationally either online or by call centres are referred to as ‘cases and contacts not managed by local health protection teams’.
+ This change is to the terminology used to describe the 2 methods of handling cases and contacts and does not impact on the methodology used to breakdown the data in this way.
+ Positive cases transferred to NHS Test and Trace The number of positive cases transferred to the contact-tracing system may not always align with the number of people testing positive for COVID-19.
+ There are several reasons for this: \n delays between a sample being taken, tested and reported, and being passed from PHE to the contact-tracing system mean that weekly totals transferred to NHS Test and Trace may include people who were tested in the previous week \n there is not a rigorous process for de-duplication of the data being passed into the contact-tracing system each day, as the emphasis is on transferring these cases quickly.
+ Some people may have their case transferred to the contact-tracing system more than once, which means there may be more people transferred to contact tracing than test positive for coronavirus within a given period \n When a case is transferred to NHS Test and Trace contact tracers will attempt to contact the individual which results in one the following 3 outcomes: \n reached and provided information about recent close contacts – contact tracers or local HPTs successfully reached the individual and asked them to provide details for recent close contacts \n no communication details provided – people who had no communication details provided are those who were transferred to NHS Test and Trace but did not have any associated contact details (for example phone number or email address) \n not reached – the number of people who were not reached includes those people who the service has been unable to reach because there has been no response to text, email and call reminders.
+ It also includes people who were reached but declined to give details of close contacts.
+ There may also be a small number of people who have not been reached but where contact tracers are still in the process of trying to make contact \n Those people who have been reached and provided information about recent close contacts has been split to show the people whose cases were managed by local HPTs and people whose cases were not managed by local HPTs .
+ If NHS Test and Trace is not able to reach a person or if no communication details are available, it is not always possible to know if the case would have been managed by a local HPT or not.
+ Therefore, these breakdowns are not available.
+ Number of people who were reached by upper tier local authority The number of positive cases transferred to the contact-tracing system and the number who were reached and provided information about recent close contacts is also provided for each upper-tier local authority ( UTLA ) area.
+ Cases are matched to a UTLA via their postcode so, in general, this information refers to people who are living in that UTLA .
+ Data for City of London and Hackney, and Cornwall and the Isles of Scilly have been combined due to their smaller population size.
+ Numbers below 3 are suppressed to ensure that no one is identifiable from the data While it is possible to subtract the cumulative data by UTLA for consecutive weeks to give the weekly numbers, this does not account for the revisions that are made to the data each week.
+ As such, this will sometimes result in more people seeming to be reached than were transferred.
+ For this reason, it is not advisable to use the data in this way.
+ Number of people providing details of one or more recent close contacts Not everyone who was reached and asked to provide details of recent close contacts will have had any recent close contacts.
+ The number who were not able to give any recent close contacts therefore refers to people who were successfully reached by NHS Test and Trace, but either had no recent close contacts or could not provide details of close recent contacts to pass on for further contact tracing (for example, recent close contact with strangers on the bus).
+ Number of people who were reached by the phone or online When a case that is not managed by a local HPT is first transferred to contact tracing, they are sent a link to the NHS Test and Trace website where they are invited to record the details of their close contacts online.
+ This is the default method of communication for cases that are not managed by a local HPT , unless they are in an area with locally supported contact tracing.
+ Cases in these areas do not have the option of self-completion online and instead are referred directly to call handlers.
+ Cases are given 8 hours to complete online and if they fail to do so they are then contacted by phone by a contact tracer.
+ This breakdown is only available for cases that are not managed by local HPTs as cases managed by local HPTs are usually managed at a situation rather than individual level.
+ Time taken for people transferred to contact tracing to identify recent close contacts This is the time taken from a case being set up and a person being transferred to contact tracing to the time the person was reached and asked to provide information about recent close contacts.
+ This data is only collected for people who were reached.
+ It excludes cases managed by local HPTs as part of outbreak investigations.
+ Close contacts identified by NHS Test and Trace, England Once a person has tested positive, they are contacted and asked to identify recent close contacts.
+ When asked for recent close contacts, close contact means: \n having face-to-face contact with someone (less than 1 metre away) \n spending more than 15 minutes within 2 metres of someone \n travelling in a car or other small vehicle with someone (even on a short journey) or close to them on a plane \n ‘Recent’ refers to anybody that the person has been in close contact with in the 48 hours before they developed symptoms and the time since they developed symptoms.
+ For cases that are managed by local HPTs , the way in which recent close contacts are identified has changed since the beginning of NHS Test and Trace.
+ For example, when Test and Trace began, everyone who lived or worked within a setting such as a care home with a person who tested positive for COVID-19 would have been considered a contact.
+ Since then, the guidance has changed and health protection teams now consider factors such as direct contact and the use of PPE, instead of recording all people in each setting.
+ Contacts managed as part of outbreaks by local HPTs have been de-duplicated where possible to only count a person once 2 .
+ Once contacts have been identified, they will be contacted in turn by the NHS Test and Trace service and advised to self-isolate for a period of 14 days.
+ As with positive cases, contacts are handled in different ways depending on the exposure setting, in other words, where the contact was likely to have been exposed to the virus: \n contacts managed by local HPTs (previously known as complex): PHE local health protection teams manage cases linked to outbreaks, examples include someone who works or has recently visited:\n  \n  a health or care setting, such as a hospital or care home \n  a prison or other secure setting \n  a school for people with special needs \n  critical national infrastructure or areas vital for national security \n  \n \n contacts not managed by local HPTs (previously known as non-complex): wider online and other call centre capacity for contacts that are not linked to the above exposure settings \n From 29 October, the terminology relating to contacts has changed in order to more accurately reflect the contact tracing operations.
+ The cases and contacts managed by local HPTs are not necessarily more complex than individual cases and contacts managed by national contact tracers and therefore the terms ‘complex’ and ‘non-complex’ have been removed.
+ Cases and contacts are handled in different ways depending on their exposure setting, with positive cases linked to potential outbreaks in specific settings being handled by PHE local health protection teams ( HPTs ).
+ These cases and contacts are therefore referred to as ‘cases and contacts managed by local HPTs ’ from 29 October.
+ Cases and contacts managed nationally either online or by call centres are referred to as ‘cases and contacts not managed by local health protection teams’.
+ This change is to the terminology used to describe the two methods of handling cases and contacts and does not impact on the methodology used to breakdown the data in this way.
+ A small number of contacts are not managed by local HPTs initially and are later escalated to a local HPT .
+ Generally, contacts who are managed by local HPTs will not be recorded individually, as the local HPTs manage these contacts at a situation rather than individual level.
+ However, since the launch of the Test and Trace Support Payment scheme, it is sometimes necessary for contacts that are managed by local HPTs to be recorded independently of the exposure setting.
+ This may result in some duplication of contacts, although this is only thought to affect a small number of individuals.
+ Number of recent close contacts identified When a contact is identified, contact tracers will attempt to contact the individual which results in one the following 3 outcomes: \n reached and advised to self-isolate: for contacts not managed by local HPTs , contact tracers successfully reached the individual and advised them to self-isolate.
+ For those managed by local HPTs , advice is provided to the institution which is passed on to the individuals in the specific setting.
+ \n communication details not provided: people who were identified as recent close contacts but did not have any associated contact details (for example phone number or email address) \n not reached: the number of people who were not reached includes those people who the service has been unable to reach because there has been no response to text, email and call reminders.
+ There may also be a small number of people who have not been reached but where contact tracers are still in the process of trying to make contact \n The outcome will partly depend on whether the person is managed by a local HPT or not and the data has been split to give the outcomes for these contacts separately.
+ For contacts managed by local HPTs , it is not possible to be identified as a close contact and not have communication details provided because these are managed at a situation, rather than individual level.
+ From 27 August, information about the median number of contacts per case has been included.
+ Because of the nature of outbreaks, there can be a higher number of contacts associated to cases that are managed by local HPTs in comparison to contacts identified through the contact-tracing system.
+ These contacts are often managed at a situation level (for example in a care home or prison) rather than individually, with advice being issued to the contact institution.
+ When local HPTs record whether contact tracing has been completed, they therefore do this for the whole situation (meaning all associated contacts will be counted as having been reached and asked to self-isolate).
+ This data does not include information about compliance and there may be some people who were identified as recent close contacts and asked to self-isolate but have not agreed to do so.
+ Number of contacts who were reached by upper tier local authority The number of close contacts identified that were not managed by local HPTs and the number who were reached and asked to self-isolate is also provided for each upper-tier local authority ( UTLA ) area.
+ Contacts are matched to a UTLA via their postcode so, in general, this information refers to people who are living in that UTLA .
+ On some occasions, postcode data is not available for contacts, in which case the postcode of the case from which the contact originated is used.
+ Data for City of London and Hackney, and Cornwall and the Isles of Scilly have been combined due to their smaller population size.
+ Numbers below 3 are suppressed to ensure that no one is identifiable from the data.
+ While it is possible to subtract the cumulative data by UTLA for consecutive weeks to give the weekly numbers, this does not account for the revisions that are made to the data each week.
+ As such, this will sometimes result in more people seeming to be reached than were transferred.
+ For this reason, it is not advisable to use the data in this way.
+ Number of household and non-household contacts The number of household contacts has been included for cases and contacts that are not managed by local HPTs .
+ This shows the number of recent close contacts who live in the same household as the person who has tested positive for coronavirus and the number who were reached and asked to self-isolate.
+ It is likely that cases often advise their household members to self-isolate in advance of these contacts being directly contacted by contact tracers.
+ This results in these contacts not being recorded as reached and asked to self-isolate, which may be a contributing factor to a lower proportion of household contacts being reached in comparison to non-household contacts.
+ Number of contacts who were reached by the phone or online When a contact is first identified they are sent a link to the NHS Test and Trace website where they are provided with self-isolation advice and are asked to confirm that they will follow this advice.
+ This is the default method of communication for contacts that are not managed by local HPTs .
+ Contacts are given 8 hours to complete online and if they fail to do so they are then contacted by phone by a contact tracer.
+ This breakdown is only available for contacts that are not managed by local HPTs as contacts that are managed by local HPTs are usually managed at a situation rather than individual level.
+ Time taken for recent close contacts to be reached This is the time taken from a recent close contact being identified by a person to the contact being reached and advised to self-isolate.
+ It only includes those recent close contacts who were reached and asked to self-isolate and excludes contacts managed by local HPTs .
+ The time taken for close contacts to be reached from the time that a positive case is transferred to the contact tracing system has been included.
+ This has been included to give a sense of the end-to-end journey time through the test and trace system.
+ This does not, however, give the full end-to-end journey times as it does not include the time from a person having symptoms to receiving a positive test and being transferred into the contact tracing system.
+ This information is only available for contacts that were not managed by local HPTs , although there are a small number of these contacts where they are associated with a case that was managed by local HPTs and for whom this data is not available.
+ This means that the total number of contacts that were not managed by local HPTs will be lower than that reported elsewhere in the publication.
+ However, this affects less than 1% of the contacts that were not managed by local HPTs and were reached. "
+ The NHS COVID-19 app complements NHS Test &amp; Trace processes by extending the speed, reach and precision of contact tracing.
+ It allows close contacts unknown to the individual who has tested positive, for example strangers on public transport, to be notified to self-isolate, if they are also an app user.
+ If an app user reports symptoms on the app and uses the app to book a test, then as well as being notified of their result by SMS/email and being contacted by a contact tracer, the app is automatically updated with their test result.
+ If the test result is positive, they are asked if they are willing to share their data.
+ If they confirm they are, the app identifies which app users have been in ‘close contact’ with that individual and notifies them to self-isolate.
+ “Close contact” is based on an algorithm, but generally means that a person has been within 2m of a person who has tested positive for COVID-19 for 15 minutes or more.
+ There are also mechanisms in place to ensure that all test results can be entered in the app, even if they have not been booked via the app.
+ If the test is booked through the national testing system then all test results, positive and negative, can be entered into the app.
+ Anyone who books a test through the official testing website will receive a code allowing them to link their test result to their NHS COVID-19 app.
+ For people who get a test in an NHS hospital, through a PHE lab or as part of a surveillance study, they can request a code when contacted by NHS Test &amp; Trace.
+ This means that only positive results from these situations can be entered into the app.
+ Once the test result is entered in the app, the same process for identifying and notifying ‘close contact’ app users applies.
+ Since the app is anonymous and voluntary, NHS Test &amp; Trace contact tracers will not know whether someone who tests positive is an app user or whether the contacts they identify are app users.
+ All positive cases, regardless of whether they are an app user, will be contacted by NHS Test and Trace and asked to provide details of recent, close contacts.
+ Contacts will all be notified by NHS Test and Trace so may be notified by both the app and NHS Test and Trace.
+ More information can be found on the NHS COVID-19 app website.
+ Coverage The NHS COVID-19 app covers England and Wales only.
+ Similar contact-tracing apps are in place in Scotland and Northern Ireland.
+ See Protect Scotland and StopCOVID NI .
+ Data sources This data is collected by NHS Digital.
+ Due to the design of the app, all data collected is anonymous and it is only possible to report on aggregated data.
+ Timings The NHS COVID-19 app has been widely available to download since 24 September and prior to this, the app was available to download from 13 August for those involved with the pilot.
+ The data given in the Test and Trace report includes data from the pilot period as well as after the main launch.
+ Each week, the new cumulative total since the NHS Covid-19 app was launched is released.
+ Number of downloads The number of users who have downloaded the application for the first time.
+ This figure excludes app updates, re-downloads and downloads to other devices with the same user account.
+ For example, if a user downloads the app, deletes it and then downloads again, this is still only counted once.
+ Number of QR posters generated The total number of unique QR posters created through the GOV.UK coronavirus QR poster service . "
+ This includes testing capacity, number of tests sent out, and number of tests processed.
+ This data refers to all 4 testing pillars: \n pillar 1 testing: swab testing in PHE labs, NHS hospitals for those with a clinical need, and health and care workers \n pillar 2 testing: swab testing for the wider population, through commercial partnerships, carried out through 4 different routes as explained in Testing in England \n pillar 3 testing: serology testing to show if people have antibodies from having had coronavirus.
+ \n pillar 4 testing: blood and swab testing for national surveillance support by PHE , ONS and research, academic and scientific partners to learn more about the prevalence and spread of the virus and for other testing research purposes \n Swab testing refers to swab testing within pillars 1, 2 and partial pillar 4.
+ Antibody testing refers to testing of a blood sample (serology) within pillar 3 and partial pillar 4.
+ For more information on the different pillars, see the government’s national testing strategy .
+ Pillar 4 studies Testing in this pillar is designed to understand the spread of the virus and the reliability of different testing methods.
+ There are several studies being run currently, including: \n PHE P4 serological study: only included in tests processed and lab capacity This is a weekly serology testing of blood samples obtained from existing sources that will provide a baseline data source of the population presenting with antibodies.
+ You can read weekly reports published by PHE .
+ It includes both swab and antibody tests.
+ You can read data from weekly reports released by ONS on the ONS website.
+ REal-time Assessment of Community Transmission (REACT) REACT-1 The REACT programme is a series of studies that are seeking to improve understanding of how the COVID-19 pandemic is progressing across England.
+ To do this, the programme is carrying out 2 major pieces of work that are looking at the possibility of using home sampling and testing to track the infection.
+ The first, REACT1, will roll out antigen (swab) tests to 100,000 randomly selected people across England.
+ This will examine how widely the virus has spread and how many people are currently infected with the coronavirus.
+ This study was split into different rounds, which each looked at a different aspect of the infection and so different rounds will be counted under different measures: \n REACT-1, Round 1 includes swab testing and is counted under tests processed only \n REACT-1, Round 2 includes swab testing and is counted under lab capacity only \n REACT-1, Round 2b includes saliva (swab) testing and is counted under tests processed and lab capacity \n REACT-1, Round 3 includes swab testing and is counted under tests processed and lab capacity \n REACT-2: only included in tests processed and lab capacity The second, REACT2, will assess a number of different antibody tests to see how accurate they are and how easily people can use them at home.
+ Antibody tests are designed to tell individuals if they have had an immune response to the infection.
+ These tests will offer an indication of how far the virus has spread across the country and what proportion of the population have been infected and recovered.
+ All of these are counted under tests processed and lab capacity.
+ Vivaldi: only included in tests processed and lab capacity Vivaldi blood tests look at the antibody prevalence in care homes and, in contrast to the swab test for this study, are counted under tests processed and lab capacity for pillar 4.
+ Schools: only included in tests processed and lab capacity This is a small pilot focusing on serology and swab tests of children and staff that is collecting data from up to 100 schools from across England to better understand rates of transmission.
+ Care homes: not counted under pillar 4, counted under pillar 2 This is a major study focused on infection prevalence, transmission and mitigation factors across England where residents and carers undergo repeat blood and swab tests whilst care home managers take part in a telephone survey.
+ Vivaldi 1 was conducted in May and June 2020 and provides a summary of swab testing in all care homes for those over 65 years old in England and survey results of managers of those homes.
+ These swab tests were counted under pillar 2.
+ There are other studies that seek to investigate the spread of the virus in specific populations, including prisons and NHS blood and transplant, but these are not currently captured under pillar 4.
+ Coverage Testing data published by DHSC covers the whole of the UK.
+ Data is published by testing pillar.
+ Devolved administrations also publish testing data.
+ This may not align exactly with DHSC published data due to different time stamps or backdated revisions.
+ Testing data and methodology of devolved administrations are available for: \n Scotland \n Wales \n Northern Ireland \n Testing capacity statistics cover the whole of the UK and are published by pillar.
+ It is not possible to split capacity data by country or region as tests are not necessarily processed in the same place the sample is taken.
+ Data sources Several organisations feed data, from multiple sources, into the daily statistics on testing.
+ The different data streams are collated centrally by DHSC .
+ Pillar 1 data for England is provided by the NHS and PHE , and data from the devolved administrations are provided by the Department of Health of Northern Ireland, the Scottish Government, and Public Health Wales.
+ Public Health Wales provides combined pillar 1 and partial pillar 2 data where tests are processed in NHS Wales labs.
+ Pillar 2 data for the UK (excluding Wales tests processed in NHS labs in Wales) is collected by commercial partners.
+ Pillar 3 data is provided for England by NHS England and Improvement (NHSEI).
+ Pillar 4 data is collected by the NHS, PHE , and individual research study leads for the UK.
+ Testing capacity estimates are made locally by the labs themselves and fed into DHSC by pillar leads.
+ Timings A time series of testing data is published each week.
+ Different pillars started testing at different stages, and therefore a full time series of testing data is not available across all pillars and nations.
+ The testing time series include data from 21 March 2020 onwards.
+ The weekly testing data includes all tests sent out or processed over a period of 7 days.
+ A snapshot of this data is taken for publication at the end of the reporting period.
+ For pillar 1 testing statistics, reporting refers to activity between: \n midnight on the first day of reporting and 11:59pm on the last day for England \n 9am on the first day of reporting and 9am on the last day for Northern Ireland \n 8am on the first day of reporting and 8am on the last day for Scotland \n 1pm on the first day of reporting and 1pm on the last day for Wales \n For pillars 2, 3 and 4, testing statistics refer to activity from midnight on the first day of the reporting period and up to 11:59pm on the final day of reporting.
+ Time series The early parts of these series include some historical data revisions and series backdating as administrative systems were being developed at the time.
+ This means that individual figures will not necessarily align with what was published at the time in the daily tweet or on GOV.UK.
+ For tests processed and tests sent out, weekly totals reflect the sum of actual daily counts reported for the previous week.
+ Each week there may be corrections to previously reported figures, for example, where labs (or studies under pillar 4) returned the results late or duplicates were identified and removed.
+ These corrections are reflected in the cumulative figures.
+ This means that previously published weekly counts will not necessarily sum to the latest cumulative figure.
+ It also means that the latest cumulative count may not match the previous week’s cumulative count plus this week’s weekly count.
+ Testing capacity in the UK, pillars 1 to 4 Pillars Pillar 1 provides swab testing for NHS staff and patients and to help manage outbreaks including in care homes.
+ Pillar 1 capacity is made up of NHS and PHE labs across the 4 devolved administrations.
+ Each devolved administration is responsible for the utilisation of their testing capacity.
+ Pillar 2 provide swab testing for the wider population and is administered by commercial partners across UK.
+ Pillar 3 is administered by PHE and adopts projected current capacity to process serology tests to show if people have antibodies from having had COVID-19.
+ Pillar 4 provide swab testing for large-scale surveillance studies on the spread of COVID-19 administered by PHE and commercial partners.
+ Calculations Lab capacity in pillars 1, 2 and 3 is forecast based on several factors, including lab infrastructure, available equipment and trained resources.
+ Lab capacity for pillar 4 is forecast based on the amount of capacity which has been procured, based on the number of participants enrolled in a particular study.
+ Capacity compared to tests processed For pillars 1, 2 and 3 operational issues at labs can result in labs performing below capacity.
+ There is also volatility in demand across the week, with significantly higher test volumes during the week, and lower test volumes during the weekend.
+ Although samples are moved between labs to maximise throughput where there is a mismatch, this is limited by the life of the sample and distances between labs.
+ It can also be difficult to move capacity between labs due to operational differences (such as equipment or digital systems).
+ For pillar 4, lab capacity is procured based on the number of participants enrolled in a particular study, and therefore any spare capacity cannot be used by other pillars.
+ Although number of tests processed on a given day or week can be compared to the available lab capacity to better understand how the programme is operating, this comparison requires caution due to the different approaches adopted to forecast capacity in each pillar.
+ Number of tests sent out in the UK, pillar 2 and pillar 4 Tests can be administered in different ways: tests taken at a hospital, mobile testing unit, regional test site or local test site, or tests sent out to individuals at home or satellite locations.
+ Tests sent out are only available as part of pillar 2 (swab testing) and pillar 4 (swab and antibody testing).
+ This includes: \n ‘delivery’ testing routes under pillar 2, for example swab tests carried out at satellite testing centres (NHS trust locations and care homes) and home swab testing kits delivered by post \n ‘delivery’ testing routes under pillar 4, for example tests carried out as part of surveillance testing where they are administered by individuals, rather than health care professionals employed by the central programme \n Tests sent out will relate to those reported in the 7 days of the reporting period.
+ Tests are reported by reported day, so they would have been sent out the previous day.
+ Not all tests sent out will be returned.
+ It is not currently possible to compare the total number of tests sent out with the total number of tests processed in pillar 2 and pillar 4.
+ This is because tests sent out includes only tests sent to individuals at home or to satellite testing locations, while tests processed includes all tests that have remained within the control of the programme (and were counted at the time at which processed in labs) and those that have been sent out and subsequently returned to be processed in a lab.
+ Number of tests processed in the UK, pillars 1 to 4 The ‘people tested’ measure, used in the NHS Test and Trace data for England, was initially used to avoid counting one person tested several times in a short space of time.
+ However, it does not reflect the volume of tests carried out each week, especially given the importance of regularly testing workers in social care settings.
+ The ‘number of tests processed’ counts all tests that have remained within the control of the programme (and were counted at the time at which processed in labs) and those that have been sent out and subsequently returned to be processed in a lab.
+ These include tests which are negative and positive and may also include tests which were inconclusive (void).
+ It is currently estimated that less than 1% of tests are reported as inconclusive (void).
+ Reasons for void tests include: \n the testing within the laboratory was unable to give an exact answer as the test gave an equivocal result (it was not clearly negative or positive) \n there was an issue with the sample when it is delivered to the laboratory making it impossible to return a result, such as the tube was damaged or leaked, the test could not be scanned, the instructions were not followed or the swab was not put in the tube.
+ Due to the issue with the sample, some of these tests may not have been processed by the lab at all \n Tests are counted at the time at which they were processed.
+ This measure shows how many tests have been processed, including both swab testing (pillar 1, pillar 2 and partial pillar 4) and antibody testing (pillar 3 and partial pillar 4).
+ All tests processed are counted irrespective of testing channel.
+ These figures are taken from the labs’ processed data.
+ UK data is available for all pillars.
+ Number of tests processed in pillar 2 and pillar 4 is only available for the UK, not split by nation.
+ Since 8 August, all tests processed in pillar 3 have been reported as England.
+ For pillar 1, number of tests processed for Scotland are available from 1 April and for Northern Ireland from 21 April.
+ Additionally, Wales submit testing data for pillar 1 and some of pillar 2 tests processed in NHS Wales labs, which are reported under pillar 1.
+ Testing of samples of Welsh residents undertaken outside of NHS Wales labs is now being reported under pillar 2.
+ However, as mentioned above, some of the testing which in other countries would be regarded as pillar 2 testing is reported under pillar 1 testing for Wales when it relates to samples processed in NHS Wales labs.
+ For pillars 1 and 2, the number of tests processed in a laboratory is different to the number of test results reported as part of the Test and Trace testing turnaround times for England.
+ The most recently reported week should be treated with some caution, as this data may be revised in the time series on the next release.
+ The statistics will be updated as more data becomes available and reportable.
+ These are experimental statistics that are in the testing phase and not yet fully developed.
+ Notes on interpreting against other statistics Historic figures for testing in the UK are available in the DHSC daily time series data .
+ However, this data will no longer be updated after 20 August.
+ Statistics on deaths, tests and cases are published daily in the PHE dashboard .
+ Figures in the PHE dashboard will be consistent with those published in the NHS Test and Trace weekly bulletins .
+ However, figures may not always exactly align due to the timing of data cuts.
+ Limitations Given the importance of this service and the commitment of NHS Test and Trace to be open and transparent with the public it serves, these data are being released at the earliest possible opportunity.
+ However, new IT systems and statistical outputs often take some time to bed in.
+ This data should therefore be treated with caution while the system and our understanding of the data develops.
+ At this early stage, there is a risk of data entry errors or delay, which may require that data are revised and updated in subsequent publications.
+ The process of finding and removing duplicate records may also need refining, which could result in revisions to the data.
+ Revisions will be clearly signposted in statistical releases when they occur.
+ Related statistics This document provides methodology information about contact-tracing data.
+ Testing statistics are also published in other places, including the coronavirus (COVID-19) in the UK dashboard , which is updated daily, and in the slides and data sets from the daily press conferences .
+ Historic UK testing statistics are available on the daily statistics on coronavirus cases in the UK page .
+ However, this is longer updated after 20 August.
+ You can also view slides, datasets and transcripts from the press conferences at 10 Downing Street in response to coronavirus \n \n  \n  See more detail on pillar 2 testing .
+ ↩ \n  \n  \n  This process is based on matching information, such as the postcode of the outbreak.
+ However, there is still a risk of over or under counting using this method.
+ ↩ \n  \n  \n  Breakdown by nation for the number tests processed is available in the ‘Coronavirus (COVID-19) testing statistics (UK): data tables’ attachment that is published alongside the weekly statistics bulletin .

@@ -1,0 +1,111 @@
+This site needs JavaScript to work properly.
+ Please enable it to take advantage of the complete set of features!
+ Clipboard, Search History, and several other advanced features are temporarily unavailable.
+ Get the latest public health information from CDC: https://www.coronavirus.gov.
+ Get the latest research from NIH: https://www.nih.gov/coronavirus.
+ Find NCBI SARS-CoV-2 literature, sequence, and clinical content: https://www.ncbi.nlm.nih.gov/sars-cov-2/.
+ National Institutes of Health National Library of Medicine National Center for Biotechnology Information NCBI homepage   Log in    Show account info      Close Account   						Logged in as: username    Dashboard (My NCBI) Publications (My Bibliography) Account settings Log out         Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation                 Search:   Search       Advanced     Clipboard         User Guide                   Save     Email  Send to      Clipboard     My BibliographyCollectionsCitation manager    Display options      Display options         Format      Abstract PubMed PMID                Save citation to file          Format:     Summary (text) PubMed PMID Abstract (text) CSV        Create file        Cancel             Email citation          Subject:            To:           Format:     Summary Summary (text) Abstract Abstract (text)     MeSH and other data           Send email        Cancel              Add to Collections         Create a new collection    Add to an existing collection          Name your collection:            Name must be less than 100 characters           Choose a collection:          Unable to load your collection due to an error Please try again         Add        Cancel             Add to My Bibliography          My Bibliography        Unable to load your delegates due to an error Please try again       Add        Cancel             Your saved search          Name of saved search:           Search terms:       Test search terms       Would you like email updates of new search results?
+ Saved Search Alert Radio Buttons    Yes    No           Email:      (change)       Frequency:      Monthly Weekly Daily        Which day?
+ The first Sunday The first Monday The first Tuesday The first Wednesday The first Thursday The first Friday The first Saturday The first day The first weekday        Which day?
+ Sunday Monday Tuesday Wednesday Thursday Friday Saturday        Report format:      Summary Summary (text) Abstract Abstract (text) PubMed        Send at most:      1 item 5 items 10 items 20 items 50 items 100 items 200 items         Send even when there aren't any new results           Optional text in email:             Save        Cancel             Create a file for external citation management software           Create file        Cancel             Your RSS Feed          Name of RSS Feed:            Number of items displayed:      5 10 15 20 50 100         Create RSS        Cancel      RSS Link      Copy                    Full text links              Elsevier Science               Full-text links      ActionsCite     Favorites    Display options   Display options      Format    AbstractPubMedPMID    Share                   Permalink      Copy            Page navigation       Title &amp; authors       Abstract       Similar articles       Cited by       MeSH terms       Related information       LinkOut - more resources       Title &amp; authors Abstract Similar articles Cited by MeSH terms Related information LinkOut - more resources             Brain Res  Actions     Search in PubMed         Search in NLM Catalog         Add to Search    .
+ 2009 Dec 22;1304:129-37.     doi: 10.1016/j.brainres.2009.09.089.
+ Epub 2009 Sep 28.
+ Auditory cortex stimulation by low-frequency tones-an fMRI study           E Dommes      1    , H C Bauknecht, G Scholz, Y Rothemund, J Hensel, R Klingebiel           Affiliations          Expand           Affiliation      1 Department of Neuroradiology, Charité-Universitary Medicine Berlin, Charitéplatz 1, 10117 Berlin, Germany.
+ Esther.dommes@charite.de             PMID:     19796632          DOI:        10.1016/j.brainres.2009.09.089        Item in Clipboard                   Auditory cortex stimulation by low-frequency tones-an fMRI study          E Dommes et al.
+ Brain Res.
+ 2009.
+ Show details       Display options      Display options         Format      Abstract PubMed PMID             Brain Res  Actions     Search in PubMed         Search in NLM Catalog         Add to Search    .
+ 2009 Dec 22;1304:129-37.     doi: 10.1016/j.brainres.2009.09.089.
+ Epub 2009 Sep 28.
+ Authors      E Dommes      1    , H C Bauknecht, G Scholz, Y Rothemund, J Hensel, R Klingebiel        Affiliation      1 Department of Neuroradiology, Charité-Universitary Medicine Berlin, Charitéplatz 1, 10117 Berlin, Germany.
+ Esther.dommes@charite.de            PMID:     19796632          DOI:        10.1016/j.brainres.2009.09.089        Item in Clipboard         Full-text links   CiteDisplay options   Display options      Format    AbstractPubMedPMID     Abstract           Background and purpose:           Low-frequency tones (LFT) and infrasound (IS) are looked upon as potentially hazardous to human health.
+ We aimed at assessing LFT/IS-induced activation of the auditory cortex by using fMRI.
+ Materials and methods:           fMRI was used to investigate LFT/IS perception in 17 healthy volunteers.
+ Short tone bursts of 12, 36, 48 and 500 Hz were delivered directly into the right external ear canal through a 12-m long silicone tube and an ear plug.
+ Sound pressure levels (SPL) and spectral analysis of the stimuli and scanner noise were measured in situ by using a metal-free optical microphone and a fiber-optic cable.
+ Results:           SPL-dependent activation of the superior temporal gyrus, i.e.
+ Brodmann areas (BA) 41 and 42 as well as BA 22, was delineated subsequent to acoustic stimulation with 12-, 48- and 500-Hz stimuli.
+ Thresholds for LFT/IS-induced brain activation were between 110 and 90 dB SPL in normal hearing subjects.
+ Spectral analysis revealed the occurrence of harmonics together with LFT, of which 36-Hz harmonics interfered with IS exposure at 12 Hz as well as scanner noise.
+ Conclusion:           Our results provide evidence that auditory cortex activation may be induced by LFT/IS exposure, depending on sound pressure levels applied.
+ Clinical implications of our findings will have to be addressed by subsequent studies involving patients presumptively suffering from LFT-dependent disorders.
+ Similar articles             Auditory cortical responses evoked by pure tones in healthy and sensorineural hearing loss subjects: functional MRI and magnetoencephalography.
+ Zhang YT, Geng ZJ, Zhang Q, Li W, Zhang J. Zhang YT, et al.
+ Chin Med J (Engl).
+ 2006 Sep 20;119(18):1548-54.
+ Chin Med J (Engl).
+ 2006.
+ PMID: 16996009            [Detection of central auditory compensation in unilateral deafness with functional magnetic resonance tomography].
+ Tschopp K, Schillinger C, Schmid N, Rausch M, Bilecen D, Scheffler K. Tschopp K, et al.
+ Laryngorhinootologie.
+ 2000 Dec;79(12):753-7. doi: 10.1055/s-2000-9136.
+ Laryngorhinootologie.
+ 2000.
+ PMID: 11199459 German.
+ Activation patterns of the primary auditory cortex in normal-hearing subjects: a functional magnetic resonance imaging study.
+ Menéndez-Colino LM, Falcón C, Traserra J, Berenguer J, Pujol T, Doménech J, Bernal-Sprekelsen M. Menéndez-Colino LM, et al.
+ Acta Otolaryngol.
+ 2007 Dec;127(12):1283-91. doi: 10.1080/00016480701258705.
+ Acta Otolaryngol.
+ 2007.
+ PMID: 17851933            Functional MR of the primary auditory cortex: an analysis of pure tone activation and tone discrimination.
+ Strainer JC, Ulmer JL, Yetkin FZ, Haughton VM, Daniels DL, Millen SJ.
+ Strainer JC, et al.
+ AJNR Am J Neuroradiol.
+ 1997 Apr;18(4):601-10.
+ AJNR Am J Neuroradiol.
+ 1997.
+ PMID: 9127019            Segmental processing in the human auditory dorsal stream.
+ Zaehle T, Geiser E, Alter K, Jancke L, Meyer M. Zaehle T, et al.
+ Brain Res.
+ 2008 Jul 18;1220:179-90. doi: 10.1016/j.brainres.2007.11.013.
+ Epub 2007 Nov 17.
+ Brain Res.
+ 2008.
+ PMID: 18096139 Review.
+ Show more similar articles     See all similar articles         Cited by   7 articles           Review of Audiovestibular Symptoms Following Exposure to Acoustic and Electromagnetic Energy Outside Conventional Human Hearing.
+ Lubner RJ, Kondamuri NS, Knoll RM, Ward BK, Littlefield PD, Rodgers D, Abdullah KG, Remenschneider AK, Kozin ED.
+ Lubner RJ, et al.
+ Front Neurol.
+ 2020 Apr 28;11:234. doi: 10.3389/fneur.2020.00234.
+ eCollection 2020.
+ Front Neurol.
+ 2020.
+ PMID: 32411067 Free PMC article.
+ Review.
+ Activation in human auditory cortex in relation to the loudness and unpleasantness of low-frequency and infrasound stimuli.
+ Behler O, Uppenkamp S. Behler O, et al.
+ PLoS One.
+ 2020 Feb 21;15(2):e0229088.
+ doi: 10.1371/journal.pone.0229088.
+ eCollection 2020.
+ PLoS One.
+ 2020.
+ PMID: 32084171 Free PMC article.
+ A Review of the Possible Perceptual and Physiological Effects of Wind Turbine Noise.
+ Carlile S, Davy JL, Hillman D, Burgemeister K. Carlile S, et al.
+ Trends Hear.
+ 2018 Jan-Dec;22:2331216518789551. doi: 10.1177/2331216518789551.
+ Trends Hear.
+ 2018.
+ PMID: 30084316 Free PMC article.
+ Review.
+ Increased parietal circuit-breaker activity in delta frequency band and abnormal delta/theta band connectivity in salience network in hyperacusis subjects.
+ Han JJ, Jang JH, Ridder D, Vanneste S, Koo JW, Song JJ.
+ Han JJ, et al.
+ PLoS One.
+ 2018 Jan 25;13(1):e0191858.
+ doi: 10.1371/journal.pone.0191858.
+ eCollection 2018.
+ PLoS One.
+ 2018.
+ PMID: 29370266 Free PMC article.
+ Altered cortical and subcortical connectivity due to infrasound administered near the hearing threshold - Evidence from fMRI.
+ Weichenberger M, Bauer M, Kühler R, Hensel J, Forlim CG, Ihlenfeld A, Ittermann B, Gallinat J, Koch C, Kühn S. Weichenberger M, et al.
+ PLoS One.
+ 2017 Apr 12;12(4):e0174420.
+ doi: 10.1371/journal.pone.0174420.
+ eCollection 2017.
+ PLoS One.
+ 2017.
+ PMID: 28403175 Free PMC article.

@@ -1,0 +1,2164 @@
+2
+ 
+ 
+It is important to note that national and internat
+ional data can differ because international agencies 
+standardize national data to allow comparability across countries and in some cases may not have access 
+to the most recent national data.
+ 
+ 
+1
+-
+ 
+Country coverage and the methodology of the 2019 Human Developme
+nt Report
+ 
+ 
+The 2019 Human Development Report presents the 2018 HDI (values and ranks) for 189 countries and 
+UN
+-
+recognized territories, along with the IHDI for 150 countries, the GDI for 166 countries, the GII for 162 
+countries, and the MPI for 101 
+countries.
+ 
+ 
+It is 
+misleading
+ 
+to compare values and rankings with those of previously published reports, because of 
+revisions and updates of the underlying data and adjustments to goalposts. Readers are advised to assess 
+progress in HDI values by referring 
+
+Development Report. Table 2 is based on consistent indicators, methodology and time
+-
+series data and, 
+thus, shows 
+real changes
+ 
+in values and ranks over time, reflecting the actual progress coun
+tries have made. 
+Small changes in values should be interpreted with caution as they may not be statistically significant due 
+to sampling variation. Generally speaking, changes at the level of the third decimal place in any of the 
+composite indices are cons
+idered insignificant.
+ 
+ 
+Unless otherwise specified in the source, tables use data available to the Human Development Report 
+Office (HDRO) 
+as of 15 July 2019. All indices and indicators, along with technical notes on the calculation 
+of composite indices, and
+ 
+additional source information are available online at 
+http://hdr.undp.org/en/data
+ 
+ 
+For further details on how each index is calculated please refer to 
+Technical Notes 1
+-
+6
+ 
+and the associated 
+background papers available on the Human Development Report website: 
+http://hdr.undp.org/en/data
+ 
+ 
+2
+-
+ 
+Human Development Index (HDI)
+ 
+ 
+The HDI is a summary measure for assessing long
+-
+term progress in three basic dimensions of human 
+development: a long and healthy life, access to knowledge and a decent standard of living. A long and 
+healthy life is measured by life expectancy. Knowledge le
+vel is measured by mean years of schooling 
+among the adult population, which is the average number of years of schooling received in a life
+-
+time by 
+people aged 25 years and older; and access to learning and knowledge by expected years of schooling for 
+chil
+dren of school
+-
+entry age, which is the total number of years of schooling a child of school
+-
+entry age can 
+expect to receive if prevailing patterns of age
+-
+specific enrolment rates stay the same throughout the child's 
+life. Standard of living is measured by 
+Gross National Income (GNI) per capita expressed in constant 2011 
+international dollars converted using purchasing power parity (PPP) conversion rates. For more details see 
+Technical Note 1
+.
+ 
+ 
+To ensure as much cross
+-
+country comparability as possible, the HDI is based primarily on international 
+data from the United Nations Population Division (the life expectancy data), the United Nations Educational, 
+Scientific and Cultural 
+Organization Institute for Statistics (the mean years of schooling and expected years 
+of schooling data) and the World Bank (the GNI per capita data). As stated in the introduction, the HDI 
+
+ 
+in past reports because of some revisions 
+to the component indicators. To allow for assessment of progress in HDIs, the 2019 Human Development 
+Report includes recalculated HDIs from 1990 to 2018 using consistent series of data. 
+ 
+ 
+ 
+2.1
+-
+ 
+South Sudan
+
+alue and rank
+ 
+ 
+South Sudan
+
+value for 2018 is 
+0.413
+
+ 
+which put the country in the 
+low
+ 
+human development 
+category
+
+positioning it at 
+186
+ 
+out of 189 countries and territories.  
+ 
+ 
+ 3
+ 
+ 
+Betwe
+en 
+2010
+ 
+an
+d 2018, 
+South Sudan
+
+decreased
+ 
+from 
+0.425
+ 
+to 
+0.413
+, 
+a decrease
+ 
+of 
+2.8
+ 
+percent. Table A reviews 
+South Sudan
+
+Between 
+1990
+ 
+and 2018, 
+South Sudan
+
+increased
+ 
+by 
+14.1
+ 
+years, mean years of schooling 
+remained constant
+ 
+and expected years of s
+chooling 
+increased
+ 
+by 
+0.1
+ 
+years. 
+South Sudan
+
+decreased
+ 
+by 
+about 
+39.9
+ 
+percent between 
+2010
+ 
+and 2018.
+ 
+ 
+Table A: 
+South Sudan
+
+ 
+ 
+Life expectancy 
+at birth
+ 
+Expected years 
+of 
+schooling
+ 
+Mean years of 
+schooling
+ 
+GNI per capita 
+(2011 PPP$)
+ 
+HDI value
+ 
+1990
+ 
+43.5
+ 
+ 
+ 
+ 
+ 
+1995
+ 
+46.9
+ 
+ 
+ 
+ 
+ 
+2000
+ 
+49.2
+ 
+ 
+ 
+ 
+ 
+2005
+ 
+51.7
+ 
+ 
+ 
+ 
+ 
+2010
+ 
+54.8
+ 
+4.9
+ 
+4.8
+ 
+2,421
+ 
+0.425
+ 
+2015
+ 
+56.9
+ 
+5.0
+ 
+4.8
+ 
+2,096
+ 
+0.428
+ 
+2016
+ 
+57.1
+ 
+5.0
+ 
+4.8
+ 
+1,686
+ 
+0.418
+ 
+2017
+ 
+57.4
+ 
+5.0
+ 
+4.8
+ 
+1,518
+ 
+0.414
+ 
+2018
+ 
+57.6
+ 
+5.0
+ 
+4.8
+ 
+1,455
+ 
+0.413
+ 
+ 
+Figure 1 below shows the contribution of each component index to 
+South Sudan
+
+2010
+. 
+ 
+ 
+Figure 1: Trends in 
+South Sudan
+
+2010
+-
+2018
+ 
+ 
+ 
+ 
+ 
+ 
+2.2
+-
+ 
+Assessing progress relative to other 
+countries
+ 
+ 
+Human development progress, as measured by the HDI, is useful for comparison between two or more 
+countries. For instance, during the period between 
+2010
+ 
+and 2018 
+South Sudan
+, 
+Guinea
+-
+Bissau
+ 
+and 
+Eritrea
+ 
+experienced different degrees of progress to
+ward increasing their HDIs (see Figure 2).  
+ 
+ 
+ 
+ 4
+ 
+ 
+Figure 2: HDI trends for 
+South Sudan
+, 
+Guinea
+-
+Bissau
+ 
+and 
+Eritrea
+, 
+2010
+-
+2018
+ 
+ 
+ 
+ 
+South Sudan
+
+ 
+2018 HDI of 
+0.413
+ 
+is 
+below
+ 
+the average of 
+0.507
+ 
+for countries in the 
+low
+ 
+human development 
+group and 
+below
+ 
+the average of 
+0.541
+ 
+for countries in 
+Sub
+-
+Saharan Africa
+. From 
+Sub
+-
+Saharan Africa
+,
+ 
+countries which are close to 
+South Sudan
+ 
+in 2018 HDI rank and to some extent in population size are 
+Benin
+ 
+and 
+Lesotho
+, which have HDIs ran
+ked 
+163
+ 
+and 
+164
+ 
+respectively (see Table B). 
+ 
+ 
+Table B: 
+South Sudan
+
+groups
+ 
+ 
+HDI value
+ 
+HDI rank
+ 
+Life 
+expectancy 
+at birth
+ 
+Expected 
+years of 
+schooling
+ 
+Mean years 
+of schooling
+ 
+GNI per 
+capita 
+(2011 PPP 
+US$)
+ 
+South Sudan
+ 
+0.413
+ 
+186
+ 
+57.6
+ 
+5.0
+ 
+4.8
+ 
+1,455
+ 
+Benin
+ 
+0.520
+ 
+163
+ 
+61.5
+ 
+12.6
+ 
+3.8
+ 
+2,135
+ 
+Lesotho
+ 
+0.518
+ 
+164
+ 
+53.7
+ 
+10.7
+ 
+6.3
+ 
+3,244
+ 
+Sub
+-
+Saharan Africa
+ 
+0.541
+ 
+
+ 
+61.2
+ 
+10.0
+ 
+5.7
+ 
+3,443
+ 
+Low HDI
+ 
+0.507
+ 
+
+ 
+61.3
+ 
+9.3
+ 
+4.8
+ 
+2,581
+ 
+ 
+ 
+3
+-
+ 
+Inequality
+-
+adjusted HDI (IHDI)
+ 
+ 
+The HDI is an average measure of basic human development achievements in a country. Like all averages, 
+the HDI masks inequality in the distribution of human development across the population at the country 
+level. The 
+2010 HDR introduced the IHDI, which takes into account inequality in all three dimensions of the 
+HDI
+ 
+
+ 
+The IHDI is 
+basically the HDI discounted for inequalities.
+ 
+
+ 
+in human development due to inequality is given by 
+the difference between the HDI and the IHDI, and can be expressed as a percentage. As the inequality in 
+a country increases, the loss in human development also increases. We also present the coefficient o
+f 
+human inequality as a direct measure of inequality which is an unweighted average of inequalities in three 
+dimensions. The IHDI is calculated for 150 countries. 
+For more details see 
+Technical Note 2
+.
+ 
+ 
+ 5
+ 
+ 
+South Sudan
+
+0.413
+. However, when the value is discounted for inequality, the HDI falls to 
+0.264
+, a loss of 
+36.1
+ 
+percent due to inequality in the distribution of the HDI dimension indices. 
+Benin
+ 
+and 
+Lesotho
+ 
+show losses due to inequality of 
+37.1
+ 
+percent and 
+32.5
+ 
+percent respectively. The average loss due 
+to inequality for 
+low
+ 
+HDI countries is 
+31.1
+ 
+percent and for 
+Sub
+-
+Saharan Africa
+ 
+it is 
+30.5
+ 
+percent. The Human 
+inequality coefficient for 
+South Sudan
+ 
+is equal to 
+36.0
+ 
+percent (see Table C).
+ 
+ 
+Table C: 
+South Sudan
+
+ 
+ 
+IHDI 
+value
+ 
+Overall 
+loss (%)
+ 
+Human 
+inequality 
+coefficient (%)
+ 
+Inequality in life 
+expectancy at 
+birth (%)
+ 
+Inequality in 
+education (%)
+ 
+Inequality 
+in income 
+(%)
+ 
+South Sudan
+ 
+0.264
+ 
+36.1
+ 
+36.0
+ 
+36.2
+ 
+39.6
+ 
+32.3
+ 
+Benin
+ 
+0.327
+ 
+37.1
+ 
+36.9
+ 
+34.9
+ 
+43.7
+ 
+32.0
+ 
+Lesotho
+ 
+0.350
+ 
+32.5
+ 
+32.0
+ 
+33.1
+ 
+21.9
+ 
+41.1
+ 
+Sub
+-
+Saharan Africa
+ 
+0.376
+ 
+30.5
+ 
+30.4
+ 
+29.7
+ 
+34.0
+ 
+27.6
+ 
+Low HDI
+ 
+0.349
+ 
+31.1
+ 
+30.9
+ 
+30.4
+ 
+37.4
+ 
+25.0
+ 
+ 
+ 
+4
+-
+ 
+Gender Development Index (GDI)
+ 
+ 
+In the 2014 HDR, HDRO introduced a new measure, the GDI, based on the sex
+-
+disaggregated Human 
+Development Index, defined as a ratio of the female to the male HDI. The GDI measures gender inequalities 
+in achievement in three basic dimensions of human develo
+pment: health (measured by female and male 
+life expectancy at birth), education (measured by female and male expected years of schooling for children 
+and mean years for adults aged 25 years and older) and command over economic resources (measured 
+by female
+ 
+and male estimated GNI per capita). For details on how the index is constructed refer to 
+Technical 
+Note 3
+. Country groups are based on absolute deviation from gender parit
+y in HDI. This means that the 
+grouping takes into consideration inequality in favour of men or women equally.
+ 
+The GDI is calculated for 166 countries. The 2018 female HDI value for 
+South Sudan
+ 
+is 
+0.369
+ 
+in contrast 
+with 
+0.440
+ 
+for males, resulting in a GDI value of 
+0.839
+, placing it in
+to Group 
+5
+. In comparison, GDI values 
+for 
+Benin
+ 
+and 
+Lesotho
+ 
+are
+ 
+0.883
+ 
+and 
+1.026
+ 
+respectively
+ 
+(see Table D).
+ 
+Table D: 
+South Sudan
+
+ 
+ 
+ 
+5
+-
+ 
+Gender Inequality Index (GII)
+ 
+ 
+The 2010 HDR introduced the GII, which reflects gender
+-
+based inequalities in three dimensions 
+
+ 
+reproductive health, empowerment, and economic activity. Reproductive health is measured by maternal 
+mortality and adolescent birth rates; empowerment is measur
+ed by the share of parliamentary seats held 
+by women and attainment in secondary and higher education by each gender; and economic activity is 
+measured by the labour market participation rate for women and men. The GII can be interpreted as the 
+loss in hum
+an development due to inequality between female and male achievements in the three GII 
+dimensions. For more details on GII please see 
+Technical Note 4
+.
+ 
+Due to a lack of rel
+evant data, the GII 
+has not been calculated for this country.
+ 
+ 
+ 
+ 
+F
+-
+M 
+ratio
+ 
+HDI values
+ 
+Life expectancy at 
+birth
+ 
+Expected years 
+of schooling
+ 
+Mean years of 
+schooling
+ 
+GNI per capita
+ 
+GDI value
+ 
+Female
+ 
+Male
+ 
+Female
+ 
+Male
+ 
+Female
+ 
+Male
+ 
+Female
+ 
+Male
+ 
+Female
+ 
+Male
+ 
+South Sudan
+ 
+0.839
+ 
+0.369
+ 
+0.440
+ 
+59.1
+ 
+56.1
+ 
+3.5
+ 
+5.9
+ 
+4.0
+ 
+5.3
+ 
+1,277
+ 
+1,633
+ 
+Benin
+ 
+0.883
+ 
+0.486
+ 
+0.550
+ 
+63.0
+ 
+59.9
+ 
+11.4
+ 
+13.8
+ 
+3.0
+ 
+4.4
+ 
+1,863
+ 
+2,407
+ 
+Lesotho
+ 
+1.026
+ 
+0.522
+ 
+0.509
+ 
+57.0
+ 
+50.6
+ 
+11.1
+ 
+10.3
+ 
+7.0
+ 
+5.5
+ 
+2,641
+ 
+3,864
+ 
+Sub
+-
+Saharan 
+Africa
+ 
+0.891
+ 
+0.507
+ 
+0.569
+ 
+62.9
+ 
+59.4
+ 
+9.3
+ 
+10.4
+ 
+4.8
+ 
+6.6
+ 
+2,752
+ 
+4,133
+ 
+Low HDI
+ 
+0.858
+ 
+0.465
+ 
+0.542
+ 
+63.0
+ 
+59.7
+ 
+8.5
+ 
+9.9
+ 
+3.8
+ 
+5.8
+ 
+1,928
+ 
+3,232
+ 
+ 6
+ 
+ 
+6
+-
+ 
+Multidimensional Poverty Index (MPI)
+ 
+ 
+The 2010 HDR introduced the MPI, which 
+identifies multiple overlapping deprivations suffered by individuals 
+in 3 dimensions: health, education and standar
+d of living. The health and education dimensions are based 
+on two indicators each, while standard of living is based on six indicators. All the indicators needed to 
+construct the MPI for a country are taken from the same household survey. The indicators ar
+e weighted to 
+create a deprivation score, and the deprivation scores are computed for each individual in the survey. 
+A 
+deprivation score of 33.3 percent (one
+-
+third of the weighted indicators) is used to distinguish between the 
+poor and nonpoor. If 
+the deprivation 
+score is 33.3 percent or greater, the household (and everyone in it) is 
+classified as multidimensionally poor. Individuals with a deprivation score greater than or equal to 20 
+percent but less than 33.3 percent are classified as vulnerable 
+to multidimensional poverty.
+ 
+Finally, 
+individuals with a deprivation score greater than or equal to 50 percent live in severe multidimensional 
+poverty. The MPI is calculated for 101 developing countries in the 2019 HDR. Definitions of deprivations in 
+each 
+indicator, as well as methodology of the MPI are given in 
+Technical Note 5
+.
+ 
+ 
+The most recent survey data that were publicly available for 
+South Sudan
+
+ 
+MPI estimation refer
+ 
+to 
+2010
+. 
+In 
+South Sudan
+,
+ 
+91.9
+ 
+percent of the population (
+11,552
+ 
+thousand people) are multidimensionally poor while 
+an additional 
+6.3
+ 
+percent are classified as vulnerable to multidimensional poverty (
+797
+ 
+thousand people). 
+The breadth of deprivation (intens
+ity) in 
+South Sudan
+, which is the average deprivation score experienced 
+by people in multidimensional poverty, is 
+63.2
+ 
+percent. The MPI, which is the share of the population that is 
+multidimensionally poor, adjusted by the intensity of the deprivations, is 
+0.580
+. 
+Benin
+ 
+and 
+Lesotho
+ 
+have 
+MPIs of 
+0.368
+ 
+and 
+0.146
+ 
+respectively
+.
+ 
+ 
+Table F compares multidimensional poverty with i
+ncome poverty, measured by the percentage of the 
+population living below PPP US$1.90 per day. It shows that income poverty only tells part of the story.  The 
+multidimensional poverty headcount is 
+49.2
+ 
+percentage points 
+higher
+ 
+than income poverty. 
+This impl
+ies that 
+individuals living 
+above the income poverty line may still suffer deprivations in health, education and/or 
+satandard 
+of living.
+ 
+Table F also shows the percentage of 
+South Sudan
+
+multidimensional poverty. 
+The contri
+butions of deprivations in each dimension to overall poverty complete 
+a comprehensive picture of people living in multidimensional poverty in 
+South Sudan
+.
+ 
+Figures for 
+Benin
+ 
+and 
+Lesotho
+ 
+are also shown in the table for comparison.
+ 
+ 
+Table F: The most recent M
+PI for 
+South Sudan
+ 
+relative to selected countries
+ 
+ 
+Survey 
+year
+ 
+MPI 
+value
+ 
+Headc
+ount 
+(%)
+ 
+Intensity of 
+deprivations 
+(%)
+ 
+Population share (%)
+ 
+Contribution to overall poverty of 
+deprivations in (%)
+ 
+Vulnera
+ble to 
+multidim
+ensional 
+poverty
+ 
+In 
+severe 
+multidim
+ensional 
+poverty
+ 
+Below 
+income 
+poverty 
+line
+ 
+Health
+ 
+Education
+ 
+Standard 
+of living
+ 
+South Sudan
+ 
+2010
+ 
+0.580
+ 
+91.9
+ 
+63.2
+ 
+6.3
+ 
+74.3
+ 
+42.7
+ 
+14.0
+ 
+39.6
+ 
+46.5
+ 
+Benin
+ 
+2017/2018
+ 
+0.368
+ 
+66.8
+ 
+55.0
+ 
+14.7
+ 
+40.9
+ 
+49.5
+ 
+20.8
+ 
+36.3
+ 
+42.9
+ 
+Lesotho
+ 
+2014
+ 
+0.146
+ 
+33.6
+ 
+43.4
+ 
+24.4
+ 
+8.5
+ 
+59.7
+ 
+20.6
+ 
+21.5
+ 
+57.9
+ 
+ 
+ 
+7
+-
+ 
+Dashboards 1
+-
+5
+ 
+ 
+Countries are grouped partially by their performance in each indicator into three groups of approximately 
+equal size (terciles), thus, there is the top third, the middle third and the bottom third. The 
+intention is not to 
+
+performance relative to others. Three
+-
+colour coding visualizes a partial grouping of countries by indicator. 
+It can be seen as a s
+
+performance. A country that is in the top group performs better than at least two thirds of countries (i.e., it 
+is among the top third performers); a country that is in the
+ 
+middle group performs better than at least one 
+third but worse than at least one third (i.e., it is among the medium third performers); and a country that is 
+ 7
+ 
+ 
+in the bottom third performs worse than at least two thirds of countries 
+(i.e., it is among the b
+ottom third 
+performers).
+ 
+More details about partial grouping in this table are given in 
+Technical Note 6
+.
+ 
+ 
+7.1
+-
+ 
+Dashboard 1: Quality of human development
+ 
+This dashboard contains a selection of 14 indicators associated with the quality of health, education and 
+standard of living. The indicators on quality of health are lost health expectancy, number of physicians, and 
+number of hospital beds. The indicators 
+on quality of education are pupil
+-
+teacher ratio in primary schools, 
+primary school teachers trained to teach, percentage of primary (secondary) schools with access to the 
+internet, and the Programme for International Student Assessment (PISA) scores in mat
+hematics, reading 
+and science. The indicators on quality of standard of living are the proportion of employed people engaged 
+in vulnerable employment, the proportion of rural population with access to electricity, the proportion of 
+population using improve
+d drinking water sources, and proportion of population using improved sanitation 
+facilities. 
+ 
+A country that is in the top third group on all indicators can be considered a country with the highest quality 
+of human development. The dashboard shows that not
+ 
+all countries in the very high human development 
+group have the highest quality of human development and that many countries in the low human 
+development group are in the bottom third of all quality indicators in the table.
+ 
+Table G provides the number of 
+indicators in which 
+South Sudan
+ 
+performs: better than at least two thirds 
+of countries (i.e., it is among the top third performers); better than at least one third but worse than at least 
+one third (i.e., it is among the medium third performers); and worse
+ 
+than at least two thirds of countries (i.e., 
+it is among the bottom third performers). Figures for 
+Benin
+ 
+and 
+Lesotho
+ 
+are also shown in the table for 
+comparison.
+ 
+ 
+Table G: Summary of 
+South Sudan
+
+relative to selected countries
+ 
+ 
+Quality of health
+ 
+(3 indicators)
+ 
+Quality of education
+ 
+(7 indicators)
+ 
+Quality of standard of 
+living
+ 
+(4 indicators)
+ 
+Overall
+ 
+(14 indicators)
+ 
+Missing 
+indicators
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+ 
+Number of indicators
+ 
+ 
+South 
+Sudan
+ 
+0
+ 
+0
+ 
+1
+ 
+0
+ 
+0
+ 
+2
+ 
+0
+ 
+0
+ 
+4
+ 
+0
+ 
+0
+ 
+7
+ 
+7
+ 
+Benin
+ 
+0
+ 
+1
+ 
+2
+ 
+0
+ 
+0
+ 
+2
+ 
+0
+ 
+0
+ 
+4
+ 
+0
+ 
+1
+ 
+8
+ 
+5
+ 
+Lesotho
+ 
+0
+ 
+1
+ 
+1
+ 
+0
+ 
+1
+ 
+1
+ 
+0
+ 
+0
+ 
+4
+ 
+0
+ 
+2
+ 
+6
+ 
+6
+ 
+ 
+7.2
+-
+ 
+Dashboard 2: 
+Life
+-
+course gender gap
+ 
+This dashboard contains a selection of 12 key indicators that display gender gaps in choices and 
+opportunities over the life course 
+
+ 
+childhood and youth, adulthood and older age. The indicators refer to 
+education, labour market and 
+work, political representation, time use, and social protection. Three indicators 
+are presented only for women and the rest are given in the form of female
+-
+to
+-
+male ratio. Countries are 
+grouped partially by their performance in each indicator into three gro
+ups of approximately equal size 
+(terciles). Sex ratio at birth is an exception 
+-
+ 
+countries are grouped into two groups: the natural group 
+(countries with a value of 1.04
+-
+1.07, inclusive) and the gender
+-
+biased group (countries with all other values). 
+Deviat
+ions from the natural sex ratio at birth have implications for population replacement levels, suggest 
+possible future social and economic problems and may indicate gender bias.
+ 
+ 8
+ 
+ 
+Table H provides the number of indicators in which 
+South Sudan
+ 
+performs: better than at least two thirds 
+of countries (i.e., it is among the top third performers), better than at least one third but worse than at least 
+one third (i.e., it is among the medium third performers), and worse than at least two thirds of co
+untries (i.e., 
+it is among the bottom third performers). Figures for 
+Benin
+ 
+and 
+Lesotho
+ 
+are also shown in the table for 
+comparison.
+ 
+ 
+Table H: Summary of 
+South Sudan
+
+-
+course gender gap dashboard relative 
+to selected countries
+ 
+ 
+Childh
+ood and youth 
+ 
+(5 indicators)
+ 
+Adulthood 
+ 
+(6 indicators)
+ 
+Older age 
+ 
+(1 indicator)
+ 
+Overall
+ 
+(12 indicators)
+ 
+Missing 
+indicators
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+ 
+Number of indicators
+ 
+ 
+South 
+Sudan
+ 
+1
+ 
+1
+ 
+3
+ 
+1
+ 
+1
+ 
+1
+ 
+0
+ 
+0
+ 
+0
+ 
+2
+ 
+2
+ 
+4
+ 
+4
+ 
+Benin
+ 
+1
+ 
+1
+ 
+3
+ 
+1
+ 
+1
+ 
+2
+ 
+0
+ 
+0
+ 
+0
+ 
+2
+ 
+2
+ 
+5
+ 
+3
+ 
+Lesotho
+ 
+0
+ 
+1
+ 
+4
+ 
+1
+ 
+1
+ 
+2
+ 
+0
+ 
+0
+ 
+0
+ 
+1
+ 
+2
+ 
+6
+ 
+3
+ 
+ 
+7.3
+-
+ 
+
+ 
+This dashboard contains a selection of 13 
+woman
+-
+specific empowerment indicators that allows 
+empowerment to be compared across three dimensions 
+
+ 
+reproductive health and family planning, violence 
+against girls and women, and socioeconomic empowerment. Three
+-
+color coding visualizes a partial 
+groupin
+g of countries by indicator. Most countries have at least one indicator in each tercile, which implies 
+
+ 
+Table I provides the number of indicators in which 
+South Sudan
+ 
+performs: better than at least two thirds of 
+countries (i.e., it is among the top third performers), better than at least one third but worse than at least 
+one third (i.e., it is among the medium third performers), and worse than at least two thirds of co
+untries (i.e., 
+it is among the bottom third performers). Figures for 
+Benin
+ 
+and 
+Lesotho
+ 
+are also shown in the table for 
+comparison.
+ 
+ 
+Table I: Summary of 
+South Sudan
+
+to selected countries
+ 
+ 
+Reproduct
+ive health and 
+family planning
+ 
+(4 indicators)
+ 
+Violence against girls and 
+women 
+ 
+(4 indicators)
+ 
+Socioeconomic 
+empowerment 
+ 
+(5 indicators)
+ 
+Overall
+ 
+(13 indicators)
+ 
+Missing 
+indicators
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bo
+t
+tom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+ 
+Number of indicators
+ 
+ 
+South 
+Sudan
+ 
+0
+ 
+0
+ 
+3
+ 
+0
+ 
+0
+ 
+1
+ 
+0
+ 
+0
+ 
+2
+ 
+0
+ 
+0
+ 
+6
+ 
+7
+ 
+Benin
+ 
+0
+ 
+0
+ 
+4
+ 
+1
+ 
+2
+ 
+0
+ 
+2
+ 
+1
+ 
+1
+ 
+3
+ 
+3
+ 
+5
+ 
+2
+ 
+Lesotho
+ 
+1
+ 
+2
+ 
+1
+ 
+0
+ 
+1
+ 
+0
+ 
+0
+ 
+1
+ 
+3
+ 
+1
+ 
+4
+ 
+4
+ 
+4
+ 
+ 
+ 
+ 
+ 9
+ 
+ 
+7.4
+-
+ 
+Dashboard 4: Environmental sustainability 
+ 
+This dashboard contains a selection of 11 indicators that cover environmental sustainability and 
+environmental threats. The environmental sustainability indicators present levels of or changes in energy 
+consumption, carbon
+-
+dioxide emissions, change in fore
+st area, fresh water withdrawals, and natural 
+resource depletion. The environmental threats indicators are mortality rates attributed to household and 
+ambient air pollution, and to unsafe water, sanitation and hygiene services, percentage of land that is 
+d
+egraded, and the International Union for Conservation of Nature Red List Index value, which measures 
+change in aggregate extinction risk across groups of species. The percentage of total land area under forest 
+is not coloured because it is meant to provide
+ 
+context for the indicator on change in forest area.
+ 
+Table J provides the number of indicators in which 
+South Sudan
+ 
+performs: better than at least two thirds of 
+countries (i.e., it is among the top third performers), better than at least one third but wors
+e than at least 
+one third (i.e., it is among the medium third performers), and worse than at least two thirds of countries (i.e., 
+it is among the bottom third performers). Figures for 
+Benin
+ 
+and 
+Lesotho
+ 
+are also shown in the table for 
+comparison.
+ 
+ 
+Table J: 
+Summary of 
+South Sudan
+
+relative to selected countries
+ 
+ 
+Environmental 
+sustainability 
+ 
+(7 indicators)
+ 
+Environmental threats
+ 
+(4 indicators)
+ 
+Overall
+ 
+(11 indicators)
+ 
+Missing 
+indicators
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+ 
+Number of indicators
+ 
+South 
+Sudan
+ 
+3
+ 
+2
+ 
+1
+ 
+1
+ 
+0
+ 
+2
+ 
+4
+ 
+2
+ 
+3
+ 
+2
+ 
+Benin
+ 
+3
+ 
+1
+ 
+2
+ 
+0
+ 
+1
+ 
+3
+ 
+3
+ 
+2
+ 
+5
+ 
+1
+ 
+Lesotho
+ 
+2
+ 
+0
+ 
+1
+ 
+1
+ 
+0
+ 
+3
+ 
+3
+ 
+0
+ 
+4
+ 
+4
+ 
+ 
+7.5
+-
+ 
+Dashboard 5: 
+Socioeconomic sustainability
+ 
+This dashboard contains a selection of 11 indicators that cover economic and social sustainability. The 
+economic sustainability indicators are adjusted net savings, total debt service, gross capital formation, 
+skilled labour fo
+rce, diversity of exports, and expenditure on research and development. The social 
+sustainability indicators are old age dependency ratio projected to 2030, the ratio of the sum of education 
+and health expenditure to military expenditure, changes in inequa
+lity of HDI distribution, and changes in 
+gender and income inequality. Military expenditure is not coloured because it is meant to provide context 
+for the indicator on education and health expenditure and it is not directly considered as an indicator of 
+so
+cioeconomic sustainability.
+ 
+ 
+Table K provides the number of indicators in which 
+South Sudan
+ 
+performs: better than at least two thirds 
+of countries (i.e., it is among the top third performers), better than at least one third but worse than at least 
+one third (i.e., it is among the medium third performers), and worse than at least two thirds of co
+untries (i.e., 
+it is among the bottom third performers). Figures for 
+Benin
+ 
+and 
+Lesotho
+ 
+are also shown in the table for 
+comparison.
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+Table K: Summary of 
+South Sudan
+
+relative to selected 
+countries
+ 
+ 
+Economic sustainability 
+ 
+(6 indicators)
+ 
+Social sustainability
+ 
+(5 indicators)
+ 
+Overall (11 indicators)
+ 
+Missing 
+indicators
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+Top 
+third
+ 
+Middle 
+third
+ 
+Bottom  
+third
+ 
+ 
+Number of indicators
+ 
+South 
+Sudan
+ 
+0
+ 
+0
+ 
+1
+ 
+1
+ 
+0
+ 
+0
+ 
+1
+ 
+0
+ 
+1
+ 
+9
+ 
+Benin
+ 
+1
+ 
+2
+ 
+2
+ 
+1
+ 
+1
+ 
+3
+ 
+2
+ 
+3
+ 
+5
+ 
+1
+ 
+Lesotho
+ 
+2
+ 
+2
+ 
+1
+ 
+2
+ 
+0
+ 
+3
+ 
+4
+ 
+2
+ 
+4
+ 
+1
+ 
+ 

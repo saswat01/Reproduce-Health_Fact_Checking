@@ -1,0 +1,2334 @@
+ 10  OVERDOSAGE 
+ 13  NONCLINICAL 
+ TOXICOLOGY 
+ 11  DESCRIPTION 
+ 13.1 
+ Carcinogenesis, Mutagenesis, Impairment 
+ of 
+ Fertility 
+ 12  CLINICAL 
+ PHARMACOLOGY 
+ 14  CLINICAL 
+ STUDIES 
+ 12.1 
+ Mechanism of 
+ Action 
+ 16  HOW 
+ SUPPLIED/STORAGE 
+ AND 
+ HANDLING 
+ 12.2 
+ Pharmacodynamics 
+ 17  PATIENT 
+ COUNSELING INFORMATION 
+ 12.3 
+ Pharmacokinetics 
+  12.5 
+ Pharmacogenomics 
+  
+*Sections or 
+ subsections 
+ omitted 
+ from 
+ the 
+ full 
+ prescribing 
+ information 
+ are 
+ not 
+ listed 
+   2 Reference ID: 3954181                                                                                                                             FULL PRESCRIBING INFORMATION 
+1 INDICATIONS AND US
+AGE 
+SYNDROS 
+is indicated 
+in adults for the treatment of: 
+anorexia associated with weight loss in patients with 
+Acquired Immune Deficiency Syndrome 
+(AIDS
+); and nausea and vomiting associated with cancer chemotherapy in patients who have failed to respond 
+adequately to 
+conventional antiemetic treatments. 
+2 DOSAGE AND ADMINIS
+TRATION 
+2.1 Important Administration Instructions 
+Always use the enclosed calibrated oral dosing 
+syringe 
+when administering 
+SYNDROS 
+to ensure the 
+dose is measured and administered accurately. 
+The ca
+librated oral syringe measures a maximum SYNDROS dose of 5 mg. If the prescribed dose is 
+greater than 5 mg, the total dose will need to be divided and drawn up in two or more portions using 
+the oral syringe. 
+Take 
+each dose of 
+SYNDROS with a full glass of 
+water (6 
+to 8 ounces). 
+For information on dosing SYNDROS with regard to meals, 
+see 
+Dosage and Administration 2.2 and 
+2.3. 2.2 Anorexia Associated with Weight Loss in 
+Adult P
+atients with AIDS 
+Adults Starting Dosage 
+The recommended 
+adult 
+starting 
+dosage of 
+SYNDROS 
+is 2.1 mg orally twice daily, 
+one hour before 
+lunch and 
+one hour before 
+dinner. 
+In elderly patients, consider initiating 
+SYNDROS 
+at 2.1 mg once daily one hour before 
+dinner or at bedtime to 
+reduce the risk of 
+central nervous system (
+CNS
+) symptoms 
+[see 
+Use in Specific Populations (
+8.5)]. 
+Dosing later in the day may 
+reduce the frequency 
+of Central Nervous System (CNS) adverse reactions
+. CNS 
+adverse reactions are 
+dose
+-related 
+[see 
+Warnings and Precautions (
+5.1)]; therefore monitor patients and reduce 
+the dosage as needed. 
+If CNS 
+adverse reactions 
+of feeling high, dizziness, confusion, 
+and 
+somnolence occur, 
+they usually resolve in 1 to 3 days and usually do not require dosage reduction. 
+If CNS 
+adverse reactions 
+are 
+severe or persistent, reduce the dose to 
+2.1 mg 
+once daily 
+one hour 
+before 
+dinn
+er or in the evening 
+at bedtime
+. Dosage Titration 
+If tolerated and 
+further therapeutic effect is desired, 
+the dosage may be increased gradually 
+to 2.1 mg one hour 
+before 
+lunch and 
+4.2 mg one hour 
+before 
+dinner. 
+Increase the dose of SYNDROS gradually in 
+order to reduce the frequency of dose
+-related adverse reactions 
+[see 
+Warnings and Precautions (
+5.1)]. Most patients respond to 
+2.1 mg twice daily, but t
+he dose may be 
+further increased to 
+4.2 mg one hour 
+before lunch and 
+4.2 mg 
+one hour 
+before 
+dinner, 
+as tolerated to achieve a therapeutic effect. 
+Maximum Dosage: 
+8.4 mg twice daily
+. 3Reference ID: 3954181                                                  
+                                                          2.3 Nausea and Vomiting Associated with 
+Cancer 
+Chemotherapy in 
+Adult P
+atients Who 
+Failed 
+Conventional Antiemetics 
+Adults Starting Dosage 
+The recommended starting dosage of 
+SYNDROS 
+is 4.2 mg/m
+2 orally administered 
+1 to 3 hours prior to 
+chemotherapy 
+and 
+then every 2 to 4 hours after chemotherapy for a total of 4 to 6 doses 
+per 
+day. 
+Calcu
+late the starting dose by following the steps below: 
+oStarting dose (mg) = Patient 
+body surface area (
+BSA
+) in m 2 multiplied by 
+4.2 mg/m
+2 oRound dose to the nearest 0.1 mg increment 
+oTo correspond with the calibrated oral dosing syringe, the dose may need to 
+be rounded to the 
+nearest 0.1 mL increment 
+In elderly patients, consider initiating 
+SYNDROS 
+at 2.1 mg/m2 once daily 1 to 3 hours prior to chemotherapy to 
+reduce the risk of CNS symptoms 
+[see 
+Use in Specific Populations (
+8.5)]. 
+Because food delays the absor
+ption of SYNDROS
+, administer the first dose on an empty stomach at least 30 
+minutes before eating. 
+Subsequent doses can be taken without regard to meals. 
+Because food can substantially change the systemic exposure to dronabinol and its active metabolite, 
+the timing 
+of dosing in relation to meal times should be kept consistent for each chemotherapy cycle, once the dosage has 
+been determined from the titration process. 
+Dosage Titration 
+The dosage can be 
+titrated to clinical response during a chemotherapy 
+cycle or subsequent cycles, based 
+upon initial effect
+, as tolerated to achieve a clinical effect, in increments of 
+2.1 mg/m
+2 . Maximum 
+Dosage: 
+12.6 mg/m
+2 per dose 
+for 4 to 6 doses per day
+. Adverse reactions are dose
+-related and psychiatric symptoms inc
+rease significantly at the maximum 
+dosage [see Warnings and Precautions (
+5.1)]. Monitor patients 
+for adverse reactions 
+and consider decreasing the dose to 
+2.1 mg once daily 
+1 to 3 hours prior 
+to chemotherapy to 
+reduce the risk of CNS adverse reactions
+. 3 DOSAGE FORMS AND ST
+RENGTHS 
+Oral 
+Solution: 
+5 mg/mL, a clear, pale yellow to brown solution
+. 4 CONTRAINDICATIONS 
+SYNDROS 
+is contraindicated in 
+patients
+: with a history of a 
+hyper
+sensitivity 
+reaction 
+to dronabinol
+. Reported hypersensitivity reactions to 
+dronabinol include lip swelling, hives, disseminated rash, oral lesions, skin burning, flushing, throat 
+tightness 
+[see Adverse Reactions (
+6.2)]. 
+with a history of a hypersensitivity reaction to 
+alcoh
+ol. who are rece
+iving
+, or have recently received
+, disulfiram
+-or metronidazole
+-containing products 
+within 
+14 days 
+[see Warning and Precautions (
+5.3)]. 
+SYNDROS contains 50% (w/w) dehydrated alcohol and 
+5.5% (w/w) propylene glycol. 
+4Reference ID: 3954181                                
+                                        5 WARNINGS AND PRECA
+UTIONS 
+5.1 Neurological Adverse Reactions 
+Psychiatric Adverse Reactions 
+Dronabinol has been reported to exacerbate mania, depression, or schizophrenia. Prior to initiating treatment 
+with SYNDROS, screen patients for a history of these illnesses.  Avoid use in patien
+ts with a psychiatric history 
+or, if the drug cannot be avoided, monitor patients for new or worsening psychiatric symptoms during 
+treatment. 
+Also, avoid concomitant use with other drugs that are associated with similar psychiatric effects. 
+Cognitive Adve
+rse Reactions 
+Use of SYNDROS has been associated with cognitive impairment and altered mental state.  Reduce the dose of 
+SYNDROS or discontinue use of SYNDROS if signs or symptoms of 
+cognitive impairment develop. 
+Elderly 
+and pediatric patients may be more 
+sensitive to the neurological and psychoactive effects of SYNDROS 
+[see Use in Specific Populations (
+8.4, 8.5)]. Hazardous Activities 
+SYNDROS can cause and may impair the mental and/or physical abilities required for the performance of 
+hazardous tasks such as driving a motor vehicle or operating machinery. Concomitant use of 
+other drugs that 
+cause dizziness, confus
+ion, sedation
+, or somnolence such as CNS depressants may increase this effect (e.g., 
+barbiturates, benzodiazepines, lithium, opioids, buspirone, antihistamines, 
+and muscle 
+relaxants). 
+Inform 
+patients not to operate motor vehicles or other dangerous machinery until they are reas
+onably certain that 
+SYNDROS does not affect them adversely. 
+5.2 Hemodynamic Instability 
+Patients may experience occasional hypotension, possible hypertension, syncope, or tachycardia wh
+ile taking SYNDROS 
+[see Clinical Pharmacology 
+(12.2)]. Patients with cardiac disorders may be at higher risk. 
+Avoid concomitant use of other drugs that are also associated with similar cardiac effects (e.g., amphetamines, other 
+sympathomimetic agents, 
+atropine, amoxapine, 
+antihistamines, 
+other anticholinergic 
+agents, 
+amitriptyline, 
+desipramine, other 
+tricyclic antidepressant
+s). Monitor patients for changes in blood pressure, heart rate, and 
+syncope after initiating or 
+increasin
+g the dosage of SYNDROS. 
+5.3 Interaction with Disulfiram and Metronidazole 
+SYNDROS 
+contains 50% (w/w) dehydrated alcohol and 5
+.5% (w/w) propylene glycol. 
+Use of SYNDROS may 
+cause a disulfiram
+-like reaction, characterized by abdominal cramps, nausea, vomiting, headaches, and flushing, 
+in patients receiving disulfiram or other drugs that 
+produce this reaction (e.g., metronidazole). 
+Discontinue 
+products containing disulfiram or metronidazole at least 14 days before starting treatment with SYNDROS 
+and 
+do not administer 
+these products 
+within 7 days of completing treatment with SYNDROS 
+[see C
+ontraindications 
+(4), Drug Interactions (
+7.3
+)]. When administered concomitantly with propylene glycol, ethanol competitively inhibits the metabolism of 
+propylene glycol, which may lead to elevated concentrations of propylene glycol.  However, 
+the contribution of 
+propylene glycol, if any, to the interaction between disulfiram and SYNDROS is unknown. 
+5.4 Seizures 
+Seizures and seizure
+-like activity have been reported in patients receiving dronabinol. 
+Weigh this potential risk against the benefits bef
+ore prescribing SYNDROS to patients with a history of 
+seizures, including those receiving anti
+-epileptic medication or with other factors that can lower the seizure 
+5Reference ID: 3954181                                                                        
+  threshold.  Monitor patients with a history of seizure disorders for worsened seizure contr
+ol during SYNDROS 
+therapy. 
+If 
+a seizure 
+occur
+s, a
+dvise patients to discontinue SYNDROS and contact a healthcare provider immediately. 
+5.5 Multiple 
+Substance Abuse 
+Patients with a history of substance abus
+e or dependence, 
+including 
+marijuana or 
+alcohol
+, may be more 
+likely 
+to abuse SYNDROS as well.  SYNDROS contains 50% (w/w) dehydrated alcohol.  
+
+history of substance abuse during treatment with SYNDROS 
+for the development of these behaviors or 
+conditions. 
+5.6 Paradoxical Nausea, Vomiting, or Abdominal Pain 
+New or worsening nausea, vomiting, or abdominal pain can occur during treatment with synthetic delta
+-9 tetrahydrocannabinol (delta
+-9-THC), the active ingredient in SYNDROS.  In some cases, these adverse 
+reactions 
+were severe (e.g., dehydration, electrolyte abnormalities) and required 
+dose reduction or drug 
+discontinuation.  Symptoms are similar to cannabinoid hyperemesis syndrome (CHS), 
+which is described as 
+cyclical events of abdominal pain, nausea, and vomiting in chronic, long
+-term users of delta
+-9-THC products. 
+Because patients may not recognize these symptoms as abnormal
+, it is important to specifically ask patients or 
+their caregiv
+ers about the development of worsening of nausea, vomiting, or abdominal pain while 
+being treated 
+with SYNDROS
+. Consider dose reduction or discontinuing SYNDROS if a patient develops worsening nausea, 
+vomiting, or abdominal pain while 
+on treatment
+. 5.7 Toxicity in Preterm Neonates 
+SYNDROS contains the excip
+ients dehydrated alcohol (50%, w/w) and propylene glycol (5
+.5%, w/w).  When 
+administered concomitantly with propylene glycol, ethanol competitively inhibits the metabolism of propylene 
+glycol, which may 
+lead to elevated concentrations 
+of propylene glycol
+. Preterm neonates may be at increased 
+risk of propylene glycol
+-associated adverse 
+reactions 
+due to 
+a diminished ability to metabolize propylene 
+glycol, thereby, leading to accumulation 
+The safety and ef
+fectiveness of SYNDROS have not been established in pediatric patients.  
+Avoid SYNDROS 
+in preterm neonates in the immediate postnatal period because of possible 
+propylene glycol
+-associated 
+toxicities 
+including:  hyperosmolarity, with or without lactic acid
+osis, renal toxicity, CNS depression (including stupor, 
+coma, and apnea), seizures, hypotonia, cardiac arrhythmias, and electrocardiogram (EEG) changes, and 
+hemolysis. 
+6 ADVERSE REACTIONS 
+6.1 Clinical Trials Experience 
+Because clinical trials are conducte
+d under widely varying conditions, adverse reaction rates observed in the 
+clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not 
+reflect the rates observed in practice.  
+The following serious adve
+rse reactions are described below and elsewhere in the labeling. 
+ Neurological Adverse Reactions 
+[see Warnings and Precautions (
+5.1)]
+ Hemodynamic Instability 
+[see Warnings and Precautions (
+5.2)]6Reference ID: 3954181                                                        
+                      Seizures 
+[see Warnings and Precautions (
+5.4)] 
+ Paradoxical Nausea, Vomiting, and Abdominal Pain 
+[see Warnings and Precautions (
+5.6)]  Toxicity in Preterm N
+eonates 
+[see Warnings and Precautions (
+5.7)] The safety of 
+SYNDROS 
+has been established based on s
+tudies of dronabinol capsules. 
+Studies of AIDS
+-rel
+ated weight loss included 157 patients receiving dronabinol 
+capsules and 67 receiving placebo. 
+Studies of 
+nausea and vomiting related to cancer chemotherapy included 317 patients receiving dronabinol capsules and 68 
+receiving placebo. 
+In the tables below is a 
+summar
+y of the adverse reactions in 474 patients exposed to 
+dronabinol capsules in studies
+. Studies of different durations were combined by considering the first occurrence of 
+adverse reactions 
+during the 
+first 28 days. 
+A cannabin
+oid dose
+-
+patients receiving dronabinol capsules in both the antiemetic (24%) and the lower dose appetite stimulant 
+clinical trials (8%). 
+The most frequently reported adv
+erse experiences in patients with AIDS during placebo
+-controlled clinical trials involved the CNS and were reported by 33% of patients receiving dronabinol capsules. 
+About 25% of patients reported a CNS adverse 
+reaction 
+during the first 2 weeks and about 
+4% reported such 
+a reaction 
+each week for the next 6 weeks thereafter. 
+Common Adverse Reactions 
+The following adverse reactions were reported in clinical trials of dronabinol capsules at an incidence greater 
+than 1%. 
+System Organ Class 
+Adverse Reactions 
+General 
+Asthenia 
+Cardiovascular 
+Palpitations, tachycardia, vasodilation/facial flush 
+Gastrointestinal 
+Abdominal pain*, nausea*, vomiting* 
+Central Nervous System 
+dizziness*, euphoria*, paranoid reaction*, somnolence*, thinking 
+abnormal*, amnesia, 
+anxiety/nervousness, ataxia, confusion, 
+depersonalization, 
+*Actual 
+Incidence 3% to 10% 
+Less Common Adverse Reactions 
+The following adverse reactions were reported in clinical trials of dronabinol capsules at an incidence less than 
+or equal to 1%. 
+System 
+Organ Class 
+Adverse Reactions 
+General 
+Chills, headache, malaise 
+Cardiovascular 
+Hypotension
+, conjunctival injection 
+[see Clinical 
+Pharmacology (12.2)] 
+Gastrointestinal 
+Diarrhea, fecal incontinence, anorexia, hepatic enzyme 
+elevation 
+Musculoskeletal 
+Myalgias 
+Central Nervous System 
+Depression, nightmares, speech difficulties, tinnitus 
+7 Reference ID: 3954181                    
+                                                            
+   Respiratory 
+Cough, rhinitis, sinusitis 
+Skin 
+Flushing, sweating 
+Sensory 
+Vision difficulties 
+6.2 Postmarketing Experience 
+The following adverse reactions have been identified 
+during post-approval use of 
+another 
+oral 
+formulation of 
+dronabinol.  Because the
+se reactions are reported voluntarily from a population of uncertain size, it is not 
+always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. 
+Hypersensitivity reactions
+: lip swelling, hives, disseminated ras
+h, oral lesions, skin burning, flushing, throat 
+tightness 
+[see Contraindications (
+4)]. Injury, poisoning and procedural complications
+: Fall 
+[see Use in Specific Populations 
+(8.5)]. Nervous system disorders: 
+seizures 
+[see Warnings and Precautions (
+5.4)], di
+sorientation, movement disorder, 
+loss of consciousness
+. Psychiatric disorders: 
+delirium, insomnia, panic attack
+. Vascular disorders
+: Syncope 
+[see Warnings and Precautions 
+(5.2)]. 7 DRUG INTERACTIONS 
+7.1 Disulfiram and Metronidazole 
+SYNDROS contains 50% (w/w) dehydrated alcohol 5.5% (w/w) propylene glycol, which can produce 
+disulfiram
+-like reactions when co
+-administered with disulfiram or other drugs that produce this reaction (e.g., 
+metronidazole). 
+Discontinue products containing dis
+ulfiram or metronidazole at least 
+14 days before 
+starting 
+treatment with SYNDROS 
+and d
+o not administer 
+these products 
+within 
+7 days 
+of completing treatment with 
+SYNDROS 
+[see Contraindications (
+4), Warnings and Precautions (
+5.3)]. When administered concomit
+antly with propylene glycol, ethanol competitively inhibits the metabolism of 
+propylene glycol, which may lead to elevated concentrations 
+of propylene gl
+ycol
+. However, 
+the contribution of 
+propylene glycol, if any, to the interaction between disulfiram and 
+SYNDROS is unknown. 
+7.2 Effect of Other Drugs on Dronabinol 
+Dronabinol is primarily metabolized by CYP2C9 and CYP3A4 enzymes. 
+Inhibitors of these enzymes may 
+increase, while inducers may decrease, the systemic exposure of dronabinol and/or its active met
+abolite 
+resulting in an increase in dronabinol
+-related adverse reactions or loss of efficacy of SYNDROS. 
+Monitor for increased 
+dronabinol
+-related 
+adverse reactions when SYNDROS is co
+-administered with inhibitors 
+of CYP2C9 (e.g.
+, amiodarone, fluconazole) an
+d inhibitors of CYP3A4 enzymes (e.g.
+, ketoconazole, 
+itraconazole, clarithromycin, ritonavir, 
+erythromycin, grapefruit 
+juice). 
+7.3 Highly Protein
+-Bound Drugs 
+Dronabinol is highly bound to plasma proteins, and therefore, might displace 
+and increase the fr
+ee fraction of 
+other concomitantly administered 
+protein
+-bound drugs
+. Although this displacement has not been confirmed in 
+vivo, monitor patients for 
+increased adverse reactions to narrow therapeutic index drugs (e.g., warfarin, 
+cyclosporine, amphotericin 
+B) when initiating treatment or increasing the dosage of SYNDROS
+. 8Reference ID: 3954181          
+                                                  8 USE IN SPECIFIC PO
+PULATIONS 
+8.1 Pregnancy 
+Risk Summary 
+SYNDROS, a synthetic cannabinoid containing alcohol, may cause fetal harm.  
+Avoid use of SYNDROS in 
+pregnant women.  Although there 
+is little published data on the use of synthetic cannabinoids during pregnancy, 
+use of cannabis (e.g., marijuana) and use of alcohol during pregnancy have been associated with adverse 
+fetal/neonatal outcomes 
+[see Clinical Considerations
+]. Cannabinoids ha
+ve been found in the umbilical cord 
+blood from pregnant women who smoke cannabis.  In animal reproduction studies, 
+no teratogenicity was 
+reported in mice administered dronabinol at up to 
+30 times the MRHD 
+(maximum recommended human doses) 
+and up to 
+5 times 
+the MRHD for patients with 
+AIDS and 
+cancer, respectively. 
+Similar findings were reported in 
+pregnant rats administered dronabinol at up to 
+5 to 20 times the MRHD and 
+3 times the MRHD 
+for patients with 
+AIDS and cancer, respectively.  
+Decreased maternal we
+ight gain and number of viable pups and increased fetal 
+mortality and early resorptions were observed in both species at doses which induced maternal toxicity
+. In 
+published studies, offspring of pregnant rats administered delta
+-9-THC during and after orga
+nogenesis have 
+been reported to exhibit neurotoxicity with adverse effects on brain development, including abnormal neuronal 
+connectivity and impairments in cognitive and motor function 
+[see Data]. The estimated background risk of major birth defects and miscarriage for the indicated populations are 
+unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage 
+in clinically recognized pregnancies is 2 
+to 4% and 15 to 20%, respectively. 
+Clinical Consideration
+s Fetal/Neonatal Adverse Reactions 
+Published studies suggest that during pregnancy, the use of cannabis, which includes THC, 
+whether for 
+recreational or medicinal purposes, may increase the risk of 
+adverse fetal/neonatal outcomes including fetal 
+growth restriction, low birth weight, preterm birth, small
+-for-gestational age, admission to the NICU, and 
+stillbirth.  Therefore, use of cannabis during pregnancy should be avoided
+. SYNDROS contains alcohol.  Published studies have demonstrated that alcohol is associated with fetal harm 
+including central nervous system abnormalities, behavioral disorders, and impaired intellectual development.  
+Avoid use of SYNDROS in p
+regnant women. 
+Data 
+Human Data 
+Delta
+-9-THC has been measured in the cord blood of some infants whose mothers reported prenatal use of 
+cannabis, suggesting that dronabinol may cross the placenta to the fetus during pregnancy. 
+The effects of delta
+-9-THC on the fetus are n
+ot known. Animal Data The recommended dose ranges for SYNDROS in 
+AIDS and 
+cancer patients are designed to achieve the same 
+systemic exposure ranges as with the recommended dose ranges for dronabinol capsules. 
+Therefore, animal to 
+human dose multiples, as 
+shown below, are based on the MRHDs (maximum recommended human doses) for 
+dronabinol capsules, instead of the MRHDs for SYNDROS, which are 15% lower. 
+This approach for dose 
+comparison between animals and humans is supported by the demonstrated difference 
+in dronabinol 
+bioavailability between SYNDROS and dronabinol capsules. 
+9 Reference ID: 3954181                                                                            Reproduction studies with dronabinol have been performed in mice at 15 to 450 mg/m
+2, equivalent to 1 to 30 
+times 
+the MRHD of 15 mg/m
+2/day 
+(dronabinol capsules) 
+in AIDS patients 
+or 0.2 t
+o 5 times the MRHD of 90 
+mg/m
+2/day (dronabinol capsules) in cancer patients
+, and in rats at 74 to 295 mg/m
+2 (equivalent to 
+5 to 20 times 
+the MRHD of 15 mg/m
+2/day in AIDS patients or 
+0.8 to 3 times 
+the MRHD of 90 mg/m
+2/day 
+in cancer patients). 
+These studie
+s have revealed no evidence of teratogenicity due to dronabinol. 
+At these dosages in mice and rats, 
+dronabinol decreased maternal weight gain and number of viable pups and increased fetal mortality and early 
+resorptions. 
+Such effects were dose dependent 
+and less apparent at lower doses 
+that produced less maternal 
+toxicity. 
+Review of published literature indicates that the endocannabinoid system plays a role in neurodevelopmental 
+processes such as neurogenesis, migration, and synaptogenesis.  Exposure of 
+pregnant 
+rats to 
+delta
+-9-THC (during and after organogenesis) 
+may modulate these 
+processes 
+to result in abnormal patterns of neuronal 
+connectivity 
+and subsequent cognitive impairments 
+in the offspring
+. Nonclinical toxicity studies in pregnant 
+rats 
+and 
+new
+born pups 
+have shown prenatal exposure to THC 
+that resulted in impairment of motor function, 
+alteration in synaptic activity, and interference in cortical projection of neuron development 
+in the offspring
+. Prenatal exposure has shown effects on cognitive 
+function such as learning, short
+-and long
+-term memory, 
+attention, decreased ability to remember task, and ability to discriminate between novel and same objects.  
+Overall, prenatal exposure to THC has resulted in significant and long
+-term 
+changes in 
+brain 
+development, 
+cogniti
+on, and behavior in rat offspring
+. 8.2 Lactation 
+For mothers infected with the Human Immunodeficiency Virus (HIV), the Centers for Disease Control and 
+Prevention recommend not to breastfeed their infants to avoid risking postnatal transmission of HIV. 
+Because 
+of the potential for HIV transmission in bre
+astfed infants, advise women infected with HIV not to breastfeed 
+while taking SYNDROS. 
+For mothers with nausea and vomiting associated with cancer chemotherapy, there are limited data on the 
+presence of dronabinol in human milk, the effects on the breastfe
+d infant, or the effects on milk production. 
+The reported effects of inhaled cannabis transferred to the breastfeeding infant have been inconsistent and 
+insufficient to establish causality. 
+Because of the possible adverse effects from SYNDROS on the brea
+stfeeding 
+infant, advise women with nausea and vomiting associated with cancer chemotherapy not to breastfeed during 
+treatment with SYNDROS and for 
+9 days after the final dose. 
+8.4 Pediatric Use 
+The safety and effectiveness of 
+SYNDROS 
+have not been establi
+shed in pediatric patients. 
+Pediatric patients may be more sensitive to neurological and psychoactive effects of SYNDROS 
+[see Warnings 
+and Precautions (
+5.1)]. SYNDROS contains the excipients 50% (w/w) dehydrated alcohol and 5.5% (w/w) 
+propylene glycol
+. E
+thanol competitively inhibits the metabolism of propylene glycol, which may lead to 
+elevated concentrations 
+of propylene glycol
+. Preterm neonates may be at increased risk of propylene glycol
+-associated adverse events due to diminished ability to metaboliz
+e propylene glycol, thereby, leading to 
+accumulation 
+[see Warnings and 
+Precautions (
+5.7)]. 8.5 Geriatric Use 
+Clinical studies of dronabinol capsules in AIDS and cancer patients did not include sufficient numbers of 
+subjects aged 65 and over to determine w
+hether they respond differently from younger subjects. 
+Elderly patients may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of 
+SYNDROS 
+[see Warnings and Precautions (
+5.1, 5.2)]. 
+10Reference ID: 3954181                           
+     
+      
+                   
+               
+      
+              Elderly patients with dementia 
+are at 
+increased risk for falls as a result of their underlying disease state
+, which 
+may be exacerbated by the 
+CNS 
+effects of somnolence and dizziness associated with 
+SYNDROS 
+[see Warnings 
+and Precautions (
+5.1)]. These patients should be monitored closely and placed on fall precautions prior to 
+initiating 
+SYNDROS 
+therapy
+. In antiemetic studies, no difference in efficacy was apparent in patients 
+greater 
+than 55 years 
+of age 
+compared to younger patients
+. In general
+, dose selection for an elderly patient should be cautious
+, usually starting at the low end of the dosing 
+range, reflecting the greater frequency of falls, decreased hepatic, renal, or cardiac function, increased 
+sensitivity to psychoactive effects
+, and of 
+concomitant disease or other drug therapy 
+[see Dosage and 
+Administration (
+2.2, 2.3)]. 
+8.6 Effect of CYP2C9 Polymorphism 
+Published data suggest that systemic clearance of dronabinol may be reduced and concentrations may be 
+increased in presence of CYP2C9 
+genetic polymorphism. 
+Monitoring for increased adverse reactions is 
+recommended in patients known to carry genetic variants associated with diminished CYP2C9 function 
+[see Clinical Pharmacology (
+12.5)]. 
+9 DRUG ABUSE AND DEP
+ENDENCE 
+9.1 Controlled Substance 
+SYNDROS 
+is controlled in Schedule X of the Controlled Substances Act
+. 9.2 Abuse 
+SYNDROS contains dronabinol, the main psychoactive component in marijuana.  Ingestion of high doses of 
+dronabinol increases the risk of psychiatric adverse 
+reactions 
+if abused 
+or misused
+, while continued 
+administration can lead to addiction.  Psychiatric adverse 
+reactions 
+may include psychosis, hallucinations, 
+depersonalization, mood alteration, and paranoia.  
+In vitro 
+studies demonstrate that SYNDROS can be easily and effecti
+vely abused without manipulation.  
+SYNDROS contains 50% (w/w) dehydrated alcohol 
+[see Warning and Precautions (
+5.5)]. 
+In a randomized, 
+single
+-dose
+, double-blind, placebo
+-and active
+-controlled crossover pharmacodynamic study 
+of 43 experienced marijuana 
+
+placebo and dronabinol in sesame oil oral capsules. Treatment arms were 10 mg and 30 mg dronabinol 
+capsules, 10 mg and 30 mg dronabinol from SYNDROS, and placebo oral solution and ca
+
+drug 
+l
+dose, compared with the 10 mg dose, for both SYNDROS and 
+dronabinol
+-containing capsules.  Overall, the pharmacodynamic results from this study demonstrated no 
+statistically significant diff
+erences in various measures of drug liking for the doses taken, though the 
+SYNDROS results were consistently greater than those of 
+dronabinol 
+capsules.  Similarly, observed adverse 
+reactions 
+were greater for SYNDROS. 
+The pharmacodynamic and safety effects 
+of SYNDROS following 
+multiple doses ha
+ve not been evaluated. 
+Patients should be instructed to keep SYNDROS in a secure place out of reach of others for whom the 
+medication has not been prescribed. 
+9.3 Dependence 
+Physical dependence is a state that develops 
+as a result of physiological adaptation in response to repeated drug 
+use. 
+Physical dependence manifests by drug class
+-specific withdrawal symptoms after abrupt discontinuation or 
+a significant dose reduction of a drug. 
+The appearance of a withdrawal sy
+ndrome when administration of the 
+11Reference ID: 3954181                                                 
+                drug is terminated is the only actual evidence of physical dependence.  Physical dependence can develop during 
+chronic therapy with SYNDROS, and develops after chronic abuse of marijuana. 
+A withdrawal syndrome was reporte
+d after the abrupt 
+discontinuation 
+of dronabinol capsules in 
+subjects 
+receiving dosages of 210 mg 
+per 
+day for 12 to 16 
+consecutive 
+days.  Within 12 hours after discontinuation, 
+subjects 
+manifested symptoms such as irritability, insomnia, and restlessness. 
+By approximately 24 hours post
+dronabinol 
+discontinuation
+
+loose stools, hiccoughs, and anorexia. 
+These withdrawal symptoms gradually dissipated over the next 48 hours.  
+Patie
+nts also complained of disturbed sleep for several weeks after discontinuing therapy. 
+10 OVERDOSAGE 
+SYNDROS contains 50% (w/w) dehydrated alcohol and 5
+.5% (w/w) propylene glycol. 
+Ingestion of the product 
+over the recommended dose could result in significant toxicity. 
+Dronabinol 
+Signs and symptoms 
+of dronabinol 
+overdose 
+include drowsiness, euphoria, heightened sensory awareness, 
+altered time perception, reddened conjunctiva, dry mo
+uth, tachycardia
+, memory impairment, depersonalization, 
+mood alteration, urinary retention, reduced bowel motility
+, decreased motor coordination, lethargy, slurred 
+speech, and postural hypotension. 
+Patients may 
+also 
+experience panic reactions 
+if they have 
+a prior history of 
+nervousness or anxiety 
+and seizures may occur in patients with existing seizure disorders.  
+It is not known if 
+dronabinol 
+can be removed by dialysis in cases of overdose
+. Alcohol 
+Signs and symptoms of alcohol 
+overdose include changes in mood or behavior, impaired 
+judgment 
+or social 
+functioning and one or more physical signs such as slurred speech, unsteadiness, lack of coordination, increased 
+or irregular heart rate, respiratory depression, impaired attention o
+r loss of consciousness. 
+Propylene Glycol 
+Signs and symptoms of acute poisoning occur only in rare circumstances where 
+patients ingest 
+large amounts of 
+propylene glycol over several days.  These include hypoglycemia, severe metabolic acidosis (caused by t
+he metabolism into lactic acid), and CNS depression including coma and seizures. 
+Management of 
+Overdosage 
+If over
+-exposure 
+of SYNDROS 
+occurs, call your Poison Control Center at 1
+-800-222-1222 for current 
+information on the management of poisoning or 
+overdosage. 
+11 DESCRIPTION 
+Dronabinol is a cannabinoid designated chemically as (6aR,10aR)
+-6a,7,8,10a
+-Tetrahydro
+-6,6,9-trimethyl
+-3pentyl
+-6H-dibenzo[b,d]
+-pyran
+-1-ol. Dronabinol has the following empirical and structural formulas: 
+12Reference ID: 3954181                                                                        12 C21H30O2 (molecular weight=314.4
+6) Dronabinol is a 
+clear colorless to amber oil
+. Dronabinol is insoluble in water. It has a pKa of 10.6 and an 
+octanol
+-water partition coefficient: 6,000:1 at pH 7. 
+SYNDROS (dronabinol) 
+oral 
+solution, 5 
+mg/mL is 
+a clear
+, pale yellow to brown solution. 
+Each 
+mL of 
+SYNDROS contains 
+5 mg of dronabinol as an active ingredient and 
+the following inactive ingredients:  
+50 % (w/w) dehydrated alcohol, 
+polyethylene glycol 
+400, propylene glycol, sucralose, methyl 
+paraben, propyl 
+paraben
+, butylated hydroxyanisole
+, and water
+. CLINICAL PHARMACOLOG
+Y 12.1 Mechanism of Action 
+Dronabinol is an orally active cannabinoid which has complex effects on the CNS, including central 
+sympathomimetic activity. 
+Cannabinoid receptors have been d
+iscovered in neural tissues. These receptors may 
+play a role in mediating the effects of dronabinol. 
+12.2 Pharmacodynamics 
+Effects on the Cardiovascular System 
+Dronabinol
+-induced sympathomimetic activity may result in tachycardia and/or conjunctival inject
+ion. Its 
+effects on blood pressure are inconsistent, but subjects have experienced orthostatic hypotension and/or syncope 
+upon abrupt standing 
+[see Warnings and Precautions (
+5.2)]. Effects on the Central Nervous System 
+Dronabinol also demonstrates reversible effects on appetite, mood, cognition, memory, and perception. 
+These 
+phenomena appear to be dose
+-related, increasing in frequency with higher dosages, and subject to great inter
+-patient variability. 
+After oral admin
+istration, dronabinol 
+capsules 
+have an onset of action of approximately 0.5 
+to 1 hours and peak effect at 2 to 4 hours. Duration of action for psychoactive effects is 4 to 6 hours, but the 
+appetite stimulant effect of dronabinol may continue for 24 hours o
+r longer after administration. 
+Tachyphylaxis and tolerance develop to some of the 
+cardiovascular and CNS 
+pharmacologic effects of 
+dronabinol with chronic use, suggesting an indirect effect on sympathetic neurons. 
+In a study of the 
+pharmacodynamics of chro
+nic dronabinol exposure, healthy male 
+subjects 
+(N = 12) received 
+12 times the 
+maximum dose 
+for anorexia associated with weight loss in patients with AIDS 
+of dronabinol capsules in divided 
+doses for 16 days. 
+An initial tachycardia induced by dronabinol was replaced successively by normal sinus 
+rhythm and then bradycardia. A decrease in supine blood pressure, made worse by standing, was also observed 
+initially. 
+These 
+subjects 
+developed tolerance to the cardiov
+ascular and subjective adverse CNS effects of 
+dronabinol within 12 days of treatment initiation. 
+13Reference ID: 3954181                                                                 
+   
+   
+                                 
+    Tachyphylaxis and tolerance do not 
+appear to develop to the appetite stimulant effect of dronabinol. In 
+clinical 
+studies 
+of dronabinol capsules in AIDS 
+patien
+ts, at the recommended dosage, 
+the appetite stimulant effect 
+was 
+sustained for up to five months. 
+12.3 Pharmacokinetics 
+Absorption 
+Dronabinol (delta
+-9-THC) is almost completely absorbed (90 to 95%) after single oral doses. Due to the 
+combined effects of 
+first pass hepatic metabolism and high lipid solubility, only 10 to 20% of the administered 
+dose reaches the systemic circulation. 
+Relative bioavailability data from h
+ealthy male and female 
+subjects 
+suggest that 
+a dose of 4.2 mg of SYNDROS provides compar
+able systemic exposure (C
+max and AUC) to a 5 mg 
+dronabinol capsule, under fasted conditions 
+[see Dosage and Administration (
+2.1)]. The c
+oncentrations of both 
+dronabinol and its major active metabolite (11
+-hydroxy
+-delta
+-9-THC) peak at approximately 0.5 to 
+4 hours after 
+oral dosing with SYNDROS and decline over several days. 
+The mean inter
+-and intra
+-subject variability in 
+dronabinol pharmacokinetics (C
+max and AUC
+inf
+) was approximately 
+66% and 
+47% and 
+67% and 
+14%, 
+respectively, following administration of SYNDROS 
+to healthy subjects. 
+Table 
+2: Summary of 
+Single
+-Dose Pharmacokinetic Parameters of Dronabinol After 
+Replicated 
+Oral Administration of 
+SYNDROS 
+(4.2 mg 
+to Healthy 
+Subjects 
+under Fasted Conditions
+) Parameter* 
+Dronabinol 
+Cmax (ng/mL) 
+1.9 ± 1.3 Tmax (h) 1.0 [0.5 
+to 4.0] 
+AUC(inf) 
+(ng.h
+/mL) 
+3.8 ± 1.8 t½ (h) 5.6 ± 2.7 * Arithmetic mean ± standard deviation except T
+max 
+for which the median 
+[range] is reported 
+Food Effect: 
+The effect of food on 
+the pharmacokinetics of SYNDROS was studied by c
+oncomitant dosing of 
+SYNDROS with a high
+-fat 
+(59 grams of 
+fat, approximately 50% of total caloric content of the meal)
+, high 
+calorie meal 
+(approximately 950 calories).  An appreciable food effect was observed
+: food resulted in 
+approximately a 2.5
+-fold increase in total exposure (AUC
+inf
+) and approximately a 
+5 hour delay in 
+median 
+Tmax. Food also 
+decreased Cmax by approximately 20% 
+[see Dosage and Administration (
+2.2, 2.3)]). 
+Distribution: 
+Dronabinol has an ap
+parent volume of distribution of approximately 10 L/kg, because of its lipid solubility. 
+The plasma protein binding of dronabinol and its metabolites is approximately 97% 
+[see Drug Interactions 
+(7.3)]. Elimination 
+The pharmacokinetics 
+of dronabinol can be described using a two compartment model with an initial (alpha) 
+half
+-life of about 5 hours and a terminal (beta) half
+-life of 25 to 36 hours. 
+Values for clearance average about 
+0.2 L/kg
+-hr; but are highly variable due to the complexi
+ty of cannabinoid distribution. 
+Metabolism 
+Dronabinol undergoes extensive first
+-pass hepatic metabolism, primarily by hydroxylation, yielding both active 
+and inactive metabolites. 
+The major metabolite (11
+-hydroxy
+-delta
+-9-THC) is pharmacologically active. 
+Published 
+in vitro 
+data 
+indicates that CYP2C9 and CYP3A4 are the primary enzymes in the metabolism of 
+14Reference ID: 3954181                                                                          
+   13 dronabinol. CYP2C9 appears to be the enzyme responsible for the formation of t
+he pri
+mary 
+active metabolite 
+[see Clinical Pharmacol
+ogy (12.5)]. Excretion 
+Dronabinol and its biotransformation products are excreted in both feces and urine. 
+Biliary excretion is the 
+major route of 
+excretion 
+with about half of a radio
+-labeled oral dose being recovered from the feces within 72 
+hours as contrasted with 10 to 15% recovered from urine. Less than 5% of an oral dose is recovered unchanged 
+in the feces. 
+Due to its re
+-distribution, dronabinol and its 
+metabolites may be excreted for prolonged periods of time. 
+Following single dose administration, dronabinol metabolites have been detected for more than 5 weeks in the 
+urine and feces. 
+In a study of dronabinol capsules involving AIDS patients, urinary ca
+nnabinoid/creatinine concentration ratios 
+were studied bi
+-weekly over a six week period. 
+The urinary cannabinoid/creatinine ratio was closely correlated 
+with dose. 
+No increase in the cannabinoid/creatinine ratio was observed after the first two weeks of 
+treatment, 
+indicating that steady
+-state cannabinoid levels had been reached. 
+This conclusion is consistent with predictions 
+based on the observed terminal half
+-life of dronabinol. 
+Drug Interaction Studies 
+Formal drug
+-drug interaction studies have not been 
+conducted with 
+dronabinol
+. The enzyme inhibition and induction potential of dronabinol and its active metabolite are not completely 
+understood. 
+Published data showed an increase in the elimination half
+-life of pentobarbital by 4 hours when concomitantly 
+dosed with dronabinol 
+[see Warnings and Precautions (
+5.1)]. 12.5 Pharmacogenomics 
+Published data indicate a 2
+-to 3-fold higher dronabinol exposu
+re in individuals carrying genetic variants 
+associated with diminished CYP2C9 function. 
+NONCLINICAL TOXIC
+OLOGY 
+13.1 Carcinogenesis
+, Mutagenesis
+, Impairment of Fertility 
+The recommended dose ranges for SYNDROS in 
+AIDS 
+and 
+cancer 
+patients are designed to 
+achieve the same 
+systemic exposure ranges as with the recommended dose ranges for dronabinol capsules. 
+Therefore, the animal to human dose multiples for carcinogenicity studies, as shown below, are based on the 
+MRHD (maximum recommended human dose) for dr
+onabinol capsules in AIDS patients, instead of the MRHD 
+for SYNDROS which is 15% lower. 
+This approach for dose comparison between animals and humans is 
+supported by the demonstrated difference in dronabinol bioavailability between SYNDROS and dronabinol 
+capsules. 
+The animal to human dose multiples for the fertility study in rats, as shown below, are based on the 
+MRHD for dronabinol capsules in AIDS 
+or cancer 
+patients. 
+In 2
+-year carcinogenicity studies, there was no evidence of carcinogenicity in rats at d
+oses up to 50 mg/kg/day 
+dronabinol (approximately 20 times the MRHD for dronabinol capsules in AIDS patients on a body surface area 
+basis) or in mice at doses up to 500 mg/kg/day (approximately 100 times the MRHD for dronabinol capsules in 
+AIDS patients on 
+a body surface area basis). 
+15Reference ID: 3954181                                                                       
+                Dronabinol was not genotoxic in the Ames tests, the 
+in vitro 
+chromosomal aberration test in Chinese hamster 
+ovary cells, and the 
+in vivo 
+mouse micronucleus test. 
+However, 
+dronabinol 
+produced a weak positive response 
+in a sister chromatid exchange test in Chinese hamster ovary cells. 
+In a long
+-term study (77 days) in rats, oral administration of d
+ronabinol at doses of 30 to 150 
+mg/m
+2, equivalent 
+to 2 to 10 times 
+the MRHD of 15 mg/m
+2/day 
+(dronabinol capsules) 
+in AIDS patient
+s or 0.3 to 1.5 times the 
+MRHD of 90 mg/m
+2/day (dronabinol capsules) in cancer patients
+, reduced ventral prostate, seminal vesicle and 
+epididymal weights and caused a decrease in seminal fluid volume. 
+Decreases in spermatogenesis, number of 
+developing ger
+m cells, and number of Leydig cells in the testis were also observed. However, sperm count, 
+mating success and testosterone levels were not affected. 
+The significance of these animal findings in humans 
+is not known. 
+14 CLINICAL STUDIES 
+The effectiveness 
+of SYNDROS 
+has been established based on studies of dronabinol capsules for the treatment 
+of anorexia associated with weight loss in patients with AIDS and nausea and vomiting associated with cancer 
+chemotherapy in patients who have failed to respond adequa
+tely 
+to conventional antiemetic treatments. 
+16 HOW SUPPLIED/STOR
+AGE AND HANDLING 
+SYNDROS 
+(dronabinol) 
+oral 
+solution, 
+5 mg/mL is a clear, pale yellow to brown 
+solution. 
+SYNDROS 
+is supplied 
+in 
+a multi
+-dose, 
+clear, amber
+-colored 
+30 mL 
+glass bottle
+. It is 
+closed with a 
+20 mm child
+-resistant, white polypropylene screw cap with a Teflon coated liner. 
+The bottle is 
+wrapped with a polyvinyl chloride body band to provide t
+amper evidence and packaged in a carton 
+with an oral 
+syringe
+, and 
+a push-in bottle 
+adapter
+. NDC 20482
+-335-30 (30 mL 
+multi
+-dose bottle, an oral 
+syringe 
+and a push
+-in bottle adapter) 
+Store in a refrigerator between 2°
+C and 8°C (36°
+F and 46°F)
+; excursions permitted to 15°C and 
+25°C (59°F and 77°F)
+. The 
+opened bottle can be stored at 
+25°C (77°F)
+. Discard unused portion 
+28 days 
+after first opening [see USP Controlled Room Temperature]
+. Keep SYNDROS oral solution and the oral syringe in the supplied carton. 
+17 PATIENT COUNSELIN
+G INFORMATION 
+Advise the patient to read the FDA
+-approved 
+patient 
+labeling (
+Patient Information and 
+Instructions for Use
+). Accidental Ingestion 
+Inform patients that accidental ingestion o
+f SYNDROS, 
+which contains 50% (w/w) dehydrated alcohol and 
+5.5% (w/w) propylene glycol, may result in toxicity 
+[see Overdosage (
+10)]. Instruct patients 
+to seek immediate 
+medical attention in case of accidental injection.  Also, instruct patients 
+to store SYNDROS securely
+. Administration Instructions 
+ Counsel patients on proper dosing and administration techniques.  Advise patients to read 
+the Instructions for Use. 
+ Instruct patients to take each SYNDROS dose with a full glass of water (6 to 8 ounces). 
+Neurological Adverse Reactions 
+[see Warnings and Precautions (
+5.1)] 16Reference ID: 3954181                        
+                                             Advise patients that psychiatric adverse reactions may occur, especially 
+in patients with a past 
+psychiatric history or in those receiving other drugs also associated with psychiatric effects, and to 
+report to their healthcare provider an
+y new or worsening psychiatric symptoms.
+Advise patients, especially elderly patients, that 
+cognitive impairment or an altered mental state may 
+also occur during treatment with SYDNROS and to report to their healthcare provider if they develop 
+signs or symptoms of cognitive impairment. 
+Inform patients not to operate motor vehicles or other dang
+erous machinery until they are reasonably 
+certain that SYNDROS does not affect them adversely. 
+Hemodynamic Instability 
+Advise patients
+, especially those 
+with cardiac disorders
+, to report to their healthcare provider if they experience 
+any signs or symptoms of hemodynamic instability, including hypotension, hypertension, syncope or 
+tachycardia, especially after initiating or increasing the dosage of SYNDROS 
+[see Warnings and Preca
+utions 
+(5.2)]. 
+Interaction with Disulfiram and Metronidazole 
+Inform patients that taking SYNDROS with products containing disulfiram or metronidazole may cause a 
+disulfiram
+-like reaction due to the alcohol content of SYNDROS.  Advise patients 
+not to take 
+products 
+containing disulfiram or metronidazole 
+during treatment with SYNDROS and 
+for up to 
+7 days of completing 
+treatment with SYNDROS 
+[see Warnings and Precautions (
+5.3)]. 
+Seizures 
+Advise patients to discontinue SYNDROS and contact a healthcare provider 
+immediately if they experience a 
+seizure 
+[see Warnings and Precautions (
+5.4)]. 
+Multiple Substance Abuse 
+Inform patients with a history of substance abuse 
+or dependence
+, including 
+marijuana or 
+alcohol, that they may 
+be more likely 
+to abuse SYNDROS.  Advise patients to report to their healthcare provider if they develop abuse 
+behaviors or conditions 
+[see Warnings and Precautions (
+5.5)]. 
+Paradoxical Nausea, Vomiting, or Abdominal Pain 
+Advise patients to report worsening nausea, vomiti
+ng or abdominal pain to their healthcare provider 
+[see Warnings and Precautions (
+5.6)]. 
+Pregnancy 
+[see Use in Specific Populations (
+8.1)]  Advise a pregnant woman of the potential risk to a fetus and to 
+avoid 
+use of 
+SYNDROS during 
+pregnancy
+. Lactation 
+[see Use in Specific Populations (
+8.2)]  Advise HIV infected women with anorexia associated with weight loss, not to breastfeed. 
+ Advise women with nausea and vomiting associated with cancer chemotherapy not to breastfeed 
+during treatment with SYNDROS and fo
+r 9 days after the last dose
+. 17Reference ID: 3954181           Manufactured for: 
+Insys Therapeutics, Inc. 
+Chandler, AZ 85286 
+By: 
+DPT 
+Lakewood 
+LLC Lakewood, NJ 08701 
+Reference ID: 3954181 18                    
+      
+        
+                
+      
+      
+       
+          
+                   
+                           
+        
+           
+          
+      
+  
+               
+         
+   
+          
+  
+    
+           PATIENT INFORMATION 
+SYNDROS 
+(sin dros
+), C-X 
+(dronabinol
+) oral solution 
+What is the most important information I should know about SYNDROS
+? SYNDROS can cause serious side effects, 
+including: 
+ Worsening mental 
+(psychiatric) symptoms
+. Psychiatric symptoms can worsen in people who have 
+mania, depression, 
+or schizophrenia 
+and who take SYNDROS
+. SYNDROS 
+taken with 
+medicine
+s that cause psychiatric symptoms 
+can worsen 
+psychiatric symptoms. 
+Elderly people 
+who take SYNDROS may have a greater risk of having psychiatric symptoms. 
+Tell your 
+doctor if you have new or worsening mood symptoms, including symptoms of mania, 
+depression
+, or schizophrenia
+.  Problems 
+thinking clearly. 
+Tell your doctor if you have trouble remembering things
+, concentrating
+, have increased 
+sleepiness
+, or confusion. 
+Elderly 
+people may have a greater risk of having problems thinking clearly. 
+ Changes in your blood pressure. 
+SYNDROS 
+may 
+increase 
+or decrease your blood pressure, especially when you start 
+taking SYNDROS or 
+when 
+your dose is changed. Tell your doctor if you 
+have 
+signs or symptoms of changes in your blood 
+pressure including: 
+headache
+s, 
+vision problems, dizziness, feeling lightheaded, fainting, or a fast heart
+beat. 
+Elderly people, 
+especially those with dementia, 
+and 
+people with heart problems 
+may have an increased risk of changes in blood pressure and 
+an increased risk of falls. 
+ Interactions with disulfiram or metronidazole
+. SYNDROS 
+contains alcohol
+, which can cause you to have a reaction to 
+medicines that contain disulfiram or metronidazole
+. You should not use any 
+medicine that 
+contai
+ns 
+disulfiram (Antabuse) or 
+metronidazole (Pylera, Flagyl, Flagyl ER, Nuvessa, Vandazole) if you take 
+SYNDROS. 
+You should not 
+use 
+a medicine that 
+conta
+ins disulfiram or metronidazole 
+for 
+at least 
+14 days 
+before you start taking 
+SYNDROS and 
+within 
+7 days after 
+your last dose of 
+SYNDROS. 
+Tell your doctor if you have signs or symptoms of a reaction to disulfiram or metronidazole 
+including: 
+stomach
+-area 
+(abdominal) cramping, nausea, vomiting, headache
+, and flushing. 
+What is 
+SYNDROS
+?  SYNDROS is a prescription medicine used in adults to treat: 
+o loss of appetite 
+(anorexia) 
+in people with AIDS (Acquired 
+Immune Deficiency Syndrome) who have lost weight
+. o nausea and vomiting caused by anti
+-cancer medicine (chemotherapy) in people whose nausea and vomiting have not 
+improved with usual anti
+-nausea medicines
+. SYNDROS is a controlled substance (C
+-X
+) because it contains dronabinol 
+which 
+can be a target for people who abuse 
+prescription medicines or street drugs.  Keep your SYNDROS in a safe place to protect it from theft.  Never give your SYNDROS 
+to anyone else because it may cause death or harm them.  Selling or giving away this medicine is against the law. 
+It is not known if SYNDROS is safe and effective in children. 
+Who should not take SYNDROS? 
+Do not take SYNDROS if you: 
+ had an allergic 
+reaction 
+to dronabinol
+. Signs and symptoms of an allergic reaction to dronabinol include: swelling of the lips, 
+hives, a rash over your whole body, mouth sores, skin burning, flushing, and throat tightness. 
+ had an allergic reaction 
+to alcohol
+.  are us
+ing a medicine that contains disulfiram (Antabuse) or metronidazole (Pylera, Flagyl, Flagyl ER, Nuvessa, Vandazole) or 
+have taken or received a medicine that contains disulfiram or metronidazole in the last 14 days. 
+What should I tell my doctor before taking SYNDROS? 
+Before taking SYNDROS, tell your doctor about all of your medical conditions, including if you: 
+ have or had heart 
+problems. 
+ have or had problems with drug abuse or dependence. 
+ have or had problems with 
+alcohol abuse 
+or dependence. 
+ have or had mental health problems 
+including 
+mania, depression 
+or schizophrenia
+.  have had a seizure or have a medical condition that may increase your risk of having a seizure
+.  are pregnant or plan to become pregnant.  SYNDROS 
+may 
+harm your unborn baby. Avoid the use of SYNDROS if you are 
+pregnant. 
+ are breastfeeding or plan to breastfeed.  The Centers for Disease Control and Prevention recommends that mothers with HIV 
+not breastfeed because they can pass the HIV through their breast milk to the baby. 
+It is not known if SYNDROS passes into 
+your breast 
+milk.  Talk to your doctor about the best way to feed your baby if you take SYNDROS. Do no breastfeed while 
+taking SYNDROS and for 9 days after your last dose of SY
+NDROS if you are being treated for nausea and vomiting caused by 
+anti
+-cancer medicine. 
+Tell 
+your doctor about all the medicines you take or have taken in the last 14 days, 
+including prescription and over
+-the
+counter medicines, vitamins, and herbal supplements. SYNDROS and certain other medicines can affect each other, causing 
+
+serious side effect
+s. Reference ID: 3954181                    
+       
+     
+                 
+          
+      
+     
+  
+     
+        
+  
+            
+      
+        
+  
+  
+           
+   
+  
+         
+            
+  
+   
+            
+     
+  
+      
+     
+     
+  
+             
+        
+    
+       
+   How should I take SY
+NDROS
+?  See the 
+ﬁInstructions for Use
+ﬂ at the end of the Patient Information for detailed 
+instructions 
+about the right way to 
+take 
+SYNDROS. 
+ Always use the oral syringe that comes with your SYNDROS oral solution to 
+measure your 
+prescribed dose. 
+Ask your doctor 
+or pharmacist to show you how to me
+asure your prescribed dose
+.  Take 
+SYNDROS 
+exactly as your doctor 
+tells you to. Your doctor may 
+change 
+your dose after seeing how it affects you. Do not 
+change your dose unless your doctor tells you to change it. 
+ Drink a full glass of water (6 to 8 ounces) right after you take your prescribed dose of SYNDROS oral solution. 
+ If you are an adult with AIDS with loss of appetite and weight loss: 
+o SYNDROS 
+is usually taken 2 times each day, 1 hour before lunch and 1 hour before 
+dinner
+. If you are elderly, your doctor 
+may prescribe SYNDROS to be taken 1 time each day, 1 hour before dinner 
+or bedtime. 
+ If you are an adult with nausea and vomiting caused by ant
+i-
+cancer medicine: 
+o SYNDROS is usually taken 1 to 3 hours before your chemotherapy treatment and then every 2 to 4 hours after 
+chemotherapy for up to 4 to 6 doses each day.  If you are elderly, your doctor may prescribe SYNDROS to be taken 1 to 3 
+hours before your chemotherapy, 1 time each day. 
+o Take your first dose of SYNDROS on an empty stomach at least 30 minutes before eating. After your fi
+rst dos
+e of SYNDROS, you can take SYNDROS with or without food. 
+After your doctor has decided the dose of SYNDROS that is right for you, 
+take SYNDROS 
+exactly at the same 
+time before or 
+after meals 
+during future chemotherapy treatment. 
+ If you take too much SYNDROS, call 
+your P
+oison Control Center at 
+1-800
+-222
+-1222 
+righ
+t away or go to the nearest 
+emergency room. 
+What should I avoid while taking 
+SYNDROS
+?  Do not drive
+, operate machinery, or do other dangerous activities 
+until you 
+know 
+how SYNDROS affects you. 
+SYNDROS 
+taken with medicines that cause dizziness, confusion, and sleepiness may make these symptoms worse. 
+What are the possible 
+side effects of SYNDROS
+? SYNDROS 
+may cause serious side effects, including: 
+ See 
+ﬁWhat is the most important information I should know about SYNDROS?ﬂ 
+ Seizures. 
+SYNDROS 
+may increase 
+your risk 
+of seizures
+. Stop taking SYNDROS and call your doctor and get medical care 
+right away if you have a seizure during treatment with 
+SYNDROS. 
+ Drug and alcohol abuse. 
+You may have an increased risk of abusing SYNDROS if you have a history of drug or alcohol 
+abuse or dependence, including marijuana. 
+Tell your doctor if you develop abuse behaviors 
+such as increased irritability, 
+nervousness, restlessness or want more or higher doses of 
+SYNDROS 
+during your treatment
+.   Nausea, vomiting, or 
+stomach
+-area (abdominal) pain. 
+Tell your doctor if you have nausea, 
+vomiting
+, or abdominal pain 
+or if 
+your nausea, vomiting, or abdominal pain gets worse during treatment with SYNDROS. 
+The most common side effects of 
+SYNDROS 
+include: 
+ dizziness 
+ feeling 
+extremely happy (e
+uphoria
+)  overly suspicious or feeling people want to harm you (paranoid reaction
+)  sleepiness 
+ abnormal thoughts 
+ stomach
+-area (a
+bdominal
+) pain 
+ nausea 
+ vomiting 
+These are not all the possible side effects of SYNDROS. Tell your doctor if you have any side effect that bothers you or does 
+not 
+go away. 
+Call you
+r doctor for medical advice about side effects. You may report side effects to FDA at 1
+-800
+-FDA
+-1088. 
+Genera
+l information about the safe and effective use of SYNDROS 
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use 
+SYNDROS 
+for a condition for which it was not p
+rescribed. Do not give SYNDROS 
+to other people, even if they have the same symptoms 
+that you have. It may harm them. You can ask your doctor or 
+pharmacist 
+for information about SYNDROS 
+that is 
+written for 
+health professionals. 
+What 
+are the ingredients in SYNDROS
+? Active ingredient: 
+dronabinol 
+Inactive ingredients: 
+dehydrated alcohol, polyethylene glycol 400, propylene glycol, sucralose, methyl paraben, propyl 
+paraben, butylated hydroxyanisole, and water 
+Reference ID: 3954181                   
+           
+  
+    
+  
+    
+  
+    
+           
+              
+   
+    
+   
+    
+   
+  
+ 
+       
+  
+  
+    
+            
+      
+  
+          
+  
+  
+         
+      
+  
+                                             INSTRUCTIONS FOR USE 
+SYNDROS 
+(sin dros
+), C
+-X (dronabinol
+) oral solution 
+Read 
+this 
+Instructions for Use before you start taking 
+SYNDROS 
+oral solution 
+and each time 
+you get a refill. There may be new information. This information does not take the place of 
+talking to your 
+doctor 
+about your medical condition or your treatment. 
+Important information about measuring SYNDROS 
+oral solution
+:  Always u
+se the 
+oral syringe that comes with 
+your 
+SYNDROS 
+oral solution 
+to 
+measure 
+your 
+prescribed dose
+. Ask your doctor or pharmacist to show you how to measure your 
+prescribed dose. 
+ Each SYNDROS 
+carton contains (See Figure A): 
+1 bottle of 
+SYNDROS 
+oral solution 
+oral syringe 
+adapter 
+(You will need to insert the
+adapter into the bottle before using
+the bottle for the first time.)
+The 
+contents 
+in the 
+SYNDROS 
+carton
+are wrapped in plastic. Do not use the
+contents 
+if they are not wrapped in
+plastic when you receive them
+. Call Insys Therapeutics at 
+1-855-978-2797 or www.syndros.com 
+if:
+you do not receive an oral syringe or
+adapter with your 
+SYNDROS
+you lose the oral syringe that comes 
+with SYNDROS
+the 
+contents in 
+the 
+SYNDROS carton
+are not wrapped in plastic when you
+receive them
+
+
+Ribbed 
+End 
+Child
+-Resistant 
+Cap 
+
+Figure A 
+Reference ID: 3954181     
+    
+      
+   
+    
+   
+       
+    
+    
+         
+            
+   
+  
+  
+          
+   
+         
+   
+   
+    
+          
+      
+  
+   
+     
+     
+  
+      
+ 
+                                        
+    How to 
+prepare a bottle of SYNDROS 
+oral solution before using for the first 
+time: 
+Step 1: 
+Remove the plastic wrap from the 
+bottle and throw it away. 
+Step 
+2: Open the bottle by pushing down 
+firmly 
+on the child
+-resistant cap and t
+urning 
+it counter
+-clockwise (
+See Figure B). 
+Do not 
+throw away the child
+-resistant cap. 
+Figure B 
+Step 
+3: Remove the adapter from the 
+plastic wrap
+. You may need 
+to use 
+a pair 
+of scissors. 
+Step 
+4: Place 
+the 
+open bottle upright 
+on a 
+flat surface
+. Firmly push down on the 
+adapter until the ribbed end of the adapter 
+fits into the neck of the bottle 
+as far as it 
+will go 
+and is firmly in place (
+See Figure 
+C). The top edge of the adapter 
+should be in full contact with the top rim of 
+the bottle. 
+Do not 
+remove the adapter 
+from the bottle after it is 
+inserted
+. Step 5: 
+Follow the instructions in 
+
+prepare a dose of SYNDROS oral 
+solution 
+
+Figure C 
+Reference ID: 3954181       
+     
+     
+    
+   
+   
+       
+          
+    
+    
+   
+  
+   
+    
+      
+      
+   
+                                                 
+  How t
+o prepare a dose of 
+SYNDROS 
+oral solution 
+after the adapter is inserted
+: Step 1: 
+Open the bottle by pushing down 
+firmly on the child
+-resistant cap and 
+turning it counter
+-clockwise (See Figure 
+D). Do not throw away the child
+-resistant 
+cap. 
+Figure D 
+Step 
+2: If 
+you are 
+using the oral syringe 
+for the first time, remove 
+the oral syringe 
+from the plastic wrap
+. You may need 
+to 
+use a pair of scissors. 
+Step 
+3: Hold 
+the oral syringe 
+in one hand. 
+With your other hand, fully 
+push 
+down 
+(depress) the plunger 
+(See F
+igure 
+E). Figure 
+E Reference ID: 3954181          
+   
+              
+  
+     
+    
+      
+     
+       
+     
+     
+     
+        
+    
+   
+  
+  
+        
+     
+   
+     
+   
+          
+  
+   
+        
+ Step 
+4: Keeping the bottle in an upright 
+posit
+ion, i
+nsert the syringe 
+tip 
+firmly into 
+the adapter 
+(See Figure 
+F). Figure 
+F Step 5: 
+Carefully turn the bottle upside 
+down with the syringe tip firmly inserted 
+into the adapter (See Figure G). 
+Step 6: 
+Slowly pull back on the 
+plunger until the measuring ring is at 
+the line marking for the dose 
+prescribed by your doctor. The 
+measuring ring is the widest part of 
+the plunger 
+at the bottom of the tip of 
+plunger
+. (See Figures H(a) and 
+H(b)). Figure H(a) show
+s a dose of 
+0.4 mL as an example. 
+If you see air bubbles in the oral 
+syringe, fully push in the plunger so 
+that the oral solution flows back into 
+the bottle. Then, withdraw your 
+prescribed dose of oral solution. 
+Reference ID: 3954181 Figure 
+G Measuring 
+ring 
+Figure H(a) 
+Figure H(b) 
+Measure the 
+dose from the 
+widest part of 
+the plunger 
+Do not 
+measure 
+to narrow tip of 
+plunger 
+   
+       
+   
+       
+      
+     
+     
+    
+   
+    
+       
+       
+    
+                        
+    
+   
+     
+    
+    
+  
+      
+                  
+     
+       
+       
+  If your prescribed dose is more than 
+1 mL, 
+you will need to draw up two or 
+more doses. 
+For example, if your dose is 1.2 mL, 
+you will need to draw up a 1 mL dose 
+followed by a 0.2 mL dose. 
+Step 
+7: Leave the oral syringe in the 
+adapter and turn the bottle 
+to an 
+upright 
+position
+. Place the bottle onto 
+a flat surface
+. Remove the oral 
+syringe from the bottle adapter 
+by gently pulling straight up on the 
+oral syringe (See Figure I). 
+Figure 
+I Step 
+8: Check that the correct dose 
+of SYNDROS oral solution was drawn 
+up into the 
+oral 
+syringe. 
+If the dose is 
+not correct
+, insert the 
+syringe 
+tip firmly 
+into the bottle adapter. 
+Fully push in 
+the plunger so that the oral solution 
+flows back into the bottle 
+(See Figure 
+J). Repeat 
+Steps 
+5-8. Figure 
+J Ste
+p 9: Open your mouth. Place the 
+oral syringe 
+tip in the back of your mouth on 
+top of your tongue. Tilt your head back 
+Reference ID: 3954181     
+    
+     
+   
+      
+      
+    
+     
+    
+  
+        
+        
+                            
+                      
+       
+    
+  
+                                           
+         
+  
+   
+     Figure M 
+ slightly and close your lips around 
+the 
+barrel of the 
+oral 
+syringe. 
+Slowly push 
+down the plunger until 
+the oral syringe is 
+empty 
+(See Figure 
+K). Swallow the 
+oral solution. 
+If 
+your 
+prescribed dose is more than 
+1 mL, repeat 
+Steps 
+4-8 to draw up the 
+remaining dose until the prescribed dose 
+is 
+given
+. For example, if 
+your prescribed 
+dose is 
+1.6 mL, take 
+a 1 mL 
+dose first, 
+then an 
+additional dose of 0.
+6 mL. 
+Take your SYNDROS 
+oral solution 
+right 
+away 
+after it is drawn 
+up into the 
+oral syringe
+. Step 10: 
+Drink a full glass of water (6 
+to 8 ounces) right after you take your 
+prescribed dose of SYNDROS oral 
+solution (See Figure L). 
+Figure K 
+Figure 
+L Step 
+11: Leave the adapter in the 
+bottle. 
+Put 
+the child
+-resistant cap 
+back on the bottle 
+(See Figure 
+M). Reference ID: 3954181        
+     
+   
+       
+     
+       
+      
+  
+      
+   
+   
+    
+     
+     
+     
+        
+     
+        
+    
+  
+               
+ 
+     
+       
+  
+   
+          
+     
+      
+   
+      
+   
+   
+  
+           
+                
+      Step 1
+2: Remove the plunger from the 
+oral 
+syringe barrel. Rinse the 
+oral 
+syringe barrel and 
+plunger with warm water after each use and let 
+them 
+air dry. When the 
+oral 
+syringe barrel 
+and plunger are dry, put the plunger back into the 
+oral syringe barrel for the next use. 
+Keep 
+SYNDROS oral solutio
+n and the oral syringe in the carton that it comes in. 
+Do not throw 
+away the oral syringe
+. How should I store SYNDROS? 
+ Store 
+SYNDROS 
+in the refrigerator between 36°
+F to 46°F 
+(2°C to 8°C)
+.  After the bottle is 
+opened, SYNDROS 
+can be stored at room 
+temperature
+, between 68°F 
+to 77°F (20°C to 25°C), 
+for up to 28 days. 
+ Do not use SYNDROS that has been stored in the refrigerator or at room temperature 28 
+days after opening the bottle. Write the date that you open the bottle of SYNDROS on the 
+bottle and 
+
+How should I dispose of unused SYNDROS?
+Keep 
+SYNDROS 
+and all medicines out of the 
+reach of children. 
+How should I dispose of unused SYNDROS? 
+ Dispose of unused SYNDROS as soon as you no longer need it 
+or 28 days after opening 
+the bottle
+. Talk to 
+your 
+doctor or 
+pharmacist if you have questions 
+about how to use SYNDROS oral
+solution.
+For more information, go to 
+www.
+syndros
+.com 
+or call 
+1-855-978-2797. This Patient I
+nformation and Instructions for Use ha
+ve been approved by the U.S. Food and
+Drug Administration.
+Manufactured by:
+DPT 
+Lakewood 
+LLC, Lakewood, NJ, 08701
+Manufactured f
+or:
+Insys Therapeutics, Inc., Chandler, AZ 852
+86Issued: 
+July 
+2016Reference ID: 3954181 

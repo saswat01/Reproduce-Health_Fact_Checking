@@ -1,0 +1,111 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link        Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People                  Search         Submit      For a full list of topics: A-Z Index   
+ 					Advanced Search
+ 				    
+ 				Advanced Search
+ 			                 Opioid Overdose            Section Navigation         CDC Home                    Facebook Twitter LinkedIn Syndicate                         Opioid Data Analysis and Resources     Minus     Related Pages     CDC’s Injury Center looks at deaths and nonfatal overdoses for four categories of opioids:  Natural opioids (including morphine and codeine) and semi-synthetic opioids (drugs like oxycodone, hydrocodone, hydromorphone, and oxymorphone) Methadone, a synthetic opioid Synthetic opioids other than methadone (drugs like tramadol and fentanyl) Heroin, an illicit (illegally made) opioid synthesized from morphine that can be a white or brown powder, or a black sticky substance.
+ Annual Surveillance Report The Second Annual Surveillance Report of Prescription and Illicit Drug-Related Risks and Outcomes pdf icon[PDF – 3 MB] covers latest data available on rates of opioid prescribing, substance use disorder, nonfatal hospitalizations and emergency department visits, and overdose deaths.
+ A presentation is available pdf icon[PDF – 2 MB] that includes highlights of data, maps, tables, and charts from the report.
+ Overdose WavesTrends in Death RatesData AnalysisData SourcesResourcesNearly 450,000 people died from overdoses involving any opioid, including prescription and illicit opioids, from 1999-2018.1 This rise in opioid overdose deaths can be outlined in three distinct waves.
+ The first wave began with increased prescribing of opioids in the 1990s, with overdose deaths involving prescription opioids (natural and semi-synthetic opioids and methadone) increasing since at least 1999.2 The second wave began in 2010, with rapid increases in overdose deaths involving heroin.3 The third wave began in 2013, with significant increases in overdose deaths involving synthetic opioids, particularly those involving illicitly manufactured fentanyl.4,5,6 The market for illicitly manufactured fentanyl continues to change, and it can be found in combination with heroin, counterfeit pills, and cocaine.7  Many opioid-involved overdose deaths also include other drugs.8,9  Download full-resolution versionimage icon Opioids were involved in nearly 47,000 deaths in 2018, which is nearly six times the number of opioid-involved overdose deaths in 1999.
+ The rate of drug overdose deaths involving opioids remains high, and CDC continues to track opioid overdose deaths.
+ The graph below shows rates of overdose deaths associated with three categories of opioids, as well as all opioids overall.
+ Rates of deaths involving natural and semi-synthetic opioids and methadone are combined in one category called Commonly Prescribed Opioids.
+ image icon Data TableOpioid Overdose Deaths – United States, 2000-2016 Death Rates per 100,000 people    Year Any Opioid Synthetic opioid analgesics, excluding methadone    (e.g., fentanyl, tramadol)   Commonly Prescribed Opioids (Natural &amp; Semi-Synthetic Opioids and Methadone) Heroin   2000 3.0 0.3 1.3 0.7   2001 3.3 0.3 1.7 0.6   2002 4.1 0.4 2.3 0.7   2003 4.5 0.5 2.6 0.7   2004 4.7 0.6 2.9 0.6   2005 5.1 0.6 3.2 0.7   2006 5.9 0.9 3.9 0.7   2007 6.1 0.7 4.2 0.8   2008 6.4 0.8 4.3 1.0   2009 6.6 1.0 4.4 1.1   2010 6.8 1.0 4.7 1.0   2011 7.3 0.8 4.9 1.4   2012 7.4 0.8 4.5 1.9   2013 7.9 1.0 4.4 2.7   2014 9.0 1.8 4.6 3.4   2015 10.4 3.1 4.7 4.1   2016 13.3 6.2 5.2 4.9   2017 14.9 9.0 5.2 4.9    NOTE:  Deaths are classified using the International Classification of Diseases, Tenth Revision (ICD-10).
+ Drug overdose deaths are identified using underlying cause of death codes X40-X44, X60-X64, X85, and Y10-Y14.
+ The following multiple cause of death codes were used to identify specific drug types: T40.2 for natural and semi-synthetic opioid analgesics, T40.3 for methadone, T40.4 for synthetic opioid analgesics excluding methadone, T40.1 for heroin, and T40.0, T40.1, T40.2, T40.3, T40.4 or T40.6 for any opioid, and T40.2, T40.3 for prescription opioids.
+ Approximately one-fifth of drug poisoning deaths lack information on the specific drugs involved.
+ Some of these deaths may involve opioid analgesics or heroin.
+ Age-adjusted death rates were calculated using the direct method and the 2000 standard population.
+ SOURCE: CDC/NCHS, National Vital Statistics System, Mortality.
+ How the CDC Injury Center Calculates Opioid Overdoses It is important to identify and classify which types of drugs are involved in an overdose, how often they are involved, and how that involvement changes over time.
+ By understanding drug involvement, we can better identify appropriate prevention and response activities.
+ Historically, the approach to analyzing overdose death data used National Vital Statistics System mortality data (NVSS-M), with the combined categories of natural, semi-synthetic, and synthetic opioids (including methadone) used to report on overdose deaths involving prescription opioids.
+ In more recent years, the data have shown the increase in overdose deaths is being fueled by deaths involving synthetic opioids (other than methadone), likely illicitly manufactured fentanyl (IMF).
+ This increase in deaths has been associated with increases in drug submissions (i.e., drug products tested by forensic labs) of IMF, but not in pharmaceutical fentanyl prescribing rates.
+ 4,10,11,12  Thus, a large proportion of the increase in overdose deaths is presumably due to IMF and not prescription opioids.13 However, current information reported about overdose deaths in NVSS does not distinguish pharmaceutical fentanyl from IMF.
+ Given the surge in availability of IMF starting in 2013, the CDC Injury Center began analyzing synthetic opioids (other than methadone) separately from other prescription opioids for 2014 mortality data.
+ This analysis provides a more detailed understanding of the increase in different categories of opioid deaths.
+ Using this approach, there were nearly 15,000 deaths involving this (more specific) category of prescription opioids in 2018, equivalent to about 41 deaths per day.12 This number is likely an undercount of deaths related to prescription opioids because it does not include deaths associated with pharmaceutical fentanyl, tramadol, and other synthetic opioids that are used as pain medications.
+ Drug overdose deaths can be hard to categorize.
+ In 8% of drug overdose deaths in 2018, no specific drug was listed on the death certificate.12 In many deaths, multiple drugs are present, and it is difficult to identify which drug or drugs caused the death (for example, heroin or a prescription opioid, when both are present).3 Regardless of the method used to calculate the total numbers, prescription opioids continue to be involved in a significant proportion of drug overdose deaths, and the numbers are likely an underestimate of the true burden, given the large proportion of overdose deaths where the type of drug is not listed on the death certificate.
+ CDC’s National Syndromic Surveillance Program (NSSP) BioSense Platform is used by health officials to analyze and exchange syndromic data—improving awareness of health threats over time and across regional boundaries.
+ The platform was developed through collaboration among CDC and other federal agencies, state and local health departments, and other public health partners.
+ The data are used to protect America’s health, safety, and security by improving nationwide situational awareness and enhancing responsiveness to hazardous events and disease outbreaks.
+ Enhanced State Opioid Overdose Surveillance (ESOOS) funded states are able to provide more timely and comprehensive data on fatal and nonfatal opioid overdoses and risk factors associated with fatal overdoses, and also includes some reporting through CDC’s National Syndromic Surveillance Program (NSSP).
+ CDC’s State Unintentional Drug Overdose Reporting System (SUDORS) captures detailed information on toxicology, death scene investigations, route of administration, and other risk factors that may be associated with a fatal overdose, whether they are unintentional or undetermined.
+ Data are collected through funded Enhanced State Opioid Overdose Surveillance (ESOOS) recipients.
+ CDC’s Wide-ranging Online Data for Epidemiologic Research (WONDER) is a menu-driven system that makes nearly 20 collections of data available to public health professionals and the public at large.
+ It provides access to a wide array of public health information, including births, deaths, diagnoses, vaccinations, environmental exposures, and population estimates.
+ These data collections are available as online databases, which provide public access to ad hoc queries, summary statistics, maps, charts, and data extracts.
+ CDC’s Youth Risk Behavior Surveillance System (YRBSS) monitors six categories of health-related behaviors that contribute to the leading causes of health and disability among youth and adults, including alcohol and other drug use.
+ Agency for Healthcare Research and Quality (AHRQ) Healthcare Cost and Utilization Project (HCUP)external icon health care databases and related software tools and products include the largest collection of longitudinal hospital care data in the United States, made possible by a partnership among federal and state governments and industry members.
+ Nationwide Emergency Department Sample (NEDS)external icon is part of a family of databases and software tools developed for the Healthcare Cost and Utilization Project (HCUP)external icon.
+ NEDS is the largest all-payer emergency department (ED) database in the United States, yielding national estimates of hospital-based ED visits.
+ Drug Enforcement Administration (DEA) National Forensic Laboratory Information System (NFLIS)external icon systematically collects drug chemistry analysis results, as well as other related information, from cases analyzed by state, local and federal forensic laboratories.
+ These laboratories analyze substances secured in law enforcement operations across the country.
+ Substance Abuse and Mental Health Administration’s external icon National Survey on Drug Use and Health (NSDUH)external icon provides up-to-date information on tobacco, alcohol, and drug use, mental health and other health-related issues in the United States.
+ IQVIA (formerly QuintilesIMS) estimates the number of opioid and benzodiazepine prescriptions dispensed in the United States at the national, state, and county level.
+ Xponent: provides data from a sample of approximately 50,400 retail pharmacies, representing 90% of prescriptions in the United States.
+ SMART – US Edition: provides prescription level data across three unique channels: retail, mail service, and long-term care pharmacies.
+ SMART – US Regional Edition: provides the same information that is collected in the SMART – US Edition and adds geographic information (state and metropolitan statistical areas ).
+ SMART – Patient Insights Edition: provides information on a patient’s first-time use of a brand.
+ Total Patient Tracker: provides data on the total number of unique patients in the retail outpatient setting from United States retail pharmacies.
+ Prescriber Profiler: provides opioid prescribing data at the prescriber level for prescriptions dispensed from retail pharmacies.
+ U.S. Opioid Prescribing Rate Maps — The data in the maps show the geographic distribution in the United States, at both state and county levels, of retail opioid prescriptions dispensed per 100 persons from 2006–2016.
+ CDC’s Opioid Guideline App — This mobile app is designed to help providers apply the recommendations of CDC’s Guideline for Prescribing Opioids for Chronic Pain into clinical practice by putting the entire guideline, tools, and resources in the palm of their hand.
+ The application includes a morphine milligram equivalent (MME) calculator.
+ CMS Medicare Part D Opioid Drug Mapping Toolexternal icon — This interactive mapping tool shows geographic comparisons, at the state, county, and ZIP code levels.
+ NCHS NVSS Vital Statistics Rapid Release: Provisional Drug Overdose Health Counts — This data visualization presents provisional counts for drug overdose deaths based on current mortality data in the National Vital Statistics System.
+ NCHS Data Visualization Gallery: Drug Poisoning Mortality: United States, 1999-2016 — The dashboard presents drug poisoning deaths at the national, state, and county levels.
+ U.S. and state trends in age-adjusted death rates are depicted for drug poisoning by selected demographic characteristics, and a dashboard presents a series of heat maps of model-based county estimates for drug poisoning mortality.
+ Analyzing Prescription Data and Morphine Milligram Equivalents (MME) — These listings of medications at the National Drug Code level can help analyze prescription data to prevent prescription drug misuse, abuse, and overdose.
+ The listings include prescription benzodiazepines, muscle relaxants, stimulants, sedatives, and opioids with their oral MME conversion factors.
+ Use of this file for clinical decision-making warrants caution.
+ These files are for researchers, pharmacy benefit managers, prescription monitoring programs, and others who analyze prescription data for the purpose of preventing prescription drug misuse, abuse, and overdose.
+ References  Wide-ranging online data for epidemiologic research (WONDER).
+ Atlanta, GA: CDC, National Center for Health Statistics; 2020.
+ Available at http://wonder.cdc.gov.
+ Centers for Disease Control and Prevention (CDC).
+ Vital signs: overdoses of prescription opioid pain relievers—United States, 1999–2008.
+ MMWR MorbMortal Wkly Rep. 2011 Nov 4; 60(43):1487-1492.
+ Rudd RA, Paulozzi LJ, Bauer MJ, Burleson RW, Carlson RE, Dao D, Davis JW, Dudek J, Eichler BA, Fernandes JC, Fondario A.
+ Increases in heroin overdose deaths—28 states, 2010 to 2012.
+ MMWR MorbMortal Wkly Rep. 2014 Oct 3; 63(39):849.
+ Gladden RM, Martinez P, Seth P. Fentanyl law enforcement submissions and increases in synthetic opioid-involved overdose deaths—27 states, 2013–2014.
+ MMWR MorbMortal Wkly Rep. 2016; 65:837–43.
+ O’Donnell JK, Gladden RM, Seth P. Trends in deaths involving heroin and synthetic opioids excluding methadone, and law enforcement drug product reports, by census region—United States, 2006–2015.
+ MMWR MorbMortal Wkly Rep. 2017; 66:897–903.
+ O’Donnell JK, Halpin J, Mattson CL, Goldberger BA, Gladden RM.
+ Deaths involving fentanyl, fentanyl analogs, and U-47700—10 states, July–December 2016.
+ MMWR Morb Mortal Wkly Rep. 2017; 66:1197–202.
+ Drug Enforcement Administration.
+ 2019 National Drug Threat Assessment.
+ Drug Enforcement Administration Strategic Intelligence Section, U.S. Department of Justice.
+ Published December 2019.
+ Accessed March 17, 2020 from https://www.dea.gov/sites/default/files/2020-01/2019-NDTA-final-01-14-2020_Low_Web-DIR-007-20_2019.pdfpdf iconexternal icon Gladden M, O’Donnell J, Mattson C, Seth P. Changes in Opioid-Involved Overdose Deaths by Opioid Type and Presence of Benzodiazepines, Cocaine, and Methamphetamine – 25 States, July-December 2017 to January-June 2018.
+ MMWR Morb Mortal Wkly Rep 2019:68(34);737-744.
+ Kariisa M, Scholl L, Wilson N, Seth P, Hoots B.
+ Drug Overdose Deaths involving Cocaine and Psychostimulants with Abuse Potential – United States, 2003-2017.
+ MMWR Morb Mortal Wkly Rep 2019:68(17);41-43.
+ Centers for Disease Control and Prevention.
+ CDC Health Advisory: Increases in Fentanyl Drug Confiscations and Fentanyl-related Overdose Fatalities.
+ HAN Health Advisory.
+ October 26, 2015.
+ 2017 National Drug Threat Assessment.
+ U.S. Department of Justice, Drug Enforcement Administration.
+ October 2017.
+ Wilson N, Kariisa M, Seth P, et al.
+ Drug and Opioid-Involved Overdose Deaths—United States, 2017-2018.
+ MMWR Morb Mortal Wkly Rep 2020;69:290-297.
+ Seth P, Rudd R, Noonan, R, Haegerich, T. Quantifying the Epidemic of Prescription Opioid Overdose Deathsexternal icon.
+ American Journal of Public Health, March 2018;108(4):e1-e3.
+ Page last reviewed: March 19, 2020 Content source: 	Centers for Disease Control and Prevention, National Center for Injury Prevention and Control         homeOpioid Overdose  Opioid Basicsplus icon  Understanding the Epidemic Commonly Used Terms Prescription Opioids Heroin Fentanyl   Dataplus icon  Data Analysis and Resources Drug Overdose Deaths Nonfatal Drug Overdosesplus icon  DOSE System All Drugs All Opioids Heroin All Stimulants   Prescription Opioidsplus icon  Overview Prescribing Practices Overdose Death Maps Overdose Death Urbanicity Graphs   U.S. Prescribing Rate Maps Heroin Overdose Synthetic Opioid Overdose Fentanyl Encounters Data Other Drugs   Overdose Preventionplus icon  Improve Opioid Prescribing Prevent Opioid Use Disorder Treat Opioid Use Disorder Reverse Overdose Help and Resources CDC’s Role   Information for Patientsplus icon  Know Your Options Expectations for Opioid Therapy Prevent Opioid Misuse Helpful Materials Frequently Asked Questions Rx Awareness Campaign   Information for Providersplus icon  Guideline Overview Guideline Resourcesplus icon  QI and Care Coordination Clinical Tools Posters Videos Mobile App   Training for Providersplus icon  Interactive Training Series Webinar Series   PDMP Overview for Providers Research &amp; Activities Frequently Asked Questions   State Informationplus icon  Overdose Data to Action Promising State Strategies Prevention for States Enhanced State Opioid Overdose Surveillance Data-Driven Prevention Initiative What States Need to Know about PDMPs State Prescription Drug Laws State Successes   Publications &amp; Featuresplus icon  Journal Articles MMWR Articles Featured Topics Related Publications Guides and Meeting Reports PBSS Data Briefs   Resource Centerplus icon  Pressroom  Shareable Graphicsplus icon  Overdose Graphics Prescribing Graphics Illicit Opioid Graphics Rx Opioid Videos Rx Awareness Videos   Microsite Data Resources Additional HHS Resources Rx Awareness Campaign       email_03Get Email Updates To receive email updates about this topic, enter your email address:  Email Address  What's this?
+ Submit              HAVE QUESTIONS?
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ Cancel Continue

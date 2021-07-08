@@ -1,0 +1,3444 @@
+ 
+Thomas Jefferson Institute for Public 
+Policy
+ 
+ 
+The Thomas Jefferson Institute for Public Policy is a non
+-
+partisan research 
+and education organization devoted to improving the lives of the people of 
+Virginia.  The Institute was organized in Virginia in 1996 and, at that time, was the 
+only state 
+and local government focused public policy foundation based on a 
+philosophy of limited government, free enterprise and individual responsibility in 
+
+and programs currently b
+eing undertaken by state and local government 
+
+ 
+always 
+
+ 
+ 
+ 
+The work of the Institute is geared toward educating our political, business 
+and community leadership to the issues facing our society here in Virginia
+.  The 
+Institute offers suggested solutions to the problems facing our commonwealth in 
+a non
+-
+partisan manner.
+ 
+ 
+ 
+The Thomas Jefferson Institute for Public Policy is a fully approved 
+foundation by the Internal Revenue Service.  It is designated a 501 (c) 3 
+o
+rganization and contributions are tax
+-
+deductible under the law.  Individuals, 
+corporations, foundations and associations are invited to contribute to the 
+Thomas Jefferson Institute and participate in our programs.
+ 
+ 
+ 
+For more information on the programs and
+ 
+publications of the Thomas 
+Jefferson Institute for Public Policy, please contact:
+ 
+ 
+Thomas Jefferson Institute for Public Policy
+ 
+9035 Golden Sunset Lane
+ 
+Springfield, Virginia 22153
+ 
+703/440
+-
+9447
+ 
+ 
+ 
+ 
+ 
+ 
+
+Hospitals and the Proposed Virginia Medicaid
+ 
+Expansion
+
+necessarily reflect the views of the Thomas Jefferson Institute for Public Policy nor its 
+Board of Directors.  Nothing in this study should be construed as an attempt to hinder or 
+aid any legislation.
+ 
+ 
+  
+ 
+Foreword
+ 
+Although the expansion
+ 
+of Medicaid has been defeated in the Virginia General Assembly, the 
+advocates of Obamacare and for expansion of Medicaid under this program vow to keep this 
+issue alive.
+ 
+Last September the Thomas Jefferson Institute published a study that showed the profi
+t and loss 
+and net worth of the acute care hospitals here in Virginia.  That report was published because the 
+largest business group supporting Medicaid expansion was the hospitals.  They said they neede
+d 
+Medicaid expansion because 
+their financial health r
+equired it.  This study highlighted the 
+financial health of our hospitals and let the readers draw their own conclusions. This report can 
+be found
+ 
+here
+: 
+http://www.th
+omasjeffersoninst.org/files/3/Virginia%20Hospital%20Report.pdf
+ 
+And today the hospitals continue to be the major advocates outside of government for a major 
+expansion of Medicaid.
+ 
+And that will likely continue to be the case.
+ 
+The Washington Post
+ 
+on March 16
+, 2015 ran an article about the shaky financial health of rural 
+hospitals in our country.  That is also the case here in Virginia.  Most of the hospitals that are in 
+a 
+difficult financial situation here in the Commonwealth are the small, rural hospitals.
+ 
+T
+his study by Marc Joffe and Jason Fichtner highlight
+s
+ 
+the most current financial standing of 
+
+ 
+as available at the Virginia Hospital Information website. A
+nd it shows tha
+t,
+ 
+overall, our hospitals are doing very well.  And yet, as these a
+uthors point out, the smaller rural 
+hospitals are indeed the ones in trouble and they point out that public policy might indeed want 
+to help
+ 
+these health care facilities
+.  
+The authors maintain that 
+expanding Medicaid is not the
+ 
+best
+ 
+way to help these hospi
+tals.  It would be better, these authors argue, for our state to spend more 
+on these hospitals directly rather than expand Medicaid.
+ 
+This study shows how the for
+-
+profit and non
+-
+profit hospitals are doing financially.  The overall 
+net income for the for
+-
+pro
+fit hospitals was $243 million in 2013 (see page 4) and for the non
+-
+profit hospitals the net income was over $1 billion in 2013 (see page 6).  And the authors also 
+
+non
+-
+profit hospitals (pages 8, 9 and 10).
+ 
+Medicaid is already the fastest growing part of our state budget.  And the way that the law is 
+crafted, it tells the states that if they expand Medicaid, the federal government will pay 90% of 
+the cost for the expa
+nsion of this major entitlement program.  But it can really do so?
+ 
+Earlier this year, I attended a briefing with Congressman Paul Ryan who now chairs the United 
+
+Ry
+an made is very clear that the proposed expansion of Medicaid could not continue at the 
+ 
+i
+ 
+  
+promised 90% and that the cost for expansion will have to be reduced to match the current 
+payment structure for the rest of Medicaid.  That is basically a 50% 
+federal payment and 50% 
+state payment.  This means that any expansion of Medicaid in Virginia will end up being 
+extraordinarily expensive.
+ 
+This is not the first time the federal government has promised to pay new costs for a federally 
+mandated program.
+ 
+ 
+Th
+e 1975 Individuals with Disabilities Education Act (IDEA) imposed new 
+conditions on local school systems to provide students with disabilities with a free, appropriate 
+public education.
+ 
+ 
+The American Association of School Administrators has pointed out tha
+
+law proposed that federal funds should cover up to 40% of the excess cost of educating students 
+
+ 
+ 
+Today, the federal government covers less than 16 percent of those costs.
+ 
+ 
+Those who trust promises on Medicaid might consider the r
+ecord on IDEA.
+ 
+This study is published by the Thomas Jefferson Institute in order to show that the hospitals in 
+Virginia are, overall, doing pretty well financially.  The hospitals that are the main non
+-
+government advocates for Medicaid expansion are not i
+n financial difficulty.
+ 
+This study is provided as a public service so that the debate over health care in general and 
+Medicaid expansion specifically can take place with facts in front of our elected leaders and 
+others interested in this important issue.  
+This study is not meant to support or oppose any 
+specific legislation and does not necessarily reflect the opinions of the Thomas Jefferson Institute 
+or its Board of Directors.
+ 
+Michael W. Thompson, Chairman and President 
+Thomas Jefferson Institute for Publ
+ic Policy     
+April  2015
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+1
+ 
+ 
+Hospitals and the Proposed Virginia Medicaid Expansion
+ 
+ 
+By Marc D. Joffe and Jason J. Fichtner 
+1
+ 
+ 
+The debate over Medicaid expansion under the provisions of the Affordable Care Act (ACA) often 
+revolves around its impact on low income, uninsured adults. But Medicaid does not only benefit 
+enrollees; it also benefits various groups of medical providers. Indeed, Medicaid payments are made 
+directly to hospitals and other providers.
+ 
+ 
+Hospitals thus ha
+ve a financial incentive to support Medicaid expansion in Virginia and elsewhere. 
+After providing some evidence that Virginia hospitals are acting on this incentive, we consider whether 
+they should receive additional taxpayer funds through Medicaid. We fin
+d that hospitals have traditionally 
+acted on the belief that they have an obligation to provide care for economically disadvantaged patients 
+
+-
+for
+-
+profit hospitals are expected to fulfill this traditional obligation in return for the 
+ben
+efits that derive from their not
+-
+for
+-
+profit status. Further, we find that 
+
+ 
+by and large 
+-
+ 
+hospitals can 
+
+ 
+ 
+Hospital Support for Medicaid Expansion
+ 
+ 
+Of the $7 billion the Virginia 
+Medicaid program pays to providers, about $1.5 billion is remitted to 
+hospitals. It is expected that these facilities would receive a significant share of additional Medicaid 
+payments if the program is expanded. For example, a 2013 Robert Wood Johnson stud
+y estimated that 
+Virginia hospitals would receive an additional $600 million in 2016 if the state implemented Medicaid 
+expansion.
+2
+ 
+ 
+For this reason, hospital administrators are major supporters of Virginia Medicaid expansion. In 
+2013, the Virginia Hospital
+ 
+& Healthcare Association (VHHA) Political Action Committee donated 
+
+3
+ 
+The 
+
+
+ 
+the only Republican dele
+gate to vote 
+for Medicaid expansion when it was raised in February 2014.
+4
+ 
+ 
+ 
+VHHA also commissioned a study from Chmura Economics & Analytics
+5
+ 
+that concluded: 
+ 
+
+industry, provide cost sav
+ings for Virginia businesses, and increase household 
+spending for those newly insured. Consequently, the Medicaid expansion can 
+generate more Virginia jobs and tax revenue
+ 
+(p. 4)
+. 
+ 
+ 
+                                        
+                  
+ 
+1
+ 
+The authors wish to thank Anna Mills for her contributions to this research.
+ 
+2
+ 
+Stan Dorn, et. al., 
+The Financial Benefit to Hospitals from
+ 
+State Expansion of Medicaid
+ 
+(Robert Wood Johnson 
+Foundation, March 2013), http://www.rwjf.org/content/dam/farm/reports/issue_briefs/2013/rwjf405040.
+ 
+3
+ 
+
+Virginia State Board of Elections, 
+Campaign Finance Reports
+, n.d., 
+http://cfreports.sbe.virginia.gov/Committee/Index/f4dcfa71
+-
+6b73
+-
+e111
+-
+86d3
+-
+984be103f032
+.
+ 
+The disparity may be 
+partially explained by the phenomenon of campaig
+n contributors focusing their support on the likely winner, as 
+discussed by Dennis 
+Mueller
+, 
+Public Choice III
+ 
+(
+New York: Cambridge University Press
+, 2003)
+.
+ 
+4
+ 
+
+
+Washington Post
+, February 20, 2014, http://www.washingtonpost.com/local/virginia
+-
+politics/house
+-
+and
+-
+senate
+-
+in
+-
+virginia
+-
+at
+-
+loggerheads
+-
+over
+-
+medicaid
+-
+expansion/2014/02/20/7bdf47f0
+-
+9a3d
+-
+11e3
+-
+b931
+-
+0204122c514b_story.html.
+ 
+5
+ 
+Chmura Economics and Analytic
+s, 
+
+, 
+December 7, 2012, http://www.vhha.com/documents.html?id=845.
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+2
+ 
+ 
+Hospital association lobbying on behalf of Medicaid expansion can best be 
+understood in terms of 
+
+6
+ 
+Yandle concluded that new regulations have the 
+strongest chance of succeeding when they are supported by two distinct groups: true believers and interest 
+groups that can profit fr
+om the intervention. The colorful name for this theory stems from the Prohibition 
+era when Baptists (who ardently believed in the benefits of temperance) and Bootleggers (who could 
+profit from alcohol prohibition by driving out legal distributors and there
+by gaining pricing power) found 
+themselves on the same side.
+ 
+ 
+Although Yandle proposed the theory to explain regulation, it has since been applied to other areas 
+of rent
+-
+seeking behavior, such as subsidies. In 2007, Michael Cannon
+, health care expert at 
+the Cato 
+Institute,
+ 
+described an alliance of healthcare access advocates and healthcare provider lobbies supporting 
+
+7
+ 
+This alliance is once again at play 
+in Virginia, where hospitals and ot
+her providers join with advocacy groups such as
+ 
+the labor union 
+supported
+ 
+Virginia Organizing to lobby on behalf of Medicaid expansion.
+ 
+ 
+A possible objection to the Bootleggers and Baptists analogy is that hospital administrators deserve 
+far more respect t
+han liquor smugglers. Health care might be viewed as a necessity and service to the 
+public welfare, while alcohol viewed as a guilty pleasure. But the simple fact that a lobbying group is 
+
+t attempt to extract rents (excess 
+returns) for its work. And, when a provider group seeks to extract rents for its service, it is reasonable for 
+academic researchers to identify its rent seeking behavior.
+ 
+ 
+A further objection is that most hospitals operat
+e as not
+-
+for
+-
+profits creating the presumption that 
+management is primarily motivated by non
+-
+pecuniary concerns. We will question that presumption 
+below, and offer evidence that many not
+-
+for
+-
+profit institutions offer their stakeholders opportunities for 
+fin
+ancial gain.
+ 
+ 
+Charity Care and Medicaid: Some Historical Perspective
+ 
+Charity care 
+
+ 
+the provision of medical services to the poor regardless of their ability to pay 
+
+ 
+has a 
+
+professional duties in the American 
+
+8
+ 
+In 1932, the Committee on the Costs of Medical 
+Care found that the very poorest Americans used hospitals as frequently as the wealthiest Americans, 
+because of the avail
+ability of charity care. At that time, a combination of pro bono services, philanthropic 
+donations that supported the operations of sectarian hospitals and public hospitals funded by local 
+governments provided the poor with free or reduced cost access to m
+edical facilities
+.
+9
+ 
+ 
+Federal involvement in hospital finance began after World War II and greatly increased with the 
+1965 passage of Medicare and Medicaid. But even with federal funding, the expectation that hospitals 
+would provide charity care remained. I
+n 1986, Congress passed the Emergency Medical Treatment and 
+Labor Act (EMTALA) requiring all Medicare
+-
+participating hospitals to provide emergency services 
+regardless of ability to pay. Virtually all hospitals in Virginia participate in Medicare.
+10
+ 
+ 
+ 
+                                        
+                  
+ 
+6
+ 
+
+Regulation
+ 
+22, no. 3 (October 1999): 5
+
+7.
+ 
+7
+ 
+Michael F. Cannon, 
+Sinking SCHIP: A First Step toward Stopping the Growth of Government Health Programs
+, Cato 
+Briefing Papers, September 13, 2007, http://object.cato.org/sites/cato.org/files/pubs/pdf/bp99.pdf.
+ 
+8
+ 
+Code of Ethics of the American Medical Association: Originally 
+Adopted at the Adjourned Meeting of the National 
+Medical Convention in Philadelphia, May, 1847
+ 
+(Chicago: American Medical Association Press, 1900).
+ 
+9
+ 
+Jonathan Engel, 
+
+ 
+(Durham, NC: Duke 
+Un
+iversity Press, 2006).
+ 
+10
+ 
+
+2012, https://www.cms.gov/Regulations
+-
+and
+-
+Guidance/Legislation/EMTALA/index.html?redirect=/emtala/.
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+3
+ 
+ 
+This b
+ackground suggests that access to hospital care for the economically disadvantaged has not 
+been a matter of debate.  Instead, the question is one of whether taxpayers should bear a larger burden of 
+the charitable care historically provided by hospitals. On
+e criterion for making this policy choice is 
+
+ 
+of the federal poverty line (the income 
+ceiling for the proposed Medicaid expansion in Virginia) come to the emergency room, can hospitals 
+af
+ford to treat them?
+ 
+ 
+Hospital Income
+ 
+To assess whether hospitals can afford to provide charity care, we can review their income 
+statements. In Virginia, hospital financial and operating data are collected by Virginia Health Information 
+(VHI), working under
+ 
+contract with the Virginia Department of Health.
+11
+ 
+VHI publishes a Hospital Detail 
+Report and various Industry Reports on an annual basis. These data sets may be purchased from VHI, 
+
+http://www.vhi.org
+. 
+ 
+ 
+
+
+care
+
+in the VHI data set.
+ 
+ 
+Table 1: VHI Summary Data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of 
+Hospitals
+ 
+Number of 
+Admissions 
+(2013)
+ 
+2013 Net 
+Income
+ 
+Number with 
+Positive Net 
+Income
+ 
+Number with 
+Negative Net 
+Income
+ 
+For Profit
+ 
+30
+ 
+162,455
+ 
+ 
+$     243,150,288 
+ 
+21
+ 
+9
+ 
+Not
+-
+for
+-
+profit
+ 
+66
+ 
+541,585
+ 
+    
+1,027,763,136 
+ 
+47
+ 
+19
+ 
+Government
+ 
+5
+ 
+76,985
+ 
+        
+265,338,388 
+ 
+4
+ 
+1
+ 
+Totals
+ 
+101
+ 
+781,025
+ 
+ 
+$ 1,536,251,812 
+ 
+72
+ 
+29
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Virginia 
+Hospital Information, Hospital Reports 2013 and Author's calculations.
+ 
+ 
+ 
+                                        
+                  
+ 
+11
+ 
+For more information about
+ 
+VHI, please see 
+
+http://www.vdh.virginia.gov/Administration/VHI/index.htm
+ 
+and 
+Virginia Health Information, 
+From Numbers to 
+Knowledge: VHI 2013 Annual Report and Strategic Update
+, 2013, 
+htt
+p://vhi.org/files/pdfs_to_download_from_web/AR&SPU%202013.pdf.
+ 
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+4
+ 
+ 
+ 
+In aggregate, Virginia hospitals reported strong financial results, with revenues exceeding 
+expenditures by almost $1.5 billion, representing a return on income of roughly 8%. 
+Hospitals in all three 
+ownership categories 
+
+ 
+for profit, private not
+-
+for
+-
+profit and government 
+
+ 
+reported positive net income.
+12
+ 
+That said, some individual hospitals sustained operating losses. Most of these money losing facilities are 
+smaller hospitals wi
+th less than 100 staffed beds.
+ 
+ 
+For Profit Hospitals
+ 
+For profit hospitals account for over 20 percent of admissions in the VHI data set.  The biggest 
+private hospital company in Virginia is Hospital Corporation of America, which operates hospitals in 
+sever
+al states and trades on the New York Stock Exchange as HCA Holdings, Inc. (symbol HCA). The 
+company reported close to $1.6 billion in net income in 2013. But this number understates the 
+
+buted to minority interests when HCA 
+owns less than 100 percent of a given hospital. When net income attributable to non
+-
+controlling interests 
+is included, HCA hospitals reported aggregate net income of $2.0 billion.
+13
+ 
+Between January 1, 2012 and 
+December 3
+
+14
+ 
+HCA 
+has not only performed well for its owners; company executives have also benefited. According to 
+company proxy materials, CEO Richard Bracken received $16.5 million in 
+total 2013 compensation, 
+while the next four highest paid executives received a total in excess of $20 million 
+
+ 
+averaging $5 
+million each.
+15
+ 
+ 
+HCA is not the only profitable hospital company operating in Virginia, as shown in Table 2. 
+ 
+Table 2: Virginia For
+-
+Profit Hospitals by Corporate Parent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company (Ticker Symbol)
+ 
+Number 
+of Virginia 
+Hospitals 
+(2013)
+ 
+Virginia Hospital 
+2013 Net Income
+ 
+Total Corporate 
+Earnings (2013)
+ 
+ 
+Hospital Corporation of America (HCA)
+ 
+10
+ 
+ 
+$        206,288,855 
+ 
+ 
+$       1,556,000,000 
+ 
+ 
+HealthSouth (HLS)
+ 
+6
+ 
+              
+11,791,138 
+ 
+              
+323,600,000 
+ 
+ 
+LifePoint (LPNT)
+ 
+6
+ 
+              
+27,969,676 
+ 
+              
+127,800,000 
+ 
+ 
+Community Health Systems (CYH)
+ 
+3
+ 
+              
+(2,138,407)
+ 
+              
+141,203,000 
+ 
+ 
+Universal Health Services (UHS)
+ 
+3
+ 
+(78,583)                    
+(78,583)
+ 
+              
+510,733,000 
+ 
+ 
+Other For
+-
+Profit
+ 
+2
+ 
+                 
+(682,391)
+ 
+ 
+ 
+ 
+Totals
+ 
+30
+ 
+ 
+$        243,150,288 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Virginia Hospital 
+Information, Company 10
+-
+K Filings
+ 
+ 
+                                        
+                  
+ 
+12
+ 
+The Thomas Jefferson Institute reported Virginia hospital income and net worth in a September 2014 study 
+entitled 
+
+ 
+available at 
+http://www.thomasjeffersoninst.org/files/3/Virginia%20Hospital%20Report.pdf
+.
+ 
+13
+ 
+HCA Holdings, Inc., 
+Annual Report to Stockholders
+, 2013, 
+http://hcahealthcare.investorhq.
+businesswire.com/sites/hcahealthcare.investorhq.businesswire.com/files/report/
+file/HCA_2013_Annual_Report.pdf.
+ 
+14
+ 
+
+ 
+http://finance.yahoo.com/echarts?s=HCA
+.
+ 
+15
+ 
+HCA Holdings, Inc., 
+Proxy Materials
+, March 14, 2014, http://quote.m
+orningstar.com/stock
+-
+filing/Proxy
+-
+Statement/2014/4/23/t.aspx?t=XNYS:HCA&ft=DEF%2014A&d=e8d1d3cb4290605d9895df2e24a0ed2f.
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+5
+ 
+ 
+ 
+Four other companies operate multiple Virginia hospitals. Two realized subsantial positive net 
+income from their Virginia hospitals, and all of them had substantial profits at the corporate level in both 
+2012 and 2013. 
+Although earnings declined in 2013, Virginia appears to remain an attractive market to 
+for
+-
+
+
+16
+ 
+ 
+We have no quarrel with 
+corporate profits per se, nor do we advocate government controlling 
+executive pay. We raise the issues of profits, stock performance and executive compensation to make the 
+simple point that these hospital chains do not need the additional subsidies that Me
+dicaid expansion 
+would provide.
+ 
+ 
+Profiting from Not
+-
+for
+-
+Profit Hospitals
+ 
+
+-
+for
+-
+
+than private benefit.
+ 
+
+-
+for
+-
+
+-
+
+orporations is less clear 
+than the terminology suggests. Not
+-
+for
+-
+profit hospitals can and do run surpluses.
+17
+ 
+ 
+
+-
+for
+-
+profit hospitals had aggregate net 
+income of $1.028 billion in 2013. Many Virginia
+ 
+hospitals are members of large health systems that often 
+operate across state lines. Table 3 (next page) shows the performance of the eight not
+-
+for
+-
+profit health 
+systems that operated at least three hospitals in Virginia in 2013. All eight of the not
+-
+for
+-
+profits recorded 
+revenues greater than expenditures on their Virginia hospitals in 2013; and they all reported revenues 
+greater than expenditures system
+-
+wide on their most recently published financial statements. 
+ 
+ 
+Despite the lack of Medicaid expansion th
+us far, two systems have expanded operations in Virginia 
+recently. In March 2014, Novant Health opened Haymarket Medical Center, a 60
+-
+bed community hospital 
+in northern Virginia. Novant Health operates a total of 15 hospitals in four states including Princ
+e 
+William Medical Center in Manassas, VA.
+18
+ 
+Meanwhile, in February 2014, Bon Secours Health System 
+announced plans to take over Rappahannock General Hospital in Kilmarnock, VA.
+19
+ 
+ 
+ 
+ 
+ 
+ 
+                                        
+                  
+ 
+16
+ 
+
+2013, http://www.fauquie
+rhealth.org/Partnership.
+ 
+17
+ 
+The literature contains a number of studies that explore the convergence of not
+-
+for
+-
+profit and for
+-
+profit 
+hospitals and question whether not
+-
+for
+-
+profits provide community benefits sufficient to justify their status.
+ 
+See, 
+f
+or 
+example
+, 
+
+-
+
+International Journal of Health Care Finance and Economics
+ 
+9, no. 4 (December 2009): 403
+
+28
+; 
+David P. Gehant, 
+Are Non
+-
+Profit Hospitals Doing Enough to Ju
+stify Their Exemptions? A Comparative Analysis.
+, Doctoral Project 
+(Medical University of South Carolina, 2008), http://lcdl.library.cofc.edu/lcdl/catalog/lcdl:32516; 
+and 
+Congressional 
+Budget Office, 
+Nonprofit Hospitals and the Provision of Community Benefi
+ts
+, December 2006, 
+http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/76xx/doc7695/12
+-
+06
+-
+nonprofit.pdf.
+ 
+18
+ 
+
+Potomac Local News
+, 
+March 28, 2014, http://potomaclocal.com/201
+4/03/28/novant
+-
+health
+-
+announces
+-
+opening
+-
+of
+-
+haymarket
+-
+medical
+-
+center/.
+ 
+19
+ 
+
+Richmond Times Dispatch
+, 
+February 12, 2014, http://www.timesdispatch.com/business/health/bon
+-
+secours
+-
+to
+-
+acqui
+re
+-
+rappahannock
+-
+general
+-
+in
+-
+kilmarnock/article_ad2fda53
+-
+bb95
+-
+58d1
+-
+956d
+-
+f489af304daf.html.
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+6
+ 
+ 
+ 
+Table 3: Not
+-
+For
+-
+Profit Hospital Groups in Virginia
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number 
+of 
+Virginia 
+Hospitals 
+(2013)
+ 
+Virginia Hospital 2013 
+Net Income
+ 
+Group
+-
+Wide Excess 
+of Revenue over 
+Expenses (2013)
+ 
+ 
+Sentara Healthcare
+ 
+12
+ 
+ 
+$            211,636,360 
+ 
+ 
+$        606,412,000 
+ 
+ 
+Bon Secours Health System
+ 
+7
+ 
+               
+122,209,540 
+ 
+           
+170,850,000 
+ 
+ 
+Carilion Clinic and Subsidiaries
+ 
+7
+ 
+               
+170,251,781 
+ 
+           
+142,984,000 
+ 
+ 
+Riverside Health Care Association
+ 
+8
+ 
+                  
+50,713,000 
+ 
+                
+5,360,000 
+ 
+ 
+Inova Health System
+ 
+5
+ 
+               
+160,435,032 
+ 
+           
+662,468,000 
+ 
+ 
+Mountain States Health Alliance
+ 
+5
+ 
+                    
+5,687,794 
+ 
+              
+59,567,000 
+ 
+ 
+Valley Health System
+ 
+4
+ 
+                  
+19,896,120 
+ 
+              
+18,597,000 
+ 
+ 
+Centra Health
+ 
+3
+ 
+                  
+46,425,139 
+ 
+              
+59,963,787 
+ 
+ 
+Other Private Not
+-
+for
+-
+Profit
+ 
+15
+ 
+               
+240,508,370 
+ 
+ 
+ 
+ 
+Total
+ 
+66
+ 
+ 
+$        1,027,763,136 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sources: Virginia Health Information, Form 990 Filings and Audited Financial Statements.
+ 
+ 
+ 
+From an economic standpoint, the distinction between for profit and not
+-
+for
+-
+profit organizations is 
+that the latter do not have an obvious residual claimant. When a for
+-
+profit firm realizes profits, these 
+
+anagement, acting as an agent for shareholders, may 
+decide to retain and reinvest the earnings, rather than distribute them as dividends 
+
+ 
+but the profits clearly 
+
+-
+for
+-
+profit hospital gro
+up, excess 
+revenues are not the property of any individual or set of individuals.
+ 
+ 
+However, the fact that excess income at non
+-
+profit hospitals does not legally belong to anyone, does 
+not mean that they cannot be used for individual benefit. For several de
+cades, economists have studied 
+residual claimants at not
+-
+for
+-
+profit hospitals. In a 1973 
+American Economic Review
+ 
+article, Mark Pauly 
+and Michael Redisch theorized that physicians enjoy 
+de facto
+ 
+control of not
+-
+for
+-
+profit hospitals and they 
+use their power 
+to maximize their practice incomes. Pauly and Redisch conclude that physician control 
+will result in hospitals of smaller than optimal size, because incumbent physicians have an incentive to 
+restrict the number of new doctors permitted to admit patients to
+ 
+the facility.
+20
+ 
+ 
+                                        
+                  
+ 
+20
+ 
+
+-
+for
+-
+
+The American 
+Economic Review
+ 
+63, no. 1 (March 1973): 87
+
+99.
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+7
+ 
+ 
+The emergence of multi
+-
+facility health systems has given rise to a class of hospital administrators 
+who may have supplanted physicians since Pauly and Redisch published their findings in 1973. A 
+Compdata salary survey reported in the 
+New Y
+ork Times
+ 
+found that the average hospital administrator 
+earned more than the average general practitioner, while the average hospital CEO received $386,000 in 
+cash compensation plus substantial non
+-
+cash benefits.
+21
+ 
+The story quotes Cathy Schoen of the 
+Commo
+
+At large hospitals there are senior V.P.s, V.P.s of 
+this, that and the
+ 
+
+ach one of them is paid more than before, and
+ 
+more than in any other country.
+
+While we urge caution in criticizing the organizatio
+nal and compensation policies of not
+-
+for
+-
+profit 
+hospital groups, we question whether further taxpayer subsidies are required to support these practices.
+ 
+ 
+Not
+-
+for
+-
+profit organizations are required to list executive compensation in their annual IRS reports 
+u
+sing IRS tax Form 990, which is roughly analogous to Form 1040 but requires much more information. 
+The IRS publishes scanned images of these reports and several organizations display them on the 
+internet.
+22
+ 
+We collected the most recently available Forms 990
+ 
+
+ 
+mostly reflecting 2012 data 
+-
+ 
+from these 
+web sites and reviewed executive compensation levels. These highly compensated executives are listed in 
+Table 4. Over 100 additional not
+-
+for
+-
+profit hospital executives with Virginia connections were awarded 
+betwe
+en $500,000 and $1,000,000 in total compensation according to the latest available reports (which 
+are mostly from 2012 and 2013). 
+ 
+ 
+High compensation is not objectionable per se. Firms operating in a competitive environment 
+without taxpayer subsidies may d
+etermine that highly paid executives add sufficient value to justify their 
+compensation. But Virginia hospitals and health systems operate in a highly regulated environment and 
+receive a substantial portion of their revenue from governmental sources. Thus,
+ 
+it is possible that high 
+executive compensation levels include economic rents as well as residual claims on the excess income of 
+their institutions. It is also appropriate for the public and policymakers to consider these compensation 
+levels when taxpayer
+s 
+
+ 
+both in Virginia and across the nation 
+
+ 
+are being asked to increase the support 
+they provide to these institutions.
+ 
+ 
+With respect to subsidies, it is also worth noting that not
+-
+for
+-
+profit hospitals receive benefits from 
+their status as charitable orga
+nizations. Among these benefits are the ability to receive tax deductible 
+contributions, exemptions from income, property and sales taxes, and the access to tax
+-
+exempt bond 
+financing (tax
+-
+exempt bonds pay lower interest rates than taxable bonds with simila
+r risk and maturity 
+dates).
+23
+ 
+Until 1969, not
+-
+for
+-
+profit hospitals were explicitly required to provide charity care to be eligible 
+for tax exemption. This conditionality was weakened by IRS Revenue Ruling 69
+-
+545, which allowed 
+non
+-
+profits to retain their ta
+
+24
+ 
+ 
+ 
+ 
+ 
+ 
+                                        
+                  
+ 
+21
+ 
+Elisabeth R
+
+New York Times
+, May 17, 2014, 
+http://nyti.ms/1jpkhLo.
+ 
+22
+ 
+Form 990 internet repositories are available from Guidestar, Propublica, PublicResource.org, CitizenAudit.org 
+and the National Center for Charitable Statistics.
+ 
+23
+ 
+See 
+William Gentry and John Penrod, 
+The Tax Benefits of Not
+-
+for
+-
+Profit Hospitals
+ 
+(National B
+ureau of Economic 
+Research, February 1998), http://www.nber.org/papers/w6435.
+ 
+and 
+
+
+http://www.tax.virginia.gov/site.cfm?alias=SUTExemption.
+ 
+24
+ 
+Hele
+
+Inquiry
+ 
+44, 
+no. 2 (Summer 2007): 187
+
+99.
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+8
+ 
+ 
+Table 4: Not
+-
+For
+-
+Profit Hospital Executives with Total Compensation in 
+Excess of $1,000,000
+ 
+Employer
+ 
+Name
+ 
+Title
+ 
+Reportable 
+Compensation 
+from the 
+Organization
+ 
+Reportable 
+Compensation 
+from Related 
+Organizations
+ 
+Other 
+Compensation 
+from 
+Organization 
+and Related 
+Organizations
+ 
+Total 
+Compensation
+ 
+Novant Health Inc.
+ 
+Paul M. Wiles 
+ 
+Former CEO  
+ 
+$11,115,042
+ 
+$0
+ 
+$27,210
+ 
+$11,142,252
+ 
+Sentara Healthcare
+ 
+David L. Bernd
+ 
+CEO/Director/Trustee
+ 
+4,981,854
+ 
+0
+ 
+326,749
+ 
+5,308,603
+ 
+Sentara Healthcare
+ 
+Howard P. Kern
+ 
+COO/President
+ 
+3,731,697
+ 
+0
+ 
+722,594
+ 
+4,454,291
+ 
+Inova Alexandria Hospital
+ 
+J. Knox 
+Singleton
+ 
+President
+ 
+0
+ 
+3,538,107
+ 
+644,863
+ 
+4,182,970
+ 
+Mountain States Health 
+Alliance
+ 
+Dennis Vonderfecht
+ 
+CEO
+ 
+3,163,747
+ 
+0
+ 
+42,698
+ 
+3,206,445
+ 
+Novant Health Inc.
+ 
+Carl Steven Amato
+ 
+CEO & President
+ 
+1,665,294
+ 
+0
+ 
+1,133,054
+ 
+2,798,348
+ 
+Inova Health Care Services
+ 
+Mark 
+Stauder
+ 
+COO
+ 
+0
+ 
+1,949,318
+ 
+553,322
+ 
+2,502,640
+ 
+Novant Health Inc.
+ 
+Stephen L. Wallenhaupt 
+ 
+EVP Chief Medical Officer
+ 
+1,678,522
+ 
+0
+ 
+764,557
+ 
+2,443,079
+ 
+Bon Secours Health System
+ 
+Richard Statuto
+ 
+CEO/President
+ 
+2,187,270
+ 
+0
+ 
+171,522
+ 
+2,358,792
+ 
+Novant Health Inc.
+ 
+Gregory
+ 
+Beier
+ 
+Former EVP & President 
+Novant Ops
+ 
+1,968,280
+ 
+0
+ 
+31,704
+ 
+1,999,984
+ 
+Carilion Services, Inc.
+ 
+Nancy Howell Agee
+ 
+President/CEO/Director
+ 
+1,124,997
+ 
+837,490
+ 
+ 
+1,962,487
+ 
+Centra Health
+ 
+George W. Dawson
+ 
+Former CEO
+ 
+1,873,346
+ 
+0
+ 
+2,669
+ 
+1,876,015
+ 
+Inova Health Care 
+Services
+ 
+John Niederhuber
+ 
+CEO, ITMI
+ 
+0
+ 
+1,748,456
+ 
+53,427
+ 
+1,801,883
+ 
+Children's Hospital of the King's 
+Daughters
+ 
+James D. Dahling
+ 
+President/Director
+ 
+0
+ 
+919,968
+ 
+844,712
+ 
+1,764,680
+ 
+Novant Health Inc.
+ 
+Fred McDowell Hargett
+ 
+EVP & Chief Financial 
+Officer
+ 
+1,072,470
+ 
+0
+ 
+631,816
+ 
+1,704,286
+ 
+Novant Health Inc.
+ 
+Jacqueune Rene Daniels
+ 
+EVP & Chief 
+Administrative Officer
+ 
+1,072,630
+ 
+0
+ 
+581,604
+ 
+1,654,234
+ 
+Bon Secours Health System
+ 
+Peter Bernard
+ 
+EVP  
+-
+  
+CEO VA  Health  
+System
+ 
+1,438,081
+ 
+0
+ 
+192,966
+ 
+1,631,047
+ 
+Novant Health Inc.
+ 
+Lawrence Upchurch 
+McGee
+ 
+Senior VP & General 
+Counsel
+ 
+1,074,617
+ 
+0
+ 
+501,213
+ 
+1,575,830
+ 
+Sentara Healthcare
+ 
+Michael M. Dudley 
+ 
+Sr VP
+ 
+905,211
+ 
+0
+ 
+660,683
+ 
+1,565,894
+ 
+Carilion Medical Center
+ 
+Gary Simonds MD
+ 
+Physician
+ 
+1,376,853
+ 
+0
+ 
+81,789
+ 
+1,458,642
+ 
+Sentara Healthcare
+ 
+Gary R. Yates MD
+ 
+Sr VP/CMO
+ 
+1,281,743
+ 
+0
+ 
+172,648
+ 
+1,454,391
+ 
+Novant Health Inc.
+ 
+Ann Unersallye
+ 
+EVP & Chief Clinical 
+Officer
+ 
+1,090,005
+ 
+0
+ 
+309,277
+ 
+1,399,282
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+9
+ 
+ 
+Table 4: Not
+-
+For
+-
+Profit Hospital Executives with Total Compensation in 
+Excess of $1,000,000
+ 
+Employer
+ 
+Name
+ 
+Title
+ 
+Reportable 
+Compensation 
+from the 
+Organization
+ 
+Reportable 
+Compensation 
+from Related 
+Organizations
+ 
+Other 
+Compensation 
+from 
+Organization 
+and Related 
+Organizations
+ 
+Total 
+Compensation
+ 
+Sentara Healthcare
+ 
+Robert A. Broermann
+ 
+CFO/Treasurer
+ 
+1,203,319
+ 
+0
+ 
+186,076
+ 
+1,389,395
+ 
+Novant Health Inc.
+ 
+Diana Lee Best
+ 
+Senior VP
+ 
+921,415
+ 
+0
+ 
+464,295
+ 
+1,385,710
+ 
+University of Virginia 
+Physician's Network
+ 
+Mark A. Stoler MD
+ 
+Physician
+ 
+1,213,392
+ 
+123,983
+ 
+39,322
+ 
+1,376,697
+ 
+Carilion Medical Center
+ 
+Jonathan Carmouche MD
+ 
+Physician
+ 
+1,339,609
+ 
+0
+ 
+28,203
+ 
+1,367,812
+ 
+Riverside
+ 
+Healthcare 
+Associaton
+ 
+William McAllister
+ 
+Physician
+ 
+1,309,680
+ 
+0
+ 
+32,947
+ 
+1,342,627
+ 
+Riverside Healthcare 
+Associaton
+ 
+Dean Kostov
+ 
+Physician
+ 
+1,299,757
+ 
+0
+ 
+13,871
+ 
+1,313,628
+ 
+Novant Health Inc.
+ 
+Derrick Mark Billings
+ 
+President, NH Shared 
+Services
+ 
+265,992
+ 
+672,531
+ 
+351,889
+ 
+1,290,412
+ 
+Inova Alexandria Hospital
+ 
+Richard Magenheimer
+ 
+Treasurer
+ 
+0
+ 
+980,061
+ 
+300,965
+ 
+1,281,026
+ 
+Inova Health Care Services
+ 
+James Eklund
+ 
+Physician
+ 
+1,188,645
+ 
+0
+ 
+71,625
+ 
+1,260,270
+ 
+Bon Secours Health System
+ 
+Timothy Davis 
+ 
+EVP
+-
+CHRAO
+ 
+1,122,284
+ 
+0
+ 
+134,895
+ 
+1,257,179
+ 
+Carilion Medical Center
+ 
+Joseph Moskal MD
+ 
+Physician
+ 
+1,202,806
+ 
+0
+ 
+46,126
+ 
+1,248,932
+ 
+Carilion Medical Center
+ 
+Nicholas Qandah MD
+ 
+Physician
+ 
+1,222,179
+ 
+0
+ 
+20,900
+ 
+1,243,079
+ 
+Novant Health Inc.
+ 
+Tony W Johnson
+ 
+Senior VP
+ 
+845,963
+ 
+0
+ 
+388,180
+ 
+1,234,143
+ 
+Bon 
+Secours Health System
+ 
+Markon Prest, MD
+ 
+EVP
+-
+CMO
+ 
+1,039,465
+ 
+0
+ 
+158,468
+ 
+1,197,933
+ 
+University of Virginia 
+Physicians Group
+ 
+Irving L. Kron MD
+ 
+Co
+-
+Vice Chair of the 
+Board
+ 
+544,677
+ 
+576,488
+ 
+67,906
+ 
+1,189,071
+ 
+Maryview Hospital
+ 
+Mark B. Kerner MD 
+ 
+Physician
+ 
+1,148,006
+ 
+0
+ 
+36,611
+ 
+1,184,617
+ 
+Mary Washington Healthcare 
+Group
+ 
+Glen I Poffenbarger MD 
+ 
+Neurosurgeon
+ 
+1,138,490
+ 
+0
+ 
+40,260
+ 
+1,178,750
+ 
+Sentara Medical Group
+ 
+Bill W. Berry Jr. MD
+ 
+Physician
+ 
+1,119,300
+ 
+0
+ 
+58,787
+ 
+1,178,087
+ 
+Novant Health Inc.
+ 
+David G. Park 
+ 
+Senior VP
+ 
+816,329
+ 
+0
+ 
+351,856
+ 
+1,168,185
+ 
+The Fauquier Hospital 
+Incorporated
+ 
+Rodger Baker
+ 
+President/CEO
+ 
+1,087,052
+ 
+0
+ 
+72,527
+ 
+1,159,579
+ 
+Riverside Healthcare 
+Associat
+i
+on
+ 
+Richard Pearce
+ 
+Exec Vice Chairman
+ 
+1,108,596
+ 
+0
+ 
+33,592
+ 
+1,142,188
+ 
+Bon Secours Health System
+ 
+Matthew Toddy 
+ 
+EVP  & 
+General  Counsel
+ 
+1,014,148
+ 
+0
+ 
+116,512
+ 
+1,130,660
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+10
+ 
+ 
+Table 4: Not
+-
+For
+-
+Profit Hospital Executives with Total Compensation in 
+Excess of $1,000,000
+ 
+Employer
+ 
+Name
+ 
+Title
+ 
+Reportable 
+Compensation 
+from the 
+Organization
+ 
+Reportable 
+Compensation 
+from Related 
+Organizations
+ 
+Other 
+Compensation 
+from 
+Organization 
+and Related 
+Organizations
+ 
+Total 
+Compensation
+ 
+Carilion Services, Inc.
+ 
+Donald Lorton
+ 
+Assistant Treasurer
+ 
+0
+ 
+756,751
+ 
+353,047
+ 
+1,109,798
+ 
+Riverside Healthcare 
+Associat
+i
+on
+ 
+William Downey
+ 
+President, CEO RHS
+ 
+1,068,287
+ 
+0
+ 
+38,496
+ 
+1,106,783
+ 
+Bon Secours, DePaul 
+Medical 
+Center
+ 
+John R. Baker, MD
+ 
+Physician
+ 
+1,067,907
+ 
+0
+ 
+37,334
+ 
+1,105,241
+ 
+Rockingham Memorial Hospital
+ 
+James D. Krauss
+ 
+President
+ 
+950,446
+ 
+0
+ 
+146,048
+ 
+1,096,494
+ 
+Wellmont Health System
+ 
+Margaret Denarvaez
+ 
+President
+ 
+1,031,881
+ 
+0
+ 
+47,176
+ 
+1,079,057
+ 
+Bon Secours 
+Health System
+ 
+Michael Kerner
+ 
+CEO
+-
+BS Hampton Roads 
+Health System
+ 
+936,925
+ 
+0
+ 
+132,770
+ 
+1,069,695
+ 
+Martha Jefferson Hospital
+ 
+Kenneth H. Karkaur
+ 
+Board Member
+ 
+0
+ 
+979,254
+ 
+84,563
+ 
+1,063,817
+ 
+Sentara Healthcare
+ 
+Kenneth M. Krakaur 
+ 
+Sr VP
+ 
+979,254
+ 
+0
+ 
+84,563
+ 
+1,063,817
+ 
+Carilion Medical Center
+ 
+Cay Mierisch MD
+ 
+Physician
+ 
+1,001,548
+ 
+0
+ 
+57,129
+ 
+1,058,677
+ 
+Novant Health Inc.
+ 
+Robert H. Seehausen Jr.
+ 
+Senior VP
+ 
+629,942
+ 
+0
+ 
+407,521
+ 
+1,037,463
+ 
+Bon Secours Health System
+ 
+Mark Nantz
+ 
+CEO 
+-
+ 
+St. Francis Health 
+System
+ 
+952,104
+ 
+0
+ 
+80,530
+ 
+1,032,634
+ 
+Novant Health Inc.
+ 
+Jim George Tobalski 
+ 
+Sr VP Mkting/Comm & 
+Gov Affairs
+ 
+984,577
+ 
+0
+ 
+43,775
+ 
+1,028,352
+ 
+Sentara Healthcare
+ 
+Mary L. Blunt 
+ 
+Corp VP
+ 
+0
+ 
+848,417
+ 
+174,487
+ 
+1,022,904
+ 
+Inova Health Care Services
+ 
+Marshall Ruffin
+ 
+Chief Technology Officer
+ 
+0
+ 
+854,237
+ 
+162,975
+ 
+1,017,212
+ 
+Inova Health Care Services
+ 
+Loring Flint
+ 
+Chief Medical Officer
+ 
+0
+ 
+834,890
+ 
+180,304
+ 
+1,015,194
+ 
+Bon Secours Health System
+ 
+Samuel Ross, MD
+ 
+CEO
+-
+BS  Baltimore  Health  
+System
+ 
+938,123
+ 
+0
+ 
+76,328
+ 
+1,014,451
+ 
+Mary Washington Healthcare 
+Group
+ 
+Glenn J. Poffenbarger MD
+ 
+Physician
+ 
+975,578
+ 
+0
+ 
+38,786
+ 
+1,014,364
+ 
+Riverside Healthcare 
+Associat
+i
+on
+ 
+Robert Cullom
+ 
+Physician
+ 
+1,004,836
+ 
+0
+ 
+1,062
+ 
+1,005,898
+ 
+University of Virginia 
+Physicians Group
+ 
+John A. Kern MD
+ 
+Physician/Professor
+ 
+793,315
+ 
+169,426
+ 
+38,614
+ 
+1,001,355
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sou
+r
+ce:  IRS Form 990 Filings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+11
+ 
+ 
+ 
+ 
+Government
+ 
+(Public)
+ 
+Hospitals
+ 
+ 
+Medical centers operated by governmental entities are not a major component of the Virginia 
+hospital scene. Of the six facilities in this category, 
+four are operated by public universities: University of 
+Virginia and Virginia Commonwealth University. The largest of these facilities are teaching hospitals 
+with substantial operating margins and the ability to leverage the services of interns and residen
+ts at low 
+cost. As appendages of large universities, these hospitals may be expected to have more in common with 
+private not
+-
+for
+-
+profit medical centers. In fact, the physicians at UVA and VCU are employed by private, 
+501(c)3 physician groups. Two UVA physi
+cians are on the list of not
+-
+for
+-
+profit hospital employees 
+earning over $1 million annually in Table 4.
+ 
+ 
+Virginia does not have large urban public hospitals like Bellevue Hospital in New York or Grady 
+Memorial Hospital in Atlanta that would normally be exp
+ected to have unusually high concentrations of 
+uninsured and Medicaid patients. That said, patients in these categories are not distributed uniformly 
+across Virginia hospitals, as we discuss below.  
+ 
+ 
+Disproportionate Share Hospitals and Hospital Closures
+ 
+Although privately
+-
+owned Virginia hospitals are performing well in the aggregate, individual 
+results vary. Hospitals in less affluent areas admit a greater proportion of uninsured patients and Medicaid 
+beneficiaries. Uninsured patients often do not pay the
+ir hospital bills, while Medicaid provider payments 
+are generally lower than rates paid by Medicare and private insurers
+. In 1981, Congress authorized special 
+payments to so
+-
+called Disproportionate Share Hospitals (DSH) 
+
+ 
+those that care for an unusually l
+arge 
+share of uninsured and Medicaid patients.
+25
+ 
+ 
+ 
+ 
+Nationally, a number of rural hospitals have shut down since the beginning of 2013. In Georgia, 
+four such hospitals closed,
+26
+ 
+while Vidant Pungo Hospital in Belhaven, North Carolina closed in July 
+2014 afte
+r a planned takeover by the city of Belhaven failed to materialize.
+27
+ 
+Finally, in Pennington Gap, 
+Virginia, Lee Regional Hospital 
+
+ 
+a recipient of Medicaid DSH funding 
+-
+ 
+closed on October 1, 2013.
+28
+ 
+ 
+ 
+Some ACA supporters
+ 
+have attributed
+ 
+recent hospital closu
+res to
+ 
+the
+ 
+
+Medicaid expansion. The
+ir
+ 
+premise is that the Affordable Care Act
+ 
+reduced
+ 
+DSH
+ 
+payments 
+as an offset to 
+the additional Medicaid reimbursements hospitals would receive from expansion. When certain states, 
+includin
+g Virginia, declined to expand Medicaid they put their marginal hospitals at risk.
+ 
+As Tara 
+Culp
+-
+Ressler wrote 
+at
+ 
+ThinkProgress
+:
+ 
+ 
+ 
+Providers that serve a high number of poor and uninsured Americans, technically called 
+
+
+for their care. To compensate, the federal government offers reimbursements for those hospitals 
+
+ 
+but the Affordable Care Act changes the way the payments are structured. Because the health law 
+i
+ntended every state to expand Medicaid, and therefore reduce the number of uninsured people who 
+                                        
+                  
+ 
+25
+ 
+Alison Mitchell, 
+Medicaid Disproportionate Share Hospital Payments
+ 
+(Congressional Research Service, 2013), 
+http://fas.
+org/sgp/crs/misc/R42865.pdf.
+ 
+26
+ 
+
+Albany Herald
+, February 15, 2014, 
+http://www.albanyherald.com/news/2014/feb/15/another
+-
+rural
+-
+hospital
+-
+closed/.
+ 
+27
+ 
+
+WITN 7 
+News
+, July 1, 2014, 
+http://www.witn.com/home/headlines/Possible
+-
+Roadblock
+-
+For
+-
+Vidant
+-
+Pungo
+-
+Hospital
+-
+Transfer
+-
+263355711.html.
+ 
+28
+ 
+
+http://www.johnsoncitypress.com/art
+icle/110933/wellmont
+-
+to
+-
+close
+-
+virginia
+-
+community
+-
+hospital.
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+12
+ 
+ 
+
+
+id expansion, that puts them in a 
+
+the difference with an influx of insured patients.
+29
+ 
+When Wellmont Health System announced the closure of Lee Regional Medical
+ 
+Center it cited 
+
+reimbursement cuts associat
+
+facility
+30
+ 
+-
+ 
+echoing 
+Culp
+-
+Ressler
+
+ 
+ 
+However, these statements do not comport with the facts. The original Affordable Care A
+ct 
+legislation phased in DSH reductions starting in FY 2014. The cut for that year was supposed to be $500 
+million nationally
+31
+ 
+
+ 
+about 4.4 percent of the $11.4 billion of DSH allotments in FY 2012. So, Lee 
+ 
+Regional had not been impacted by DSH reductions 
+when Wellmont decided to close it.
+32
+ 
+Further, 
+Congress has subsequently passed two bills that delay the Medicaid DSH reductions, and they are now 
+not scheduled to begin until FY 2017.
+33
+ 
+Consequently, no recent hospital closures can be accurately 
+attributed t
+
+
+ 
+since none have occurred.
+34
+ 
+ 
+It is also worth noting that Virginia receives a relatively small amount of Medicaid DSH funds. In 
+
+pportioned nationally.
+35
+ 
+Thus, Virginia was allotted 0.8 percent
+ 
+of the national total, although the state accounted for 2.6 percent
+ 
+of US population in 2012.
+36
+ 
+Finally, DSH allotment cuts 
+
+ 
+if and when they occur 
+-
+ 
+will not be 
+proportional across states. The law directs the Secretary of HHS to make greater cuts in states that have 
+
+37
+ 
+These states are unlikely to i
+nclude those that have 
+declined the Medicaid expansion.
+ 
+ 
+ 
+If DSH reductions fail to explain the closure of Lee Regional and several out
+-
+of
+-
+state hospitals, 
+what does? It is more likely that the closures are part of a 
+long
+-
+term
+ 
+decline in rural hospitals 
+
+ 
+rather than 
+a new phenomenon. According to the HHS Inspector General, 208 rural hospitals closed between 1990 
+and 2000. Most of the closures were the result of consolidations or failure of low utilization facilities. On 
+                                        
+                  
+ 
+29
+ 
+Tara Culp
+-
+
+ThinkProgress
+, April 30, 2014, http://thinkprogress.org/health/2014/04/30/3432599/tenne
+ssee
+-
+medicaid
+-
+hospital/.
+ 
+30
+ 
+
+ 
+31
+ 
+Mitchell, 
+Medicaid Disproportionate Share Hospital Payments
+.
+ 
+32
+ 
+Further, VHI data indicates that Lee Regional did not receive a Disproportionate Share Hos
+pital payment in 2012.
+ 
+33
+ 
+Public Law 113
+-
+67 delayed the DSH reductions to FY 2016, and Public Law 113
+-
+93 further delayed the reductions 
+to FY 2017. The latest version of the affected statute, Section 1923(f) of the Social Security Act (42 
+ 
+U.S.C. 1396r
+-
+4(f)
+), can be found at 
+http://www.law.cornell.edu/uscode/text/42/1396r
+-
+4
+.
+ 
+34
+ 
+In addition to Medicaid DSH, CMS also operates a Medicare DSH program. Hospital reimbursements under this 
+program are also being reduced in accordance with Section 3133 of PL 111
+-
+148, 
+The Patient Protection and 
+Affordable Care Act
+. However, according to the HHS Actuary, this provision had no impact through FY 2013 and 
+only $110 million nationally in FY 2014. See 
+Richard S. Foster, 
+
+a
+
+ 
+(Center for Medicare and Medicaid Services, April 22, 2010), 
+http://www.cms.gov/Research
+-
+Statistics
+-
+Data
+-
+and
+-
+Systems/Research/ActuarialStudies/downloads/PPACA_2010
+-
+04
+-
+22.pdf.
+ 
+35
+ 
+
+ospital Allotments and Institutions for Mental Diseases 
+Disproportionate Share Hospital Limits for FY 2012, and Preliminary FY 2013 Disproportionate Share Hospital 
+
+Federal Register
+, July 26, 2013.
+ 
+36
+ 
+
+
+http://quickfacts.census.gov/qfd/states/51000.html.
+ 
+37
+ 
+42 U.S. Code § 1396r
+
+4
+(f)(7)(A)(i)(I)
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+13
+ 
+ 
+average, the hospitals that closed h
+ad a daily census of ten patients of which five were Medicare 
+beneficiaries and only one was a Medicaid beneficiary.
+38
+ 
+ 
+Low utilization is also a factor in the more recent closures.
+39
+ 
+A 2009 analysis of 32 Georgia Critical 
+Access Hospitals (CAH) found an ave
+rage occupancy rate of only 25 percent.
+40
+  
+The four Georgia 
+hospitals that closed since early 2013 were all CAHs 
+
+ 
+which are eligible for special federal subsidies and 
+must be limited to 25 acute beds. In 2011, Kaiser Health News profiled a Louisiana CAH in
+ 
+which fewer 
+
+41
+ 
+ 
+According to Virginia Health Information
+42
+, Lee Regional Medical Center had a 33.90 percent 
+staffed bed occupancy rate in 2012. This rate was the fourth lowest among the 73 
+general hospitals
+43
+ 
+in 
+
+
+ 
+ 
+More generally, the VHI data set s
+hows a statistically significant correlation (
+p
+ 
+< .01) between 
+hospital utilization rates and their total margin (i.e., net income as a fraction of total revenue). In other 
+words, more highly utilized hospitals tend to be more profitable. There is also a s
+tatistically significant 
+correlation (again at 
+p
+ 
+< .01) between the number of staffed beds and total margin. This is an intuitive 
+outcome since hospitals have some level of fixed costs. The bigger the hospital, the more beds across 
+which these costs may be
+ 
+divided.
+44
+ 
+ 
+Policy Options
+ 
+ 
+In free, competitive markets, suppliers that attract fewer customers are more likely to fail.  Even 
+though the hospital industry is highly regulated and subsidized, we see much the same outcome. Small, 
+low utilization hospitals 
+struggle and are sometimes obliged to shut down.
+ 
+ 
+It is possible to avoid this phenomenon by increasing subsidies to Critical Access Hospitals and 
+other small medi
+c
+al facilities. Policymakers may choose this option 
+
+ 
+despite its apparent inefficiency 
+
+ 
+in 
+response to a belief in universal service availability. Just as the nation has many under
+-
+utilized post 
+offices in small towns owing to a common belief in the importance of universal access to mail service, it 
+may be deemed appropriate to have small, uneco
+nomic hospitals in rural areas in the belief that everyone 
+should be near a hospital.
+ 
+ 
+Medicaid expansion is an inefficient way to achieve the goal of keeping small, rural hospitals open, 
+because most of the additional funding will go to larger, profitable
+ 
+hospitals that can readily afford to 
+                                        
+                  
+ 
+38
+ 
+Janet Rehnquist, 
+Trends in Rural Hospital Closure 1990
+-
+2000
+ 
+(Office of Inspector General, Department of Health 
+and Human Services,
+ 
+May 2003), http://oig.hhs.gov/oei/reports/oei
+-
+04
+-
+02
+-
+00610.pdf.
+ 
+39
+ 
+In theory, Medicaid expansion could expand utilization, but the more likely affect would be to shift some charity 
+care admissions to Medicaid
+-
+eligible admissions. The core problem of low uti
+lization would thus remain.
+ 
+40
+ 
+Draffin & Tucker, LLP, 
+Critiical Access Hospital Financial Analyses 
+-
+ 
+2009
+, June 2010, 
+http://dch.georgia.gov/sites/dch.georgia.gov/files/imported/vgn/images/portal/cit_1210/12/16/163203500CAH%
+20Fiscal%20Analysis%20
+-
+%20Phase%20III.pdf.
+ 
+41
+ 
+
+Kaiser Health News
+, December 8, 2011,
+ 
+http://www.kaiserhealthnews.org/stories/2011/december/08/medicare
+-
+critical
+-
+access
+-
+rural
+-
+hospitals.aspx.
+ 
+42
+ 
+Virginia Health Information, 
+Hospital 2012 Worksheet
+, Industry Reports (Richmond, VA, 2013).
+ 
+43
+ 
+The overall VHI data set includes a total of 89 facili
+ties: 73 general hospitals, 7 critical access hospitals, 6 long 
+
+rates than Lee Regional in 2012.
+ 
+44
+ 
+Regression analysis was performed on the 201
+2 VHI data set.  The 2013 data we reviewed did not include the 
+number of staffed beds.
+ 
+ The Thomas Jefferson Institute for Public Policy
+ 
+ 
+14
+ 
+ 
+provide charity care. Instead of further expanding the margins of these larger facilities, policymakers 
+should consider focusing incremental expenditures on those hospitals most at risk of closing. This could 
+best be d
+one outside the context of the Medicaid program.
+ 
+ 
+Conclusion
+ 
+ 
+Most Virginia hospitals are profitable, and many can afford to provide their executives with 
+generous compensation packages. They thus do not require Medicaid expansion to provide care to 
+econom
+ically disadvantaged Virginians. The voluntary provision of charity care has deep roots in medical 
+ethics and hospital development. Further government involvement in charity care involves subsidizing 
+profitable investor
+-
+owned hospital companies as well as 
+many large not
+-
+for
+-
+profit hospitals and health 
+systems that earn revenues well in excess of their costs.
+ 
+ 
+Some Virginia hospitals are experiencing financial distress most often because they have 
+insufficient volume to cover their fixed costs. If policymake
+rs prefer to avoid mergers and closures among 
+these low utilization facilities, they can support these hospitals directly rather than providing untargeted 
+hospital subsidies through Medicaid expansion.
+ 
+ 
+ 
+ 
+ 
+About the Authors
+ 
+ 
+Marc D. Joffe
+ 
+founded Public Sector Credit Solutions in 2011 to educate policymakers, investors 
+and citizens about government credit risk. 
+His
+ 
+research has been published by the California State 
+
+-
+Laurier Institute
+ 
+among others. 
+His op
+-
+eds 
+have been featured in The Guardian, The Fiscal Times and other publications. 
+Prior to starting PSCS, 
+
+MPA from San Francisco State Unive
+rsity.
+ 
+ 
+Jason J. Fichtner
+ 
+serves as an adjunct professor at the Georgetown Public Policy Institute, the 
+Johns Hopkins School of Advanced International Studies, and the Virginia Tech Center for Public 
+Administration and Policy, where he teaches courses in economics, public finance,
+ 
+public policy process, 
+public management, and public budgeting processes.
+ 
+Previously, he served in several positions at the 
+Social Security Administration, including as deputy commissioner of social security (acting), chief 
+economist, and associate commis
+sioner for retirement policy. He also served as senior economist with the 
+Joint Economic Committee of the US Congress.
+ 
+His work has been featured in the Washington Post, the 
+
+s Times, the 
+Atlantic, and USA Today, as well as on broadcasts by PBS, NBC, and NPR.
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Thomas Jefferson Institute for Public Policy
+ 
+ 
+Board of Directors
+ 
+ 
+Michael Thompson:
+ 
+Chairman and President: For 25 years Mr. Thompson owned his own marketing 
+company. He has been very active in national, state and local politics as well as a number of state and 
+community organizations, commissions, and committees. 
+ 
+ 
+Randal C. Teague:
+ 
+Sec
+retary/Treasurer/Counsel: Chairman of the Fund for American Studies and retired 
+Partner in the law firm of Vorys, Sater Seymour and Pease, Mr. Teague is a noted international attorney.
+ 
+ 
+John Alderson:
+ 
+President of the John Alderson Insurance Agency.
+ 
+ 
+Willi
+am W. Beach
+:
+ 
+Chief Economist, 
+Senate Finance Committee, United States Senate.  
+ 
+ 
+James W. Beamer: 
+Managing Dir. for Legislative Outreach
+ 
+at Dominion Resources Services.  
+ 
+ 
+Stephen Cannon:
+  
+Partner, Constantine Cannon, PC, former Sr. VP of Circuit City Stor
+es.
+ 
+ 
+Stephan Cassaday:
+ 
+President, Cassaday and Company
+ 
+ 
+Rebecca Donatelli:
+  
+President, Campaign Solutions/Connell Donatelli
+ 
+ 
+James W. Dyke Jr: 
+Senior Advisor, McGuireWoods and former VA Secretary of Education.
+ 
+ 
+B. Keith Fulton:
+ 
+VP for Mid
+-
+Atlantic Region, Verizon.
+ 
+ 
+John Hager:
+ 
+Former Lt. Governor of Virginia.
+ 
+ 
+Robert L. Hartwell:
+ 
+President, Hartwell Capitol Consulting.
+ 
+ 
+Alan I. Kirshner:
+ 
+Chairman and CEO of Markel Corporation.
+ 
+ 
+Joseph Ragan:
+  
+
+ 
+Coffee.
+ 
+ 
+John Rust:
+  
+Former State Delegate and Partner, Rust and Rust law firm.
+ 
+ 
+John Ryan:
+  
+
+ 
+ 
+Robert W. Shinn:
+ 
+President of Public Affairs, Capitol Results
+ 
+ 
+Dr. Robert F. Turne
+r:
+  
+Law professor at the University of Virginia at Charlottesville.
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+restrain men from injuring one another, shall leave
+ 
+them otherwise free to regulate their own pursuits of
+ 
+industry and improvement, and shall not take from
+ 
+the mouth of labor
+ 
+the bread it has earned. This is the
+ 
+sum of good government, and this is necessary to close
+ 
+
+ 
+ 
+Thomas Jefferson, 1801
+ 
+ 
+ 
+Thomas Jefferson Institute for Public Policy
+ 
+9035 Golden Sunset Lane 
+
+ 
+Springfield, VA 22153
+ 
+703
+-
+440
+-
+9447 
+
+ 
+info@thomasjeffersoninst.org
+ 
+www.thomasjeffersoninst.org
+ 
+ 

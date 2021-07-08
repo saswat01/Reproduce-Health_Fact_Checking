@@ -1,0 +1,34 @@
+Cross posted from HIV.gov I have to admit it.
+ I’ve been feeling a little daunted about how much ground we have lost to the opioid epidemic, as we struggle against viral hepatitis.
+ We had been seeing progress against hepatitis C virus (HCV) and hepatitis B virus (HBV), but the invasive spread of the opioid epidemic has changed that.
+ Last week, CDC released new data showing that new HCV infections nearly tripled in the past 5 years, largely as a result of opioid-related injection drug use.
+ But even on the darkest days, there are moments when you are re-energized and reconnect with your purpose for doing this work.
+ I had one of those moments recently, when I was able to join many of our nation’s top policy makers and leading voices in the response to the opioid epidemic at the 2017 National Rx Drug Abuse &amp; Heroin Summit, which was held in Atlanta in late April.
+ These leaders included the heavy hitters like Dr. Nora Volkow, the Director of the National Institute on Drug Abuse, NIH Director Dr. Francis Collins, and HHS Secretary Dr. Tom Price.
+ Although the challenges are sobering, it was motivating to hear from them and talk to them and so many other people who are on the front lines of the opioid epidemic in communities around the country.
+ I was there to participate in a panel discussion about the inescapable interconnections between the opioid epidemic, HIV, viral hepatitis , and other diseases that are spread by injection drug use.
+ The panel focused not only on the many challenges, but also on the opportunities to better integrate our responses and, by doing so, to expand access to comprehensive, integrated prevention services for people who inject opioid drugs.
+ The need for these services is great—and growing.
+ According to CDC, opioid-related addiction and deaths have been increasing for nearly two decades, and overdoses of prescription opioids and heroin killed more than 33,000 people in 2015—the most ever recorded.
+ Injection drug use is a significant aspect of this problem.
+ We’ve known for a very long time that injecting drugs puts people at risk for blood-borne infections, because used needles and syringes are brutally effective at transmitting a host of known and yet-to-be-known infectious diseases.
+ From my perspective as Director of the HHS Office of HIV/AIDS and Infectious Disease Policy, the current situation threatens to become a perfect storm, with the opioid, HIV, and viral hepatitis epidemics intersecting in dangerous ways.
+ We recently witnessed that intersection in a 2015 outbreak of HIV and HCV in Scott County, Indiana, after people in that small, rural county began injecting opioids and sharing injection equipment.
+ That led to outbreak of HCV that went unrecognized at first, followed by an HIV outbreak that caught the nation’s attention.
+ The small town where most of the cases occurred went from diagnosing a total of no more than 5 new infections each year between 2004–2013 to having 181 cases in a single year.
+ More than 90% of the people who were diagnosed with HIV during the outbreak were also coinfected with HCV.
+ The outbreak in Scott County turned a floodlight on the intertwined nature of opioid use, HIV, and HCV.
+ It became clear that we need better systems to ensure we can quickly detect increases in new HCV cases—which can indicate where HIV transmission might follow.
+ It’s possible that the opioid epidemic could already be having a similar impact in other communities.
+ In fact, when CDC tried a new approach that combined different types of data from multiple sources, it found that at least 220 U.S. counties may be at risk for similar outbreaks of HCV and HIV if no preventive action is taken.
+ But it’s important not to overlook the positive lessons about the response in Scott County.
+ When local community leaders took action and were joined by state officials like then-Governor Mike Pence, leaders from the Indiana Department of Health, and staff from HHS agencies, they were able to bring a rapid halt to the outbreak.
+ They did so with a comprehensive plan to increase the availability of key resources, including: drug treatment, HIV/HCV testing, prevention education, antiretroviral medications to treat and prevent HIV, and syringe-service programs.
+ This type of coordinated and comprehensive response will be key to ending the opioid, HCV, and HIV epidemics.
+ The National Viral Hepatitis Action Plan 2017-2020 offers a strategic framework that we can use to facilitate collaborations across diverse sectors.
+ This type of integrated approach can help us better serve populations that face health threats that occur together, rather than in isolation from each other, and promote efficient use of taxpayer dollars.
+ The Action Plan demonstrates how 23 federal partners are working together to fight viral hepatitis in partnership with states, counties, cities, and hundreds of organizations around the country.
+ Email         HHS Headquarters U.S. Department of Health &amp; Human Services 						200 Independence Avenue, S.W.
+ It defaults to 1 (100%) 		 *				y - float values to test against, as a decimal 		 *     value of how much of the element's height 		 *     must be visible for the method to return 		 *     true.
+ It defaults to 1 (100%) 		 * 		 * Description: This function determines if an element is within 		 *    the viewport based on the parameters and returns 		 *    a boolean value.
+ Value dependent on ThemeKey module.

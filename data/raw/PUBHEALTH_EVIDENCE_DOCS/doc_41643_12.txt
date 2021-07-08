@@ -1,0 +1,32 @@
+document.body.className + ' js-enabled' : 'js-enabled');   Skip to main content        Tell us whether you accept cookies We use cookies to collect information about how you use GOV.UK.
+ We use this information to make the website work as well as possible and improve government services.
+ Accept all cookies   Set cookie preferences       You’ve accepted all cookies.
+ You can change your cookie settings at any time.
+ Hide                     GOV.UK         Show or hide search      Search on GOV.UK      Search         Menu       Departments         Worldwide         How government works         Get involved         Consultations         Statistics         News and communications                           Coronavirus (COVID-19)         National restrictions in England from 5 November              The UK and EU transition         Take action now for new rules in 2021             Home            National Statistics     GDP deflators at market prices, and money GDP November 2017 (Autumn Budget 2017)      This document contains the latest gross domestic product (GDP) deflators.
+ The GDP deflator can be viewed as a measure of general inflation in the domestic economy.
+ Published 28 November 2017         From:       HM Treasury                Documents       GDP deflators at market prices, and money GDP November 2017 (Autumn Budget 2017)   View online       Download CSV    8.12KB          GDP deflators at market prices, and money GDP November 2017 (Autumn Budget 2017)  MS Excel Spreadsheet, 33.6KB       Details   A series for the GDP deflator in index form is produced by the Treasury from data provided by the Office for National Statistics (ONS) and the Office for Budget Responsibility (OBR).
+ The GDP deflator set is updated after every ONS Quarterly National Accounts release (at the end of each quarter) and whenever the OBR updates its GDP deflator forecasts.
+ Forecasts are from the OBR as at the Autumn Budget 22 November 2017.
+ Outturn data are the latest Quarterly National Accounts figures from the ONS, 29 September 2017.
+ GDP deflators from 1955-56 to 2016-17 have been taken directly from fiscal period ONS series L8GG.
+ GDP deflators from 1955 to 2016 have been taken from calendar period ONS series MNF2.
+ Non-seasonally adjusted money GDP for calendar and fiscal periods are taken from ONS series BKTL.
+ For fiscal periods only, seasonally adjusted money GDP series YBHA has also been included.
+ The next scheduled GDP deflator update will be after the Quarterly National Accounts scheduled for 22 December 2017.
+ Published 28 November 2017         Related content      GDP deflators at market prices, and money GDP June 2017 (Quarterly National Accounts, June 2017) GDP deflators at market prices, and money GDP: December 2014 (Quarterly National Accounts) GDP deflators at market prices, and money GDP: March 2014 (Budget) GDP deflators at market prices, and money GDP June 2019 (Quarterly National Accounts) GDP deflators at market prices, and money GDP March 2019 (Spring Statement)    Collection  GDP deflators at market prices, and money GDP                 Is this page useful?
+ Maybe         Yes this page is useful        No this page is not useful       Thank you for your feedback       There is something wrong with this page        Close       Help us improve GOV.UK Don’t include personal or financial information like your National Insurance number or credit card details.
+ What were you doing?
+ What went wrong?
+ Send       Close        Help us improve GOV.UK To help us improve GOV.UK, we’d like to know more about your visit today.
+ We’ll send you a link to a feedback form.
+ It will take only 2 minutes to fill in.
+ Don’t worry we won’t send you spam or share your email address with anyone.
+ The GDP deflator can be viewed as a measure of general inflation in the domestic economy.
+ The GDP deflator set is updated after every ONS Quarterly National Accounts release (at the end of each quarter) and whenever the OBR updates its GDP deflator forecasts.
+ \n\n Forecasts are from the OBR as at the Autumn Budget 22 November 2017.
+ \n\n Outturn data are the latest Quarterly National Accounts figures from the ONS, 29 September 2017.
+ GDP deflators from 1955-56 to 2016-17 have been taken directly from fiscal period ONS series L8GG.
+ GDP deflators from 1955 to 2016 have been taken from calendar period ONS series MNF2.
+ Non-seasonally adjusted money GDP for calendar and fiscal periods are taken from ONS series BKTL.
+ For fiscal periods only, seasonally adjusted money GDP series YBHA has also been included.
+ \n\n The next scheduled GDP deflator update will be after the Quarterly National Accounts scheduled for 22 December 2017.

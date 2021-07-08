@@ -1,0 +1,328 @@
+E-mail: jking@chori.org.
+ https://orcid.org/0000-0002-8484-7940
+     
+   Search for other works by this author on:
+    Oxford Academic   Google Scholar        4These authors contributed equally to this work.
+ Biofortification techniques modestly elevate the zinc content of cereals, but few studies have reported a positive impact on functional indicators of zinc status.Objective: We determined the impact of a modest increase in dietary zinc that was similar to that provided by biofortification programs on whole-body and cellular indicators of zinc status.Design: Eighteen men participated in a 6-wk controlled consumption study of a low-zinc, rice-based diet.
+ The diet contained 6 mg Zn/d for 2 wk and was followed by 10 mg Zn/d for 4 wk.
+ To reduce zinc absorption, phytate was added to the diet during the initial period.
+ Indicators of zinc homeostasis, including total absorbed zinc (TAZ), the exchangeable zinc pool (EZP), plasma and cellular zinc concentrations, zinc transporter gene expression, and other metabolic indicators (i.e., DNA damage, inflammation, and oxidative stress), were measured before and after each dietary-zinc period.Results: TAZ increased with increased dietary zinc, but plasma zinc concentrations and EZP size were unchanged.
+ Erythrocyte and leukocyte zinc concentrations and zinc transporter expressions were not altered.
+ However, leukocyte DNA strand breaks decreased with increased dietary zinc, and the level of proteins involved in DNA repair and antioxidant and immune functions were restored after the dietary-zinc increase.Conclusions: A moderate 4-mg/d increase in dietary zinc, similar to that which would be expected from zinc-biofortified crops, improves zinc absorption but does not alter plasma zinc.
+ The repair of DNA strand breaks improves, as do serum protein concentrations that are associated with the DNA repair process.
+ This trial was registered at clinicaltrials.gov as NCT02861352.
+ antioxidant, DNA repair, inflammation, zinc biomarkers, zinc fortification INTRODUCTION The dependence on cereal-based diets in lower-income countries has led to the development of fortification programs to enhance the micronutrient amounts of staple food crops including rice, wheat, and maize.
+ Because of the need for adequate zinc intakes to support optimal child health and growth and for normal pregnancy outcomes, &gt;30 countries have initiated zinc-fortification programs (1).
+ For example, Bangladeshi researchers increased the rice zinc concentration by 50%, from 16 to 24 parts per million (ppm)5, through biofortification methods (4).
+ In populations who derive ∼80% of their total energy intake from rice, as is the case in very poor households, a 50% increase in the rice zinc concentration would translate to an additional ∼4 mg Zn/d in the total diet.
+ Previous studies have shown that, when infants or children are fed zinc-fortified cereals, the additional zinc that is provided by the crop ranges from only 1.5 to 3 mg/d (5).
+ Although zinc fortification is a safe strategy for enhancing zinc intakes of populations, none of the cereal-based zinc-fortification programs had a positive effect on child growth or morbidity.In addition to influencing growth and morbidity, zinc attenuates oxidant stress over the range of usual zinc intakes, and in that capacity, zinc modulates DNA damage (6, 7).
+ Increased zinc availability reduces the amounts of reactive oxygen species (ROS) and the concentrations of inflammatory cytokines and chemokines (8–10).
+ An attack by ROS is one of the primary endogenous causes of the thousands of lesions of cellular DNA per day (11).
+ However, modest changes in dietary zinc can modulate DNA damage primarily by reducing cellular oxidative stress (7).
+ In a study of adult men, we showed that leukocytic DNA strand breaks increased when only 4 mg Zn/d was consumed, and the number of breaks declined when dietary zinc was increased to 11 mg/d (12).
+ This association between zinc, oxidative stress, and inflammation may explain the association between zinc and chronic disease (13).To our knowledge, the effect of modest increases in dietary zinc on DNA damage, as would occur when zinc-fortified cereals are added to the diet, has not been previously studied.
+ We hypothesized that an increase in cellular oxidative stress and DNA damage is one of the earlier signs of reductions in cellular zinc (7, 14); therefore, a modest increase in dietary zinc would reduce DNA damage and alter the concentrations of serum proteins that are involved in DNA repair, oxidative stress, and inflammation.
+ We also hypothesized that this modest 4-mg increase in dietary zinc would not increase plasma zinc concentrations (PZCs) or the size of the exchangeable zinc pool (EZP).
+ If confirmed, these findings would provide a zinc functional biomarker that is sensitive to modest physiologic changes in dietary zinc.
+ METHODS Study design Eighteen healthy men were recruited from March 2012 to July 2013 to participate in a nonblinded, randomized, controlled, 6-wk zinc depletion and repletion study.
+ After a 3-d run-in period, the men consumed a controlled diet that provided 6 mg Zn/d for 2 wk [metabolic period 1 (MP1)].
+ A total of 1.5 g sodium phytate, which would bring the diet phytate:zinc molar ratio to 44, was distributed evenly into 3 meals to facilitate zinc depletion by limiting zinc absorption.
+ Thereafter, dietary zinc was increased to 10 mg/d by adding a total of 4 mg exogenous zinc (i.e., 1.33 mg Zn/meal) into the rice portion of the meal for the remaining 4 wk.
+ The rice was cooked in a conventional rice cooker according to the manufacturer’s instructions at 360 mL H2O/240 mL rice for 30 min or until all free water was absorbed.
+ Rice was allowed to cool before the application of a sterile solution of 1 mg zinc chloride/mL directly to the rice.
+ The rice was allowed to fully absorb the zinc solution before packaging.
+ Portions of each batch of rice were also taken for a zinc analysis.
+ In this second metabolic period, the additional phytate was discontinued.
+ The men were not confined to a metabolic unit, but they came to the clinical site to have their vital signs checked and to pick up their food 2 times/wk.
+ Fasting blood samples were collected at the beginning of the study (day 1) and at the end of MP1 and metabolic period 2 (MP2) (i.e., days 15 and 43).
+ Ethics The Children’s Hospital Oakland Research Institute Institutional Review Board approved the study, and written informed consent was obtained from each participant.
+ Participants Healthy adult men, who were aged 19–45 y with BMI (in kg/m2) between 18 and 30, participated in the study.
+ Before the study, the men discontinued any dietary supplements that contained zinc for ≥4 wk.
+ Inclusion criteria consisted of a baseline PZC &gt;60 μg/dL and usual zinc intake, as estimated from a 24-h dietary recall, of &gt;9.5 mg Zn/d.
+ Exclusion criteria included a self-report of chronic or acute diseases (including diabetes or asthma), the use of medications for a metabolic disorder (including statins or diuretics), and evidence of alcohol abuse or use of illicit drugs.
+ Participant height was measured at the first clinical visit, and body weight was measured 2 times/wk during the study.
+ Body composition was measured at the beginning of the study and at the end of MP2 (i.e., days 1 and 43) with the use of a BOD POD whole-body air-displacement plethysmography device (COSMED USA).
+ Study diets The study diet consisted of a 4-d cycle menu with 80% of energy from carbohydrate, 10% of energy from protein, and 10% of energy from fat.
+ A description of the menus is shown in Supplemental Table 1.
+ The macronutrient composition of the study diet was determined with the use of the University of Minnesota Nutrition Data System for Research 2010 (Nutrition Coordinating Center, University of Minnesota).
+ Participants were permitted to add salt and pepper to the meals and to consume tap water ad libitum.
+ Consumption of alcoholic drinks, soda, and other beverages were not allowed.
+ Participants came to the clinical site biweekly to return food containers and to pick up food for the next 3–4 d. Any uneaten food was recorded at this time.
+ The study coordinator also regularly observed food consumption in person or by video conferencing, which was scheduled during meal times via the Google Hangout platform (Google Inc.).Energy requirements of the volunteers were estimated with the use of the resting metabolic rates that were calculated with the use of the BOD POD device at the start of the study and self-reported physical activity levels.
+ Individual adjustments in dietary energy to maintain body weight were made by adding 1 of 2 zinc-free beverages with the same distribution of energy sources as in the overall study diet (Supplemental Table 1).
+ Total energy intakes ranged from 2500 to 3000 kcal/d.A macronutrient and micronutrient analysis was performed on duplicate portions of all meals for each of the 4 d in a cycle.
+ The meals were homogenized and blended into whole-day composites.
+ An additional complete meal was saved from each meal-preparation batch.
+ Food and beverages were combined in a large commercial blender until fully liquefied.
+ Only the blender blades were metal, and there was no obvious corrosion damage.
+ The composite samples were batched at −20°C.
+ Mineral concentrations, including zinc, were analyzed with the use of inductively coupled plasma optical emission spectrophotometry (ICP-OES) (Varian Vista Pro).
+ The ICP-OES was calibrated with the use National Institute of Standards and Technology (NIST)–traceable elemental standards and routinely validated with the use of NIST-traceable 1577b bovine-liver reference material and Seronorm Trace Element Serum Levels 1 and 2 (Sero AS).
+ The mean daily mineral amounts of the diet were as follows: 6.4 ± 1.5 mg Zn, 7.9 ± 2.1 mg Fe, 1.6 ± 0.5 mg Cu, 414.5 ± 24.9 mg Ca, 824.6 ± 148.7 mg P, and 250.0 ± 34.5 mg Mg.
+ Although some of these mineral intakes were below Recommended Dietary Allowances (15), supplements were not provided in this short-term study.
+ Phytate concentrations were measured with the use of high-performance anion-exchange chromatography followed by conductivity detection (16).
+ Blood sampling and processing Fasting blood samples were drawn between 0700 and 0900 at the beginning of the study (day 1) and at the end of each metabolic period (days 15 and 43).
+ Trace metal–free certified evacuated tubes containing K2EDTA (Becton-Dickson) were used for the zinc measurements, the complete blood count, DNA integrity, and plasma protein concentrations.
+ PAXGene tubes (Becton-Dickson) were used to collect samples for gene-expression measurements.
+ Blood in the K2EDTA evacuated tubes was centrifuged at 800 × g for 15 min at 4°C before removing the plasma, leukocytes, and erythrocytes.
+ The plasma was further centrifuged at 3000 × g for 10 min at 4°C to remove any remaining leukocytes and was stored at −80°C.
+ Predetermined amounts of erythrocytes and leukocytes were pelleted by centrifugation (500 × g for 10 min at 4°C), cleared of supernatant fluid, and frozen at −80°C for analysis.
+ Elemental analysis Composite food, plasma, and blood cell zinc concentrations were determined with the use of ICP-OES (17–20).
+ Briefly, samples were fully dissolved in 0.25 mL OmniTrace 70% HNO3 (EMD Chemicals) by microwave digestion with the use of a MARS5 Microwave Digestion Oven (CEM) at 100°C for 15 min.
+ Samples were diluted to 5% HNO3 with OmniTrace water (EMD Chemicals), clarified by centrifugation (3000 × g for 10 min), and analyzed with the use of a Vista Pro ICP-OES (Varian Vista Pro).
+ The ICP-OES was calibrated with the use of NIST-traceable elemental standards and validated with the use of NIST-traceable 1577b bovine-liver reference material.
+ Zinc was measured at the 213-nm wavelength with a detection range between 0.005 and 5 ppm and a CV for interassay precision &lt;10%.
+ Cesium (50 ppm) was used for ionization suppression and yttrium (5 ppm) was used as an internal standard for all samples.
+ All reagents and plastic ware were certified or routinely tested for trace-metal work.
+ Zinc concentrations were expressed per volume (plasma) or per cell number (erythrocytes and leukocytes).
+ Plasma and erythrocytes samples were analyzed in triplicate, and leukocyte samples were analyzed in duplicate.
+ All samples from each participant were analyzed in the same run.
+ Stable-isotope preparation Zinc stable isotopes 67Zn (93.1% enriched) and 70Zn (89.6% enriched) were purchased as zinc oxide salts (Oak Ridge National Laboratory).
+ The zinc salts were dissolved in concentrated hydrochloric acid (4.5 μL HCl/mg ZnO) (Optima grade, A-466; Fisher Scientific), diluted with triply deionized water to a final concentration of 1.0 mg 67Zn/mL or 0.1 mg 70Zn/mL, and filtered through a 0.22-μM filter (Millipore).
+ The zinc solutions were tested for sterility and pyrogenicity and stored in individual, sealed, sterile vials by the School of Pharmacy, University of California at San Francisco, for use by intravenous administration.
+ Isotope administration and measurement Stable isotopes were administered on days 4 and 18 for measuring fractional zinc absorption (FZA), total absorbed zinc (TAZ), and the EZP.
+ 70Zn was also infused on day 46 for measuring the EZP after MP2.
+ For the studies of zinc absorption on days 4 and 18, participants were fed the first day of the 4-d study-diet rotation.
+ A total of 1 mg 67Zn was divided into 3 equal doses (∼0.33 mg) and added as a fortificant to each meal.
+ Phytate was not added to the 3 study meals on the isotope administration day to prevent interference with the isotope measurements.
+ One hour after the dinner meal, 0.1 mg 70Zn was infused into the antecubital vein over 1–2 min.
+ The catheter tubing was flushed with 3 mL sterile saline.
+ The exact amount of tracer infused was determined from the difference in syringe weight before and after the infusion.
+ The first urinary void was collected for 5 d (days 3–7) after each isotope infusion for the measurement of zinc isotopic ratios.
+ Stable-isotope analysis Zinc isotopic ratios were analyzed in the urine samples with the use of inductively coupled plasma mass spectrometry as reported previously (18–20).
+ Urinary macrominerals were removed by adjusting the sample pH to 5.3 and applying the sample to chelating resin (Chelex 100; Bio-Rad).
+ The samples were purified with the use of ion-exchange chromatography (AG8; Bio-Rad), and pure zinc was eluted with 0.0005 N HCl, evaporated to dryness, and dissolved in 1% HNO3 for inductively coupled plasma mass spectrometry analysis.
+ The tracer:tracee method (67Zn:66Zn and 70Zn: 66Zn) was used to estimate the FZA with the use of a modification of the double-isotope tracer method (21).
+ TAZ was calculated by multiplying total the amount of dietary zinc per day by the FZA.
+ The EZP was estimated with the use of modifications of the Miller method in which urine tracer:tracee ratios were graphed onto a semilog plot to extrapolate the size of the pool at the time of infusion with the use of the y intercept (22).
+ DNA integrity DNA single-strand breaks in peripheral blood cells were determined with the use of a comet assay as described by Singh et al.
+ (23).
+ Briefly, 500 μL fresh whole blood was cryopreserved in liquid nitrogen.
+ Cryopreserved blood was thawed rapidly and centrifuged at 400 × g for 5 min.
+ Cell pellets were mixed with 500 μL of 0.5% low–melting point agarose at ∼37°C and applied onto microscope slides (Trevigen).
+ Slides were incubated in lysis buffer (Trevigen) for 1 h, and DNA was allowed to unwind in alkali buffer (0.3 M NaOH/L and 1 mmol/L EDTA) for 20 min.
+ The slides were washed in cold 100% methanol and 100% ethanol for 5 min each and air dried for storage.
+ Immediately before analysis, nuclear material was stained with 65 μL 1× SYBR Green (Life Technologies)/field.
+ Comet measurements were made with the use of a Zeiss Axiovert fluorescent microscope (Zeiss) and Komet 6 software (Andor Technology).
+ Images of 300 randomly selected nuclei (150 nuclei from each of 2 replicate slides) were analyzed from each sample.
+ No identifying information was available to the laboratory technicians who performed the assay.
+ The olive tail moment was used to indicate DNA damage.
+ For detecting oxidized bases, a digestion step with a bacterial repair enzyme was included in the alkaline comet assay before electrophoresis in accordance with the modified protocols of Collins et al.
+ (24).
+ Briefly, after the lysis step, slides were washed 3 times in enzyme buffer (40 mmol HEPES/L, 100 mmol KCl/L, 0.5 mmol Na2EDTA/L, and 0.2 mg bovine serum albumin/mL; pH 8.0) and incubated with 100 mU formamidopyrimidine DNA-glycosylase (FPG) (New England Biolabs) for 30 min at 37°C.
+ Amounts of oxidized sites were calculated from the olive tail moment score that was obtained with the enzyme minus the score that was obtained without the enzyme.
+ Proteomic analysis The SOMAscan proteomic assay (SomaLogic Inc.) was used to measure 1129 proteins in plasma samples that collected at the end of MP1 and MP2 (days 15 and 43).
+ The assay has been described more extensively elsewhere (25) and on the SomaLogic Inc. website (http://www.somalogic.com/Products-Services/SOMAscan/FAQs.aspx).
+ Proteins were measured with the use of a SOMAmer-based capture array (SomaLogic Inc.) SOMAmers are single-stranded DNA aptamers, which include some bases that have been chemically modified to mimic protein side chains while retaining the ability to pair with standard DNA bases [allowing their amounts to be quantified with the use of a polymerase chain reaction (PCR) or microarrays].
+ A total of 1129 of these SOMAmers are currently available, and they can be used to analyze a biological sample in such a way that the amount of each type of SOMAmer that remains in the sample is proportional to the amount of the corresponding protein targets in the original sample.
+ Currently, one-third of SOMAmers have been assessed for specificity with the use of a pulldown and mass spectrometry.
+ Proteomic data were collected with the use of a fluorescent imager (SOMAscan v3; SomaLogic Inc.) for the measurement of 1129 proteins.
+ Quality control was performed at the sample and SOMAmer levels and involved the use of control SOMAmers on the microarray and calibration samples.
+ The resulting hybridization scale factor and median scale factor were used to normalize data across samples.
+ Plasma samples from subjects at the 2 time points were randomly assigned to plates within the array and analyzed along with a set of calibration and normalization samples.
+ No identifying information was available to the laboratory technicians who performed the assay.
+ All samples passed quality-control criteria and were used for the analysis.
+ The SOMAscan proteomic data are reported in relative fluorescence units.
+ Relative fluorescence-unit data were log-transformed before the statistical analysis to reduce heteroscedasticity.
+ Preparation of leukocyte total RNA and real-time PCR analysis of zinc transporter expression Blood collected in PAXGene tubes was incubated at room temperature for 2 h and immediately frozen at −80°C until analysis.
+ RNA extraction was completed with the use of a PAXgene Blood RNA kit (Qiagen) according to the manufacturer’s protocol.
+ Total RNA was treated with DNase 1 to avoid any DNA contamination.
+ The concentrations and purities of the extracted RNA samples were evaluated by measuring absorbance at 260 and 280 nm wavelengths with the use of a spectrophotometer (NanoDrop; Thermo); only samples with optical density 260:optical density 280 values ≥1.8 were used in the analysis.
+ Complementary DNA was synthesized from 1 μg total RNA with the use of a QuantiTect RT kit (Qiagen) according to the manufacturer’s protocol.
+ Relative messenger RNA (mRNA) concentrations of specific zinc transporter genes were measured with the use of a quantitative real-time PCR.
+ All quantitative real-time PCR assays were conducted with SYBR Green dye (Qiagen) on an ABI 7900 HT system (Life Technologies).
+ All primers were designed with the use of a Universal Probe Library System Assay Design (Roche) (Supplemental Table 2).
+ The specificity of each primer pair was confirmed with the use of melting curve analyses, and the relative quantity was determined by normalization with respective 18S RNA and β-actin values with the use of the ΔΔ threshold cycle method.
+ Differences between MP1 and MP2 were determined for all endpoints with the use of linear models with generalized estimating equations to account for repeated measures of a subject.
+ Pairwise significant differences were assessed with the use of Tukey’s adjustment for multiple comparisons.
+ RESULTS To determine the effects of modest increases in dietary zinc on measures of zinc status and metabolic functions, we conducted a 6-wk consumption study in which participants were provided 3 meals/d with controlled amounts of zinc.
+ Eighteen healthy men participated in the study (Table 1).
+ The ethnicity of participants was diverse and reflected an attempt to recruit participants who were accustomed to eating a rice-based diet.
+ The initial mean BMI and mean ± SD total body weight of participants were 22 and 68 ± 5 kg, respectively, with 16% as fat.
+ The mean ± SD prestudy dietary zinc intake from 10 of the men was 13.0 ± 6.5 mg/d, which provided 1980 ± 912 kcal/d.
+ The mean ± SD initial PZCs averaged 75 ± 10 μg/dL; none of the men had initial values &lt;60 μg/dL.
+ Blood hemoglobin concentrations were normal in all of the men.
+ TABLE 1Participant characteristics  Value Ethnicity, %   Caucasian 33  Asian 28  Indian 17  Other 22 Age, y 23 ± 4 (20–37)1 Height, m 1.75 ± 0.05 (1.69–1.85) Weight, kg 67.8 ± 5.4 (58.7–77.6) BMI, kg/m2 22 ± 2 (19–25) Body composition,2 %   Lean mass 84 ± 4 (76–92)  Fat mass 16 ± 4 (8–24) Prestudy dietary zinc,3 mg/d 13.4 ± 6.6 (5.7–28.1) Plasma zinc,4 μg/dL 75.0 ± 10.2 (61.4–102.5) Hemoglobin,5 g/dL 15.6 ± 0.7 (14.6–16.8)  Value Ethnicity, %   Caucasian 33  Asian 28  Indian 17  Other 22 Age, y 23 ± 4 (20–37)1 Height, m 1.75 ± 0.05 (1.69–1.85) Weight, kg 67.8 ± 5.4 (58.7–77.6) BMI, kg/m2 22 ± 2 (19–25) Body composition,2 %   Lean mass 84 ± 4 (76–92)  Fat mass 16 ± 4 (8–24) Prestudy dietary zinc,3 mg/d 13.4 ± 6.6 (5.7–28.1) Plasma zinc,4 μg/dL 75.0 ± 10.2 (61.4–102.5) Hemoglobin,5 g/dL 15.6 ± 0.7 (14.6–16.8) 1Mean ± SD; range in parentheses (all such values).2Measured with the use of a BOD POD whole-body air-displacement plethysmography device (COSMED USA).3Data from 10 men.4Baseline plasma zinc was measured with the use of inductively coupled plasma optical emission spectrophotometry.5Baseline hemoglobin was measured with the use of an automated complete blood count instrument (ADVIA 120 Hematology System; Siemens Healthcare GmbH).Open in new tabTABLE 1Participant characteristics  Value Ethnicity, %   Caucasian 33  Asian 28  Indian 17  Other 22 Age, y 23 ± 4 (20–37)1 Height, m 1.75 ± 0.05 (1.69–1.85) Weight, kg 67.8 ± 5.4 (58.7–77.6) BMI, kg/m2 22 ± 2 (19–25) Body composition,2 %   Lean mass 84 ± 4 (76–92)  Fat mass 16 ± 4 (8–24) Prestudy dietary zinc,3 mg/d 13.4 ± 6.6 (5.7–28.1) Plasma zinc,4 μg/dL 75.0 ± 10.2 (61.4–102.5) Hemoglobin,5 g/dL 15.6 ± 0.7 (14.6–16.8)  Value Ethnicity, %   Caucasian 33  Asian 28  Indian 17  Other 22 Age, y 23 ± 4 (20–37)1 Height, m 1.75 ± 0.05 (1.69–1.85) Weight, kg 67.8 ± 5.4 (58.7–77.6) BMI, kg/m2 22 ± 2 (19–25) Body composition,2 %   Lean mass 84 ± 4 (76–92)  Fat mass 16 ± 4 (8–24) Prestudy dietary zinc,3 mg/d 13.4 ± 6.6 (5.7–28.1) Plasma zinc,4 μg/dL 75.0 ± 10.2 (61.4–102.5) Hemoglobin,5 g/dL 15.6 ± 0.7 (14.6–16.8) 1Mean ± SD; range in parentheses (all such values).2Measured with the use of a BOD POD whole-body air-displacement plethysmography device (COSMED USA).3Data from 10 men.4Baseline plasma zinc was measured with the use of inductively coupled plasma optical emission spectrophotometry.5Baseline hemoglobin was measured with the use of an automated complete blood count instrument (ADVIA 120 Hematology System; Siemens Healthcare GmbH).Open in new tabThe study diet, with protein sources that were limited to egg whites, fish, and chicken breasts, provided 6.4 ± 1.5 mg Zn/d (Table 2).
+ The mean total phytate content of the study diet was 0.7 g/d.
+ In MP1, when 1.5 g exogenous phytate was added to the diet, mean phytate intake was 2.2 g/d, and the phytate:zinc molar ratio was 35.1.
+ PZCs did not change during the study (Table 2).
+ Because the EZP is located within the fat-free mass, the size of the EZP per kilogram of fat-free mass was calculated, and it did not differ between MP1 and MP2.
+ The FZA decreased significantly from 35% to 28% between MP1 and MP2, respectively (P &lt; 0.005), but TAZ increased from 2.1 to 2.8 mg/d, respectively (P &lt; 0.005).
+ TABLE 2Study dietary zinc and phytate amounts and measures of plasma zinc, EZP size, and fractional and total zinc absorption1 Metabolic period Low zinc, MP1 Moderate zinc, MP2 P2 Dietary zinc,3 mg/d 6.37 ± 1.544 10.375 — Phytate, g/d 2.2 0.7 — Phytate:zinc molar ratio 35.1 7.1 — Plasma zinc, μg/dL 74.0 ± 10.1 78.8 ± 14.5 NS EZP,6 mg 136 ± 43 154 ± 283 0.058 EZP, mg/kg FFM 2.64 ± 0.67 2.31 ± 0.73 NS FZA, % 34.6 ± 13.8 28.2 ± 11.56 0.005 Total absorbed zinc,7 mg/d 2.1 ± 0.9 2.8 ± 1.26 0.005 Metabolic period Low zinc, MP1 Moderate zinc, MP2 P2 Dietary zinc,3 mg/d 6.37 ± 1.544 10.375 — Phytate, g/d 2.2 0.7 — Phytate:zinc molar ratio 35.1 7.1 — Plasma zinc, μg/dL 74.0 ± 10.1 78.8 ± 14.5 NS EZP,6 mg 136 ± 43 154 ± 283 0.058 EZP, mg/kg FFM 2.64 ± 0.67 2.31 ± 0.73 NS FZA, % 34.6 ± 13.8 28.2 ± 11.56 0.005 Total absorbed zinc,7 mg/d 2.1 ± 0.9 2.8 ± 1.26 0.005 1EZP, exchangeable zinc pool; FFM, fat-free mass; FZA, fractional zinc absorption; MP1, metabolic period 1; MP2, metabolic period 2.2Paired t tests were used to calculate the significance between MP1 and MP2.3Dietary zinc was increased in MP2 by adding 1.33 mg Zn from zinc sulfate to each of the 2 meals for a total of an additional 4 mg Zn/d.4Mean ± SD (all such values).5Mean (all such values).6Stable-isotope studies for measuring the EZP at the end of the low-zinc period were measured with the use of 70Zn during the first week of MP2, and the EZP for the end of the moderate zinc period was measured the week after the completion of MP2.
+ The FZA for MP1 and MP2 was measured on day 4 of each period.
+ The FZA for MP1 and MP2 was measured on day 4 of each period.
+ The 4-mg increase in dietary zinc between MP1 and MP2 did not increase erythrocyte or leukocytic zinc concentrations.
+ Relative to the baseline, the gene expression for the zinc importers (Zip1, Zip4, and Zip8) and the zinc exporters (ZnT7 and ZnT1) did not significantly change over the course of the study.
+ Metallothionein (Mt2a) gene expression also did not change.
+ TABLE 3Cellular measures of zinc status1 Indicator Baseline Low zinc, MP1 Moderate zinc, MP2 Erythrocyte zinc, fg/106 cells 20.84 ± 2.462 20.18 ± 2.06 20.13 ± 2.10 Leukocyte zinc, fg/cell 10.22 ± 2.95 10.38 ± 2.55 10.83 ± 2.40 Gene expression, fold change from baseline3     Zip1 1.04 0.92 ± 0.54 1.12 ± 0.55  Zip4 1.0 0.98 ± 0.29 1.11 ± 0.57  Zip8 1.0 0.84 ± 0.39 0.85 ± 0.37  ZnT1 1.0 1.39 ± 0.47 1.27 ± 0.62  ZnT7 1.0 1.42 ± 0.71 1.35 ± 0.58  Mt2a 1.0 1.15 ± 0.58 1.24 ± 1.29 Indicator Baseline Low zinc, MP1 Moderate zinc, MP2 Erythrocyte zinc, fg/106 cells 20.84 ± 2.462 20.18 ± 2.06 20.13 ± 2.10 Leukocyte zinc, fg/cell 10.22 ± 2.95 10.38 ± 2.55 10.83 ± 2.40 Gene expression, fold change from baseline3     Zip1 1.04 0.92 ± 0.54 1.12 ± 0.55  Zip4 1.0 0.98 ± 0.29 1.11 ± 0.57  Zip8 1.0 0.84 ± 0.39 0.85 ± 0.37  ZnT1 1.0 1.39 ± 0.47 1.27 ± 0.62  ZnT7 1.0 1.42 ± 0.71 1.35 ± 0.58  Mt2a 1.0 1.15 ± 0.58 1.24 ± 1.29 1There were no significant differences in any cellular measures of zinc status.
+ Baseline values were measured on day 1, MP1 values were measured on day 15, and MP2 values were measured on day 43.
+ MP1, metabolic period 1; MP2, metabolic period 2; Mt2a, metallothionein 2a.2Mean ± SD (all such values).3Relative messenger RNA concentrations of zinc transporters and Mt2a at the end of MP1 and MP2 are expressed as ratios to baseline values with all baseline data normalized to 1.0.
+ All mRNA concentrations are expressed relative to housekeeping genes as described in Methods.4Mean (all such values).Open in new tabTABLE 3Cellular measures of zinc status1 Indicator Baseline Low zinc, MP1 Moderate zinc, MP2 Erythrocyte zinc, fg/106 cells 20.84 ± 2.462 20.18 ± 2.06 20.13 ± 2.10 Leukocyte zinc, fg/cell 10.22 ± 2.95 10.38 ± 2.55 10.83 ± 2.40 Gene expression, fold change from baseline3     Zip1 1.04 0.92 ± 0.54 1.12 ± 0.55  Zip4 1.0 0.98 ± 0.29 1.11 ± 0.57  Zip8 1.0 0.84 ± 0.39 0.85 ± 0.37  ZnT1 1.0 1.39 ± 0.47 1.27 ± 0.62  ZnT7 1.0 1.42 ± 0.71 1.35 ± 0.58  Mt2a 1.0 1.15 ± 0.58 1.24 ± 1.29 Indicator Baseline Low zinc, MP1 Moderate zinc, MP2 Erythrocyte zinc, fg/106 cells 20.84 ± 2.462 20.18 ± 2.06 20.13 ± 2.10 Leukocyte zinc, fg/cell 10.22 ± 2.95 10.38 ± 2.55 10.83 ± 2.40 Gene expression, fold change from baseline3     Zip1 1.04 0.92 ± 0.54 1.12 ± 0.55  Zip4 1.0 0.98 ± 0.29 1.11 ± 0.57  Zip8 1.0 0.84 ± 0.39 0.85 ± 0.37  ZnT1 1.0 1.39 ± 0.47 1.27 ± 0.62  ZnT7 1.0 1.42 ± 0.71 1.35 ± 0.58  Mt2a 1.0 1.15 ± 0.58 1.24 ± 1.29 1There were no significant differences in any cellular measures of zinc status.
+ Baseline values were measured on day 1, MP1 values were measured on day 15, and MP2 values were measured on day 43.
+ MP1, metabolic period 1; MP2, metabolic period 2; Mt2a, metallothionein 2a.2Mean ± SD (all such values).3Relative messenger RNA concentrations of zinc transporters and Mt2a at the end of MP1 and MP2 are expressed as ratios to baseline values with all baseline data normalized to 1.0.
+ All mRNA concentrations are expressed relative to housekeeping genes as described in Methods.4Mean (all such values).Open in new tabDNA single-strand breaks were measured as a cellular zinc functional biomarker at baseline and at the end of the low and moderate zinc metabolic periods (Figure 1).
+ DNA damage, as indicated by the olive tail moment, increased from baseline (14.5% ± 4.7%) to the end of the low-zinc period (MP1) (23.0% ± 6.3%; P &lt; 0.001) and decreased by the end of the higher-zinc period (MP2) (12.2% ± 3.7%; P &lt; 0.001).
+ DNA strand breaks can occur as a result of either DNA damage or repair.
+ We also measured the number of strand breaks that were generated in response to the addition of FPG, which is an enzyme that removes oxidized purines.
+ Compared with baseline, the number of FPG-sensitive strand breaks that resulted from oxidized purines increased significantly with the low-zinc diet (MP1) (Figure 1).
+ However, at the end of MP2, the number of DNA strand breaks that were generated by oxidative DNA damage was not significantly different from that at the end of MP1 or at baseline.
+ Thus, the additional 4 mg Zn/d that was consumed for 4 wk reduced the overall DNA damage, but it did not fully promote the repair of oxidized lesions.
+ FIGURE 1Open in new tabDownload slideMean ± SD DNA strand breaks and oxidized lesions measured with the use of the alkaline comet and FPG comet assays.
+ Olive tail moments (arbitrary units) from the alkaline comet assay are depicted with black bars; tail moments from FPG comets are depicted with gray bars.
+ Significant differences between means were determined with the use of a repeated-measures ANOVA followed by Bonferroni’s multiple-comparisons test.
+ Bars with the same letter or symbol represent means that are not significantly different from each other.
+ DNA strand breaks increased from baseline (14.5% ± 4.7%) to the end of the low-zinc period (23.0% ± 6.3%; P &lt; 0.001) and decreased by the end of the higher-zinc period (12.2% ± 3.7%; P &lt; 0.001).
+ FPG, formamidopyrimidine DNA-glycosylase.FIGURE 1Open in new tabDownload slideMean ± SD DNA strand breaks and oxidized lesions measured with the use of the alkaline comet and FPG comet assays.
+ Olive tail moments (arbitrary units) from the alkaline comet assay are depicted with black bars; tail moments from FPG comets are depicted with gray bars.
+ Significant differences between means were determined with the use of a repeated-measures ANOVA followed by Bonferroni’s multiple-comparisons test.
+ Bars with the same letter or symbol represent means that are not significantly different from each other.
+ DNA strand breaks increased from baseline (14.5% ± 4.7%) to the end of the low-zinc period (23.0% ± 6.3%; P &lt; 0.001) and decreased by the end of the higher-zinc period (12.2% ± 3.7%; P &lt; 0.001).
+ FPG, formamidopyrimidine DNA-glycosylase.To assess the response of serum proteins that are involved in DNA repair, oxidative stress, or inflammation with the response to a 4-mg change in dietary zinc, we measured the concentrations of 1129 serum proteins with the use of the SOMAscan proteomic assay.
+ The statistical analysis, with the use of paired t tests, showed that 116 proteins changed significantly (P &lt; 0.01) between the 2 metabolic periods (Supplemental Table 4).
+ With the addition of 4 mg dietary zinc, the amounts of 61 proteins decreased, of which the majority were proinflammatory in nature.
+ The amounts of 55 proteins increased, most of which were involved in an adaptive immune function or cellular metabolism.To better understand the metabolic basis of the DNA strand breaks, we identified the proteins that are involved in the following 3 key areas where zinc function maybe implicated: 1) DNA damage and repair, 2) oxidative stress, and 3) the response to inflammation (Table 4).
+ Proteins that are involved in the inflammatory response were analyzed because it has been shown that inflammation is secondary to DNA damage and oxidative stress (27, 28).
+ For example, of the 5 DNA-damage proteins that we identified, 2 repair proteins [high-mobility group protein B1 (HMGB1) and ubiquitin-conjugating enzyme E2N] increased significantly with the addition of 4 mg dietary zinc.
+ Concomitantly, proteins reflecting DNA strand breaks [TNF receptor superfamily member 1B, importin subunit α-1, and E3 ubiquitin-protein ligase (Mdm2)] decreased during the same time period.
+ In category 2 (oxidative stress), plasma antioxidants (i.e., peroxiredoxin-1, ferritin, and catalase) increased with the added dietary zinc, whereas proteins that are involved in ROS formation decreased (i.e., lactoperoxidase).
+ In category 3 (inflammation), anti-inflammatory proteins increased (i.e., apolipoprotein A-I, HMGB1, and IL-2 receptor subunit α), whereas proteins that are involved in the response to inflammation decreased (i.e., fibrinogen, resistin, and fibronectin fragment 4) with the additional dietary zinc.
+ Taken together, these results show that metabolic functions that are associated with maintaining DNA integrity improved with the addition of a small amount of dietary zinc despite an absence in the response of traditional zinc-status biomarkers.
+ TABLE 4Plasma proteins responding to a moderate 4 mg increase in dietary zinc1  MP1-to-MP2 change P Category 1: DNA damage and repair, %    TNF receptor superfamily member 1B −7.62 ± 1.41 0.0002  Importin subunit α-1 −6.09 ± 0.04 0.001  E3 ubiquitin-protein ligase Mdm2 −4.08 ± 0.02 0.003  High mobility group protein B1 21.89 ± 2.82 0.001  Ubiquitin-conjugating enzyme E2 N 13.91 ± 1.34 0.01 Category 2: oxidative stress, %    MHC class I polypeptide-related sequence B −8.7 ± 0.14 0.0002  Platelet-derived growth factor receptor β 6.71 ± 2.19 0.01  Lactoperoxidase −8.01 ± 0.3 0.01  Peroxiredoxin-1 17.33 ± 0.76 0.001  6-phosphogluconate dehydrogenase, decarboxylating 19.51 ± 1.99 0.001  Ferritin 24.95 ± 0.52 0.005  Catalase 13.95 ± 7.14 0.01  Prostaglandin G/H synthase 2 6.18 ± 0.11 0.01  Aflatoxin B1 aldehyde reductase member 2 13.52 ± 0.29 0.01 Category 3: inflammation, %    TNF receptor superfamily member 1B −7.62 ± 1.41 0.0002  Fibrinogen −5.54 ± 2.03 0.003  Inter-α-trypsin inhibitor heavy chain H4 −6.33 ± 4.09 0.003  Resistin −5.98 ± 0.18 0.004  C-C motif chemokine 4-like −8.73 ± 0.1 0.01  TNF ligand superfamily member 6, soluble form −6.05 ± 0.12 0.01  α-1-Antichymotrypsin −7.7 ± 5.84 0.01  Fibronectin fragment 4 6.32 ± 1.57 0.01  Apolipoprotein A-I 10 ± 1.87 0.0004  High mobility group protein B1 21.89 ± 2.82 0.001  Ribosomal protein S6 kinase α-5 9.13 ± 0.04 0.003  IL-2 receptor subunit α 3.07 ± 0.07 0.005  MP1-to-MP2 change P Category 1: DNA damage and repair, %    TNF receptor superfamily member 1B −7.62 ± 1.41 0.0002  Importin subunit α-1 −6.09 ± 0.04 0.001  E3 ubiquitin-protein ligase Mdm2 −4.08 ± 0.02 0.003  High mobility group protein B1 21.89 ± 2.82 0.001  Ubiquitin-conjugating enzyme E2 N 13.91 ± 1.34 0.01 Category 2: oxidative stress, %    MHC class I polypeptide-related sequence B −8.7 ± 0.14 0.0002  Platelet-derived growth factor receptor β 6.71 ± 2.19 0.01  Lactoperoxidase −8.01 ± 0.3 0.01  Peroxiredoxin-1 17.33 ± 0.76 0.001  6-phosphogluconate dehydrogenase, decarboxylating 19.51 ± 1.99 0.001  Ferritin 24.95 ± 0.52 0.005  Catalase 13.95 ± 7.14 0.01  Prostaglandin G/H synthase 2 6.18 ± 0.11 0.01  Aflatoxin B1 aldehyde reductase member 2 13.52 ± 0.29 0.01 Category 3: inflammation, %    TNF receptor superfamily member 1B −7.62 ± 1.41 0.0002  Fibrinogen −5.54 ± 2.03 0.003  Inter-α-trypsin inhibitor heavy chain H4 −6.33 ± 4.09 0.003  Resistin −5.98 ± 0.18 0.004  C-C motif chemokine 4-like −8.73 ± 0.1 0.01  TNF ligand superfamily member 6, soluble form −6.05 ± 0.12 0.01  α-1-Antichymotrypsin −7.7 ± 5.84 0.01  Fibronectin fragment 4 6.32 ± 1.57 0.01  Apolipoprotein A-I 10 ± 1.87 0.0004  High mobility group protein B1 21.89 ± 2.82 0.001  Ribosomal protein S6 kinase α-5 9.13 ± 0.04 0.003  IL-2 receptor subunit α 3.07 ± 0.07 0.005 1All values are means + SEMs.
+ Paired t tests were used to determine significance.
+ P &lt; 0.01 was used as an arbitrary cutoff for significance.
+ MHC, major histocompatibility complex; MP1, metabolic period 1; MP2, metabolic period 2.Open in new tabTABLE 4Plasma proteins responding to a moderate 4 mg increase in dietary zinc1  MP1-to-MP2 change P Category 1: DNA damage and repair, %    TNF receptor superfamily member 1B −7.62 ± 1.41 0.0002  Importin subunit α-1 −6.09 ± 0.04 0.001  E3 ubiquitin-protein ligase Mdm2 −4.08 ± 0.02 0.003  High mobility group protein B1 21.89 ± 2.82 0.001  Ubiquitin-conjugating enzyme E2 N 13.91 ± 1.34 0.01 Category 2: oxidative stress, %    MHC class I polypeptide-related sequence B −8.7 ± 0.14 0.0002  Platelet-derived growth factor receptor β 6.71 ± 2.19 0.01  Lactoperoxidase −8.01 ± 0.3 0.01  Peroxiredoxin-1 17.33 ± 0.76 0.001  6-phosphogluconate dehydrogenase, decarboxylating 19.51 ± 1.99 0.001  Ferritin 24.95 ± 0.52 0.005  Catalase 13.95 ± 7.14 0.01  Prostaglandin G/H synthase 2 6.18 ± 0.11 0.01  Aflatoxin B1 aldehyde reductase member 2 13.52 ± 0.29 0.01 Category 3: inflammation, %    TNF receptor superfamily member 1B −7.62 ± 1.41 0.0002  Fibrinogen −5.54 ± 2.03 0.003  Inter-α-trypsin inhibitor heavy chain H4 −6.33 ± 4.09 0.003  Resistin −5.98 ± 0.18 0.004  C-C motif chemokine 4-like −8.73 ± 0.1 0.01  TNF ligand superfamily member 6, soluble form −6.05 ± 0.12 0.01  α-1-Antichymotrypsin −7.7 ± 5.84 0.01  Fibronectin fragment 4 6.32 ± 1.57 0.01  Apolipoprotein A-I 10 ± 1.87 0.0004  High mobility group protein B1 21.89 ± 2.82 0.001  Ribosomal protein S6 kinase α-5 9.13 ± 0.04 0.003  IL-2 receptor subunit α 3.07 ± 0.07 0.005  MP1-to-MP2 change P Category 1: DNA damage and repair, %    TNF receptor superfamily member 1B −7.62 ± 1.41 0.0002  Importin subunit α-1 −6.09 ± 0.04 0.001  E3 ubiquitin-protein ligase Mdm2 −4.08 ± 0.02 0.003  High mobility group protein B1 21.89 ± 2.82 0.001  Ubiquitin-conjugating enzyme E2 N 13.91 ± 1.34 0.01 Category 2: oxidative stress, %    MHC class I polypeptide-related sequence B −8.7 ± 0.14 0.0002  Platelet-derived growth factor receptor β 6.71 ± 2.19 0.01  Lactoperoxidase −8.01 ± 0.3 0.01  Peroxiredoxin-1 17.33 ± 0.76 0.001  6-phosphogluconate dehydrogenase, decarboxylating 19.51 ± 1.99 0.001  Ferritin 24.95 ± 0.52 0.005  Catalase 13.95 ± 7.14 0.01  Prostaglandin G/H synthase 2 6.18 ± 0.11 0.01  Aflatoxin B1 aldehyde reductase member 2 13.52 ± 0.29 0.01 Category 3: inflammation, %    TNF receptor superfamily member 1B −7.62 ± 1.41 0.0002  Fibrinogen −5.54 ± 2.03 0.003  Inter-α-trypsin inhibitor heavy chain H4 −6.33 ± 4.09 0.003  Resistin −5.98 ± 0.18 0.004  C-C motif chemokine 4-like −8.73 ± 0.1 0.01  TNF ligand superfamily member 6, soluble form −6.05 ± 0.12 0.01  α-1-Antichymotrypsin −7.7 ± 5.84 0.01  Fibronectin fragment 4 6.32 ± 1.57 0.01  Apolipoprotein A-I 10 ± 1.87 0.0004  High mobility group protein B1 21.89 ± 2.82 0.001  Ribosomal protein S6 kinase α-5 9.13 ± 0.04 0.003  IL-2 receptor subunit α 3.07 ± 0.07 0.005 1All values are means + SEMs.
+ Paired t tests were used to determine significance.
+ P &lt; 0.01 was used as an arbitrary cutoff for significance.
+ MHC, major histocompatibility complex; MP1, metabolic period 1; MP2, metabolic period 2.Open in new tabTo determine whether these metabolic bioindicators are more sensitive than traditional zinc biomarkers to changes in dietary zinc, we correlated the changes in PZCs and EZP sizes with changes in the previously detailed proteins between MP1 and MP2.
+ Plasma zinc and the size of the EZP did not correlate significantly with any of the responsive proteins (data not shown).
+ These data suggest that DNA strand breaks (both total and oxidized) are sensitive biomarkers of a change in metabolic wellbeing in response to dietary zinc.
+ DISCUSSION A short-term moderate increase in dietary zinc from 6 to 10 mg/d caused a reduction in leukocyte DNA damage and significant changes in concentrations of serum proteins that are associated with DNA damage, oxidative stress, and inflammation.
+ These shifts in dietary zinc–related functions occurred without a change in plasma, erythrocyte, or leukocyte zinc concentrations or the EZP size.
+ Also, the gene expression for 5 key zinc transporters and for metallothionein 2a in leukocytes did not respond to the modest increase in dietary zinc.
+ Previous reports of changes in the gene expression of zinc transporters or metallothionein occurred with larger changes in dietary zinc (29–31).The comet assay has been used previously in several human-intervention trials to measure DNA single-strand breaks from peripheral blood cells (12, 23, 32).
+ In a previous zinc depletion–zinc repletion study by our group, DNA damage increased significantly in healthy men after the consumption of a diet that provided 4 mg Zn/d for 6 wk, including a formula diet that provided 0.6 mg Zn/d during the first week.
+ Repletion with 11 mg Zn/d for 4 wk with a 20-mg Zn supplement for the first 7 d ameliorated the DNA damage.
+ Although PZCs did not change significantly during zinc depletion in that study, there was a negative correlation between PZCs and DNA damage in the 9 men.
+ DNA strand breaks also declined significantly in a group of Ethiopian women who were given 20 mg supplemental zinc/d for 17 d (32).
+ This change occurred without an overall increase in PZCs, but PZCs and DNA strand breaks were negatively correlated at the end of the study.
+ Intracellular DNA strand breaks, which are a potential functional indicator of zinc status, appeared to be sensitive to small changes in dietary zinc, which suggested that DNA integrity is one of the first metabolic functions to improve with modest increases in zinc intake.In the proteomic analysis, 26 proteins that are involved with DNA damage, oxidative stress, and inflammation responded to an increase of 4 mg dietary zinc (Table 4).
+ For example, the amount of proteins that are associated with DNA repair was greater at the end of MP2 (i.e., HMGB1 and ubiquitin-conjugating enzyme E2N).
+ HMGB1 maintains the integrity of DNA by several mechanisms including participating in nucleotide excision repair, mismatch repair, base-excision repair, and double-strand break repair (33).
+ In addition, HMGB1 has been postulated to be a redox and inflammation sensor (34).Zinc may also prevent DNA damage by protecting cellular components from oxidation.
+ Although zinc is a redox inert metal and does not participate in oxidation-reduction reactions (35), it can reduce oxidant stress by protecting protein sulfhydryl groups from oxidation by antagonizing redox-active transition metals such as iron or copper, thereby preventing their oxidation of protein sulfhydryl groups (36).
+ An example of this function was the significant increase in ferritin when dietary zinc was increased (Table 4).
+ Ferritin reduces protein oxidation by binding and converting redox-active iron to a nontoxic form.
+ The role of zinc in protein folding and enabling the proper functioning of proteins may explain how an increase in peroxiredoxin-1, which is a cysteine-rich protein with both antioxidant and protein-folding chaperone functions, is linked to reduced oxidative stress.
+ The increase in peroxiredoxin-1 with the dietary zinc increase may have enabled appropriate protein folding that facilitated its function as an antioxidant (37).Zinc reduces oxidative stress and also limits the formation of inflammatory cytokines by upregulating the zinc-finger protein A20, which inhibits nuclear transcription factor κB activation (35).
+ When dietary zinc was increased by 4 mg/d in this study, the proteins that are associated with an increase in inflammation (i.e., fibrinogen, resistin, and TNF ligand superfamily member 6, soluble form) declined, whereas the proteins that are linked to a decrease in inflammation increased (i.e., apolipoprotein A-I, HMGB1, and IL-2 receptor subunit α).
+ To our knowledge, the relation between apolipoprotein A-I and plasma zinc has not been studied, but low zinc availability in the media of a human liver cancer cell line reduced apolipoprotein A-I mRNA (38).
+ However, human as well as tissue-culture studies have shown that zinc is required for IL-2 receptor subunit α expression and for reducing the underlying inflammation that accompanies a decline in IL-2 receptor subunit α mRNA (39, 40).Oxidative stress and chronic inflammation play causative roles in the development of chronic diseases including cancers, atherosclerosis, and other degenerative disorders.
+ Our results suggest that subclinical zinc deficiencies may shift cellular metabolic functions in a manner that increases chronic disease risk.
+ Epidemiologic studies have reported associations between zinc and risks of cancer, cardiovascular disease, and diabetes (41–45), but to our knowledge, this is the first human study to show that a moderate increase in dietary zinc alters underlying cellular changes that are associated with subsequent disease risk.
+ Further studies are needed to show that a moderate increase in dietary zinc could positively influence biomarkers that are associated with these diseases.To date, stunting and an increased risk of gastrointestinal or pulmonary infections are the 2 primary functional consequences of zinc deficiency in humans.
+ On the basis of the current study and studies reported by other authors (12, 32), we suggest that DNA damage should be considered a functional indicator of human zinc deficiency.
+ The use of comet assay as a functional indicator of zinc nutrition has several advantages over the assessment of incidences of stunting and morbidity.
+ First, it can be used in studies of adults as well as children.
+ Second, unlike stunting and increased morbidity, it is very sensitive to small changes in dietary zinc, and third, it requires very little blood, which makes it possible to do the analyses of a finger-stick sample that is drawn in a field setting.
+ The association between DNA damage and dietary zinc appears to be stronger than that with PZCs.
+ The same is true for stunting (46).
+ Although PZCs respond readily to oral zinc supplements that are taken without food, plasma zinc does not decline with lower dietary zinc until intakes are &lt;3 mg/d (47).
+ Thus, these zinc-related functions appear to be more sensitive to changes in the dietary zinc supply than are PZCs.
+ However, this DNA damage is not specific for low zinc intake.
+ DNA strand breaks also increase with low intakes of folate and vitamin B-6 (48, 49).The multiple metabolic responses to a marginal increase in dietary zinc that were observed in this study suggest that the framework that is used to evaluate zinc status needs to be modified.
+ Modest changes in dietary zinc, as is typical with changes in the composition of human diets, caused a shift in the serum concentrations of multiple proteins, thereby reflecting several metabolic functions rather than a single, specific biomarker.
+ Proteins that are associated with preventing DNA damage, oxidative stress, and inflammation changed without any changes in PZCs.
+ We suggest that a combination of endpoints that are linked to a key metabolic function (i.e., DNA damage) can be used as bioindicators of the relation between zinc nutrition and a nonspecific functional outcome.
+ For example, a shift in a few of the zinc-sensitive proteins that are involved in DNA damage (e.g., peroxiredoxin-1, ferritin, fibrinogen, and resistin) could be used to confirm that dietary zinc inadequacy contributes to the observed DNA lesions.In conclusion, we show that a moderate increase in dietary zinc, which is similar to that when regular rice is replaced with zinc-biofortified rice, reduces DNA strand breaks and alters circulating concentrations of plasma proteins that are involved in DNA repair, oxidative stress, and inflammation.
+ DNA damage is not a specific bioindicator of zinc nutrition.
+ Nevertheless, DNA damage can serve as a bioindicator of zinc nutrition when measurements of zinc-sensitive proteins like peroxiredoxin-1, ferritin, fibrinogen, and resistin are also taken into consideration.We thank the following staff and interns for assistance in the study implementation and subsequent sample and data analysis: Judi Abegania, Mariah Dawson, Daniel Lee, Kenneth Li, Jessie Mai, Angie Marr, Isabeth Mendoza, Jenny Ngyuen, Jeannie Ngyuen-Cuu, Brianna Pope, Paige Xu, and Lisa Sawrey-Kubicek.
+ We thank Frans Kuypers and Sandra Larkin at Children’s Hospital Oakland Research Institute for providing access to the ADVIA 120 system as well as Jamie Westcott at the University of Colorado for analysis of zinc isotopes.
+ We also thank Bruce Ames, Jung Suh, and Joyce McCann at Children’s Hospital Oakland Research Institute for helpful discussions.
+ The work was performed at the Nutrition Metabolism Center at Children’s Hospital Oakland Research Institute.The authors’ responsibilities were as follows—SJZ, SVS, DWK, TCH, EK, AM, BS, and JCK: were responsible for the data acquisition; SVS, DWK, and VG: were responsible for the statistical analyses; SJZ, SVS, DWK, MKS, and JCK: were responsible for the interpretation of the findings; SJZ, SVS, DWK, and JCK: were responsible for the study concept and design and drafted the manuscript; JCK: had full access to all of the study data and was responsible for the accuracy of the data analysis and integrity of the data; and all authors: reviewed the draft of the manuscript and read, provided feedback for, and gave final approval of the final version of the manuscript.
+ None of the authors reported a conflict of interest related to the study.
+ FOOTNOTES 1Supported by a grant from HarvestPlus and a supplemental grant from the NIH Office of Dietary Supplements (HHSN263201200841P).2The funders had no role in the study design, analyses, or interpretation of the results.
+ REFERENCES 1.Brown KH, Hambidge KM, Ranum P. Zinc fortification of cereal flours: current recommendations and research needs.
+ Food Nutr Bull 2010;31(1 Suppl):S62–74.Google ScholarCrossrefSearch ADS PubMedWorldCat 2.White PJ, Broadley MR. Physiological limits to zinc biofortification of edible crops.
+ Front Plant Sci 2011;2:80.Google ScholarCrossrefSearch ADS PubMedWorldCat 3.Hotz C. The potential to improve zinc status through biofortification of staple food crops with zinc.
+ Food Nutr Bull 2009;30:S172–8.Google ScholarCrossrefSearch ADS PubMedWorldCat 4.La Frano MR, de Moura FF, Boy E, Lonnerdal B, Burri BJ.
+ Bioavailability of iron, zinc, and provitamin A carotenoids in biofortified staple crops.
+ Nutr Rev 2014;72:289–307.Google ScholarCrossrefSearch ADS PubMedWorldCat 5.Hess SY, Brown KH.
+ Impact of zinc fortification on zinc nutrition.
+ Food Nutr Bull 2009;30(1 Suppl):S79–107.Google ScholarCrossrefSearch ADS PubMedWorldCat 6.Powell SR.
+ The antioxidant properties of zinc.
+ J Nutr 2000;130(5S Suppl):1447S–54S.Google ScholarCrossrefSearch ADS PubMedWorldCat 7.Eide DJ.
+ The oxidative stress of zinc deficiency.
+ Metallomics 2011;3:1124–9.Google ScholarCrossrefSearch ADS PubMedWorldCat 8.Reuter S, Gupta SC, Chaturvedi MM, Aggarwal BB.
+ Oxidative stress, inflammation, and cancer: how are they linked?
+ Free Radic Biol Med 2010;49:1603–16.Google ScholarCrossrefSearch ADS PubMedWorldCat 9.Prasad AS.
+ Zinc is an antioxidant and anti-inflammatory agent: its role in human health.
+ Front Nutr 2014;1:14.Google ScholarOpenURL Placeholder TextWorldCat 10.Oteiza PI.
+ Zinc and the modulation of redox homeostasis.
+ Free Radic Biol Med 2012;53:1748–59.Google ScholarCrossrefSearch ADS PubMedWorldCat 11.Han Y, Chen JZ.
+ Oxidative stress induces mitochondrial DNA damage and cytotoxicity through independent mechanisms in human cancer cells.
+ Biomed Res Int;2013:825065.Google ScholarOpenURL Placeholder TextWorldCat 12.Song Y, Chung CS, Bruno RS, Traber MG, Brown KH, King JC, Ho E. Dietary zinc restriction and repletion affects DNA integrity in healthy men.
+ Am J Clin Nutr 2009;90:321–8.Google ScholarCrossrefSearch ADS PubMedWorldCat 13.Foster M, Samman S. Zinc and redox signaling: perturbations associated with cardiovascular disease and diabetes mellitus.
+ Antioxid Redox Signal 2010;13:1549–73.Google ScholarCrossrefSearch ADS PubMedWorldCat 14.Ho E, Ames BN.
+ Low intracellular zinc induces oxidative DNA damage, disrupts p53, NFkappa B, and AP1 DNA binding, and affects DNA repair in a rat glioma cell line.
+ Proc Natl Acad Sci USA 2002;99:16770–5.Google ScholarCrossrefSearch ADS PubMedWorldCat 15.Institute of Medicine PoM.
+ Dietary reference intakes: vitamin A, vitamin K, arsenic, boron, chromium, copper, iodine, iron, manganese, molybdenum, nickel, silicon, vanadium, and zinc.
+ Low phytic acid lentils (Lens culinaris L. ): a potential solution for increased micronutrient bioavailability.
+ J Agric Food Chem 2009;57:9044–9.Google ScholarCrossrefSearch ADS PubMedWorldCat 17.Chung CS, Stookey J, Dare D, Welch R, Nguyen TQ, Roehl R, Peerson JM, King JC, Brown KH.
+ Current dietary zinc intake has a greater effect on fractional zinc absorption than does longer term zinc consumption in healthy adult men.
+ Am J Clin Nutr 2008;87:1224–9.Google ScholarPubMedOpenURL Placeholder TextWorldCat 18.Chomba E, Westcott CM, Westcott JE, Mpabalwani EM, Krebs NF, Patinkin ZW, Palacios N, Hambidge KM.
+ Zinc absorption from biofortified maize meets the requirements of young rural Zambian children.
+ J Nutr 2015;145:514–9.Google ScholarCrossrefSearch ADS PubMedWorldCat 19.Krebs NF, Westcott JE, Culbertson DL, Sian L, Miller LV, Hambidge KM.
+ Comparison of complementary feeding strategies to meet zinc requirements of older breastfed infants.
+ Am J Clin Nutr 2012;96:30–5.Google ScholarCrossrefSearch ADS PubMedWorldCat 20.King JC, Shames DM, Lowe NM, Woodhouse LR, Sutherland B, Abrams SA, Turnlund JR, Jackson MJ.
+ Effect of acute zinc depletion on zinc homeostasis and plasma zinc kinetics in men.
+ Am J Clin Nutr 2001;74:116–24.Google ScholarPubMedOpenURL Placeholder TextWorldCat 21.Lowe NM, Woodhouse LR, Matel JS, King JC.
+ Comparison of estimates of zinc absorption in humans by using 4 stable isotopic tracer methods and compartmental analysis.
+ Am J Clin Nutr 2000;71:523–9.Google ScholarPubMedOpenURL Placeholder TextWorldCat 22.Miller LV, Hambidge KM, Naake VL, Hong Z, Westcott JL, Fennessey PV.
+ Size of the zinc pools that exchange rapidly with plasma zinc in humans: alternative techniques for measuring and relation to dietary zinc intake.
+ J Nutr 1994;124:268–76.Google ScholarPubMedOpenURL Placeholder TextWorldCat 23.Singh NP, McCoy MT, Tice RR, Schneider EL.
+ A simple technique for quantitation of low levels of DNA damage in individual cells.
+ Exp Cell Res 1988;175:184–91.Google ScholarCrossrefSearch ADS PubMedWorldCat 24.Collins A, Duthie S, Dobson V. Direct enzymatic detection of endogenous oxidative base damage in human lymphocyte DNA.
+ Carcinogenesis 1993;14:1733-5.Google ScholarCrossrefSearch ADS PubMedWorldCat 25.Gold L, Ayers D, Bertino J, Bock C, Bock A, Brody EN, Carter J, Dalby AB, Eaton BE, Fitzwater T, et al.
+ Aptamer-based multiplexed proteomic technology for biomarker discovery.
+ PLoS One 2010;5:e15004.Google ScholarCrossrefSearch ADS PubMedWorldCat 26.Lowe NM, Woodhouse LR, Sutherland B, Shames DM, Burri BJ, Abrams SA, Turnlund JR, Jackson MJ, King JC.
+ Kinetic parameters and plasma zinc concentration correlate well with net loss and gain of zinc from men.
+ J Nutr 2004;134:2178–81.Google ScholarCrossrefSearch ADS PubMedWorldCat 27.Fontes FL, Pinheiro DM, Oliveira AH, Oliveira RK, Lajus TB, Agnez-Lima LF.
+ Role of DNA repair in host immune response and inflammation.
+ Mutat Res Rev Mutat Res 2015;763:246–57.Google ScholarCrossrefSearch ADS PubMedWorldCat 28.Rosanna DP, Salvatore C. Reactive oxygen species, inflammation, and lung diseases.
+ Curr Pharm Des 2012;18:3889–900.Google ScholarCrossrefSearch ADS PubMedWorldCat 29.Allan AK, Hawksworth GM, Woodhouse LR, Sutherland B, King JC, Beattie JH.
+ Lymphocyte metallothionein mRNA responds to marginal zinc intake in human volunteers.
+ Br J Nutr 2000;84:747–56.Google ScholarPubMedOpenURL Placeholder TextWorldCat 30.Andree KB, Kim J, Kirschke CP, Gregg JP, Paik H, Joung H, Woodhouse L, King JC, Huang L. Investigation of lymphocyte gene expression for use as biomarkers for zinc status in humans.
+ J Nutr 2004;134:1716–23.Google ScholarCrossrefSearch ADS PubMedWorldCat 31.McMahon RJ, Cousins RJ.
+ Regulation of the zinc transporter ZnT-1 by dietary zinc.
+ Proc Natl Acad Sci USA 1998;95:4841–6.Google ScholarCrossrefSearch ADS PubMedWorldCat 32.Joray ML, Yu TW, Ho E, Clarke SL, Stanga Z, Gebreegziabher T, Hambidge KM, Stoecker BJ.
+ Zinc supplementation reduced DNA breaks in Ethiopian women.
+ Nutr Res 2015;35:49–55.Google ScholarCrossrefSearch ADS PubMedWorldCat 33.Lange SS, Vasquez KM.
+ HMGB1: the jack-of-all-trades protein is a master DNA repair mechanic.
+ Mol Carcinog 2009;48:571–80.Google ScholarCrossrefSearch ADS PubMedWorldCat 34.Barreiro-Alonso A, Lamas-Maceiras M, Rodriguez-Belmonte E, Vizoso-Vazquez A, Quindos M, Cerdan ME.
+ Oxid Med Cell Longev 2016;2016:5845061.Google ScholarCrossrefSearch ADS PubMedWorldCat 35.Jomova K, Valko M. Advances in metal-induced oxidative stress and human disease.
+ Toxicology 2011;283:65–87.Google ScholarCrossrefSearch ADS PubMedWorldCat 36.Ho E. Zinc deficiency, DNA damage and cancer risk.
+ J Nutr Biochem 2004;15:572–8.Google ScholarCrossrefSearch ADS PubMedWorldCat 37.MacDiarmid CW, Taggart J, Kerdsomboon K, Kubisiak M, Panascharoen S, Schelble K, Eide DJ.
+ Peroxiredoxin chaperone activity is critical for protein homeostasis in zinc-deficient yeast.
+ J Biol Chem 2013;288:31313–27.Google ScholarCrossrefSearch ADS PubMedWorldCat 38.Wu JY, Wu Y, Reaves SK, Wang YR, Lei PP, Lei KY. Apolipoprotein A-I gene expression is regulated by cellular zinc status in hep G2 cells.
+ Am J Physiol 1999;277:C537–44.Google ScholarCrossrefSearch ADS PubMedWorldCat 39.Bao B, Prasad A, Beck FW, Suneja A, Sarkar F. Toxic effect of zinc on NF-kappaB, IL-2, IL-2 receptor alpha, and TNF-alpha in HUT-78 (Th(0)) cells.
+ Toxicol Lett 2006;166:222–8.Google ScholarCrossrefSearch ADS PubMedWorldCat 40.Prasad AS, Bao B, Beck FW, Sarkar FH.
+ Correction of interleukin-2 gene expression by in vitro zinc addition to mononuclear cells from zinc-deficient human subjects: a specific test for zinc deficiency in humans.
+ Transl Res 2006;148:325–33.Google ScholarCrossrefSearch ADS PubMedWorldCat 41.Alam S, Kelleher SL.
+ Cellular mechanisms of zinc dysregulation: a perspective on zinc homeostasis as an etiological factor in the development and progression of breast cancer.
+ Nutrients 2012;4:875–903.Google ScholarCrossrefSearch ADS PubMedWorldCat 42.Chimienti F. Zinc, pancreatic islet cell function and diabetes: new insights into an old story.
+ Nutr Res Rev 2013;26:1–11.Google ScholarCrossrefSearch ADS PubMedWorldCat 43.Costello LC, Franklin RB.
+ The status of zinc in the development of hepatocellular cancer: an important, but neglected, clinically established relationship.
+ Cancer Biol Ther 2014;15:353–60.Google ScholarCrossrefSearch ADS PubMedWorldCat 44.Franz MC, Anderle P, Burzle M, Suzuki Y, Freeman MR, Hediger MA, Kovacs G. Zinc transporters in prostate cancer.
+ Mol Aspects Med 2013;34:735–41.Google ScholarCrossrefSearch ADS PubMedWorldCat 45.Foster M, Samman S. Zinc and regulation of inflammatory cytokines: implications for cardiometabolic disease.
+ Nutrients 2012;4:676–94.Google ScholarCrossrefSearch ADS PubMedWorldCat 46.King JC, Brown KH, Gibson RS, Krebs NE, Lowe NM.
+ Biomarkers of Nutrition for Development (BOND) — zinc review.
+ J Nutr 2016 Mar 9 (Epub ahead of print; DOI: 10.3945/jn.115.220079).Google ScholarOpenURL Placeholder TextWorldCat 47.Gibson RS, Hess SY, Hotz C, Brown KH.
+ Indicators of zinc status at the population level: a review of the evidence.
+ Br J Nutr 2008;99(Suppl 3):S14–23.Google ScholarPubMedOpenURL Placeholder TextWorldCat 48.Guo X, Cui H, Zhang H, Guan X, Zhang Z, Jia C, Wu J, Yang H, Qiu W, Zhang C, et al.
+ Protective effect of folic acid on oxidative DNA damage: a randomized, double-blind, and placebo controlled clinical trial.
+ Medicine 2015;94:e1872.Google ScholarCrossrefSearch ADS PubMedWorldCat 49.Kuwahara K, Nanri A, Pham NM, Kurotani K, Kume A, Sato M, Kawai K, Kasai H, Mizoue T. Serum vitamin B6, folate, and homocysteine concentrations and oxidative DNA damage in Japanese men and women.
+ Nutrition 2013;29:1219–23.Google ScholarCrossrefSearch ADS PubMedWorldCat  ABBREVIATIONS  EZPexchangeable zinc pool FPGformamidopyrimidine DNA-glycosylase FZAfractional zinc absorption HMGB1high-mobility group protein B1 ICP-OESinductively coupled plasma optical emission spectrophotometry MP1metabolic period 1 MP2metabolic period 2 mRNAmessenger RNA NISTNational Institute of Standards and Technology PCRpolymerase chain reaction ppmparts per million PZCplasma zinc concentration ROSreactive oxygen species TAZtotal absorbed zinc   Author notes 4These authors contributed equally to this work.© 2017 American Society for NutritionThis is a free access article, distributed under terms (http://www.nutrition.org/publications/guidelines-and-policies/license/) that permit unrestricted noncommercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ Sperm DNA fragmentation testing: Summary evidence and clinical practice recommendations.
+ Risperidone induced reproductive toxicity in male rats targeting leydig cells and hypothalamic-pituitary-gonadal axis by inducing oxidative stress.
+ Close

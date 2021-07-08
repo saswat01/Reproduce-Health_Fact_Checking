@@ -1,0 +1,154 @@
+document.body.className + ' js-enabled' : 'js-enabled');   Skip to main content        Tell us whether you accept cookies We use cookies to collect information about how you use GOV.UK.
+ We use this information to make the website work as well as possible and improve government services.
+ Accept all cookies   Set cookie preferences       You’ve accepted all cookies.
+ You can change your cookie settings at any time.
+ Hide                     GOV.UK         Show or hide search      Search on GOV.UK      Search                         Coronavirus (COVID-19)         National restrictions in England from 5 November              The UK and EU transition         Take action now for new rules in 2021             Home   Immigration statistics, year ending March 2018           Home Office           National Statistics     How many people do we grant asylum or protection to?
+ Published 24 May 2018        Contents    1.
+ Key facts   2.
+ Asylum applications and initial decisions   3.
+ Unaccompanied asylum-seeking children   4.
+ Support provided to asylum seekers   5.
+ Resettlement   6.
+ Family reunion visas   7. International comparisons   8.
+ Data tables     Print this page          © Crown copyright 2018    This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+ To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+ Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+ This publication is available at https://www.gov.uk/government/publications/immigration-statistics-year-ending-march-2018/how-many-people-do-we-grant-asylum-or-protection-to        Back to ‘Immigration Statistics, year ending March 2018’ content page.
+ Data relates to the year ending March 2018 and all comparisons are with the year ending March 2017, unless indicated otherwise.
+ This section contains data on:  asylum applications and initial decisions unaccompanied asylum-seeking children (UASC) asylum support resettlement family reunion visas granted international comparisons of asylum trends  Data on transfers under the Dublin regulation can be found in the Asylum tables.
+ We provide a more detailed commentary on an annual basis.
+ This is included in ‘Immigration Statistics, April to June 2017’.
+ 1.
+ Key facts In the year ending March 2018, there were 14,166 grants of asylum, alternative forms of protection and resettlement, down 11% compared with 15,973 in the previous year.
+ This comprised:  6,865 grants of asylum to main applicants and dependants (down 17%) 1,541 grants of alternative form of protection to main applicants and their dependants (up 16%) 5,760 people provided with protection under a resettlement scheme (down 9%)  Of the 14,166 people granted asylum, protection and resettlement, 5,953 (42%) were children (under 18 years old).
+ Additionally, 5,874 Family reunion visas were issued to partners and children of those granted asylum or humanitarian protection in the UK, a 2% increase since last year.
+ Of these, 2,883 (49%) were issued to children.
+ The number of asylum applications in the UK from main applicants decreased by 8% to 26,547 in the year ending March 2018.
+ The fall in asylum applications reflects a return to levels seen before the European migration crisis in 2015.
+ The falls are consistent with what has been seen more widely across Europe, with a decrease of around 41% in applications to EU countries in the last year.
+ There were 774 grants of asylum or alternative forms of protection to Syrian nationals (including dependants) at initial decision in the year ending March 2018 (down 49%).
+ This included 4,342 Syrian nationals who were provided protection under the Vulnerable Person Resettlement Scheme (VPRS), bringing the total number of Syrians provided protection to 11,649 since the scheme began in 2014.
+ 2.
+ Asylum applications and initial decisions In the year ending March 2018, the number of applications for asylum in the UK (main applicants only) was 26,547, a fall of 8% compared with the previous year.
+ The fall in asylum applications reflects a return to levels seen before the European migration crisis in 2015.
+ The falls are consistent with what has been seen more widely across Europe, with a decrease of around 41% in applications to EU countries in the last year.
+ Number of asylum applications in the UK, 2001 to 20171   Source: Table as 01 q (asylum tables, volume 1).
+ Chart note:  Main applicants only.
+ Of the 21,327 initial decisions on asylum applications from main applicants, 30% were grants of asylum or an alternative form of protection, compared to 33% in the previous year.
+ The number of people granted asylum or another form of protection (such as humanitarian protection or discretionary leave) following an asylum application in the year ending March 2018 was 8,406 (including dependants).
+ Of these, 3,050 (36%) were children (under 18 years old).
+ Data on grants of protection through resettlement schemes are discussed in the resettlement section below.
+ 2.1 Asylum applications by nationality The nationalities with the largest number of asylum applications in the year ending March 2018 were:  Iranian (2,482 applications, down 26%) Pakistani (2,401, down 13%) Iraqi (2,391, down 2%) Sudanese (1,754, up 25%) Bangladeshi (1,542, down 20%)  In the year ending March 2018, the number of applications from Syrian nationals fell 42% compared with the previous year (from 1,074 to 619), a fall consistent with the previous two years.
+ Over the same period, there was a fall in both the number of Syrian nationals granted asylum (down 54%) and a 20% decrease in the number of Syrian nationals being granted protection in the UK through other means such as the VPRS (from 5,453 to 4,342).
+ Number of asylum applications from the top 5 nationalities  Source: Table as 01 q (asylum tables, volume 1).
+ Chart note:  Main applicants only.
+ 3.
+ Unaccompanied asylum-seeking children An unaccompanied asylum-seeking child (UASC) is a person under 18 years old, or in the absence of documentary evidence establishing age appears to be under 18, with no relative or guardian in the UK who is applying for asylum in his or her own right.
+ There were 2,307 asylum applications from UASC in the year ending March 2018, a 25% decrease compared to the previous year, falling after two consecutively high years.
+ The largest numbers of asylum applications from UASC were from Sudanese and Eritrean nationals, together accounting for over 30% of all UASC applications.
+ This was followed by Vietnamese nationals (11%) and Iraqi nationals (11%).
+ Of the 2,218 initial decisions relating to UASC made in the year ending March 2018, 1,245 (56%) were grants of asylum or another form of protection, and an additional 374 (17%) were UASC leave (granted to UASCs refused asylum, but eligible for temporary leave.
+ A further 27% of UASC applicants were refused.
+ This will include those from countries where it is safe to return children to their families, as well as applicants who were determined to be over 18 following an age assessment.
+ Data on UASC can be found in Asylum tables as 08 to as 10 (volume 3).
+ 4.
+ Support provided to asylum seekers Section 95 support is provided to destitute asylum seekers until their claim is finally determined.
+ Section 95 support can be provided as either accommodation or subsistence, or both.
+ Data from March 2018 show a total of 42,352 people in the UK were in receipt of support under Section 95 of the Immigration and Asylum Act 1999.
+ This number is 8% higher than in the previous year.
+ The total figure remains considerably below that for the end of December 2003 (the start of the published data series), when there were 80,123 people in receipt of Section 95 support.
+ An individual may be eligible for Section 4 support if their asylum application has been determined as refused and appeals rights are exhausted, but they are destitute and there are reasons that temporarily prevent them from leaving the UK.
+ See the user guide for more details.
+ Separately, in March 2018, there were 4,333 people receiving support under Section 4 of the Immigration and Asylum Act 1999, a 13% increase from the previous year.
+ Data on support provided to asylum seekers can be found in Asylum tables as 15 to as 18 (volume 4).
+ 5.
+ Resettlement In addition to those who are granted asylum in the UK, resettlement schemes are offered to those who have been referred to the Home Office by The United Nations Refugee Agency (UNHCR).
+ Details on specific resettlement schemes can be found in the user guide.
+ Children accounted for 50% of all those resettled, a similar proportion to the previous year.
+ On 7 September 2015, an expansion to the existing VPRS was announced.
+ Through this expansion, it was proposed that 20,000 Syrians in need of protection be resettled in the UK by 2020.
+ A total of 11,649 people have been resettled under the VPRS since the scheme began in 2014.
+ In the year ending March 2018, 4,342 people were resettled under the VPRS across 221 different local authorities, 2,184 of these were children.
+ Resettlement data can be found in Asylum tables as 19 and as 20 (volume 4).
+ 6.
+ Family reunion visas A Family reunion visa allows a spouse, or partner and children (under the age of 18) of those granted refugee status or humanitarian protection in the UK, to reunite with them in the UK.
+ Family reunion visas are a subset of the ‘Family: other’ visa category.
+ Around 99% of ‘Family: other’ visa grants, as published in the visa tables, relate to Family reunion visas.
+ However, data on Family reunion visas come from a different system to other visa data so are not directly comparable.
+ Data on the number of applications and their outcome for ‘Family: other’ visas are found in Table vi 01 q.
+ In the year ending March 2018, 5,874 Family reunion visas were issued to partners and children of those granted asylum or humanitarian protection.
+ Of these, 2,883 (49%) were children (aged under 18).
+ Family reunion data can be found in Asylum table as 21 (volume 5).
+ Further information on family reunion can be found in the user guide.
+ 7. International comparisons Figures in this section are based on data supplied by the individual countries to the Intergovernmental Consultations on Migration, Asylum and Refugees (IGC), UNHCR and Eurostat.
+ Not all countries provide the latest data in time for each ‘Immigration Statistics’ release.
+ Where a figure is unavailable for a given month, data are estimated using the average of the last 3 months available, unless the time series is erratic whereby the average of the last 12 months is taken.
+ Including dependants, the total number of asylum applications to the EU in the year ending March 2018 was an estimated 646,900, a decrease of 41% compared to the previous year (1,097,300).
+ Top EU countries receiving asylum applications, year ending March 2018    Country of application Total applications     Germany 179,000   Italy 121,400   France 102,900   Greece 50,000   United Kingdom (Home Office data) 33,600   Spain 33,300    Source: Table as 07 q (asylum tables, volume 3).
+ Chart notes:  Eurostat figures are rounded to the nearest 5 and so may not sum to the total.
+ The estimated figures in this chart are based on data supplied to IGC and UNHCR.
+ 8.
+ Data tables Data referred to here can be found in the following tables: Asylum tables volume 1 Asylum tables volume 2 Asylum tables volume 3 Asylum tables volume 4 Asylum tables volume 5           Contents    Print this page         Is this page useful?
+ Maybe         Yes this page is useful        No this page is not useful       Thank you for your feedback       There is something wrong with this page        Close       Help us improve GOV.UK Don’t include personal or financial information like your National Insurance number or credit card details.
+ What were you doing?
+ What went wrong?
+ Send       Close        Help us improve GOV.UK To help us improve GOV.UK, we’d like to know more about your visit today.
+ We’ll send you a link to a feedback form.
+ It will take only 2 minutes to fill in.
+ Don’t worry we won’t send you spam or share your email address with anyone.
+ This comprised: \n 6,865 grants of asylum to main applicants and dependants (down 17%) \n 1,541 grants of alternative form of protection to main applicants and their dependants (up 16%) \n 5,760 people provided with protection under a resettlement scheme (down 9%) \n Of the 14,166 people granted asylum, protection and resettlement, 5,953 (42%) were children (under 18 years old).
+ Additionally, 5,874 Family reunion visas were issued to partners and children of those granted asylum or humanitarian protection in the UK, a 2% increase since last year.
+ Of these, 2,883 (49%) were issued to children.
+ The number of asylum applications in the UK from main applicants decreased by 8% to 26,547 in the year ending March 2018.
+ The fall in asylum applications reflects a return to levels seen before the European migration crisis in 2015.
+ The falls are consistent with what has been seen more widely across Europe, with a decrease of around 41% in applications to EU countries in the last year.
+ There were 774 grants of asylum or alternative forms of protection to Syrian nationals (including dependants) at initial decision in the year ending March 2018 (down 49%).
+ This included 4,342 Syrian nationals who were provided protection under the Vulnerable Person Resettlement Scheme (VPRS), bringing the total number of Syrians provided protection to 11,649 since the scheme began in 2014. "
+ The fall in asylum applications reflects a return to levels seen before the European migration crisis in 2015.
+ The falls are consistent with what has been seen more widely across Europe, with a decrease of around 41% in applications to EU countries in the last year.
+ Number of asylum applications in the UK, 2001 to 2017 1 \n  Source: Table as 01 q (asylum tables, volume 1).
+ Chart note: \n Main applicants only.
+ \n Of the 21,327 initial decisions on asylum applications from main applicants, 30% were grants of asylum or an alternative form of protection, compared to 33% in the previous year.
+ The number of people granted asylum or another form of protection (such as humanitarian protection or discretionary leave) following an asylum application in the year ending March 2018 was 8,406 (including dependants).
+ Of these, 3,050 (36%) were children (under 18 years old).
+ Data on grants of protection through resettlement schemes are discussed in the resettlement section below.
+ \n 2.1 Asylum applications by nationality The nationalities with the largest number of asylum applications in the year ending March 2018 were: \n Iranian (2,482 applications, down 26%) \n Pakistani (2,401, down 13%) \n Iraqi (2,391, down 2%) \n Sudanese (1,754, up 25%) \n Bangladeshi (1,542, down 20%) \n In the year ending March 2018, the number of applications from Syrian nationals fell 42% compared with the previous year (from 1,074 to 619), a fall consistent with the previous two years.
+ Over the same period, there was a fall in both the number of Syrian nationals granted asylum (down 54%) and a 20% decrease in the number of Syrian nationals being granted protection in the UK through other means such as the VPRS (from 5,453 to 4,342).
+ Number of asylum applications from the top 5 nationalities  Source: Table as 01 q (asylum tables, volume 1).
+ Chart note: \n Main applicants only.
+ There were 2,307 asylum applications from UASC in the year ending March 2018, a 25% decrease compared to the previous year, falling after two consecutively high years.
+ The largest numbers of asylum applications from UASC were from Sudanese and Eritrean nationals, together accounting for over 30% of all UASC applications.
+ This was followed by Vietnamese nationals (11%) and Iraqi nationals (11%).
+ Of the 2,218 initial decisions relating to UASC made in the year ending March 2018, 1,245 (56%) were grants of asylum or another form of protection, and an additional 374 (17%) were UASC leave (granted to UASCs refused asylum, but eligible for temporary leave.
+ A further 27% of UASC applicants were refused.
+ This will include those from countries where it is safe to return children to their families, as well as applicants who were determined to be over 18 following an age assessment.
+ Data on UASC can be found in Asylum tables as 08 to as 10 (volume 3). "
+ Section 95 support can be provided as either accommodation or subsistence, or both.
+ Data from March 2018 show a total of 42,352 people in the UK were in receipt of support under Section 95 of the Immigration and Asylum Act 1999.
+ This number is 8% higher than in the previous year.
+ The total figure remains considerably below that for the end of December 2003 (the start of the published data series), when there were 80,123 people in receipt of Section 95 support.
+ An individual may be eligible for Section 4 support if their asylum application has been determined as refused and appeals rights are exhausted, but they are destitute and there are reasons that temporarily prevent them from leaving the UK.
+ See the user guide for more details.
+ Separately, in March 2018, there were 4,333 people receiving support under Section 4 of the Immigration and Asylum Act 1999, a 13% increase from the previous year.
+ Data on support provided to asylum seekers can be found in Asylum tables as 15 to as 18 (volume 4). "
+ Details on specific resettlement schemes can be found in the user guide .
+ Children accounted for 50% of all those resettled, a similar proportion to the previous year.
+ On 7 September 2015, an expansion to the existing VPRS was announced.
+ Through this expansion, it was proposed that 20,000 Syrians in need of protection be resettled in the UK by 2020.
+ A total of 11,649 people have been resettled under the VPRS since the scheme began in 2014.
+ In the year ending March 2018, 4,342 people were resettled under the VPRS across 221 different local authorities, 2,184 of these were children.
+ Resettlement data can be found in Asylum tables as 19 and as 20 (volume 4). "
+ Family reunion visas are a subset of the ‘Family: other’ visa category.
+ Around 99% of ‘Family: other’ visa grants, as published in the visa tables, relate to Family reunion visas.
+ However, data on Family reunion visas come from a different system to other visa data so are not directly comparable.
+ Data on the number of applications and their outcome for ‘Family: other’ visas are found in Table vi 01 q .
+ In the year ending March 2018, 5,874 Family reunion visas were issued to partners and children of those granted asylum or humanitarian protection.
+ Of these, 2,883 (49%) were children (aged under 18).
+ Family reunion data can be found in Asylum table as 21 (volume 5).
+ Further information on family reunion can be found in the user guide . "
+ Not all countries provide the latest data in time for each ‘Immigration Statistics’ release.
+ Where a figure is unavailable for a given month, data are estimated using the average of the last 3 months available, unless the time series is erratic whereby the average of the last 12 months is taken.
+ Including dependants, the total number of asylum applications to the EU in the year ending March 2018 was an estimated 646,900, a decrease of 41% compared to the previous year (1,097,300).
+ Top EU countries receiving asylum applications, year ending March 2018 \n \n  \n  Country of application \n  Total applications \n  \n \n \n  \n  Germany \n  179,000 \n  \n  \n  Italy \n  121,400 \n  \n  \n  France \n  102,900 \n  \n  \n  Greece \n  50,000 \n  \n  \n  United Kingdom (Home Office data) \n  33,600 \n  \n  \n  Spain \n  33,300 \n  \n \n Source: Table as 07 q (asylum tables, volume 3).
+ Chart notes: \n Eurostat figures are rounded to the nearest 5 and so may not sum to the total.
+ \n The estimated figures in this chart are based on data supplied to IGC and UNHCR.

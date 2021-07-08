@@ -1,0 +1,1660 @@
+Page | 
+2
+ 
+ 
+ 
+Triage
+: 
+Early recognition of patients with 
+COVID 
+-
+ 
+19
+ 
+The purpose of triage is to 
+recognize and sort all patients with 
+COVID 
+-
+ 
+19
+ 
+at first point of 
+contact with health care system (such as the emergency department). Consider 
+COVID 
+-
+ 
+19
+ 
+as a possible etiology 
+un
+der certain conditions (see Table 1). Triage patients and start 
+e
+mergency treatments based 
+on disease severity.
+ 
+ 
+Table 1
+:
+ 
+De
+finitions of patients with 
+COVID 
+-
+ 
+19
+ 
+SARI
+ 
+
+onset within the last ~10 days; and requiring hospitalization. 
+ 
+Surveillance case 
+definitions for 
+SARI 
+ 
+1.
+ 
+SARI
+ 
+in a person, with history of fever and cough requiring admission 
+to hospital, with no other etiology that fully explains the clinical 
+presentation
+1
+ 
+(clinicians should also be alert to the possibility of atypical 
+presentations in patients who are 
+immune
+-
+co
+mpromised);
+ 
+AND any of the following:
+ 
+a)
+ 
+A history of 
+international 
+travel in 14
+ 
+days prior to symptom 
+onset; or
+ 
+b)
+ 
+the disease occurs in a health care worker who has been 
+working in an environment where patients with severe acute 
+respiratory infections are 
+being cared for, without regard to 
+place of residence or history of travel; or
+ 
+c)
+ 
+the person develops an unusual or unexpected clinical course, 
+especially sudden deterioration despite appropriate treatment, 
+without regard to place of residence or history of 
+travel, even if 
+another etiology has been identified that fully explains the 
+clinical presentation
+ 
+2.
+ 
+A person with acute respiratory illness of any degree of severity who, 
+within 14 days before onset of illness, had any of the following 
+exposures:
+ 
+a)
+ 
+close phys
+ical contact
+2
+ 
+with a confirmed case of 
+COVID 
+-
+ 
+19
+ 
+infection, while that patient was symptomatic; or
+ 
+b)
+ 
+a healthcare facility in a country where hospital
+-
+associated 
+COVID 
+-
+ 
+19
+ 
+infections have been reported;
+ 
+ 
+ 
+* see https://mohfw.gov.in/media/disease
+-
+alerts 
+for latest case definition
+ 
+ Page | 
+3
+ 
+ 
+ 
+1
+-
+ 
+Testing should be according to local guidance for management of community
+-
+acquired pneumonia. Examples of other 
+etiologies include Streptococcus pneumoniae, Haemophilus influenza type B, Legionella pneumophila, other recognize
+d 
+primary bacterial pneumonias, influenza viruses, and respiratory syncytial virus.
+ 
+ 
+2
+-
+ 
+C
+LOSE CONTACT IS DEFI
+NED AS
+:
+ 
+
+ 
+Health care associated exposure, including providing direct care for 
+COVID 
+
+ 
+19
+ 
+patients, working with health care workers infected with 
+COVID 
+
+ 
+19
+, 
+visiting
+ 
+patients or staying in the same close environment of a 
+COVID 
+-
+ 
+19
+ 
+ 
+patients
+.
+ 
+
+ 
+Working together in close proximity or sharing the same classroom environment with 
+a 
+COVID 
+-
+ 
+19
+ 
+patient
+ 
+
+ 
+Travel
+l
+ing together with 
+COVID 
+-
+ 
+19
+ 
+patient in any kind of conveyance
+.
+ 
+
+ 
+Living in the same household as a 
+COVID 
+-
+ 
+19
+ 
+patient
+s
+.
+ 
+ 
+The epidemiological link may have occurred within a 14
+-
+day period before or after the onset 
+of illness in the case under consideration
+ 
+ 
+COVID
+
+19
+ 
+may present with mild, moderate, or severe illness; the latter includes severe 
+pneumonia, ARDS, sepsis and septic shock. Early recognition of suspected patients allows 
+for timely initiation of IPC (see Table 2). Early identification of those with severe 
+ma
+nifestations (see Table 2) allows for immediate optimized supportive care treatments and 
+safe, rapid admission (or referral) to intensive care unit according to national protocols. For 
+those with mild illness, hospitalization may not be required unless the
+re is concern for rapid 
+deterioration. All patients discharged 
+for 
+home should be instructed to return to hospital if 
+they develop any worsening of illness.
+ 
+ 
+Table 2: Clinical syndromes associated with 
+COVID 
+-
+ 
+19
+ 
+infection
+ 
+Uncomplicated
+ 
+illness
+ 
+Patients 
+with uncomplicated upper respiratory tract viral infection, may have 
+non
+-
+specific symptoms such as fever, cough, sore throat, nasal
+ 
+congestion, 
+malaise, headache
+. The elderly and immunosuppressed may present with 
+atypical symptoms. These patients do not ha
+ve any signs of dehydration, 
+sepsis or shortness of breath
+.
+ 
+Mild 
+pneumonia
+ 
+Patient with pneumonia and no signs of severe pneumonia.
+ 
+Child with non
+-
+severe pneumonia has cough or difficulty 
+in 
+breathing
+/
+ 
+fast 
+breathing: 
+(fast breathing  
+-
+ 
+in breaths/min): <
+
+
+
+
+
+ 
+ Page | 
+4
+ 
+ 
+ 
+Severe
+ 
+pneumonia
+ 
+Adolescent or adult: fever or suspected respiratory infection, plus one of 
+the 
+following; 
+respiratory rate >30 breaths/min, severe respiratory distress, SpO2
+ 
+<90% on room air
+ 
+Child with cough or difficulty in breathing, plus at least one of the following: 
+central cyanosis or SpO2 <90%; severe respiratory distress (e.g. grunting, chest in
+-
+drawing); signs of pneumonia with 
+any of the following
+ 
+danger sign
+s
+: inab
+ility to 
+breastfeed or drink, lethargy or unconsciousness, or convulsions. Other signs of 
+pneumonia may be present: chest indrawing, fast breathing (in breaths/mi
+n): <2 
+
+
+
+
+5 years 
+
+imaging ca
+n exclude complications.
+ 
+Acute
+ 
+Respiratory
+ 
+Distress
+ 
+Syndrome
+ 
+Onset
+: new or worsening respiratory symptoms within one week of known clinical 
+insult.
+ 
+Chest imaging (radiograph, CT scan, or lung ultrasound)
+: bilateral opacities, 
+not fully explained by 
+effusions, lobar or lung
+ 
+collapse, or nodules.
+ 
+Origin of oedema
+: respiratory failure not fully explained by cardiac failure or fluid 
+overload. Need objective assessment (e.g.
+ 
+echocardiography) to exclude 
+hydrostatic cause of oedema if no risk factor presen
+t.
+ 
+Oxygenation (adults)
+: 
+ 
+
+ 
+
+cm
+ 
+H
+2
+O, or non
+-
+ventilated)
+ 
+
+ 
+
+ 
+H
+2
+O, or non
+-
+ventilated)
+ 
+
+ 
+
+ 
+H2O, or non
+-
+ventilated)
+ 
+
+ 
+When PaO
+2
+ 
+is not available, SpO
+2
+/FiO
+2
+ 
+
+non
+-
+ventilated patients)
+ 
+Oxygenation (children; note OI = Oxygenation Index and OSI = Oxygenation 
+Index using SpO
+2
+)
+ 
+
+ 
+
+ 
+H2O via full face 
+mask: PaO
+2
+/FiO
+2
+ 
+
+or SpO
+2
+/FiO
+2
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Page | 
+5
+ 
+ 
+ 
+Sepsis
+ 
+Adults
+: 
+life
+-
+threatening organ dysfunction caused by a dysregulated host response 
+to suspected or proven infection, with organ dysfunction. Signs of organ 
+dysfunction include: altered mental status, difficult or fast breathing, low oxygen 
+saturation, reduced urine
+ 
+output, fast heart rate, weak pulse, cold extremities or low 
+blood pressure, skin mottling, or laboratory evidence of coagulopathy, 
+thrombocytopenia, acidosis, high lactate or hyperbilirubinemia.
+ 
+Children
+
+a, of which one must 
+be abnormal temperature or white blood cell
+ 
+count
+ 
+Septic
+ 
+shock
+ 
+Adults
+: persisting hypotension despite volume resuscitation, requiring 
+
+actate level < 
+2 mmol/L
+ 
+Children
+: any hypotension (SBP <5th centile or >2 SD below normal for age) or 
+2
+-
+3 of the following: altered mental state; 
+bradycardia or 
+tachycardia
+ 
+(HR <90 bpm 
+or >160 bpm in infants and HR <70 bpm or >150 bpm in children); prolonged
+ 
+capillary refill (>2 sec) or 
+warm vasodilation with bounding pulses; tachypnea; 
+mottled skin or petechial or purpuric rash; increased lactate; oliguria; hyperthermia 
+or hypothermia
+ 
+ 
+A.
+ 
+Immediate implementation of appropriate IPC measures
+ 
+IPC is a critical and integral part of clinical 
+management of patients and should be initiated at 
+the point of entry of the patient to hospital (typically the Emergency Department). Standard 
+precautions should always be routinely applied in all areas of health care facilities. Standard 
+precautions inclu
+
+body fluids, secretions (including respiratory secretions) and non
+-
+intact skin. Standard 
+precautions also include prevention of needle
+-
+stick or sharps injury; safe waste management; 
+cleaning and disinfection of equipment; and cleaning of the environment.
+ 
+ 
+Table 3: How to implement infection prevention and control measures for patients with 
+suspected or confirmed 
+COVID 
+-
+ 
+19
+ 
+infection
+ 
+At triage
+ 
+
+ 
+Give suspect patient a 
+triple layer 
+surgical
+ 
+mask and direct patient to separate 
+area, an isolation room if available. Keep at least 1meter distance between 
+suspected patients and other patients. Instruct all patients to cover nose and 
+mouth during coughing or sneezing with tissue or flexed 
+elbow for others. 
+Perform hand hygiene after contact with respiratory secretions
+ 
+ Page | 
+6
+ 
+ 
+ 
+Apply droplet 
+precautions
+ 
+
+ 
+Droplet precautions prevent large droplet transmission of respiratory viruses. 
+Use a 
+triple layer surgical 
+mask if working within 1
+-
+2 metres of the 
+patient. 
+Place patients in single rooms, or group together those with the same 
+etiological diagnosis. If an etiological diagnosis is not possible, group patients 
+with similar clinical diagnosis and based on epidemiological risk factors, with 
+a spatial sepa
+ration. When providing care in close contact with a patient with 
+respiratory symptoms (e.g. coughing or sneezing), use eye protection (face
+-
+mask or goggles), because sprays of secretions may occur. Limit patient 
+movement within the institution and ensure t
+hat patients wear 
+triple layer 
+surgical
+ 
+masks when outside their rooms
+ 
+Apply contact 
+precautions
+ 
+
+ 
+Droplet and contact precautions prevent direct or indirect transmission from 
+contact with contaminated surfaces or equipment (i.e. contact with 
+contaminated 
+oxygen tubing/interfaces). Use PPE (
+triple layer surgical
+ 
+mask, 
+eye protection, gloves and gown) when entering room and remove PPE when 
+leaving. If possible, use either disposable or dedicated equipment (e.g. 
+stethoscopes, blood pressure cuffs and thermome
+ters). If equipment needs to 
+be shared among patients, clean and disinfect between each patient use. 
+Ensure that health care workers refrain from touching their eyes, nose, and 
+mouth with potentially contaminated gloved or ungloved hands. Avoid 
+contaminati
+ng environmental surfaces that are not directly related to patient 
+care (e.g. door handles and light switches). Ensure adequate room ventilation. 
+Avoid movement of patients or transport. Perform hand hygiene
+.
+ 
+Apply airborne
+ 
+precautions 
+when 
+performing an 
+aerosol
+ 
+generating 
+procedure
+ 
+
+ 
+Ensure that healthcare workers performing aerosol
+-
+generating procedures (i.e. 
+open suctioning of respiratory tract, intubation, bronchoscopy, 
+cardiopulmonary resuscitation) use PPE, including gloves, long
+-
+sleeved 
+gowns, eye pro
+tection,
+ 
+and fit
+-
+tested particulate respirators (N95). (The 
+scheduled fit test should not be confused with user seal check before each 
+use.) Whenever possible, use adequately ventilated single rooms when 
+performing aerosol
+-
+generating procedures, meaning ne
+gative pressure rooms 
+with minimum of 12 air changes per hour or at least 160 litres/second/patient 
+in facilities with natural ventilation. Avoid the presence of unnecessary 
+individuals in the room. Care for the patient in the same type of room after 
+mecha
+nical ventilation commences
+ 
+Abbreviations: ARI, acute respiratory infection; PPE, personal protective equipment
+ 
+ Page | 
+7
+ 
+ 
+ 
+ 
+B.
+ 
+Early supportive therapy and monitoring
+ 
+a.
+ 
+Give supplemental oxygen therapy immediately to patients with SARI and respiratory 
+distress, 
+hypoxaemia, or shock: Initiate oxygen therapy at 5 L/min and titrate flow rates to 
+reach target SpO
+2
+ 
+
+-
+pregnant adults and SpO
+2 
+
+-
+95 % in pregnant patients.  
+Children with emergency signs (obstructed or absent breathing, severe respiratory 
+distress, central cyanosis, shock, coma or convulsions) should receive oxygen therapy 
+during resuscitation to target SpO
+2
+ 
+
+2
+ 
+
+where patients with SARI are cared for should be equipped with pulse oximeters, 
+fu
+nctioning oxygen systems and disposable, single
+-
+use, oxygen
+-
+delivering interfaces 
+(nasal cannula, simple face mask, and mask with reservoir bag). Use contact precautions 
+when handling contaminated oxygen interfaces of patients with 
+COVID 
+
+ 
+19
+.
+ 
+b.
+ 
+Use conserva
+tive fluid management in patients with SARI when there is no evidence of 
+shock: Patients with SARI should be treated cautiously with intravenous fluids, because 
+aggressive fluid resuscitation may worsen oxygenation, especially in settings where there 
+is li
+mited availability of mechanical ventilation
+.
+ 
+c.
+ 
+Give empiric antimicrobials to treat all likely pathogens causing SARI. Give 
+antimicrobials within one hour of initial patient assessment for patients with sepsis: 
+Although the patient may be suspected to have 
+COVID 
+-
+ 
+19
+, 
+A
+dminister appropriate 
+empiric antimicrobials within ONE hour of identification of sepsis. Empiric
+al
+ 
+antibiotic 
+treatment should be based on the clinical diagnosis (community
+-
+acquired pneumonia, 
+health care
+-
+associated pneumonia [if infection wa
+s acquired in healthcare setting], or 
+sepsis), local epidemiology and susceptibility data, and treatment 
+g
+uidelines. Empiric
+al
+ 
+therapy includes a neuraminidase inhibitor for treatment of influenza when there is local 
+circulation or other risk factors, incl
+uding travel history or expos
+ure to animal influenza 
+viruses. 
+ 
+Empiric
+al
+ 
+therapy should be de
+-
+escalated on the basis of microbiology results 
+and clinical judgment
+ 
+d.
+ 
+Do not routinely give systemic corticosteroids for treatment of viral pneumonia or ARDS 
+outsi
+de of clinical trials unless they are indicated for another reason: A systematic review 
+of observational studies of corticosteroids administered to patients with SAR
+S
+ 
+reported 
+no survival benefit and possible harms (avascular necrosis, psychosis, diabetes, and 
+delayed viral clearance). A systematic review of observational studies in influenza found 
+a higher risk of mortality and secondary infections with corticosteroid
+s; the evidence was 
+ Page | 
+8
+ 
+ 
+ 
+judged as very low to low quality due to confounding by indication. A subsequent study 
+that addressed this limitation by adjusting for time
+-
+varying confounders found no effect 
+on mortality. Finally, a recent study of patients receiving 
+corticosteroids for MERS used a 
+similar statistical approach and found no effect of corticosteroids on mortality but delayed 
+lower respiratory tract (LRT) clearance of MERS
+-
+CoV. Given lack of effectiveness and 
+possible harm, routine corticosteroids should 
+be avoided unless they are indicated for 
+another reason. See section 
+F
+ 
+for the use of corticosteroids in sepsis
+.
+ 
+e.
+ 
+Closely monitor patients with SARI for signs of clinical deterioration, such as rapidly 
+progressive respiratory failure and sepsis, and apply s
+upportive care interventions 
+immediately: 
+Application of timely, effective, and safe supportive therapies is the 
+cornerstone of th
+erapy for patients that develop 
+severe manifestations of 
+COVID 
+
+ 
+19.
+ 
+f.
+ 
+
+-
+morbid condition(s) to tailor
+ 
+the management of critical 
+illness and appreciate the prognosis: During intensive care management of SARI, 
+determine which chronic therapies should be continued and which therapies should be 
+stopped temporarily
+.
+ 
+g.
+ 
+Communicate early with patient and family: 
+Communicate pro
+-
+actively with patients and 
+
+and preferences regarding life
+-
+sustaining interventions
+.
+ 
+ 
+C.
+ 
+Collection of specimens for laboratory diagnosis
+ 
+Guidance on speci
+men collection, processing, transportation, including related biosafety 
+procedures, is available on 
+https://mohfw.gov.in/media/disease
+-
+alerts
+ 
+Points to remember
+ 
+
+ 
+Collect blood cultures for bacteria 
+that cause pneumonia and sepsis, ideally before 
+antimicrobial therapy. DO NOT delay antimicrobial therapy to collect blood cultures
+ 
+
+ 
+Collect specimens 
+of nasopharyngeal and oro 
+
+ 
+pharyngeal swab for RT 
+-
+ 
+PCR. 
+Clinicians may  
+also 
+collect LRT 
+(Lower Respirat
+ory Tract) 
+samples when these are 
+readily available (for example, in mechanically ventilated patients)
+.
+ 
+
+ 
+Use appropriate PPE for specimen collection (droplet and contact precautions for URT 
+specimens; airborne precautions for LRT specimens). When collecting
+ 
+URT samples, use 
+viral swabs (sterile Dacron or rayon, not cotton) and viral transport media. Do not sample 
+ Page | 
+9
+ 
+ 
+ 
+the nostrils or tonsils. In a patient with suspected 
+COVID 
+-
+ 
+19
+, especially with pneumonia 
+or severe illness, a single URT sample does not exclude 
+the diagnosis, and additional 
+URT and LRT samples are recommended. Sputum induction should be avoided due to 
+increased risk of increasing aerosol transmission.
+ 
+
+ 
+Dual infections with other respiratory viral infections have been found in SARS and 
+MERS cases. 
+At this stage we need detailed microbiologic studies in all suspected 
+COVID 
+-
+ 
+19
+ 
+cases. Both URT and LRT specimens can 
+be 
+tested for other respiratory 
+viruses, such as influenza A and B (including zoonotic influenza A), respiratory syncytial 
+virus, parainf
+luenza viruses, rhinoviruses, adenoviruses, enteroviruses (e.g. EVD68), 
+human metapneumovirus, and endemic human coronaviruses (i.e. HKU1, OC43, NL63, 
+and 229E). LRT specimens can also be tested for bacterial p
+athogens, including 
+Legionella p
+neumophila
+.
+ 
+
+ 
+In
+ 
+hospitalized patients with confirmed 
+COVID 
+-
+ 
+19
+ 
+infection, repeat URT
+ 
+samples 
+should be collected to demonstrate viral clearance. The frequency of specimen collection 
+will depend on local circumstances but should be 
+done 
+at least every 2 to 4 days until 
+there are two con
+secutive negative results (of 
+URT samples) in a clinically recovered 
+patient at least 24 hours apart. 
+ 
+ 
+D.
+ 
+Management of hypoxemic respiratory failure and ARDS
+ 
+
+ 
+Recognize severe hypoxemic respiratory failure when a patient with respiratory 
+distress is 
+failing standard oxygen therapy. Patients may continue to have increased work of 
+breathing or hypoxemia even when oxygen is delivered via a face mask with reservoir 
+bag (flow rates of 10
+-
+15 L/min, which is typically the minimum flow required to
+ 
+maintain 
+bag inflation; FiO
+2
+ 
+0.60
+-
+0.95). Hypoxemic respiratory failure in ARDS commonly results 
+from intrapulmonary ventilation
+-
+perfusion mismatch or shunt and usually requires 
+mechanical ventilation
+.
+ 
+
+ 
+High 
+
+ 
+flow nasal catheter oxygenation or non 
+
+ 
+invasi
+ve mechanical ventilation: When 
+respiratory distress and/or hypoxemia of the patient cannot be alleviated after receiving 
+standard oxygen therapy, high 
+
+ 
+flow nasal cannula oxygen therapy or non 
+
+ 
+invasive 
+ventilation can be considered. If conditions do no
+t improve or even get worse within a 
+short time (1 
+
+ 
+2 hours), tracheal intubation and invasive mechanical ventilation should be 
+ Page | 
+10
+ 
+ 
+ 
+used in a timely manner. 
+Compared to standard oxygen therapy, HFNO reduces the need 
+for intubation. Patients with hypercapnia (
+exacerbation of obstructive lung disease, 
+cardiogenic pulmonary
+ 
+oedema), hemodynamic instability, multi
+-
+organ failure, or 
+abnormal mental status should generally not receive HFNO, although emerging data 
+suggest that HFNO may be safe in patients with mild
+-
+m
+oderat
+e and non
+-
+worsening 
+hypercapnia
+25
+.
+ 
+Patients receiving HFNO should be in a monitored setting and cared for by 
+experienced personnel capable of endotracheal intubation in case the patient acutely 
+deteriorates or does not improve after a short trial (ab
+out 1 hr). 
+ 
+
+ 
+NIV guidelines make no recommendation on use in hypoxemic respiratory failure (apart 
+from cardiogenic pulmonary oedema and post
+-
+operative respiratory failure) or pandemic 
+viral illness (referring to studies of SARS and pandemic influenza). Risk
+s include delayed 
+intubation, large tidal volumes, and injurious transpulmonary pressures. Limited data 
+suggest a high failure rate when MERS patients receive
+d
+ 
+NIV. Patients receiving a trial of 
+NIV should be in a monitored setting and cared for by experienced personnel capable of 
+endotracheal intubation in case the patient acutely deteriorates or does not improve after a 
+short trial (about 1 hr). Patients with 
+hemodynamic instability, multiorgan failure, or 
+abnormal mental status should not receive NIV.
+ 
+
+ 
+Recent publications suggest that newer HFNO and NIV systems with good interface 
+fitting do not create widespread dispersion of exhaled air and therefore should b
+e 
+associated with low risk of airborne transmission.
+ 
+
+ 
+Endotracheal intubation should be performed by a trained and experienced provider using 
+airborne precautions. Patients with ARDS, especially young children or those who are 
+obese or pregnant, may de
+-
+satu
+rate quickly during intubation. Pre
+-
+oxygenate with 100% 
+FiO
+2
+ 
+for 5 minutes, via a face mask with reservoir bag, bag
+-
+valve mask, HFNO, or NIV. 
+Rapid sequence intubation is appropriate after an airway assessment that identifies no 
+signs of difficult intubati
+on.
+ 
+ 
+
+ 
+Implement mechanical ventilation using lower tidal volumes (4
+
+8 ml/kg predicted body 
+weight, PBW) and lower inspiratory pressures (plateau pressure <30 cmH
+2
+O). This is a 
+strong recommendation from a clinical guideline for patients with ARDS, and is 
+su
+ggested for patients with sepsis
+-
+induced respiratory failure
+.
+ 
+The initial tidal volume is 6 
+ml/kg PBW; tidal volume up to 8 ml/kg PBW is allowed if undesirable side effects occur 
+(e.g. dyssynchrony, pH <7.15). Hypercapnia is permitted if meeting the pH goa
+l of 7.30
+-
+ Page | 
+11
+ 
+ 
+ 
+7.45. Ventilator protocols are available. The use of deep sedation may be requir
+ed to 
+control respiratory drive 
+and achieve tidal volume targets. 
+ 
+
+ 
+In patients with severe ARDS, prone ventilation for >12 hours per day is recommended. 
+Application o
+f prone ventilation is strongly recommended for adult and paediatric 
+patients with severe ARDS but requires sufficient human resources and expertise to be 
+performed safely.
+ 
+ 
+
+ 
+Use a conservative fluid management strategy for ARDS patients without tissue 
+hypo
+perfusion.
+ 
+
+ 
+In patients with moderate or severe ARDS, higher PEEP instead of lower PEEP is 
+suggested.
+ 
+PEEP titration requires consideration of benefits (reducing atelectrauma and 
+improving alveolar recruitment) vs. risks (end
+-
+inspiratory overdistension lead
+ing to lung 
+injury and higher pulmonary vascular resistance). Tables are available to guide PEEP 
+titration based on the FiO
+2
+ 
+required to maintain SpO
+2
+. A related intervention of 
+recruitment manoeuvres (RMs) is delivered as episodic periods of high continuo
+us 
+positive airway pressure [30
+
+40 cm H
+2
+O], progressive incremental increases in
+ 
+PEEP 
+with constant driving pressure, or high driving pressure; considerations of benefits vs. 
+risks are similar. Higher PEEP and RMs were both conditionally recommended in a 
+clinical practice guideline. 
+ 
+In patients with moderate
+-
+severe ARDS (PaO
+2
+/FiO
+2
+ 
+<15
+0), 
+neuromuscular blockade by continuous infusion should not be routinely used. 
+ 
+
+ 
+In settings with access to expertise in extracorporeal life support (ECLS), consider 
+referral of patients with refractory hypoxemia despite lung protective ventilation. 
+ECLS 
+s
+hould only be offered in expert centres with a sufficient case volume to maintain 
+expertise and that can apply the IPC measures required for
+ 
+COVID 
+
+ 
+19 
+patients
+ 
+
+ 
+Avoid disconnecting the patient from the ventilator, which results in loss of PEEP and 
+atelecta
+sis. Use in
+-
+line catheters for airway suctioning and clamp endotracheal tube when 
+disconnection is required (for example, transfer to a transport ventilator)
+ 
+ 
+E.
+ 
+Management of septic shock
+ 
+
+ 
+Recognize septic shock in adults when infection is suspected or confir
+med AND 
+
+ Page | 
+12
+ 
+ 
+ 
+lactate is 
+< 2
+ 
+mmol/L, in absence of hypovolemia. Recognize septic shock in children 
+with any hypotension (systolic blood pressure [SBP] <5th centile or >2 SD below norma
+l 
+for age) or 2
+-
+3 of the following: altered mental state; tachycardia or bradycardia (HR <90 
+bpm or >160 bpm in infants and HR <70 bpm or >150 bpm in children); prolonged 
+capillary refill (>2 sec) or warm vasodilation with bounding pulses; tachypnea; mottl
+ed 
+skin or petechial or purpuric rash; increased lactate; oliguria; hyperthermia or 
+hypothermia.
+ 
+
+ 
+In the absence of a lactate measurement, use MAP and clinical signs of perfusion to 
+define shock. Standard care includes early recognition and the following tr
+eatments 
+within 1 hour of recognition: antimicrobial therapy and fluid loading and vasopressors for 
+hypotension. The use of central venous and arterial catheters should be based on resource 
+availability and individual patient needs. Detailed guidelines are
+ 
+available for the 
+management of septic shock in adults and children.
+ 
+ 
+
+ 
+In resuscitation from septic shock in adults, give at least 30 ml/kg of isotonic crystalloid 
+in adults in the first 3 hours. In resuscitation from septic shock in children in 
+well
+-
+resourced settings, give 20 ml/kg as a rapid bolus and up to 40
+-
+60 ml/kg in the first 1 hr.
+ 
+Do not use hypotonic crystalloids, starches, or gelatins for resuscitation.
+ 
+
+ 
+Fluid resuscitation may lead to volume overload, including respiratory failure. If 
+there is 
+no response to fluid loading and signs of volume overload appear (for example, jugular 
+venous distension, crackles on lung auscultation, pulmonary oedema on imaging, or 
+hepatomegaly in children), then reduce or discontinue fluid administration. Th
+is step is 
+particularly important where mechanical ventilation is not available. Alternate fluid 
+regimens are suggested when caring for children in resource
+-
+limited settings.
+ 
+
+ 
+
+ional 
+fluid boluses (250
+-
+1000 ml in adults or 10
+-
+20 ml/kg in children) based on clinical 
+response and improvement of perfusion targets. Perfusion targets include MAP (>65 
+mmHg or age
+-
+appropriate targets in children), urine output (>0.5 ml/kg/hr in adults, 
+1 
+ml/kg/hr in children), and improvement of skin mottling, capillary refill, level of 
+consciousness, and lactate. Consider dynamic indices of volume responsiveness to guide 
+volume administration beyond initial resuscitation based on local resources and 
+exp
+erience. These indices include passive leg raises, fluid challenges with serial stroke 
+volume measurements, or variations in systolic pressure, pulse pressure, inferior vena 
+ Page | 
+13
+ 
+ 
+ 
+cava size, or stroke volume in response to changes in intrathoracic pressure durin
+g 
+mechanical ventilation.
+ 
+
+ 
+Administer vasopressors when shock persists during or after fluid resuscitation. The 
+
+-
+appropriate 
+targets in children.
+ 
+
+ 
+If central venous catheters are not available, v
+asopressors can be given through a 
+peripheral IV, but use a large vein and closely monitor for signs of extravasatio
+n and local 
+tissue necrosis. If 
+extravasation occurs, stop infusion. Vasopressors can also be 
+administered through intraosseous needles.
+ 
+
+ 
+If 
+signs of poor perfusion and cardiac dysfunction persist despite achieving MAP target 
+with fluids and vasopressors, consider an inotrope such as dobutamine
+ 
+F.
+ 
+Other Therapeutic Measures: 
+ 
+For patients with progressive deterioration of oxygenation indicators, r
+apid 
+worsening
+ 
+on
+ 
+
+be used 
+for
+ 
+a short period of time (3 to 5 days). It is recommended that dose should not 
+exceed the 
+equivalent of methylprednisolon
+e 1 
+
+ 
+2mg/kg/day. Note that a larger dose of 
+glucocorticoid will delay the removal of coronavirus due to immunosuppressive effects. 
+For 
+pregnant severe and critical cases, pregnancy should be 
+preferably 
+terminated. 
+Consultations 
+with obstetric, neonatal, a
+nd intensive care specialists (depending on the condition of the 
+mother) are essential. 
+Patients often suffer from anxiety and fear and they should be 
+supported by psychological counselling. 
+ 
+ 
+G.
+ 
+Prevention of complications
+ 
+Implement the following interventio
+ns (Table 4) to prevent complications associated with 
+critical illness. These interventions are based on Surviving Sepsis or other guidelines, and are 
+generally limited to feasible recommendations based on high quality evidence.
+ 
+ 
+Table 
+4
+: Prevention of com
+plications
+ 
+Anticipated 
+Outcome
+ 
+Interventions
+ 
+Reduce days of 
+invasive
+ 
+mechanical 
+ventilation
+ 
+
+ 
+Use weaning protocols that include daily assessment for readiness to 
+breathe spontaneously
+ 
+
+ 
+Minimize continuous or intermittent sedation, targeting specific 
+titration 
+endpoints (light sedation unless contraindicated) or with daily interruption 
+of continuous sedative infusions
+ 
+ Page | 
+14
+ 
+ 
+ 
+Reduce incidence 
+of ventilator
+ 
+associated 
+pneumonia
+ 
+
+ 
+Oral intubation is preferable to nasal intubation in adolescents and adults
+ 
+
+ 
+Keep 
+patient in semi
+-
+recumbent position (head of bed elevation 30
+-
+45º)
+ 
+
+ 
+Use a closed suctioning system; periodically drain and discard condensate 
+in tubing
+ 
+
+ 
+Use a new ventilator circuit for each patient; once patient is ventilated, 
+change circuit if it is soiled 
+or damaged but not routinely
+ 
+
+ 
+Change heat moisture exchanger when it malfunctions, when soiled, or 
+every 5
+
+7 days
+ 
+Reduce incidence 
+of venous
+ 
+thromboembolism
+ 
+
+ 
+Use pharmacological prophylaxis (low molecular
+-
+weight heparin 
+[preferred if available] or heparin 
+5000 units subcutaneously twice daily) 
+in adolescents and adults without contraindications. For those with 
+contraindications, use mechanical prophylaxis (intermittent pneumatic 
+compression devices).
+ 
+Reduce incidence 
+of catheter related 
+bloodstream 
+infection
+ 
+
+ 
+Use a checklist with completion verified by a real
+-
+time observer as 
+reminder of each step needed for sterile insertion and as a daily reminder to 
+remove catheter if no longer needed
+ 
+Reduce incidence 
+of pressure
+ 
+ulcers
+ 
+
+ 
+Turn patient every two 
+hours
+ 
+Reduce incidence 
+of stress ulcers
+ 
+and 
+gastrointestinal 
+bleeding
+ 
+
+ 
+Give early enteral nutrition (within 24
+
+48 hours of admission)
+ 
+
+ 
+Administer histamine
+-
+2 receptor blockers or proton
+-
+pump inhibitors in 
+patients with risk factors for GI bleeding. Risk 
+factors for gastrointestinal 
+
+replacement
+ 
+therapy, liver disease, multiple co
+-
+morbidities, and higher 
+organ failure score
+ 
+Reduce incidence 
+of ICU
+-
+related
+ 
+weakness
+ 
+
+ 
+Actively mobilize 
+the patient early in the course of illness when safe to do 
+so
+ 
+ 
+H.
+ 
+Specific 
+COVID 
+-
+ 
+19 
+treatments and clinical research
+ 
+There is no current evidence from RCTs to recommend any 
+specific treatment
+ 
+for 
+suspected 
+or confirmed 
+patients with 
+COVID 
+-
+ 
+19
+.
+ 
+No specific anti
+
+virals are recommended for 
+treatment of COVID 
+
+ 
+19 due to lack of adequate evidence from literature. The use of 
+Lopinavir/ Ritonavir in PEP regimens for HIV (4 weeks) is also associated with significant 
+adverse events which many a times le
+ads to discontinuation of therapy. In light of the above, 
+Lopinavir/ Ritonavir should ONLY be used with proper informed 
+expressed 
+consent
+ 
+on a 
+ Page | 
+15
+ 
+ 
+ 
+case to case basis
+ 
+for
+ 
+severe cases, 
+within the 
+under
+-
+mentioned 
+framework
+ 
+along with 
+supportive treatment as per 
+need. 
+ 
+ 
+a)
+ 
+Administration of Lopinavir/ Ritonavir  
+ 
+Administration of Lopinavir/ Ritonavir
+ 
+to
+ 
+be considered in
+ 
+Laboratory confirm
+ed cases
+ 
+of 
+COVID 
+
+ 
+19 
+ 
+when the following criteria are met:
+ 
+
+ 
+Symptomatic patients with any of the following: 
+ 
+i.
+ 
+hypoxia, 
+ 
+ii.
+ 
+hypotension, 
+ 
+iii.
+ 
+new onset organ dysfunction (one or more) 
+ 
+
+ 
+Increase
+ 
+in creatinine by 50%  from baseline, GFR reduction by >25% 
+from baseline or urine output of <0.5 ml/kg for 6 hours. 
+ 
+
+ 
+Reduction of GCS by 2 or more
+ 
+
+ 
+Any other organ dysfunction
+ 
+ 
+iv.
+ 
+High Risk Groups: 
+ 
+
+ 
+Age> 60 yrs
+ 
+
+ 
+Diabetes Mellitus, Renal Failure, Chronic Lung disease
+ 
+
+ 
+Immuno 
+
+ 
+compromised persons
+ 
+ 
+
+ 
+Dosage: 
+ 
+ 
+i.
+ 
+Lopinavir/ R
+itonavir (200 mg/ 50 mg) 
+
+ 
+2 tablets twice daily
+ 
+ii.
+ 
+For patients unable to take medications by mouth: Lopinavir 400mg/ 
+Ritonavir 100 mg 
+
+ 
+5m
+l suspension twice daily
+ 
+ 
+
+ 
+Duration: 14 days or for 7 days after becoming asymptomatic. 
+ 
+ 
+b)
+ 
+Support to Treating Physicians
+ 
+AIIMS, New Delhi is running a 24x7 helpline to provide 
+support to 
+the treating physicians
+ 
+on 
+clinical management. 
+  
+The helpline number is 9971
+876591.
+ 
+The identified nodal doctor of 
+the State, appointed for clinical management of COVID 
+
+ 
+19 should only contact AIIMS Call 
+Centre. 
+ 
+ 

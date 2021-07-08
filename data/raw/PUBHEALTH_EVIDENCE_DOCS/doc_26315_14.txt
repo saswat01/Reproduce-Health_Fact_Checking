@@ -1,0 +1,203 @@
+Unadjusted rates of age-specific acute myocardial infarction (AMI) by multiple dimensions of unemployment in US older adults.
+ A, Employment status (unemployed excludes retired).
+ B, Cumulative number of job losses.
+ C, Cumulative time unemployed.
+ P values are based on log-rank tests for group differences.
+ View LargeDownload Figure 2.
+ Hazard ratios are adjusted for age, sex, race/ethnicity, marital status, retirement, and geographic region.
+ Error bars indicate 95% confidence intervals.
+ Table 1.
+ Characteristics of Study Participants From the Health and Retirement Study at BaselineaView LargeDownload Table 2.
+ HRs for Acute Myocardial Infarction Associated With Employment Status, Cumulative Job Losses, and Cumulative Time Unemployed in 13 451 US Older AdultsView LargeDownload           1.Lloyd-Jones DM, Larson MG, Beiser A, Levy D. Lifetime risk of developing coronary heart disease.
+ Lancet.
+ 1999;353(9147):89-9210023892PubMedGoogle ScholarCrossref 2.Xu J, Kochanek KD, Murphy S, Tejada-Vera B.
+ Deaths: final data for 2007.
+ Natl Vital Stat Rep. 2010;58(19):1-136.http://www.cdc.gov/nchs/data/nvsr/nvsr58/nvsr58_01.pdf.
+ Accessed January 20, 2012Google Scholar3.Roger VL, Go AS, Lloyd-Jones DM, 
+   et al; American Heart Association Statistics Committee and Stroke Statistics Subcommittee.
+ Heart disease and stroke statistics—2011 update: a report from the American Heart Association [published corrections appear in Circulation.
+ 2011;123(6):e240 and Circulation.
+ 2011;124(16):e426].
+ Circulation.
+ 2011;123(4):e18-e20921160056PubMedGoogle ScholarCrossref 4.Centers for Disease Control and Prevention; National Center for Health Statistics.
+ Health Data Interactive.
+ http://www.cdc.gov/nchs/hdi.htm.
+ Accessed November 1, 20115.Yusuf S, Hawken S, Ounpuu S, 
+   et al; INTERHEART Study Investigators.
+ Effect of potentially modifiable risk factors associated with myocardial infarction in 52 countries (the INTERHEART Study): case-control study.
+ Lancet.
+ 2004;364(9438):937-95215364185PubMedGoogle ScholarCrossref 6.Greenland P, Knoll MD, Stamler J, 
+   et al.
+ Major risk factors as antecedents of fatal and nonfatal coronary heart disease events.
+ JAMA.
+ 2003;290(7):891-89712928465PubMedGoogle ScholarCrossref 7.Maruthur NM, Wang NY, Appel LJ.
+ Lifestyle interventions reduce coronary heart disease risk: results from the PREMIER Trial.
+ Circulation.
+ 2009;119(15):2026-203119349322PubMedGoogle ScholarCrossref 8.Zhao G, Ford ES, Li C, Mokdad AH.
+ Are United States adults with coronary heart disease meeting physical activity recommendations?
+ Am J Cardiol.
+ 2008;101(5):557-56118307998PubMedGoogle ScholarCrossref 9.Price RH, Choi JN, Vinokur AD.
+ Links in the chain of adversity following job loss: how financial strain and loss of personal control lead to depression, impaired functioning, and poor health.
+ J Occup Health Psychol.
+ 2002;7(4):302-31212396064PubMedGoogle ScholarCrossref 10.Kasl SV, Gore S, Cobb S. The experience of losing a job: reported changes in health, symptoms and illness behavior.
+ Psychosom Med.
+ 1975;37(2):106-1221135358PubMedGoogle Scholar11.Kaplan GA, Keil JE.
+ Socioeconomic factors and cardiovascular disease: a review of the literature.
+ Circulation.
+ 1993;88(4, pt 1):1973-19988403348PubMedGoogle ScholarCrossref 12.Durkheim E. Suicide: A Study in Sociology.
+ New York, NY: Free Press; 1897.
+ Reprinted 199713.O’Rand AM, Hamil-Luker J.
+ Processes of cumulative adversity: childhood disadvantage and increased risk of heart attack across the life course.
+ J Gerontol B Psychol Sci Soc Sci.
+ 2005;60(special issue 2):117-12416251582PubMedGoogle ScholarCrossref 14.Kessler RC, House JS, Turner JB.
+ Unemployment and health in a community sample.
+ J Health Soc Behav.
+ 1987;28(1):51-593571906PubMedGoogle ScholarCrossref 15.Minnesota Population Center and State Health Access Data Assistance Center.
+ Integrated Health Interview Series: Version 4.0.
+ Minneapolis: University of Minnesota, 2011. http://www.ihis.us.
+ Accessed November 5, 201116.Centers for Disease Control and Prevention (CDC).
+ Racial/ethnic and socioeconomic disparities in multiple risk factors for heart disease and stroke: United States, 2003.
+ MMWR Morb Mortal Wkly Rep. 2005;54(5):113-11715703691PubMedGoogle Scholar17.Holme I, Helgeland A, Hjermann I, Lund-Larsen PG, Leren P. Coronary risk factors and socioeconomic status: the Oslo study.
+ Lancet.
+ 1976;2(8000):1396-139863860PubMedGoogle ScholarCrossref 18.Van Domelen DR, Koster A, Caserotti P, 
+   et al.
+ Employment and physical activity in the U.S.  Am J Prev Med.
+ 2011;41(2):136-14521767720PubMedGoogle ScholarCrossref 19.Hedblad B, Jonsson S, Nilsson P, Engström G, Berglund G, Janzon L. Obesity and myocardial infarction—vulnerability related to occupational level and marital status: a 23-year follow-up of an urban male Swedish population.
+ J Intern Med.
+ 2002;252(6):542-55012472916PubMedGoogle ScholarCrossref 20.Carson AP, Rose KM, Catellier DJ, Diez-Roux AV, Muntaner C, Wyatt SB.
+ Employment status, coronary heart disease, and stroke among women.
+ Ann Epidemiol.
+ 2009;19(9):630-63619596203PubMedGoogle ScholarCrossref 21.Weber A, Lehnert G. Unemployment and cardiovascular diseases: a causal relationship?
+ Int Arch Occup Environ Health.
+ 1997;70(3):153-1609298397PubMedGoogle ScholarCrossref 22.Dupre ME, Beck AN, Meadows SO.
+ Marital trajectories and mortality among US adults.
+ Am J Epidemiol.
+ 2009;170(5):546-55519584130PubMedGoogle ScholarCrossref 23.George LK.
+ Sociological perspectives on life transitions.
+ Annu Rev Sociol.
+ 1993;19:353-375Google ScholarCrossref 24.Virtanen P, Vahtera J, Kivimäki M, Liukkonen V, Virtanen M, Ferrie J.
+ Labor market trajectories and health: a four-year follow-up study of initially fixed-term employees.
+ Am J Epidemiol.
+ 2005;161(9):840-84615840616PubMedGoogle ScholarCrossref 25.Zhang ZM.
+ Marital history and the burden of cardiovascular disease in midlife.
+ Gerontologist.
+ 2006;46(2):266-27016581891PubMedGoogle ScholarCrossref 26.US Bureau of Labor Statistics.
+ Number of Jobs Held, Labor Market Activity, and Earnings Growth Among the Youngest Baby Boomers: Results From a Longitudinal Survey.
+ Washington, DC: US Dept of Labor; 2010.
+ USDL 10-124327.US Bureau of Labor Statistics.
+ National Longitudinal Survey of Youth 1979. http://bls.gov/nls/nlsy79r23unempbyedu.pdf.
+ Accessed August 18, 201128.US Bureau of Labor Statistics.
+ Number of Jobs Held, Labor Market Activity, and Earnings Growth Over Two Decades: Results From a Longitudinal Survey .
+ Washington, DC: US Dept of Labor; 2000.
+ USDL 00-11929.Sincavage JR.
+ The labor force and unemployment: three generations of change.
+ Monthly Labor Review.
+ 2004;127(6):34-41Google Scholar30.Gallo WT, Teng HM, Falba TA, Kasl SV, Krumholz HM, Bradley EH.
+ The impact of late career job loss on myocardial infarction and stroke: a 10 year follow up using the Health and Retirement Survey.
+ Occup Environ Med.
+ 2006;63:683-68716798871PubMedGoogle ScholarCrossref 31.Gallo WT, Bradley EH, Falba TA, 
+   et al.
+ Involuntary job loss as a risk factor for subsequent myocardial infarction and stroke: findings from the Health and Retirement Survey.
+ Am J Ind Med.
+ 2004;45(5):408-41615095423PubMedGoogle ScholarCrossref 32.Juster FT, Suzman R. An overview of the Health and Retirement Study.
+ J Hum Resour.
+ 1995;30(5):S7-S56Google ScholarCrossref 33.
+ Health and Retirement Study: a longitudinal study of health, retirement, and aging.
+ Sponsored by the National Institute on Aging.
+ http://hrsonline.isr.umich.edu.
+ Accessed August 18, 201034.Peters HE.
+ Retrospective versus panel data in analyzing lifecycle events.
+ J Hum Resour.
+ 1988;23(4):488-513Google ScholarCrossref 35.
+ RAND HRS data, version L. RAND Center for the Study of Aging.
+ Santa Monica, CA.
+ Accessed December 14, 201036.Fisher LD, Lin DY.
+ Annu Rev Public Health.
+ 1999;20:145-15710352854PubMedGoogle ScholarCrossref 37.Allison PD.
+ Survival Analysis Using the SAS System: A Practical Guide.
+ Cary, NC: SAS Institute; 199538.Ferraro KF, Farmer MM.
+ Utility of health data from social surveys: is there a gold standard for measuring morbidity?
+ Am Sociol Rev.
+ 1999;64:303-315Google ScholarCrossref 39.Guralnik JM, Fried LP, Williamson JD, Hochberg MC.
+ The Women's Health and Aging Study .
+ Bethesda, MD: National Institute on Aging; 1996.
+ NIH publication 95-4000940.Harlow SD, Linet MS. Agreement between questionnaire data and medical records: the evidence for accuracy of recall.
+ Am J Epidemiol.
+ 1989;129(2):233-2482643301PubMedGoogle Scholar41.Chatterjee S, Hadi AS, Price B. Regression Analysis by Example.
+ 3rd ed.
+ New York, NY: John Wiley &amp; Sons Inc; 200042.Kleinbaum DG, Kupper LL, Muller KE, Nizam A.
+ Pacific Grove, CA: Duxbury Press; 199843.StataCorp.
+ Stata Statistical Software: Release 12.
+ College Station, TX: StataCorp LP; 201144.Tracy RP, Psaty BM, Macy E, 
+   et al.
+ Lifetime smoking exposure affects the association of C-reactive protein with cardiovascular disease risk factors and subclinical disease in healthy elderly subjects.
+ Arterioscler Thromb Vasc Biol.
+ 1997;17(10):2167-21769351386PubMedGoogle ScholarCrossref 45.Howard G, Wagenknecht LE, Burke GL, 
+   et al.
+ Cigarette smoking and progression of atherosclerosis: the Atherosclerosis Risk in Communities (ARIC) Study.
+ JAMA.
+ 1998;279(2):119-1249440661PubMedGoogle ScholarCrossref 46.Lim SH, Tai BC, Yuan JM, Yu MC, Koh WP.
+ Smoking cessation and mortality among middle-aged and elderly Chinese in Singapore: the Singapore Chinese Health Study [published online December 14, 2011].
+ Tob Controldoi:10.1136/tobaccocontrol-2011-050106Google Scholar47.Ockene JK, Kuller LH, Svendsen KH, Meilahn E. The relationship of smoking cessation to coronary heart disease and lung cancer in the Multiple Risk Factor Intervention Trial (MRFIT).
+ Am J Public Health.
+ 1990;80(8):954-9582368857PubMedGoogle ScholarCrossref 48.Hammar N, Alfredsson L, Johnson JV.
+ Job strain, social support at work, and incidence of myocardial infarction.
+ Occup Environ Med.
+ 1998;55(8):548-5539849542PubMedGoogle ScholarCrossref 49.Karasek RA, Theorell T, Schwartz JE, Schnall PL, Pieper CF, Michela JL.
+ Job characteristics in relation to the prevalence of myocardial infarction in the US Health Examination Survey (HES) and the Health and Nutrition Examination Survey (HANES).
+ Am J Public Health.
+ Acid Base, Electrolytes, Fluids Allergy Allergy and Clinical Immunology Anesthesiology Anticoagulation Art of the JAMA Network Bleeding and Transfusion Cardiology Caring for the Critically Ill Patient Challenges in Clinical Electrocardiography Clinical Challenge Clinical Decision Support Clinical Implications of Basic Neuroscience Clinical Pharmacy and Pharmacology Complementary and Alternative Medicine Consensus Statements Coronavirus (COVID19) Critical Care Medicine Dental Medicine Dermatology Diabetes and Endocrinology Drug Development Electronic Health Records Emergency Medicine End of Life Environmental Health Ethics Facial Plastic Surgery Foodborne Illness Gastroenterology and Hepatology Genetics and Genomics Genomics and Precision Health Geriatrics Global Health Guide to Statistics and Medicine Guidelines Hair Disorders Health Care Delivery Models Health Care Economics, Insurance, Payment Health Care Policy Health Care Quality Health Care Reform Health Care Safety Health Care Workforce Health Disparities Health Informatics Health Policy Hematology History of Medicine Humanities Hypertension Images in Neurology Imaging Immunology Implementation Science Infectious Diseases Innovations in Health Care Delivery JAMA Infographic Law and Medicine Leading Change Less is More Lifestyle Behaviors Medical Coding Medical Devices and Equipment Medical Education Medical Education and Training Medical Journals and Publishing Melanoma Mobile Health and Telemedicine Narrative Medicine Nephrology Neurology Neuroscience and Psychiatry Notable Notes Nursing Nutrition Nutrition, Obesity, Exercise Obesity Obstetrics and Gynecology Occupational Health Oncology Ophthalmic Images Ophthalmology Orthopedics Otolaryngology Pain Medicine Pathology and Laboratory Medicine Patient Care Patient Information Pediatrics Performance Improvement Performance Measures Perioperative Care and Consultation Pharmacoeconomics Pharmacoepidemiology Pharmacogenetics Pharmacy and Clinical Pharmacology Physical Medicine and Rehabilitation Physical Therapy Physician Leadership Poetry Population Health Professional Well-being Professionalism Psychiatry Public Health Pulmonary Medicine Radiology Regulatory Agencies Research, Methods, Statistics Resuscitation Rheumatology Scientific Discovery and the Future of Medicine Shared Decision Making and Communication Sleep Medicine Sports Medicine Statistics and Research Methods Stem Cell Transplantation Substance Use and Addiction Surgery Surgical Innovation Surgical Pearls Teachable Moment Technology and Finance The Rational Clinical Examination Tobacco and e-Cigarettes Toxicology Trauma and Injury Treatment Adherence United States Preventive Services Task Force Urology Users' Guide to the Medical Literature Vaccination Venous Thromboembolism Veterans Health Violence Women's Health Workflow and Process Wound Care, Infection, Healing     Save Preferences    Privacy Policy | Terms of Use     
+    Others Also Liked
+                  This Issue       Views 9,113    Citations 66           View Metrics       Download PDF     Twitter Facebook More  Email LinkedIn       Cite This   Citation Dupre ME, George LK, Liu G, Peterson ED.
+ The Cumulative Effect of Unemployment on Risks for Acute Myocardial Infarction.
+ Arch Intern Med.
+ 2012;172(22):1731–1737.
+ doi:10.1001/2013.jamainternmed.447 Download citation file:  Ris (Zotero) EndNote BibTex Medlars ProCite RefWorks Reference Manager Mendeley  © 2020        Permissions                  Original Investigation   Dec 10/24, 2012  The Cumulative Effect of Unemployment on Risks for Acute Myocardial Infarction   Matthew E. Dupre, PhD; Linda K. George, PhD; Guangya Liu, PhD; et al Eric D. Peterson, MD, MPH   Author Affiliations Article Information  Author Affiliations: Duke Clinical Research Institute (Drs Dupre and Peterson), Departments of Community and Family Medicine (Dr Dupre) and Sociology (Dr George), Division of Cardiology, Department of Medicine (Dr Peterson), and School of Law (Dr Liu), Duke University, Durham, North Carolina.
+ Arch Intern Med.
+ 2012;172(22):1731-1737. doi:10.1001/2013.jamainternmed.447         visual abstract icon Visual Abstract   editorial comment icon Editorial Comment   related articles icon Related Articles   author interview icon Interviews   multimedia icon Multimedia             Invited Commentary Evolution of Research on the Effect of Unemployment on Acute Myocardial Infarction Risk: Comment on “The Cumulative Effect of Unemployment on Risks for Acute Myocardial Infarction”  William T. Gallo, PhD                          
+         Abstract
+          Background Employment instability is a major source of strain affecting an increasing number of adults in the United States.
+ Unadjusted rates of age-specific AMI were used to demonstrate observed differences by employment status, cumulative number of job losses, and cumulative time unemployed.
+ Among the sample, 14.0% of subjects were unemployed at baseline, 69.7% had 1 or more cumulative job losses, and 35.1% had spent time unemployed.
+ Unadjusted plots showed that age-specific rates of AMI differed significantly for each dimension of work history.
+ Risks for AMI were particularly elevated within the first year of unemployment (hazard ratio, 1.27 [95% CI, 1.01-1.60]) but not thereafter.
+ Results were robust after adjustments for multiple clinical, socioeconomic, and behavioral risk factors.Conclusions Unemployment status, multiple job losses, and short periods without work are all significant risk factors for acute cardiovascular events.
+ More than 1 million Americans experienced a first or a recurrent acute myocardial infarction (AMI) in 2010, and more than half died as a result.1-4 Although major risk factors for coronary heart disease have been well documented (eg, inactivity, obesity, hypertension),3,5-8 the effect of social stressors on AMI are still poorly understood.
+ We used data from a nationally representative sample of middle-aged and older adults followed up biennially from 1992 to 2010 to examine the effect of unemployment status, cumulative job losses, and duration of unemployment on risks for AMI.
+ The associations were examined with adjustments for multiple socioeconomic, behavioral, psychological, and clinical factors.
+ We also examined whether the associations between job instability and AMI risk differed by sex and race/ethnicity.
+ Methods
+            
+         Study population
+           We used nationally representative data from the Health and Retirement Study (HRS) for analysis.
+ The HRS is an ongoing prospective cohort study of US adults older than 50 years sponsored by the National Institute on Aging and the Institute for Social Research at the University of Michigan, Ann Arbor.32 The original HRS cohort included 9824 age-eligible respondents (ie, ages 51-61 years) who have been interviewed biennially since 1992.
+ The initial participation rate was 81.7%, and reinterview rates were 93.7% for 1994 through 2010, with low rates of attrition due to nonresponse and lost tracking.
+ Since 1998, the HRS has been supplemented with age-selective birth cohorts to replenish the nationally representative sample of older adults.
+ Details of the multistage sampling design, implementation, and response rates have been documented in detail elsewhere.32,33  The analytic sample for the study included 13 451 participants from the original HRS birth cohort (1931-1941), the war baby cohort (1942-1947), and early baby-boomer cohort (1948-1953) who were first interviewed in 1992, 1998, and 2004, respectively, and reinterviewed through 2010.
+ A person-year file was constructed from the respondents' age-specific cumulative exposure to AMI so that each observation was a record for every additional year beyond their age at entry in the study.
+ Analyses were restricted to adults aged 51 to 75 years who reported having ever worked (95.8%).
+ On average, HRS participants contributed approximately 8 person-years of exposure during the 18-year study period.
+ A total of 1061 AMI events (7.9%) were reported during the 165 169 person-years of observation.
+ Measurement
+           We used more than 50 years of prospective and retrospective data from the HRS to reconstruct employment histories for each study participant.
+ Information about past employment was collected at the respondents' baseline interview, and information about current jobs (and changes) was obtained from the prospective interviews.
+ Work-history timing was ascertained from detailed responses to questions about the beginning and ending dates (in years and/or months) of all jobs reported by HRS participants.
+ Although we could not confirm the retrospective dates of employment status and change, studies have shown substantial congruence between dates reported retrospectively and those reported by the same individuals in a panel design.34 Nevertheless, recall or omissions (eg, brief employment in early adulthood) may have led to undercounts of the total number of jobs—and potential job losses—reported for some participants.
+ The subjects' month- and year-specific information was converted to age-specific data using the dates of birth, interview, and event.
+ Established literature and extensive preliminary analyses were used to determine the measures that were most psychometrically sound and substantively appropriate for analysis.
+ Persons who were not employed and not retired were considered unemployed in this study.
+ 'small' : App.isTablet ?
+ 'small' : App.isTablet ?
+ !scmByClass('pg_issue').length || !
+ !scmByClass('pg_newonline').length || !
+ !scmByClass('pg_currentissue').length || !
+ All Rights Reserved.
+ Terms of Use| Privacy Policy| Accessibility Statement          .
+ ×     Sign in to access your subscriptions   Sign in to your personal account 
+ 	     Create a free personal account to download free article PDFs,
+ 		 sign up for alerts, and more     Purchase access Subscribe to the journal Buy this article and get unlimited access and a printable PDF ($30.00) - Sign in or create a free account Rent this article for read-only access ($8.99)     Sign in to download free article PDFs  Sign in to access your subscriptions   Sign in to your personal account 
+ 	     Create a free personal account to download free article PDFs,
+ 		 sign up for alerts, and more        Get free access to newly published articles Create a personal account or sign in to:  Register for email alerts with links to free full-text articles Access PDFs of free articles Manage your interests Save searches and receive search alerts           Sign in to access your subscriptions   Sign in to your personal account 
+              Get free access to newly published articles.
+ Create a personal account to register for email alerts with links to free full-text articles.
+ By continuing to use our site, or clicking "Continue," you are agreeing to our Cookie Policy | Continue

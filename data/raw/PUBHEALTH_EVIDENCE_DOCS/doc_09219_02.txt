@@ -1,0 +1,547 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListCMAJv.182(18); 2010 Dec 14PMC3001531        CMAJ.
+ 2010 Dec 14; 182(18): E843–E855.
+ doi: 10.1503/cmaj.101720PMCID: PMC3001531PMID: 21098062Reducing the pain of childhood vaccination: an evidence-based clinical practice guidelineAnna Taddio, BScPhm PhD, Mary Appleton, BA, Robert Bortolussi, MD, Christine Chambers, PhD, Vinita Dubey, MD, Scott Halperin, MD, Anita Hanrahan, RN, Moshe Ipp, MD, Donna Lockett, PhD, Noni MacDonald, MD, Deana Midmer, RN EdD, Patricia Mousmanis, MD, Valerie Palda, MD MSc, Karen Pielak, RN MSc, Rebecca Pillai Riddell, PhD, Michael Rieder, MD PhD, Jeffrey Scott, MD, and Vibhuti Shah, MD MScAuthor information Copyright and License information DisclaimerFaculty of Pharmacy (Taddio) and Departments of Paediatrics (Ipp), of Family and Community Medicine (Midmer) and of Health Policy, Management and Evaluation (Palda, Shah), Faculty of Medicine, University of Toronto, Toronto, Ont.
+ ; Research Institute (Taddio, Ipp, Pillai Riddell) and Department of Psychiatry (Pillai Riddell), The Hospital for Sick Children, Toronto, Ont.
+ ; Canadian Center for Vaccinology (Appleton, Halperin, MacDonald, Scott), Halifax, NS; Departments of Pediatrics (Bortolussi, Halperin, MacDonald, Scott) and of Psychology (Chambers), IWK Health Centre, Halifax, NS; Infectious Diseases and Immunization Committee (Bortolussi) and Drug Therapy and Hazardous Products Committee (Rieder), Canadian Paediatric Society; Departments of Microbiology and Immunology, (Bortolussi, Halperin), of Pediatrics (MacDonald) and of Emergency Medicine (Scott), Faculty of Medicine, and Department of Pediatrics/Psychology (Chambers), Faculty of Science, Dalhousie University, Halifax, NS; Toronto Public Health (Dubey), Toronto, Ont.
+ ; Capital Health Region (Hanrahan), Edmonton, Alta.
+ ; National Advisory Committee on Immunization (Hanrahan); private practice (Lockett), Milton, Ont.
+ ; Healthy Child Development Program (Mousmanis), Ontario College of Family Physicians, Toronto, Ont.
+ ; Department of Medicine (Palda), St. Michael’s Hospital, Toronto, Ont.
+ ; British Columbia Centre for Disease Control (Pielak), Vancouver, BC; Department of Psychology (Pillai Riddell), York University, Toronto, Ont.
+ ; Children’s Hospital of Western Ontario (Rieder), London, Ont.
+ ; Department of Medicine (Rieder), University of Western Ontario, London, Ont.
+ ; Department of Paediatrics (Shah), Mount Sinai Hospital, Toronto, OntCorrespondence to: Dr. Anna Taddio, Leslie L. Dan Faculty of Pharmacy, University of Toronto, 144 College St., Toronto ON M5S 3M2; ac.otnorotu@oiddat.annaCopyright © 1995-2010, Canadian Medical AssociationThis article has been cited by other articles in PMC.Associated DataSupplementary Materials     [Online Appendices]     101720_index.html (1.3K)GUID: 8DCB9DD2-FB84-47E7-A640-1E1B72352DF7 101720_1.pdf (1.5M)GUID: DF539387-B82F-458F-BBAF-EEF6FACFBE1A 101720_2.pdf (1.4M)GUID: B85F23DD-31FA-44F3-BC9C-404A17EE8C79 101720_3.pdf (668K)GUID: A83BF5EB-DB1A-421F-941A-4344EF633ABA Injections for vaccinations, the most common source of iatrogenic pain in childhood,1 are administered repeatedly to almost all Canadian children throughout infancy, childhood and adolescence.2 The pain associated with such injections is a source of distress for children, their parents and those administering the injections.
+ If not addressed, this pain can lead to preprocedural anxiety in the future, needle fears and health care avoidance behaviours, including nonadherence with vaccination schedules.3 It is estimated that up to 25% of adults have a fear of needles,4 with most fears developing in childhood.5 About 10% of the population avoids vaccination and other needle procedures because of needle fears.3Conversely, minimizing pain during childhood vaccination can help to prevent distress, development of needle fears and subsequent health care avoidance behaviours, such as nonadherence with vaccination schedules.
+ More positive experiences during vaccine injections also maintain and promote trust in health care providers.3In light of the prevalence of pain during vaccine injections and the potential for substantial short-term and long-term adverse sequelae, we identified a need for a national guidance document to address this important public health issue.
+ Although the topic was covered in a previous narrative review1 and national guideline,4 neither of these documents was based on the requisite systematic approach and rigorous guideline development process.
+ Moreover, additional data have been published since the appearance of the previous documents.Our objective was to develop a clinical practice guideline, based on systematic reviews of the literature, as interpreted by experts, to assist clinicians in managing procedure-related pain and distress among children undergoing vaccine injections.
+ The scope was limited to acute (immediate) pain and distress at the time of vaccine injection in children 0 to 18 years of age.
+ We did not consider the management of delayed-onset pain occurring in the hours or days after the injection.
+ Health care providers and researchers often use the term “distress” to refer to the combination of pain and anxiety or fear experienced by children before and during painful medical procedures.
+ For the purposes of this guideline, we considered distress and pain together, referring to the combination as “pain.”MethodsPanel membership and fundingWe convened an interdisciplinary guideline development panel, the Help ELiminate Pain in KIDS (HELPinKIDS) Team, to develop the guideline.
+ Individual panel members were selected to include individuals from diverse disciplines and positions from across Canada, including organizations involved in pediatric medicine (the Canadian Paediatric Society, Toronto Public Health) and immunization (the Canadian Center for Vaccinology) and clinicians, policy-makers and scientists involved in pediatrics, pain, evidence-based medicine, education, health policy, knowledge translation and methodology for guideline development.
+ Parents were present and provided input at our stakeholder workshop in January 2008 and participated in quantitative and qualitative interviews.6–8All of the panel members signed competing interest forms.
+ We determined that the potential conflicts disclosed in the forms did not affect our consideration of the evidence and development of the recommendations.Funding for the project was provided by the Canadian Institutes of Health Research through a knowledge synthesis grant (KRS-91783).
+ The funding agency had no role in developing the recommendations, and its views and interests did not influence the recommendations.Guideline development processThe guideline development process was based on published methods.9 We used published scientific literature, interviews with key informants and discussions with panel members and stakeholder partners, including parents, to identify 32 clinical questions for consideration in the guideline.
+ We subsequently reduced the number of clinical questions to 18, to reflect the evidence base.Pain management is usually based on a “3-P” approach, involving pharmacologic, physical and psychological strategies.
+ Therefore, our evidence base encompassed all of these domains.
+ For the purposes of this guideline, selected panel members performed three systematic reviews and meta-analyses, one for each of the three domains of pain management.10–12 We limited the evidence to randomized controlled trials (RCTs) and studies with quasi-experimental designs.
+ We used the Cochrane Risk of Bias Tool to determine the quality of included studies.
+ We presented and discussed draft recommendations at an in-person meeting.
+ We revised the recommendations to reflect the comments of panel members, and the revised versions were disseminated electronically to the group for additional comments.
+ We held a conference call for further discussion and confirmation of the recommendations.
+ We used a consensus process to arrive at the final wording for each recommendation.External reviewWe circulated the guideline to relevant experts for external review according to the AGREE instrument (Appraisal of Guidelines for Research and Evaluation; www.agreetrust.org) (see Acknowledgements).
+ Some of these experts represented stakeholder organizations, including the Canadian Coalition for Immunization Awareness and Promotion, the Canadian Nursing Coalition for Immunization, the Canadian Pharmacists Association, the Canadian Psychological Association, the College of Family Physicians of Canada, the Nurse Practitioners’ Association of Ontario and the Ontario Family Practice Nurses Association.
+ In addition, three members of the Guidelines Advisory Committee, who were not involved in the guideline development process, independently evaluated the guideline.
+ We discussed the comments of all reviewers and incorporated them into the final manuscript, as appropriate.
+ We then finalized and approved the guideline.Clinical recommendationsFor 14 of the 18 clinical questions, there was sufficient evidence to make a practice recommendation to reduce pain.
+ These recommendations have been organized into five clusters: infants, injection procedure, parent-led strategies, pharmacotherapy and psychological strategies.
+ They are sequenced according to the level of evidence and the grade of the recommendation.
+ For the remaining four clinical questions, there was insufficient evidence to make a practice recommendation.Several of the practice recommendations relating to the injection procedure can be implemented immediately by health care providers in all vaccination practice settings, as they do not require planning or additional resources (e.g, time, supplies or money).
+ Examples of these easily adopted pain-relieving strategies include positioning children upright, performing intramuscular injections rapidly without prior aspiration, injecting the most painful vaccine last when multiple vaccines are being administered and providing tactile stimulation.A few practice recommendations in this guideline, such as breastfeeding or administration of sugar water (for infants) and application of topical anesthetics and psychological interventions (for children of all ages), require some planning or additional resources, or both, on the part of health care providers and children and their families.
+ Health care providers are encouraged to discuss these additional options with parents and children (as appropriate) and to select the strategies best suited to individual children.Pain relief is enhanced when individual pain-relieving strategies are combined.
+ Therefore, health care providers are encouraged to use a mix of strategies to mitigate pain.
+ Parents can be enlisted to help combine and coordinate many of these strategies.
+ For instance, parents can prepare their children, apply topical anesthetics, bring a distraction aid to the appointment, coach the child during deep breathing and hold the child.Details regarding the clinical questions, evidence base, recommendations and clinical considerations are provided below.Infants1.
+ BreastfeedingAmong infants undergoing vaccination, does breastfeeding during the procedure reduce pain at the time of injection?Background and evidence Breastfeeding is the preferred method of feeding infants in the first year of life15 and has been shown to have analgesic effects.16 Breastfeeding is considered a combined analgesic intervention because several aspects of breastfeeding (e.g., holding the child, skin-to-skin contact, the sweet-tasting milk and the act of sucking) may individually attenuate pain responses.Three RCTs17–19 and one study with quasi-experimental design,20 including a total of 478 infants (up to 12 months of age), were included in the systematic review.12 These studies reported less pain for breastfed infants.Recommendation To reduce pain at the time of injection, encourage breastfeeding mothers to breastfeed their infants during vaccination (grade A recommendation, based on level I evidence).Clinical considerations Breastfeeding should be started before and should continue during and after the vaccine injections, for up to several minutes after the last injection is complete.
+ An adequate latch must be established before the injection.
+ This may take about one minute.
+ Some infants may refuse to breastfeed, and some mothers may not wish to breastfeed during the vaccination.
+ Offering breast milk or formula via a bottle should not be considered a substitute for breastfeeding as a method of reducing pain.16There are no reports of adverse events, such as gagging or spitting up.
+ Compared with the frequency of breastfeeding, vaccine injections are uncommon, and it is unlikely that an infant will associate breastfeeding with painful procedures.2.
+ One study of glucose solution30 yielded positive results.
+ Chewing sweetened gum was ineffective for older children (aged 9–11 years).29 We concluded that sucrose is an effective analgesic intervention for infants up to 12 months of age.Despite a lack of studies directly comparing the analgesic effects of breastfeeding and sweetening agents, we recommend sweet-tasting solutions only for infants who are not breastfed during vaccination, for three reasons.
+ First, breast-feeding is the preferred method of infant feeding, and we support breastfeeding.
+ Second, breastfeeding does not incur additional cost or training for parents.
+ Third, breastfeeding is a combined analgesic intervention.Recommendation To reduce pain at the time of injection among infants up to 12 months of age who cannot be breastfed during vaccination, administer a sweet-tasting solution during vaccination (grade A recommendation, based on level I evidence).Clinical considerations Sucrose solutions are inexpensive and simple to prepare.
+ The optimal dose is unknown, but the most common dose is 2 mL of 25% strength (weight/volume).
+ Up to 10 mL of the 25% strength solution has been studied.
+ One approach to preparing a sucrose solution is to mix one packet or cube of sugar with 10 mL (two teaspoons) of water in a medicine cup.
+ Alternatively, sucrose solutions can be obtained from some pharmacies.
+ Place the dose in the infant’s mouth using an oral syringe, medicine cup or pacifier a minute or two before the injection.
+ Prepare the sucrose solution immediately before use and discard any unused portion.
+ The analgesic effect of sucrose may last for up to 10 minutes.
+ Coughing and gagging may occur but are relatively uncommon (≤ 5% of patients).12Sweet-tasting solutions are indicated for the management of painful procedures only, not for general comfort or as a food supplement.
+ Given that the volume and the frequency of use are small, and given that many infants do not yet have teeth, the risk of dental caries is negligible.
+ Although parents may wish to wash the infant’s mouth after the procedure, this may be irritating to the infant and is not considered necessary.Additional studies are required for infants over 12 months of age to determine the upper age limit for reliable analgesia.Injection procedure3.
+ Brand of vaccineAmong children undergoing vaccination, does administering one commercial brand of a vaccine rather than another commercial brand of the same vaccine cause less pain at the time of injection?Background and evidence Some vaccines marketed by different manufacturers are considered interchangeable.
+ The pharmaceutical formulation for each brand is unique, and the pain at the time of injection may differ as a result of differences in pharmaceutical factors,10 such as pH, adjuvants and other excipients.Four RCTs33–36 including 1027 children (12 months to 6 years of age) each compared two brands of measles–mumps–rubella vaccine: Priorix (SmithKline Beecham Pharma, GlaxoSmithKline) and M-M-R-II (Merck Frosst Canada &amp; Company) or RORVax (Aventis Pasteur-MSD), the equivalent of M-M-R-II.
+ All of the studies reported less pain among children who received the Priorix brand.Recommendation If more than one commercial brand of a vaccine is available, and the brands are interchangeable, inject the least painful brand during vaccination of children, to reduce pain at the time of injection (grade A recommendation, based on level I evidence).Clinical considerations Currently available evidence is limited to vaccines for measles–mumps–rubella.10Clinicians often do not have a choice about the brand of vaccine they will use.
+ Health authorities may provide more than one product to ensure that enough vaccine is available.
+ Vaccine manufacturers and government agencies are encouraged to supply vaccines associated with less pain at the time of injection.4.
+ However, parents instinctively pick up children when attempting to comfort them.37The systematic review10 included four RCTs that examined the influence of the child’s position on the pain response during vaccination.37–40 Altogether, 281 infants (from newborn to six months of age) and children (aged four to six years) were included.
+ In three of the studies,38–40 lying supine resulted in more pain than sitting upright or being held by a parent.
+ One of these three studies involved neonates,39 and skin-to-skin contact with the mother was compared with lying supine in a cot.
+ In the only negative study,37 parents were able to pick up their infants at any time after the injection, and it is possible that mothers preferentially picked up infants who were more distressed, which led to an outcome of no difference between groups.
+ Separately, in a recent study involving children who were undergoing venous cannulation, children positioned upright exhibited less distress than those lying supine.41 We concluded that lying supine results in more pain than sitting upright or being held by a parent.
+ Although the exact mechanism underlying the reduction in pain associated with non-supine positioning is unknown, it may involve a reduction in anxiety, which in turn reduces the perception of pain.Recommendation To reduce pain at the time of injection, do not place children in a supine position during vaccination (grade E recommendation, based on level I evidence).Clinical considerations The optimal position during vaccination is unknown.
+ Infants and children should be held by a parent in a position that is most comfortable for both of them (e.g., hold a baby in a bear hug, hold a child on the parent’s lap).
+ One or more limbs must remain exposed for the vaccination provider.Infants and older children may sit on the examination table.
+ The risk of accidental falls is minimized by having a parent stand against the examination table to provide support.
+ The child can lie down after the injection.Excessive restraint may increase the child’s distress,41 so parents and health care providers are encouraged to hold and support children without using excessive force.5.
+ Intramuscular injection techniquesAmong children undergoing intramuscular injection of vaccine, should slow injection with aspiration be avoided to reduce pain at the time of injection?Background and evidence Aspiration before intramuscular injection and slow injection of vaccines are long-standing practices that have never been subjected to scientific evaluation.
+ Aspiration was initially proposed for safety reasons, to prevent penetration of blood vessels during the injection.
+ Slow injection was recommended to minimize pain from sudden distension of the tissues.10 Together, aspiration and slow injection may actually add to the pain of vaccine injections because of longer contact time between the needle and the tissue and through lateral movement of the needle (“wiggle”) within the tissue.At present, aspiration is not deemed necessary because the anatomic sites recommended for vaccination are devoid of large blood vessels.10 Recent data have also suggested that one-third of vaccination providers do not perform aspiration before intramuscular injection.7 A systematic search revealed no risks or harms caused by omitting this step.
+ The definition of a slow injection is unclear.
+ Some researchers have quantified “slow” as 5 to 10 s/mL.
+ However, in clinical practice, observed injection speeds have been faster.10One RCT involving 113 infants aged four to six months42 that was included in the systematic review10 reported less pain for intramuscular injection via a rapid injection technique without aspiration (approximate total injection time of one second for a volume of 0.5 mL) relative to a slow injection technique with aspiration (approximate total injection time of nine seconds).
+ We believe that these results are generalizable to all children because of similarities in the procedure and how pain is processed neurologically.Recommendation To reduce pain at the time of injection, administer intramuscular vaccines to children using a rapid injection technique without aspiration (grade B recommendation, based on level I evidence).Clinical considerations The specific effect of each component (that is, slow injection and aspiration) on the child’s pain response cannot be determined from current scientific evidence.6.
+ Order of injectionsAmong children receiving multiple vaccine injections at a single vaccination visit, does injecting the most painful vaccine last decrease pain at the time of injection?Background and evidence At present, children routinely receive two or more vaccine injections at each immunization visit.
+ We believe that these results are generalizable to all children because of similarities in the procedure and how pain is processed.Although no RCTs have been performed to examine the pain of other vaccine pairs, we believe it is reasonable to extrapolate these findings to other situations in which the choice of injecting the more painful vaccine last is available.
+ There is currently no rationale for injecting the more painful vaccine first.Recommendation When administering multiple vaccine injections to children sequentially, inject the most painful vaccine last to reduce pain at the time of injection (grade B recommendation, based on level I evidence).Clinical considerations From currently available evidence, vaccines known to be more painful are M-M-R-II and Prevnar.10 When these are coupled with other vaccines, they should be given last.7.
+ Tactile stimulationAmong children undergoing vaccination, does rubbing the skin near the injection site before and during the procedure result in less pain at the time of injection?Background and evidence Providing tactile stimulation is a cost-neutral intervention that may reduce the sensation of pain.
+ The proposed mechanism of action involves the gate control theory of pain44 and the notion that the sensation of touch competes with the sensation of pain for transmission to the brain, thereby resulting in less pain.
+ This technique is often referred to as providing “white noise.” Our systematic review10 identified one study with a quasi-experimental design, involving 66 children four to six years old,45 which examined the effect of the vaccination provider rubbing the skin near the injection site before and during vaccination.
+ Rubbing the skin was associated with less pain.Because pediatric data are limited, the panel also considered adult studies when developing this recommendation.
+ Consistent with the pediatric study, adult studies showed that either rubbing or applying pressure to the injection site before injection reduced pain during the injection.46–48 We concluded that tactile stimulation before and during injection results in less pain.
+ In the absence of data about tactile stimulation in young children, and the potential that this intervention might focus the child’s attention on the site or the procedure or that excessive rubbing might cause discomfort, we felt that the results could not be extrapolated to young children (up to four years of age).Recommendation To reduce pain at the time of injection among children four years of age and older, offer to rub or stroke the skin near the injection site with moderate intensity before and during vaccination (grade B recommendation, based on level II-1 evidence).Clinical considerations The optimal method for rubbing (in terms of frequency, intensity and pattern) is unknown.
+ Rubbing should be tailored according to the request and comfort level of the individual child.It is important to distinguish between stroking or rubbing the skin near the injection site before and during injection and rubbing the actual injection site after injection.
+ Rubbing the injection site after injection may increase the risk of vaccine reactogenicity.49Additional research is required to determine the lower age limit for effectiveness, whether parents and vaccination providers can apply this technique equally effectively and whether equipment can be used to provide tactile stimulation, freeing health care providers to focus on other aspects of the vaccination process.Parent-led interventions8.
+ Distraction and coachingAmong children undergoing immunization, does use of (1) parent-led distraction or (2) parent coaching result in less pain and pain-related distress at the time of injection?Background and evidence Parent-led distraction: Distraction is defined as the use of strategies to take an individual’s attention away from the procedure.
+ There may be differences in the effectiveness of distraction related to the individual performing the intervention.
+ Therefore, we examined the effectiveness of distraction performed by different operators.Distraction that is directed or facilitated by the parent is referred to as parent-led distraction.
+ Parent-led distraction typically involves prior parental training in how to deliver age-appropriate distraction strategies.
+ Our systematic review11 included four RCTs that examined parent-led distraction in 324 children aged one month to seven years.50–53 A meta-analysis of these studies showed that there is insufficient evidence to conclude that they reduce pain associated with vaccine injections.
+ No differences were observed in children’s self-reported pain, children’s pain as rated by a researcher or children’s distress as reported by a nurse or a parent.
+ However, the intervention had efficacy in reducing researcher-rated child distress.Parent coaching: Certain types of parental behaviours (e.g., nonprocedural talk, suggestions on how to cope, humour) have been related to decreases in children’s distress and pain, whereas others (e.g., reassurance, apologies) have been related to increases in children’s distress and pain.3 Parent coaching involves prior training in distraction combined with appropriate parental behaviours.
+ The two RCTs51,54 and one study with quasi-experimental design55 included in our systematic review,11 with a total of 212 children aged two months to two years, yielded insufficient evidence to support parent coaching as a strategy to reduce pain.
+ There were no differences in researcher-rated child pain or parent-rated child distress.
+ However, the intervention had efficacy in reducing researcher-rated child distress.The lack of consistent benefit from parent-led distraction and parent coaching in terms of pain outcomes could be due to inadequate parental training or parents’ difficulty administering these interventions when they are themselves distressed.
+ The panel has recommended that clinicians discuss these interventions with parents on the following grounds.
+ First, parents are usually present during children’s medical procedures and want to be involved with their children’s care.56 Second, giving parents a formal role in psychological aspects of pain management may give them a sense of control and improve their satisfaction with the vaccination experience.
+ Third, research has shown some benefits of these measures on general pain-related distress.
+ Finally, there may be limited availability of other individuals to deliver such interventions.Recommendation Although there is insufficient evidence for or against the use of parent-led distraction or parent coaching during vaccination of children as a way to reduce pain at the time of injection, clinicians may offer this intervention to parents to reduce pain-related distress (grade B recommendation, based on level I evidence).Clinical considerations Education of parents (written, electronic or in person) is required before the use of parent-led distraction and parental behaviours that promote the child’s ability to cope.
+ Parents are usually trained just before the procedure, but pamphlets and instruction may be disseminated at a prior clinic appointment (see Appendix 1, available at www.cmaj.ca/cgi/content/full/cmaj.101720/DC1 for sample information sheet).Parent-led distraction should not be considered equivalent to clinician-led distraction or child-led distraction in terms of reducing pain.
+ Parents may choose to offer video or television as a distraction, but for children under two years of age, the use of these devices is indicated as a distraction strategy only for the management of painful procedures, not for general home use.Additional research is required to determine the impact of different methods of parental training, including allowing parents (and children, when appropriate) to choose the distraction modality that will be used.Pharmacotherapy9.
+ Topical anestheticsAmong children receiving intramuscular and subcutaneous injection of vaccines, does application of topical anesthetics on the skin before the injection reduce pain at the time of injection?Background and evidence Topical anesthetics reduce pain associated with needle procedures, including venipuncture and intravenous cannulation.57 Our systematic review12 included 10 trials that evaluated the effects of topical anesthetics in a total of 1156 infants and children (up to 15 years of age).17,58–66 Of the seven studies that compared topical anesthetics with placebo cream or patch, six showed that these drugs were effective in reducing pain.58–63 In the negative study,64 older children (11–15 years) were enrolled.
+ In addition, there were certain methodologic limitations that might explain the results, including use of an insensitive pain assessment method and rating of pain performed with the help of the physician.
+ In two trials that included a no-treatment (control) group,65,66 topical anesthetics were ineffective, and in another trial, they were effective.17 Again, these results might be explained by some methodologic limitations, including lack of blinding and nurses’ interactions with the no-treatment (control) group, which equalized responses between the groups; increased anticipatory anxiety because of a one-hour application time; and close proximity of peers (children from the same classroom) influencing self-reported pain ratings.
+ We concluded that topical anesthetics are effective for reducing vaccination pain.
+ We found no evidence of interference with vaccine immunogenicity for measles–mumps–rubella vaccine or the vaccines for diphtheria, tetanus, acellular pertussis, poliovirus, Hemophilus influenzae type B and hepatitis B.59–61Recommendation To reduce pain at the time of injection, encourage parents to use topical anesthetics during vaccination of children (grade A recommendation, based on level I evidence).Clinical considerations Topical anesthetics are available without a prescription.
+ Topical anesthetics currently available for sale in Canada are lidocaine–prilocaine 5% cream or patch (EMLA, AstraZeneca Canada), amethocaine 4% gel (Ametop, Smith and Nephew) and liposomal lidocaine 4% cream (Maxilene, RGR Pharma).Education of parents (written, electronic or in person) is required, including specifying the exact site or sites of administration.
+ Topical anesthetics must be applied ahead of time, 20–60 minutes before the injection, depending on the commercial product being applied.
+ The topical anesthetic can be applied upon arrival at the clinic or school (by a parent or a qualified health care professional or delegate) or before departure from home.
+ If multiple vaccines are being injected during the same visit, the topical anesthetic can be applied at two separate sites (e.g., right and left legs).
+ The vaccine or vaccines must be injected where the anesthetic has been applied.
+ Health care providers can use a nontoxic marker to outline the area of application.
+ The cost per dose is $5–$10.Cream or gel preparations must be covered with a dressing so that they are not accidentally wiped off the skin or ingested.
+ One approach is to apply the medication directly on the sticky side of the dressing, flip the dressing over and then attach it to the body location where the injection is planned, firmly pressing the edges so that the cream does not leak out.
+ When removing the dressing, stretch it out and then lift it, instead of just pulling it off.
+ Pulling off a dressing is like pulling off an adhesive bandage and may cause some discomfort to the child.Previous studies have shown that parents are willing to accommodate the administration of topical anesthetics into their schedules, are willing to pay to reduce vaccination pain and are able to apply topical anesthetics to their children’s skin before needle procedures if instructed on how to do so.7,8,62,67,68Transient changes in skin colour and sensation are common with the use of topical anesthetics, occurring in up to one-third to one-half of individuals.
+ Monitor the skin for allergic reactions.
+ Topical anesthetics are considered safe for children of all ages.
+ Clinician-led distractionAmong children undergoing vaccination, does use of clinician-led distraction result in less pain at the time of injection?Background and evidence Distraction has been shown to reduce children’s pain and distress from medical procedures.70,71 Distraction is defined as the use of strategies to take an individual’s attention away from the procedure.
+ Distraction that is directed or facilitated by the clinician is referred to as clinician-led distraction.
+ Our systematic review11 included one RCT65 and three studies with quasi-experimental design,66,72,73 involving 284 children aged two months to 11 years, that examined the effect of nurse-led distraction, concluding that this form of distraction reduced pain.Recommendation To reduce pain at the time of injection, use clinician-led distraction techniques during vaccination of children (grade B recommendation, based on level I evidence).Clinical considerations Distraction is the only psychological intervention examined in this guideline that can be employed for children of all ages.
+ Some basic equipment can either be made available by the clinic or brought by the child and family.
+ If clinic toys are employed as distraction strategies, they must be cleaned between uses.Distraction strategies are relatively simple to use.
+ The clinician who is injecting the vaccine can employ these techniques — there is no need to involve additional individuals.
+ However, prior training is recommended.
+ Research studies have typically used a one-time, 15-minute training program.
+ Appendix 2, available at www.cmaj.ca/cgi/content/full/cmaj.101720/DC1, provides a summary of the key elements for training on the use of distraction.11.
+ Child-led distractionAmong children undergoing vaccination, does use of child-led distraction result in less pain at the time of injection?Background and evidence Child-led distraction involves the use of distraction techniques by children without the aid or direction of an adult.
+ Our systematic review,11 which included three RCTs involving 241 children aged four to six years old,74–76 concluded that child-led distraction is effective.
+ We believe that these results can be extrapolated to children three years of age and older because of corroborating evidence from other analyses.70,71Recommendation To reduce pain at the time of injection among children three years of age and older, use child-led distraction techniques during vaccination (grade B recommendation, based on level I evidence).Clinical considerations Examples of age-appropriate distraction strategies and a summary of the key elements for training on the use of distraction are described in Appendices 1 and 2, available at www.cmaj.ca/cgi/content/full/cmaj.101720/DC1.
+ If appropriate, involve children in the selection of the distraction strategy to be used.Additional studies are needed to determine whether certain types of stimuli (audio, visual or audiovisual) are more effective for children of different age groups and to determine the impact of self-selection of distraction strategies.12.
+ Breathing techniquesAmong children undergoing vaccination, does slow, deep breathing or blowing performed by the child result in less pain at the time of injection?Background and evidence Slow, deep breathing exercises serve as a relaxation strategy.
+ If facilitated by toys or activities (e.g., blowing bubbles), they also serve as a distraction by focusing attention away from the procedure.
+ Two RCTs77,78 and two studies with quasi-experimental design45,79 included in the systematic review11 evaluated deep breathing in 241 children three to seven years old.
+ Pain was reduced if the children used breathing exercises.Recommendation To reduce pain at the time of injection, have children three years of age and older engage in slow, deep breathing or blowing during vaccination (grade B recommendation, based on level I evidence).Clinical considerations Breathing exercises make use of inexpensive and accessible items that can easily be made available in vaccination settings.
+ Slow, deep breathing or blowing is facilitated by distracting toys and activities (e.g., bubbles, party blowers, pinwheels).
+ The specific impact of each component (that is, slow deep breathing and distraction) on children’s pain response cannot be determined from current scientific evidence.Instruct the child to take a deep breath in and then blow it out slowly (“tummy breathing”).
+ Remind or prompt the child during the procedure.13.
+ Combined psychological interventionsAmong children undergoing vaccination, does use of combined psychological interventions (i.e., interventions that include at least one cognitive and one behavioural intervention) result in less pain and distress at the time of injection?Background and evidence For the purposes of the systematic review11 and this guideline, combined psychological interventions were defined as the use of at least two psychological interventions, one of which was cognitive in nature and the other behavioural.
+ Two RCTs75,80 and two studies with quasi-experimental design72,81 included in the systematic review11 examined the effects of combined psychological interventions in 302 children aged three to six years.
+ The systematic review11 concluded that these interventions were effective in reducing pain.Recommendation To reduce pain at the time of injection among children three years of age and older, use combined psychological interventions during vaccination (grade B recommendation, based on level I evidence).Clinical considerations Depending on the child’s cognitive maturity, some of the combined psychological interventions may not be suitable.
+ For example, imagery is a complex intervention unsuitable for young children.
+ Some combined psychological interventions involve substantial amounts of time and cost related to training, purchase of aids and implementation (e.g., video instruction and modelling or practice).14.
+ Simple suggestions that “it won’t hurt”Among children undergoing vaccination, does suggesting that “it won’t hurt” result in less pain at the time of injection?Background and evidence Suggestion therapy is a psychological modality that typically involves inducing the patient into a relaxed state and then using words and intonation to produce a desired effect or alternative behaviours.
+ Successful application of this approach depends on first ensuring a relaxed state.
+ In vaccination trials, simple suggestion (brief use of words or intonation without first inducing relaxation) has been examined for its effect on pain associated with the injection.
+ Two RCTs conducted in 160 children four to six years old75,82 were included in the systematic review,11 and there was no observed benefit.
+ This approach also raises ethical concerns because it involves deception, which may lead to children and their families losing trust in health care providers.
+ The lack of demonstrated effectiveness, combined with the unethical nature of deception, led the panel to recommend against this intervention.Recommendation Do not tell children that “it won’t hurt,” as this type of statement, when used alone, has been shown to be ineffective in reducing pain at the time of injection (grade D recommendation, based on level I evidence).Insufficient evidence for recommendation15.
+ Skin-cooling techniquesAmong children undergoing vaccination, does (1) application of a vapocoolant spray or (2) application of ice or a cool/cold pack on the skin before injection of vaccine reduce pain at the time of injection?Background and evidence Vapocoolants: Vapocoolants (skin refrigerants) contain chemicals that produce an instantaneous cooling effect upon contact with the skin.
+ The coldness may, in turn, reduce the sensation of pain during the vaccine injections.Four RCTs82–85 included in the systematic review10 examined the use of vapocoolants in 247 infants and children.
+ In three of the RCTs,82,83,85 the effect of a vapocoolant was compared with that of a placebo spray.
+ A meta-analysis of data from two of these RCTs (100 children aged four to six years)82,83 showed a beneficial effect on self-reported pain.
+ In the third RCT, which involved 60 infants aged two to six months, there was no difference in the pain associated with vaccine injection.85 In two RCTs that compared vapocoolant spray with typical care (no spray or typical care by the nurse), there was no difference between groups,83,84 although in the absence of a placebo group, positive results would be expected.
+ This result reinforced the overall negative findings.Ice or cool/cold packs: Applying ice or cool/cold packs to the skin produces a cooling sensation that may reduce the sensation of pain during vaccine injections.
+ Cool/cold packs are readily available and inexpensive.
+ However, two RCTs involving 78 children aged 4 to 18 years86,87 that were included in the systematic review10 showed that ice had no benefit.On the basis of the results of the systematic reviews,10,12 we concluded that there was insufficient evidence to recommend for or against skin-cooling techniques (i.e., vapocoolants, ice, cool/cold packs) to reduce pain in children undergoing vaccine injections.
+ The evidence for vapocoolants contrasts with the results of two studies performed in adults undergoing vaccine injections.48,88 It is possible that children, especially young children (up to three years old) may perceive coldness as painful, or the cold may cause them to focus their attention on the procedure.
+ Alternatively, the lack of a positive effect might be related to inappropriate application techniques.Recommendation For children undergoing vaccination, there is insufficient evidence for or against the use of skin-cooling techniques (vapocoolants, ice, cool/cold packs) to reduce pain at the time of injection (grade I recommendation, based on conflicting level I evidence).Clinical considerations Further research is needed to confirm or refute the effectiveness of skin-cooling techniques, particularly for children six years of age and older.
+ Vapocoolants currently available in Canada include ethyl chloride (Gebauer) and the combination of 1,1,1,3,3-pentafluoropropane and 1,1,1,2-tetrafluoroethane (Pain Ease, Gebauer).
+ The product should be sprayed on the injection site immediately before the procedure (within one minute of injection).
+ The cost of Pain Ease is about $60 for 50 to 60 applications.16.
+ Multiple injectionsAmong children undergoing vaccination, does simultaneous injection by two vaccination providers cause less pain at the time of injection than sequential injections by the same provider?Background and evidence Multiple health care providers may be available at the same time, allowing for simultaneous injection of two vaccines by two providers rather than sequential injection by one provider.
+ In one RCT involving 46 children four to six years old89 that was included in our systematic review10 there was no difference between simultaneous and sequential injections.
+ The panel also considered the results of a separate study of infants 9 to 12 months old, published as an abstract.90 The results of that study were consistent with the included study.Recommendation For children undergoing vaccination, there is insufficient evidence for or against the use of simultaneous injections rather than sequential injections to reduce pain at the time of injection (grade I recommendation, based on limited and negative level I evidence).Clinical considerations Child and parental preferences,89 developmental considerations and availability of vaccination providers may influence whether this intervention is offered.17.
+ Routes of administrationAmong children undergoing vaccination, for vaccines that can be administered intramuscularly or subcutaneously, does administering the vaccines intramuscularly, rather than subcutaneously, cause less pain at the time of injection?Background and evidence Some vaccines can be administered intramuscularly or subcutaneously, although the manufacturer’s instructions generally recommend only one route of administration.
+ Two RCTs91,92 and one study with quasi-experimental design,93 with a total of 817 children (14 months to 10 years), were included in the systematic review.10 In two of the studies,91,92 no differences were observed in terms of either observer-rated pain in infacts or children’s self-reported pain.
+ In one study, intramuscular injection caused more pain than subcutaneous injection in infants and children.93 However, the investigators did not provide details about the injection technique used (e.g., whether the intramuscular injections were performed with aspiration), which could have a substantial impact on perception of pain.10Recommendation For children undergoing vaccination, there is insufficient evidence to recommend for or against the use of a specific route of administration for vaccines that can be administered intramuscularly or subcutaneously to reduce pain at the time of injection (grade I recommendation, based on conflicting level I evidence).Clinical considerations Vaccination providers should follow the manufacturer’s instructions for route of administration.18.
+ Oral analgesicsAmong children undergoing vaccination, does administration of acetaminophen or ibuprofen before the injection reduce pain at the time of injection?Background and evidence Some clinicians recommend and some parents use oral analgesics (acetaminophen and ibuprofen) to reduce pain at the time of injection.6 We identified no RCTs evaluating the analgesic effects of oral analgesics on acute pain at the time of vaccine injection.Recommendation For children undergoing vaccination, there is currently no demonstrated benefit of administering acetaminophen or ibuprofen to reduce pain at the time of injection (grade I recommendation, based on level III evidence).Clinical considerations This recommendation refers to the use of acetaminophen or ibuprofen to reduce acute pain at the time of vaccine injection.
+ Delayed minor adverse events (i.e., occurring at some time after the vaccination procedure) may be reduced by prophylactic use of acetaminophen.
+ However, recent data have indicated that this type of drug may interfere with the immunogenicity of common childhood vaccines.94 As a result of these data, this practice is being questioned.95Implementation of the guidelineThe information contained in this guideline is generalizable to healthy children undergoing injection of vaccines worldwide.
+ Supports should be put in place to facilitate the implementation of these recommendations by health care providers.Required resourcesSome costs may be incurred by the incorporation of these recommendations into practice, because of required training of staff, required time to practise pain management and expenditures to acquire aids (e.g., bubbles) and resources (e.g., pamphlets for parents and children).
+ For the most part, these costs are relatively modest and may be offset by shorter duration of the procedure (because the child’s distress and struggling are lessened) and faster recovery time.
+ Many of the practice recommendations are cost-neutral to parents and the health care system (e.g., rapid intramuscular injection without aspiration).Setting for vaccinationsMost of these practice recommendations can be incorporated in many settings without adding any time to the vaccination process (e.g., holding infants, tactile stimulation).
+ Pain-relieving strategies that require additional time (e.g., education and preparation, application of topical anesthetics) can be implemented ahead of time, either at home or upon arrival at the vaccination setting, while the child is waiting to be vaccinated.
+ Parents can be asked to pay a nominal fee to cover the cost of analgesic interventions (e.g., topical anesthetics, bubbles for blowing, sugar water).
+ Alternatively, analgesic interventions can be provided free of charge.To date, the guideline has been piloted in an outpatient clinic setting and a public health vaccination setting at a middle school.
+ Feedback received suggests that the strategies are feasible and effective, and that parents and children appreciate efforts made to reduce the children’s pain.Assessment and documentation of painAssessment and documentation of pain during vaccine injections are important aspects of providing quality care.
+ Older, verbal children (three years or older) may express pain through similar behaviours but can usually supplement the behaviours with a verbal report, which is considered the primary source for pain assessment.
+ In all age groups, pain may be accompanied by physiologic changes (e.g., increase in heart rate), but these are neither specific to pain nor clinically feasible and therefore are not recommended for monitoring pain in practice.Here, we provide specific guidance regarding the method of pain assessment for children of different ages, according to our consensus interpretation of the vaccination literature, considering the validity and feasibility of currently available pain assessment methods.
+ For preverbal children and infants, adult observers (parents, health care providers or both) are required to assess pain.
+ We recommend that health care providers use one of two observational tools: the Modified Behavioural Pain Scale96–98 (for infants up to 18 months of age) or the Face Legs Activity Crying Consolability scale99 (for infants over 18 months of age).
+ Parents should use a global rating scale (e.g., numerical rating scale or visual analogue scale).
+ Verbal children can be asked to self-report pain100 using age-appropriate techniques: either the Poker Chip tool101 (3 to 6 years of age), the Faces Pain Scale — Revised102 (4 to 16 years of age) or a numerical rating scale103,104 (9 years of age and older).
+ We encourage health care providers to document the strategies used to reduce acute pain at the time of vaccine injection, as well as the child’s pain score.Clinical considerationsSome judgment about the suitability and feasibility of the recommendations is required, as not all of the recommendations will be appropriate or effective in all situations or for all children.
+ In selecting specific pain-relieving strategies for use in a particular situation, clinicians and parents are advised to consider the analgesic effectiveness of individual modalities, the goals for the child, and the preferences of the child, the parents and the clinician.Health care providers should offer pain-relieving options to parents and children (as appropriate) when they are counselling about other aspects of immunization or well-baby and child care, as parents and children are largely unaware of effective pain-relieving strategies.No single pain-relieving strategy recommended in this guideline has been demonstrated to reliably reduce pain to zero (i.e., to prevent pain).
+ Clinicians are advised to combine different pain-relieving strategies, as such combinations improve pain relief.12 However, combining pain-relieving strategies does not ensure pain-free injections.Tools to support training and implementationWe developed a knowledge translation plan to facilitate dissemination and implementation of the guideline.
+ This plan incorporates several educational tools, including a guide to pain management for parents and caregivers (Appendix 1), a guide to pain management for health care providers (Appendix 2) and a tool that health care providers can use to assess and document pain (Appendix 3) (all appendices are available at www.cmaj.ca/cgi/content/full/cmaj.101720/DC1).
+ A website and educational video for parents and health care providers has also been created (available online and freely accessible at www.sickkids.ca/Learning/SpotlightOnLearning/profiles-in-learning/help-eliminate-pain-in-kids/index.html).
+ In addition, several professional organizations (listed at the end of the article) have endorsed or supported this guideline and will assist in its dissemination.
+ This assistance includes online links to the guideline and associated tools and incorporation of recommendations in immunization resources.
+ The documentation tool allows the health care provider to record information about the vaccine or vaccines administered, the child’s age, age-appropriate pain assessment techniques and the child’s pain score.
+ The form can be inserted into the child’s medical chart and/or given to parents and caregivers.
+ The educational video demonstrates the use of pain-relieving strategies.Updates to the guidelineWe will review feedback from users of the guideline and determine the appropriate timing for revision and update of the guideline.LimitationsThe recommendations included in this guideline are limited by the evidence that was available at the time of publication of the three systematic reviews.10–12 Certain recommendations have more research support than others.
+ In addition, some of the recommendations are applicable to children of all ages, whereas others apply only to subgroups of children.For some pain-relieving strategies (e.g., use of sweet-tasting solutions, tactile stimulation), we could not determine with confidence the optimal administration technique and the upper and/or lower age limits for effectiveness from the existing evidence.Some of the research studies upon which the recommendations are based were limited in terms of the inclusion of children and parents with different demographic characteristics and backgrounds.
+ For instance, children with cognitive impairment or a history of traumatic needle procedures might not have been included.
+ We did not consider these factors in the recommendations; however, we acknowledge that the experience of pain may be mediated by such factors.
+ Moreover, they may influence the pain-relieving strategies that clinicians, parents and children choose to employ.Our literature search did not identify studies examining the impact on injection-related pain of the environment or setting in which vaccination was performed (e.g., clinic, school), characteristics of the needle and selected aspects of the injection technique (e.g., gauge, length, angle of injection) or the body region where the vaccine was injected (e.g., arm, thigh).
+ We recommend that future studies examine the effect of these factors on pain at the time of vaccine injection.For this guideline, we did not consider complementary and alternative medicines, and the published effectiveness of such therapies could be included in future revisions.Directions for future researchAt present, the optimal pain-relieving regimen for nullifying pain, rather than simply diminishing pain, is unknown.
+ Additional research is recommended to determine which pain-relieving regimens reliably prevent pain in children of different ages.
+ New technologies for administering vaccines (e.g., microneedles) and needle-free administration techniques (e.g., nasal sprays) offer alternative ways of preventing pain for which further investigation is also required.The impact of consistent pain management during injections of vaccines on short-term and long-term outcomes, including the child’s pain, satisfaction with the vaccination experience, development of needle fears and adherence with vaccination schedules, has not been evaluated.
+ This is clearly an important topic for future research.The education of all primary stakeholders involved in childhood immunization, including parents, children and health care providers, is fundamental to any improvements in the delivery of vaccine injections in children.
+ Additional research is planned to determine the impact of the knowledge translation interventions for this guideline.Key points Vaccine injections performed in childhood are a substantial source of distress.
+ Untreated pain can have long-term consequences including preprocedural anxiety, hyperalgesia, needle fears, and avoidance of health care.
+ Simple, cost-effective, evidence-based pain-relieving strategies are available.
+ Recommendations in this guideline are based on a “3-P” (pharmacologic, physical and psychological) approach.Supplementary Material [Online Appendices] Click here to view.
+ AcknowledgementsThe authors thank the family physicians and pediatricians from the Joint Action Committee on Child and Adolescent Health, the College of Family Physicians of Canada and the British Columbia Centre for Disease Control who provided expert review in advance of submission.
+ The authors also thank the following individuals for their expert review: Susan Bowles, Kristen Christie, Terri Fergus, Inese Grava-Gubins, Diane Gwartz, Beth Halperin, Alexandra Henteleff, Lane Ilersich, David Kenny, Cheryl McIntyre, Lori Palozzi, Barry Power, Neil Schechter, Judith Surridge, Carl von Baeyer, Lisa Votta Bleeker, Gary Walco and William Zempsky.FootnotesSee related summary article by Taddio and colleaguesThis article has been peer reviewed.Competing interests: Anna Taddio has received a clinical trial grant from Gebauer; has received study drugs for clinical trials from Hawaii Medical, Ferndale Laboratories and Gebauer; and has received honoraria for meeting presentations from Wyeth.
+ Moshe Ipp has received unrestricted research grants from Sanofi and GlaxoSmithKline.
+ Donna Lockett and Valerie Palda received consultancy compensation for their role in the development of these guidelines and the preparation of this manuscript.
+ Noni MacDonald has received reimbursement for travel expenses from UNICEF and the World Health Organization related to teaching about vaccine safety.
+ She is also the editor of Paediatrics &amp; Child Health.
+ Michael Rieder holds a Chair in Paediatric Clinical Pharmacology sponsored by the Canadian Institutes of Health Research and GlaxoSmithKline.
+ Jeffrey Scott received an honorarium from Sanofi Pasteur for participation in a session at the 2008 Canadian National Immunization Conference.
+ Vibhuti Shah has received study drugs for clinical trials from Hawaii Medical and Ferndale Laboratories.
+ None declared for other authors.Noni MacDonald is Section Editor, Population and Public Health for CMAJ and was not involved in the editorial decision-making process for this article.Contributors: Anna Taddio, chair of the HELPinKIDS Team, was the overall project leader.
+ Anna Taddio, Mary Appleton, Robert Bortolussi, Christine Chambers, Vinita Dubey, Scott Halperin, Moshe Ipp, Donna Lockett, Patricia Mousmanis, Michael Rieder and Vibhuti Shah were responsible for conception of the guideline.
+ Anna Taddio, Christine Chambers and Vibhuti Shah led acquisition of data from the literature, drafted the clinical questions for consideration in the guideline and led the systematic reviews and meta-analyses of the literature.
+ All authors participated in refining the clinical questions, interpreting the data and drafting the recommendations.
+ Anna Taddio wrote the first draft of the manuscript; all authors critically revised the article for important intellectual content and gave final approval of the version to be published.Endorsements: This guideline has been endorsed by the Canadian Center for Vaccinology, the Canadian Coalition for Immunization Awareness and Promotion, the Canadian Family Practice Nurses Association, the Canadian Nursing Coalition for Immunization, the Canadian Paediatric Society, the Canadian Pain Society, the Canadian Pharmacists Association, the Canadian Psychological Association, and the Community and Hospital Infection Control Association – Canada.Funding: Funding for this project was provided through a knowledge synthesis grant (KRS-91783) awarded by the Canadian Institutes of Health Research.
+ The views and interests of the funding agency did not influence the recommendations.
+ Publication of the full guideline was funded by the following agencies: Canadian Institutes of Health Research, Canadian Pain Society, the Linden Fund, BC Ministry of Healthy Living and Sport, Children’s Health Research Foundation and the Canadian Center for Vaccinology.REFERENCES1.
+ Schechter NL, Zempsky WT, Cohen LL, et al.
+ Pain reduction during pediatric immunizations: evidence-based review and recommendations.
+ Pediatrics 2007; 119:e1184–98 [PubMed] [Google Scholar]2.
+ Immunization schedules: recommendations from the National Advisory Committee on Immunization (NACI).
+ Ottawa (ON): Public Health Agency of Canada; Available: www.phac-aspc.gc.ca/im/is-cv/index-eng.php#a (accessed 2009 Jan. 9).
+ [Google Scholar]3.
+ Taddio A, Chambers CT, Halperin SA, et al.
+ Inadequate pain management during childhood immunizations: the nerve of it.
+ Clin Ther 2009;31(Suppl 2):S152–67 [PubMed] [Google Scholar]4.
+ Guideline statement: management of procedure-related pain in children and adolescents.
+ J Paediatr Child Health 2006;42(Suppl 1):S1–29 [PubMed] [Google Scholar]5.
+ Hamilton JG.
+ Needle phobia: a neglected diagnosis.
+ J Fam Pract 1995;41:169–75 [PubMed] [Google Scholar]6.
+ Taddio A, Manley J, Potash L, et al.
+ Routine immunization practices: use of topical anesthetics and oral analgesics.
+ Pediatrics 2007;120:e637–43 [PubMed] [Google Scholar]7.
+ Taddio A.
+ Proceedings of the workshop conquering pain: the hidden cost of immunization; 2008Jan.
+ 28; Toronto.
+ Toronto (ON): University of Toronto; 2008.
+ Available: http://resources.cpha.ca/CCIAP/data/700e.pdf (accessed 2009 Jan. 25).
+ [Google Scholar]8.
+ Parvez E, Stinson J, Boon H, et al.
+ Mothers’ beliefs about analgesia during childhood immunization.
+ Paediatr Child Health (Oxford) 2010;15:289–93 [PMC free article] [PubMed] [Google Scholar]9.
+ Harris RP, Helfand M, Woolf SH, et al.
+ Current methods of the US Preventive Services Task Force: a review of the process.
+ Am J Prev Med 2001;20(3 Suppl):21–35 [PubMed] [Google Scholar]10.
+ Taddio A, Ilersich AL, Ipp M, et al.
+ HELPinKIDS Team Physical interventions and injection techniques for reducing injection pain during routine childhood immunizations: systematic review of randomized controlled trials and quasi-randomized controlled trials.
+ Clin Ther 2009;31(Suppl 2):S48–76 [PubMed] [Google Scholar]11.
+ Chambers CT, Taddio A, Uman LS, et al.
+ HELPinKIDS Team Psychological interventions for reducing pain and distress during routine childhood immunizations: a systematic review.
+ Clin Ther 2009;31(Suppl 2):S77–103 [PubMed] [Google Scholar]12.
+ Shah V, Taddio A, Rieder MJHELPinKIDS Team Effectiveness and tolerability of pharmacologic and combined interventions for reducing injection pain during routine childhood immunizations: systematic review and meta-analyses.
+ Clin Ther 2009;31(Suppl 2):S104–47 [PubMed] [Google Scholar]13.
+ Canadian Task Force on Preventive Health Care New grades for recommendations from the Canadian Task Force on Preventive Health Care.
+ CMAJ 2003;169 207–8 [PMC free article] [PubMed] [Google Scholar]14.
+ Palda VA, Guise JM, Wathen CNCanadian Task Force on Preventive Health Care Interventions to promote breast-feeding: applying the evidence in clinical practice.
+ CMAJ 2004;170:976–8 [PMC free article] [PubMed] [Google Scholar]15.
+ Gartner LM, Morton J, Lawrence RA, et al.
+ Breastfeeding and the use of human milk.
+ Pediatrics 2005;115:496–506 [PubMed] [Google Scholar]16.
+ Shah PS, Aliwalis L, Shah V. Breastfeeding or breastmilk to alleviate procedural pain in neonates: a systematic review.
+ Breastfeed Med 2007;2:74–82 [PubMed] [Google Scholar]17.
+ Dilli D, Küçük IG, Dallar Y.
+ Interventions to reduce pain during vaccination in infancy.
+ J Pediatr 2009;154:385–90 [PubMed] [Google Scholar]18.
+ Efe E, Ozer ZC.
+ The use of breast-feeding for pain relief during neonatal immunization injections.
+ Appl Nurs Res 2007;20:10–6 [PubMed] [Google Scholar]19.
+ Effects of breast feeding on pain of injection in newborns.
+ Hayat 2006;12:31–8 [Google Scholar]20.
+ Abdel Razek A, Az El-Dein N. Effect of breast-feeding on pain relief during infant immunization injections.
+ Int J Nurs Pract 2009;15:99–104 [PubMed] [Google Scholar]21.
+ Stevens B, Taddio A, Ohlsson A, et al.
+ The efficacy of sucrose for relieving procedural pain in neonates — a systematic review and meta-analysis.
+ Acta Paediatr 1997;86:837–42 [PubMed] [Google Scholar]22.
+ Stevens B, Yamada J, Ohlsson A. Sucrose for analgesia in newborn infants undergoing painful procedures.
+ Cochrane Database Syst Rev 2001;(4):CD001069 Update in: Cochrane Database Syst Rev 2004;(3):CD001069 [PubMed] [Google Scholar]23.
+ Allen KD, White DD, Walburn JN.
+ Sucrose as an analgesic agent for infants during immunization injections.
+ Arch Pediatr Adolesc Med 1996;150:270–4 [PubMed] [Google Scholar]24.
+ Barr RG, Young SN, Wright JH, et al.
+ “Sucrose analgesia” and diphtheria–tetanus–pertussis immunizations at 2 and 4 months”.
+ J Dev Behav Pediatr 1995;16:220–5 [PubMed] [Google Scholar]25.
+ Hatfield LA.
+ Sucrose decreases infant biobehavioral pain response to immunizations: a randomized controlled trial.
+ J Nurs Scholarsh 2008;40:219–25 [PubMed] [Google Scholar]26.
+ Mowrey BD.
+ Effects of sucrose on immunization injection pain in Hispanic infants [dissertation].
+ Charlottesville (VA): University of Virginia; 2007 [Google Scholar]27.
+ Ramenghi LA, Webb AV, Shevlin PM, et al.
+ Intra-oral administration of sweet-tasting substances and infants’ crying response to immunizations: a randomized, placebo-controlled trial.
+ Biol Neonate 2002;81:163–9 [PubMed] [Google Scholar]28.
+ Soriano Faura J, Gomez Gil A.
+ Controlled clinical study of sucrose administration to reduce the duration of crying in infants undergoing vaccination.
+ Acta Pediatr Esp 2003;61:234–8 [Google Scholar]29.
+ Lewkowski MD, Barr RG, Sherrad A, et al.
+ Effects of chewing gum on responses to routine painful procedures in children.
+ Physiol Behav 2003;79:257–65 [PubMed] [Google Scholar]30.
+ Thyr M, Sundholm A, Teeland L, et al.
+ Oral glucose as an analgesic to reduce infant distress following immunizations at the age of 3, 5 and 12 months.
+ Acta Paediatr 2007;96:233–6 [PubMed] [Google Scholar]31.
+ Lewindon PJ, Harkness L, Lewindon N. Randomised controlled trial of sucrose by mouth for the relief of infant crying after immunisation.
+ Arch Dis Child 1998;48: 453–6 [PMC free article] [PubMed] [Google Scholar]32.
+ Hatfield LA, Gusic ME, Dyer AM, et al.
+ Analgesic properties of oral sucrose during routine immunizations at 2 and 4 months of age.
+ Pediatrics 2008;121:e327–34 [PubMed] [Google Scholar]33.
+ Ipp M, Cohen E, Goldbach M, et al.
+ Effect of choice of measles–mumps–rubella vaccine on immediate vaccination pain in infants.
+ Arch Pediatr Adolesc Med 2004; 158:323–6 [PubMed] [Google Scholar]34.
+ Ipp M, Cohen E, Goldbach M, et al.
+ Pain response to M-M-R vaccination in 4–6 year old children.
+ Can J Clin Pharmacol 2006;13:e296–9 [PubMed] [Google Scholar]35.
+ Knutsson N, Jansson UB, Alm B.
+ Immediate injection pain in infants aged 18 months during vaccination against measles, mumps and rubella with either Priorix or MMR-II.
+ Vaccine 2006;24:5800–5 [PubMed] [Google Scholar]36.
+ Wood C, von Baeyer CL, Bourrillon A, et al.
+ Self-assessment of immediate post-vaccination pain after two different MMR vaccines administered as a second dose in 4- to 6-year-old children.
+ Vaccine 2004;23:127–31 [PubMed] [Google Scholar]37.
+ Ipp M, Taddio A, Goldbach M, et al.
+ Effects of age, gender and holding on pain response during infant immunization.
+ Can J Clin Pharmacol 2004;11:e2–7 [PubMed] [Google Scholar]38.
+ Hallstrom BJ.
+ Contact comfort: its application to immunization injections.
+ Nurs Res 1968;17:130–4 [PubMed] [Google Scholar]39.
+ Kostandy RR.
+ Kangaroo (skin-to-skin) care in healthy full-term neonates: effects on pain from hepatitis B vaccine injection [dissertation].
+ Cleveland (OH): Case Western Reserve University; 2005 [Google Scholar]40.
+ Lacey CM, Finkelstein M, Thygeson MV.
+ The impact of positioning on fear during immunizations: supine versus sitting up.
+ J Pediatr Nurs 2008;23:195–200 [PubMed] [Google Scholar]41.
+ Sparks LA, Setlik J, Luhman J. Parental holding and positioning to decrease IV distress in young children: a randomized controlled trial.
+ J Pediatr Nurs 2007;22:440–7 [PubMed] [Google Scholar]42.
+ Ipp M, Taddio A, Sam J, et al.
+ Vaccine-related pain: randomized controlled trial of two injection techniques.
+ Arch Dis Child 2007;92:1105–8 [PMC free article] [PubMed] [Google Scholar]43.
+ Ipp M, Parkin PC, Lear N, et al.
+ Order of vaccine injection determines infant pain response.
+ Arch Pediatr Adolesc Med 2009;163:469–72 [PubMed] [Google Scholar]44.
+ Wall PD.
+ The gate control theory of pain mechanisms.
+ A re-examination and restatement.
+ Brain 1978;101:1–18 [PubMed] [Google Scholar]45.
+ Sparks L. Taking the “ouch” out of injections for children.
+ Using distraction to decrease pain.
+ MCN Am J Matern Child Nurs 2001;26:72–8 [PubMed] [Google Scholar]46.
+ Chung JW, Ng WM, Wong TK.
+ An experimental study on the use of manual pressure to reduce pain in intramuscular injections.
+ J Clin Nurs 2002;11:457–61 [PubMed] [Google Scholar]47.
+ Barnhill BJ, Holbert MD, Jackson NM, et al.
+ Using pressure to decrease the pain of intramuscular injections.
+ J Pain Symptom Manage 1996;12:52–8 [PubMed] [Google Scholar]48.
+ Taddio A, Lord A, Hogan ME, et al.
+ A randomized controlled trial of analgesia during vaccination in adults.
+ Vaccine 2010;28:5365–9 [PubMed] [Google Scholar]49.
+ Huang FY, Huang LM.
+ Effect of local massage on vaccination: DTP and DTPa.
+ Acta Paediatr Taiwan 1999;40:166–70 [PubMed] [Google Scholar]50.
+ Cohen LL, MacLaren JE, Fortson BL, et al.
+ Randomized clinical trial of distraction for infant immunization pain.
+ Pain 2006;125:165–71 [PubMed] [Google Scholar]51.
+ Cramer-Berness LJ, Friedman AG.
+ Behavioral interventions for infant immunizations.
+ Child Health Care 2005;34:95–111 [Google Scholar]52.
+ Cramer-Berness LJ.
+ A comparison of behavioral interventions for infant immunizations [dissertation].
+ Binghamton (NY): State University of New York at Binghamton; 2005.
+ Available: http://gradworks.umi.com/32/03/3203883.html (accessed 2009 Jan. 25).
+ [Google Scholar]53.
+ Gonzalez JC, Routh DK, Armstrong FD.
+ Effects of maternal distraction versus reassurance on children’s reactions to injections.
+ J Pediatr Psychol 1993;18:593–604 [PubMed] [Google Scholar]54.
+ Bustos T, Jaaniste T, Salmon K, et al.
+ Evaluation of a brief parent intervention teaching coping-promoting behavior for the infant immunization context: a randomized controlled trial.
+ Behav Modif 2008;32:450–67 [PubMed] [Google Scholar]55.
+ Felt BT, Mollen E, Diaz S, et al.
+ Behavioral interventions reduce infant distress at immunization.
+ Arch Pediatr Adolesc Med 2000;154:719–24 [PubMed] [Google Scholar]56.
+ Piira T, Sugiura T, Champion GD, et al.
+ The role of parental presence in the context of children’s medical procedures: a systematic review.
+ Child Care Health Dev 2005;31:233–43 [PubMed] [Google Scholar]57.
+ Lander JA, Weltman BJ, So SS.
+ EMLA and amethocaine for reduction of children’s pain associated with needle insertion.
+ Cochrane Database Syst Rev 2006;(3):CD004236.
+ [PubMed] [Google Scholar]58.
+ Cassidy KL, Reid GJ, McGrath PJ, et al.
+ A randomized double-blind, placebo-controlled trial of the EMLA patch for the reduction of pain associated with intramuscular injection in four to six-year-old children.
+ Acta Paediatr 2001;90:1329–36 [PubMed] [Google Scholar]59.
+ Halperin SA, McGrath P, Smith B, et al.
+ Lidocaine–prilocaine patch decreases the pain associated with the subcutaneous administration of measles–mumps–rubella vaccine but does not adversely affect the antibody response.
+ J Pediatr 2000;136:789–94 [PubMed] [Google Scholar]60.
+ Halperin BA, Halperin SA, McGrath P, et al.
+ Use of lidocaine–prilocaine patch to decrease intramuscular injection pain does not adversely affect the antibody response to diphtheria–tetanus–acellular pertussis–inactivated poliovirus–Haemophilus influenzae type b conjugate and hepatitis B vaccines in infants from birth to six months of age.
+ Pediatr Infect Dis J 2002;21:399–405 [PubMed] [Google Scholar]61.
+ O’Brien L, Taddio A, Ipp M, et al.
+ Topical 4% amethocaine gel reduces the pain of subcutaneous measles–mumps–rubella vaccination.
+ Pediatrics 2004;114:e720–4 [PubMed] [Google Scholar]62.
+ Taddio A, Nulman I, Goldbach M, et al.
+ Use of lidocaine–prilocaine cream for vaccination pain in infants.
+ J Pediatr 1994;124:643–8 [PubMed] [Google Scholar]63.
+ Uhari M. A eutectic mixture of lidocaine and prilocaine for alleviating vaccination pain in infants.
+ Pediatrics 1993;92:719–21 [PubMed] [Google Scholar]64.
+ Hansen BW, Sørensen PV.
+ The EMLA cream versus placebo in MMR vaccination of older children in general practice [Danish].
+ Ugeskr Laeger 1993;155:2263–5 [PubMed] [Google Scholar]65.
+ Cohen LL, Blount RL, Cohen RJ, et al.
+ Comparative study of distraction versus topical anesthesia for pediatric pain management during immunizations.
+ Health Psychol 1999;18:591–8 [PubMed] [Google Scholar]66.
+ Cohen LL, Bernard RS, McClellan CB, et al.
+ Topical anesthesia versus distraction for infants’ immunization distress: evaluation with 6-month follow-up.
+ Child Health Care 2006;35:103–21 [Google Scholar]67.
+ Koh JL, Fanurik D, Stoner PD, et al.
+ Efficacy of parental application of eutectic mixture of local anesthetics for intravenous insertion.
+ Pediatrics 1999;103:e79.
+ [PubMed] [Google Scholar]68.
+ Meyerhoff AS, Weniger BG, Jacobs RJ.
+ Economic value to parents of reducing pain and emotional distress of childhood vaccine injections.
+ Pediatr Infect Dis J 2001;20(Suppl):S57–62 [PubMed] [Google Scholar]69.
+ Kleiber C, Schutte D, McCarthy AM, et al.
+ Predictors of topical anesthetic effectiveness in children.
+ J Pain 2007;8:168–74 [PubMed] [Google Scholar]70.
+ Uman LS, Chambers CT, McGrath PJ, et al.
+ A systematic review of randomized controlled trials examining psychological interventions for needle-related procedural pain and distress in children and adolescents: an abbreviated Cochrane review.
+ J Pediatr Psychol 2008;33:842–54 [PMC free article] [PubMed] [Google Scholar]71.
+ Kleiber C, Harper DC.
+ Effects of distraction on children’s pain and distress during medical procedures: a meta-analysis.
+ Nurs Res 1999;48:44–9 [PubMed] [Google Scholar]72.
+ Cohen LL, Blount RL, Panopoulos G. Nurse coaching and cartoon distraction: an effective and practical intervention to reduce child, parent, and nurse distress during immunizations.
+ J Pediatr Psychol 1997;22:355–70 [PubMed] [Google Scholar]73.
+ Cohen LL.
+ Reducing infant immunization distress through distraction.
+ Health Psychol 2002;21:207–11 [PubMed] [Google Scholar]74.
+ Cassidy KL, Reid GJ, McGrath PJ, et al.
+ Watch needle, watch TV: audiovisual distraction in preschool immunization.
+ Pain Med 2002;3:108–18 [PubMed] [Google Scholar]75.
+ Fowler-Kerry S, Lander JR. Management of injection pain in children.
+ Pain 1987; 30:169–75 [PubMed] [Google Scholar]76.
+ Noguchi LK.
+ The effects of music versus nonmusic on behavioral signs of distress and self-report of pain in pediatric injection patients.
+ J Music Ther 2006;43:16–38 [PubMed] [Google Scholar]77.
+ French GM, Painter EC, Coury DL.
+ Blowing away shot pain: a technique for pain management during immunization.
+ Pediatrics 1994;93:384–8 [PubMed] [Google Scholar]78.
+ Krauss WJ.
+ Videotape modeling and parent participants: effects on reducing distress behaviour in children undergoing immunization procedures [dissertation].
+ Fresno (CA): California School of Professional Psychology; 1996 [Google Scholar]79.
+ Bowen AM, Dammeyer MM.
+ Reducing children’s immunization distress in a primary care setting.
+ J Pediatr Nurs 1999;14:296–303 [PubMed] [Google Scholar]80.
+ Blount RL, Bachanas PJ, Powers SW, et al.
+ Training children to cope and parents to coach them during routine immunizations: effects of child, parent and staff behaviors.
+ Behav Ther 1992;23:689–705 [Google Scholar]81.
+ Cohen LL, Bernard RS, Greco LA, et al.
+ A child-focused intervention for coping with procedural pain: Are parent and nurse coaches necessary?
+ J Pediatr Psychol 2002;27: 749–57 [PubMed] [Google Scholar]82.
+ Eland JM.
+ Minimizing pain associated with prekindergarten intramuscular injections.
+ Issues Compr Pediatr Nurs 1981;5:361–72 [PubMed] [Google Scholar]83.
+ Abbott K, Fowler-Kerry S. The use of topical refrigerant anesthetic to reduce injection pain in children.
+ J Pain Symptom Manage 1995;10:584–90 [PubMed] [Google Scholar]84.
+ Cohen LL, MacLaren JE, DeMore M, et al.
+ A randomized controlled trial of vapocoolant for pediatric immunization distress relief.
+ Clin J Pain 2009;25:490–4 [PubMed] [Google Scholar]85.
+ Maikler VE.
+ Effects of a skin refrigerant/anesthetic and age on the pain responses of infants receiving immunizations.
+ Res Nurs Health 1991;14:397–403 [PubMed] [Google Scholar]86.
+ Ebner CA.
+ Cold therapy and its effect on procedural pain in children.
+ Issues Compr Pediatr Nurs 1996;19:197–208 [PubMed] [Google Scholar]87.
+ Gedaly-Duff V, Burns C. Reducing children’s pain–distress associated with injections using cold: a pilot study.
+ J Am Acad Nurse Pract 1992;4:95–100 [PubMed] [Google Scholar]88.
+ Mawhorter S, Daugherty L, Ford A, et al.
+ Topical vapocoolant quickly and effectively reduces vaccine-associated pain: results of a randomized, single-blinded, placebo-controlled study.
+ J Travel Med 2004;11:267–72 [PubMed] [Google Scholar]89.
+ Horn MI, McCarthy AM.
+ Children’s responses to sequential versus simultaneous immunization injections.
+ J Pediatr Health Care 1999;13:18–23 [PubMed] [Google Scholar]90.
+ Bogin FJ, Bernstein BA, Payton JS, et al.
+ A comparison of the pain associated with simultaneous (sim) vs sequential (seq) immunization injections given at the 9 and 12 month well child visits [abstract].
+ Pediatr Res 2004;55:210A [Google Scholar]91.
+ Lafeber AF, van der Klis FR, Marzec AH, et al.
+ MMR vaccine in 14 months old children, intramuscular versus subcutaneous administration.
+ RIVM rapport 000002001.
+ Bilthoven (Netherlands): National Institute for Public Health and the Environment (RIVM); 2001.
+ Available: http://rivm.openrepository.com/rivm/handle/10029/9377 (accessed 2009 Jan. 25).
+ [Google Scholar]92.
+ Mark A, Carlsson RM, Granström M. Subcutaneous versus intramuscular injection for booster DT vaccination of adolescents.
+ Vaccine 1999;17:2067–72 [PubMed] [Google Scholar]93.
+ Leung AK, Chiu AS, Siu TO.
+ Subcutaneous versus intramuscular administration of Haemophilus influenzae type b vaccine.
+ J R Soc Health 1989;109:71–3 [PubMed] [Google Scholar]94.
+ Prymula R, Siegrist CA, Chlibek R, et al.
+ Effect of prophylactic paracetamol administration at time of vaccination on febrile reactions and antibody responses in children: two open-label, randomised controlled trials.
+ Lancet 2009;374:1339–50 [PubMed] [Google Scholar]95.
+ Chen RT, Clark TA, Halperin SA.
+ The yin and yang of paracetamol and paediatric immunisations.
+ Lancet 2009;374:1305–6 [PubMed] [Google Scholar]96.
+ Taddio A, O’Brien L, Ipp M, et al.
+ Reliability and validity of observer ratings of pain using the visual analog scale (VAS) in infants undergoing immunization injections.
+ Pain 2009;147:141–6 [PubMed] [Google Scholar]97.
+ Taddio A, Nulman I, Koren BS, et al.
+ A revised measure of acute pain in infants.
+ J Pain Symptom Manage 1995;10:456–63 [PubMed] [Google Scholar]98.
+ Riddell RR, Stevens BJ, Cohen LL, et al.
+ Predicting maternal and behavioral measures of infant pain: the relative contribution of maternal factors.
+ Pain 2007;133:138–49 [PubMed] [Google Scholar]99.
+ Merkel SI, Voepel-Lewis T, Shayevitz JR, et al.
+ The FLACC: a behavioral scale for scoring postoperative pain in young children.
+ Pediatr Nurs 1997;23:293–7 [PubMed] [Google Scholar]100. von Baeyer CL.
+ Children’s self-reports of pain intensity: scale selection, limitations and interpretation.
+ Pain Res Manag 2006;11:157–62 [PMC free article] [PubMed] [Google Scholar]101.
+ Hester N, Foster R, Kristensen K. Measurement of pain in children: generalizability and validity of the pain ladder and the poker chip tool.
+ In: Tyler D, Krane E, editors.
+ Pediatric pain.
+ Vol 15: Advances in pain research and therapy.
+ New York (NY): Raven Press; 1990. p. 79–84 Available: www.painresearch.utah.edu/cancerpain/attachb7.html (accessed 2009 Jan. 25).
+ [Google Scholar]102.
+ Hicks CL, von Baeyer CL, Spafford PA, et al.
+ The Faces Pain Scale — revised: toward a common metric in pediatric pain measurement.
+ Pain 2001;93:173–83 Available: http://painsourcebook.ca/pdfs/pps92.pdf (accessed 2009 Jan. 25).
+ [PubMed] [Google Scholar]103. von Baeyer CL, Spagrud LJ, McCormick JC, et al.
+ Three new datasets supporting use of the Numerical Rating Scale (NRS-11) for children’s self-reports of pain intensity.
+ Pain 2009;143:223–7 [PubMed] [Google Scholar]104.
+ Miró J, Castarlenas E, Huguet A.
+ Evidence for the use of a numerical rating scale to assess the intensity of pediatric pain.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

@@ -1,0 +1,57 @@
+2020 Election            Facts First            Election 101         Live TV       Edition    U.S.  International  Arabic  Español                   					My Account     Preferences   Log Out                 								Log In 							  								Need a CNN account?
+ Sign up    									Email address 									        										Password 										   Show Password Hide Password         										Forgot password?
+ Checkbox Checkbox   Stay logged in     Log In             Your email has not been verified To complete your CNN profile and ensure you are able to receive important account information, please verify your email address.
+ Send verification email     									Success!
+ Verification email has been resent.
+ Our Terms of Service have Changed 							  								Please click the button below to agree to our Terms and Conditions and acknowledge our Privacy Policy.
+ I agree     								Recover Password 							    										Email address 										       Reset Password     									If an account exists, we've sent an email with a link to reset your password.
+ Didn't get the email?
+ Resend Password Reset Email 									     										Success!
+ Password reset email has been resent.
+ Close icon          Search            Edition    U.S.  International  Arabic  Español                  					My Account     Preferences   Log Out                 								Log In 							  								Need a CNN account?
+ Sign up    									Email address 									        										Password 										   Show Password Hide Password         										Forgot password?
+ Checkbox Checkbox   Stay logged in     Log In             Your email has not been verified To complete your CNN profile and ensure you are able to receive important account information, please verify your email address.
+ Send verification email     									Success!
+ Verification email has been resent.
+ Our Terms of Service have Changed 							  								Please click the button below to agree to our Terms and Conditions and acknowledge our Privacy Policy.
+ I agree     								Recover Password 							    										Email address 										       Reset Password     									If an account exists, we've sent an email with a link to reset your password.
+ Didn't get the email?
+ Resend Password Reset Email 									     										Success!
+ Password reset email has been resent.
+ At 8 p.m.
+ ET Thursday at CNN studios in New York, Soledad O’Brien is hosting a town hall meeting called “Beyond Trayvon: Race and Justice in America.” The special will air at 8 p.m.
+ ET Friday on CNN.
+ (CNN) —      A congressman was removed from the House floor Wednesday after giving a speech about Trayvon Martin while wearing a hoodie.
+ Rep. Bobby Rush, D-Illinois, told House members, “racial profiling has to stop.”    Rush, a former Black Panther who was active in the civil rights movement in the 1960s, then took off his suit jacket, pulled a gray hoodie on over his head and put on sunglasses.
+ “Just because someone wears a hoodie does not make them a hoodlum,” he said.
+ Evolution of the hoodie    The congressman spoke during the morning session, when members are allowed to address any issue.
+ He applauded young people across the country who are wearing hoodies to make a statement about Martin, the teen who was wearing a hooded sweatshirt when he was killed by a neighborhood watch volunteer in Sanford, Florida.
+ As soon as Rush removed his jacket and put the hood on his head, Rep. Greg Harper, R-Mississippi, who was presiding over the House floor, began to gavel Rush down, saying he was out of order.
+ Rush ignored him, and with the hoodie still pulled over his head, continued to speak, citing the Bible.
+ Harper continued to bang the gavel.
+ “The gentleman will suspend.
+ The member is no longer recognized,” he said.
+ “The chair must remind members that clause 5 of rule 17 prohibits the wearing of hats in the chamber when the House is in session.”    A floor clerk approached Rush as he finished his remarks and led him away from the podium.
+ Afterward, Rush told CNN he was wearing a tie, suggesting he was appropriately dressed for the House floor.
+ He said the purpose of putting on the hoodie was to send a message to young people, “to stand their ground, stand up and don’t stand down.”    As for violating the House rule on wearing hats, Rush pointed to his hooded shirt and argued, “this is not a hat, this is a hoodie.”    “I don’t mind being out of order if it means standing up for truth and justice,” Rush said.
+ He said the public debate over Martin’s death was a continuation of the movement in which he participated during the 1960’s.
+ “This is just another part of the struggle.
+ I’ve never left those days.
+ Those days are deep down in my soul.”   What the witnesses say in Martin case    Noting that he was standing in the Capitol, Rush added, “Many people have given their lives so I can be here and once I got here I can’t forget whose shoulders I’m standing on.”    The Illinois lawmaker said he understood that those on the floor who ruled him out of order and the staffer who moved him off the floor were doing their jobs, and said he was able to finish his speech.
+ “A lot of it was theatrical, but I wanted the message to go forward,” he said.
+ Rush said he and Rep. Jackie Speier, D-California, were organizing a gathering of House members wearing hoodies on the East Front of the Capitol later this week.
+ Search            World          Africa           Americas           Asia           Australia           China           Europe           India           Middle East           United Kingdom            US Politics          Donald Trump           Supreme Court           Congress           Facts First           2020 Election            Business          Markets           Tech           Media           Success           Perspectives           Videos            Health          Food           Fitness           Wellness           Parenting           Vital Signs            Entertainment          Stars           Screen           Binge           Culture           Media            Tech          Innovate           Gadget           Foreseeable Future           Mission: Ahead           Upstarts           Work Transformed           Innovative Cities            Style          Arts           Design           Fashion           Architecture           Luxury           Beauty           Video            Travel          Destinations           Food &amp; Drink           Stay           News           Videos            Sports          Football           Tennis           Equestrian           Golf           Skiing           Horse Racing           Motorsport           Formula E           Esports            Videos          Live TV           Digital Studios           CNN Films           HLN           TV Schedule           TV Shows A-Z           CNNVR            Features          Call to Earth           Freedom Project           Impact Your World           Inside Africa           2 Degrees           CNN Heroes           All Features            More          Photos           Longform           Investigations           CNN Profiles           CNN Leadership           CNN Newsletters           Work for CNN            Weather          Climate           Storm Tracker           Video                          Follow CNN Politics                                Terms of Use        Privacy Policy          Accessibility &amp; CC        About        Newsletters        Transcripts     © 2020 Cable News Network.
+ A Warner Media Company.
+ All Rights Reserved.
+ CNN Sans ™ &amp; © 2016 Cable News Network.
+ Visit www.cnn.com/feedback for further assistance.
+ ",420:"You entered an incorrect email, password, or both.
+ ",429:"An account with this email address already exists.
+ If you believe this account is yours, please log in above.
+ ",500:"An unexpected error occured.
+ Visit www.cnn.com/feedback for further assistance.
+ ",default:"An unexpected error occured.
+ Assigning to manager.
+ Use `buffer` v4.x if you require old browser support.
+ (this instanceof m))throw new TypeError('Please use the "new" operator, this DOM object constructor cannot be called as a function.
+ Got error: "+(r&amp;&amp;r.message)+".

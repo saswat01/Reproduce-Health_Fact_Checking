@@ -1,0 +1,72 @@
+Skip directly to site content Skip directly to page options Skip directly to A-Z link        Centers for Disease Control and Prevention.
+ CDC twenty four seven.
+ Saving Lives, Protecting People                  Search         Submit      For a full list of topics: A-Z Index   
+ 					Advanced Search
+ 				    
+ 				Advanced Search
+ 			                 Emergency Preparedness and Response            Section Navigation         CDC Home                    Facebook Twitter LinkedIn Syndicate                         Update and Interim Guidance on Outbreak of Coronavirus Disease 2019 (COVID-19)     Minus     Related Pages          Distributed via the CDC Health Alert Network February 28, 2020, 15:05 ET (3:05 PM ET) CDCHAN-00428 Summary The Centers for Disease Control and Prevention (CDC) continues to closely monitor and respond to the COVID-19 outbreak caused by the novel coronavirus, SARS-CoV-2.
+ This CDC Health Alert Network (HAN) Update provides updated guidance on evaluating and testing persons under investigation (PUIs) for COVID-19.
+ It supersedes guidance provided in CDC’s HAN 427 distributed on February 1, 2020.
+ The outbreak that began in Wuhan, Hubei Province, has now spread throughout China and to 46 other countries and territories, including the United States.
+ As of February 27, 2020, there were 78,497 reported cases in China and 3,797 cases in locations outside China.
+ In addition to sustained transmission in China, there is evidence of community spread in several additional countries.
+ CDC has updated travel guidance to reflect this information (https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html).
+ To date, there has been limited spread of COVID-19 in the United States.
+ As of February 26, 2020, there were a total of 61 cases within the United States, 46 of these were among repatriated persons from high-risk settings.
+ The other 15 cases were diagnosed in the United States; 12 were persons with a history of recent travel in China and 2 were persons in close household contact with a COVID-19 patient (i.e.
+ person-to-person spread).
+ One patient with COVID-19 who had no travel history or links to other known cases was reported on February 26, 2020, in California.
+ The California Department of Public Health, local health departments, clinicians, and CDC are working together to investigate this case and are identifying contacts with whom this individual interacted.
+ CDC, state and local health departments, other federal agencies, and other partners have been implementing measures to slow and contain transmission of COVID-19 in the United States.
+ These measures include assessing, monitoring, and caring for travelers arriving from areas with substantial COVID-19 transmission and identifying cases and contacts of cases in the United States.
+ Recognizing persons at risk for COVID-19 is a critical component of identifying cases and preventing further transmission.
+ With expanding spread of COVID-19, additional areas of geographic risk are being identified and PUI criteria are being updated to reflect this spread.
+ To prepare for possible additional person-to-person spread of COVID-19 in the United States, CDC continues to recommend that clinicians and state and local health departments consider COVID-19 in patients with severe respiratory illness even in the absence of travel history to affected areas or known exposure to another case.
+ Criteria to Guide Evaluation and Testing of Patients Under Investigation (PUI) for COVID-19 Local or state health departments, in consultation with clinicians, should determine whether a patient is a PUI for COVID-19.
+ The CDC clinical criteria for COVID-19 PUIs have been developed based on available information about this novel virus, as well as what is known about Severe Acute Respiratory Syndrome (SARS) (https://www.cdc.gov/sars/clinical/guidance.html) and Middle East Respiratory Syndrome (MERS) (https://www.cdc.gov/coronavirus/mers/interim-guidance.html#evaluation).
+ These criteria are subject to change as additional information becomes available.
+ Clinical Features  Epidemiologic Risk   Fever1or signs/symptoms of lower respiratory illness (e.g., cough or shortness of breath)  AND  Any person, including healthcare personnel2, who has had close contact3 with a laboratory-confirmed4  COVID-19 patient within 14 days of symptom onset   Fever1and signs/symptoms of a lower respiratory illness (e.g., cough or shortness of breath) requiring hospitalization  AND  A history of travel from affected geographic areas5, within 14 days of symptom onset   Fever1 with severe acute lower respiratory illness (e.g., pneumonia, ARDS (acute respiratory distress syndrome) requiring hospitalization and without an alternative explanatory diagnosis (e.g., influenza).6     AND  No identified source of exposure      These criteria are intended to serve as guidance for evaluation.
+ In consultation with public health departments, patients should be evaluated on a case-by-case basis to determine the need for testing.
+ Testing may be considered for deceased persons who would otherwise meet the PUI criteria.
+ 1Fever may be subjective or confirmed.
+ 2For healthcare personnel, testing may be considered if there has been exposure to a person with suspected COVID-19 without laboratory confirmation.
+ Because of their often extensive and close contact with vulnerable patients in healthcare settings, even mild signs and symptoms (e.g., sore throat) of COVID-19 should be evaluated among potentially exposed healthcare personnel.
+ Additional information is available in CDC’s Interim U.S.
+ Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with Coronavirus Disease 2019 (COVID-19) (https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-risk-assesment-hcp.html).
+ 3Close contact is defined as—  a) being within approximately 6 feet (2 meters) of a COVID-19 case for a prolonged period; close contact can occur while caring for, living with, visiting, or sharing a healthcare waiting area or room with a COVID-19 case  – or –  b) having direct contact with infectious secretions of a COVID-19 case (e.g., being coughed on)   If such contact occurs while not wearing recommended personal protective equipment (PPE) (e.g., gowns, gloves, NIOSH-certified disposable N95 respirator, eye protection), criteria for PUI consideration are met.
+ Additional information is available in CDC’s updated Interim Healthcare Infection Prevention and Control Recommendations for Patients with Confirmed COVID-19 or Persons Under Investigation for COVID-19 in Healthcare Settings (https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-recommendations.html).
+ Data to inform the definition of close contact are limited.
+ Considerations when assessing close contact include the duration of exposure (e.g., longer exposure time likely increases exposure risk) and the clinical symptoms of the person with COVID-19 (e.g., coughing likely increases exposure risk, as does exposure to a severely ill patient).
+ Special consideration should be given to healthcare personnel exposed in healthcare settings, as described in CDC’s Interim U.S.
+ Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with COVID-19 (https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-risk-assesment-hcp.html).
+ 4Documentation of laboratory-confirmation of COVID-19 may not be possible for travelers or persons caring for COVID-19 patients in other countries.
+ 5Affected areas are defined as geographic regions where sustained community transmission has been identified.
+ Relevant affected areas will be defined as a country with at least a CDC Level 2 Travel Health Notice.
+ Current information is available in CDC’s COVID-19 Travel Health Notices (https://www.cdc.gov/coronavirus/2019-ncov/travelers).
+ 6Category includes single or clusters of patients with severe acute lower respiratory illness (e.g., pneumonia, ARDS (acute respiratory distress syndrome) of unknown etiology in which COVID-19 is being considered.
+ Recommendations for Reporting, Testing, and Specimen Collection Clinicians should immediately implement recommended infection prevention and control practices (https://www.cdc.gov/coronavirus/2019-ncov/infection-control/control-recommendations.html) if a patient is suspected of having COVID-19.
+ They should also notify infection control personnel at their healthcare facility and their state or local health department if a patient is classified as a PUI for COVID-19.
+ State health departments that have identified a PUI or a laboratory-confirmed case should complete a PUI and Case Report form through the processes identified on CDC’s Coronavirus Disease 2019 website (https://www.cdc.gov/coronavirus/2019-ncov/php/reporting-pui.html).
+ State and local health departments can contact CDC’s Emergency Operations Center (EOC) at 770-488-7100 for assistance with obtaining, storing, and shipping appropriate specimens to CDC for testing, including after hours or on weekends or holidays.
+ Currently, diagnostic testing for COVID-19 is being performed at state public health laboratories and CDC.Testing for other respiratory pathogens should not delay specimen testing for COVID-19.
+ For initial diagnostic testing for SARS-CoV-2, CDC recommends collecting and testing upper respiratory tract specimens (nasopharyngeal AND oropharyngeal swabs).
+ CDC also recommends testing lower respiratory tract specimens, if available.
+ For patients who develop a productive cough, sputum should be collected and tested for SARS-CoV-2.
+ The induction of sputum is not recommended.
+ For patients for whom it is clinically indicated (e.g., those receiving invasive mechanical ventilation), a lower respiratory tract aspirate or bronchoalveolar lavage sample should be collected and tested as a lower respiratory tract specimen.
+ Specimens should be collected as soon as possible once a PUI is identified, regardless of the time of symptom onset.
+ See Interim Guidelines for Collecting, Handling, and Testing Clinical Specimens from Patients Under Investigation (PUIs) for COVID-19 (https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-clinical-specimens.html) and Biosafety FAQs for handling and processing specimens from suspected cases and PUIs (https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html).
+ For More Information More information is available at the COVID-19 website: https://www.cdc.gov/coronavirus/2019-ncov/index.html.
+ The Centers for Disease Control and Prevention (CDC) protects people’s health and safety by preventing and controlling diseases and injuries; enhances health decisions by providing credible information on critical health issues; and promotes healthy living through strong partnerships with local, national and international organizations.
+ Department of Health and Human Services HAN Message Types   Health Alert: Conveys the highest level of importance; warrants immediate action or attention.
+ Health Advisory: Provides important information for a specific incident or situation; may not require immediate action.
+ Health Update: Provides updated information regarding an incident or situation; unlikely to require immediate action.
+ Info Service: Provides general information that is not necessarily considered to be of an emergent nature.
+ ###This message was distributed to state and local health officers, state and local epidemiologists, state and local laboratory directors, public information officers, HAN coordinators, and clinician organizations.###    Top of Page    Additional Resources HAN Archive By Year HAN Types Sign Up for HAN Email Updates HAN Jurisdictions             
+ 						Page last reviewed: February 25, 2020 Content source: 	Center for Preparedness and Response (CPR)         homeHealth Alert Network (HAN)  HAN Jurisdictions HAN Message Types Sign Up for HAN Updates HAN Archiveplus icon  2020plus icon  HAN00437 HAN00436 HAN00435 HAN00434 HAN00433 HAN00432 HAN00431 HAN00430 HAN00429 HAN00428 HAN00427 HAN00426 HAN00425 HAN00424   2019plus icon  HAN00423 HAN00422 HAN00421 HAN00420 HAN00419 HAN00418 HAN00417   2018plus icon  HAN00416 HAN00415 HAN00414 HAN00413 HAN00412 HAN00411 HAN00410   2017plus icon  HAN00409 HAN00408 HAN00407 HAN00406 HAN00405 HAN00404 HAN00403 HAN00402 HAN00401 HAN00400   2016plus icon  HAN00399 HAN00398 HAN00397 HAN00396 HAN00395 HAN00394 HAN00393 HAN00392 HAN00391 HAN00390 HAN00389 HAN00388 HAN00387 HAN00386 HAN00385   2015plus icon  HAN00384 HAN00383 HAN00382 HAN00381 HAN00380 HAN00379 HAN00378 HAN00377 HAN00376 HAN00375            Prepare Your Health Coping with a Disaster or Traumatic Event Information on Specific Types of Emergencies Information for Specific Groups Resources for Emergency Health Professionals Training &amp; Education Social Media What’s New Preparation &amp; Planning       More on Preparedness   What CDC is Doing Blog: Public Health Matters                 HAVE QUESTIONS?
+ The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+ Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+ You will be subject to the destination website's privacy policy when you follow the link.
+ CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+ For more information on CDC's web notification policies, see Website Disclaimers.
+ Cancel Continue

@@ -1,0 +1,87 @@
+Skip to main content            						FactCheck.org®   A Project of The Annenberg Public Policy Center                                              							FactCheck.org®    Home Articles  Featured Posts FactCheck Posts SciCheck Debunking False Stories 2020 Election   Ask a Question  Ask FactCheck Ask SciCheck   Donate Topics  President Trump Joe Biden Coronavirus climate change Ukraine Russia investigation View All   About Us  Our Mission Our Process Our Funding Our Staff Undergraduate Fellows Awards Request a Correction Contact Us   Search More  Viral Claims FactCheck On the Air Subscribe Mailbag Quiz Archive Party Lines 2018 Election          Featured Posts ›  	SciCheck COVID-19 Face Mask Advice, Explained   By Jessica McDonaldPosted on April 6, 2020          It’s a seemingly simple question that has divided experts and nations since the beginning of the COVID-19 outbreak: Should members of the public who aren’t sick use face masks to limit the spread of the disease?
+ For months, the Centers for Disease Control and Prevention maintained that the only people who needed to wear face masks were people who were ill or those who were treating them.
+ That notion stemmed from the idea that basic medical masks do little to protect wearers, and instead primarily prevent sick people from spewing infectious droplets from their noses and mouths.
+ Plus, limited supplies needed to be prioritized for frontline health workers.
+ The World Health Organization agreed.
+ But some countries took a different tack, suggesting and even requiring the use of masks in certain instances when people were outside their homes.
+ Many scientists, too, began to suggest that a more widespread mask policy might be a good idea.
+ Then, after days of speculation, President Donald Trump announced on April 3 that the CDC was recommending that people use cloth face coverings in crowded places, even as he emphasized the measure was voluntary and said he would not be following it.
+ “So with the masks, it’s going to be, really, a voluntary thing,” he said.
+ “You can do it.
+ You don’t have to do it.
+ I’m choosing not to do it.” Citing new data that a “significant portion” of people infected with the novel coronavirus can spread the virus to others even when they don’t have symptoms, the agency revised its recommendation, saying that people should wear cloth face coverings “whenever people must go into public settings.”  “A cloth face covering is not intended to protect the wearer, but may prevent the spread of virus from the wearer to others,” the updated CDC website now reads.
+ “This would be especially important in the event that someone is infected but does not have symptoms.” While the tide has turned toward a more pro-mask approach in the U.S., some experts have reservations about the policy.
+ Cloth masks are poorly studied, and there isn’t much real-world evidence to recommend medical masks to the general public.
+ Such guidelines could also exacerbate shortages of medical masks or backfire if people don’t wear their coverings properly or if they are lulled into a false sense of security.
+ At the same time, other scientists point to lab studies that indicate a broader adoption of masks, even of less effective do-it-yourself models, could still be helpful.
+ And it’s possible widespread mask use could keep people from touching their faces and help convey the severity of the pandemic.
+ We’ll review some of the research and thinking behind face masks and explain why opinions are divided.
+ But first, it’s important to recognize that despite the debate, on the most important issues, most experts agree:  If there is a benefit to having healthy people mask up, the effect is likely to be small.
+ No one should assume they are protected by a face mask, and it’s critical that people continue to stay six feet away from others and keep washing their hands.
+ As the CDC says, cloth coverings are “not a substitute” for social distancing.
+ Health care workers should receive priority on medical masks, and ideally should be using N95 respirators when treating people with COVID-19.
+ What Masks Do Depending on the design, masks can limit the spread of a disease from an infected person in what’s called source control, and/or they can protect the wearer from becoming infected.
+ In the case of COVID-19, transmission of the virus is thought to occur primarily through respiratory droplets, which can land in other people’s mouths or noses when infected people cough or sneeze.
+ The droplets can also contaminate surfaces that others then touch before touching their faces.
+ Here, basic surgical masks — loose-fitting, disposable masks — might be helpful because if someone who is sick is wearing one, their infectious droplets could be trapped in the mask.
+ Doctors and nurses wearing such masks may also be protected somewhat since they’re likely to be coughed or sneezed on.
+ But researchers also suspect the novel coronavirus, SARS-CoV-2, can linger in the air in very small droplets known as aerosols, which can be inhaled by people nearby.
+ A study published on March 17 in the New England Journal of Medicine called aerosol transmission “plausible,” finding in an experiment that the virus “remained viable” in machine-generated aerosols for up to three hours, although half of the particles weren’t infectious after about an hour.
+ There’s not a lot of clarity yet about how much of a role this mechanism plays in spreading the virus — and it’s unlikely that this allows the virus to travel long distances — but scientists are increasingly confident that it can happen to some degree.
+ “I believe that it is likely that all of the routes of transmission come into play here,” said occupational health professor Margaret Sietsema of the University of Illinois at Chicago, “meaning the disease can be inhaled and therefore the best line of defense is a respirator.”  Respirators include the oft-cited N95 masks, which are disposable, tight-fitting masks that create a seal on the face and include a specialized filter that captures at least 95% of the airborne particles that pass through it.
+ (To avoid confusion, from here on out, we will not refer to any respirator as a mask.)
+ In contrast to the N95s, surgical masks are not intended to provide protection against aerosols.
+ As a CDC blog explains, surgical masks “are designed to provide barrier protection against droplets, however they are not regulated for particulate filtration efficiency and they do not form an adequate seal to the wearer’s face to be relied upon for respiratory protection.” Limited Evidence, Divergent Views Sietsema, who recently reviewed the evidence on masks for the University of Minnesota’s Center for Infectious Disease Research and Policy, recommends N95 respirators for health care workers interacting with COVID-19 patients, but doesn’t think there’s enough evidence to support a broader masking policy that includes healthy people.
+ Masks might be able to reduce transmission by capturing the larger droplets infected people spew, but that only applies if a person is symptomatic, she said, and she argues that anyone with symptoms shouldn’t be in public spaces anyway.
+ “I do not believe a mask would reduce transmission prior to being symptomatic because air will never choose a path of more resistance (going through the mask) – it will simply go around the mask,” she said in an email.
+ She also expressed concern that mask recommendations would lead people to ease up on social distancing and could complicate efforts to preserve surgical masks for frontline health care workers.
+ Other scientists, however, disagree, and say that while masks won’t be fully effective, they are likely to be better than nothing.
+ Benjamin Cowling, an epidemiologist at the University of Hong Kong, doesn’t buy the idea that surgical masks have no utility for the general public.
+ “Certainly I could believe they would work /better/ when used by healthcare workers, particularly when used in combination with other protective equipment and behaviors,” he said in an email, “but it is a big jump to say they are essential when worn by healthcare workers but useless when worn by others.” In a just-published study Cowling co-authored in Nature Medicine, researchers found that surgical masks reduced the amount of respiratory virus people expelled while breathing and coughing into a specialized machine.
+ Previously, another study by Cowling and others using a similar setup found that surgical masks reduced the amount of influenza RNA researchers could detect from both small and larger respiratory droplets.
+ The effect was much stronger for larger droplets, but the study indicates the masks can reduce aerosols to a limited degree.
+ These types of studies suggest surgical masks can limit the spread of respiratory viruses in theory, but they are still a step away from showing that masks are an effective public health measure in the general population.
+ After all, in practical use, masks could be detrimental if people let up on social distancing, end up touching their faces more, or if they constantly touch the outside of the mask, which could be contaminated.
+ Even those who support wider public mask use acknowledge that this type of direct evidence is lacking.
+ Cowling, for instance, told us the best evidence would come from randomized controlled trials, and directed us to his systematic review of 10 trials testing face masks for their ability to limit flu transmission in places such as households or dorms.
+ Although a number of the trials struggled with getting people to actually wear the masks — suggesting that with higher compliance, there might be an impact — the review found “no significant reduction in influenza transmission with the use of face masks.” Many of the trials, too, were too small to come to any firm conclusions.
+ “Based on the summary of the randomized control trials, there may be some, but not very large, effects,” said Elaine Shuo Feng, a statistician and epidemiologist at the University of Oxford and the lead author of the Lancet Respiratory Medicine commentary, in an interview.
+ Still, she thought it was prudent for countries to begin considering face masks.
+ “Not enough evidence doesn’t mean the intervention itself is not effective,” Feng said.
+ “And in this situation, I think the best way is to rely on all the available non-pharmaceutical interventions.” Cloth and DIY Masks Compared with surgical masks or respirators, very little research has been done on cloth masks.
+ In 2015, researchers published the first randomized controlled trial of cloth masks, and found that hospital workers in Vietnam were 13 times more likely to come down with an influenza-like illness when wearing a cloth mask rather than a disposable surgical one.
+ The cloth mask group also had higher rates of respiratory infection than the control group, which sometimes wore surgical masks per the hospitals’ standard practice.
+ However, because there wasn’t a group that wore no masks at all, the researchers couldn’t tell whether cloth masks still might have provided some protection to wearers.
+ “[T]he finding of a much higher rate of infection in the cloth mask arm,” the authors wrote, “could be interpreted as harm caused by cloth masks, efficacy of medical masks, or most likely a combination of both.” A few other studies have looked into how well certain fabrics or designs fare in the lab at blocking droplet and particle transmission.
+ But as the authors of the trial in Vietnam noted in an article addressing their paper’s relevance to COVID-19, none of these masks have been tested in a clinical trial.
+ A 2013 study testing household materials for masks found that cotton T-shirts likely had some ability to filter out bacteria and viruses, but the masks were far less effective than surgical masks.
+ The group concluded that a homemade mask would be better than no mask, but “should only be considered as a last resort.” In a more rigorous 2010 test, researchers with the National Institute for Occupational Safety and Health bombarded T-shirts, towels, sweatshirts and scarves with nanoparticles to evaluate the filtration potential of DIY mask fabrics.
+ While the materials’ performance paled in comparison to an N95 respirator and the authors noted that they provide “only marginal respiratory protection,” most fabrics caught at least some of the particles.
+ Linsey Marr, a Virginia Tech engineering professor who studies virus transmission, cautioned that people should not rely on homemade masks to prevent inhalation of viruses in the air, but she had some practical tips for those pursuing their own designs.
+ “The material should be thick and densely woven, like a kitchen towel or heavyweight t-shirt, and the mask should fit tightly around the nose and mouth with no gaps,” she told us in an email.
+ As the National Academy of Sciences explains in a 2006 report on the possible use of improvised face masks during a pandemic, a tighter fabric structure may do a better job of filtration, but does have some trade-offs.
+ “[A]s the tightness of the structure increases, the breathing resistance increases, thereby affecting the user’s comfort while using the device,” the report says, noting this “may affect usage.” If You Wear a Mask For those who choose to wear a mask, Feng recommended learning the proper technique to reduce accidental infection from the mask itself.
+ As demonstrated in a WHO video, the key is to not to touch the outside of the mask — and to wash your hands if you do.
+ The CDC also offers advice and a few patterns for those creating their own masks.
+ But most critically, don’t think a mask protects you or exempts you from social distancing or hand washing.
+ As Feng told us, it’s “better to stay home.”    Categories Featured Posts  SciCheck  Location International  National  Issue coronavirus  COVID-19  face mask  novel coronavirus  People Donald Trump        Previous StoryTrump, Biden Spin China Travel RestrictionsNext StoryTrump’s False Coronavirus Claim About Lupus Patients        Ask FactCheckQ: Can people who cast their ballots in early voting change their vote?
+ A: In most states, no.
+ By our count, there are eight states that specifically allow for early voters to change their votes.
+ Read the full question and answer View the Ask FactCheck archivesHave a question?
+ Ask us.
+ Donate Now Because facts matter.
+ Coronavirus Coverage Correcting misinformation about the pandemic.
+ SciCheck Fact-checking science-based claims.
+ Facebook Initiative Debunking false stories.
+ 2020 Players Guide The special interest groups behind the TV ads.
+ Swing State Watch Examining political messages in key states.
+ Viral Spiral Don’t get spun by internet rumors.
+ Sign Up Get free email alerts.
+ Ask SciCheck Answers to your science questions.
+ Health Watch Fact-checking the health care debate.
+ NewsFeed Defenders A media literacy game to detect misinformation.
+ On the Air Our staff on TV and radio.
+ Party Lines Misleading political talking points.
+ FlackCheck.org Our sister site for political literacy.
+ Mailbag Letters from our readers.
+ Archives Privacy Copyright Policy Contact Us Report Accessibility Issues and Get Help   © Copyright 2020 FactCheck.org ®A Project of The Annenberg Public Policy Center of the University of Pennsylvania

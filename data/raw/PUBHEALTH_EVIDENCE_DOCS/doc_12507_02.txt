@@ -1,0 +1,1547 @@
+Abortion Incidence and Service Availability in the United States, 2014
+ Perspectives on Sexual and Reproductive Health
+essarily her state of residence. Past iterations of this survey 
+used a simple Òyes/noÓ item to determine whether hospi-
+tals had provided terminations, and this was intended to 
+
+capture terminations for any reason. However, to ensure 
+
+that we were capturing all abortions, and not only elective 
+
+ones, the item was expanded to include speciÞ c reasons 
+for providing an abortion: for health indications (such as 
+
+fetal anomaly or health of the mother), because a patient 
+requested one and for other reasons. This strategy was also 
+
+adopted during nonresponse follow-up, when hospital 
+
+facilities were contacted by telephone.
+In addition to the foregoing items, nonhospital facilities 
+were asked about the proportion of services accounted for 
+
+by abortion and the number of early medication abortions 
+provided. The survey instrument deÞ
+ ned early medication 
+abortions as procedures performed up to nine weeksÕ ges-
+
+tation; to ensure that we captured all such abortions (and 
+
+not just those done with mifepristone), we asked provid-
+
+ers to identify the type of medication used, distinguishing 
+among mifepristone (with misoprostol), methotrexate and 
+
+misoprostol alone. The 2014 survey included two new 
+
+items for nonhospital facilities. We asked respondents to 
+
+estimate the total number of days on which the facility was 
+unable to provide abortion services in 2014 because of 
+
+efforts to come into compliance with local or state laws or 
+
+regulations. This item was intended to capture the poten-
+
+tial impact of TRAP and other types of laws on abortion 
+services. In addition, we asked if the facility had treated any 
+
+patients for missed or failed abortion as a result of womenÕs 
+
+attempts to end a pregnancy on their own and, if yes, to 
+
+estimate the total number of patients seen for this reason. 
+
+This item was intended to serve as a crude measure of the 
+
+prevalence of self-induced abortion.
+The survey universe comprised all facilities known to 
+have provided abortions in 2011, as well as possible new 
+
+abortion-providing facilities, as identiÞ
+ ed via Internet 
+searches, telephone directories, media articles and mem-
+
+bership directories of organizations that work with abor-
+
+tion service providers. We mailed the Þ
+ rst questionnaire to 
+all facilities in the universe in March 2015, and we followed 
+
+with two mailings at four-week intervals to nonrespon-
+
+dents. Intensive follow-up of nonrespondents was con-
+
+ducted via telephone, fax and e-mail between June 2015 
+and April 2016 to obtain completed questionnaires; these 
+
+efforts prioritized obtaining the total number of abortions 
+
+over other survey items. During this phase of data collec-
+
+tion, more than 11,800 contacts were made with approxi-
+
+mately 1,800 facilities, including administrators at facilities 
+that had closed.We also requested abortion data from health department 
+agencies in the District of Columbia and the 45 states in 
+which they were available. Reliability and type of infor-
+
+mation available varied across states. Where possible, we 
+
+collected the number of abortions by facility, but most 
+
+commonly, we obtained information by county of occur-
+
+rence or facility type; in some states, we were able to obtain 
+
+only the total number of abortions. This information was counseling requirements, are intended to discourage 
+women from having abortions, thereby reducing demand 
+
+for services.
+9 However, legislators have increased efforts to 
+restrict the provision of abortion, typically through targeted 
+
+regulation of abortion providers, or TRAP, laws.
+9,10 These 
+laws place burdensome regulations on abortion providers 
+
+and the facilities in which they work. Perhaps the most 
+
+high-proÞ
+ le case was Texas, which, in 2013, implemented 
+TRAP laws requiring that physicians who provided abor-
+
+tions have admitting privileges at nearby hospitals and that 
+clinics providing abortions meet the standards of ambu-
+
+latory surgical centers. Following the implementation of 
+
+these laws, more than half of the 46 clinics in the state 
+
+closed, and the abortion rate had declined 13% by April 
+2014.11 In June 2016, the Supreme Court overturned both 
+provisions of this law,
+12 and in the succeeding four months, 
+the decision was cited three times to block enforcement of 
+
+abortion restrictions in Alabama,
+13 Florida
+14 and Indiana.
+15 Moreover, the Supreme Court has denied judicial review 
+
+to pending cases in Mississippi and Wisconsin,
+16 and more 
+TRAP laws are likely to be challenged. However, as of 
+
+August 1, 2016, some 24 states had implemented TRAP 
+laws, and these regulations may have affected access to 
+
+abortion in 2013 and 2014.17When unable to access abortion services in the face of 
+restrictive laws, some women may turn to self-induced 
+
+abortion.18 One study estimated that as many as 100,000 
+women aged 18Ð49 residing in Texas had ever attempted 
+
+to end a pregnancy on their own,
+18 and a media analysis 
+found that interest in self-induced abortionÑas measured 
+
+via Google searchesÑwas higher in states with restrictive 
+
+abortion laws than in states without them.19 If substantial 
+numbers of women were able to have abortions outside of 
+
+a health care setting, the estimated incidence of abortions 
+
+occurring in clinical settings would be too low.
+This study summarizes Þ ndings from the Guttmacher 
+InstituteÕs most recent Abortion Provider Census, reß
+ ecting 
+abortion incidence and the number of facilities providing 
+
+abortion in 2013 and 2014. Because of the important role 
+
+of clinics, we examine the abortion policy context in states 
+that experienced the greatest proportionate changes in the 
+
+number of these types of facilities.METHODSSurvey Content and Fielding
+Data for this study come from the Guttmacher InstituteÕs 
+2014 Abortion Provider Census, which surveyed the 
+
+known universe of abortion-providing facilities in the 
+
+United States.2 Questionnaires were similar to the instru-
+ment used in 2011; some modiÞ cations were made for 
+clarity, and several new items were added. Nonhospital 
+
+facilities (clinics and physiciansÕ ofÞ ces) received a longer 
+questionnaire than hospitals because of differences in ser-
+
+vice provision. Regardless of facility type, all respondents 
+
+were asked the number of induced abortions that were 
+
+provided at their location in 2013 and 2014; hence, the 
+
+state in which a patient obtained an abortion was not nec- Volume 49, Number 1, March 2017 potential number of physiciansÕ ofÞ ces and abortions 
+missed by our survey.
+We obtained approval for this study through expedited 
+review by the Guttmacher InstituteÕs federally registered 
+
+institutional review board.
+AnalysisCensus Bureau data on the population of women aged 
+
+15Ð44 on July 1, 2013, and July 1, 2014, were used 
+
+as denominators for calculating abortion rates for the 
+entire United States and for each state and the District of 
+
+Columbia.20 We estimated the national abortion ratio as 
+the proportion of pregnancies (excluding those ending in 
+
+miscarriages) that ended in abortion. To do this, we com-
+
+bined our abortion counts with National Center for Health 
+Statistics data on the number of U.S. births in the one-year 
+periods beginning on July 1 of 2013 and 2014 (to match 
+conception times for births with those for abortions).21Ð23We distinguished among four types of abortion- 
+providing 
+facilities: abortion clinics, nonspecialized clinics, hospitals 
+and physiciansÕ ofÞ ces. Abortion clinics are deÞ
+ ned as non-
+hospital facilities in which half or more of patient visits are 
+
+for abortion services, regardless of annual abortion case-
+
+load. Nonspecialized clinics are nonhospital sites in which 
+
+fewer than half of patient visits are for abortion services. 
+
+PhysiciansÕ ofÞ ces are deÞ
+ ned as facilities that provide 
+fewer than 400 abortions per year and have names suggest-
+ing that they are private practices. PhysiciansÕ ofÞ
+ ces that 
+provide 400 or more abortions per year were categorized as 
+
+nonspecialized clinics; because of their relatively large case-
+
+load, we assume that their service provision more closely 
+
+mirrors that of a nonspecialized clinic. 
+Eighty percent of nonhospital facilities provided infor-
+mation on early medication abortion, 60% provided infor-
+
+mation on self-induced abortion and 63% answered items 
+
+about lost service days. Response rates to these measures 
+
+varied by facility type and caseload, and we constructed 
+weights to account for these differences.
+Our analysis takes a particularly close look at states 
+that experienced the largest changes in clinics of both 
+
+types between 2011 and 2014. SpeciÞ cally, we exam-
+ined the 10 states that experienced the proportionately 
+
+largest declines in clinics and the 10 that exhibited the 
+
+largest increases, and compared three measures: the per-
+
+centage change in abortion rate between 2011 and 2014, 
+
+the number of abortion restrictions enacted between 
+
+2012 and 2014, and whether the state had a TRAP law. 
+
+Information on state laws came from the Guttmacher 
+
+Institute.24Ð27 Appendix Table 1 (Supporting Information) 
+provides a list of laws and the states in which they were 
+
+implemented.used to supplement and validate information obtained from abortion-providing facilities and was sometimes used 
+
+to generate estimates for nonresponding facilities.
+Of the 2,313 facilities in the universe of potential  abortion-providing facilities, we collected data from 868 
+(38%) via the questionnaire and from 463 (20%) during 
+
+telephone follow-up. Health department data were used 
+
+to determine caseloads for 460 facilities (20%). We esti-
+
+mated abortion Þ gures for 390 facilities (17%). For 265 
+of these, we based our estimates on abortion numbers 
+from previous census results and service patterns of other 
+
+abortion-providing facilities in the community; for another 
+
+125, we used information from key informants (e.g., grass-
+
+roots organizations and individuals who were knowledge-
+
+able about reproductive health services in a community) 
+
+and the facilitiesÕ websites. The majority of nonrespond-
+
+ing facilities for which we made estimates (291 of the 390) 
+were hospitals and physiciansÕ ofÞ
+ ces, and both types of 
+facilities typically have small caseloads;2 75 of the 390 facil-
+ities were estimated to have provided no abortions during 
+
+the survey period. The remaining 132 facilities (6%)* in 
+
+the overall universe were found to be closed or to have 
+
+stopped providing abortion services.
+Of the abortions counted in 2014, some 68% were 
+reported via questionnaire, and an additional 20% dur-
+
+ing nonresponse follow-up. Five percent of abortions were 
+
+reported by health departments, and 7% were estimated 
+
+using historical data and information from key informants 
+
+and facilitiesÕ websites.€ Notably, the extent to which 
+
+data had to be estimated was not uniform across states. 
+
+The highest proportions of missing data were seen in the 
+
+District of Columbia (12%), Florida (21%), Georgia (11%), 
+
+Hawaii (19%), Michigan (15%), New Jersey (16%), New 
+Mexico (21%) and Oklahoma (18%).Undoubtedly, some facilities that provide abortion care, 
+especially those with small caseloads, are not known to us 
+
+and are excluded from our census. To address this issue, 
+
+we used the American Medical AssociationÕs master list to 
+
+obtain a random sample of 2,000 physicians who iden-
+tiÞ ed their specialty as obstetrics and gynecology,à and 
+who provided a phone number; the latter was necessary 
+
+so that we could conduct phone follow-up. Notably, 49% 
+
+of all obstetrician-gynecologists on the master list did not 
+
+provide a phone number, and our strategy assumed that 
+
+these physicians did not differ from those who did with 
+
+regard to abortion provision. We mailed a survey to each 
+
+of the sampleÕs physicians asking, among other things, 
+
+whether they had provided abortions in 2014 and, if so, 
+
+how many. If a physician did not respond to any of three 
+
+mailings, we made up to three attempts to contact the 
+
+individual by phone. During Þ elding, we determined that 
+74 physicians in the sample were already known to us 
+
+to provide abortion services, and 432 physicians were 
+
+deceased, retired or unreachable because of incorrect 
+
+contact information; 551 did not respond to mailings or 
+
+telephone follow-up. The information we obtained from 
+
+the responding 943 physicians was used to estimate the 
+*Percentages add up to more than 100% because of rounding.
+ƒSimilarly, in 2011, some 86% of abortions were reported by facilities, 4% 
+were reported by health departments and 10% were estimated.
+⁄We excluded obstetrician-gynecologists who, because of their subspe-
+cialty, were highly unlikely to provide abortion care.
+ Abortion Incidence and Service Availability in the United States, 2014
+ Perspectives on Sexual and Reproductive Health
+Six percent fewer clinics were providing abortions 
+in 2014 than in 2011 (Table 4). The number of clinics 
+
+decreased in 25 states, remained stable in 14 states and the 
+
+District of Columbia, and increased in 11 states. In 2014, 
+
+Þ ve statesÑMississippi, Missouri, North Dakota, South 
+Dakota and Wyoming*Ñhad only one clinic that provided 
+
+abortion services.
+The Northeast was the only region that had more clinics 
+providing abortion services in 2014 than in 2011; the num-
+
+ber increased by 14%, largely because of an increase from 
+
+24 to 41 in New Jersey. Most of the New Jersey facilities 
+
+were nonspecialized clinics that started offering early medi-
+
+cation abortion (not shown). The Midwest experienced the 
+largest decline in clinicsÑ22%, or 27 clinics. Most of this 
+
+decrease was accounted for by Michigan (which lost 10 
+
+clinics), Ohio (six) and Iowa (Þ ve). The South also experi-
+enced a substantial decline in clinics (13%); more than half 
+
+of this was accounted for by the loss of 18 clinics in Texas. 
+
+In the West, the number of clinics fell by 7%.
+In 2014, some 90% of U.S. counties had no clinics that 
+provided abortion care, and 39% of women aged 15Ð44 lived 
+
+in those counties; these numbers were essentially unchanged 
+
+from the 2011 Þ
+ gures of 89% and 38%, respectively.
+2 Access 
+to abortion services appeared to be best in California, 
+
+Connecticut, the District of Columbia, Hawaii and Nevada, 
+
+where fewer than 10% of women lived in a county without 
+
+a clinic. More than 90% of women residing in Mississippi, 
+
+Missouri or Wyoming lived in a county without a clinic.
+Of the 943 physicians from whom we obtained infor-
+mation, 58, or 6%, reported providing an average of 
+RESULTS
+Abortion Incidence
+The number of abortions and the abortion rate declined steadily between 2011 and 2014, by 3Ð6% per year (Table 1). 
+
+In 2014, there were 926,200 abortions, and the abortion 
+
+rate was 14.6 abortions per 1,000 women aged 15Ð44. 
+This is the lowest rate since abortion was legalized nation-
+ally in 1973.3 Nineteen percent of pregnancies (excluding 
+miscarriages) ended in abortion in 2014, a decrease of 11% 
+
+from the 2011 Þ
+ gure of 21%.
+Overall, the abortion rate declined 14% between 2011 
+and 2014, while the number of abortions dropped by 12% 
+
+(Table 2). The rate declined in almost all states. Increases 
+
+were generally small (1Ð4% in Arkansas, Kansas, Michigan, 
+
+Mississippi, North Carolina and Vermont), but the District of 
+
+Columbia had an increase of 15%. Three states experienced a 
+
+decline in the abortion rate that was at least twice the national 
+
+decline (Delaware, 41%; Hawaii, 33%; and Texas, 28%).
+Abortion rates dropped in all four regions of the country, 
+but declines were steeper in the West and the South (16% 
+
+each) than in the Midwest (9%) and the Northeast (11%). 
+
+Following previous patterns, the Northeast maintained the 
+
+highest abortion rate, followed by the West, the South and the 
+
+Midwest. The Þ ve highest abortion rates were in the District 
+of Columbia, New York, New Jersey, Maryland and Florida; 
+
+rate declines in the four states ranged from 5% to 18%.
+Facility Type and Numbers
+In 2014, a total of 1,671 facilities provided at least one 
+
+abortion (Table 3). Abortion clinics accounted for 16% of 
+
+all facilities but for 59% of all abortions (Figure 1), largely 
+
+because a majority of these facilities had caseloads of 1,000 
+or more per year. Nonspecialized clinics represented 31% 
+
+of all known abortion-providing facilities and accounted 
+
+for 36% of abortions. While many of these clinics primar-
+
+ily serve contraceptive and family planning clients, about 
+
+half provided 400 or more abortions per year. Thirty-eight 
+
+percent of facilities were hospitals; however, most of these 
+
+provided fewer than 30 abortions per year, and these types 
+
+of facilities accounted for 4% of all abortions. Finally, pri-
+
+vate physiciansÕ ofÞ ces made up 15% of abortion facilities 
+and provided 1% of procedures.
+The total number of abortion facilities declined 3% between 2011 and 2014, but the drop was particularly 
+
+marked among abortion clinics (17%), especially those 
+with caseloads of 1,000Ð4,999 per year (26%). The num-
+ber of nonspecialized clinics that provided abortions 
+
+remained stable. The 7% increase in the number of hos-
+
+pitals providing abortions was likely due to the fact that 
+
+the 2014 survey did a better job of capturing abortions 
+
+provided for reasons of fetal or maternal indications. The 
+
+number of physiciansÕ ofÞ ces providing abortions declined 
+by 14% between 2011 and 2014. TABLE 1. Number of reported abortions, abortion rate 
+and abortion ratio, United States, 1995Œ2014
+YearNo.  (in 000s)Rate*Ratioƒ
+19951,359.422.525.9
+19961,360.222.425.9
+
+1997[1,335.0][21.9][25.5]
+
+1998[1,319.0][21.5][25.1]
+
+19991,314.821.424.6
+
+20001,313.021.324.5
+
+2001[1,291.0][20.9][24.4]
+
+2002[1,269.0][20.5][23.8]
+
+2003[1,250.0][20.2][23.3]
+
+20041,222.119.722.9
+
+20051,206.219.422.4
+
+2006[1,242.2][19.9][22.9]
+
+20071,209.619.421.9
+
+20081,212.419.422.5
+
+2009[1,151.6][18.5][22.2]
+
+20101,102.717.721.7
+
+20111,058.516.921.2
+
+2012[1,011.0][16.1][20.4]
+
+2013958.715.219.4
+
+2014926.214.618.8
+*Abortions per 1,000 women aged 15Œ44 as of July 1 of each year. ƒAbortions 
+per 100 pregnancies ending in abortion or live birth; for each year, the ratio is 
+
+based on births occurring during the 12-month period starting in July of that 
+
+year. 
+Note: Figures in brackets were estimated by interpolation of numbers of 
+abortions and adjustments made to state health department reports. 
+Sources
+: Number of abortions, population data and birth data, 1995Œ2011Šreferences 
+
+2 and 3. Number of abortions, 2012Š2010Œ2011 Guttmacher Abortion Pro-
+
+vider Census and interpolations. Population data, 2012Œ2014Šreference 20. 
+
+Birth data, 2012Œ2015Šreferences 21Œ23.
+*In prior analyses, Wyoming was classi˚
+ ed as not having any clinics that 
+provided abortion care.
+2 However, we have since determined that a facil-
+ity previously classi˚
+ ed as a physician™s of˚
+ ce is a health clinic. 
+ Volume 49, Number 1, March 2017  TABLE 2. Number of reported abortions and abortion rate, selected  years; and percentage change in rate, 2011Œ2014Šall 
+by region and state in which the abortions occurred 
+Region and stateNumber Rate*
+2011 2013 20142011 20132014% change, 
+2011Œ2014U.S. total1,058,490958,700926,19016.9 15.2 14.6Œ14 
+   
+
+Northeast272,020195,330240,32024.6 17.7 21.8Œ11 
+
+Connecticut14,64013,32013,14021.3 19.4 19.2Œ10 
+
+Maine2,3602,1902,2209.9 9.3 9.5Œ4 
+
+Massachusetts24,03020,89021,02017.8 15.3 15.3Œ14 
+
+New Hampshire3,2002,3202,54012.9 9.5 10.4Œ19 
+
+New Jersey46,99043,67044,46027.1 25.3 25.8Œ5 
+
+New York138,370119,170119,94034.2 29.4 29.6Œ13 
+
+Pennsylvania36,87032,37032,03015.1 13.4 13.3Œ12 
+
+Rhode Island4,2103,5503,58019.8 16.9 17.0Œ14 
+
+Vermont1,3701,4901,40011.7 12.8 12.13
+
+   
+
+Midwest153,380143,650138,94011.7 10.9 10.6Œ9 
+
+Illinois44,58043,40042,27017.0 16.6 16.3Œ4 
+
+Indiana9,4308,6008,1807.3 6.7 6.3Œ14 
+
+Iowa5,6404,9004,3809.7 8.4 7.5Œ23 
+
+Kansas6,9407,4707,24012.5 13.4 12.94
+
+Michigan29,19028,80029,12015.3 15.2 15.41
+
+Minnesota11,14010,0309,76010.7 9.5 9.3Œ13 
+
+Missouri5,8205,4705,1305.0 4.7 4.4Œ12 
+
+Nebraska2,5702,2302,2807.2 6.2 6.3Œ13 
+
+North Dakota1,2501,1801,2609.5 8.4 8.7Œ8 
+
+Ohio28,59024,56022,73012.9 11.1 10.3Œ20 
+
+South Dakota6006005503.9 3.8 3.5Œ11 
+
+Wisconsin7,6406,4106,0507.0 5.9 5.6Œ21 
+
+   
+
+South356,790330,790308,06015.2 13.9 12.9Œ16 
+
+Alabama9,5508,4208,02010.0 8.8 8.3Œ16 
+
+Arkansas4,3704,4704,5907.6 7.8 8.04
+
+Delaware5,0903,1903,01028.4 17.8 16.7Œ41 
+
+District of Columbia4,7505,6505,82028.5 32.2 32.715
+
+Florida84,99077,02075,99023.7 21.1 20.6Œ13 
+
+Georgia34,91033,55033,00016.8 16.0 15.7Œ7 
+
+Kentucky3,9703,7003,5304.6 4.3 4.1Œ11 
+
+Louisiana12,2109,89010,15013.1 10.5 10.8Œ18 
+
+Maryland34,26029,36028,14028.6 24.5 23.4Œ18 
+
+Mississippi2,2202,2102,2903.7 3.7 3.83
+
+North Carolina28,60030,55029,96014.6 15.5 15.13
+
+Oklahoma5,8605,7705,3307.9 7.6 7.0Œ12 
+
+South Carolina6,6206,3506,0407.1 6.8 6.4Œ10 
+
+Tennessee16,72015,18013,88013.1 11.8 10.7Œ18 
+
+Texas73,20067,53055,23013.5 12.1 9.8Œ28 
+
+Virginia27,11025,89021,08016.3 15.4 12.5Œ23 
+
+West Virginia2,3902,0702,0207.0 6.1 6.0Œ14 
+
+   
+
+West276,300245,290238,86018.5 16.2 15.6Œ16 
+
+Alaska1,8201,5701,47012.4 10.7 10.0Œ20 
+
+Arizona16,10013,58012,87012.7 10.5 9.8Œ22 
+
+California181,730164,190157,35023.0 20.5 19.5Œ15 
+
+Colorado14,71012,87013,16014.2 12.0 12.1Œ14 
+
+Hawaii5,5804,2503,76021.1 15.9 14.0Œ33 
+
+Idaho1,6801,3501,3205.4 4.3 4.2Œ23 
+
+Montana2,2201,8401,69012.3 10.0 9.1Œ26 
+
+Nevada11,2909,81010,97020.6 17.5 19.4Œ6 
+
+New Mexico5,1804,2004,65013.0 10.5 11.7Œ10 
+
+Oregon10,6909,1309,33014.1 11.9 12.0Œ15 
+
+Utah3,2903,1702,9605.4 5.0 4.6Œ14 
+
+Washington21,88019,19019,23016.0 13.8 13.7Œ14 
+
+Wyoming1201401201.1 1.3 1.1Œ4 
+*Abortions per 1,000 women aged 15Œ44. 
+Note: Numbers of abortions are rounded to the nearest 10. 
+Sources
+: See Table 1.
+25 abortions per year. Assuming the respondents were 
+representative of the universe of 33,379 practicing 
+
+ obstetrician-gynecologists in the United States,28 our main 
+survey missed 2,069 physicians, who collectively provided 
+
+51,725 abortions in 2014. If this estimate is correct, our 
+
+study undercounted the total number of abortions by 5%.
+Early Medication Abortion
+In 2014, an estimated 272,400 early medication abor-
+
+tions were provided in nonhospital facilities, representing 
+
+a 14% increase since 2011 (Table 5). Early medication 
+
+abortions accounted for 31% of all nonhospital abor-
+
+tions, compared with 24% in 2011. Half or more of all 
+ Abortion Incidence and Service Availability in the United States, 2014
+ Perspectives on Sexual and Reproductive Health
+gestation in 2014 were early medication procedures (not 
+shown), up from approximately 36% in 2011.* While 
+
+other drugs can be administered in early medication abor-
+
+tion, the overwhelming majorityÑ97%Ñwere done with 
+
+mifepristone; the remaining procedures used methotrexate 
+
+or misoprostol alone.
+The use of early medication abortion increased across 
+all facility types and sizes between 2011 and 2014. While 
+abortion clinics saw only a 2% increase, nonspecialized 
+
+clinics and physiciansÕ ofÞ ces reported increases of 26% 
+and 20%, respectively. Though nonspecialized clinics 
+
+accounted for 36% of all abortions, they provided 51% of 
+
+all early medication abortions.For 2014, we estimated that 900 nonhospital 
+ facilitiesÑ87% of all nonhospital provider sitesÑ 
+provided early medication abortion (not shown). The 
+
+overwhelming majority of both abortion clinics (99.8%) 
+
+and nonspecialized clinics (88%) offered this service. At 
+
+least 23% of all nonhospital facilities offered only early 
+
+medication abortions; most of these facilities were non-
+
+specialized clinics, and 38% of such clinics offered only 
+
+early medication abortion. Most facilities that provided 
+
+only early medication abortions were located in areas 
+
+that were also served by facilities offering surgical abor-
+
+tion, though 11 were the sole abortion-providing facility 
+
+in the metropolitan statistical area in which they were 
+
+located.State Abortion Policy Context
+Abortion restrictions were associated with a decrease 
+
+in the number of abortion and nonspecialized clinics, 
+
+but ß uctuations in clinic numbersÑwhether decreases 
+or increasesÑwere not clearly associated with abortion 
+
+rates. Eight of the 10 states that experienced the largest 
+
+proportionate declines in the number of clinics over the 
+
+period 2011Ð2014 implemented at least one new abor-
+
+tion restriction between 2012 and 2014, and six enacted 
+
+three or four (Table 6). Four statesÑArizona, Michigan, 
+
+Ohio and TexasÑimplemented TRAP regulations dur-
+
+ing this period, and four had TRAP laws in place prior 
+
+to 2012.29 Hawaii and Iowa experienced substantial 
+declines in the number of clinics providing abortions, 
+
+but enacted no new abortion restrictions and, along with 
+
+Montana, had no TRAP laws.Seven of the states that experienced the largest propor-
+tionate declines in clinics also experienced a larger than 
+
+average decline in the abortion rate. However, the states 
+
+with the two largest proportionate declines in clinic 
+
+numbersÑMissouri and UtahÑexperienced declines in 
+
+the abortion rate that were comparable to the national 
+
+average. And while Michigan had 33% fewer clinics in 
+abortions (50Ð68%) provided by facilities with annual 
+ caseloads of fewer than 400 procedures were early medi-
+cation abortions.We assumed that the majority of facilities provided medi-
+cation abortion up to nine weeksÕ gestation; this was the 
+gestational limit deÞ ned on the survey. Using gestational 
+data from the Centers for Disease Control and Prevention, 
+
+we estimated that 45% of abortions up to nine weeksÕ TABLE 3. Number of abortion-providing facilities, by type 
+of facility and caseload, 2011 and 2014; and percentage 
+
+change between these years
+Facility type
+and caseload20112014% change
+Total1,7201,671Œ3
+1Œ296106598
+
+30Œ399534477Œ11
+
+400Œ9992272479
+
+1,000Œ4,999329269Œ18
+
+>_5,0002019Œ5
+Abortion clinics329272Œ17
+1Œ2901na
+
+30Œ399202315
+
+400Œ99950512
+
+1,000Œ4,999244180Œ26
+
+>_5,000151713
+Nonspecialized clinics5105161
+1Œ2950524
+
+30Œ399216198Œ8
+
+400Œ99915817813
+
+1,000Œ4,99981866
+
+>_5,00052Œ60
+Hospitals5956387
+1Œ2940046316
+
+30Œ399172154Œ10
+
+400Œ9991918Œ5
+
+1,000Œ4,99943Œ25
+
+>_5,00000na
+Physicians™ of˚
+ ces*286245Œ14
+1Œ29160143Œ11
+
+30Œ399126102Œ19
+
+400Œ999nanana
+
+1,000Œ4,999nanana
+
+>_5,000nanana
+*Of˚
+ ces that reported 400 or more abortions a year were classi˚
+ ed as non-
+specialized clinics. 
+Note: na=not applicable. 
+Source: 
+ 2011 dataŠreference 2.
+FIGURE 1. Percentage of abortion-providing facilities accounted for by each facility 
+type, and percentage of abortions that are performed in each type of facility, 2014
+0102030405060708090100%Abortion clinicsHospitals
+Nonspecialized clinics
+FacilitiesAbortions
+*If, in 2014, all nonhospital facilities were already adhering to the 
+evidence-based regimen that the U.S. Food and Drug Administration 
+
+approved in May 2016, and early medication abortion was allowed up to 
+
+70 days™ gestation, these procedures would have accounted for 39% of 
+
+eligible procedures.
+ Volume 49, Number 1, March 2017 TABLE 4. Number of abortion-providing facilities and number of clinics, 2011 and 2014, and percentage change between these year
+s; number of coun-
+ties and percentage with no clinic, 2014; and percentage of women aged 15Œ44 living in counties with no clinic, 2014Šall by reg
+ion and stateRegion and state
+ All facilities Clinics Counties,  2014% of women in counties 
+with no clinic,  2014*
+20112014% change20112014% changeNo.% with no clinic
+U.S. total1,7201,671Œ3839788Œ63,1429039
+   
+
+Northeast4534765186212142176023
+
+Connecticut4159442125198135
+
+Maine119Œ1854Œ20168155
+
+Massachusetts40438121417144314
+
+New Hampshire1312Œ854Œ20106030
+
+New Jersey647923244171213323
+
+New York225218Œ394951624410
+
+Pennsylvania4742Œ1120200678548
+
+Rhode Island4525235058036
+
+Vermont891336100146438
+
+   
+
+Midwest173142Œ1812497Œ221,0559555
+
+Illinois374082624Œ81029240
+
+Indiana1211Œ 8109Œ10929566
+
+Iowa1813Œ281712Œ29998942
+
+Kansas343334331059756
+
+Michigan4129Œ293020Œ33838940
+
+Minnesota1511Œ2776Œ14879559
+
+Missouri52Œ6041Œ751159994
+
+Nebraska550330939741
+
+North Dakota110110539873
+
+Ohio2617Œ351812Œ33889356
+
+South Dakota220110669877
+
+Wisconsin87Œ13440729667
+
+   
+
+South357336Œ6245214Œ131,4229351
+
+Alabama891365Œ17679359
+
+Arkansas54Œ20330759777
+
+Delaware86Œ2543Œ2533318
+
+District of Columbia990550100
+
+Florida8886Œ27271Œ1677020
+
+Georgia282801917Œ111599658
+
+Kentucky3302201209874
+
+Louisiana75Œ2975Œ29649263
+
+Maryland344121212519246724
+
+Mississippi220110829991
+
+North Carolina363732116Œ241009053
+
+Oklahoma550330779654
+
+South Carolina97Œ22330469371
+
+Tennessee1411Œ2197Œ22959663
+
+Texas6244Œ294628Œ392549643
+
+Virginia3534Œ32118Œ141339278
+
+West Virginia4525220559890
+
+    
+
+West737717Œ3284265Œ74488017
+
+Alaska98Œ1143Œ25299037
+
+Arizona1712Œ29159Œ40158019
+
+California5125120160152Œ558435
+
+Colorado4236Œ142421Œ13647827
+
+Hawaii3329Œ1264Œ335405
+
+Idaho45252350449568
+
+Montana85Œ3875Œ29569355
+
+Nevada1413Œ788017889
+
+New Mexico1211Œ87929339148
+
+Oregon2927Œ715150367830
+
+Utah96Œ3342Œ50299762
+
+Washington45501132333396415
+
+Wyoming330 110 239696
+*Population counts are for July 1, 2014.
+20 Source
+: 2011 dataŠreference 2. 
+2014 than in 2011, the stateÕs abortion rate increased 
+slightly.
+Patterns among the 10 states with the largest 
+ proportionate increases in the number of clinics further 
+demonstrated that changes in clinic numbers and abortion 
+rates were not clearly related. The abortion rate declined in 
+eight of these states and increased slightly (3Ð4%) in two. 
+Only one of these 10 states enacted new abortion restric-
+
+tions between 2012 and 2014; Kansas enacted four new 
+provisions, even as one new facility opened. Two statesÑ
+
+Rhode Island and ConnecticutÑhad implemented TRAP 
+laws prior to 2012. Abortion Incidence and Service Availability in the United States, 2014
+ Perspectives on Sexual and Reproductive Health
+Abortion incidence can be affected by service availabil-
+ity. The overwhelming majority of abortionsÑ95%Ñare 
+
+provided by abortion clinics and nonspecialized clinics, and 
+
+6% fewer clinics provided abortions in 2014 than in 2011. 
+
+Declines in the numbers of clinics were most pronounced 
+
+in the Midwest (22%) and the South (13%), regions of 
+
+the country where the majority of new abortion restric-
+
+tions were enacted during the study period.
+26,27 However, 
+regional patterns in clinic numbers did not always corre-
+
+spond with changes in abortion rates, as rate declines were 
+
+steepest in the West and the South (both 16%) and lowest 
+
+in the Midwest (9%). And while the Northeast had more 
+
+clinics providing abortion care in 2014 than in 2011, that 
+
+regionÕs abortion rate declined 11%. These patterns dem-
+
+onstrate that the relationship between abortion access, as 
+
+measured by numbers of clinics, and abortion rates is not 
+
+straightforward. These trends may obscure more nuanced 
+
+relationships between clinics with the largest caseloads 
+
+and abortion rates. For example, abortion clinics provided 
+
+the majority of abortions in 2014 (59%), but the num-
+ber of such clinics with annual caseloads of 1,000Ð4,999 
+declined by 26%.Six of the 10 states that experienced the greatest propor-
+tionate declines in the number of clinics enacted three or 
+
+four new abortion restrictions between 2012 and 2014, 
+
+and four of these states implemented new TRAP laws. At 
+the same time, however, two of the 10 states did not enact 
+
+new restrictions during this period, and three had no TRAP 
+
+laws. Thus, restrictions alone do not account for declines 
+
+in clinic numbers. Michigan and Ohio both experienced 
+a 33% decline in the number of clinics providing abor-
+
+tion services, and both implemented multiple restrictions, 
+
+including TRAP laws, between 2012 and 2014. However, 
+
+some Michigan facilities located near the Ohio border were 
+
+able to both meet the TRAP requirement and expand ser-
+
+vices to meet increased demand from women in the neigh-
+
+boring state.30 This may have been one reason why the 
+abortion rate in Michigan increased slightly.
+Hawaii and Iowa experienced larger than average 
+declines in both numbers of clinics and abortion rates, and 
+neither had TRAP laws or enacted new abortion restric-
+
+tions. The decline in abortion incidence in Iowa may have 
+been due to reduced levels of unintended pregnancy. In 
+
+2006, Iowa expanded access to family planning for low-
+income women, and between 2007 and 2013, a privately 
+funded initiative sought to increase access to LARC meth-
+
+ods among the same population.31 Areas of the state with 
+the most exposure to these programs experienced larger 
+
+declines in abortion than did those with less exposure.
+31 We are not aware of similar programs or initiatives in 
+
+Hawaii, and it is unclear what accounted for the changes 
+there. The loss of two abortion-providing clinics may 
+
+have reduced access to the procedure. However, only 5% 
+
+of women in Hawaii lived in a county without a clinic in 
+2014, so this seems unlikely. Alternately, because 19% of 
+
+abortions in Hawaii were estimated using information from 
+
+sources other than the facilities where the abortions were 
+*Facilities that reported lost days in the South were located in nine states; 
+one-third were in Texas.
+ TABLE 5. Number of early medication abortions provided at nonhospital facilities, 
+2011 and 2014, and percentage change between these years; and these abortions as 
+
+a percentage of all nonhospital abortionsŠall by facility type and by caseload 
+Facility type
+and caseloadNumber% of all nonhospital 
+abortions
+ 20112014% change20112014
+Total239,400272,4001424*31
+    
+
+Facility
+   
+Abortion clinics123,400126,30021823
+
+Nonspecialized clinics111,100140,200263342
+
+Hospitals  uuuuu
+
+Physicians™ of˚
+ ces4,9005,900203546
+    
+
+Caseload
+   
+1Œ291,0001,1001043*50
+
+30Œ39931,70037,0001754*68
+
+400Œ99941,70066,0005830*44
+
+1,000Œ4,999142,500 144,10012126
+
+>_5,00022,60024,20071719
+*Previously published ˚
+ gure was incorrect and has  been adjusted to exclude abortions performed in hospi-
+tals. 
+Notes: Early medication abortions are those performed with mifepristone, methotrexate or misoprostol 
+alone. Numbers of abortions are rounded to the nearest 100. u=unavailable. 
+Source
+: 2011 dataŠreference 2.
+Other Potential Impacts o f Restrictions
+Overall, 4% of nonhospital facilities (located in 15 states) reported  
+being unable to provide care on one or more days 
+in order to be in compliance with local or state regula-
+
+tions (not shown). These closures presumably occurred in 
+
+response to state inspections, as well as TRAP and other 
+
+types of laws. Facilities in the South were the most likely to 
+
+report lost days (15%),* followed by those in the Midwest 
+
+(5%). Only 1% of nonhospital facilities in the Northeast 
+and the West reported lost service days.
+Twelve percent of nonhospital facilities reported treat-
+ing at least one patient who had attempted to end her 
+pregnancy on her own in 2014 (not shown). This Þ
+ gure 
+included facilities in 30 states, but there were regional vari-
+
+ations: The proportion of facilities that had treated such 
+
+patients was higher in the South and the Midwest (21% 
+and 16%, respectively) than in the West (10%) and the 
+
+Northeast (8%). More than two-thirds of facilities were able 
+
+to quantify this caseload, and three-quarters reported hav-
+
+ing treated 10 or fewer of these patients in 2014.
+DISCUSSIONThe long-term decline in abortion continued through 
+
+2014; in that year, the abortion rate and ratio were both 
+
+lower than those documented in 1973, the year abortion 
+was legalized nationwide. The drop in abortion was found 
+
+in all but six states and the District of Columbia, though 
+there was substantial variation across states. It is beyond 
+
+the scope of this descriptive study to explore the larger 
+
+dynamics responsible for these patterns, but we suggest 
+
+several potential factors that may have contributed to some 
+of the observed patterns.
+ Volume 49, Number 1, March 2017 estimated using other sources may introduce inaccuracy 
+into the data.Undoubtedly, some abortion-providing facilities were not 
+counted because we were unable to identify them. Our sur-
+
+vey of a random sample of obstetrician-gynecologists sug-
+gests that some 2,000 physicians who provide abortions in 
+
+their private practice were not captured in our study; hence 
+
+our estimate of abortions may be 5% lower than it would 
+have been if these providers had been included.
+While we are conÞ
+ dent that our study captured most, if 
+not all, clinics that provide abortion services, we are aware 
+
+that some of the information in this study is already out 
+
+of date. The media have closely monitored clinic closures 
+
+(and reopenings) in Texas; as of June 2016, some 18Ð21 
+
+clinics were providing abortion services there,
+32 whereas we 
+counted 28. In part, this difference is due to our inclusion 
+
+of facilities that provided at least one abortion in 2014; a 
+
+number of clinics closed at some point in that year, many in 
+
+response to the TRAP laws,
+11,33 and more facilities closed in 
+2015.34,35 Substantial numbers of clinics may have closed in 
+other states as well, while other facilities may have opened 
+(or reopened).
+Some evidence suggests that women who live in states that have restrictive abortion laws are turning to self-
+
+induced abortion,18,19 but our study did not capture abor-
+tions that occurred outside of medical settings.
+36 Overall, 
+12% of nonhospital facilities had seen at least one patient 
+who had attempted to end her pregnancy on her own in 
+
+2014, and reports of self-induction were greater in the 
+performed, we may have underestimated the number of 
+procedures that occurred, and the actual change in abor-
+
+tion incidence may be smaller (or larger).
+At least some of the decline in abortion across the United 
+States likely is due to declines in unintended pregnancy. Use 
+
+of LARC methods increased 36% among all women using 
+
+contraceptives between 2009 and 2012,5 and 48% among 
+clients at Title XÐsupported family planning facilities.
+6 Clients at the latter facilities are disproportionately young 
+
+adults and lower income women, two groups who are at the 
+
+highest risk for unintended pregnancy.
+1 Additionally, reli-
+ance on LARC methods has been increasing since 2002,
+4 and this may have had a cumulative effect. For example, 
+
+the most commonly used IUD is effective for Þ
+ ve (or more) 
+years, and the implant for three; if a majority of women 
+
+who received LARC methods in 2011 were still using them 
+
+in 2014, they would have been protected from unintended 
+
+pregnancy during the entire study period.
+Limitations
+We are aware of several shortcomings of our study. We 
+
+obtained responses from only 58% of facilities that we 
+
+believed provided abortions in 2014. Health department 
+
+data, which can be of variable quality, were used to deter-
+
+mine caseloads for 20% of facilities, and we estimated 
+caseloads for 17%. Moreover, some states required more 
+
+estimation than others. The overwhelming majority of the 
+
+abortions that we countedÑ88%Ñwere based on infor-
+
+mation given to us by providers, but the fact that 12% were 
+TABLE 6. Number of clinics providing abortions in 2011 and 2014, and percentage change between these years; percentage 
+change in abortion rates, 2011Œ2014; number of new abortion restrictions enacted in 2012Œ2014; and status of TRAP lawsŠ
+
+all among states with the largest proportionate changes in numbers of clinics 
+StateNo. of clinics% change in 
+abortion rate, 
+
+2011Œ2014No. of restrictions 
+enacted in 
+
+2012Œ2014TRAP laws
+20112014% change
+Existed prior 
+to 2012
+Enacted in 
+2012Œ2014Total839 788 Œ6Œ1484469
+   States with largest declines 
+
+Missouri41Œ75Œ123X 
+
+Utah42Œ50Œ141X 
+
+Arizona159Œ40Œ224X
+
+Texas4628Œ39Œ283XX
+
+Hawaii64Œ33Œ330 
+
+Michigan3020Œ3313X
+
+Ohio1812Œ33Œ203X
+
+Iowa1712Œ29Œ230 
+
+Louisiana75Œ29Œ184X 
+
+Montana75Œ29Œ261 
+States with largest increases 
+ Vermont3610030 
+
+New Jersey244171Œ50 
+
+Idaho2350Œ230 
+
+Rhode Island2350Œ140X 
+
+Kansas343344 
+
+New Mexico7929Œ100 
+
+Connecticut212519Œ100X 
+
+Maryland212519Œ180 
+
+Massachusetts121417Œ140 
+
+Washington32333Œ140  
+Note: 
+TRAP=targeted regulation of abortion providers.
+ Abortion Incidence and Service Availability in the United States, 2014
+ Perspectives on Sexual and Reproductive Health
+8. Guttmacher Institute, Last Þ ve years account for more than one- 
+quarter of all abortion restrictions enacted since Roe, 
+News in Context, 2016, https://www.guttmacher.org/article/2016/01/last-Þ
+ ve-years-
+account-more-one-quarter-all-abortion-restrictions-enacted-roe.
+9. Joyce T, The supply-side economics of abortion, 
+New England Journal of Medicine,
+ 2011, 365(16):1466Ð1469. 10. Boonstra H and Nash E, A surge of state abortion restrictions puts 
+providersÑand the women they serveÑin the crosshairs, 
+Guttmacher Policy Review,
+ 2014, 17(1):9Ð15.11. Grossman D et al., Change in abortion services after implementa-
+tion of a restrictive law in Texas, 
+Contraception, 2014, 90(5):496Ð501. 12. Whole Woman™s Health v. Hellerstedt,
+ 579 U.S.__ (2016).13. West Alabama Women™s Center v. Miller,
+ No. 2:15cv497-MHT(WO)
+(M.D. Ala. 2016). 14. Planned Parenthood of Southwest and Central Florida v. Philip, 
+No. 4:16cv321-RH/CAS (N.D. Fla. 2016).15. Planned Parenthood of Indiana and Kentucky, Inc. v. Commissioner, 
+Indiana State Department of Health, No. 1:16-cv-00763-TWP-DML 
+(S.D. Ind. 2016).16  Associated Press, Supreme Court denies Mississippi, Wisconsin 
+abortion appeals, Clarion-Ledger (Jackson, MS), June 28, 2016, http://
+www.clarionledger.com/.
+17. Guttmacher Institute, Targeted regulation of abortion providers, 
+State Laws and Policies (as of November 1, 2016), 2016, https://www.guttm-
+acher.org/state-policy/explore/targeted-regulation-abortion-providers.
+18. Grossman D et al., Knowledge, opinion and experience related 
+to abortion self-induction in Texas, 
+Texas Policy Evaluation Project 
+Research Brief,
+ Nov. 17, 2015, https://utexas.app.box.com/v/
+koeselÞ nductionresearchbrief.
+19. Stephens-Davidowitz S, The return of the D.I.Y. abortion, 
+New York Time
+s, Mar. 5, 2016, http://www.nytimes.com/2016/03/06/opin-
+ion/sunday/the-return-of-the-diy-abortion.html?_r=0.
+20. National Center for Health Statistics (NCHS), Vintage 2014 
+bridged-race postcensal estimates, 2015, http://www.cdc.gov/nchs/
+
+nvss/bridged_race/data_documentation.htm#vintage2014. 21. National Vital Statistics System, NCHS and Centers for Disease 
+Control and Prevention (CDC), Provisional monthly and 12-month 
+
+ ending number of live births, deaths, and infant deaths and rates: United States, January 2012ÐDecember 2013, no date, http://www.cdc.
+
+gov/nchs/data/dvs/provisional_tables/Provisional_Table01_2013Dec.
+
+pdf.22. National Vital Statistics System, NCHS and CDC, Provisional 
+monthly and 12-month ending number of live births, deaths, and 
+infant deaths and rates: United States, January 2013ÐDecember 
+
+2014, no date, http://www.cdc.gov/nchs/data/dvs/provisional_tables/
+
+Provisional_Table01_2014Dec.pdf.
+23. National Vital Statistics System, NCHS and CDC, Provisional 
+monthly and 12-month ending number of live births, deaths, and infant 
+deaths and rates: United States, January 2014ÐJune 2015, no date, 
+
+http://www.cdc.gov/nchs/data/dvs/provisional_tables/Provisional_
+
+Table01_2015Jun.pdf.
+24. Guttmacher Institute, Laws affecting reproductive health and 
+rights: 2011 state policy review, 2012, https://www.guttmacher.org/
+
+laws-affecting-reproductive-health-and-rights-2011-state-policy-
+
+review.
+25. Guttmacher Institute, Laws affecting reproductive health and 
+rights: 2012 state policy review, 2013, https://www.guttmacher.org/
+
+laws-affecting-reproductive-health-and-rights-2012-state-policy-
+
+review.
+26. Nash E et al., Laws affecting reproductive health and rights: 2013 
+state policy review, 2014, https://www.guttmacher.org/laws-affecting-
+
+reproductive-health-and-rights-2013-state-policy-review.
+South and the Midwest, regions that had higher numbers 
+
+of abortion restrictions.
+26,27 If reliance on self-induced abor-
+tion was higher in 2014 than in 2011, the observed decline 
+
+in abortion would not be as large as our Þ
+ ndings suggest.
+Our abortion counts and rates are tabulated by state of 
+occurrence. The Þ
+ ve states with the lowest abortion rates 
+were Wyoming, South Dakota, Mississippi, Kentucky and 
+
+Idaho. Data from the Centers for Disease Control and 
+
+Prevention suggest that in 2012, some 14% of abortion 
+
+patients who lived in South Dakota went out of state for 
+services, as did more than 90% of abortion patients who 
+
+lived in Wyoming.
+37 Thus, the abortion numbers and 
+rates in this study do not always reß
+ ect abortion incidence 
+among women who reside in a given state.
+ConclusionsAbortion is an important indicator of unintended preg-
+
+nancy, but it is unclear whether the most recent decline in 
+
+abortion is due to fewer womenÕs having unintended preg-
+
+nancies, more womenÕs being unable to access abortion ser-
+
+vices or some combination of these dynamics. That there 
+
+were fewer clinics providing abortions in 2014 than in 
+
+2011 could be attributed to several factors. In some states, 
+increased abortion restrictions likely contributed to the 
+
+decline in abortions, but in others, the decline may have 
+been driven by a drop in demand. For example, increased 
+
+reliance on LARC methods likely contributed to the decline 
+
+in unintended pregnancy that occurred between 2008 and 
+
+2011.1 If women continued to experience fewer unin-
+tended pregnancies in 2014, there may have been less need 
+
+for abortion services and, in turn, decreased need for pro-
+
+viders. Future research should aim to elucidate patterns 
+
+in abortion incidence and numbers of abortion-providing 
+
+facilities and identify reasons for change. In addition, 
+
+because state legislatures continued to pass new abortion 
+
+restrictions in 2015 and 2016, subsequent research will 
+
+need to monitor the accessibility of abortion services.
+REFERENCES1. Finer LB and Zolna MR, Declines in unintended pregnancy in the 
+United States, 2008Ð2011, New England Journal of Medicine,
+ 2016, 
+374(9):843Ð852. 2. Jones RK and Jerman J, Abortion incidence and service availabil-
+ity in the United States, 2011, Perspectives on Sexual and Reproductive 
+Health, 2014, 46(1):3Ð14, doi:10.1363/46e0414. 3. Jones RK and Kooistra K, Abortion incidence and access to ser-
+vices in the United States, 2008, Perspectives on Sexual and Reproductive 
+Health, 2011, 43(1):41Ð50. 4. Finer LB, Jerman J and Kavanaugh ML, Changes in use of long-acting contraceptive methods in the United States, 2007Ð2009, Fertility and Sterility,
+ 2012, 98(4):893Ð897. 5. Kavanaugh ML, Jerman J and Finer LB, Changes in use of long- acting reversible contraceptive methods among U.S. women, 2009Ð
+
+2012, Obstetrics & Gynecology,
+ 2015, 126(5):917Ð927. 6. Fowler CI et al., Family Planning Annual Report: 2015 National Summary,
+ Research Triangle Park, NC: RTI International, 2016.
+7. Frost JJ, Frohwirth LF and Zolna MR, 
+Contraceptive Needs and Services, 2013 Update, New York: Guttmacher Institute, 2015.
+ Volume 49, Number 1, March 2017 27. Nash E et al., Laws affecting reproductive health and rights: 2014 
+state policy review, 2015, https://www.guttmacher.org/laws-affecting-
+
+reproductive-health-and-rights-2014-state-policy-review.
+28. Rayburn WF et al., Distribution of American Congress of 
+Obstetricians and Gynecologists fellows and junior fellows in practice 
+in the United States, Obstetrics & Gynecology,
+ 2012, 119(5):1017Ð1022. 
+29. Guttmacher Institute, Targeted regulation of abortion providers, 
+State Laws and Policies (as of December 1, 2012), 2012.30. Harris-Taylor M, Michigan abortion clinics see an inß
+ ux of 
+Ohioans: ToledoÕs last facility faces potential closure, 
+Toledo Blade,
+ Mar. 23, 2014, http://www.toledoblade.com/Medical/2014/03/23/
+
+Michigan-abortion-clinics-see-an-inß ux-of-Ohioans.html. 
+31. Biggs MA et al., Did increasing use of highly effective contracep-
+tion contribute to declining abortions in Iowa? Contraception, 2015, 
+91(2):167Ð173. 32. Liptak A, Supreme Court strikes down Texas abortion restrictions, 
+New York Times,
+ June 27, 2016, http://www.nytimes.com/2016/06/28/
+us/supreme-court-texas-abortion.html?_r=0.
+33. Gerdts C et al., Impact of clinic closures on women obtaining 
+abortion services after implementation of a restrictive law in Texas, 
+
+American Journal of Public Health,
+ 2016, 106(5):857Ð864. 34. Aaronson B, Interactive map: Þ
+ nd TexasÕ remaining  
+abortion clinics, Texas Tribune,
+ June 9, 2015, https://www.texastribune.
+org/2014/03/19/impact-hb2-regulations-abortion-facilities-over-time/.
+35. Fund Texas Choice, Texas abortion clinic map, June 15, 2015, 
+http://fundtexaschoice.org/resources/texas-abortion-clinic-map/
+.36. Jones RK, How commonly do US abortion patients report 
+attempts to self-induce? American Journal of Obstetrics & Gynecology,
+ 2011, 204(1):23.e1Ð23.e4, doi:http://dx.doi.org/10.1016/j.
+
+ajog.2010.08.019. 37. CDC, CDCs Abortion Surveillance System FAQs, 2016, http://
+www.cdc.gov/reproductivehealth/data_stats/abortion.htm
+.Acknowledgments
+The authors thank Alexandra Arpaia, Silvia Beltran, Kristen Burke, Kate Castle, Meghan Ingerick, Rachel Schwab, Raina Suski and 
+Elizabeth Witwer for research assistance; Elizabeth Nash for as-
+
+sistance with state policy documentation; and Rachel Benson Gold, 
+Lawrence Finer, Kathryn Kost and Elizabeth Nash for reviewing 
+
+early versions of this article.Author contact: 
+rjones@guttmacher.org

@@ -1,0 +1,194 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListHHS Author ManuscriptsPMC3085979        Cancer.
+ Author manuscript; available in PMC 2011 May 3.Published in final edited form as:Cancer.
+ 2010 Jan 15; 116(2): 476–485.
+ doi: 10.1002/cncr.24774PMCID: PMC3085979NIHMSID: NIHMS283069PMID: 19937673The Impact of Health Insurance Status on the Survival of Patients With Head and Neck CancerJoseph Kwok, BS,1 Scott M. Langevin, MHA, CT(ASCP),2 Athanassios Argiris, MD,1 Jennifer R. Grandis, MD,1 William E. Gooding, MS,1 and Emanuela Taioli, MD, PhD3Joseph Kwok1 University of Pittsburgh Cancer Institute, Pittsburgh, Pennsylvania Find articles by Joseph KwokScott M. Langevin2 University of Pittsburgh Graduate School of Public Health, Pittsburgh, Pennsylvania Find articles by Scott M. LangevinAthanassios Argiris1 University of Pittsburgh Cancer Institute, Pittsburgh, Pennsylvania Find articles by Athanassios ArgirisJennifer R. Grandis1 University of Pittsburgh Cancer Institute, Pittsburgh, Pennsylvania Find articles by Jennifer R. GrandisWilliam E. Gooding1 University of Pittsburgh Cancer Institute, Pittsburgh, Pennsylvania Find articles by William E. GoodingEmanuela Taioli3 SUNY Downstate Medical Center, Brooklyn, New York Find articles by Emanuela TaioliAuthor information Copyright and License information Disclaimer1 University of Pittsburgh Cancer Institute, Pittsburgh, Pennsylvania 2 University of Pittsburgh Graduate School of Public Health, Pittsburgh, Pennsylvania 3 SUNY Downstate Medical Center, Brooklyn, New York Corresponding author: Emanuela Taioli, MD, PhD, Department of Epidemiology and Biostatistics, SUNY Downstate School of Public Health, Graduate Program in Public Health at SUNY Downstate Medical Center, 450 Clarkson Avenue, Box 43, Brooklyn, NY 11203; Fax: (718) 270-2533; ude.etatsnwod@iloiat.aleunameThe first and second authors contributed equally to this article.Scott Langevin and Joseph Kwok extracted the data from the main database, performed quality control checks, statistical analysis, and contributed to the manuscript writing.
+ Athanassios Argiris completed the clinical writing of the manuscript, Jennifer R. Grandis and Emanuela Taioli conceptualized the study, and William E. Gooding developed the statistical analysis framework.
+ The authors had direct access to anonymous data.Copyright notice The publisher's final edited version of this article is available free at CancerSee other articles in PMC that cite the published article.AbstractBACKGROUNDIn 2006, it was estimated that 47 million people in the United States are without insurance.
+ Studies have shown that patients who are uninsured or are insured by Medicaid are more likely to present with more advanced cancer.
+ The objective of this study was to examine whether cancer recurrence and mortality of patients diagnosed with squamous cell carcinoma of the head and neck are associated with insurance status, after adjusting for known cancer risk factors.
+ The main outcome measures were overall survival and relapse-free survival.METHODSRetrospective cohort of patients with a biopsy-proven primary squamous cell carcinoma of the oral cavity, pharynx, or larynx diagnosed or treated at the University of Pittsburgh Medical Center between 1998 and 2007.
+ Patients were stratified by their insurance status, including private insurance, uninsured/Medicaid, Medicare disability (Medicare under age 65), and Medicare 65 years +.
+ Cox proportional hazards regression was used to estimate the effect of insurance status on overall survival, relapse-free survival, tumor stage, and lymph node involvement.RESULTSA total of 1231 patients were included in the analysis.
+ Although head and neck cancer constitutes a minority of cancers in the population (approximately 3%-5% of cancers in the United States), it is a cancer with high mortality and morbidity, including disfigurement and difficulties with speech, swallowing, and breathing.
+ The American Cancer Society estimates that in the United States alone, there will be over 35,000 new cases of oral and pharyngeal cancer in 2008, with about 7500 of those resulting in death and 12,250 new cases of laryngeal cancer leading to approximately 3600 deaths.1 Furthermore, the costs of treatment are high, especially when there are treatment-induced complications.
+ One study estimated the cost for radiochemotherapy for head and neck cancer to be approximately $18,000, with an additional $17,000 in the case that the patient develops radiochemotherapy-induced mucositis or pharyngitis.2In 2006, it was reported that there were approximately 47 million people (15.8% of the population) without health insurance in the United States.3 For a vast majority of these people, lack of insurance often poses a significant barrier to the proper screenings and treatments made available by the increasing technology and understanding of medicine.
+ Access to primary preventive settings, such as smoking cessation programs, is also hampered by lack of insurance coverage.
+ These barriers may then result in increased morbidity and mortality from many diseases, including cancer.Recent studies suggest that patients without insurance are less likely to receive cancer screenings and are more likely to present with advanced disease and die from their cancer compared with those with insurance, after adjusting for race, sex, age, and zip code estimated income.4-9 For example, the American Cancer Society suggests that the uninsured or those covered by Medicaid are less likely to receive screening procedures for breast and colon cancer and more likely to die from the cancer than their insured counterparts.6 Other studies suggest that those who are uninsured or are covered by Medicaid are more likely than those with other insurance to present with late stage cancer.4,5,7,8 Two studies assessed this relationship in head and neck cancer: 1 included oropharyngeal cancer4 and the other was on cancer of the larynx.5A common limitation of these studies of survival among head and neck cancer patients by insurance type is the lack of information on specific, highly correlated cancer risk factors such as smoking and drinking habits.
+ These factors are more frequently observed in the low-income strata of the population, which is also less likely to be insured, and are associated with cancer outcomes.
+ Therefore, the study of the effect of insurance status on cancer outcomes cannot dismiss the assessment of the main cancer risk factors.In this study, we examined the relation between health insurance status and survival for patients with head and neck cancer.
+ Thus, there were 1231 patients eligible for the analysis.
+ The derivation of the cohort is illustrated in Figure 1.
+ Approval was obtained from the University of Pittsburgh Institutional Review Board for use of patient data for this study.Open in a separate windowFigure 1Definition of the cohort under study is depicted.
+ Compared with those with known insurance status, patients with missing insurance data were more likely to have tumors arise in the oral cavity and less likely to have tumors arising in the pharynx.
+ They were also more likely to be treated with surgery only and less likely to be treated with radiation or chemoradiation only.Registry DataAll clinical and demographic information on head and neck cancer patients diagnosed or treated at the University of Pittsburgh Medical Center are collected at the time of diagnosis and entered into the University of Pittsburgh Head and Neck Oncology Registry.
+ Patients are prospectively followed to gather clinical data pertaining to subsequent tumors, medical and surgical treatment, and vital status.
+ Sources for registry data abstraction include medical records, the UPMC Network Cancer Registry, and the Social Security Death Index (SSDI).
+ The database is regularly updated to reflect the status of the patient at the most recent follow-up visit.
+ The SSDI is routinely checked on a monthly basis for all subjects known to be alive as of the last date of follow-up, and vital status is updated accordingly.Insurance DataHealth insurance data was obtained through University of Pittsburgh Medical Center electronic billing records.
+ Although TRICARE/CHAMPUS is provided by the military, it was grouped with private insurance because of its similarity to private insurance plans.
+ Of the 128 Medicaid/uninsured patients, 112 (87.5%) were reported as Medicaid at the time of entry in the UPMC system and 17 were reported as uninsured, although patients enrolled in Medicaid before diagnosis and patients who were uninsured at diagnosis and subsequently enrolled in Medicaid for treatment purposes could not be distinguished in this data set.
+ Overall survival was defined as time from diagnosis of the initial primary tumor to death.
+ Relapse-free survival was defined as time from diagnosis of the initial primary tumor to tumor recurrence, development of a second primary, or metastasis.
+ For the purposes of relapse-free survival, patients dying without tumor recurrence were considered to be censored at the time of death.
+ Prognostic factors at diagnosis, including stage and lymph node positivity, were evaluated as secondary outcomes of interest.Descriptive statistics of the study population were generated by insurance status.
+ Statistical significance was considered at an alpha level of 0.05.Kaplan-Meier curves were generated for 5-year overall and relapse-free survival by insurance type, adjusted for age centered at the median.
+ Proportional hazards assumptions were tested statistically using an approach based on the slope of scaled Schoenfeld residuals as a function of time.14The primary predictor in the Cox models was insurance status, categorized as private, Medicaid/uninsured, Medicare 10 pack-years, or &gt;1 pack per day, or &gt;10 years duration), and smoker, dose unknown.
+ Alcohol consumption was categorized as never, light (≤6 drinks/week), moderate (7-14 drinks/week); heavy (&gt;14 drinks/week), and drinker, intensity unknown.
+ Anatomic tumor site signified the major primary site in which the tumor arose according to American Joint Committee on Cancer (AJCC) staging manual (sixth edition) specifications,15 and was categorized as oral cavity, pharynx, and larynx.
+ Treatment was categorized as surgery only, radiation and/or chemotherapy only, or combined surgery and radiation and/or chemotherapy.
+ Stage at diagnosis was categorized as stage I, II, III, or IV, based on AJCC stage groupings for head and neck cancer.15 Nakao and Treas occupational prestige scoring was used to adjust for socioeconomic (SES) status16 based on self-reported occupation during working years, categorized as 0-25, &gt;25 and ≤50, &gt;50 and ≤75, and &gt;75.
+ Patients reporting as unemployed were considered to have a prestige score of 0.
+ An additional category, which was not accounted for by the Nakao and Treas scoring system, was created to include homemakers.
+ For all sites (oral cavity, pharynx, and larynx), Medicaid and uninsured patients were nearly 3 times as likely to present with an advanced stage tumor at diagnosis (odds ratio [OR], 2.94; 95% confidence interval [CI], 1.72-5.01) and more likely to present with at least 1 positive lymph node (OR,1.84; 95% CI, 1.16-2.90) compared with patients with private insurance.
+ When stratified by tumor site, Medicaid and uninsured patients with laryngeal SCCHN were significantly more likely to present with advanced stage disease (OR, 6.97; 95% CI, 2.57-18.90) and with lymph node involvement (OR, 4.18; 95% CI, 1.85-9.45) than privately insured patients.
+ Medicare disability patients with laryngeal cancer were more likely than those with private insurance to present with lymph node involvement (OR, 2.92; 95% CI, 1.10-7.74) but not advanced stage disease.
+ Having Medicaid or being uninsured was not significantly associated with advanced stage or lymph node positivity at diagnosis for oral or pharyngeal SCCHN.
+ Neither group of Medicare patients was associated with advanced stage at diagnosis or lymph node positivity in comparison to patients with private insurance.Table 2Adjusted Odds Ratios and Corresponding 95% Confidence Intervals for Stage and Lymph Node Status at Diagnosis According to Insurance StatusAdvanced StageaPositive Lymph NodesbInsurance StatusNo.
+ of PatientsOR (95% CI)cOR (95% CI)c All sites d 1198   Private insurance 5321 [Reference]1 [Reference]   Medicaid/uninsured 1242.94 (1.72–5.01)1.84 (1.16–2.90)   Medicare, &lt; 65 761.62 (0.90–2.92)1.19 (0.68–2.07)   Medicare, 65+ 4661.38 (0.87–2.20)1.34 (0.85–2.07) Oral cavity 483   Private insurance 1951 [Reference]1 [Reference]   Medicaid/uninsured 481.95 (0.93–4.10)1.28 (0.64–2.57)   Medicare, &lt; 65 281.74 (0.70–4.31)0.80 (0.33–1.94)   Medicare, 65+ 2121.79 (0.89–3.62)1.35 (0.66–2.75) Pharynx 361   Private insurance 2131 [Reference]1 [Reference]   Medicaid/uninsured 322.54 (0.51–12.70)1.44 (0.49–4.29)   Medicare, &lt; 65 191.22 (0.26–5.78)0.53 (0.16–1.77)   Medicare, 65+ 970.51 (0.15–1.76)0.79 (0.28–2.25) Larynx 354   Private insurance 1241 [Reference]1 [Reference]   Medicaid/uninsured 446.97 (2.57–18.90)4.18 (1.85–9.45)   Medicare, &lt; 65 292.47 (0.94–6.48)2.92 (1.10–7.74)   Medicare, 65+ 1571.93 (0.86–4.35)2.09 (0.87–5.00)Open in a separate windowCI indicates confidence interval; OR, odds ratio.aAdvanced stage (AJCC stage Group III or IV) versus early stage (AJCC stage Group I or II) at diagnosis.bPositive lymph node(s) at diagnosis (N1 or greater versus N0).cOdds ratios and corresponding 95% CIs are adjusted for age, gender, race, smoking, alcohol consumption, and socioeconomic status (based on occupational prestige scores).dAdditionally adjusted for tumor site.The median follow-up time from initial diagnosis was 22.39 months (10th percentile: 4.44 months; 90th percentile: 65.25 months); 459 deaths occurred among 1231 at risk patients.
+ The median follow-up time for relapse-free survival was 14.55 months (10th percentile: 2.69 months; 90th percentile: 60.98 months), with 406 recurrences among 1231 at risk patients.The age-adjusted 5-year overall and relapse-free Kaplan-Meier survival curves are displayed in Figure 2 and Figure 3, respectively.
+ Medicaid/uninsured and Medicare disability patients showed lower survival rates compared with those with private insurance or Medicare patients 65 years or older.Open in a separate windowFigure 2Presented is age-adjusted survival according to insurance status, all-cause mortality.
+ P is based on the log-rank test across insurance categories.Open in a separate windowFigure 3Presented is age-adjusted relapse-free survival according to insurance status.
+ There was no significant difference in survival between Medicare patients 65 years or older and those with private insurance (Table 3).
+ These findings were further substantiated by the propensity score adjusted model restricted to the Medicaid/uninsured and private insurance patient groups, which yielded similar results (HR, 1.51; 95% CI, 1.06-2.15).
+ of deaths 1455039225   No.
+ at risk 54712881475   Adjusted HR (95% CI) a 1 [reference]1.50 (1.07–2.11)1.69 (1.16–2.48)1.22 (0.85–2.11) Relapse-free survival    No.
+ of recurrences 1753934158   No.
+ at risk 54712881475   Adjusted HR (95% CI) a 1 [reference]0.93 (0.65–1.35)1.19 (0.80–1.77)0.95 (0.65–1.77)Open in a separate windowCI indicates confidence interval; HR, hazard ratio.aHRs and corresponding 95% CIs are adjusted for age, gender, race, smoking, alcohol consumption, tumor site, treatment, stage at diagnosis, and socioeconomic status (based on occupational prestige scores).When the analyses were restricted to Caucasian patients, the results on overall (HR, 1.50; 95% CI, 1.05-2.14) or relapse-free (OR, 1.01; 95% CI, 0.70-1.45) survival are similar to the overall analysis.
+ A subgroup exploratory analysis restricted to patients &lt;65 years, adjusting the data based on propensity score weighting, showed similar results (data not shown).
+ There was no statistically significant interaction between alcohol and smoking on overall survival or relapse-free survival (data not shown).DISCUSSIONPrevious studies have shown that head and neck cancer patients who are uninsured or insured by Medicaid are at greater risk for presenting with advanced stage disease when compared with head and neck cancer patients with private insurance.
+ Our analysis builds on this premise by examining the differences in survival between head and neck cancer patients with different types of insurance.
+ In particular, our analysis found that patients with Medicaid/uninsured and Medicare disability had a 50% increased risk of death when compared with patients with private insurance, after adjustment for age, gender, race, smoking, alcohol use, site, SES status, treatment, and cancer stage.Chen et al found that patients diagnosed with advanced stage oropharyngeal4 or laryngeal5 cancer were more likely to have Medicaid or no insurance, present with the largest tumors, and have the most extensive lymph node involvement as compared with those who were privately insured.
+ Our study had similar findings: for all sites, the uninsured and Medicaid patients had an increased risk for presenting with advanced stage tumors and lymph node involvement compared with patients with private insurance.
+ When stratified by tumor site, Medicaid and uninsured patients with laryngeal tumors were nearly 7 times as likely to present with advanced stage disease and were more than 4 times as likely to present with at least 1 positive lymph node than privately insured patients.
+ Having Medicaid or being uninsured was not significantly associated with advanced stage or lymph node positivity at diagnosis for oral or pharyngeal SCCHN.
+ The differences between the risks of advanced stage disease and lymph node involvement among different insurance can be explained by the differences in symptom presentation.
+ Tumors of the oral cavity are often noted in their earlier stages by visual inspection during dental screenings, while tumors of the larynx often present earlier with hoarseness or changes in the voice.
+ In contrast, nasopharyngeal and oropharyngeal tumors may present with nonspecific symptoms such as headache or ear pain or present late with symptoms of dysphagia or a neck mass.This increased risk for advanced stage cancer with lymph node involvement may be from lack of access to screening procedures.
+ For example, oral cancer screening is typically performed during routine dental cleanings, and Medicaid covers only limited dental care for patients under the age of 21.19 Ward et al9 found that uninsured and Medicaid-insured patients were less likely to be screened for breast and colon cancer and more likely to present with later stage cancer and experience lower survival rates; it is likely that this is true for head and neck cancers as well.
+ Furthermore, the American Cancer Society statistics6 clearly correlate prognosis with the stage of cancer at diagnosis.
+ For example, localized oropharyngeal cancer has an estimated 5-year survival of 82%, while regional and distant stages have 5-year survival of 52% and 27%, respectively, across all races.
+ Thus, as uninsured or Medicaid patients present with more advanced cancers because of less access to healthcare, they are less likely to survive.
+ Overall decreased survival for Medicaid and uninsured patients may be associated with delay in seeking or receiving treatment.
+ Patients in this population are likely to have multiple barriers to receiving healthcare, including the high cost of healthcare, lack of transportation to medical or dental appointments, or the inability to leave work to attend appointments because of financial stresses.
+ Increased mortality could also be a result of other comorbidities, as patients with limited access to healthcare may likely have other unmanaged medical problems.
+ Increased mortality for Medicare disability patients compared with Medicare patients over age 65 may be attributed to the finding that patients who receive Medicare before the age of 65 are usually severely ill. To receive Medicare before the age of 65, there are several criterion, most of which include that the patient must meet the requirements of the Social Security disability program,22 which requires total, longterm disability.23 The finding that patients with Medicaid or no health insurance experience similar overall survival as a group known to carry severe comorbidities highlights the severity of the health disparities experienced by this patient population.Health insurance status was not significantly associated with recurrence of head and neck cancer.
+ This suggests that once an individual is diagnosed with SCCHN, they receive comparable care to those patients with insurance and, hence, their likelihood of disease recurrence is not significantly different.
+ Risk of recurrence may be more associated with the extent of the disease rather than health insurance status, given the finding that in the present analysis relapse-free survival was adjusted for stage.In the studies published so far, the nature of database limited the ability to assess the effect of insurance status on cancer outcomes independently from cancer risk factors.
+ In contrast, the available data for our study allowed the assessment of the effect of insurance status on cancer outcomes (survival and relapse) while adjusting for cancer risk factors, such as smoking and alcohol use, as well as SES and treatments received.
+ The large, clinically well-characterized patient population is also a unique strength of this study.However, there are several limitations.
+ As it has been reported by another study on the effects of different types of health insurance,4 Medicaid enrollment often happens for an uninsured patient at time of diagnosis.
+ The group of Medicaid-insured patients may comprise a heterogeneous group of patients, some of which belonged to the uninsured group up to the time of diagnosis, thus introducing some misclassification in the statistical analysis.
+ The effects of this misclassification may be illustrated by a study that suggested that patients enrolled in Medicaid postdiagnosis were more likely to have late stage disease compared with patients enrolled in Medicaid before diagnosis.24 In addition, the database used for the present analysis does not provide information on patient income, although SES was assessed here indirectly using Nakao and Treas occupation prestige scores, which correlates well with other commonly used measures of SES.16 Moreover, the database does not provide information on comorbidities.
+ This is a limitation of the present study, as patients with certain insurance types, such as Medicaid and particularly Medicare disability, may have more comorbidities, which can affect overall patient survival.Because smoking and alcohol use are significant risk factors for head and neck cancer, specifically for squamous cell carcinomas, it would have been useful to have more complete quantitative information on smoking and alcohol use; however, a limitation of the data set is the lack of information on the smoking dose in 25.5% of patients reporting a smoking history and on the alcohol intensity in 23.7% of patients reporting a history of alcohol use.
+ Furthermore, reliable information on duration of tobacco and alcohol use is unavailable, thus preventing the assessment of lifetime alcohol and smoking exposure.
+ Last, the time lag between diagnosis and surgical resection or other additional treatment (such as radiation or chemotherapy) was not available.
+ This may reflect a lack of preventative care in these populations as well as barriers to healthcare that may delay treatment after diagnosis.
+ Further investigation into our current Medicaid and Medicare disability system is warranted to determine exactly where improvements can be made to improve head and neck cancer outcomes for these populations.Health insurance status is an independent predictor of head and neck cancer survival.AcknowledgmentsThis article was partially supported by NIH grant numbers P20CA132385-01 (E.T.
+ ), P50CA097190 (J.G.
+ ), and 5TL1RR024155-03 (S.M.L.
+ ).FootnotesCONFLICT OF INTEREST DISCLOSURESREFERENCES1.
+ Jemal A, Siegel R, Ward E, et al.
+ Cancer statistics, 2008.
+ CA Cancer J Clin.
+ 2008;58:71–96.
+ [PubMed] [Google Scholar]2.
+ Nonzee NJ, Dandade NA, Markossian T, et al.
+ Evaluating the supportive care costs of severe radiochemotherapy-induced mucositis and pharyngitis: results from a North-western University Costs of Cancer Program pilot study with head and neck and nonsmall cell lung cancer patients who received care at a county hospital, a Veterans Administration hospital, or a comprehensive cancer care center.
+ Cancer.
+ 2008;113:1446–1452.
+ [PubMed] [Google Scholar]3.
+ DeNavas-Walt C, Proctor BD, Smith J.
+ Income, Poverty, and Health Insurance Coverage in the United States: 2006.
+ US Government Printing Office; Washington, DC: 2007. pp.
+ 60–233.
+ [Google Scholar]4.
+ Chen AY, Schrag NM, Halpern MT, Ward EM.
+ The impact of health insurance status on stage at diagnosis of oropharyngeal cancer.
+ Cancer.
+ 2007;110:395–402.
+ [PubMed] [Google Scholar]5.
+ Chen AY, Schrag NM, Halpern M, Stewart A, Ward EM.
+ Health insurance and stage at diagnosis of laryngeal cancer.
+ Cancer.
+ 2007;133:784–790.
+ [PubMed] [Google Scholar]6.
+ Cokkinides V, Bandi P, Siegel R, Ward EM, Thun MJ.
+ Cancer Prevention &amp; Early Detection Facts &amp; Figures 2008.
+ American Cancer Society; Atlanta, GA: 2007.
+ [Google Scholar]7.
+ Halpern MT, Bian J, Ward EM, Schrag NM, Chen AY.
+ Insurance status and stage of cancer at diagnosis among women with breast cancer.
+ Cancer.
+ 2007;110:403–411.
+ [PubMed] [Google Scholar]8.
+ Halpern MT, Ward EM, Pavluck AL, Schrag NM, Bian J, Chen AY.
+ Association of insurance status and ethnicity with cancer stage at diagnosis for 12 cancer sites: a retrospective analysis.
+ Lancet Oncol.
+ 2008;9:222–231.
+ [PubMed] [Google Scholar]9.
+ Ward E, Halpern M, Schrag N, et al.
+ Association of insurance with cancer care utilization and outcomes.
+ CA Cancer J Clin.
+ 2008 Jan-Feb;58:9–31.
+ [PubMed] [Google Scholar]10.
+ D’Agostino RB, Belanger A, D’Agostino RB., Jr. A suggestion for using powerful and informative tests of normality.
+ Am Stat.
+ 1990;44:316–321.
+ [Google Scholar]11.
+ Kruskal WH, Wallis WA.
+ J Am Statist Assn.
+ 1952;47:583–621.
+ [Google Scholar]12.
+ Breslow N. A generalized Kruskal-Wallis test for comparing K samples subject to unequal patterns of censorship.
+ Biometrika.
+ 1970;57:579–594.
+ [Google Scholar]13.
+ Cox DR. Regression models and life tables.
+ J R Stat Soc [Series B] 1972;34:187–220.
+ [Google Scholar]14.
+ Grambsch PM, Therneau TM.
+ Proportional hazards tests and diagnostics based on weighted residuals.
+ Biometrika.
+ 1994;81:515–526.
+ [Google Scholar]15.
+ Greene FL, Page DL, Fleming ID, A, et al., editors.
+ AJCC Cancer Staging Manual.
+ 6th ed Springer-Verlag; New York: 2002.
+ [Google Scholar]16.
+ Nakao K, Treas J.
+ The 1989 socioeconomic index of occupations: construction from the 1989 occupational prestige scores.
+ GSS Methodological Report.
+ 1992:1–32.
+ [Google Scholar]17.
+ Cirino PT, Chin CE, Wolf M, Lovett M, Morris RD.
+ Measuring socioeconomic status reliability and preliminary validity for different approaches.
+ Assessment.
+ 2002;9:145–155.
+ [PubMed] [Google Scholar]18.
+ Hosmer DW, Lemeshow S. Applied Logistic Regression.
+ 2nd ed John Wiley &amp; Sons; New York: 2000.
+ (Wiley Series in Probability and Statistics).
+ [Google Scholar]19.
+ American Dental Association [Accessed July 2008];Insurance: Medicare &amp; Medicaid.
+ Available at: http://www.ada.org/public/manage/insurance/medicare.asp#early.20.
+ Sankaranarayanan R, Fernandez GL, Lence AJ, Pisani P, Rodriguez SA.
+ Visual inspection in oral cancer screening in Cuba: a case-control study.
+ Oral Oncol.
+ 2002;38:131–136.
+ [PubMed] [Google Scholar]21.
+ Sankaranarayanan R, Ramadas K, Thomas G, et al.
+ Trivandrum Oral Cancer Screening Study Group.
+ Effect of screening on oral cancer mortality in Kerala, India: a cluster-randomised controlled trial.
+ Lancet.
+ 2005;365:1927–1933.
+ [PubMed] [Google Scholar]22.
+ Social Security Administration [Accessed December 2008];Medicare electronic booklet.2008.
+ Available at http://www.ssa.gov/pubs/10043.html#part 3.23.
+ Social Security Administration [Accessed December 2008];What we mean by disability.2008.
+ Available at http://www.ssa.gov/dibplan/dqualify4.htm.24.
+ Bradley CJ, Given CW, Roberts C. Late stage cancers in a Medicaid-insured population.
+ Med Care.
+ 2003;41:722–728.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

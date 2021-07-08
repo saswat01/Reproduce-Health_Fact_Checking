@@ -1,0 +1,113 @@
+The Migration Observatory informs debates on international migration and public policy.
+ Learn more about us  Donate Search Twitter Facebook Vimeo  Menu     Publications Projects Press &amp; Commentary About Glossary Search         Home / publications / briefings /  The Fiscal Impact of Immigration in the UK 18 Feb 2019  Share Tweet          This briefing gives an overview of research on the impact of immigration on government finances in the UK and explains the main issues related to estimating the fiscal impact of immigration.
+ Key Points   The net fiscal impact of immigration is typically estimated from the difference between taxes that the Government receives as a result of migrants living and working in the UK and the costs of providing them with public services and cash benefits Past studies suggest that the net fiscal impact of migration in the UK is relatively small compared to the size of the whole economy (less than +/-1% of GDP) More… Studies consistently find that the net fiscal contribution of the current population of EU-15 migrants (those from the older EU member states) is positive, while that of non-EEA migrants is negative.
+ In contrast, the fiscal contribution of EU10 migrants (from post-2004 EU accession states) is contested, with some assumptions giving positive results and others negative results More… The net fiscal effects of immigration depend on migrants’ characteristics, including their age, skills and earnings, and whether they have children.
+ This means the current impact of the migrant population may be different from the impact over the course of their whole life cycle More… The Office for Budget Responsibility forecasts that higher net migration reduces pressure on government debt.
+ This result is based on the assumption that a higher share of incoming migrants will continue to be working age than the population in general and that they will earn the same as people in the existing population of the same age and gender More…       Understanding the Evidence  Estimating the fiscal impact of immigration requires a comparison of the costs of public finances and benefits used by migrants and the taxes and other contributions they make.
+ Revenues from migrants include taxes they pay directly such as income tax, National Insurance and VAT on purchases, but are sometimes extended to include shares of taxes paid by UK businesses.
+ Expenditures include direct costs such as NHS care, education for migrants’ children and cash benefits such as tax credits and pensions, and government spending that is likely to be affected by the size of the population such as transport and policing.
+ Some studies also attribute to migrants a share of the cost of government spending such as defence or running central government departments that is less likely to be affected by migration.
+ The studies reviewed in this briefing almost all define migrants as everyone born abroad whether they first arrived in the UK as adults or as children.
+ Many of the costs and contributions that need to be included in estimates of the net fiscal impact of migration cannot be calculated directly, because the data do not exist or are not publicly accessible.
+ Researchers estimating fiscal impacts must make a significant number of assumptions, and results tend to change based on these assumptions.
+ For example, four different studies examined in this briefing look at the same groups of migrants during the same time period (2001-2011), but come to different conclusions based on assumptions they make about what should be counted as tax contributions of migrants and the costs of different public services (Dustmann and Frattini, 2013; Migration Watch, 2014; Rowthorn, 2014; and Dustmann and Frattini, 2014).
+ Rowthorn (2014) provides a useful and accessible discussion of the differences.
+ However, all come to similar conclusions that there is a difference between the contributions made by migrants from the original Member States, the newer Member States, and non-EEA migrants.
+ A key methodological question is whether to attribute to migrants the cost of educating UK-born children.
+ If the definition of a migrant is an individual born outside the country, then the children of migrants born here should be part of the UK-born group.
+ However, it is possible to argue that these children would not have been in the country if their parents had not migrated in the first place and, therefore, children are part of the migrant group.
+ This is complicated further by the existence of children of mixed couples (i.e.
+ one UK-born and one foreign-born).
+ Recent studies have often ‘split’ the children of mixed couples between the two groups.
+ However, if migrants’ children remain in the UK and later enter the workforce, they will later pay taxes on earnings and this is not accounted for in the static approaches reviewed in this paper.
+ Another important question when examining the fiscal impact of migration is whether to look at the net cost or contribution of migrants in absolute terms (i.e.
+ in £ billions) or their net fiscal impact relative to the UK-born.
+ In any given year, the relative fiscal contribution of migrants depends in part on the state of public finances (i.e.
+ whether the UK is running a budget surplus or deficit) and government spending decisions.
+ When there is a budget deficit, the average UK resident will represent a net fiscal cost.
+ As a result, the fact that migrants are having an absolute positive or negative fiscal impact does not indicate clearly how they compare to the UK born.
+ At the same time, relative comparisons at the whole population level are complicated by the fact that a much higher proportion of retired people among the UK-born.
+ The working-age UK population is in surplus even taking into account government spending on their children.
+ A key distinction between types of studies is between those involving static vs. dynamic analysis.
+ The most common approach is the static approach, which compares the contributions of migrants to public finances with the services and benefits received for a given year (or sometimes a longer period).
+ The advantage of this approach is that it uses historical data and does not have to make assumptions about the future.
+ The drawback is that it is only a snapshot at one point in time, but the fiscal effects of a given migrant group will depend on where they are in their life cycle.
+ For example, young people with no children incur relatively low costs for public services such as health and education, and thus do not need to earn as much to be net fiscal contributors than older people.
+ This means that the estimated fiscal impact of a given group in a given year will depend on factors such as how long migrants have been in the UK and how old they are – and do not necessarily reflect their total lifetime fiscal contribution.
+ An alternative is the dynamic approach, which computes the net present value of contributions and costs over the entire lifetime of migrants and, in some cases, their children.
+ The limitation of the dynamic approach is that it requires more assumptions, including about factors such as return migration rates, changes in productivity, labour market participation rates, tax rates and government spending, among others.
+ The fiscal impact of migration in the UK is small and differs by migrant group (e.g.
+ EEA migrants vs. non-EEA migrants, recent migrants vs. all migrants) There is no single ‘correct’ estimate of migrants’ fiscal impact.
+ Different studies make different assumptions and not everyone will agree on what the best choices to make are (see ‘Understanding the Evidence,’ above).
+ Studies examining the fiscal impact of migrants have produced different results, although in all cases, the impacts have been estimated at less than +/- 1% of GDP.
+ There are two points on which studies consistently agree.
+ First, that the fiscal impact of EEA migrants is more positive than that of non-EEA migrants; and second, that the impact of recent migrants is more positive than the impact of migrants overall.
+ Table 1 summarises the results of the most recent studies on the net fiscal impact of migrants in the UK.
+ For example, a study by Oxford Economics (2018), commissioned by the Migration Advisory Committee, estimated the net fiscal contribution of EEA migrants in FY2016/17 at £4.7bn, compared to a net cost of £9bn for non-EEA migrants.
+ During this period, the UK was running a budget deficit, so the UK born were also estimated to have made a negative net fiscal contribution (of -£41.4bn).
+ By contrast, using a similar methodology but slightly different assumptions, Migration Watch (2016) found that in FY2014/15 both EEA and non-EEA migrants represented a net fiscal cost (of £1.2bn and £15.6bn respectively).
+ A large part of difference between these studies arises from the choice of how much of the taxes paid by businesses to attribute to migrants.
+ Oxford Economics (2018) found that the negative net fiscal contribution of non-EEA migrants was primarily due to higher spending on education of children, since non-EEA migrants are currently more likely to have dependent children than the UK born.
+ They were also estimated to receive more in family benefits and tax credits.
+ Table 1 Comparison of different estimates of the fiscal effects of immigration, in £ billions     All migrants and UK bornRecent migrants only     EEANon-EEAUK bornEEANon-EEA   Oxford Economics (2018)   FY 2016/17 (1 year)+4.7-9.0-41.4   Migration Watch (2016)   FY 2014/15 (1 year)-1.1-15.6-87.80.0-6.2   Dustmann and Frattini (2014)   1995-2011 (17 years)+4.4-118-591   2001-2011 (12 years)-617+20.2+5.2   2001-2011 (A10) (12 years)+4.9   2001-2011 (Rest of EEA) (12 years)+15.3   Rowthorn (2014)   2001-2011 (12 years)-0.3-29.7   Migration Watch (2014)   1995-2011 (17 years)-13.6-134.9-565   2001-2011 (12 years)-13.4-116.8-586-0.25-27.17   Dustmann and Frattini (2013)   1995-2011 (17 years)+8.8-104.1-605   2001-2011 (12 years)+9-86.8-624+22.1+2.9     Similarly, studies have consistently found that recent migrants have a more positive fiscal impact than those who have been here for longer.
+ For example, Dustmann and Frattini (2014) estimated that EEA migrants who had arrived since 2000 had a positive net fiscal contribution of just over £20bn between 2001 and 2011, compared to a net impact of £4.4bn for all migrants between 1995 and 2011.
+ The Migration Watch (2016) estimates are also less negative for recent migrants than for migrants overall; they estimated that non-EEA migrants had a net fiscal cost of £15.6bn in 2014/15, but that this cost was £6.2bn for recent non-EEA migrants.
+ There will be multiple reasons for this, including the fact that after a few years of residence people are more likely to have children, as well as changes over time in the characteristics of new arrivals.
+ Return to top The net fiscal effects of immigration depend on migrants’ characteristics, including their age, skills and earnings Whether migrants are employed and how much they earn has an important impact on their estimated net fiscal contribution.
+ Comparing estimates of net contributions to the tax and benefits system across 26 countries, for example, the OECD (2013) found that the employment rate of migrants was the single most important factor explaining differences in their net fiscal contributions compared to the native-born population.
+ The skill level of migrants was also found likely to be one of the main determinants of their fiscal impact in the short run.
+ High-skilled migrants working in highly paid jobs can be expected to pay more taxes, on average, than low-skilled migrants in low-waged jobs, although in the UK found some migrant groups are characterised by considerable skills mismatch where they work below their actual skill level (ONS 2016).
+ Migrants’ use of public services and benefits also depends to a large extent on their age and household situation.
+ In a series of stylised calculations for different households, Oxford Economics (2018) found that a single 20-year old with no children only needed to earn just over £10,000 per year in order to ‘break even’ from a fiscal perspective, while a couple with two dependent children—who incur much greater expenditure on health and education—would not become net fiscal contributors until they earned around £45,000.
+ As noted earlier, the fact that non-EEA migrants are more likely to have dependent children is a key reason that non-EEA migrants are estimated to have a negative net fiscal impact in the short run.
+ The same Oxford Economics study estimated that over the course of their whole lifecycle, the average non-EEA migrant arriving in 2016 would make a positive net fiscal contribution (of £28,000, net present value).
+ However, their children’s education is not included in this latter figure, because under this lifecycle method the cost of education is attributed to the child and expected to be offset by tax on their earnings when they enter the labour market.
+ Return to top Government data shows that EEA nationals pay more in income taxes and national insurance contributions than they receive in tax credits and child benefit but that is not the full picture In the past few years, the government has started to publish data derived from HMRC and DWP records of amounts actually paid and received by foreign nationals.
+ For example, HMRC data show that in FY2015/16, EEA nationals paid £15.5bn more in income tax and national insurance than they took out in tax credits and child benefit (HMRC, 2018).
+ These figures are not at all comparable with the studies discussed above because they simply compare some amounts received by HMRC in direct tax with amounts paid out by HMRC in cash benefits.
+ This calculation takes no account of people paying other taxes like VAT and council tax, nor that they also receive other benefits like housing benefit and Jobseekers’ Allowance (JSA) and use public services too.
+ On the same basis of calculation, the whole population paid £242bn more than it received in FY2015/16.
+ However, the data do provide more detailed information showing broadly that taxpayers from EU-15 countries paid more than the average taxpayer, while those from the newer Member States paid less.
+ No similar information is published for non-EEA migrants.
+ Return to top The Office for Budget Responsibility forecasts that higher net migration reduces pressure on government debt over time.
+ This result is based on assumptions that incoming migrants will continue to be more likely to be of working age than the population in general and that they will earn the same on average as people of the same age and gender in the rest of the population The Office for Budget Responsibility forecasts fiscal aggregates—such as net government borrowing and debt as a percentage of GDP—under alternative scenarios of net migration.
+ OBR (2018) based its main fiscal projections on the assumption that net migration will average 165,000 per year in coming years.
+ However, it estimated that net immigration of 245,000 (the ‘high-migration’ scenario) would mean that by 2067-68, the primary budget deficit (i.e.
+ excluding interest payments on debt) would be 0.8% of GDP lower, and net debt would be 30% lower.
+ One of the key drivers behind these results is that incoming migrants are more likely to be of working age than the population in general and therefore more likely to be working and contributing to public finances.
+ These forecasts are made over a 50-year time horizon.
+ In earlier analysis, the OBR (2013) noted that over an even longer time horizon than 50 years, these migrants would also retire and add to age-related spending pressures.
+ It concluded that “higher migration could be seen as delaying some of the fiscal challenges of an ageing population rather than a way of resolving them permanently”.
+ Return to top Evidence gaps and limitations Estimates of the fiscal effects of immigration have many limitations.
+ For example, the studies reviewed in this briefing rely primarily on the Labour Force Survey (LFS) to identify the characteristics of migrants and the factors associated with tax contributions (e.g.
+ whether someone is working) and expenditure (e.g.
+ whether some has school-age children).
+ However, the LFS itself has important limitations.
+ It excludes migrants living in communal establishments, and some groups may be underrepresented due to non-response to the survey.
+ Income is a crucial component of fiscal impact calculations, but LFS income information is limited and only includes employee earnings.
+ Another key limitation is that the studies depend on assumptions about how migrants use public services.
+ Most studies simply estimate the share of the population represented by migrants and assume that they account for the same share of consumption of public services as people with similar demographic characteristics (e.g.
+ age and gender).
+ Yet migrants have different characteristics from UK-born individuals and as such may use public services differently.
+ For instance, migrants may use services such as translation services in schools and hospitals that are not typically used by the native-born population.
+ One difficulty in addressing this point is that there is no systematic collection of the user’s migration status at the point of delivery of many public services.
+ On the other hand, some migrants deliver public services as well as consuming them.
+ It may be possible to deliver services in the public sector at a lower cost because of the availability of migrant workers.
+ However, it is very difficult to quantify these contributions, as doing so would require strong assumptions about how public services would have been staffed in the absence of migration.
+ Finally, the fiscal impacts of immigration also depend on the effects of migrants on the tax contributions and use of public services of the UK-born.
+ One example is the labour market impact of immigration, especially whether and to what extent the employment of migrants creates more unemployment among domestic workers.
+ Increasing unemployment among domestic workers leads to less tax revenues and increase consumption of welfare benefits.
+ Most fiscal impact studies assume that the impact of migrants on domestic workers employment is negligible, yet empirical findings from the literature on the employment effects of immigration remain mixed (Migration Advisory Committee 2012, Rowthorn 2008).
+ On the other hand, the presence of migrants may also increase the tax contribution of the UK-born.
+ For instance, the presence of low skilled migrant females working as nannies may allow domestic workers to increase their labour supply increasing also their tax contributions.
+ These types of indirect effects has been mostly absent from the previous literature in the UK.
+ References  Dustmann, C. and Frattini, T. “The Fiscal Effects of Immigration to the UK.” Discussion Paper Series, CDP No 22/13, Centre for Research and Analysis of Migration, Department of Economics, University College London, 2013 Dustmann, C. and Frattini, T. “The Fiscal Effects of Immigration to the UK.” The Economic Journal 124 (2014): F593-F643 MigrationWatch UK.
+ “An Assessment of the Fiscal Effects of Immigration to the UK.” MigrationWatch UK, London, 2014 MigrationWatch UK.
+ “The Fiscal Effects of Immigration to the UK 2014/15.” MigrationWatch UK, London, 2016 OECD.
+ “International Migration Outlook 2013.” OECD, Paris, 2013 OBR.
+ “2013 Fiscal Sustainability Report.” Office of Budget Responsibility, London, 2013 OBR.
+ “Fiscal Sustainability Report: July 2018” Office of Budget Responsibility, London, 2018 ONS “Analysis of the UK labour market – estimates of skills mismatch using measures of over and under education: 2015” ONS, 2016 Oxford Economics.
+ “The Fiscal Impact of Immigration in the UK” Oxford: Oxford Economics Rowthorn, R. “Large-scale Immigration: Its Economic and Demographic Consequences for the UK.” Civitas, 2014 HMRC.
+ “Income Tax, National Insurance contributions, tax credits and Child Benefit statistics for EEA nationals”, August 2018.
+ Related Materials  Migration Observatory briefing – Migrants and Housing in the UK: Experiences and Impacts  Thanks to Michael O’Connor and Robert Rowthorn for helpful comments and suggestions on an earlier version of this briefing.
+ Media Coverage    Economist online (11 Nov 2016) Nobel laureate Paul Krugman discusses the twofold challenge posed by greying baby boomers		  iNEws (09 Jun 2016) Immigration conundrum at heart of EU debate		        Next Update December 16, 2020 Authors  				Dr Carlos Vargas-Silva Madeleine Sumption  Download Briefing Press Contact If you would like to make a press enquiry, please contact: Rob McNeil + 44 (0)7500 970081 robert.mcneil@compas.ox.ac.uk       Contact Us     General Enquiries T: +44 (0)1865 274 701 E: migrationobservatory@compas.ox.ac.uk   Press Enquiries T: +44 (0)7500 970 081 E: robert.mcneil@compas.ox.ac.uk    Newsletter sign up Follow us on twitter Like us on facebook Watch us on vimeo        Connections   This Migration Observatory is kindly supported by the following organisations.

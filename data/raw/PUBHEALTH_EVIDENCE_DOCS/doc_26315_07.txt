@@ -1,0 +1,176 @@
+Basket  Search  More        Search for this keyword           Advanced search                          Latest content Current issue Archive Authors About                Search for this keyword           Advanced search            Close More      Main menu   Latest content Current issue Archive Authors About           Subscribe Log in  More       Log in via InstitutionLog in via OpenAthens     Log in using your username and password For personal accounts OR managers of institutional accounts   Username *    Password *     Forgot your log in details?Register a new account?Forgot your user name or password?
+ This study examines the association between unemployment and later hospitalisation due to CHD.
+ Information on unemployment in middle age was obtained from national registers.
+ CHD information was obtained from hospital registers and the cause of death register.
+ Cox proportional hazard analyses were run on the 39 243 individuals who were in paid employment in 1996 and 1997.
+ Conclusions Unemployment was associated with increased risk of CHD after adjustment for confounders.
+ We interpret the increased risk of CHD associated with unemployment as potentially the somatic result of a process started by stress.
+ This study on middle-aged men shows that unemployment is associated with CHD even after controlling for known important risk factors for CHD.
+ Introduction Unemployment is a stressful life event1 shown to be associated with mental health outcomes such as suicide, depression, anxiety and alcohol use disorders.2–4 It has been mentioned as potentially contributing to the socioeconomic gradient in mortality and morbidity,5 ,6 hypothetically also through coronary heart disease (CHD).7 ,8 The link to somatic disease is suggested to go through both material hardship and psychosocial stress, mediated by pathophysiological responses, as well as negative change in health behaviours.9 The status of unemployment as an independent cardiovascular risk factor is not settled,10 and while unemployment has been linked to changes in cardiovascular risk factors for example, body mass index (BMI)11 and smoking,12–15 current studies on associations between unemployment and CHD, stroke, myocardial infarction (MI) and cardiovascular disease (CVD) show no clear pattern.16–20 In one Swedish job closure study of 17 008 displaced and 188 000 non-displaced workers followed for 12 years, there was no increased risk of either MI or stroke hospitalisation associated with displacement.16 However, in a similar Danish study of 33 065 displaced workers and 1 161 222 controls, displacement was associated with increased risk for MI/stroke mortality.20 In one recent Swedish study, based on register linkage of 3.4 million individuals, unemployment was found to be significantly associated with mortality from circulatory diseases, ischaemic heart disease and stroke during 6 years of follow-up.
+ Only health measured as previous hospitalisation could be controlled for as potential confounding, which had little reducing effect.19 Three studies, 6-, 10- and 18 year follow-ups of the US Health and Retirement Study, have also examined MI and stroke following job loss (layoff or plant closure) in workers 50 years or older.
+ In these studies, job loss was found to be associated with stroke17 ,18 and MI.18 ,21 Unlike the large register-based studies mentioned above, these studies had information on known risk factors for CHD, smoking, hypertension, obesity and diabetes, and although those in the first two studies had little reducing effect on the risk estimates, they substantially reduced association between unemployment and MI in the 18-year follow-up.
+ We have previously examined unemployment and CVD mortality in the same cohort as the present study is based upon.
+ While age, education, cognitive ability and SEP are well-known determinants of unemployment,23 less is known about health and health behaviour as risk factors for unemployment.24 Sickness absence has been shown to be a strong risk factor for unemployment in Sweden and elsewhere.25–28 Also, a few studies have shown that major risk factors for CHD, such as smoking, BMI and high blood pressure,29–32 are more prevalent among those who later become unemployed,13 ,33–36 and in a previous Swedish study on 800 unemployed individuals those with circulatory problems had lower probability of becoming employed the following year.37 Furthermore, life-course studies have shown that indicators of poor circumstances in childhood, for example, SEP and crowded housing, are associated with adult unemployment.13 ,33 We have previously shown the importance of risk factors measured before adulthood in relation to CHD mortality later in life.38–40 The aim of the present study was to examine if becoming unemployed is associated with subsequently increased risk of CHD, adjusted for CHD risk factors measured across the life course prior to unemployment.
+ The following research questions were posed: (i) Is exposure to unemployment associated with an excess risk of CHD?
+ (ii) If so, to what extent is the association between unemployment and CHD confounded by risk factors preceding unemployment?
+ Methods  Study design The study population consisted of the Swedish Conscription cohort of 1969/1970, originally including 50 465 men.
+ By law at this time, all men were required to undergo 2 days of examination at one of six conscript centres across Sweden, usually during the year of their 18th birthday.
+ A small number of conscripts are older than 18, but this study encompass only those born in 1949 (5%), 1950 (18%) and 1951 (77%); 49 321 individuals.
+ Due to severe handicap or congenital disorder, a small group did not attend conscript examination, estimated to be 2–3%.
+ Through unique identification numbers, we linked register information on employment, income, education, hospitalisation and mortality to the baseline examination.
+ This exclusion criterion was made to ascertain that individuals were in the labour force, that is, had worked and were under risk of unemployment.
+ All analyses are based on these individuals.
+ Unemployment Information on yearly accumulated days registered as unemployed was obtained from the Longitudinal Integration Database for Health Insurance and Labour Market Studies (LISA), based on administrative records reported by the Public Employment Service.
+ This is a national government agency, which is the largest placement service in Sweden and also the controlling function for any benefits from the unemployment insurance funds and Cash Labour Market Assistance.
+ Conditions to be fulfilled are stipulated in the Unemployment Insurance Act section 9, which agrees with the International Labour Organization definition of unemployment as (1) lacking work, (2) being available for employment and (3) looking for work.
+ The studied exposure, unemployment, was formed from persons with short-term unemployment (1–89 days of accumulated registered unemployment) and long-term unemployment (90 or more days of accumulated registered unemployment) 1998–2000.
+ This division was based on the theoretical assumption of duration dependence; that the probability of leaving unemployment for work declines with the duration of unemployment.
+ That is, short-term unemployment is more likely to be completed spells with exit to employment, while long-term unemployment is more likely to be ongoing spells and/or exits to labour market programmes.
+ Coronary heart disease Information on CHD between 2001 and 2008 was obtained from record linkage with the National Patient Register and the Cause of Death Register, administered by the National Board of Health and Welfare.
+ Codes of CHD according to the 10th revision of International Classification of Disease (ICD-10) were I20–I25.
+ Confounders Parent SEP was based on the SEP of the individuals’ parents (with priority of father's SEP) or other head of household where applicable.
+ Categories were (i) unskilled worker, (ii) skilled worker, (iii) assistant non-manual employee, (iv) non-manual employee at intermediate level, (v) non-manual employee at higher level, (vi) farmer and (vii) not classifiable in SEP.
+ Crowded housing was categorised as &gt;2 persons/room—kitchen not included.
+ The Information on childhood social circumstances was collected from the National Population and Housing Census of 1960 of the individuals’ parents—matched through the Multigenerational Register at Statistics Sweden.
+ From the conscription examination, we got information on BMI, systolic and diastolic blood pressure, cognitive test results, as well as questionnaire answers concerning smoking.
+ BMI was calculated as body weight (kg) divided by height (m) squared.
+ Systolic and diastolic blood pressures were measured in mm Hg after 5–10 min test.
+ General cognitive ability was based on the combined results from four cognitive tests, SEB67, normalised into a standard-nine scale.41 Information on SEP, sickness absence and level of education in adulthood was obtained from LISA.
+ SEP was categorised in the same way as for parents (described above).
+ Education in 1990 was classified as completion of 9 years or less, 11, 12 or more than 12 years of education.
+ Sickness absence 1996–1997 was information on registered benefits from spells from national health insurance lasting longer than 14 days, dichotomised as present or not.
+ An illustration of the collected data is provided in table 1.
+ Splitting of the time band was performed to check for non-proportional hazards.
+ Individuals were censored at the time of CHD hospitalisation or death.
+ Prevalence of confounding risk factors among the employed and unemployed Table 2 shows the prevalence of potential confounding factors among those employed, short-term unemployed and long-term unemployed 1998–2000.
+ With the exception of BMI and systolic and diastolic blood pressures, the unemployed have more risk factors than the employed.
+ Table 3 shows the associations between the same factors and CHD 1992–2008.
+ All of the factors are associated with CHD.
+ View this table:View inline View popup Table 2 Prevalence of risk factors in categories of unemployment 1998–2000 (%) View this table:View inline View popup Table 3 Association between each risk factor and CHD 2001–2008   Unemployment and CHD There were a total of 1277 cases of CHD, of which 34 occurred among the short-term unemployed and 142 among the long-term unemployed.
+ Table 4 shows the associations between short term and long term unemployment 1998–2000 and CHD 2001–2008 as HRs.
+ In the crude analysis, those unemployed for 89 days, and coronary heart disease (CHD), crude and adjusted HRs with 95% CIs) Table 4 also shows the associations between short-term and long-term unemployment and CHD for two consecutive periods of follow-up.
+ There are 544 cases of CHD in the first follow-up period and 733 in the second.
+ Long-term unemployment is significantly associated with long-term unemployment in the crude analysis in both periods.
+ These increased HRs of CHD in the first period are attenuated when controlling for confounders but remain significantly elevated.
+ Discussion  Key results The main finding of this study was that those who became unemployed with duration of at least 90 days had an elevated HR of CHD during 8 years of follow-up.
+ After controlling for potential confounders, including childhood social circumstances, late adolescent BMI, smoking, diastolic blood pressure, cognitive ability, adult socioeconomic measures and sickness absence, a weak increased risk remained, but additionally controlling for a previous career of unemployment diluted the association to the null.
+ The relative risks were stronger during the first 4 years of follow-up.
+ Comparison with previous studies Our finding of a significant association between unemployment and CHD is in concert with those found during 6 years of follow-up by Garcy and Vågerö.19 Like them we found a small significant association between unemployment and CHD, but we had the possibility to control for potential health-related confounders.
+ Our study confirms their finding and extends it by showing that additional control for health-related confounders diluted the increased risk towards null.
+ In a more recent follow-up of the same data used in that study, Dupre et al21 lagged unemployment 1 year and found a relative risk closer to ours (HR of 1.35).
+ Our results also contrast those in a previous Swedish study by Eliason and Storrie,16 who found no difference in MI between displaced and non-displaced workers during 12 years follow-up.
+ While Eliason and Storrie studied displacement rather than unemployment, and in a period of overall low unemployment, our study focuses on a period of high unemployment, which might explain the contrasting findings.
+ Interpretation Unemployment is often mentioned in association with other major life events and is as such regarded as a ‘psychological stressor’.42 ,43 The stress model, which links psychological stress to behavioural changes and activation of the sympathetic nervous system and the  hypothalamic–pituitary–adrenal axis, bases much of its evidence on the association with CVD outcomes.
+ The associations between unemployment and symptoms of anxiety and depression,1 known outcomes of psychosocial stress as well as hypothetical risk factors for CVD,44 strengthen the conceptual link between unemployment and the stress model.
+ It has been suggested that unemployment may affect organic disease through chronically increased levels of stress or health-damaging behaviours.45 We interpret our findings of an association between long-term unemployment and subsequent CHD as potentially the somatic result of a process started by stress.
+ In our models, we consider the case that the event of unemployment alters the future risk of CHD and put to the side that duration affects the future risk of CHD, although we separate approximations of short-term events from long term.
+ The expected duration of unemployment, as estimated in the Swedish Labour Force Surveys, ranged between 25 and 20 weeks 1988–2001, but mean days of unemployment ranged between 40 and 30 weeks during the same period.46 That is, while most unemployed leave after a shorter spell, those with low employability stay for very long.
+ Since we lacked date of entry and exit, we could not calculate the number of spells, duration of completed spells or assess if spells were completed or not.
+ In one previous study with more detailed information on unemployment, the number of spells rather than the duration increased the risk of acute myocardial infarction,21 supporting the idea that stress is more acute than chronic.
+ Strengths and limitations A main strength of the current study is that it is a large population representative of middle-aged men in the working population.
+ Atherosclerosis is a cumulative process, beginning at younger ages, and CHD incidence in men starts to increase first in middle age.
+ Second, in the current study, we had information on several important risk factors for CHD, blood pressure, smoking and BMI, lacking in register-based studies.
+ Third, information on unemployment came from administrative registers, which are both complete and based on objective criteria including being a job seeker.
+ Self-reported labour market status might be subject to bias.47 There are also some limitations to our study.
+ Several of our risk factors for CHD were measured at ages 18–19, which may not reflect circumstances of the time of exposure, age 41–45.
+ That is, more individuals will be obese in adulthood relative to our measure at age 18.
+ Most of those obese in adolescence will however remain obese in adulthood.51 The strength of systolic and diastolic blood pressure tracking has been shown to decrease with longer follow-up periods,52 but measures in late adolescence have been shown to be correlated with measures at ages 30 and 5053 and at age 39.54 More recent measures of blood pressure may have provided more accurate confounder adjustment.
+ Any adjustment for a confounder measured less than perfect will result in incomplete adjustment and hence residual confounding.55   Conclusion Unemployment was associated with increased risk of CHD after adjustment for confounders.
+ We interpret the increased risk of CHD associated with unemployment as potentially the somatic result of a process started by stress.
+ References↵Kessler RC.
+ The effects of stressful life events on depression.
+ Annu Rev Psychol 1997;48:191–214.OpenUrlCrossRefPubMedWeb of Science↵Roelfs DJ, Shor E, Davidson KW, et al.
+ Losing life and livelihood: a systematic review and meta-analysis of unemployment and all-cause mortality.
+ Social Science &amp; Medicine 2011;72:840–54.OpenUrlCrossRefPubMedWeb of Science↵Paul KI, Moser K. Unemployment impairs mental health: Meta-analyses.
+ J Vocational Behav 2009;74:264–82.OpenUrlCrossRefWeb of Science↵Henkel D. Unemployment and substance use: a review of the literature (1990–2010).
+ Curr Drug Abuse Rev 2011;4:4–27.OpenUrlCrossRefPubMed↵Marmot M. Sustainable development and the social gradient in coronary heart disease.
+ European Heart Journal 2001;22:740–50.OpenUrlFREE Full Text↵Marmot M. Social determinants of health inequalities.
+ Lancet 2005;365:1099–104.OpenUrlCrossRefPubMedWeb of Science↵Steenland K. Epidemiology of occupation and coronary heart disease: research agenda.
+ Am J Ind Med 1996;30:495–9.OpenUrlCrossRefPubMedWeb of Science↵Marmot MG, Mcdowall ME.
+ Mortality Decline and Widening Social Inequalities.
+ Lancet 1987;1:394.OpenUrlCrossRefPubMedWeb of Science↵Bartley M. Unemployment and Ill Health—Understanding the Relationship.
+ J Epidemiol Community Health 1994;48:333–7.OpenUrlAbstract/FREE Full Text↵Weber A, Lehnert G. Unemployment and cardiovascular diseases: a causal relationship?
+ Int Arch Occup Environ Health 1997;70:153–60.OpenUrlCrossRefPubMedWeb of Science↵Morris JK, Cook DG, Shaper AG.
+ Non-employment and changes in smoking, drinking, and body weight.
+ BMJ 1992;304:536–41.OpenUrlAbstract/FREE Full Text↵Lundberg O, Rosen B, Rosen M. Who stopped smoking—results from a panel survey of living-conditions in Sweden.
+ Soc Sci Med 1991;32:619–22.OpenUrlCrossRefPubMedWeb of Science↵Montgomery SM, Cook DG, Bartley MJ, et al.
+ Unemployment, cigarette smoking, alcohol consumption and body weight in young British men.
+ Eur J Public Health 1998;8:21–7.OpenUrlAbstract/FREE Full Text↵Hammarström A, Janlert U.
+ Early unemployment can contribute to adult health problems: results from a longitudinal study of school leavers.
+ J Epidemiol Community Health 2002;56:624–30.OpenUrlAbstract/FREE Full Text↵Kriegbaum M, Larsen AM, Christensen U, et al.
+ Reduced probability of smoking cessation in men with increasing number of job losses and partnership breakdowns.
+ J Epidemiol Community Health 2011;65:511–16.OpenUrlAbstract/FREE Full Text↵Eliason M, Storrie D. Job loss is bad for your health—Swedish evidence on cause-specific hospitalization following involuntary job loss.
+ Soc Sci Med 2009;68:1396–406.OpenUrlCrossRefPubMed↵Gallo WT, Bradley EH, Falba TA, et al.
+ Involuntary job loss as a risk factor for subsequent myocardial infarction and stroke: findings from the health and retirement survey.
+ Am J Ind Med 2004;45:408–16.OpenUrlCrossRefPubMedWeb of Science↵Gallo WT, Teng HM, Falba TA, et al.
+ The impact of late career job loss on myocardial infarction and stroke: a 10 year follow up using the health and retirement survey.
+ Occup Environ Med 2006;63:683–7.OpenUrlAbstract/FREE Full Text↵Garcy AM, Vagero D. The length of unemployment predicts mortality, differently in men and women, and by cause of death: a six year mortality follow-up of the Swedish 1992–1996 recession.
+ Soc Sci Med 2012;74:1911–20.OpenUrlCrossRefPubMed↵Browning M, Heinesen E. Effect of job loss due to plant closure on mortality and hospitalization.
+ J Health Econ 2012;31:599–616.OpenUrlCrossRefPubMedWeb of Science↵Dupre ME, George LK, Liu G, et al.
+ The cumulative effect of unemployment on risks for acute myocardial infarction.
+ Arch Intern Med 2012;172:1731–7.OpenUrlCrossRefPubMedWeb of Science↵Lundin A, Lundberg I, Hallsten L, et al.
+ Unemployment and mortality-a longitudinal prospective study on selection and causation in 49321 Swedish middle-aged men.
+ J Epidemiol Community Health 2010;64:22–8.OpenUrlAbstract/FREE Full Text↵Gregg P. The Impact of Youth Unemployment on Adult Unemployment in the NCDS.
+ Econ J 2001;111:626–53.OpenUrlCrossRef↵Mastekaasa A.
+ Unemployment and health: Selection effects.
+ J Community Appl Soc Psychol 1996;6:189–205.OpenUrlCrossRefWeb of Science↵Virtanen M, Kivimäki M, Vahtera J, et al.
+ Sickness absence as a risk factor for job termination, unemployment, and disability pension among temporary and permanent employees.
+ Occup Environ Med 2006;63:212–17.OpenUrlAbstract/FREE Full Text↵Hesselius P. Does sickness absence increase the risk of unemployment?
+ J Soc Econ 2007;36:288–310.OpenUrlCrossRef↵Lundin A, Lundberg I, Allebeck P, et al.
+ Unemployment and suicide in the Stockholm population: a register-based study on 771,068 men and women.
+ Public Health 2012;126:371–7.OpenUrlCrossRefPubMedWeb of Science↵Hultin H, Lindholm C, Moller J.
+ Is There an Association between Long-Term Sick Leave and Disability Pension and Unemployment beyond the Effect of Health Status?—A Cohort Study.
+ PLoS ONE 2012;7:e35614.OpenUrlCrossRefPubMed↵Canto JG, Iskandrian AE.
+ Major risk factors for cardiovascular disease—Debunking the “only 50%” myth.
+ JAMA 2003;290:947–9.OpenUrlCrossRefPubMedWeb of Science↵Greenland P, Knoll MD, Stamler J, et al.
+ Major risk factors as antecedents of fatal and nonfatal coronary heart disease events.
+ JAMA 2003;290:891–7.OpenUrlCrossRefPubMedWeb of Science↵Macleod J, Smith GD, Heslop P, et al.
+ Psychological stress and cardiovascular disease: empirical demonstration of bias in a prospective observational study of Scottish men.
+ Br Med J 2002;324:1247–51.OpenUrlAbstract/FREE Full Text↵Paraponaris A, Saliba B, Ventelou B. Obesity, weight status and employability: empirical evidence from a French national survey.
+ Econ Hum Biol 2005; 3:241–58.OpenUrlCrossRefPubMed↵Montgomery SM, Bartley MJ, Cook DG, et al.
+ Health and social precursors of unemployment in young men in Great Britain.
+ J Epidemiol Community Health 1996;50:415–22.OpenUrlAbstract/FREE Full Text↵Jusot F, Khlat M, Rochereau T, et al.
+ Job loss from poor health, smoking and obesity: a national prospective survey in France.
+ J Epidemiol Community Health 2008;62:332–7.OpenUrlAbstract/FREE Full Text↵Leino-Arjas P, et al.
+ Predictors and consequences of unemployment among construction workers: prospective cohort study.
+ BMJ 1999;319:600–5.OpenUrlAbstract/FREE Full Text↵Henriksson KM, Lindblad U, Ågren B, et al.
+ Scand J Public Health 2003;31:305–11.OpenUrlAbstract/FREE Full Text↵Korpi T. Accumulating disadvantage.
+ Longitudinal analyses of unemployment and physical health in representative samples of the Swedish population.
+ Eur Sociol Rev 2001;17:255–73.OpenUrlAbstract↵Falkstedt D, Lundberg I, Hemmingsson T. Childhood socio-economic position and risk of coronary heart disease in middle age: a study of 49,321 male conscripts.
+ Eur J Public Health 2011;21:713–18.OpenUrlAbstract/FREE Full Text↵Falkstedt D, Koupil I, Hemmingsson T. Blood pressure in late adolescence and early incidence of coronary heart disease and stroke in the Swedish 1969 conscription cohort.
+ J Hypertens 2008;26:1313–20.OpenUrlCrossRefPubMedWeb of Science↵Falkstedt D, Hemmingsson T, Rasmussen F, et al.
+ Body mass index in late adolescence and its association with coronary heart disease and stroke in middle age among Swedish men.
+ Int J Obes (Lond) 2007;31:777–83.OpenUrlPubMed↵Carlstedt B. Cognitive abilities: aspects of structure, process, and measurement.
+ Doctoral Dissertation: University of Gothenburg, 2000.↵Risch.
+ Interaction Between the Serotonin Transporter Gene (5-HTTLPR), Stressful Life Events, and Risk of Depression: A Meta-analysis (vol 301, pg 2462, 2009).
+ JAMA 2009;302:492.OpenUrlCrossRefWeb of Science↵Price RH, Choi JN, Vinokur AD.
+ Links in the chain of adversity following job loss: how financial strain and loss of personal control lead to depression, impaired functioning, and poor health.
+ J Occup Health Psychol 2002;7:302–12.OpenUrlCrossRefPubMed↵Musselman DL, Evans DL, Nemeroff CB.
+ The relationship of depression to cardiovascular disease: Epidemiology, biology, and treatment.
+ Arch Gen Psychiatry 1998;55:580–92.OpenUrlCrossRefPubMedWeb of Science↵Bartley M. Unemployment and ill health: understanding the relationship.
+ J Epidemiol Community Health 1994;48:333–7.OpenUrlAbstract/FREE Full Text↵Zetterberg J. Långtidsarbetslöshet och arbetslöshetstider i ett konjunkturperspektiv.
+ In: Arbetskraftsundersökningarna (AKU) 50 år: Fyra forskarperspektiv på arbetsmarknaden.
+ 2011 [The Labour Force Surveys (LFS) 50 years: a presentation of four different perspectives from independent researchers].
+ Statistics Sweden, Labour and Education Statistics 2011;3:1–106.↵Jürges H. Unemployment, life satisfaction and retrospective error.
+ J R Stat Soc 2007;170:43–61.OpenUrlCrossRef↵Rosen M, Hanning M, Wall S. Changing Smoking-Habits in Sweden—Towards Better Health, but Not for All.
+ Int J Epidemiol 1990;19:316–22.OpenUrlAbstract/FREE Full Text↵Hemmingsson T, Kriebel D, Melin B, et al.
+ How does IQ affect onset of smoking and cessation of smoking—Linking the Swedish 1969 conscription cohort to the Swedish survey of living conditions.
+ Psychosom Med 2008;70:805–10.OpenUrlAbstract/FREE Full Text↵Gustafsson PE, Persson M, Hammarstrom A. Socio-economic disadvantage and body mass over the life course in women and men: results from the Northern Swedish Cohort.
+ Eur J Public Health 2011;22:322–27.OpenUrlPubMedWeb of Science↵Viner RM, Cole TJ.
+ Who changes body mass between adolescence and adulthood?
+ Factors predicting change in BMI between 16 year and 30 years in the 1970 British Birth Cohort.
+ Int J Obes 2006;30:1368–74.OpenUrlCrossRefPubMedWeb of Science↵Chen X, Wang Y. Tracking of blood pressure from childhood to adulthood: a systematic review and meta-regression analysis.
+ Circulation 2008;117:3171–80.OpenUrlAbstract/FREE Full Text↵Nelson MJ, Ragland DR, Syme SL.
+ Longitudinal prediction of adult-blood pressure from Juvenile blood-pressure levels.
+ Am J Epidemiol 1992;136:633–45.OpenUrlAbstract/FREE Full Text↵Kivimaki M, Lawlor DA, Smith GD, et al.
+ Early socioeconomic position and blood pressure in childhood and adulthood—the Cardiovascular Risk in Young Finns Study.
+ Am J Epidemiol 1980;112:564–9.OpenUrlAbstract/FREE Full TextView Abstract     Footnotes Correction The section head of this paper has been updated since it was published Online First.
+ Contributors AL was the main investigator.
+ AL, DF and TH were responsible for the design and analysis of the data.
+ All authors contributed to the final writings.
+ Competing interests None.
+ Provenance and peer review Not commissioned; externally peer reviewed.
+ Request Permissions  If you wish to reuse any or all of this article please use the link below which will take you to the Copyright Clearance Center’s RightsLink service.
+ You will be able to get a quick price and instant permission to reuse the content in many different ways.
+ Copyright information:   Published by the BMJ Publishing Group Limited.
+ For permission to use (where not already granted under a licence) please go to http://group.bmj.com/group/rights-licensing/permissions          Read the full text or download the PDF:                  Subscribe          Log in         Log in via InstitutionLog in via OpenAthens     Log in using your username and password For personal accounts OR managers of institutional accounts   Username *    Password *     Forgot your log in details?Register a new account?Forgot your user name or password?

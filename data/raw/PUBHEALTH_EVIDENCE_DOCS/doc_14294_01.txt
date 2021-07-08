@@ -1,0 +1,272 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListAm J Public Healthv.97(11); Nov 2007PMC2040374        Am J Public Health.
+ 2007 November; 97(11): 1991–1997.
+ doi: 10.2105/AJPH.2006.092544PMCID: PMC2040374PMID: 17901450Availability of Litigation as a Public Health Tool for Firearm Injury Prevention: Comparison of Guns, Vaccines, and Motor VehiclesJon S. Vernick, JD, MPH, Lainie Rutkow, JD, MPH, and Daniel A. Salmon, PhD, MPHJon S. VernickJon S. Vernick is with the Bloomberg School of Public Health and the Center for Gun Policy and Research, Johns Hopkins University, Baltimore, Md.
+ Lainie Rutkow is with the Bloomberg School of Public Health, Johns Hopkins University, Baltimore.
+ At the time of this study, Daniel A. Salmon was with the Department of Epidemiology and Health Policy Research, College of Medicine, University of Florida, Gainesville.Find articles by Jon S. VernickLainie RutkowJon S. Vernick is with the Bloomberg School of Public Health and the Center for Gun Policy and Research, Johns Hopkins University, Baltimore, Md.
+ Lainie Rutkow is with the Bloomberg School of Public Health, Johns Hopkins University, Baltimore.
+ At the time of this study, Daniel A. Salmon was with the Department of Epidemiology and Health Policy Research, College of Medicine, University of Florida, Gainesville.Find articles by Lainie RutkowDaniel A. SalmonJon S. Vernick is with the Bloomberg School of Public Health and the Center for Gun Policy and Research, Johns Hopkins University, Baltimore, Md.
+ Lainie Rutkow is with the Bloomberg School of Public Health, Johns Hopkins University, Baltimore.
+ At the time of this study, Daniel A. Salmon was with the Department of Epidemiology and Health Policy Research, College of Medicine, University of Florida, Gainesville.Find articles by Daniel A. SalmonAuthor information Article notes Copyright and License information DisclaimerJon S. Vernick is with the Bloomberg School of Public Health and the Center for Gun Policy and Research, Johns Hopkins University, Baltimore, Md.
+ Lainie Rutkow is with the Bloomberg School of Public Health, Johns Hopkins University, Baltimore.
+ At the time of this study, Daniel A. Salmon was with the Department of Epidemiology and Health Policy Research, College of Medicine, University of Florida, Gainesville.Requests for reprints should be sent to Jon S. Vernick, JD, MPH, The Johns Hopkins Bloomberg School of Public Health, 624 N Broadway, Baltimore, MD 21205 (e-mail: ude.hpshj@kcinrevj).Accepted October 28, 2006.Copyright © American Journal of Public Health 2007This article has been cited by other articles in PMC.AbstractThe Protection of Lawful Commerce in Arms Act (PLCAA), enacted in 2005, grants the firearm industry broad immunity from liability.
+ The PLCAA not only prevents most people from receiving compensation for their firearm-related injuries, it erodes litigation’s ability to serve its public health role of providing manufacturers with a financial incentive to make their products safer.When the viability of the vaccine industry was threatened in the 1980s, Congress provided limited protection from liability and also established the Vaccine Injury Compensation Program.
+ The liability of nearly all other products, for example motor vehicles, is governed by traditional common law principles.The absence of both litigation and product safety rules for firearms is a potentially dangerous combination for the public’s health.ON OCTOBER 26, 2005, President Bush signed a new law, the Protection of Lawful Commerce in Arms Act (PLCAA),1 with important implications for public health.
+ Under the PLCAA, many people injured by firearms and ammunition will not be able to hold makers or sellers of these products accountable in court for their injuries.
+ Instead, the PLCAA grants firearm makers and dealers broad immunity from liability.
+ Because litigation can help to prevent some deaths and injuries, a valuable tool to respond to the public health problem of firearm-related violence in the United States has been seriously eroded.In the United States, when someone is harmed by a consumer product, that person can generally seek compensation for his or her injury or illness through the courts.
+ In court, the person who has been harmed—the plaintiff—may argue that the product’s manufacturer, distributor, or retailer—the defendant—should be financially responsible for any damages sustained.
+ Liability for those damages might be premised on some product defect, failure to make the product reasonably safe for its users, or failure to warn users about foreseeable risks associated with the product.2 For each of these theories of liability, the plaintiff must prove that the defendant’s conduct was a proximate cause of the harm sustained.3 For example, in a case based on an allegation that a product could have been designed more safely, the plaintiff generally must convince a finder of fact (usually a jury) that he or she would not have been harmed (or would have been harmed less seriously) had the manufacturer altered the product design.From an individual perspective, this kind of lawsuit can compensate the plaintiff for costs such as medical care, rehabilitation, lost wages, and pain.
+ Perhaps even more importantly, from a public health perspective, tort liability can provide manufacturers and others with a powerful financial incentive to voluntarily reduce risks associated with their products.4 Rather than pay damages to those injured by the product, a manufacturer can choose to prevent such injuries by designing the product to make it safer.
+ The litigation process can also require defendants to produce documents or other materials regarding risks associated with the product.5,6 In addition to providing information for litigants and regulators, substantial negative publicity may be associated with document disclosures.7Although not all manufacturers will respond to these incentives in positive ways, there is evidence that litigation encourages manufacturers to improve product safety.8–10 Famously, lawsuits regarding fuel tank fires in the Ford Pinto encouraged Ford to recall and modify its vehicle.7 More generally, in one survey of manufacturers, nearly half reported safety improvements associated with liability.10 Nevertheless, some have expressed concerns about potential harms associated with product liability, arguing that “frivolous” lawsuits can increase the cost of certain products, chill innovation, and drive important products from the marketplace.11 In addition, for some products there may be other countervailing societal values besides safety, such as relative utility, environmental impact, or economic benefits.As a result, Congress has provided special protection for some products.
+ For the vast majority of products, however, Congress allows courts to separate the meritorious lawsuits from the frivolous and to determine appropriate damage awards.
+ Under the PLCAA, firearm makers and sellers now have broad immunity from liability without an alternative remedy for injured persons.To examine the array of options for regulating the liability of product manufacturers and sellers, we compared the scope of liability for 3 products: firearms, vaccines, and motor vehicles.
+ These products represent a useful continuum of regulatory choices—broad immunity from liability for firearms, a federally mandated compensation system for vaccines, and the more typical system for motor vehicles, regulated by traditional principles of liability.
+ As other industries seek exemption from liability, understanding these regulatory options will allow public health professionals to make informed choices about new legislative proposals.COMPARISON OF LIABILITYFirearms, vaccines, and motor vehicles are all products that have the potential to provide both public health benefits and harms.
+ Firearms can be used by law enforcement officers and others to save lives, yet guns are associated with about 30 000 deaths and 65 000 nonfatal injuries in the United States annually.12 Vaccines have been one of the most important achievements in medicine and public health during the past century,13 yet vaccines are not 100% safe and have been associated with disease or other adverse events.14 Motor vehicles are a ubiquitous part of life in the United States, providing numerous societal benefits.
+ Although there have been dramatic declines in fatality rates since the 1960s, approximately 2.8 million people were injured in motor vehicle crashes in 2004 and 42 836 were killed.15 Although each is a consumer product, when a person is injured or killed by one of these 3 products, US law offers the victim very different legal options (Table 1 ▶).TABLE 1—Comparison of Federal Law Governing Litigation for 3 Products Affecting the Public’s HealthFirearmsVaccinesMotor VehiclesGoverning federal liability lawProtection of Lawful Commerce in Arms ActNational Childhood Vaccine Injury ActCommon Law LiabilityLawsuits freely permitted by federal lawNoNoYesCompensation mechanism for injuriesNoYesaYesbPlaintiff can pursue claim in courtNocYesYesPunitive damages availableNoNoYesPending lawsuits preserved when federal law enactedNoYesNAFederal law governs safety of the productNoYesdYeseOpen in a separate windowNote.
+ (2006).eNational Traffic and Motor Vehicle Safety Act of 1966, codified as amended at 49 USC §30101 et seq.
+ (2006).Firearms and the Protection of Lawful Commerce in Arms ActFirearm violence is a public health problem with numerous risk factors; therefore, many different interventions have been implemented.16,17 One component of the multipronged strategy has been litigation against individual firearm manufacturers or sellers and lawsuits against the entire industry.
+ In these lawsuits, plaintiffs have argued that firearm manufacturers failed to employ safety technology that might have prevented some deaths or injuries, or failed to warn of known dangers.
+ Plaintiffs have also argued that firearm manufacturers marketed their products without safeguards to make it less likely that guns would be transferred to criminals.
+ One set of lawsuits, modeled after litigation against the tobacco industry, has involved US cities and states suing the firearm industry.18 As in the tobacco litigation,5,19 these lawsuits sought recovery of firearm-related costs borne by the municipalities.Prior to the PLCAA, these lawsuits produced mixed results.
+ Courts dismissed many of the municipal lawsuits, reasoning that firearm manufacturers should not be liable for the acts of criminals.
+ Some courts also concluded that costs borne by municipalities were too remote from the industry’s allegedly wrongful acts.
+ Other courts, however, allowed certain lawsuits to continue, concluding that a jury might reasonably find that the industry could have altered its products or conduct to prevent some deaths.20Although these cases were small in number, there is some evidence that the lawsuits influenced the firearm industry’s conduct.
+ For example, after being sued, Smith &amp; Wesson initially agreed to change some of its products and marketing practices.21 Following a large monetary verdict, the manufacturer of the rifle used in a series of Washington, DC–area shootings altered some of its business practices.
+ Several gun dealers have also changed their sales policies as a result of litigation.22 With the enactment of the PLCAA, however, the potential for future lawsuits to foster change in the industry is dramatically reduced.The PLCAA outlaws many different kinds of lawsuits against the firearm industry.
+ For example, several lawsuits have been brought after a child found the parents’ or a neighbor’s firearm and used it to harm himself or herself or someone else.
+ These lawsuits have argued that the firearm manufacturer could have designed the gun so that a child could not operate it, or that the gun should have included other safety devices.23,24 Under the PLCAA, such lawsuits might be dismissed because a child’s use of the firearm, or the parents’ failure to lock it up, could be deemed an “unlawful” use under state or federal law.25Similarly, municipal lawsuits have argued that firearm manufacturers inadequately supervised their dealers and would even “oversupply” guns in certain places, knowing that they were providing more guns than the lawful market could support.
+ Plaintiffs have argued that this lack of oversight, coupled with oversupply, made it easier for criminals to obtain guns that were then used to harm residents of the municipality.
+ The lawsuits sought to recover some of the costs borne by the municipalities for these deaths and injuries, and to protect residents from future harm.18,20 Under the PLCAA, many of these lawsuits have also been dismissed, even if the city or state did not seek monetary damages but instead sought to enjoin potentially damaging conduct by manufacturers or dealers.
+ The act also prohibits punitive damages designed to punish especially egregious conduct by a defendant.The PLCAA does contain exceptions that allow certain lawsuits to proceed.1(§7903[5][A]) The exceptions, however, are generally narrow in scope.
+ Lawsuits in which dealers “knowingly” violate the laws governing firearm sales or breach their sales contract with a buyer are permitted.
+ An exception also allows certain lawsuits stemming from design defects in firearms, such as the failure to include safety devices.
+ For this exception to apply, however, the firearm must have been “used as intended or in a reasonably foreseeable manner,” and the shooting must not have been caused by a “volitional act that constituted a criminal offense.”1(§7903[5][A]) Unfortunately, some injuries that might be prevented by safer designs—such as an accidental shooting by a child—are caused by acts that technically may be criminal offenses.
+ Firearm makers may also argue that an accidental shooting by a child does not involve an “intended” or “foreseeable” use.
+ Other types of lawsuits based on design or manufacturing defects may remain viable, however, if they do not involve a potentially criminal offense (e.g., a lawful owner of the firearm who shoots himself because the firearm malfunctions).
+ Ironically, it may require future litigation to determine the precise scope of immunity in this area.Under the PLCAA, only a few municipal lawsuits remain pending.
+ New York City argued that its lawsuit was based on a knowing violation by manufacturers and dealers of the state’s law against “public nuisances,” and thus fit one of the act’s few exceptions.
+ It also argued that the PLCAA itself was unconstitutional.
+ On December 2, 2005, a federal district court in New York allowed the city’s suit to proceed.
+ Although the court concluded that the PLCAA was constitutional, it agreed that the lawsuit fit an exception to the law.
+ Because in New York a public nuisance constitutes a crime, the PLCAA exception for the knowing violation of a firearm sales law was satisfied.26 Recently, a state court in Indiana upheld the city of Gary’s lawsuit, becoming the only court to conclude that the PLCAA was unconstitutional,27 although this case is now on appeal.
+ Many other municipal lawsuits, however, have been dismissed or voluntarily withdrawn.
+ New York City’s action has been stayed pending an appeal.26The PLCAA was enacted after intense lobbying pressure from the National Rifle Association and the firearm industry.28 Proponents of the act argued that lawsuits against the firearm industry were an “abuse of the legal system,”1(§7901[a][6]) attempting to hold the industry responsible for what they described as the criminal acts of others.
+ But as we have seen, the PLCAA is not limited to what are commonly considered “crimes.” Proponents also argued that the lawsuits were an inappropriate “attempt to use the Judicial branch to circumvent the Legislative branch of government.”1(§7901[a][8]) They asserted that the lawsuits attempted to accomplish through litigation what could not be achieved legislatively.
+ In addition, supporters claimed that the PLCAA is needed to ensure the survival of the firearms industry.
+ They asserted that a healthy firearm industry is vital to our nation, and even that national security could be threatened if a ready supply of firearms were not available for the police and the military.29Of course, the same might be said of many other industries.
+ One might debate whether the firearms industry merits protection based on societal risk and benefits, especially compared with other industries such as vaccines.
+ From a financial perspective, however, there is simply no evidence that recent lawsuits were poised to eliminate the US firearm industry.
+ In addition, unlike the case with virtually every other consumer product in the United States, no federal agency has the authority to regulate the safe design of firearms.
+ In fact, the Consumer Product Safety Commission—the federal agency charged with overseeing the safety of most of the nation’s household products—is expressly forbidden from regulating firearms or ammunition.30Even if one believed it were necessary to protect the firearm industry from litigation, there are other mechanisms, short of broad immunity, that could be considered.
+ In the workplace, for example, employers generally enjoy protection from tort liability for most on-the-job injuries, but state workers’ compensation systems provide an alternative remedy for injured workers.31 In the product area, the system for childhood vaccines is a useful model.Vaccines and the National Childhood Vaccine Injury ActIn the early 1980s, following reports of harmful side effects after administration of the DTwP (diphtheria, tetanus, whole-cell pertussis) vaccine, numerous lawsuits were filed against vaccine manufacturers.
+ This litigation led to concerns about the continued viability of the US vaccine industry.32–34In response, Congress enacted the National Childhood Vaccine Injury Act of 1986.35 Among its provisions, the act 35(§§300aa-1, aa-5, aa-10) established the National Vaccine Injury Compensation Program (VICP).36 With the VICP, Congress fashioned a no-fault system to benefit people who suffer vaccine-related injuries.
+ “No fault” means that compensation is provided without the need to show that a wrong was committed.Instead, to be eligible for compensation, a vaccine-related injury or death ordinarily must occur after the administration of a vaccine listed on a Vaccine Injury Table created by the law.35(§300aa-11[c][1][C]) In addition, the petitioner must have suffered an injury listed on the table within a prescribed time frame.
+ For example, to qualify for compensation following a tetanus vaccination, the injury (e.g., anaphylactic shock) must be recognized in the table and have occurred within 4 hours after the vaccine’s administration.35(§300aa-14[a]) Anyone wishing to receive compensation through the VICP for an injury not listed on the Vaccine Injury Table, or falling outside of the table’s time frame, must demonstrate that the vaccine in question caused the injury.35(§300aa-11[c][1][c]),37People who believe they are eligible for compensation through the VICP must first file a petition with the US Court of Federal Claims.35(§300aa-12[a]) The Department of Health and Human Services reviews the petition to determine whether the person is eligible to receive compensation, and an attorney appointed by the court then determines the amount, if any, to which the person is entitled.35(§300aa-12[d][3]) Anyone unhappy with the determination can choose to appeal the decision in federal court.
+ Alternatively, anyone disputing the amount of compensation, or found ineligible for compensation, can leave the VICP system and bring a lawsuit in state or federal court against the vaccine manufacturer, administrator, or both.35(§300aa-11[a][2]) Lawsuits may also be brought for vaccines not covered by the VICP.The VICP also places limitations on the theories of liability that can be used if a plaintiff exits the VICP system and pursues compensation through the courts.
+ A vaccine manufacturer cannot be held liable “if the injury or death resulted from side effects that were unavoidable even though the vaccine was properly prepared and was accompanied by proper directions and warnings.”35(§300aa-22[b][1]) A vaccine is presumed to have been “accompanied by proper directions and warnings”35(§300aa-22[b][2]) if the manufacturer complied with all requirements of the Federal Food, Drug, and Cosmetic Act.
+ Unlike the situation with the PLCAA and firearms, however, injured people retain their day in court and have the opportunity to show that a vaccine maker failed to act responsibly.
+ Also, unlike the PLCAA, upon its creation, the VICP did not automatically dismiss pending litigation.35(§§300aa-11[a][5][A], [B], [a][8]) And, of course, the overall safe design of vaccines remains within the jurisdiction of the Food and Drug Administration.Under the VICP, several types of compensation are available.38 Compensation can include medical expenses, loss of earning capacity, up to $ 250 000 for pain and suffering, and attorney’s fees.35(§§300aa-15[a][1]-[4], aa-15[e]) Punitive damages are generally prohibited.35(§300aa-15[d]),39Motor Vehicles and Common Law LiabilityUnlike lawsuits involving firearms or vaccines—but like those involving most other products—lawsuits against motor vehicle manufacturers for injuries sustained in crashes are largely governed by traditional common law rules of liability.
+ Common law refers to the body of prior judicial decisions or precedents that judges rely on in deciding present cases.One of the most basic and widespread forms of common law liability is called negligence.
+ In a lawsuit based on negligence, the plaintiff must prove that the defendant failed to adhere to some standard of care that the law recognizes, and that this failure was a legal cause of the plaintiff’s injuries.2 In a lawsuit against a motor vehicle manufacturer, the usual standard of care is the manufacturer’s obligation to make its products reasonably safe for intended and foreseeable uses.40As early as 1916, courts recognized that motor vehicle manufacturers have a duty to avoid defective designs or materials that might foreseeably lead to a crash.41 Beginning in the 1960s, courts extended this rule to failure to include safety devices that might minimize the risk or severity of injury when a crash occurs.
+ In Larsen v General Motors, a federal appellate court applied this doctrine of “crashworthiness” to injuries caused when the steering column of a 1963 Chevrolet Corvair moved rearward during a crash, striking the driver’s head.
+ In ruling for the plaintiff, the court concluded that “an automobile manufacturer is under no duty to design an accident-proof or fool-proof vehicle .
+ .
+ .
+ but such manufacturer is under a duty to use reasonable care in the design of its vehicle to avoid subjecting the user to an unreasonable risk of injury in the event of a collision.”42At about the same time as the Larsen decision, Congress enacted the National Traffic and Motor Vehicle Safety Act of 1966.43 That act and its successors created the National Highway Traffic Safety Administration (NHTSA), which has the power to promulgate safety standards for automobiles.
+ Today, there are many such standards, including those that require seat belts, air bags, and conspicuous brake lights.44 Importantly, these are seen as minimum safety standards, establishing a floor but not a ceiling for vehicle safety.In fact, motor vehicle manufacturers routinely provide greater safety than the standards require.
+ The threat of lawsuits provides one incentive for manufacturers to exceed safety standards.
+ For example, before air bags were required, numerous lawsuits were filed by people injured in crashes of cars without air bags.
+ Plaintiffs argued that their injuries would have been less severe had the car been equipped with air bags.4 Rather than risk future liability verdicts, some manufacturers began to voluntarily provide air bags in cars.
+ This made it easier for Congress and the NHTSA to ultimately require air bags in all passenger cars.
+ More recently, litigation against Ford and Bridgestone/Firestone regarding the Ford Explorer prompted a massive recall and new tire safety legislation.7Some have criticized the traditional liability system, exemplified by motor vehicles and many other products, as unfair to manufacturers and costly for consumers.
+ Certainly, manufacturers pass some of the associated costs of liability on to consumers.
+ Since the 1960s, however, there has been an impressive reduction in the number of deaths from motor vehicle crashes in the United States.
+ From 1966 to 2004, the rate of such deaths per million miles traveled declined by 74%.45DISCUSSIONAs a society, we make decisions about how to balance the risks and benefits of consumer products.
+ One way we strike that balance is by allowing litigation against product makers when risks become too great.
+ In this way, litigation can act as a public health feedback mechanism to affect manufacturers’ safety practices.
+ If a product is considered unsafe (or society less willing to accept certain risks), more litigation may follow.
+ As manufacturers respond, products can become safer, the likelihood of successful litigation is reduced, and fewer lawsuits (and injuries) will result.The PLCAA is a radical departure from this time-honored approach.
+ It simply eliminates litigation’s feedback mechanism without providing an alternative means to ensure the safe design and distribution of firearms and compensate injured victims.
+ Worse still, unlike for vaccines and motor vehicles, no regulatory system guarantees even minimum standards for the safe design of firearms.
+ It is therefore especially ironic that a product like firearms, rather than vaccines or cars, is afforded broad immunity.
+ Firearms are sometimes used for beneficial purposes, but compared with vaccines, whose sole purpose is to prevent death or illness, firearms also impose negative societal and public health consequences.Several other industries with implications for public health—notably fast food—also have recently sought immunity from liability.
+ At least 20 states have enacted so-called “cheeseburger” bills intended to insulate fast-food restaurants and food manufacturers from lawsuits in which individuals claim that certain foods caused their obesity.46,47Most industries, however, have responded to the threat of litigation by modifying their products or changing their sales practices and passing some of the costs on to consumers.
+ This would be an especially appropriate response for firearm makers, because there is no evidence that litigation has bankrupted the industry.
+ Litigation regarding firearms should therefore be treated just like litigation for nearly all other consumer products.
+ If, in the future, the industry is actually in jeopardy, Congress could choose to provide a more limited form of protection analogous to the protection afforded to vaccines (with or without an alternative compensation mechanism).
+ Because most lawsuits were dismissed by the PLCAA or the courts before they came to trial, we cannot know precisely how these lawsuits would have affected the firearm industry’s conduct or whether rates of firearm-related death and injury would ultimately have been reduced.
+ But under the PLCAA, the lack of both regulation and litigation as public health tools for firearm injury prevention is a potentially dangerous combination for the public’s health.AcknowledgmentsThe research upon which this article was based received financial support from the David Bohnett Foundation and the Joyce Foundation.NotesPeer ReviewedContributorsJ.S.
+ Vernick performed legal and policy research and wrote the initial draft of the article.
+ L. Rutkow performed legal and policy research, particularly regarding vaccines and the law, and wrote relevant portions of the article.
+ D.A.
+ Salmon provided vaccine policy information and helped to draft that portion of the article.
+ All authors provided editorial and analytic suggestions for the final article.References1.
+ Protection of Lawful Commerce in Arms Act, Pub L No.
+ 109-92, 119 Stat 2095, codified at 15 USC §§7901 et seq.
+ (2006).2.
+ Dobbs DB, Keeton RE, Owen DG.
+ Prosser and Keeton on Torts.
+ St Paul, Minn: West Publishing Co; 1984.3.
+ Epstein RA.
+ Modern Products Liability Law.
+ Westport, Conn: Quorum Books; 1980.4.
+ Teret SP.
+ Litigating for the public’s health.
+ Am J Public Health.
+ 1986;76:1027–1029.
+ [PMC free article] [PubMed] [Google Scholar]5.
+ Jacobson PD, Warner KE.
+ Litigation and public health policy making: the case of tobacco control.
+ J Health Polit Policy Law.
+ 1999;24:769–804.
+ [PubMed] [Google Scholar]6.
+ Gostin LO.
+ Public Health Law: Power, Duty, Restraint.
+ Berkeley: University of California Press; 2000.7.
+ Vernick JS, Mair JS, Teret SP, Sapsin JW.
+ Role of litigation in preventing product-related injuries.
+ Epidemiol Rev.
+ 2003;25:90–98.
+ [PubMed] [Google Scholar]8.
+ Bogus CT. Why Lawsuits Are Good for America.
+ New York, NY: New York University Press; 2001.9.
+ Christoffel T, Callagher SS.
+ Injury Prevention and Public Health: Practical Knowledge, Skills, and Strategies.
+ Sudbury, Mass: Jones and Bartlett Publishers; 2006.10.
+ McGuire EP.
+ The Impact of Product Liability.
+ New York, NY: The Conference Board; 1988.11.
+ Huber PW, Litan RE, eds.
+ The Liability Maze.
+ Washington, DC: Brookings Institution; 1991.12.
+ Centers for Disease Control and Prevention.
+ Web-Based Injury Statistics Query and Reporting System (WISQARS).
+ Available at: http://webappa.cdc.gov/sasweb/ncipc/mortrate10_sy.html.
+ Accessed March 31, 2006.13.
+ Centers for Disease Control and Prevention.
+ Ten great public health achievements—United States 1900–1999.
+ MMWR Morb Mortal Wkly Rep. 1999;48(12):241–243.
+ [PubMed] [Google Scholar]14.
+ Task Force on Safer Childhood Vaccines: Final Report and Recommendations.
+ Washington, DC: Department of Health and Human Services; January 1998.15.
+ National Highway Traffic Safety Administration.
+ Motor vehicle traffic crash fatality counts and estimates of people injured for 2005.
+ Available at: http://www-nrd.nhtsa.dot.gov/pdf/nrd-30/NCSA/PPT/2006/810639.pdf.
+ Accessed October 6, 2006.16.
+ Mercy JA, Rosenberg ML, Powell KE, Broome CV, Roper WL.
+ Public health policy for preventing violence.
+ Health Aff.
+ 1993;12:7–29.
+ [PubMed] [Google Scholar]17.
+ Cook PJ, Ludwig J.
+ Principles for effective gun policy.
+ Fordham Law Rev.
+ 2004;73:589–613.
+ [Google Scholar]18.
+ Vernick JS, Teret SP.
+ New courtroom strategies regarding firearms: tort litigation against firearm manufacturers and constitutional challenges to gun laws.
+ Houston Law Rev.
+ 1999;36:1713–1753.
+ [Google Scholar]19.
+ Daynard RA, Bates C, Francey N. Tobacco litigation worldwide.
+ BMJ.
+ 2000;320:111–113.
+ [PMC free article] [PubMed] [Google Scholar]20.
+ Lytton TD, ed.
+ Suing the Gun Industry.
+ Ann Arbor: University of Michigan Press; 2005.21.
+ Dao J.
+ Under legal siege, gun maker agrees to accept curbs.
+ New York Times.
+ March 18, 2000:A1.22.
+ Rostron A.
+ Book review: lawyers, guns, &amp; money: the rise and fall of tort litigation against the firearms industry.
+ Santa Clara Law Rev.
+ 2006;46:481–511.
+ [Google Scholar]23.
+ Teret SP, Culross P. Product-oriented approaches to reduce youth gun violence.
+ Future Child.
+ 2002;12:119–131.
+ [PubMed] [Google Scholar]24.
+ Vernick JS, O’Brien M, Hepburn LM, Johnson SB, Webster DW, Hargarten SW. Unintentional and undetermined firearm-related deaths: a preventable death analysis for three safety devices.
+ Inj Prev.
+ 2003;9:307–311.
+ [PMC free article] [PubMed] [Google Scholar]25.
+ Webster DW, Vernick JS, Zeoli AM, Manganello J.
+ Association between youth-focused firearm laws and youth suicides.
+ JAMA.
+ 2004;292:594–601.
+ [PubMed] [Google Scholar]26.
+ City of New York v Beretta et al., 205 US Dist Lexis 30363 (ED NY 2005).27.
+ City of Gary v Smith &amp; Wesson et al., Cause No.
+ 45D05-005-CT243 (Lake Superior Court, Indiana, Civ Div October 23, 2006).28.
+ The gun industry rolls Congress [editorial].
+ New York Times.
+ October 18, 2005:A26.29.
+ Protection of Lawful Commerce in Arms Act.
+ Hearing on HR 800 and HR 1036 Before the Subcommittee on Commercial and Administrative Law of the House Committee on the Judiciary, 109th Cong, 1st Sess (2005).30.
+ Consumer Product Safety Commission Improvements Act of 1976, Pub L No.
+ 94-284, §3(e), 90 Stat 503, 504 (1976).31.
+ Worrall JD, Appel D, eds.
+ Workers’ Compensation Benefits: Adequacy, Equity, and Efficiency.
+ Ithaca, NY: ILR Press; 1985.32.
+ Mariner WK, Clark ME.
+ Confronting the immunization problem: proposals for compensation reform.
+ Am J Public Health.
+ 1986;76:703–708.
+ [PMC free article] [PubMed] [Google Scholar]33.
+ Institute of Medicine.
+ Vaccine Supply and Innovation.
+ Washington, DC: National Academy Press; 1985.34.
+ US Department of Health and Human Services, Division of Vaccine Injury Compensation.
+ National Vaccine Injury Compensation Program Strategic Plan.
+ Available at: http://www.hrsa.gov/vaccinecompensation/strategic_plan.htm.
+ Accessed August 13, 2007.35.
+ National Childhood Vaccine Injury Act of 1986.
+ Pub L No.
+ 99-660, 100 Stat 3756, codified as amended at 42 USC §§300aa-1 to aa-34 (2000).36.
+ Hodge JG, Gostin LO.
+ School vaccination requirements: historical, social, and legal perspectives.
+ Ky Law J.
+ 2001; 90:831–890.
+ [PubMed] [Google Scholar]37.
+ Mariner WK.
+ The national vaccine injury compensation program.
+ Health Aff.
+ 1992;1:255–265.
+ [PubMed] [Google Scholar]38.
+ Ridgway D. No-fault vaccine insurance: lessons from the National Vaccine Injury Compensation Program.
+ J Health Polit Policy Law.
+ 1999;24:59–90.
+ [PubMed] [Google Scholar]39.
+ Health Resources and Services Administration.
+ National Vaccine Injury Compensation Program.
+ Available at: http://www.hrsa.gov/vaccinecompensation.
+ Accessed August 13, 2007.40.
+ Pratt JR. Motor vehicle products liability litigation—the basics.
+ Trial.
+ 1997; 33:46–48.
+ [Google Scholar]41.
+ MacPherson v Buick, 111 NE 1050 (NY 1916).42.
+ Larsen v General Motors, 391 F2d 495 (8th Cir 1968).43.
+ Pub L No.
+ 89-564, 80 Stat 73 (1966), codified as amended at 49 USC §30101 et seq.
+ (2006).44.
+ 49 CFR 571 et seq.
+ (2005).45.
+ National Highway Traffic Safety Administration.
+ Traffic Safety Facts 2004.
+ Washington, DC: US Department of Transportation; 2006.46.
+ Kersh R, Morone JA.
+ Obesity, courts, and the politics of public health.
+ J Health Polit Policy Law.
+ 2005;30:839–864.
+ [PubMed] [Google Scholar]47.
+ Mello MM, Studdert DM, Brennan TA.
+ Obesity—the new frontier of public health law.
+ N Engl J Med.
+ 2006; 354:2601–2610.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

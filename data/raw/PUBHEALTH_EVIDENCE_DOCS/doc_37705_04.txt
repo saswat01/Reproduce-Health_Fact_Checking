@@ -1,0 +1,11 @@
+Taped before an audience of people whose lives have been impacted by sexual abuse, the conversation also features interviews with actor Anthony Edwards and ex-NFL linebacker Al Chesley, both survivors of sexual abuse.
+ Dr. Howard Fradkin, author of “Joining Forces: Empowering Male Survivors to Thrive,” explains the telltale patterns often followed by sexual abusers.See omnystudio.com/policies/listener for privacy information.
+ The best API to search all podcasts and episodes.
+ Trusted by 2,000 companies and developers.
+ Try Podcast API      PROMOTED    Try Podcast API        ELSEWHERE      @SuperSoulSunday      @SuperSoul      SuperSoulSunday         RECOMMENDATIONS                                 Use API to fetch this episode      Listen Notes for Chrome   The fastest way to find podcasts!
+ Listen Notes for Edge   The fastest way to find podcasts!
+ About Business Labs Legal Help Stats Blog    Submit Your Podcast to Listen Notes      English (en-us)      © 2020   Listen Notes, Inc.
+ Select Your Language  ×         English (en)       العربيّة (ar)         български (bg)       বাংলা (bn)         dansk (da)       Deutsch (de)         español (es)       eesti (et)         فارسی (fa)       suomi (fi)         Filipino (fil)       français (fr)         עברית (he)       हिंदी (hi)         Bahasa Indonesia (id)       italiano (it)         日本語 (ja)       한국어 (ko)         Melayu (ms)        မြန်မာဘာသာ (my)         Nederlands (nl)       polski (pl)         Português (pt)       Русский (ru)         svenska (sv)       ภาษาไทย (th)         Türkçe (tr)       Tiếng Việt (vi)         简体中文 (zh-hans)       繁體中文 (zh-hant)         Help Needed   Close           ×       Continue with Facebook   Continue with Google   Continue with Twitter   We’ll never sell your personal information.
+ After logging in, you agree to accept Terms of Services and Privacy Policies.
+ Questions?
+ Want to know how Listen Notes is built?\n' +  'Let me tell you: Python/Django, PostgreSQL, RabbitMQ, Celery, Elasticsearch, React.\n' +  'Want to learn more?

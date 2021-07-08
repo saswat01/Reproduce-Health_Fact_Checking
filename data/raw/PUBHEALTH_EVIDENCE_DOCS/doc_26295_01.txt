@@ -1,0 +1,89 @@
+NEJM Journal Watch  Concise summaries and expert physician commentary that busy clinicians need to enhance patient care.
+ NEJM Knowledge +  The most effective and engaging way for clinicians to learn, improve their practice, and prepare for board exams.
+ NEJM Catalyst  NEW!
+ Peer-reviewed journal featuring in-depth articles to accelerate the transformation of health care delivery.
+ NEJM Resident 360  Information, resources, and support needed to approach rotations - and life as a resident.
+ NEJM Career Center  Valuable tools for building a rewarding career in health care.
+ NEJM Library Hub  Information and tools for librarians about site license offerings.
+ NEJM 医学前沿  The authorized source of trusted medical research and education for the Chinese-language medical community.
+ The New England Journal of Medicine  The most trusted, influential source of new medical knowledge and clinical best practices in the world.
+ 383  No.
+ 19        Recent Issues          October 29, 2020  Vol.
+ 383  No.
+ 18                October 22, 2020  Vol.
+ 383  No.
+ 17                October 15, 2020  Vol.
+ 383  No.
+ 16         Browse full issue index   Browse recently published    Browse full issue index    Recently Published Articles          Racial Disproportionality in Covid Clinical Trials                   Transgender Women on College Athletic Teams — The Case of Lindsay Hecox        J. Dolgin           Early Spread of SARS-CoV-2 in the Icelandic Population                   Preterm Birth and 17OHP — Why the FDA Should Not Withdraw Approval        M.F.
+ Greene et al.
+ Withdrawing Approval of Makena — A Proposal from the FDA Center for Drug Evaluation and Research        C.Y.
+ Chang et al.
+ SARS-CoV-2 Neutralizing Antibody LY-CoV555 in Outpatients with Covid-19        P. Chen et al.
+ Browse recently published      Learning/CME            Learning/CME          CME            Remdesivir for the Treatment of Covid-19 — Final Report                    Colchicine in Patients with Chronic Coronary Disease                    Migraine             Clinical Cases Resource Center           Interactive Medical Cases          Image Challenge           Videos in Clinical Medicine        NEJM Resident 360   NEJM Knowledge+   View all learning/CME    View all learning/CME      Other NEJM Group Learning        Hand Hygiene      Essential information students and residents need to approach residency with confidence: practical training information, career guidance, insightful discussions.
+ Effective, adaptive learning that helps you prepare for certification, maintain competency, and sharpen clinical decision-making while earning CME and MOC.
+ CorrespondenceVisualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering         86
+        Citing ArticlesRelated ArticlesTo the Editor:VideoLaser Light-Scattering Experiment Showing Speech-Generated Droplets.
+ (00:42) Aerosols and droplets generated during speech have been implicated in the person-to-person transmission of viruses,1,2 and there is current interest in understanding the mechanisms responsible for the spread of Covid-19 by these means.
+ Whereas large droplets fall quickly to the ground, small droplets can dehydrate and linger as “droplet nuclei” in the air, where they behave like an aerosol and thereby expand the spatial extent of emitted infectious particles.2 We report the results of a laser light-scattering experiment in which speech-generated droplets and their trajectories were visualized.
+ The output from a 532-nm green laser operating at 2.5-W optical power was transformed into a light sheet that was approximately 1 mm thick and 150 mm tall.
+ We directed this light sheet through slits on the sides of a cardboard box measuring 53×46×62 cm.
+ The interior of the box was painted black.
+ The enclosure was positioned under a high-efficiency particulate air (HEPA) filter to eliminate dust.
+ When a person spoke through the open end of the box, droplets generated during speech traversed approximately 50 to 75 mm before they encountered the light sheet.
+ An iPhone 11 Pro video camera aimed at the light sheet through a hole (7 cm in diameter) on the opposite side of the box recorded sound and video of the light-scattering events at a rate of 60 frames per second.
+ The size of the droplets was estimated from ultrahigh-resolution recordings.
+ Video clips of the events while the person was speaking, with and without a face mask, are available with the full text of this letter at NEJM.org.
+ Figure 1.
+ Figure 1.
+ Emission of Droplets While a Person Said “Stay Healthy.” Droplets generated during speech produced flashes as they passed through the light sheet in this experiment.
+ Panel A shows the flash count during each frame of a video produced at a rate of 60 frames per second, with and without a damp cloth covering the speaker’s mouth.
+ Green indicates spoken words.
+ The number of flashes was highest (arrow) when the “th” sound in the word “healthy” was pronounced.
+ The trace offset below the graph shows that when the speaker’s mouth was covered with a damp cloth, there was no qualitative increase in the flash count during speech over the background level observed before the first trial of speech.
+ The flash count during the silent periods between the spoken phrases remained above the background level, a finding that suggests that some of the speech droplets lingered inside the box for some seconds.
+ Panel B shows frame 361 from the video, which corresponds to the red arrow in Panel A and to the highest number of speech droplets visualized in an individual frame of the video recording.
+ Some of the spots are streaked, which suggests that the rate of 60 frames per second was insufficient to freeze the motion of the droplets.
+ The feature highlighted by a dashed yellow circle corresponds to the tip of a very thin wire positioned just behind the light sheet; this wire provided a reference for setting the camera focus and gain before recording.
+ (See the video, available at NEJM.org.)
+ We found that when the person said “stay healthy,” numerous droplets ranging from 20 to 500 μm were generated.
+ These droplets produced flashes as they passed through the light sheet (Figure 1).
+ The brightness of the flashes reflected the size of the particles and the fraction of time they were present in a single 16.7-msec frame of the video.
+ The number of flashes in a single frame of the video was highest when the “th” sound in the word “healthy” was pronounced (Figure 1A).
+ Repetition of the same phrase three times, with short pauses in between the phrases, produced a similar pattern of generated particles, with peak numbers of flashes as high as 347 with the loudest speech and as low as 227 when the loudness was slightly decreased over the three trials (see the top trace in Figure 1A).
+ When the same phrase was uttered three times through a slightly damp washcloth over the speaker’s mouth, the flash count remained close to the background level (mean, 0.1 flashes); this showed a decrease in the number of forward-moving droplets (see the bottom trace in Figure 1A).
+ We found that the number of flashes increased with the loudness of speech; this finding was consistent with previous observations by other investigators.3 In one study, droplets emitted during speech were smaller than those emitted during coughing or sneezing.
+ Some studies have shown that the number of droplets produced by speaking is similar to the number produced by coughing.4 We did not assess the relative roles of droplets generated during speech, droplet nuclei,2 and aerosols in the transmission of viruses.
+ Our aim was to provide visual evidence of speech-generated droplets and to qualitatively describe the effect of a damp cloth cover over the mouth to curb the emission of droplets.
+ Philip Anfinrud, Ph.D.Valentyn Stadnytskyi, Ph.D.National Institutes of Health, Bethesda, MDChristina E. Bax, B.A.Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PAAdriaan Bax, Ph.D.National Institutes of Health, Bethesda, MD Disclosure forms provided by the authors are available with the full text of this letter at NEJM.org.
+ This letter was published on April 15, 2020, at NEJM.org.4 References1.
+ Duguid JP.
+ The size and the duration of air-carriage of respiratory droplets and droplet-nuclei.
+ J Hyg (Lond) 1946;44:471-479.MedlineGoogle Scholar2.
+ Marr LC, Tang JW, Van Mullekom J, Lakdawala SS.
+ Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence.
+ J R Soc Interface 2019;16(150).Crossref Web of Science MedlineGoogle Scholar3.
+ Asadi S, Wexler AS, Cappa CD, Barreda S, Bouvier NM, Ristenpart WD.
+ Aerosol emission and superemission during human speech increase with voice loudness.
+ Sci Rep 2019;9:2348-2348.Crossref Web of Science MedlineGoogle Scholar4.
+ Chao CYH, Wan MP, Morawska L, et al.
+ Characterization of expiration air jets and droplet size distributions immediately at the mouth opening.
+ Creager     Perspective  Undocumented U.S.
+ Immigrants and Covid-19  K.R.
+ Page and Others     Original Article  Endovascular Thrombectomy with or without Intravenous Alteplase in Acute Stroke  P. Yang and Others     Perspective  Developing Covid-19 Vaccines at Pandemic Speed  N. Lurie and Others     Images in Clinical Medicine  Disseminated Fusariosis  J. Sevestre and L. Kopec     Original Article  Covid-19 in Critically Ill Patients in the Seattle Region — Case Series  P.K.
+ Bhatraju and Others     Review Article  Emerging and Reemerging Sexually Transmitted Infections  D.A.
+ Williamson and M.Y.
+ Bonaca and Others     Perspective  The Toughest Triage — Allocating Ventilators in a Pandemic  R.D.
+ Truog, C. Mitchell, and G.Q.
+ Daley     Perspective  Universal Masking in Hospitals in the Covid-19 Era  M. Klompas and Others     Case Records of the Massachusetts General Hospital  Case 16-2020: A 47-Year-Old Woman with Recurrent Melanoma and Pulmonary Nodules  K.A.
+ Armstrong and Others     Editorial  Audio Interview: Capitalizing on Immune Responses to Covid-19  E.J.
+ Rubin, L.R.
+ Baden, and S. Morrissey     Clinical Implications of Basic Research  On Complement, Memory, and Microglia  R.S.
+ Klein     Original Article  Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington  T.M.
+ McMichael and Others     Perspective  They Call Us and We Go  S. Koven     Perspective  Leadership for the Social Climate  G. Belkin     Editorial  Thrombolysis before Thrombectomy — To Be or DIRECT-MT?
+ G.W.
+ Albers     Sounding Board  Fair Allocation of Scarce Medical Resources in the Time of Covid-19  E.J.
+ Sign In or Renew                    Back to top       Article Categories   Research   Reviews   Clinical Cases   Perspective   Commentary   Other   Browse all Articles   Current Issue   Issue Index     Resources   Authors &amp; Reviewers   Submit a Manuscript   Subscribers   Institutions   Media   Advertisers   Agents   Permissions          Reprints         NEJM CareerCenter     About Us   About NEJM   Products &amp; Services   Editors &amp; Publishers   Advertising Policies   Contact Us   Accessibility   FAQs   Help   Site Feedback     Subscriptions   Subscribe   Renew   Activate Subscription   Create Account   Manage Account   Pay Bill   Special Offers     Stay Connected   Email Alerts   Create Account   Apps   NEJM CareerCenter   Podcasts   RSS Feed   Remote Access     Follow Us             Facebook                   Twitter                   Instagram              YouTube                   LinkedIn             Copyright © 2020 Massachusetts Medical Society.
+ All rights reserved.
+ Electronic ISSN 1533-4406.
+ Print ISSN 0028-4793.
+ The content of this site is intended for health care professionals.

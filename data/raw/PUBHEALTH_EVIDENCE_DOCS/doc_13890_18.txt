@@ -1,0 +1,34 @@
+?
+ ("fetch"in window))polyfills.push(loadScript(rootUrl+"/polyfills/fetch.8c78815e37189a88a5ccc668ab31698f.js",false));if("noModule"in HTMLScriptElement.prototype&amp;&amp;!
+ ("importShim"in window))polyfills.push(loadScript(rootUrl+"/polyfills/dynamic-import.7e92f44abf1bc4578c73f96cf729f100.js",false));if(!
+ ("attachShadow"in Element.prototype)||!
+ (AP Photo/Charles Dharapak)  This story was originally published July 7, 2016, at 6:03 a.m. EST.
+ It has since been updated.
+ Roughly 20 veterans a day commit suicide nationwide, according to new data from the Department of Veterans Affairs — a figure that dispels the often quoted, but problematic, "22 a day" estimate yet solidifies the for the problem and replaces it with an equally disturbing mental health crisis the number implied.
+ In 2014, the latest year available, more than 7,400 veterans took their own lives, accounting for 18 percent of all suicides in America.
+ Veterans make up less than 9 percent of the U.S. population.
+ The new data, set to being released publicly Thursday today, is the most comprehensive suicide study ever conducted by the department.
+ For years, the department has estimated the veterans suicide toll nationwide at around 22 individuals a day, but veterans groups noted numerous gaps in how that estimate was constructed.
+ Most notably, the numbers were based on information from only about 20 states and did not contain full military records from the Defense Department.
+ The new study includes more than 50 million veterans’ records from 1979 to 2014, including every state.
+ The data, compiled over the last four years, also comes from the Centers of for Disease Control.
+ Sign up for the Early Bird Brief - a daily roundup of military and defense news stories from around the globe.
+ Thanks for signing up.
+ By giving us your email, you are opting in to the Early Bird Brief.
+ VA officials said in a statement that the information will allow them to "inform our suicide prevention programs and policies, especially for groups at elevated risk for suicide, including older and female veterans."
+ Together, the numbers point to a significant mental health risk for individuals who served in the military, though the specific reasons why remain unclear.
+ Researchers found that the risk of suicide for veterans is 21 percent higher when compared to civilian adults.
+ From 2001 to 2014, as the civilian suicide rate rose about 23.3 percent, the rate of suicide among veterans jumped more than 32 percent.
+ And roughly 65 percent of all veteran suicides in 2014 were for individuals 50 years or older, many of whom spent little or no time fighting in the most recent wars.
+ Providing support and assistance to suicidal veterans has proven difficult, in part because of the lack of data on the scope of the problem.
+ In recent years, VA has hired 5,300 mental health providers and support personnel and upgraded its Veterans Crisis Line in response to the problem.
+ It has also elevated the profile of its suicide prevention office within the department and launched new partnerships with community health providers to offer counseling to veterans.
+ Officials hope to use the data to further expand those offerings, targeting specific regions and populations within the veterans community to more effectively deliver care.
+ "Of course, this is still 20 [deaths] too many," said Joe Chenelly, executive director at AMVETS.
+ "But we are grateful for the deeper, more accurate data analysis.
+ Much still needs to be done, and this gives us a better idea where to focus."
+ Full year-by-year and demographic breakdowns of the data are expected to be released by the department by the end of July.
+ Leo Shane III covers Congress, Veterans Affairs and the White House for Military Times.
+ He can be reached at lshane@militarytimes.com.
+ Patricia Kime covers military and veterans health care and medicine for Military Times.
+ Personal finance expert Jeanette Mack talks about resources available to transitioning service members, so they can successfully land on their feet.

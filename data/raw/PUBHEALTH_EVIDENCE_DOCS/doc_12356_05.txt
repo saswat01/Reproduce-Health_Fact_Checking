@@ -1,0 +1,267 @@
+NEJM Journal Watch  Concise summaries and expert physician commentary that busy clinicians need to enhance patient care.
+ NEJM Knowledge +  The most effective and engaging way for clinicians to learn, improve their practice, and prepare for board exams.
+ NEJM Catalyst  NEW!
+ Peer-reviewed journal featuring in-depth articles to accelerate the transformation of health care delivery.
+ NEJM Resident 360  Information, resources, and support needed to approach rotations - and life as a resident.
+ NEJM Career Center  Valuable tools for building a rewarding career in health care.
+ NEJM Library Hub  Information and tools for librarians about site license offerings.
+ NEJM 医学前沿  The authorized source of trusted medical research and education for the Chinese-language medical community.
+ The New England Journal of Medicine  The most trusted, influential source of new medical knowledge and clinical best practices in the world.
+ 383  No.
+ 19        Recent Issues          October 29, 2020  Vol.
+ 383  No.
+ 18                October 22, 2020  Vol.
+ 383  No.
+ 17                October 15, 2020  Vol.
+ 383  No.
+ 16         Browse full issue index   Browse recently published    Browse full issue index    Recently Published Articles          Racial Disproportionality in Covid Clinical Trials                   Transgender Women on College Athletic Teams — The Case of Lindsay Hecox        J. Dolgin           Early Spread of SARS-CoV-2 in the Icelandic Population                   Preterm Birth and 17OHP — Why the FDA Should Not Withdraw Approval        M.F.
+ Greene et al.
+ Withdrawing Approval of Makena — A Proposal from the FDA Center for Drug Evaluation and Research        C.Y.
+ Chang et al.
+ SARS-CoV-2 Neutralizing Antibody LY-CoV555 in Outpatients with Covid-19        P. Chen et al.
+ Browse recently published      Learning/CME            Learning/CME          CME            Remdesivir for the Treatment of Covid-19 — Final Report                    Colchicine in Patients with Chronic Coronary Disease                    Migraine             Clinical Cases Resource Center           Interactive Medical Cases          Image Challenge           Videos in Clinical Medicine        NEJM Resident 360   NEJM Knowledge+   View all learning/CME    View all learning/CME      Other NEJM Group Learning        Hand Hygiene      Essential information students and residents need to approach residency with confidence: practical training information, career guidance, insightful discussions.
+ Effective, adaptive learning that helps you prepare for certification, maintain competency, and sharpen clinical decision-making while earning CME and MOC.
+ Article               Figures/Media             Metrics        54 References141
+        Citing Articles
+        Letters
+       Related ArticlesIntroductionThe national debate over the Affordable Care Act (ACA) has involved substantial discussion about what effects — if any — insurance coverage has on health and mortality.
+ The prospect that the law’s replacement might lead to millions of Americans losing coverage has brought this empirical question into sharp focus.
+ Table 1.
+ Evidence on the Effects of Health Insurance on Health Care and Health Outcomes, 2007–2017.Nonetheless, over the past decade, high-quality studies have shed light on the effects of coverage on care and health.
+ Here, we review and synthesize this evidence, focusing on the most rigorous studies from the past decade on the effects of coverage for nonelderly adults.
+ Previous reviews have provided a thorough discussion of older studies.3 We concentrate on more recent experimental and quasi-experimental studies of the ACA and other expansions of public or private insurance.
+ But as a whole, this body of research (Table 1) offers important insights into how coverage affects health care utilization, disease treatment and outcomes, self-reported health, and mortality.
+ Financial Protection and the Role of Insurance Before we assess these effects, it is worth recognizing the role of insurance as a tool for managing financial risk.
+ There is abundant evidence that having health insurance improves financial security.
+ The strongest evidence comes from the Oregon Health Insurance Experiment, a rare randomized, controlled trial of health insurance coverage.31 In that study, people selected by lottery from a Medicaid waiting list experienced major gains in financial well-being as compared with those who were not selected: a $390 average decrease in the amount of medical bills sent to collection and a virtual elimination of catastrophic out-of-pocket expenses.4,8 Studies of other insurance expansions, such as Massachusetts’ 2006 health care reform,7 the ACA’s 2010 “dependent-coverage provision” enabling young adults to stay on a parent’s plan until age 26,6 and the ACA’s 2014 Medicaid expansion,5 have all revealed similar changes, including reduced bill collections and bankruptcies, confirming that insurance coverage reduces the risk of large unpredictable medical costs.
+ But from a policy perspective, health insurance is viewed differently from most other types of insurance: there is no push, for example, for universal homeowners’ or renters’ insurance subsidized by the federal government.
+ We contend that there are two reasons for this difference.
+ First, policymakers may value publicly subsidized health insurance as an important part of the social safety net that broadly redistributes resources to lower-income populations.
+ Second, policymakers may view health insurance as a tool for achieving the specific policy priority of improved medical care and public health.
+ Evaluating the impact of insurance coverage on health outcomes — and whether these benefits justify the costs of expanding coverage — is our focus.
+ Access to Care and Utilization For coverage to improve health, insurance must improve people’s care, not just change how it’s paid for.
+ Several observational studies have found that the ACA’s coverage expansion was associated with higher rates of having a usual source of care and being able to afford needed care,32,33 factors typically associated with better health outcomes.34 Stronger experimental and quasi-experimental evidence shows that coverage expansions similarly lead to greater access to primary care,11,24 more ambulatory care visits,8 increased use of prescription medications,4,12 and better medication adherence.11 There is also strong evidence that coverage expansion increases access to preventive services, which can directly maintain or improve health.
+ Studies of Massachusetts’ health care reform9 and the ACA’s Medicaid expansion found higher rates of preventive health care visits,11 and although the utility of the “annual exam” is uncertain, such visits may facilitate more specific evidence-based screening.
+ For instance, the ACA Medicaid expansion has led to significant increases in testing for diabetes,11 hypercholesterolemia,18 and HIV,10 and the Oregon study revealed a 15-percentage-point increase in the rate of cholesterol screening and 15- to 30-percentage-point increases in rates of screening for cervical, prostate, and breast cancer.4 The connection between health outcomes and use of other services, such as surgery, emergency-department (ED) care, and hospitalizations, tends to be more complicated.
+ Much of this utilization serves critical health needs, though some may represent low-value care or reflect poor outpatient care.
+ Thus, it is perhaps not surprising that the evidence on the effects of coverage on ED use and hospitalizations is mixed.35 Both types of utilization went up in the Oregon study,8,13 whereas studies of other coverage expansions found reductions in ED use,11,14,15 and changes in hospital use have not been significant in several ACA studies11,26 — though these studies may not have had an adequate sample size to examine this less common outcome.
+ Meanwhile, studies of Massachusetts’ reform and the ACA’s dependent-coverage provision indicate that insurance improves access to some high-value types of surgical care.16,17 Chronic Disease Care and Outcomes The effects of coverage are particularly important for people with chronic conditions, a vulnerable high-cost population.
+ Here, the Oregon experiment found nuanced effects.
+ After 2 years of coverage, there were no statistically significant changes in glycated hemoglobin, blood pressure, or cholesterol levels.4 On the basis of these results, some observers have argued that expanding Medicaid does not improve health and is thus inadvisable.36 However, the study revealed significant increases in the rate of diagnosis of diabetes that were consistent with findings in two recent post-ACA studies,18,37 along with a near-doubling of use of diabetes medications,4 again consistent with more recent data on the ACA’s Medicaid expansion.12 Glycated hemoglobin levels did not improve, but, as the authors note, the confidence intervals are potentially consistent with these medications’ working as expected.4 The investigators did not detect significant changes in diagnosis of or treatment for high cholesterol or hypertension.
+ One recent quasi-experimental study, however, showed that the ACA’s Medicaid expansion was associated with better blood-pressure control among community health center patients.38 Meanwhile, the Oregon study found substantial improvements in depression, one of the leading causes of disability in the United States.39 It also found an increased rate of diagnosis, a borderline-significant increase in the rate of treatment with antidepressant medication, and a 30% relative reduction in rates of depressive symptoms.4 Other studies have assessed the effects of insurance coverage on cancer, the leading cause of death among nonelderly adults in the United States.40 Though not all cancer results in chronic illness, most cancer diagnoses necessitate a period of ongoing care, and approximately 8 million U.S. adults under age 70 are currently living with cancer.41 Beyond increases in cancer screening, health insurance may also facilitate more timely or effective cancer care.
+ However, evidence on this front is mixed.
+ A study of Massachusetts’ reform did not find any changes in breast-cancer stage at diagnosis,20 whereas the ACA’s dependent-coverage provision was associated with earlier-stage diagnosis and treatment of cervical cancer among young women.21 Another Massachusetts study revealed an increase in rates of potentially curative surgery for colon cancer among low-income patients after coverage expansion, with fewer patients waiting until the emergency stage for treatment.17 Coverage implications for many other illnesses such as asthma, kidney disease, and heart failure require additional research.
+ At 1 year, the Oregon study found a 25% increase in the likelihood of patients reporting “good, very good, or excellent” health, and more days in good physical and mental health.8 Evidence from quasi-experimental studies indicates that self-reported health and functional status improved after Massachusetts’ reform23 and after several pre-ACA state Medicaid expansions,22 and that self-reported physical and mental health improved after the ACA’s dependent-coverage provision went into effect.6 Recent studies of the ACA’s 2014 coverage expansion provide more mixed evidence.
+ Multiple analyses have found improved self-reported health after the ACA’s coverage expansion, either in broad national trends24 or Medicaid expansion studies,10,11 whereas one found significant changes only for select subpopulations25 and another not at all.26 Larger coverage gains have generally been associated with more consistent findings of improved self-reported health.19 Does self-reported health even matter?
+ It squarely fits within the World Health Organization’s definition of health as “a state of complete physical, mental, and social well-being,” and improved subjective well-being (i.e., feeling better) is also a primary goal for much of the medical care delivered by health care professionals.
+ In addition, self-reported health is a validated measure of the risk of death.
+ People who describe their health as poor have mortality rates 2 to 10 times as high as those who report being in the healthiest category.42,43 Mortality Perhaps no research question better encapsulates this policy debate than, “Does coverage save lives?” Beginning with the Institute of Medicine’s 2002 report Care without Coverage, some analyses have suggested that lack of insurance causes tens of thousands of deaths each year in the United States.44 Subsequent observational studies had conflicting findings.
+ One concluded that lacking coverage was a strong independent risk factor for death,28 whereas another found that coverage was only a proxy for risk factors such as socioeconomic status and health-related behaviors.27 More recently, several studies have been conducted with stronger research designs better suited to answering this question.
+ The Oregon study assessed mortality but was limited by the infrequency of deaths in the sample.
+ The estimated 1-year mortality change was a nonsignificant 16% reduction, but with a confidence interval of −82% to +50%, meaning that the study could not rule out large reductions — or increases — in mortality.
+ As the authors note, the study sample and duration were not well suited to evaluating mortality.
+ Several quasi-experimental studies using population-level data and longer follow-up offer more precise estimates of coverage’s effect on mortality.
+ One study compared three states implementing large Medicaid expansions in the early 2000s to neighboring states that didn’t expand Medicaid, finding a significant 6% decrease in mortality over 5 years of follow-up.22 A subsequent analysis showed the largest decreases were for deaths from “health-care–amenable” conditions such as heart disease, infections, and cancer, which are more plausibly affected by access to medical care.29 Meanwhile, a study of Massachusetts’ 2006 reform found significant reductions in all-cause mortality and health-care–amenable mortality as compared with mortality in demographically similar counties nationally, particularly those with lower pre-expansion rates of insurance coverage.9 Overall, the study identified a “number needed to treat” of 830 adults gaining coverage to prevent one death a year.
+ The comparable estimate in a more recent analysis of Medicaid’s mortality effects was one life saved for every 239 to 316 adults gaining coverage.29 How can one reconcile these mortality findings with the nonsignificant cardiovascular and diabetes findings in the Oregon study?
+ Research design could account for the difference: the Oregon experiment was a randomized trial and the quasi-experimental studies were not, so the latter are susceptible to unmeasured confounding despite attempts to rule out alternative explanations, such as economic factors, demographic shifts, and secular trends in medical technology.
+ But — as coauthors of several of these articles — we believe that other explanations better account for this pattern of results.
+ First, mortality is a composite outcome of many conditions and factors.
+ Hypertension, dyslipidemia, and elevated glycated hemoglobin levels are important clinical measures but do not capture numerous other causes of increased risk of death.
+ The Massachusetts and Medicaid mortality studies examined hundreds of thousands of people gaining coverage over 4 to 5 years of follow-up, as compared with roughly 10,000 Oregonians gaining coverage and being assessed after less than 2 years.
+ It may take years for important effects of insurance coverage — such as increased use of primary and preventive care, or treatment for life-threatening conditions such as cancer, HIV–AIDS, or liver or kidney disease — to manifest in reduced mortality, given that mortality changes in the other studies increased over time.9,22 Third, the effects on self-reported health — so clearly seen in the Oregon study and other research — are themselves predictive of reduced mortality over a 5- to 10-year period.42,43 Studies suggest that a 25% reduction in self-reported poor health could plausibly cut mortality rates in half (or further) for the sickest members of society, who have disproportionately high rates of death.
+ Finally, the links among mental health, financial stress, and physical health are numerous,45 suggesting additional pathways for coverage to produce long-term health effects.
+ Different Types of Coverage In light of recent evidence on the benefits of health insurance coverage, some ACA critics have argued that private insurance is beneficial but Medicaid is ineffective or even harmful.46 Is there evidence for this view?
+ There is a greater body of rigorous evidence on Medicaid’s effects — from studies of pre-ACA expansions, from the Oregon study, and from analyses of the ACA itself — than there is on the effects of private coverage.
+ The latter includes studies of the ACA’s dependent-coverage provision, which expanded only private insurance, and of Massachusetts’ reform, which featured a combination of Medicaid expansion, subsidies for private insurance through Medicaid managed care insurers, and some increase in employer coverage.
+ But there is no large quasi-experimental or randomized trial demonstrating unique health benefits of private insurance.
+ Finally, though it is outside the focus of our discussion, there is also quasi-experimental evidence that Medicare improves self-reported health48 and reduces in-hospital mortality among the elderly,49 though a study of older data from Medicare’s 1965 implementation did not find a survival benefit.50 However, since universal coverage by Medicare for elderly Americans is well entrenched, both the policy debate and opportunities for future research on this front are much more limited.
+ Implications and Conclusions One question experts are commonly asked is how the ACA — or its repeal — will affect health and mortality.
+ The body of evidence summarized here indicates that coverage expansions significantly increase patients’ access to care and use of preventive care, primary care, chronic illness treatment, medications, and surgery.
+ These increases appear to produce significant, multifaceted, and nuanced benefits to health.
+ Some benefits may manifest in earlier detection of disease, some in better medication adherence and management of chronic conditions, and some in the psychological well-being born of knowing one can afford care when one gets sick.
+ Such modest but cumulative changes — which one of us has called “the heroism of incremental care”51 — may not occur for everyone and may not happen quickly.
+ But the evidence suggests that they do occur, and that some of these changes will ultimately help tens of thousands of people live longer lives.
+ Conversely, the data suggest that policies that reduce coverage will produce significant harms to health, particularly among people with lower incomes and chronic conditions.
+ Do these findings apply to the ACA?
+ Drawing on evidence from recent coverage expansions is, in our view, the most reasonable way to estimate future effects of policy, but this sort of extrapolation is not an exact science.
+ The ACA shares many features with prior expansions, in particular the Massachusetts reform on which it was modeled.
+ But it is a complex law implemented in a highly contentious and uncertain policy environment, and its effects may have been limited by policies in some states that reduced take-up,52 Congress’s partial defunding of the provisions for stabilizing the ACA’s insurance marketplaces,53 and plan offerings with high patient cost sharing.
+ Furthermore, every state’s Medicaid program has unique features, which makes direct comparisons difficult.
+ Finally, coverage expansions and contractions will not necessarily produce mirror-image effects.
+ For these reasons, no study can offer a precise prediction for the current policy debate.
+ But our assessment, in short, is that these studies provide the best evidence we have for projecting the impact of the ACA or its repeal.
+ The many benefits of coverage, though, come at a real cost.
+ Given the increases in most types of utilization, expanding coverage leads to an increase in societal resources devoted to health care.8 There are key policy questions about how to control costs, how much redistribution across socioeconomic groups is optimal, and how trade-offs among federal, state, local, and private spending should be managed.
+ In none of these scenarios, however, is there evidence that covering more people in the United States will ultimately save society money.
+ Are the benefits of publicly subsidized coverage worth the cost?
+ An analysis of mortality changes after Medicaid expansion suggests that expanding Medicaid saves lives at a societal cost of $327,000 to $867,000 per life saved.29 By comparison, other public policies that reduce mortality have been found to average $7.6 million per life saved, suggesting that expanding health insurance is a more cost-effective investment than many others we currently make in areas such as workplace safety and environmental protections.29,54 Factoring in enhanced well-being, mental health, and other outcomes would only further improve the cost–benefit ratio.
+ But ultimately, policymakers and other stakeholders must decide how much they value these improvements in health, relative to other uses of public resources — from spending them on education and other social services to reducing taxes.
+ There remain many unanswered questions about U.S. health insurance policy, including how to best structure coverage to maximize health and value and how much public spending we want to devote to subsidizing coverage for people who cannot afford it.
+ But whether enrollees benefit from that coverage is not one of the unanswered questions.
+ Insurance coverage increases access to care and improves a wide range of health outcomes.
+ Arguing that health insurance coverage doesn’t improve health is simply inconsistent with the evidence.
+ Funding and Disclosures  Disclosure forms provided by the authors are available at NEJM.org.
+ Chan School of Public Health (B.D.S., A.A.G., K.B.
+ ), and the Departments of Medicine (B.D.S.)
+ and Surgery (A.A.G.
+ Supplementary Material
+       References (54)1.
+ Schlesinger R. Trumpcare’s got a coverage problem.
+ U.S. News &amp; World Report.
+ March 8, 2017 (http://www.usnews.com/opinion/thomas-jefferson-street/articles/2017-03-08/the-gops-obamacare-repeal-has-a-health-care-coverage-problem).Google Scholar2.
+ Watson K. GOP congressman: “Nobody dies because they don’t have access to health care.” CBS News.
+ May 6, 2017 (http://www.cbsnews.com/news/gop-congressman-nobody-dies-because-they-dont-have-access-to-health-care/).Google Scholar3.
+ McWilliams JM.
+ Health consequences of uninsurance among adults in the United States: recent evidence and implications.
+ Milbank Q 2009;87:443-494Crossref Web of Science MedlineGoogle Scholar4.
+ Baicker K, Taubman SL, Allen HL, et al.
+ The Oregon experiment — effects of Medicaid on clinical outcomes.
+ N Engl J Med 2013;368:1713-1722Free Full Text Web of Science MedlineGoogle Scholar5.
+ Hu L, Kaestner R, Mazumder B, Miller S, Wong A.
+ The effect of the Patient Protection and Affordable Care Act Medicaid expansions on financial well-being.
+ Cambridge, MA: National Bureau of Economic Research, 2016.Google Scholar6.
+ Chua KP, Sommers BD.
+ Changes in health and medical spending among young adults under health reform.
+ JAMA 2014;311:2437-2439Crossref Web of Science MedlineGoogle Scholar7.
+ Mazumder B, Miller S. The effects of the Massachusetts Health Reform on household financial distress.
+ Am Econ J Econ Policy 2016;8:284-313Crossref Web of ScienceGoogle Scholar8.
+ Finkelstein A, Taubman S, Wright B, et al.
+ The Oregon Health Insurance Experiment: evidence from the first year.
+ Q J Econ 2012;127:1057-1106Crossref Web of Science MedlineGoogle Scholar9.
+ Sommers BD, Long SK, Baicker K. Changes in mortality after Massachusetts health care reform: a quasi-experimental study.
+ Ann Intern Med 2014;160:585-593Crossref Web of Science MedlineGoogle Scholar10.
+ Simon K, Soni A, Cawley J.
+ The impact of health insurance on preventive care and health behaviors: evidence from the first two years of the ACA Medicaid expansions.
+ J Policy Anal Manage 2017;36:390-417Crossref Web of Science MedlineGoogle Scholar11.
+ Sommers BD, Blendon RJ, Orav EJ, Epstein AM.
+ Changes in utilization and health among low-income adults after Medicaid expansion or expanded private insurance.
+ JAMA Intern Med 2016;176:1501-1509Crossref Web of Science MedlineGoogle Scholar12.
+ Ghosh A, Simon K, Sommers BD.
+ The effect of state Medicaid expansions on prescription drug use: evidence from the Affordable Care Act.
+ Cambridge, MA: National Bureau of Economic Research, 2017.Google Scholar13.
+ Taubman SL, Allen HL, Wright BJ, Baicker K, Finkelstein AN.
+ Medicaid increases emergency-department use: evidence from Oregon’s Health Insurance Experiment.
+ Science 2014;343:263-268Crossref Web of Science MedlineGoogle Scholar14.
+ Akosa Antwi Y, Moriya AS, Simon K, Sommers BD.
+ Changes in emergency department use among young adults after the Patient Protection and Affordable Care Act’s Dependent Coverage Provision.
+ Ann Emerg Med 2015;65:664-672.e2Crossref Web of Science MedlineGoogle Scholar15.
+ Miller S. The effect of insurance on emergency room visits: an analysis of the 2006 Massachusetts health reform.
+ J Public Econ 2012;96:893-908Crossref Web of ScienceGoogle Scholar16.
+ Scott JW, Rose JA, Tsai TC, et al.
+ Impact of ACA insurance coverage expansion on perforated appendix rates among young adults.
+ Med Care 2016;54:818-826Crossref Web of Science MedlineGoogle Scholar17.
+ Loehrer AP, Song Z, Haynes AB, Chang DC, Hutter MM, Mullen JT.
+ Impact of health insurance expansion on the treatment of colorectal cancer.
+ J Clin Oncol 2016;34:4110-4115Crossref Web of Science MedlineGoogle Scholar18.
+ Wherry LR, Miller S. Early coverage, access, utilization, and health effects associated with the Affordable Care Act Medicaid expansions: a quasi-experimental study.
+ Ann Intern Med 2016;164:795-803Crossref Web of Science MedlineGoogle Scholar19.
+ Sommers BD, Maylone B, Blendon RJ, Orav EJ, Epstein AM.
+ Three-year impacts of the Affordable Care Act: improved medical care and health among low-income adults.
+ Health Aff (Millwood) 2017;36:1119-1128Crossref Web of Science MedlineGoogle Scholar20.
+ Keating NL, Kouri EM, He Y, West DW, Winer EP.
+ Effect of Massachusetts health insurance reform on mammography use and breast cancer stage at diagnosis.
+ Cancer 2013;119:250-258Crossref Web of Science MedlineGoogle Scholar21.
+ Robbins AS, Han X, Ward EM, Simard EP, Zheng Z, Jemal A.
+ Association between the Affordable Care Act dependent coverage expansion and cervical cancer stage and treatment in young women.
+ JAMA 2015;314:2189-2191Crossref Web of Science MedlineGoogle Scholar22.
+ Sommers BD, Baicker K, Epstein AM.
+ Mortality and access to care among adults after state Medicaid expansions.
+ N Engl J Med 2012;367:1025-1034Free Full Text Web of Science MedlineGoogle Scholar23.
+ Van Der Wees PJ, Zaslavsky AM, Ayanian JZ.
+ Improvements in health status after Massachusetts health care reform.
+ Milbank Q 2013;91:663-689Crossref Web of Science MedlineGoogle Scholar24.
+ Sommers BD, Gunja MZ, Finegold K, Musco T. Changes in self-reported insurance coverage, access to care, and health under the Affordable Care Act.
+ JAMA 2015;314:366-374Crossref Web of Science MedlineGoogle Scholar25.
+ Courtemanche C, Marton J, Ukert B, Yelowitz A, Zapata D. Early effects of the Affordable Care Act on health care access, risky health behaviors, and self-assessed health.
+ Cambridge, MA: National Bureau of Economic Research, 2017.Google Scholar26.
+ Miller S, Wherry LR.
+ Health and access to care during the first 2 years of the ACA Medicaid expansions.
+ N Engl J Med 2017;376:947-956Free Full Text Web of Science MedlineGoogle Scholar27.
+ Kronick R. Health insurance coverage and mortality revisited.
+ Health Serv Res 2009;44:1211-1231Crossref Web of Science MedlineGoogle Scholar28.
+ Wilper AP, Woolhandler S, Lasser KE, McCormick D, Bor DH, Himmelstein DU.
+ Health insurance and mortality in US adults.
+ Am J Public Health 2009;99:2289-2295Crossref Web of Science MedlineGoogle Scholar29.
+ Sommers BD.
+ State Medicaid expansions and mortality, revisited: a cost-benefit analysis.
+ Am J Health Econ 2017 May 17 (Epub ahead of print).Google Scholar30.
+ Torres H, Poorman E, Tadepalli U, et al.
+ Coverage and access for Americans with chronic disease under the Affordable Care Act: a quasi-experimental study.
+ Ann Intern Med 2017;166:472-479Crossref Web of Science MedlineGoogle Scholar31.
+ Allen H, Baicker K, Finkelstein A, Taubman S, Wright BJ.
+ What the Oregon Health Study can tell us about expanding Medicaid.
+ Health Aff (Millwood) 2010;29:1498-1506Crossref Web of Science MedlineGoogle Scholar32.
+ Shartzer A, Long SK, Anderson N. Access to care and affordability have improved following Affordable Care Act implementation; problems remain.
+ Health Aff (Millwood) 2016;35:161-168Crossref Web of Science MedlineGoogle Scholar33.
+ Collins SR, Gunja M, Doty MM, Beutel S. Americans’ experiences with ACA Marketplace and Medicaid coverage: access to care and satisfaction.
+ New York: The Commonwealth Fund, 2016.Google Scholar34.
+ Starfield B, Shi L, Macinko J.
+ Contribution of primary care to health systems and health.
+ Milbank Q 2005;83:457-502Crossref Web of Science MedlineGoogle Scholar35.
+ Sommers BD, Simon K. Health insurance and emergency department use — a complex relationship.
+ N Engl J Med 2017;376:1708-1711Full Text Web of Science MedlineGoogle Scholar36.
+ Cannon MF.
+ Oregon study throws a stop sign in front of ObamaCare’s Medicaid expansion.
+ Washington, DC: Cato Institute, 2013.Google Scholar37.
+ Kaufman HW, Chen Z, Fonseca VA, McPhaul MJ.
+ Surge in newly identified diabetes among Medicaid patients in 2014 within Medicaid expansion states under the Affordable Care Act.
+ Diabetes Care 2015;38:833-837Crossref Web of Science MedlineGoogle Scholar38.
+ Cole MB, Galárraga O, Wilson IB, Wright B, Trivedi AN.
+ At federally funded health centers, Medicaid expansion was associated with improved quality of care.
+ Health Aff (Millwood) 2017;36:40-48Crossref Web of Science MedlineGoogle Scholar39.
+ Murray CJ, Atkinson C, Bhalla K, et al.
+ The state of US health, 1990-2010: burden of diseases, injuries, and risk factors.
+ JAMA 2013;310:591-608Crossref Web of Science MedlineGoogle Scholar40.
+ 10 Leading causes of death by age group, United States — 2015.
+ Atlanta: Centers for Disease Control and Prevention (http://www.cdc.gov/injury/images/lc-charts/leading_causes_of_death_age_group_2015_1050w740h.gif).Google Scholar41.
+ Cancer treatment &amp; survivorship: facts &amp; figures: 2016–2017.
+ Atlanta: American Cancer Society, 2016 (http://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/cancer-treatment-and-survivorship-facts-and-figures/cancer-treatment-and-survivorship-facts-and-figures-2016-2017.pdf).Google Scholar42.
+ Miilunpalo S, Vuori I, Oja P, Pasanen M, Urponen H. Self-rated health status as a health measure: the predictive value of self-reported health status on the use of physician services and on mortality in the working-age population.
+ J Clin Epidemiol 1997;50:517-528Crossref Web of Science MedlineGoogle Scholar43.
+ DeSalvo KB, Bloser N, Reynolds K, He J, Muntner P. Mortality prediction with a single general self-rated health question: a meta-analysis.
+ J Gen Intern Med 2006;21:267-275Crossref Web of Science MedlineGoogle Scholar44.
+ Care without coverage: too little, too late.
+ Washington, DC: Institute of Medicine, 2002.Google Scholar45.
+ Krieger N. Epidemiology and the people’s health: theory and context.
+ Oxford, United Kingdom: Oxford University Press, 2013.Google Scholar46.
+ Roy A. Romneycare improved health outcomes, thanks to private-sector coverage.
+ Forbes.
+ May 7, 2014 (https://www.forbes.com/sites/theapothecary/2014/05/07/romneycare-improved-health-outcomes-thanks-to-private-sector-coverage/#6bcbd7f1de55).Google Scholar47.
+ Epstein AM, Sommers BD, Kuznetsov Y, Blendon RJ.
+ Low-income residents in three states view Medicaid as equal to or better than private coverage, support expansion.
+ Health Aff (Millwood) 2014;33:2041-2047Crossref Web of Science MedlineGoogle Scholar48.
+ McWilliams JM, Meara E, Zaslavsky AM, Ayanian JZ.
+ Health of previously uninsured adults after acquiring Medicare coverage.
+ JAMA 2007;298:2886-2894Crossref Web of Science MedlineGoogle Scholar49.
+ Card D, Dobkin C, Maestas N. Does Medicare save lives?
+ Q J Econ 2009;124:597-636Crossref Web of Science MedlineGoogle Scholar50.
+ Finkelstein A, McKnight R. What did Medicare do?
+ The initial impact of Medicare on mortality and out of pocket medical spending.
+ J Public Econ 2008;92:1644-1668Crossref Web of ScienceGoogle Scholar51.
+ Gawande A.
+ The heroism of incremental care.
+ The New Yorker.
+ January 23, 2017 (http://www.newyorker.com/magazine/2017/01/23/the-heroism-of-incremental-care).Google Scholar52.
+ Sommers BD, Maylone B, Nguyen KH, Blendon RJ, Epstein AM.
+ The impact of state policies on ACA applications and enrollment among low-income adults in Arkansas, Kentucky, and Texas.
+ Health Aff (Millwood) 2015;34:1010-1018Crossref Web of Science MedlineGoogle Scholar53.
+ Garthwaite C, Graves JA.
+ Success and failure in the insurance exchanges.
+ N Engl J Med 2017;376:907-910Full Text Web of Science MedlineGoogle Scholar54.
+ Robinson LA.
+ How U.S. government agencies value mortality risk reductions.
+ Evidence on the Effects of Health Insurance on Health Care and Health Outcomes, 2007–2017.Table 1.
+ Evidence on the Effects of Health Insurance on Health Care and Health Outcomes, 2007–2017.
+ Ambinder     Perspective  Metabolism and Congenital Malformations — NAD’s Effects on Development  M.G.
+ Vander Heiden     Original Article  Influenza Vaccine Effectiveness in the United States during the 2015–2016 Season  M.L.
+ Jackson and Others     Original Article  Analysis of Plasma Epstein–Barr Virus DNA to Screen for Nasopharyngeal Cancer  K.C.A.
+ Chan and Others     Review Article  Acute Respiratory Distress Syndrome  B.T.
+ Thompson, R.C.
+ Chambers, and K.D.
+ Liu     Perspective  Supporting Women’s Autonomy in Prenatal Testing  J. Johnston, R.M.
+ Farrell, and E. Parens     Original Article  NAD Deficiency, Congenital Malformations, and Niacin Supplementation  H. Shi and Others     Images in Clinical Medicine  Left-Middle-Lobe Pneumonia  L.Y.
+ Sign In or Renew                    Back to top       Article Categories   Research   Reviews   Clinical Cases   Perspective   Commentary   Other   Browse all Articles   Current Issue   Issue Index     Resources   Authors &amp; Reviewers   Submit a Manuscript   Subscribers   Institutions   Media   Advertisers   Agents   Permissions          Reprints         NEJM CareerCenter     About Us   About NEJM   Products &amp; Services   Editors &amp; Publishers   Advertising Policies   Contact Us   Accessibility   FAQs   Help   Site Feedback     Subscriptions   Subscribe   Renew   Activate Subscription   Create Account   Manage Account   Pay Bill   Special Offers     Stay Connected   Email Alerts   Create Account   Apps   NEJM CareerCenter   Podcasts   RSS Feed   Remote Access     Follow Us             Facebook                   Twitter                   Instagram              YouTube                   LinkedIn             Copyright © 2020 Massachusetts Medical Society.
+ All rights reserved.
+ Electronic ISSN 1533-4406.
+ Print ISSN 0028-4793.
+ The content of this site is intended for health care professionals.

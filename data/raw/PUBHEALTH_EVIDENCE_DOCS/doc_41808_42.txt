@@ -1,0 +1,149 @@
+Skip to main content    Advertisement                                 Search                          Explore journals                        Get published                        About BMC                      My account                    Search all BMC articles     Search                   Translational Neurodegeneration           Home   About   Articles   Submission Guidelines              Download PDF       Research  Open Access  Published: 27 August 2014  Measles-mumps-rubella vaccination timing and autism among young african american boys: a reanalysis of CDC data Brian S Hooker1   Translational Neurodegeneration volume 3, Article number: 16 (2014)    Cite this article     135k Accesses   13 Citations   1282 Altmetric   Metrics details                The           Retraction Note to this article has been published in Translational Neurodegeneration 2014 3:22            AbstractBackgroundA significant number of children diagnosed with autism spectrum disorder suffer a loss of previously-acquired skills, suggesting neurodegeneration or a type of progressive encephalopathy with an etiological basis occurring after birth.
+ The purpose of this study is to investigate the effectof the age at which children got their first Measles-Mumps-Rubella (MMR) vaccine on autism incidence.
+ This is a reanalysis of the data set, obtained from the U.S. Centers for Disease Control and Protection (CDC), used for the Destefano et al.
+ 2004 publication on the timing of the first MMR vaccine and autism diagnoses.MethodsThe author embarked on the present study to evaluate whether a relationship exists between child age when the first MMR vaccine was administered among cases diagnosed with autism and controls born between 1986 through 1993 among school children in metropolitan Atlanta.
+ The Pearson’s chi-squared method was used to assess relative risks of receiving an autism diagnosis within the total cohort as well as among different race and gender categories.ResultsWhen comparing cases and controls receiving their first MMR vaccine before and after 36 months of age, there was a statistically significant increase in autism cases specifically among African American males who received the first MMR prior to 36 months of age.
+ BackgroundAutism is defined by persistent deficits in social communication and social interaction across multiple contexts and restricted, repetitive patterns of behavior, interests, or activities [1].
+ Autism incidence has risen dramatically over the past two decades [2] and it has recently been reported that one in sixty-eight children have this disorder [3].
+ In addition to these core deficits, autism has also been characterized by many other comorbid conditions including gastrointestinal issues, sleep issues, eating disorders and sensory processing issues [4].It has been estimated that as many as 62% of children with autism experience a period of regression during early childhood, characterized by loss of previously acquired skills [5].
+ This period has been reported as ranging between 6 and 36 months of age with the typical age of regression between 18 and 24 months [6].
+ This period of regression occurs within the same time period that children in the United States typically receive their required vaccinations and thus there have been many studies regarding the incidence of autism and the receipt of specific vaccines.
+ One of the primary concerns has been the timing of the administration of the first measles-mumps-rubella (MMR) vaccine.The relationship between the MMR vaccine and autism was first hypothesized by Wakefield et al.
+ [7] in 1999 after the observation of a regressive phenotype of autism that appeared in general after the administration of the first MMR vaccine.
+ Although several studies have affirmed such a relationship between the MMR vaccine and neurodevelopmental disorders including autism [8, 9], many other studies purport no statistical relationship between the MMR vaccine and autism incidence.
+ The latter studies have been performed using cohorts from Denmark [10], Japan [11] and Poland [12], as well as the MMR vaccine and pervasive developmental disorder in Canada [13].
+ In addition, in 2004, Destefano et al.
+ [14] published a paper describing a case–control study completed on children, in metropolitan Atlanta, who had been born between 1986 and 1993.
+ Within this study, the age at the first MMR vaccine was assessed as a factor in the incidence of autism.
+ Destefano et al.
+ [14] found a statistically significant relative risk of 1.49 (95% confidence interval [CI]: 1.04 – 2.14) at the 36 month cut-off (i.e., in a comparison of children receiving the MMR before versus after 36 months).
+ Rather than concluding that the first MMR vaccine could be playing a causal role in autism in these children, the study authors instead attributed the increased risk to greater numbers of autistic children receiving timely vaccinations in order to participate in State of Georgia special education services.In this paper, we present the results of a cohort study using the same data from the Destefano et al.
+ [14] analysis.
+ The focus of the current study is differences in results in specific gender and race groups.MethodsCohort dataCohort data were obtained directly as a “restricted access data set” from the Centers for Disease Control and Prevention (CDC) via a Data Use Agreement.
+ Data were deidentified by the CDC in accordance with Family Education Rights and Privacy Act (FERPA) and the Health Insurance Portability and Accountability Act (HIPAA) prior to receipt by the study authors.
+ Use of the CDC specifically for the study described herein was approved by the Simpson University Institutional Review Board, in accordance with U.S. Federal regulations.Study populationAs reported by Destefano et al.
+ [14] (CDC) in the original publication, “Children with autism were identified by the CDC from the Metropolitan Atlanta Developmental Disabilities Surveillance Program (MADDSP), a multiple-source, population-based surveillance program that monitors the occurrence of selected developmental disabilities among children in the 5-county metropolitan Atlanta area”.
+ And further, “Autism cases were identified via screening and abstraction of source files at schools, hospitals, clinics, and specialty providers”.
+ Of the cases identified, vaccination records were located for 660 children.
+ Control children were chosen from “regular” education programs and were within the same age group and schools of attendance or neighboring school as cases.
+ Children missing a vaccination form or with incomplete vaccination forms (where the forms did not list at least 1 diphtheria-tetanus-pertusussis vaccine by 2 years of age or at least 1 MMR vaccine at any age) were excluded from the study.
+ Children with religious or medical exemptions were not excluded from the study.
+ The listed exclusions yielded a cohort size of 624 cases and 1824 controls.Vaccination historiesVaccination records were abstracted as described previously [14] from standardized state immunization forms that are required for all children who attend school and early intervention programs in Georgia.Demographic dataDemographic data including birthdate, gender and race were obtained for both case and control children via birth certificates or registration forms kept as a part of each child’s permanent school record.
+ Georgia state birth certificate information was used to further obtain each child’s birthweight.
+ Although actual birthweight data were not released by the CDC, case and control children were lumped into birthweight categories: under 1500 grams, between 1500 and 2500 grams and over 2500 grams.
+ All individuals less than 3 years of age at the time of testing (1996) were excluded from the analysis.Statistical analysesThe Pearson’s chi -squared test contained in the SAS® software was utilized for current statistical analyses, and a two-sided p-value &lt; 0.05 was considered statistically significant.
+ This is in contrast to the original Destefano et al.
+ [14] (CDC) study, where a case–control study design was used, where 3 control children were matched to each case child, and analyzed using conditional logistic regression dichotomized for the three age cut-offs at 18, 24 and 36 months.
+ Pearson’s chi-squared is, in general, a more conservative analysis and therefore chosen for the present study.
+ However, our results were also confirmed using a conditional logistic regression design similar to the Destefano et al.
+ [14] (CDC) study.
+ In the present study, frequencies of cases were determined for first MMR ages of less than versus greater than 18 months, 24 months and 36 months in each separate analysis.
+ When accounting for cases in the cohort that excluded low birth weight (&lt;2500 g) African American children, it was necessary to report results at 31 months rather than 36 months in order to avoid reporting data from age categories or “cells” that possessed less than 5 individuals.ResultsTable 1 shows the relationship between MMR timing and autism incidence for the entire cohort.
+ This effect again was not seen in females.Table 2        Fisher’s exact analysis for African American children only Full size tableTable 3 shows results for the entire cohort excluding African American children.
+ As can be observed, there is no statistically significant effect for any of the subclasses in either gender or age cut-off for MMR uptake.
+ This shows that the effect observed overall is due to the very strong “signal” seen exclusively in African American boys.
+ In other words, the strong, statistically significant relationship between younger first MMR age and higher autism incidence in African American males may be skewing the results for larger, more general populations that include African American males (e.g., all boys and all African Americans) to show a “relationship” that is actually only in African American males.Table 3        Fisher’s exact analysis excluding African American children Full size tableThrough investigating the cohort demographic data, it was found that there was a higher proportion of low birth weight African Americans compared to the entire cohort, specifically within the portion of the cohort that possessed a Georgia state birth certificate.
+ The number of individuals with a birth weight under 2500 g for African Americans was 11.9% as compared to the total cohort at 8.66%.
+ A final analysis was completed on African American children in the “birth certificate” cohort, excluding low birth weight individuals (Table 4).
+ Results were obtained at 18 months, 24 months and 31 months, rather than 36 months, as there were insufficient cases (less than 5) at the 36 month mark to carry out the analysis.
+ Even at 31 months, there were insufficient cases of African American females.
+ Thus, these results are not included in the analysis.
+ This particular analysis was not completed in the original Destefano et al.
+ [14] (CDC) study.
+ Although the previous study considered MMR timing and African Americans in general, no statistically significant effect was observed.
+ This is in contrast to our result for African Americans in general, because the CDC study limited the total African American cohort to include only those individuals who possessed a valid State of Georgia birth certificate which decreased the statistical power of their analysis.
+ Although a statistically significant relationship between first MMR age and autism incidence was seen in the general (all races) population within the earlier Destefano et al.
+ [14] study, the coauthors interpreted this result as an artifact of “healthcare seeking behavior” citing that autistic children would receive their vaccines earlier in order to enroll in State of Georgia early intervention programs.
+ However, it is highly unlikely that this type of behavior would be seen exclusively in African American males and thus, alternative hypotheses must be explored, including the possibility that the MMR vaccine may be causally linked to autism in African American males.It should be noted that a recent publication has shown that the prevalence of autism in African Americans is nearly 25% higher than that of whites [15].
+ This value was obtained when CDC data were appropriately analyzed based on socioeconomic status.
+ This could be due to issues regarding vitamin D status with African Americans as it has been estimated that vitamin D sufficiency among whites is between 30-60% but is only 5-10% among African Americans [16].
+ Patrick et al.
+ [17] have very recently proposed a mechanism for the link between vitamin D status and autism via selective production of serotonin in the brain.
+ Disruption of the serotonergic system is a very consistent observation with autism [18] as serotonin promotes prosocial behavior and proper assessment of emotional social cues [19].Vitamin D has a multitude of other physiological functions in vivo.
+ Vitamin D receptor has been found in many different tissues including the small intestine, colon, osteoblasts, activated T and B lymphocytes, islet cells and most organs in the body [20].
+ Vitamin D has also been implicated in many important physiological processing including modulation of activated T and B lymphocyte function [21, 22] and prevention of inflammatory bowel disease [23].
+ Lower vitamin D status African American females are more susceptible to lupus [24].
+ Also, Epstein-Barr Virus antibody titers are significantly higher in African American youth as compared to compared to white youth [25] which may be a consequence of vitamin D insufficiency.
+ Also, childhood adversity, which could be more prevalent in African American boys, can have lasting immune consequences [26].Gallagher et al.
+ [27] have reported previously regarding the Hepatitis B vaccine and autism in neonates, specifically within the 1997 to 2002 time period when this vaccine series still contained thimerosal.
+ Regarding non-whites they specifically stated in the abstract, “Non-white boys bore greater risk” of receiving an autism diagnosis if they received the Hep B as neonates.
+ These data were collected as part of the diagnoses individuals received as part of their participation in special education program and as such, the healthcare providers in no way were thinking about the potential association between vaccine exposures and potential health outcomes.
+ Also the current study controlled for a possible association between low birth weight individuals and autism as in the final analysis on the African American cohort, all children of birthweight less than 2500 grams were eliminated from the cohort.
+ Although low birthweight (LBW) has been shown to be associated with an increased risk of autism [28], insufficient information existed within the study population to assess the effect of LBW on autism incidence or any interaction between LBW and MMR timing.The weaknesses of the current study include the age groups selected for autism cases and controls within the original data set.
+ The average age to receive an autism diagnosis has been reported (using the CDC’s Vaccine Safety Datalink) as between 3.7 [29] and 4.2 years of age [30].
+ However, the CDC’s dataset included controls as young as 3 years of age who could have been “too young” to receive an autism diagnosis.
+ Accordingly, there is a greater than 50% probability that some of the controls could have later received an autism diagnoses, thus skewing the analysis to the null (“no effect”) hypothesis.
+ However, when the analysis was recompleted using controls that were six years of age or older, very similar results were obtained (data not shown).
+ Also, information on the timing of other infant vaccines was not released by the CDC and thus it was impossible to control this factor in the current analysis.
+ In addition, socioeconomic factors were not assessed in the current analysis.
+ Thus, any differences in “healthcare seeking behavior” among individuals vaccinated ontime versus late could not be assessed.ConclusionsThe present study provides new evidence of a statistically significant relationship between the timing of the first MMR vaccine and autism incidence in African American males.
+ Using a straight-forward, Pearson’s chi-squared analysis on the cohort used in the Destefano et al.
+ [14] (CDC) study, timing of the first MMR vaccine before and after 24 months of age and 36 months of age showed relative risks for autism diagnoses of 1.73 and 3.36, respectively.
+ Future studies should be completed to further evaluate the relationship of first MMR timing and neurodevelopmental maladies, including autism, especially in underserved populations.Routine childhood vaccination is considered an important public health tool in reducing the morbidity and mortality associated with infectious diseases.
+ However, consideration should be made in the current United States vaccination schedule for genetic subpopulations that may be associated with vaccine adverse events.
+ Additional research is required to better understand the relationship between MMR exposure and autism in African American males.
+ AbbreviationsCDC: Centers for Disease Control and Prevention CI: Confidence Interval Hep B: Hepatitis B vaccine MADDSP: Metropolitan Atlanta Developmental Disabilities Surveillance Program MMR: measles-mumps-rubella vaccine RR: Relative Risk.
+ References1.Geier DA, Kern JK, Geier MR: A Comparison of the Autism Treatment Evaluation Checklist (ATEC) and the Childhood Autism Rating Scale (CARS) for the Quantitative Evaluation of Autism.
+ J Ment Health Res Intellect Disabil 2013, 6: 255-267.
+ 10.1080/19315864.2012.681340PubMed Central   Article   PubMed         Google Scholar      2.Boyle CA, Boulet S, Schieve LA, Cohen RA, Blumberg SJ, Yeargin-Allsopp M, Visser S, Kogan MD: Trends in the prevalence of developmental disabilities in US children, 1997–2008.
+ Pediatrics 2011, 127: 1034-1042.
+ 10.1542/peds.2010-2989Article   PubMed         Google Scholar      3.Developmental Disabilities Monitoring Network Surveillance Year Principal I: Prevalence of autism spectrum disorder among children aged 8 years - autism and developmental disabilities monitoring network, 11 sites, United States, 2010.
+ Morb Mortal Wkly Rep Surveill Summ 2014, 63 Suppl 2: 1-21.
+ Google Scholar      4.Geier DA, Kern JK, Geier MR: A prospective cross-sectional cohort assessment of health, physical, and behavioral problems in autism spectrum disorders.
+ Maedica 2012, 7: 193-200.PubMed Central   PubMed         Google Scholar      5.Kern JK, Geier DA, Sykes LK, Geier MR: Evidence of neurodegeneration in autism spectrum disorder.
+ Transl Neurodegeneration 2013, 2: 17.
+ 10.1186/2047-9158-2-17Article         Google Scholar      6.Davidovitch M, Glick L, Holtzman G, Tirosh E, Safir MP: Developmental regression in autism: maternal perception.
+ J Autism Dev Disord 2000, 30: 113-119.
+ 10.1023/A:1005403421141CAS   Article   PubMed         Google Scholar      7.Wakefield AJ, Montgomery SM: Autism, viral infection and measles-mumps-rubella vaccination.
+ Isr Med Assoc J 1999, 1: 183-187.CAS   PubMed         Google Scholar      8.Geier DA, Geier MR: A comparative evaluation of the effects of MMR immunization and mercury doses from thimerosal-containing childhood vaccines on the population prevalence of autism.
+ Med Sci Monit 2004, 10: PI33-39.CAS   PubMed         Google Scholar      9.Geier DA, Geier MR: Pediatric MMR Vaccination Safety.
+ Int Pediatr 2003, 18: 108-113.
+ Google Scholar      10.Madsen KM, Hviid A, Vestergaard M, Schendel D, Wohlfahrt J, Thorsen P, Olsen J, Melbye M: A population-based study of measles, mumps, and rubella vaccination and autism.
+ N Engl J Med 2002, 347: 1477-1482.
+ 10.1056/NEJMoa021134Article   PubMed         Google Scholar      11.Uno Y, Uchiyama T, Kurosawa M, Aleksic B, Ozaki N: The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case–control study in Asia.
+ Vaccine 2012, 30: 4292-4298.
+ 10.1016/j.vaccine.2012.01.093Article   PubMed         Google Scholar      12.Mrozek-Budzyn D, Kieltyka A, Majewska R: Lack of association between measles-mumps-rubella vaccination and autism in children: a case–control study.
+ Pediatr Infect Dis J 2010, 29: 397-400.
+ 10.1097/INF.0b013e3181c40a8aArticle   PubMed         Google Scholar      13.Fombonne E, Zakarian R, Bennett A, Meng L, McLean-Heywood D: Pervasive developmental disorders in Montreal, Quebec, Canada: prevalence and links with immunizations.
+ Pediatrics 2006, 118: e139-150.
+ 10.1542/peds.2005-2993Article   PubMed         Google Scholar      14.DeStefano F, Bhasin TK, Thompson WW, Yeargin-Allsopp M, Boyle C: Age at first measles-mumps-rubella vaccination in children with autism and school-matched control subjects: a population-based study in metropolitan atlanta.
+ Pediatrics 2004, 113: 259-266.
+ 10.1542/peds.113.2.259Article   PubMed         Google Scholar      15.Durkin MS, Maenner MJ, Meaney FJ, Levy SE, DiGuiseppi C, Nicholas JS, Kirby RS, Pinto-Martin JA, Schieve LA: Socioeconomic inequality in the prevalence of autism spectrum disorder: evidence from a U.S. cross-sectional study.
+ PLoS One 2010, 5: e11551.
+ 10.1371/journal.pone.0011551PubMed Central   Article   PubMed         Google Scholar      16.Ginde AA, Liu MC, Camargo CA Jr: Demographic differences and trends of vitamin D insufficiency in the US population, 1988–2004.
+ Arch Intern Med 2009, 169: 626-632.
+ 10.1001/archinternmed.2008.604PubMed Central   CAS   Article   PubMed         Google Scholar      17.Patrick RP, Ames BN: Vitamin D hormone regulates serotonin synthesis.
+ Part 1: relevance for autism.
+ FASEB journal: official publication of the Federation of American Societies for Experimental Biology 2014, 28: 2398-2413.
+ 10.1096/fj.13-246546CAS   Article         Google Scholar      18.Zafeiriou DI, Ververi A, Vargiami E: The serotonergic system: its role in pathogenesis and early developmental treatment of autism.
+ Curr Neuropharmacol 2009, 7: 150-157.
+ 10.2174/157015909788848848PubMed Central   CAS   Article   PubMed         Google Scholar      19.Crockett MJ: The neurochemistry of fairness: clarifying the link between serotonin and prosocial behavior.
+ Ann N Y Acad Sci 2009, 1167: 76-86.
+ 10.1111/j.1749-6632.2009.04506.xCAS   Article   PubMed         Google Scholar      20.Holick MF: Sunlight and vitamin D for bone health and prevention of autoimmune diseases, cancers, and cardiovascular disease.
+ Am J Clin Nutr 2004, 80: 1678S-1688S.CAS   PubMed         Google Scholar      21.Tsoukas CD, Provvedini DM, Manolagas SC: 1,25-dihydroxyvitamin D3: a novel immunoregulatory hormone.
+ Science 1984, 224: 1438-1440.
+ 10.1126/science.6427926CAS   Article   PubMed         Google Scholar      22.Bhalla AK, Amento EP, Clemens TL, Holick MF, Krane SM: Specific high-affinity receptors for 1,25-dihydroxyvitamin D3 in human peripheral blood mononuclear cells: presence in monocytes and induction in T lymphocytes following activation.
+ J Clin Endocrinol Metab 1983, 57: 1308-1310.
+ 10.1210/jcem-57-6-1308CAS   Article   PubMed         Google Scholar      23.Cantorna MT, Munsick C, Bemiss C, Mahon BD: 1,25-Dihydroxycholecalciferol prevents and ameliorates symptoms of experimental murine inflammatory bowel disease.
+ J Nutr 2000, 130: 2648-2652.CAS   PubMed         Google Scholar      24.Hoffecker BM, Raffield LM, Kamen DL, Nowling TK: Systemic lupus erythematosus and vitamin D deficiency are associated with shorter telomere length among African Americans: a case–control study.
+ PLoS One 2013, 8: e63725.
+ 10.1371/journal.pone.0063725PubMed Central   CAS   Article   PubMed         Google Scholar      25.Ford JL, Stowe RP: Racial-ethnic differences in Epstein-Barr virus antibody titers among U.S. children and adolescents.
+ Ann Epidemiol 2013, 23: 275-280.Article   PubMed         Google Scholar      26.Fagundes CP, Glaser R, Hwang BS, Malarkey WB, Kiecolt-Glaser JK: Depressive symptoms enhance stress-induced inflammatory responses.
+ Brain Behav Immun 2013, 31: 172-176.PubMed Central   CAS   Article   PubMed         Google Scholar      27.Gallagher CM, Goodman MS: Hepatitis B vaccination of male neonates and autism diagnosis, NHIS 1997–2002.
+ J Toxic Environ Health A 2010, 73: 1665-1677.
+ 10.1080/15287394.2010.519317CAS   Article         Google Scholar      28.Singh GK, Kenney MK, Ghandour RM, Kogan MD, Lu MC: Mental Health Outcomes in US Children and Adolescents Born Prematurely or with Low Birthweight.
+ Depression Res Treat 2013, 2013: 570743.
+ Google Scholar      29.Verstraeten T, Davis RL, DeStefano F, Lieu TA, Rhodes PH, Black SB, Shinefield H, Chen RT: Vaccine Safety Datalink T: Safety of thimerosal-containing vaccines: a two-phased study of computerized health maintenance organization databases.
+ Pediatrics 2003, 112: 1039-1048.Article   PubMed         Google Scholar      30.Geier DA, Hooker BS, Kern JK, King PG, Sykes LK, Geier MR: A two-phase study evaluating the relationship between Thimerosal-containing vaccine administration and the risk for an autism spectrum disorder diagnosis in the United States.
+ Transl Neurodegeneration 2013, 2: 25.
+ 10.1186/2047-9158-2-25Article         Google Scholar      Download referencesAcknowledgementsFunding for this research was provided for by a grant from Focus Autism, Inc. Data for case and control children were provided in a de-identified form by the Centers for Disease Control and Prevention.Author informationAffiliationsSimpson University, Redding, CA, USABrian S HookerAuthorsBrian S HookerView author publicationsYou can also search for this author in       PubMed Google ScholarCorresponding authorCorrespondence to     Brian S Hooker.Additional informationCompeting interestsDr.
+ Hooker has been involved in vaccine/biologic litigation.Authors’ contributionsBH was the main manuscript writer and computer programmer.A retraction note to this article can be found online at http://dx.doi.org/10.1186/2047-9158-3-22.An erratum to this article is available at http://dx.doi.org/10.1186/2047-9158-3-22.Rights and permissions This article is published under license to BioMed Central Ltd.
+ This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited.
+ The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+ Reprints and PermissionsAbout this articleCite this articleHooker, B.S.
+ Measles-mumps-rubella vaccination timing and autism among young african american boys: a reanalysis of CDC data.
+ Transl Neurodegener 3, 16 (2014).
+ https://doi.org/10.1186/2047-9158-3-16Download citationReceived: 17 April 2014Accepted: 05 August 2014Published: 27 August 2014DOI: https://doi.org/10.1186/2047-9158-3-16KeywordsAutismMeasles-mumps-rubella (MMR) vaccine       Download PDF          Advertisement                       Translational Neurodegeneration  ISSN: 2047-9158   Contact us  Submission enquiries: Access here and click Contact Us General enquiries: info@biomedcentral.com             Read more on our blogs   Receive BMC newsletters   Manage article alerts   Language editing for authors   Scientific editing for authors     Policies   Accessibility   Press center     Support and Contact   Leave feedback   Careers     Follow BMC    BMC Twitter page        BMC Facebook page        BMC Weibo page             By using this website, you agree to our    Terms and Conditions,    California Privacy Statement,    Privacy     statement and    Cookies policy.
+ Manage cookies/Do not sell my data we use in the preference centre.
+ © 2020 BioMed Central Ltd unless otherwise stated.
+ Part of    Springer Nature.

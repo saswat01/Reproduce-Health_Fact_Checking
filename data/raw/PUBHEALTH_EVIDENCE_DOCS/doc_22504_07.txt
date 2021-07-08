@@ -1,0 +1,325 @@
+// 
+   
+ // 
+   
+ // 
+    
+ // 
+    
+      Turn on more accessible mode
+        
+      Turn off more accessible mode
+        //                                                                Home         
+          
+           
+           
+           
+              Child Support
+           
+           
+           
+           
+              Property Tax Oversight
+           
+           
+           
+           
+              General Tax
+           
+           
+           
+           
+              Contact
+           
+           
+           
+           
+                                 Florida Department of Revenue Test Header    Information for...
+ Businesses and Employers
+       
+       
+       
+       
+       
+       
+          Individuals and Families
+       
+       
+       
+       
+       
+       
+          Industry Professionals
+       
+       
+       
+       
+       
+       
+          Local Government Officials
+       
+        
+       
+          Employment Opportunities
+       
+       
+       
+       
+       
+            Quick Links
+     
+     
+     
+     
+     
+     
+        About Us
+       
+       
+       
+       
+       
+          Accessibility
+       
+        
+        
+       
+       
+       
+          Forms and Publications
+       
+       
+       
+       
+       
+          Frequently Asked Questions      
+       
+       
+       
+          Fuel Tax Temporary License      
+       
+       
+       
+          Media
+       
+       
+       
+       
+       
+          Open Government and Public Records Requests
+       
+       
+       
+       
+       
+          Proposed Rules
+       
+       
+       
+       
+       
+          Public Meetings
+       
+       
+       
+       
+       
+          Regulatory Plans
+       
+       
+       
+          Revenue Law Library
+       
+       
+       
+       
+       
+          Submit Corporate Income Information      
+       
+       
+       
+          Surveys
+       
+       
+       
+       
+       
+          Taxpayer’s Bill of Rights
+       
+       
+       
+          Tax Data
+       
+       
+       
+       
+       
+            Resources
+     
+     
+     
+     
+     
+     
+        Emergency and Disaster Information
+       
+       
+       
+       
+          Florida Delinquent Taxpayers
+       
+       
+       
+       
+       
+          Florida's Taxpayers' Rights Advocate
+       
+       
+       
+       
+       
+          Report Tax Violations and Rewards Program
+       
+       
+       
+       
+       
+          Tax Incentives for Businesses
+       
+       
+       
+       
+       
+       
+          Verifying Department Contact
+       
+       
+       
+       
+       
+             Florida's Minimum Wage
+       
+       
+       
+       
+       
+       
+          MyFlorida Agency Directory
+       
+       
+       
+       
+       
+          Internal Revenue Service
+       
+       
+       
+       
+       
+                             Page Content        Alcoholic Beverage License Approvals To obtain Florida Department of Revenue clearance on alcoholic beverage license applications (Section 5 – Application Approvals), email General Tax at 
+      GTA_Beverage_License_Approval@floridarevenue.com.
+ Verifying Department Contact  With the growing number of scams targeting unsuspecting citizens and businesses, the Department of Revenue would like to encourage the public to safeguard against any potential fraudulent activity.
+ If you are contacted by someone representing themselves as an employee of the Florida Department of Revenue—whether it is by letter or form, a phone call or other communication—who appears unfamiliar with your specific tax or child support account information, please feel free to verify their identity by contacting the Department's Taxpayer Services Process at    850-488-6800 or by contacting the Child Support Customer Contact Center at 850-488-KIDS (5437).
+ As a result, one or more Web Part properties may contain confidential information.
+ Make sure the properties contain information that is safe for others to read.
+ After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.
+ It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.
+ To close this Web Part, click OK. To keep this Web Part, click Cancel.
+ Are you sure you want to do this?
+ To delete this Web Part, click OK. To keep this Web Part, click Cancel.
+ ": "720",
+ "ImageHeight": "309",
+ "ImageHeight.
+ ",
+ "Description.urlencoded": "Making a difference by ensuring families receive the child support they need and deserve.
+ ",
+ "FileDirRef": "\u002fHome ImageSlider",
+ "_ModerationStatus": "Approved",
+ "_ModerationStatus.
+ ": "0",
+ "_UIVersion": "5632",
+ "_UIVersion.
+ ": "5632",
+ "_HasCopyDestinations": "",
+ "_HasCopyDestinations.value": "",
+ "_CopySource": "",
+ "PreviewExists": "Yes",
+ "PreviewExists.value": "1",
+ "AlternateThumbnailUrl": "",
+ "AlternateThumbnailUrl.desc": "",
+ "Link_Text": "Learn more about the Child Support Program\u2026",
+ "Link_Url": "\u002fchildsupport\u002fPages\u002fdefault.aspx",
+ "Link_Url.desc": "\u002fchildsupport\u002fPages\u002fdefault.aspx",
+ "sort_order": "3",
+ "sort_order.
+ ": "720",
+ "ImageHeight": "309",
+ "ImageHeight.
+ ",
+ "Description.urlencoded": "Know the facts by keeping up to date on property taxes.
+ ",
+ "FileDirRef": "\u002fHome ImageSlider",
+ "_ModerationStatus": "Approved",
+ "_ModerationStatus.
+ ": "0",
+ "_UIVersion": "4608",
+ "_UIVersion.
+ ": "4608",
+ "_HasCopyDestinations": "",
+ "_HasCopyDestinations.value": "",
+ "_CopySource": "",
+ "PreviewExists": "Yes",
+ "PreviewExists.value": "1",
+ "AlternateThumbnailUrl": "",
+ "AlternateThumbnailUrl.desc": "",
+ "Link_Text": "Get the latest information about Property Taxes...",
+ "Link_Url": "\u002fproperty\u002fPages\u002faboutus.aspx",
+ "Link_Url.desc": "\u002fproperty\u002fPages\u002faboutus.aspx",
+ "sort_order": "4",
+ "sort_order.
+ ": "720",
+ "ImageHeight": "309",
+ "ImageHeight.
+ ": "0",
+ "_UIVersion": "2560",
+ "_UIVersion.
+ ": "2560",
+ "_HasCopyDestinations": "No",
+ "_HasCopyDestinations.value": "0",
+ "_CopySource": "",
+ "PreviewExists": "Yes",
+ "PreviewExists.value": "1",
+ "AlternateThumbnailUrl": "",
+ "AlternateThumbnailUrl.desc": "",
+ "Link_Text": "About Us",
+ "Link_Url": "\u002ftaxes",
+ "Link_Url.desc": "General Tax Administration",
+ "sort_order": "5",
+ "sort_order.
+ ": "720",
+ "ImageHeight": "309",
+ "ImageHeight.
+ ",
+ "Description.urlencoded": "Need to get in contact with any of the programs within the Department of Revenue?
+ ",
+ "FileDirRef": "\u002fHome ImageSlider",
+ "_ModerationStatus": "Approved",
+ "_ModerationStatus.
+ ": "0",
+ "_UIVersion": "2560",
+ "_UIVersion.
+ ": "2560",
+ "_HasCopyDestinations": "",
+ "_HasCopyDestinations.value": "",
+ "_CopySource": "",
+ "PreviewExists": "Yes",
+ "PreviewExists.value": "1",
+ "AlternateThumbnailUrl": "",
+ "AlternateThumbnailUrl.desc": "",
+ "Link_Text": "Contact Us...",
+ "Link_Url": "\u002fPages\u002fcontact.aspx",
+ "Link_Url.desc": "\u002fPages\u002fcontact.aspx",
+ "sort_order": "6",
+ "sort_order.
+ ","NoListItemHowTo" : "To add a new picture, click \"Upload\".
+ ","NoListItemHowTo" : "To add a new item, click \"New\".

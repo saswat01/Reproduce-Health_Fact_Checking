@@ -1,0 +1,37 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop     addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape     addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical)     addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical)     addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape     addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ We analyzed the survival outcomes    in patients receiving SRP for radio-recurrent prostate cancer.
+ The secondary outcome    was effect of lymph node dissection on survival following SRP.
+ Materials and Methods The Surveillance, Epidemiology, and End Results (SEER) 18 registry was used to identify    patients that underwent radical prostatectomy between 1988 and 2010.
+ Search identified    2628 patients with prostate cancer that underwent surgery after radiation.
+ Following    exclusion, 364 patients remained.
+ Endpoints included overall survival (OS) and cancer-specific    survival (CSS).
+ Effect of pelvic lymph node dissection (PLND) status and number of    nodes retrieved were also studied.
+ Kaplan-Meier analysis, log-rank tests, and Cox-proportional    hazard models were used, and     P  - Linked To County Attributes – Total U.S., 1969-2012 Counties, National Cancer Institute, DCCPS, Surveillance Research Program, Surveillance Systems Branch, Accessed January 6, 2016.View       in Article       Google ScholarMotheral B. Brooks J. Clark M.A.
+ et al.A checklist for retrospective database studies—report of the ISPOR Task Force on retrospective databases.Value Health.
+ 2003; 6: 90-97View       in Article       Scopus (253) PubMed Abstract Full Text PDF Google ScholarSeiler R. Studer U.E.
+ Tschan K. Bader P. Burkhard F.C.
+ Removal of limited nodal disease in patients undergoing radical prostatectomy: long-term results confirm a chance for cure.J Urol.
+ 2014; 191: 1280-1285View       in Article       Scopus (61) PubMed Abstract Full Text Full Text PDF Google ScholarPierorazio P.M. Gorin M.A.
+ Ross A.E.
+ et al.Pathological and oncologic outcomes for men with positive lymph nodes at radical prostatectomy: the John Hopkins hospital 30-year experience.Prostate.
+ 2013; 73: 1673-1680View       in Article       PubMed Google ScholarBivalacqua T.J. Pierorazio P.M. Gorin M.A.
+ Allaf M.E.
+ Carter H.B.
+ Walsh P.C.
+ Anatomic extent of pelvic lymph node dissection: impact of long-term cancer-specific outcomes in men with positive lymph nodes at time of radical prostatectomy.Urology.
+ 2013; 82: 653-658View       in Article       Scopus (35) PubMed Abstract Full Text Full Text PDF Google ScholarAbdollah F. Gandaglia G. Suardi N. et al.More extensive pelvic lymph node dissection improves survival in patients with node-positive prostate cancer.Eur Urol.
+ 2015; 67: 212-219View       in Article       Scopus (126) PubMed Abstract Full Text Full Text PDF Google ScholarWang E.H. Yu J.B.
+ Gross C.P.
+ et al.Variation in pelvic lymph node dissection among patients undergoing radical prostatectomy by hospital characteristics and surgical approach: results from the national cancer database.J Urol.
+ 2015; 193: 820-825View       in Article       Scopus (29) PubMed Abstract Full Text Full Text PDF Google ScholarHeidenreich A. Ohlmann C.H.
+ Polyakov S. Anatomical extent of pelvic lymphadenectomy in patients undergoing radical prostatectomy.Eur Urol.
+ By continuing you agree to the Use of Cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

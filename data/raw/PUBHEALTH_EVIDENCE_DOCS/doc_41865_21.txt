@@ -1,0 +1,100 @@
+Skip to sub-navigation   U.S. Energy Information Administration - EIA - Independent Statistics and Analysis   Search         Menu     + Sources &amp; Uses    + Topics    + Geography      + Tools    + Learn About Energy    + News        Sources &amp; Uses   Topics   Geography   Tools   Learn About Energy   News          Petroleum &amp; Other Liquids  Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.
+ This Week in Petroleum   Weekly Petroleum Status Report       Natural Gas  Exploration and reserves, storage, imports and exports, production, prices, sales.
+ Weekly Natural Gas Storage Report   Natural Gas Weekly Update       Electricity  Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand &amp; emissions.
+ Electric Power Monthly   Electricity Data Browser       Consumption &amp; Efficiency  Energy use in homes, commercial buildings, manufacturing, and transportation.
+ Residential Energy Consumption Survey (RECS)   Commercial Buildings Energy Consumption Survey (CBECS)         Coal  Reserves, production, prices, employment and productivity, distribution, stocks, imports and exports.
+ Quarterly Coal Report   Coal Data Browser       Renewable &amp; Alternative Fuels  Includes hydropower, solar, wind, geothermal, biomass and ethanol.
+ Alternative Fuel Vehicle Browser       Nuclear &amp; Uranium  Uranium fuel, nuclear reactors, generation, spent fuel.
+ Daily Status of Nuclear Outages       Total Energy  Comprehensive data summaries, comparisons, analysis, and projections integrated across all energy sources.
+ Monthly Energy Review   Annual Energy Review            Analysis &amp; Projections  Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.
+ Short-Term Energy Outlook   Annual Energy Outlook   International Energy Outlook       Markets &amp; Finance  Financial market analysis and financial data for major energy companies.
+ Market Prices and Uncertainty Report   Energy &amp; Financial Markets: What Drives Crude Oil Prices?
+ Environment  Greenhouse gas data, voluntary reporting, electric power plant emissions.
+ U.S.
+ Energy-Related Carbon Dioxide Emissions Energy-Related Carbon Dioxide Emissions at the State Level, 2005-2016 Energy-Related Carbon Dioxide Emissions at the State Level, through 2017      Energy Disruptions  Maps, tools, and resources related to energy disruptions and infrastructure.
+ Energy Disruptions           U.S. States  State energy information, including overviews, rankings, data, and analyses.
+ State Energy Data System (SEDS)       Maps  Maps by energy source and topic, includes forecast maps.
+ U.S. Energy Mapping System   Gulf of Mexico         International  International energy information, including overviews, rankings, data, and analyses.
+ International Energy Statistics       Regional Dashboards &amp; Data  Regional energy information including dashboards, maps, data, and analyses.
+ New England Dashboard   Southern California Daily Energy Report   Energy Disruptions            Glossary            Data Tools, Apps, &amp; Maps  Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data.
+ Open Data  EIA's free and open data available as API, Excel add-in, bulk files, and widgets     EIA Beta  Come test out some of the products still in development and let us know what you think!
+ Follow us.
+ .
+ .
+ All Reports &amp; Publications               EIA Survey Forms  Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.
+ Email Updates  Sign up for email subcriptions to receive messages about specific EIA products     RSS Feeds  Subscribe to feeds for updates on EIA products including Today in Energy and What's New.
+ Today in Energy  Short, timely articles with graphics on energy, facts, issues, and trends.
+ Energy Explained    What is Energy?
+ Units &amp; Calculators   U.S. Energy Facts   Use of Energy   Energy &amp; Environment   Petroleum   Hydrocarbon Gas Liquids   Natural Gas     Coal   Nuclear   Electricity   Hydropower   Biofuels: Ethanol &amp; Biomass-based Diesel   Wind   Geothermal   Solar       For Teachers  Lesson plans, science fair experiments, field trips, teacher guide, and career corner.
+ Glossary            FAQs    Coal   Conversion &amp; Equivalents   Oil/Petroleum   Diesel   Electricity   Environment     Gasoline   General Energy   Natural Gas   Nuclear   Prices   Renewables                             What's New?
+ South Korea Country Analysis BriefNov 06, 2020Wholesale Electricity Market DataNov 05, 2020Domestic Uranium Production Report – QuarterlyNov 05, 2020 See what's new      Press Room    Press Releases   Congressional Testimony   Presentations   Events   Radio Spots         Coming Up   Coming Up Monthly Energy Review › Natural Gas Monthly › Monthly Crude Oil and Natural Gas Production › More ›      Featured Reports  Reports requested by congress or otherwise deemed important.
+ Midwest and Rocky Mountain Transportation Fuels Markets   East Coast and Gulf Coast Transportation Fuels Markets   West Coast Transportation Fuels Markets   Southern California Daily Energy Report   Effects of the Clean Power Plan          A-Z Index   A |
+ 							B |
+ 							C |
+ 							D |
+ 							E |
+ 							F |
+ 							G |
+ 							H |
+ 							I |
+ 							J |
+ 							K |
+ 							L |
+ 							M |
+ 							N |
+ 							O |
+ 							P |
+ 							Q |
+ 							R |
+ 							S |
+ 							T |
+ 							U |
+ 							V |
+ 							W |
+ 							XYZ           Enter Search Term(s):     
+ 					// 
+ 				         Frequently Asked Questions (FAQs)     This page has no sub-navigation.
+ Skip to page content.
+ What is U.S. electricity generation by energy source?
+ In 2019, about 4,127 billion kilowatthours (kWh) (or about 4.13 trillion kWh) of electricity were generated at utility-scale electricity generation facilities in the United States.1 About 63% of this electricity generation was from fossil fuels—coal, natural gas, petroleum, and other gases.
+ About 20% was from nuclear energy, and about 18% was from renewable energy sources.
+ The U.S. Energy Information Administration estimates that an additional 35 billion kWh of electricity generation was from small-scale solar photovoltaic systems in 2019.2U.S.
+ utility-scale electricity generation by source, amount, and share of total in 20191Energy sourceBillion kWhShare of totalTotal - all sources4,127Fossil fuels (total)2,58262.6%Natural Gas1,58638.4%Coal96523.4%Petroleum (total)180.4%Petroleum liquids120.3%Petroelum coke70.2%Other gases130.3%Nuclear80919.6%Renewables (total)72817.6%Wind2957.1%Hydropower2887.0%Solar721.7%Photovoltaic691.7%Solar thermal30.1%Biomass (total)581.4%Wood390.9%Landfill gas100.3%Municipal solid waste (biogenic)60.1%Other biomass waste20.1%Geothermal150.4%Pumped storage hydropower3-5-0.1%Other sources3130.3%1 Utility-scale electricity generation is electricity generation from power plants with at least one megawatt (or 1,000 kilowatts) of total electricity generating capacity.
+ Data are for net electricity generation.2 Small-scale solar photovoltaic systems are electricity generators with less than one megawatt of electricity generating capacity that are usually at or near the location where the electricity is consumed.
+ Most small-scale solar photovoltaic systems are installed on building rooftops.
+ 3 Pumped storage hydroelectricity generation is negative because most pumped storage electricity generation facilities use more electricity than they produce on an annual basis.
+ Most pumped storage systems use fossil fuels or nuclear energy for pumping water to the storage component of the system.Learn more:Electric Power Monthly: Chapter 1: Net GenerationElectric Power Annual: Chapter 3: Net GenerationMonthly Energy Review: ElectricityEnergy Explained: Electricity in the United StatesLast updated: November 2, 2020  Other FAQs about Electricity  Can electric utility customers choose their electricity supplier?
+ Does EIA have county-level energy production data?
+ Does EIA have data on costs for electricity transmission and distribution?
+ Does EIA have data on each power plant in the United States?
+ Does EIA have projections for energy production, consumption, and prices for individual states?
+ Does EIA publish data on peak or hourly electricity generation, demand, and prices?
+ Does EIA publish electric utility rate, tariff, and demand charge data?
+ Does EIA publish electricity consumption and price data by state and by utility?
+ Does EIA publish energy consumption and price data for cities, counties, or by zip code?
+ Does EIA publish the location of electric power plants and transmission lines?
+ How is electricity used in U.S. homes?
+ How many alternative fuel and hybrid vehicles are there in the United States?
+ How many nuclear power plants are in the United States, and where are they located?
+ How many power plants are there in the United States?
+ How many smart meters are installed in the United States, and who has them?
+ How much coal, natural gas, or petroleum is used to generate a kilowatthour of electricity?
+ How much does it cost to build different types of power plants in the United States?
+ How much does it cost to generate electricity with different types of power plants?
+ How much electricity does a nuclear power plant generate?
+ How much electricity does an American home use?
+ How much electricity is lost in electricity transmission and distribution in the United States?
+ How much electricity is used for cooling in the United States?
+ How much electricity is used for lighting in the United States?
+ How much energy does the world consume by each energy end-use sector?
+ How much of U.S. carbon dioxide emissions are associated with electricity generation?
+ How much of U.S. energy consumption and electricity generation comes from renewable energy sources?
+ How much of world energy consumption and production is from renewable energy?
+ How old are U.S. nuclear power plants, and when was the newest one built?
+ What is U.S. electricity generation by energy source?
+ What is the difference between electricity generation capacity and electricity generation?
+ What is the efficiency of different types of power plants?
+ What is the outlook for home heating fuel prices this winter?
+ What types and amounts of energy are produced in each state?
+ On This Page:  Coal Conversion &amp; Equivalents Diesel Electricity Environment Gasoline General Energy Natural Gas Nuclear Oil/Petroleum Prices Renewables     Full list of upcoming reports Sign up for email notifications  Get the What's New RSS feed      Didn't find the answer to your question?
+ Ask an energy expert              About EIA Open Data Press Room Careers Contact Us    U.S. Energy Information Administration1000 Independence Ave., SW Washington, DC 20585 U.S. Energy Information Administration, 1000 Independence Ave., SW, Washington, DC 20585     Sources &amp; Uses Petroleum Coal Natural Gas Renewable Nuclear Electricity Consumption Total Energy   Topics Analysis &amp; Projections Environment Markets &amp; Finance Energy Disruptions Today in Energy  Geography States Countries Maps   Tools A-Z Index All Reports &amp; Publications Data Tools, Apps, and Maps EIA Survey Forms EIA Beta   Policies Privacy/Security Copyright &amp; Reuse Accessibility Information Quality Freedom of Information Act (FOIA)   Related Sites U.S. Department of Energy USA.gov   Stay Connected Facebook Twitter Youtube Flickr LinkedIn Email Updates RSS Feeds

@@ -1,0 +1,81 @@
+Skip to Article Content Skip to Article Information             Working off-campus?
+ Universal masking was a late addition to this advice following the recent change in recommendations by the World Health Organization and US Centre for Disease Control.
+ Even so, messages advocating wearing masks in public by asymptomatic individuals have previously met resistance and public mask wearing has been labelled as ‘not effective’.
+ There is some evidence to counter this view, although not as strong as underpins many other recommendations to reduce the risks of SARS‐CoV‐2 transmission.
+ Nevertheless, there is now, particularly in the context of high levels of community transmission, a range of reasons to advocate public mask wearing as examined in this commentary.
+ Despite several case reports reporting otherwise, to date it has been understood that droplet spread is the main mode of human‐to‐human transmission (SARS‐CoV‐2), as reflected by its R‐0 of about 2.3 reported in several studies.1 Recent reports have suggested there is not inconsequential potential for transmission from asymptomatic individuals with 50–75%2 of those infected being asymptomatic or having mild symptoms.
+ Furthermore, even in those who end up symptomatic, reports have suggested an early peak of infectiousness with potential pre‐symptomatic transmission during the incubation period before symptom onset.1 Laboratory studies have shown that droplets can travel distances as great as 7–8 m,3 far further than the 1–2 m recommendation for physical distancing advocated by many countries.
+ An additional factor is the potential inhalation of microdroplets and aerosolized SARS‐CoV‐2 particles.
+ Evidence from recent studies suggests that ultrafine aerosol droplets, smaller than 5 μm, may also carry SARS‐CoV‐2, and these can remain airborne for very much longer.
+ A recent study on patients with seasonal coronavirus also showed that exhaled breath itself contains viral RNA,4 although it must be noted that virulence is unclear.
+ Community studies are required to corroborate these controlled experiments5 that do not take into account differences between laboratory conditions and environmental factors which affect dispersion and viability such as heat and humidity encountered in the real‐world setting.
+ Mandating universal use of masks for going out, especially in areas of high local transmission and community prevalence of SARS‐CoV‐2 infection such as in Italy and the USA, could mean reduced droplet transmission by people with asymptomatic, pre‐asymptomatic and mild disease, thus facilitating source control.
+ It also supports adherence by dissociating the stigma of using masks in public.
+ To date, no study has been done to examine the effectiveness of masks against the SARS‐CoV‐2 causing COVID‐19.
+ However, a recent study in patients with seasonal coronaviruses has demonstrated that surgical face masks significantly reduced detection of viral RNA in aerosols and shows a trend in reducing viral RNA in droplets.4 A recent meta‐analysis of randomized controlled trials also showed that surgical masks are as effective as N95 masks in reducing transmission of influenza‐like diseases.6 If the result from a case–control study during the SARS‐CoV‐1 outbreak in Hong Kong is any indication, frequent masks use (mainly surgical) in public places can be protective by 64%.7 Two pragmatic arguments have been put forward to support the reluctance of public authorities to advocate universal public mask wearing.
+ One concerns the inadequate supply of masks for healthcare workers and people at the frontline who have high transmission risks, and a legitimate concern that this would be further compromised by public demand.
+ Another aspect pertains to real‐world effectiveness, either that people do not wear masks properly, or the possibility that they would become complacent and careless in maintaining other infection control measures if they were wearing masks.
+ There is good evidence for the former and little to support the latter.7 These two arguments should not be conflated with arguments regarding evidence for mask efficacy, as they pertain to supply and effectiveness, which are separate issues.
+ Advocating for the use of homemade cloth masks in lieu of medical masks for the public is one possible solution to the supply problems.
+ There is limited evidence from studies of other respiratory infections such as the avian influenza8 and seasonal influenza9 that homemade masks confer some degree of efficacy, ranging around 40–95% which although inferior to medical masks but certainly better than no masks at all.
+ Various materials have been assessed for homemade masks with differing outcomes.
+ A study by Davies et al.
+ reported that homemade masks (made from pillowcase or 100% cotton shirt) were one‐third as effective as medical masks, even so homemade masks were significantly able to reduce the number of microorganisms expelled compared to no protection.9 On the other hand, a recent study comparing homemade masks made from four layers of kitchen paper and one layer of cloth with N95 masks and surgical masks reported comparable efficacy of 95.15% versus 99.98% and 97.14%, respectively, in blocking avian influenza aerosols made by a nebulizer.8 One study conducted in Vietnam10 reported significantly greater efficacy of medical masks over cloth masks for influenza‐like illness and laboratory‐confirmed virus but education on optimal wearing was not provided.
+ It is also not clear whether the two‐layered cotton material had any droplet resistance, an important factor in reducing transmission.
+ It must also be noted that masks, except for N95 and filtering facepiece (FFP), do not have strong evidence of conferring a great degree of protection against aerosol (as opposed to droplet) transmission.
+ While there have been no head‐to‐head studies for the efficacy of medical versus homemade masks against SARS or COVID in the community, this is not evidence of ineffectiveness.
+ There is a great need for such studies especially considering recent recommendations by the World Health Organization and the Centre for Disease Control supporting the use of homemade masks.
+ In the interim, supporting the use of homemade or cloth masks for the public would likely prevent depletion of scarce medical masks.
+ Weighing up all these considerations, there is modest evidence to support widespread community use of universal masking, which includes cloth masks to help reduce transmission of SARS‐CoV‐2.
+ It will be important to examine evidence from countries such as China, Hong Kong and Singapore, where the majority of residents (as high as 98%) use masks in public, and where to a significant extent, COVID was contained in combination with known effective strategies.
+ The theoretical rationale discussed here suggests that along with evidence‐based recommendations such as physical distancing and maintaining hand hygiene, universal masking may help in reducing droplet‐based transmission of COVID and contribute to flattening and shortening the curve.
+ REFERENCES    1Zhang J, Litvinova M, Wang W, Wang Y, Deng X, Chen X, Li M, Zheng W, Yi L, Chen X et al.
+ Evolving epidemiology and transmission dynamics of coronavirus disease 2019 outside Hubei province, China: a descriptive and modelling study.
+ Lancet Infect.
+ Dis.
+ 2020 Apr 2. pii: S1473‐3099(20)30230‐9.
+ https://doi.org/10.1016/S1473-3099(20)30230-9.
+ Crossref Web of Science®Google ScholarFind at Imperial   2Day M. Covid‐19: identifying and isolating asymptomatic people helped eliminate virus in Italian village.
+ BMJ 2020; 368: m1165.
+ Crossref PubMed Google ScholarFind at Imperial   3Bourouiba L. Turbulent gas clouds and respiratory pathogen emissions.
+ JAMA 2020 Mar 26. https://doi.org/10.1001/jama.2020.4756.
+ Crossref PubMed Web of Science®Google ScholarFind at Imperial   4Leung NHL, Chu DKW, Shiu EYC, Chan K‐H, McDevitt JJ, Hau BJP, Yen H‐L, Li Y, Ip DKM, Peiris JSM et al.
+ Respiratory virus shedding in exhaled breath and efficacy of face masks.
+ Nat.
+ Med.
+ 2020. https://doi.org/10.1038/s41591-020-0843-2.
+ Crossref Web of Science®Google ScholarFind at Imperial   5Van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, Tamin A, Harcourt JL, Thornburg NJ, Gerber SI et al.
+ Aerosol and surface stability of SARS‐CoV‐2 as compared with SARS‐CoV‐1.
+ N. Engl.
+ J. Med.
+ 2020; 382: 1564–7.
+ Crossref Web of Science®Google ScholarFind at Imperial   6Long Y, Hu T, Liu L, Chen R, Guo Q, Yang L, Cheng Y, Huang J, Du L. Effectiveness of N95 respirators versus surgical masks against influenza: a systematic review and meta‐analysis.
+ J. Evid.
+ Based Med.
+ 2020.
+ Mar 13. https://doi.org/10.1111/jebm.12381.
+ Wiley Online Library Google ScholarFind at Imperial   7Lau JTF, Tsui H, Lau M, Yang X. SARS transmission, risk factors, and prevention in Hong Kong.
+ Emerg.
+ Infect.
+ Dis.
+ 2004; 10: 587– 92.
+ Crossref PubMed Web of Science®Google ScholarFind at Imperial   8Ma Q‐X, Shan H, Zhang H‐L, Li G‐M, Yang R‐M, Chen J‐M.
+ Potential utilities of mask wearing and instant hand hygiene for fighting SARS‐CoV‐2.
+ J. Med.
+ Virol.
+ 2020 Mar 31. https://doi.org/10.1002/jmv.25805.
+ Wiley Online Library Web of Science®Google ScholarFind at Imperial   9Davies A, Thompson K‐A, Giri K, Kafatos G, Walker J, Bennett A.
+ Testing the efficacy of homemade masks: would they protect in an influenza pandemic?
+ Disaster Med.
+ Public Health Prep.
+ 2013; 7: 413– 8.
+ Crossref PubMed Web of Science®Google ScholarFind at Imperial   10Macintyre CR, Seale H, Dung TC, Hien NT, Nga PT, Chughtai AA, Rahman B, Dwyer DE, Wang Q.
+ A cluster randomised trial of cloth masks compared with medical masks in healthcare workers.
+ BMJ Open 2015; 5: e006577.
+ Log in to Wiley Online Library         Email or Customer ID        Password               Forgot password?
+ NEW USER &gt;                  INSTITUTIONAL LOGIN &gt;             Change Password        Old Password       New Password     Too Short Weak Medium Strong Very Strong Too Long       Password Changed Successfully Your password has been changed           Create a new account      Email or Customer ID                    Returning user                 Forgot your password?
+ Enter your email address below.
+ Email or Customer ID           Please check your email for instructions on resetting your password.
+ If you do not receive an email within 10 minutes, your email address may not be registered,      and you may need to create a new Wiley Online Library account.
+ Request Username  Can't sign in?
+ Forgot your username?

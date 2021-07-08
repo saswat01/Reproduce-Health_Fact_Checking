@@ -1,0 +1,19 @@
+If you require BNF for Children, use BNFC.
+ LOPINAVIR WITH RITONAVIR        Show all parts of this monograph       Indications and dose Contra-indications Cautions Interactions Side-effects Pregnancy Hepatic impairment Renal impairment Monitoring requirements Prescribing and dispensing information Patient and carer advice National funding/access decisions Medicinal forms     Indications and dose     HIV infection in combination with other antiretroviral drugs   By mouth using tablets   For  Adult  400/100 mg twice daily, alternatively 800/200 mg once daily, once daily dose to be used only in adults with a HIV strain that has less than 3 mutations to protease inhibitors.
+ By mouth using oral solution   For  Adult  5 mL twice daily.
+ Dose equivalence and conversion   Oral solution contains 400 mg lopinavir, 100 mg ritonavir/5 mL (or 80 mg lopinavir, 20 mg ritonavir/mL).
+ Contra-indications For all PROTEASE INHIBITORS  See PROTEASE INHIBITORS      Cautions For all PROTEASE INHIBITORS  See PROTEASE INHIBITORS  For LOPINAVIR WITH RITONAVIR     Cardiac conduction disorders; pancreatitis; patients at high risk of cardiovascular disease; structural heart disease      Interactions    General information  Caution on concurrent use of lopinavir with ritonavir and drugs that prolong the PR interval.
+ Individual interactants:   Lopinavir   Ritonavir      Side-effects For all PROTEASE INHIBITORS  See PROTEASE INHIBITORS  For LOPINAVIR WITH RITONAVIR    Common or very common   Increased risk of infection; leucopenia; lymphadenopathy; menstrual cycle irregularities; migraine; muscle weakness; myopathy; night sweats; pain; sexual dysfunction    Uncommon   Atherosclerosis; atrioventricular block; cholangitis; constipation; deep vein thrombosis; haemorrhage; hyperbilirubinaemia; hypogonadism; myocardial infarction; nephritis; stomatitis; stroke; tinnitus; tremor; tricuspid valve incompetence; vasculitis; vertigo; visual impairment     Side-effects, further information   Signs and symptoms suggestive of pancreatitis (including raised serum lipase) should be evaluated—discontinue if pancreatitis diagnosed.
+ Pregnancy     For tablets, manufacturer advises only use if potential benefit outweighs risk—toxicity in animal studies (recommendation also supported by specialist sources).
+ Avoid oral solution due to high alcohol and propylene glycol content.
+ Hepatic impairment For all PROTEASE INHIBITORS  See PROTEASE INHIBITORS  For LOPINAVIR WITH RITONAVIR     For oral solution, manufacturer advises avoid due to propylene glycol content (risk of toxicity).
+ For tablets, manufacturer advises avoid in severe impairment (no information available).
+ Renal impairment     Avoid oral solution due to high propylene glycol content.
+ Monitoring requirements   Monitoring of patient parameters   Manufacturer advises monitor liver function before and during treatment.
+ For oral solution, manufacturer advises monitor for signs of alcohol and propylene glycol toxicity (particularly in infants).
+ Prescribing and dispensing information     For oral solution, manufacturer advises high alcohol (42 % v/v) and propylene glycol content—consider total amounts from all medicines that are to be given to infants in order to avoid toxicity; caution in patients for which consumption may be harmful.
+ Patient and carer advice     Oral solution tastes bitter.
+ National funding/access decisions   Scottish Medicines Consortium (SMC) Decisions   SMC No.
+ 326/06 www.scottishmedicines.org.uk/medicines-advice/lopinavir-200-mg-ritonavir-50-mg-tablet-kaletra-abbreviatedsubmission-32606/  The Scottish Medicines Consortium has advised (November 2006) that lopinavir with ritonavir tablet (Kaletra®) is accepted for use within NHS Scotland in combination with other antiretrovirals for the treatment of HIV-1 infected adults and children above the age of 2 years.
+ ?
+ "&amp;" : "?

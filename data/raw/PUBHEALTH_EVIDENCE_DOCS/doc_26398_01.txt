@@ -1,0 +1,5 @@
+/* TODO: Include this css via templating or webpack */   /*   The placeholder enhances the perceived loading time, it also permits people who are using an outdated browser or   who don't have JS enabled to see at least the header and not a total blank page.
+ Please download one of our supported browsers.
+ Need help?
+ Chrome | Firefox | Safari | Internet Explorer    Sorry!
+ Something went wrong  Is your network connection unstable or browser outdated?

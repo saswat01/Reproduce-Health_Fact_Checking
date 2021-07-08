@@ -1,0 +1,80 @@
+addSize([992, 0], [[728, 90]]).
+ // Desktop 				addSize([768, 0], [[728, 90]]).
+ // Tablet Landscape 				addSize([0, 0], [[320, 50], [300, 50]]).
+ addSize([1140, 795], [[300, 600], [160, 600], [120, 600]]).
+ // SkyScraper - Desktop (Require min 630 vertical) 				addSize([1140, 445], [[300, 250]]).
+ // BoomBox Fall Back - Desktop (Require min 280 vertical) 				addSize([0, 0], []).
+ addSize([768, 0], [[300, 250]]).
+ // Desktop &amp; Tablet Landscape 				addSize([0, 0], []).
+ addSize([0, 0], ['fluid']).
+ Subjects were admitted to the NIH Clinical Center and randomized to receive either ultra-processed or unprocessed diets for 2 weeks immediately followed by the alternate diet for 2 weeks.
+ Meals were designed to be matched for presented calories, energy density, macronutrients, sugar, sodium, and fiber.
+ Subjects were instructed to consume as much or as little as desired.
+ Westerterp K.R.
+ Behav.
+ 2008; 94: 158-163Crossref PubMed Scopus (23) Google Scholar).
+ Sedentary energy expenditure and physical activity expenditure were defined as previously described (Hall et al., 2016Hall K.D.
+ Chen K.Y.
+ Guo J. Lam Y.Y.
+ Leibel R.L.
+ Mayer L.E.
+ Reitman M.L.
+ Rosenbaum M. Smith S.R.
+ Walsh B.T.
+ Ravussin E. Energy expenditure and body composition changes after an isocaloric ketogenic diet in overweight and obese men.Am.
+ J. Clin.
+ Nutr.
+ 2016; 104: 324-333Crossref PubMed Scopus (101) Google Scholar).
+ Energy Expenditure via Doubly Labeled WaterSubjects drank from a stock solution of 2H2O and H218O water where 1 g of 2H2O (99.99% enrichment) was mixed with 19 g of H218O (10% enrichment).
+ An aliquot of the stock solution was saved for dilution to be analyzed along with each set of urine samples.
+ The water was weighed to the nearest 0.1 g into the dosing container.
+ The prescribed dose was 1.0 g per kg body weight and the actual dose amounts were entered in a dose log.
+ Spot urine samples were collected daily.
+ Isotopic enrichments of urine samples were measured by isotope ratio mass spectrometry.
+ The average CO2 production rate (rCO2) were estimated from the rate constants describing the exponential disappearance of the labeled 18O and D water isotopes (kO and kD) in repeated spot urine samples collected over several days and were corrected for previous isotope doses (Bhutani et al., 2015Bhutani S. Racine N. Shriver T. Schoeller D.A.
+ Special considerations for measuring energy expenditure with doubly labeled water under atypical conditions.J.
+ Obes.
+ Weight Loss Ther.
+ 2015; 5: 002PubMed Google Scholar).
+ We used the parameters of Racette et al.
+ (1994)Racette S.B.
+ Schoeller D.A.
+ Luke A.H. Shay K. Hnilicka J. Kushner R.F.
+ Relative dilution spaces of 2H- and 18O-labeled water in humans.Am.
+ J. Physiol.
+ 1994; 267: E585-E590PubMed Google Scholar with the weighted dilution space calculation, Rdil, proposed by Speakman (1997)Speakman J.R.
+ Doubly Labelled Water: Theory and Practice.
+ Guo J. Chen K.Y.
+ Leibel R.L.
+ Reitman M.L.
+ Rosenbaum M. Smith S.R.
+ J. Clin.
+ Nutr.
+ 2019; https://doi.org/10.1093/ajcn/nqy390Crossref Scopus (13) Google Scholar).
+ Continuous Glucose MonitoringSubjects wore the Dexcom G4 Platinum (Dexcom, San Diego, CA, USA) continuous glucose monitor (CGM) daily during the inpatient stay.
+ The device consisted of a small sensor, a transmitter, and a hand-held receiver.
+ The sensor was inserted subcutaneously in the lower abdomen to measure interstitial glucose concentrations every 5 min which were transmitted to the receiver.
+ Finger stick calibrations were required at insertion as well as each morning and night.
+ The sensor was changed every 7 days.
+ Subjects were blinded to their glucose readings.
+ The CGM was removed during MRI/MRS procedures and DXA scans.
+ All the data was downloaded at the end of the inpatient stay.
+ Quantification and Statistical AnalysisThis study was powered to detect a difference in mean ad libitum energy intake over each 14-day test diet period (the primary endpoint) of 125-150 kcal/d in 20 subjects with probability (power) of 0.8 with a Type I error probability of 0.05.
+ Flatt J.P. Volaufova J. Delany J.P.
+ Champagne C.M.
+ Corrective responses in human food intake identified from an analysis of 7-d food-intake records.Am.
+ J. Clin.
+ Nutr.
+ 2008; 88: 1504-1510Crossref PubMed Scopus (39) Google Scholar, Edholm et al., 1970Edholm O.G.
+ Adam J.M.
+ Healy M.J. Wolff H.S.
+ Goldsmith R. Best T.W.
+ Food intake and energy expenditure of army recruits.Br.
+ J. Nutr.
+ 1970; 24: 1091-1107Crossref PubMed Scopus (86) Google Scholar, Tarasuk and Beaton, 1992Tarasuk V. Beaton G.H.
+ 1992; 18: 43-54Crossref PubMed Scopus (45) Google Scholar).
+ Using the conservative assumption that within-subject energy intake correlations were zero, over the 14-day diet period each subject was expected to have a mean energy intake with a standard error of about 130-160 kcal/d and the mean energy intake difference between the study diets was therefore estimated to have a standard error of about 190-230 kcal/d.Statistical analyses were performed using SAS (version 9.4; SAS Institute, Cary, NC, USA).
+ The baseline data are presented as mean ± SE.
+ The data tables and figures present least-squares mean ± SE and paired, two-sided t tests were used to compare the diet groups.
+ By continuing you agree to the use of cookies.
+ Copyright © 2020 Elsevier Inc. except certain content provided by third parties.

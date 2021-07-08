@@ -1,0 +1,353 @@
+Skip to main content   Advertisement            Thank you for visiting nature.com.
+ You are using a browser version with limited support for CSS.
+ To obtain    the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in    Internet Explorer).
+ In the meantime, to ensure continued support, we are displaying the site without styles    and JavaScript.
+ View all Nature Research journals     Search   My Account   Login           Explore our content     Journal information         naturenpj precision oncologyarticlesarticle                 Combinatorial treatment with natural compounds in prostate cancer inhibits prostate tumor growth and leads to key modulations of cancer cell metabolism          Download PDF          Article  Open Access  Published: 05 June 2017  Combinatorial treatment with natural compounds in prostate cancer inhibits prostate tumor growth and leads to key modulations of cancer cell metabolism Alessia Lodi1 na1, Achinto Saha2 na1, Xiyuan Lu1, Bo Wang1, Enrique Sentandreu1, Meghan Collins1, Mikhail G. Kolonin4, John DiGiovanni2,3 &amp; Stefano Tiziani     ORCID: orcid.org/0000-0002-7230-03071,3   npj Precision Oncology volume 1, Article number: 18 (2017)    Cite this article     8085 Accesses   20 Citations   183 Altmetric   Metrics details      Subjects  Cancer metabolismCancer preventionMetabolomics         An Erratum to this article was published on 04 September 2017        This article has been updated    AbstractHigh-throughput screening of a natural compound library was performed to identify the most efficacious combinatorial treatment on prostate cancer.
+ Ursolic acid, curcumin and resveratrol were selected for further analyses and administered in vivo via the diet, either alone or in combination, in a mouse allograft model of prostate cancer.
+ All possible combinations of these natural compounds produced synergistic effects on tumor size and weight, as predicted in the screens.
+ A subsequent untargeted metabolomics and metabolic flux analysis using isotopically labeled glutamine indicated that the compound combinations modulated glutamine metabolism.
+ In addition, ASCT2 levels and STAT3, mTORC1 and AMPK activity were modulated to a greater extent by the combinations compared to the individual compounds.
+ Overall, this approach can be useful for identifying synergistic combinations of natural compounds for chemopreventive and therapeutic interventions.
+ Download PDF     IntroductionAccording to the World Health Organization, one-third of all cancer deaths are preventable through an increased consumption of natural compounds able to modulate key molecular signaling cascades that ultimately inhibit cancer cell proliferation and induce apoptosis.1,2,3,4,5 A number of dietary phytochemicals, including curcumin (CUR), ursolic acid (UA), epigallocatechin-3-gallate (or EGCG), resveratrol (RES), sulforaphane and 6-shogaol have shown potential chemopreventive effects in vitro and in vivo in either animal models or in clinical studies on several cancers,5,6,7,8,9 including prostate cancer (PCa).1, 5, 10,11,12,13,14,15 These bioactive compounds target inflammatory signaling pathways including Stat3 and NFκB in addition to other signaling pathways associated with cancer development and progression.7, 8, 11, 16,17,18,19 These studies have led to an increasing enthusiasm in developing novel strategies for cancer prevention and treatment.5,6,7,8,9 Thus, a pressing need has arisen to identify novel bioactive phytochemicals and to understand their therapeutic role and mechanisms of action.The systematic identification of effective bioactive agents is very challenging, partly due to the low specificity of phytochemicals.
+ In turn, their low toxicity and capability of inhibiting multiple pathways represents a resourceful long-term strategy for chemoprevention or treatment of cancer.
+ For instance, the ability of these compounds to target multiple pathways might be advantageous to limit compensatory signaling feedback loops and cross-talk between cellular pathways and between different cell types inside the tumor microenvironment.
+ The vast molecular diversity offered by natural compound libraries represents an invaluable resource for identification of synergistic combinatorial treatments.
+ However, the systematic search of synergistic combinations is hampered by the many possible combinations, even for combinations involving only two compounds within a modest pool of candidates.
+ For example, a single dose (and single replicate) screening of a chemical library of 100 compounds in combinations of two agents, would require testing 4950 combinations.
+ To avoid the extensive experimental exploration of all the possible compound combinations, several methods have been developed aimed at predicting synergistic combinations.
+ However, most of these methods focused on the identification of targeted inhibitors for a single enzyme rather than on monitoring the global response of cancer cells.Metabolomics, an emerging field of biomedical and nutrigenomics research,20,21,22 entails the measurement of a comprehensive pool of small molecules, called the metabolome, in biological samples.23,24,25 Besides being nutrients essential for cell growth, in the context of cancer, metabolites represent sensitive markers of major alterations in cancer cell metabolism and contribute to oncogenic signaling.
+ Lipid metabolism alteration is considered as another hallmark of cancer cells since lipid metabolizing enzymes are directly regulated by the activity of oncogenic signals.
+ The effect of the most promising compounds (UA, CUR and RES) were tested in vivo in a murine allograft model of PCa, as individual and combination treatments.
+ All the natural compound combinations resulted in synergistic effects on tumor volume and weight.
+ Therefore, we further analyzed the molecular effects of the compounds (administered alone and in combination) in in vitro models of PCa using an untargeted metabolomics approach combining magnetic resonance spectroscopy (MRS) and mass spectrometry (MS).
+ A number of metabolic pathways were affected by the synergistic combinatorial treatments and allowed discrimination of those which were unequivocally driven by the individual compounds.
+ Moreover, metabolic flux analysis using isotopically labeled glutamine indicated that the combination of UA with either CUR or RES led to a blockade of glutamine uptake by the cancer cells possibly contributing to the efficacy of these combinations in hindering PCa growth.
+ Collectively, the approach used in this paper demonstrates that the metabolic response induced by single agent screening alone may guide the development of novel combinatorial treatments from in vitro to in vivo models and could potentially be translated into human studies.ResultsScreening of NCLThe effect of a library of 142 natural compounds (listed in Supplementary Table 1) on cell viability (based on the adenosine triphosphate, ATP, bioluminescence assay) was screened in the HMVP2 mouse PCa cell line.33, 34 HMVP2 cells were screened at three different concentrations (5, 10 and 20 µM) and three time points (12, 24 and 48 h).
+ Z-factors were calculated to evaluate cell response (based on ATP suppression) following exposure to the natural compounds.
+ A Z-factor value greater than 0.5 was considered a very good response.
+ The 20 µM treatment resulted in the highest number of compounds with Z-factors greater than 0.5 and ATP values lower than 0.5 (indicating good suppression) and was therefore selected as the best dose for the selection of the top hits (Fig.
+ 1, ATP only).
+ ATP and the derived Z-factors for all treatments and all doses are included in Supplementary Table 1.
+ 1).
+ Notably, after 12 h of treatment at the 20 µM dose, the majority of the natural compounds under study induced a greater suppression of ATP levels compared to untreated (solvent control) samples than longer treatments at the same dose (Fig.
+ 1).
+ Moreover, the top hits (selected based on the highest Z-factor) were very consistent regardless of the treatment dose (Supplementary Table 1) and include shikonin, dioscin, amygdalin, UA, and oridonin (only for 24 and 48 h of treatment).
+ Shikonin and dioscin were highly effective at all time points and all doses; however, no differences in ATP suppression levels were observed under the experimental conditions for these two compounds (even at lower doses of 5 and 10 µM, as shown in Supplementary Table 1).
+ These results are likely due to the concentrations being too high.
+ Therefore, shikonin and dioscin were not granted further investigation in the metabolic analysis and will be further characterized to determine a more appropriate concentration range.
+ In spite of the high Z-factor values, amygdalin was not selected as a top hit in this study due to the known ineffectiveness as a cancer treatment.35 UA was selected as the top hit for further combinatorial treatment studies, as this compound overall resulted in better outcomes than oridonin.Fig.
+ 1Screening of a natural compound library.
+ HMVP2 cell viability following treatment with a library of natural compounds was screened using the ATP bioluminescence assay.
+ HMVP2 cells were treated for 12 (blue), 24 (red) and 48 h (green) with a library of natural compounds (single agent) at the dose of 5, 10 or 20 µM (only the latter dose is shown in the figure).
+ Natural compounds are sorted according to increasing ATP bioluminescence values of the 12 h time-point (list of compounds is included in Supplementary Table 1).
+ Relative ATP levels (ATP level in treated samples normalized by ATP level of untreated samples) as averages of four replicates are shownFull size image We next performed the screen in HMVP2 cells treated with UA (top hit from the individual agent screen) in combination with all the agents screened as individual treatments (both agents used at 20 µM for 12, 24 and 48 h).
+ In addition to the HMVP2 cell line, we also performed the screen with the combined treatments in 3 androgen-independent, human PCa cell lines, DU145, PC3 and C4-2B (Supplementary Table 3).
+ The experimental ATP-suppression values for the combined treatments are included in Table 1 (treatments inducing the top 20 highest ATP-suppression levels).
+ In HMVP2 cells, the combination of UA with either corosolic acid, aesculin or CUR led to the highest level of ATP suppression (besides the combinations with shikonin and dioscin, excluded for the same considerations mentioned previously for the individual treatment screen).
+ Corosolic acid is structurally analogous to UA and was therefore deemed suboptimal for further studies on the effect of the combined treatment.
+ CUR and aesculin led to comparable ATP suppression results in HMVP2 cells, however, CUR showed greatly improved ATP suppression in DU145 and PC3 cells and similar ATP suppression in C4-2B cells compared to aesculin (Supplementary Table 3).
+ Therefore, CUR was selected as top hit for combination treatment with UA.
+ In addition to CUR, we also included in our metabolic studies the combination of UA with another natural compound, RES, which in our primary screen showed little to no ATP suppression (average control-normalized ATP levels between 0.77 and 1.72 in mouse and human PCa cell lines) when administered as a single agent, and a greatly improved ATP suppression following combined administration with UA.
+ The combination of CUR and RES was also included for comparison.
+ Both combinations of natural compounds showed at least comparable suppression of cell growth/survival (Supplementary Fig.
+ 1) to the standard therapeutic agents.Table 1 Cell viability modulation following combined treatment with UA and the NCL compoundsFull size table In addition to screening for modulation of cell viability (measured via ATP bioluminescence) following combined treatment with natural compounds, we also monitored generation of reactive oxygen species (ROS) in all the mouse and human PCa cell lines.
+ Notably, screening of ROS levels indicated that UA and RES, administered either as single agents or in combination either decreased or did not affect the ROS levels (compared to control).
+ In contrast, CUR alone induced an increase in ROS in most of the cell lines (not significant in PC3), which was suppressed by the combination with UA (Table 2).Table 2 Induction of ROS in treated murine and human PCa cellsFull size table In-vivo effects of UA, CUR and RES administered alone or in combinationAfter selecting the top-hit compounds of interest from the above screens the in vivo effects of the single or combined treatments with the selected natural compounds were evaluated on growth of tumors derived from HMVP2 spheroids in a mouse allograft model.
+ HMVP2 cells were grown into spheroids, injected subcutaneously into the flank of male FVB/N mice and allowed to grow for 13 days post-injection before starting the treatment.
+ All compounds were given in the diet.
+ Tumor volume was monitored starting on the 1st day of treatment and continued until mice were sacrificed on day 32 of treatment.
+ Moreover, tumors were weighed at the end of treatment (day 32).
+ Notably, the addition of the natural compounds into the formulation of the animals’ diets did not induce changes in either the animals’ body weight (Fig.
+ 2a) or their daily food consumption (Fig.
+ 2b).
+ Treatments administered as single agents induced modest, but not statistically significant, decreases in both tumor volume and weight (Fig.
+ 2c and d) as compared to mice on the control diet.
+ In contrast, all of the combinations resulted in significantly smaller tumors (both volume and weight) than mice on the control diet.
+ Furthermore, the combination of UA + CUR also resulted in significantly smaller tumors (both volume and weight) than those obtained following administration of UA or CUR as single-agent treatment.
+ Thus, overall the combination of UA + CUR appeared to be the most effective at inhibiting tumor growth, although all three combinations produced significant combinatorial effects.
+ We also compared the effect of the combination of natural compounds on in vivo tumor growth with docetaxel.
+ At the doses used for this experiment, docetaxel did not produce any significant effects in the HMVP2 allograft model or in HMVP2 cells treated in vitro (Supplementary Fig.
+ 2).Fig.
+ 2In vivo effect on HMVP2 tumor growth of treatment with CUR, UA, RES and their combinations.
+ HMVP2 cell spheroids were injected subcutaneously into the flank of male FVB/N mice.
+ Mice were fed ad libitum with semipurified AIN76A-based diet containing CUR, UA, RES or their combinations of two natural compounds.
+ Body weight (a), food consumption (b), tumor volume (c) and tumor weight (d) are shown as mean ± SEM.
+ One-way ANOVA with significance at p  98% pure corosolic acid, epi-maslinic acid, epi-UA, epi-corosolic and maslinic acid were prepared as recently described.58, 59 For all screens, cells in exponential proliferation were seeded in 384-well plates using a Viaflo Assist micro-plate dispenser (Integra Biosciences, Hudson, NH, USA) and allowed to adhere overnight.
+ During the primary screening, HMVP2 cells were screened with the individual NCL compounds at 3 time-points (12, 24 or 48 h) and three doses (5, 10, 20 µM final concentration).
+ A secondary screen was then performed on both the murine and human cell lines treated for 12 h with combinations of two compounds administered at the same concentration (20 µM final concentration).
+ The NCL was dispensed into the seeded 384-well plates using the Viaflo-384 liquid-handling system (Integra Biosciences).
+ To reduce bias, the treatments were administered based on a randomized list of well positions.Two bioluminescence assays, CellTiter-Glo kit and ROS-Glo kit (both from Promega, Madison, WI), were used according to the manufacturer’s protocols to measure cell viability and ROS.
+ Both ATP and ROS-based measurements were acquired on a SpectraMax M5e Series Multi-Mode Microplate Reader (Molecular Devices, Sunnyvale, CA) with 4 replicates per condition.
+ Relative luminescence values were calculated as the luminescence value of the treated sample over that of solvent control cells within the same plate.In addition, the NMVP and HMVP2 cell lines were seeded in 96-well plates and treated with docetaxel at 1, 10, 25, 50,100 and 250 nM for 12 h. Cell viability was investigated by performing the ATP bioluminescence assay.In vivo tumor growthAll animal husbandry and experiments were carried out in strict accordance to guidelines defined by the Association for Assessment and Accreditation of Laboratory Animal Care and approved by the institutional animal research committees at The University of Texas at Austin.Spheroids generated from HMVP2 cells were injected subcutaneously into the flank of male FVB/N mice.
+ Thirteen days after injection of spheroids, treatment with the natural compounds was started by switching animals to semipurified AIN76A-based diets containing 1.0% CUR, 0.2% UA, 0.5% RES or their combinations (all ad libitum).
+ Body weight and food consumption were monitored weekly in all groups.
+ Starting on day 1 of treatment, tumor volume was measured twice weekly using digital calipers.
+ Treatment was continued for 32 days and the experiment was terminated 45 days after injection of the tumor cell spheroids.
+ At the end of the treatment period, mice were killed, and tumors were excised and weighed.
+ The effect on tumor weight and volume was also evaluated following treatment with docetaxel.
+ Four days after the injection of spheroids, mice were treated weekly with docetaxel (20 mg/kg body weight with half of the drug volume injected intraperitoneally and half subcutaneously) for four consecutive weeks.
+ Tumor volume was measured weekly and tumor weight was measured at the end of the study.HMVP2 cell extracts for metabolomics and isotopic labeling analysisHMVP2 cells were treated for 12 h with either solvent control dimethyl sulfoxide or UA, CUR and RES administered alone or in combination.
+ For the glutamine flux analysis, natural abundance glutamine in the medium was completely replaced with 13C5, 15N2-glutamine (Cambridge Isotopes Laboratories, Inc.).
+ At the end of the 12-h treatment period, an aliquot of media was collected from each flask for extracellular analysis.
+ Cells were washed twice with PBS, harvested and intracellular metabolites were extracted using a modified Bligh-Dyer procedure, as previously reported60,61,62,63 (as described in Supplementary Information).MRS-based metabolomics analysisPolar samples for MRS analysis were resuspended in 45 µl of 0.1 M phosphate buffer in 90% D2O with 1 mM TSP, 0.05% NaN3, vortexed and centrifuged at 4 °C for 10 min.
+ Thirty-five microliters of the supernatant were transferred into 1.7-mm tubes.
+ One dimensional 1H MRS spectra were acquired and processed as previously described29, 63, 64 (as described in Supplementary Information).MS-based metabolomics analysisBoth polar and lipid analyses were analyzed on a Q Exactive Hybrid Quadrupole-Orbitrap Mass Spectrometer (Thermo Fisher Sci., Bremen, Germany).
+ Sources for all solvents and reagents, and more detailed experimental procedures are included in Supplementary Information.
+ Chromatographic separation was performed on a Thermo Scientific (Thermo Fisher Sci., San José, CA, USA) Accela UHPLC system equipped with a quaternary pump, vacuum degasser and an open autosampler with a temperature controller.
+ MS analysis was carried out on a QEx active benchtop Orbitrap detector loading an electrospray (ESI) source simultaneously operating in fast negative/positive polarity switching ionization mode.
+ For all sample types (media, and polar and apolar intracellular fractions), quality control samples were run once every five samples.All raw MS datasets were processed using Sieve 2.2 (Thermo Scientific) and mined against an in-house database of accurate masses and retention times generated in our laboratory using the IROA 300, MS Metabolite Library of Standards (IROA Technologies, Bolton, MA).
+ In addition, databases of accurate masses taken from the KEGG database65 and the Human Metabolome database66 were also mined.
+ Experimental procedures and the specific primary antibodies used are detailed in Supplementary Information.
+ For all the Western blots shown, samples were derived from the same experiment and were processed in parallel.
+ Molecular weight markers are shown in Supplementary Fig.
+ 5.Statistical and pathway analyses and evaluation of synergy between natural compoundsFor the screens, Z factor was calculated from ATP values to identify top-hit compounds as previously reported.
+ Hierarchical cluster analysis was performed using the Euclidean distance and average linkage clustering methods on the intracellular levels (normalized to control) of all the identified metabolites.
+ The predicted combined affected fraction with values lower than the experimental one is considered synergistic.36  Change history04 September 2017A correction to this article has been published and is linked from the HTML version of this article.References1.Benitez, D. A., Hermoso, M. A., Pozo‐Guisado, E., Fernández‐Salguero, P. M. &amp; Castellón, E. A.
+ Regulation of cell survival by resveratrol involves inhibition of NFκB‐regulated gene expression in prostate cancer cells.
+ Prostate 69, 1045–1054 (2009).CAS   Article   PubMed         Google Scholar      2.Bode, A. M. &amp; Dong, Z.
+ Cancer prevention research—then and now.
+ Nat.
+ Rev.
+ Cancer 9, 508–516 (2009).CAS   Article   PubMed   PubMed Central         Google Scholar      3.Lee, K. W., Bode, A. M. &amp; Dong, Z. Molecular targets of phytochemicals for cancer prevention.
+ Nat.
+ Rev.
+ Cancer 11, 211–218 (2011).4.Singh, B., Singh, H. B., Singh, A., Naqvi, A. H. &amp; Singh, B. R. Dietary phytochemicals alter epigenetic events and signaling pathways for inhibition of metastasis cascade.
+ Cancer Metastasis Rev.
+ 33, 41–85 (2014).5.Surh, Y. J.
+ Cancer chemoprevention with dietary phytochemicals.
+ Nat.
+ Rev.
+ Cancer 3, 768–780 (2003).CAS   Article   PubMed         Google Scholar      6.Sharma, R. A., Gescher, A. J.
+ &amp; Steward, W. P. Curcumin: the story so far.
+ Eur.
+ J .Cancer 41, 1955–1968 (2005).CAS   Article   PubMed         Google Scholar      7.Kundu, J. K. &amp; Surh, Y. J.
+ Cancer chemopreventive and therapeutic potential of resveratrol: mechanistic perspectives.
+ Cancer Lett.
+ 269, 243–261 (2008).CAS   Article   PubMed         Google Scholar      8.Aggarwal, B.
+ B.
+ &amp; Shishodia, S. Molecular targets of dietary agents for prevention and therapy of cancer.
+ Biochem.
+ Pharmacol.
+ 71, 1397–1421 (2006).CAS   Article   PubMed         Google Scholar      9.Baliga, M. S. et al.
+ Update on the chemopreventive effects of ginger and its phytochemicals.
+ Crit.
+ Rev.
+ Food Sci.
+ Nutr.
+ 51, 499–523 (2011).CAS   Article   PubMed         Google Scholar      10.Barve, A. et al.
+ Murine prostate cancer inhibition by dietary phytochemicals--curcumin and phenyethylisothiocyanate.
+ Pharm.
+ Res.
+ 25, 2181–2189 (2008).CAS   Article   PubMed   PubMed Central         Google Scholar      11.Saha, A. et al.
+ 6-Shogaol from dried ginger inhibits growth of prostate cancer cells both in vitro and in vivo through inhibition of STAT3 and NF-kappaB signaling.
+ Cancer Prev.
+ Res.
+ (Phila) 7, 627–638 (2014).CAS   Article         Google Scholar      12.Thompson, I. M. Jr., Cabang, A.
+ B.
+ &amp; Wargovich, M. J.
+ Future directions in the prevention of prostate cancer.
+ Nat.
+ Rev.
+ Clin.
+ Oncol.
+ 11, 49–60 (2014).CAS   Article   PubMed         Google Scholar      13.Vemana, G., Hamilton, R. J., Andriole, G. L. &amp; Freedland, S. J. Chemoprevention of prostate cancer.
+ Annu.
+ Rev.
+ Med.
+ 65, 111–123 (2014).CAS   Article   PubMed         Google Scholar      14.Shanmugam, M. K. et al.
+ Ursolic acid inhibits multiple cell survival pathways leading to suppression of growth of prostate cancer xenograft in nude mice.
+ J. Mol.
+ Med.
+ (Berl) 89, 713–727 (2011).CAS   Article         Google Scholar      15.Syed, D. N., Khan, N., Afaq, F. &amp; Mukhtar, H. Chemoprevention of prostate cancer through dietary agents: progress and promise.
+ Cancer Epidemiol.
+ Biomarkers Prev.
+ 16, 2193–2203 (2007).CAS   Article   PubMed         Google Scholar      16.Shankar, S. &amp; Srivastava, R. K. Involvement of Bcl-2 family members, phosphatidylinositol 3’-kinase/AKT and mitochondrial p53 in curcumin (diferulolylmethane)-induced apoptosis in prostate cancer.
+ Int.
+ J. Oncol.
+ 30, 905–918 (2007).CAS   PubMed         Google Scholar      17.Lee, C. G., Koo, J. H. &amp; Kim, S. G. Phytochemical regulation of Fyn and AMPK signaling circuitry.
+ Arch.
+ Pharm.
+ Res.
+ doi:10.1007/s12272-015-0611-x (2015).18.Cho, J. et al.
+ Effect of combined treatment with ursolic acid and resveratrol on skin tumor promotion by 12-O-tetradecanoylphorbol-13-acetate.
+ Cancer Prev.
+ Res.
+ (Phila) 8, 817–825 (2015).CAS   Article         Google Scholar      19.Akimoto, M., Iizuka, M., Kanematsu, R., Yoshida, M. &amp; Takenaga, K. Anticancer Effect of Ginger Extract against Pancreatic Cancer Cells Mainly through Reactive Oxygen Species-Mediated Autotic Cell Death.
+ PloS One 10, e0126605 (2015).Article   PubMed   PubMed Central         Google Scholar      20.Zeisel, S. H. Nutrigenomics and metabolomics will change clinical nutrition and public health practice: insights from studies on dietary requirements for choline.
+ Am.
+ J. Clin.
+ Nutr.
+ 86, 542–548 (2007).CAS   PubMed   PubMed Central         Google Scholar      21.Davis, C. D. &amp; Milner, J. Frontiers in nutrigenomics, proteomics, metabolomics and cancer prevention.
+ Mut.
+ Res.
+ 551, 51–64 (2004).CAS   Article         Google Scholar      22.Serkova, N. J.
+ &amp; Glunde, K. Metabolomics of cancer.
+ In Tumor Biomarker Discovery: Methods and Protocols, Vol.
+ 520 (ed.
+ Tainsky M.
+ A.)
+ 273–295 (Springer, 2009).23.Tomita, M. &amp; Kami, K. Systems biology, metabolomics, and cancer metabolism.
+ Science 336, 990–991 (2012).CAS   Article   PubMed         Google Scholar      24.Clayton, T. A. et al.
+ Pharmaco-metabonomic phenotyping and personalized drug treatment.
+ Nature 440, 1073–1077 (2006).CAS   Article   PubMed         Google Scholar      25.Zhou, X. et al.
+ Identification of plasma lipid biomarkers for prostate cancer by lipidomics and bioinformatics.
+ PloS One doi:10.1371/journal.pone.0048889 (2012).26.Delikatny, E. J., Chawla, S., Leung, D. J.
+ &amp; Poptani, H. MR‐visible lipids and the tumor microenvironment.
+ NMR Biomed.
+ 24, 592–611 (2011).CAS   PubMed   PubMed Central         Google Scholar      27.Sotgia, F. et al.
+ Understanding the Warburg effect and the prognostic value of stromal caveolin-1 as a marker of a lethal tumor microenvironment.
+ Breast Cancer Res.
+ 13, 213 (2011).Article   PubMed   PubMed Central         Google Scholar      28.Ma, Y., Zhang, P., Yang, Y., Wang, F. &amp; Qin, H. Metabolomics in the fields of oncology: a review of recent research.
+ Mol.
+ Biol.
+ Rep. 39, 7505–7511 (2012).CAS   Article   PubMed         Google Scholar      29.Tiziani, S. et al.
+ Metabolomics of the tumor microenvironment in pediatric acute lymphoblastic leukemia.
+ PloS One 8, e82859 (2013).Article   PubMed   PubMed Central         Google Scholar      30.Claudino, W. M. et al.
+ Metabolomics: available results, current research projects in breast cancer, and future applications.
+ J. Clin.
+ Oncol.
+ 25, 2840–2846 (2007).CAS   Article   PubMed         Google Scholar      31.Lodi, A., Woods, S. M. &amp; Ronen, S. M. Treatment with the MEK inhibitor U0126 induces decreased hyperpolarized pyruvate to lactate conversion in breast, but not prostate, cancer cells.
+ NMR Biomed.
+ 26, 299–306 (2013).CAS   Article   PubMed         Google Scholar      32.Sreekumar, A. et al.
+ Metabolomic profiles delineate potential role for sarcosine in prostate cancer progression.
+ Nature 457, 910–914 (2009).CAS   Article   PubMed   PubMed Central         Google Scholar      33.Cramer, S. et al.
+ Systemic depletion of L-cyst (e) ine with cyst (e) inase increases reactive oxygen species and suppresses tumor growth.
+ Nat.
+ Med.
+ 23(1), 120–127(2017).34.Saha, A., Blando, J., Fernandez, I., Kiguchi, K. &amp; DiGiovanni, J. Linneg Sca-1high CD49fhigh prostate cancer cells derived from the Hi-Myc mouse model are tumor-initiating cells with basal-epithelial characteristics and differentiation potential in vitro and in vivo.
+ Oncotarget 7, 25194–25207 (2016).Article   PubMed   PubMed Central         Google Scholar      35.Moertel, C. et al.
+ A Clinical Trial of Amygdalin (Laetrile) in the Treatment of Human Cancer.
+ New England Journal of Medicine 306, 201–206 (1982).CAS   Article   PubMed         Google Scholar      36.Zhao, W. et al.
+ A new bliss independence model to analyze drug combination data.
+ J. Biomol.
+ Screen.
+ 19, 817–821 (2014).Article   PubMed         Google Scholar      37.Saha, A., Blando, J., Tremmel, L. &amp; DiGiovanni, J.
+ Effect of metformin, rapamycin and their combination on growth and progression of prostate tumors in HiMyc mice.
+ Cancer Prev.
+ Res.
+ 8, 597–606 (2015).CAS   Article         Google Scholar      38.Pelicano, H., Martin, D. S., Xu, R. H. &amp; Huang, P. Glycolysis inhibition for anticancer treatment.
+ Oncogene 25, 4633–4646 (2006).CAS   Article   PubMed         Google Scholar      39.Chen, P. et al.
+ Pharmacological ascorbate induces cytotoxicity in prostate cancer cells through ATP depletion and induction of autophagy.
+ Anti-cancer Drugs 23, 437–444 (2012).CAS   Article   PubMed         Google Scholar      40.Jangamreddy, J. R. et al.
+ Salinomycin induces activation of autophagy, mitophagy and affects mitochondrial polarity: differences between primary and cancer cells.
+ Biochimica et Biophysica Acta 1833, 2057–2069 (2013).CAS   Article   PubMed         Google Scholar      41.Lu, X. et al.
+ Cellular ATP depletion by LY309887 as a predictor of growth inhibition in human tumor cell lines.
+ Clin.
+ Cancer Res.
+ 6, 271–277 (2000).PubMed         Google Scholar      42.Zhou, Y. et al.
+ Intracellular ATP levels are a pivotal determinant of chemoresistance in colon cancer cells.
+ Cancer Res.
+ 72, 304–314 (2012).CAS   Article   PubMed         Google Scholar      43.Lu, C. C., Huang, B. R., Liao, P. J.
+ &amp; Yen, G. C. Ursolic acid triggers nonprogrammed death (necrosis) in human glioblastoma multiforme DBTRG-05MG cells through MPT pore opening and ATP decline.
+ Mol.
+ Nutr.
+ Food Res.
+ 58, 2146–2156 (2014).CAS   Article   PubMed         Google Scholar      44.Banno, N. et al.
+ Triterpene acids from the leaves of Perilla frutescens and their anti-inflammatory and antitumor-promoting effects.
+ Biosci.
+ Biotechnol.
+ Biochem.
+ 68, 85–90 (2004).CAS   Article   PubMed         Google Scholar      45.Tokuda, H., Ohigashi, H., Koshimizu, K. &amp; Ito, Y. Inhibitory effects of ursolic and oleanolic acid on skin tumor promotion by 12-O-tetradecanoylphorbol-13-acetate.
+ Cancer Lett.
+ 33, 279–285 (1986).CAS   Article   PubMed         Google Scholar      46.Shanmugam, M. K. et al.
+ Ursolic acid in cancer prevention and treatment: molecular targets, pharmacokinetics and clinical studies.
+ Biochem.
+ Pharmacol.
+ 85, 1579–1587 (2013).CAS   Article   PubMed         Google Scholar      47.Liou, G.-Y.
+ &amp; Storz, P. Reactive oxygen species in cancer.
+ Free Radic.
+ Res.
+ doi:10.3109/10715761003667554 (2010).48.Aggarwal, B.
+ B. et al.
+ Curcumin induces the degradation of cyclin E expression through ubiquitin-dependent pathway and up-regulates cyclin-dependent kinase inhibitors p21 and p27 in multiple human tumor cell lines.
+ Biochem.
+ Pharmacol.
+ 73, 1024–1032 (2007).CAS   Article   PubMed         Google Scholar      49.Aggarwal, S. et al.
+ Curcumin (diferuloylmethane) down-regulates expression of cell proliferation and antiapoptotic and metastatic gene products through suppression of IkappaBalpha kinase and Akt activation.
+ Mol.
+ Pharmacol.
+ 69, 195–206, (2006).CAS   PubMed         Google Scholar      50.Cruz-Correa, M. et al.
+ Combination treatment with curcumin and quercetin of adenomas in familial adenomatous polyposis.
+ Clin.
+ Gastroenterol.
+ Hepatol.
+ 4, 1035–1038 (2006).CAS   Article   PubMed         Google Scholar      51.Sharma, R. A. et al.
+ Phase I clinical trial of oral curcumin: biomarkers of systemic activity and compliance.
+ Clin.
+ Cancer Res.
+ 10, 6847–6854 (2004).CAS   Article   PubMed         Google Scholar      52.Gescher, A., Steward, W. P. &amp; Brown, K. Resveratrol in the management of human cancer: how strong is the clinical evidence?
+ Ann.
+ N. Y. Acad.
+ Sci.
+ 1290, 12–20 (2013).CAS   Article   PubMed         Google Scholar      53.Park, W., Amin, A. R., Chen, Z. G. &amp; Shin, D. M. New perspectives of curcumin in cancer prevention.
+ Cancer Prev.
+ Res.
+ (Phila) 6, 387–400 (2013).CAS   Article         Google Scholar      54.Wang, Q. et al.
+ Targeting ASCT2-mediated glutamine uptake blocks prostate cancer growth and tumour development.
+ J. Pathol.
+ 236, 278–289 (2015).CAS   Article   PubMed   PubMed Central         Google Scholar      55.Wang, Q. et al.
+ Androgen receptor and nutrient signaling pathways coordinate the demand for increased amino acid transport during prostate cancer progression.
+ Cancer Res.
+ 71, 7525–7536 (2011).CAS   Article   PubMed         Google Scholar      56.Yang, L. et al.
+ Mol.
+ Syst.
+ Biol.
+ 10, 728 (2014).Article   PubMed   PubMed Central         Google Scholar      57.Wang, W. &amp; Guan, K.-L. AMP-activated protein kinase and cancer.
+ Acta Physiol.
+ 196, 55–63 (2009).CAS   Article         Google Scholar      58.Cho, J. et al.
+ Evaluation of pentacyclic triterpenes found in Perilla frutescens for inhibition of skin tumor promotion by 12-O-tetradecanoylphorbol-13-acetate.
+ Oncotarget 6, 39292–39306 (2015).Article   PubMed   PubMed Central         Google Scholar      59.Nelson, A. T. et al.
+ Synthesis of oxygenated oleanolic and ursolic acid derivatives with anti-inflammatory properties.
+ Bioorg.
+ Med.
+ Chem.
+ Lett.
+ 25, 4342–4346 (2015).CAS   Article   PubMed   PubMed Central         Google Scholar      60.Guma, M. et al.
+ Targeting Glycolysis in Rheumatoid Arthritis.
+ Arthritis Rheumatol.
+ 66, S416–S416 (2014).
+ Google Scholar      61.Lodi, A. et al.
+ Hypoxia triggers major metabolic changes in AML cells without altering indomethacin-induced TCA cycle deregulation.
+ ACS Chem.
+ Biol.
+ 6, 169–175 (2011).CAS   Article   PubMed         Google Scholar      62.Tiziani, S. et al.
+ Metabolomic profiling of drug responses in acute myeloid leukaemia cell lines.
+ PloS One 4, doi:10.1371/journal.pone.0004251 (2009).63.Lodi, A.
+ &amp; Ronen, S. M. Magnetic resonance spectroscopy detectable metabolomic fingerprint of response to antineoplastic treatment.
+ PloS One 6, e26155 (2011).CAS   Article   PubMed   PubMed Central         Google Scholar      64.Kang, Y., Tiziani, S., Park, G., Kaul, M. &amp; Paternostro, G. Cellular protection using Flt3 and PI3K alpha inhibitors demonstrates multiple mechanisms of oxidative glutamate toxicity.
+ Nat.
+ Commun.
+ doi:10.1038/ncomms4672 (2014).65.Okuda, S. et al.
+ KEGG Atlas mapping for global analysis of metabolic pathways.
+ Nucleic Acids Res.
+ 36, W423–W426 (2008).CAS   Article   PubMed   PubMed Central         Google Scholar      66.Wishart, D. S. et al.
+ HMDB: the human metabolome database.
+ Nucleic Acids Res.
+ 35, D521–526, (2007).CAS   Article   PubMed   PubMed Central         Google Scholar      67.Xia, J., Sinelnikov, I. V., Han, B.
+ &amp; Wishart, D. S. Metabo Analyst 3.0—making metabolomics more meaningful.
+ Nucleic Acids Res.
+ 43, W251–W257 (2015).CAS   Article   PubMed   PubMed Central         Google Scholar      Download referencesAcknowledgementsThis work was supported by grants from the NIH (JD: CA164159) and the University of Texas System (ST: STAR Award).
+ The support for the NMR facility was provided by the University of Texas Health Science Center at San Antonio (UTHSCSA) and National Institutes of Health Grant NCI P30 CA54174 (CTRC at UTHSCSA).
+ Authors thank Ali Dadbin for support with some of the animal experiments.Author informationAuthor notesAlessia Lodi and Achinto Saha contributed equally to this workAffiliationsDepartment of Nutritional Sciences, The University of Texas at Austin, Austin, TX, USAAlessia Lodi, Xiyuan Lu, Bo Wang, Enrique Sentandreu, Meghan Collins &amp; Stefano TizianiDivision of Pharmacology and Toxicology, College of Pharmacy, The University of Texas at Austin, Austin, TX, USAAchinto Saha &amp; John DiGiovanniDell Pediatric Research Institute, The University of Texas at Austin, Austin, TX, USAJohn DiGiovanni &amp; Stefano TizianiThe Brown Foundation Institute of Molecular Medicine, University of Texas Health Science Center at Houston, Houston, TX, USAMikhail G. KoloninAuthorsAlessia LodiView author publicationsYou can also search for this author in       PubMed Google ScholarAchinto SahaView author publicationsYou can also search for this author in       PubMed Google ScholarXiyuan LuView author publicationsYou can also search for this author in       PubMed Google ScholarBo WangView author publicationsYou can also search for this author in       PubMed Google ScholarEnrique SentandreuView author publicationsYou can also search for this author in       PubMed Google ScholarMeghan CollinsView author publicationsYou can also search for this author in       PubMed Google ScholarMikhail G. KoloninView author publicationsYou can also search for this author in       PubMed Google ScholarJohn DiGiovanniView author publicationsYou can also search for this author in       PubMed Google ScholarStefano TizianiView author publicationsYou can also search for this author in       PubMed Google ScholarContributionsS.T., J.D., A.L., A.S.: designed the experiments; S.T., J.D.
+ : contributed reagents/materials/analysis tools; A.L., A.S., X.L., B.W., E.S., M.G., M.K., M.C.
+ : performed the experiments; A.L., A.S., J.D., S.T.
+ : analyzed the data; A.L., A.S., J.D., S.T.
+ : wrote the manuscript.Corresponding authorCorrespondence to     Stefano Tiziani.Ethics declarations Competing interests The authors declare that they have no competing financial interests.
+ Additional informationPublisher’s noteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+ Change History: A correction to this article has been published and is linked from the HTML version of this article.An erratum to this article is available at https://doi.org/10.1038/s41698-017-0027-9.Electronic supplementary material Supplemental InformationSupplemental Figure LegendSupplementary Figure 1Supplementary Figure 2Supplementary Figure 3Supplementary Figure 4Supplementary Figure 5Supplementary TablesRights and permissions  Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+ The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material.
+ If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+ Reprints and PermissionsAbout this articleCite this articleLodi, A., Saha, A., Lu, X. et al.
+ Combinatorial treatment with natural compounds in prostate cancer inhibits prostate tumor growth and leads to key modulations of cancer cell metabolism.
+ npj Precision Onc 1, 18 (2017).
+ https://doi.org/10.1038/s41698-017-0024-zDownload citationReceived: 12 December 2016Revised: 12 April 2017Accepted: 20 April 2017Published: 05 June 2017DOI: https://doi.org/10.1038/s41698-017-0024-z   Further reading           Identification of a synergistic combination of dimethylaminoparthenolide and shikonin alters metabolism and inhibits proliferation of pediatric precursor‐B cell acute lymphoblastic leukemia        Shannon R. Sweeney, Meghan Collins, Renu Pandey, Jennifer Chiou, Alessia Lodi &amp; Stefano Tiziani  Molecular Carcinogenesis     (2020)               Enzyme-mediated depletion of serum l-Met abrogates prostate cancer growth via multiple mechanisms without evidence of systemic toxicity        Wei-Cheng Lu, Achinto Saha, Wupeng Yan, Kendra Garrison, Candice Lamb, Renu Pandey, Seema Irani, Alessia Lodi, Xiyuan Lu, Stefano Tiziani, Yan Jessie Zhang, George Georgiou, John DiGiovanni &amp; Everett Stone  Proceedings of the National Academy of Sciences     (2020)               Recent advances in natural therapeutic approaches for the treatment of cancer        Xue-Jun Wang, Jin-Yang Chen, Luo-Qin Fu &amp; Mei-Juan Yan  Journal of Chemotherapy     (2020)               Stable Isotope Tracing Metabolomics to Investigate the Metabolic Activity of Bioactive Compounds for Cancer Prevention and Treatment        Feroza K. Choudhury, G. Lavender Hackman, Alessia Lodi &amp; Stefano Tiziani  Cancers     (2020)               Mapping the underlying mechanisms of fibrinogen benzothiazole drug interactions using computational and experimental approaches        Michael González-Durruthy, Gustavo Scanavachi, Ramón Rial, Zhen Liu, M. Natália D.S.
+ Cordeiro, Rosangela Itri &amp; Juan M. Ruso  International Journal of Biological Macromolecules     (2020)                  Download PDF    Editorial SummaryProstate cancer: Combination of natural compounds limits tumor growthCombinations of two molecules found naturally in edible plants synergistically help reduce tumor growth in a mouse model of prostate cancer.
+ Stefano Tiziani and John DiGiovanni from the University of Texas at Austin, and colleagues screened a library of 142 natural compounds for the effects of each molecule, alone or in combination, on the viability of cells from mouse and human prostate cancer cell lines.
+ Amongst other promising combinations, the researchers identified ursolic acid and curcumin as the most promising combination for inhibiting tumor growth.
+ (These compounds are found naturally in apple peels and turmeric, respectively.)
+ In mice with implanted prostate tumors, the two compounds synergistically reduced tumor volume and weight, while in cell culture the researchers showed that the compound-combination strategy modulated metabolism of a critical amino acid and other cell signaling pathways.
+ Explore our content              Browse Articles                        Browse Collections             Sign up for alerts          Journal information             About the Journal                      For Authors &amp; Referees                      Contact            Submit manuscript         Search    Article Search   Search            Advanced search             Quick links  Explore articles by subject Find a job Guide to authors Editorial policies                 npj Precision Oncology       ISSN 2397-768X (online)               nature.com sitemap      About us Press releases Press office Contact us                      Discover content  Journals A-Z Articles by subject Nano Protocol Exchange Nature Index    Publish with us  Guide to Authors Guide to Referees Editorial policies Open access Reprints &amp; permissions    Researcher services  Research data Language editing Scientific editing Nature Masterclasses Nature Research Academies    Libraries &amp; institutions  Librarian service &amp; tools Librarian portal Open research    Advertising &amp; partnerships  Advertising Partnerships &amp; Services Media kits Branded content    Career development  Nature Careers Nature Conferences Nature events    Regional websites  Nature China Nature India Nature Japan Nature Korea Nature Middle East    Legal &amp; Privacy  Privacy Policy Use of cookies Manage cookies/Do not sell my data Legal notice Accessibility statement Terms &amp; Conditions California Privacy Statement           © 2020 Springer Nature Limited                               Close banner        Close       Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+ Email address   Sign up    I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+ Close banner        Close    Get the most important science stories of the day, free in your inbox.
+ Sign up for Nature Briefing

@@ -1,0 +1,9 @@
+Uses jquery library.
+ "touchstart"
+        : "onpointerdown" in window ?
+ encodeURIComponent(document.itemTitle.trim()).replace(/[!
+ encodeURIComponent(document.itemTitle.trim()).replace(/[!
+ 1 Cell:  863-801-4097 Fax: 863-763-0118  Email:  Commissioner Culpepper.
+ Bryant H. Culpepper was re-elected to the Board of County Commission in November 2018 and is serving his third term which expires in November 2022.
+ Commissioner Culpepper has completed the Florida Association of Counties Commissioner Certification Program.
+ Commissioner Culpepper is the owner and President of Air-A-Medics.

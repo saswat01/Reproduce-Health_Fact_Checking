@@ -1,0 +1,4 @@
+source : 'No Value Set',       'splitTestIds': (templateData.splitTestIds) ?
+ templateData.splitTestIds : 'No Value Set',       'displayMode': templateData.displayMode,       'authId': authResult.idTokenPayload.userId ?
+ source : 'No Value Set',       'splitTestIds': (templateData.splitTestIds) ?
+ templateData.splitTestIds : 'No Value Set',       'displayMode': templateData.displayMode,       'authId': authResult.idTokenPayload.userId ?

@@ -1,0 +1,416 @@
+Above: Inner hair cell.
+ Below: Outer hair cell.… Figures - uploaded by Geoff LeventhallAuthor contentAll figure content in this area was uploaded by Geoff LeventhallContent may be subject to copyright.
+ For exam-ple, measurements of hearing thresholdhave been made down to 4Hz for expo-sure in an acoustic chamber (Watanabeand Møller 1990) and down to 1.5 Hz forearphone listening (Yeowart et al.
+ 1967).The limit of 16 Hz, or more com-monly considered as 20 Hz, arises from the lower frequencylimit for which the standardized equal loudness hearing con-tours have been measured, not from the lower limit of hearing.From the subjective point of view, there is no logical reason forterminating a continuous process of hearing at an arbitrary fre-quency, so that from about 10Hz to 100Hz could be taken as thelow frequency range.
+ It may also be argued that there is no log-ical reason for terminating at 100 Hz, and the range is some-times extended to about 200Hz and down to 5Hz.
+ However,objectors to wind turbine developments are now requestingthat measurements are made down to below 1Hz.Atmospheric infrasound This is a well-established discipline, studying frequenciesfrom about one cycle in 1000 seconds up to, say, 2Hz andhigher (Bedard and George 2000).
+ Theattenuation with distance is small and propagation can becomplex.
+ Monitoring of atmospheric infrasound is an essen-tial part of ensuring the success of the Nuclear Test BanTreaty, since explosions in the air generate infrasound, andthere are about 60 monitoring stations around the world.
+ Of course, it is important to realise that our evolution hasbeen in the presence of naturally occurring atmosphericinfrasound, which overlaps the lower end of wind turbineinfrasound.
+ The Apollo Space Programme Early work on low frequency noise and its subjectiveeffects was stimulated by the Apollo space programme.
+ It wasknown that large launch vehicles produce their maximumnoise energy in the infrasound region.
+ Furthermore, as thevehicle accelerates, the crew compartment is subjected toboundary layer turbulence noise for afew minutes after lift-off.
+ Experimentswere carried out in low frequency noisechambers on short term subjective tol-erance to bands of noise at levels of140dB to 150dB in the range up to100Hz (Mohr, Cole et al.
+ 1965).
+ It wasconcluded that subjects who were expe-rienced in noise exposure, and whowere wearing ear protection, could tol-erate both broad¬band and discrete fre-quency noise in the range 1Hz to 100Hzat sound pressure levels up to 150dB.Later work suggests that, for 24 hourexposure, levels of 120-130dB are tolerable below 20Hz (vonGierke 1973, von Gierke and Nixon 1976).
+ These high, long-term limits were set to prevent direct physiological damage.It was not suggested that the exposure is pleasant, or subjec-tively acceptable, for anybody except those whose occupationrequires them to be exposed to the noise.Work was also in progress in the UK (Yeowart, Bryan etal.
+ 1969, Hood and Leventhall 1971) and France (Gavreau,Condat et al.
+ 1966, Gavreau 1968) from the 1960s and inJapan and Scandinavia from the 1970s (Møller 1980, Yamada1980).
+ Japan and Scandinavia are now the main centres forwork on infrasound and low frequency noise.
+ A review ofstudies of low frequency noise has been given by Leventhall(Leventhall, Benton et al.
+ 2003)Origins of the Concerns The early American work was published from the mid-dle 1960s and did not attract public attention, but a few yearslater infrasound entered upon its “mythological” phase,echoes of which still occur, currently in relation to wind tur-bines.
+ The main name associated with the early phase is thatof Gavreau from CNRS Marseille, whose work was inprogress at the same time as that of the Apollo space pro-gramme.
+ (Gavreau, Condat et al.
+ 1966, Gavreau 1968).Infrasound at 7Hz from a defective industrial fan, which mayhave been operating at an unstable point on its characteristic,led to investigations of the problem and to the design of highintensity low frequency sound sources.
+ The frequencies andlevels reported in Gavreau (1968) were:Frequency Hz Reported level dB2600 Not given340 155dB196 160dB37 Not given7 Not givenCONCERNS ABOUT INFRASOUND FROM WIND TURBINESGeoff Leventhall150 Craddocks AveAshtead, Surrey KT21 1NLUnited Kingdom“It appears that concerns overinfrasound and low frequencynoise have found a place deepin the national psyche of anumber of countries and liewaiting for a trigger to bringthem to the surface.”v9i3_pfinal_rev3_ECHOES fall 04 final 8/27/13 2:22 PM Page 30      Concerns About Infrasound from Wind Turbines 31Gavreau made misleading statements, which led to confusionof harmful effects of very high levels at higher frequencieswith the effects of infrasound.For example from the 1968 paper on “Infrasound,” whichwas published in a popular science journal: (Gavreau 1968):Infrasounds are not difficult to study but they arepotentially harmful.
+ For example one of my col-leagues, R Levavasseur, who designed a powerfulemitter known as the ‘Levavasseur whistle’ is now avictim of his own inventiveness.
+ One of his largerwhistles emitting at 2600Hz had an acoustic powerof 1kW… This proved sufficient to make him a life-long invalid.Of course, 2600Hz is not infrasound, but the misleadingimplication is that infrasound caused injury to Levavasseur.Gavreau’s progress Gavreau energized his sources in a laboratory, exposinghimself and his co-workers to very high levels of noise at rel-atively high frequencies.
+ For example at 196Hz from a pneu-matic “whistle” and 37Hz from a larger whistle.
+ Exposure tothe 196Hz source at a level of 160dB led to irritation of inter-nal organs, so that Gavreau and his colleague felt unwell fol-lowing a five minute exposure.
+ Again from the 1968 paper:… after the test we became aware of a painful ‘reso-nance’ within our bodies – everything inside usseemed to vibrate when we spoke or moved.
+ Whathad happened was that this sound at 160 decibels…acting directly on the body produced intense fric-tion between internal organs, resulting in severeirritation of the nerve endings.
+ Presumably if thetest had lasted longer than five minutes, internalhemorrhage would have occurred.196 Hz is not infrasound, but the unpleasant effects aredescribed in a paper with the title “Infrasound.” The 37Hz whistle was run at a low level, but sufficient tocause the lightweight walls of the laboratory to vibrate.
+ Someof Gavreau’s earlier work had been in the development ofpneumatic high intensity ultrasonic sources, so that he mere-ly had to scale up the size for low frequency operation.Gavreau also generated 7Hz with a tube of length 24m,driven by either a loudspeaker or a motor- driven piston.
+ Hesuggested that 7Hz was particularly “dangerous” because thefrequency coincided with alpha rhythms of the brain.
+ He alsoused a tube to generate 3.5Hz, but further details were notgiven.And from the 1968 paper:The effects of low frequency sound and infrasoundare noxious.
+ However, we found one exception: theintense vibration of the nasal cavities produced byour whistle (340Hz, 155 decibels) had favorableeffects!
+ In one case, a subject recovered a sense ofsmell which he had lost some years back and wasable to breathe more easily.Infrasound and the public By present standards, Gavreau’s work was irresponsible,both in the manner in which it was carried out and in themanner in which it was described.
+ Much of the paper withthe title “Infrasound” is not about infrasound.
+ The work waspicked up by the media and embellished further, includingclaims that 7Hz is fatal.
+ The misunderstanding between infrasound and low fre-quency noise continues.
+ A newspaper article on low frequen-cy noise from wind turbines (Miller 24 January 2004), openswith: “Onshore wind farms are a health hazard to people liv-ing near them because of the low-frequency noise that theyemit, according to new medical studies.” A French translation of this article for use by objectorgroups opens with: “De nouvelles études médicales indiquentque les éoliennes terrestres représentent un risque pour la santédes gens habitant à proximité, à cause de l’émission d’infra-sons.”The translation of low frequency noise into infrasons con-tinues through the article.
+ This is not a trivial misrepresenta-tion because, following on from Gavreau, infrasound hasbeen connected with many misfortunes, being blamed forproblems for which some other explanation had not yet beenfound (e.g., brain tumors, sudden infant deaths, road acci-dents).
+ A selection of some UK press headlines from the earlyyears is: The Silent Sound Menaces Drivers - Daily Mirror,19th October 1969 Does Infrasound Make Drivers Drunk?
+ - NewScientist, 16th March 1972 Brain Tumours ‘caused by noise’ - The Times, 29thSeptember 1973Crowd Control by Light and Sound - The Guardian,3rd October 1973 Danger in Unheard Car Sounds - The Observer, 21stApril 1974The Silent Killer All Around Us - Evening News, 25thMay 1974Noise is the Invisible Danger - Care on the Road(ROSPA) August 1974Infrasound and low frequency noise are often associated inthe public mind with the “hum.” This is mystery noise ofunknown origin, which is heard periodically by a few people,and causes them great distress, but is difficult to measure.The hum has been reviewed by Demming, who gives refer-ences to North American occurrences (Demming 2004).Demming has established a Yahoo Group Hum Forum, , to helphum sufferers interact and support each other.Absurd statements were made in the book Supernatureby Lyall Watson, first published in 1973 as A Natural Historyof the Supernatural and which has had a number of reprintsand large sales.
+ This book includes an extreme instance of theincredible nonsense which has been published about infra-sound.
+ It states that the technician who gave the first trialblast of Gavreau’s whistle “fell down dead on the spot.” A postmortem showed that “all his internal organs had beenmashed into an amorphous jelly by the vibrations.” It contin-ues that, in a controlled experiment, all the windows werebroken within a half mile of the test site and further, that twoinfrasonic generators “focused on a point even five milesv9i3_pfinal_rev3_ECHOES fall 04 final 8/27/13 2:22 PM Page 31      32 Acoustics Today, July 2013away produce a resonance that canknock a building down as effectively asa major earthquake.” One can detect a transition fromGavreau and his colleague feeling illafter exposure to the high level of196Hz to “fell down dead on the spot”and a further transition from laborato-ry walls vibrating to “can knock abuilding down,” transitions whichresulted from repeated media exagger-ations over a period of five or six years.The Internet Currently, the internet is thefavored medium for information oninfrasound and wind turbines.
+ A webpage that features the subject is .Main themes of this page are that windturbine developers are greedy andheartless money-makers and that windturbine infrasound causes a range ofillnesses.
+ The writers use colorful andforceful language.
+ For example, as in .
+ The writers are sofocused on supposed dangers of infra-sound, which they use as a scare tacticon residents near proposed windfarms, that they may be led astray bythis.
+ For example, the long rangeacoustic device (LRAD) is described asan infrasonic weapon, whereas it isactually based on an ultrasound carri-er: .
+ Any evidence on the pro-duction of even low level infrasound bywind turbines is hailed as a victory .
+ Another view, notfavored by the web page, is that windturbines produce infrasound, but it isof negligible impact on humans(Leventhall 2006).Public perceptions We cannot blame the public fortheir anxiety about infrasound and lowfrequency noise when they have beenexposed to statements like thosedescribed earlier.
+ Public concern overinfrasound was one of the stimuli for agrowth in complaints about low fre-quency noise during the 1970s and1980s and has continuing effects.
+ Itappears that concerns over infrasoundand low frequency noise have found aplace deep in the national psyche of anumber of countries and lie waiting fora trigger to bring them to the surface.Earlier triggers have been gas pipelinesand work at government researchestablishments.
+ A current trigger iswind turbines.
+ Infrasound in the Cold War The media follow-up of Gavreau’swork led to interest in infrasonicweapons, although these have not beenproduced, as it is not possible to gener-ate directional infrasound of highenough level to be effective at a dis-tance.
+ However, during the cold war,the Conference of the Committee onDisarmament was presented with apaper from the Hungarian Peoples’Republic (Anon 1978) which discussedinfrasonic weapons and concluded:… infrasound can become thebasis of one of the dangeroustypes of new weapons of massdestruction …Fig 1.
+ Jet engine as infrasonic weapon.All this leads to the unequiv-ocal conclusion that the scopeof the agreement on the pro-hibition of the developmentand manufacture of newtypes of weapons of massdestruction must also beextended to the military useof infrasound weapons ofmass destruction …An example of an infrasonic weaponwas given as a jet engine attached to along resonance tube, shown in Fig.
+ 1.The physics is at fault, because therapid flow of the exhaust gas from theengine will prevent the development ofresonance (Leventhall 1998).
+ After tak-ing advice, the Western powers con-Fig.
+ 2v9i3_pfinal_rev3_ECHOES fall 04 final 8/27/13 2:22 PM Page 32      Concerns About Infrasound from Wind Turbines 33cluded that infrasonic weapons were a political distractionfrom the main points of the disarmament negotiations.In relation to wind turbines, the concept that “infra-sound is dangerous” has been absorbed into the minds ofobjectors to wind turbines, who take a one dimensional viewof infrasound.
+ That is, they consider only that it may be pres-ent from wind turbines and ignore the very low levels.
+ So wehave the connection shown in Fig.
+ 2, which objectors to windturbines are pleased to believe and which they make use of inplanning applications.
+ However, decibel for decibel, infra-sound is less harmful than higher frequency noise.The Wind Turbine SyndromeThis supposed syndrome is a collection of maladies, saidto result from exposure to infrasound from wind turbines,including “… sleep disturbance, headache, tinnitus, ear pres-sure, dizziness, vertigo, nausea, visual blurring, tachycardia,irritability, problems with concentration and memory, andpanic episodes associated with sensations of internal pulsa-tion or quivering when awake or asleep.”In her self-published, popular science book, NinaPierpont, who practices as a pediatrician, not an acousticsexpert, gives two hypotheses on which the wind turbine syn-drome is based.
+ (Pierpont 2009)1.
+ These feed back neurolog-ically onto a person’s sense of position and motion inspace, which is in turn connected in multiple ways tobrain functions as disparate as spatial memory andanxiety …2.
+ Air pressure fluctuations in the range of 4-8 Hz,which may be harmonics of the turbine blade-passingfrequency, may resonate (amplify) in the chest and befelt as vibrations or quivering of the diaphragm withits attached abdominal organ mass (liver).
+ Slower airpressure fluctuations, which could be the blade-pass-ing frequencies themselves or a lower harmonic (1-2Hz), would be felt as pulsations as opposed to thefaster vibrations or quivering … The pressure fluctu-ations in the chest could disturb visceral receptors,such as large vessel or pulmonary baroreceptors ormediastinal stretch receptors which function as vis-ceral graviceptors.These aberrant signals from the vis-ceral graviceptors, not concordant with signals fromthe other parts of the motion-detecting system, havethe potential to activate the integrated neural net-works that link motion detection with somatic andautonomic outflow, emotional fear responses, andaversive learning.To summarize, Pierpont’s claim is that the low levels of infra-sound from wind turbines have a direct pathophysiologicaleffect on the body, through the vestibular systems and also byexcitation of the airways and diaphragm to the viscera.However, she has little understanding of acoustic magnitudesand changes at will between noise and vibration.
+ The scien-tific backing for Hypothesis 1 is a paper on vestibular detec-tion of vibration applied to the mastoid bone.
+ In adoptingthis she has misrepresented the original paper (Todd,Rosengren et al.
+ 2008) as being based on excitation by noise,when it was actually a bone conducted vibration detectioninvestigation, comparing thresholds of vestibular andcochlear detection.
+ Following a newspaper item which con-nected him with the wind turbine syndrome, Todd repudiat-ed Pierpont’s use of his work (Todd 2009).
+ The backing forHypothesis 2 is in body resonances resulting from wholebody vibration.
+ However, excitation by point vibration inputat the seat or feet differs from that for long wavelength sound,which acts over the whole body, and different resonances areexcited.
+ Pierpont’s hypotheses are scientifically invalid.Some people are distressed by wind turbines, and noiseis a factor in this.
+ Those at the sharp end of environmentalnoise problems know how upsetting noise can become, espe-cially if there is an antagonism towards the source.
+ Symptomswhich are given by Pierpont as comprising the Wind TurbineSyndrome are paralleled in the extreme distress from anyenvironmental noise, which occurs with a small number ofpeople, especially when coupled with psychological factors.However, Pierpont dismisses psychological effects with, “It isimportant to emphasize, these symptoms are not psycholog-ical (as if people are fabricating them), they are neurological.”This contradicts much of what is known about responses tonoise, especially low level noise.
+ (Job 1988, Miedema and Vos1999).Pierpont has been the main proponent of dangers ofinfrasound from wind turbines and she, along with thosewho follow her, is responsible for much of the present publicattitude.
+ A fuller critique of Pierpont’s work has been givenpreviously (Leventhall 2009).
+ Support for an adverse effect from wind turbine infra-sound has been given by Salt and Hullar, who showed that, at5Hz, the outer hair cell (OHC) response threshold in guineapigs is lower than the guinea pig hearing threshold, whichdepends on inner hair cell excitation.
+ (Salt and Hullar 2010).This led to the definition of a rather broad brush OHCthreshold, which gradually diverges from the hearing thresh-old below 1000Hz.
+ Comparison of guinea pig and humanhearing thresholds was used to define an equivalent OHCthreshold for humans.
+ The final destination in the brain ofthe excitations from the OHCs, which are not transmittedalong the auditory nerve, is not known.
+ Salt is cautious in hisscientific papers and writes “The fact that some inner earcomponents (such as the OHC) may respond to infrasoundat the frequencies and levels generated by wind turbines doesnot necessarily mean that they will be perceived or disturbfunction in any way.” (Salt and Hullar 2010).
+ However, Salt’sweb page falls squarely in the “infrasound is hazardous”school ( ).The proposed inner and outer hair cell thresholds forhumans are compared in Fig.
+ 3.
+ The outer hair cell thresholdis 20dB at 100Hz, rising at 40dB/decade into lower frequen-cies, crossing 60dB at 10Hz and 100dB at 1Hz.
+ The next sec-tion covers infrasound from wind turbines and it will benoted that much of this infrasound, especially at lower infra-sound frequencies, is below the outer hair cell threshold, sov9i3_pfinal_rev3_ECHOES fall 04 final 8/27/13 2:22 PM Page 33      34 Acoustics Today, July 2013that the relevance of the threshold to wind turbine infra-sound is not clear.
+ Many natural and man-made infrasonicsources exceed the threshold in the higher infrasonic region(Turnbull, Turner et al.
+ 2012) Infrasound from wind turbines An early association of wind turbines and infrasound wasthe work of NASA in the 1980s.
+ Investigations of the MOD-1and similar downwind turbines revealed pressure pulses frominteraction between the blades and the disturbed flow behindthe tower.
+ Downwind turbines were largely experimental mod-els and were completely replaced by the three bladed upwindturbines, which make up the current operating fleet of utilityscale turbines.
+ Analysis of pulses from the MOD-1 and similarturbines, which typically have a repetition rate of 1Hz, leads toa harmonic series based on 1Hz and to the linking of infra-sound with wind turbines (Shepherd and Hubbard 1991).However, this infrasound is of the type which might be pro-duced by a single person hand clapping, or even a ticking clock!The problems from the MOD-1 turbine were not from the fre-quency, but from the peaks of the pressure pulses in the down-wind turbine design, which caused vibration of loose buildingcomponents and were also audible.
+ Building response is thesame over a wide range of pulse repetition rates, up to the pointwhere the decay time of the this response merges with the rep-etition rate of the pulses.There have been a number of measurements of infra-sound from modern wind turbines (Hayes 2006, Hepburn2006, Jung and Cheung 2008, O’Neal, Hellweg et al.
+ 2011,Ambrose and Rand 2011 (December), Turnbull, Turner et al.2012, Walker, Hessler et al.
+ 2012, Evans 2013).
+ Current meas-urements are often made to alleviate concerns of those objec-tors who believe that infrasound from wind turbines is harm-ful.
+ Measurements show similar results.
+ At typical nearestresidential distances, the one-third octave level at 10Hz isaround 60dB, with a negative spectrum slope of 3 to 6dB peroctave.
+ The levels decrease with distance and may merge intobackground infrasound.
+ Evans showed that the averagedinfrasound levels at residences 1.8km and 2.7km from thenearest turbine of a 140, 3MW turbine wind farm were simi-lar when the turbines were on or off (Evans 2013).
+ This con-firms earlier work (Guldberg 2012, Howe, McCabe et al.2012).
+ Although the average infrasound level may not differbetween wind turbines on and off, the characteristics of thesound may change when the turbines are operating.
+ 4(Walker, Hessler et al.
+ 2012).
+ The outdoors spectrum is 38-39dB at 10Hz, 0.05Hz band, leading to a one-third octavelevel of about 55dB.
+ The slope of the outdoors spectrum isclose to 20dB/decade (6dB/octave).
+ The rise in the livingroom spectrum in the region of 20Hz is from building reso-nances, but is nearly 50dB below the hearing threshold at20Hz.
+ The residents had left their home, complaining of ill-ness (nausea) caused by wind turbines, although all the levelsin Fig.
+ 4 are below the Salt OHC threshold of Fig.
+ 3.One of the authors of the Shirley report suggested directaction of infrasound on the vestibular otoliths as a cause ofillness, but the next section on infrasound and the ear showsthat this is an unlikely explanation.Infrasound and the ear The pure tone hearing threshold has been measured in achamber down to 4Hz (Watanabe and Møller 1990) and tolower frequencies using earphones (Yeowart and Evans1974).
+ The chamber data is shown in Fig.
+ 5, where it is com-bined with the ISO standard threshold (ISO:226 2003).
+ TheWatanabe and Møller threshold at 4Hz is 107dB.
+ At 12 Hz itis about 90dB.
+ Yeowart and Evans give higher binauralthresholds: 112dB at 4Hz and 121dB at 2Hz.
+ The mechanism of hearing down into low frequencies isthrough normal excitation of the auditory cortex, as shownby fMRI investigations (Dommes, Bauknecht et al.
+ 2009 ).Dommes, Bauknecht et al used functional MagneticResonance Imaging (fMRI) to investigate responses of thebrain when exposed to infrasound both above and below thehearing threshold, at the following frequencies and levels:Freq Hz 500 48 36 12 12 12Level dB 105 100 70 120 110 90Audible infrasound excited the auditory cortex, which iswhere hearing perception occurs.
+ Inaudible infrasound didnot show an excitation.
+ This is to be expected if infrasoundenters into the hearing system, and is transmitted to the brainin a similar manner to higher frequency sounds.
+ Dommes,Bauknecht et al summarise the results of their work as:In our study, no other cortical regions owed acomparably extensive response to the high-levelstimuli as did the auditory cortex, indicating thatLFT [low frequency tones] were mainly perceivedvia acoustic pathways instead of representing aFig.
+ 3.
+ Comparison of inner and outer hair cell thresholds.
+ Above: Inner hair cell.Below: Outer hair cell.v9i3_pfinal_rev3_ECHOES fall 04 final 8/27/13 2:22 PM Page 34      Concerns About Infrasound from Wind Turbines 35somatosensory phenomenon.In our study, cortical activation patternsappeared to be similar for all frequencies applied,suggesting that LFT are processed in a similar wayas frequencies of our main hearing range (200 to5000Hz).We presented the 12Hz stimuli at three differentlevels.
+ Tone bursts of 120 and 110 dB resulted incortical activation.
+ The 90dB stimulus did notinduce a significant response of the auditory cortexin group analysis which, in agreement with thefindings of Møller and Pedersen (2004), indicatesthat this SPL is below the estimated perceptionthreshold for 12 Hz.
+ (Møller and Pedersen 2004)This shows that low frequency tones and infrasound are per-ceived through the normal auditory pathways, the samepathways as for higher frequencies.
+ Furthermore, sounds, including infrasound, which arebelow the hearing threshold, do not produce a response inthe auditory cortex, as is also the case for sub-threshold high-er frequencies.
+ Whilst the lowest frequency used was 12Hz,the regular slope of the hearing threshold indicates that sim-ilar processes are likely to apply at lower frequencies.
+ Forexample, Hensel et al showed that a biasing tone at 6Hz,130dB was detected by the cochlea and that there was noabrupt change in response in the transition from infrasoundto low frequency sound (Hensel, Scholz et al.
+ (Fig.
+ 6)These vibrations propagate up and down the cochlea to thepressure release of the round window, causing waves alongthe basilar membrane and exciting the inner hair cells, whichsend signals via the auditory nerve to the auditory cortex,where they are interpreted as sound The system is mechani-cal up to the oval window and largely hydrodynamic withinthe cochlea.Reverse action of the ear was demonstrated throughotoacoustic emissions (OAE) in which “ringing” of thecochlear amplifier, which is based in the outer hair cells,sends vibrations back through the oval window and ossiclesto excite the ear drum.
+ Vibrations of the ear drum can thenbe detected by a microphone in the ear canal (Kemp 2002).
+ The cochlear aqueduct and internally generatedinfrasoundThe brain produces a fluid (cerebrospinal fluid) whichbathes the brain and the spinal cord, providing protection,lubrication and an egress for metabolic wastes.
+ The cere-brospinal fluid, which can be sampled by lumbar punctures,carries infrasonic pressure pulses resulting from heartbeatand breathing.
+ A small duct, the cochlear aqueduct, connectsFig.
+ 4.
+ Narrow band analysis (0.05Hz) of wind turbine noise.v9i3_pfinal_rev3_ECHOES fall 04 final 8/27/13 2:22 PM Page 35      36 Acoustics Today, July 2013the cochlea to the cerebrospinal fluid, permitting bidirec-tional flow of fluid and allowing pressure equalisation of thecochlea, Fig.
+ 6.
+ The cochlear aqueduct offers a high resistanceto high frequencies, but passes the low frequency pressurepulses from the cerebrospinal fluid into the fluid of the innerear (Traboulsi and Avon 2007).
+ This effect is strong enoughto drive the ear in reverse so that infrasound pulses generat-ed by heartbeat and breathing, which enter the cerebrospinalfluid and transmit to the inner ear via the cochlear aqueduct,may be detected with a microphone in the ear canal.
+ Thedetection has similarities to detection of otoacoustic emis-sions and the cochlea is continuously exposed to infrasoundfrom heartbeat and breathing at similar, and lower, frequen-cies to wind turbine rotational infrasound.
+ Traboulsi and Avon detected pressure peaks in the ear at0.2Hz from breathing and at 1Hz from heartbeat.
+ (Traboulsiand Avon 2007).
+ Recent work has measured the transferfunction between pulsations occurring in the carotid arteryin the neck and the consequent pressure detected in the earcanal, when it was occluded by a microphone (Furihata andYamashiti 2013).
+ A 600 second analysis of the pressuredetected in the ear canal is shown in Fig.
+ 7, where the heartrate is close to 60bpm (1Hz) and two harmonics are shown .Below 1Hz there is infrasound from breathing and otherbody processes.
+ The pressure in the small volume of theoccluded ear canal was 95 -100dB, corresponding to an aver-age ear drum displacement of nearly 0.1µm.The pressures produced in the inner ear fluid by exter-nal infrasound and internally generated infrasound, can becompared by ear drum displacements, allowing for forwardgain and reverse losses.
+ The reverse losses in the ear aregreater than the forward gain, possibly 20-40dB greater(Hudde and Engel 1998, Puria 2003, Cheng , Harrington etal.
+ 2011).
+ By considering these, it was concluded that thelevels of infrasound in the inner ear from internal bodysources are greater than those from external infrasoundfrom wind turbines (Leventhall 2013).
+ The body, andvestibular systems, have developed to avoid disturbancefrom the high levels of infrasound which are producedinternally from the heartbeat and other processes.
+ In fact,the hearing mechanisms and the balance mechanisms,although in close proximity, have evolved to minimiseinteraction.
+ (Carey and Amin 2006).Assessment Internally generated infrasound from heartbeat andbreathing, which enters the inner ear via the cochlear aque-duct, is greater than that received externally from wind tur-bines at similar frequencies, perhaps by 20dB or more.
+ Levelsof infrasound received from wind turbines at typical residen-tial distances are well below hearing threshold and also main-ly below the outer hair cell threshold, proposed by Salt andHullar as a possible onset level of adverse effects.
+ There is noevidence that this wind turbine infrasound is harmful, whilstthere is evidence from atmospheric infrasound that it is not.For example, microbaroms at around 0.2Hz may be of high-er level than wind turbine infrasound at that frequency.Microbaroms have been measured at a power spectral densi-ty of 120dB at 0.2Hz (Shams, Zuckerwar et al.
+ 2013).Certainty is never 100%, especially when biological dif-ferences are involved, but all indications are that the WindTurbine Syndrome is based on fallacious reasoning and thatinaudible infrasound from wind turbines is not a problem forresidents.However, some people are convinced that they areharmed by infrasound from wind turbines, but this appearsto be because they have been told, repeatedly, in publicityopposing wind turbines, that harm will occur.
+ Frequent rep-etition of an incorrect fact does not make it correct although,Fig.
+ 5.
+ Low frequency hearing thresholds.Fig.
+ 6.
+ Action of the ear.
+ Adapted from (Maroonroge, Emanuel et al.
+ 2009)Fig.
+ 7.
+ Spectrum of infrasonic pressure in the occluded ear canal.v9i3_pfinal_rev3_ECHOES fall 04 final 8/27/13 2:22 PM Page 36      Concerns About Infrasound from Wind Turbines 37as with advertising and propaganda, repetition brings con-verts.
+ A collection from over 200 web pages and media sto-ries, detailing supposed harmful effects from wind turbineshas been made by Simon Chapman, Professor in PublicHealth at the University of Sydney, and can be viewed on: Deignan et al have analysed “fright factors” in Ontarionewspapers related to wind turbines and concluded that thenewspapers contained articles about wind turbines andhealth that may produce fear, concern and anxiety for read-ers.
+ (Deignan, Harvey et al.
+ 2013)Similarly, Chapman considers that the Wind TurbineSyndrome is a “communicated disease”, which is spread byconcerns of noise rather than by pathological effects(Chapman 2012).
+ Further, a recent study by Crichton et alhas shown, in a laboratory setting, that if participants areconcerned about the effects of infrasound upon them, theywill display symptoms whenever they believe infrasound tobe present, whether the infrasound is actually present or not.
+ (Crichton, Dodd et al.
+ 2013) This emphasises the importanceof attitudes to a noise source in reactions to it.
+ Objectorgroups to wind turbine developments have fostered negativeattitudes - attitudes which can lead to distress through thenocebo effect (opposite of placebo).
+ (Faase and Petrie 2013,Witthoft and Rubin 2013).
+ The influence of complainant per-sonality traits has been considered by Taylor et al.
+ who haveshown that those with negative traits are more likely to bedisturbed and report non-specific symptoms.
+ (Taylor,Eastwick et al.
+ 2013)Conclusion The reason why some may be disturbed by the low levelsof noise from wind turbines is clearly complex and requires amultidisciplinary approach.
+ Whilst there are instances ofgenuine noise problems from wind turbines, the emphasis oninfrasound and its supposed effects on health, distracts atten-tion from solving these.
+ Objectors to wind turbines, who pro-mote wind turbine infrasound as a problem, are not helpingthose whom they wish to support.ATReferencesAnon (1978).
+ “Conference of the Committee on Disarmament.”Paper CCD/575 14 August 1978.Bedard, A. J. and T. M. George (2000).
+ “Atmospheric Infrasound.”Physics Today 53 (3): 32 - 37.Carey, J. and N. Amin (2006).
+ “Evolutionary Changes in theCochlea and Labyrinth: Solving the Problem of SoundTransmission to the Balance Organs of the Inner Ear.” THEANATOMICAL RECORD PART A 288A: 482-490.Chapman, S. (2012 ).
+ “Wind turbine syndrome: a classic ‘communicat-ed’ disease “ The Conversation: .Cheng , J., et al.
+ (2011).
+ “The Tympanic Membrane Motion inForward and Reverse Middle-Ear Sound Transmission.” WhatFire is in Mine Ears: Progress in Auditory Biomechanics AIP Conf.Proc.
+ 1403, doi: 10.1063/1.3658141 521-527.Crichton, F., et al.
+ (2013).
+ “Can Expectations Produce SymptomsFrom Infrasound Associated With Wind Turbines?” HealthPsychology.
+ Advance online publication.
+ doi: 10.1037/a0031760.Deignan, B., et al.
+ (2013).
+ “Fright factors about wind turbines andhealth in Ontario newspapers before and after the Green EnergyAct “ Health, Risk and Society: .Demming, D. (2004).
+ “The Hum: an Anomalous Sound HeardAround the World.” Journal of Scientific Exploration 18(4): 571-595.Dommes, E., et al.
+ (2009 ).
+ “Auditory cortex stimulation by low-fre-quency tones—An fMRI study.” Brain Research1304(December): 1 2 9 - 1 3 7.Evans, T. (2013).
+ “Macarthur Wind Farm Infrasound &amp; LowFrequency Noise Operational Monitoring Results.” .Faase, K. and K. J. Petrie (2013).
+ “The nocebo effect: patient expec-tations and medication side effects.” Postgrad Med J: doi:10.1136/postgradmedj-2012-131730.Furihata, K. and M. Yamashiti (2013).
+ “Transfer function for vitalinfrasound pressures between the carotid artery and the tym-panic membrane.” J. Acoust.
+ Soc.
+ Am.
+ 133(2): 1169-1186.Gavreau, V. (1968).
+ “Infrasound.” Science Journal Vol 4(No.1): 33-37.Gavreau, V., et al.
+ (1966).
+ “Infra-sons: generateur, detecteurs, pro-prietes physique, effets biologiques.” Acustica 17(1): 1-10.Guldberg, P. H. (2012).
+ “Analysis of background low frequencysound levels at four wind energy sites.” Proceedings Internoise2012,.
+ New York August 19 - 22.Hayes, M. (2006).
+ “The measurement of low frequency noise atthree UK wind farms.
+ DTI Report - 06/1412.” .Hensel, J., et al.
+ (2007).
+ “Impact of infrasound on the humancochlea.” Hearing Research 223: 67 - 76.Hepburn, H. G. (2006).
+ “Acoustic and geophysical measuremtn ofinfrasound from wind farm turbines.” Can Acoustics 34(2): 51 - 67.Hood, R. A. and H. G. Leventhall (1971).
+ “Field measurement ofinfrasonic noise.” Acustica 25(1): 10-13.Howe, B., et al.
+ (2012).
+ “Infrasonic measurements, pre- and post-commissioning, Ontario wind farm.” Proc.15th Int Mtg LowFrequency Noise and Vibration and its Control, Stratford uponAvon, UK.Hudde, H. and A. Engel (1998).
+ “Measuring and Modeling BasicProperties of the Human Middle Ear and Ear Canal.
+ Part III:Eardrum Impedances, Transfer Functions and ModelCalculations.” Acust.
+ Acta Acust 84: 11091-11098.IEC (1994).
+ “60050-801:1994 International ElectrotechnicalVocabulary - Chapter 801: Acoustics and electroacoustics.”ISO:226 (2003).
+ “Acoustics - Normal equal-loudness contours.”Job, R. F. S. (1988).
+ “Community response to noise: A review of fac-tors influencing the relationship between noise exposure andreaction.” J. Acoust.
+ Soc.
+ Am.
+ 83 (3), : 991 - 1001.Jung, S. S. and W. S. Cheung (2008).
+ “Experimental Identification ofAcoustic Emission Characteristics of Large Wind Turbines withEmphasis on Infrasound and Low-Frequency Noise.” Journal ofthe Korean Physical Society, 53 (4): 1897-1905.Kemp, D. T. (2002).
+ “Otoacoustic emissions, their origin in cochlearfunction, and use.” British Medical Bulletin 63: 223-241.Leventhall, G. (2006).
+ “Infrasound from wind turbines: Fact,Fiction or Deception.” Canadian Acoustics 34(2): 29 - 36.Leventhall, G. (2009).
+ “Wind Turbine Syndrome - an appraisal.”Evidence for Glacier Hills enquiry .
+ Public Sevice Commission ofWisconsin: document PSC REF#:121877 .Leventhall, G. (2013).
+ “Infrasound and the ear.” Proc 5thInternational Meeting on Wind Turbine Noise, Denver, ColoradoAugust 2013.Leventhall, H. G. (1998).
+ “The infrasonic weapon revisited.” Noiseand Vibration WorldWide(5): 22 - 26.Leventhall, H. G., et al.
+ (2003).
+ “A review of published research onlow frequency noise and its effects .
+ Report for Defra.” .Maroonroge, S., et al.
+ (2009).
+ “Basic Anatomy of the HumanHearing System.” .Miedema, H. and H. Vos (1999).
+ “Demographic and attitudinal fac-tors that modify annoyance from transportation noise.” JASA105: 3336 - 3344.Miller, C. (24 January 2004).
+ “Wind farms ‘make people sick wholive up to a mile away’.” Sunday Telegraph.Mohr, G. C., et al.
+ (1965).
+ “Effects of low frequency and infrasonicnoise on man.” Aerospace Medicine 36(9): 817-824.Møller, H. (1980).
+ “The influence of infrasound on task perform-ance.” Proc Conference on low frequency noise and hearing.Aalborg, 1980.Møller, H. and C. S. Pedersen (2004).
+ “Hearing at low and infrason-ic frequencies.” Noise and Health 6: 37 - 57.O’Neal, R., et al.
+ (2011).
+ “Low frequency noise and infrasound fromwind turbines.” Noise Control Eng Jnl 59 (2): 135-157.Pierpont, N. (2009).
+ “Wind Turbine Syndrome.” K-Selected Books.Puria, S. (2003).
+ “Measurements of human middle ear forward andreverse acoustics: Implications for otoacoustic emissions.” J.Acoust Soc Am 113(5): 2773 - 2789.Salt, A. N. and T. E. Hullar (2010).
+ “Responses of the ear to low fre-quency sounds, infrasound and wind turbines.” HearingResearch 268: 12-21.Shams, Q.
+ A., et al.
+ (2013).
+ “Experimental investigation into infra-sonic emissions from atmospheric turbulence.” J. Acoust Soc Am133(3): 1269-1280.Shepherd, K. P. and H. H. Hubbard (1991).
+ “PhysicalCharacteristics and Perception of Low Frequency NoiseNoise from Wind Turbines*.” Noise Control Engineering 36: 5 - 15Taylor , J., et al.
+ (2013).
+ “The inﬂuence of negative oriented person-ality traits on the effects of wind turbine noise.” Personality andIndividual Differences 54(3): 338-343.Todd, N. (2009).
+ “Letter to the Editor, .” Independent on SundayAugust 9th 2009 .Todd, N., et al.
+ (2008).
+ “Tuning and sensitivity of the humanvestibular system to low frequency vibration.” NeuroscienceLetters 444: 36 - 41.Traboulsi, R. and P. Avon (2007).
+ “Transmission of infrasonic pres-sure waves from cerebrospinal to intralabyrinthine fluidsthrough the human cochlear aqueduct: Non-invasive measure-ments with otoacoustic emissions.” Hear Res.
+ 233: 30-39.Turnbull, C., et al.
+ (2012).
+ “Measurement and level of infrasoundfrom wind farms and other sources.” Acoustics Australia 40,(1):45 - 50.von Gierke, H. E. (1973).
+ “Effects of infrasound on man.” Proc.Colloquium on Infrasound.
+ CNRS, Paris, 1973: 417 - 435.von Gierke, H. E. and C. Nixon (1976).
+ Effects of intense infrasoundon man.
+ In: Infrasound and Low Frequency Vibration.
+ Editor: WTempest.
+ Academic Press.Walker, B., et al.
+ (2012).
+ “A Cooperative Measurement Survey andAnalysis of Low Frequency and Infrasound at the Shirley WindFarm in Brown County, Wisconsin “ Report 122412-1 PublicService Commission Wisconsin PSC Ref 178200.Walker, B., et al.
+ (2012).
+ “A Cooperative Measurement Survey andAnalysis of Low Frequency and Infrasound at the Shirley WindFarm in Brown County, Wisconsin.” Report 122412-1 PublicService Commission Wisconsin PSC Ref 178200.Watanabe, T. and H. Møller (1990).
+ “Low frequency hearing thresh-olds in pressure field and free field.” Jnl Low Freq Noise Vibn 9(3):106-115.Witthoft, M. and J. G. Rubin (2013).
+ “Are media warnings about theadverse health effects of modern life self-fulfilling?
+ An experi-mental study on idiopathic environmental intolerance attributedto electromagnetic fields (IEI-EMF).” Jnl Psychosomatic Research74: 206-212.Yamada, S. (1980).
+ Hearing of low frequency sound and influence onthe body.
+ Conference on Low Frequency Noise and Hearing,Aalborg, Denmark, 95-102, (Editors: H Møller and P Rubak).Yeowart, N. S., et al.
+ (1969).
+ “Low frequency noise thresholds.” JSound Vibration 9: 447-453.Yeowart, N. S. and M. J. Evans (1974).
+ “Thresholds of audibility forvery low frequency pure tones.” J Acoust Soc Am 55(4): 814-818.Geoff ’s career has been split almost equally between academic and consultancy work,including two moves between them.
+ During his time as an academic at London Universityhe personally supervised 30 PhD students to completion of their theses in acoustics.In the past few years he has been invited to sit on three committees concerned withthe effects of noise on health.
+ Two of these were for the UK Government, the third was forthe AWEA-CanWEA report.He organises two international series of biennial conferences.
+ Low Frequency Noise(the 15th was in Stratford upon Avon in 2012) and the International Meeting on WindTurbine Noise (the 5th of which was in Denver in 2013).Geoff has been practicing as an independent consultant for the past 20 years, work-ing mainly on low frequency noise and infrasound, active control of noise and wind tur-bine noise.He is a former President of the UK Institute of Acoustics, presently an HonoraryFellow, and has been awarded the Institute’s Tyndall Medal and Stephens Medal for hiswork.
+ Testing of vestibular sensitivity to low-frequency and infrasound is also motivated by the common proposition that these sounds can produce dizziness, loss of balance and nystagmus.
+ [13][14][15][16] Although such connection has generally not been backed by objective evidence, [17][18][19] in principle, such effects could indeed occur due to direct stimulation of the vestibular system.
+ ...... 23 Nevertheless, recent estimates from an otolith model 24 have suggested that infrasound (0.7-7 Hz) may induce sufficient otolith acceleration to produce the motion-sickness-like symptoms frequently reported by people living near wind turbines.
+ 16,17,19 In addition, animal data suggest that infrasound can produce large endolymphatic potentials.
+ 25 Since the inner ear is an enclosed electrical volume that comprises both, balance and hearing organs, excitatory effects of the cochlear potentials on the vestibular system cannot be ruled out and requires testing in a controlled laboratory setting.
+ ...On the Effectiveness of airborne infrasound in eliciting vestibular-evoked myogenic responsesArticleFull-text availableMar 2019J LOW FREQ NOISE V A Carlos Jurado Torsten MarquardtThe use of airborne infrasound and other stimuli to elicit (cervical) vestibular-evoked myogenic potentials (cVEMPs) was studied to address the common proposition that infrasound may efficiently stimulate the vestibular system, an effect which may underlie the so-called wind-turbine syndrome.
+ cVEMPs were measured for both ears of 15 normal-hearing subjects using three types of airborne sound stimulation: (1) 500-Hz tone bursts (transient); (2) 500-Hz sinusoidally amplitude-modulated tones at a 40-Hz rate (SAM); and (3) low-frequency and infrasound pure tones (LF/IS).
+ The two former stimulation types served as control and allowed a systematic comparison with (3).
+ It was found that SAM stimulation is effective and appears to be comparable to transient stimulation, as was previously observed in a yet small number of studies.
+ Although the vestibular system is reported to be highly sensitive to low-frequency mechanical vibration, airborne LF/IS stimulation at ∼80–90-phon loudness levels did not elicit significant saccular vestibular responses.ViewShow abstract... Zajamšek et al.
+ [26] have shown that indoor third octave band sound pressure levels of wind turbine noise below 50 Hz are significantly below the human hearing threshold.
+ This leads some researchers to believe that wind turbine noise below 50 Hz is not a problem [50][51][52][53].
+ However, as noted in the committee's previously published analysis [12], not all researchers agree that this is the case [25,30,31,54].
+ ...A Review of the Potential Impacts of Wind Turbine Noise in the Australian ContextArticleJun 2020ACOUST AUST John Laurence Davy Kym BurgemeisterDavid Hillman Simon CarlileThis manuscript describes a range of technical deliberations undertaken by the authors during their work as members of the Australian Government’s Independent Scientific Committee on Wind Turbines.
+ Central to these deliberations was the requirement upon the committee to improve understanding and monitoring of the potential impacts of sound from wind turbines (including low frequency and infrasound) on health and the environment.
+ The paper examines existing wind turbine sound limits, possible perceptual and physiological effects of wind turbine noise, aspects of the effects of wind turbine sound on sleep health and quality of life, low-frequency noise limits, the concept of annoyance including alternative causes of it and the potential for it to be affected by low-frequency noise, the influence of amplitude modulation and tonality, sound measurement and analysis and management strategies.
+ ...Health effects from wind turbine low frequency noise &amp; infrasound: Do wind turbines make people sick?
+ That is the issueArticleFull-text availableJan 2017George F. Hessler Geoff Leventhall Paul Schomer Bruce WalkerDo wind turbines make people sick?
+ That is a contentious issue in licensing wind farms.
+ In particular, low frequency sound emissions (infrasound and "pulsed" and steady low frequency sound) from wind turbines are blamed by opponents but vigorously denied by project proponents.
+ This leads to an impasse of testifying "experts," and regulators must decide on the basis of witness credibility for each project, leading to inconsistent findings.
+ This article presents the opinions of four very experienced independent investigators with wind turbine acoustics over the past four decades.
+ The latest Threshold-of-Hearing research down to 2 Hz is compared to today's modern wind turbine emissions.
+ The main focus of these investigations was in the audible frequency range above 20 Hz, since the low frequencies and intensities of infrasound from wind turbines cannot be heard or felt by people [22,23] and it was hardly possible to precisely measure wind turbine infrasound with standard microphones.
+ Technological progress in this field and a revival of infrasound measurements as a verification technique for the Comprehensive Nuclear-Test-Ban Treaty (CTBT, www.ctbto.org) ...The influence of periodic wind turbine noise on infrasound array measurementsArticleFull-text availableOct 2016J SOUND VIB Christoph Pilger L. CerannaAerodynamic noise emissions from the continuously growing number of wind turbines in Germany are creating increasing problems for infrasound recording systems.
+ These systems are equipped with highly sensitive micro pressure sensors accurately measuring acoustic signals in a frequency range inaudible to the human ear.
+ Ten years of data (2006–2015) from the infrasound array IGADE in Northern Germany are analysed to quantify the influence of wind turbine noise on infrasound recordings.
+ Furthermore, a theoretical model is derived and validated by a field experiment with mobile micro-barometer stations.
+ Fieldwork was carried out 2004 to measure the infrasonic pressure level of a single horizontal-axis wind turbine and to extrapolate the sound effect for a larger number of nearby wind turbines.
+ The model estimates the generated sound pressure level of wind turbines and thus enables for specifying the minimum allowable distance between wind turbines and infrasound stations for undisturbed recording.ViewShow abstract... One suggestion is that exposure to the sub-audible sound or infrasound (sound below 20 Hz) generated by wind turbines accounts for elevated annoyance reactions (Pierpont, 2009).
+ The evidence shows that the level of infrasound measured near windfarms does not exceed levels found in everyday urban and rural environments, and that windfarm infrasound makes an insignificant contribution to the background level of environmental infrasound (Evans et al., 2013;Turnbull et al., 2012).
+ ...Framing sound: Using expectations to reduce environmental noise annoyanceArticleAug 2015 Fiona Crichton George Dodd Gian SchmidKeith J PetrieAnnoyance reactions to environmental noise, such as wind turbine sound, have public health implications given associations between annoyance and symptoms related to psychological distress.
+ In the case of wind farms, factors contributing to noise annoyance have been theorised to include wind turbine sound characteristics, the noise sensitivity of residents, and contextual aspects, such as receiving information creating negative expectations about sound exposure.
+ The experimental aim was to assess whether receiving positive or negative expectations about wind farm sound would differentially influence annoyance reactions during exposure to wind farm sound, and also influence associations between perceived noise sensitivity and noise annoyance.
+ Sixty volunteers were randomly assigned to receive either negative or positive expectations about wind farm sound.
+ Participants in the negative expectation group viewed a presentation which incorporated internet material indicating that exposure to wind turbine sound, particularly infrasound, might present a health risk.
+ Positive expectation participants viewed a DVD which framed wind farm sound positively and included internet information about the health benefits of infrasound exposure.
+ Participants were then simultaneously exposed to sub-audible infrasound and audible wind farm sound during two 7min exposure sessions, during which they assessed their experience of annoyance.
+ Positive expectation participants were significantly less annoyed than negative expectation participants, while noise sensitivity only predicted annoyance in the negative group.
+ Findings suggest accessing negative information about sound is likely to trigger annoyance, particularly in noise sensitive people and, importantly, portraying sound positively may reduce annoyance reactions, even in noise sensitive individuals.
+ Copyright © 2015 Elsevier Inc. All rights reserved.ViewShow abstract... Interestingly, symptomatic experiences attributed to wind turbines substantially occurred after a self-published book (Pierpont, 2009) put forward the theory that wind turbine generated infrasound was causing a constellation of common symptoms in people living close to wind farms, and also outlined a proposed biological mechanism for symptoms (Chapman et al., 2013).
+ Although the established science does not support such assertions, claims that wind farm infrasound is hazardous to health have since proliferated through social discourse and the media, particularly via the internet (Leventhall, 2013).
+ The dissemination of information which creates a perception that an environmental exposure is hazardous to health can itself trigger symptom reporting, even when the environmental exposure is completely innocuous, though the nocebo effect (Crichton et al., 2014a;Faasse and Petrie, 2013).
+ ...Health complaints and wind turbines: The efficacy of explaining the nocebo response to reduce symptom reportingArticleMay 2015 Fiona CrichtonKeith J PetrieA number of people are reporting an environmental sensitivity to sub-audible windfarm sound (infrasound), characterised by the experience of recurrent non-specific symptoms.
+ A causal link between exposure and symptoms is not indicated by empirical evidence.
+ Research indicates symptoms may be explained by the nocebo response, whereby health concerns and negative expectations, created from social discourse and media reports, trigger symptom reporting.
+ The experimental aim was to test whether providing a nocebo explanation for symptoms, to individuals reporting symptomatic experiences during infrasound exposure, would ameliorate symptoms during further exposure.
+ Sixty-six volunteers were randomly assigned to nocebo explanation or biological explanation groups.
+ Participants were concurrently exposed to infrasound and audible windfarm sound, while reporting on current symptoms and mood, during two exposure sessions.
+ Preceding session one, participants watched a presentation integrating media warnings about purported health risks posed by windfarm infrasound.
+ Before session two, nocebo explanation participants viewed material outlining how nocebo responding could explain symptom reporting.
+ Instead biological explanation participants watched material presenting pathophysiological theories for symptoms.
+ During session one, participants reported increased symptoms and mood deterioration from baseline assessment.
+ During session two symptom reporting and mood deterioration was maintained by biological explanation participants, while mood and symptoms reported by nocebo explanation participants returned to baseline levels.
+ Results indicate that providing an explanation of the nocebo response, followed by exposure to infrasound, has the potential to operate as an intervention to reduce symptomatic experiences in people reporting symptoms attributed to windfarm generated infrasound.
+ Copyright © 2015 Elsevier Inc. All rights reserved.ViewShow abstractWind Turbine Syndrome A Communicated DiseaseBookNov 2017 Simon Chapman Fiona CrichtonViewWind Turbine Syndrome: A Communicated DiseaseBookApr 2018 Simon Chapman Fiona CrichtonFull (open access) text of this book is available here https://open.sydneyuniversitypress.com.au/9781743324967.htmlViewShow abstractDesign and Development of a Low-Budget Infrasonic DetectorConference PaperJun 2018Marios Pitsaris Panagiotis KatrakazasDimitrios-Dionysios KoutsourisInfrasonic waves, or simply infrasound, are sound waves with frequencies lower than 20Hz, which are not audible to humans.
+ Although there are many sources of infrasound in the environment, either natural or man-made, whose related research is ongoing for many years, a strong concern has emerged over the last decade about whether infrasound poses a threat to our health.
+ The main cause of this concern is the frequent complaints of residents, living in areas where wind turbines are installed and operate.
+ Residents claim that the operation of the turbines and specifically the infrasound generated by them, has a negative effect on their health.
+ These facts justify the development of a low-cost device, able of detecting and suitably amplifying infrasonic waves so that the processing and study of infrasound waves can be measurable.
+ Until now the equipment designed specifically for this purpose has been quite expensive and hardly available.
+ Therefore, we propose a simple, functional and low cost device to address the infrasound detection thresholds.ViewShow abstractBreaking news: Can the media make you sick?ArticleJun 2015Alex Langford Simon WesselyViewShow moreBasic anatomy of the hearing systemChapterFull-text availableJan 2009 Sumalai Maroonroge Diana C Emanuel Tomasz LetowskiHearing is the sense by which biological systems are aware of the surrounding acoustic environment and perceive sound (see Chapter 11, Auditory Perception and Cognitive Performance).
+ Human hearing allows for the perception of speech and other acoustic events and for 360° spatial detection and localization of sound sources.
+ However, human hearing is sensitive to a limited range of sound intensities and frequencies and only allows for full 360° of spatial orientation when the listener is not obstructed by any proximal acoustic barriers.
+ Therefore, in order for audio head-and helmet-mounted displays (HMDs) to take full advantage of the wearer's hearing capabilities, HMD designers and the acquisition corps need to have a solid understanding of the anatomy and physiology of human hearing.
+ The act or process of hearing is called audition, and the anatomical structure processing incoming acoustic stimuli is called the hearing system or auditory system.
+ The human hearing system consists of two ears, located on the left and right sides of the head, the vestibulocochlear nerve, and the central auditory nervous system (CANS) – consisting of auditory centers in the brain and the connecting pathways in the brainstem.
+ Each ear is additionally divided into three functional parts: the outer (external) ear, the middle ear and the inner (internal) ear.
+ The overall anatomical structure of the human ear and its division in three functional parts are shown in Figure 8-1.
+ (A more detailed but more schematic picture of the ear structures is shown in Figure 8-10).
+ The inner ear contains three parts: the vestibule, semicircular canals, and the cochlea and serves as housing for two sensory organs, specifically, the organ of balance and the organ of hearing.
+ The parts of the organ of balance are contained within the vestibule and the semicircular canals.
+ The organ of hearing, the organ of Corti, is located in the cochlea.
+ The adjacent locations of the senses of hearing and balance result in some interactions between the sense of hearing and the sense of balance.
+ Figure 8-1.
+ Overall structure of the human ear (adapted from http://www.telezdrowie.pl/ slysze/english/info.htm).
+ The structures of the human ear are embedded in the temporal bone of the skull, with only part of the outer ear (the pinna) protruding outside the skull and being visible.
+ The temporal bone is a dense bony structure on either side of the head that forms part of the cranium (cranial vault) around the brain.
+ The cranium consist of 8 bones (paired temporal and parietal bones and single frontal, occipital, sphenoid, and ethmoid bones) connected by 8ViewShow abstractLow Frequency Hearing Thresholds in Pressure Field and in Free FieldArticleFull-text availableSep 1990J LOW FREQ NOISE V AToshio Watanabe Henrik MøllerThresholds of hearing Were determined in pressure field at frequencies from 4 Hz to 125 Hz.
+ At the frequencies 4–25 Hz hearing thresholds were found that are in the lower middle of the range already reported by other investigators.ViewShow abstractInfrasound from Wind Turbines – Fact, Fiction or DeceptionArticleFull-text availableJun 2006 Geoff LeventhallInfrasound is discussed in terms of what it actually is, how the media has dealt with it and what those with limited knowledge say about it.
+ The perception of infrasound occcurs at levels higher than the levels produced by wind turbines and there is now agreement amongst acousticians that infrasound from wind turbines is not a problem.
+ Statements on infrasound from objectors are considered and it is shown how these may have caused avoidable distress to residents near wind turbines and also diverted attention from the main noise source, which is the repeating sound of the blades interacting with the tower.
+ This is the noise which requires attention, both to reduce it and to develop optimum assessment methods.ViewShow abstractThe infrasonic weapon revisitedArticleMay 1998 Geoff LeventhallViewAnalysis of background low frequency sound levels at four wind energy sitesArticleJan 2012P.H.
+ GuldbergAs part of pre-construction sound monitoring for four utility wind energy projects, background low frequency (12.5 to 500 Hz) sound levels were measured at four wind energy sites: two coastal areas in southern New England and two inland, rural inland areas in upper Great Lakes States.
+ Monitoring locations were not influenced by traffic noise.
+ The background measurements for time periods when hub height winds were at or above the turbine design wind speed were extracted, and background frequency spectra were graphed for comparison to the turbine sound level spectrum at each site.
+ The data reveal natural low frequency sound levels near ground level are substantial when hub height winds are at the design wind speed (the speed at which maximum sound power first occurs, typically 10 m/s).
+ Background low frequency sound at the infrasound frequency of 1/3-octave band 16 Hz exceeds utility wind turbine low frequency sound by up to 8 dB for rural-inland sites and by up to 13 dB for coastal environments.
+ The wind turbine low frequency sound at 16 Hz is typically 30 dB below the ISO 226 hearing threshold, below which no adverse health effects have been documented.ViewShow abstractInfra-sons: Generateur, detecteurs, proprietes physique, effets biologiquesArticleJan 1966V.
+ GavreauR.
+ CondatH.
+ SaulViewInfrasoundArticleJan 1968V.
+ GavreauViewExperimental Identification of Acoustic Emission Characteristics of Large Wind Turbines with Emphasis on Infrasound and Low-Frequency NoiseArticleOct 2008J Kor Phys Soc Sung Soo Jung Wan-Sup Cheung Cheolung Cheong Su-Hyun ShinInfrasound and low-frequency noise below 200 Hz is known to affect the health of human beings.
+ The main purpose of this paper is to experimentally identify the characteristics of acoustic emission of large modern upwind wind turbines with emphasis on infrasound and low-frequency noise.
+ The sound measurement procedures of IEC 61400-11 and ISO 7196 are applied to field test and noise emission from each of 1.5-MW and 660-kW wind turbines utilizing the stall regulation and the pitch control for power regulation is evaluated.
+ The sound spectral density showed that the blade-passing-frequency (BPF) noise is clearly dominant up to 6-7 harmonics, which generally occupy the frequency range of 1-10 Hz, i.e., infrasound.
+ The A-weighted sound pressure levels (SPLs) of the stall control type of wind turbine were found to increase with wind speed in a more correlated way than those of the pitch control type of wind turbine while the G-weighted SPLs of low-frequency noise, including infrasound, were found to show a positive correlation with the wind speed irrespective of the method of power regulation.
+ Potential complaints of local communities about infrasound and low-frequency noise of wind turbines are assessed by comparing the measured data with the existing hearing thresholds and criteria curves.
+ These comparisons show that it is highly possible that low-frequency noise from the 1.5-MW and the 660-kW wind turbines in the frequency range over 30 Hz may lead to psychological complaints by ordinary adults and that infrasound in the frequency range from 5 Hz to 8 Hz could cause complaints due to rattling house fittings such as doors and windows.ViewShow abstractAtmospheric infrasoundArticleAug 2000ACOUST AUSTA.J.
+ Bedard JrThomas M. GeorgesThe search for ways to monitor compliance with the Comprehensive Test Ban Treaty has sparked renewed interest in sounds with frequencies too low for humans to hear.
+ .ViewShow abstractAcoustic and geophysical measurement of infrasound from wind farm turbinesArticleJun 2006Howard G. HepburnAn experiment was conducted to measure and characterize infrasound (and higher frequency acoustic energy) from turbines at a wind farm in Southern Alberta.
+ Simultaneous telemetry and point measurements were acquired from three sensor types: low frequency geophones, acoustic microphones, and a precision sound analyzer.
+ Measurements were recorded for three wind states: low, medium, and high.
+ Down wind telemetry measurements were recorded for thirty (30) continuous 50m offsets, up to a distance of 1450 m from the wind farm.
+ Point measurements, coincident with the telemetry measurements, were acquired with a low frequency precision sound analyzer for two offsets: 50m and 1000m from the turbines.
+ The same measurements were recorded with the turbines on, and with the turbines off.
+ The dominant source of LFN is the interaction between incoming turbulence and the blades.
+ Measurements suggest that indoor levels of LFN in dwellings typically are within recommended guideline values, provided that the outdoor level does not exceed corresponding guidelines for ... [Show full abstract] facade exposure.
+ Three cross-sectional questionnaire studies show that annoyance from wind turbine noise is related to the immission level, but several explanations other than low frequency noise are probable.
+ A statistically significant association between noise levels and self-reported sleep disturbance was found in two of the three studies.
+ It has been suggested that LFN from wind turbines causes other, and more serious, health problems, but empirical support for these claims is lacking.View full-textArticleApplication of stochastic wind model to investigate swishing characteristics of infrasound and low f...January 2014 Cheolung Cheong Gwang-Se LeeSwishing characteristics of infrasound and low frequency noise radiating from a modern large horizontal-axis wind turbine are investigated by employing stochastic wind model to reproduce realistic incident wind conditions upstream of the wind turbine.
+ The stochastic wind is generated through the superposition of colored noise on mean wind profile.
+ The colored noise is computed by applying ... [Show full abstract] low-pass filter to white noise.
+ The filter represents the geometric and atmospheric conditions around the target turbine.
+ The wind profiles generated in this way are applied to compute aerodynamic response on blades of the wind turbine by using the XFOIL code.
+ The computed airfoil response is finally incorporated to predict the infrasound and low frequency noise of the wind turbine by using the Lowson's acoustic analogy.
+ When only the mean wind profile is applied, the swishing effects in the predicted time-frequency maps of the wind turbine noise are clearly identified.
+ However, unsteadiness in the incident wind profile leads to more complex swishing characteristics, which are often found in the noise signals obtained from field measurements.
+ This result implies that operational condition on site in which the wind turbine is installed needs to be taken into account to more accurately assess the sound quality of wind turbine noise due to its swishing.Read moreArticleMeasurement techniques for determining wind turbine infrasound penetration into homesMay 2017 · The Journal of the Acoustical Society of America Andy MetelkaPrevious measurements using advanced measurement instrumentation and Narrowband 3-dimensional FFT based signal processing indicate the presence at infrasonic blade pass frequencies in dwellings from multiple turbines.
+ New measurements include both near and extreme far field detailing that some homes are highly susceptible while others are not.
+ Proposed calculations for transmissibility are ... [Show full abstract] outlined with simultaneous long-term measurements at 4 homes.
+ Various locations inside homes are also compared to outside measurements relating wind speed, wind direction and other audible SLM parameters.Read moreArticleFull-text availableDevelopment of experimental facility for testing human response to ILFN from wind turbinesJune 2013 · Proceedings of meetings on acoustics Acoustical Society of America Aleks ZosulsR Morgan KelleyDavid Mountain Sheryl GraceThe fact that wind turbines produce infrasound continues to draw attention and discussion.
+ Some argue that while the infrasound level produced by wind turbines is quite low, it still may be affecting the vestibular system or the hearing system, particularly via activation of the outer hair cells.
+ Others hypothesize that the infrasound may be inducing whole body, chest cavity, or other human organ ... [Show full abstract] resonance.
+ In order to study these hypotheses, it is first necessary to be able to recreate the turbine noise signature in a lab environment.
+ Thus the goal of this work is to create an acoustic system tat can produce low-level infrasound.
+ The system requirements include low cost, high fidelity, and imperceptible structural coupling to the lab.
+ In addition, the system must be able to produce a broadband spectrum as well as a single tone.
+ RIS BibTeX Plain TextWhat do you want to download?
+ Citation only Citation and abstractDownloadInterested in research on Infrasound?Join ResearchGate to discover and stay up-to-date with the latest research from leading experts in Infrasound and many other scientific topics.Join for free ResearchGate iOS AppGet it from the App Store now.InstallKeep up with your stats and moreAccess scientific knowledge from anywhere orDiscover by subject areaRecruit researchersJoin for freeLoginEmail Tip: Most researchers use their institutional email address as their ResearchGate loginPasswordForgot password?
+ Keep me logged inLog inorContinue with LinkedInContinue with GoogleWelcome back!
+ Please log in.Email · HintTip: Most researchers use their institutional email address as their ResearchGate loginPasswordForgot password?
+ Keep me logged inLog inorContinue with LinkedInContinue with GoogleNo account?

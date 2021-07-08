@@ -1,0 +1,2 @@
+:MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(Sa)return/WebKit\/(\S+)/.exec(a);if(Oa)return/(?
+ :Version)[ \/]?

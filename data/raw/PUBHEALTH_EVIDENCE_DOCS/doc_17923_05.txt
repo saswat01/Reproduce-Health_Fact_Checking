@@ -1,0 +1,2813 @@
+LRAD Review
+ 
+November 2011
+ 
+2
+ 
+ 
+ 
+INTRODUCTION
+ 
+................................
+................................
+................................
+............
+ 
+3
+ 
+TECHNICAL INFORMATION
+ 
+................................
+................................
+.........................
+ 
+4
+ 
+JURISDICTIONAL SCAN
+ 
+................................
+................................
+...............................
+ 
+4
+ 
+Ontario Provincial Police
+ 
+................................
+................................
+.............................
+ 
+5
+ 
+Toronto Police Service
+ 
+................................
+................................
+................................
+ 
+5
+ 
+Peel Regional Police
+ 
+................................
+................................
+................................
+...
+ 
+6
+ 
+Royal Canadian Mounted Police
+ 
+................................
+................................
+.................
+ 
+6
+ 
+Training
+ 
+................................
+................................
+................................
+.......................
+ 
+6
+ 
+LITERATURE REVIEW
+ 
+................................
+................................
+................................
+..
+ 
+7
+ 
+ACOUSTIC TESTING AND ASSESSMENT
+ 
+................................
+................................
+.
+ 
+12
+ 
+Hatch Associates Report
+ 
+................................
+................................
+...........................
+ 
+12
+ 
+HGC Engineering Report
+ 
+................................
+................................
+..........................
+ 
+12
+ 
+Measureme
+nt Summary and Data Analysis
+ 
+................................
+...........................
+ 
+13
+ 
+Recommendations
+ 
+................................
+................................
+................................
+.
+ 
+16
+ 
+LEGISLATIVE AND REGULATORY FRAMEWORK
+ 
+................................
+....................
+ 
+18
+ 
+STAKEHOLDER CONSULTATION
+ 
+................................
+................................
+..............
+ 
+18
+ 
+SUMMARY AND NEXT STEPS
+ 
+................................
+................................
+....................
+ 
+19
+ 
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+3
+ 
+INTRODUCTION
+ 
+ 
+Long
+-
+Range Acoustic Devices (LRADs) are a type of acoustic
+ 
+hai
+ling device 
+(AHD) 
+that provide communication and warning functions using directed acoustic 
+energy.
+ 
+ 
+Multiple models are currently available 
+with 
+common features including two 
+
+function
+ 
+acts as a powerful loudspeaker or 
+megap
+hone
+ 
+while t
+
+function
+ 
+emits a high decibel, narrow frequency, 
+focused set of sound waves.  
+ 
+ 
+Prior to the G8 and G20 summits in Huntsville and Toronto in June 2010, the 
+Toronto Police Service 
+(TPS) 
+and Ontario Provincial Police 
+(OPP) 
+procured 
+LRA
+Ds for possible use during the summits.  The Canadian Civil Liberties 
+Association (CCLA) brought a motion for an interlocutory order re
+st
+raining these 
+police 
+services
+ 
+from using the alert function on the LRADs and from using the 
+communications function at 
+
+Occupational Health and Safety Act
+ 
+(OHSA)
+. 
+No order was made against the 
+OPP while an order against TPS was lifted when that police service adopted the 
+OPP standard operating procedures for its LRADs.  
+ 
+ 
+F
+ollowing the summits, the CCLA wrote to the Ministry 
+of Community Safety and 
+Correctional Services (MCSCS) 
+to 
+state 
+its position that the LRAD is a weapon 
+and its use by police should be regulated as per section 14(1) of the Equipment 
+and Use of Force Regu
+lation (R.R.O. 1990, Reg. 926) under the 
+Police Services 
+Act 
+(R.S.O. 1990).  
+ 
+ 
+Currently 
+MCSCS
+ 
+does not provide police services in Ontario with direction or 
+guidance regarding their use of the LRAD.  However, in response to concerns 
+expressed by the CCLA t
+he Ministry undertook a review of the police use of 
+LRADs, the primary purpose of which was to provide relevant information to 
+assist in determin
+ing
+ 
+whether the LRAD should be characterized as a weapon.  
+ 
+ 
+ 
+The review consisted of the following activities:
+ 
+a jurisdictional scan identifying 
+police services within Canada that are known to use the LRAD; a literature 
+review relating to acoustic hailing devices generally and the LRAD specifically; 
+acoustical testing of particular models of the LRAD to establish 
+noise exposure 
+levels from these devices to enable the assessment of hearing impacts on 
+bystanders and operators and the identification of safe operating parameters; 
+and an examination of the legislative and regulatory framework relating to police 
+use of w
+eapons other than firearms. 
+ 
+ 
+This report provides an overview of each of the activities undertaken as part of 
+the review to date
+ 
+and is being provided to the Minister of Community Safety and 
+Correctional Services who will determine future Ministry action 
+on the LRAD once 
+the report is shared with interested stakeholders.
+ 
+ LRAD Review
+ 
+November 2011
+ 
+4
+ 
+TECHNICAL INFORMATION 
+ 
+ 
+LRAD 100X: 
+According to the manufacturer, 
+LRAD Corporation, 
+the LRAD 100X 
+is a self contained, hand portable loud hailer that is 20
+-
+30 decibels (dB) louder 
+than mo
+
+provides a non
+-
+lethal deterrent, 
+shapes behavior, and supports intent determination while preserving time for 
+
+i
+  
+Other features include:  clear communication at up to 1000 
+meters, 136dB maximum continuous 
+output at 1 meter, and the ability to 
+overcome 88 dB 
+of background noise at 250 metre
+s.
+ii
+ 
+ 
+LRAD 300X
+: The 300X 
+
+solution for use on small vessels
+
+
+frequency range
+, maximum continuous output of 143 dB, and nearly 100% 
+intelligible voice transmission over 88dB of b
+ackground noise beyond 350 metres 
+and beyond 1500 metre
+s in benign environments.
+iii
+ 
+ 
+Operators may 
+employ either a hand microphone for direct communication o
+r a 
+digital audio playback device (MP3 player) to broadcast 
+pre
+-
+recorded messages, 
+in multiple languages if required. 
+ 
+ 
+Both models have volume controls with green, yellow and red settings with 
+corresponding volume levels. 
+ 
+ 
+ 
+JURISDICTIONAL SCAN
+ 
+ 
+In 
+Canad
+a
+ 
+police services that are known to have 
+acquired 
+LRAD 
+devices 
+are: 
+Vancouver Police Department, O
+ntario 
+P
+rovincial 
+P
+olice
+, T
+oronto 
+P
+olice 
+S
+ervice
+, 
+and Peel Regional Police
+.
+ 
+ 
+General applications include: marine use
+; public order; 
+tactical scenarios
+;
+ 
+disast
+er/emergency situations
+;
+ 
+and search and rescue.  The primary use of the 
+LRAD is for long
+-
+range communication
+; t
+he alert tone has only been used to get 
+
+ 
+ 
+Signifi
+cant media and public attention and 
+c
+oncern resulted from the use of the 
+LRAD by the Pittsburgh Police during the G20 
+S
+ummit in September 2009. 
+Videotaped footage of the event show the police directing 
+the alert functi
+on 
+toward activists for 
+minutes at a
+ 
+time
+ 
+in an effort to disperse the 
+crow
+d.
+ 
+ 
+In response to concerns from the B
+ritish 
+C
+olumbia
+ 
+Civil Liberties Association, 
+Vancouver Police de
+-
+activated the alert function in preparation for the Vancouver 
+2010 Winter Olympics.
+iv
+ 
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+5
+ 
+In Ontario, common standard operating procedures (SOPs) are in pla
+ce 
+within 
+two of the three police services that have the LRAD 
+as well as course training 
+standards and material.
+ 
+ 
+Ontario Provincial Police
+v
+ 
+ 
+The OPP currently have three LRADs available for deployment in support of the 
+following functions:
+ 
+
+ 
+public order op
+erations;
+ 
+
+ 
+search and rescue operations;
+ 
+
+ 
+tactical operations, including barricaded person
+s, hostage situations, and 
+high
+-
+risk warrant execution; and
+ 
+
+ 
+chemical, biological, radiological 
+and nuclear 
+operations.
+ 
+ 
+The OPP SOP states the LRAD shall be deployed wi
+th two qualified personnel 
+and is to be used as a communications device.  The alert function will only be 
+utilized in two to five second bursts as recommended by the manufacturer.
+ 
+ 
+The LRAD operators must ensure the LRAD 100X is not used at any vo
+lume 
+sett
+ing if it is within 10
+ 
+metres of any person.  For distances greater than 10 
+metres but less than 75 metres, the LRAD 100X may only be used in the green 
+and yellow volume settings for either the voice or alert functions.  For distances 
+of 75 metres or great
+er, the 100X may be used at the maximum volume setting 
+for either function.
+ 
+ 
+The LRAD 300X which is capable of a higher output shall not be used at any 
+volume setting for either function when it is within 75 metres of the crowd or the 
+Public Order Unit lin
+e.
+ 
+ 
+Toronto Police Service
+vi
+ 
+ 
+TPS acquired LRAD 
+100X and 300X models 
+for
+ 
+use by 
+their Public Safety Unit, 
+Marine Unit and Emergency Task Force Unit.
+ 
+ 
+The LRAD
+ 
+is used
+ 
+primarily by the Public Safety Unit 
+to 
+notify the public in large 
+scale evacuations, conve
+y information to large crowds, and for search and 
+rescue operations.  Within the Marine Unit, the LRAD could be 
+used 
+for search 
+and rescue operations, maintaining perimeter control for special events, and 
+interdiction.
+ 
+ 
+The 
+main purpose 
+of the LRAD is 
+to p
+rovide 
+clear direction to individuals, groups, 
+and victims/bystanders at critical incidents.  
+The LRAD can also be used 
+as a 
+public address system to give direction to training teams in training venues and 
+outdoor firing ranges.
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+6
+ 
+There are specific operati
+ng guidelines for 
+activation of the L
+RAD depending on 
+which unit is deploying it. These guidelines identify that qualified personnel must 
+establish a specified distance in front of the LRAD before activation and when 
+activating the device on full volume. A
+ 
+Laser Range Finder must be used prior to 
+operating the LRAD in order to mark the distance between the crowd and the 
+device. 
+ 
+ 
+
+the 
+setting 
+between yellow and red when th
+e area in f
+ront of the device
+ 
+is 
+between 10 to 75 meters from a person. In order to exceed that volume, 
+
+
+volume will 
+not be utilized within 75 mete
+rs. At no time will the LRAD100X
+ 
+be 
+used unless the area in front is clear at least 10 meters.
+ 
+ 
+ 
+All operators, unless otherwise designated, must hold the rank of Sergeant or 
+above and must complete training for safe use and o
+peration. Operators must 
+follow direction from their Section Leader when activating the LRAD
+ 
+which must 
+be
+ 
+deployed by two qualified personnel.  The alert function will only be utilized 
+one time per incident 
+in two to five second bursts.
+ 
+ 
+Peel Regional Pol
+ice 
+ 
+ 
+Peel Regional Police 
+have LRAD
+ 
+devices
+ 
+available as a communication device 
+for emergency support, including use by the Marine Unit, in tactical situations and 
+in disasters or other public safety emergencies. 
+ 
+T
+hey have not yet been 
+deployed operation
+ally
+ 
+and 
+
+vii
+ 
+ 
+ 
+Royal Canadian Mounted Police 
+ 
+ 
+The RCMP has not authorised the use of the LRAD system in the field, until 
+further medical research has been completed/compiled and supporting data can 
+provide practiti
+oners with assurance that the LRAD can be used safely and 
+effectively.
+viii
+ 
+ 
+Training 
+ 
+ 
+
+states that all LRAD operators will be trained and qualified by OPP LRAD trainers 
+who have been t
+rained by TPS
+ 
+in conjunction with 
+Current Corporation
+ 
+(distributor) 
+utilizing the safety guidelines of 
+American Technology Corporation.
+  
+Training includes both classroom instruction and practical application.
+ 
+ 
+Training topics 
+include the history of the LRA
+D,
+ 
+specifications, operating 
+procedures, maintenance, applications, safety and practical exercises.
+ix
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+7
+ 
+ 
+LITERATURE REVIEW
+ 
+ 
+Limited research is available on the LRAD or other 
+AHDs
+. 
+Reports and studies 
+were 
+found 
+primarily 
+within 
+military and law enforcement 
+literature and included 
+LRAD
+-
+specific documents, other acoustic device/weapon research and general 
+material on less lethal weapons and related technology.
+ 
+ 
+Some of the research on acoustic hailing devices discusses their use within the 
+broader context of l
+ess lethal weapons/technology.  These documents define 
+
+-
+
+employed so as to incapacitate personnel or material, while minimizing fatalities, 
+permanent injury to personnel and undesire
+d damage to property and the 
+
+x
+ 
+. The documents further 
+indicate for less lethal weapons to be 
+
+incapacitate, debilitate or disrupt the
+ 
+thought process of an 
+individual, several individuals or a crowd of people for a period
+ 
+of 
+time that 
+enables law enforcement or correctional officers to restrain the subject(s) or
+ 
+in 
+the case of a crowd, disperse them or prevent their advance
+
+xi
+ 
+The three main 
+categories consist of
+ 
+weapons that
+: fully or partially immobiliz
+e
+ 
+movement; 
+depriv
+e
+ 
+or
+ 
+degrad
+e
+ 
+one or more senses; and produc
+e
+ 
+pain
+xii
+.
+ 
+ 
+By comparison, the Geneva Academy of International Humanitarian Law and 
+
+ 
+ 
+a device constructed to kill or physically harm, disorient, 
+incapacitate, and/or aff
+ect the behaviour of a
+ 
+person against 
+his/her will and/or destroy military, security force, or dual
+-
+use 
+materiel [sic]
+, and which acts
+ 
+through the threat or application of 
+force, or other means, such as the transmission of electricity, 
+the
+ 
+diffusion of che
+mical substances or biological agents or 
+sound, or the direction of 
+e
+lectromagnetic
+ 
+energy
+.
+xiii
+ 
+ 
+According to the US Joint Non
+-
+Lethal Weapons Program an acoustic hailing 
+
+-
+lethal, counter
+-
+personnel, long range hailing and warning 
+
+ 
+of producing highly directional sound beams, allowing users to 
+project warning tones and intelligible voice commands beyond small arms 
+engagement range. The capability enables U.S. forces to more effectively 
+determine the intent of a person, crowd, vessel
+, or vehicle, at a safe distance and 
+
+xiv
+ 
+ 
+A NATO study from 2006 indicate
+s
+ 
+
+acoustic energy to induce human effects through the sense of hearing or through 
+the
+ 
+
+xv
+ 
+The 
+proposed desired effects of these devices are to annoy, incapacitate and repel.  
+Non
+-
+lethal actions using acoustics range from loud sounds producing a 
+temporary deafness to disagreeab
+le sounds having a psychological effect.
+xvi
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+8
+ 
+ 
+
+
+
+
+hilst promoted a
+s an
+ 
+acoustic hailing 
+device, it can emit a
+ 
+
+ 
+term hearing 
+damage and used as a
+ 
+weapon.
+
+xvii
+ 
+Acoustic device/weapon applications identified in the research include 
+government uses for border security
+; crowd control and l
+ong
+-
+range 
+communication for public safety agencies
+;
+ 
+and search and rescue and coastal 
+surveillance for harbour/port police.
+xviii
+  
+Military applications include enforcement 
+of exclusion zones
+;
+ 
+critical infrastructure protection
+;
+ 
+psychological operations
+;
+ 
+traffi
+c control points/access control points
+; interdiction operations;
+ 
+checkpoint 
+operations
+;
+ 
+and detainee operations.
+xix
+  
+ 
+ 
+While the media may portray acoustic hailing devices and the LRAD specifically 
+
+
+LRAD Corporation has contested the assertion the LRAD is a weapon. The 
+
+-
+range communications device used to clearly broadcast critical information, 
+instruct
+
+the resolution of uncertain situations and potentially prevents the use of deadly 
+
+xx
+ 
+ 
+
+it has been describ
+ed by the media, the LRAD is not a weapon if it is used for its 
+intended purpose. Instead, it is a lawful communication tool for use in complex 
+
+xxi
+ 
+ 
+The manner in which the acoustic device
+/weapon
+ 
+is used may influence its 
+characteri
+zation as either a weapon or a communication device.  For example, in 
+a scenario involving the management of a crowd in a disaster or public safety 
+incident, the operational requirement of the device would be to communicate 
+effectively to a non
+-
+threatening
+ 
+crowd. In a scenario involving the management of 
+a hostile crowd, the desired outcome is to effectively communicate the intent of 
+law enforcement authorities to the crowd (hail/warn application), interrogate the 
+
+
+who are not intent on causing trouble (weapon application). The desired outcome 
+in a scenario in which the intent of approaching people, vehicles and vessels 
+must be determined, hailing and warning would be utilized t
+o interrogate and 
+determine a peaceful or hostile intent. Finally, if the operational requirement is to 
+deter access to an area, the device can be used as a weapon as well as to hail 
+and/or warn subjects.
+xxii
+ 
+ 
+A 
+2007 legal review by the 
+US 
+Department of the A
+rmy, Office of The Judge 
+Advocate General found 
+that 
+
+proscribed
+ 
+[sic], will not cause permanent damage to the ear or hearing loss." 
+xxiii
+  
+ LRAD Review
+ 
+November 2011
+ 
+9
+ 
+T
+h
+e review did acknowledge that the LRAD had the capability of being 
+"employed with the intent to cause discomfort to the listener"
+xxiv
+ 
+and that this type 
+of use would convert the LRAD from being only a "communication" device, to 
+becoming a non
+-
+lethal weapon.
+xxv
+ 
+ 
+T
+he review also concluded that because the 
+discomfort is well short of permanent damage to the ear, it does not violate the 
+
+xxvi
+  
+ 
+ 
+A
+ 
+2008 German 
+study suggest
+ed
+ 
+categorization of 
+the LRAD 
+as 
+a
+ 
+hailing and 
+warning device
+ 
+and 
+not a weapon 
+
+seems appropriate as long as the device is 
+not being used to produce ear pain and as long as levels and durations are 
+
+xxvii
+.  Further, it 
+is suggested 
+that if used by security personnel for purposes other than hailing 
+and warning, an evaluation of the LRAD in the context of police law and human 
+rig
+
+ne can make the case that producing permanent hearing 
+damage while attempting to repel crim
+inals who do not shy away from firing at 
+people, is fully justified. However, this consideration should be made explicitly 
+and systematically before such use, with tests and evaluation, as with other types 
+
+xxviii
+ 
+ 
+A study 
+from t
+he University of Bradford (UK) 
+indicates the LRAD 
+is referred to by 
+
+used in this manner but at high power levels and close ranges it can cause ear 
+discomfort and permanent hea
+ring damage.
+
+xxix
+ 
+ 
+Many of the sources located assessed the use and effectiveness of the LRAD 
+or 
+other acoustic hailing devices 
+as weapon
+s
+.  For example, testing performed by 
+the Canadian Forces Maritime Warfare Centre concluded the 
+
+does not 
+produce sou
+nd pressure levels or other effects sufficient to cause incapacitation 
+or significant physical irritation at operationally significant ranges in a maritime 
+environment. It is therefore concluded that LRAD should be deemed to be 
+ineffective as a NLW (non le
+
+xxx
+ 
+ 
+The University of Bradford study 
+
+harness acoustic energy for use as weapons, few devices have emerged. It has 
+proved difficult to produce acoustic energy in a directional beam and there are no 
+prov
+en effects of non
+-
+audible frequencies, infrasound and ultrasound, or viable 
+
+xxxi
+ 
+ 
+ 
+Similarly, an earlier 
+study from 2001 
+
+-
+weapons 
+
+
+limits
+, say a 
+
+. This, however,
+ 
+would forego many of the hoped
+-
+
+xxxii
+  
+This 
+position is supported by the 
+German study 
+that
+ 
+states
+ 
+
+coustic weapons would 
+clearly not be the wonder weapons as sometimes advertised. Their use in armed 
+conflict or for law enforcement would raise important issues concerning 
+
+xxxiii
+ 
+ LRAD Review
+ 
+November 2011
+ 
+10
+ 
+ 
+A 
+
+coustic weapons will 
+probably not fulfill their early promise. In particular, they will not incapacitate 
+opponents. Many types of acoustic weapons would be large and difficult to 
+handle, thus the intere
+st of military and police may remain limited to hailing and 
+
+xxxiv
+ 
+ 
+ 
+A NATO report made a general comment about the effectiveness of acoustic 
+
+non
+-
+lethal applications.
+ 
+Most are of uncertain effectiveness and many could 
+
+xxxv
+ 
+ 
+However, another NATO report speaks to both the effectiveness of the LRAD as 
+
+requency and power of the weapon can 
+rapidly overcome even highly
+-
+motivated individuals. If badly used, they can 
+
+xxxvi
+ 
+ 
+The potential for hearing damage arising from use of the LRAD or other acoustic 
+devices was discussed in a number of studies:
+ 
+ 
+Noise induced permanent hea
+ring loss is t
+he main concern related to long
+-
+term exposure from the LRAD w
+hile acoustic trauma, temporary hearing 
+loss and possibly permanent hearing loss are also concerns related to 
+short term unprotected exposure from the LRAD 
+at high volume levels and
+ 
+short
+-
+range (particularly the high frequency warning tone).
+xxxvii
+ 
+ 
+When the effects of an NLW acoustic system depend on the loudness of 
+
+xxxviii
+ 
+ 
+In the warning mode the LRAD produces sound pressure leve
+ls which are 
+dangerous to
+ 
+hearing if unprotected target subjects are exposed longer 
+than certain durations: a few
+ 
+seconds to 50 m distance, 1.5 min
+utes at 100 
+m. Below about 5 
+m
+,
+ 
+any exposure can
+ 
+produce permanent hearing 
+damage
+.
+xxxix
+ 
+ 
+The 
+LRAD is capable, if 
+used improperly of permanently damaging human 
+
+ 
+i
+ncorrect LRAD use could permanently damage hearing when 
+forces are attempting to disperse large group of civilians, resulting in 
+harmful tactical and strategic effects. 
+xl
+ 
+ 
+The LRAD produces sound lev
+els that may increase the risk of long
+-
+term 
+hearing loss if not properly managed. Increased risk is unlikely to be 
+experienced by the targets of LRAD communications or warning, but is 
+more of a hazard for operators and bystanders in the immediate vicinity 
+of 
+the device.
+xli
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+11
+ 
+While hearing damage has been identified as a potenti
+al outcome of the 
+use of 
+the LRAD
+ 
+in certain circumstances
+, 
+one researcher recommends the following 
+regarding its 
+operational deployment:
+ 
+
+t
+o avoid permanent damage to hearing, 
+the Long 
+Range Acoustic Device should be provided with a component which in 
+
+xlii
+  
+In addition, 
+
+demand a limit of 120 dB at any publicly
+ 
+accessible point in the case of 
+fixed strong sources. Mobile acoustic weapons
+ 
+could be banned 
+
+ 
+or limited to very low numbers for specific police uses 
+
+ 
+if
+ 
+they 
+could produce more than, say, 130 dB at 5 m distance.
+
+xliii
+ 
+ 
+ 
+Many of the reports and studies identified offered general recommend
+ations 
+pertaining to the cautious use of the LRAD such as the following from the 
+Canadian 
+Forces Maritime Warfare Centre
+
+acoustic communication and warning device must include guidance on duration 
+of transmissions, minimum ran
+ge and management of power settings in order to 
+
+xliv
+ 
+ 
+Although this review is limited to examining issues pertaining to the safety of the 
+LRAD, some research has taken place that seeks to establ
+ish its effectiveness, 
+not only as a 
+potential 
+weapon as discussed above, but as a communication 
+device. 
+ 
+ 
+The Home Office Scientific Development Branch (UK) conducted an evaluation 
+of the intelligibility of the LRAD communication function and found the LR
+
+capable of meeting some of the operational requirements for long range 
+intelligible 
+c
+ommunication
+
+xlv
+ 
+Results from the subjective human assessment 
+showed the LRAD produced effective and intelligible communication (>80% 
+correct understanding of single
+ 
+words) up to ranges of 150m only using pre
+-
+
+when background noise levels at the receiving position were low (below 65 dB). 
+However, speech intelligibility was substantially reduced for 
+live speech through 
+the microphone.
+xlvi
+ 
+ 
+ 
+One of the operational requirements against which the LRAD was assessed
+,
+ 
+was 
+
+does 
+demonstrate some 
+degree of directionality for the audio output
+ 
+it is not capable of
+ 
+meeting the 
+
+xlvii
+ 
+ 
+
+new technology has 
+reduced the
+ 
+power requirements and dramatically increased both effective range 
+and directio
+nality
+ 
+of the sound waves in some types of acoustic energy devices. 
+The new devices greatly
+ 
+enhance audible communication at long ranges
+
+xlviii
+ 
+ 
+Finally, the 
+Canadian Forces Maritime Warfare Centre
+ 
+study also assessed the 
+effectiveness of the LRAD as a communi
+cation/warning device and found the 
+
+ LRAD Review
+ 
+November 2011
+ 
+12
+ 
+
+transmissions were readily heard and understood at approximately 2,00
+0 
+
+xlix
+ 
+ 
+ 
+ACOUSTIC TESTING AND ASSESSMENT
+ 
+ 
+Hatch Associates Report
+ 
+ 
+Previous acoustic testing of the LRAD was conducted by Hatch Associates in 
+June 2010
+ 
+for the purpose of the G20  injunction hearing
+. The report examined 
+the SOPs of the OPP for the LRAD
+ 
+100X and 300X units and the potential noise 
+exposure for the operators and 
+members of the 
+public.  
+ 
+ 
+ 
+ 
+The testing results established expo
+sures of 84.4 dBA 
+(A
+-
+weighted decibels) 
+for 
+the crowd and 86.2 dBA for the operators meaning that the estimated nois
+e 
+exposure of the most exposed people in the crowd would be below the daily 
+exposure mandated for workers in Ontario.
+l
+ 
+
+w
+earing 
+hearing protection or even putting their fingers in their ears would also 
+significantly reduce their nois
+
+li
+ 
+ 
+For the LRAD operators
+,
+ 
+however, their estimated exposure would be over this 
+limit although hearing protection would lower their exposure to the requisite 
+level
+lii
+.
+ 
+ 
+The report concluded that at stand
+-
+off distances identified in the OPP SOP, 
+e
+xposure for the crowd/public would be below the daily exposure mandated for 
+workers in Ontario
+,
+ 
+and officers/operators would be required to wear hearing 
+protection.
+ 
+ 
+While the testing conducted by Hatch Associates was limited to an open air 
+environment (i.
+
+author acknowledged during cross examination at the injunction hearing that 
+within a city setting the sound levels of the LRAD could be 3 to 6 dB higher than 
+in an open air environment. 
+ 
+ 
+HGC Engineering Report
+ 
+ 
+To augment the testing done by Hatch Associates, MCSCS retained 
+HGC 
+Engineering to conduct acoustic testing and an assessment of the
+ 
+sound 
+produced by the LRAD
+.  T
+he purpose of the testing and
+ 
+subsequent analysis was 
+to establish th
+e noise exposure levels from the
+ 
+LRAD 100X and 300X
+ 
+and submit 
+a
+ 
+report regarding the potential hearing impacts on operators and bystanders and 
+the development
+ 
+of safe operating parameters
+. 
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+13
+ 
+Testing was conducted in a free field (large open space) environ
+ment 
+on a range 
+at 
+Canadian
+ 
+Forces Base Borden
+ 
+on
+ 
+June 20, 2011 and included sound pressure 
+l
+evel 
+(SPL) 
+measurements at various angles, distances and equipment settings 
+to determine the sound power,
+ 
+acoustic directivity and sound propagation of 
+the 
+LRAD 10
+0X and 300X devices. T
+he measurement results were used as input to 
+a computer model of the noise produced
+ 
+by the devices, which was then used to 
+simulate specific crowd management operational policing
+ 
+scenarios
+ 
+similar to the 
+urban canyon environment of th
+e G20 event in Toronto in
+ 
+June 2010.
+ 
+ 
+ 
+The 
+direct measurements and 
+results of the simulations were used to
+:
+ 
+evaluate 
+the relationship of the sound exposures of
+ 
+operators and bystanders to the noise 
+exposure standards established under 
+the OHSA
+; evaluate th
+e potential hearing 
+impacts on those persons 
+included in
+ 
+the 
+operational scenarios; and provide 
+r
+ecommendations to assist the 
+ministry
+ 
+in developing
+ 
+operating parameters and 
+risk mitigation practices for police use.
+liii
+ 
+Measurement Summary and Data Analysis
+ 
+ 
+Sound pressure level measurements were taken 
+of the LRAD 100X and 300X 
+models at distances of 3, 10, 20, 40, 80, 160, 320 and 450 metres and at a series 
+of radial locations: at 10 degree intervals between 0 and 90 degrees and at 30 
+degree intervals between
+ 
+90 and 180 degrees all at a distance of 40 metres from 
+the front of the device.
+ 
+ 
+At each of these locations an SPL measurement was taken during the playback 
+of a recorded announcement and during the emission of the alert mode tone. 
+ 
+ 
+As shown in Table1 be
+low, the measurements of the 100X taken at full volume 
+ranged from a high of 113 dBA at 3 metres for the voice function and 126 dBA for 
+the alert function attenuating to 53 dBA (voice) and 59 dBA (alert) at 450 metres. 
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+14
+ 
+Table 1: On
+-
+Axis Sound Pressure Le
+vel Measurements, LRAD 100X
+ 
+ 
+Distance
+ 
+Mode
+ 
+Sound Pressure 
+Level (dBA)
+ 
+10 metres
+ 
+Voice
+ 
+103
+ 
+Alert
+ 
+116
+ 
+20 metres
+ 
+Voice
+ 
+98
+ 
+Alert
+ 
+109
+ 
+40 metres
+ 
+Voice
+ 
+92
+ 
+Alert
+ 
+103
+ 
+80 metres
+ 
+Voice
+ 
+76
+ 
+Alert
+ 
+86
+ 
+160 metres
+ 
+Voice
+ 
+62
+ 
+Alert
+ 
+75
+ 
+320 metres
+ 
+Voice
+ 
+54
+ 
+Ale
+rt
+ 
+70
+ 
+450 metres
+ 
+Voice
+ 
+53
+ 
+Alert
+ 
+59
+ 
+ 
+The LRAD 300X has additional features including a wide/narrow sound projection 
+toggle and selectable voice boost mode.  Measurements for the 300X at full 
+volume in the narrow projection mode with the voice boost off 
+are presented in 
+Table 2 below: 
+ 
+ 
+Table 2: On
+-
+Axis Sound Pressure Level Measurements, LRAD 300X (narrow 
+projection mode, voice boost off)
+ 
+ 
+Distance
+ 
+Mode
+ 
+Sound Pressure 
+Level (dBA)
+ 
+10 metres
+ 
+Voice
+ 
+113
+ 
+Alert
+ 
+123
+ 
+20 metres
+ 
+Voice
+ 
+108
+ 
+Alert
+ 
+116
+ 
+40 metres
+ 
+Voice
+ 
+99
+ 
+Alert
+ 
+105
+ 
+80 metres
+ 
+Voice
+ 
+83
+ 
+Alert
+ 
+88
+ 
+160 metres
+ 
+Voice
+ 
+64
+ 
+Alert
+ 
+74
+ 
+320 metres
+ 
+Voice
+ 
+58
+ 
+Alert
+ 
+69
+ 
+450 metres
+ 
+Voice
+ 
+57
+ 
+Alert
+ 
+65
+ 
+ 
+Measurements were also conducted at two locations to investigate the sound 
+levels to which operators are 
+exposed in the field and to determine the level of 
+exposure with respect to limits identified in the OHSA.  One location was at the 
+ear of the head and torso simulator that held the 100X and the other was 
+ LRAD Review
+ 
+November 2011
+ 
+15
+ 
+approximately 5 metres behind the 300X which repres
+ents a typical operator 
+location during the deployment of that model. 
+ 
+ 
+Operator exposure to the sound emissions during the testing was calculated 
+
+Amendments 
+to Noise Requirements
+ 
+in the
+ 
+Regu
+lations
+ 
+for
+ 
+Industrial Establishments
+ 
+&
+ 
+Oil and 
+Gas
+-
+Offshore
+
+liv
+  
+The equivalent sound exposure level in eight hours (
+L
+ex,8
+) for 
+the 100X was 87 dBA and 83 dBA for the 300X.  
+ 
+ 
+The report identified worst case conditions in which the operator is exposed to
+ 
+sound being continuously emitted from the devices for different exposure 
+periods. At the maximum exposure time of 8 hours, the 
+L
+ex,8
+ 
+for the 100X is 106 
+dBA and 97 dBA for the 300X. At the minimum exposure time of 1 minute, the 
+L
+ex,8
+  
+for the 100X is 79 d
+BA and 70 dBA for the 300X. 
+lv
+   
+The OHSA establishes 
+an 85 dBA 
+L
+ex,8
+  
+exposure limit for workers. 
+ 
+ 
+To provide some perspective, the sound level of normal speech is approximately 
+65 dBA at a distance of 1 metre
+lvi
+; a fire truck siren is approximately 120 dB
+ 
+a
+lvii
+; a leaf blower is between 95 and 105 dBA
+lviii
+; and some subways exceed 90 
+dBA
+lix
+.
+ 
+ 
+While identifying the worst case situation as a bystander situated directly in front 
+of the LRAD operated at full volume on alert mode, the report does not identify 
+sound expos
+ure levels (
+L
+ex,8
+)
+ 
+for bystanders.  The reasons cited include the lack 
+of information regarding the duration or duty cycle of the exposure during an 
+actual deployment as well as the significant levels of extraneous noise (e.g., 
+horns, shouting) that bystan
+ders could be exposed to which would increase their 
+exposure.
+lx
+ 
+ 
+ 
+Acoustic modeling was also utilized to predict sound pressure levels at two 
+
+Avenue adjacent to the US Consulate. 
+ 
+These locations which were chosen to 
+represent 
+operational policing
+ 
+scenarios
+ 
+similar to the G20 event in Toronto
+.  
+Both of these sites are common locations for large demonstrations. 
+ 
+ 
+The following table shows the measurements taken in the open air setti
+ng and 
+
+-
+axis at 20 
+metres. 
+ 
+ 
+Table 3: Open Air and Operational Scenario Model Sound Levels
+ 
+ 
+ 
+100X (voice)
+ 
+100X (alert)
+ 
+300X (voice)
+ 
+300X (alert)
+ 
+ 
+Open air
+ 
+98 dBA
+ 
+109 dBA
+ 
+108 dBA
+ 
+116 dBA
+ 
+Queen
+
+ 
+98 dBA
+ 
+109 dBA
+ 
+107 dBA
+ 
+119 dBA
+ 
+US Consulate
+ 
+95 dBA
+ 
+105 dBA
+ 
+104 dBA
+ 
+117 dBA
+ 
+ LRAD Review
+ 
+November 2011
+ 
+16
+ 
+ 
+Differences between an open air setting and urban scenario can arise as a result 
+of reflections from buildings. However, these effects are not great, generally 
+being on t
+he order of several decibels, and only for bystanders located quite 
+close to buildings.  The lower LRAD 300X values associated with the US 
+Consulate location above reflect the fact the modeling was based on the LRAD 
+300X device being deployed at an elevate
+d height.
+lxi
+ 
+ 
+Recommendations
+ 
+ 
+Based on the analysis of the measurements and modeling, consideration of 
+exposure standards established in the OHSA and consultation with an 
+audiological professional, the report recommends 
+the following minimum 
+distances
+ 
+at wh
+ich the devices should be used at various volume settings. These 
+limits represent distances at which a sound level of 100 dBA would not be 
+expected to be exceeded under the worst case conditions (full volume control 
+setting, reflective ground surface, rece
+ptor located on the axis of the device at a 
+location near a building) in the urban scenarios. Fifteen minutes of unprotected 
+continuous exposure to 100 dBA corresponds to an equivalent sound exposure 
+level over 8 hours (
+L
+ex,8
+)
+ 
+of 85 dBA. 
+lxii
+ 
+ 
+Table 
+4: 
+Distan
+ces (metres) to 100 dBA, Urban Scenarios
+ 
+ 
+Device
+ 
+Operating 
+Condition
+ 
+Maximum 
+Volume 
+Setting 
+ 
+Border of 
+Red/Yellow 
+Range
+ 
+Border of 
+Yellow/Green 
+Range
+ 
+LRAD 
+100X
+ 
+Voice
+ 
+20
+ 
+-
+ 
+-
+ 
+LRAD 
+100X
+ 
+Alert
+ 
+60
+ 
+25
+ 
+-
+ 
+LRAD 
+300X
+ 
+Voice
+ 
+60
+ 
+25
+ 
+-
+ 
+LRAD 
+300X
+ 
+Alert
+ 
+200
+ 
+125
+ 
+75
+ 
+ 
+The
+ 
+report also recommends the following safe operating parameters for use of 
+the LRAD:  
+ 
+ 
+1)
+ 
+The LRAD devices are provided with a warning notification for operating 
+personnel on
+ 
+the rear panel concerning the fact that they produce high 
+levels of sound. Operator
+s
+ 
+should be made aware if these notifications 
+and tr
+ained in the use of the devices.
+ 
+ 
+2)
+ 
+Operators of the LRAD 100X device should wear 
+hearing protection 
+devices (
+HPDs
+)
+ 
+during equipment operation
+ 
+(chest 
+worn). The HPD
+s 
+should provide a minimum Noise Reduction
+ 
+Rating of NRR 28
+ 
+as 
+ LRAD Review
+ 
+November 2011
+ 
+17
+ 
+determined from the worst case Lex,8 of 106 dBA using the
+ 
+methods 
+contained in [4
+ 
+of the HGC Report
+]. These could be either of the foam 
+plugs or over the ear variety.
+ 
+ 
+3)
+ 
+Operators of the LRAD 300X devices should be located 
+at least 2 met
+res 
+to the rear of the device
+, 
+ideally at an angle of 135 or 225 degrees from 
+the forward
+ 
+axis of the device.
+ 
+At this distance, HPDs (minimum NRR of 
+28) should be worn during equipment operation. 
+ 
+ 
+4)
+ 
+Operators of the LRAD 300X devices are not required to wea
+
+for 
+short term operations (up to 15 minutes of daily exposure)
+ 
+if they are 
+located at least 5 metres from the device
+, but should
+ 
+consider wearing 
+
+dvertent over exposure. 
+ 
+ 
+5)
+ 
+Recorded voice announcements should be reco
+rded 
+using good 
+engineering practice (i.e., appropriate record level
+ 
+with no overloads
+)
+. 
+Existing a
+n
+d future recordings should be reviewed
+ 
+to ensure that 
+recordings other than the recording used in the testing described here do 
+not
+ 
+result in higher than an
+ticipated sound pressure levels.
+lxiii
+ 
+ 
+In addition, recognizing that use of the LRAD in certain circumstances may result 
+in hearing risks for operators and bystanders, the report recommends the 
+following risk mitigation practices:
+ 
+ 
+1)
+ 
+Operating personnel should p
+articipate in training to gain experience as to 
+the required
+ 
+volume level in various situations.
+ 
+ 
+2)
+ 
+The use of the alert function should be minimized.
+ 
+ 
+3)
+ 
+The LRAD devices should not be operated continuously. Any recorded 
+communication
+ 
+or alert should be follow
+ed by an equivalent period of 
+silence to still allow for effective
+ 
+communications while reducing bystander 
+exposure.
+ 
+ 
+4)
+ 
+Devices should be operated at 
+volume 
+setting and distances from 
+bystanders 
+which are consistent with the on
+-
+axis mini
+mum distances 
+provide
+d in Table 4
+.
+ 
+ 
+5)
+ 
+Notwithstanding the absence of a minimum distance requirement for 
+certain conditions in Table 4, it would be good practice not to operate the 
+devices where bystanders are located within 10 metres of the device for 
+those conditions.
+ 
+ 
+6)
+ 
+Volume s
+etting notwithstanding, t
+he voice lift function of the LRAD 300X 
+should not be used if bystanders are located
+ 
+closer than the minimum 
+distances provided 
+for the maximum volume 
+setting in Table 4.
+ 
+ LRAD Review
+ 
+November 2011
+ 
+18
+ 
+ 
+7)
+ 
+The 
+m
+inimum distance
+ 
+provided for the maximum volume set
+ting in Table 
+4 does no
+t apply to the LRAD 100X in communication
+ 
+mode
+, if the device 
+is
+ 
+mounted at a height of 
+at least 4
+ 
+metres above grade, oriented in a 
+horizontal
+ 
+direction (i.e.
+,
+ 
+not angled down).
+ 
+lxiv
+ 
+ 
+ 
+LEGISLATIVE AND REGULATORY FRAMEWORK
+ 
+ 
+The 
+Police S
+ervices Act
+ 
+authorizes the Lieutenant Governor in Council to make 
+regulations regulating and prohibiting the use of any equipment by a police force 
+or any of its members (s. 135(1)15) and regulating the use of force by members 
+of police forces (s. 135(1)16
+).   
+ 
+ 
+Regulation 926, Equipment and Use of Force, has been made under the 
+Police 
+Services Act
+.  S
+ubs
+ection 14
+(1)
+ 
+of the Regulation prohibits a member of a police 
+force from using a weapon other than a firearm on another person unless (a) that 
+type of weap
+on has been approved by the Minister, (b) the weapon conforms to 
+technical standards established by the Minister, and (c) the weapon is used in 
+accordance with standards established by the Minister.  The Regulation does not 
+
+constitutes use of a weapon on another person.  
+ 
+ 
+ 
+STAKEHOLDER CONSULTATION
+ 
+ 
+The
+ 
+following
+ 
+organizations were provided with the Terms of Reference for the 
+review and were invited to offer feedback.  The ministry has endeavoured to 
+keep the stakeholders app
+rised of the progress of the review and they 
+will be 
+provided with this 
+report. 
+ 
+ 
+Canadian Civil Liberties Association 
+ 
+Canadian Hearing Society
+ 
+Canadian Association of Speech Pathologists and Audiologists
+ 
+Ontario Association of Speech Pathologists and Aud
+iologists
+ 
+Ontario Federation of Labour
+ 
+Ontario Association of Chiefs of Police
+ 
+Ontario Association of Police Services Boards
+ 
+Police Association of Ontario
+ 
+Ontario Senior Officers Police Association
+ 
+Ontario Provincial Police
+ 
+Toronto Police Service
+ 
+Peel Regi
+onal Police 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+19
+ 
+ 
+ 
+ 
+SUMMARY AND NEXT STEPS
+ 
+ 
+In an effort to address public concerns regarding use of the LRAD by police, 
+MCSCS has undertaken this review to examine existing research and literature 
+on the LRAD, how the LRAD is currently being used by Canadian 
+police 
+services, and issues relating to its safe operation.  
+ 
+ 
+The literature review identified sources that described acoustic hailing devices as 
+both non
+-
+
+not weapons while others suggest
+ed they would be ineffective as weapons. 
+ 
+ 
+Acknowledging the potential for injury that may occur as a result of their use, 
+some of the sources identified in the literature review expressed the position that 
+AHDs may be considered weapons depending on the m
+anner in which they are 
+used.  This type of position lends itself to recommendations or restrictions 
+governing their use that take into account factors such as volume levels, stand
+-
+off distances and the use of hearing protection devices that aim to minimiz
+e or 
+eliminate any risks to hearing. 
+ 
+ 
+The acoustic testing and evaluation of hearing impacts has assisted in identifying 
+appropriate operating parameters and risk mitigation strategies to inform the 
+development of policies and standard operating procedure
+s within police 
+services. 
+ 
+ 
+The Minister of Community Safety and Correctional Services will be examining all 
+outputs of the review and will determine the nature of any future action to be 
+taken in relation to police use of the LRAD. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        
+        
+ 
+i
+ 
+LRAD Corporation website: http://www.lradx.com.
+ 
+ii
+ 
+Ibid.
+ 
+iii
+ 
+Ibid.
+ 
+iv
+ 
+
+
+November 18, 2009.
+ 
+v
+ 
+Ontario Provincial Police, Long Range Acoustic Device Standard Operating Procedures.
+ 
+vi
+ 
+Toronto Police Service, Public Safety/Marine/Emergency Task Force Unit Specific Guidelines 
+for the LRAD
+ 
+vii
+ 
+Inspector Perry Kirchhof, personal communi
+cation, 
+September 14, 2010
+. 
+ 
+viii
+ 
+
+ 
+ix
+ 
+Toronto Police Service, LRAD Operators Course presentation
+ 
+x
+ 
+US Department of Defence. Directive 3000.3, Policy for Non
+-
+Lethal Weapons, July 19
+96, p.2.
+ 
+xi
+ 
+
+ 
+ LRAD Review
+ 
+November 2011
+ 
+20
+ 
+                                        
+                                        
+                                        
+                        
+ 
+xii
+ 
+Ibid., p. 359.
+ 
+xiii
+ 
+Casey
+-
+
+-
+kinetic
+-
+
+-
+
+Assessment under International Humanitarian Law and Inte
+
+October, 2010, p.4.
+ 
+xiv
+ 
+Department of Defence, 
+Joint Non
+-
+
+
+ 
+xv
+ 
+North Atlantic Treaty Organization. The Human Effects of Non
+-
+Lethal Technologies
+,
+ 
+August, 2006 p. G
+-
+4.
+ 
+xvi
+ 
+Ibid., p. 4
+-
+2.
+ 
+xvii
+ 
+
+
+-
+22. 
+ 
+xviii
+ 
+
+-
+
+Analyses and In
+ferences, Germany, 2008, p. 46.
+ 
+xix
+ 
+Ibid., p. 46.
+ 
+xx
+ 
+Casey
+-
+
+-
+kinetic
+-
+
+-
+
+
+October, 2010, p. 68.
+ 
+xxi
+ 
+Schrantz, Ma
+
+-
+
+
+ 
+
+
+ 
+xxii
+ 
+
+Report on the Sixth International La
+w Enforcement Forum for Minimal Force Options and Less 
+Lethal Technologies, Orlando, May 2008, pp. 64
+-
+65. 
+ 
+xxiii
+ 
+
+-
+
+
+ 
+
+
+ 
+xxiv
+ 
+Ibi
+d.
+ 
+xxv
+ 
+Ibid.
+ 
+xxvi
+ 
+Ibid.
+ 
+xxvii
+ 
+
+-
+
+Analyses and Inferences, Germany, 2008, p. 52.
+ 
+xxviii
+ 
+Ibid.
+, p. 52.
+ 
+xxix
+ 
+
+-
+
+-
+Lethal Weapons Research Project, Department of Peace Studies, University of Bradford, UK, 
+May 2007 p. 34.
+ 
+xxx
+ 
+
+-
+Lethal Weapon 
+
+ 
+September 18, 2010., 
+p.
+8.
+ 
+xxxi
+ 
+Davison, Neil. The Contemp
+
+-
+
+-
+Lethal Weapons Research Project, Department of Peace Studies, University of Bradford, UK, 
+May 2007 p. 34.
+ 
+xxxii
+ 
+
+
+ 
+
+Security, V
+olume 9, 2001, p. 206.
+ 
+xxxiii
+ 
+Ibid.
+, p. 207.
+ 
+xxxiv
+ 
+Casey
+-
+
+-
+kinetic
+-
+
+-
+
+
+October, 2010, p. 69.
+ 
+xxxv
+ 
+North Atlantic Treat
+y Organization. The Human Effects of Non
+-
+Lethal Technologies, August, 
+2006, p. G
+-
+4.
+ 
+xxxvi
+ 
+North Atlantic Treaty Organization. Non
+-
+Lethal Weapons and Future Peace Enforcement 
+Operations, November 2004, p. 3
+-
+11.
+ 
+xxxvii
+ 
+
+ 
+Communication: LRAD 
+
+Home Office Scientific Development Branch, Home Office Policing and Crime Reduction Group, 
+January 2006, p.30.
+ 
+(Restricted)
+ 
+xxxviii
+ 
+North Atlantic Treaty Organization. The Human Effects of Non
+-
+Lethal Technologies,
+ 
+August, 
+2006 p
+. G
+-
+4.
+ 
+ 
+ LRAD Review
+ 
+November 2011
+ 
+21
+ 
+                                        
+                                        
+                                        
+                        
+ 
+xxxix
+ 
+
+-
+
+Analyses and Inferences, Germany, 2008, p. 52.
+ 
+xl
+ 
+McNab, Robert and Richard Scott
+
+-
+
+Wars and Insurgenci
+es, Vol. 20, March 2009 
+p.
+ 
+147, 149.
+ 
+xli
+ 
+
+-
+Lethal Weapon 
+
+ 
+September 18, 2010 p. 9.
+ 
+xlii
+ 
+
+-
+
+Analyse
+s and Inferences, Germany, 2008, p. 55.
+ 
+xliii
+ 
+
+
+ 
+
+Security, Volume 9, 2001, p. 207.
+ 
+xliv
+ 
+
+-
+Lethal 
+
+ 
+Se
+ptember 18, 2010 
+p
+. 9.
+ 
+xlv
+ 
+
+Home Office Scientific Development Branch, Home Office Policing and Crime Reduction Group, 
+January 
+2006,
+ 
+p. 29.
+ 
+(Restricted)
+ 
+xlvi
+ 
+Ibid., p. 29.
+ 
+xlvii
+ 
+Ibid.,
+ 
+p. 30.
+ 
+xlviii
+ 
+
+ 
+xlix
+ 
+
+-
+Lethal 
+
+ 
+September 18, 2010 p. 8.
+ 
+l
+ 
+
+
+ 
+li
+ 
+Ibid.,
+ 
+p.8.
+ 
+lii
+ 
+Ibid., 
+p.8.    
+ 
+liii
+ 
+Gastmeier, Bill
+
+August 9, 2011
+, p.1
+.
+ 
+liv
+ 
+
+Amendments to Noise Requirements in th
+e Regulations for
+ 
+Industrial 
+Establishments & Oil and Gas
+-
+Offshore
+
+ 
+lv
+ 
+Gastmeier, Bill
+
+August 9, 2011
+, p. 23
+.
+ 
+lvi
+ 
+Ibid., 25
+ 
+lvii
+ 
+Office of th
+e Fire Marshal (Ontario), 
+personal communication, 
+August 2011
+.
+ 
+lviii
+ 
+
+
+ 
+lix
+ 
+
+
+ily, June 20, 2009
+ 
+(online)
+.
+ 
+lx
+ 
+Gastmeier, Bill
+
+August 9, 2011
+, p.
+ 
+26.
+ 
+lxi
+ 
+Ibid., p
+.
+ 
+19.
+ 
+lxii
+ 
+Ibid., p. 26.
+ 
+lxiii
+ 
+Ibid.,
+ 
+p
+p 27
+-
+28
+.
+ 
+lxiv
+ 
+Ibid., pp. 28
+-
+29.
+ 

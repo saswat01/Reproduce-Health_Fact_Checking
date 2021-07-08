@@ -1,0 +1,75 @@
+In this pivotal study, treatment with KEYTRUDA resulted in a    statistically significant improvement in OS compared to chemotherapy    (paclitaxel, docetaxel or irinotecan) in patients with CPS ≥10,    regardless of histology.
+ The primary endpoint of OS was also evaluated    in patients with squamous cell histology and in the entire    intention-to-treat (ITT) study population.
+ While directionally    favorable, statistical significance for OS was not met in these two    patient groups.
+ Per the statistical analysis plan, the key secondary    endpoints of progression-free survival (PFS) and objective response rate    (ORR) were not formally tested, as OS was not reached in the full ITT    study population.
+ The safety profile of KEYTRUDA in this trial was    consistent with that observed in previously reported studies.
+ Results    will be presented at an upcoming medical meeting and will be submitted    to regulatory authorities worldwide.
+ “In this pivotal trial, KEYTRUDA resulted in a statistically significant    and clinically meaningful improvement over standard chemotherapy in    overall survival for patients with advanced esophageal or    esophagogastric junction carcinoma whose tumors express PD-L1 with a CPS    of 10 or greater.
+ This marks the sixth tumor type where KEYTRUDA has    demonstrated a survival benefit, and represents the first time an    anti-PD-1 therapy has achieved overall survival for this patient    population,” said Dr. Roy Baynes, senior vice president and head of    global clinical development, chief medical officer, Merck Research    Laboratories.
+ “We are encouraged by these results of KEYTRUDA as    monotherapy in previously-treated patients, and look forward to    continuing our research efforts in this significant area of unmet need    with our ongoing Phase 3 trial, KEYNOTE-590, evaluating KEYTRUDA in    combination with chemotherapy as a first-line treatment for patients    with esophageal carcinoma.”    About KEYNOTE-181KEYNOTE-181 is a randomized, open-label,    Phase 3 trial (ClinicalTrials.gov, NCT02564263)    investigating KEYTRUDA monotherapy compared to chemotherapy in patients    with advanced or metastatic adenocarcinoma or squamous cell carcinoma of    the esophagus, or Siewert type I adenocarcinoma of the esophagogastric    junction that has progressed after first-line standard therapy.
+ The    primary endpoint was OS (evaluated in all patients as well as in    patients with PD-L1 CPS ≥10 and in patients with squamous cell    carcinoma).
+ Secondary endpoints were PFS, ORR and safety/tolerability.
+ The study enrolled more than 600 patients who were randomized 1:1 to    receive either KEYTRUDA (200 mg fixed dose every three weeks) or    investigator’s choice of any of the following chemotherapy regimens, all    given intravenously: docetaxel (75 mg/m^2 on Day 1 of each 21-day    cycle), paclitaxel (80-100 mg/m^2 on Days 1, 8, and 15 of each 28-day    cycle), or irinotecan (80 mg/m^2 on Day 1 of each 14-day cycle).
+ About Esophageal CancerEsophageal cancer, a type of cancer    that is particularly difficult to treat, begins in the inner layer    (mucosa) of the esophagus and grows outward.
+ There are two main types of    esophageal cancer: squamous cell carcinoma and adenocarcinoma.
+ Globally,    esophageal cancer is the seventh most commonly diagnosed cancer.
+ This    year, an estimated 17,290 adults in the United States will be diagnosed    with esophageal cancer, and 15,850 deaths from this disease will occur.
+ Worldwide, there are estimated to be over 572,000 new cases of    esophageal cancer and approximately 508,000 deaths resulting from this    disease in 2018 alone.
+ About KEYTRUDA® (pembrolizumab) Injection,    100mgKEYTRUDA is an anti-PD-1 therapy that works by increasing    the ability of the body’s immune system to help detect and fight tumor    cells.
+ KEYTRUDA is a humanized monoclonal antibody that blocks the    interaction between PD-1 and its ligands, PD-L1 and PD-L2, thereby    activating T lymphocytes which may affect both tumor cells and healthy    cells.
+ Merck has the industry’s largest immuno-oncology clinical research    program.
+ The KEYTRUDA    clinical program seeks to understand the role of KEYTRUDA across cancers    and the factors that may predict a patient’s likelihood of benefitting    from treatment with KEYTRUDA, including exploring several different    biomarkers.
+ KEYTRUDA® (pembrolizumab) Indications and    Dosing   MelanomaKEYTRUDA is indicated for the treatment of patients    with unresectable or metastatic melanoma at a fixed dose of 200 mg every    three weeks until disease progression or unacceptable toxicity.
+ Lung CancerKEYTRUDA, in combination with pemetrexed and    platinum chemotherapy, is indicated for the first-line treatment of    patients with metastatic nonsquamous non-small cell lung cancer (NSCLC),    with no EGFR or ALK genomic tumor aberrations.
+ KEYTRUDA, in combination with carboplatin and either paclitaxel or    nab-paclitaxel, is indicated for the first-line treatment of patients    with metastatic squamous NSCLC.
+ KEYTRUDA, as a single agent, is indicated for the first-line treatment    of patients with metastatic non-small cell lung cancer (NSCLC) whose    tumors have high PD-L1 expression [Tumor Proportion Score (TPS) ≥50%] as    determined by an FDA-approved test, with no EGFR or ALK genomic    tumor aberrations.
+ KEYTRUDA, as a single agent, is indicated for the treatment of patients    with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined    by an FDA-approved test, with disease progression on or after    platinum-containing chemotherapy.
+ Patients with EGFR or ALK genomic    tumor aberrations should have disease progression on FDA-approved    therapy for these aberrations prior to receiving KEYTRUDA.
+ In metastatic NSCLC, KEYTRUDA is administered at a fixed dose of 200 mg    every three weeks until disease progression, unacceptable toxicity, or    up to 24 months in patients without disease progression.
+ When administering KEYTRUDA in combination with chemotherapy, KEYTRUDA    should be administered prior to chemotherapy when given on the same day.
+ See also the Prescribing Information for the chemotherapy agents    administered in combination with KEYTRUDA, as appropriate.
+ Head and Neck CancerKEYTRUDA is indicated for the treatment    of patients with recurrent or metastatic head and neck squamous cell    carcinoma (HNSCC) with disease progression on or after    platinum-containing chemotherapy.
+ This indication is approved under    accelerated approval based on tumor response rate and durability of    response.
+ Continued approval for this indication may be contingent upon    verification and description of clinical benefit in the confirmatory    trials.
+ In HNSCC, KEYTRUDA is administered at a fixed dose of 200 mg    every three weeks until disease progression, unacceptable toxicity, or    up to 24 months in patients without disease progression.
+ Classical Hodgkin LymphomaKEYTRUDA is indicated for the    treatment of adult and pediatric patients with refractory classical    Hodgkin lymphoma (cHL), or who have relapsed after 3 or more prior lines    of therapy.
+ This indication is approved under accelerated approval based    on tumor response rate and durability of response.
+ Continued approval    for this indication may be contingent upon verification and description    of clinical benefit in the confirmatory trials.
+ In adults with cHL,    KEYTRUDA is administered at a fixed dose of 200 mg every three weeks    until disease progression or unacceptable toxicity, or up to 24 months    in patients without disease progression.
+ In pediatric patients with cHL,    KEYTRUDA is administered at a dose of 2 mg/kg (up to a maximum of 200    mg) every three weeks until disease progression or unacceptable    toxicity, or up to 24 months in patients without disease progression.
+ Primary Mediastinal Large B-Cell LymphomaKEYTRUDA is    indicated for the treatment of adult and pediatric patients with    refractory primary mediastinal large B-cell lymphoma (PMBCL), or who    have relapsed after 2 or more prior lines of therapy.
+ This indication is    approved under accelerated approval based on tumor response rate and    durability of response.
+ Continued approval for this indication may be    contingent upon verification and description of clinical benefit in    confirmatory trials.
+ KEYTRUDA is not recommended for the treatment of    patients with PMBCL who require urgent cytoreductive therapy.
+ In adults with PMBCL, KEYTRUDA is administered at a fixed dose of 200 mg    every three weeks until disease progression, unacceptable toxicity, or    up to 24 months in patients without disease progression.
+ In pediatric    patients with PMBCL, KEYTRUDA is administered at a dose of 2 mg/kg (up    to a maximum of 200 mg) every three weeks until disease progression or    unacceptable toxicity, or up to 24 months in patients without disease    progression.
+ Urothelial CarcinomaKEYTRUDA is indicated for the treatment    of patients with locally advanced or metastatic urothelial carcinoma    (mUC) who are not eligible for cisplatin-containing chemotherapy and    whose tumors express PD-L1 [Combined Positive Score (CPS) ≥10] as    determined by an FDA-approved test, or in patients who are not eligible    for any platinum-containing chemotherapy regardless of PD-L1 status.
+ This indication is approved under accelerated approval based on tumor    response rate and duration of response.
+ Continued approval for this    indication may be contingent upon verification and description of    clinical benefit in the confirmatory trials.
+ KEYTRUDA is indicated for the treatment of patients with locally    advanced or metastatic urothelial carcinoma (mUC) who have disease    progression during or following platinum-containing chemotherapy or    within 12 months of neoadjuvant or adjuvant treatment with    platinum-containing chemotherapy.
+ In locally advanced or metastatic urothelial carcinoma, KEYTRUDA is    administered at a fixed dose of 200 mg every three weeks until disease    progression or unacceptable toxicity, or up to 24 months in patients    without disease progression.
+ Microsatellite Instability-High (MSI-H) CancerKEYTRUDA is    indicated for the treatment of adult and pediatric patients with    unresectable or metastatic microsatellite instability-high (MSI-H) or    mismatch repair deficient (dMMR)       solid tumors that have progressed following prior treatment and who    have no satisfactory alternative treatment options, or       colorectal cancer that has progressed following treatment with    fluoropyrimidine, oxaliplatin, and irinotecan.
+ This indication is approved under accelerated approval based on tumor    response rate and durability of response.
+ Continued approval for this    indication may be contingent upon verification and description of    clinical benefit in the confirmatory trials.
+ The safety and    effectiveness of KEYTRUDA in pediatric patients with MSI-H central    nervous system cancers have not been established.
+ In adult patients with MSI-H cancer, KEYTRUDA is administered at a fixed    dose of 200 mg every three weeks until disease progression, unacceptable    toxicity, or up to 24 months in patients without disease progression.
+ In    children with MSI-H cancer, KEYTRUDA is administered at a dose of 2    mg/kg (up to a maximum of 200 mg) every three weeks until disease    progression or unacceptable toxicity, or up to 24 months in patients    without disease progression.
+ Gastric CancerKEYTRUDA is indicated for the treatment of    patients with recurrent locally advanced or metastatic gastric or    gastroesophageal junction (GEJ) adenocarcinoma whose tumors express    PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an    FDA-approved test, with disease progression on or after two or more    prior lines of therapy including fluoropyrimidine- and    platinum-containing chemotherapy and if appropriate, HER2/neu-targeted    therapy.
+ This indication is approved under accelerated approval based on    tumor response rate and durability of response.
+ Continued approval for    this indication may be contingent upon verification and description of    clinical benefit in the confirmatory trials.
+ The recommended dose of    KEYTRUDA is a fixed dose of 200 mg every three weeks until disease    progression, unacceptable toxicity, or up to 24 months in patients    without disease progression.
+ Cervical CancerKEYTRUDA is indicated for the treatment of    patients with recurrent or metastatic cervical cancer with disease    progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1)    as determined by an FDA-approved test.
+ This indication is approved under    accelerated approval based on tumor response rate and durability of    response.
+ Continued approval for this indication may be contingent upon    verification and description of clinical benefit in the confirmatory    trials.
+ The recommended dose of KEYTRUDA is a fixed dose of 200 mg every    three weeks until disease progression, unacceptable toxicity, or up to    24 months in patients without disease progression.
+ Hepatocellular CarcinomaKEYTRUDA is indicated for the    treatment of patients with hepatocellular carcinoma (HCC) who have been    previously treated with sorafenib.
+ This indication is approved under    accelerated approval based on tumor response rate and durability of    response.
+ Continued approval for this indication may be contingent upon    verification and description of clinical benefit in the confirmatory    trials.
+ The recommended dose of KEYTRUDA is a fixed dose of 200 mg every    three weeks until disease progression, unacceptable toxicity, or up to    24 months in patients without disease progression.
+ Selected Important Safety Information for KEYTRUDA   Immune-Mediated PneumonitisKEYTRUDA can cause    immune-mediated pneumonitis, including fatal cases.
+ Pneumonitis occurred    in 3.4% (94/2799) of patients receiving KEYTRUDA, including Grade 1    (0.8%), 2 (1.3%), 3 (0.9%), 4 (0.3%), and 5 (0.1%), and occurred more    frequently in patients with a history of prior thoracic radiation (6.9%)    compared to those without (2.9%).
+ Monitor patients for signs and    symptoms of pneumonitis.
+ Evaluate suspected pneumonitis with    radiographic imaging.
+ Administer corticosteroids for Grade 2 or greater    pneumonitis.
+ Withhold KEYTRUDA for Grade 2; permanently discontinue    KEYTRUDA for Grade 3 or 4 or recurrent Grade 2 pneumonitis.
+ Immune-Mediated ColitisKEYTRUDA can cause immune-mediated    colitis.

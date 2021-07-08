@@ -1,0 +1,423 @@
+Neither our individual or societal identities, nor the world’s economy would exist without the multiple resources, services and livelihood systems provided by land ecosystems and biodiversity.
+ The annual value of the world’s total terrestrial ecosystem services has been estimated at 75 trillion USD in 2011, approximately equivalent to the annual global Gross Domestic Product (based on USD2007 values) (medium confidence).
+ Land and its biodiversity also represent essential, intangible benefits to humans, such as cognitive and spiritual enrichment, sense of belonging and aesthetic and recreational values.
+ Valuing ecosystem services with monetary methods often overlooks these intangible services that shape societies, cultures and quality of life and the intrinsic value of biodiversity.
+ The Earth’s land area is finite.
+ Using land resources sustainably is fundamental for human well-being (high confidence).
+ By 2015, about three-quarters of the global ice-free land surface was affected by human use.
+ Humans appropriate one-quarter to one-third of global terrestrial potential net primary production (high confidence).
+ Croplands cover 12–14% of the global ice-free surface.
+ Since 1961, the supply of global per capita food calories increased by about one-third, with the consumption of vegetable oils and meat more than doubling.
+ At the same time, the use of inorganic nitrogen fertiliser increased by nearly ninefold, and the use of irrigation water roughly doubled (high confidence).
+ Land use caused global biodiversity to decrease by around 11–14% (medium confidence).
+ The average temperature over land for the period 2006–2015 was 1.53°C higher than for the period 1850–1900, and 0.66°C larger than the equivalent global mean temperature change.
+ These warmer temperatures (with changing precipitation patterns) have altered the start and end of growing seasons, contributed to regional crop yield reductions, reduced freshwater availability, and put biodiversity under further stress and increased tree mortality (high confidence).
+ Increasing levels of atmospheric CO2, have contributed to observed increases in plant growth as well as to increases in woody plant cover in grasslands and savannahs (medium confidence).
+ Socio-economic drivers of land-use change such as technological development, population growth and increasing per capita demand for multiple ecosystem services are projected to continue into the future (high confidence).
+ These and other drivers can amplify existing environmental and societal challenges, such as the conversion of natural ecosystems into managed land, rapid urbanisation, pollution from the intensification of land management and equitable access to land resources (high confidence).
+ Climate change will add to these challenges through direct, negative impacts on ecosystems and the services they provide (high confidence).
+ Acting immediately and simultaneously on these multiple drivers would enhance food, fibre and water security, alleviate desertification, and reverse land degradation, without compromising the non-material or regulating benefits from land (high confidence).
+ In the absence of rapid emissions reductions, reliance on large-scale, land-based, climate change mitigation is projected to increase, which would aggravate existing pressures on land (high confidence).
+ Climate change mitigation efforts that require large land areas (e.g., bioenergy and afforestation/reforestation) are projected to compete with existing uses of land (high confidence).
+ The competition for land could increase food prices and lead to further intensification (e.g., fertiliser and water use) with implications for water and air pollution, and the further loss of biodiversity (medium confidence).
+ Such consequences would jeopardise societies’ capacity to achieve many Sustainable Development Goals (SDGs) that depend on land (high confidence).
+ Many of these options have co-benefits for climate change adaptation (medium confidence).
+ Land use contributes about one-quarter of global greenhouse gas emissions, notably CO2 emissions from deforestation, CH4 emissions from rice and ruminant livestock and N2O emissions from fertiliser use (high confidence).
+ Land ecosystems also take up large amounts of carbon (high confidence).
+ Many land management options exist to both reduce the magnitude of emissions and enhance carbon uptake.
+ These options enhance crop productivity, soil nutrient status, microclimate or biodiversity, and thus, support adaptation to climate change (high confidence).
+ In addition, changes in consumer behaviour, such as reducing the over-consumption of food and energy would benefit the reduction of GHG emissions from land (high confidence).
+ The barriers to the implementation of mitigation and adaptation options include skills deficit, financial and institutional barriers, absence of incentives, access to relevant technologies, consumer awareness and the limited spatial scale at which the success of these practices and methods have been demonstrated.
+ Improving food access, utilisation, quality and safety to enhance nutrition, and promoting globally equitable diets compatible with lower emissions have demonstrable positive impacts on land use and food security (high confidence).
+ Food security is also negatively affected by food loss and waste (estimated as 25–30% of total food produced) (medium confidence).
+ Barriers to improved food security include economic drivers (prices, availability and stability of supply) and traditional, social and cultural norms around food eating practices.
+ Trade can provide embodied flows of water, land and nutrients (medium confidence).
+ Food trade can also have negative environmental impacts by displacing the effects of overconsumption (medium confidence).
+ Future food systems and trade patterns will be shaped as much by policies as by economics (medium confidence).
+ Women play a significant role in agriculture and rural economies globally.
+ In many world regions, laws, cultural restrictions, patriarchy and social structures such as discriminatory customary laws and norms reduce women’s capacity in supporting the sustainable use of land resources (medium confidence).
+ Therefore, acknowledging women’s land rights and bringing women’s land management knowledge into land-related decision-making would support the alleviation of land degradation, and facilitate the take-up of integrated adaptation and mitigation measures (medium confidence).
+ In addition, differences in socio-economic conditions, such as wealth, degree of industrialisation, institutions and governance, affect the capacity to respond to climate change, food insecurity, land degradation and desertification.
+ The capacity to respond is also strongly affected by local land ownership.
+ Hence, climate change will affect regions and communities differently (high confidence).
+ There is a lack of coordination across governance levels, for example, local, national, transboundary and international, in addressing climate change and sustainable land management challenges.
+ Policy design and formulation is often strongly sectoral, which poses further barriers when integrating international decisions into relevant (sub)national policies.
+ A portfolio of policy instruments that are inclusive of the diversity of governance actors would enable responses to complex land and climate challenges (high confidence).
+ Inclusive governance that considers women’s and indigenous people’s rights to access and use land enhances the equitable sharing of land resources, fosters food security and increases the existing knowledge about land use, which can increase opportunities for adaptation and mitigation (medium confidence).
+ Participatory, co-creation processes with stakeholders can facilitate the use of scenarios in designing future sustainable development strategies (medium confidence).
+ In addition to qualitative approaches, models are critical in quantifying scenarios, but uncertainties in models arise from, for example, differences in baseline datasets, land cover classes and modelling paradigms (medium confidence).
+ Current scenario approaches are limited in quantifying time-dependent policy and management decisions that can lead from today to desirable futures or visions.
+ Advances in scenario analysis and modelling are needed to better account for full environmental costs and non-monetary values as part of human decision-making processes.
+ This chapter assesses climate impacts on land and land impacts on climate, the human contributions to these changes, as well as land-based adaptation and mitigation response options to combat projected climate changes.
+ According to the single longest and most extensive dataset, from 1850–1900 to 2006–2015 mean land surface air temperature has increased by 1.53°C (very likely range from 1.38°C to 1.68°C) while global mean surface temperature has increased by 0.87°C (likely range from 0.75°C to 0.99°C).
+ For the 1880–2018 period, when four independently produced datasets exist, the LSAT increase was 1.41°C (1.31–1.51°C), where the range represents the spread in the datasets’ median estimates.
+ Analyses of paleo records, historical observations, model simulations and underlying physical principles are all in agreement that LSATs are increasing at a higher rate than SST as a result of differences in evaporation, land–climate feedbacks and changes in the aerosol forcing over land (very high confidence).
+ For the 2000–2016 period, the land-to-ocean warming ratio (about 1.6) is in close agreement between different observational records and the CMIP5 climate model simulations (the likely range of 1.54–1.81).
+ Ongoing warming is projected to result in new, hot climates in tropical regions and to shift climate zones poleward in the mid- to high latitudes and upward in regions of higher elevation (high confidence).
+ Ecosystems in these regions will become increasingly exposed to temperature and rainfall extremes beyonwd the climate regimes they are currently adapted to (high confidence), which can alter their structure, composition and functioning.
+ Additionally, high-latitude warming is projected to accelerate permafrost thawing and increase disturbance in boreal forests through abiotic (e.g., drought, fire) and biotic (e.g., pests, disease) agents (high confidence).
+ This results from a combination of direct (i.e., land use and management, forest conservation and expansion) and indirect factors (i.e., CO2 fertilisation, extended growing season, global warming, nitrogen deposition, increase of diffuse radiation) linked to human activities (high confidence).
+ Browning trends (trends of decreasing photosynthetic activity) are projected in many regions where increases in drought and heatwaves are projected in a warmer climate.
+ There is low confidence in the projections of global greening and browning trends.
+ Recent heat-related events, for example, heatwaves, have been made more frequent or intense due to anthropogenic greenhouse gas (GHG) emissions in most land regions and the frequency and intensity of drought has increased in Amazonia, north-eastern Brazil, the Mediterranean, Patagonia, most of Africa and north-eastern China (medium confidence).
+ Heatwaves are projected to increase in frequency, intensity and duration in most parts of the world (high confidence) and drought frequency and intensity is projected to increase in some regions that are already drought prone, predominantly in the Mediterranean, central Europe, the southern Amazon and southern Africa (medium confidence).
+ These changes will impact ecosystems, food security and land processes including GHG fluxes (high confidence).
+ Fire weather seasons have lengthened globally between 1979 and 2013 (low confidence).
+ Global land area burned has declined in recent decades, mainly due to less burning in grasslands and savannahs (high confidence).
+ While drought remains the dominant driver of fire emissions, there has recently been increased fire activity in some tropical and temperate regions during normal to wetter than average years due to warmer temperatures that increase vegetation flammability (medium confidence).
+ The boreal zone is also experiencing larger and more frequent fires, and this may increase under a warmer climate (medium confidence).
+ AFOLU results in both emissions and removals of CO2, CH4 and N2O to and from the atmosphere (high confidence).
+ These fluxes are affected simultaneously by natural and human drivers, making it difficult to separate natural from anthropogenic fluxes (very high confidence).
+ This net removal is comprised of two major components: (i) modelled net anthropogenic emissions from AFOLU are 5.2 ± 2.6 GtCO2 yr–1 (likely range) driven by land cover change, including deforestation and afforestation/reforestation, and wood harvesting (accounting for about 13% of total net anthropogenic emissions of CO2) (medium confidence), and (ii) modelled net removals due to non-anthropogenic processes are 11.2 ± 2.6 GtCO2 yr–1 (likely range) on managed and unmanaged lands, driven by environmental changes such as increasing CO2, nitrogen deposition and changes in climate (accounting for a removal of 29% of the CO2 emitted from all anthropogenic activities (fossil fuel, industry and AFOLU) (medium confidence).
+ Consideration of differences in methods can enhance understanding of land sector net emission such as under the Paris Agreement’s global stocktake (medium confidence).
+ Both models and inventories produce estimates that are in close agreement for land-use change involving forest (e.g., deforestation, afforestation), and differ for managed forest.
+ Global models consider as managed forest those lands that were subject to harvest whereas, consistent with IPCC guidelines, national GHG inventories define managed forest more broadly.
+ For illustration, from 2005 to 2014, the sum of the national GHG inventories net emission estimates is 0.1 ± 1.0 GtCO2 yr–1, while the mean of two global bookkeeping models is 5.1 ± 2.6 GtCO2 yr–1 (likely range).
+ The gross emissions from AFOLU (one-third of total global emissions) are more indicative of mitigation potential of reduced deforestation than the global net emissions (13% of total global emissions), which include compensating deforestation and afforestation fluxes (high confidence).
+ The net flux of CO2 from AFOLU is composed of two opposing gross fluxes: (i) gross emissions (20 GtCO2 yr–1) from deforestation, cultivation of soils and oxidation of wood products, and (ii) gross removals (–14 GtCO2 yr–1), largely from forest growth following wood harvest and agricultural abandonment (medium confidence).
+ The pause in the rise of atmospheric CH4 concentrations between 2000 and 2006 and the subsequent renewed increase appear to be partially associated with land use and land use change.
+ The recent depletion trend of the 13C isotope in the atmosphere indicates that higher biogenic sources explain part of the current CH4 increase and that biogenic sources make up a larger proportion of the source mix than they did before 2000 (high confidence).
+ Ruminants and the expansion of rice cultivation are also important contributors to the current trend (medium evidence, high agreement).
+ There is significant and ongoing accumulation of CH4 in the atmosphere (very high confidence).
+ In croplands, the main driver of N2O emissions is a lack of synchronisation between crop nitrogen demand and soil nitrogen supply, with approximately 50% of the nitrogen applied to agricultural land not taken up by the crop.
+ Cropland soils emit over 3 MtN2O-N yr–1 (medium confidence).
+ Because the response of N2O emissions to fertiliser application rates is non-linear, in regions of the world where low nitrogen application rates dominate, such as sub-Saharan Africa and parts of Eastern Europe, increases in nitrogen fertiliser use would generate relatively small increases in agricultural N2O emissions.
+ Decreases in application rates in regions where application rates are high and exceed crop demand for parts of the growing season will have very large effects on emissions reductions (medium evidence, high agreement).
+ Grazing lands (pastures and rangelands) are responsible for more than one-third of total anthropogenic N2O emissions or more than one-half of agricultural emissions (high confidence).
+ Emissions are largely from North America, Europe, East Asia, and South Asia, but hotspots are shifting from Europe to southern Asia (medium confidence).
+ Responses of vegetation and soil organic carbon (SOC) to rising atmospheric CO2 concentration and climate change are not well constrained by observations (medium confidence).
+ Nutrient (e.g., nitrogen, phosphorus) availability can limit future plant growth and carbon storage under rising CO2 (high confidence).
+ However, new evidence suggests that ecosystem adaptation through plant-microbe symbioses could alleviate some nitrogen limitation (medium evidence, high agreement).
+ Warming of soils and increased litter inputs will accelerate carbon losses through microbial respiration (high confidence).
+ Thawing of high latitude/altitude permafrost will increase rates of SOC loss and change the balance between CO2 and CH4 emissions(medium confidence).Thebalancebetweenincreased respiration in warmer climates and carbon uptake from enhanced plant growth is a key uncertainty for the size of the future land carbon sink (medium confidence).
+ On the global scale, this is driven by changes in emissions or removals of CO2, CH4 and N2O by land (biogeochemical effects) and by changes in the surface albedo (very high confidence).
+ Any local land changes that redistribute energy and water vapour between the land and the atmosphere influence regional climate (biophysical effects; high confidence).
+ However, there is no confidence in whether such biophysical effects influence global climate.
+ Dry soil conditions favour or strengthen summer heatwave conditions through reduced evapotranspiration and increased sensible heat.
+ By contrast wet soil conditions, for example from irrigation or crop management practices that maintain a cover crop all year round, can dampen extreme warm events through increased evapotranspiration and reduced sensible heat.
+ Droughts can be intensified by poor land management.
+ Urbanisation increases extreme rainfall events over or downwind of cities (medium confidence).
+ Biogeochemical warming results from increased emissions of GHGs by land, with model-based estimates of +0.20 ± 0.05°C (global climate models) and +0.24 ± 0.12°C – dynamic global vegetation models (DGVMs) as well as an observation-based estimate of +0.25 ± 0.10°C.
+ A net biophysical cooling of –0.10 ± 0.14°C has been derived from global climate models in response to the increased surface albedo and decreased turbulent heat fluxes, but it is smaller than the warming effect from land-based emissions.
+ However, when both biogeochemical and biophysical effects are accounted for within the same global climate model, the models do not agree on the sign of the net change in mean annual surface air temperature.
+ Biogeochemical warming has been projected for RCP8.5 by both global climate models (+0.20 ± 0.15°C) and DGVMs (+0.28 ± 0.11°C) (high confidence).
+ A global biophysical cooling of 0.10 ± 0.14°C is estimated from global climate models and is projected to dampen the land-based warming (low confidence).
+ For RCP4.5, the biogeochemical warming estimated from global climate models (+0.12 ± 0.17°C) is stronger than the warming estimated by DGVMs (+0.01 ± 0.04°C) but based on limited evidence, as is the biophysical cooling (–0.10 ± 0.21°C).
+ In boreal regions, for example, where projected climate change will migrate the treeline northward, increase the growing season length and thaw permafrost, regional winter warming will be enhanced by decreased surface albedo and snow, whereas warming will be dampened during the growing season due to larger evapotranspiration (high confidence).
+ In the tropics, wherever climate change will increase rainfall, vegetation growth and associated increase in evapotranspiration will result in a dampening effect on regional warming (medium confidence).
+ The local redistribution of water and energy following the changes on land affect the horizontal and vertical gradients of temperature, pressure and moisture, thus altering regional winds and consequently moisture and temperature advection and convection and subsequently, precipitation.
+ Urban and peri-urban agriculture, and more generally urban greening, can contribute to mitigation (medium confidence) as well as to adaptation (high confidence), with co-benefits for food security and reduced soil-water-air pollution.
+ Forest cover affects climate through emissions of biogenic volatile organic compounds (BVOC) and aerosols (low confidence).
+ The decrease in the emissions of BVOC resulting from the historical conversion of forests to cropland has resulted in a positive radiative forcing through direct and indirect aerosol effects, a negative radiative forcing through the reduction in the atmospheric lifetime of methane and it has contributed to increased ozone concentrations in different regions (low confidence).
+ Most of the NDCs submitted by countries include land-based mitigation, although many lack details.
+ Several refer explicitly to reduced deforestation and forest sinks, while a few include soil carbon sequestration, agricultural management and bioenergy.
+ Full implementation of NDCs (submitted by February 2016) is expected to result in net removals of 0.4–1.3 GtCO2 yr–1 in 2030 compared to the net flux in 2010, where the range represents low to high mitigation ambition in pledges, not uncertainty in estimates (medium confidence).
+ Estimates of the technical potential of individual response options are not necessarily additive.
+ The largest potential for reducing AFOLU emissions are through reduced deforestation and forest degradation (0.4–5.8 GtCO2-eq yr–1) (high confidence), a shift towards plant- based diets (0.7–8.0 GtCO2-eq yr–1) (high confidence) and reduced food and agricultural waste (0.8–4.5 GtCO2-eq yr–1) (high confidence).
+ Agriculture measures combined could mitigate 0.3–3.4 GtCO2-eq yr–1 (medium confidence).
+ The options with largest potential for CDR are afforestation/reforestation (0.5–10.1 GtCO2-eq yr–1) (medium confidence), soil carbon sequestration in croplands and grasslands (0.4–8.6 GtCO2-eq yr–1) (high confidence) and Bioenergy with Carbon Capture and Storage (BECCS) (0.4–11.3 GtCO2-eq yr–1) (medium confidence).
+ While some estimates include sustainability and cost considerations, most do not include socio-economic barriers, the impacts of future climate change or non-GHG climate forcings.
+ Expansion of forest area, for example, typically removes CO2 from the atmosphere and thus dampens global warming (biogeochemical effect, high confidence), but the biophysical effects can dampen or enhance regional warming depending on location, season and time of day.
+ During the growing season, afforestation generally brings cooler days from increased evapotranspiration, and warmer nights (high confidence).
+ During the dormant season, forests are warmer than any other land cover, especially in snow-covered areas where forest cover reduces albedo (high confidence).
+ At the global level, the temperature effects of boreal afforestation/reforestation run counter to GHG effects, while in the tropics they enhance GHG effects.
+ In addition, trees locally dampen the amplitude of heat extremes (medium confidence).
+ More stringent climate targets rely more heavily on land-based mitigation options, in particular, CDR (high confidence).
+ Across a range of scenarios in 2100, CDR is delivered by both afforestation (median values of –1.3, –1.7 and –2.4 GtCO2 yr–1 for scenarios RCP4.5, RCP2.6 and RCP1.9 respectively) and bioenergy with carbon capture and storage (BECCS) (–6.5, –11 and –14.9 GtCO2 yr–1 respectively).
+ Emissions of CH4 and N2O are reduced through improved agricultural and livestock management as well as dietary shifts away from emission-intensive livestock products by 133.2, 108.4 and 73.5 MtCH4 yr–1; and 7.4, 6.1 and 4.5 MtN2O yr–1 for the same set of scenarios in 2100 (high confidence).
+ High levels of bioenergy crop production can result in increased N2O emissions due to fertiliser use.
+ The Integrated Assessment Models that produce these scenarios mostly neglect the biophysical effects of land-use on global and regional warming.
+ The change of global forest area in mitigation pathways ranges from about –0.2 to +7.2 Mkm2 between 2010 and 2100 (median values across a range of models and scenarios: RCP4.5, RCP2.6, RCP1.9), and the land demand for bioenergy crops ranges from about 3.2 to 6.6 Mkm2 in 2100 (high confidence).
+ Large- scale land-based CDR is associated with multiple feasibility and sustainability constraints (Chapters 6 and 7).
+ In high carbon lands such as forests and peatlands, the carbon benefits of land protection are greater in the short-term than converting land to bioenergy crops for BECCS, which can take several harvest cycles to ‘pay-back’ the carbon emitted during conversion (carbon-debt), from decades to over a century (medium confidence).
+ Terrestrial CDR has the technical potential to balance emissions that are difficult to eliminate with current technologies (including food production).
+ Scenarios that achieve climate change targets with less need for terrestrial CDR rely on agricultural demand-side changes (diet change, waste reduction), and changes in agricultural production such as agricultural intensification.
+ Such pathways that minimise land use for bioenergy and BECCS are characterised by rapid and early reduction of GHG emissions in all sectors, as well as earlier CDR in through afforestation.
+ In contrast, delayed mitigation action would increase reliance on land-based CDR (high confidence).
+ The range and intensity of desertification have increased in some dryland areas over the past several decades (high confidence).
+ Drylands currently cover about 46.2% (±0.8%) of the global land area and are home to 3 billion people.
+ The multiplicity and complexity of the processes of desertification make its quantification difficult.
+ Desertification hotspots, as identified by a decline in vegetation productivity between the 1980s and 2000s, extended to about 9.2% of drylands (±0.5%), affecting about 500 (±120) million people in 2015.
+ The highest numbers of people affected are in South and East Asia, the circum Sahara region including North Africa and the Middle East including the Arabian Peninsula (low confidence).
+ Other dryland regions have also experienced desertification.
+ Desertification has already reduced agricultural productivity and incomes (high confidence) and contributed to the loss of biodiversity in some dryland regions (medium confidence).
+ In many dryland areas, spread of invasive plants has led to losses in ecosystem services (high confidence), while over-extraction is leading to groundwater depletion (high confidence).
+ Unsustainable land management, particularly when coupled with droughts, has contributed to higher dust-storm activity, reducing human well-being in drylands and beyond (high confidence).
+ Dust storms were associated with global cardiopulmonary mortality of about 402,000 people in 2005.
+ Higher intensity of sand storms and sand dune movements are causing disruption and damage to transportation and solar and wind energy harvesting infrastructures (high confidence).
+ The major human drivers of desertification interacting with climate change are expansion of croplands, unsustainable land management practices and increased pressure on land from population and income growth.
+ Poverty is limiting both capacities to adapt to climate change and availability of financial resources to invest in sustainable land management (SLM) (high confidence).
+ Although CO2 fertilisation effect is enhancing vegetation productivity in drylands (high confidence), decreases in water availability have a larger effect than CO2 fertilisation in many dryland areas.
+ There is high confidence that aridity will increase in some places, but no evidence for a projected global trend in dryland aridity (medium confidence).
+ The area at risk of salinisation is projected to increase in the future (limited evidence, high agreement).
+ Future climate change is projected to increase the potential for water driven soil erosion in many dryland areas (medium confidence), leading to soil organic carbon decline in some dryland areas.
+ While at global warming of 2°C, under SSP1 (‘Sustainability’), the exposed (vulnerable) dryland population is 974 (35) million, and under SSP3 (‘Fragmented World’) it is 1267 (522) million.
+ Around half of the vulnerable population is in South Asia, followed by Central Asia, West Africa and East Asia.
+ Desertification and changing climate are projected to cause reductions in crop and livestock productivity (high confidence), modify the composition of plant species and reduce biological diversity across drylands (medium confidence).
+ Rising CO2 levels will favour more rapid expansion of some invasive plant species in some regions.
+ A reduction in the quality and quantity of resources available to herbivores can have knock-on consequences for predators, which can potentially lead to disruptive ecological cascades (limited evidence, low agreement).
+ Projected increases in temperature and the severity of drought events across some dryland areas can increase chances of wildfire occurrence (medium confidence).
+ Although strong impacts of climate change on migration in dryland areas are disputed (medium evidence, low agreement), in some places, desertification under changing climate can provide an added incentive to migrate (medium confidence).
+ Women will be impacted more than men by environmental degradation, particularly in those areas with higher dependence on agricultural livelihoods (medium evidence, high agreement).
+ The extent of areas in which dryness (rather than temperature) controls CO2 exchange has increased by 6% between 1948 and 2012, and is projected to increase by at least another 8% by 2050 if the expansion continues at the same rate.
+ In these areas, net carbon uptake is about 27% lower than in other areas (low confidence).
+ Desertification also tends to increase albedo, decreasing the energy available at the surface and associated surface temperatures, producing a negative feedback on climate change (high confidence).
+ Through its effect on vegetation and soils, desertification changes the absorption and release of associated greenhouse gases (GHGs).
+ Vegetation loss and drying of surface cover due to desertification increases the frequency of dust storms (high confidence).
+ Arid ecosystems could be an important global carbon sink, depending on soil water availability (medium evidence, high agreement).
+ SLM practices in drylands increase agricultural productivity and contribute to climate change adaptation with mitigation co-benefits (high confidence).
+ Integrated crop, soil and water management measures can be employed to reduce soil degradation and increase the resilience of agricultural production systems to the impacts of climate change (high confidence).
+ These measures include crop diversification and adoption of drought-resilient econogically appropriate plants, reduced tillage, adoption of improved irrigation techniques (e.g., drip irrigation) and moisture conservation methods (e.g., rainwater harvesting using indigenous and local practices), and maintaining vegetation and mulch cover.
+ Conservation agriculture increases the capacity of agricultural households to adapt to climate change (high confidence) and can lead to increases in soil organic carbon over time, with quantitative estimates of the rates of carbon sequestration in drylands following changes in agricultural practices ranging between 0.04 and 0.4 t ha–1 (medium confidence).
+ Rangeland management systems based on sustainable grazing and re-vegetation increase rangeland productivity and the flow of ecosystem services (high confidence).
+ The combined use of salt-tolerant crops, improved irrigation practices, chemical remediation measures and appropriate mulch and compost is effective in reducing the impact of secondary salinisation (medium confidence).
+ Application of sand dune stabilisation techniques contributes to reducing sand and dust storms (high confidence).
+ Agroforestry practices and shelterbelts help reduce soil erosion and sequester carbon.
+ Afforestation programmes aimed at creating windbreaks in the form of ‘green walls’ and ‘green dams’ can help stabilise and reduce dust storms, avert wind erosion, and serve as carbon sinks, particularly when done with locally adapted native and other climate resilient tree species (high confidence).
+ Each USD invested into land restoration can have social returns of about 3–6 USD over a 30-year period.
+ Most SLM practices can become financially profitable within 3 to 10 years (medium evidence, high agreement).
+ Despite their benefits in addressing desertification, mitigating and adapting to climate change, and increasing food and economic security, many SLM practices are not widely adopted due to insecure land tenure, lack of access to credit and agricultural advisory services, and insufficient incentives for private land-users (robust evidence, high agreement).
+ Dryland populations have developed traditional agroecological practices which are well adapted to resource-sparse dryland environments.
+ However, there is robust evidence documenting losses of traditional agroecological knowledge.
+ Traditional agroecological practices are also increasingly unable to cope with growing demand for food.
+ Combined use of ILK and new SLM technologies can contribute to raising the resilience to the challenges of climate change and desertification (high confidence).
+ Implementation of Land Degradation Neutrality policies allows populations to avoid, reduce and reverse desertification, thus contributing to climate change adaptation with mitigation co-benefits (high confidence).
+ Strengthening land tenure security is a major factor contributing to the adoption of soil conservation measures in croplands (high confidence).
+ On-farm and off-farm livelihood diversification strategies increase the resilience of rural households against desertification and extreme weather events, such as droughts (high confidence).
+ Strengthening collective action is important for addressing causes and impacts of desertification, and for adapting to climate change (medium confidence).
+ A greater emphasis on understanding gender-specific differences over land use and land management practices can help make land restoration projects more successful (medium confidence).
+ Improved access to markets raises agricultural profitability and motivates investment into climate change adaptation and SLM (medium confidence).
+ Payments for ecosystem services give additional incentives to land users to adopt SLM practices (medium confidence).
+ Expanding access to rural advisory services increases the knowledge on SLM and facilitates their wider adoption (medium confidence).
+ Developing, enabling and promoting access to cleaner energy sources and technologies can contribute to reducing desertification and mitigating climate change through decreasing the use of fuelwood and crop residues for energy (medium confidence).
+ Policy responses to droughts based on proactive drought preparedness and drought risk mitigation are more efficient in limiting drought-caused damages than reactive drought relief efforts (high confidence).
+ However, the potential for residual risks and maladaptive outcomes is high (high confidence).
+ Empirical evidence on the limits to adaptation in dryland areas is limited.
+ Potential limits to adaptation include losses of land productivity due to irreversible forms of desertification.
+ Residual risks can emerge from the inability of SLM measures to fully compensate for yield losses due to climate change impacts.
+ They also arise from foregone reductions in ecosystem services due to soil fertility loss even when applying SLM measures could revert land to initial productivity after some time.
+ Some activities favouring agricultural intensification in dryland areas can become maladaptive due to their negative impacts on the environment (medium confidence) Even when solutions are available, social, economic and institutional constraints could pose barriers to their implementation (medium confidence).
+ Reliable and timely climate services, relevant to desertification, can aid the development of appropriate adaptation and mitigation options reducing, the impact of desertification on human and natural systems (high confidence), with quantitative estimates showing that every USD invested in strengthening hydro-meteorological and early warning services in developing countries can yield between 4 and 35 USD (low confidence).
+ Knowledge and flow of knowledge on desertification is currently fragmented.
+ Improved knowledge and data exchange and sharing will increase the effectiveness of efforts to achieve Land Degradation Neutrality (high confidence).
+ Expanded use of remotely sensed information for data collection helps in measuring progress towards achieving Land Degradation Neutrality (low evidence, high agreement).
+ In this report, land degradation is defined as a negative trend in land condition, caused by direct or indirect human-induced processes including anthropogenic climate change, expressed as long-term reduction or loss of at least one of the following: biological productivity, ecological integrity, or value to humans.
+ Forest degradation is land degradation that occurs in forest land.
+ Deforestation is the conversion of forest to non-forest land and can result in land degradation.
+ The majority of the 1.3 to 3.2 billion affected people (low confidence) are living in poverty in developing countries (medium confidence).
+ Land-use changes and unsustainable land management are direct human causes of land degradation (very high confidence), with agriculture being a dominant sector driving degradation (very high confidence).
+ Soil loss from conventionally tilled land exceeds the rate of soil formation by &gt;2 orders of magnitude (medium confidence).
+ Land degradation affects humans in multiple ways, interacting with social, political, cultural and economic aspects, including markets, technology, inequality and demographic change (very high confidence).
+ Land degradation impacts extend beyond the land surface itself, affecting marine and freshwater systems, as well as people and ecosystems far away from the local sites of degradation (very high confidence).
+ Human-induced global warming has already caused observed changes in two drivers of land degradation: increased frequency, intensity and/or amount of heavy precipitation (medium confidence); and increased heat stress (high confidence).
+ In some areas sea level rise has exacerbated coastal erosion (medium confidence).
+ Global warming beyond present day will further exacerbate ongoing land degradation processes through increasing floods (medium confidence), drought frequency and severity (medium confidence), intensified cyclones (medium confidence), and sea level rise (very high confidence), with outcomes being modulated by land management (very high confidence).
+ Permafrost thawing due to warming (high confidence), and coastal erosion due to sea level rise and impacts of changing storm paths (low confidence), are examples of land degradation affecting places where it has not typically been a problem.
+ Erosion of coastal areas because of sea level rise will increase worldwide (high confidence).
+ In cyclone prone areas, the combination of sea level rise and more intense cyclones will cause land degradation with serious consequences for people and livelihoods (very high confidence).
+ People in degraded areas who directly depend on natural resources for subsistence, food security and income, including women and youth with limited adaptation options, are especially vulnerable to land degradation and climate change (high confidence).
+ Land degradation reduces land productivity and increases the workload of managing the land, affecting women disproportionally in some regions.
+ Land degradation and climate change act as threat multipliers for already precarious livelihoods (very high confidence), leaving them highly sensitive to extreme climatic events, with consequences such as poverty and food insecurity (high confidence) and, in some cases, migration, conflict and loss of cultural heritage (low confidence).
+ Changes in vegetation cover and distribution due to climate change increase the risk of land degradation in some areas (medium confidence).
+ Climate change will have detrimental effects on livelihoods, habitats and infrastructure through increased rates of land degradation (high confidence) and from new degradation patterns (low evidence, high agreement).
+ Since 1990, globally the forest area has decreased by 3% (low confidence) with net decreases in the tropics and net increases outside the tropics (high confidence).
+ Lower carbon density in re-growing forests, compared to carbon stocks before deforestation, results in net emissions from land-use change (very high confidence).
+ Forest management that reduces carbon stocks of forest land also leads to emissions, but global estimates of these emissions are uncertain.
+ Cropland soils have lost 20–60% of their organic carbon content prior to cultivation, and soils under conventional agriculture continue to be a source of GHGs (medium confidence).
+ Of the land degradation processes, deforestation, increasing wildfires, degradation of peat soils, and permafrost thawing contribute most to climate change through the release of GHGs and the reduction in land carbon sinks following deforestation (high confidence).
+ Agricultural practices also emit non-CO2 GHGs from soils and these emissions are exacerbated by climate change (medium confidence).
+ Conversion of primary to managed forests, illegal logging and unsustainable forest management result in GHG emissions (very high confidence) and can have additional physical effects on the regional climate including those arising from albedo shifts (medium confidence).
+ These interactions call for more integrative climate impact assessments.
+ Increasing the extent and intensity of biomass production, for example, through fertiliser additions, irrigation or monoculture energy plantations, can result in local land degradation.
+ Poorly implemented intensification of land management contributes to land degradation (e.g., salinisation from irrigation) and disrupted livelihoods (high confidence).
+ In areas where afforestation and reforestation occur on previously degraded lands, opportunities exist to restore and rehabilitate lands with potentially significant co-benefits (high confidence) that depend on whether restoration involves natural or plantation forests.
+ The total area of degraded lands has been estimated at 10–60 Mkm2 (very low confidence).
+ The extent of degraded and marginal lands suitable for dedicated biomass production is highly uncertain and cannot be established without due consideration of current land use and land tenure.
+ Increasing the area of dedicated energy crops can lead to land degradation elsewhere through indirect land-use change (medium confidence).
+ Impacts of energy crops can be reduced through strategic integration with agricultural and forestry systems (high confidence) but the total quantity of biomass that can be produced through synergistic production systems is unknown.
+ Traditional biomass in the form of fuelwood, charcoal and agricultural residues remains a primary source of energy for more than one-third of the global population, leading to unsustainable use of biomass resources and forest degradation and contributing around 2% of global GHG emissions (low confidence).
+ Enhanced forest protection, improved forest and agricultural management, fuel-switching and adoption of efficient cooking and heating appliances can promote more sustainable biomass use and reduce land degradation, with co-benefits of reduced GHG emissions, improved human health, and reduced workload especially for women and youth (very high confidence).
+ Sustainable land management involves a comprehensive array of technologies and enabling conditions, which have proven to address land degradation at multiple landscape scales, from local farms (very high confidence) to entire watersheds (medium confidence).
+ Sustainable forest management can prevent deforestation, maintain and enhance carbon sinks and can contribute towards GHG emissions-reduction goals.
+ Sustainable forest management generates socio-economic benefits, and provides fibre, timber and biomass to meet society’s growing needs.
+ While sustainable forest management sustains high carbon sinks, the conversion from primary forests to sustainably managed forests can result in carbon emission during the transition and loss of biodiversity (high confidence).
+ Conversely, in areas of degraded forests, sustainable forest management can increase carbon stocks and biodiversity (medium confidence).
+ Carbon storage in long-lived wood products and reductions of emissions from use of wood products to substitute for emissions-intensive materials also contribute to mitigation objectives.
+ (high confidence).
+ Better management of soils can offset 5–20% of current global anthropogenic GHG emissions (medium confidence).
+ Measures to avoid, reduce and reverse land degradation are available but economic, political, institutional, legal and socio-cultural barriers, including lack of access to resources and knowledge, restrict their uptake (very high confidence).
+ Proven measures that facilitate implementation of practices that avoid, reduce, or reverse land degradation include tenure reform, tax incentives, payments for ecosystem services, participatory integrated land-use planning, farmer networks and rural advisory services.
+ Delayed action increases the costs of addressing land degradation, and can lead to irreversible biophysical and human outcomes (high confidence).
+ Early actions can generate both site-specific and immediate benefits to communities affected by land degradation, and contribute to long-term global benefits through climate change mitigation (high confidence).
+ Limits to adaptation are dynamic, site specific and determined through the interaction of biophysical changes with social and institutional conditions.
+ Exceeding the limits of adaptation will trigger escalating losses or result in undesirable changes, such as forced migration, conflicts, or poverty.
+ Examples of potential limits to adaptation due to climate-change-induced land degradation are coastal erosion (where land disappears, collapsing infrastructure and livelihoods due to thawing of permafrost), and extreme forms of soil erosion.
+ Despite the difficulties of objectively measuring the extent and severity of land degradation, given its complex and value-based characteristics, land degradation represents – along with climate change – one of the biggest and most urgent challenges for humanity (very high confidence).
+ The current global extent, severity and rates of land degradation are not well quantified.
+ There is no single method by which land degradation can be measured objectively and consistently over large areas because it is such a complex and value-laden concept (very high confidence).
+ However, many existing scientific and locally-based approaches, including the use of indigenous and local knowledge, can assess different aspects of land degradation or provide proxies.
+ Remote sensing, corroborated by other data, can generate geographically explicit and globally consistent data that can be used as proxies over relevant time scales (several decades).
+ Few studies have specifically addressed the impacts of proposed land-based negative emission technologies on land degradation.
+ Much research has tried to understand how livelihoods and ecosystems are affected by a particular stressor – for example, drought, heat stress, or waterlogging.
+ Important knowledge gaps remain in understanding how plants, habitats and ecosystems are affected by the cumulative and interacting impacts of several stressors, including potential new stressors resulting from large-scale implementation of negative emission technologies.
+ Since 1961, food supply per capita has increased more than 30%, accompanied by greater use of nitrogen fertilisers (increase of about 800%) and water resources for irrigation (increase of more than 100%).
+ However, an estimated 821 million people are currently undernourished, 151 million children under five are stunted, 613 million women and girls aged 15 to 49 suffer from iron deficiency, and 2 billion adults are overweight or obese.
+ The food system is under pressure from non-climate stressors (e.g., population and income growth, demand for animal-sourced products), and from climate change.
+ These climate and non-climate stresses are impacting the four pillars of food security (availability, access, utilisation, and stability).
+ Studies that separate out climate change from other factors affecting crop yields have shown that yields of some crops (e.g., maize and wheat) in many lower-latitude regions have been affected negatively by observed climate changes, while in many higher-latitude regions, yields of some crops (e.g., maize, wheat, and sugar beets) have been affected positively over recent decades.
+ Warming compounded by drying has caused large negative effects on yields in parts of the Mediterranean.
+ Based on indigenous and local knowledge (ILK), climate change is affecting food security in drylands, particularly those in Africa, and high mountain regions of Asia and South America.
+ Low-income consumers are particularly at risk, with models projecting increases of 1–183 million additional people at risk of hunger across the SSPs compared to a no climate change scenario (high confidence).
+ While increased CO2 is projected to be beneficial for crop productivity at lower temperature increases, it is projected to lower nutritional quality (high confidence) (e.g., wheat grown at 546–586 ppm CO2 has 5.9–12.7% less protein, 3.7–6.5% less zinc, and 5.2–7.5% less iron).
+ Distributions of pests and diseases will change, affecting production negatively in many regions (high confidence).
+ Given increasing extreme events and interconnectedness, risks of food system disruptions are growing (high confidence).
+ Pastoralism is practiced in more than 75% of countries by between 200 and 500 million people, including nomadic communities, transhumant herders, and agropastoralists.
+ Impacts in pastoral systems in Africa include lower pasture and animal productivity, damaged reproductive function, and biodiversity loss.
+ Pastoral system vulnerability is exacerbated by non-climate factors (land tenure, sedentarisation, changes in traditional institutions, invasive species, lack of markets, and conflicts).
+ Declines in yields and crop suitability are projected under higher temperatures, especially in tropical and semi-tropical regions.
+ Heat stress reduces fruit set and speeds up development of annual vegetables, resulting in yield losses, impaired product quality, and increasing food loss and waste.
+ Longer growing seasons enable a greater number of plantings to be cultivated and can contribute to greater annual yields.
+ However, some fruits and vegetables need a period of cold accumulation to produce a viable harvest, and warmer winters may constitute a risk.
+ Worldwide, women play a key role in food security, although regional differences exist.
+ Climate extremes have immediate and long-term impacts on livelihoods of poor and vulnerable communities, contributing to greater risks of food insecurity that can be a stress multiplier for internal and external migration (medium confidence).
+ Supply-side options include increased soil organic matter and erosion control, improved cropland, livestock, grazing land management, and genetic improvements for tolerance to heat and drought.
+ Diversification in the food system (e.g., implementation of integrated production systems, broad-based genetic resources, and heterogeneous diets) is a key strategy to reduce risks (medium confidence).
+ Demand-side adaptation, such as adoption of healthy and sustainable diets, in conjunction with reduction in food loss and waste, can contribute to adaptation through reduction in additional land area needed for food production and associated food system vulnerabilities.
+ ILK can contribute to enhancing food system resilience (high confidence).
+ These are from agriculture and land use, storage, transport, packaging, processing, retail, and consumption (medium confidence).
+ This estimate includes emissions of 9–14% from crop and livestock activities within the farm gate and 5–14% from land use and land-use change including deforestation and peatland degradation (high confidence); 5–10% is from supply chain activities (medium confidence).
+ This estimate includes GHG emissions from food loss and waste.
+ Within the food system, during the period 2007–2016, the major sources of emissions from the supply side were agricultural production, with crop and livestock activities within the farm gate generating respectively 142 ± 42 TgCH4 yr–1 (high confidence) and 8.0 ± 2.5 TgN2O yr–1 (high confidence), and CO2 emissions linked to relevant land-use change dynamics such as deforestation and peatland degradation, generating 4.9 ± 2.5 GtCO2 yr-1.
+ Using 100-year GWP values (no climate feedback) from the IPCC AR5, this implies that total GHG emissions from agriculture were 6.2 ± 1.4 GtCO2-eq yr-1, increasing to 11.1 ± 2.9 GtCO2-eq yr–1 including relevant land use.
+ Without intervention, these are likely to increase by about 30–40% by 2050, due to increasing demand based on population and income growth and dietary change (high confidence).
+ Total technical mitigation potential from crop and livestock activities and agroforestry is estimated as 2.3–9.6 GtCO2-eq yr–1 by 2050 (medium confidence).
+ Options with large potential for GHG mitigation in cropping systems include soil carbon sequestration (at decreasing rates over time), reductions in N2O emissions from fertilisers, reductions in CH4 emissions from paddy rice, and bridging of yield gaps.
+ Options with large potential for mitigation in livestock systems include better grazing land management, with increased net primary production and soil carbon stocks, improved manure management, and higher-quality feed.
+ Reductions in GHG emissions intensity (emissions per unit product) from livestock can support reductions in absolute emissions, provided appropriate governance to limit total production is implemented at the same time (medium confidence).
+ Examples of healthy and sustainable diets are high in coarse grains, pulses, fruits and vegetables, and nuts and seeds; low in energy-intensive animal-sourced and discretionary foods (such as sugary beverages); and with a carbohydrate threshold.
+ Total technical mitigation potential of dietary changes is estimated as 0.7–8.0 GtCO2-eq yr–1 by 2050 (medium confidence).
+ This estimate includes reductions in emissions from livestock and soil carbon sequestration on spared land, but co-benefits with health are not taken into account.
+ Mitigation potential of dietary change may be higher, but achievement of this potential at broad scales depends on consumer choices and dietary preferences that are guided by social, cultural, environmental, and traditional factors, as well as income growth.
+ Meat analogues such as imitation meat (from plant products), cultured meat, and insects may help in the transition to more healthy and sustainable diets, although their carbon footprints and acceptability are uncertain.
+ Combined food loss and waste amount to 25–30% of total food produced (medium confidence).
+ During 2010–2016, global food loss and waste equalled 8–10% of total anthropogenic GHG emissions (medium confidence); and cost about 1 trillion USD2012 per year (low confidence).
+ Technical options for reduction of food loss and waste include improved harvesting techniques, on-farm storage, infrastructure, and packaging.
+ Causes of food loss (e.g., lack of refrigeration) and waste (e.g., behaviour) differ substantially in developed and developing countries, as well as across regions (robust evidence, medium agreement).
+ Combining supply-side actions such as efficient production, transport, and processing with demand-side interventions such as modification of food choices, and reduction of food loss and waste, reduces GHG emissions and enhances food system resilience (high confidence).
+ Such combined measures can enable the implementation of large-scale land-based adaptation and mitigation strategies without threatening food security from increased competition for land for food production and higher food prices.
+ Without combined food system measures in farm management, supply chains, and demand, adverse effects would include increased numbers of malnourished people and impacts on smallholder farmers (medium evidence, high agreement).
+ Just transitions are needed to address these effects.
+ For adaptation, resilience to increasing extreme events can be accomplished through risk sharing and transfer mechanisms such as insurance markets and index-based weather insurance (high confidence).Publichealthpoliciestoimprovenutrition–suchasschool procurement, health insurance incentives, and awareness-raising campaigns – can potentially change demand, reduce healthcare costs, and contribute to lower GHG emissions (limited evidence, high agreement).
+ Without inclusion of comprehensive food system responses in broader climate change policies, the mitigation and adaptation potentials assessed in this chapter will not be realised and food security will be jeopardised (high confidence).
+ The chapter also discusses implications for Nature’s Contributions to People (NCP), including biodiversity and water, and sustainable development, by assessing intersections with the Sustainable Development Goals (SDGs).
+ The chapter assesses response options that could be used to address these challenges.
+ These response options were derived from the previous chapters and fall into three broad categories: land management, value chain, and risk management.
+ Increases in biophysical impacts from climate change can worsen desertification, land degradation, and food insecurity (high confidence).
+ Additional pressures from socio- economic development could further exacerbate these challenges; however, the effects are scenario dependent.
+ Scenarios with increases in income and reduced pressures on land can lead to reductions in food insecurity; however, all assessed scenarios result in increases in water demand and water scarcity (medium confidence).
+ Response options are limited by land type, bioclimatic region, or local food system context (high confidence).
+ Some response options produce adverse side effects only in certain regions or contexts; for example, response options that use freshwater may have no adverse side effects in regions where water is plentiful, but large adverse side effects in regions where water is scarce (high confidence).
+ Response options with biophysical climate effects (e.g., afforestation, reforestation) may have different effects on local climate, depending on where they are implemented (medium confidence).
+ Regions with more challenges have fewer response options available for implementation (medium confidence).
+ The options with medium-to-large benefits for all challenges are increased food productivity, improved cropland management, improved grazing land management, improved livestock management, agroforestry, forest management, increased soil organic carbon content, fire management and reduced post-harvest losses.
+ A further two options, dietary change and reduced food waste, have no global estimates for adaptation but have medium- to-large benefits for all other challenges (high confidence).
+ These are: increased food productivity; reduced deforestation and forest degradation; increased soil organic carbon content; fire management; and reduced post-harvest losses.
+ Two further options with large mitigation potential, dietary change and reduced food waste, have no global estimates for adaptation but show no negative impacts across the other challenges.
+ Five options: improved cropland management; improved grazing land managements; agroforestry; integrated water management; and forest management, have moderate mitigation potential, with no adverse impacts on the other challenges (high confidence).
+ These are increased food productivity, improved cropland management, agroforestry, agricultural diversification, forest management, increased soil organic carbon content, reduced landslides and natural hazards, restoration and reduced conversion of coastal wetlands, reduced post-harvest losses, sustainable sourcing, management of supply chains, improved food processing and retailing, improved energy use in food systems, livelihood diversification, use of local seeds, and disaster risk management (high confidence).
+ Some options (such as enhanced urban food systems or management of urban sprawl) may not provide large global benefits but may have significant positive local effects without adverse effects (high confidence).
+ The 17 options with co-benefits and no adverse side effects include most agriculture- and soil-based land management options, many ecosystem-based land management options, forest management, reduced post-harvest losses, sustainable sourcing, improved energy use in food systems, and livelihood diversification (medium confidence).
+ Some of the synergies between response options and SDGs include positive poverty eradication impacts from activities like improved water management or improved management of supply chains.
+ Examples of synergies between response options and NCPs include positive impacts on habitat maintenance from activities like invasive species management and agricultural diversification.
+ However, many of these synergies are not automatic, and are dependent on well-implemented activities requiring institutional and enabling conditions for success.
+ A large number of response options do not require dedicated land, including several land management options, all value chain options, and all risk management options.
+ Other options such as reduced deforestation and forest degradation, restrict land conversion for other options and uses.
+ Expansion of the current area of managed land into natural ecosystems could have negative consequences for other land challenges, lead to the loss of biodiversity, and adversely affect a range of NCPs (high confidence).
+ The climate change mitigation potential for bioenergy and BECCS is large (up to 11 GtCO2 yr–1); however, the effects of bioenergy production on land degradation, food insecurity, water scarcity, greenhouse gas (GHG) emissions, and other environmental goals are scale- and context-specific (high confidence).
+ These effects depend on the scale of deployment, initial land use, land type, bioenergy feedstock, initial carbon stocks, climatic region and management regime (high confidence).
+ Large areas of monoculture bioenergy crops that displace other land uses can result in land competition, with adverse effects for food production, food consumption, and thus food security, as well as adverse effects for land degradation, biodiversity, and water scarcity (medium confidence).
+ However, integration of bioenergy into sustainably managed agricultural landscapes can ameliorate these challenges (medium confidence).
+ Some response options can be more effective when applied together (medium confidence); for example, dietary change and waste reduction expand the potential to apply other options by freeing as much as 5.8 Mkm2 (0.8–2.4 Mkm2 for dietary change; about 2 Mkm2 for reduced post-harvest losses, and 1.4 Mkm2 for reduced food waste) of land (low confidence).
+ Integrated water management and increased soil organic carbon can increase food productivity in some circumstances.
+ Combining some sets of options (e.g., those that compete for land) may mean that maximum potentials cannot be realised, for example, reforestation, afforestation, and bioenergy and BECCS, all compete for the same finite land resource so the combined potential is much lower than the sum of potentials of each individual option, calculated in the absence of alternative uses of the land (high confidence).
+ Given the interlinkages among response options and that mitigation potentials for individual options assume that they are applied to all suitable land, the total mitigation potential is much lower than the sum of the mitigation potential of the individual response options (high confidence).
+ A number of response options (e.g., most agriculture-based land management options, forest management, reforestation and restoration) have already been implemented widely to date (high confidence).
+ There is robust evidence that many other response options can deliver co-benefits across the range of land challenges, yet these are not being implemented.
+ This limited application is evidence that multiple barriers to implementation of response options exist (high confidence).
+ For example, agricultural diversification and use of local seeds by smallholders can be particularly useful poverty eradication and biodiversity conservation measures, but are only successful when higher scales, such as national and international markets and supply chains, also value these goods in trade regimes, and consumers see the benefits of purchasing these goods.
+ However, the land and food sectors face particular challenges of institutional fragmentation, and often suffer from a lack of engagement between stakeholders at different scales (medium confidence).
+ For example, failure to mitigate climate change will increase requirements for adaptation and may reduce the efficacy of future land-based mitigation options (high confidence).
+ The potential for some land management options decreases as climate change increases; for example, climate alters the sink capacity for soil and vegetation carbon sequestration, reducing the potential for increased soil organic carbon (high confidence).
+ Other options (e.g., reduced deforestation and forest degradation) prevent further detrimental effects to the land surface; delaying these options could lead to increased deforestation, conversion, or degradation, serving as increased sources of GHGs and having concomitant negative impacts on NCPs (medium confidence).
+ Carbon dioxide removal (CDR) options – such as reforestation, afforestation, bioenergy and BECCS – are used to compensate for unavoidable emissions in other sectors; delayed action will result in larger and more rapid deployment later (high confidence).
+ Some response options will not be possible if action is delayed too long; for example, peatland restoration might not be possible after certain thresholds of degradation have been exceeded, meaning that peatlands could not be restored in certain locations (medium confidence).
+ Some of the response options have technological barriers that may limit their wide-scale application in the near term (high confidence).
+ Some response options, for example, BECCS, have only been implemented at small-scale demonstration facilities; challenges exist with upscaling these options to the levels discussed in this Chapter (medium confidence).
+ Economic and institutional barriers, including governance, financial incentives and financial resources, limit the near-term adoption of many response options, and ‘policy lags’, by which implementation is delayed by the slowness of the policy implementation cycle, are significant across many options (medium confidence).
+ Even some actions that initially seemed like ‘easy wins’ have been challenging to implement, with stalled policies for reducing emissions from deforestation and forest degradation and fostering conservation (REDD+) providing clear examples of how response options need sufficient funding, institutional support, local buy-in, and clear metrics for success, among other necessary enabling conditions.
+ For example, management of urban sprawl can help reduce the environmental impact of urban systems; however, such management does not address the socio-economic and demographic changes driving the expansion of urban areas.
+ By failing to address the underlying drivers, there is a potential for the challenge to re-emerge in the future (high confidence).
+ For the response options with a large evidence base and ample experience, further implementation and upscaling would carry little risk of adverse side effects (high confidence).
+ However, for other options, the risks are larger as the knowledge gaps are greater; for example, uncertainty in the economic and social aspects of many land response options hampers the ability to predict their effects (medium confidence).
+ Furthermore, Integrated Assessment Models, like those used to develop the pathways in the IPCC Special Report on Global Warming of 1.5°C (SR15), omit many of these response options and do not assess implications for all land challenges (high confidence).
+ There is high agreement and high evidence that increases in global mean temperature will result in continued increase in global vegetation loss, coastal degradation, as well as decreased crop yields in low latitudes, decreased food stability, decreased access to food and nutrition, and medium confidence in continued permafrost degradation and water scarcity in drylands.
+ Impacts are already observed across all components (high confidence).
+ Some processes may experience irreversible impacts at lower levels of warming than others.
+ There are high risks from permafrost degradation, and wildfire, coastal degradation, stability of food systems at 1.5°C while high risks from soil erosion, vegetation loss and changes in nutrition only occur at higher temperature thresholds due to increased possibility for adaptation (medium confidence).
+ The experience and dynamics of risk change over time as a result of both human and natural processes (high confidence).
+ There is high confidence that climate and land changes pose increased risks at certain periods of life (i.e., to the very young and ageing populations) as well as sustained risk to those living in poverty.
+ Response options may also increase risks.
+ For example, domestic efforts to insulate populations from food price spikes associated with climatic stressors in the mid-2000s inadequately prevented food insecurity and poverty, and worsened poverty globally.
+ Yield of crops in higher latitudes may initially benefit from warming as well as from higher carbon dioxide (CO2) concentrations.
+ But temperate zones, including the Mediterranean, North Africa, the Gobi desert, Korea and western United States are susceptible to disruptions from increased drought frequency and intensity, dust storms and fires (high confidence).
+ SSP1 reduces the vulnerability and exposure of human and natural systems and thus limits risks resulting from desertification, land degradation and food insecurity compared to SSP3 (high confidence).
+ SSP1 is characterised by low population growth, reduced inequalities, land-use regulation, low meat consumption, increased trade and few barriers to adaptation or mitigation.
+ SSP3 has the opposite characteristics.
+ Under SSP1, only a small fraction of the dryland population (around 3% at 3°C for the year 2050) will be exposed and vulnerable to water stress.
+ However under SSP3, around 20% of dryland populations (for the year 2050) will be exposed and vulnerable to water stress by 1.5°C and 24% by 3°C.
+ Similarly under SSP1, at 1.5°C, 2 million people are expected to be exposed and vulnerable to crop yield change.
+ Over 20 million are exposed and vulnerable to crop yield change in SSP3, increasing to 854 million people at 3°C (low confidence).
+ Livelihoods deteriorate as a result of these impacts, livelihood migration is accelerated, and strife and conflict is worsened (medium confidence).
+ Adverse side-effects on food security, ecosystem services and water security increase with the scale of bioenergy and bioenergy with carbon capture and storage (BECCS) deployment.
+ In a SSP1 future, bioenergy and BECCS deployment up to 4 million km2 is compatible with sustainability constraints, whereas risks are already high in a SSP3 future for this scale of deployment.
+ Choice and implementation of policy instruments determine future climate and land pathways (medium confidence).
+ Sustainable development pathways (described in SSP1) supported by effective regulation of land use to reduce environmental trade-offs, reduced reliance on traditional biomass, low growth in consumption and limited meat diets, moderate international trade with connected regional markets, and effective GHG mitigation instruments) can result in lower food prices, fewer people affected by floods and other climatic disruptions, and increases in forested land (high agreement, limited evidence) (SSP1).
+ A policy pathway with limited regulation of land use, low technology development, resource intensive consumption, constrained trade, and ineffective GHG mitigation instruments can result in food price increases, and significant loss of forest (high agreement, limited evidence) (SSP3).
+ The consequences are an increased pressure on land with higher risk of mitigation failure and of temperature overshoot and a transfer of the burden of mitigation and unabated climate change to future generations.
+ Prioritising early decarbonisation with minimal reliance on carbon dioxide removal (CDR) decreases the risk of mitigation failure (high confidence).
+ There is medium confidence that trade-offs currently do not figure into climate policies and decision making.
+ Small hydro power installations (especially in clusters) can impact downstream river ecological connectivity for fish (high agreement, medium evidence).
+ Large scale solar farms and wind turbine installations can impact endangered species and disrupt habitat connectivity (medium agreement, medium evidence).
+ Conversion of rivers for transportation can disrupt fisheries and endangered species (through dredging and traffic) (medium agreement, low evidence).
+ Carbon markets are theoretically more cost-effective than taxation but challenging to implement in the land-sector (high confidence) Carbon pricing (through carbon markets or carbon taxes) has the potential to be an effective mechanism to reduce GHG emissions, although it remains relatively untested in agriculture and food systems.
+ Equity considerations can be balanced by a mix of both market and non-market mechanisms (medium evidence, medium agreement).
+ Emissions leakage could be reduced by multi-lateral action (high agreement, medium evidence).
+ There is high confidence that acting early will avert or minimise risks, reduce losses and generate returns on investment.
+ The economic costs of action on sustainable land management (SLM), mitigation, and adaptation are less than the consequences of inaction for humans and ecosystems (medium confidence).
+ Policy portfolios that make ecological restoration more attractive, people more resilient – expanding financial inclusion, flexible carbon credits, disaster risk and health insurance, social protection and adaptive safety nets, contingent finance and reserve funds, and universal access to early warning systems – could save 100 billion USD a year, if implemented globally.
+ Flood resilience policies are mutually reinforcing and include flood zone mapping, financial incentives to move, and building restrictions, and insurance.
+ Sustainability certification, technology transfer, land-use standards and secure land tenure schemes, integrated with early action and preparedness, advance response options.
+ SLM improves with investment in agricultural research, environmental farm practices, agri-environmental payments, financial support for sustainable agricultural water infrastructure (including dugouts), agriculture emission trading, and elimination of agricultural subsidies (medium confidence).
+ Drought resilience policies (including drought preparedness planning, early warning and monitoring, improving water use efficiency), synergistically improve agricultural producer livelihoods and foster SLM.
+ International cooperation to modernise the traditional biomass sector will free up both land and labour for more productive uses.
+ Technology transfer can assist the measurement and accounting of emission reductions by developing countries.
+ Measurable indicators, selected with the participation of people and supporting data collection, are useful for climate policy development and decision-making.
+ Indicators include the SDGs, nationally determined contributions (NDCs), land degradation neutrality (LDN) core indicators, carbon stock measurement, measurement and monitoring for REDD+, metrics for measuring biodiversity and ecosystem services, and governance capacity.
+ Adaptive, iterative decision making moves beyond standard economic appraisal techniques to new methods such as dynamic adaptation pathways with risks identified by trigger points through indicators.
+ Scenarios can provide valuable information at all planning stages in relation to land, climate and food; adaptive management addresses uncertainty in scenario planning with pathway choices made and reassessed to respond to new information and data as it becomes available.
+ ILK is context-specific, collective, informally transmitted, and multi-functional, and can encompass factual information about the environment and guidance on management of resources and related rights and social behaviour.
+ Opportunities exist for integration of ILK with scientific knowledge.
+ Improvements to SLM are achieved by: (i) engaging people in citizen science by mediating and facilitating landscape conservation planning, policy choice, and early warning systems (medium confidence); (ii) involving people in identifying problems (including species decline, habitat loss, land-use change in agriculture, food production and forestry), selection of indicators, collection of climate data, land modelling, agricultural innovation opportunities.
+ When social learning is combined with collective action, transformative change can occur addressing tenure issues and changing land-use practices (medium confidence).
+ Meaningful participation overcomes barriers by opening up policy and science surrounding climate and land decisions to inclusive discussion that promotes alternatives.
+ This can be achieved with policy instruments that account for gender differences.
+ The overwhelming presence of women in many land based activities including agriculture provides opportunities to mainstream gender policies, overcome gender barriers, enhance gender equality, and increase SLM and food security (high confidence).
+ Policies that address barriers include gender qualifying criteria and gender appropriate delivery, including access to financing, information, technology, government transfers, training, and extension may be built into existing women’s programmes, structures (civil society groups) including collective micro enterprise (medium confidence).
+ The expansion and diversification of land use and biomass systems and markets requires hybrid governance: public-private partnerships, transnational, polycentric, and state governance to insure opportunities are maximised, trade-offs are managed equitably and negative impacts are minimised (medium confidence).
+ Land policy (in a diversity of forms beyond focus on freehold title) can provide routes to land security and facilitate or constrain climate action, across cropping, rangeland, forest, freshwater ecosystems and other systems.
+ Large-scale land acquisitions are an important context for the relations between tenure security and climate change, but their scale, nature and implications are imperfectly understood.
+ There is medium confidence that land titling and recognition programmes, particularly those that authorize and respect indigenous and communal tenure, can lead to improved management of forests, including for carbon storage.
+ Strong public coordination (government and public administration) can integrate land policy with national policies on adaptation and reduce sensitivities to climate change.
+ Interdisciplinary research is needed on the impacts of policies and measures in land sectors.
+ Knowledge gaps are due in part to the highly contextual and local nature of land and climate measures and the long time periods needed to evaluate land-use change in its socio-economic frame, as compared to technological investments in energy or industry that are somewhat more comparable.
+ Significant investment is needed in monitoring, evaluation and assessment of policy impacts across different sectors and levels.

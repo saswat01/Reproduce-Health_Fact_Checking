@@ -1,0 +1,1 @@
+jQuery is no longer a dependency.

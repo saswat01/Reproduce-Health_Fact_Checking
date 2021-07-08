@@ -1,0 +1,2066 @@
+U.S. Department of JusticeOffice of Justice Programs810 Seventh Street N.W.
+Washington, DC 20531
+Janet RenoAttorney GeneralDanielMarcus
+Acting Associate Attorney GeneralMary LouLeary
+Acting Assistant Attorney General
+Julie E. SamuelsActing Director, National Institute of Justice
+Office of Justice ProgramsNational Institute of Justice
+World Wide Web SiteWorld Wide Web Site 
+http://www.ojp.usdoj.govhttp://www.ojp.usdoj.gov/nij
+Bureau of Justice Statistics World Wide Web Site
+http://www.ojp.usdoj.gov/bjs
+ The Sexual Victimization
+of College Women
+Bonnie S. FisherFrancis T. Cullen
+Michael G. Turner
+December 2000NCJ 182369 Julie E. SamuelsActing Director
+National Institute of Justice
+Jan M. Chaiken
+Director
+Bureau of Justice Statistics
+Bernard V. Auchter
+Program Monitor 
+National Institute of Justice
+Michael R. RandProgram Monitor 
+Bureau of Justice Statistics
+The results from the college women studies were supported under award
+95ÐWTÐNXÐ0001from the National Institute of Justice and award
+
+97ÐMUÐMUÐ0011 from the Bureau of Justice Statistics, U.S. Department
+of Justice. Points of view in this document are those of the authors and do
+
+not necessarily represent the official position of the U.S. Department of
+
+Justice. Joanne Belknap, Ph.D., worked with Professors Fisher and Cullen
+
+on award 95ÐWTÐNXÐ0001 in developing and revising the surveys and led
+
+the focus groups with Professor Fisher.
+The National Institute of Justice and the Bureau of Justice Statistics are compo-
+
+nents of the Office of Justice Programs, which also includes the Bureau of Justice
+
+Assistance, the Office of Juvenile Justice and Delinquency Prevention, and the
+
+Office for Victims of Crime.
+ iiiForeword
+This study contributes extremely important data to our understanding about
+the prevalence and nature of violence against women in the United States.
+College campuses host large concentrations of young women who are at
+greater risk for rape and other forms of sexual assault than women in the
+
+general population or in a comparable age group. Based on their findings,
+
+Bonnie Fisher and her colleagues estimate that the women at a college that
+
+has 10,000 female students could experience more than 350 rapes a yearÑ
+
+a finding with serious policy implications for college administrators.  
+Fisher also found that many women do not characterize their sexual victim-
+izations as a crime for a number of reasons (such as embarrassment, not
+clearly understanding the legal definition of rape, or not wanting to define
+
+someone they know who victimized them as a rapist) or because they blame
+
+themselves for their sexual assault. The study reinforces the importance of
+
+many organizationsÕefforts to improve education and knowledge about sex-
+
+ual assault.A unique feature of this study, brought about by joint funding from our two
+agencies, is its parallel use of two different survey methods for learning
+
+about sexual assault of women. The differences in estimated levels of sexual
+
+assault that are associated with the methodological differences will help us
+
+design better and more accurate surveys in the future.
+Julie E. Samuels
+Acting Director
+
+National Institute of JusticeJan M. Chaiken
+Director
+
+Bureau of Justice Statistics vContentsForeword . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .iii
+What we know about sexual victimization of college women . . . . . . . . . .2
+
+Who was surveyed? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+
+How was sexual victimization measured? . . . . . . . . . . . . . . . . . . . . . . . . .4
+
+What types of sexual victimization were measured 
+in the NCWSV study? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+How extensive is rape among college women? . . . . . . . . . . . . . . . . . . . .10
+
+How do the NCWSV rape estimates compare with the rape estimates
+based on the National Crime Victimization Survey? . . . . . . . . . . . . .11
+Do women define their victimization as a rape? . . . . . . . . . . . . . . . . . . .15
+
+How extensive are other forms of sexual victimization? . . . . . . . . . . . . .15
+
+How extensive is prior sexual victimization? . . . . . . . . . . . . . . . . . . . . . .16
+
+Do victims know their offenders? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+
+When does sexual victimization occur? . . . . . . . . . . . . . . . . . . . . . . . . . .18
+
+Where does sexual victimization occur? . . . . . . . . . . . . . . . . . . . . . . . . .18
+
+Are women victimized on or off campus? . . . . . . . . . . . . . . . . . . . . . . . .19
+
+Do sexual victims take protective actions during the incident? . . . . . . . . .19
+
+Are victims hurt in the victimization incidents? . . . . . . . . . . . . . . . . . . . .22
+
+Are some women more at risk of being sexually victimized? . . . . . . . . . .23
+
+Do women report victimization incidents to the police? . . . . . . . . . . . . . .23
+
+How extensive is stalking? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .23
+
+What is the nature of stalking incidents? . . . . . . . . . . . . . . . . . . . . . . . . .28
+ viAre some women more at risk of being stalked? . . . . . . . . . . . . . . . . . . .28
+What is the extent of visual and verbal sexual victimization? . . . . . . . . . .30
+
+Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30
+
+Notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .35
+ During the past decade, concern over the sexual victimization of female
+college students has escalated. In part, the interest in this problem has
+been spurred by increasing attention to the victimization of women in
+
+general; until the relatively recent past, female victims received very little
+
+attention. However, this is no longer true. Terms such as Òdate rapeÓ and
+
+Òdomestic violenceÓ have entered the public lexicon and signify the
+
+unprecedented, if still insufficient, notice given to women who have 
+
+been victimized.Attention to the sexual victimization of college women, however, also has
+been prompted by the rising fear that college campuses are not ivory towers
+
+but, instead, have become hot spots for criminal activity. Researchers have
+
+shown that college campuses and their students are not free from the risk of
+
+criminal victimization.1It is noteworthy that large concentrations of young
+women come into contact with young men in a variety of public and private
+
+settings at various times on college campuses. Previous research suggests
+
+that these women are at greater risk for rape and other forms of sexual
+
+assault than women in the general population or in a comparable age group.
+2College women might, therefore, be a group whose victimization warrants
+
+special attention.Recognizing these risks, the U.S. Congress passed the Student Right-to-Know and Campus Security Act of 1990 (hereafter referred to as the act).
+
+This legislation mandates that colleges and universities participating in
+
+Federal student aid programs Òprepare, publish, and distribute, through
+
+appropriate publications or mailings, to all current students and employees,
+
+and to any applicant for enrollment or employment upon request, an annual
+
+security reportÓ containing campus security policies and campus crime
+statistics for that institution (see 20 U.S.C. 1092(f)(1)).3Congress has maintained an interest in campus crime issues, passing legis-
+
+lation that requires higher educational institutions to address the rights of
+victimsof sexual victimization and to collect and publish additional crime
+
+statistics (e.g., murder and nonnegligent manslaughter, arson). For example,
+
+Congress amended the act in 1992 to include the Campus Sexual Assault
+
+VictimsÕBill of Rights, which requires colleges and universities (1) to
+
+develop and publish as part of their annual security report their policies
+
+regarding the awareness and prevention of sexual assaults and (2) to afford
+
+basic rights to sexual assault victims.
+4The act was amended again in 1998
+toinclude additional reporting obligations, extensive campus security-related
+
+provisions, and the requirement to keep a daily public crime log; some States
+1The Sexual Victimization of College Women
+ already required a public log (Public Law 105Ð244).
+5The 1998 amendmentsalso officially changed the name of the act to the Jeanne Clery Disclosure of
+
+Campus Security Policy and Campus Crime Statistics Act. In 1999, the U.S.
+
+Department of Justice awarded $8.1 million to 21 colleges and universities
+
+to combat sexual assault, domestic violence, and stalking.
+6In 2000, 20 addi-tional schools were awarded $6.8 million. Two national-level studies are
+
+currently in the field. The first study examines how institutions of higher
+
+education respond to the report of a sexual assault. The second one is a mul-
+
+tisite evaluation of the programs and policies implemented in the above-
+
+mentioned 41 schools.What we know about sexual victimization of
+college womenLike government officials, researchers also have given attention to the sexual
+
+victimization of college women and have conducted a number of studies.
+7Although illuminating, much of the research is generally characterized by
+one or more of the following limitations:
+¥The failure to use a randomly selected, national sample of college women.
+(Many studies have sampled students at only one college or at a limited
+
+number of institutions.)¥The failure to assess the various ways in which women can be victimized.
+(Most studies have focused on a limited number of types of sexual 
+
+victimization.)¥The failure to use question wording or sufficiently detailed measures that
+prevent biases that might cause researchers to underestimate or overesti-
+
+mate the extent of sexual victimization.
+¥The failure to collect detailed information on what occurred during the
+victimization incident.¥The failure to explore systematically the factors that place female students
+at risk for sexual victimization.
+¥The failure to study whether women have been stalkedÑa victimization
+that, until recently, had not received systematic research.
+The National College Women Sexual Victimization (NCWSV) study,
+described in this report and funded by the National Institute of Justice The Sexual Victimization of College Women
+2 (NIJ), attempted to build on, and surmount the limitations of, existing
+research on the sexual victimization of college students by:
+¥Employing a nationally representative sample of college women.
+¥Assessing a range of sexual victimizations, including stalking.
+¥Measuring sexual victimization using a two-stage process starting with
+Òbehaviorally specificÓ screen questions that attempted to cue respondents
+
+to recall and report to the interviewer different types of sexual victimiza-
+
+tion experiences they may have had. Those who reported a victimization
+
+were then asked a series of questions, called an incident report, to verify
+
+what type of sexual victimization, if any, had occurred.
+¥Acquiring detailed information on each victimization incident, includingthe type of penetration(s) or unwanted sexual contact experienced and the
+
+means of coercion, if any, used by the offender.
+¥Examining how the risk of being sexually victimized was affected by a
+variety of variables, including demographic characteristics, lifestyles,
+
+prior victimization, and the characteristics of the college or university
+
+attended.In addition, the research project contained a comparison component designedto assess how rape estimates that use the two-stage process (behaviorally
+
+specific questions and incident reports) compared with rape estimates drawn
+
+from a sample of college women who completed a survey based on the
+
+National Crime Victimization Survey (NCVS). The comparison component
+
+was funded by the Bureau of Justice Statistics (BJS).
+8The resulting data furnish perhaps the most systematic analysis of the extent
+
+and nature of the sexual victimization of college women in the past decade.
+Who was surveyed?NCWSV study results are based on a telephone survey of a randomly select-
+
+ed, national sample of 4,446 women who were attending a 2- or 4-year 
+
+college or university during fall 1996. The questions were asked between
+
+February and May 1997. The sample was limited to schools with at least
+
+1,000 students and was stratified by the size of the total student enrollment
+
+(1,000Ð2,499; 2,500Ð4,999; 5,000Ð19,999; 20,000 or more) and the schoolÕs
+
+location (urban, suburban, and rural). Schools were randomly chosen using
+
+a probability proportional with the size of the total female enrollment.The Sexual Victimization of College Women
+3 Students were then randomly selected using a sampling frame provided by
+the American Student List Company. This company provided the school
+
+address and telephone number for each student in the sample.Each sample member was sent a letter describing the study and research
+protocol approximately 2 weeks prior to when a trained female interviewer
+
+called using a computer-aided telephone interviewing system.
+9The responserate was 85.6 percent.
+10The comparison component used the same two-stage methodology as the
+
+main study except victimization was measured by using the screen questions
+
+and the incident report employed by NCVS. One purpose of the comparison
+
+component was to conduct a methodological experiment that would provide
+
+insight into the extent to which rape estimates are influenced by survey
+
+methods.How was sexual victimization measured?
+Measurement of sexual victimization was based on responses to Òscreen
+
+questionsÓ and on a reference period for the victimization. In addition to the
+victimization measures, survey questions and secondary data sources were
+
+used to investigate the factors that potentially placed women at risk of being
+
+sexually victimized.
+Two-stage measurement design: The screen 
+
+question-incident report methodology
+With important exceptions noted later, sexual victimization was measured
+
+largely by following the two-stage measurement format of NCVS. NCVS
+
+first asks a series of screen questions that seek to determine if a respondent
+
+has experienced an act that may possibly be a victimization. If the respon-
+
+dent answers Òyes,Ó then for each of the times that the act was experienced,
+
+the respondent is asked by the interviewer to complete an Òincident report.Ó
+
+This report contains detailed questions about the nature of the events that
+
+occurred in the incident. The report is used to classify the type of victimiza-
+
+tion that took place; that is, responses to questions in the incident reportÑ
+not the screen questionsÑare used to categorize whether a victimization
+
+occurred and, if so, what type.Some researchers have contended that the screen questions as worded in
+NCVS are not detailed enough to identify all women who have experienced
+The Sexual Victimization of College Women
+4 a rape or another type of sexual assault. A respondent may not answer ÒyesÓ
+to a screen question unless it is worded in a way that reflects the experience
+
+the respondent has had. To rectify this limitation, researchers have argued
+
+that sexual victimization should be measured with screen questions that are
+
+both numerous and detailed enough that respondents will not misunderstand
+what is being asked.
+11NCWSV, therefore, used a series of behaviorally specific screen questions
+
+that sought to assess whether respondents had experienced a range of sexual
+
+victimizations. A behaviorally specific question, for example, is one that
+
+does not ask simply if a respondent Òhad been rapedÓ; rather, it describesan
+
+incident in graphic language that covers the elements of a criminal offense
+
+(e.g., someone Òmade you have sexual intercourse by using force or threat-
+
+ening to harm you . . . by intercourse I mean putting a penis in your vaginaÓ).
+
+The same logic can be used to ask about other forms of sexual victimiza-
+
+tion, such as sexual coercion or unwanted sexual contact.
+Examples of the screen questions used in the NCWSV study are listed inexhibit 1. Each completed rape screen question asks the respondent about a
+
+different form of penetration in which force or the threat of harm was used.
+
+A statement then follows each question that defines the type of penetration.
+
+For example, anal sex is defined as Òputting a penis in your anus or rectum.Ó
+
+The other screen questions provide examples of the behaviors that respon-
+
+dents were asked about.
+The NCWSV rape screen questions are similar, if not identical, to those
+used by Kilpatrick and his associates12and by Tjaden and Thoennes.
+13Theuse of behaviorally specific screen questions is an important difference
+
+between the current survey and NCVS. The NCVS screen questions begin
+
+with a reference to a type of criminal victimization that may have been
+
+experienced (e.g., Òwere you attacked or threatenedÓ), which is then fol-
+
+lowed by a list of short cue responses about the potential victimization.
+
+This list includes cues regarding specific places or situations in which the
+
+victimization could have occurred (e.g., Òat work or at schoolÓ); objects 
+
+that could have been used (e.g., Òwith any weapon, for instance, a gun or
+
+knifeÓ); actions that could have been associated with the victimization 
+
+(e.g., Òface-to-face threatsÓ); actions that constitute a criminal victimization
+
+(e.g., Òrape, attempted rape, or other types of sexual attackÓ); and people
+
+who might have perpetrated the criminal act (e.g., Òa relative or family
+
+memberÓ). There is also a screen question that asks about Òincidents 
+
+involving forced or unwanted sexual acts.Ó
+14The Sexual Victimization of College Women
+5 Exhibit 1: Survey Screen Questions
+Women may experience a wide range of unwanted sexual experiences in college. Women
+do not always report unwanted sexual experiences to the police or discuss them with family
+
+and friends. The person making the advances is not always a stranger, but can be a friend,
+
+boyfriend, fellow student, professor, teaching assistant, supervisor, coworker, somebody you
+
+meet off campus, or even a family member. The experience could occur anywhere: on or off
+
+campus, in your residence, in your place of employment, or in a public place. You could be
+
+awake, or you could be asleep, unconscious, drunk, or otherwise incapacitated. Please keep
+this in mind as you answer the questions.Now, IÕm going to ask you about different types of unwanted sexual experiences you may
+have experienced since school began in fall 1996. Because of the nature of unwanted sexu-
+
+al experiences, the language may seem graphic to you. However, this is the only way to
+
+assess accurately whether or not the women in this study have had such experiences. You
+
+only have to answer ÒyesÓ or Òno.Ó¥Since school began in fall 1996, has anyone made you have sexual intercourse by using
+force or threatening to harm you or someone close to you? Just so there is no mistake,
+
+byintercourse I mean putting a penis in your vagina.
+¥Since school began in fall 1996, has anyone made you have oral sex by force or threat of
+harm? By oral sex, I mean someoneÕs mouth or tongue making contact with your vagina
+
+or anus or your mouth or tongue making contact with someone elseÕs genitals or anus.
+¥Since school began in fall 1996, has anyone made you have anal sex by forceor threat of
+harm? By anal sex, I mean putting a penis in your anus or rectum.
+¥Since school began in fall 1996, has anyone ever used force or threat of harm to sexually
+penetrate you with a foreign object? By this, I mean for example, placing a bottle or fin-
+
+ger in your vagina or anus.¥Since school began in fall 1996, has anyone attempted but not succeeded in making you
+take part in any of the unwanted sexual experiences that I have just asked you about?
+For example, did anyone threaten or try but not succeed to have vaginal, oral, or anal sex
+
+with you or try unsuccessfully to penetrate your vagina or anus with a foreign object or
+
+finger?¥Not counting the types of sexual contact already mentioned, have you experienced any
+unwanted or uninvited touching of a sexual nature since school began in fall 1996? This
+
+includes forced kissing, touching of private parts, grabbing, fondling, and rubbing up
+
+against you in a sexual way, even if it is over your clothes.
+¥Since school began in fall 1996, has anyone attempted but not succeeded in unwanted
+or uninvited touching of a sexual nature? 
+¥Since school began in fall 1996, has anyone made or tried to make you have sexual inter-
+course or sexual contact when you did not want to by making threats of nonphysical
+
+punishment, such as lowering a grade, being demoted or fired from a job, damaging
+
+your reputation, or being excluded from a group for failure to comply with requests for
+
+any type of sexual activity?¥Since school began in fall 1996, has anyone made or tried to make you have sexual inter-
+course or sexual contact when you did not want to by making promises of rewards, such
+
+as raising a grade, being hired or promoted, being given a ride or class notes, or getting
+
+help with coursework from a fellow student if you complied sexually?
+¥Since school began in fall 1996, has anyone made or tried to make you have sexual inter-
+course or sexual contact when you did not want to by simply being overwhelmed by
+someoneÕs continual pestering and verbal pressure?
+The Sexual Victimization of College Women
+6 Drawing on the NCVS screen question and incident report methodology,
+the NCWSV screen questions were followed by a detailed incident report
+
+that (1) clarified what type of victimization, if any, had occurred and (2) col-
+
+lected information about various aspects of the incident (e.g., victim-offender
+
+relationship, whether the victimization took place on or off the college
+
+campus, whether the incident was reported to the police). Responses to the
+
+screen questions were not used to classify the type of victimization reported
+by the respondent. Instead, classification was based on the responses in the
+
+incident report to questions about (1) the type of penetration experienced
+
+(e.g., penile-vaginal, anal, oral); (2) the type of unwanted sexual contact
+
+experienced (e.g., touching, grabbing, or fondling); and (3) the meansof
+
+coercion used by the perpetrators (e.g., force, threat of force). Like Koss et
+
+al. and NCVS, the incidents were classified using a hierarchical algorithm;
+
+that is, incidents were classified by the most severe type of sexual victimiza-
+
+tion that occurred within an incident.15For example, if within an incident
+report the victim answered questions indicating she had experienced a com-
+
+pleted rape and attempted sexual coercion, the incident was classified as a
+
+completed rape.Reference period
+To limit potential response bias due to recall or memory decay, the NCWSV
+
+survey questions used a reference period that had a clear starting date for
+
+students. Thus, respondents were asked if they had experienced a sexual 
+
+victimization Òsince school began in fall 1996.Ó The survey was conducted
+
+in 1997 between late February and early May. On average, the reference
+
+period for the victimization covered almost 7 months (6.91 months).
+16Toparticipate in the study, respondents had to be enrolled in a college or uni-
+
+versity at the start of the 1996 fall semester.
+Risk factorsIn addition to the victimization measures, the NCWSV survey contained
+
+questions about respondentsÕdemographic characteristics, lifestyles or rou-
+
+tine activities, living arrangements, prior sexual victimizations, and so forth.
+
+Secondary data sources were used to measure the characteristics of the
+schools the respondents attended (e.g., size of enrollment, location, crime
+rate). These individual- and institution-level variables were used in multi-
+
+variate analyses that investigated which factors potentially placed women at
+
+risk of being sexually victimized.
+The Sexual Victimization of College Women
+7 The Sexual Victimization of College Women
+8Exhibit 2: Descriptions of Types of Victimizations
+Type of victimizationDefinition
+Completed rapeUnwanted completed penetration by force or the threat of
+force. Penetration includes: penile-vaginal, mouth on your
+
+genitals, mouth on someone elseÕs genitals, penile-anal,
+digital-vaginal, digital-anal, object-vaginal, and object-anal.Attempted rapeUnwanted attempted penetration by force or the threat of
+force. Penetration includes: 
+penile-vaginal, mouth on yourgenitals, mouthon 
+someone elseÕs genitals, penile-anal, 
+digital-vaginal, digital-anal, object-vaginal, and object-anal. Completed sexual Unwanted completed penetration with the threat of non-
+coercionphysical punishment, promise of reward, or pestering/verbal
+pressure. Penetration includes: penile-vaginal, mouth on
+
+your genitals, mouth on someone elseÕs 
+genitals, penile-anal,digital-vaginal, digital-anal,object-vaginal, and object-anal.Attempted sexualUnwanted attempted penetration with the threat of non- 
+coercionphysical punishment, promise of reward, or pestering/verbal
+pressure. Penetration includes: penile-vaginal, mouth on
+
+your genitals, mouth on someone elseÕs genitals, penile-anal,
+
+digital-vaginal, digital-anal, object-vaginal, and object-anal.Completed sexual contactUnwanted completed sexual contact (not penetration) with
+with force or threat of force or the threat of force. Sexual contact includes: touch-
+
+forceing; grabbing or fondling of breasts, buttocks, or genitals, 
+either under or over your clothes; kissing; licking or sucking; 
+or some other form of unwanted sexual contact.Completed sexual contactAny type of unwanted completed sexual contact (not pene-
+without forcetration) with the threat of nonphysical punishment, promise 
+of reward, or pestering/verbal pressure. Sexual contact 
+
+includes: touching; grabbing or fondling of breasts, buttocks,  
+
+or genitals, either under or over your clothes; kissing; licking 
+or sucking; or some other form of unwanted sexual contact.Attempted sexual contactUnwanted attempted sexual contact (not penetration) with
+with force or threat of forceforce or the threat of force. Sexual contact includes: touch-
+ing; grabbing or fondling of breasts, buttocks, or genitals, 
+
+either under or over your clothes; kissing; licking or sucking; 
+or some other form of unwanted sexual contact. What types of sexual victimization were 
+measured in the NCWSV study?
+Measures of 12 types of sexual victimization were constructed; they are
+
+defined in exhibit 2. Most important, the NCWSV study included measures
+
+of both completed and attempted rape as well as threats of rape. The study
+
+also measured completed, attempted, and threatened sexual coercion (pene-
+
+tration with the use of nonphysical forms of coercion) and unwanted sexual
+
+contact (sexual contact, but not penetration, with force or threat of force). In
+
+addition, the study measured stalking and visual and verbal forms of sexual
+
+victimization.The Sexual Victimization of College Women
+9Exhibit 2: Descriptions of Types of Victimizations, continued
+Type of victimizationDefinition
+Attempted sexual contactUnwanted attempted sexual contact (not penetration) with
+without force the threat of nonphysical 
+punishment, promise of reward, or
+pestering/verbal pressure. Sexual contact includes: touching; 
+grabbing or fondling of breasts, buttocks, or genitals, either
+
+under or over your clothes; kissing; licking or sucking; or 
+some other form of unwanted sexual contact.Threat of rapeThreat of unwanted penetration with force and threat of
+force. Penetration includes: 
+penile-vaginal, mouth on yourgenitals, mouthon someone elseÕs genitals, penile-anal, digital-
+
+vaginal, digital-anal, object-vaginal, and object-anal.Threat of contact with Thr
+eat of unwanted sexual contact with force
+and threat of 
+force or threat of forceforce. Sexual contact includes: touching; grabbing or 
+fondling of breasts, buttocks, or genitals, either under or 
+
+over your clothes; kissing; licking or sucking; or some other form of unwanted sexual contact.Threat of penetrationThreat of unwanted penetration with the threat of nonphys-
+without force ical punishment, promise of reward, or pestering/verbal pres- 
+sure. Penetration includes: penile-vaginal, mouth on your 
+
+genitals, mouth on someone elseÕs genitals, penile-anal, 
+
+digital-vaginal, digital-anal, object-vaginal, and object-anal.Threat of contact without Threat of unwanted sexual contact with the threat of non-
+forcephysical punishment, promise of reward, or pestering/verbal 
+pressure. Sexual contact includes: touching; grabbing or 
+
+fondling of breasts, buttocks, or genitals, either under or 
+
+over your clothes; kissing; licking or sucking; or some other 
+form of unwanted sexual contact. How extensive is rape among college women?Exhibit 3 reports the extent of rape found in the NCWSV study. As shown,
+2.8 percent of the sample had experienced either a completed rape (1.7 per-
+
+cent) or an attempted rape incident (1.1 percent). The victimization rate was
+
+27.7 rapes per 1,000 female students. We recognize that a hierarchical scoring procedure is not the only way to
+count victims and incidents, especially because we have multiple victims.
+
+Another estimation procedure is to count the total number of completed
+rapevictims and the total number of attempted rape victims separately. For
+
+example, suppose there were two incident records for respondent 00: One
+
+incident was classified as a completed rape, and the other was classified
+
+asan attempted rape (recall that using a hierarchical scoring procedure,
+
+respondent 00 would be counted as a completed rape victim). Respondent
+
+00 would now count as a completed rape victim and as an attempted rape
+
+victim. Using this ÒseparateÓ counting procedure, there were 57 attempted
+rape victims, or 1.3 percent of the sample. Because some women were victimized more than once, the rate of incidents
+was higher than the rate of victims (35.3 per 1,000 students). Of the 123
+
+victims, 22.8 percent (n= 28) were multiple-rape victims.A separate analysis, again using the same hierarchical scoring procedure,found that when rates were computed for only undergraduate students, the
+
+percentage of students victimized was 1.8 percent for rape and 1.3 percent
+
+for attempted rape. The comparable figures for nonundergraduate students
+
+were, respectively, 0.8 percent and 0 percent.
+17At first glance, one might conclude that the risk of rape victimization for
+
+college women is not high; ÒonlyÓ about 1 in 36 college women (2.8 per-
+
+cent) experience a completed rape or attempted rape in an academic year.
+
+Such a conclusion, however, misses critical, and potentially disquieting,
+
+implications. The figures measure victimization for slightly more than half a
+
+year (6.91 months). Projecting results beyond this reference period is prob-
+
+lematic for a number of reasons, such as assuming that the risk of victimiza-
+tion is the same during summer months and remains stable over a personÕs
+
+time in college. However, if the 2.8 percent victimization figure is calculated
+
+for a 1-year period, the data suggest that nearly 5 percent (4.9 percent) of
+college women are victimized in any given calendar year. Over the course of
+
+a college careerÑwhich now lasts an average of 5 yearsÑthe percentage of
+
+completed or attempted rape victimization among women in higher educa-
+
+tional institutions might climb to between one-fifth and one-quarter.
+18The Sexual Victimization of College Women
+10 Exhibit 3:Extent of Rape, by Number of Victims, and Number of Incidents, 
+by Type of Victimization Incident
+VictimsIncidents
+Rate perRate per
+Number 1,000Number1,000
+Type ofof victimsPercentagefemaleoffemale
+victimizationin sampleof samplestudentsincidentsstudents
+Completed rape741.716.68619.3
+Attempted rape491.111.07116.0
+Total1232.827.7
+a15735.3
+a. Total has been rounded (from 27.665 to 27.7).
+Furthermore, from a policy perspective, college administrators might be dis-
+turbed to learn that for every 1,000 women attending their institutions, there
+
+may well be 35 incidents of rape in a given academic year (based on a vic-
+
+timization rate of 35.3 per 1,000 college women). For a campus with 10,000
+
+women, this would mean the number of rapes could exceed 350. Even more
+
+broadly, when projected over the NationÕs female student population of sev-
+
+eral million, these figures suggest that rape victimization is a potential prob-
+
+lem of large proportion and of public policy interest.
+How do the NCWSV rape estimates compare
+
+with the rape estimates based on the National
+Crime Victimization Survey?
+The sexual victimization literature contains a great deal of discussion about
+
+how rape estimates from the NationÕs federally sponsored victimization sur-
+
+vey, NCVS, compare with estimates from other national surveys. This issue
+
+was examined through a comparison component.
+19Like the main NCWSV
+study, the comparison study was conducted in the 1996Ð97 academic year,
+
+from late March to mid-May. The sample size was 4,432 college women;
+
+the response rate was 91.6 percent.
+20Every effort was made to ensure that, aside from using different screen and
+
+incident report questions, the methodology used in both the main and com-
+parison components was the same. Thus, both components (1) contacted
+
+sample members with a letter that explained the purpose of the survey, (2)
+
+employed the same sampling design and sampling frame, (3) used the same
+The Sexual Victimization of College Women
+11 reference period for victimization (ÒSince school began in fall 1996 . . .Ó),
+and (4) measured victimization using the screen question-incident report
+methodology. Both components also were conducted by the same survey
+
+research firm (see endnote 10) and were administered by trained female
+
+interviewers using a computer-aided telephone interviewing system.
+However, in assessing the influence of different methodologies for measur-
+ing sexual victimization, the two studies differed on one methodological
+
+issue: the wording of the screen questions and the wording of the incident-
+
+level questions used to determine the type of incident. As previously described,
+
+the main study substantially modified the NCVS format to include a range
+
+of behaviorally specific screen questions. In contrast, the comparison com-
+
+ponent used a format that was closely aligned with the survey format of
+
+NCVS. All of the screen questions used in the comparison component came
+
+directly from NCVS, as did the incident-level questions used to determine
+
+what type of violent victimization the respondent had experienced.
+21Bothcomponents used a hierarchical algorithm to classify the type(s) of victim-
+ization that the respondent described in the incident report.We should note, however, that the methodology used in the comparison
+component differs from that used in NCVS in one respect. In addition to
+
+structured responses to the survey questions, NCVS interviewers record 
+
+a brief Òverbatim descriptionÓ of the victimization incident from those
+
+respondents who report experiencing rape or sexual assault. These verbatim
+
+responses are used to clarify what occurred in an incident and to code
+whether an incident should count as a sexual victimization. Thus, according
+
+to BJS staff:
+In the NCVS, all questionnaires for which any rape or sexual assault
+code is entered in any of the pertinent items are reviewed to determine
+
+whether the codes reflect the written entries in the summaries. Where
+
+there are clear indications that the coded entries are not correct, they
+
+are edited, using guidelines developed by BJS and Bureau of Census
+
+staffs. This procedure has proven beneficial towards improving the
+
+NCVS estimates of rape and sexual assault by removing, to the extent
+
+possible, the discrepancies existing between the coded and written
+
+entries.22In our comparison component study, the estimates were not adjusted using
+
+verbatim responses.
+23We do not know how much this consideration affects
+the findings reported for the comparison component that is, again, based
+
+on NCVS methodology. None of the
+Criminal Victimization in the United
+The Sexual Victimization of College Women
+12 Statesannual publications report how much the NCVS estimates are adjusted
+using verbatim responses, or whether such adjustments cause estimates to
+
+increase or decrease compared with estimates coded solely on respondentsÕ
+answers to the structured screen and incident-report questions.NCVS defines rape as:
+Forced sexual intercourse including both psychological coercion as
+well as physical force. Forced sexual intercourse means vaginal, anal,
+
+or oral penetration by the offender(s). This category also includes inci-
+
+dents where the penetration is from a foreign object such as a bottle.
+Includes attempted rapes, male as well as female victims, and both
+heterosexual and homosexual rape. Attempted rape includes verbal
+
+threats of rape.This definition guided the classification of incidents in the comparison study
+as a completed rape, an attempted rape, or a threat of rape. In the CriminalVictimization in the United States
+series published by BJS, estimates forattempted rape and threats of rape are reported separately. The same is true
+
+in this report so as to compare rape estimates from the two components of
+
+the study.
+How do the rape estimates from these two studies compare? It should be
+noted that studies that use behaviorally specific screen questions generally
+
+find higher levels of sexual victimization than those reported by NCVS.
+24Most important, this finding has occurred in recent research using a 
+
+national-level sample and behaviorally specific questions.
+25Looking at exhibit 4, it is clear that estimates from the comparison study for
+completed rape, attempted rape, and threats of rape are considerably lower
+
+than the respective estimates from the main study. The percentage of the
+
+sample that reported experiencing a completed rape in the comparison study
+
+was 11 times smaller than the percentage of victims in the main component
+
+(0.16 percent compared with 1.7 percent). The attempted rape estimate from
+
+the comparison component was six times smaller than the attempted rape
+
+estimate (0.18 percent compared with 1.1 percent) from NCWSV. A similar
+
+pattern was evident for threats of rape; the estimate based on the compari-
+
+son component was four times smaller than the NCWSV estimate (0.07 per-
+
+cent compared with 0.3 percent).What accounts for these differences? Given the similarities between the two
+studies, it would appear that the differences most likely stem from the wide
+
+range of behaviorally specific screen questions used in the NCWSV study.
+The Sexual Victimization of College Women
+13 Compared with the NCVS screen questions employed in the comparison
+component, the use of graphically worded screen questions in NCWSV like-
+
+ly prompted more women who had experienced a sexual victimization to
+
+report this fact to the interviewer. Their responses in the incident report
+
+determined whether those answering ÒyesÓ to a rape screen question were
+subsequently classified as rape victims.
+26Even so, it appears that behavioral-
+ly specific screen questions are more successful in prompting women who
+
+have in fact been sexually victimized to answer in such a way that they are
+
+then Òskipped intoÓ the incident report by interviewers.
+The Sexual Victimization of College Women
+14Exhibit 4: Comparison of Rape Estimates Between the NCWSV Main Study and Comparison Component Study0.00.5
+1.01.52.0Main studyComparison studyThreat of rape
+Attempted rapeCompleted rapeType of victimization
+1.70.161.10.180.30.07Percentage of sample
+What is unknown, however, is whether behaviorally specific screen questions
+produce higher estimates of victimization in general or only higher estimates
+of sexual victimization. It is possible that, due to the sensitive nature of
+
+sexual victimization, graphically descriptive screen questions are needed to
+
+prompt reluctant victims to report their victimization to interviewers. The
+
+other possibility, however, is that a large set of behaviorally specific ques-
+
+tions would result in more victim reports for any type of victimization,
+
+including property crimes and other forms of violent crime (e.g., aggravated
+
+assault, robbery). Future research on NCVS methodology might profit from
+
+exploring this issue.
+ Do women define their victimization as a rape?In each incident report, respondents were asked, ÒDo you consider this inci-
+dent to be a rape?Ó For the 86 incidents categorized as a completed rape,
+
+46.5 percent (n= 40) of the women answered Òyes,Ó 48.8 percent (
+n= 42)answered Òno,Ó and 4.7 percent (
+n= 4) answered ÒdonÕt know.Ó Among
+women who experienced other forms of sexual victimization (
+n= 1,318), itis noteworthy that 3.4 percent (
+n= 42) defined their sexual victimization as
+a rape and 1.1 percent (n= 14) answered ÒdonÕt know.Ó
+Some scholars believe that the failure of women to define a victimization as
+a rape calls into question whether researchers have truly measured the crime
+
+of rape.27Others suggest, however, that the true prevalence of rape is best
+measured by carefully worded questions on victimization surveys, such as
+
+NCWSV.
+28Women may not define a victimization as a rape for many reasons
+(such as embarrassment, not clearly understanding the legal definition of the
+
+term, or not wanting to define someone they know who victimized them as a
+
+rapist) or because others blame them for their sexual assault.
+29Which of thesereasons is more or less correct cannot be definitively substantiated here
+
+because little systematic research has examined why women do or do not
+
+define as arape an incident that has met the researcherÕs criteria for a rape.
+How extensive are other forms of sexual 
+
+victimization?Exhibit 5 presents the extent of victimization across 10 forms of sexual
+
+victimization other than rape. Threats of sexual victimization happened less
+
+often than other forms of sexual victimization. Across the 10 types of vic-
+
+timization in exhibit 5, the incident rate per 1,000 female students ranged
+
+from a low of 9.5 to a high of 66.4.
+Exhibit 6 presents the data in a slightly different form and contains rape
+incidents. This exhibit illustrates the percentages of women in the sample
+
+who had experienced at least one victimization in three separate categories:
+
+(1) physical force, (2) nonphysical force, and (3) either physical or nonphys-
+ical force or both. Because the third category includes respondents who have
+
+experienced both types of victimization, its percentage is not computed by
+
+summing the percentages in the physical and nonphysical categories. As is
+
+shown, 15.5 percent of the college women were sexually victimized during
+
+the current academic year. In the sample, 7.7 percent experienced an incident
+The Sexual Victimization of College Women
+15 The Sexual Victimization of College Women
+16Exhibit 5: Extent of Sexual Victimization
+VictimsIncidents
+Rate perRate per
+Number1,000Number1,000
+Type ofof victimsPercentagefemaleoffemale
+victimizationin sampleof samplestudentsincidentsstudents
+Completed or attemptedCompleted sexual coercion741.716.610724.1
+Attempted sexualcoercion601.313.511425.6
+Completed sexualcontact with force 
+
+or threat of force851.919.113029.2
+Completed sexual contact without force801.818.013229.7
+Attempted sexual contact with force 
+
+or threat of force892.020.016637.6
+Attempted sexualcontact without force1333.029.929566.4
+Threats
+Threat of rape140.313.2429.5
+
+Threat of contact with
+force or threat of force80.181.85011.3
+Threat of penetration 
+without force 100.222.35011.3
+Threat of contact
+without force 150.343.47516.9
+Total
+5681,161
+involving the use or threat of physical force, and 11.0 percent experienced a
+victimization that did not involve force.
+How extensive is prior sexual victimization?Respondents were also asked if they had experienced sexual victimization
+
+incidents before starting school in fall 1996. These incidents were measured
+
+only with single questions, not incident reports (that is, the two-stage process
+ The Sexual Victimization of College Women
+17Exhibit 6: Percentage of Sample Having at Least One 
+Victimization Incident 
+5101520
+Any victimization (either physicalor nonphysical force or both)
+Victimization involving
+nonphysical force
+Victimization involving
+physical force
+7.711.015.5Type of victimization
+Percentage of sample
+of screen questions followed by an incident report was not used). To limit
+bias, we attempted to use the detailed questions shown in exhibit 7. Still,
+
+the findings must be assessed in light of this methodological limitation.
+As exhibit 7 shows, about 1 in 10 college women said they had experienced
+a rape, while the same proportion stated that they were victims of an attempt-
+
+edrape. Almost the same proportion also had sexual intercourse or contact
+
+in which they were subject to threats of nonphysical punishment or promis-
+
+es of reward. Unwanted or uninvited sexual contacts were widespread, with
+
+more than one-third of the sample reporting these incidents.Do victims know their offenders?
+Most victims knew the person who sexually victimized them. For both 
+
+completed and attempted rapes, about 9 in 10 offenders were known to the
+
+victim. Most often, a boyfriend, ex-boyfriend, classmate, friend, acquain-
+
+tance, or coworker sexually victimized the women. College professors were
+
+not identified as committing any rapes or sexual coercions, but they were
+
+cited as the offender in a low percentage of cases involving unwanted sexual
+
+contact. The victim-offender relationship for rape incidents is displayed in
+
+exhibit 8.
+Variation in the type of sexual victimization that occurred on a date was evi-
+dent. With regard to date rape, 12.8 percent of completed rapes, 35.0 percent
+
+of attempted rapes, and 22.9 percent of threatened rapes took place on a date. When does sexual victimization occur?The vast majority of sexual victimizations occurred in the evening (after 
+6 p.m.). For example, 51.8 percent of completed rapes took place after 
+
+midnight, 36.5 percent occurred between 6 p.m. and midnight, and only
+11.8 percent took place between 6 a.m. and 6 p.m.
+Where does sexual victimization occur?
+The majority of sexual victimizations, especially rapes and physically
+
+coerced sexual contact, occurred in living quarters. Almost 60 percent of
+
+the completed rapes that occurred on campus took place in the victimÕs
+
+residence, 31 percent occurred in other living quarters on campus, and 
+
+10.3 percent took place in a fraternity. Off-campus sexual victimizations,
+
+especially rapes, also occurred in residences. However, particularly for 
+The Sexual Victimization of College Women
+18Exhibit 7: Percent of Sample Who Were Sexually Victimized Before the 
+Start of the 1996 School Year
+YesNo
+Type of victimization(percentage)(percentage)
+Rapea10.189.9
+Attempted rapeb10.989.1
+Threatened, attempted, or completed unwanted/  
+uninvited sexual contactc35.564.5
+Sexual intercourse or contact with nonphysical threats/rewards
+d8.691.4
+Any other unwanted or uninvited sexual intercourse/contact
+e5.994.1
+a. Prior to school starting in fall 1996, did anyone ever make you have vaginal, oral, or anal intercourse
+Ñincluding penetrating you with a penis, a finger, or a foreign object
+Ñby using force or threatening to
+harm you?b. Prior to school starting in fall 1996, did anyone ever attempt but not succeed in making you have vaginal, oral, or anal intercourse
+Ñincluding penetrating you with a penis, a finger, or a foreign object
+Ñby using force or threatening to harm you?
+c. Prior to school starting in fall 1996, have you ever experienced any unwanted or uninvited touchingofa sexual nature, or threats or attempts of such touching, including forced kissing, touching of private
+
+parts, grabbing, fondling, and rubbing up against you in a sexual way?d. Prior to school starting in fall 1996, has anyone ever tried to make you have sexual intercourse or sex-
+ual contact when you did not want to by making either threats of nonphysical punishment or promises
+
+of reward if you complied sexually?
+e. Prior to school starting in fall 1996, is there any type of unwanted or uninvited sexual intercourse or
+physical sexual contact that you ever experienced that was not covered in the questions thus far?
+ sexual contacts and threatened victimizations, incidents also took place 
+in settings such as bars, dance clubs or nightclubs, and work settings.
+Are women victimized on or off campus?
+College women are victimized both on campus and off campus. For nearly
+
+all types of sexual victimization, however, off-campus victimization is more
+
+common (exhibit 9). This conclusion must be qualified because off-campus
+
+sexual victimizations may take place in bars and nightclubs or in student
+
+residences close to campus. Thus, even if a student is victimized off cam-
+
+pus, she may be engaged in an activity that is connected to her life as a 
+
+student at the college she attends.
+Do sexual victims take protective actions 
+
+during the incident?As exhibit 10 shows, for nearly all forms of sexual victimization, the major-
+
+ity of female students reported attempting to take protective actions during
+The Sexual Victimization of College Women
+19Exhibit 8: Victim-Offender Relationship for Rape Victimizations Committed  
+by Single Offenders 
+0102030
+4050Completed rapeAttempted rapeOtherAcquaintanceBoyfriend/ex-boyfriendFriendOffender
+ClassmatePercentage of sample
+35.543.534.224.223.714.52.69.74.08.1 The Sexual Victimization of College Women
+20Exhibit 9: The Location of Victimization by On-Campus and Off-Campus 
+Location, by Type of Victimization
+Location of victimizationaOn campusOff campus
+percentagepercentage
+Type of victimization(
+n)(n)Completed or attemptedCompleted rape33.766.3
+(29)(57)
+Attempted rape 45.154.9
+(32)(39)
+Completed sexual coercion29.071.0
+(31)(76)
+Attempted sexual coercion46.553.5
+(53)(61)
+Completed sexual contact with 34.665.4
+force or threat of force(45)(85)
+Completed sexual contact38.661.4
+without force(51)(81)
+Attempted sexual contact with33.966.1
+force or threat of force(56)(109)
+Attempted sexual contact35.964.1
+without force(106)(189)
+Threats
+Threat of rape45.254.8
+(19)(23)
+Threat of contact with force or44.056.0
+threat of force(22)(28)
+Threat of penetration without force48.052.0
+(24)(26)
+Threat of contact without force54.145.9
+(40)(34)
+a. DonÕt know (n= 2) not included.the incident. For both completed rape and sexual coercion, victims of com-
+pleted acts were less likely to take protective action than those who experi-
+
+enced attempted victimization. This finding suggests that the intended
+
+victimÕs willingness or ability to use protection might be one reason
+
+attempts to rape or coerce sex failed.
+ Exhibit 11 reports the most common forms of protective action taken by
+victims during rape incidents. Note that the most common protective action
+
+was using physical force against the assailant. Nearly 70 percent of victims
+
+of attempted rape used this responseÑagain, a plausible reason many of
+
+these acts were not completed. Other common physical responses included
+removing the offenderÕs hand, running away, and trying to avoid the offender.
+
+Verbal responses also were common, including pleading with the offender
+
+to stop, screaming, and trying to negotiate with the offender.
+The Sexual Victimization of College Women
+21Exhibit 10: Percentage of Victims Taking Protective Action, by Type 
+of Victimization
+Victim attempted to protect
+Type of victimizationherself (
+n)Completed or attemptedCompleted rape65.1
+(56)Attempted rape91.5
+(65)Completed sexual coercion46.7
+(50)Attempted sexual coercion74.3
+(84)Completed sexual contact with 87.6
+force or threat of force(113)
+Completed sexual contact without force81.8
+(108)Attempted sexual contact with 89.8
+force or threat of force(149)
+Attempted sexual contact  76.6
+without force(226)
+Threats
+Threat of rape81.0
+(34)Threat of contact with force 86.0
+or threat of force(43)
+Threat of penetration without 60.0
+force (30)
+Threat of contact without 66.7
+force (50)
+ Are victims hurt in the victimization incidents?
+Victims in the sample generally did not state that their victimization resulted
+in physical or emotional injuries. In about one in five rape and attempted
+
+rape incidents, victims reported being injured, most often citing the response
+Òbruises, black-eye, cuts, scratches, swelling, or chipped teeth.Ó The percentage
+
+injured by other types of victimization was lower, ranging from 0 percent
+
+(completed sexual contact without force) to 16.7 percent (threatened rape).
+The Sexual Victimization of College Women
+22Exhibit 11: Most Common Forms of Protective Actions Used in 
+Rape Incidentsa. Percentages may be greater than 100 because a respondent could give more than one response.
+0102030
+40506070
+80Attempted rapeCompleted rapeTried to reason/negotiate 
+                 with the personTried to avoid 
+
+              personRan or tried to run 
+            away/escape     Removed 
+personÕs handScreamed or yelled to 
+      scare off the person
+Pleaded with or begged
+                  person to stopTold the person
+
+                to stopUsed physical force 
+
+    against the personercentage
+55.469.250.040.019.69.216.19.216.19.210.710.810.77.77.14.1 Are some women more at risk of being 
+sexually victimized?Multivariate logit models for each type of sexual victimization measured
+
+were estimated to predict the likelihood of having been victimized. Consistent
+
+across the models, it was found that four main factors consistently increased
+
+the risk of sexual victimization: (1) frequently drinking enough to get drunk,
+
+(2) being unmarried, (3) having been a victim of a sexual assault before the
+
+start of the current school year, and (4) living on campus (for on-campus
+
+victimization only).Do women report victimization incidents 
+
+to the police?Few incidents of sexual victimization were reported to law enforcement
+
+officials. Thus, fewer than 5 percent of completed and attempted rapes were
+
+reported to law enforcement officials. In about two-thirds of the rape inci-
+
+dents, however, the victim did tell another person about the incidents. Most
+
+often this person was a friend, not a family member or college official.
+Victims gave a number of reasons for not reporting their victimizations to
+law enforcement officials (exhibit 12). Some reasons indicated that they did
+
+not see the incidents as harmful or important enough to bring in the authori-
+ties. Thus, the common answers included that the incident was not serious
+
+enough to report and that it was not clear that a crime was committed. 
+
+Other reasons, however, suggested that there were barriers to reporting.
+
+Such answers included not wanting family or other people to know about
+
+the incident, lack of proof the incident happened, fear of reprisal by the
+assailant, fear of being treated with hostility by the police, and anticipation
+that the police would not believe the incident was serious enough and/or
+
+would not want to be bothered with the incident.
+How extensive is stalking?In addition to the 12 types of sexual victimization (exhibit 2), this research
+
+assessed a form of victimization that has been infrequently studied: stalking.
+In general, for behavior to qualify as stalking, the attention given to some-
+
+one must be repeated and it must create fear in a reasonable person. Accord-
+
+ingly, stalking was measured with this screen question: ÒSince school began
+The Sexual Victimization of College Women
+23 Exhibit 12: Reasons for Not Reporting Incident to the Police, by Type of 
+Victimization
+Reason for not reporting incident
+aDid not Fear of
+Did notwant Lack ofbeing
+Incidentwantotherproof thattreated
+was notfamily topeopleincidenthostilely
+reportedknowto knowhappenedby police
+%%%%%
+Type of incident(
+n)(n)(n)(n)(n)Completed or attemptedCompleted rape95.244.446.942.024.7
+(82)(36)(38)(34)               (20)
+Attempted rape95.832.432.430.98.8
+(68)(22)(22)(21)(6)
+Completed sexual        100.041.943.833.38.6
+coercion                      (107)(44)(46)(35)(9)
+Attempted sexual        100.021.219.515.92.7
+coercion                      (114)(24)(22)(18)(3)
+Completed sexual contact with force 99.219.516.421.99.4
+
+or threat of force(128)(25)(21)(28)(12)
+Completed sexual  98.54.711.718.04.7
+contact without force(129)(6)(15)(23)(6)
+Attempted sexual contact with force 97.013.821.923.18.8
+
+or threat of force(160)(22)(35)(37)(14)
+Attempted sexual 99.37.210.218.14.4
+contact without force(293)(21)(30)(53)(13)
+Threats
+Threat of rape90.526.334.231.613.2 
+(38)(10)(13)(12)(5)
+Threat of contact with 90.022.220.020.08.9
+force or threat of force(45)(10)(9)(9)(4)
+Threat of penetration 100.020.022.024.04.0  
+without force    (50)(10)(11)(12)(2)
+Threat of contact 98.76.88.121.68.1
+without force(74)(5)(6)(16)(6)
+a. Percentages may be greater than 100 because a respondent could give more than one response.
+The Sexual Victimization of College Women
+24 Exhibit 12: Reasons for Not Reporting Incident to the Police, by Type of 
+Victimization, continued
+Reason for not reporting incident
+aFear of being Not clear  Police
+treated hostilely  it was a Did notwouldnÕt
+by other crime or knowthink it 
+parts ofthat harm how towas serious  
+justice systemwas intendedreportenough
+%%%%
+Type of incident(
+n)(n)(n)(n)Completed or attemptedCompleted rape6.244.413.627.2
+(5)(36)(11)(22)
+Attempted rape1.539.77.433.8
+(1)(27)(5)(23)
+Completed sexual 1.958.114.324.8
+coercion(2)(61)(15)(26)
+Attempted sexual 2.746.96.228.3
+coercion(3)(53)(7)(32)
+Completed sexual contact with force 037.57.037.5
+
+or threat of force(0)(48)(9)(48)
+Completed sexual  1.643.05.529.7
+contact without force(2)(55)(7)(38)
+Attempted sexual contact with force 6.337.510.031.3
+
+or threat of force(10)(60)(16)(50)
+Attempted sexual 1.439.66.122.9
+contact without force(4)(116)(18)(67)
+Threats
+Threat of rape7.939.513.234.2
+(3)(15)(5)(13)
+Threat of contact with 4.451.113.337.8
+force or threat of force(2)(23)(6)(17)
+Threat of penetration 4.046.06.030.0 
+without force (2)(23)(3)(15)
+Threat of contact  6.831.12.721.6
+without force (5)(23)(2)(16)
+a. Percentages may be greater than 100 because a respondent could give more than one response.
+The Sexual Victimization of College Women
+25 The Sexual Victimization of College Women
+26Exhibit 12: Reasons for Not Reporting Incident to the Police, by Type of 
+Victimization, continued
+Reason for not reporting incident
+aPolice    Did not
+wouldnÕt
+Afraid ofthink it 
+want toreprisalwas serious 
+beby assailantenough  
+botheredor othersto reportOther
+%%%%
+Type of incident(
+n)(n)(n)(n)Completed or attemptedCompleted rape25.939.565.47.4
+(21)(32)(53)(6)
+Attempted rape13.225.076.51.5
+(9)(17)(52)(1)
+Completed sexual 21.931.471.41.9
+coercion(23)(33)(75)(2)
+Attempted sexual 18.611.586.70
+coercion(21)(13)(98)(0)
+Completed sexual contact with force 30.522.781.33.1
+
+or threat of force(39)(29)(104)(4)
+Completed sexual 18.812.591.40.8
+contact without force(24)(16)(117)(1)
+Attempted sexual contact with force 22.523.880.02.5
+
+or threat of force(36)(38)(128)(4)
+Attempted sexual 18.410.988.42.7
+contact without force(54)(32)(259)(8)
+Threats
+Threat of rape31.626.365.82.6 
+(12)(10)(25)(1)
+Threat of contact with 26.717.868.94.4
+force or threat of force(12)(8)(31)(2)
+Threat of penetration without 30.012.088.02.0
+force(15)(6)(44)(1)
+Threat of contact without 9.513.583.80
+force(7)(10)(62)(0)
+a. Percentages may be greater than 100 because a respondent could give more than one response.
+ in fall 1996, has anyoneÑfrom a stranger to an ex-boyfriendÑrepeatedly
+followed you, watched you, phoned, written, e-mailed, or communicated
+
+with you in other ways that seemed obsessive and made you afraid or con-
+
+cerned for your safety?Ó If a respondent answered Òyes,Ó she was then given
+
+an incident report that asked detailed questions about the stalking that
+
+occurred.The survey indicated an incidence rate of 156.5 per 1,000 female students.
+Indeed, fully 13.1 percent of the female students in the sample (n= 581)had been stalked since the school year began. This figure approximates what
+
+was found in a pretest of the survey conducted on students attending one
+
+university. It also is similar to the 6-month prevalence figure reported by
+
+Mustaine and Tewksbury,
+30which, in a survey of 861 women attending 9
+postsecondary institutions, found that 10.5 percent of the female students
+reported that they had been stalked.
+31In contrast, Tjaden and ThoennesÕnational study of women reports much
+lower annual rates of stalking: 1 percent to 6 percent, depending on the defi-
+
+nition of stalking used.32Compared with the current study, the lower extent
+of stalking in Tjaden and ThoennesÕresearch may be because (1) their study
+
+used a more restrictive definition of stalking; (2) their study focused on
+
+females across the life course (age 18 to 80 years or older), rather than
+onyounger women among whom stalking is more prevalent; and (3) their
+
+study did not focus specifically on college students. It may be that the social
+
+domain of college places women in situations and in contact with a range
+
+ofmen that increase the chances of being stalked.
+It should be noted, however, that like the study by Tjaden and Thoennes, the
+estimates in this study of the extent of stalking vary depending on the crite-
+
+ria used to define what counts as stalking victimization.
+33Again, more than13 percent of the women in the sample were stalked if this victimization is
+
+defined as a woman experiencing repeated, obsessive, and frightening behavior
+
+that made the victim afraid or concerned for her safety. Even so, if we were
+
+to decide that such behavior counts as a stalking victimization only if the
+
+person were actually threatened with harmÑa requirement for criminal
+stalking in many StatesÑthe extent of stalking victims in the sample falls
+
+to1.96 percent. These results suggest that, in the future, researchers should
+
+examine how estimates of the extent of stalking may vary widely depending
+
+on the criteria used to define what ÒcountsÓ as a stalking victimization.
+The Sexual Victimization of College Women
+27 What is the nature of stalking incidents?
+As with other sexual victimizations, four in five victims knew their stalkers.
+Of the stalkers who were known, they were most often a boyfriend or ex-
+
+boyfriend (42.5 percent), classmate (24.5 percent), acquaintance (10.3 
+
+percent), friend (5.6 percent), or coworker (5.6 percent). Female students
+
+were infrequently stalked by college professors or graduate assistants.
+Stalking incidents lasted an average of 60 days. About 30 percent of the
+female students were stalked only off campus; the remaining victims were
+
+stalked either only on campus or both on and off campus. The most common
+
+forms of stalking behaviors reported by victims were being telephoned
+
+(77.7 percent), having an offender waiting outside or inside places (47.9
+
+percent), being watched from afar (44.0 percent), being followed (42.0 per-
+
+cent), being sent letters (30.7 percent), and being e-mailed (24.7 percent).34Almost two-thirds of the sample indicated that they were stalked at least
+
+two to six times a week.
+Although some victims reported being physically injured, the most commonconsequence was psychological: Almost 3 in 10 women said they were
+
+Òinjured emotionally or psychologicallyÓ from being stalked. In 15.3 percent
+
+of incidents, victims reported that the stalker either threatened or attempted
+
+to harm them. In 10.3 percent of incidents, the victim reported that the
+stalker Òforced or attempted sexual contact.Ó
+In nearly three-fourths of incidents, victims reported that they had taken
+Òactions as a result of their stalking.Ó Exhibit 13 shows actions victims took
+
+following stalking incidents. Two of the most common responses were Òto
+
+avoid the stalkerÓ (43.2 percent) or, conversely, Òto confront the stalkerÓ
+
+(16.3 percent). Beyond the data in exhibit 13, in about 17 percent of inci-
+
+dents, victims reported the stalker to the police. In contrast, in more than 
+
+9 in 10 incidents, victims confided in someoneÑsuch as a friend, family
+
+member, or roommateÑthat they were being stalked.
+Are some women more at risk of being
+
+stalked?A multivariate logit model was estimated to predict the likelihood of being
+
+stalked. The risk of being a stalking victim was increased by a number of
+
+factors: the propensity to be in places with alcohol; living alone; being in a
+
+dating relationship, especially early in the relationship, as opposed to beingThe Sexual Victimization of College Women
+28 Exhibit 13: Actions Taken by Victim as a Result of Stalking Incidents
+ActionsPercentage
+anAvoidance
+Avoided or tried to avoid the stalker43.2210
+
+Did not acknowledge messages or e-mails8.843
+
+Moved residence3.316
+
+Dropped a class the stalker was in or taught1.47
+
+Quit job0.84
+
+Changed colleges or university0.42
+
+Changed majors0.21
+Legal/JudicialSought a restraining order3.919
+
+Filed a grievance or initiated disciplinary16
+action with university officials3.3
+Went forward with criminal charges1.99
+
+Filed civil charges1.26
+Self-Protection
+Got caller ID4.924
+
+Improved security system of residence4.120
+
+Began traveling with companion3.919
+
+Bought a weapon1.99
+
+Took a self-defense class0.42
+PsychologicalBecame less trustful or more cynical of others5.627
+
+Sought psychological counseling2.914
+Confrontation
+Confronted the stalker16.379
+Other actions taken but not specified21.8106
+a. Percentages may be greater than 100 because a respondent could give more than one response.
+The Sexual Victimization of College Women
+29married or living with an intimate partner; being an undergraduate; being
+from an affluent family; and having experienced sexual victimization before
+
+the beginning of the current academic year. Also, among racial/ethnic
+
+groups, Asian/Pacific Islander women were significantly less likely to be
+
+stalked while American Indian/Alaska Native women were significantly
+
+more likely to be stalked compared with women in other racial/ethnic
+ groups. Notably, American Indian/Alaska Native women had the highest
+likelihood of any racial/ethnic group to experience a stalking. This is consis-
+
+tent with Tjaden and ThoennesÕresearch, which reported that American
+
+Indians/Alaska Natives are at greatest risk of being stalked.
+35What is the extent of visual and 
+verbal sexual victimization?Finally, this research measured the extent to which women were involuntari-
+
+ly exposed to visual images and verbal comments that would generally be
+
+considered sexually victimizing. Since these relatively ÒminorÓ types of 
+
+victimization were plentiful, it was not possible to obtain a detailed report
+
+on each incident. Instead, results showed only whether a type of victimiza-
+
+tion was experienced and, if so, how many times it happened both on and
+
+off campus.
+As exhibit 14 reveals, most respondents did not experience visual victimiza-
+tion. Still, about 6 percent of female students had been shown pornographic
+
+pictures, almost 5 percent had someone expose their sexual organs to them,
+
+and 2.4 percent were observed naked without their consent. Verbal victim-
+
+izations, moreover, were commonplace. About half the respondents were
+
+subjected to sexist remarks and to catcalls and whistles with sexual over-
+
+tones. One in five female students received an obscene telephone call and
+
+was asked intrusive questions about her sex or romantic life. One in ten stu-
+
+dents had false rumors spread about her sex life.
+ConclusionsThe sexual victimization of college students has emerged as a controversial
+
+issue, pitting feminist scholars who claim that the sexual victimization of
+
+women is a serious problem against conservative commentators who claim
+
+that such victimization is rare and mostly a fictitious creation of ideological-
+
+ly tainted research.36The research reported here undoubtedly will not settlethis debate; battle lines are solidly entrenched and how the data are interpreted
+
+will, to a degree, lie in the Òeye of the beholder.Ó However, the current study
+
+attempts to add a judicious voice to this conversation by attempting to fur-
+
+nish a methodologically sound assessment of the extent and nature of the
+
+sexual victimization of female students.
+The Sexual Victimization of College Women
+30 The Sexual Victimization of College Women
+31Exhibit 14: The Extent of Verbal and Visual Victimization
+Percentage   Rate
+and numberTotalper 1,000 
+of victims number offemale 
+for samplevictimizations
+astudentsType of verbal victimization
+General sexist remarks 54.3
+in front of you(2,398)31,4347,070.2
+Cat calls, whistles about your looks, or noises with 48.2
+
+sexual overtones(2,129)29,6096,660.0
+Obscene telephone calls or 21.9
+messages(973)4,8851,099.0
+Asked questions about sex or romantic life when clearly 19.0
+
+none of their business(844)4,6941,055.8
+False rumors about sex life 9.7
+with them or other people (431)1,166262.3
+Type of visual victimization 
+Someone exposed you to pornographic pictures or 
+
+materials when you did not 6.1
+
+agree to see them(272)865194.6
+Someone exposed their sexual organs to you when you did 4.8
+
+not agree to see them(214)568127.8
+Anyone, without your consent, observed or tried to observe 
+you while you were undressing, 2.4
+
+nude, or in a sexual act(105)30267.9
+Anyone, without your consent, showed other people or played 
+for other people photographs, 
+videotapes, or audiotapes having 0.3
+
+sex or in a nude or seminude state(15)184.0
+Anyone, without your consent, photographed, videotaped, or 
+audiotaped you having sex or 0.2
+
+in a nude or seminude state(8)92.0
+a. The distributions for the number of victimization variables are right censored because they include the
+value Ó97 or more.
+Ò The Sexual Victimization of College Women
+32Exhibit 14: The Extent of Verbal and Visual Victimization, continued
+Percentage Percentage
+andand 
+Number of number ofnumber of 
+victimizationsvictimizationsvictimizations
+per victimon campusoff campus
+Type of verbal victimization
+General sexist remarks 50.649.4
+in front of you13.0(15,894)(15,540)
+Cat calls, whistles about your looks, or noises with 38.661.4
+
+sexual overtones13.9(11,423)(18,186)
+Obscene telephone calls or 59.840.2
+messages5.0(2,922)(1,963)
+Asked questions about sex or romantic life when clearly 41.258.8
+
+none of their business5.6(1,933)(2,761)
+False rumors about sex life 59.740.3
+with them or other people 2.7(696)(470)
+Type of visual victimization 
+Someone exposed you to pornographic pictures or 
+
+materials when you did not 59.940.1
+
+agree to see them3.2(518)(347)
+Someone exposed their sexual organs to you when you did 34.066.0
+
+not agree to see them2.7(193)(375)
+Anyone, without your consent, observed or tried to observe 
+you while you were undressing, 44.056.0
+
+nude, or in a sexual act2.9(133)(169)
+Anyone, without your consent, showed other people or played 
+for other people photographs,
+videotapes, or audiotapes having 44.455.6
+
+sex or in a nude or seminude state1.2(8)(10)
+Anyone, without your consent, photographed, videotaped, or 
+audiotaped you having sex or 77.822.2
+
+in a nude or seminude state1.1(7)(2)
+ To summarize, the national-level survey of 4,446 college women suggests
+that many students will encounter sexist and harassing comments, will likely
+
+receive an obscene phone call, and will have a good chance of being stalked
+
+or of enduring some form of coerced sexual contact. During any given 
+
+academic year, 2.8 percent of women will experience a completed and/or
+
+attempted rape. This figure is not based only on broadly worded, behavioral-
+
+ly specific screen questions because all victimization incidents reported in
+
+the screen questions were verified through subsequent questions in the inci-
+
+dent report. Furthermore, the level of rape and other types of victimization
+
+found in the survey becomes an increasing concern when the victimization
+
+figures are projected over a full year, a full college career, and the full popu-
+
+lation of women at one college or at colleges across the Nation.
+The results also hold important methodological implications. The compari-
+son component study sponsored by the Bureau of Justice Statistics allowed
+
+the rare opportunity to conduct a quasi-experiment in how the methods used
+
+to measure sexual victimization might potentially affect estimates of victim-
+
+ization. Thus, two randomly selected samples of college women were sur-
+
+veyed using very similar methodology, with one noteworthy exception: A
+
+different way of measuring sexual victimization was used with each sample.
+
+Results showed that a methodology that uses behaviorally specific screen
+
+questions in combination with an incident report yields considerably higher
+estimates of completed, attempted, and threatened rape than are found using
+NCVS methodology.
+Future research should explore the implications of this finding for NCVS.
+As noted, it was not determined whether using a number of behaviorally
+
+specific screen questions tends to increase estimates of only rape or whether
+
+the technique would also increase estimates of other types of victimization
+
+(i.e., the more widely in scope and the more closely in detail that possible
+victimizations are probed, the more victims are prompted to report their vic-
+timization to interviewers). However, assuming that the methodology used
+
+in this study is defensible, it seems likely that NCVS underestimates the
+
+true incidence of rape victimization in the United States.We should note, however, one other possible factor that might have con-
+tributed to the differences in victimization between the main and compari-
+
+son components: the ÒcontextÓ of two surveys. In the main component of
+
+NCWSV, the respondents were instructed in an initial contact letter andin
+
+instructions during the interview that the survey was focusing on Òunwanted
+
+sexual experiences.Ó In contrast, the comparison component was patterned
+
+after NCVS, which is a crime survey. In this part of the study, respondents
+The Sexual Victimization of College Women
+33 were sent an initial letter that mentioned the Òincreasing concern aboutcriminal victimizations that women may experience during college,Ó and the
+
+interview itself contained questions measuring victimization by other types
+
+of criminal offenses. It is conceivable, therefore, that respondents on the
+
+main component study were sensitized to report a broad range of sexual 
+
+victimization incidents they experienced, while those on the NCVS-based
+
+comparison component limited their reports to the incidents they defined as
+
+criminal. If so, this contextual difference would mean that the comparison
+
+component was measuring a much narrower domain of sexual victimization.
+
+One caution in this line of reasoning is that, as discussed previously, nearly
+
+half of the completed rape victims defined their victimization as a Òrape,Ó a
+
+clear criminal offense. Even when the count of rape victims is limited to this
+
+group, the prevalence of rape victims is several times greater in the main
+
+component than in the comparison components. Still, the impact of survey
+
+context on respondentsÕresponses to sexual victimization questions remains
+
+an area that warrants further research.
+Of course, many other methodological issues in addition to the use of
+behaviorally specific screen questions and survey context will have to be
+
+addressed in the quest to design surveys capable of achieving more accurate
+
+estimates of rape and other forms of sexual victimization. These would
+
+include, but not be limited to, issues such as the differential meaning that
+
+words used in questions mighthave to respondents, the impact of the
+
+sequencing of questions on answers, the use of more verbatim descriptions
+
+of victimization incidents in coding Òwhat happenedÓ in a sexual assault,
+
+and perhaps the use of computer-aided personal interviewing as a means of
+
+encouraging respondents to disclose traumatic events. In short, systematic,
+
+rigorous experimental research into the factors that affect victim responses
+
+and, in turn, victimization estimatesÑespecially in the sensitive area of rape
+
+and sexual assaultÑremains in its beginning stages.
+Although exceptions exist, most sexual victimizations occur when college
+women are alone with a man they know, at night, and in the privacy of a
+
+residence. Most women attempt to take protective actions against their
+
+assailants but are then reluctant to report their victimization to the police.
+
+Although based on fewer cases, these same patterns were found as well in
+
+the comparison component survey, which used NCVS methodology.
+37Theanalysis also revealed that some college women were more at risk of being
+
+victimized than others. Several factors appeared to increase various types of
+
+victimization: living on campus, being unmarried, getting drunk frequently,
+
+and experiencing prior sexual victimization.
+The Sexual Victimization of College Women
+34 Finally, in the aftermath of this study, an important challenge remains:
+Taking the information found and developing programs and policies that
+
+may reduce female studentsÕrisk of victimization. Minor forms of sexual
+
+victimizationÑsexist statements, harassing catcalls, sexually tainted whis-
+
+tlesÑappear to be commonplace. How can a more civil environment be
+
+achieved without compromising free speech? Much is known about the cir-
+
+cumstances under which sexual victimization, including rape, most often
+
+occurs. How can this information be used in crime prevention programs,
+
+including rape awareness seminars designed for women or rape prevention
+
+seminars designed for men? Furthermore, the relatively high prevalence of
+
+stalkingÑa form of victimization often ignored by college officialsÑis
+
+cause for concern. What strategies can women use to prevent or end stalk-
+
+ing? What programs might colleges implement to control or counsel men
+
+who stalk? More generally, how can the lives of college womenÑwhether
+
+on, close to, or off campusÑbe made safer and thus free from the costs
+
+imposed by the experience of sexual victimization?
+Notes1.Bonnie S. Fisher et al., ÒCrime in the Ivory Tower: The Level and Sources of
+Student Victimization,Ó 
+Criminology
+36 (1998): 671Ð710.2.Walter DeKeseredy and Katharine Kelly, ÒThe Incidence and Prevalence of
+Women Abuse in Canadian University and College Dating Relationships,Ó
+
+Canadian Journal of Sociology
+18 (1993): 137Ð59; Fisher et al., ÒCrime in the Ivory TowerÓ; Mary P. Koss, Christine A. Gidycz, and Nadine Wisniewski, 
+
+ÒThe Scope of Rape: Incidence and Prevalence of Sexual Aggression and
+
+Victimization in a National Sample of Higher Education Students,Ó 
+Journal 
+of Counseling and Clinical Psychology
+55 (1987): 162Ð70.3.John J. Sloan, Bonnie S. Fisher, and Francis T. Cullen, ÒAssessing the Student
+Right-to-Know and Campus Security Act of 1990: An Analysis of the Victim
+
+Reporting Practices of College and University Students,Ó 
+Crime andDelinquency43 (1997): 248Ð68.4.ÒThe Jeanne Clery Act Information Page,Ó at 
+www.campussafety.org
+(SecurityOn Campus: College and University Campus Safety Information On-Line,
+
+maintained by Security on Campus, Inc., King of Prussia, Pennsylvania, 2000).
+5.Bonnie S. Fisher, ÒCampus Crime and Fear of Victimization: Judicial,
+Legislative, and Administrative Responses,Ó 
+The Annals of the American
+The Sexual Victimization of College Women
+35 Academy of Political and Social Science
+539 (1995): 85Ð101; Michael C.
+Griffaton, ÒState-Level Initiatives and Campus Crime,Ó in 
+Campus Crime:Legal, Social, and Policy Perspectives
+, edited by Bonnie S. Fisher and John J.
+Sloan III (Springfield, Illinois: Charles C. Thomas Publisher, 1995).
+6.ÒJustice Department Awards $8.1 Million to Colleges and Universities to
+Combat Violence Against Women,Ó edited by Daniel S. Carter, at 
+www.campus
+safety.org
+(Security On Campus: College and University Campus SafetyInfor-
+mation On-Line, maintained by Security on Campus, Inc., King ofPrussia,
+
+Pennsylvania, 2000).
+7.DeKeseredy and Kelly, ÒThe Incidence and Prevalence of Women AbuseÓ;
+Fisher et al., ÒCrime in the Ivory TowerÓ; Koss et al., ÒThe Scope of Rape.Ó
+8.In the comparison component, the screen questions and incident questions were
+virtually identical to those used in NCVS. In designing the comparison compo-
+nent, two minor changes were made to NCVS. First, slight word changes or
+
+additional responses to the response sets of questions in the incident report
+were made to capture plausible response from a college student sample. For
+
+example, to determine to which authority the victim reported the victimization,
+
+Òcampus policeÓ was included in the response set. Second, a few questions
+
+were added to the NCVS incident report. For example, questions about offend-
+
+er characteristics included a question about fraternity membership.9.Most of the sample (
+n= 4,446) were full-time students (90.1 percent) andundergraduates (86.1 percent). Freshmen at 4-year schools/first-year students
+
+at 2-year schools made up 24.2 percent of the sample; sophomores at 4-year
+schools/second-year students at 2-year schools, 22.0 percent; juniors, 17.5 
+percent; seniors, 22.4 percent; graduate students, 12.1 percent; and others 
+(postdoctorate, continuing education, certification programs), 1.7 percent. As
+
+expected, the sample was youthful: Slightly more than 76 percent of the sample
+
+was between the ages of 17 and 22 years (mean = 21.54, standard deviation =
+
+4.25). Most of the sample were white, non-Hispanic (80.6 percent), followed
+
+by African-American, non-Hispanic (7.0 percent), Hispanic (6.2 percent), Asian/
+
+Pacific Islander,non-Hispanic (3.4 percent), American Indian/Alaska Native,
+
+non-Hispanic (0.8 percent), and mixed or other (1.5 percent). Less than 1 percent
+
+(0.5) of respondents refused or did not know their race or ethnicity.
+10.The interview was conducted by the firm of Shulman, Ronca, and Bucuvalas,
+Inc., and lasted an average of 25.9 minutes. This is the same firm that Tjaden and
+
+Thoennes (1998) employed for the National Violence Against Women Study.
+The Sexual Victimization of College Women
+36 11.Bonnie S. Fisher and Francis T. Cullen, 
+The Extent and Nature of Sexual
+Victimization Among College Women: Results from a National-Level Study
+
+(Unpublished report, Washington, DC: U.S. Department of Justice, National
+
+Institute of Justice, 1999); Bonnie S. Fisher and Francis T. Cullen, ÒMeasuring
+
+the Sexual Victimization of Women: Evolution, Current Controversies and
+
+Future Research,Ó in 
+Criminal Justice 2000, Volume 4: Measurement and
+Analysis of Crime, edited by David Duffee (Washington, DC: U.S. Department
+of Justice, National Institute of Justice, 2000).12.Dean G. Kilpatrick, Christine N. Edmunds, and Anne Seymour, 
+Rape in America:
+A Report to the Nation(Arlington, Virginia: National Victim Center, 1992).
+13.Patricia Tjaden and Nancy Thoennes, 
+Stalking in America: Findings From the
+National Violence Against Women Survey
+, Research in Brief (Washington, DC:
+U.S. Department of Justice, National Institute of Justice, 1998, NCJ 169592).14.Questionnaires are available in portable document format (pdf) files from the
+BJS Web site, at 
+www.ojp.usdoj.gov/bjs/quest.htm
+(July 24, 2000).
+15.Koss et al., ÒThe Scope of Rape.Ó
+
+16.The minimum reference period was 6 months, and the maximum was 8 months
+(standard deviation = 20.3 days).
+17.Nonundergraduates made up 13.8 percent of the sample. They included gradu-
+ate students, postdoctorate fellows, continuing education students, certification 
+
+students, and others.18.These projections are suggestive. To assess accurately the victimization risk for
+women throughout a college career, longitudinal research following a cohort of
+
+female students across time is needed.19.Bonnie S. Fisher and Frances T. Cullen, 
+Violent Victimization Against College
+Women: Results From a National-Level Study
+(Unpublished report, Washington,
+DC: U.S. Department of Justice, Bureau of Justice Statistics, 1999).20.The interviews lasted, on average, 12.7 minutes. Most of the sample (
+N=4,432) were full-time students (89.3 percent) and undergraduates (82.1 per-
+
+cent). Freshmen at 4-year schools/first-year students at 2-year schools made up
+
+19.9 percent of the sample; sophomores at 4-year schools/second-year students
+at 2-year schools, 19.5 percent; juniors, 17.3 percent; seniors, 25.4 percent; grad-uate students,16.6 percent; and others (postdoctorate, continuing education,certification programs), 1.6 percent. As expected, the sample was youthful; 61
+The Sexual Victimization of College Women
+37 The Sexual Victimization of College Women
+38percent of the sample was between the ages of 17 and 22 years (mean = 23.18,
+standard deviation = 4.79). Most of the sample was white, non-Hispanic (81.6
+
+percent), followed by African-American, non-Hispanic (6.9 percent), Hispanic
+
+(5.1 percent), Asian/Pacific Islander, non-Hispanic (3.5 percent), American
+
+Indian/Alaska Native, non-Hispanic 
+(0.7 percent), and mixed or other (1.8 per-
+cent). Less than 1 percent (0.5) of respondents refused or did not know their
+
+race or ethnicity.
+21.Some of the incident-level questions had to be modified to reflect the character-
+istics of a college sample. For example, locations where an incident occurred
+
+included on-campus locations, such as a residence hall room or the library.
+22.Personal communication with Jan Chaiken and Michael Rand, April 14, 2000.
+
+23.In the comparison component study, we collected verbatim responses for all
+incidents. We subsequently explored how the use of verbatim responses can
+
+potentially affect estimates of completed rape, attempted rape, and threat of
+
+rape. See Fisher and Cullen, Criminal Justice 2000
+.24.DeKeseredy and Kelly, ÒThe Incidence and Prevalence of Women ViolenceÓ;
+Koss et al., ÒThe Scope of RapeÓ; Nancy A. Crowell and Ann W. Burgess, 
+
+editors, Understanding Violence Against Women,
+by the Panel on Violence
+Against Women, National Research Council (Washington, DC: National
+
+Academy Press, 1996).25.Tjaden and Thoennes, 
+Stalking in America
+.26.Rape victims also have screened into an incident report based on a ÒyesÓ to
+other sexual victimization screen questions (Fisher and Cullen, 
+Criminal Justice
+2000).27.Neil Gilbert, ÒAdvocacy Research and Social Policy,Ó in 
+Crime and Justice: A
+Review of Research
+, edited by Michael Tonry (Chicago: University of Chicago
+Press, 1997).28.Mary P. Koss, ÒThe Underdetection of Rape: Methodological Choices Influence
+Incidence Estimates,Ó 
+Journal of Social Issues
+48 (1992): 61Ð75; Mary P. Koss,
+ÒThe Measurement of Rape Victimization in Crime Surveys,Ó 
+Criminal Justice
+and Behavior23 (1996): 55Ð69. 29.Victoria L. Pitts and Martin D. Schwartz, ÒPromoting Self-Blame in Hidden
+Rape Cases,Ó 
+Humanity and Society17(4) (1993): 383Ð98.
+30.Elizabeth Ehrhardt Mustaine and Richard Tewksbury, ÒA Routine Activity
+Theory Explanation of WomenÕs Stalking Victimizations,Ó 
+Violence Against
+Women
+5(1) (1999): 43Ð62. 31.Mustaine and Tewksbury provide no definition of stalking. Instead, to opera-
+tionalize stalking, surveyed respondents were asked whether, during the prior 
+
+6 months, they had been a victim of behavior that they defined as stalking.
+32.Tjaden and Thoennes, 
+Stalking in America
+.33.Ibid.
+
+34.Of the 696 incidents, in 11 incidents the respondents refused to discuss the 
+incident, and in 13 incidents the respondents did not tell us the form(s) of the
+stalking behavior. Reported percentages are based on 672 incidents.
+35.Ibid.
+
+36.Gilbert, ÒAdvocacy Research and Social Policy.Ó
+
+37.Fisher and Cullen, 
+Violent Victimization Among College Women
+.The Sexual Victimization of College Women
+39 About the National Institute of Justice
+The National Institute of Justice (NIJ), a component of the Office of Justice Programs, is the research
+agency of the U.S. Department of Justice. Created by the Omnibus Crime Control and Safe Streets
+
+Act of 1968, as amended, NIJ is authorized to support research, evaluation, and demonstration pro-
+
+grams, development of technology, and both national and international information dissemination.
+
+Specific mandates of the Act direct NIJ to: 
+¥Sponsor special projects and research and development programs that will improve and
+strengthen the criminal justice system and reduce or prevent crime.
+¥Conduct national demonstration projects that employ innovative or promising approaches for
+improving criminal justice.
+¥Develop new technologies to fight crime and improve criminal justice.
+
+¥Evaluate the effectiveness of criminal justice programs and identify programs that promise to 
+be successful if continued or repeated.¥Recommend actions that can be taken by Federal, State, and local governments as well as by
+private organizations to improve criminal justice. 
+¥Carry out research on criminal behavior.
+
+¥Develop new methods of crime prevention and reduction of crime and delinquency. 
+In recent years, NIJ has greatly expanded its initiatives, the result of the Violent Crime Control and
+Law Enforcement Act of 1994 (the Crime Act), partnerships with other Federal agencies and private
+
+foundations, advances in technology, and a new international focus. Examples of these new initia-
+
+tives include: 
+¥Exploring key issues in community policing, violence against women, violence within the 
+family, sentencing reforms, and specialized courts such as drug courts.
+¥Developing dual-use technologies to support national defense and local law enforcement needs.
+
+¥Establishing four regional National Law Enforcement and Corrections Technology Centers and
+a Border Research and Technology Center. 
+¥Strengthening NIJÕs links with the international community through participation in the United
+Nations network of criminological institutes, the U.N. Criminal Justice Information Network,
+
+and the NIJ International Center.
+¥Improving the online capability of NIJÕs criminal justice information clearinghouse. 
+
+¥Establishing the ADAM (Arrestee Drug Abuse Monitoring) programÑformerly the Drug 
+Use Forecasting (DUF) programÑto increase the number of drug-testing sites and study 
+
+drug-related crime.The Institute Director establishes the InstituteÕs objectives, guided by the priorities of the Office of
+Justice Programs, the Department of Justice, and the needs of the criminal justice field. The Institute
+
+actively solicits the views of criminal justice professionals and researchers in the continuing search
+
+for answers that inform public policymaking in crime and justice. 
+To find out more about the National Institute of Justice 
+please contact:National Criminal Justice Reference Service P.O. Box 6000 
+Rockville, MD 20849Ð6000 800Ð851Ð3420e-mail: askncjrs@ncjrs.org
+To obtain an electronic version of this document, access the NIJ Web site
+(http://www.ojp.usdoj.gov/nij).
+If you have questions, call or e-mail NCJRS.

@@ -1,0 +1,210 @@
+Warning: 	The NCBI web site requires JavaScript to function.
+ more...        NCBISkip to main       contentSkip to       navigationResourcesHow ToAbout NCBI AccesskeysMy NCBISign in to NCBISign Out   PMC  US National Library of Medicine  National Institutes of Health   Search databasePMCAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBioSystemsBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNCBI Web SiteNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSparcleSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch Advanced  Journal list  Help          Journal ListAm J Public Healthv.109(6); Jun 2019PMC6506367        Am J Public Health.
+ 2019 June; 109(6): 854–858.
+ Published online 2019 June.
+ doi: 10.2105/AJPH.2019.305016PMCID: PMC6506367NIHMSID: NIHMS1023173PMID: 30998413Does Despair Really Kill?
+ A Roadmap for an Evidence-Based AnswerLilly Shanahan, PhD, Sherika N. Hill, PhD, Lauren M. Gaydosh, PhD, Annekatrin Steinhoff, PhD, E. Jane Costello, PhD, Kenneth A.
+ Dodge, PhD, Kathleen Mullan Harris, PhD, and William E. Copeland, PhDAuthor information Article notes Copyright and License information DisclaimerLilly Shanahan and Annekatrin Steinhoff are with the Jacobs Center for Productive Youth Development, University of Zurich, Zurich, Switzerland.
+ Sherika N. Hill and E. Jane Costello are with the Department of Psychiatry, Duke University Medical Center, Durham, NC.
+ Lauren M. Gaydosh is with the Center for Medicine, Health, and Society, Vanderbilt University, Nashville, TN.
+ Kenneth A.
+ Dodge is with the Center for Child and Family Policy, Duke University, Durham.
+ Kathleen Mullan Harris is with the Carolina Population Center, University of North Carolina at Chapel Hill.
+ William E. Copeland is with the Vermont Center for Children, Youth and Families, University of Vermont Medical Center, Burlington.Corresponding author.Correspondence should be sent to Lilly Shanahan, PhD, Jacobs Center for Productive Youth Development, University of Zurich, Andreasstrasse 15, P.O.
+ Box 12, CH-8050 Zurich, Switzerland (e-mail: hc.hzu@nahanahs.yllil).
+ Reprints can be ordered at http://www.ajph.org by clicking the “Reprints” link.CONTRIBUTORSL.
+ Shanahan, W. E. Copeland, and S. N. Hill conceptualized the article.
+ L. Shanahan drafted the article, with critical revisions from S. N. Hill and W. E. Copeland.
+ L. M. Gaydosh, A. Steinhoff, E. J. Costello, K. A.
+ Dodge, and K. M. Harris critically revised the article and contributed important intellectual content.Peer ReviewedAccepted January 26, 2019.Copyright © American Public Health Association 2019This article has been cited by other articles in PMC.AbstractTwo seemingly associated demographic trends have generated considerable interest: income stagnation and rising premature mortality from suicides, drug poisoning, and alcoholic liver disease among US non-Hispanic Whites with low education.
+ Economists interpret these population-level trends to indicate that despair induced by financial stressors is a shared pathway to these causes of death.Although we now have the catchy term “deaths of despair,” we have yet to study its central empirical claim: that conceptually defined and empirically assessed “despair” is indeed a common pathway to several causes of death.
+ At the level of the person, despair consists of cognitive, emotional, behavioral, and biological domains.
+ Despair can also permeate social relationships, networks, institutions, and communities.Extant longitudinal data sets feature repeated measures of despair—before, during, and after the Great Recession—offering resources to test the role that despair induced by economic decline plays in premature morbidity and mortality.
+ Such tests must also focus on protective factors that could shield individuals.
+ Deaths of despair is more than a phrase; it constitutes a hypothesis that deserves conceptual mapping and empirical study with longitudinal, multilevel data.After decades of improvement, premature mortality (i.e., unfulfilled life expectancy) is on the rise among US non-Hispanic White adults with a high school degree or less.1,2 Common causes of mortality in midlife—motor vehicle crashes, cancer, cardiovascular disease, HIV—are not to blame.
+ Rather, suicide, drug poisoning (particularly from opiates), and alcoholic liver disease are among the main culprits, and their prevalence has especially risen in geographic regions hit hardest by economic decline (e.g., the Rust Belt, parts of Appalachia).3At the population level, recent increases in premature mortality have coincided with decades of economic decline for less educated and unskilled workers, accompanied by declining family incomes and marriage rates, an increase in single-parent households, disengagement from the labor force, and community decline.1,2 These trends were further exacerbated by the Great Recession.
+ Some economists have interpreted these recent population-level trends to indicate that despair rising from economic stagnation is a shared pathway to suicide, drug poisoning, and death from alcoholic liver disease.
+ Accordingly, they coined the term deaths of despair,1,2 which quickly captured the attention of scientists,4–7 policymakers,8 and popular media but also drew criticism from addiction researchers,9 racial disparities researchers,10–12 family sociologists,13 and demographers.14Despite this high level of interest, the deaths of despair literature has neither defined nor empirically assessed its central concept, despair.
+ This is concerning because deaths of despair constitutes an empirical hypothesis—that despair is a critically important mediator in a complex causal field that links economic troubles with diverse forms of morbidity and mortality.
+ Deaths of despair research holds promise for delivery of a shared cause in an otherwise complex web of causality and, by extension, a basis for reversing several increases in premature mortality.
+ Presently, however, the gap between deaths of despair as a claim and deaths of despair as a rigorously tested scientific concept is wide.We propose that despair, and its hypothesized role in rising premature mortality, deserves empirical study and thus requires multidimensional conceptual mapping.
+ We also urge the study of protective factors that moderate the putative effects of financial stressors on despair and deaths of despair so that preventions and interventions might have an empirical basis.
+ Such studies would also illuminate additional consequences of despair on the pathway to premature death, such as poor physical (e.g., cardiometabolic) health, and insights into whether, why, and how some at-risk populations (e.g., poor African Americans in the United States) have seemingly escaped recent increases in premature mortality (although this finding is under debate12), and others have not (e.g., American Indians11,12).THE FORGOTTEN CONSTRUCT OF DESPAIRThe word despair derives from the Latin term desperare, which means “down from hope.” The death of despair literature conceptualizes despair broadly as a sentiment affecting entire segments of a population in response to the bleak conditions that follow economic stagnation.
+ To date, despair has primarily been studied as a component of clinical constructs that arise for heterogeneous reasons.
+ For example, despair is a core symptom of depression—a clinical diagnosis that also requires the presence of additional symptoms or impairments and that can be the result of both internal and external causes.In light of the new deaths of despair literature, despair deserves to be studied in its own right.
+ Borrowing from the depression literature for conceptualization and measurement can help launch this research.
+ Work on depression has highlighted that despair manifests not only in cognitions but also in emotions, behaviors, and biology (Figure A, available as a supplement to the online version of this article at http://www.ajph.org; also see text in the next section).
+ Indeed, the joint consideration of these domains may be key to understanding pathways to despair-related morbidity and premature mortality.When studying population-level trends, one must go beyond the individual.
+ Despair can arise in, spread through, and affect social contexts, including social networks and communities.
+ Social context–level despair could compound individual-level despair and also operate via distinct socially mediated mechanisms.
+ The economics literature suggests that stagnation in the local or broader economy can adversely affect several aspects of well-being.15 Without empirical evidence, despair has been suggested as a possible mediator.In sum, despair manifests itself in cognitive, emotional, behavioral, and biological domains and in social contexts.
+ Assessments of despair in these domains and at multiple levels are needed to test the deaths of despair literature’s hypothesis about premature mortality.
+ We now turn to a discussion of definitions and assessments of the different domains and levels of despair.DOMAINS OF DESPAIRCognitive despair refers to thoughts indicating defeat, hopelessness, guilt, worthlessness, learned helplessness, pessimism, and limited positive expectations for the future.
+ It also subsumes cognitive biases, including repeated mistakes in perceiving, interpreting, and remembering others’ actions as antagonistic (e.g., hostile attribution bias).16 Such biases tend to self-perpetuate, meaning that others’ actions are increasingly perceived and remembered as hostile.
+ Another cognitive bias is hyperbolic discounting, which is the tendency to give undue weight to current outcomes and to discount the value of long-term outcomes, presumably because the long-term future may never come to pass.17 Many extant measures assess aspects of cognitive despair, including depression inventories (e.g., thoughts of resignation, defeat); anxiety inventories (e.g., worries assessed by generalized anxiety inventories); stand-alone measures of hopelessness, optimism and pessimism, and future expectations; and tasks assessing cognitive biases.Emotional despair includes feelings of excessive sadness, irritability, hostility, loneliness, anhedonia, and apathy.
+ The last two qualities refer to the inability to experience pleasure and reward and the resulting lack of motivation and action.
+ In turn, irritability and hostility predict additional difficulties in interpersonal relationships.
+ As with cognitive despair, emotional despair is assessed with depression and anxiety inventories and also with stand-alone measures of irritability and interpersonal conflict.
+ Like the cognitive component, emotional despair can lead to behaviors that bend situations in negative ways.Behavioral despair consists of risky, reckless, and unhealthy acts that are self-destructive and reflect limited consideration of the future (e.g., high-risk sexual behaviors, gambling, self-harm, reckless driving, excessive spending, criminal activity, smoking, substance use, low physical activity).
+ Behavioral despair may reflect a maladaptive attempt to cope with distress.
+ It may also reflect a lack of hope for a positive future and may, in fact, arise as a result of cognitive biases such as hyperbolic discounting.16 Another pole of behavioral despair is the behavioral inaction that comes with anhedonia, apathy, and learned helplessness.
+ This phenomenon is also called sickness behaviors in medicine because individuals who have dysregulated immune function (e.g., in response to exposure to stressors) display such behavioral inaction.18 The different aspects of behavioral despair are assessed with inventories of risky, unhealthy, and self-harming behaviors; depression inventories; and objective administrative records (e.g., debt, bankruptcy, criminal, or social services records).Finally, biological despair occurs when the body’s stress-reactive systems no longer function homeostatically and show signs of dysregulation or depletion, which constitutes a biological correlate of, and sometimes a basis for, cognitive, emotional, and behavioral despair.19 Biological despair manifests itself in the hypothalamic–pituitary–adrenal axis, the autonomous nervous system, and the immune system.
+ Biological despair can also be inferred from changes in body functions (e.g., sleep, appetite, concentration or restlessness, and somatic symptoms or pain).Despair, at the level of the individual, is a multifaceted construct with manifestations in different, interrelated domains.
+ Stand-alone measures of aspects of despair exist (e.g., hopelessness), as do inventories of depression, anxiety, irritability, and interpersonal difficulties.
+ Psychometric work needs to evaluate the degree to which despair is a valid construct with convergent validity across these domains and discriminant validity with related but distinct constructs (e.g., generalized anxiety).
+ Empirical work also needs to evaluate whether social network– and community-level economic conditions are associated with despair within and across these domains and to what extent pathways from despair to premature mortality from suicide, drug poisoning, and alcoholic liver disease are shared or distinct.THE SOCIAL NATURE OF DESPAIRThe domains of despair are not limited to the individual; they can also permeate social contexts, including social networks and communities in which people are embedded.
+ Social networks are circumscribed sets of connected social actors; communities constitute larger social units with commonalities (e.g., location).
+ Despair can arise in networks and communities when their members are exposed to the same distressing event (e.g., students exposed to a schoolmate’s suicide, employees to the closing of their company, entire towns to the consequences of an economic downturn).
+ In the wake of such shared exposures, average levels of cognitive, emotional, behavioral, and biological despair may increase markedly in social groups and, in turn, further compound individual-level despair.
+ Indeed, exposure to adversity in communities that are disadvantaged to begin with can lead to disengagement and declines in social cohesion, creating a pernicious cycle between the person and his or her community.20In addition to shared exposures, despair at the contextual level may arise and increase via distinct socially mediated mechanisms.
+ For example, social contagion refers to the diffusion of (or increasing similarity in) emotions, cognition, behavior, or biology in social contexts.
+ Indeed, despair-related negative emotions can spread in real-life networks of adolescent girls21 or virtual social networks (e.g., Facebook users); behavioral and biological despair, including unhealthy and violent behaviors,22 and cortisol levels and obesity23 can spread in social units such as neighborhoods, military bases, classrooms, or after-school programs.
+ A second socially mediated mechanism is social comparison, which occurs when a person uses comparisons with others to determine her or his own worth.
+ Such comparisons are more accessible in the era of social media and may reveal disadvantageous results for less educated non-Hispanic Whites, which could further contribute to individual-level despair.How individual- and social context–level despair operate together is not fully understood.
+ Despair in a community or network could propel despairing individuals forward on pathways to deaths of despair.
+ Conversely, diffusion of protective factors (e.g., sense of belonging, behavioral activation to acquire new skills and healthy behaviors, reappraisals of difficult situations) in social contexts could diminish individual-level despair and prevent deaths of despair.Longitudinal studies that use social units (e.g., schools, neighborhoods) as their sampling frame provide unique opportunities for measuring social context–level despair by, for example, gauging increasing group similarity in measures of despair or observing group-level means in despair over time.
+ Studies can also incorporate objective social context–level measures that might spawn despair, including local foreclosure or unemployment rates, neighborhood-level rates of decaying or abandoned buildings,24 or county-level social services use.PATHWAYS TO DEATHS OF DESPAIRThe deaths of despair literature not only implicates despair as a psychological and social construct that triggers multiple causes of death, it also suggests that pathways to deaths of despair may stretch across multiple years and decades (Figure 1).
+ For example, exposure to economic stagnation increases the likelihood of declining incomes and job prospects and disengagement from the labor force and social bonds (e.g., marriage, parenthood) that can deter individuals from despair-related behaviors.25 A major hypothesis is that these risk factors increase the likelihood of despair in multiple domains, which then increases the likelihood of diseases of despair (i.e., suicidal ideation and attempt, illicit drug use, alcohol abuse and addiction), ultimately predicting increased risk for deaths of despair.
+ These diseases of despair may also predict additional nonfatal health outcomes rarely discussed in the deaths of despair literature, including autoimmune and infectious diseases.Open in a separate windowFIGURE 1—Hypothesized Developmental Progression From Economic Stagnation to Deaths of DespairFigure 1 suggests that social contexts can further strengthen or weaken pathways to deaths of despair, as can a number of additional moderators.
+ For example, age at which the economic stagnation was experienced, sociodemographic group, sex, protective factors, and vulnerability factors that preceded economic stagnation—such as previous childhood adversity, substance use or psychopathology, and family history of (or genetic vulnerabilities to) substance use or psychiatric disorders—could moderate associations between the constructs depicted in Figure 1.
+ Admittedly, Figure 1 also illustrates that from an econometric perspective, the model implied by the deaths of despair literature poses daunting challenges for establishing causality.TESTING PATHWAYS WITH EXTANT DATA SETSFigure 1 provides a roadmap for testing deaths of despair hypotheses.
+ Some studies aimed at examining this model—for example, in the context of the Great Recession—can no longer be newly designed.
+ Fortuitously, some extant prospective, longitudinal data sets feature years’ or decades’ worth of repeated measurements with individuals who are now young adults or middle aged—that is, entering or in the midst of the ages at which risk for premature mortality from deaths of despair is currently the highest.
+ These include, for example, the National Longitudinal Study of Adolescent to Adult Health, the Midlife in the United States study, the Detroit Neighborhood and Health Study, the Great Smoky Mountains study, and others.These data sets feature repeated assessments of risk factors for despair, different domains and levels of despair, and diseases of despair and also a range of protective or vulnerability factors (i.e., potential moderators).
+ Many of these data sets keep track of participant mortality and causes of death.
+ Finally, some of the data sets use larger social units (e.g., schools, neighborhoods) as sampling frames and thus have the capacity to capture social context–level despair.
+ No data set measured every construct depicted in Figure 1 perfectly, nor did they measure all domains and levels of despair, but strategic parallel or integrative data analysis could yield important new insights about deaths of despair.CONCLUSIONSThe recent work on deaths of despair has reinvigorated research on premature mortality from suicide, drug poisoning, and alcoholic liver disease.
+ Yet, its key construct, despair, has received little attention.
+ Despair can occur in cognitive, emotional, behavioral, and biological domains at the individual level and in social contexts.
+ To truly understand deaths of despair and to accurately predict who may succumb to which deaths of despair or who may be resilient, these domains and levels must be considered.In addition to testing the central premises of the deaths of despair framework, a focus on despair could answer a number of important questions.
+ First, what are the typical constellations of domains and levels of despair that predict deaths of despair?
+ Are these pathways shared by all deaths of despair, are there some distinct triggers, or are there distinctive constellations for specific deaths of despair?
+ Second, what are key protective factors that shield individuals from deaths of despair, and how can pathways to deaths of despair best be weakened or broken?
+ Third, does the hypothesized impact of economic stagnation in increasing deaths of despair apply more generally to groups other than non-Hispanic Whites with no more than a high school degree?
+ And are pathways to deaths of despair more generally valid for other economic trends that affect segments of the population, for example, those who struggle with intergenerational downward mobility?
+ Fourth, beyond suicide and deaths from drug abuse and alcohol addiction, what are despair’s other consequences (e.g., poor physical health, mortality from additional causes)?A new focus on the conceptualization and measurement of despair will result in novel findings of complex relations that are urgently needed for improving targeted and timely interventions to reverse recent increases in premature mortality.
+ Strategies for protecting people from and alleviating despair could include (1) embedding people in social activities and structures that foster a sense of belonging, meaning, and hope; (2) increasing personal and social capital in ways that increase barriers to committing acts of behavioral despair25; and (3) stabilizing mood and reversing biological depletion (e.g., via increasing healthy behaviors, cognitive–behavioral strategies, or pharmacological intervention).
+ The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.CONFLICTS OF INTERESTThe authors have no financial disclosures to report.REFERENCES1.
+ Case A, Deaton A.
+ Rising morbidity and mortality in midlife among White non-Hispanic Americans in the 21st century.
+ Proc Natl Acad Sci U S A.
+ 2015;112(49):15078–15083.
+ [PMC free article] [PubMed] [Google Scholar]2.
+ Case A, Deaton A. Mortality and morbidity in the 21st century.
+ Brookings Pap Econ Act.
+ 2017;2017(1):397–476.
+ [PMC free article] [PubMed] [Google Scholar]3.
+ Meit M, Hefferman M, Tanenbaum E, Hoffmann T. Final Report: Appalachian Diseases of Despair.
+ Bethesda, MD: Walsh Center for Rural Health Analysis, NORC at the University of Chicago; 2017.
+ [Google Scholar]4.
+ Diez Roux AV.
+ Despair as a cause of death: more complex than it first appears.
+ Am J Public Health.
+ 2017;107(10):1566–1567.
+ [PMC free article] [PubMed] [Google Scholar]5.
+ Stein EM, Gennuso KP, Ugboaja DC, Remington PL.
+ The epidemic of despair among White Americans: trends in the leading causes of premature death, 1999-2015.
+ Am J Public Health.
+ 2017;107(10):1541–1547.
+ [PMC free article] [PubMed] [Google Scholar]6.
+ Scutchfield FD, Keck CW.
+ Deaths of despair: Why?
+ What to do?
+ Am J Public Health.
+ 2017;107(10):1564–1565.
+ [PMC free article] [PubMed] [Google Scholar]7.
+ Erwin PC.
+ Despair in the American Heartland?
+ A focus on rural health.
+ Am J Public Health.
+ 2017;107(10):1533–1534.
+ [PMC free article] [PubMed] [Google Scholar]8.
+ Auerbach J, Miller BF.
+ Deaths of despair and building a national resilience strategy.
+ J Public Health Manag Pract.
+ 2018;24(4):297–300.
+ [PubMed] [Google Scholar]9.
+ Ruhm CJ.
+ Deaths of Despair or Drug Problems?
+ NBER Working Paper No.
+ 24188.
+ Cambridge, MA: National Bureau of Economic Research; 2018.
+ [Google Scholar]10.
+ Brown L, Tucker-Seeley R. Commentary: Will “deaths of despair” among Whites change how we talk about racial/ethnic health disparities?
+ Ethn Dis.
+ 2018;28(2):123–128.
+ [PMC free article] [PubMed] [Google Scholar]11.
+ Komro KA.
+ Preventing risk for “deaths of despair” among American Indian youths: unanswered questions for future research.
+ Am J Public Health.
+ 2018;108(8):973–974.
+ [PMC free article] [PubMed] [Google Scholar]12.
+ Woolf SH, Chapman DA, Buchanich JM, Bobby KJ, Zimmerman EB, Blackburn SM.
+ Changes in midlife death rates across racial and ethnic groups in the United States: systematic analysis of vital statistics.
+ BMJ.
+ 2018;362:k3096.
+ [PMC free article] [PubMed] [Google Scholar]13.
+ Cherlin AJ.
+ Psychological health and socioeconomic status among non-Hispanic Whites.
+ Proc Natl Acad Sci U S A.
+ 2018;115(28):7176–7178.
+ [PMC free article] [PubMed] [Google Scholar]14.
+ Masters RK, Tilstra AM, Simon DH.
+ Mortality from suicide, chronic liver disease, and drug poisonings among middle-aged US White men and women, 1980-2013.
+ Biodemography Soc Biol.
+ 2017;63(1):31–37.
+ [PMC free article] [PubMed] [Google Scholar]15.
+ Gassman-Pines A, Gibson-Davis C, Ananat EO.
+ How economic downturn affects children’s development: an interdisciplinary perspective on pathways of influence.
+ Child Dev Perspect.
+ 2015;9(4):233–238.
+ [Google Scholar]16.
+ Dodge KA, Price JM, Bachorowski JA, Newman JP.
+ Hostile attributional biases in severely aggressive adolescents.
+ J Abnorm Psychol.
+ 1990;99(4):385–392.
+ [PubMed] [Google Scholar]17.
+ Pulcu E, Trotter PD, Thomas EJ et al.
+ Temporal discounting in major depressive disorder.
+ Psychol Med.
+ 2014;44(9):1825–1834.
+ [PMC free article] [PubMed] [Google Scholar]18.
+ Raison CL, Capuron L, Miller AH.
+ Cytokines sing the blues: inflammation and the pathogenesis of depression.
+ Trends Immunol.
+ 2006;27(1):24–31.
+ [PMC free article] [PubMed] [Google Scholar]19.
+ McEwen BS, Seeman T. Protective and damaging effects of mediators of stress: elaborating and testing the concepts of allostasis and allostatic load.
+ Ann N Y Acad Sci.
+ 1999;896(1):30–47.
+ [PubMed] [Google Scholar]20.
+ Desmond M, Travis A.
+ Political consequences of survival strategies among the urban poor.
+ Am Sociol Rev.
+ 2018;83(5):869–896.
+ [Google Scholar]21.
+ Rose AJ, Glick GC, Smith RL, Schwartz-Mette RA, Borowski SK.
+ Co-rumination exacerbates stress generation among adolescents with depressive symptoms.
+ J Abnorm Child Psychol.
+ 2017;45(5):985–995.
+ [PMC free article] [PubMed] [Google Scholar]22.
+ Bond RM, Bushman BJ.
+ The contagious spread of violence among US adolescents through social networks.
+ Am J Public Health.
+ 2017;107(2):288–294.
+ [PMC free article] [PubMed] [Google Scholar]23.
+ Datar A, Nicosia N. Assessing social contagion in body mass index, overweight, and obesity using a natural experiment.
+ JAMA Pediatr.
+ 2018;172(3):239–246.
+ [PMC free article] [PubMed] [Google Scholar]24.
+ McClure E, Feinstein L, Ferrando-Martinez S, Leal M, Galea S, Aiello AE.
+ The Great Recession and immune function.
+ RSF.
+ 2018;4(4):62–81.
+ [PMC free article] [PubMed] [Google Scholar]25.
+ Sampson RJ, Laub JH.
+ Crime and deviance over the life course: the salience of adult social bonds.
+ Am Sociol Rev.
+ 1990;55(5):609–627.
+ Please review our privacy policy.
+ NLM   NIH   DHHS   USA.gov      National Center for       Biotechnology Information,      U.S. National Library of Medicine  8600 Rockville Pike, Bethesda MD, 20894 USA   Policies and Guidelines | Contact

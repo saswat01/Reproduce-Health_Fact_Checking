@@ -1,0 +1,458 @@
+Page 2 of 8(N=24,808) participating in the NHANES 2001-2010 were merged to 
+increase sample size [25,26]. Excluded from the analyses were those 
+individuals with dietary records judged to be incomplete by the 
+National Center for Health Statistics sta˛ (n=147) andˆfemales who 
+
+were pregnant or lactating (n=1,128). ˚is secondary analysis was 
+without individual identi˜ers; therefore, no Institutional Review Board 
+review was required [27].Demographics and dietary information
+Demographic information was determined from the NHANES 
+interview administered in the Mobile Examination Center [28]. Intake 
+data were obtained from What We Eat in America which collected an 
+in-person 24-hour dietary recall interview and a telephone 24-hour 
+dietary recall conducted three to ten days later. Both types of recalls 
+
+was administered using an automated multiple-pass method [29,30]. 
+
+Detailed descriptions of the dietary interview methods are provided in 
+the NHANES Dietary Interviewers Procedure Manuals [31,32].˚e USDA Food and Nutrient Database for Dietary Studies (FNDDS) [33] single food code was used to identify fresh pear 
+
+consumers were 63137010. Individuals were classi˜ed as consumers 
+if any amount of fresh pear was ingested either day of the recall. For 
+each participant, daily total energy and nutrient intakes from foods 
+
+and beverages were obtained from the total nutrient intake ˜les of the 
+FNDDS associated with each data release. ˚e Vitamin D Addendum 
+to USDA Food and Nutrient Database for Dietary Studies 3.0 [34] was 
+used to determine vitamin D intake. Intake from supplements was not 
+considered.Diet quality as determined by the healthy eating index (HEI-
+
+2010)˚e HEI-2010 was used to determine diet quality [35,36]. ˚e HEI is composed of 12 sub-components; the total HEI score is the sum of 
+the sub-component scores and has a maximum value of 100 points. A 
+
+higher score correlates with higher compliance to the DGA. Nine of 
+
+the sub-components address nutrient adequacy. ˚e remaining three 
+sub-components assess re˜ned grains, sodium, and empty calories, 
+which should be limited. ˚e SAS code used to calculate HEI-2010 total 
+score and sub-component scores was downloaded from the Center for 
+Nutrition Policy and Promotion website [37].Anthropometric and physiologic measures
+˚e NHANES protocols were used to determine height, weight, and waist circumference (WC) [38]. Body mass index (BMI) was calculated as body weight (kilograms) divided by height (meters) squared [39]. Overweight was de˜ned as a BMI between 25 and 29.9, whereas obesity was de˜ned as a BMI ˇ 30 [39]. High waist WC was de˜ned as >102 cm (males) or >88 cm (females). Systolic (SBP) and 
+diastolic blood pressures (DBP) were determined using the standard 
+
+NHANES protocol [40]. High density lipoprotein-cholesterol (HDL-C) was determined on non-fasted individuals [41] while LDL-C [42], triglycerides [42], blood glucose [43], and insulin [43] were determined 
+on only fasted subjects. ˚e homeostatic model assessment-insulin resistance (HOMA-IR) levels were calculated using insulin x glucose 
+(mg/dL)/405 [44,45]. Other tests were also done via NHANES standard 
+protocols: C-reactive protein [45], serum folate [46], and folate red blood cell [46]. Not all individuals had laboratory values for all tests.Metabolic syndrome was de˜ned using the National Heart Lung 
+and Blood Institute Adult Treatment Panel III criteria [47]; that is 
+
+having 3 or more of the following risk factors: abdominal obesity, WC>102 cm (males), >88 cm (females); hypertension, SBP ˇ130 
+mmHg or DBP ˇ85 mmHg or taking anti-hypertensive medications; 
+
+HDL-C, <40 mg/dL (males), <50 mg/dL (females); high triglycerides, 
+ˇ150 mg/dL or taking anti-hyperlipidemic medications; high fasting 
+glucose, ˇ110 mg/dL or taking insulin or other hypoglycemic agents. 
+Participants with any missing values were excluded from the analyses.Statistical analyses
+Sampling weights and the primary sampling units and strata information, as provided by NHANES [25,26], were included in all 
+analyses using SUDAAN v11.0 (Research Triangle Institute; Raleigh, 
+
+NC). Least-square means (and the standard errors of the least-square 
+means) were calculated using PROC REGRESS of SUDAAN. For dietary ˜ber and micronutrients, the National Cancer Institute (NCI) Method 
+[48] was used to estimate usual intake (UI) of selected nutrients in for 
+assessment of nutrient adequacy. Since nutrients are consumed daily 
+by most people, the one part model was used. ˚e NCI SAS macros (Mixtran v1.1 and Distrib v1.1) were used to generate parameter e˛ects a˝er covariate adjustments and to estimate the distribution of usual intake via Monte Carlo simulation methods, respectively [48]. 
+
+Covariates in this study were day of the week of the 24-hr recall [coded 
+as weekend (Friday-Sunday) or weekday (Monday-˚ursday)] and 
+sequence of dietary recall (˜rst or second). So˝ware provided by NCI was used with the two days of intake using one-day sampling weights 
+to obtain appropriate variance estimates. Balanced repeated replication 
+(BRR) was performed to obtain standard errors (SE) and con˜dence 
+
+intervals (CI) for the percentiles; BRR weights were constructed with 
+Fay adjustment factor M=0.3 (perturbation factor 0.7) and further 
+adjusted to match the initial sample weight totals within speci˜c age/
+gender/ethnicity groupings for the full dataset. ˚e Dietary Reference 
+Intake (DRI) age groups [49] were used to present nutrient adequacy for 
+each of the nutrients studied. Di˛erences among pear consumers and 
+
+non-consumers among the two groups were determined by computing 
+population Z statistics generated from UI variables. ˚e percent of the 
+population below Estimated Average Requirement (EAR) or above the 
+
+Adequate Intake (AI) [49] among pear consumers and non-consumers 
+was similarly examined. Linear regression was used to determine di˛erences between fresh pear consumers and non-consumers for nutrients, HEI-2010 total and sub-component scores, and physiologic measures. Logistic regression was used to determine if fresh pear consumers had a lower odds ratio 
+of being overweight or obese or having other adverse physiologic outcomes. For all linear and logistic regressions, covariates were age, 
+gender, ethnicity, poverty index ratio (one of three levels: 0-1.25, 1.25-
+3.5, ˇ3.5) [28], physical activity level (one of three levels: sedentary, 
+moderate, and vigorous) [50], current smoking status, and alcohol consumption, which was obtained from the 24-hour dietary recall. 
+
+Energy (kcals) was used for regressions in the nutrient analyses except when kcals were the dependent variable. Energy was also not used as a covariate in the HEI-2010 analyses, since HEI-2010 controls for energy. 
+
+Body Mass Index was used as a covariate in the biophysical variable linear regressions except when the dependent variable was body weight, BMI, or WC. For linear regression analysis and comparison of Z values a p<0.01 was used; however, for the logistic analysis a p value of <0.05 was considered signi˜cant.Results
+Demographics and fresh pear consumption
+Adult consumers of fresh pears were less likely to non-Hispanic  Page 3 of 8black (~ 6.5 percentage units less), more likely to be older (~7 years older), less likely current-smokers (~14 percentage units less), and 
+consumed less alcohol (about 5 g less) than non-consumers (Table 1). 
+Mean consumption of fresh pears among consumers was 169.5 g ± 6.6 
+g.Energy, macronutrient, and micronutrient intake
+Adult consumers of fresh pears had similar mean energy intakes, 9104 ± 222 kJ (2176 kcal) vs 9113 ± 38 kJ (2178 kcal), compared to 
+non-consumers (Table 2). Adult pear consumers also had lower daily mean intakes of total fat (~7 g or 8.6% less), monounsaturated fatty 
+
+acids (~3 g or 9.2% less), saturated fatty acids (~4 g or 13.7% less), and 
+added sugar (~3 tsp eq or 17% less), and higher mean daily intakes of dietary ˜ber (~49.7% more) and total sugars (~8.6% more) compared to non-consumers (Table 2).Adult consumers of fresh pears also had higher UI of vitamin C (~17 mg or 19.6% more) compared to non-consumers (Table 3a). Adult consumers had higher daily UI of magnesium (~40 mg 13.6% 
+more), copper (~0.25 mg or 19.6% more), and magnesium (~36 mg 
+or 11% more) compared to non-consumers (Table 3a). In addition, 
+consumers of fresh pears had higher intakes of dietary ˜ber (~9 g or 
+
+36% more) and potassium (~280 mg or 10.4% more) (Table 3b).Dietary adequacy
+Compared to non-consumers, a signi˜cantly lower percentage of 
+adult fresh pear consumers had vitamin A (~29 percentage units less), 
+vitamin C (~23 percentage units less), copper (~4 percentage units 
+less), and magnesium (~13 percentage units less) below their EAR 
+
+(Table 3a). Further, a signi˜cantly lower percentage of adult fresh pear 
+
+consumers had intakes for dietary ˜ber (~29 percentage units less) 
+above their AI (Table 3b).Diet quality (healthy eating index-2010)
+Adult fresh pear consumers had higher diet quality (~12 units, 26% higher) compared to non-consumers. ˚e increased HEI-2010 score 
+was driven by better scores for HEI-2010 subcomponents: Greens and 
+Beans (0.6 units, 55% higher), Total Fruit (2 units, 91% higher), Whole 
+Fruit (2.5 units, 125% higher), Whole Grains (1 unit, 48% higher), 
+Seafood and Plant Protein (0.5 units, 26% higher), Fatty Acid Ratio 
+(0.9 units, 18% higher), Sodium (0.7 units, 17% higher), and Empty 
+Calories (3.4 units, 33% higher) (Table 4). For Sodium and Empty 
+Calories higher scores denote lower intakes.Anthropometric and physiologic measures
+Adult consumers of fresh pears had lower weights (3.6 kg) than non-consumers (Table 5) and were 35% less likely to be obese than 
+
+non-consumers (p=0.0097) (Table 6). No other physiologic measures 
+varied between consumers and non-consumers.Discussion
+˚is is the ˜rst published study that has examined fresh pear consumption in adults and shown its bene˜cial e˛ects on nutrient intake, nutrient adequacy, diet quality, and body weight. On any given 
+day, approximately 2% of the adult population consumed fresh pears, 
+
+with the average consumption of approximately 170 g/day; this equates to 1 medium pear [20], an amount slightly above the reference amount customarily consumed of 140 g [51], or 1 cup equivalent. ˚us, those 
+
+consuming fresh pears met one half of the fruit recommendation for 
+
+most adults [3]. ˚is is important since the overwhelming majority 
+of adults do not meet the recommendation for fruit consumption 
+[4,5]. Consumption of fresh pears had a positive e˛ect on nutrient 
+intake since consumers had higher UI intakes of dietary ˜ber, vitamin 
+C, magnesium, copper, and potassium, and higher mean intakes of 
+total sugars; consumers of fresh pears also had lower intakes of total, 
+monounsaturated fatty acids, saturated fatty acids, and added sugars. 
+Consumption was also associated with higher diet quality and lower body weight than that seen in non-consumers. Comparison of macronutrients suggested more favorable lipid intakes in fresh pear consumers than in non-consumers, presumably due to the low lipid content of fresh pears [20]. Both consumers 
+and non-consumers had mean fat intakes within the Acceptable 
+Macronutrient Distribution Range of 20-35% of energy, set by the 
+Institute of Medicine [52]; however, non-consumers were near the 
+upper range with a mean intake of 34% of energy. Mean MUFA and SFA were lower in consumers which support rat studies which showed VariablePear Consumers (n=492)Non-Pear Consumers (n=24,316)PLSM ± SE1LSM ± SE% Female53.89 ± 2.7950.80 ± 0.350.2725Ethnicity    % Non-Hispanic White67.60 ± 3.4371.46 ± 1.430.0299 % Non-Hispanic Black4.89 ± 0.9511.43 ± 0.77<0.0001 % Mexican American12.90 ± 2.287.74 ± 0.710.0308Age (years)53.27 ± 1.1446.34 ± 0.25<0.0001Poverty Index Ratio3.21 ± 0.123.01 ± 0.030.1155Physical Activity    % Sedentary Physical Activity24.27 ± 2.6129.06 ± 0.620.0735 % Moderate Physical Activity41.15 ± 3.3233.98 ± 0.460.0322 % Vigorous Physical Activity34.58 ± 3.2436.96 ± 0.730.4727% Current Smoker10.53 ± 1.9824.49 ± 0.55<0.0001Alcohol Intake (g)5.68 ± 0.8411.12 ± 0.34<0.0001Pear Consumption (g)169.5 ± 6.6--- Differences assessed using Z-Score.1LSM: Least Square Means; SE: Standard Error.Table 1:
+ Demographics associated with pear consumption and pear consumption 
+
+in adults (19+ years of age): NHANES 2001-2010.VariableConsumersNon-ConsumersPLSM ± SE1LSM ± SEEnergy (kJ)19104 ± 2229113 ± 380.9573Energy (kcal)12176 ± 532178 ± 90.9573Protein (gm)282.3 ± 2.883.2 ± 0.30.7428Total fat (gm)275.3 ± 1.382.4 ± 0.3<0.0001 Total monounsaturated fatty acids 
+(gm)227.6 ± 0.630.4 ± 0.1<0.0001 Total polyunsaturated fatty acids 
+(gm)217.4 ± 0.517.4 ± 0.10.9106 Total saturated fatty acids (gm)223.4 ± 0.527.1 ± 0.1<0.0001Cholesterol (mg)2265.5 ± 12.2287.8 ± 2.10.0692223.9 ± 0.615.9 ± 0.1<0.0001Total sugars (gm)2133.5 ± 3.0122.9 ± 0.80.0011 Added Sugar (tsp eq)215.9 ± 0.619.2 ± 0.2<0.00011LSM: Least Square Mean; SE: Standard Error.2Adjusted for age, gender, race/ethnicity, poverty index ratio, physical activity, 
+current smoking status, and alcohol intake.Table 2:
+ Energy and macronutrient intakes associated with pear consumption in 
+adults (19+ years of age): NHANES 2001-2010. Page 4 of 8that supplementing diets with pear peels had a signi˜cant positive 
+in˙uence on plasma lipid levels and antioxidant capacity in rats [53,54]. 
+Our study did not show this positive in˙uence on lipid levels, possibly because pears were consumed peeled or an insu˘cient amount of peal 
+
+was consumed. It has also been shown that pear peels, so presumably 
+pears, have di˛erent antioxidant capacities [21], so possibly pears with VariablePear Pop.Usual Intake1PercentileEARMean ± SEP1025507590% Below ± SEPProtein (gm)Consumer78.0 ± 2.80.086650.860.373.189.91111.7 ± 1.40.7946Non-Consumer82.8 ± 0.451.262.87999.31202.0 ± 0.2Vitamin A, RAE (mcg)Consumer686.2 ± 32.50.0188459.8623.8633.1720.6961.620.5 ± 2.6<0.0001Non-Consumer608.9 ± 5.6291.8402.6560.8762.5986.849.5 ± 0.8Vitamin D2 (mcg)Consumer4.8 ± 0.30.54250.22.94.46.28.296.2 ± 2.10.7347Non-Consumer4.6 ± 0.11.72.745.98.295.5 ± 0.3Vitamin E3 (mg)Consumer8.0 ± 0.40.01024.25.67.59.912.588.0 ± 3.10.1185Non-Consumer7.4 ± 0.14.15.36.9911.293.0 ± 0.4Thiamin (mg)Consumer1.7 ± 0.10.00820.11.31.622.45.1 ± 2.90.6513 Non-Consumer1.6 ± 0.010.11.21.622.46.4 ± 0.4Consumer2.2 ± 0.10.85151.31.62.12.63.21.7 ± 1.00.5274Non-Consumer2.2 ± 0.011.31.62.12.73.32.4 ± 0.2Niacin (mg)Consumer24.2 ± 1.00.005316.218.822.327.634.90.2 ± 1.10.1381Non-Consumer24.8 ± 0.114.918.523.63036.61.9 ± 0.3Folate, DFE (mcg)Consumer569.0 ± 21.30.2728333.4423.2541.5684.38378.3 ± 2.20.1548Non-Consumer545.3 ± 3.3309.4395.1513.5661.2822.111.5 ± 0.5Vitamin B12 (mcg)Consumer4.8 ± 0.20.05072.33.24.567.76.8 ± 3.00.275Non-Consumer5.3 ± 0.042.63.54.86.58.43.5 ± 0.3Vitamin C (mg)Consumer107.6 ± 5.70.000253.971.196.9130.8175.119.0 ± 5.3<0.0001Non-Consumer86.4 ± 1.031.848.775111.5155.242.5 ± 0.8Calcium (mg)Consumer906.3 ± 38.00.5795489.7643.3850.91106138752.6 ± 3.50.1402Non-Consumer927.6 ± 5.9506.4659.2870.21133142247.4 ± 0.7Copper (mg)Consumer1.6 ± 0.1<0.000111.21.51.92.21.1 ± 0.8<0.0001Non-Consumer1.3 ± 0.010.811.21.61.94.7 ± 0.4Magnesium (mg)Consumer327.6 ± 12.80.0005196.2244.9310.2390.5480.246.7 ± 4.30.0028Non-Consumer291.4 ± 1.6177.3220.5278.6348.5422.359.8 ± 0.7Iron (mg)Consumer15.6 ± 0.60.97629.311.71518.722.88.6 ± 1.60.7554Non-Consumer15.6 ± 0.19.411.614.818.7238.1 ± 0.3Phosphorus (mg)Consumer1312.5 ± 46.20.3779822.610041245154318811.2 ± 1.10.9332Non-Consumer1353.6 ± 6.0832.210301294161719581.2 ± 0.2Selenium (mcg)Consumer110.3 ± 4.20.960767.183.4104.6130.8159.60.9 ± 1.00.8723Non-Consumer110.1 ± 0.568.183.6105.1131.7159.40.7 ± 0.1Zinc (mg)Consumer11.3 ± 0.40.053778.610.713.316.316.2 ± 4.20.3826Non-Consumer12.1 ± 0.17.18.911.414.618.112.5 ± 0.7Table 3a: Usual intake and estimated average intake of protein and selected micronutrient among pear consumers (n=492) and non-pear consumers (n=24,317).VariablePear consumption groupUsual Intake1PercentileAIMean ± SEP1025507590% Above ± SEPConsumer24.7 ± 0.7<0.000116.319.523.82934.332.9 ± 3.5<0.0001Non-Consumer15.9 ± 0.18.911.615.119.323.84.1 ± 0.3Sodium (mg)Consumer3484.4 ± 66.00.02682067250831003912488499.5 ± 0.70.878Non-Consumer3636.5 ± 10.32253275734504308520699.6 ± 0.1Potassium (mg)Consumer3000.2 ± 79.90.0004203924022883346140974.3 ± 1.60.2127Non-Consumer2710.9 ± 13.5167620832613323638772.4 ± 0.2Total Choline (mg)Consumer321.3 ± 13.10.4793218.1254.1303.7368.5448.73.7 ± 2.20.2474Data source: Participants 19 years and older of the NHANES 2001-2010.
+Adjusted for the sequence of participant™s intake (Day 1 or Day 2) and a variable for weekday/weekend consumption.
+Abbreviations: EAR: Estimated Average Requirement; RAE: Retinol Activity Equivalents; DFE: Dietary Folate Equivalents; AI: Adequate Intake.1Excludes Supplement Use.2Vitamin D (D2 + D3) (mcg).3Abbreviations: AI: Adequate Intake.Table 3b: Usual intake and adequate intake of protein and selected micronutrient among adult consumers (n=492) and non-consumers (n=24,317) of pears. Page 5 of 8the highest level were not consumed by NHANES participants.Another important ˜nding of this study was that, although total 
+sugar intake was higher in fresh pear consumers when compared to non-consumers, added sugars were lower. One serving of fresh pears contains approximately 16 grams of total sugar, with approximately 66% fructose [20]. ˚e role of fructose in weight management and 
+weight gain is controversial. Recently, a systematic review and meta-
+analysis of fructose feeding trials showed that many of the studies were 
+of poor quality, but in isocaloric trials, fructose did not contribute 
+to weight gain when compared with other carbohydrates [55]. More 
+
+studies are needed.Dietary ˜ber and potassium have been identi˜ed as nutrients of public health concerns; vitamin C and magnesium have been identi˜ed as shortfall nutrients [1]. Fresh pears are an excellent source [56] of dietary ˜ber; the UI of dietary ˜ber among pear consumers was approximately equal to the DV [57] and intake was re˙ected in better 
+nutrient adequacy for dietary ˜ber than seen in non-consumers. Fresh 
+
+pears contain both soluble and insoluble ˜ber [58]; a recent review 
+has shown that the dietary ˜ber in pears is ~30% soluble and ~70% insoluble [59]. In general, soluble ˜bers have positive e˛ects on serum 
+
+lipid levels [60,61] and glycemic control [62] and insoluble ˜bers have 
+positive e˛ects on laxation [63]. Our study did not show di˛erences 
+
+in lipid levels or markers of glycemic control; perhaps the amount of soluble ˜ber consumed was too low to see a response or the UI of ˜ber; although mean ˜ber consumption among consumers in this study 
+
+nearly met the daily value of 25 g [64], did not re˙ect long term intake 
+
+that would have a˛ected lipid or blood glucose levels. It is also possible 
+that ˜ber intake was not high enough to a˛ect these CVRF [62]. Population studies have shown that high intake of dietary ˜ber is inversely related to the incidence [65] or risk [66,67] of stroke. Few 
+studies have looked at the relationship between speci˜c types of fruit 
+and stroke [67]; however, this association has been studied explicitly 
+for pears and the botanically related apple, and pears may contribute to 
+protection against stroke [16,17,68-70]. It is not clear if the dietary ˜ber 
+
+content of pears is associated with protection against stroke, although dietary ˜ber intake has been inversely related to high blood pressure, VariableConsumersNon-Consumers LSM ± SELSM ± SEPHEI-2010 Total Score58.8 ± 1.246.7 ± 0.2<0.0001 Component 1 (Total Vegetables)3.2 ± 0.13.1 ± 0.020.2619 Component 2 (Greens and Beans)1.7 ± 0.21.1 ± 0.020.001 Component 3 (Total Fruit)4.2 ± 0.12.2 ± 0.03<0.0001 Component 4 (Whole Fruit)4.5 ± 0.12.0 ± 0.03<0.0001 Component 5 (Whole Grains)3.1 ± 0.22.1 ± 0.040.0001 Component 6 (Dairy)4.8 ± 0.34.9 ± 0.10.67 Component 7 (Total Protein Foods)4.2 ± 0.14.1 ± 0.010.8439 Component 8 (Seafood and Plant Protein)2.4 ± 0.21.9 ± 0.020.0025 Component 9 (Fatty Acid Ratio)5.8 ± 0.24.9 ± 0.040.0002 Component 10 (Sodium)4.9 ± 0.24.2 ± 0.040.00396.5 ± 0.35.9 ± 0.10.0351 Component 12 (Empty Calories)13.7 ± 0.410.3 ± 0.1<0.0001Data source: Participants 19 years and older of the NHANES 2001-2010.1Adjusted for race/ethnicity, age, poverty income ratio, physical activity, smoker 
+status, and alcohol.Table 4:
+ Healthy eating index-20101 total and component scores for consumers 
+and non-consumers of pears.VariableConsumersNon-ConsumersP LSM ± SELSM ± SE Weight (kg)178.1 ± 1.381.7 ± 0.20.0099Body Mass Index (kg/m2)127.4 ± 0.528.4 ± 0.10.043Waist Circumference (cm)194.6 ± 1.197.4 ± 0.20.014Apolipoprotein B (mg/dL)289.8 ± 2.194.9 ± 0.60.018Diastolic Blood Pressure (mmHg)270.3 ± 0.871.3 ± 0.20.201Systolic Blood Pressure (mmHg)2122.4 ± 1.0122.5 ± 0.20.966C-reactive protein (mg/dL)20.3 ± 0.030.4 ± 0.010.012Folate, RBC (ng/mL RBC)2413.2 ± 22.9390.7 ± 4.90.294Folate, serum (ng/mL)217.2 ± 1.115.7 ± 0.20.165Glucose, plasma (mg/dL)2100.9 ± 1.7103.0 ± 0.30.222Glycohemoglobin (%)25.5 ± 0.15.5 ± 0.010.324Insulin (uU/mL)211.6 ± 0.811.8 ± 0.20.798HOMA-IR23.1 ± 0.23.2 ± 0.040.732LDL-C (mg/dL)2113.4 ± 2.9116.9 ± 0.50.24HDL-C (mg/dL)256.4 ± 1.353.4 ± 0.20.021Triglycerides (mg/dL)2133.8 ± 7.5140.0 ± 1.90.4341Adjusted for age, gender, race/ethnicity, poverty index ratio, physical activity level, alcohol intake, and current smoking status.2Adjusted for age, gender, race/ethnicity, poverty index ratio, physical activity level, alcohol intake, current smoking status, and BMI.Abbreviations: RBC: Red Blood Cell; HOMA-IR: Homeostatic Model Assessment-
+
+Insulin Resistance; LDL-C: Low Density Lipoprotein cholesterol; HDL-C: High 
+
+Density Lipoprotein Cholesterol.Table 5:
+ Association of consuming pears with physiologic measures in adults 
+participating in 2001-20010 NHANES.VariableConsumers1PORLCLUCLOverweight210.751.331Overweight/Obese20.70.480.920.014Obese20.70.470.90.01Waist Circumference, Elevated20.70.541.020.066Diastolic Blood Pressure,4 Elevated310.711.310.814Systolic Blood Pressure,4 Elevated310.761.420.791Glucose, Elevated30.90.61.380.649Insulin, Elevated31.40.912.140.125HDL-C, Reduced31.10.781.510.64LDL-C, Elevated310.631.540.942Triglycerides, Elevated310.711.520.844Metabolic Syndrome31.20.781.180.408Data source: Adults 19+ years of age participating in NHANES 2001-2010.1Non-Consumers were the referent group.2Adjusted for: Age, Gender, Race/Ethnicity, Poverty Index Ratio, Physical Activity 
+Level, Smoker Status, Alcohol Consumption.3Adjusted for: Age, Gender, Race/Ethnicity, Poverty Index Ratio, Physical Activity 
+Level, Smoker Status, Alcohol Consumption, and BMI.4Mean readings were used for blood pressure measurements.
+
+
+
+
+
+
+
+
+Adult Treatment Panel III criteria; that is having 3 or more of the following risk 
+
+factors: abdominal obesity, WC>102 cm (males), >88 cm (females); hypertension, 
+
+
+
+
+
+
+
+or taking insulin or other hypoglycemic agents. 
+
+
+
+
+Density Lipoprotein Cholesterol.Table 6: Risk of overweight and obesity and cardiovascular and metabolic 
+syndrome risk factors in adults among consumers pears, when compared with 
+
+non-consumers. Page 6 of 8which is associated with reduced risk of stroke [71]. Our study did not show that fresh pear consumers had lower systolic or diastolic blood pressure than non-consumers, so any potential e˛ect on stroke is unknown. A previous NHANES study has shown that dietary ˜ber may be associated with lower weight in adults [72]. Since there was no 
+
+di˛erence in energy intake or level of physical activity between the 
+fresh pear consumption and non-consumption groups, the ˜ber intake may have driven the lower body weights which were seen in this study. 
+˚e HEI-2010 has been shown to be a valid and reliable [35]. Mean HEI-2010 total scores, and most component scores, in fresh pear 
+
+consumers were signi˜cantly higher than non-consumers suggesting 
+that pears contributed to an overall healthy diet. Only the component 
+scores for dairy, total protein foods, and re˜ned grains were not higher 
+among pear consumers, suggesting an overall healthier diet among fresh pear consumers. It should be noted however, that neither group had an especially high total score and some of the component scores 
+could be misleading. For example, the component score for greens and 
+beans for fresh pear consumers was only 1.7 and for non-consumers, it was 1.1, suggesting that improvements could be made by both groups. Fresh pear consumers did, however, have much higher total and whole 
+fruit components than non-consumers, suggesting that they may come close to meeting their fruit recommendation [3]. ˚e principal strength of this study was that it was nationally representative. ˚e study did have several weaknesses. ˚e sample 
+size (number of adult pear consumers) while acceptable for these analyses, was small in terms of large epidemiologic studies. Further, 
+24-hour dietary recalls have several inherent limitations: they depend on memory and subjects may under- or over-report some or certain types of foods. ˚e possibility of misclassifying someone as a fresh 
+
+pear consumer or non-consumer is also a possibility. Results were also dependent on USDA nutrient content. While numerous covariates were used in regression analyses, residual confounding may still exist 
+and as such associations reported may also be due to other unknown di˛erences in consumers and non-consumers. Finally, the NHANES is a cross-sectional study, and the data cannot be used to draw causal 
+relationships.Summary and Conclusions
+Fresh pear consumption among adults is 169.5 g/day. Fresh pears contributed to ˜ber (21% DV) and vitamin C (12% DV) intake 
+among adult consumers. Adult pear consumers, as compared to 
+non-consumers, had higher dietary intake and lower prevalence of 
+inadequacy for dietary ˜ber, vitamin C, potassium, and magnesium and 
+lower prevalence of inadequacy for vitamin A. Adult pear consumers, 
+as compared to non-consumers, had higher diet quality. Adult pear 
+consumers had a lower body weight and were less likely to be obese as 
+
+compared to non-consumers. ˚ese data suggest that consumption of 
+fresh pears should be encouraged as part of an overall healthy diet [2], 
+
+since pears are nutrient-dense and can help individuals meet the fruit 
+recommendation. Additional studies are needed to determine e˛ects 
+on speci˜c CVRF.AcknowledgementThis work is a publication of the USDA/ARS Children™s Nutrition Research 
+Center, Department of Pediatrics, Baylor College of Medicine, and Houston, 
+
+
+
+policies of the USDA, nor does mention of trade names, commercial products, or 
+organizations imply endorsement from the U.S. government. Partial support was 
+received from the United States Department of Agriculture/ Agricultural Research 
+
+
+from the USDA Hatch Project LAB 94209. Partial support was also received from 
+Pears Bureau Northwest. The funding agencies had no input into the study design or interpretation of 
+
+
+than the funding sources provided above, and have no involvements that might 
+
+raise the question of bias in the work reported or in the conclusions, implications, 
+and opinions stated. All authors contributed equally to this manuscript. TAN, CO™N, and VL planned 
+the study; VL conducted the statistical analyses; TAN, CO™N, and VL interpreted 
+the data; CO™N wrote the original draft of the manuscript; TAN and VL edited this 
+manuscript.References1. United States Department of Agriculture. Center for Nutrition Policy and 
+
+Promotion, Dietary Guidelines for Americans, 2010.2. Freeland-Graves J, Nitzke S (2013) Position of the Academy of Nutrition and 
+Dietetics: Total diet approach to healthy eating. J Acad Nutr Diet 113: 307-317.3. United States Department of Agriculture. My Plate.4. Krebs-Smith SM, Guenther PM, Subar AF, Kirkpatrick SI, Dodd KW (2010) 
+Americans do not meet federal dietary recommendations. J Nutr 140: 1832-1838.5. National Center for Chronic Disease Prevention and Health Promotion. Nutrition 
+and Physical Activity: Helping People Choose Healthy Eating and Active Living.
+6. WHO (2014) Global Strategy on Diet, Physical Activity and Health: Diet, 
+
+nutrition and the prevention of chronic diseases. Report of the joint WHO/FAO 
+
+expert consultation. 2003. WHO Technical Report Series, No. 916 (TRS 916).7. Kaiser KA, Brown AW, Bohan Brown MM, Shikany JM, Mattes RD, et al. (2014) 
+
+Increased fruit and vegetable intake has no discernible effect on weight loss: a 
+
+systematic review and meta-analysis. Am J Clin Nutr 100: 567-576. 8. Mytton OT, Nnoaham K, Eyles H, Scarborough P, Ni Mhurchu C (2014) 
+Systematic review and meta-analysis of the effect of increased vegetable and 
+fruit consumption on body weight and energy intake. BMC Public Health 14: 
+
+886.9. United States Department of Agriculture (2014) Economic Research Service. 
+
+Food Availability (Per Capita) Data System.10. He FJ, Nowson CA, Lucas M, MacGregor GA (2007) Increased consumption 
+
+of fruit and vegetables is related to a reduced risk of coronary heart disease: 
+
+meta-analysis of cohort studies. J Hum Hypertens 21: 717-728.11.
+ DauchetL, Amouyel P, Hercberg S, Dallongeville J (2006) Fruit and vegetable 
+
+consumption and risk of coronary heart disease: a meta-analysis of cohort 
+
+studies. J Nutr 136: 2588-2593.12. Muraki I, Imamura F, Manson JE, Hu FB, Willett WC, et al. (2013) Fruit 
+
+consumption and risk of type 2 diabetes: results from three prospective 
+longitudinal cohort studies. Br Med J 347: f5001. 13. Carter, P, Gray LJ, Troughton J, Khunti K, Davies MJ (2010) Fruit and vegetable 
+intake and incidence of type 2 diabetes mellitus: systematic review and meta-
+analysis. Br Med J 341: c4229.14. Park S, Ham JO, Lee BK (2015) Effects of total vitamin A, vitamin C, and fruit 
+intake on risk for metabolic syndrome in Korean women and men. Nutrition 31: 
+
+111-118. 15. Leenders M, Boshuizen HC, Ferrari P, Siersema PD, Overvad K, et al. (2014) 
+
+
+
+J Epidemiol 29: 639-652.16. Hu D, Huang J, Wang Y, Zhang D, Qu Y (2014) Fruits and vegetables consumption and risk of stroke: a meta-analysis of prospective cohort studies. 
+Stroke 45: 1613-1619.17. 
+consumption and risk of stroke: a prospective study. Atherosclerosis 227: 147-
+152.18. Wedick NM, Pan A, Cassidy A, Rimm EB, Sampson L, et al. (2012) Dietary 
+
+Nutr 95: 925-933.19. Mink PJ, Scrafford CG, Barraj LM, Harnack L, Hong CP, et al. (2007) 
+ Page 7 of 8Flavonoid intake and cardiovascular disease mortality: a prospective study in 
+postmenopausal women. Am J Clin Nutr 85: 895-909.20. United States Department of Agriculture. Agricultural Research Service. 
+National Nutrient Database for Standard Reference Release 27.  21. Li X, Gao WY, Huang LJ, Zhang JY, Guo XH (2011) Antioxidant and anti-
+22. Li X, Zhang JY, Gao WY, Wang Y, Wang HY, et al. (2012) Chemical composition 
+
+
+
+Food Chem 60: 8738-8744.23. 
+
+of cultivar, harvest time, storage conditions, and peeling on the antioxidant 
+
+capacity and phenolic and ascorbic acid contents of apples and pears.  J Agric 
+
+Food Chem 59: 6165-6171.24. O™Neil CE, Nicklas TA, Fulgoni VL III (2014) Fresh pear consumption is 
+
+risk of obesity in adults (19+y): NHANES (NHANES) 2001-2010. FASEB J 254: 
+810.16.25. National Health and Nutrition Examination Survey. Analytic and Reporting 
+Guidelines. 26. National Health and Nutrition Examination Survey. Analytic Note Regarding 
+
+2007-2010 Survey Design Changes and Combining Data Across other Survey 
+Cycles. 27. 28. National Health and Nutrition Examination Survey. NHANES 2009-2010 
+Questionnaire Data.29. Moshfegh AJ, Rhodes DG, Baer DJ, Murayi T, Clemens JC, et al. (2008) The 
+
+US Department of Agriculture Automated Multiple-Pass Method reduces bias in 
+
+the collection of energy intakes. Am J Clin Nutr 88: 324-332.30. Blanton CA, Moshfegh AJ, Baer DJ, Kretsch MJ (2006) The USDA Automated 
+
+Multiple-Pass Method accurately estimates group total energy and nutrient 
+
+intake. J Nutr 136: 2594-2599.31. National Health and Nutrition Examination Survey. MEC In-Person Dietary 
+
+Interviewers Procedures Manual.32. National Health and Nutrition Examination Survey. Phone Follow-Up Dietary 
+
+Interviewer Procedures Manual.33. U.S. Department of Agriculture, Agricultural Research Service. USDA Food 
+
+and Nutrient Database for Dietary Studies. 34. United States Department of Agriculture. Agricultural Research Service. Food 
+
+and Nutrient Database for Dietary Studies. Vitamin D Addendum to USDA 
+Food and Nutrient Database for Dietary Studies 3.0.35. Guenther PM, Kirkpatrick SI, Reedy J, Krebs-Smith SM, Buckman DW, et al. 
+
+(2014) The Healthy Eating Index-2010 is a valid and reliable measure of diet 
+quality according to the 2010 Dietary Guidelines for Americans. J Nutr 144: 
+
+399-407. 36. Guenther PM, Casavale KO, Reedy J, Kirkpatrick SI, Hiza HA, et al. (2013) 
+
+Update of the Healthy Eating Index: HEI-2010. J Acad Nutr Diet 113: 569-580. 37. Center of Nutrition Policy and Health Promotion. Healthy Eating Index Support 
+Files 07 08. 38. National Center for Health Statistics. The NHANES Anthropometry Procedures 
+
+Manual. 39. National Institutes of Health. National Heart, Lung, and Blood Institute. Clinical 
+
+
+
+Obesity in Adults.40. National Center for Health Statistics. NHANES 2001-2002 Data Release; 
+May 2004. MEC Examination. Blood Pressure Section of the Physician™s Examination.41. National Health and Nutrition Examination Survey. 2003-2004 Data 
+Documentation, Codebook, and Frequencies. Total Cholesterol and HDL. Last 
+revised April, 2010.42. National Center for Health Statistics. NHANES Documentation, Codebook, 
+
+and Frequencies: Survey years 2003-2004. MEC Laboratory Component: Triglycerides and LDL-Cholesterol.43. National Center for Health Statistics. NHANES Documentation, Codebook, and 
+
+Frequencies: Survey years 2003-2004. MEC Laboratory Component: Plasma 
+
+Glucose, Serum C-peptide, and Insulin.44. Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, et al. (1985) 
+Homeostasis model assessment: insulin resistance and beta-cell function from 
+fasting plasma glucose and insulin concentrations in man. Diabetologia 28: 
+412-509.45. National Center for Health Statistics. NHANES Documentation, Codebook, and 
+
+Frequencies: Survey years 2007-2008. C - reactive protein. 46. National Center for Health Statistics. Laboratory Procedure Manual. Folate: 
+Serum/Whole Blood. 47. National Cholesterol Education Program. National Heart, Lung, and Blood 
+Institute. National Institutes of Health. Detection, Evaluation, and Treatment 
+
+of High Blood Cholesterol in Adults (Adult Treatment Panel III). 2002. NIH 
+
+Publication No. 02-5215.48. Usual Dietary Intakes: SAS Macros for Analysis of a Single Dietary Component.
+ 49. Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes: 
+Applications in Dietary Assessment. 2000. National Academy Press 
+Washington DC.50. National Health and Nutrition Examination Survey 2009 - 2010 Data 
+Documentation, Codebook, and Frequencies. Physical Activity (PAQ_F). 51. United States Food and Drug Administration. CFR - Code of Federal 
+
+Regulations Title 21.52. Institute of Medicine of the National Academies. Dietary Reference Ranges 
+
+Macronutrients. 53. Leontowicz M, Gorinstein S, Leontowicz H, Krzeminski R, Lojek A, et al. 
+
+
+antioxidant potentials in rats fed cholesterol-containing diets.  J Agric Food 
+Chem 51: 5780-5785. 54. Cho JY, Kim CM, Lee HJ, Lee SH, Cho JA, et al. (2013) 
+Caffeoyl triterpenes 
+from pear (Pyrus pyrifolia Nakai) fruit peels and their antioxidative activities 
+against oxidation of rat blood plasma.  J Agric Food Chem 61: 4563-4569. 55. Sievenpiper JL, De Souza RJ, Mirrahimi A, Yu ME, Carleton AJ, et al. (2012) 
+
+Effect of fructose on body weight in controlled feeding trials: a systematic 
+
+review and meta-analysis. Ann Intern Med 156: 291-304.56. Food and Drug Administration. Guidance for Industry: A Food Labeling Guide 
+
+(10. Appendix B: Additional Requirements for Nutrient Content Claims). 57. Food and Drug Administration. Guidance for Industry: A Food Labeling 
+
+Guide (14. Appendix F: Calculate the Percent Daily Value for the Appropriate 
+
+Nutrients).58. 
+
+506-516. 59. Li BW, Andrews KW, Pehrsson PR (2002) Individual sugars, soluble, and 
+
+Anal 15: 715-723.60. Gunness P, Gidley MJ (2010) Mechanisms underlying the cholesterol-lowering 
+
+61. Whitehead A, Beck EJ, Tosh S, Wolever TM (2014) Cholesterol-lowering 
+
+
+
+Clin Nutr 100: 1413-1421. 62. Silva FM, Kramer CK, de Almeida JC, Steemburgo T, Gross JL, et al. (2013) 
+
+Fiber intake and glycemic control in patients with type 2 diabetes mellitus: a 
+
+systematic review with meta-analysis of randomized controlled trials. Nutr Rev 
+
+71: 790-801. 63. 
+sources. J Am Diet Assoc 87: 1164-1171.64. 65. 
+
+66. 
+stroke risk: a meta-analysis of prospective cohort studies.  Eur J Clin Nutr 67: 
+96-100. Page 8 of 867. Threapleton DE, Greenwood DC, Evans CE, Cleghorn CL, Nykjaer C, et al.
+
+meta-analysis. Stroke 44: 1360-1368.68. 
+antioxidant vitamins, and incidence of stroke: the Zutphen study. Arch Intern
+
+Med 156: 637e42.69. Knekt P, Kumpulainen J, Jarvinen R, Rissanen H, Heliövaara M, et al. (2002)
+Flavonoid intake and risk of chronic diseases. Am J Clin Nutr 76: 560e8.70. Oude Griep LM, Verschuren WM, Kromhout D, Ocke MC, Geleijnse JM (2011) 
+Colors of fruit and vegetables and 10-year incidence of stroke. Stroke 42:
+3190e5.71. Appel LJ, Moore TJ, Obarzanek E, Vollmer WM, Svetkey LP, et al. (1997)
+A clinical trial of the effects of dietary patterns on blood pressure. DASH
+
+collaborative research group. N Engl J Med 336: 1117e24.72. 
+consumption are associated with lower body weight measures in US adults:
+National Health and Nutrition Examination Survey 1999-2004. Nutr Res 30:
+
+815-822.

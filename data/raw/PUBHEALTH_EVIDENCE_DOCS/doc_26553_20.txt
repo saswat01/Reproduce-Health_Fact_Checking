@@ -1,0 +1,469 @@
+NOTICE  This document is disseminated under the sponsorship of the U.S. Department of Transportation in the interest of information exchange.  The United States Government assumes no liability for the contents or use thereof.  The United States Government does not endorse products or manufacturers.  Trade or manufacturer's names appear herein solely because they are considered essential to the objective of this report.  This document does not constitute FAA certification policy.  Consult your local FAA aircraft certification office as to its use.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This report is available at the Federal Aviation Administration William J. Hughes Technical Center™s Full-Text Technical Reports page: actlibrary.tc.faa.gov in Adobe Acrobat portable document format (PDF).       Technical Report Documentation Page 
+ 1.  Report No.  DOT/FAA/AR-TN10/19 2. Government Accession No. 
+
+  3.  Recipient's Catalog No. 
+  4.  Title and Subtitle 
+ FLAMMABILITY TEST OF ALCOHOL-BASED HAND SANITIZER 
+5.  Report Date August 2010
+  6.  Performing Organization Code 
+  7.  Author(s) 
+
+ William M. Cavage 
+8.  Performing Organization Report No. 
+  9.  Performing Organization Name and Address 
+
+ Federal Aviation Administration  
+William J. Hughes Technical Center  
+
+Airport and Aircraft Safety 
+10.  Work Unit No. (TRAIS) 
+  Research and Development Division 
+Fire Safety Team 
+
+Atlantic City International Airport, NJ  08405 
+11.  Contract or Grant No.   12.  Sponsoring Agency Name and Address
+ U.S. Department of Transportation 
+Federal Aviation Administration
+ 13.  Type of Report and Period Covered 
+ Technical Note  Air Traffic Organization NextGen & Operations Planning 
+Office of Research and Technology Development 
+
+Washington, DC  20591 
+14.  Sponsoring Agency Code 
+ ANM-115 
+15.  Supplementary Notes 
+
+  16.  Abstract 
+
+ Some concerns have been raised about th
+e flammability characteristics of personal ha
+nd sanitizer, which is presently being used
+ in lavatories on many commercial airlines to mitigate the spread of the H1N1 virus.  Personal hand sanitizer is a fluid, which 
+is generally composed of approximately 60% ethyl alcohol by volum
+e, and comes in two primary forms:  liquid and gel.  To 
+examine the general flammability 
+characteristics of alcohol-based hand sanitizers, a series of small-scale tests were performed
+ at the William J. Hughes Technical Center by the Fire Safety Team
+.  Both gel and liquid hand sanitizers were examined.  Tests 
+were also performed to determine if hand sanitizer spillage could pose a significant fire threat.  The effect of burning hand 
+sanitizer on typical aircraft ma
+terials was examined.  Antibacter
+ial liquid soap was also burned adjacent to typical aircraft materials to compare with the hand sanitizer results. 
+
+ 
+As expected, hand sanitizer is flammable a
+nd can easily be ignited with a common grill li
+ghter when poured into a pan.  It tends to burn relatively cool, compared to fuel, plastic, or cellulose fires with peak flame temperatures between 500° and 1000°F.  T
+he observed temperatures above the flame were 
+higher for the liquid hand sanitizer compared
+ to the gel.  The vapor is flammable 
+and can be ignited by heating the liquid from the bottom and then igniting the vapor.  The hot liquid does not have to be prese
+nt 
+to ignite the vapor; however, the vapor could not be ignited at room or elevated ambient temperatures (up to 100°F) without 
+
+bottom-heating the hand sanitizer.  When a 
+nearly full bottle of sanitizer was involved in a fire started by burning paper towels, it burned hotter and somewhat vigorously.  At
+ one point, a fire burning adjacent to a 12-ounce liquid bottle of hand sanitizer reached temperatures in excess of 1500°F. 
+ When the hand sanitizer was burned adjacen
+t to typical aircraft interior panels oriented horizontally or vertically, the panel did not ignite 
+and burn independently, and there was no significant damage to th
+e panel.  From the tests conducted, burning ha
+nd sanitizer presents no significant risk to
+ commercial transport aircraft fire saf
+ety, given the present cabin material flammability requirements. 
+17.  Key Words 
+ Ethanol, Hand sanitizer, Flammability properties 
+18.  Distribution Statement 
+ This document is available to the public through the National 
+Technical Information Service (N
+TIS), Springfield, Virginia  
+22161.  This document is also available from the Federal 
+
+Aviation Administration William 
+J. Hughes Technical Center at actlibrary.tc.faa.gov. 19.  Security Classif. (of this report) 
+ Unclassified 20.  Security Classif. (of this page) 
+
+ Unclassified 21.  No. of Pages 
+ 15 22.  Price  Form DOT F1700.7
+  (8-72) Reproduction of completed page authorized 
+   TABLE OF CONTENTS  Page  EXECUTIVE SUMMARY v  INTRODUCTION 1 TESTS PERFORMED 2 Pan Burn Tests 2 Vapor Ignition Tests 2 Paper Towel Burn Tests 3 Aircraft Interior Panel Burn Tests 4  RESULTS 5 Pan Burn Tests 5 Vapor Ignition Tests 5 Paper Towel Burn Tests 6 Aircraft Interior Panel Burn Tests 7  
+SUMMARY 8 REFERENCES 9   iii    ivLIST OF FIGURES  Figure Page  
+1 Various Brands and Types of Alcohol-Based Hand Sanitizer 
+1 2 Vapor Ignition Test Setup 
+3 3 Paper Towel Burn Test Setup 
+4 4 Fire at the Outset of Each Paper Towel Burn Test 
+7 5 Aircraft Interior Panel Vertical Burn Test Setup Compared to the  Burn Pattern 7 
+6 Comparison of Aircraft Interior Horiz
+ontal Panel Test Results for the 3-Minute Propane Torch Burn and the 10-Minute Liquid Hand Sanitizer Burn 8       EXECUTIVE SUMMARY  Some concerns have been raised about th
+e flammability characteristics of personal hand 
+sanitizer, which is presently being used in lavatories on many commercial airlines to mitigate the 
+spread of the H1N1 virus.  Personal hand sanitizer is a fluid, which is generally composed of 
+approximately 60% ethyl alcohol and comes in tw
+o primary forms:  liquid and gel.  Questions 
+remain as to the hazard level posed by the flamma
+ble fluid when ignited in contact with typical materials found on a commercial transport airplane. 
+ Alcohols, such as ethanol and methanol, are 
+easily ignited because they readily evaporate at room temperature, making the threat of vapor 
+ignition more significant if spilled or spread in an enclosed area and then subjected to an ignition 
+source.  Alcohols are still perceived to pose a relatively small threat to aircraft interiors because 
+of the low heat release of the vapor when burning. 
+ 
+To examine the general flammability characteristics 
+of alcohol-based hand sanitizers, a series of small-scale tests were performed at the William 
+J. Hughes Technical Center by the Fire Safety Team.  Both gel and liquid hand sanitizers were ex
+amined.  Tests were performed to determine if 
+spilled hand sanitizer could pose a significant fire 
+threat.  The effect of burning hand sanitizer on 
+typical aircraft materials was also examined.  
+Antibacterial liquid soap was also burned adjacent to typical aircraft materials to compare with the hand sanitizer results. 
+
+ 
+As expected, hand sanitizer, which is approxima
+tely 60% alcohol by volume, is flammable and 
+
+can easily be ignited with a common grill lighter
+ when poured into a pan.  It tends to burn relatively coolly (compared to fuel, plastic, or 
+cellulose fires) with peak flame temperatures 
+
+between 500° and 1000°F.  The observed temperat
+ures above the flame were higher for the 
+liquid hand sanitizer compared to the gel.  The 
+vapor is flammable and can be ignited by heating 
+the liquid from the bottom and then igniting th
+e vapor.  The hot liquid does not have to be present to ignite the vapor; however, the vapor could not be ignited at room or elevated ambient 
+temperatures (up to 100°F) without bottom-heating the hand sanitizer.  When a nearly full bottle 
+
+of hand sanitizer was involved in a fire started by burning paper towels, it burned hotter and 
+somewhat vigorously.  At one point, a fire bur
+ning adjacently to a 12-ounce liquid bottle of hand 
+sanitizer reached temperatures in excess of 1500°F.
+  Typical aircraft interior panels, oriented 
+horizontally or vertically, did not ignite and burn independently, nor was there any significant damage, when exposed to burning hand sanitizer
+ for 10-20 minutes.  From the tests conducted, 
+
+burning hand sanitizer does not pose any significant risk to commercial transport fire safety, 
+given the present cabin material flammability requirements. 
+
+ 
+ 
+ 
+ 
+  v/vi   INTRODUCTION Some concerns have been raised about th
+e flammability characteristics of personal hand 
+sanitizer.  Hand sanitizer is presently being used in lavatories on many commercial airlines as a 
+means to mitigate the spread of the H1N1 virus. 
+ Several studies have highlighted the importance 
+and scientific underpinnings of hand washing in reducing the spread of virus [1 and 2].  Some 
+studies have indicated that alcohol-based hand sanitizer is a good substitute for hand washing in the absence of soap and water [3].   
+In the summer of 2009, several carriers proposed to
+ expand the use of personal hand sanitizer to other areas of the aircraft, such as in the galley area for flight attendants 
+to use before and during handling of food.  This fluid, which is being proposed to be stored in multiple locations in 
+relatively large quantities, is generally composed
+ of approximately 60% ethyl alcohol and comes 
+in a wide variety of forms and quantities (see figure 1).  Questions remain as to the hazard level 
+
+posed by the flammable fluid when ignited in
+ contact with typical materials found on a 
+commercial transport airplane. 
+
+   Figure 1.  Various Brands and Types of Alcohol-Based Hand Sanitizer  
+Although hand sanitizer comes in many forms and 
+packages, the two forms examined in this 
+study were gel and liquid.  The gel hand sanitizer is deposited onto the user™s hand in a small 
+quantity and rubbed on and over the hands until the hands are dry and all the alcohol has evaporated.  The liquid hand sanitizer is pumpe
+d through an atomizing nozzle that turns the 
+
+liquid into foam, which is then rubbed on and 
+over the hands thoroughly.  Typically, less liquid hand sanitizer is needed to sanitize a pair of hands than the gel, but the required hand sanitizer 
+quantities and level of effectiveness is beyond the scope of this study.  It should also be noted that non-alcohol-based hand sanitizer, which uses a synergistic approach to kill germs and 
+
+bacteria (referred to as ﬁquad system technologyﬂ),
+ is now available for purchase.  It comes in 
+liquid form with only 14% alcohol by volume and 
+is also deposited as a foam on the hands in 
+small quantities. 
+ 1   Typically, alcohol and alcohol-related fluids are relatively rare in a commercial transport 
+airplane.  The exception would be a proposed electronics and electrical bay heat exchanger that uses an ethylene glycol/water mixture, which is
+ presently being certified.  Ethylene glycol has a high flash point (above 200°F).  It tends to be very difficult to ignite under conditions in 
+commercial transport airplanes and is considered to be relatively safe when mixed with water. 
+
+ 
+In contrast, alcohols, such as ethanol and me
+thanol, are easily ignited because they readily evaporate at room temperature, making the threat
+ of vapor ignition more significant if spilled or 
+spread in an enclosed area and then subjected to an ignition source.  Ethanol has a flash point of approximately 55°F and a boiling point of 173°F 
+[4].  Alcohols are still perceived to pose a relatively small threat to aircraft interiors becau
+se of the low heat release of the vapor when burning. 
+ 
+To determine the general flammability characteris
+tics of alcohol-based hand sanitizers, a series of small-scale tests were performed.  Both gel 
+and liquid hand sanitizers were examined.  Tests 
+were also performed to determine if spilled hand 
+sanitizer could pose a significant fire threat.  
+The effect of burning hand sanitizer on typical aircraft materials was examined.  Antibacterial 
+liquid soap was also burned adjacent to typical aircraft materials to compare with the hand 
+sanitizer results. 
+ TESTS PERFORMED The following tests were performed to charact
+erize the flammability of alcohol-based hand 
+
+sanitizer.  This complemented previous work 
+[5] performed at the William J. Hughes Technical 
+Center by the Fire Safety Team, which examined 
+the ignitability and ease of suppression of fires from liquid, ethanol-based hand sanitizer. 
+
+ 
+PAN BURN TESTS. To determine the hazard level posed by the fluid 
+due to spilled or leaking hand sanitizer in an enclosed area, a 6.5- by 6.5-inch-square by 1-inch-deep pan was used to burn approximately 2 
+ounces of hand sanitizer ignited with a torch flame.  The temperature above the flame and the 
+duration of the burn was documented for both the 
+gel and liquid hand sanitizer.  The liquid hand sanitizer was deposited in a 2- by 2-inch-square by 1-inch-deep pan as foam and burned 
+immediately in a similar manner.  If the foam sat in the pan for a certain amount of time, it 
+
+turned back to a liquid.  This allowed the flamma
+bility of the hand sanitizer to be compared in 
+both the liquid and foam state.  The liquid hand sa
+nitizer was also sprayed (atomized into a mist) 
+onto the paper towels to observe the intensity and severity of this combination.  Video was used 
+to record the intensity and severity of the burning. 
+ 
+VAPOR IGNITION TESTS. The hand sanitizer was heated in a 6.5- by 6.5-inch-square by 1-inch-deep pan from the bottom 
+with an electric range burner.  A 1-gallon container, with an open bottom, was used to trap the 
+generated vapor (figure 2).  The vapor was ign
+ited with a grill lighter from both the bottom of 
+the container and from a small hole near the top 
+of the container, with and without the presence  2   of the hot pan of liquid hand sanitizer.  This was done for both the liquid and the gel hand sanitizers.  Video was used to record the intensity and severity of the burning. 
+ 
+   Figure 2.  Vapor Ignition Test Setup  
+PAPER TOWEL BURN TESTS
+. A bottle of hand sanitizer was placed approximate
+ly 12 inches above 50 crumpled paper towels 
+and ignited in a similar manner to the Marker a
+nd Do flammability study [5].  This was done to 
+observe the potential fire hazard of a nearly full bottle of hand sanitizer.  The primary difference 
+between the previous test and the present one was that the bottle was sitting vertically on the shelf above the fire for the present test, and for the previous study, the bottle was mounted at an 
+angle over the fire.  Also, in the present test, approximately 1/2 ounce of the hand sanitizer was 
+placed under the paper towels to help start the fire, and 1/2 ounce of hand sanitizer was sprayed on top of the paper towels to simulate spillage. 
+ This test was performed for both the gel and 
+liquid hand sanitizers, as well as for a 12-ounce bo
+ttle of antibacterial soap.  Figure 3 shows the 
+paper towel burn test setup. 
+  3     Figure 3.  Paper Towel Burn Test Setup  AIRCRAFT INTERIOR PANEL BURN TESTS. To examine the ability of the hand sanitizer to ignite or burn aircraft interior materials, a small 
+
+amount of hand sanitizer was burned adjacently to a 
+generic aircraft interior panel.  This panel was purchased for Aircraft Material Fire Safety Research and is qualified to Federal Aviation 
+Administration aircraft interior heat and smoke
+ release requirements (Title 14 Code of Federal 
+Regulations Part 25.853).  The panel is nominally 
+1/4 inch thick and constructed of fiberglass foreplys on a NomexŽ honeycomb core with a TedlarŽ finish.  One test was performed by 
+
+placing two 12-inch-square pieces of panel vertically and at right angles to each other.  A 2-inch-square cup, which contained a fixed amount of 
+hand sanitizer, was placed at the base of the panels where they met.  One ounce of the gel ha
+nd sanitizer was evaluated in this manner, while 
+2 ounces of the liquid hand sanitizer was evaluated.  The amount of panel damage was noted, as 
+was the ability of the burning hand sanitizer to ignite the panel. 
+
+ 
+An additional test was performed using the sa
+me 12-inch-square panel that was horizontally 
+oriented and exposed to the 2-inch-square cup of burning liquid hand sanitizer for 10 minutes.  
+To evaluate the potential for burn-through of the material, a 12-inch-square horizontal panel was 
+exposed to a vertical propane torch at the center of the panel for 3 minutes.  For each test, the 
+flame base was approximately 4 inches from the pa
+nel.  The shape and extent of damage for both 
+tests were compared. 
+
+ 
+To examine the effect of a more typical fire on 
+these types of cabin materials, a 30- by 48-inch 
+vertical panel was subjected to the paper towel burn test.  An additional bottle of liquid hand 
+sanitizer was placed in the metal tray with th
+e 50 crumpled paper towels to ensure vigorous 
+burning.  The paper towels were ignited and allowed to burn adjacently to the panel.  The  4   damage to the panel was noted, and video was used
+ to record the extent and intensity of the 
+burning.  RESULTS PAN BURN TESTS. When burning 2 ounces of gel hand sanitizer in 
+the 6-inch-square pan, it burned in a controlled manner similar to a SternoŽ product used to h
+eat water for food service.  It provided a consistent, modest amount of heat with peak te
+mperatures, reaching approximately 500°F, 1 to 2 
+inches above the flame.  This is in contrast to
+ the liquid hand sanitizer that burns very similarly 
+to alcohol, with a larger, more erratic flame.  
+The peak temperatures 1 to 2 inches above the 
+flame reached 1000°F.  Since the liquid hand saniti
+zer does not retain its shape like the gel, the liquid occupied the entire pan, creating a larger surface-burning area.  This caused the liquid to burn completely in approximately 4 minutes, whereas the gel was still burning at 4 minutes. 
+
+ 
+The 2 ounces of gel hand sanitizer was easily extinguished with 2 ounces of water after burning for 4 minutes.  The liquid hand sanitizer self-e
+xtinguished after approximately 4 minutes of 
+burning.  When the liquid hand sanitizer test was 
+repeated, at approximately 1 minute into the 
+test, 2 ounces of water was used to extinguish the fire.  However, the water simply pushed the 
+fire around and out of the pan, briefly lighting the table on fire.  The modest fire was easily 
+extinguished by blowing out the flames.  This
+ caused the burning flame front to become 
+detached from the liquid surface™s evapor
+ating vapor source, which stopped burning.  
+When 1 ounce of liquid hand sanitizer was burned in the 2-inch-square pan, it burned less 
+
+vigorously, as it had less surface area to burn.  Wh
+en the liquid hand sanitizer was deposited as foam and had the igniter immediately applied, 
+it would burn with some difficultly.  The foam 
+quickly turned back to liquid, which, again, burned readily like alcohol.  When the burning hand 
+
+sanitizer was sprayed with a mist of hand sanitizer, it produced a brief airborne flame.  When this 
+
+was done next to a single paper towel, it did not transfer the flame to the 
+paper.  If the paper towel was sprayed with the mist and then placed ne
+xt to the airborne flames, the flames still did 
+not ignite the paper towel.  When a paper towel 
+that had been dampened with the hand sanitizer 
+spray was ignited with a flame source, it could be 
+laid flat on the table and the flame would self-
+extinguish without burning the paper towel. 
+ VAPOR IGNITION TESTS. When the liquid hand sanitizer was heated fr
+om the bottom and the vapor was captured, the 
+vapor could be ignited by lighting the vapor escaping the side of the gallon container or by placing the igniter in the small hole in the side of the gallon container near the top.  The vapor 
+
+would ignite with and without the presence of the hot pan of liquid.  When the hot pan was 
+present, the vapor ignition tracked back to the liquid, igniting it and causing it to burn vigorously.  Although it was somewhat
+ more difficult, it was possible to heat the gel from the 
+bottom and create enough vapor in the gallon contai
+ner to obtain ignition using the hole in the side of the gallon container near the top. 
+  5   Experiments were performed to trap vapor from 
+the liquid hand sanitizer without heating the pan from the bottom.  This was done at room temper
+ature and at ambient temperatures as high as 
+100°F, using the gallon container.  All attempts 
+at trapping sufficient vapor to obtain an ignition were unsuccessful.    
+PAPER TOWEL BURN TESTS
+. The paper towel burn tests were performed similarly 
+to the Marker and Do test [5], but the tests 
+differed slightly, in that the hand sanitizer bottles were not mounted at an 
+angle over the fire, but simply placed on a shelf.  Also, the crumpled 
+paper towels had approximately 1 ounce of hand 
+sanitizer deposited underneath and on top of them. 
+ Again, this test was performed not only on 
+the liquid and gel hand sanitizer, but also on the liquid antibacterial soap.  In all tests, the plastic 
+bottle caught fire and melted to some extent. 
+
+ 
+The antibacterial soap bottle melted only slightly and self-extinguished in less than 5 minutes. 
+
+ 
+When the test was performed on the gel hand sa
+nitizer, the bottle partially melted and then 
+caught fire.  It began to pop and expel its contents sporadically after 1 minute of burning, and 
+
+eventually fell into the remnants of the pape
+r towel fire at 2 minutes, burning vigorously for 
+1 minute after that point while expelling its contents sporadically.  The temperature adjacent to 
+
+the burning bottle of hand sanitizer was in excess of 1500°F.  It is important to note that, as the 
+bottle expelled the contents through the flame, it di
+d not transfer the flame at all.  The bottle 
+frequently expelled liquid 3-4 feet, but the expelled fluid itself was not burning.  The fire never 
+penetrated the bottle, which continued to smolder and occasionally pop and shutter for 
+
+20 additional minutes.   
+
+ 
+When the liquid hand sanitizer was tested, the bo
+ttle caught fire after 1 minute of being exposed 
+to the paper towel fire, and burned vigorously long after the paper towel fire self-extinguished.  
+The maximum observed temperature was approximately 1600°F.  The bottle never fell into the 
+
+remnants of the paper towel fire, but the lid ev
+entually, completely melted away and allowed for 
+ebbs and flows of an intense alcohol fire, which burned with the plastic on the shelf for more 
+than 20 minutes.  After a total burn time of 25 mi
+nutes, the fire was reduced to a small plastic 
+and alcohol fire on the side of the melted bottle. 
+ It was easily blown out like a candle.  Figure 4 shows the brief, intense paper towel fire that preceded the burning of the various hand sanitizer bottles.   6     Figure 4.  Fire at the Outset of Each Paper Towel Burn Test  AIRCRAFT INTERIOR PANEL BURN TESTS. When 1 ounce of gel hand sanitizer was burned ne
+xt to the two 12-inch-square panels placed vertically at right angles as previously described, neither panel burned.  The 1 ounce of gel hand sanitizer self-extinguished after 10 minutes, leav
+ing the panel charred.  When 2 ounces of liquid 
+hand sanitizer was tested in the same manner, it 
+burned twice as long with a similar flame, even 
+though, in other tests, the liquid tended to burn more erratically.  Although the panel was 
+charred, it never caught fire and no burn-through occurred.  There was no significant difference between the burn patterns on the material for the 1-ounce gel hand sanitizer test compared to the 
+2-ounce liquid hand sanitizer test.  Figure 5 shows both the test setup of the two 12-inch-square panels and the typical burn pattern from the test. 
+
+   Figure 5.  Aircraft Interior Vertical Panel Test Setup (left) Compared to the  
+Burn Pattern (right)   7    8When a single 12-inch-square horizontal panel wa
+s exposed to a vertical propane torch for 3 minutes, the intense local heat flux burned completely through a 1-inch-square area of the 
+panel.  An approximate 3-inch-diameter circle
+ on the panel was so badly damaged that the 
+remnants could easily be removed by hand, making a complete hole.  The remaining panel was 
+
+only charred and remained intact, with th
+e underlying honeycomb undamaged.  When 2 ounces 
+of liquid hand sanitizer was burned in a 2-inch-square cup for 10 minutes, it charred an 
+
+approximate 10-inch-diameter circle on the panel, but the panel was not significantly damaged at 
+
+any location.  Figure 6 shows results of the two aircraft panel burn tests. 
+ 
+When the larger panel was integrated with the 50-paper towel burn test, with additional hand 
+
+sanitizer, a larger fire was observed, as expected, which ebbed and flowed as the hand sanitizer 
+was released sporadically into the fire.  Although extensive charring of the panel was observed, 
+no severe damage or burn-through occurred on the panel. 
+
+ 
+For all aircraft interior panel burn tests, various amounts of the charred panel exterior ablated, 
+and many charred flakes, with virtually no mass, remained only slightly attached to the test 
+
+panel.   
+   Figure 6.  Comparison of Aircraft Interior Ho
+rizontal Panel Test Results for the 3-Minute Propane Torch Burn (left) and the 10-Minute Liquid Hand Sanitizer Burn (right)  SUMMARY As expected, the hand sanitizer, which is approximately 60% alcohol by volume, is flammable 
+and can easily be ignited with a common grill light
+er when poured into a pan.  It tends to burn 
+relatively coolly, with peak flame temperatur
+es between 500° and 1000°F, compared to fuel, 
+
+plastic, or cellulose fires.  The observed temper
+atures above the flame were higher for the liquid 
+hand sanitizer compared to the gel hand sanitizer
+.  The vapor, which is generated by heating the liquid from the bottom, is flamma
+ble.  The hot liquid does not have to be present to ignite the vapor; however, the vapor could not be ignited at room or elevated ambient temperatures (up to 
+100°F) without bottom-heating the hand sanitizer. 
+ When a nearly full bottle of hand sanitizer 
+   was involved in a fire started by burning paper towels, it burned hotter and somewhat 
+vigorously.  At one point, the fire adjacent to the 12-oz bottle of hand sanitizer reached temperatures in excess of 1500°F.  Typical aircra
+ft interior panels, oriented horizontally or vertically, did not ignite and burn independently, nor was the panel significantly damaged, when 
+exposed to burning hand sanitizer for 10-20 mi
+nutes.  From the tests conducted, burning hand 
+sanitizer does not pose any significant risk to comme
+rcial transport airplane fire safety, given the present cabin material flammability requirements. 
+ REFERENCES 1. White, C., et al., ﬁThe Effect of Hand 
+Hygiene on Illness Rate Among Students in 
+University Residence Halls,ﬂ American Journal of Infection Control, October 2003, Vol. 31, No. 6, pp. 364-70.  
+2. Grayson, M.L., et al., ﬁEfficacy of Soap and Water and Alcohol-Based Hand-Rub 
+Preparations Against Live H1N1 Influenza Virus on the Hands of Human Volunteers,ﬂ 
+Clinical Infectious Diseases, February 2009, Vol. 48, No. 3, pp. 285-91.  
+3. Vessy, J.A., Sherwood, J.J., and Warner, D., ﬁComparing Hand Washing to Hand 
+
+Sanitizers in Reducing Elementary School Students™ Absenteeism,ﬂ 
+Pediatric Nursing, 2007, Vol. 33, No. 4, pp. 368-372.  
+4. Dean, et al., Lange™s Handbook of Chemistry, McGraw Hill, 1979.  
+5. Marker, T. and Do, D., ﬁFire Testing of Ethanol-Based Hand Cleaner,ﬂ DOT/FAA/AR-TN98/15, April 1998.   9/10

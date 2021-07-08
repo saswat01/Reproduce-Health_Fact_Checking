@@ -1,0 +1,3973 @@
+2 CONTENTS OF 
+THIS DOCUMENT
+   OVERVIEW
+ ........................................................................................................................ 4 Effects on the Federal Budget
+ ............................................................................................. 4 Effects on Health Insurance Coverage
+ ................................................................................ 4 Stability of the Health Insurance Market
+ ............................................................................. 6 Under Current Law.
+ ..................................................................................................... 6 Under This Legislation.
+ ............................................................................................... 6 Effects on Premiums and Out
+-of-Pocket Payments
+ ............................................................ 7 Uncertainty Surrounding the Estimates
+ ............................................................................... 9 Intergovernmental and Private
+-Sector Manda
+tes
+ .............................................................. 10 MAJOR PROVISIONS OF THIS LEGISLATION
+ .......................................................... 10 ESTIMATED COST TO THE FEDERAL GOVERNMENT
+ .......................................... 12 Budgetary Effects of Health Insurance Coverage Provisions
+ ........................................... 13 Revenue Effects of Other Provisions
+ ................................................................................ 14 Direct Spending Effects of Other Provisions
+ .................................................................... 14 Changes in Spending Subject to Appropriation
+ ................................................................ 14 BASIS OF ESTIMATE
+ ..................................................................................................... 14 Use of the March 2016 Baseline
+ ....................................................................................... 15 Health Insurance Coverage Provisions
+ .............................................................................. 15 Additional Information About Overall Effects
+.......................................................... 16 Methodology
+ .............................................................................................................. 18 Mandate 
+Penalties
+ ...................................................................................................... 18 Waivers
+ ...................................................................................................................... 19 Short
+-Term Assistance to Address Disrupted Coverage and Access
+ ........................ 23 Long
+-Term State Stability and Innovation 
+Program
+ ................................................. 23 Continuous Coverage
+ ................................................................................................ 24 Age
+-Rating Rules
+ ...................................................................................................... 25 Minimum Medical Loss Ratio
+ ................................................................................... 25 Premium Tax Credits and Cost
+-Sharing Reductions
+ ................................................. 26 Caps on Federal Medicaid Spending
+ ......................................................................... 28 Federal Matching Rate for Medicaid Costs
+ ............................................................... 31 Noncoverage Spending Provisions
+ .................................................................................... 32 Better Care Reconciliation Implementation Fund
+ ..................................................... 32  3 Federal Payments to States
+ ........................................................................................ 32 Medicaid Provisions
+ .................................................................................................. 33 Restoring Fairness in DSH Allotments
+ ..................................................................... 34 Reducing
+ State Medicaid Costs
+ ................................................................................. 34 Providing Safety Net Funding for Nonexpansion States
+ ........................................... 34 Provider Taxes
+ ........................................................................................................... 34 Medicaid and C
+HIP Quality Performance Bonus Payments
+ ..................................... 35 Prevention and Public Health Fund
+ ........................................................................... 35 Support for State Response to Opioid Crisis
+ ............................................................. 35 Community Health Center Program
+ .......................................................................... 35 Changes in Spending Subject to Appropriation
+ ................................................................ 35 INCREASE IN LONG
+-TERM DIRECT SPENDING AND DEFICITS
+ ......................... 35 MANDATES ON STATE, LOCAL, AND TRIBAL GOVERNMENTS
+ ........................ 36 MANDATES ON THE PRIVATE SECTOR
+ ................................................................... 36 PREVIOUS CBO ESTIMATES
+ ....................................................................................... 37  TABLES
+ Table 1. 
+ ––––...––––––––––––––––––––––––.
+41 Table 2. 
+ –––––––––––––––––––––––––––––
+42 Table 3.
+  –––––––––––––––––––––––––––––
+46 Table 4. 
+ –––––––––––––––––––––––––––––
+47 Table 5. 
+ –––––––––––––––––––––––––––––
+48 FIGURES
+ Figure
+ 1.  
+–––––––––––––––––––––––––––––.
+5 Figure 2.  
+––––––––––––––––––––––––––––...
+13 Figure 3 
+ –––––––––––––––––––––––––––––
+16 Figure 4 
+ –––––––––––––––––––––––––––––
+17 Figure 5 
+ –––––––––––––––––––––––––––––
+38   4 OVERVIEW
+  Effects on the Federal Budget
+  CBO and JCT estimate that, over the 2017
+-2026 period,
+ enacting this legislation
+ would 
+reduce direct spending by $
+1,0
+22 billion and reduce revenues by $
+701
+ billion, for a net 
+reduction 
+of $
+321
+ billion in the deficit over that period (see Table 
+1, at the end of this 
+document)
+:    The largest savings would come from reductions in outlays for Medicaid
+Šspending on the program 
+would decline 
+in 2026 by 
+26 
+percent in comparison 
+with
+ what CBO pro
+jects under current law
+Šand from 
+changes to
+ the Affordable Care 
+Act™s (ACA™s) subsidies for nongroup health insurance (see Figure 1). Those 
+savings would be partially offset by 
+the effects of 
+other changes 
+to the ACA™s 
+provisions
+ dealing with insurance 
+coverage
+: 
+additional 
+spending designed to 
+reduce premiums and a
+ reduction in revenues from repealing penalties on 
+employers who do not offer insurance and on people who do not purchase 
+insurance. 
+   The largest 
+increase
+s in deficits 
+would come from repealin
+g or modifying tax 
+provisions in the ACA that are not directly related to health insurance coverage
+, including
+ repealing a 
+surtax on net investment income and
+ repealing annual fees 
+imposed on health insurers.
+  Pay
+-as
+-you
+-go procedures apply because enactin
+g this legislation
+ would affect direct 
+spending and revenues. CBO and JCT estimate that enact
+ment
+ would not increase net 
+direct spending or on
+-budget deficits in any of the four consecutive 10
+-year periods 
+beginning in 2027. 
+The agencies expect that saving
+s, particularly 
+from
+ Medicaid, would 
+continue to grow
+, while the costs would be smaller because 
+a rescinded
+ tax on 
+employee
+s™ health insurance premiums and health plan benefits would be reinstated in 
+2026. 
+CBO has not completed an estimat
+e of the potential
+ impact of this
+ legislation on 
+discretionary spending, which would be subject to future appropriation action.
+  Effects on Health Insurance Coverage
+  CBO and JCT estimate that
+, in 2018, 
+15 million more people would
+ be uninsured under 
+this legislation
+ than under current law
+Šprimarily
+ because the penalty
+ for not having 
+insurance would be eliminated
+. The increase in the number of uninsured people relative 
+to the number projected under current law would reach 
+19 million
+ in 2020 and 
+22 million 
+in 2026. 
+In 
+later years
+, other changes in the legislation
+Šlower
+ spending on Medicaid and 
+substantially smaller 
+average
+ subsid
+ies
+ for coverage in the nongroup
+ market
+Šwould 
+also 
+lead to increases in the number of people without health
+ insurance
+. By 2026, among 
+people under age 65, enrollment in Medicaid would fall by 
+about 
+16 percent
+ and 
+an 
+estimated 
+49 million people would be uninsured, compared with 28 million who would 
+lack insurance that year under current law.
+  5   6 Stability of the H
+ealth Insurance Market
+  Decisions about offering and purchasing health insurance depend on the stability of the 
+health insurance market
+Šthat is, on the proportion of people living in areas with 
+participating insurers and on the likelihood of premiums™ not 
+rising in an unsustainable 
+
+spiral. The market for insurance purchased individually with premiums not based on 
+one™s health status would be unstable if, for example, the people who wanted to buy 
+coverage at any offered price would have average health care e
+xpenditures so high that 
+offering the insurance would be unprofitable.
+ 
+ Under Current Law.
+ Although premiums have been rising under current law, most 
+subsidized enrollees purchasing health insurance coverage in the nongroup market are 
+
+largely insulated fro
+m increases in premiums because their out
+-of-pocket payments for 
+premiums are based on a percentage of their income; the government pays the difference 
+
+between that percentage and the premiums for a reference plan
+ (which is the second
+-lowest
+-cost plan in t
+heir area providing specified benefits)
+. The subsidies to purchase 
+coverage, combined with the effects of the individual mandate, which requires most 
+
+individuals to obtain insurance or pay a penalty, are anticipated to cause sufficient 
+demand for insurance
+ by enough people, including people with low health care 
+expenditures, for the market to be stable in most areas.
+  Nevertheless, 
+a small number of people
+ live in 
+areas of the country 
+that
+ have limited 
+participation by insurers in the nongroup
+ market under current law. Several factors 
+may
+ lead insurers to withdraw from the market
+Šincluding lack of profitability and substantial 
+uncertainty about enforcement of the individual mandate and about future payments of 
+the cost
+-sharing subsidies to redu
+ce out
+-of-pocket payments for people who enroll in 
+nongroup coverage through the marketplaces established by the ACA.
+  Under This Legislation.
+ CBO and JCT anticipate that, under 
+this legislation
+, nongroup 
+insurance markets would continue to be stable in 
+most parts of the country. Although 
+substantial uncertainty about 
+the effects of the new law
+ could lead 
+some 
+insurers to 
+withdraw from or not enter the nongroup market
+ in some states
+, several factors would 
+bring about market stability in most states before 2
+020. In the agencies™ view, those key 
+factors include 
+the following: 
+subsidies to purchase insurance, which would maintain 
+
+sufficient demand for insurance by people wi
+th low health care expenditures; the 
+appropriation of funds for cost
+-sharing subsidies, w
+hich would provide certainty about 
+the availability of those funds;
+ and 
+additional federal funding provided 
+to states 
+and 
+insurers
+, which would lower premiums by reducing the costs to insurers of people with 
+high health care expenditures.
+  The agencies exp
+ect that the nongroup market in 
+most
+ areas of the country would 
+continue to be stable in 2020 and later years as well, including in some states that obtain 
+
+waivers 
+that would not have otherwise done so
+. (Under current law and this legislation, 
+states can a
+pply for Section 1332 waivers to change the structure of subsidies for 
+ 7 nongroup coverage
+; the specifications for essential health benefits 
+[EHBs], which 
+set the
+ minimum standards for the benefits that insurance in the nongroup and small
+-group 
+markets must 
+cover
+; and o
+ther related provisions of law.) Substantial federal funding to 
+directly reduce premiums would be available through 202
+1. Premium tax credits would 
+continue to provide insulation from changes in premiums through 202
+1 and in later years. 
+Those f
+actors would help 
+attract 
+enough 
+relatively healthy people 
+for the 
+market
+ in most 
+areas of the country to be stable
+, CBO and JCT anticipate
+. That stability in most areas 
+would occur
+ even though the 
+premium tax credits would be smaller
+ in most cases than 
+under current law and subsidies to reduce cost sharing
+Šthe amount that consumers are 
+required to pay out of pocket when they use health care services
+Šwould be eliminated 
+starting in 2020
+.   In t
+he agencies
+™ assessment
+, a small fraction 
+of the population resides in areas in which
+Šbecause of this legislation, at least for 
+some of the 
+years
+ after 2019
+Šno insurers would 
+participate in the nongroup market or insurance would be offered only with very high 
+premiums. Some sparsely populated area
+s might have no nongroup insurance offered 
+because the reductions in subsidies would lead fewer people to decide to purchase 
+insurance
+Šand markets with few purchasers are less profitable for insurers. I
+nsurance 
+covering 
+certain 
+services 
+would 
+become more e
+xpensive
+Šin some cases, extremely 
+expensive
+Šin some areas because the scope of the EHBs would be narrowed through 
+waivers affecting close to half
+ the population, CBO and JCT expect.
+ In addition, the 
+agencies anticipate that all insurance in the nongroup ma
+rket would become very 
+expensive for at least a short period of time for a small fraction 
+of the population resid
+ing in areas in which
+ states™ implementation of waivers with major changes caused market 
+disruption. 
+  Effects on Premiums and Out
+-of-Pocket Pa
+yments
+  The legislation would increase average premiums in the nongroup market prior to
+ 2020 
+and lower average premiums thereafter, relative to projections under current law
+, CBO 
+and JCT estimate
+. 
+To arrive at those estimates
+, the agencies
+ examined how the
+ legislation 
+would affect the premium
+s charged if people purchased a benchmark plan
+ in the 
+nongroup market
+.   
+In 2018 and 2019, under current law and under the leg
+islation, the benchmark plan has
+ an actuarial value of 70 percent
+Šthat is, the insurance pays
+ about 70 percent of the total 
+cost of covered benefits, on average. In the marketplaces, such 
+coverage
+ is known as a 
+silver plan. 
+  Under th
+e Senate
+ bill, average premiums for benchmark plans 
+for single individuals 
+would be 
+about 
+20 percent higher in 2018
+ than under current law, mainly because the 
+penalty for not having insurance
+ would be eliminated, inducing fewer comparatively 
+healthy people to sign up
+. Those premiums would be about 
+10 percent higher
+ than under 
+current law
+ in 2019
+Šless than in 2018 in 
+part because funding provided by the bill
+ to 
+ 8 reduce premiums 
+would affect
+ pricing
+ and because changes in the limits on how 
+premiums can vary by age would result in a larger number of younger people paying 
+lower premiums to purchase policies
+.  In 2020, 
+aver
+age 
+premiums for benchmark plans for single individuals would be about 
+30 percent lower
+ than under current law. A
+ combination of factors would 
+lead to that 
+decrease
+Šmost important, 
+the smaller share of
+ benefits
+ paid for by the benchmark plan
+s and 
+federal f
+unds provided to directly reduce premiums.
+  That share of services covered by insurance would be 
+smaller because the 
+benchmark 
+plan 
+under this legislation 
+would have an actuarial value 
+of 
+58 percent
+ beginning in 2020
+. That value is slightly below the actua
+rial value 
+of 
+60 percent 
+for
+ ﬁbronzeﬂ
+ plans 
+currently 
+offered in 
+the 
+marketplaces. 
+Because of the ACA™s limits on out
+-of-pocket spending and 
+prohibitions on annual and lifetime limits on payments for services within the EHBs, all 
+plans must pay for most of
+ the cost of high
+-cost services. To design a plan with an 
+actuarial value of 60 percent or less and pay for those high
+-cost services, insurers must 
+set high
+ deductibles
+Šthat is, the amount
+s that pe
+ople
+ pay out
+ of pocket for most types of 
+health care servic
+es before insurance makes any contribution. Under current law
+ for a 
+single policyholder in 2017
+, the average deductible (for medical and drug expenses
+ combined
+) is about $6,000
+ for a bronze plan and $3
+,600 for a silver plan
+. CBO and JCT 
+expect that the 
+benchmark plans under this legislation would have high deductibles
+ similar to 
+those for 
+the bronze plans offered under current law
+. Premiums for a
+ plan with 
+an actuarial value of 58 percent 
+are
+ lower than 
+they are for 
+a plan with an actuarial value 
+of 70
+ percent (the value 
+for the reference plan 
+under current law) largely because
+ the 
+insurance
+ pays for a smaller average share of 
+health care costs
+.  Although the average benchmark premium directly affects the amount of premium tax 
+
+credits and is a key element in CBO™s analysis of the budgetary effects of the bill, it does 
+not represent the effect of this legislation on the average premiums for all 
+plan
+s purchased
+. The differences in the actuarial value of plans purchased under this legislation 
+and under current law would be greater starting in 2020
+Šwhen, for example, under this 
+bill, some people w
+ould 
+pay more than the benchmark premium to 
+purchase a si
+lver plan
+, whereas, under current law, others would pay less than the benchmark premium to 
+purchase 
+a bronze plan. 
+  
+Under this legislation, starting in 2020, the premium for a silver plan would typically be a 
+relatively high percentage of income for low
+-income people
+. The deductible for a plan 
+with an actuarial value of 58 percent would be a significantly higher percentage of 
+income
+Šalso 
+making 
+such a plan
+ unattractive, but for a different reason
+. As a result, 
+despite being eligible for premium tax credits
+, few low
+-income people would purchase 
+any plan
+, CBO and JCT estimate
+.  9  By 2026, average 
+premiums for benchmark plans for single individuals in most of the 
+country 
+under this
+ legislation would be about 20
+ percent lower than under current law, 
+CBO and JCT e
+stimate
+Ša smaller decrease than in 2020
+ largely because federal funding 
+to reduce premiums would have lessened. The estimates for both of those years 
+
+encompass effects
+ in 
+different areas of the country
+ that would be substantially higher and 
+substantially lower than the average effect nationally, in part because of the effects of 
+
+state waivers. Some small fraction of the population is not included in those estimates. 
+CBO and JCT expect that those people 
+would be in states using waivers in such a way 
+that
+ no benchmark plan would be defined. Hence, a comparison of benchmark premiums 
+is not possible in such areas.
+  Some people enrolled in nongroup insurance would experience substantial increases in 
+what they
+ would spend on health care
+ even though 
+benchmark premiums would decline, 
+on average, in 2020 and later years
+. Because nongroup insurance 
+would 
+pay for a smaller 
+average share of benefits under th
+is legislation, most people purchasing it 
+would have 
+higher 
+out
+-of-pocket spending on health care than under current law.
+ Out
+-of-pocket 
+spending would also be affected for the people
+Šclose to half the population, CBO and 
+JCT expect
+Šliving in states modifying the EHBs
+ using waivers. People
+ who used 
+services or benef
+its no longer included in the EHBs would experience substantial 
+
+increases in 
+supplemental premiums or 
+out-of-pocket spending on health care
+, or would 
+choose to forgo the services. Moreover, the ACA™s ban on annual and lifetime limits on 
+
+covered benefits wo
+uld no longer apply to health benefits not defined as essential in a 
+state. As a result, for some benefits that might be removed from a state™s definition of 
+
+EHBs but that might not be excluded from insurance coverage altogether, some enrollees 
+could see l
+arge increases in out
+-of-pocket spending because annual or lifetime limits 
+would be allowed. 
+   Uncertainty Surrounding the Estimates
+  CBO and JCT have endeavored to develop budgetary estimates that are in the middle of 
+the distribution of potential outcom
+es. Such estimates are inherently 
+inexact
+ because the 
+ways in which federal agencies, states, insurers, employers, individuals, doctors, 
+hospitals, and other affected parties would re
+spond to the changes made by this
+ legislation are all difficult to predict. 
+In particular
+, predicting the overall effects of the 
+
+myriad ways that states could implement
+ waivers is especially difficult.
+  
+CBO and JCT™s projections under current law itself are 
+also 
+uncertain
+. For example, 
+en
+rollment in the marketplaces under current law 
+will probably 
+be lo
+wer than wa
+s projected
+ under the March 2016 baseline used in this analysis
+, which would tend to 
+decre
+ase the budgetary savings 
+from
+ this
+ legislation. 
+However
+, the average subsidy per 
+enrolle
+e under current law 
+will probably be higher than wa
+s projected
+ in March 2016
+, which would tend to increase the budgetary savings 
+from
+ th
+is
+ legislation.
+ (For 
+a 
+related 
+discussion, see the section on ﬁUse of the March 2016 Baselineﬂ on page 
+15.)  10  Despite the
+ uncertainty, the dir
+ection of certain effects of this
+ legislation is clear. For 
+example, the amount of federal revenues collected and the amount of spending on 
+
+Medicaid would almost surely both be lower than under current law. And the numb
+er of 
+uninsured 
+people under this
+ legislation would almost surely be greater than under current 
+law.
+  Intergovernmental and Private
+-Sector Mandates
+  CBO has reviewed the nontax provisions of the legislation and determined that they 
+would impose intergovernmental mandates 
+as defined in the Unfunded Mandates Reform 
+Act (UMRA) by preempting state laws. Although the preemptions would limit the 
+application of state laws, they would impose no duty on states that would result in 
+additional spending or a loss of revenue
+s. JCT has 
+determined that the tax provisions of 
+the legislation contain no intergovernmental mandates.
+ 
+ JCT and CBO have determined that the legislation would impose private
+-sector mandates 
+as defined in UMRA. On the basis of information from JCT, CBO estimates
+ that
+ the 
+aggregate cost of the mandates would exceed the annual threshold established in UMRA 
+for private
+-sector mandates ($156 million in 2017, adjusted annually for inflation).
+  
+ MAJOR PROVISIONS OF 
+THIS LEGIS
+LATION
+  Under this legislation, b
+udgetary effects
+ related to health insurance coverage would stem 
+from provisions that became effective in different years. 
+  
+Upon enactment, 
+th
+e legislation
+ would eliminate penalties associated with the 
+requirements that most people obtain health insurance coverage and th
+at large employers 
+offer their employees coverage that meets specified standards. States would be allowed to 
+meet fewer criteria to 
+waive the ACA™s requirement establishing essential health benefits 
+and many other requirements related to subsidies and the 
+marketplaces as long as the 
+changes would not increase federal deficits
+; states would be
+ provided funding to develop 
+applications for waivers. 
+  In 2018, the 
+legislation
+ would pro
+vide funding to health insurers
+ to stabilize premiums 
+and promote participati
+on in 
+the 
+marketplaces.
+  In 2019, f
+our major coverage provisions would 
+take effect
+:   Appropriating funding for grants to states through the 
+Long
+-Term 
+State 
+Stability 
+and Innovation 
+Program.
+   11  Requiring insurers to impose a six
+-month waiting period before co
+verage starts for 
+people who enroll in insurance in the nongroup market if they have been 
+uninsured for more than 63 days within the past year.
+   Setting a 
+limit
+ whereby 
+insurers w
+ould charge 
+older people 
+premiums
+ that are
+ up to 
+five times 
+higher 
+than 
+those charged 
+younger 
+people
+ in the nongroup and small
+-group markets
+, unless a state sets a different limit.
+   Removing the federal cap on the share of premiums that may go to insurers™ 
+administrative costs and profits 
+(also known as 
+the 
+minimum 
+medical 
+loss ratio 
+requirement
+) and 
+effectively 
+allowing
+ each 
+state to 
+set its own 
+cap.
+  In 2020, the following a
+dditional major coverage provisions would 
+take effect
+:   Changing the tax credit for health insurance coverage purchased through the 
+
+nongroup market and r
+epealing current
+-law subsidies to reduce cost
+-sharing 
+payments
+. People with income below 100
+ percent of the 
+federal poverty 
+level
+ (FPL) 
+who are not eligible for Medicaid
+ would be
+come
+ eligible
+ for the tax credit, 
+and p
+eople with income between 350
+ percent 
+and 400
+ percent of the FPL would 
+no longer
+ be eligible. T
+he 
+maximum 
+percentage of income 
+specified by the bill 
+that people would pay at different ages
+ toward the purchase of a benchmark plan 
+would be lower for some younger people and higher for some older 
+people
+. The 
+benchmark plan 
+used to determine the amount of the tax credit 
+would have
+ a lower 
+actuarial value
+.   Capping the growth in per
+-enrollee payments for 
+nondisabled
+ children and 
+nondisabled adults enrolled in Medicaid at no more than the medical care
+ component of the consumer price index (CPI
+-M) and for most enrollees who are 
+disabled 
+adults 
+or age 65 or older 
+at no more than 
+the 
+CPI-M plus 1 percentage 
+point, starting in 2020
+ and going through 2024. 
+Starting in 2025, t
+he rate of 
+growth in per
+-enrollee payments for all groups would 
+be pegged to
+ the consumer 
+price index for all urban consumers (CPI
+-U).  Starting i
+n 2021, the bill would r
+educ
+e the federal matching rate for
+ funding for
+ adults 
+made eligible for Medicaid by the ACA; that rate would 
+decline 5 percent
+age points per 
+year through
+ 2023 and then fall to equal the rate for other enrollees in 
+a state in later 
+years.
+  Other parts of 
+this legis
+lation would repeal or delay many of t
+he changes the ACA made 
+to the Internal Revenue Code that were not directly related to the law™s insurance 
+coverage provisions. Those with the largest budgetary effects include
+ these:
+   Repealing the surtax on certain high
+-income taxpayers™ net investment i
+ncome
+, effective 
+for 
+tax year
+s beginning after December 2016
+.  12   Repealing the annual fee on health insurance providers
+, beginning 
+in calendar year
+ 2017.
+   Delaying when the excise tax imposed on some health insurance plans with high 
+premiums would go into ef
+fect
+. It is currently scheduled to take effect 
+for
+ tax year
+s beginning after December 2019
+; the legislation would delay the effective date for 
+six years
+.   Repealing the increase in the Hospital Insurance payroll tax rate for certain high
+-income taxpayers
+, effective for 
+earned income 
+received 
+beginning in
+ 2023
+.   In addition, 
+this legis
+lation would make several changes to other health
+-related programs 
+that would have smaller budgetary effects.
+   ESTIMATED COST TO THE FEDERAL GOVERNMENT
+  CBO and JCT estimat
+e that, on net, enacting 
+this legis
+lation would decrease federal 
+deficits by $
+321 billion over the 2017
+-2026 period. The largest budgetary effects would 
+stem from provisions affecting insurance coverage. Those provisions, taken together, 
+would reduce proje
+cted deficits by $
+862
+ billion over the 2017
+-2026 period. Other 
+provisions would increase deficits by $
+541
+ billion, mostly by reducing tax revenues. (See 
+Table 
+2, at the end of this document, for the estimated budgetary effects of each major 
+provision.)
+ The largest effects on spending under this bill would be for Medicaid. 
+Overall, including 
+all provisions
+ affecting Medicaid
+, CBO es
+timates that spending 
+for
+ the 
+program 
+would be reduced by $160 billion in 2026 
+compared 
+with
+ projections u
+nder 
+current law (see 
+Figure 2
+).    13  Budgetary Effects of Health Insurance Coverage Provisions
+  The total deficit reduction 
+that would result from the insurance coverage provisions 
+includes the fol
+lowing amounts (shown in Table
+ 3, at the end of this document):
+   A reduction of $
+772 billion in federal outlays for Medicaid;
+   Savings of $
+424 billion stemming mainly from 
+modifying
+, in 2020,
+ the ACA™s
+ tax 
+credits for premium assistance 
+to purchase nongroup health insurance 
+and
+, in the 
+same year,
+ eliminating 
+subsidies to reduce cost
+-sharing payments;
+   Savings of $
+21 billion, mostly associated with shifts in the mix of taxable and 
+nontaxable compensation
+Šresulting in more taxable income
+Šfrom net decreases 
+in most years in the number of people estimated to enroll in employment
+-based 
+health insurance coverage; and
+   Savings of $
+6 billion from repealing a tax credit for certain small employers who 
+provide health insurance to their employees.
+     14 Those decreases in the deficit would be partially offset by:
+   A reduction in revenues of $
+210
+ billion from eliminating the penalties paid by 
+uninsured people ($
+38 billion) and employers ($
+171 billion);
+   An increase in spending of $
+107
+ billion 
+for s
+hort
+-term assistance 
+to insurers 
+to 
+address 
+disrupted 
+coverage and access and 
+to 
+provide support for 
+states
+ through
+ the 
+Long
+-Term 
+State 
+Stability and Innovation 
+Program; and
+   A net increase in spending of $
+42 billion for the Medicare program stemming 
+from changes in payments to hospitals that serve a disproportionate share of low
+-income patients.
+  Revenue
+ Effects of Other Provisions
+  JCT estimates that 
+this legis
+lation would reduce revenues by $
+563 bill
+ion over the 
+2017
+-2026 period by repealing many of the revenue
+-related provisions of the ACA (apart 
+from those 
+directly 
+related to health insurance coverage
+, which are
+ discussed above). 
+  Direct Spending Effects of Other Provisions
+  This legis
+lation would also make changes to spending 
+apart from those 
+directly 
+related to 
+health insurance co
+verage 
+(which are 
+discussed above
+), such as 
+eliminating 
+funds for 
+grant
+s provided 
+through
+ the Prevention and Public Health Fund
+. CBO and JCT estimate 
+that those provisions would 
+reduce
+ direct spending
+, on net, by about $
+22 billion over the 
+2017
+-2026 period
+.  Changes in Spending Subje
+ct to Appropriation
+  CBO has not completed an estimate of the potential impact of 
+this legis
+lation on 
+discretionary spending, which would be subject to future appropriation action.
+   
+BASIS OF ESTIMATE
+  For this cost estimate, CBO and JCT assume that 
+the
+ legis
+lation will be ena
+cted by 
+July
+ 31, 2017
+, and use
+ CBO™s
+ March 2016 baseline
+. The agencies
+ have 
+provided an 
+overall estimate of the budgetary effects of the coverage provisions 
+in
+ this legislation
+, and 
+not 
+separate estimates
+ for each
+ provision
+, for three related reasons
+. First, t
+he agencies™
+ modeling is done in an integrated way
+. Second,
+ there are important interactions 
+among
+ the 
+provisions
+, so
+ the sum of the parts (when 
+considered
+ separate
+ly) does not equal the 
+whole
+. Third,
+ the order in which the 
+provisions
+ are considere
+d would 
+matter.
+ For t
+he 
+noncoverage spending provisions
+, the agencies
+ have 
+done separate
+ estimate
+s. Various 
+publications by JCT have provided considerable information about the basis of 
+earlier
+  15 estimates 
+for noncoverage revenue provisions 
+that remains appl
+icable
+, and those 
+provisions are not discussed further in this document
+.1  Use of the March 2016 Baseline
+  On the basis of consultation with the budget committees, CBO and JCT measured the 
+costs and savings in this estimate relative to CBO™s March 2016 
+baseline projections, 
+with adjustments for legislation that was enacted after that baseline was produced. That 
+approach is not unusual
+: The budgetary effects of reconciliation legislation are typically 
+estimated relative to the baseline that underlies t
+he 
+budget resolution that specifi
+ed the 
+reconciliation instructions and that was the basis for the deficit reduction goals stated in 
+the resolution. 
+The March 2016 baseline has been used by CBO and JCT for cost 
+estimates 
+for
+ all 
+pieces of 
+legislation related 
+to the budget reconciliation process for 2017
+, including this one.
+   CBO
+™s most recent baseline projection
+s were
+ completed
+ in 
+late 
+January 2017
+, after the 
+budget resolution was adopted
+. The agencies 
+have 
+not 
+had time to undertake a
+ follow
+-on analysis of th
+e effects of this legislation under 
+that baseline.
+  
+In the projections published in January 2017
+, the direct spending and revenue effects of 
+the 
+ACA™s 
+insurance coverage provisions
+ and the total number of people projected to be 
+uninsured 
+were similar to th
+ose in the March 2016 baseline, but the number of people 
+projected to purchase subsidized coverage in 
+the 
+marketplaces was smaller
+, and the 
+average subsidy per person was larger. If this legislation was evaluated relative to the 
+January 2017 baseline rathe
+r than the March 2016 baseline, it is unclear 
+how different 
+categories of insurance would be affected and 
+whether the budgetary effects would differ
+ 
+noticeably
+.   Health Insurance 
+Coverage Provisions
+  After 
+providing information 
+about 
+overall effects
+ to
+ supplement the discussion in the 
+overview
+, this section describes
+ the methodology used to estimate the effects of th
+e 
+coverage provisions
+. Then, it
+ provides additional details about each of the major coverage 
+provisions identified above, in the order in w
+hich they would become effective, and 
+discusses their 
+specific 
+effects.
+                                                1. See Joint Committee on Taxation, ﬁJCT Publications 2017,ﬂ 
+www.jct.gov/publications.html?func=select&id=76
+. On March 7, 2017, JCT published 10 documents relating to 
+an earlier version of this legislation
+ŠJCX
+-7-17 through JCX
+-16-17Šwhich are posted there. In addition, see 
+Joint Committee on Taxation, 
+Estimated Revenue Effects of the Tax Provisions Contained in 
+Title II of 
+H.R.
+ 1628, the American Health Care Act of 2017, as passed by the House of Representatives
+, JCX
+-27-17 
+(May
+ 24, 2017).
+  16 Additional Information About 
+Overall Effects
+. CBO and JCT expect that this
+ legislation would increase the number of uninsured 
+people substantially. T
+he increase 
+would be
+ disproportion
+ately larger among older people with lower income
+Šparticular
+ly
+ people
+ between 50 and 64 years old with income of less than 200
+ percent of the 
+federal 
+poverty level 
+(see Figure 
+3). This section provides additional information about two 
+major sources of coverage as well as about stability of the health insurance market.
+  Medicaid. 
+Enrollment 
+in Medicaid 
+would be lower throughout the coming decade
+, with
+ 15 million fewer Medicaid enro
+llees by 2026
+ than projected under current law
+ in CBO™s 
+March 2016 baseline
+ (see Figure 
+4). Some of that decline would be among people who 
+are
+ currently eligible for Medicaid benefits, and some would be among people who CBO
+ projects would
+, under current la
+w, 
+become e
+ligible in the future 
+as additional states 
+adopt
+ed the ACA™s option
+ to expand
+ eligibility.
+    17  Nongroup coverage. 
+On net, 
+CBO and JCT estimate that
+ roughly 
+7 million fewer people 
+would obtain coverage 
+in 2018 
+through the nongroup market 
+under this legislation 
+than 
+under 
+current law; that figure would be about 
+9 million in 2020
+ and about 
+7 million in 
+2026
+ (see Table
+ 4, at the end of this document
+). Fewer people would enroll in the 
+nongroup market 
+mainly 
+because 
+the penalty for not having i
+nsurance would be 
+eliminated and, starting in 2020, because 
+the average subsidy for coverage in that market 
+would be substantially lower for 
+most 
+people currently eligible for subsidies
+Šand for 
+some people that subsidy would be eliminated
+.   Market Stabili
+ty. 
+In C
+BO and JCT
+™s 
+assessment
+, a small fraction 
+of the population resides 
+in areas in which
+Šbecause of this legislation, for at least for some of the years after 
+2019
+Šno insurers would participate in the nongroup market or insurance w
+ould be
+ offered 
+only 
+with very high premiums. In the first case, the elimination of cost
+-sharing 
+subsidies for low
+-income people and the greater share of income that older people pay 
+toward premiums would shrink 
+the 
+demand for insurance compar
+ed with that under
+ current la
+w, and it would 
+probably 
+not be profitable for insurers to bear the fixed costs of
+ operating in some markets. In the second case, because the total subsidy per person under 
+the legislation 
+would be
+ substantially smaller than under current law, the fraction
+ of 
+purchasers who are subsidized would fall. Among the unsubsidized population, less 
+
+healthy people are more likely to purchase insurance
+Šand
+ the higher costs 
+for them 
+ 18 would 
+put upward pressure on premiums. As unsubsidized people bec
+ame a greater 
+fraction
+ of the purchasers, that pressure would 
+be greater 
+and could result in very high 
+premiums in some markets
+Šmainly during the second half of the coming decade, when 
+much less federal funding 
+would be 
+provided to reduce premiums
+. In 
+both
+ cases, 
+instability in
+ a given market would probably be resolved within a few years
+ by state
+s™ actions
+: States could 
+obtain a waiver that would allow changes to 
+certain 
+market 
+regulations
+ for the purpose of reducing premiums
+; 
+they
+ could reduce premiums directly 
+using funding ob
+tained 
+through the waiver process;
+ they
+ could obtain a greater share of 
+the funding from the State Stability and Innovation Program
+ to directly reduce premiums
+; 
+and 
+they
+ could spend their own funds to directly 
+lower 
+premiums
+.  Methodology
+. This legislation would change the pricing of nongroup insurance and the 
+eligibility for and the amount of subsidies to purchase that insurance. It would also lead 
+to changes in 
+eligibility for 
+Medicaid and per capita spending
+ in that program
+. The legis
+lati
+on™s effects on health insurance coverage would depend in part on how 
+individuals 
+responded
+ to changes in the prices, after subsidies, they ha
+d to pay for 
+nongroup insurance; on changes in their eligibility for public coverage; and on their 
+underlying desi
+re for such insurance. Effects on coverage would also stem from how 
+businesses
+ responded
+ to changes in those prices 
+for nongroup insurance 
+and in the 
+attractiveness of other aspects of nongroup alternatives to employment
+-based insurance.
+  To capture those 
+complex interactions, CBO uses a microsimulation model to estimate 
+how rates of coverage and sources of insurance would change as a result of alterations in 
+
+eligibility and subsidies for
+Šand thus the net cost of
+Švarious insurance options. Based 
+on survey d
+ata, that model incorporates a wide range of information about a 
+representative sample of individuals and families, including their income, employment, 
+health status, and health insurance coverage. The model also incorporates information 
+
+from the research 
+literature about the responsiveness of individuals and employers to 
+price changes and the responsiveness of individuals to changes in eligibility for public 
+coverage. CBO regularly updates the model so that it incorporates information from the 
+most recent 
+administrative data on insurance coverage and premiums. CBO and JCT use 
+that model
+Šin combination with models 
+to project
+ tax revenues, models of spending and 
+actions by states, projections of trends in early retirees™ health insurance coverage, and 
+other a
+vailable information
+Što inform their estimates of the numbers of people with 
+certain types of coverage and the associated federal budgetary costs.
+2  Mandate Penalties
+. This legislation would
+, upon enactment,
+ eliminate
+ penalties 
+associated with 
+requirements that most people obtain health insurance coverage (also 
+called the individual mandate) and that large employers offer their employees health 
+insurance coverage that meets specified standards (also called the employer mandate). 
+As 
+                                              2. For additional information, see Congressional Budget Office, ﬁMethods for Analyzing Health Insura
+nce 
+Coverageﬂ (accessed June 
+25, 2017), 
+www.cbo.gov/topics/health
+-care/methods
+-analyzing
+-health
+-insurance
+-coverage
+.   19 a result, 
+few
+er people 
+would 
+enroll in health insurance obtained through the nongroup 
+market, in employment
+-based health insurance 
+coverage, and
+ in Medicaid
+. The estimated 
+savings 
+from the reduced subsidies 
+stemming from 
+such lower enrollment 
+would exceed 
+the estimated
+ loss of revenues from eliminating 
+the 
+mandate penalties.
+  Nongroup 
+Coverage. 
+In the nongroup market, some people would choose not to have 
+insurance because they choose to be covered by insurance under current law to avoid 
+
+paying the penalties. And
+, under 
+this legislation,
+ without the mandate penalties, 
+some 
+people would forgo insurance in response to the higher premiums that CBO
+ and JCT 
+project
+ would 
+be charged
+. Insurers would still be required to provide coverage to any 
+applicant, 
+and they 
+would not be 
+able to vary premiums to reflect enrollees™ health status 
+or to limit coverage of preexisting medical conditions. Those features are most attractive 
+to applicants with relatively high expected costs for health care, so CBO and JCT expect 
+that repealing the
+ individual mandate penalt
+y would tend to reduce insurance coverage 
+less among older and less healthy people than among younger and healthier people. Thus, 
+
+the agencies estimate that repealing th
+at
+ penalt
+y, taken by itself, would increase 
+premiums
+ in the n
+ongroup market
+.  Employment
+-Based 
+Coverage.
+ Under current law, the prospect of paying 
+the 
+employer 
+mandate penalt
+y tips the scale for some 
+businesses
+ and causes them to decide to offer 
+health insurance to their employees. Thus, eliminatin
+g th
+at
+ penalt
+y wou
+ld cause some 
+employers to not offer health insurance. 
+Similarly, the demand for insurance among 
+employees is 
+great
+er under current law because 
+some employees want employment
+-based 
+coverage so that they can avoid paying 
+the 
+individual man
+date penalt
+y. Elim
+inating th
+at
+ penalt
+y would 
+reduce such demand and would cause some employers to not offer 
+coverage
+ or some employees 
+to 
+not enroll in coverage they were offered
+, CBO and JCT 
+estimate
+.  Medicaid. 
+Under current law, the penalt
+y associated with the individual mandate appl
+ies 
+to some Medicaid
+-eligible adults and children. (For example,
+ it appl
+ies
+ to single 
+individuals with income above about 90 percent of the FPL.) In addition, some people 
+apply for coverage in the marketplaces be
+cause of the penalt
+y and turn out to be eligible 
+for Medicaid. And some who are not subject to the penalt
+y think they would be if they 
+did not enroll in Medicaid. 
+  The agencies do not expect 
+that, with the penalty eliminated under this legislation, 
+people
+ enrolled in Medicaid would disenroll. However, a
+mong people who w
+ould
+ become 
+eligible for Medicaid 
+under th
+e legislation
+ or who w
+ould
+ need to recertify their eligibility, 
+the proportion of people who enroll in the program 
+would, by CBO and JCT™s 
+expectati
+ons, be lower
+Šcloser to the proportions observed for those groups prior to the 
+institution of the 
+penalty
+.   Waivers
+. This legislation would alter the way that states may waive certain provisions of 
+the ACA by making the approval process quicker, more 
+flexible, and less stringent
+Š 20 which would result in a broader set of changes, CBO and JCT expect
+. Under current law 
+and this legislation, states can apply for Section 1332 waivers to change the premium tax 
+credits, the definition of essential health benefit
+s, and certain other provisions of law 
+affecting health insurance. 
+  According to this legislation, a waiver shall be granted if the Secretary of Health and 
+Human Services (HHS) and
+, if the waiver affects premium tax credits,
+ the Secretary of 
+the Treasury
+, determine that it would not increase the federal deficit. Three requirements 
+for waivers to be approved under current law would be eliminated: that waiver programs 
+provide health insurance coverage to a comparable number of state residents, that they 
+meet
+ requirements for
+ out-of-pocket spending, and that 
+coverage 
+is at least as 
+comprehensive as the 
+federal
+ EHBs
+. As under current law, however, states could not use 
+waivers to change federal 
+regulations 
+relating to preexisting conditions, requiring
+ insurers 
+to offer
+ coverage to a
+ny applicant,
+ or requiring that 
+premiums 
+in the nongroup market not 
+be 
+based on an individual™s health 
+(allowing them
+ to 
+vary only on the basis of age, 
+smoking status,
+ and geographic location
+). In addition, under the legislation, state
+s could 
+not use waivers to change regulations related to continuous coverage. 
+ 
+ Under th
+is legislation (as under current law), states could apply to receive funds that 
+would have been provided to their residents in the absence of a waiver that has been 
+gra
+nted. For example, Hawaii is projected to receive about $3 million of such ﬁpass
+-throughﬂ funds over the next five years under the only waiver approved so far. Those 
+
+funds will be used to reduce premiums for employees of small businesses in lieu of 
+having 
+the state™s small businesses be eligible for federal tax credits. 
+  CBO and JCT expect that, over the 2017
+-2026 period, under current law, some states will 
+receive waivers, and under this legislation, more would. The agencies expect that states 
+would pursu
+e additional waivers for various reasons
+Što obtain more funding than their 
+residents would otherwise receive, to lower premiums, and to reduce cost sharing, for 
+
+example. Some 
+of 
+those waivers would also be used to counteract ins
+tability arising 
+under the b
+ill.
+ However, CBO and JCT 
+anticipate 
+that, to avoid administering the 
+premium tax credits themselves, few states would make significant changes to the credits
+. (The agencies expect that the Internal Revenue Service would administer federal tax 
+
+credits
+, but
+ would not administer different state credits.) 
+For the same reason, the 
+agencies expect that few states would
+ change market regulations 
+in 
+such 
+a way 
+that no 
+benchmark plan was available to use in calculating the credit amounts
+Šwhich would 
+occur if the EHBs were not well defined. 
+ 
+ As a result of the additional waivers stemming from this bill, the agencies expect that 
+about half the population would be 
+in states receiving substantial additional pass
+-through 
+funding. Compared with what would occur under this bi
+ll without additional waivers, 
+federal deficits would increase and the number of people with health insurance coverage 
+
+would be about the same, acc
+ording to CBO and JCT™s estimates. Additional waivers 
+would probably cause market instability
+ in some areas
+, in addition to being used to 
+ 21 counteract instability
+ in others
+. Average premiums for benchmark plans would be lower
+ in most states that obtain waive
+rs.  Effects on the Budget.
+ Any savings projected by the Administration 
+to
+ result from 
+waiver
+s would be provided to 
+state
+s as pass
+-through funding 
+to be used for approved 
+purposes
+. Hence, waivers would have no effect on the federal deficit if the 
+Administr
+ation™s projections of savings were accurate
+.   To estimate the effects of additional waivers on the federal budget, CBO and JCT first 
+projected this bill™s effects without additional waivers. Then, the agencies adjusted those 
+projections 
+to reflect the 
+likelihood that the additional waivers would not be deficit 
+neutral in practice
+. 
+  According to CBO and JCT
+™s estimates, in total, by 2026, about one
+-fifth of the subsidies 
+for nongroup coverage that would have been provided without the additional waivers 
+
+would instead be provided as pass
+-through funds to states. A small portion of the 
+population would be in states that decided to fully administer their own system and 
+receive the entire amount of their projected subsidies as pass
+-through funding. In other 
+cases, states would rely on the federal government to administer premium tax credits and 
+would receive pass
+-through funding related to incremental reductions in federal costs 
+projected under
+ the waivers. 
+As an illustration, if the Administration projected t
+hat a state 
+using a waiver to narrow the scope of its EHBs would reduce the premium tax credits of 
+
+its residents by 10 percent, then the state would receive that amount in pass
+-through 
+funding.
+  This legislation, with its less stringent approval process, w
+ould facilitate the approval of 
+some waiver applications that have already been submitted and would boost the number 
+of new requests and approvals. CBO and JCT analyzed the budgetary effects of those two 
+cases separately. In both cases, the agencies expect
+ that the process used to determine the 
+amount of pass
+-through funds would cause deficits to increase compared with what 
+would have occurred without the additional waivers.
+  States with an already
+-submitted waiver request would, if it was approved under th
+is legislation, receive pass
+-through funds based on the difference between projected federal 
+costs under the waiver (which would be calculated using current
+-law subsidies available 
+at the time the waiver application was submitted) and projected federal cos
+ts under 
+current law. Because current
+-law subsidies are larger in most cases than the subsidies 
+under this legislation, pass
+-through funding for an already
+-submitted waiver would 
+generally be larger than the subsidies the residents of those states would re
+ceive under 
+this bill.
+  
+A waiver application not already submitted would engender pass
+-through funding based 
+on projections of federal costs under this bill with and without the waiver. States would 
+
+have an incentive to be optimistic in their estimates of 
+savings
+Šwith projections of 
+ 22 federal costs without the waiver that were high and state costs with the waiver that were 
+low. Particularly during the next few years, the Administration would not have enough 
+data about experience under this legislation to full
+y adjust for that incentive, CBO and 
+JCT anticipate. After a few years, however, additional waivers would probably result in 
+pass
+-through funding amounts only slightly above what would have been spent without 
+them. 
+  Effects on Health Insurance Coverage. 
+CBO and JCT estimate that the additional waivers 
+would have little effect on the number of people insured, on net, by 2026. In the 
+
+agencies
+™ assessment, the effect would be minimal in many cases, larger and positive in 
+some cases, and substantially negative
+ in a few cases. The range of potential changes 
+under those waivers is broad, and the following discussion describes only a few 
+possibilities.
+  The agencies expect that 
+most
+ of the population affected by additional waivers would be 
+in states that narrow th
+e scope of the EHBs. That change would directly lower premiums 
+in the nongroup market, on average, and result in savings from 
+reduced 
+federal subsidies 
+that states would receive as pass
+-through funds. 
+  In some of those cases in which states changed the EH
+Bs, the pass
+-through funds would 
+be used to lower premiums further. 
+As a result of the lower premiums, t
+he number of 
+unsubsidized people who would become insured in the nongroup market would increase. 
+However, that increase would be roughly offset by decre
+ases in employment
+-based 
+coverage and 
+subsidized coverage
+ in the nongroup market
+. Some employers would 
+respond over time to the presence of lower
+-premium plans in the nongroup market by not 
+offering coverage. People eligible for subsidies in the nongroup m
+arket 
+would receive 
+little benefit from the lower premiums
+, and 
+many 
+would therefore decline to 
+purchase a 
+plan providing fewer benefits
+.   
+In other cases in which the EHBs were changed, those pass
+-through funds would be used 
+to attract relatively healthy 
+low-income people to purchase subsidized plans by covering 
+certain services with low or no copayments. That approach would increase the number of 
+people with insurance coverage
+ and prevent or mitigate market instability
+, although the 
+effect would be limite
+d by the amount of funds 
+available 
+to reduce cost sharing. 
+  A small 
+fraction 
+of the population
+ affected by additional waivers, CBO and JCT 
+anticipate, would be in states 
+where waivers 
+substantially 
+reduce the number of people 
+insured. That reduction would
+ occur if a state changed the structure of the subsidies for 
+health insurance so that they provided 
+a greater share of 
+assistance to people who would 
+have bought health insurance without 
+subsidies
+. Alternatively, such a reduction would 
+occur if a state red
+uced subsidies, received pass
+-through funds, and used those funds for 
+purposes other than health insurance coverage.
+    23 Effects on Market Stability. 
+Because a
+ large portion of the population affected by 
+additional waivers would be in states that narrow the 
+scope of the EHBs
+, CBO and JCT 
+expect 
+insurance 
+covering certain services to 
+become 
+more expensive
+Šin some cases, 
+extremely expensive. For example, if the EHBs were modified to drop coverage of 
+services 
+that have high costs and 
+are used by 
+few people, 
+cove
+rage for maternity care, 
+mental health care, 
+rehabilitative and 
+habilitative treatment, and certain very expensive 
+drugs
+ could be at risk
+. Such modifications would lower premiums for many people and 
+increase the number of people with coverage for a narrowe
+r set of benefits. But, on the 
+basis of historical experience, CBO and JCT anticipate that the funding available to help 
+provide coverage for those high
+-cost 
+services
+ would be insufficient in some cases even if 
+a special program was designed for that purpo
+se. Therefore, the agencies expect that 
+insurance coverage for high
+-cost 
+services 
+would become extremely expensive in those 
+areas, as it was in some places before the enactment of the ACA in 2010. A state is 
+
+required to have mechanisms to reduce the chance
+ of such outcomes as part of its waiver 
+program under current law, but would not be under this legislation.
+ 
+ Some states could use waivers to administer their own system and make 
+broad 
+changes to 
+the rules governing the nongroup market, affecting 
+some 
+small 
+fraction 
+of the population. 
+The effects of such changes would be hard to predict, and premiums in the nongroup 
+market could be very expensive for at least a short period of time.
+  Effects on Premiums and Out
+-of-Pocket Costs.
+ The narrowing of the scop
+e of the EHBs 
+that CBO and JCT expect would 
+result from
+ additional waivers would directly lower the 
+premiums for benchmark plans, as discussed above. Those declines would occur because 
+the plans would cover fewer services
+Šreducing both expenditures by insu
+rers and the 
+cost of bearing the risk that expenditures could be higher than insurers anticipate. States 
+
+would probably also reduce premiums by 
+using 
+some pass
+-through funding 
+to
+ mak
+e payments to insurers.
+     However, o
+ut-of-pocket costs would increase if
+ the scope of the EHBs w
+as
+ narrowed, as 
+discussed above. If pass
+-through funding for the additional waivers was used to reduce 
+cost sharing, out
+-of-pocket costs would decrease for people receiving that assistance
+.  
+Short
+-Term Assistance to Address 
+Disrupte
+d Coverage and Access
+. This legislation 
+would 
+provide a total of $50 billion 
+to fund arrangements 
+between the federal 
+government and 
+health insur
+ers to address 
+instances where 
+coverage and access
+ have 
+been 
+disrupt
+ed
+ and 
+to 
+respond to urgent health care 
+needs.
+ CBO and JCT expect 
+virtually
+ all of these funds
+Š$15 billion per year in 2018 and 2019 and $10 billion per year in 
+2020 and 2021
+Što be used to reduce
+ premiums for plans offered in the 
+nongroup 
+market, 
+increasing enrollment in them
+, primarily by peopl
+e not eligible for premium tax credits
+.  
+Long
+-Term 
+State 
+Stability and Innovation 
+Program
+. This legislation 
+would 
+provide a 
+total of $62
+ billion to fund grants to states
+ for four purposes. The first, for which a 
+minimum of $5 billion per year is allocated 
+in 2019 through 2021, is to e
+nter into 
+ 24 arrangements with health insurers to 
+reduce
+ premiums in the 
+nongroup 
+market
+. CBO and 
+JCT anticipate that about three
+-quarters of the total funding would be used for that 
+purpose
+, which would in
+crease health insurance 
+coverage
+Šprimarily for people not 
+eligible for premium tax credits
+. The other three purposes are the following: t
+o help 
+people
+ purchase nongroup coverage 
+if they
+ have or are projected to have high 
+health care
+ cost
+s and do not have access to health insurance
+ offered through an employer
+; t
+o provide 
+payments 
+to 
+health care providers
+; and t
+o provide assistance to reduce out
+-of-pocket 
+costs, such as copayments, coinsurance, and deductibles
+, in the nongroup market.
+  Conti
+nuous Coverage
+. This legislation would generally r
+equire insurers, starting in 
+calendar year 
+2019, to impose a six
+-month waiting period before coverage 
+can 
+start for 
+people who enroll in insurance in the nongroup market if they have been uninsured for 
+more
+ than 63 days within the past year. 
+Imposing th
+at
+ waiting period would
+, CBO and 
+JCT expect,
+ slightly increase the number of people with insurance, on net, throughout the 
+2018
+-2026
+ period
+Šbut not in
+ 2019, when the incentives to obtain coverage 
+would be 
+weak
+ because premium
+s would be
+ relatively high. 
+  
+Most insurance coverage
+ in the nongroup market
+, both under this legislation and under 
+current law, would stem from decisions occurring during an open enrollment period at the 
+end of the calendar year, and the f
+ollowing discussion focuses on those decisions. 
+(Enrollment outside those periods would be 
+available
+ only
+ to people who experience 
+qualifying events 
+such as
+ getting married
+.) Several factors would tend to increase 
+insurance coverage
+ in the nongroup market
+: 
+   Some people, regardless of whether or not they had insurance coverage in a given 
+year, would decide to purchase coverage at the beginning of the next year so that 
+they would not be subject to a waiting period at the beginning of the year after 
+that
+Šwhe
+reas 
+without this provision, 
+they would skip a year of coverage
+, knowing that 
+they
+ could purchase coverage at the beginning of the 
+upcoming 
+year 
+if they expected their 
+use of 
+health care to increase
+.   Some people 
+who were insured 
+at the beginning of 
+a give
+n year 
+would 
+retain that
+ cove
+rage 
+throughout the
+ year if
+, with an interruption in coverage, 
+they had to wait 
+until July of the following year to 
+regain it
+Šwhereas without the waiting period
+, they
+ would drop th
+e coverage
+ at some point during the year
+.    Some people who were uninsured in 
+a given 
+year could concentrate their 
+use of 
+health care in the second half of the 
+next 
+year and pay premiums for 
+6 months 
+rather than 
+12, increasing the value per month of the coverage
+ and 
+inducing
+ them 
+to be become insured
+ during that period
+Šwhereas without 
+this provision,
+ they 
+would not be insured at all during that year. 
+  Those factors, CBO and JCT estimate, would outweigh other factors that would tend to 
+decrease coverage: 
+  25   Some people who were 
+uninsured 
+for more than 
+63 days 
+and 
+then 
+decided to 
+become insured 
+at the end of a given 
+year 
+would have to wait six 
+additional 
+months 
+to do so
+, whereas without this provision
+, they would become insured at the 
+beginning of the next year
+.   Some people who were uninsured 
+for more than 63 days in a given year 
+and 
+expected to incur major health care costs during 
+the 
+first six months of the next 
+year 
+would
+, with the waiting period,
+ remain uninsured
+ during that time
+Šwhereas
+ without 
+th
+e waiting period
+, they would have purchased
+ insurance 
+at the beginning 
+of the next year 
+to help cover those costs
+.   Age
+-Rating
+ Rules
+. Beginning in 
+calendar year 
+2019, this legislation would expand the 
+limits on how much insurers in the nongroup
+ and small
+-group markets can vary 
+premiums on the basis of age. Under current law, a 64
+-year
+-old can generally be charged 
+premiums that cost up to three times as much as those offered to a 21
+-year
+-old. Under 
+this legislation, that allowable difference woul
+d shift to five times as much unless a state 
+chose otherwise. 
+CBO and JCT anticipate that 
+most 
+states would 
+accept 
+that change.
+  The 
+change 
+in age
+-rating rules would tend to reduce premiums for younger people and 
+increase premiums for older people, 
+resulting in a slight increase in insurance coverage, 
+
+on net
+Šmainly among people not eligible for subsidies. T
+he structure of the premium tax 
+credits would limit 
+the effect of such a change.
+ People eligible for subsidies in the 
+nongroup market 
+would be
+ lar
+gely insulated from changes in premiums: A person 
+receiving a premium tax credit 
+would 
+pay a certain 
+maximum 
+percentage of his or her 
+income toward the reference premium, and the tax credit 
+would 
+cover the difference 
+between the premium and that percentage
+ of income. Consequently, despite the changes 
+in premiums for younger and older people, the 
+net premiums (after tax credits)
+ for
+ most 
+people receiving subsidies
+ would not be affected much
+ by this provision
+. The 
+net 
+premiums 
+for older people ineligible for 
+subsidies, however, would be much hi
+gher under 
+this legislation than otherwise.
+  Minimum Medical 
+Loss Ratio
+. This legislation would
+, starting in 
+calendar year 
+2019,
+ repeal the federal requirement that health insurers maintain 
+a minimum medical loss 
+
+ratio, 
+which is 
+equivalent to capping the 
+share of premiums that may go toward insurers™ 
+administrative costs and profits.
+ CBO and JCT anticipate that 
+about 
+half the population 
+reside
+s in states that would choose to maintain the current requirement. Other states 
+would allow a greater share of 
+premiums to go toward 
+administrative costs and profits
+. In 
+those states, in 
+areas with 
+little competition 
+among
+ insurers, th
+e provision would caus
+e 
+insurers to raise premiums
+ and 
+would 
+increase federal costs
+ for subsidies through the 
+marketplaces
+, CBO and JCT expect
+. States would have little incentive to constrain 
+premium increases for policies sold through the marketplaces if unsubsidized enrollees
+ were able to buy a 
+different and 
+cheaper plan in the nongroup market sold outside the 
+marketplaces. That is because premiums paid by subsidized
+ enrollees 
+in the marketplaces 
+ 26 would largely be determined by their income, and the increases would primarily be
+ borne 
+by the federal government
+ in the form of larger premium tax credits
+. The agencies expect
+ that
+ this provision would have little effect on the number of people covered by health 
+insurance.
+  Premium Tax Credits and Cost
+-Sharing Reductions
+. According to
+ CBO and JCT™s 
+estimates, the average subsidy per subsidized enrollee under this legislation would be 
+significantly lower than the average subsidy under current law, starting in calendar year 
+2020.
+ Nevertheless, some people would be eligible for larger sub
+sidies than those under 
+current law, whereas others would be eligible for smaller ones. 
+  Subsidies for people who enroll in an eligible plan under current law fall into two 
+categories: subsidies to cover a portion of participants™ health insurance premium
+s (which 
+take the form of premium tax credits) and subsidies to reduce their cost
+-sharing amounts 
+(out
+-of-pocket payments required under insurance policies). The first category of 
+subsidies is generally available to people with income between 100 percent a
+nd 400
+ percent of the FPL, with certain exceptions. The second category is available to those 
+who are also eligible for premium tax credits and who generally have a household income 
+between 100 percent and 250 percent of the FPL.
+  Under current law, the si
+ze of the premium tax credits depends on household income and 
+a reference premium in an enrollee™s rating area. The
+ enrollee pays a certain 
+maximum 
+percentage of 
+his or her
+ income toward the reference premium
+, and the size of the 
+subsidy varies by geograph
+y and age for a given income level. T
+he premium tax credits 
+cover the amount by which the reference premium
+Šthat is, the premium for the second
+-lowest
+-cost silver plan that covers the eligible people in the household in the area in 
+which they reside
+Šexceed
+s that percentage of income. 
+The enrollee is insulated from 
+variations in premiums in different geographic locations and is also largely insulated 
+from increases in the reference premium. If a person chooses a plan with premiums 
+higher than those for the r
+eference plan, then he or she pays the difference as an 
+additional amount toward the premium, providing some incentive to choose lower
+-priced 
+insurance. Similarly, if the person chooses a plan with premiums lower than the reference 
+
+plan™s, then he or she p
+ays a lower cost.
+  
+Under this legislation, starting in 2020, the reference premium would be changed to 
+become the premium for the median plan with an actuarial value of 58 percent. Cost
+-sharing subsidies would be eliminated. Eligibility for premium tax cre
+dits would be 
+extended to people with income below 100 percent of the FPL who were not eligible for 
+Medicaid and eliminated for people with income above 350 percent of the FPL. For those 
+with income exceeding 150 percent of the FPL, this legislation would 
+generally reduce 
+the percentage of income that younger people had to pay toward their premiums and 
+
+increase that percentage for older people. (
+For families, the age of the oldest taxpayer 
+would be used to determine the age
+-adjusted percentage of income tha
+t must be paid 
+toward the premiums.
+)   27  Effects by Income. 
+For many lower
+-income people, t
+he 
+net premiums paid under this 
+legislation would be similar to those under current law, but the plans they would purchase 
+
+would have higher deductibles and other cost
+-sharing requirements. In a set of illustrative 
+examples, CBO and JCT estimate that a 40
+-year
+-old with income at 175
+ percent of the 
+FPL in 2026 could pay a net premium of $1
+,700 for a silver plan under current law and 
+$1,600 for a plan with actuarial value
+ of 58 percent under this legislation (see Table
+ 5). 
+However, because the reference premium would be changed and cost
+-sharing subsidies 
+would be eliminated under this legislation, the average share of the cost of medical 
+
+services paid by the insurance purc
+hased by that person would fall
+Šfrom 87 percent to 
+58 percent
+Šand his or her payments in the form of deductibles and other cost sharing 
+would rise.
+3 Those changes, CBO and JCT estimate, would contribute significantly to a 
+reduction in the number of lower
+-income people who would obtain coverage through the 
+nongroup market under this legislation, compared with 
+the number under 
+current law.
+  
+People with income
+ below
+ 100 percent of the FPL who were not eligible for Medicaid 
+could generally receive premium tax c
+redits under this legislation and not under current 
+law. However, even with the net premium of $300 shown in the illustrative examples for 
+a person with income at 75 percent of the FPL ($11,400 in 2026), the deductible would 
+be more than half their annual 
+income. The net premium of a silver plan for a 40
+-year
+-old 
+would be about 15 percent of their annual income, and the deductible would be more than 
+one-third of their annual income. Many people in that situation would not purchase any 
+plan, CBO and JCT esti
+mate, although some people with assets to protect or who expect 
+to have high use of health care would. 
+  Many of the people who are projected be 
+eligible
+ for
+ Medicaid under current law but not 
+eligible
+ under this bill
+ would face a similar choice
+. Those people would instead be 
+eligible for a premium tax credit under this legislation. 
+But b
+ecause of
+ the expense for 
+premiums
+ and the high deductible
+s, most of them would not purchase insurance, CBO 
+and JCT estimate. (
+The vast majority of people enroll
+ed in Medicaid pay no premium
+s and have 
+either 
+no out
+-of-pocket costs or nominal amounts of such costs
+.)  Although offering a different benefit package would make plans more attractive to people 
+with low income, it is difficult for insurers to design plans that have an actuarial value of 
+
+58 percent and that pay for much care before the deductible is met
+Šsuch a
+s providing 
+prescription drugs with low copayments. Those designs are constrained by the 
+                                              3. In 2017, the average deductible for a single policyholder
+ (for medical
+ and drug expenses combined)
+ is about 
+$6,000 for a bronze plan (with an actuarial value of 60 percent) and about $3,600 for a silver plan (with an 
+actuarial value of 70 percent). People with income
+ of less the 250 percent of the FPL are eligible for plans 
+with 
+lower deductibles: about $2,900 for people with income between 200 percent and 250 percent of the FPL and a 
+plan having actuarial value of 73 percent, about $800 for people with income between 150 percent and 200 
+percent of the FPL and a plan having a
+ctuarial value of 87 percent, and about $300 for people with income 
+between 100 percent and 150 percent of the FPL and a plan having actuarial value of 94 percent. 
+  28 requirements for 
+EHBs,
+ limits on out
+-of-pocket spending
+, and 
+prohibitions on 
+annual 
+or 
+lifetime limits on payments
+ for covered services. (Waivers affecting 
+the 
+EHBs co
+uld 
+change th
+ose constraints at least somewhat.)
+  People with income between 350 percent and 400 percent of the FPL would be eligible 
+for premium tax credits under current law, but not under this bill. People with income 
+above 400 percent of the FPL would 
+not receive premium tax credits in either case. 
+However, for a 40
+-year
+-old 
+with income 
+at either 375 percent of the FPL or 450 percent 
+of the FPL, net premiums 
+for a single policyholder 
+would be fairly similar under current 
+law and the legislation for a pl
+an with similar actuarial value. (Many people purchasing a 
+family policy, however, would receive several thousand dollars in premium tax credits 
+under current law that they would not receive under this bill.)
+  Effects by Age. 
+Enacting this legislation woul
+d also result in significant changes in net 
+premiums paid in the nongroup market according to people™s age. In the illustrative 
+
+examples, CBO and JCT estimate that, under current law, a 21
+-year
+-old, 40
+-year
+-old, and 
+64-year
+-old with income at 175 percent o
+f the FPL in 2026 would all pay the same net 
+premium of $1
+,700 for a plan with 
+an 
+actuarial value of 87 percent. Under this legislation, 
+th
+e 
+net premium for a plan with a
+n actuarial value of 58 percent would be smaller for 
+younger people and larger for old
+er people, but 
+the net premium for a plan 
+with 
+an 
+actuarial value of 70 percent
+ would be larger for people of any age
+.   For people not eligible for premium tax credits, premiums for older people could be five 
+times larger than those for younger people in 
+many states, rather than only three times 
+larger under current law. Because of such differences, CBO and JCT estimate that, under 
+this legislation, a larger share of enrollees in the nongroup market would be younger 
+people and a smaller share would be olde
+r people than would be the case 
+under current 
+law
+.  Caps on Federal Medicaid Spending
+. Under current law, the federal 
+government 
+and 
+state governments share in the financing a
+nd administration of Medicaid. 
+In general, 
+states pay health care providers for s
+ervices to enrollees
+, and the federal governmen
+t 
+reimburses states for a
+ percent
+age
+ of their expenditur
+es
+. All federal reimbursement for 
+medical services is open
+-ended, meaning that if a state spends more because enrollment 
+increases or costs per enrollee 
+rise, additional federal paymen
+ts are automatically 
+generated. This bill would establish a per capita cap on 
+most 
+Medicaid spending 
+for 
+medical services 
+and offer states an option for a block grant
+ to provide medical services 
+for
+ certain adults
+. In additio
+n to affecting total spending, the caps would have a variety of 
+other effects on states and enrollees, including an interaction with the effects of work 
+requirements
+, in the near term and the longer term
+.  Per Capita Cap for Medicaid. 
+Under this legislatio
+n, b
+eginning in 
+fiscal year 
+2020, the 
+federal government would limit the amount of reimbursement it provides to states. 
+That
+ limit would be 
+set for a state 
+by calculat
+ing
+ the average 
+per-enrollee 
+cost of medical 
+ 29 services for most enrollees who received ful
+l Medicaid benefits 
+over eight consecutive 
+quarters of the state™s choosing between the first quarter of federal fiscal year 2014 and 
+the third quarter of 2017
+. Those enrollees would be in five specified categories: 
+the 
+elderly, disabled
+ adults
+, nondisable
+d children, 
+adults made eligible for Medicaid by the 
+ACA
+, and all other adults
+. The Secretary
+ of HHS
+ wou
+ld then inflate the average per
+-enrollee costs for each state 
+for most 
+nondisabled 
+children and nondisabled adults 
+enrolled in Medicaid 
+using 
+the CPI
+-M and for most enrollees who are disabled 
+adults 
+or 
+age 65 or older 
+using the
+ CPI
+-M plus 1 percentage point
+. Disabled children would be 
+excluded from the per capita caps and covered as under current law.
+ Beginning in 2025, 
+the inflation factor for all groups
+ wou
+ld be the consumer price index for all urban 
+consumers (CPI
+-U). The final limit on federal 
+reimbursement for each state starting in
+ 2020 would be the average cost per enrollee for 
+the 
+five specified groups of enrollees
+, reflecting growth from the base 
+period in the relevant inflation factors 
+multiplied by the 
+number of enrollees in each category. 
+  
+If a state spen
+t more than the 
+amount eligible for
+ federal reimbursement, the federal 
+government would provide 
+no 
+reimbursement for spending over the limit
+. By CBO™s 
+projections for the 2017
+-2024 period, t
+he limit on federal reimbursement would reduce 
+outlays because
+ Medicaid spending
+, on a per
+-enrollee basis, for nondisabled children and 
+nondisabled adults under current law (
+after the changes to the Medicai
+d expansion 
+population 
+have been
+ accounted for
+) would 
+grow 
+faster
+, at 4.9 percent, tha
+n the CPI
+-M, at 
+3.7 percent. However, for 
+most enrollees who 
+are disabled adults or age 65 or older, that 
+rate is 3.3 
+percent
+, lower than the CPI
+-M plus 1 percentage poin
+t. The per capita cap 
+would have a small effect on spending 
+for those groups
+, even though the cap would not 
+generally be binding for them, because
+ some shifting of costs 
+among 
+groups would 
+probably occur, and spending for a particular group in a particular
+ year could be affected. 
+In 2025
+ and beyond
+, the differences between spending growth for Medicaid under current 
+law and the growth rate of the per capita caps for all groups would be substantial, as CBO 
+
+projects the growth rate of the CPI
+-U in 
+those 
+year
+s to be 2.4 percent. 
+  
+Block Grant Option for States.
+ Starting in 2020, under this legislation, states would have 
+the option to receive federal aid for providing medical assistance to nondisabled adults 
+
+(excluding 
+adults made eligible for Medicaid by the ACA
+) in the form of a block grant 
+rather than 
+under 
+a per
+-enrollee cap. A state™s initial block grant would be determined by 
+multiplying the 
+amount of the 
+per capita cap, as estimated by the Secretary
+ of HHS
+, for 
+the state™s nondisabled adult population by the state™s total number of nondisabled adult 
+
+enrollees 
+in
+ the 
+year before the
+ preceding fiscal year, adjusted for population growth plus 
+3 percentage points. In subsequent years
+, the block grant amount wou
+ld 
+grow at the rate 
+of the
+ CPI
+-U. 
+  A state would be required to contribute, at a minimum, 
+an amount calculated using its
+ matching rate for enrollees under the Children™s Health Insurance Program (CHIP)
+, not 
+including the 23 percentage
+-point decrease for s
+uch rates established under the ACA
+. (The state match
+ing
+ rate for CHIP ranges from 
+18 percent to 
+35 percent, depending on the 
+ 30 state, 
+and
+ average
+s 30 percent.)
+ Because this option would be attractive mainly to 
+a few 
+states that expect to decline in populati
+on (and not in most states experiencing population 
+growth, 
+as it would further constrain federal reimbursement
+), CBO expects this option 
+would have little ef
+fect on enrollment in Medicaid.
+  Effects on States
+ and Enrollees
+. With less
+ federal reimbursement for Medicaid, 
+states
+ would need to decide whether to commit more of their own 
+resources
+ to finance the 
+program 
+at current
+-law levels 
+or to reduce spending by cutting payments to health care 
+providers and health plans, eliminating opt
+ional services, restricting eligibility for 
+enrollment
+ through work requirements and other changes
+, or (to the extent feasible) 
+arriving at more efficient methods for delivering services. CBO anticipates that states 
+would adopt a mix of th
+ose approaches
+, which would result in additional savings to the 
+federal government.
+  States would not have substantial additional flexibility under the per capita caps. Under 
+the block grant option, states would have additional flexibility to make changes to their 
+Medicaid
+ program
+Šsuch as altering cost sharing and, to a limited degree, benefits. 
+  Other 
+ways in which Medicaid spending caps affected enrollees would depend greatly on 
+how states responded to the caps, which would be affected by the particular structure of 
+their program. If state
+s chose to leave 
+their
+ Medicaid program unchanged and instead 
+found other ways to offset the loss of federal funds, enrollees would notice little or no 
+
+change in their Medicaid coverage. 
+To the extent that states delivered services m
+ore 
+efficiently, the health of enrollees would not be affected.
+ 
+ If states reduced payment rates, fewer providers might be willing to accept Medicaid 
+patients, especially given that, in many cases, Medicaid™s rates are already significantly 
+
+below those of 
+Medicare or private insurance for some of the same services. If states 
+reduced payments to Medicaid
+™s managed care plans, some plans might shrink their 
+provider networks, curtail quality assurance, or drop out of the 
+managed care 
+program 
+
+altogether. If sta
+tes reduced covered services, some enrollees might decide either to pay 
+out of pocket or to forgo those services entirely. And if states narrowed their categories of 
+
+eligibility
+ or used administrative procedures that made it more difficult to enroll
+, some 
+enrollees would lose access to Medicaid coverage, although some would become eligible 
+
+for subsidies for 
+nongroup
+ coverage through the marketplaces or could choose to enroll 
+in employment
+-based insurance
+, if it was available
+.  Interaction of Work Requiremen
+ts With Caps on Federal Spending.
+ Because caps on 
+federal Medicaid spending would shift a greater share of the cost of Medicaid to states 
+over time, some states would, CBO anticipates, use work requirements
+Šallowed under a 
+separate provision that would tak
+e effect in 
+fiscal year 
+2018
+Što reduce enrollment and 
+the 
+associated 
+costs. (CBO also anticipates that some states would adopt work 
+requirements before spending caps took effect in 2020.) 
+Under current law, states may 
+not condition the receipt of Medicaid 
+on any criteria related to a
+ person
+™s employment 
+ 31 status. 
+This legislation would permit states to 
+impose 
+a work requirement
+ for an adult
+ as long as the individual 
+is not 
+disabled, elderly, or pregnant
+ (or 
+exempted for another 
+specified reason)
+. The definiti
+on of work would be 
+the same as
+ the Temporary Assistance 
+for Needy Families program
+™s, which 
+includes 
+activities such as unsubsidized 
+employment, subsidized employment, vocational training, 
+and
+ educational activities. The 
+legislati
+on would provide states 
+with broad
+ discretion to define how many hours 
+of work 
+each week
+ were required
+; how long 
+enrolled people would
+ have before 
+needing to 
+meet
+ the requirements
+; and
+, if they failed to meet the requirements, when benefits would cease.
+  Long
+er
+-Term Effects.
+ Over
+ the next decade, CBO projects
+, a large gap would grow 
+between Medicaid spending under current law and under this bill 
+(see Figure 2 on page 
+13). In later years
+, that gap would continue to widen because of the compounding effect 
+of the differences in spend
+ing
+ growth rates: 
+CBO projects that the growth rate
+ of 
+Medicaid
+ under current law 
+would exceed 
+the growth rate of the per capita caps for all 
+groups
+ covered by the caps
+ starting in 2025
+.   Under this legislation, after the next decade, s
+tates would 
+continu
+e to 
+need 
+to 
+arriv
+e at 
+more efficient methods for delivering services (to the extent feasible)
+ and to 
+decide 
+whether to commit more of their own resources
+, cut payments to health care providers 
+and health plans, eliminat
+e optional services, restrict eligibility for enrollment,
+ or adopt 
+some combination of those approaches
+. Over the long term, there 
+would
+ be increasing 
+pressure on more states to use all of those tools to a greater extent.
+ CBO and JCT do not 
+have an insuranc
+e coverage baseline beyond the coming decade and therefore are not able 
+to quantify the effect on
+ insurance coverage in the long 
+term. However, the agencies 
+expect that after 2026, enrollment in Medicaid would continue to fall relative to what 
+would happen
+ under current law.
+  Federal Matching Rate for Medicaid Costs
+. Under current law, states are permitted
+, but not required
+, to expand eligibility for Medicaid to adults under 65 whose income is 
+equal to or less than 138 percent of 
+the FPL (who 
+are 
+referred t
+o here as newly eligible). 
+The federal government pays a larger share of the medical costs for those 
+people
+ than it 
+pays for those who 
+were previously eligible. Beginning in 
+fiscal year 
+2021, this
+ legislation woul
+d reduce the federal matching rate for all 
+newly eligible
+ adults from 
+90 percent
+ of the medical costs for them 
+to 
+85 percent in 2021, 80 percent in 2022, and 
+75 percent 
+in
+ 2023
+. Thereafter, that rate would 
+fall to the matching rate for other 
+enrollees
+. The federal match
+ing
+ rate for other enrollees ranges from 50 percent to 
+75 percent, depending on the state, 
+and 
+averag
+es
+ about 57
+ percent.
+  The 
+31 states and the District of Columbia
+ that have already expanded Medicaid to the 
+newly eligible cover roughly half of that populati
+on nationwide. In its March 2016 
+baseline, CBO projected that under current law, additional states will expand their 
+Medicaid programs and that, by 2026, roughly 80
+ percent of newly eligible people will 
+reside in states that have done so. Under this legisl
+ation, largely b
+ecause 
+states 
+would pay 
+for a 
+great
+er share of 
+costs for enrollees
+, CBO expects
+ that
+ no additional
+ states would 
+ 32 expand eligibility, thereby reducing both enrollment in and spending for Medicaid, 
+compared with the amounts anticipated under c
+urrent law. 
+  
+CBO
+ also 
+anticipate
+s that
+ some
+ states that have already 
+expand
+ed their Medicaid 
+programs 
+would no longer offer that coverage, 
+gradually 
+reducing the share of the newly 
+eligible population residing in a state with expanded eligibility 
+as the m
+atching rate for 
+that population decline
+dŠwith that share reaching 
+about 30 percent in 2026. That 
+estimate reflects different possible outcomes without any explicit prediction about which 
+states would make which choices. In considering the possible outcome
+s, CBO took into 
+account several factors: the extent of optional coverage provided to the newly eligible 
+
+population and other groups before the ACA™s enactment (as a measure of a state™s 
+willingness to provide coverage above statutory minimums), states™ ab
+ility to bear costs 
+under this legislation, and potential methods to mitigate those costs (such as changes to 
+benefit packages and payment rates). Another factor is the possibility that some states, to 
+avoid abrupt changes to eligibility and other aspects 
+of the program, might begin to act 
+before 2021 in anticipation of future changes that would result from this legislation. How 
+individual states would ultimately respond is highly uncertain.
+ 
+ Noncoverage Spending Provisions
+  This legis
+lation would also make changes to spending for other federal health care 
+programs. CBO and JCT estimate that those provisions would 
+decrease
+ direct spending 
+by about 
+$22 billion over the 2017
+-2026 period.
+ This section provides additional details 
+about the changes in direct spending 
+resulting from provisions other than
+ the coverage 
+provisions
+ (except for 
+a provision 
+eliminati
+ng a limitation o
+n recaptur
+ing excess advance 
+payments of premium tax credits, whic
+h is discussed in JCT™s publications mentioned 
+earlier
+). (To most clearly link the analysis to the corresponding sections of the legislation, 
+the headings in this section
+, as well as 
+in Table 2
+, adopt its phrasing.)
+  Better Care Reconciliation Implementati
+on Fund
+. Th
+is bill 
+would appropriate 
+$500
+ million for administrative expenses related t
+o the cost of implementing the a
+ct. 
+CBO estimates that this provision would increase direct spending by $500 million over 
+the 2017
+-2026 period.
+  
+Federal Payments to Stat
+es
+. For a one
+-year period following enactment, 
+this legis
+lation 
+would prevent federal funds from being made available to an entity (including its 
+
+affiliates, subsidiaries, successors, and clinics) if it 
+is:   A nonprofit organization described in section 
+501(c)(3) of the Internal Revenue 
+
+Code and exempt from tax under section 501(a) of the code;
+   An essential community provider that is primarily engaged in providing family 
+
+planning and reproductive health services and related medical care;
+   33  An entity that 
+provides abortions
+Šexcept in instances in which the pregnancy is 
+the result of an act of rape or incest or the woman™s life is in danger; and
+   An entity that had expenditures under the Me
+dicaid program that 
+(when combined 
+with the expenditures of
+ its affil
+iates, subsidiaries, successors, and clinics)
+ exceeded $
+350 
+million in fiscal year 2014.
+  CBO expects that the prohibition
+, as phrased,
+ would apply only if at least one entity, 
+affiliate, subsidiary, successor, or clinic satisfied the first three criteria
+. CBO identified 
+only one organization that would be affected
+: 
+Planned Parenthood Federation of America 
+and its affiliates and clinics.
+4  Most federal funds received by such entities come from payments for services provided 
+to enrollees in states™ Medicaid 
+programs.
+ CBO estimates that the prohibition would 
+reduce direct spending by 
+$225
+ million over the 2017
+-2026 period. Those savings would 
+be partially offset by increased spending for other Medicaid services, as discussed below.
+  To the extent that access t
+o care
+ would be reduced
+ under 
+this legis
+lation, services that 
+help women av
+oid becoming
+ pregnan
+t would be affected
+. The people most likely to 
+experience reduced access to care would probably reside in areas without other health 
+care clinics or medical prac
+titioners who serve low
+-income populations. CBO projects 
+that about 15 percent of those people would lose access to care.
+  Because the Medicaid program pays the costs of about 45 percent of all births,
+ CBO 
+estimates that the additional births stemming from the reduced access under 
+this 
+
+legis
+lation would add to federal spending for
+ the 
+program.
+ In addition, some of those 
+children would themselves qualify for Medicaid and possibly for other federal progra
+ms. 
+By CBO™s estimates, 
+during
+ the one
+-year period in which 
+the funding prohibition would 
+apply
+, the number of births in the Medicaid program would increase by several thousand, 
+
+increasing direct spending for 
+the 
+program
+ by $79 million over the 2017
+-2026 p
+eriod. 
+Overall, with those costs netted against the savings estimated above, implementing the 
+provision woul
+d reduce direct spending by $146
+ million over the 2017
+-2026 period, CBO 
+estimates.
+  Medicaid Provisions
+. Under current law, states can elect the Com
+munity First Choice 
+option, allowing them to receive a 6 percentage
+-point increase in their federal matching 
+rate for some services provided by home and community
+-based attendants to certain 
+Medicaid recipients. The legislation would terminate the increase
+ in the federal matching 
+funds beginning in calendar year 2020
+. That change
+ would decrease direct spending by 
+about $
+19 billion over the next 10 years
+, CBO estimates
+.                                               4. If the provision w
+as implemented in a way that affiliates, subsidiaries, successors, and cl
+inics could 
+satisfy the 
+criteria
+ separately
+, then the provision could apply to more 
+entities
+, perhaps many more.
+   34  Restoring Fairness
+ in 
+DSH 
+Allotments
+. Under current law, Medicaid allotments to 
+states 
+for payments to hospitals that treat a disproportionate share of uninsured and 
+Medicaid patients
+Šknown as 
+allotments for ﬁd
+isproportionate 
+share h
+ospitals
+,ﬂ or DSH 
+allotments
+Šare to be cut significantly in each year from 2018 to 2025. The cuts are 
+currentl
+y scheduled to be $2 billion in 2018 and to increase each year until they reach 
+$8 billion in 2024 and 2025. 
+  This legis
+lation would eliminate those cuts
+, starting in 2018,
+ for states that 
+did
+ not expand 
+Medicaid under the ACA.
+ In addition, the Secretary 
+of HHS would 
+calculate each state™s 
+ratio of its allotments for disproportionate share payments per Medicaid enrollee and 
+incre
+ase the allotments for 
+state
+s that 
+did
+ not expand
+ Medicaid
+ by an amount sufficient to 
+bring their allotments for 2020 to 2023 up 
+to the national average per enrollee. Th
+ose changes would increase outlays by $
+19 billion over the next 10 years
+, CBO estimates
+.  Reducin
+g State Medicaid Costs
+. This 
+bill
+ would decrease the period 
+for which
+ Medicaid benefits may be covered retroactively from up to 
+three months before a 
+recipient
+™s application to the first of the month in which a recipient makes an application. 
+By 
+CBO™s estimates
+, that change would decrease direct spending by about $5 billion
+ over 
+the 2017
+-2026 period.
+  Providing Safety Net Funding for Nonexpansion States
+. This legis
+lation would 
+provide $2 billion in funding in each year from 2018 to 
+202
+2 to states that did not expand 
+Medicaid eligibility under the ACA. Those states could use 
+the funding, within limits, to 
+supplement payments to providers that treat Medicaid enrollees. Such payments to 
+providers would not be subject to the per capita caps. Any states that chose to expand 
+Medicaid coverage as of July 1 of each year from 2017 thr
+ough 2020 would lose access 
+
+to the funding available under this provision in the following year and thereafter. CBO 
+estimates that this provision would increase direct spending by $
+10 billion over the 
+2017
+-2026 period.
+  Provider Taxes
+. Under current law, s
+tates that tax health care providers are required to 
+collect those taxes at uniform rates from all providers of the same type. The federal 
+government limits the amount of such taxes that states can collect without incurring 
+reductions in federal Medicaid p
+ayments. Currently, that limit is set at 6 percent of a 
+provider™s net revenues
+ from services for patients
+. The legislation would lower that limit 
+to 5.8 percent in 2021 and further lower it by 0.2 percent
+age points
+ annually until the 
+threshold reache
+d 5.0
+ percent. With those lower limits, states would collect less in 
+provider taxes, and some states would probably reduce their Medicaid spending to 
+
+compensate for at least part of the lost revenues. CBO estimates that such reductions 
+would amount to about hal
+f of the lost revenues, reducing direct spending by $
+5 billion 
+over the 2017
+-2026 period.
+   35 Medicaid and CHIP Quality Performance Bonus Payments
+. This 
+bill
+ would provide 
+$8 billion in funding 
+from
+ 2023 through 2026 to states that spend 
+some amount 
+less 
+(specified by the Secretary of HHS) 
+than
+ the 
+cap on their 
+per capita payment
+s and that
+ meet peer
+-reviewed performance standards 
+for
+ health care quality 
+in 
+Medicaid and CHIP. 
+Because CBO anticipates that only some states would meet the two criteria, and bec
+ause 
+some of the funds provided under the legislation would be spent after 2026, this provision 
+is estimated to
+ increase direct spending by $
+3 billion over the 2017
+-2026 period.
+   
+Prevention and Public Health Fund
+. This legis
+lation woul
+d, beginning in fisc
+al year 
+2018
+, repeal the provision that established the Prevention and Public Health Fund. 
+The 
+federal government
+ awards grants through the fund to public and private entities to carry 
+out prevention, wellness, and public health activities. Funding under c
+urrent law is 
+projected to be $900 million in 2018
+ and to rise to $2 billion in 2025 and each year 
+thereafter. CBO estimates that eliminating that funding would reduce direct spending by 
+
+$9 billion over the 2017
+-2026 period.
+  
+Support for State Response to 
+Opioid
+ Crisis
+. This 
+bill
+ would provide $2 billion in 
+2018
+ for 
+grants to 
+states 
+to 
+support treatment and recovery services for 
+people
+ with 
+substance use disorders
+ or mental health problems
+. CBO estimates that this provision 
+would increase direct spending by $2 billion over the 2017
+-2026 period.
+  Community Health Center Program
+. This legis
+lation would increase the funds 
+available to the Community Health Center Program, which provides grant
+s to health 
+centers that offer primary and preventive care to patients regardless of their ability to pay. 
+Under current law, the program will receive about $4 billion in fiscal year 2017
+, the last 
+year funds are appropriated for the program
+. The legis
+latio
+n would increase funding for 
+the program by $422 million in fiscal year 2017. CBO estimates that implementing the 
+
+provision would increase direct spending by $422
+ million over the 2017
+-2026 period.
+  Changes in Spending Subject to Appropriation 
+  CBO has no
+t completed an estimate of the potential impact of 
+this legis
+lation on 
+discretionary spending, which would be subject to future appropriation action.
+   INCREASE IN LONG
+-TERM DIRECT SPENDING AND DEFICITS
+  CBO estimates that enacting this
+ legislation would not increase net direct spending or on
+-budget deficits in any of the four consecutive 10
+-year periods beginning in 2027.
+ The 
+agencies expect that gross savings, particularly 
+from
+ Medicaid, would continue to grow
+, while the gross costs wo
+uld be smaller because the tax on employee
+s™ health insurance 
+premiums and health plan benefits would be reinstated in 2026.
+    36 MANDATES ON STATE, LOCAL, AND TRIBAL GOVERNMENTS
+  CBO has reviewed the nontax provisions of the legislation and determined that t
+hey 
+would impose intergovernmental mandates as defined in UMRA. If a nondomicile insurer 
+applie
+d for a license in a state to cover a small business health plan, and the state d
+id
+ not 
+approve or deny the application within 90 days, the legislation would tem
+porarily 
+preempt the state™s laws and allow the insurer to operate in the state until action 
+was taken on the application. In addition, the legislation would preempt state laws preclud
+ing health insurance issuers from offering coverage for small business h
+ealth plans. Although 
+the preemptions would limit the application of state laws, they would impose no duty on 
+states result
+ing
+ in additional spending or a loss of revenue
+s.   
+JCT has determined that the tax provisions of the legislation contain no 
+intergov
+ernmental mandates.
+   
+MANDATES ON T
+HE PRIVATE SECTOR
+  JCT and CBO have determined that the legislation would impose private
+-sector mandates 
+as defined in UMRA. On the basis of information from JCT, CBO estimates that the 
+aggregate cost of the mandates 
+imposed by the legislation would exceed the annual 
+threshold established in UMRA for private
+-sector mandates ($156 million in 2017, 
+adjusted annually for inflation).
+  Specifically, the tax provisions of the legislation contain two mandates. The legislation
+ would recapture excess advance payments of premium tax credits (so that the full amount 
+
+of excess payments 
+would be
+ treated as an additional tax liability for the individual) and 
+would repeal the small business (health insurance) tax credit.
+  In addition,
+ the nontax provisions of the legislation would impose a private
+-sector 
+mandate on insurers that offer health insurance coverage in the nongroup market. The 
+legislation would require those insurers to withhold coverage for six months from 
+individuals who h
+ave not maintained continuous coverage. The cost of the mandate 
+would include the administrative costs of verifying continuous coverage for individuals 
+who apply for insurance and enforcing waiting periods. Additionally, the cost to insurers 
+would include 
+any net loss of income resulting from the delay in the collection of 
+premiums from policyholders during the mandatory waiting period or from people™s 
+decisions not to purchase insurance because of the waiting period. 
+But insurers also 
+would 
+gain premium co
+llections beginning in 2018 from people induced to enroll by the 
+continuous coverage 
+provision
+. In 2019
+, the first year that th
+e mandate would be in 
+effect
+, relatively few people would be induced to enroll by the continuous coverage 
+provision
+, because prem
+iums would be relatively high and the net cost of the mandate 
+would total about $100 million
+, CBO estimates
+. In subsequent years, more people would 
+be induced to enroll by the continuous coverage provision in response to lower 
+ 37 premiums. In those years, pre
+mium collections from people induced to enroll by th
+at
+ provision would more than offset the loss of premium collections
+ from individuals who 
+had not maintained continuous coverage.
+   PREVIOUS CBO ESTIMATES
+  This legislation would reduce federal deficits ov
+er the 2017
+-2026 period by $
+202 
+billion 
+more than 
+the 
+House
+-passed version of H.R. 1628
+ (see Figure 
+5).5 Direct spending would 
+be $
+89 billion greater, mainly because of higher Medicaid spending
+ through 2024
+. Revenues would be 
+$291
+ billion 
+greater,
+ primarily 
+because 
+a 
+smaller
+ share of the 
+premium 
+tax credits
+, which are refundable,
+ would 
+take the form of a reduction in tax 
+liability
+ and because
+ the 
+income threshold for determining the medical care deduction
+ would be
+ higher
+.6  The number of people wit
+h health insurance coverage would be slightly lower under this 
+legislation during the next two years and slightly higher in later years
+Šbut the 
+differences relative to the estimates for the House
+-passed legislation would be no more 
+than 1 million in any ye
+ar. 
+The structure of subsidies for coverage in the nongroup market 
+differs in the two versions of the legislation and would have substantially different effects 
+by income and by age. The overall spending on such subsidies under this legislation 
+would be $1
+34 billion lower than under the House
+-passed legislation.
+  Under both versions of the legislation, about half the population would be in states 
+substantially affected by waivers to provisions of the ACA. 
+Under this legislation, 
+because many people in the n
+ongroup market would be paying premiums based on their 
+income, CBO and JCT expect that there would be less pressure to try to lower premiums 
+by using waivers to narrow the scope of the EHBs than under the House
+-passed 
+legislation. 
+However, there would be o
+ffsetting pressure under this bill for states to obtain 
+federal funding to pursue their policy goals. 
+Waivers to requirements that people 
+maintain continuous insurance coverage would not be allowed under this legislation, 
+although they would be under the H
+ouse
+-passed version. However, waivers related to a 
+broad array of other provisions, such as the structure of subsidies, would be allowed 
+under this legislation.
+                                                5. See Congressional Budget Office, cost estimate for H.R. 1628, the American Health Care Act of 2017, as 
+passed by the House of Representatives 
+(May 24, 2017), 
+www.cbo.gov/publication/52752
+. For discussion of 
+previous versions of the legislation, see Congressional Budget Office, cost estimate for H.R. 1628, the 
+
+American Health Care Act, incorpor
+ating manager™s amendments 4, 5, 24, and 25 (March 23, 2017), 
+www.cbo.gov/publication/52516
+, and cost estimate
+ for the American Health Care Act (March 13, 2017), 
+www.cbo.gov/publication/52486
+. 6. Refundable tax credits reduce a filer™s income tax liability overall; if the credit exceeds the rest of the filer™s 
+income tax liability, the government pays all or some portion of that excess to the taxpayer. See Congressional 
+Budget Office, 
+Refundable Ta
+x Credits 
+(January 2013), 
+www.cbo.gov/publication/43767
+.  38    39 On average, premiums in 2018 under this legislation and the House
+-passed version would 
+be about the same. Average premiums in 2019 would be 
+slightly 
+higher under this 
+legislation, 
+mostly 
+because, in that year, 
+subsidies would be larger for older people, wh
+o have higher average costs
+. For later years, the comparisons are difficult to make, mainly 
+because of the complex effects of waivers in 
+both versions of 
+the legislation. 
+For 
+example, 
+for 
+the House
+-passed
+ version of the legislation, CBO and JCT did
+ not hav
+e an 
+estimate of the average effect 
+on premiums for the one
+-sixth of the population residing in 
+states
+ that would make substantial changes to market regulations
+, because the agencies 
+judged that such an estimate
+ would be
+ too imprecise
+.7   
+ ESTIMATE PREPARE
+D BY:  Federal Spending
+  Jeffrey Kling, Allison Percy,
+ Robert Stewart, Lisa Ramirez
+-Branum, Eamon Molloy, Ben 
+Hopkins, Kate Fritzsche,
+ Kevin McNellis, Andrea Noda, 
+Ezra Porter, Sean Lyons, Susan 
+Yeh Beyer, Christopher Zogby, Romain Parsad, Jamease Kowalczyk, Noah Meyerson, 
+Lori Housman, Zoë Williams, T.J. McGrath, Rebecca Verreau, Alissa Ardito, and the 
+staff of the Joint Committee on Taxation
+  Federal Revenues
+  Staff of the Joint Committee on Taxation
+  Impact on State, Local, and Tribal Governments
+  Leo Lex, Zachary Byrum, and the staff of the Joint Committee on Taxation
+  Impact on the Private Sector
+  Amy Petz and the staff of the Joint Committee on Taxation
+                                                 7. The agencies developed estimates of premiums for individuals as part of the microsimulation used in the 
+analysis. 
+Among
+ the one
+-sixth of the 
+popul
+ation
+ residing in states that would make substantial changes to 
+market regulations
+, many people would pay low premiums but some people would pay very high premiums. 
+CBO and JCT were uncertain how high those premiums could go, because insurers there might d
+ecide to not 
+offer policies with high premiums and their decisions are hard to predict.
+ That uncertainty 
+about insurers™ 
+behavior 
+had little effect on the agencies™ estimates of the number of people with insurance coverage or on the 
+number of people using 
+tax credits, because the number of peop
+le who would pay high premiums wa
+s not large. 
+However, the high premiums for those people would have 
+had 
+a substantial effect on 
+the 
+agencies™ estimate of 
+average premiu
+ms. Thus, that uncertainty made
+ the estimate of 
+the average 
+too imprecise
+.   40 ESTIMATE REVIEWED, EDITED, AND PRODUCED BY:
+  Mark Hadley, Theresa Gullo, 
+Robert Sunshine, David Weaver, John Skeen, 
+Benjamin 
+Plotinsky
+, Jorge Salazar, 
+Kathleen FitzGerald
+, and Darren Young
+   ESTIMATE APPROVED BY:
+  Holly Harvey
+ Deputy Assistant Director for B
+udget Analysis
+  Jessica Banthin
+ Deputy Assistant Director for Health, Retirement, and Long
+-Term Analysis
+  Chad Chirico
+ Chief, Low
+-Income Health Programs and Prescription Drugs Cost Estimates Unit
+  
+Alexandra Minicozzi
+ Chief, Health Insurance Modeling Unit
+   Billions of Dollars, by Fiscal Year2017201820192020202120222023202420252026
+2017-20212017-2026Coverage ProvisionsEstimated Budget Authority-2.5-6.4-14.9-66.5-93.7-127.3-142.3-162.0-181.4-197.9-183.9-994.8
+
+Estimated Outlays-4.4-21.0-25.1-68.5-93.5-109.1-139.0-161.0-181.2-196.9-212.5-999.8
+Noncoverage ProvisionsEstimated Budget Authority0.91.2-1.3-0.4-0.8-2.03.7-6.1-7.2-8.4-0.3-20.3
+
+Estimated Outlays0.00.00.50.7-0.3-1.4-4.2-4.6-5.6-7.10.9-22.1
+Total Changes in Direct SpendingEstimated Budget Authority-1.6-5.2-16.1-66.9-94.4-129.3-138.6-168.1-188.6-206.3-184.3-1,015.1
+
+Estimated Outlays-4.5-21.0-24.6-67.8-93.8-110.6-143.3-165.7-186.8-204.0-211.6-1,021.9
+Coverage Provisions-4.0-14.4-16.0-10.2-11.2-12.5-14.6-16.9-18.7-19.4-55.8-137.9
+Noncoverage Provisions-1.7-40.3-39.7-45.7-52.4-57.1-70.7-81.6-89.7-84.3-179.8-563.1
+Total Changes in Revenues-5.7-54.6-55.7-55.9-63.5-69.6-85.3-98.4-108.4-103.7-235.6-701.0
+Net Increase or Decrease (-) in the Deficit1.233.631.1-11.8-30.2-41.0-58.0-67.2-78.4-100.323.9-320.9
+Sources: Congressional Budget Office; staff of the Joint Committee on Taxation.Estimates are based on CBO™s March 2016 baseline, adjusted for subsequent legislation.The costs of this legislation fall within budget functions 550 (health), 570 (Medicare), 600 (Income Security), and 650 (Social Security). Numbers may not add up to totals because of rounding.a.b.For revenues, a negative number indicates a decrease (adding to the deficit).
+INCREASE OR DECREASE (-) IN THE DEFICIT FROM CHANGES IN DIRECT SPENDING AND REVENUESFor outlays, a positive number indicates an increase (adding to the deficit) and a negative number indicates a decrease (reducing the deficit).CHANGES IN REVENUESbTable 1 - SUMMARY OF THE DIRECT SPENDING AND REVENUE EFFECTS OF H.R. 1628, THE BETTER CARE RECONCILIATION ACT OF 2017, AN AMENDMENT IN THE NATURE OF A SUBSTITUTE [LYN17343] AS POSTED ON THE 
+WEBSITE OF THE SENATE COMMITTEE ON THE BUDGET ON JUNE 26, 2017CHANGES IN DIRECT SPENDINGa Billions of Dollars, by Fiscal Year2017201820192020202120222023202420252026
+2017-20212017-2026Coverage Provisions
+Estimated Budget Authority-2.5-6.4-14.9-66.5-93.7-127.3-142.3-162.0-181.4-197.9-183.9-994.8
+
+Estimated Outlays-4.4-21.0-25.1-68.5-93.5-109.1-139.0-161.0-181.2-196.9-212.5-999.8
+  On-Budget-4.4-21.0-25.1-68.5-93.5-109.1-139.0-161.0-181.2-196.9-212.5-999.8
+  Off-Budget
+000000000000
+Title I
+Estimated Budget Authority0-2.2-2.9-1.6-1.3-1.6-1.8-2.2-2.4-2.6-8.0-18.7
+Estimated Outlays0-2.2-2.9-1.6-1
+.3-1.6-1.8-2.2-2.4-2.6-8.0-18.7
+Sec. 102 - Restrictions for the Premium Tax Credit
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 104 - Individual Mandate
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 105 - Employer Mandate
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 106 - State Stability and Innovation Program
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Estimated Budget Authority0.5000
+0000000.50.5
+Estimated Outlays0*0.10.10.10.1**000.40.5
+Sec. 124 - Federal Payments to States
+bEstimated Budget Authority*-0.1********-0.2-0.1
+Estimated Outlays*-0.1********-0.2-0.1
+Sec. 125 - Medicaid Provisions
+bEstimated Budget Authority000-1.1-1.9-2.5-3.2-3.3-3.5-3.7-3.0-19.3
+Estimated Outlays000-1.1-1.9-2.5-3.2-3.3-3.5-3.7-3.0-19.3
+Sec. 126 - Medicaid Expansion
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 127 - Restoring Fairness in DSH Allotments
+Estimated Budget Authority00.71.01.92.32.63.02.82.82.05.819.0
+
+Estimated Outlays00.71.01.92.32.63.02.82.82.05.819.0
+Sec. 128 - Reducing State Medicaid Costs
+bEstimated Budget Authority0-0.2-0.5-0.6-0.6-0.6-0.6-0.6-0.6-0.7-1.8-5.0
+Estimated Outlays0-0.2-0.5-0.6-0
+.6-0.6-0.6-0.6-0.6-0.7-1.8-5.0
+Estimated Budget Authority02.02.02.02.02.000008.010.0
+Estimated Outlays01.82.02.02.02.00.20007.810.0
+Sec. 130 - Eligibility Redeterminations
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Continued
+Table 2 - ESTIMATE OF THE DIRECT SPENDING AND REVENUE EFFECTS OF H.R. 1628, THE BETTER CARE 
+RECONCILIATION ACT OF 2017, AN AMENDMENT IN THE NATURE OF A SUBSTITUTE [LYN17343] AS POSTED 
+
+ON THE WEBSITE OF THE SENATE COMMITTEE ON THE BUDGET ON JUNE 26, 2017
+ESTIMATED CHANGES IN DIRECT SPENDING
+aSec. 101 - Recapture of Excess Advance Payments 
+of Premium Tax Credits
+Sec. 129 - Providing Safety Net Funding for Non-
+Expansion States
+Sec. 107 - Better Care Reconciliation 
+Implementation Fund
+ Table 2 Continued.
+2017-2017-
+Billions of Dollars, by Fiscal Year201720182019202020212022202320242025202620212026
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 132 - Provider Taxes
+Estimated Budget Authority0000-0.2-0.4-0.7-1.0-1.4-1.5-0.2-5.2
+
+Estimated Outlays0000-0.2-0.4-0.7-1.0-1.4-1.5-0.2-5.2
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 134 - Flexible Block Grant Option for States
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Estimated Budget Authority0000008.
+000008.0
+Estimated Outlays00000001.01.01.003.0
+Estimated Budget Authority0000
+00000000
+Estimated Outlays0000
+00000000
+Sec. 137 - Coordination With States
+Estimated Budget Authority0000
+00000000
+Estimated Outlays0000
+00000000
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 139 - Small Business Health Plans
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Title II
+
+Sec. 201 - Prevention and Public Health Fund
+Estimated Budget Authority0-0.9-0.9-1.0-1.0-1.5-1.0-1.7-2.0-2.0-3.8-12.0
+
+Estimated Outlays0-0.1-0.4-0.7-0
+.9-1.0-1.1-1.3-1.4-1.7-2.2-8.8
+Sec. 202 - Support for State Response to Opioid Crisis
+Estimated Budget Authority02.0000000.00.00.02.02.0
+
+Estimated Outlays000.90.70.3**0.00.00.01.92.0
+Sec. 203 - Community Health Center Program
+Estimated Budget Authority0.4000
+0000000.40.4
+Estimated Outlays00.20.2*0000000.40.4
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Continued
+Sec. 204 - Change in Permissible Age Variation in 
+Health Insurance Premium Rates
+Sec. 205 - Medical Loss Ratio Determined by the 
+State
+Sec. 138 - Optional Assistance for Certain Inpatient 
+Psychiatric Services
+Sec. 135 - Medicaid and CHIP Quality 
+Performance Bonus Payments
+Sec. 133 - Per Capita Allotment for Medical 
+Assistance
+Sec. 131 - Optional Work Requirement for 
+Nondisabled, Nonelderly, Nonpregnant Individuals
+Sec. 136 - Grandfathering Certain Medicaid 
+Waivers; Prioritization of HCBS Waivers
+ Table 2 Continued.
+2017-2017-
+Billions of Dollars, by Fiscal Year201720182019202020212022202320242025202620212026
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 207 - Waivers for State Innovation
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Sec. 208 - Funding for Cost-Sharing Payments
+Estimated Budget Authority0000
+00000000
+Estimated Outlays0000
+00000000
+Sec. 209 - Repeal of Cost-Sharing Subsidy Program
+Estimated Budget Authority
+   included in estimate of coverage provisions
+Estimated Outlays
+   included in estimate of coverage provisions
+Total Changes in Direct Spending
+Estimated Budget Authority
+-1.6-5.2-16.1-66.9-94.4-129.3-138.6-168.1-188.6-206.3-184.3-1,015.1
+Estimated Outlays
+-4.5-21.0-24.6-67.8-93.8-110.6-143.3-165.7-186.8-204.0-211.6-1,021.9
+  On-Budget-4.5-21.0-24.6-67.8-93.8-110.6-143.3-165.7-186.8-204.0-211.6-1,021.9
+  Off-Budget
+000000000000
+Coverage Provisions
+-4.0-14.4-16.0-10.2-11.2-12.5-14.6-16.9-18.7-19.4-55.8-137.9
+  On-Budget-4.3-17.2-19.0-11.9-12.9-14.3-16.1-18.2-20.0-20.8-65.3-154.7
+  Off-Budget0.32.93.01.61.71.81.51.31.31.49.516.8
+Title I
+00.21.10.90.40.50.60.70.81.02.76.3
+Sec. 102 - Restrictions for the Premium Tax Credit
+   included in estimate of coverage provisions
+Sec. 103 - Modifications to Small Business Tax Cre
+d   included in estimate of coverage provisions
+Sec. 104 - Individual Mandate
+   included in estimate of coverage provisions
+Sec. 105 - Employer Mandate
+   included in estimate of coverage provisions
+Sec. 106 - State Stability and Innovation Program
+   included in estimate of coverage provisions
+000-3.4-6.9-8.7-10.7-13.4-16.4-6.6-10.3-66.0
+*-0.5-0.5-0.6-0.6-0.6-0.6-0.7-0.7-0.7-2.3-5.6
+Sec. 110 - Repeal of Tax on HSAs
+***********-0.1
+0-0.3-1.2-1.6-1.7-1.8-2.2-2.6-3.3-4.1-4.7-18.6
+0-4.0-2.7-2.7-2.7-2.7-2.7-2.7-2.7-2.7-12.1-25.7
+Sec. 113 - Repeal of Medical Device Excise Tax
+0-1.4-1.9-2.0-2.1-2.2-2.3-2.4-2.6-2.7-7.4-19.6
+Sec. 114 - Repeal of Health Insurance Tax
+0-12.8-13.5-14.3-15.1-15.9-16.8-17.8-18.7-19.7-55.7-144.7
+*-0.2-0.2-0.2-0.2-0.2-0.2-0.2-0.2-0.2-0.7-1.8
+Sec. 116 - Repeal of Chronic Care Tax
+*-3.5-3.1-3.4-3.6-3.9-4.2-4.5-4.8-5.1-13.6-36.1
+Sec. 117 - Repeal of Medicare Tax Increase
+00000-0.5-9.3-14.7-16.5-17.60-58.6
+Sec. 118 - Repeal of Tanning Tax
+0*-0.1-0.1-0.1-0.1-0.1
+-0.1-0.1-0.1-0.2-0.6
+Sec. 119 - Repeal of Net Investment Tax
+-1.6-16.7-15.9-16.7-17.8-18.7-19.7-20.7-21.7-22.7-68.7-172.2
+Sec. 120 - Remuneration
+*-0.1**-0.1-0.1-0.1-0.1-0.1-0.1-0.2-0.5
+0-1.0-1.6-1.7-1.9-2.1-2.3-2.5-2.7-2.9-6.2-18.6
+0*******-0.1-0.1-0.1-0.4
+
+0*********-0.1-0.2
+Sec. 139 - Small Business Health Plans
+   included in estimate of coverage provisions
+Continued
+Sec. 122 - Allow Both Spouses to Make
+     Catch-Up Contributions to the Same HSA
+Sec. 123 - Special Rule for Certain Expenses
+     Incurred Before Establishment of HSAs
+Sec. 108 - Repeal of the Tax on Employee 
+     Health Insurance Premiums and Health 
+     Plan Benefits
+dSec. 111 - Repeal of Limitations on Contributions
+    to Flexible Spending Accounts
+Sec. 115 - Repeal of Elimination of Deduction for 
+     Expenses Allocable to Medicare Part D Subsidy
+Sec. 109 - Repeal of Tax on Over-the-
+     Counter Medications
+Sec. 101 - Recapture of Excess Advance 
+     Payments of Premium Tax Credits
+Sec. 121 - Maximum Contribution Limit to HSAs 
+     Increased to Amount of Deductible and 
+
+     Out-of-Pocket Limitation
+ESTIMATED CHANGES IN REVENUES
+cSec. 206 - Stabilizing the Individual Insurance 
+Markets
+Sec. 112 - Repeal of Tax on Prescription
+     Medications
+ Table 2 Continued.
+2017-2017-
+Billions of Dollars, by Fiscal Year201720182019202020212022202320242025202620212026
+Title II
+   included in estimate of coverage provisions
+   included in estimate of coverage provisions
+   included in estimate of coverage provisions
+Sec. 207 - Waivers for State Innovation
+   included in estimate of coverage provisions
+
+   included in estimate of coverage provisions
+Total Changes in Revenues-5.7-54.6-55.7-55.9-63.5-69.6-85.3-98.4-108.4-103.7-235.6-701.0
+On-Budget-5.9-57.0-57.8-55.7-62.6-68.2-83.0-95.1-103.9-101.9-239.1-691.1
+Off-Budget0.32.42.0-0.3-0.9-1.4-2.3-3.3-4.5-1.83.5-9.9
+Net Increase or Decrease (-) in the Deficit1.233.631.1-11.8-30.2-41.0-58.0-67.2-78.4-100.323.9-320.9
+On-Budget1.536.033.2-12.1-31.1-42.3-60.3-70.6-83.0-102.127.5-330.8
+Off-Budget-0.3-2.4-2.00.30.91.42.33.34.51.8-3.59.9
+Sources: Congressional Budget Office; staff of the Joint Committee on Taxation.
+Numbers may not add up to totals because of rounding.
+CHIP = Children's Health Insurance Program; DSH = Dispropo
+rtionate Share Hospital;  HSA = Health Savings Account; 
+HCBS = Home and Community Based Services.
+
+* = between -$50 million and $50 million.
+a.b.c.For revenues, a positive number indicates an increase (reducin
+g the deficit) and a negative number indicates a decrease (addi
+ng to the deficit).
+d.This estimate does not include effects of interactions with other subsidies; those effects are included in estimates for other 
+relevant provisions.
+For outlays, a positive number indicates an increase (adding to
+ the deficit) and a negative number indicates a decrease (reduci
+ng the deficit).
+Estimate interacts with the provision related to the Per Capita Allotment for Medical Assistance.
+INCREASE OR DECREASE (-) IN THE DEFICIT FROM
+ CHANGES IN DIRECT SPENDING AND REVENUES
+Sec. 204 - Change in Permissible Age 
+     Variation in Health Insurance Premium 
+
+     Rates
+Sec. 205 - Medical Loss Ratio 
+     Determined by the State
+Sec. 206 - Stabilizing the Individual Insurance 
+     Markets
+Sec. 209 - Repeal of Cost-Sharing Subsidy 
+     Program
+ Billions of Dollars, by Fiscal YearTotal,2017-20172018201920202021202220232024202520262026
+Medicaid*-12-23-52-70-87-103-124-143-158-772
+Change in Subsidies for Coverage Through Marketplaces and Related Spending and Revenuesa,b-5-12-22-49-58-57-56-54-55-56-424
+Elimination of Small-Employer Tax Creditsb,c****-1-1-1-1-1-1-6
+Elimination of Penalty Payments by Employersc2162015161819202223171
+Elimination of Penalty Payments by Uninsured People 333344444538
+Funds Provided to States and Insurers001222242
+49655107
+Medicared024555555542
+State Waiver Implementation Funding**1
+****0002
+Other Effects on Revenues and Outlayse-1-4-5-3-3-3-2-1**-21
+Total Effect on the Deficit*-7-9-58-82-97-124-144-162-178-862
+Memorandum: Additional Detail on Marketplace Subsidies and Related Spending and RevenuesPremium Tax Credit Outlay Effects-3-7-13-27-35-33-31-28-28-29-235
+Premium Tax Credit Revenue Effects-1-2-3-6-7-7-8-8-8-8-57
+Subtotal, Premium Tax Credits-4-8-17-33-42-41-39-36-36-37-292
+Cost-Sharing Outlays-1-3-4-13-13-13-14-14-15-16-105
+Outlays for the Basic Health Program*-2-1-3-3-3-3-4-4-4-27
+Total, Subsidies for Coverage ThroughMarketplaces and Related Spending   and Revenuesa,b-5-12-22-49-58-57-56-54-55-56-424
+Sources: Congressional Budget Office; staff of the Joint Committee on Taxation.Estimates are based on CBO™s March 2016 baseline, adjusted for subsequent legislation.Positive numbers indicate an increase in the deficit; negative numbers indicate a decrease in the deficit.Numbers may not add up to totals because of rounding. * = between -$500 million and $500 million.a.Related spending and revenues include spending for the Basic Health Program and net spending and revenues for risk adjustment
+.b.Includes effects on both outlays and revenues.
+
+c.Effects on the deficit include the associated effects on revenues of changes in taxable compensation.
+
+d.Effects arise mostly from changes in Disproportionate Share Hospital payments.
+
+e.Consists mainly of the effects on revenues of changes in taxable compensation.
+Table 3 - ESTIMATE OF THE NET BUDGETARY EFFECTS OF THE INSURANCE COVERAGE PROVISIONS OF H.R. 1628, THE BETTER CARE RECONCILIATION ACT OF 2017 Millions of People, by Calendar Year2017201820192020202120222023202420252026
+Total Population Under Age 65273274275276276277278279279280
+Uninsured Under Current Law26262727272727282828
+Medicaida*-4-5-8-10-11-12-14-14-15
+ Nongroup coverage, including marketplaces-1-7-8-9-8-7-7-7-7-7
+Employment-based coverage*-4-2-1-1-1
+****Other coverageb**********Uninsured1151519192020212222
+Uninsured Under the BCRA28414346464748494949
+
+Percentage of the Population Under Age 65With Insurance Under the BCRAIncluding all U.S. residents90858483838383828282
+
+Excluding unauthorized immigrants92878786868585858585
+For these estimates, CBO and JCT consider individuals to be uninsured if they would not be enrolled in a policy that provides financialprotection from major medical risks.BCRA = Better Care Reconciliation Act; * = between -500,000 and zero.a.b.Includes coverage under the Basic Health Program, which allows states to establish a coverage program primarily for people wh
+ose income is between 138 percent and 200 percent of the federal poverty level. To subsidize that coverage, the federal government
+provides states with funding that is equal to 95 percent of the subsidies for which those people would otherwise have been eligible.Table 4 - EFFECTS OF  H.R. 1628, THE BETTER CARE RECONCILIATION ACT OF 2017, ON HEALTH INSURANCE COVERAGE FOR PEOPLE UNDER AGE 65Includes noninstitutionalized enrollees with full Medicaid benefits.Sources: Congressional Budget Office; staff of the Joint Committee on Taxation (JCT).Change in Coverage Under the BCRAEstimates are based on CBO™s March 2016 baseline, adjusted for subsequent legislation. They reflect average enrollment over the course of a year among noninstitutionalized civilian residents of the 50 states and the District of Columbia who are under the age of 65, and they include spouses and dependents covered under family policies. UNDER CURRENT LAW AND THE BETTER CARE RECONCILIATION ACT OF 2017DollarsPremiumaPremium Tax CreditbNet Premium PaidActuarial Value of Plan (Percent)cPremiumaPremium Tax CreditbNet Premium PaidActuarial Value of Plan After Cost-Sharing Subsidies (Percent)cCurrent Law in a State Not Expanding Medicaid21 years old4,30004,3005,10005,100
+
+40 years old5,50005,5006,50006,500
+
+64 years old12,900012,90015,300015,300
+BCRA in a State Not Expanding Medicaid21 years old3,2002,9003004,1002,9001,200
+
+40 years old5,0004,700300586,4004,7001,70070
+
+64 years old16,00015,70030020,50015,7004,800
+Current Law21 years old4,3003,4009005,1003,4001,700
+
+40 years old5,5004,8007006,5004,8001,700
+
+64 years old12,90012,900015,30013,6001,700
+BCRA21 years old3,2001,9001,3004,1001,9002,200
+
+40 years old5,0003,4001,600586,4003,4003,00070
+
+64 years old16,00014,0002,00020,50014,0006,500
+Current Law21 years old4,30004,3005,10005,100
+
+40 years old5,50005,500606,50006,50070
+
+64 years old12,9008,5004,40015,3008,5006,800
+BCRA21 years old3,20003,2004,10004,100
+
+40 years old5,00005,000586,40006,40070
+
+64 years old16,000016,00020,500020,500
+Current Law21 years old4,30004,3005,10005,100
+
+40 years old5,50005,500606,50006,50070
+
+64 years old12,900012,90015,300015,300
+BCRA21 years old3,20003,2004,10004,100
+
+40 years old5,00005,000586,40006,40070
+
+64 years old16,000016,00020,500020,500
+ContinuedTable 5 - ILLUSTRATIVE EXAMPLE OF SUBSIDIES FOR NONGROUP HEALTH INSURANCE IN 2026Bronze PlanSilver Plan
+8770Single Individual With Annual Income of $11,400 (75 percent of FPL) and Not Eligible for Medicaidd, eSingle Individual With Annual Income of $26,500 (175 percent of FPL)dSingle Individual With Annual Income of $56,800 (375 percent of FPL)d6060Single Individual With Annual Income of $68,200 (450 percent of FPL)d BCRA = Better Care Reconciliation Act; FPL = federal poverty level.Table 5 continued.All dollar figures have been rounded to the nearest $100.c. The actuarial value of a plan is the percentage of costs for covered services that the plan pays. Cost-sharing subsidies are payments made by the federal government to insurers that reduce the cost-sharing amounts (out-of-pocket payments required under insurance policies) for covered people whose income is generally between 100 percent and 250 percent of the FPL. The cost-sharing subsidy amounts in this example would range from $1,100 for a 21-year-old with income at 175 percent of the FPL to $3,350 for a 64-year-old at the same income level. Under current law, cost-sharing subsidies have the effect of increasing the actuarial value of the plan from 70 percent for a typical silver plan to 94 percent for people whose income is at least 100 percent of the FPL and not more than 150 percent; to 87 percent for people with income greater than 150 percent of the FPL and not more than 200 percent; and to 73 percent for people with income greater than 200 percent of the FPL and not more than 250 percent. People whose income is greater than 250 percent of the FPL would receive a standard 70 percent actuarial value when purchasing a silver plan. Under the BCRA, cost-sharing subsidies would be eliminated starting in 2020. Under current law and under the BCRA, insurers are required to offer at least one silver plan and one gold plan in each marketplace in which they offer coverage. Under the BCRA, CBO projects that plans will be available with actuarial values of 58 percent, 70 percent, and 80 percent. The premiums for plans at 70 percent and 80 percent reflect not only the difference in the percentage of costs paid but also the effect of ﬁrisk selection,ﬂ as people with higher expected health care costs are more likely to buy plans with higher actuarial values, and such differences are not fully eliminated by risk adjustment payments.e. The single individuals in this illustration are assumed to be ineligible for Medicaid in each case. Under the ACA, most nondisabled adults who are not pregnant with income less than 138 percent of the FPL are eligible for Medicaid if their state has expanded Medicaid. In most states that have not expanded Medicaid, such people with income less than 100 percent of the FPL are not eligible for either Medicaid or marketplace subsidies. A small number of legal permanent residents who have lived in the United States for less than five years with income less than 100 percent of the FPL are eligible for marketplace subsidies under current law; such circumstances are not reflected in this illustrative example. In CBO™s projections, under current law, about 80 percent of the potential newly eligible population resides in a state that has expanded Medicaid eligibility by 2026; and under the BCRA, about 30 percent of the potential newly eligible population resides in a state that has expanded Medicaid eligibility by 2026.Sources: Congressional Budget Office; staff of the Joint Committee on Taxation.a. For this illustration, CBO projected the average national premiums for a 21-year-old in the nongroup health insurance market in 2026 both under current law and under the BCRA. On the basis of those amounts, CBO calculated premiums for a 40-year-old and a 64-year-old, assuming that the person lives in a state that uses the federal default age-rating methodology, which limits variation of premiums to a ratio of 3 to 1 for adults under current law and 5 to 1 for adults under the BCRA. CBO projects that, under current law, most states will use the default 3-to-1 age-rating curve; under the BCRA, CBO projects, most would use an age-rating curve with a maximum ratio of 5 to 1.d. Income levels reflect modified adjusted gross income, which equals adjusted gross income plus untaxed Social Security benefits, foreign earned income that is excluded from adjusted gross income, tax-exempt interest, and income of dependent filers. CBO projects that in 2026, a modified adjusted gross income of $11,400 will equal 75 percent of the FPL, an income of $26,500 will equal 175 percent of the FPL, an income of $56,800 will equal 375 percent of the FPL, and an income of $68,200 will equal 450 percent of the FPL.b. Under current law, premium tax credits are calculated as the difference between the reference premium and a specified percentage of income for a person with income at a given percentage of the FPL. The reference premium under current law is the premium for the second-lowest-cost silver plan available in the marketplace in the area in which the person resides. A silver plan covers about 70 percent of the costs of covered benefits. The reference premium under the BCRA in a state without a waiver is the premium for a benchmark plan that covers 58 percent of the cost of covered benefits. CBO™s projection of the maximum percentage of income for calculating premium tax credits in 2026 takes into account the probability, estimated in CBO™s March 2016 baseline and under the BCRA, that additional indexing may apply. Such additional indexing applies if total federal subsidies through the marketplaces (including subsidies for both premiums and cost sharing) exceed a specified percentage of gross domestic product in the preceding year.  Under current law, that percentage is 0.504; under the BCRA, that percentage is 0.4.

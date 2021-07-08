@@ -1,0 +1,75 @@
+To learn more or opt-out, read our Cookie Policy.
+ Please also read our Privacy Notice and Terms of Use, which became effective December 20, 2019.
+ By choosing I Accept, you consent to our use of cookies and other tracking technologies.
+ You can help by supporting Vox's explanatory journalism with a financial contribution today.
+ ×             The Senate voted to let the government keep surveilling your online life without a warrant  Many senators wanted to forbid the government from secretly collecting information about your internet habits, but an amendment failed by just one vote.
+ By    Sara Morrison         Updated          May 14, 2020, 4:46pm EDT            Share this story     Share this on Facebook      Share this on Twitter         Share All sharing options       Share All sharing options for: The Senate voted to let the government keep surveilling your online life without a warrant             Reddit        Pocket          Flipboard      Email                     Sen. Mitch McConnell, a vocal opponent of curtailing the government’s surveillance powers, got his way again.
+ Alex Wong/Getty Images     This story is part of a group of stories called        Uncovering and explaining how our digital world is changing — and changing us.
+ During the coronavirus pandemic, many of us have vastly increased the time we spend online and moved many of the activities from outside of our homes to the confines of the internet.
+ In the middle of this — and with this shift in mind — the Senate voted on Wednesday not to protect Americans’ internet browsing and search history data from secret and warrantless surveillance by law enforcement.
+ The measure needed 60 votes to pass.
+ It got 59.
+ The outcome is especially frustrating since four senators didn’t vote on the amendment at all, and at least one would have voted yes.
+ Lamar Alexander couldn’t vote because he’s quarantined.
+ Two others — Ben Sasse and Bernie Sanders — didn’t respond to request for comment on where they were during the vote.
+ An aide told Politico that Patty Murray would have voted yes had she been there, but the senator was not in Washington, DC, when the vote occurred.
+ In the end, the result didn’t come down to party — there were plenty of Republican and Democratic votes on both sides — but attendance.
+ The vote was for an amendment to the controversial Patriot Act, which would have expressly forbidden internet browsing and history from what the government is allowed to collect through the approval of a secret court.
+ Currently, there is no such provision, which means there’s nothing stopping the government from doing so.
+ The government has an established history of using this method to collect certain types of data about millions of Americans without their knowledge.
+ “There is little information that is more personal than your web browsing history,” Sen. Ron Wyden, a Democrat who sponsored the amendment, told Recode.
+ “If you know that a person is visiting the website of a mental health professional, or a substance abuse support group, or a particular political organization, or a particular dating site, you know a tremendous amount of private and personal information about that individual.” “Getting access to somebody’s web browsing history is almost like spying on their thoughts,” Wyden added.
+ “This level of surveillance absolutely ought to require a warrant.” A little history is useful here.
+ The Patriot Act has been in place since 2001, when it was drafted as a response to the intelligence failures leading up to the 9/11 terrorist attacks.
+ What was once seen by many (but not all) as a necessary privacy compromise to prevent terrorism became a vehicle to secretly collect data on millions of people who weren’t even suspected of a crime.
+ The Patriot Act gained newfound infamy in 2013, when former National Security Agency (NSA) contractor Edward Snowden leaked highly classified documents that revealed how the law was being used to secretly surveil Americans.
+ Among other things, the Patriot Act permitted the federal government to collect millions of phone records through a provision best known as Section 215.
+ This part of the law allowed the government to simply get an order from a secret court established by the Foreign Intelligence Surveillance Act (FISA).
+ This court had little oversight and approved nearly every request that came before it, provided that the government said the information was relevant to an investigation into foreign terrorism or intelligence.
+ When the Patriot Act came up for renewal in 2015, Congress enacted a number of reforms in response to the public outcry over the Snowden revelations.
+ This led to a law called the USA Freedom Act.
+ Among the reforms therein were provisions for increased oversight and transparency.
+ Requests for data such as phone records had to be limited in scope, and bulk collections such as those revealed by Snowden were forbidden.
+ But some privacy advocates didn’t think the USA Freedom Act went far enough, and a recent audit by the Department of Justice’s inspector general found the FISA court system was still being abused.
+ The fact that the investigation into the Trump campaign was conducted partially through FISA applications — some of which, the IG found, had inaccuracies and omissions — made reforms to the USA Freedom Act and the secretive court system particularly desirable to some Republicans.
+ Fortunately for them, the USA Freedom Act came up for renewal this year.
+ The House passed a reauthorization bill in March, but the Senate wasn’t able to take it up until now (the pandemic didn’t help matters).
+ During the intervening period, the USA Freedom Act expired, which makes its renewal a pressing issue.
+ The House’s bill included some reforms, like forbidding the warrantless collection of Americans’ phone records and cell tower or GPS location data.
+ But privacy-minded members of Congress criticized it for not going far enough, and 136 of them, including 75 Democrats, voted against its passage.
+ The bill that passed the House in March went to the Senate this week.
+ Wyden’s amendment to the bill, which was cosponsored by Republican Sen. Steve Daines, would have expressly forbidden collecting “internet website browsing” and “internet search history” through a FISA application.
+ (The reauthorization bill passed on Thursday.)
+ Both Wyden and Daines made speeches on the floor in support for their amendment, each presenting it in a way that would be particularly appealing to their party’s interests.
+ While Daines said it would help prevent a politically motivated FBI from abusing FISA courts to secretly investigate President Trump’s campaign and advisors, Wyden said it would prevent abuse of FISA courts to secretly investigate Trump’s perceived enemies by Attorney General Bill Barr’s politically motivated Department of Justice.
+ Both said the amendment would further protect Americans’ privacy.
+ In his impassioned speech, Wyden brought up the pandemic, and Americans’ increased use of the internet because of it.
+ “Is it right, when millions of law-abiding Americans are at home, for their government to be able to spy on their internet searches and their web browsing without a warrant?” the senator asked, noting that the internet has become many people’s only connection to the outside world.
+ “We are more vulnerable to abusive surveillance than ever before.” It seems that enough senators thought it was, in fact, right.
+ One of the “no” votes came from Sen. Mitch McConnell, whose love of the Patriot Act and all of its privacy-invading provisions is enduring and well-known.
+ McConnell was even close to proposing his own amendment to counter the one from Wyden and Daines.
+ McConnell’s amendment would have deliberately included internet search history and web browsing data in a list of records that the government can request through FISA courts.
+ This was already allowed, so McConnell’s amendment wouldn’t have changed anything except codifying it into law.
+ But that amendment never came to the floor, likely because McConnell knew the Wyden-Daines amendment wouldn’t get enough votes.
+ “At the end of the day, this is about protecting privacy,” Daines said on the Senate floor, ahead of the amendment vote.
+ But at the end of the day, the Senate didn’t want to do that.
+ Update, May 14: The Patriot Act reauthorization bill passed the Senate on Thursday, without the Wyden-Daines amendment (but with an amendment from Sens.
+ Leahy and Lee that added some independent oversight to the FISA court).
+ The vote was 80-16.
+ Murray, now back in DC, was among the no votes.
+ Open Sourced is made possible by Omidyar Network.
+ All Open Sourced content is editorially independent and produced by our journalists.
+ Will you help keep Vox free for all?
+ Millions of people rely on Vox to understand how the policy decisions made in Washington, from health care to unemployment to housing, could impact their lives.
+ Our work is well-sourced, research-driven, and in-depth.
+ And that kind of work takes resources.
+ Even after the economy recovers, advertising alone will never be enough to support it.
+ If you have already made a contribution to Vox, thank you.
+ If you haven’t, help us keep our journalism free for everyone by making a financial contribution today, from as little as $3.
+ In This Stream   Open Sourced: exposing and explaining the hidden consequences of tech    The hidden trackers in your phone, explained   The Senate voted to let the government keep surveilling your online life without a warrant   How ads follow you around the internet     View all 18 stories        Next Up on     Open Sourced    YouTube is awash with election misinformation — and it isn’t taking it down   No, Joe Biden did not mysteriously gain 138,000 Michigan votes all at once   Technical glitches on Election Day are annoying, but they are not unusual   Why the Trump campaign is going all-in on YouTube    Facebook glitch blocks certain political ads, raising new questions about transparency   FBI warns that hackers are targeting hospitals while coronavirus admissions surge                The Latest                                        YouTube is awash with election misinformation — and it isn’t taking it down Videos questioning the election results are racking up hundreds of thousands of views.
+ Facebook took down a massive “Stop the Steal” group after its members called for violence Stop the Steal gained more than 350,000 members on Facebook in less than a day.
+ What’s really going on with the mail-in ballots the US Postal Service can’t trace  The case of the supposed 300,000 missing mail-in ballots isn’t what it seems.
+ The New York Times is thriving in chaos People spent the summer freaking out and subscribing to the paper of record.
+ No, Joe Biden did not mysteriously gain 138,000 Michigan votes all at once False claims, retweeted by the president, about the Michigan vote tabulation exploited a counting error that’s been resolved.
+ Subscribe                The Latest on Vox           Silicon Valley leaders celebrate the Biden win — and send a message to Trump          By    Theodore Schleifer                   Trump is attempting a coup in plain sight          By    Ezra Klein                   Democrats capture Georgia US House seat held by Republicans since 1995          By    Ian Millhiser                   The US broke voting records in a pandemic          By    Valerie Lapinski                   Joe Biden reacts to his presidential victory: “It’s time for America to unite and to heal”          By    Li Zhou                   Trump has rejected media calls of a Joe Biden victory          By    Katelyn Burns                      Chorus     Terms of Use Privacy Notice Cookie Policy Do Not Sell My Personal Info Licensing FAQ Accessibility Platform Status   Contact Send Us a Tip Masthead About Us Editorial Ethics and Guidelines    Vox MediaVox Media Vox Media logo.
+ Advertise with us Jobs @ Vox Media      © 2020 Vox Media, LLC.

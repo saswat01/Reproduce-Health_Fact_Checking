@@ -1,0 +1,77 @@
+document.body.className + ' js-enabled' : 'js-enabled');   Skip to main content        Tell us whether you accept cookies We use cookies to collect information about how you use GOV.UK.
+ We use this information to make the website work as well as possible and improve government services.
+ Accept all cookies   Set cookie preferences       You’ve accepted all cookies.
+ You can change your cookie settings at any time.
+ Hide                     GOV.UK         Show or hide search      Search on GOV.UK      Search                         Coronavirus (COVID-19)         National restrictions in England from 5 November              The UK and EU transition         Take action now for new rules in 2021             Home   Health and social care   Public health   Health protection   Infectious diseases   SARS-CoV-2 RNA testing: assurance of positive results during periods of low prevalence           Public Health England           Research and analysis     Assurance of SARS-CoV-2 RNA positive results during periods of low prevalence    Updated 16 October 2020        Contents    Purpose   Justification   Rationale   Recommended actions     Print this page          © Crown copyright 2020    This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+ To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+ Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+ This publication is available at https://www.gov.uk/government/publications/sars-cov-2-rna-testing-assurance-of-positive-results-during-periods-of-low-prevalence/assurance-of-sars-cov-2-rna-positive-results-during-periods-of-low-prevalence        Purpose This document provides guidance for procedures to be implemented in laboratories to provide assurance of positive SARS-CoV-2 RNA results during periods of low prevalence, when there is a reduction in the predictive value of positive test results.
+ This guidance is applicable to all laboratories to help guide the interpretation of positive results.
+ The document provides background information, explains the problem and details actions that should be considered by all laboratories providing SARS-CoV-2 RNA testing.
+ Justification  Results of SARS-CoV-2 RNA testing are used to inform immediate public health action including infection control measures, epidemiological estimations of disease burden, contact tracing and investigations of transmission events.
+ The results of laboratory testing therefore have important implications for public health delivery in addition to individual patient management.
+ As disease prevalence falls, the positive predictive value of diagnostic tests reduces.
+ Detailed understanding of assay performance is necessary to guide interpretation of test results.
+ Rationale No laboratory test can achieve 100% sensitivity and 100% specificity.
+ The aim of laboratories should be to maximise both test sensitivity and test specificity through careful optimisation and validation of assays.
+ Currently, problems of interpretation are seen particularly in relation to positive results at the limit of detection.
+ The schematic diagram below (adapted from BMJ Learning) illustrates the detection of SARS-CoV-2 RNA (shown by the blue line).
+ Positive results at the limit of detection can be seen in the early stages of infection (before the person becomes capable of transmission of the infection) or late in infection when the risk of transmission is low or very low (periods indicated by the dotted red line).
+ Figure 1 - Timeline of detection of SARS-CoV-2 RNA in infection Positive test results at the limit of detection that occur early in the cycle of infection are important as these represent individuals who may go on to transmit infection.
+ Positive test results at the limit of detection that occur late in the cycle of infection represent individuals with a low or very low risk of transmission, as a result of the decline in infectious virus production or remnants of viral RNA in respiratory secretions.
+ The clinical significance of these positive results, at the limit of detection of the assay, are difficult to interpret in the absence of a clinical history and context.
+ Possible reasons for the non-repeatability of these results include stochastic effects at the limit of detection of the assay, true prolonged low level detection of the virus, and very rarely, analytical errors in sample handling.
+ These results should not be labelled as false positive in the absence of complete case-by-case work-up including retesting of existing samples, resampling for new testing and determination of clear evidence of analytical errors or laboratory contamination.
+ Within Pillar 1 laboratories, there will be documented patient records, laboratory records and availability of fresh sample to clarify clinical significance.
+ In Pillar 2 laboratories (community testing), patient identifiable data is not available within laboratories and extra-laboratory collection of this information is difficult prior to contact tracing and history taking.
+ Recommended actions All laboratories should determine the threshold for a positive result at the limit of detection based on the in-use assay.
+ It is necessary to strike a balance between the risk of false positive test results and an acceptable level of delay in test turnaround time (time taken to report results).
+ Positive test results at the limit of detection – Pillar 1 laboratories Retest existing sample in the same or an alternate nucleic acid amplification assay of equivalent sensitivity and specificity.
+ If necessary, request a repeat sample.
+ Subjects should be advised to self isolate pending the results of the repeat or retested sample.
+ Contact tracing should be initiated if there is a positive result from the repeat or retested sample.
+ A positive result at the limit of detection from the repeat or retested sample is suggestive of the late stage cycle of infection, but should be interpreted in the context of the clinical presentation.
+ Isolation and contact tracing should be determined based on whether testing is thought to reflect early or late stage infection.
+ Positive test results at the limit of detection – Pillar 2 laboratories Request a repeat sample and advise self isolation pending the results of the second sample.
+ Contact tracing should only be initiated if there is a positive result from the repeat sample.
+ A positive result at the limit of detection from the repeat sample is suggestive of the late stage cycle of infection and therefore contact tracing and further self isolation is not advised.
+ Determination of low prevalence Changes in population prevalence affect the positive predictive value of diagnostic tests.
+ As population prevalence rises, the frequency of unconfirmed ‘false positives’ will reduce.
+ Once population prevalence rises above a certain threshold, confirmatory testing as recommended above will not be necessary or sustainable.
+ Laboratories should make an assessment of the disease prevalence threshold at which they stop/start confirmatory testing.
+ Two possible strategies are proposed:   Use publicly available population prevalence estimates, such as from the Office for National Statistics (ONS) or Imperial College REACT1 study.
+ A threshold of This document provides guidance for procedures to be implemented in laboratories to provide assurance of positive SARS-CoV-2 RNA results during periods of low prevalence, when there is a reduction in the predictive value of positive test results.
+ This guidance is applicable to all laboratories to help guide the interpretation of positive results.
+ The document provides background information, explains the problem and details actions that should be considered by all laboratories providing SARS-CoV-2 RNA testing. "
+ The results of laboratory testing therefore have important implications for public health delivery in addition to individual patient management.
+ \n As disease prevalence falls, the positive predictive value of diagnostic tests reduces.
+ \n Detailed understanding of assay performance is necessary to guide interpretation of test results.
+ The aim of laboratories should be to maximise both test sensitivity and test specificity through careful optimisation and validation of assays.
+ Currently, problems of interpretation are seen particularly in relation to positive results at the limit of detection.
+ The schematic diagram below (adapted from BMJ Learning ) illustrates the detection of SARS-CoV-2 RNA (shown by the blue line).
+ Positive results at the limit of detection can be seen in the early stages of infection (before the person becomes capable of transmission of the infection) or late in infection when the risk of transmission is low or very low (periods indicated by the dotted red line).
+ \n Figure 1 - Timeline of detection of SARS-CoV-2 RNA in infection Positive test results at the limit of detection that occur early in the cycle of infection are important as these represent individuals who may go on to transmit infection.
+ Positive test results at the limit of detection that occur late in the cycle of infection represent individuals with a low or very low risk of transmission, as a result of the decline in infectious virus production or remnants of viral RNA in respiratory secretions.
+ The clinical significance of these positive results, at the limit of detection of the assay, are difficult to interpret in the absence of a clinical history and context.
+ Possible reasons for the non-repeatability of these results include stochastic effects at the limit of detection of the assay, true prolonged low level detection of the virus, and very rarely, analytical errors in sample handling.
+ These results should not be labelled as false positive in the absence of complete case-by-case work-up including retesting of existing samples, resampling for new testing and determination of clear evidence of analytical errors or laboratory contamination.
+ Within Pillar 1 laboratories, there will be documented patient records, laboratory records and availability of fresh sample to clarify clinical significance.
+ In Pillar 2 laboratories (community testing), patient identifiable data is not available within laboratories and extra-laboratory collection of this information is difficult prior to contact tracing and history taking. "
+ It is necessary to strike a balance between the risk of false positive test results and an acceptable level of delay in test turnaround time (time taken to report results).
+ Positive test results at the limit of detection – Pillar 1 laboratories Retest existing sample in the same or an alternate nucleic acid amplification assay of equivalent sensitivity and specificity.
+ If necessary, request a repeat sample.
+ Subjects should be advised to self isolate pending the results of the repeat or retested sample.
+ Contact tracing should be initiated if there is a positive result from the repeat or retested sample.
+ A positive result at the limit of detection from the repeat or retested sample is suggestive of the late stage cycle of infection, but should be interpreted in the context of the clinical presentation.
+ Isolation and contact tracing should be determined based on whether testing is thought to reflect early or late stage infection.
+ Positive test results at the limit of detection – Pillar 2 laboratories Request a repeat sample and advise self isolation pending the results of the second sample.
+ Contact tracing should only be initiated if there is a positive result from the repeat sample.
+ A positive result at the limit of detection from the repeat sample is suggestive of the late stage cycle of infection and therefore contact tracing and further self isolation is not advised.
+ Determination of low prevalence Changes in population prevalence affect the positive predictive value of diagnostic tests.
+ As population prevalence rises, the frequency of unconfirmed ‘false positives’ will reduce.
+ Once population prevalence rises above a certain threshold, confirmatory testing as recommended above will not be necessary or sustainable.
+ Laboratories should make an assessment of the disease prevalence threshold at which they stop/start confirmatory testing.
+ Two possible strategies are proposed: \n \n  Use publicly available population prevalence estimates, such as from the Office for National Statistics (ONS) or Imperial College REACT1 study .
+ A threshold of &lt;0.5% population prevalence is suggested as indicative of a period of low prevalence.
+ \n \n \n  Implement a threshold based on local laboratory data indicating the proportion of positive tests.
+ Once positive tests within the laboratory exceed 5% to 8% of total tests performed, low prevalence assurance strategies may be discontinued.
