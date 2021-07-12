@@ -57,7 +57,7 @@ class output():
         else:
             self.bart_model = bart_model
             self.bart_tokenizer = bart_tokenizer
-
+        self.k = k
         self.sentence_model = sentence_model
         
 
