@@ -1,6 +1,5 @@
 """
 This function is used to test the results using the fine-tuned models(bert for veracity prediction and bart for text summarization).
-Please go to the if __name__=='__main__' section. Uncomment the lines instructed to uncomment and run the file.
 
 You have to provide a main text which should be a paragraph(string type) of at least k sentences 
 and a claim sentence/sentences to test the model.
@@ -10,7 +9,7 @@ Note: k is defined as 5 by default. The bert model used is bert-base-uncased.
 
 from sys import path
 from nltk import data
-import numpy as np # linear algebra
+import numpy as np 
 import pandas as pd
 import random
 import transformers
