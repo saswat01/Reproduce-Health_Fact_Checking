@@ -36,3 +36,16 @@ OR
 ```setup
 python veracity_prediction_scibert/train.py
 ```
+## Metrics for veracity prediction
+
+For displaying metrics run:
+
+BERT
+```setup
+python veracity_prediction_bert-base/metrics.py
+```
+
+Sci-BERT
+```setup
+python veracity_prediction_scibert/metrics.py
+```
