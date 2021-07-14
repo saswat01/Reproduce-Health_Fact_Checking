@@ -1,6 +1,8 @@
 __pycache__/
 .ipynb_checkpoints
 lightning_logs/
+/lightning_logs/
+lightning_logs
 /__pycache__/
 __pycache__
 
