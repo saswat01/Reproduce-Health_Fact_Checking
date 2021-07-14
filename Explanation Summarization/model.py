@@ -1,24 +1,25 @@
 import torch
+import config
 from data import Data
 from tqdm.auto import tqdm
 from datasets import load_metric
 from transformers import AdamW, get_scheduler
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-  
-
-config = {'lr':5e-5}
 
 
-class Training:
-    def __init__(self, train_data_path, eval_data_path, test_data_path, hf_name = 'sshleifer/distilbart-cnn-6-6'):
-        self.model = AutoModelForSeq2SeqLM.from_pretrained(hf_name)
-        self.tokenizer = AutoTokenizer.from_pretrained(hf_name)
+class BartModel:
+    def __init__(self, train_data_path=config.train_path, eval_data_path=config.eval_path, test_data_path=config.test_path, hf_name = 'sshleifer/distilbart-cnn-6-6', eval = False):
+        if eval:
+            pass
+        else:
+            self.model = AutoModelForSeq2SeqLM.from_pretrained(hf_name)
+            self.tokenizer = AutoTokenizer.from_pretrained(hf_name)
         loader = Data(train_data_path, test_data_path, eval_data_path)
         self.train_dataloader, self.eval_dataloader, self.test_dataloader = loader.get_pt_dataloaders(self.tokenizer)
         self.is_trained = False
 
-    def train(self, n_epochs=3):
-        optimizer = AdamW(self.model.parameters(), lr=config['lr'])
+    def train(self, n_epochs):
+        optimizer = AdamW(self.model.parameters(), lr=config.lr)
         num_training_steps = n_epochs * len(self.train_dataloader)
         lr_scheduler = get_scheduler(
             "linear",
@@ -32,7 +33,7 @@ class Training:
 
         for epoch in range(n_epochs):
             for batch in self.train_dataloader:
-                batch = {k:v.to(config['device']) for k, v in batch.items()}
+                batch = {k:v.to(config.device) for k, v in batch.items()}
                 outputs = self.model(**batch)
                 loss = outputs.loss
                 loss.backward()
@@ -68,7 +69,3 @@ class Training:
             metric.add_batch(predictions=decoded_preds, references=decoded_labels)
 
         print(metric.compute())
-
-    
-def main():
-    pass
