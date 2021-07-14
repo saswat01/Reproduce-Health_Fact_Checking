@@ -66,7 +66,7 @@ class veracityPreds(pl.LightningModule):
 
   def configure_optimizers(self):
 
-    optimizer = AdamW(self.parameters(), lr=1e-6)
+    optimizer = AdamW(self.parameters(), lr=config.LEARNING_RATE)
 
     scheduler = get_linear_schedule_with_warmup(
       optimizer,
@@ -81,4 +81,7 @@ class veracityPreds(pl.LightningModule):
         interval='step'
       )
     )
+<<<<<<< HEAD
     
+=======
+>>>>>>> dfd5ee4741d29e267f2c3b0ccd7521b077f408a1
