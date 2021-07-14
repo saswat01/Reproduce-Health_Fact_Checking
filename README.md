@@ -64,4 +64,4 @@ Sci-Bert model ahceives a test accuracy of 62.59% with the parameters same as th
 
 Classification report for Sci-BERT {0:False, 1:True, 2:Mixture, 3:Unproven}:
 
-
+<img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_scibert/scibert_result.png" alt="sci-bert_classification_report">
