@@ -3,4 +3,6 @@ __pycache__/
 lightning_logs/
 /lightning_logs/
 lightning_logs
+/__pycache__/
+__pycache__
 
