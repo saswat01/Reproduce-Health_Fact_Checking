@@ -26,4 +26,13 @@ OR
 ```setup
 cd veracity_prediction_scibert
 ```
-Open the config.py([bert-base-uncased](https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_bert-base/config.py), [scibert](https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_scibert/config.py)) file. Make sure to make an empty folder/directory inside the train directory for saving the checkpoints. You should change the checkpoint path to this directory. Also, hyper parameters like learning rate, epochs, batch size have been set to the best results but can be changed to preform experiment.
+Open the config.py([bert-base-uncased](https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_bert-base/config.py), [scibert](https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_scibert/config.py)) file. Make sure to make an empty folder/directory inside the bert or scibert directory for saving the checkpoints. You should provide this checkpoint path in the config.py file. Also, hyper parameters like learning rate, epochs, batch size have been set to the best results but can be changed to preform experiment. Change the training, validation and test directory path to match your requirements(please use the [processed](https://github.com/saswat01/Reproduce-Health_Fact_Checking/tree/main/data/processed) data we have provided in the repository).
+
+After deciding your parameters and changing path to data directories run the following to train your model:
+```setup
+python veracity_prediction_bert-base/train.py
+```
+OR
+```setup
+python veracity_prediction_scibert/train.py
+```
