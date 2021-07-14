@@ -1,6 +1,6 @@
 import config
 import transformers
-from transformers import BertTokenizerFast as BertTokenizer, BertModel, AdamW, get_linear_schedule_with_warmup
+from transformers import AutoModel
 from transformers import AdamW, get_linear_schedule_with_warmup
 import pytorch_lightning as pl
 import torch
@@ -10,7 +10,7 @@ class veracityPreds(pl.LightningModule):
 
   def __init__(self, n_classes: int, n_training_steps=None, n_warmup_steps=None):
     super().__init__()
-    self.bert = BertModel.from_pretrained("bert-base-uncased")
+    self.bert = AutoModel.from_pretrained("allenai/scibert_scivocab_uncased")
     self.drop = nn.Dropout(p=0.3)
     self.classifier = nn.Linear(self.bert.config.hidden_size, n_classes)
     self.n_training_steps = n_training_steps
@@ -66,7 +66,7 @@ class veracityPreds(pl.LightningModule):
 
   def configure_optimizers(self):
 
-    optimizer = AdamW(self.parameters(), lr=1e-6)
+    optimizer = AdamW(self.parameters(), lr=config.LEARNING_RATE)
 
     scheduler = get_linear_schedule_with_warmup(
       optimizer,

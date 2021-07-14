@@ -81,3 +81,4 @@ class veracityPreds(pl.LightningModule):
         interval='step'
       )
     )
+    
