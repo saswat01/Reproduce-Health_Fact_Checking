@@ -51,11 +51,17 @@ python veracity_prediction_scibert/metrics.py
 ```
 
 ## Results
+#### BERT RESULTS
+BERT model acheives a test accuracy of 63.40% on test dataset with parameters batch_size=10, learning_rate=1e-6 and epochs=4. Our model was trained on Google Colab with Nvidia T8 GPU.
 
-Our BERT model acheives a test accuracy of 63.40% on test dataset with parameters batch_size=10, learning_rate=1e-6 and epochs=4. Our model was trained on Google Colab with Nvidia T8 GPUs.
-
-You can have a look at the bert models classification report below(0:False, 1:True, 2:Mixture, 3:Unproven):
+You can have a look at the bert models classification report below {0:False, 1:True, 2:Mixture, 3:Unproven}:
 
 
 <img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_bert-base/bert_result.png" alt="bert_classification_report">
+
+#### Sci-BERT RESULTS
+Sci-Bert model ahceives a test accuracy of 62.59% with the parameters same as the ones used for the BERT model. This model was also trained on Google Colab with Nvidia T8 GPU.
+
+Classification report for Sci-BERT {0:False, 1:True, 2:Mixture, 3:Unproven}:
+
 
