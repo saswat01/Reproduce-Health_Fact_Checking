@@ -16,7 +16,7 @@ def _parse_args():
 
 def main():
     args = _parse_args()
-    Model = BartModel(config.train_path, config.eval_path, config.test_path, args.model)
+    Model = BartModel(config.train_path, config.eval_path, config.test_path, config.model_name[args.model])
     Model.train(args.epochs)
     if args.save_model:
         Model.save_model(args.model_path)
