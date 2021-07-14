@@ -65,3 +65,20 @@ Sci-Bert model ahceives a test accuracy of 62.59% with the parameters same as th
 Classification report for Sci-BERT {0:False, 1:True, 2:Mixture, 3:Unproven}:
 
 <img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_scibert/scibert_result.png" alt="sci-bert_classification_report">
+
+
+## References
+```
+@inproceedings{kotonya-toni-2020-explainable,
+    title = "Explainable Automated Fact-Checking for Public Health Claims",
+    author = "Kotonya, Neema  and
+      Toni, Francesca",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.623",
+    pages = "7740--7754",
+}
+```
