@@ -3,6 +3,8 @@
 This repository is the implementation of [Explainable Automated Fact-Checking for Public Health Claims](https://arxiv.org/abs/2010.09926). Also, this is the submission of our work under the ML Reproducibility Challenge 2021 Spring.
 The repository reproduces the veracity prediction as mentioned in the paper with BERT(base-uncased) and Sci-BERT models. We acheive accuracy close to that mentioned in the paper.
 
+Abstractive?
+
 ## Requirements
 
 To install requirements:
@@ -46,13 +48,13 @@ python veracity_prediction_bert-base/metrics.py
 ```
 
 Sci-BERT
-```setup
+```bash
 python veracity_prediction_scibert/metrics.py
 ```
 
 ## Results
 #### BERT RESULTS
-BERT model acheives a test accuracy of 63.40% on test dataset with parameters batch_size=10, learning_rate=1e-6 and epochs=4. Our model was trained on Google Colab with Nvidia T8 GPU.
+BERT model acheives a test accuracy of 63.40% on test dataset with parameters batch_size=10, learning_rate=1e-6 and epochs=4. Our model was trained on Google Colab with Nvidia T4 GPU.
 
 You can have a look at the bert models classification report below {0:False, 1:True, 2:Mixture, 3:Unproven}:
 
@@ -71,7 +73,7 @@ You can have a look at the bert models classification report below {0:False, 1:T
 
 
 #### Sci-BERT RESULTS
-Sci-Bert model ahceives a test accuracy of 62.59% with the parameters same as the ones used for the BERT model. This model was also trained on Google Colab with Nvidia T8 GPU.
+Sci-Bert model ahceives a test accuracy of 62.59% with the parameters same as the ones used for the BERT model. This model was also trained on Google Colab with Nvidia T4 GPU.
 
 Classification report for Sci-BERT {0:False, 1:True, 2:Mixture, 3:Unproven}:
 
@@ -84,9 +86,17 @@ Classification report for Sci-BERT {0:False, 1:True, 2:Mixture, 3:Unproven}:
 |True         | 0.70      |  0.83   |    0.76  | 599     |
 |Mixture      | 0.36      |  0.04   |    0.08  | 201     |
 |Unproven     | 0.00      |  0.00   |    0.00  | 47      |
-|macro avg    | 0.40      | 0.39    |    0.36  |         | 
-|weighted avg | 0.57      | 0.63    |    0.57  |         | 
+|macro avg    | 0.40      | 0.39    |    0.36  |         |
+|weighted avg | 0.57      | 0.63    |    0.57  |         |
 
+## Extractive and Abstractive Summarization
+To verify the veracity prediction an extractive abstractive summarization can also be generated against explanation for each claim. As given in the paper, We used model pretrained on CNN daily-mail dataset from huggingface models library. The Model was trained on Top_k sentences we got while performing cosine similarity between sentences in main_text and claim. For training we used *lr=5e-5*, *batch_size=8* and *epochs=3*. The training was done in google colab environment on Nvidia T4 GPU. The model was tested using rouge score on test data. The results were
+
+|    Metric   | precision | recall  | f1-score |
+|-------------| --------- |-------- | -------- |
+|      R1     | 0.459     |  0.438  |    0.447 |
+|      R2     | 0.165     |  0.158  |    0.161 |
+|      RL     | 0.395     |  0.377  |    0.385 |
 
 ## References
 ```
