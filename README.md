@@ -57,5 +57,5 @@ Our BERT model acheives a test accuracy of 63.40% on test dataset with parameter
 You can have a look at the bert models classification report below(0:False, 1:True, 2:Mixture, 3:Unproven):
 
 
-<img src ="https://drive.google.com/file/d/1SqEJLdc7-h0SRa63PG_upNZ0tFjXczPX/view?usp=sharing" alt="bert_classification_report">
+<img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_bert-base/bert_result.png" alt="bert_classification_report">
 
