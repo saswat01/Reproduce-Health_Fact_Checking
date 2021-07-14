@@ -98,6 +98,21 @@ To verify the veracity prediction an extractive abstractive summarization can al
 |      R2     | 0.165     |  0.158  |    0.161 |
 |      RL     | 0.395     |  0.377  |    0.385 |
 
+To train the model on dataset you can use this command
+```bash
+python Explanation_Summarization/train.py --model='bart'
+```
+
+If you want to save the model after training you can do it by providing additional arguments
+```bash
+python Explanation_Summarization/train.py --model='bart' --epochs=4 --save_model=True --model_path='path'
+```
+
+You can evaluate the trained model on test data. You can provide the path to test data in config file
+```bash
+python Explanation_Summarization/eval.py --path="Path to the model checkpoint"
+```
+
 ## References
 ```
 @inproceedings{kotonya-toni-2020-explainable,
