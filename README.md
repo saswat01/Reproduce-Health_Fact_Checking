@@ -59,12 +59,33 @@ You can have a look at the bert models classification report below {0:False, 1:T
 
 <img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_bert-base/bert_result.png" alt="bert_classification_report">
 
+
+|class/ metric| precision | recall  | f1-score | support |
+|-------------| --------- |-------- | -------- |---------|
+|False        | 0.51      |  0.77   |    0.61  | 388     |  
+|True         | 0.75      |  0.80   |    0.77  | 599     |
+|Mixture      | 0.14      |  0.00   |    0.01  | 201     |
+|Unproven     | 0.00      |  0.00   |    0.00  | 45      |
+|macro avg    | 0.35      | 0.39    |    0.35  |         | 
+|weighted avg | 0.55      | 0.63    |    0.57  |         | 
+
+
 #### Sci-BERT RESULTS
 Sci-Bert model ahceives a test accuracy of 62.59% with the parameters same as the ones used for the BERT model. This model was also trained on Google Colab with Nvidia T8 GPU.
 
 Classification report for Sci-BERT {0:False, 1:True, 2:Mixture, 3:Unproven}:
 
 <img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_scibert/scibert_result.png" alt="sci-bert_classification_report">
+
+
+|class/ metric| precision | recall  | f1-score | support |
+|-------------| --------- |-------- | -------- |---------|
+|False        | 0.54      |  0.69   |    0.61  | 388     |  
+|True         | 0.70      |  0.83   |    0.76  | 599     |
+|Mixture      | 0.36      |  0.04   |    0.08  | 201     |
+|Unproven     | 0.00      |  0.00   |    0.00  | 47      |
+|macro avg    | 0.40      | 0.39    |    0.36  |         | 
+|weighted avg | 0.57      | 0.63    |    0.57  |         | 
 
 
 ## References
