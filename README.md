@@ -55,6 +55,7 @@ python veracity_prediction_scibert/metrics.py
 Our BERT model acheives a test accuracy of 63.40% on test dataset with parameters batch_size=10, learning_rate=1e-6 and epochs=4. Our model was trained on Google Colab with Nvidia T8 GPUs.
 
 You can have a look at the bert models classification report below(0:False, 1:True, 2:Mixture, 3:Unproven):
-![alt bert_classification_report](https://drive.google.com/file/d/1SqEJLdc7-h0SRa63PG_upNZ0tFjXczPX/view?usp=sharing)
 
+
+<img src ="https://drive.google.com/file/d/1SqEJLdc7-h0SRa63PG_upNZ0tFjXczPX/view?usp=sharing" alt="bert_classification_report">
 
