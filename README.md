@@ -113,6 +113,13 @@ You can evaluate the trained model on test data. You can provide the path to tes
 python Explanation_Summarization/eval.py --path="Path to the model checkpoint"
 ```
 
+## Testing
+
+To test the model either you can use your saved checkpoint from training or can use our pertrained models(will be provided soon).
+```bash
+python test.py --path="Path to the bart checkpoint" "Path to bert checkpoint"
+```
+
 ## References
 ```
 @inproceedings{kotonya-toni-2020-explainable,
