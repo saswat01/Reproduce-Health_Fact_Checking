@@ -60,6 +60,7 @@ You can have a look at the bert models classification report below {0:False, 1:T
 <img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_bert-base/bert_result.png" alt="bert_classification_report">
 
 
+
 |class/ metric| precision | recall  | f1-score | support |
 |-------------| --------- |-------- | -------- |---------|
 |False        | 0.51      |  0.77   |    0.61  | 388     |  
@@ -75,7 +76,8 @@ Sci-Bert model ahceives a test accuracy of 64% with the *batch_size=13* and *epo
 
 Classification report for Sci-BERT {0:False, 1:True, 2:Mixture, 3:Unproven}:
 
-<img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_scibert/scibert_result.png" alt="sci-bert_classification_report">
+<img src ="https://github.com/saswat01/Reproduce-Health_Fact_Checking/blob/main/veracity_prediction_scibert/scibert2_results.png" alt="sci-bert_classification_report">
+
 
 
 |class/ metric| precision | recall  | f1-score | support |
