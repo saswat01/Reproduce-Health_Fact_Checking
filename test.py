@@ -33,7 +33,7 @@ from transformers import BertTokenizer, AutoModelForSeq2SeqLM, AutoTokenizer, pi
 import argparse
 
 
-paths = {"bart":"", 'bert':""}
+paths = {"bart":"", 'bert':"", "test_data":""}
 
 class output():
 
@@ -112,7 +112,6 @@ def _parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--claim", type=str, default='use dataset', help="claim sentence to perform veracity prediction and generate evidence")
     parser.add_argument("--main_text", type=str, default='use dataset', help="The main text describing the claim")
-    parser.add_argument("--top_k_sen", type=str, default="no", help="top_k sentences from main_text related to claim")
     args = parser.parse_args()
     return args
 
