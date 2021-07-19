@@ -126,6 +126,9 @@ You can evaluate the trained model on test data. You can provide the path to tes
 ```bash
 python Explanation_Summarization/eval.py --path="Path to the model checkpoint"
 ```
+## Fine-tuned models
+
+We have made the fine-tuned models available on [Google Drive](https://drive.google.com/drive/folders/1-J89aDK4zy2_1ln1Jxz7YaWPVAXfPp6t?usp=sharing) which can be downloaded and used directly.
 
 ## Testing
 
