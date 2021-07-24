@@ -1,12 +1,17 @@
-import config
+import configparser
 import transformers
 import pytorch_lightning as pl
 import torch
+from transformers import AutoTokenizer
 from torch.utils.data import Dataset, DataLoader
 
 class inputData(Dataset):
     def __init__(self, df):
         self.data = df
+        self.tokenizer = AutoTokenizer.from_pretrained("allenai/scibert_scivocab_uncased")
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        self.config = config
     
     def __len__(self):
         return len(self.data)
@@ -17,10 +22,10 @@ class inputData(Dataset):
         claims = (str(rows.claim)).lower()
         evidences = (str(rows.top_k)).lower()
         label = rows.label
-        encoding = config.TOKENIZER.encode_plus(
+        encoding = self.tokenizer.encode_plus(
             claims+evidences,
             add_special_tokens=True,
-            max_length=config.MAX_LEN,
+            max_length= self.config['Model']['MAX_LEN'],
             return_token_type_ids=False,
             padding='max_length',
             return_attention_mask=True,
