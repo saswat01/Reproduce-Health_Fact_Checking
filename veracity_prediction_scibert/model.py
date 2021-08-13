@@ -1,10 +1,10 @@
-import config
 import transformers
 from transformers import AutoModel
 from transformers import AdamW, get_linear_schedule_with_warmup
 import pytorch_lightning as pl
 import torch
 from torch import nn
+import configparser
 
 class veracityPreds(pl.LightningModule):
 
@@ -65,8 +65,9 @@ class veracityPreds(pl.LightningModule):
 
 
   def configure_optimizers(self):
-
-    optimizer = AdamW(self.parameters(), lr=config.LEARNING_RATE)
+    config = configparser.ConfigParser()
+    config.read('config.ini')
+    optimizer = AdamW(self.parameters(), lr=config['Model']['LEARNING_RATE'])
 
     scheduler = get_linear_schedule_with_warmup(
       optimizer,

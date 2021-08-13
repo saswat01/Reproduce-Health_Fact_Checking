@@ -109,6 +109,14 @@ To verify the veracity prediction an extractive abstractive summarization can al
 |      R2     | 0.165     |  0.158  |    0.161 |
 |      RL     | 0.395     |  0.377  |    0.385 |
 
+A bigger bart model was also trained and the results were
+
+|    Metric   | precision | recall  | f1-score |
+|-------------| --------- |-------- | -------- |
+|      R1     | 0.472     |  0.451  |    0.461 |
+|      R2     | 0.181     |  0.173  |    0.177 |
+|      RL     | 0.409     |  0.392  |    0.4   |
+
 To train the model on dataset you can use this command
 
 ```bash
